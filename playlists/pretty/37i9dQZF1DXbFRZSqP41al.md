@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,405 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,406 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 49 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
 | 50 | [Miss Murder](https://open.spotify.com/track/6A5M31nKvt6GYaGL7XpX2w) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [DECEMBERUNDERGROUND](https://open.spotify.com/album/58M3z3OMcaFtWbPJS5Bb0W) | 3:26 |
 
-Snapshot ID: `MTY0MTEwODY5OCwwMDAwMDAwMGVmYmU0NmFhOGJkYjZjZjVhZDI4ZDdkYTFmMzgzNDIw`
+Snapshot ID: `MTY0MTExMDE3NCwwMDAwMDAwMGVmYmU0NmFhOGJkYjZjZjVhZDI4ZDdkYTFmMzgzNDIw`

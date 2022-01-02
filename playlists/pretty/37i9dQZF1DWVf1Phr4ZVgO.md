@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,349 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,357 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 79 | [You Make Me Feel so Young](https://open.spotify.com/track/1B8RSIxmwcjad7XUJjeCK2) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [To Be Loved](https://open.spotify.com/album/4Yf5LJfqpjgl1a4TBiCi07) | 3:05 |
 | 80 | [Mad About The Boy](https://open.spotify.com/track/4eByri8JfhjBK25aCnwSNF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Love Songs](https://open.spotify.com/album/5pnDpwi8OtuUOvLkQyVCZM) | 2:50 |
 
-Snapshot ID: `MTY0MTEwODMzNywwMDAwMDAwMGY4NjU1Yzg3NGNjYTUwYjU3NWNkNmMzMDllYjdmMzY1`
+Snapshot ID: `MTY0MTEwOTgzOCwwMDAwMDAwMGY4NjU1Yzg3NGNjYTUwYjU3NWNkNmMzMDllYjdmMzY1`

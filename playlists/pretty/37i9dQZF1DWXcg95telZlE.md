@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,559 likes - 79 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,561 likes - 79 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 78 | [Donna \- Single Version](https://open.spotify.com/track/0VE4ayVlGs5DBoqOdgJ0Zv) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:30 |
 | 79 | [Sixteen Tons](https://open.spotify.com/track/5K8vyssaOP8gltF0fGs8X1) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters Golden Hits](https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B) | 2:34 |
 
-Snapshot ID: `MTY0MTEwODM4MiwwMDAwMDAwMDhhZGFkZWY3ZDcyNDBiODYwZmVjMzA1ZmJmMDg4OGVh`
+Snapshot ID: `MTY0MTEwOTg4MiwwMDAwMDAwMDhhZGFkZWY3ZDcyNDBiODYwZmVjMzA1ZmJmMDg4OGVh`

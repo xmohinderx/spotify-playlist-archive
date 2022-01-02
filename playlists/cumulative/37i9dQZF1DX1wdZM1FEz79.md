@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1wdZM1FEz79.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1wdZM1FEz79) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1wdZM1FEz79)
 
-### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
+### [K\-Pop Acoustic](https://open.spotify.com/playlist/6ycQZelJsg1QvKdkpuvD2Q)
 
 > Chillout to the coolest Korean acoustic tunes\. \(Cover: Oh Si Young\(오시영\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 

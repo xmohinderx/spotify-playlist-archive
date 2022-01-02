@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4JAvHpjipBk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4JAvHpjipBk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4JAvHpjipBk)
 
-### [New Music Friday](https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk)
+### [New Music Friday](https://open.spotify.com/playlist/1GSOjLlDjijA8sDsjPBLNc)
 
 > Closing out 2021 with new music from Alesso & Katy Perry, Miranda Lambert, and more!
 

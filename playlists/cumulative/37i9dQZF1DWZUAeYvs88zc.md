@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZUAeYvs88zc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUAeYvs88zc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUAeYvs88zc)
 
-### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc)
+### [Sad Bops](https://open.spotify.com/playlist/2R1WA7zY83lPqBSpXzzos9)
 
 > For all of us dancing on our own.
 

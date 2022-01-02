@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8uVDy7wwKj9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8uVDy7wwKj9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8uVDy7wwKj9)
 
-### [The Brontës](https://open.spotify.com/playlist/37i9dQZF1DX8uVDy7wwKj9)
+### [The Brontës](https://open.spotify.com/playlist/2kjiw3eQmM1CZhFaEZCSHm)
 
 > Settle down with a nice cup of tea and enjoy the novels, stories, poems, and letters of Emily, Charlotte, Anne, and Patrick Branwell Brontë.
 

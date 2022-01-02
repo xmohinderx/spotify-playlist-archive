@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSCaDvxADWZT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSCaDvxADWZT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSCaDvxADWZT)
 
-### [Happy St\. Patrick's Day](https://open.spotify.com/playlist/37i9dQZF1DWSCaDvxADWZT)
+### [Happy St\. Patrick's Day](https://open.spotify.com/playlist/3fPr0H7jPgxWnkTbsRFIwH)
 
 > Sláinte! All the right music to fuel your St\. Patrick's Day.
 

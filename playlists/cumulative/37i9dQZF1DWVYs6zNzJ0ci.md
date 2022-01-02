@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVYs6zNzJ0ci.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVYs6zNzJ0ci) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVYs6zNzJ0ci)
 
-### [Reggae en Español](https://open.spotify.com/playlist/37i9dQZF1DWVYs6zNzJ0ci)
+### [Reggae en Español](https://open.spotify.com/playlist/1vSJyoseXwXuO64ij78YrM)
 
 > Vibraciones rastafari en español\. Foto: Gondwana
 

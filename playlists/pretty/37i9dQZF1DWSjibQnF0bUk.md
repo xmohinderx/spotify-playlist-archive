@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,721 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,724 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 59 | [Tigini \- Remix](https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn) | [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Tigini \(Remix\)](https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp) | 3:16 |
 | 60 | [Ameno Amapiano \- Remix](https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX) | [Goya Menor](https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Ameno Amapiano \(Remix\)](https://open.spotify.com/album/6OgwPuUsCQb7mqyNMr9d2x) | 3:51 |
 
-Snapshot ID: `MTY0MTEwODI3OCwwMDAwMDAwMDcwZDViZGZkODMyNzk3ODc2MTk2MzQyYjY4YWFmYjhm`
+Snapshot ID: `MTY0MTEwOTc4MiwwMDAwMDAwMDcwZDViZGZkODMyNzk3ODc2MTk2MzQyYjY4YWFmYjhm`

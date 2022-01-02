@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,478 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,479 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LT7r8qPxfa.md) - [plain]
 | 99 | [Let Me Tell You Something](https://open.spotify.com/track/5GV0Yeo76b1UubEPVOQKUd) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Let Me Tell You Something](https://open.spotify.com/album/6v5akaxg5phcFicnoMbCDu) | 3:14 |
 | 100 | [Hollow](https://open.spotify.com/track/6kEIzzsomuC1yknzS8TAwD) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Hollow](https://open.spotify.com/album/7wHbT4Baoyi3De2UAI8uOD) | 4:18 |
 
-Snapshot ID: `MTY0MTEwODY1MSwwMDAwMDAwMGRmMTI0MzA1ZDI0YTBlNTAzY2UzY2M2NTk0NGVkZmNl`
+Snapshot ID: `MTY0MTExMDEzNiwwMDAwMDAwMGRmMTI0MzA1ZDI0YTBlNTAzY2UzY2M2NTk0NGVkZmNl`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJNSeeHswcKB.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJNSeeHswcKB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJNSeeHswcKB)
 
-### [Top 50 \- Belgium](https://open.spotify.com/playlist/37i9dQZEVXbJNSeeHswcKB)
+### [Top 50 \- Belgium](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 > Your daily update of the most played tracks right now \- Belgium.
 

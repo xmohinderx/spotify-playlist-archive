@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX38neNCcDGwC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX38neNCcDGwC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX38neNCcDGwC)
 
-### [Legendary Labels: Tuff Gong](https://open.spotify.com/playlist/37i9dQZF1DX38neNCcDGwC)
+### [Legendary Labels: Tuff Gong](https://open.spotify.com/playlist/7aFvSWZ4Nwm3VDtLqTwMGM)
 
 > Releases from the legendary label.
 

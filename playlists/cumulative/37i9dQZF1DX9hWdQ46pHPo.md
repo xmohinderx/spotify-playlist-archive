@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9hWdQ46pHPo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9hWdQ46pHPo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9hWdQ46pHPo)
 
-### [Forever Country](https://open.spotify.com/playlist/37i9dQZF1DX9hWdQ46pHPo)
+### [Forever Country](https://open.spotify.com/playlist/0XHLXdwMgyeKCrmB2r7vAO)
 
 > Country Music Association award\-winning and nominated music from artists then, now, and forever.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVGy1YP1ojM5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVGy1YP1ojM5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVGy1YP1ojM5)
 
-### [Silk Sheets](https://open.spotify.com/playlist/37i9dQZF1DWVGy1YP1ojM5)
+### [Silk Sheets](https://open.spotify.com/playlist/4G7nlm98x5vy85RlXW1X91)
 
 > Sensual silky sounds for the sheets.
 

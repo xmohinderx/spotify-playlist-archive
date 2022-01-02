@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tuUiirhaT3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tuUiirhaT3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tuUiirhaT3)
 
-### [Meditate to the Sounds of Nature](https://open.spotify.com/playlist/37i9dQZF1DX1tuUiirhaT3)
+### [Meditate to the Sounds of Nature](https://open.spotify.com/playlist/4UKPCLqX4EvanNUvCpP9Yx)
 
 > Calm ambient music with gentle nature sounds.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Hours of your favorite acoustic and roots music gems\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,136,725 likes - 160 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,136,724 likes - 160 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Chemicals](https://open.spotify.com/track/2wDuq7nBkGJjO4ykq3aJ4D) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Chemicals](https://open.spotify.com/album/2aInGJWGVkBDcMZZfYVvA1) | 3:19 |
 | 160 | [Hung the Moon](https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa) | [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Hung the Moon](https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI) | 3:10 |
 
-Snapshot ID: `MTY0MTEwODYwMSwwMDAwMDAwMDBjMDA3NTY3ZmNhMTg5ZTI1YmFlODEyZjU5NTVkYjM2`
+Snapshot ID: `MTY0MTExMDA5MCwwMDAwMDAwMDBjMDA3NTY3ZmNhMTg5ZTI1YmFlODEyZjU5NTVkYjM2`

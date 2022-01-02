@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0hk7Li.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0hk7Li) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0hk7Li)
 
-### [This Is Jacob Banks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hk7Li)
+### [This Is Jacob Banks](https://open.spotify.com/playlist/7bvO2wI468kcZn4rhLALZN)
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 

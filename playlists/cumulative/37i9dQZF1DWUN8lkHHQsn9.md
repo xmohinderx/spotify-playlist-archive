@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUN8lkHHQsn9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUN8lkHHQsn9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUN8lkHHQsn9)
 
-### [Pride Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
+### [Pride Polska](https://open.spotify.com/playlist/5XlG8Doc1gwzAGNsy2t9Pq)
 
 > Posłuchaj głosu polskich artystów LGBTQ+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: WaluśKraksaKryzys
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4ELVW61Sklr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4ELVW61Sklr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4ELVW61Sklr)
 
-### [Soulful Christmas](https://open.spotify.com/playlist/37i9dQZF1DX4ELVW61Sklr)
+### [Soulful Christmas](https://open.spotify.com/playlist/0IHlpNTtsuqIq1gmndTBxa)
 
 > A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,074 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,078 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [In meiner Erinnerung](https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l) | [Silbermond](https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA) | [Schritte](https://open.spotify.com/album/20LClG6Zq5sVEGo2HDOtjY) | 3:45 |
 | 150 | [Ohebbou Yadayka](https://open.spotify.com/track/1bfSLsvZjpH65NlxGJLBwu) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ohebbou Yadayka](https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly) | 3:46 |
 
-Snapshot ID: `MTY0MTEwODY3NSwwMDAwMDAwMGVhNTMwZjFkNWY0YzJkMDhjYmQyNjIwYmQ0YTUyOTNi`
+Snapshot ID: `MTY0MTExMDE1MywwMDAwMDAwMGVhNTMwZjFkNWY0YzJkMDhjYmQyNjIwYmQ0YTUyOTNi`

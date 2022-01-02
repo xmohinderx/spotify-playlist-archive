@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,185 likes - 102 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,184 likes - 102 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 101 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 102 | [Mr\. Record Man](https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [Together Again](https://open.spotify.com/album/6mB60S645utmjUe0RIeHkb) | 2:26 |
 
-Snapshot ID: `MTY0MTEwODYwNiwwMDAwMDAwMDMwMmI0OGQ1OTRhMjc3NWIzNzZkNjVmNTYyMjI5MzE2`
+Snapshot ID: `MTY0MTExMDA5NCwwMDAwMDAwMDMwMmI0OGQ1OTRhMjc3NWIzNzZkNjVmNTYyMjI5MzE2`

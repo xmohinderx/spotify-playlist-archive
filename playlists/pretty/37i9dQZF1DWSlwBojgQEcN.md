@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678,074 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,678,083 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 99 | [Waiting For You](https://open.spotify.com/track/7L5BQEm6e6MQr3CimiFicS) | [Isobel Anderson](https://open.spotify.com/artist/1tUN2f2byOej4LZdDq1UO9) | [In My Garden](https://open.spotify.com/album/4OmQr4L8PY6HIUiGgA2f6W) | 3:06 |
 | 100 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
 
-Snapshot ID: `MTY0MTEwODI4MSwwMDAwMDAwMDU0NDA5MjY5NjI3NGNjMjliZTcwOGJkZGM1ZTRlNDM1`
+Snapshot ID: `MTY0MTEwOTc4NCwwMDAwMDAwMDU0NDA5MjY5NjI3NGNjMjliZTcwOGJkZGM1ZTRlNDM1`

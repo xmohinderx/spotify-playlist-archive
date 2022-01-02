@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX89XXHpIgTCJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX89XXHpIgTCJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX89XXHpIgTCJ)
 
-### [I Love Rap 'n' Roll](https://open.spotify.com/playlist/37i9dQZF1DX89XXHpIgTCJ)
+### [I Love Rap 'n' Roll](https://open.spotify.com/playlist/3fOLmkEsg2O82RAMft1mmW)
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes\. Cover:  Beastie Boys & Run\-D.M.C.
 

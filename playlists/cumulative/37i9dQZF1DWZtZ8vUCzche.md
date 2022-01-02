@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZtZ8vUCzche.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZtZ8vUCzche) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZtZ8vUCzche)
 
-### [Songs To Test Headphones With](https://open.spotify.com/playlist/37i9dQZF1DWZtZ8vUCzche)
+### [Songs To Test Headphones With](https://open.spotify.com/playlist/4r1ATpiAdbXeZZswtLDI5A)
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 

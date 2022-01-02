@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8dPxJstGRJY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8dPxJstGRJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8dPxJstGRJY)
 
-### [Classical Crossover](https://open.spotify.com/playlist/37i9dQZF1DX8dPxJstGRJY)
+### [Classical Crossover](https://open.spotify.com/playlist/2aqWtg3gFyBEEz7hN86TZv)
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 

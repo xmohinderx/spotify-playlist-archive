@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3rMnCpY0WEROlje2b8Bjdn.md) - cumulative - [plain](/playlists/plain/3rMnCpY0WEROlje2b8Bjdn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3rMnCpY0WEROlje2b8Bjdn)
 
-### [The Hot Sounds of 1926](https://open.spotify.com/playlist/3rMnCpY0WEROlje2b8Bjdn)
+### [The Hot Sounds of 1926](https://open.spotify.com/playlist/1CTOGgkHZPQvAZKeWvqGIq)
 
 > 
 

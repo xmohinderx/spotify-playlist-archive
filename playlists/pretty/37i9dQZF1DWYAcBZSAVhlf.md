@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,061 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,067 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 79 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 80 | [Young at Heart](https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X) | [The Bluebells](https://open.spotify.com/artist/59FA7hfd0gJCIVBN0GygHg) | [The Singles Collection](https://open.spotify.com/album/6s4tgwHmTtjhU1oO1bjKGq) | 3:24 |
 
-Snapshot ID: `MTY0MTEwODM5NSwwMDAwMDAwMGVlMmE3NzAwM2MyYmVlZGZmNGRkNGE2OWMyMzhjYzNi`
+Snapshot ID: `MTY0MTEwOTg5NSwwMDAwMDAwMGVlMmE3NzAwM2MyYmVlZGZmNGRkNGE2OWMyMzhjYzNi`

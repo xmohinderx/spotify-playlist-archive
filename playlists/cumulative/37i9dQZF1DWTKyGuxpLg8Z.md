@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTKyGuxpLg8Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTKyGuxpLg8Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKyGuxpLg8Z)
 
-### [Blake’s 7: The Audio Series](https://open.spotify.com/playlist/37i9dQZF1DWTKyGuxpLg8Z)
+### [Blake’s 7: The Audio Series](https://open.spotify.com/playlist/5d1ZtrH6O5JbQdan0pRnhB)
 
 > A collection of Blake's 7 radio dramas, featuring the Audio Adventures and Early Years series.
 

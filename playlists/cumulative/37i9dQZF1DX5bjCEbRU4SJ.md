@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5bjCEbRU4SJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5bjCEbRU4SJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5bjCEbRU4SJ)
 
-### [Calm Down](https://open.spotify.com/playlist/37i9dQZF1DX5bjCEbRU4SJ)
+### [Calm Down](https://open.spotify.com/playlist/0M6njmtzRHYynJsPIx1FqT)
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 

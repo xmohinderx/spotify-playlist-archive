@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXJyjYpHunCf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXJyjYpHunCf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJyjYpHunCf)
 
-### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
+### [Folk Pop](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 

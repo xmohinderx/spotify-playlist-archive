@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUa8ZRTfalHk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUa8ZRTfalHk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUa8ZRTfalHk)
 
-### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
+### [Pop Rising](https://open.spotify.com/playlist/2VIVDwiqHp2XxfGz8TU0FX)
 
 > The hits of tomorrow are on Spotify today\. Cover: Ruel
 

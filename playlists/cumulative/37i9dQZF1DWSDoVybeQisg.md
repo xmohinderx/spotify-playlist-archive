@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSDoVybeQisg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSDoVybeQisg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSDoVybeQisg)
 
-### [Psychedelic Rock](https://open.spotify.com/playlist/37i9dQZF1DWSDoVybeQisg)
+### [Psychedelic Rock](https://open.spotify.com/playlist/3pi4HINlvE2D4FpaH97xE1)
 
 > Expand your mind with these psychedelic rock treasures\. Cover: Jim Morrison
 

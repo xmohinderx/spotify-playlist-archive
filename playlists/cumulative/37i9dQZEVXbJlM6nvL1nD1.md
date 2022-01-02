@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJlM6nvL1nD1.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJlM6nvL1nD1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJlM6nvL1nD1)
 
-### [Top 50 \- Ecuador](https://open.spotify.com/playlist/37i9dQZEVXbJlM6nvL1nD1)
+### [Top 50 \- Ecuador](https://open.spotify.com/playlist/2nfraeUpUcnlrxcwWo1re5)
 
 > Your daily update of the most played tracks right now \- Ecuador.
 

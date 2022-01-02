@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,121,279 likes - 150 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,121,299 likes - 150 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 | 149 | [Listen To Your Heart](https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(Extended Version\)](https://open.spotify.com/album/4rQV5S9FhajZdyzFfcyYw9) | 5:28 |
 | 150 | [Free Fallin'](https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/7ihweYjA1ck66NTB4bujGl) | 4:16 |
 
-Snapshot ID: `MTY0MTEwODUzNSwwMDAwMDAwMGRiOGU4MGFiZWJkMDVjODI5YTgzZTgzYjU0MjFiMzJm`
+Snapshot ID: `MTY0MTExMDAyNiwwMDAwMDAwMGRiOGU4MGFiZWJkMDVjODI5YTgzZTgzYjU0MjFiMzJm`

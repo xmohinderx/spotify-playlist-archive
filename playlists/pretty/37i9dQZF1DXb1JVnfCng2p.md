@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,647 likes - 75 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,648 likes - 75 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 74 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
 | 75 | [Blues For Philly Joe \- Remastered](https://open.spotify.com/track/0gYVHFAlcb42DZ5cQQh4nj) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 6:44 |
 
-Snapshot ID: `MTY0MTEwODY5MywwMDAwMDAwMDkwZDE3OWM5YmM3MDk5NDA1MTAwYWYxNjExZTQ5Nzhm`
+Snapshot ID: `MTY0MTExMDE3MCwwMDAwMDAwMDkwZDE3OWM5YmM3MDk5NDA1MTAwYWYxNjExZTQ5Nzhm`

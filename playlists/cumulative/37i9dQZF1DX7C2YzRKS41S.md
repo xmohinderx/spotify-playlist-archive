@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7C2YzRKS41S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7C2YzRKS41S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7C2YzRKS41S)
 
-### [Amanhecer na Estrada](https://open.spotify.com/playlist/37i9dQZF1DX7C2YzRKS41S)
+### [Amanhecer na Estrada](https://open.spotify.com/playlist/4PN19Rocw5jhy931gtx7Hy)
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 

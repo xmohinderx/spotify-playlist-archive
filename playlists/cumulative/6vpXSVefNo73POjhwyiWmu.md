@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6vpXSVefNo73POjhwyiWmu.md) - cumulative - [plain](/playlists/plain/6vpXSVefNo73POjhwyiWmu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6vpXSVefNo73POjhwyiWmu)
 
-### [Remembering 2Pac](https://open.spotify.com/playlist/6vpXSVefNo73POjhwyiWmu)
+### [Remembering 2Pac](https://open.spotify.com/playlist/2uQgTXa9SetbnZbRCt6CaN)
 
 > 
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ZaylsK87YU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ZaylsK87YU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ZaylsK87YU)
 
-### [Modhymns](https://open.spotify.com/playlist/37i9dQZF1DX3ZaylsK87YU)
+### [Modhymns](https://open.spotify.com/playlist/6hHifxlV6iYC7c6IGWvkKH)
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 

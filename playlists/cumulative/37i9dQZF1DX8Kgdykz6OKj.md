@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8Kgdykz6OKj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Kgdykz6OKj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Kgdykz6OKj)
 
-### [Jazz Rap](https://open.spotify.com/playlist/37i9dQZF1DX8Kgdykz6OKj)
+### [Jazz Rap](https://open.spotify.com/playlist/3EsnSTM7kDp7N5dNPCJ8kz)
 
 > Laid back cratedigger hip\-hop from around the world.
 

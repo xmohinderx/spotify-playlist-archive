@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6jbGdICAmvGjlURC1gcgRe.md) - cumulative - [plain](/playlists/plain/6jbGdICAmvGjlURC1gcgRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6jbGdICAmvGjlURC1gcgRe)
 
-### [Get Lifted](https://open.spotify.com/playlist/6jbGdICAmvGjlURC1gcgRe)
+### [Get Lifted](https://open.spotify.com/playlist/4XPvPN9ipbVFw3u4kVUCCb)
 
 > Jazzy soul and rnb ballads to wake you up and lift your mood...
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJWuzDrTxbKS.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJWuzDrTxbKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJWuzDrTxbKS)
 
-### [Top 50 \- Latvia](https://open.spotify.com/playlist/37i9dQZEVXbJWuzDrTxbKS)
+### [Top 50 \- Latvia](https://open.spotify.com/playlist/1Sy32iFBBMqMOiw8A7cPe3)
 
 > Your daily update of the most played tracks right now \- Latvia.
 

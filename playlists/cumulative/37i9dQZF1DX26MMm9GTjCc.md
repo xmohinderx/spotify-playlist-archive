@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX26MMm9GTjCc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX26MMm9GTjCc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX26MMm9GTjCc)
 
-### [Christmas Party](https://open.spotify.com/playlist/37i9dQZF1DX26MMm9GTjCc)
+### [Christmas Party](https://open.spotify.com/playlist/4aTtG0lLgznSH9xY438zpI)
 
 > The soundtrack to your festive get\-together!
 

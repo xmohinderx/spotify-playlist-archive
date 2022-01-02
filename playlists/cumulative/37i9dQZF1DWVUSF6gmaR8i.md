@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVUSF6gmaR8i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVUSF6gmaR8i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVUSF6gmaR8i)
 
-### [The Piano Lounge](https://open.spotify.com/playlist/37i9dQZF1DWVUSF6gmaR8i)
+### [The Piano Lounge](https://open.spotify.com/playlist/1d2QPJuB6Fd77XqXT9UYGL)
 
 > Kick back with a collection of classic and new piano rock and pop.
 

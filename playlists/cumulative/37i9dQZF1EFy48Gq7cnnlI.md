@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1EFy48Gq7cnnlI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFy48Gq7cnnlI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFy48Gq7cnnlI)
 
-### [Written By Alex Hope](https://open.spotify.com/playlist/37i9dQZF1EFy48Gq7cnnlI)
+### [Written By Alex Hope](https://open.spotify.com/playlist/56E8uR9CIIVPU86UKCeckZ)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0bmMTtKNwsDbQN40k0KTeW">Alex Hope</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 

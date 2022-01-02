@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3P56PKzFc9f.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3P56PKzFc9f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3P56PKzFc9f)
 
-### [Home Sweet Home](https://open.spotify.com/playlist/37i9dQZF1DX3P56PKzFc9f)
+### [Home Sweet Home](https://open.spotify.com/playlist/5lAopPvgezlqzomRb60xSb)
 
 > Home is where the heart is.
 

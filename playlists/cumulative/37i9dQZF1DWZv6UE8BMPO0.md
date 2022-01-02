@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZv6UE8BMPO0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZv6UE8BMPO0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZv6UE8BMPO0)
 
-### [Christmas Cocktail Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZv6UE8BMPO0)
+### [Christmas Cocktail Jazz](https://open.spotify.com/playlist/46l2vnuSexwyIIH7fOoaMY)
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 

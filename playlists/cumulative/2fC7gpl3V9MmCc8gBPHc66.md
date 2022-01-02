@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2fC7gpl3V9MmCc8gBPHc66.md) - cumulative - [plain](/playlists/plain/2fC7gpl3V9MmCc8gBPHc66) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2fC7gpl3V9MmCc8gBPHc66)
 
-### [Sonisphere](https://open.spotify.com/playlist/2fC7gpl3V9MmCc8gBPHc66)
+### [Sonisphere](https://open.spotify.com/playlist/0fCtQPyc2UfKU6oHsoXFs0)
 
 > 
 

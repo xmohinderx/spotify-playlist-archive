@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSrj7tqQ9IOu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSrj7tqQ9IOu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrj7tqQ9IOu)
 
-### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
+### [Made in France](https://open.spotify.com/playlist/4VHp6F7a0Cbt6kPL2n6clC)
 
 > The best French indie tracks right now\. Cover: Oscar Anton
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJiZcmkrIHGU.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJiZcmkrIHGU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJiZcmkrIHGU)
 
-### [Top 50 \- Germany](https://open.spotify.com/playlist/37i9dQZEVXbJiZcmkrIHGU)
+### [Top 50 \- Germany](https://open.spotify.com/playlist/6ac8Kxyke6Hyo0AQCo7I3J)
 
 > Your daily update of the most played tracks right now \- Germany.
 

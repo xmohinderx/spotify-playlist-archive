@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6eScvf6tpFA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6eScvf6tpFA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6eScvf6tpFA)
 
-### [Lotic's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX6eScvf6tpFA)
+### [Lotic's track IDs](https://open.spotify.com/playlist/1oIqvSth1lQrZdmEB66StS)
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 

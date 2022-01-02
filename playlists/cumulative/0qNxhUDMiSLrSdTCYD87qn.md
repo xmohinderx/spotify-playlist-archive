@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0qNxhUDMiSLrSdTCYD87qn.md) - cumulative - [plain](/playlists/plain/0qNxhUDMiSLrSdTCYD87qn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0qNxhUDMiSLrSdTCYD87qn)
 
-### [Dub Zone](https://open.spotify.com/playlist/0qNxhUDMiSLrSdTCYD87qn)
+### [Dub Zone](https://open.spotify.com/playlist/69KLygf0rbt6s7GqKtqniY)
 
 > 
 

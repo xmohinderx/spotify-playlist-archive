@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,170,053 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170,055 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 99 | [Laurelhurst](https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Protect Our Winters](https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4) | 3:09 |
 | 100 | [Sprite](https://open.spotify.com/track/7fL7ZuSeJOSAzWsl9lAhCI) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Green Blue + Indigo Violet](https://open.spotify.com/album/0G2STVHSAHhYIB3LoB9K8N) | 3:10 |
 
-Snapshot ID: `MTY0MTEwODQ4NywwMDAwMDAwMGVlMzYzZjMxZmY4Y2JhMGMyMzEzM2UyZTZmYmYzNTll`
+Snapshot ID: `MTY0MTEwOTk4MSwwMDAwMDAwMGVlMzYzZjMxZmY4Y2JhMGMyMzEzM2UyZTZmYmYzNTll`

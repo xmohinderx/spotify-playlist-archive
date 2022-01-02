@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZMCPjHG57gq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZMCPjHG57gq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZMCPjHG57gq)
 
-### [This Is Al Green](https://open.spotify.com/playlist/37i9dQZF1DWZMCPjHG57gq)
+### [This Is Al Green](https://open.spotify.com/playlist/5Lic0Ixw6QUdyRtkD2W73b)
 
 > Hear all the best songs by the monumental <a href="spotify:artist:3dkbV4qihUeMsqN4vBGg93">soul singer</a>.
 

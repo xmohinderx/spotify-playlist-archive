@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1rUeB7HjgUL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1rUeB7HjgUL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1rUeB7HjgUL)
 
-### [This Is Arcade Fire](https://open.spotify.com/playlist/37i9dQZF1DX1rUeB7HjgUL)
+### [This Is Arcade Fire](https://open.spotify.com/playlist/21n8uDahUUGEsl85OK0ROQ)
 
 > The essential Arcade Fire featuring their new album "Everything Now".
 

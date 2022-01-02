@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6taq20FeuKj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6taq20FeuKj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6taq20FeuKj)
 
-### [Power Gaming](https://open.spotify.com/playlist/37i9dQZF1DX6taq20FeuKj)
+### [Power Gaming](https://open.spotify.com/playlist/5kUKwQJZ2mzR3lmEOluUG6)
 
 > Get your gaming session going with this epic rap mix.
 

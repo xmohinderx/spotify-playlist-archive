@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSttCmn8GHUg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSttCmn8GHUg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSttCmn8GHUg)
 
-### [American Made](https://open.spotify.com/playlist/37i9dQZF1DWSttCmn8GHUg)
+### [American Made](https://open.spotify.com/playlist/2OfGSsRQrmUhNpqr9RXiRv)
 
 > Patriotic country songs celebrating the land of the free and the home of the brave.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 
 > Mellow songs from the 2000s\. Cover: Rihanna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,358 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,361 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHPXiRsW3u.md) - [plain]
 | 149 | [Love](https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 4:15 |
 | 150 | [Love Like This \(feat\. Sean Kingston\)](https://open.spotify.com/track/2FDXMNnzPstPQgZ1BM4vX0) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Love Like This \(feat\. Sean Kingston\)](https://open.spotify.com/album/2lji7DEs8o3zSzSglRNn5L) | 3:43 |
 
-Snapshot ID: `MTY0MTEwODczOCwwMDAwMDAwMGE5YmNkYzc5ZDI1MGRhNjU4ZWM3MTI0MDljZDJkYWVh`
+Snapshot ID: `MTY0MTExMDIxMiwwMDAwMDAwMGE5YmNkYzc5ZDI1MGRhNjU4ZWM3MTI0MDljZDJkYWVh`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSEMER0I7qzl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSEMER0I7qzl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSEMER0I7qzl)
 
-### [The PMS Playlist](https://open.spotify.com/playlist/37i9dQZF1DWSEMER0I7qzl)
+### [The PMS Playlist](https://open.spotify.com/playlist/20HKEsl2O1gRJfTHuZcMKw)
 
 > These songs will make you feel better\. Or maybe worse.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3WvGXE8FqYX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3WvGXE8FqYX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3WvGXE8FqYX)
 
-### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX)
+### [Women of Pop](https://open.spotify.com/playlist/6hHKwc1YaDccLadJSMfgv7)
 
 > Kick back with the queens of pop.
 

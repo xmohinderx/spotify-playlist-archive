@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3jh9R9uXIoozPA0uccJt2C.md) - cumulative - [plain](/playlists/plain/3jh9R9uXIoozPA0uccJt2C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3jh9R9uXIoozPA0uccJt2C)
 
-### [Top Picks Classical](https://open.spotify.com/playlist/3jh9R9uXIoozPA0uccJt2C)
+### [Top Picks Classical](https://open.spotify.com/playlist/6HOWZoaGwdHbwjAlYfEmBX)
 
 > 
 

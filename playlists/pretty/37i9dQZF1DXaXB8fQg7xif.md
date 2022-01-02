@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > Bid 2021 farewell and <a href="spotify:genre:edm\_dance">move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,771,128 likes - 125 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,771,122 likes - 125 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [I Just Wanna Dance](https://open.spotify.com/track/1E6eBDvEvVMz3PIUIkWs1y) | [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6), [Isak Heim](https://open.spotify.com/artist/3noOJBzljbPMoifF6wY12v) | [I Just Wanna Dance](https://open.spotify.com/album/5qj8lJSGn2tNQUsDVEVMnK) | 2:57 |
 | 125 | [See Me Fall](https://open.spotify.com/track/17UzpGcbxDFds1D9QahiR6) | [EKAE](https://open.spotify.com/artist/4tO9yeKWvSAIYredvRSKdR) | [See Me Fall](https://open.spotify.com/album/1pA7w0A36BX8USfMuJQkg7) | 2:05 |
 
-Snapshot ID: `MTY0MTEwODY4MiwwMDAwMDAwMGIxZTU4NzVlMjYxNjk3NmYyM2VmZmI1N2E0OTA2MzA2`
+Snapshot ID: `MTY0MTExMDE1OSwwMDAwMDAwMGIxZTU4NzVlMjYxNjk3NmYyM2VmZmI1N2E0OTA2MzA2`

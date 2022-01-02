@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 
 > It's a vibe...Indie tunes to follow you throughout your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,148 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,145 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c9fpd0lxJ5.md) - [plain]
 | 79 | [Go Away](https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Go Away](https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7) | 3:26 |
 | 80 | [CAVIAR](https://open.spotify.com/track/7jQ0ac6EcFNXxm0obXOFWb) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:01 |
 
-Snapshot ID: `MTY0MTEwODY1NSwwMDAwMDAwMDRhMTA1YTM4NDczMzU5ODY3N2JhMjM3YjFmNzExNmM5`
+Snapshot ID: `MTY0MTExMDE0MCwwMDAwMDAwMDRhMTA1YTM4NDczMzU5ODY3N2JhMjM3YjFmNzExNmM5`

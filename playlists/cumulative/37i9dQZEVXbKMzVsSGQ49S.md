@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKMzVsSGQ49S.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKMzVsSGQ49S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKMzVsSGQ49S)
 
-### [Top 50 \- Iceland](https://open.spotify.com/playlist/37i9dQZEVXbKMzVsSGQ49S)
+### [Top 50 \- Iceland](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
 
 > Your daily update of the most played tracks right now \- Iceland.
 

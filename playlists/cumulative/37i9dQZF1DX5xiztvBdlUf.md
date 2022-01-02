@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5xiztvBdlUf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5xiztvBdlUf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5xiztvBdlUf)
 
-### [Truly Deeply House](https://open.spotify.com/playlist/37i9dQZF1DX5xiztvBdlUf)
+### [Truly Deeply House](https://open.spotify.com/playlist/1g5GN0yTKiFy6lhkD7HKS6)
 
 > Deep House in all its shapes and colours.
 

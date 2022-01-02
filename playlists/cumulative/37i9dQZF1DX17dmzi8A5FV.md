@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX17dmzi8A5FV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX17dmzi8A5FV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX17dmzi8A5FV)
 
-### [90s Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX17dmzi8A5FV)
+### [90s Boy Bands](https://open.spotify.com/playlist/0AmAFDFAE9iHEl2LM4n3Vn)
 
 > Remember the biggest boy bands of the 90s? They are all here!
 

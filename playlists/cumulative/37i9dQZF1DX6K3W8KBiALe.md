@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6K3W8KBiALe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6K3W8KBiALe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6K3W8KBiALe)
 
-### [Classical Moments in Movies](https://open.spotify.com/playlist/37i9dQZF1DX6K3W8KBiALe)
+### [Classical Moments in Movies](https://open.spotify.com/playlist/1QWhIJzyTDvacbNTzsyc3s)
 
 > Chill to the familiar <a href="http://open.spotify.com/genre/classical">classical</a> pieces featured in award\-winning films.
 

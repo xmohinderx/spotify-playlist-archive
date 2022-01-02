@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > Happy songs by alternative bands\. Any listener can connect with these indie jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,524,942 likes - 120 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,524,952 likes - 120 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 119 | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/track/0ylk0gZbTofpSVCsNe18BB) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HIDE \(MYSELF BEHIND YOU\)](https://open.spotify.com/album/0dFesGsi1a0RRccrnYoi29) | 2:58 |
 | 120 | [oh GOD](https://open.spotify.com/track/78x4xRisFJS0eniXD3rIhk) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:47 |
 
-Snapshot ID: `MTY0MTEwODQ5OSwwMDAwMDAwMDI1NWRhYzIzNzAxYjJhZThiYzBjODc4MTYxYjg4Yzhh`
+Snapshot ID: `MTY0MTEwOTk5MiwwMDAwMDAwMDI1NWRhYzIzNzAxYjJhZThiYzBjODc4MTYxYjg4Yzhh`

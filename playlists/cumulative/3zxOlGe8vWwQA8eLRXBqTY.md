@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3zxOlGe8vWwQA8eLRXBqTY.md) - cumulative - [plain](/playlists/plain/3zxOlGe8vWwQA8eLRXBqTY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3zxOlGe8vWwQA8eLRXBqTY)
 
-### [Alicia Keys](https://open.spotify.com/playlist/3zxOlGe8vWwQA8eLRXBqTY)
+### [Alicia Keys](https://open.spotify.com/playlist/100OXXqx3GTlQcpDaWy9ip)
 
 > Missa inte Alicia Keys på Flamingo\-scenen på LÖRDAG / 22.20
 

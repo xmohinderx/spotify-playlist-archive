@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWtGE7PB0aRR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWtGE7PB0aRR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWtGE7PB0aRR)
 
-### [Brit\-Blues](https://open.spotify.com/playlist/37i9dQZF1DWWtGE7PB0aRR)
+### [Brit\-Blues](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 > Blues with a British flavor\. Cover: Robin Trower
 

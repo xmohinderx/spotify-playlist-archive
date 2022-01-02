@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,319 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,323 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 49 | [Sky](https://open.spotify.com/track/1K9UBbr4hJfl9GSL0el09P) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Nostalgia](https://open.spotify.com/album/7nrrxQIJRlJvF0HivbzhaN) | 2:33 |
 | 50 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 |
 
-Snapshot ID: `MTY0MTEwODUxNCwwMDAwMDAwMDdmMGE5Y2Q5NzEzZDFkMjk1NWI4YTY1ODVmZWZkNDVj`
+Snapshot ID: `MTY0MTExMDAwNiwwMDAwMDAwMDdmMGE5Y2Q5NzEzZDFkMjk1NWI4YTY1ODVmZWZkNDVj`

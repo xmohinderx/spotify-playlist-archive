@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2nb7lCySvvf7PNxHUD5oun.md) - cumulative - [plain](/playlists/plain/2nb7lCySvvf7PNxHUD5oun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nb7lCySvvf7PNxHUD5oun)
 
-### [\#JazzAppreciationMonth](https://open.spotify.com/playlist/2nb7lCySvvf7PNxHUD5oun)
+### [\#JazzAppreciationMonth](https://open.spotify.com/playlist/3TcAGRFGBp7J7c40caudRt)
 
 > In honor of JAM, we're collecting your favorite jazz tracks! Share yours at \#SpotifyJAM
 

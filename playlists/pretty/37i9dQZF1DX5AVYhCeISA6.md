@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Maria Becerra, Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,561 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,563 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 79 | [No Pasa Nada \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/7doCx8U6982H52Nmrmqdth) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:17 |
 | 80 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 |
 
-Snapshot ID: `MTY0MTEwODU1NCwwMDAwMDAwMGQ4NmYyZGUyOTY2Njg4NDZmZDNiZWMyZjM4OTUwOGI1`
+Snapshot ID: `MTY0MTExMDA0NSwwMDAwMDAwMGQ4NmYyZGUyOTY2Njg4NDZmZDNiZWMyZjM4OTUwOGI1`

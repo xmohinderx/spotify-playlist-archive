@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 
 > Wake up with the brightest Indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,321 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,322 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsTPi6XhWl6.md) - [plain]
 | 49 | [Mr\. Tillman](https://open.spotify.com/track/6ZcuwgTbYQ7xz5VN9tBhCw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [God's Favorite Customer](https://open.spotify.com/album/0hMPUtgjezv7gUsmhztvPv) | 3:03 |
 | 50 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
 
-Snapshot ID: `MTY0MTEwODM4OCwwMDAwMDAwMGFkZmFlN2RhYzNlMDY3MTBhMmE1YmQyMWI2YzAxMDc2`
+Snapshot ID: `MTY0MTEwOTg4OCwwMDAwMDAwMGFkZmFlN2RhYzNlMDY3MTBhMmE1YmQyMWI2YzAxMDc2`

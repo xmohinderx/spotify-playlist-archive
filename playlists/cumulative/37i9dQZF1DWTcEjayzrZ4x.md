@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTcEjayzrZ4x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTcEjayzrZ4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTcEjayzrZ4x)
 
-### [Lazy Jazz Cat](https://open.spotify.com/playlist/37i9dQZF1DWTcEjayzrZ4x)
+### [Lazy Jazz Cat](https://open.spotify.com/playlist/5tUS7ssEEn2bRVblKg2kpU)
 
 > Instrumental  jazz with a cool sound.
 

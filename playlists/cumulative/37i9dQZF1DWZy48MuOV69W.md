@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZy48MuOV69W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZy48MuOV69W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZy48MuOV69W)
 
-### [Fireside Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZy48MuOV69W)
+### [Fireside Christmas Jazz](https://open.spotify.com/playlist/5cNXdJnskmm641e5o7i3nb)
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 

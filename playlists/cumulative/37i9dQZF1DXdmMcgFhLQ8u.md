@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdmMcgFhLQ8u.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdmMcgFhLQ8u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdmMcgFhLQ8u)
 
-### [Country Heartache](https://open.spotify.com/playlist/37i9dQZF1DXdmMcgFhLQ8u)
+### [Country Heartache](https://open.spotify.com/playlist/68FV8d2Esz4dF7OiEcvcDQ)
 
 > These country songs know exactly how you feel.
 

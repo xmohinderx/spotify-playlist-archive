@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Indie, pop, and everything in between to bring you good energy and good vibes\. Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,554 likes - 150 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,553 likes - 150 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [that friend](https://open.spotify.com/track/0jI7t8dSBRQU8EOlicWTmL) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [that friend](https://open.spotify.com/album/33BfwbhA9EgZZfDCZEj7Bh) | 3:00 |
 | 150 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 |
 
-Snapshot ID: `MTY0MTEwODcyNSwwMDAwMDAwMDVjYjYyNWVlNzQ1YTE3ZThhNjdhNDg0MzgzMzI5MzY3`
+Snapshot ID: `MTY0MTExMDIwMCwwMDAwMDAwMDVjYjYyNWVlNzQ1YTE3ZThhNjdhNDg0MzgzMzI5MzY3`

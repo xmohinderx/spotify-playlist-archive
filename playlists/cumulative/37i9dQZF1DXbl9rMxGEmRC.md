@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbl9rMxGEmRC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbl9rMxGEmRC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbl9rMxGEmRC)
 
-### [Black & Dark Metal](https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC)
+### [Black & Dark Metal](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
 > A collection of recent tracks from the world of black and dark metal\. Cover: Wolves In The Throne Room
 

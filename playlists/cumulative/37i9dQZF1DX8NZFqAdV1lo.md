@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8NZFqAdV1lo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8NZFqAdV1lo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NZFqAdV1lo)
 
-### [Unsolicited Advice](https://open.spotify.com/playlist/37i9dQZF1DX8NZFqAdV1lo)
+### [Unsolicited Advice](https://open.spotify.com/playlist/1ttHJX8Doe1lpYercSCEHI)
 
 > Some advice is best taken with a pillar of salt\. \[Warning: Explicit Content\]
 

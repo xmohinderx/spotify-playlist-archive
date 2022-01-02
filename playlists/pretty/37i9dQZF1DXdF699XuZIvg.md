@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,571 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,578 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [Driving Rain \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/5Zj7ovvDDhalqPBSoC2EHI) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [Driving Rain](https://open.spotify.com/album/2JGp2Bv8Q5sMoaPQNtBRt0) | 4:10 |
 | 75 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
 
-Snapshot ID: `MTY0MTEwODczNywwMDAwMDAwMDI2ZmVkMmJkZGI4ODdiYTU3OTdhOTczOTkyZjMzMjFh`
+Snapshot ID: `MTY0MTExMDIxMiwwMDAwMDAwMDI2ZmVkMmJkZGI4ODdiYTU3OTdhOTczOTkyZjMzMjFh`

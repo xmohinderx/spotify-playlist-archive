@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX46zHlTTyolY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX46zHlTTyolY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX46zHlTTyolY)
 
-### [Heartache](https://open.spotify.com/playlist/37i9dQZF1DX46zHlTTyolY)
+### [Heartache](https://open.spotify.com/playlist/4sJeHXibErKpD8IDAbCwPl)
 
 > Music to see you through the tough times.
 

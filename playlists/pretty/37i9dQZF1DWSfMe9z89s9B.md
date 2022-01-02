@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Fana Hues
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,627 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,632 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 99 | [Back & Forth \(feat\. Vince Staples\)](https://open.spotify.com/track/4g9pJvaoIVrj89XWQ6HRqr) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 3:22 |
 | 100 | [Breathe My Name](https://open.spotify.com/track/0sbisO5Ld7OvsRsMCaEDoB) | [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [Rachel Robinson](https://open.spotify.com/artist/6X0YXY6bwynFIPUu7Qc97g) | [Breathe My Name](https://open.spotify.com/album/6OkoWwEPpRocbPoK7uNiJx) | 2:55 |
 
-Snapshot ID: `MTY0MTEwODI3OCwwMDAwMDAwMGRjYjkzMDA5ZjZmNTA5MDY2ZTQwODZjMWJjOGZlZWUy`
+Snapshot ID: `MTY0MTEwOTc4MiwwMDAwMDAwMGRjYjkzMDA5ZjZmNTA5MDY2ZTQwODZjMWJjOGZlZWUy`

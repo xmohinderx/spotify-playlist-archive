@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0hvSv9Rf41p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0hvSv9Rf41p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0hvSv9Rf41p)
 
-### [Bass Arcade](https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p)
+### [Bass Arcade](https://open.spotify.com/playlist/4rpEmms9tZIvfVOnRe39hU)
 
 > All things <a href="spotify:genre:bass">bass</a> with Subtronics.
 

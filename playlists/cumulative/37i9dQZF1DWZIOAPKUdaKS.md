@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZIOAPKUdaKS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZIOAPKUdaKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZIOAPKUdaKS)
 
-### [Focus Piano](https://open.spotify.com/playlist/37i9dQZF1DWZIOAPKUdaKS)
+### [Focus Piano](https://open.spotify.com/playlist/7cjodZVzQ3VbBI3fx7ewwS)
 
 > Piano music to hone your thought process.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3uDgik1xOhjYVsXucW7GEb.md) - cumulative - [plain](/playlists/plain/3uDgik1xOhjYVsXucW7GEb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3uDgik1xOhjYVsXucW7GEb)
 
-### [A Bite Out Of The Afternoon](https://open.spotify.com/playlist/3uDgik1xOhjYVsXucW7GEb)
+### [A Bite Out Of The Afternoon](https://open.spotify.com/playlist/36NF6IDNnG06iOciCJdC6P)
 
 > Grab your food, turn on the easy hip\-hop and enjoy.
 

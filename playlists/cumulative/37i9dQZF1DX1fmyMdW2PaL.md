@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1fmyMdW2PaL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1fmyMdW2PaL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1fmyMdW2PaL)
 
-### [Complete Chaos](https://open.spotify.com/playlist/37i9dQZF1DX1fmyMdW2PaL)
+### [Complete Chaos](https://open.spotify.com/playlist/5uvLVBp4h63WAyYfutapmk)
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 

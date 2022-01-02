@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWViKwLyOBsJF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWViKwLyOBsJF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWViKwLyOBsJF)
 
-### [Instrumental Christmas Hymns](https://open.spotify.com/playlist/37i9dQZF1DWViKwLyOBsJF)
+### [Instrumental Christmas Hymns](https://open.spotify.com/playlist/3fahOy3iri1dJ2MuPaHK5f)
 
 > Traditional carols and hymns for a classic Christmas feeling.
 

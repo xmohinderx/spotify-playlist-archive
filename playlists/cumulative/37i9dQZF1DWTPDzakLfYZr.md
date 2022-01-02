@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTPDzakLfYZr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTPDzakLfYZr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTPDzakLfYZr)
 
-### [Popetón](https://open.spotify.com/playlist/37i9dQZF1DWTPDzakLfYZr)
+### [Popetón](https://open.spotify.com/playlist/4GGMZcx3ZrrtspE4f42F2z)
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Ñejo, Silvestre Dangond, Nicky Jam
 

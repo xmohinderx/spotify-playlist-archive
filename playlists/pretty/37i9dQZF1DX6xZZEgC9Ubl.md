@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > emo feels for the misunderstood\. remembering Juice WRLD.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,298 likes - 150 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,314 likes - 150 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 149 | [Homies \(feat\. Trippie Redd and BlocBoy JB\)](https://open.spotify.com/track/0xrfMgibZBMawzTd5d9rz5) | [Clay "Krucial" Perry III](https://open.spotify.com/artist/76ox6NmV8cHFmCrERVlvi9), [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [If We Must Die](https://open.spotify.com/album/2QeymRhgUWy2kDasfhFgXB) | 3:07 |
 | 150 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 |
 
-Snapshot ID: `MTY0MTEwODYwMSwwMDAwMDAwMGFlOTdmMWNmZDEzZTIzOGIyYTlhZjBlMDg2MDFlNGVl`
+Snapshot ID: `MTY0MTExMDA4OSwwMDAwMDAwMGFlOTdmMWNmZDEzZTIzOGIyYTlhZjBlMDg2MDFlNGVl`

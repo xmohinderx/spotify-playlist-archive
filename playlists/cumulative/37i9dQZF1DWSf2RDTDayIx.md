@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSf2RDTDayIx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSf2RDTDayIx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSf2RDTDayIx)
 
-### [Happy Beats](https://open.spotify.com/playlist/37i9dQZF1DWSf2RDTDayIx)
+### [Happy Beats](https://open.spotify.com/playlist/4dBUFd3W9UPSAiQUVToAFF)
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 

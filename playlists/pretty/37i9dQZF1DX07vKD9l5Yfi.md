@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 
 > The perfect noughties blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,884 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,887 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07vKD9l5Yfi.md) - [plain]
 | 49 | [Realize](https://open.spotify.com/track/6Vi6gx8IMRXORPx8fPd2YJ) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Coco](https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb) | 4:04 |
 | 50 | [Happy](https://open.spotify.com/track/2Nu0P68oruhup6YcAi8On3) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Ashanti](https://open.spotify.com/album/3dAdilu5vv6ThGzgNwUlK3) | 4:22 |
 
-Snapshot ID: `MTY0MTEwODQzMiwwMDAwMDAwMDRmZmQzZjI1ZGYxMmZhMjQ4MGQ5ZjE5MjM0ZDEzMjM5`
+Snapshot ID: `MTY0MTEwOTkyOSwwMDAwMDAwMDRmZmQzZjI1ZGYxMmZhMjQ4MGQ5ZjE5MjM0ZDEzMjM5`

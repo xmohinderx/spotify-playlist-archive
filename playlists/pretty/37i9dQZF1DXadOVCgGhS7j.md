@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,302,750 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,302,746 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 49 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 |
 | 50 | [Take It or Leave It](https://open.spotify.com/track/7LeIYh4gDj5l8mJ7kNsHIv) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Take It or Leave It](https://open.spotify.com/album/73MbtLT9YW5OjklHAOg9a9) | 3:03 |
 
-Snapshot ID: `MTY0MTEwODY4NSwwMDAwMDAwMDU3ZGVjNjczNTczY2ZmZjMzOGNkOWJjOGEyM2RiNWVi`
+Snapshot ID: `MTY0MTExMDE2MiwwMDAwMDAwMDU3ZGVjNjczNTczY2ZmZjMzOGNkOWJjOGEyM2RiNWVi`

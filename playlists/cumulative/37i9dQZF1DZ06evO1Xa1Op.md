@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1Xa1Op.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1Xa1Op) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1Xa1Op)
 
-### [This Is Ali Farka Touré](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xa1Op)
+### [This Is Ali Farka Touré](https://open.spotify.com/playlist/01n1mtxEZ7ZDHGLb21xiFu)
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 

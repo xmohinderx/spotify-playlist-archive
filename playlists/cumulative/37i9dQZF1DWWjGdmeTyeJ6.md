@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWjGdmeTyeJ6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWjGdmeTyeJ6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWjGdmeTyeJ6)
 
-### [Fresh Finds](https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6)
+### [Fresh Finds](https://open.spotify.com/playlist/79nrZbvopdFTugULd7djIE)
 
 > We will be back in 2022 with more of the best new music by independent artists and independent labels\. Cover: EMMY, Artwork: Isu Kim
 

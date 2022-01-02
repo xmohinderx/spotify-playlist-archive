@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 
 > Make your shower more uplifting by singing along to these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,435,605 likes - 200 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,435,615 likes - 200 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqmBTGDYngZ.md) - [plain]
 | 199 | [This Love](https://open.spotify.com/track/5zF2zGPkL6Ipsn9AfAK6RP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 3:26 |
 | 200 | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Eastside \(with Halsey & Khalid\)](https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK) | 2:53 |
 
-Snapshot ID: `MTY0MTEwODI4MiwwMDAwMDAwMGIyMWQ0MWU2NmIyY2M4YWRmNTI5OTA1YTRiMTY0NDJl`
+Snapshot ID: `MTY0MTEwOTc4NiwwMDAwMDAwMGIyMWQ0MWU2NmIyY2M4YWRmNTI5OTA1YTRiMTY0NDJl`

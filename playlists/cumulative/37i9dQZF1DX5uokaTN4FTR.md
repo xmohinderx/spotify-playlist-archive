@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5uokaTN4FTR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5uokaTN4FTR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5uokaTN4FTR)
 
-### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
+### [Massive Dance Hits](https://open.spotify.com/playlist/5fVCEeL6B4wf7pLEe8QzL4)
 
 > The UK's biggest dance playlist! Cover: Ewan McVicar
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZjmJmeiazwd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZjmJmeiazwd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZjmJmeiazwd)
 
-### [Ultimate Rock Gaming](https://open.spotify.com/playlist/37i9dQZF1DWZjmJmeiazwd)
+### [Ultimate Rock Gaming](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
 > Rock out while you game, this is 10+ hours of the best in Rock.
 

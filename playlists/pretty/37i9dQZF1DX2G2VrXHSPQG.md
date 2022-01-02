@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > Both Classic and New Songs from Your Favorite Alternative Artists / Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,049 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,050 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [Something To Believe](https://open.spotify.com/track/5DCHj466cFRHLMjfX5Jdz1) | [The Man Who](https://open.spotify.com/artist/1wLFDPkWkMl7bNZvhmhxsG) | [Something To Believe](https://open.spotify.com/album/7k0e3ChIafBGsjKYRxjwXF) | 3:18 |
 | 75 | [Falling](https://open.spotify.com/track/5u7hUcmeztyz4iuDf4UHFV) | [Charming Liars](https://open.spotify.com/artist/478LE0Vmglapdba9xQQt0J) | [Falling](https://open.spotify.com/album/7nVJBnGVXoZyi988HFOC1M) | 3:14 |
 
-Snapshot ID: `MTY0MTEwODQ4NSwwMDAwMDAwMGY4MTNkMDE4OWQ3NjliYjlmMGQ1YTFlNWVjMzVlOWFl`
+Snapshot ID: `MTY0MTEwOTk3OSwwMDAwMDAwMGY4MTNkMDE4OWQ3NjliYjlmMGQ1YTFlNWVjMzVlOWFl`

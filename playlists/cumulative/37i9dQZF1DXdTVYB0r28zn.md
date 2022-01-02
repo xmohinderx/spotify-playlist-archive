@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdTVYB0r28zn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdTVYB0r28zn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTVYB0r28zn)
 
-### [Jazz Today](https://open.spotify.com/playlist/37i9dQZF1DXdTVYB0r28zn)
+### [Jazz Today](https://open.spotify.com/playlist/3ReP7JSVN6wvx3cuh3U0ci)
 
 > The sound of jazz today\. Cover: Julian Lage
 

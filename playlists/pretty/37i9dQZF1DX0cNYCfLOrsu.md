@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best to ever do it\. Cover: Amaria BB
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,917 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,916 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 74 | [Hydraulics Wine](https://open.spotify.com/track/49KfUKEaWAaYDkOkeztx3c) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Hydraulics Wine](https://open.spotify.com/album/6wZGXOuIvrCZAJlHc0fFPo) | 3:10 |
 | 75 | [LIGHTS](https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug) | [Leaha](https://open.spotify.com/artist/1QKXXl3OKfTUTcXg0z1ntp) | [LIGHTS](https://open.spotify.com/album/0Mbjwil51uX1EE2nARbl0f) | 3:05 |
 
-Snapshot ID: `MTY0MTEwODQ0NiwwMDAwMDAwMDlhYTNiZTQ0ZjA0ZmI2OTMxYWRjZjY2ZTA0ZmYyODJk`
+Snapshot ID: `MTY0MTEwOTk0MywwMDAwMDAwMDlhYTNiZTQ0ZjA0ZmI2OTMxYWRjZjY2ZTA0ZmYyODJk`

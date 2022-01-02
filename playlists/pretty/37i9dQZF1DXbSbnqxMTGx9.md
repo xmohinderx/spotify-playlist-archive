@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,549,499 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,549,503 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 59 | [Till Then](https://open.spotify.com/track/4avroLEAQBpzWSKqx2xCme) | [The Frightnrs](https://open.spotify.com/artist/0wwBxT2qVH327KlBJbwMEP) | [Nothing More to Say](https://open.spotify.com/album/0huf3sYKbAoFaY1S83ezyX) | 3:20 |
 | 60 | [Marcus Garvey](https://open.spotify.com/track/3Ni6vR9yGUnVy7fRFwpVfE) | [Burning Spear](https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU) | [Jah No Dead \- An Introduction To Burning Spear](https://open.spotify.com/album/054qvIn982kZxFYHvoxrmL) | 3:19 |
 
-Snapshot ID: `MTY0MTEwODcwMiwwMDAwMDAwMDM5NjVjOTAzZmJjYzA1ZDZlOTNhNzMzOTQyZmY5OWM3`
+Snapshot ID: `MTY0MTExMDE3OCwwMDAwMDAwMDM5NjVjOTAzZmJjYzA1ZDZlOTNhNzMzOTQyZmY5OWM3`

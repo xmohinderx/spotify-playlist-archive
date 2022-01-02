@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 
 > Time to put on your best dancing shoes \- the jukebox is on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,804 likes - 78 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,805 likes - 78 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYE5MI4mMuii.md) - [plain]
 | 77 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
 | 78 | [Come On, Let's Go](https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:04 |
 
-Snapshot ID: `MTY0MTEwODM5NywwMDAwMDAwMGUyMTZkM2ZlMWRkMjBhNzJiYzcyMjM0Nzk4MjIwZTVh`
+Snapshot ID: `MTY0MTEwOTg5NiwwMDAwMDAwMGUyMTZkM2ZlMWRkMjBhNzJiYzcyMjM0Nzk4MjIwZTVh`

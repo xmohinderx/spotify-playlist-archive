@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5mILnBJLA26.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mILnBJLA26) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mILnBJLA26)
 
-### [AmaPiano Grooves](https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26)
+### [AmaPiano Grooves](https://open.spotify.com/playlist/1OROzyYVlgHk2xjXQZDV5G)
 
 > The biggest Amapiano singles making waves in South Africa and beyond..\. Cover: <a href="xhttps://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=VS0hKX5ASKS4sWXi8lPtsw">Kelvin Momo</a>
 

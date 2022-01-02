@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 49 | [Light Blue \- Remastered](https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [That's Where It's At](https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt) | 6:35 |
 | 50 | [Society Red \- Rudy Van Gelder/24\-Bit Mastering/Digital Remaster/2004](https://open.spotify.com/track/5A76U6Sz8cWleyN3CFTvjy) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Doin' Allright](https://open.spotify.com/album/5HSURQb31DMhX0mg0F87zs) | 12:21 |
 
-Snapshot ID: `MTY0MTEwODQyMCwwMDAwMDAwMDc0NTUwZWRhMjJlZTY1NDUyY2FmYTRlOTE5Mjc1YTU4`
+Snapshot ID: `MTY0MTEwOTkxOCwwMDAwMDAwMDc0NTUwZWRhMjJlZTY1NDUyY2FmYTRlOTE5Mjc1YTU4`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6ziVCJnEm59.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ziVCJnEm59) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ziVCJnEm59)
 
-### [Your Favorite Coffeehouse](https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59)
+### [Your Favorite Coffeehouse](https://open.spotify.com/playlist/2v08rtTK8fGzJTnf0viUcB)
 
 > Curl up in your favorite spot with some sweet, mellow tunes...
 

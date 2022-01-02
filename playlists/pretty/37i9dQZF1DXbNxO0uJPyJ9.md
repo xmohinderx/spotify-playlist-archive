@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,521 likes - 80 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,525 likes - 80 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 79 | [Heart Of Glass \- 12" Version](https://open.spotify.com/track/1ZhyS4b9gLOEpJ9pUIncva) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie Singles Collection: 1977\-1982](https://open.spotify.com/album/6hDo5Rj0Rc564d0duAaXP8) | 5:50 |
 | 80 | [Don't Look Any Further \- Original 12" Mix](https://open.spotify.com/track/6g8oJoXtmwE8hrJr7ZKnlw) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Don't Look Any Further \(Bonus Tracks Edition\)](https://open.spotify.com/album/7ugi0dyAtsm3uT3Fff0fmR) | 5:21 |
 
-Snapshot ID: `MTY0MTEwODcwMSwwMDAwMDAwMGE2ZGU2NmJmNDVkNzg4ZTNhN2Y0MGU1MWFlMDhjM2U3`
+Snapshot ID: `MTY0MTExMDE3NywwMDAwMDAwMGE2ZGU2NmJmNDVkNzg4ZTNhN2Y0MGU1MWFlMDhjM2U3`

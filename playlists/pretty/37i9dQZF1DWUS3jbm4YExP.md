@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,676 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,678 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\) \(feat\. Sir Frank Karikari\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 |
 | 100 | [The Wrangler](https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB) | [The Budos Band](https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz) | [The Wrangler](https://open.spotify.com/album/54TFr7reQoam9PpEzw8mFp) | 2:59 |
 
-Snapshot ID: `MTY0MTEwODMxOSwwMDAwMDAwMDU5ZWE4ZDM5YzllNWRkNjljODFkNGNjYjY0ZmJlY2Nk`
+Snapshot ID: `MTY0MTEwOTgyMSwwMDAwMDAwMDU5ZWE4ZDM5YzllNWRkNjljODFkNGNjYjY0ZmJlY2Nk`

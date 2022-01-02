@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4E3UdUs7fUx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4E3UdUs7fUx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4E3UdUs7fUx)
 
-### [Afternoon Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX4E3UdUs7fUx)
+### [Afternoon Acoustic](https://open.spotify.com/playlist/70ri3ZmvP0HS9tUQD53FSg)
 
 > Unwind and let the afternoon unfold.
 

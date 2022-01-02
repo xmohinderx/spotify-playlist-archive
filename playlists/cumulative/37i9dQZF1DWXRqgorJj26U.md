@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRqgorJj26U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRqgorJj26U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXRqgorJj26U)
 
-### [Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U)
+### [Rock Classics](https://open.spotify.com/playlist/0QZOz4xhBHfQBRKVMnekpO)
 
 > Rock legends & epic songs spanning decades, that continue to inspire generations.
 

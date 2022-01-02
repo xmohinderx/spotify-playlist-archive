@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,130 likes - 150 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,150 likes - 150 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZixSclZdoFE.md) - [plain]
 | 149 | [Flexicution](https://open.spotify.com/track/2c8sgbZoEanC3QyFNZxUcA) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino](https://open.spotify.com/album/0WMr3ulx5Mzi1B3C8LsHVA) | 3:38 |
 | 150 | [Donald Trump](https://open.spotify.com/track/3uulVrxiI7iLTjOBZsaiF8) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Donald Trump \- Single](https://open.spotify.com/album/6eFkuEfykAUpthUiUeu3zw) | 2:45 |
 
-Snapshot ID: `MTY0MTEwODQyNCwwMDAwMDAwMGZjMmFhNDU1MjJlNmI4NGMzNzViNWIwYjk1MWNlMGIx`
+Snapshot ID: `MTY0MTEwOTkyMSwwMDAwMDAwMGZjMmFhNDU1MjJlNmI4NGMzNzViNWIwYjk1MWNlMGIx`

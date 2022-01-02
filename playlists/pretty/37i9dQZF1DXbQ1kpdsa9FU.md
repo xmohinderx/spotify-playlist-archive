@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,203 likes - 100 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,202 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
 | 100 | [With Lifted Hands](https://open.spotify.com/track/68246eHScV7Ay4sl9bsxIA) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [No Matter What](https://open.spotify.com/album/6ED9KeL0Y7IUlraK8i6deD) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODcwMSwwMDAwMDAwMDI1ZmZhMTJlNzYwN2M5OTQ4ZjI1MzI2NWMyYWEwZWMx`
+Snapshot ID: `MTY0MTExMDE3NywwMDAwMDAwMDI1ZmZhMTJlNzYwN2M5OTQ4ZjI1MzI2NWMyYWEwZWMx`

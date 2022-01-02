@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain]
 
 > The best music for just chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,277 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,276 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain]
 | 99 | [Coffee & Clouds](https://open.spotify.com/track/7xSeOWU5ppf7FnsnzlS2sk) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Bambie](https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv) | [Coffee & Clouds](https://open.spotify.com/album/0laFZyoafxIqe8EtXa0kV9) | 2:48 |
 | 100 | [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODY5OCwwMDAwMDAwMGY1YzFiNjRkMTEyMGJiNGI4NjA3NDNhNzU5MTk0Yjg2`
+Snapshot ID: `MTY0MTExMDE3NSwwMDAwMDAwMGY1YzFiNjRkMTEyMGJiNGI4NjA3NDNhNzU5MTk0Yjg2`

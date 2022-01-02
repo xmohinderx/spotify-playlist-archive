@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVRCxkZCaEUc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVRCxkZCaEUc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVRCxkZCaEUc)
 
-### [top down](https://open.spotify.com/playlist/37i9dQZF1DWVRCxkZCaEUc)
+### [top down](https://open.spotify.com/playlist/2v1NXtZTobpMMl5w4yIlYO)
 
 > tracks to play with the top down
 

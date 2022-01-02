@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > it's just chill vibes, respectfully
 
-[Spotify](https://open.spotify.com/user/spotify) - 685,255 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 685,262 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Too Much to Ask](https://open.spotify.com/track/3uMXL8dZPO0NwnsLQ63cC1) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/6XkV7UX68o3meM5Yl3BnMC) | 3:47 |
 | 100 | [Fool For You](https://open.spotify.com/track/3pEGNvJWWAfDSuUrQjEpEV) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [FEELS](https://open.spotify.com/album/7CqQYYERGNSq5xSgTuALLd) | 3:14 |
 
-Snapshot ID: `MTY0MTEwODUwMSwwMDAwMDAwMDYxODFlN2NjZDRhZmVjZTk2MzIzNTJjODQzNjk2NGY4`
+Snapshot ID: `MTY0MTEwOTk5NCwwMDAwMDAwMDYxODFlN2NjZDRhZmVjZTk2MzIzNTJjODQzNjk2NGY4`

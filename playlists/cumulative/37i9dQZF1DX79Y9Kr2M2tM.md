@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX79Y9Kr2M2tM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX79Y9Kr2M2tM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX79Y9Kr2M2tM)
 
-### [Chill + Atmospheric](https://open.spotify.com/playlist/37i9dQZF1DX79Y9Kr2M2tM)
+### [Chill + Atmospheric](https://open.spotify.com/playlist/1bJpZrfcjIxVYffJWDkWtS)
 
 > Float away on heady orchestrations and haunting harmonies...
 

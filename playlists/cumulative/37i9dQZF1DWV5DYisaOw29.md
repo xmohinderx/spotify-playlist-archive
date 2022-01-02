@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV5DYisaOw29.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV5DYisaOw29) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV5DYisaOw29)
 
-### [PRIDE: Detroit](https://open.spotify.com/playlist/37i9dQZF1DWV5DYisaOw29)
+### [PRIDE: Detroit](https://open.spotify.com/playlist/623AC8Z1fYMYt9K4uN3qss)
 
 > DJ Minx co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Motor City has to offer!
 

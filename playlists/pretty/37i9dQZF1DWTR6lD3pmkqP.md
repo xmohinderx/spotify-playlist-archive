@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Portico Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,834 likes - 250 songs - 20 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,835 likes - 250 songs - 20 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Morning Light](https://open.spotify.com/track/6mNsWIUeTuxOAlbVlNzam5) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [Freedom Fables](https://open.spotify.com/album/7dGOyxCI4QXNFxHEpgD4jt) | 5:27 |
 | 250 | [Go My Heart, Go To Heaven](https://open.spotify.com/track/37qEsJ7QH5efXVkhnAQDDL) | [Shabaka and the Ancestors](https://open.spotify.com/artist/5RSOkfm0B0WR4IBbVUtYXk) | [We Are Sent Here By History](https://open.spotify.com/album/4S5MLu2PKU7uElm2V3JphK) | 6:38 |
 
-Snapshot ID: `MTY0MTEwODI5NywwMDAwMDAwMDRkOWMyNzc5ZDcxODU0M2I2ZjNjNWUyNWRkNGQyMjA2`
+Snapshot ID: `MTY0MTEwOTgwMCwwMDAwMDAwMDRkOWMyNzc5ZDcxODU0M2I2ZjNjNWUyNWRkNGQyMjA2`

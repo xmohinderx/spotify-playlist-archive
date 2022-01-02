@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZel4xa7wX1s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZel4xa7wX1s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZel4xa7wX1s)
 
-### [The New Waltz](https://open.spotify.com/playlist/37i9dQZF1DWZel4xa7wX1s)
+### [The New Waltz](https://open.spotify.com/playlist/3T7FuaCHpe9xluTwkrgztG)
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 

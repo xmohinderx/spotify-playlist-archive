@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,931 likes - 75 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,934 likes - 75 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 74 | [First Day](https://open.spotify.com/track/7J4V7ZzCiHFZ3lGjIVTJh3) | [Gazelle Twin](https://open.spotify.com/artist/0O9n1swkbCd1KqV2QrSVHl), [Max de Wardener](https://open.spotify.com/artist/0Nz05huPXhsMC0iyVVlqZG) | [The Power \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5jHpOG03Uzop0cHriE1z72) | 1:36 |
 | 75 | [Utopian Facade](https://open.spotify.com/track/2v6NosEeFeXZxeW5GF3yHH) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Lost Themes II](https://open.spotify.com/album/3TOEqLzKnG2Jg3oftnJFyS) | 3:47 |
 
-Snapshot ID: `MTY0MTEwODUzOCwwMDAwMDAwMDhkMWZiYTI2ZTk0MjQyZWU5MGUxMmQ5ZjVlNDc1ZDg2`
+Snapshot ID: `MTY0MTExMDAyOSwwMDAwMDAwMDhkMWZiYTI2ZTk0MjQyZWU5MGUxMmQ5ZjVlNDc1ZDg2`

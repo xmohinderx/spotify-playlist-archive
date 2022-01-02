@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLesry2Qw2xS.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLesry2Qw2xS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLesry2Qw2xS)
 
-### [Top 50 \- Estonia](https://open.spotify.com/playlist/37i9dQZEVXbLesry2Qw2xS)
+### [Top 50 \- Estonia](https://open.spotify.com/playlist/3HQPm29HNUlIDpNo0WRR2W)
 
 > Your daily update of the most played tracks right now \- Estonia.
 

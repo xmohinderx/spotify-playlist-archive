@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKfIuOAZrk7G.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKfIuOAZrk7G) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKfIuOAZrk7G)
 
-### [Viral 50 \- Canada](https://open.spotify.com/playlist/37i9dQZEVXbKfIuOAZrk7G)
+### [Viral 50 \- Canada](https://open.spotify.com/playlist/7wpwmjDxIyfeAPJQUP9XOc)
 
 > Your daily update of the most viral tracks right now \- Canada.
 

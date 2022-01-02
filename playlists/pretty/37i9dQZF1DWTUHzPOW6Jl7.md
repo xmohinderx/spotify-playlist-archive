@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,696 likes - 101 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,705 likes - 101 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 100 | [Touch](https://open.spotify.com/track/4YzbdSB5YcnRq47rdY7dD4) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:38 |
 | 101 | [Trick Me](https://open.spotify.com/track/3aImJnJlAgcE7bJ1NxthGt) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Tasty](https://open.spotify.com/album/7zesXMFikT4DdgkklIk3Jz) | 3:26 |
 
-Snapshot ID: `MTY0MTEwODMwMCwwMDAwMDAwMDFmMjBmN2FkYzA2MDMzMDdlMWQ3ZTEyYzA3YmM0YWE3`
+Snapshot ID: `MTY0MTEwOTgwMywwMDAwMDAwMDFmMjBmN2FkYzA2MDMzMDdlMWQ3ZTEyYzA3YmM0YWE3`

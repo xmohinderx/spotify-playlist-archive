@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2aDOU7r4aV.md) - [plain]
 
 > Our editor picks for the year's best hits! Cover: Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,833 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,835 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

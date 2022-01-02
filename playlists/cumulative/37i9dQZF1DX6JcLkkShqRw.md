@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6JcLkkShqRw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JcLkkShqRw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JcLkkShqRw)
 
-### [Flow al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6JcLkkShqRw)
+### [Flow al Sur](https://open.spotify.com/playlist/3fVDETWJMmsiqTI070RHbC)
 
 > La nueva es del Sur, y suena así...Foto: Lenny Tavárez & KHEA.
 

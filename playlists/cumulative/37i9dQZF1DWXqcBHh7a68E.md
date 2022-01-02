@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXqcBHh7a68E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXqcBHh7a68E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXqcBHh7a68E)
 
-### [This Is: Rag'n'Bone Man](https://open.spotify.com/playlist/37i9dQZF1DWXqcBHh7a68E)
+### [This Is: Rag'n'Bone Man](https://open.spotify.com/playlist/6lsFrYubTQhfJDjJ9nHLa3)
 
 > The essential tracks, all in one playlist.
 

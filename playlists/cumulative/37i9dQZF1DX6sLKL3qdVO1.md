@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6sLKL3qdVO1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sLKL3qdVO1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sLKL3qdVO1)
 
-### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
+### [Dale Flow](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Foto: Kim Loaiza
 

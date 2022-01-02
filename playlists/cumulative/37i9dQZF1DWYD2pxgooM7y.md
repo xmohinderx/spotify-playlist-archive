@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYD2pxgooM7y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYD2pxgooM7y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYD2pxgooM7y)
 
-### [Sun Kissed](https://open.spotify.com/playlist/37i9dQZF1DWYD2pxgooM7y)
+### [Sun Kissed](https://open.spotify.com/playlist/6cyWpehxt0KCj4u5mLdL90)
 
 > Summertime sadness everyday
 

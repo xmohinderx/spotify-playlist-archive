@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 
 > Favorite rock and gems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,884 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,886 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKHVXMYcCuJ.md) - [plain]
 | 99 | [Always](https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Open Book](https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH) | 3:11 |
 | 100 | [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 |
 
-Snapshot ID: `MTY0MTEwODcyMCwwMDAwMDAwMGU3Mzc2Zjk4NzRiNjBjYzlhNGM1NWZiYmVkODJmMTE2`
+Snapshot ID: `MTY0MTExMDE5NiwwMDAwMDAwMGU3Mzc2Zjk4NzRiNjBjYzlhNGM1NWZiYmVkODJmMTE2`

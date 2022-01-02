@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental jazz songs\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,587 likes - 125 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 125 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 124 | [For The Want Of A Kiss](https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Unforgettable](https://open.spotify.com/album/1uuWhIhlm6T5RoMM7ALp5V) | 3:01 |
 | 125 | [A Bad Case Of The Blues](https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Gold](https://open.spotify.com/album/1H1HA3q5mq61SFUs9HIhoT) | 2:37 |
 
-Snapshot ID: `MTY0MTEwODU1MCwwMDAwMDAwMDIyZmJmNGFmNzQ5ZDIyZTRjZjMwMTU0MTIzZWQxZWI4`
+Snapshot ID: `MTY0MTExMDA0MSwwMDAwMDAwMDIyZmJmNGFmNzQ5ZDIyZTRjZjMwMTU0MTIzZWQxZWI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > ¡Quiero Salsa, dame Salsa! Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,815 likes - 90 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,814 likes - 90 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 89 | [El Malecón](https://open.spotify.com/track/2wdAmuWojyWwUoP05HyTSh) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J) | [Me And My Monkey](https://open.spotify.com/album/6l0C323q2x7VGmK7xLssBc) | 5:17 |
 | 90 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Dicen Que Soy](https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u) | 4:57 |
 
-Snapshot ID: `MTY0MTEwODMxNCwwMDAwMDAwMDA0NDkyZGJjM2Y4NTI0MDJlZDBlYTViN2RmODJjMmFi`
+Snapshot ID: `MTY0MTEwOTgxNiwwMDAwMDAwMDA0NDkyZGJjM2Y4NTI0MDJlZDBlYTViN2RmODJjMmFi`

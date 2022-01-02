@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6o2KmaQFzHW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6o2KmaQFzHW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6o2KmaQFzHW)
 
-### [Folklore de Siempre](https://open.spotify.com/playlist/37i9dQZF1DX6o2KmaQFzHW)
+### [Folklore de Siempre](https://open.spotify.com/playlist/4wtAcRqaRr1DxciaVaIabv)
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Ramón Ayala El Mensú.
 

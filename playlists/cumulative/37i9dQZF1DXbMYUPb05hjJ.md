@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbMYUPb05hjJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbMYUPb05hjJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbMYUPb05hjJ)
 
-### [Garage Rock Revival](https://open.spotify.com/playlist/37i9dQZF1DXbMYUPb05hjJ)
+### [Garage Rock Revival](https://open.spotify.com/playlist/0WE4y9j38pkHLOQzcuOVJZ)
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 

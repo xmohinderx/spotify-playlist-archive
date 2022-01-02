@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1jDTenPbqLo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1jDTenPbqLo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1jDTenPbqLo)
 
-### [Light Academia](https://open.spotify.com/playlist/37i9dQZF1DX1jDTenPbqLo)
+### [Light Academia](https://open.spotify.com/playlist/3YDLXlCH3NK8v6RUtILE2s)
 
 > daydreaming, an unfinished book, soft sunlight and a fresh pot of tea
 

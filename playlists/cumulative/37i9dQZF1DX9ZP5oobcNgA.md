@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9ZP5oobcNgA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9ZP5oobcNgA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9ZP5oobcNgA)
 
-### [This Is Handel](https://open.spotify.com/playlist/37i9dQZF1DX9ZP5oobcNgA)
+### [This Is Handel](https://open.spotify.com/playlist/6svP3bBxJ9EcvyqG2SOUXM)
 
 > Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.
 

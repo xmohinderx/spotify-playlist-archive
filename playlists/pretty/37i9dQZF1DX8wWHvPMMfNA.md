@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 79 | [Danny Boy](https://open.spotify.com/track/0CS1pTW0N61b4yqHYWmsBQ) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:36 |
 | 80 | [502 Blues \(Drinkin' And Drivin'\) \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:34 |
 
-Snapshot ID: `MTY0MTEwODY0MywwMDAwMDAwMGRlNWZhZmE4YWRlOGRmMGVmMGI3ZDU2Y2Y3OTUzM2Fk`
+Snapshot ID: `MTY0MTExMDEyOCwwMDAwMDAwMGRlNWZhZmE4YWRlOGRmMGVmMGI3ZDU2Y2Y3OTUzM2Fk`

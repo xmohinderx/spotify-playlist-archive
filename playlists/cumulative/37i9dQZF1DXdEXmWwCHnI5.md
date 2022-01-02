@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdEXmWwCHnI5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdEXmWwCHnI5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdEXmWwCHnI5)
 
-### [Office Offensive](https://open.spotify.com/playlist/37i9dQZF1DXdEXmWwCHnI5)
+### [Office Offensive](https://open.spotify.com/playlist/6iDkWBXYKr1yAg6H1PUuiF)
 
 > Job talk, work\-life rants, office espionage, and more\. \[Warning: Explicit Content\]
 

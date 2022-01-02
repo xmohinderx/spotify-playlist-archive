@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbXD9pMSZomS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbXD9pMSZomS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbXD9pMSZomS)
 
-### [Lo\-Fi House](https://open.spotify.com/playlist/37i9dQZF1DXbXD9pMSZomS)
+### [Lo\-Fi House](https://open.spotify.com/playlist/07qDvOBagx5S8EJa8xnFvt)
 
 > Distorted and rough around the edges.
 

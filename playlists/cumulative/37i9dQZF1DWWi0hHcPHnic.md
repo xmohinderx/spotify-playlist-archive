@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWi0hHcPHnic.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWi0hHcPHnic) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWi0hHcPHnic)
 
-### [This Is KIDZ BOP Kids](https://open.spotify.com/playlist/37i9dQZF1DWWi0hHcPHnic)
+### [This Is KIDZ BOP Kids](https://open.spotify.com/playlist/4swCf59ZleNeASHQUD8NaP)
 
 > Your favorite KIDZ BOP hits, all in one place!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9NQwLalzEM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9NQwLalzEM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc9NQwLalzEM)
 
-### [Rare Soul Grooves](https://open.spotify.com/playlist/37i9dQZF1DXc9NQwLalzEM)
+### [Rare Soul Grooves](https://open.spotify.com/playlist/2qsloYSmMKpXRTPmf7TGhq)
 
 > Vintage soul gems from the archives.
 

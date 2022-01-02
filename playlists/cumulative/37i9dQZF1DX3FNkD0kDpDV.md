@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3FNkD0kDpDV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3FNkD0kDpDV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3FNkD0kDpDV)
 
-### [Gray Area Guest List](https://open.spotify.com/playlist/37i9dQZF1DX3FNkD0kDpDV)
+### [Gray Area Guest List](https://open.spotify.com/playlist/3ZZheCoq2krlIb03B150LK)
 
 > <a href="https://grayarea.co/">Gray Area</a> is the hub of House Music culture & discovery with a mission to unify and strengthen House Music community around the World\. Let there be MORE House!
 

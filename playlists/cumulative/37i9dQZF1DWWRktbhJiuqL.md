@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWRktbhJiuqL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWRktbhJiuqL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWRktbhJiuqL)
 
-### [Pure Rock & Roll](https://open.spotify.com/playlist/37i9dQZF1DWWRktbhJiuqL)
+### [Pure Rock & Roll](https://open.spotify.com/playlist/7GR81fCC3XyMT25TeYTKkp)
 
 > Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
 

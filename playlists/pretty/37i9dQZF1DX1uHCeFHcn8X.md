@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,708 likes - 250 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,722 likes - 250 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Electric \(feat\. Khalid\)](https://open.spotify.com/track/20TYNq9o5sdBAbkCWE9ih7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Electric \(feat\. Khalid\)](https://open.spotify.com/album/4xcjwu5Lyyu0uYTknhuK7X) | 4:06 |
 | 250 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 
-Snapshot ID: `MTY0MTEwODQ3NiwwMDAwMDAwMGFjMDMyN2VhZjY2YmUzMzA2ZjNjNDlmMzAzMDEzMmM5`
+Snapshot ID: `MTY0MTEwOTk3MCwwMDAwMDAwMGFjMDMyN2VhZjY2YmUzMzA2ZjNjNDlmMzAzMDEzMmM5`

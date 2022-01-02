@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,320,653 likes - 40 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,320,656 likes - 40 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 39 | [Loved By You \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4S3FRqrM3VyuajD7jFZcLm) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [The Transition of Mali](https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14) | 4:18 |
 | 40 | [Back Together \(feat\. Rick James\)](https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo), [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Back Together \(feat\. Rick James\)](https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL) | 3:58 |
 
-Snapshot ID: `MTY0MTEwODQ4NywwMDAwMDAwMDdkZTdkYzYxMjJiMzRiMzY0YWRjMmYwNjQ3NDU1YzM4`
+Snapshot ID: `MTY0MTEwOTk4MSwwMDAwMDAwMDdkZTdkYzYxMjJiMzRiMzY0YWRjMmYwNjQ3NDU1YzM4`

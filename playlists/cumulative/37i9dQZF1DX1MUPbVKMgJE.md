@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1MUPbVKMgJE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1MUPbVKMgJE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1MUPbVKMgJE)
 
-### [Disco Forever](https://open.spotify.com/playlist/37i9dQZF1DX1MUPbVKMgJE)
+### [Disco Forever](https://open.spotify.com/playlist/2lNcz8O64Bm1FCmlmRhUK3)
 
 > All your Disco favorites.
 

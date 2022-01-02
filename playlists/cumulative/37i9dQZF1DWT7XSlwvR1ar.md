@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT7XSlwvR1ar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT7XSlwvR1ar) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT7XSlwvR1ar)
 
-### [Totally Stress Free](https://open.spotify.com/playlist/37i9dQZF1DWT7XSlwvR1ar)
+### [Totally Stress Free](https://open.spotify.com/playlist/37RWAGQot1VZ0VVt7JhYiV)
 
 > No need to stress out\. Stay relaxed with these easy, upbeat songs.
 

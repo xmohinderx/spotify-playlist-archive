@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYtQSOiZF6hj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYtQSOiZF6hj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYtQSOiZF6hj)
 
-### [Happy Birthday](https://open.spotify.com/playlist/37i9dQZF1DWYtQSOiZF6hj)
+### [Happy Birthday](https://open.spotify.com/playlist/5FNcj9ShVqtyKHQLOUG04T)
 
 > Great songs for your birthday! Let's celebrate!
 

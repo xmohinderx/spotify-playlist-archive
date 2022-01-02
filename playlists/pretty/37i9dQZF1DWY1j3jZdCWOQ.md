@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > spain without the s 🖤
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,162 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,180 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 49 | [Visitation Of The Ghost](https://open.spotify.com/track/0UspsjF4bHzpQdvHvKM3hV) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:23 |
 | 50 | [PLAYBOY'S DAUGHTER](https://open.spotify.com/track/0AyL36pKclslGTByo1YYIZ) | [Girl Wilde](https://open.spotify.com/artist/3mXtJbEuxKBrOFSKIP16t2) | [PLAYBOY'S DAUGHTER](https://open.spotify.com/album/00bHrZcg7IJ2Vb8NbEUIvD) | 2:37 |
 
-Snapshot ID: `MTY0MTEwODM5MSwwMDAwMDAwMDgyNWVmOGQ5MGI5NDZlNzExNTVjNzU4ODI4MDliNTJh`
+Snapshot ID: `MTY0MTEwOTg5MCwwMDAwMDAwMDgyNWVmOGQ5MGI5NDZlNzExNTVjNzU4ODI4MDliNTJh`

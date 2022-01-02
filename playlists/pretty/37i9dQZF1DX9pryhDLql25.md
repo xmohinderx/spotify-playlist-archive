@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Housebroken Man](https://open.spotify.com/track/1LqsC52W6xIfohpYXYyhYA) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl), [Cary Ann Hearst](https://open.spotify.com/artist/2Fwqnm1kpxK4BZgWrsG5qm) | [Housebroken Man](https://open.spotify.com/album/7asKZ65yRtSIdDo0jFPfQt) | 3:46 |
 | 75 | [I'll Be the One](https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [My Gospel](https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK) | 4:21 |
 
-Snapshot ID: `MTY0MTEwODY2NSwwMDAwMDAwMGM0YzY0NjE3NzlkNzI1NjUxNTBlZGNhODYzOTE4NWM0`
+Snapshot ID: `MTY0MTExMDE0NCwwMDAwMDAwMGM0YzY0NjE3NzlkNzI1NjUxNTBlZGNhODYzOTE4NWM0`

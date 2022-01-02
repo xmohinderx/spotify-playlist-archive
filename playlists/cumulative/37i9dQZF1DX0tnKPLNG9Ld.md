@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0tnKPLNG9Ld.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0tnKPLNG9Ld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0tnKPLNG9Ld)
 
-### [Sunny Day Jazz](https://open.spotify.com/playlist/37i9dQZF1DX0tnKPLNG9Ld)
+### [Sunny Day Jazz](https://open.spotify.com/playlist/17UmPpGpDE0CvSJx06ZMsA)
 
 > Blue skies, nothing but blue skies.
 

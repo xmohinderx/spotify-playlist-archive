@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35vibahyjHG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35vibahyjHG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35vibahyjHG)
 
-### [EQUAL Africa](https://open.spotify.com/playlist/37i9dQZF1DX35vibahyjHG)
+### [EQUAL Africa](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
 > The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB?si=ebt0DFdHT5ufCbsE6bCfBQ"> Muthoni Drummer Queen </a>
 

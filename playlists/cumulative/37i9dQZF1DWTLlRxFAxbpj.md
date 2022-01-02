@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTLlRxFAxbpj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTLlRxFAxbpj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTLlRxFAxbpj)
 
-### [Spring Loaded](https://open.spotify.com/playlist/37i9dQZF1DWTLlRxFAxbpj)
+### [Spring Loaded](https://open.spotify.com/playlist/71CyiFhCCLykEokdnepQoU)
 
 > You're on Spring Break...turn it up and start acting like it!
 

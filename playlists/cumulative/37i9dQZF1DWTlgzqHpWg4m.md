@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTlgzqHpWg4m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTlgzqHpWg4m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTlgzqHpWg4m)
 
-### [California Rock State](https://open.spotify.com/playlist/37i9dQZF1DWTlgzqHpWg4m)
+### [California Rock State](https://open.spotify.com/playlist/4SbwVdVItzfdu5SIZ5qyZY)
 
 > Bands from and songs about The Golden State\. Here's your playlist for California Dreamin'
 

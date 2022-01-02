@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,522 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,523 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 99 | [When Your Heart Stops Beating](https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/46aFyiJiOIKPuxt6j574XA) | 3:12 |
 | 100 | [Drown In My Mind](https://open.spotify.com/track/1i2t3VyIcsAonPhK6wjuJp) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Waves](https://open.spotify.com/album/0XuCUVcke1oKsdxuvqIk1O) | 3:00 |
 
-Snapshot ID: `MTY0MTEwODQzNCwwMDAwMDAwMGI2NjVkYzBjYWZmNjA5NWY1NjBhZTQ5MWM1MTQ2MTgy`
+Snapshot ID: `MTY0MTEwOTkzMCwwMDAwMDAwMGI2NjVkYzBjYWZmNjA5NWY1NjBhZTQ5MWM1MTQ2MTgy`

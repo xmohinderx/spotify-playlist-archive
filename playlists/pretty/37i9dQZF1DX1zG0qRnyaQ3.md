@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [She Thinks She's Punk Rock n Roll](https://open.spotify.com/track/6rORfOw4UI416oAolzgOXk) | [Hands Off Gretel](https://open.spotify.com/artist/48GgebpHGBikfDXg0o592i) | [The Angry EP](https://open.spotify.com/album/5lq1pUDqoUtbqcDTRhziDW) | 2:05 |
 | 50 | [Pursuit of Liberty](https://open.spotify.com/track/46QmqGEZWXTNCN0uv3oKCw) | [Bad Cop, Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Pursuit of Liberty](https://open.spotify.com/album/5mSka34yO6kgDgHa6IauoF) | 3:23 |
 
-Snapshot ID: `MTY0MTEwODQ3OSwwMDAwMDAwMGU5ODFjMTQzNDUzZTQyMmNkODlhYzFiMzUwMWI4NzMy`
+Snapshot ID: `MTY0MTEwOTk3MywwMDAwMDAwMGU5ODFjMTQzNDUzZTQyMmNkODlhYzFiMzUwMWI4NzMy`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6GRSnGELn7L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6GRSnGELn7L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GRSnGELn7L)
 
-### [Got Djent?](https://open.spotify.com/playlist/37i9dQZF1DX6GRSnGELn7L)
+### [Got Djent?](https://open.spotify.com/playlist/3FSD1cPTm5Jn7t9GfW79Oi)
 
 > Whether you call it technical, progressive or math metal, it all djents\. Cover: Animals As Leaders
 

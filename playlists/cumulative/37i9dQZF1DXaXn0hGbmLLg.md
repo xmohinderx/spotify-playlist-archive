@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaXn0hGbmLLg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaXn0hGbmLLg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaXn0hGbmLLg)
 
-### [EQUAL Netherlands](https://open.spotify.com/playlist/37i9dQZF1DXaXn0hGbmLLg)
+### [EQUAL Netherlands](https://open.spotify.com/playlist/4HFBvyCxCRzRXdAd3xUnbU)
 
 > Women at full volume! Luister naar muziek van vrouwen uit Nederland\. Cover: Yade Lauren
 

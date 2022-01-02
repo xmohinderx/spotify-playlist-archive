@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 
 > Happy New Year! A mix of the biggest pop, dance, and hip hop hits\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,045,625 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,045,630 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PvUpywmrr.md) - [plain]
 | 74 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 |
 | 75 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 |
 
-Snapshot ID: `MTY0MTEwODY3MCwwMDAwMDAwMDI2NmViMWYxYmE3Y2FiMzYxYWFiZjJiNWExMWEzZGQ2`
+Snapshot ID: `MTY0MTExMDE0OCwwMDAwMDAwMDI2NmViMWYxYmE3Y2FiMzYxYWFiZjJiNWExMWEzZGQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Kacey Musgraves
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,831 likes - 199 songs - 11 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,834 likes - 199 songs - 11 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 | 198 | [Scars To Your Beautiful](https://open.spotify.com/track/4JPM6TuFJgccpoKLKmleDD) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [Scars To Your Beautiful](https://open.spotify.com/album/7wMuoQxclWrghUMcDyzMhJ) | 4:17 |
 | 199 | [Someone You Loved](https://open.spotify.com/track/0VF4TY3HJBHRmaKSY1bxpF) | [Lain Roy](https://open.spotify.com/artist/76Xhl3MVWLX8m6XtWkdbfI) | [Someone You Loved](https://open.spotify.com/album/25GWC11DEuw5a6ADXWUrbi) | 3:03 |
 
-Snapshot ID: `MTY0MTEwODQ5MywwMDAwMDAwMDUyMzkzYWYzNGM5NTdhNjAyOWI0NGIwMzM2ZWMyMTJj`
+Snapshot ID: `MTY0MTEwOTk4NywwMDAwMDAwMDUyMzkzYWYzNGM5NTdhNjAyOWI0NGIwMzM2ZWMyMTJj`

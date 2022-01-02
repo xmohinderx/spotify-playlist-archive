@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9Y4P09E4dNP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9Y4P09E4dNP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9Y4P09E4dNP)
 
-### [Hip\-Life Hits](https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP)
+### [Hip\-Life Hits](https://open.spotify.com/playlist/3Z2XtpSUEyDALyzM9IVooA)
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 

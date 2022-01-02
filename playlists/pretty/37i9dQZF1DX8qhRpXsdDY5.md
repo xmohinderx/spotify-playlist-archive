@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,169 likes - 98 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,166 likes - 98 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 97 | [Por La Paz](https://open.spotify.com/track/5JrU1kaeVGEgGB4gUZs8Bp) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Estrellas de Navidad](https://open.spotify.com/album/0jUakt5QsrlOsrGV4u8TxU) | 3:43 |
 | 98 | [El Niño Jesus](https://open.spotify.com/track/5nkotu365Il2wz2JnPYCNY) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [El Niño Jesus \- Single](https://open.spotify.com/album/2Y8Xbcwhyx5cw4UoeiMhJE) | 3:50 |
 
-Snapshot ID: `MTY0MTEwODY0MSwwMDAwMDAwMDU4N2NlZTllYzJkNTU4MmNkOTJiYTY2N2YyNWYwNDNi`
+Snapshot ID: `MTY0MTExMDEyNiwwMDAwMDAwMDU4N2NlZTllYzJkNTU4MmNkOTJiYTY2N2YyNWYwNDNi`

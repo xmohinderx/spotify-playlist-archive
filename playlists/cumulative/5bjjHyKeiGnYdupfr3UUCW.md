@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5bjjHyKeiGnYdupfr3UUCW.md) - cumulative - [plain](/playlists/plain/5bjjHyKeiGnYdupfr3UUCW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5bjjHyKeiGnYdupfr3UUCW)
 
-### [Ultimate Live Jams](https://open.spotify.com/playlist/5bjjHyKeiGnYdupfr3UUCW)
+### [Ultimate Live Jams](https://open.spotify.com/playlist/0FczPsVU64a77eAhBPtUpP)
 
 > Ten hours of ultimate jams —all long, all live.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqUHC2tviPw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqUHC2tviPw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqUHC2tviPw)
 
-### [Heavy Beats](https://open.spotify.com/playlist/37i9dQZF1DWZqUHC2tviPw)
+### [Heavy Beats](https://open.spotify.com/playlist/6VwdykSTPFgJcfQcjE3Tsi)
 
 > Instrumental trap beats to boost your weight lifting workout.
 

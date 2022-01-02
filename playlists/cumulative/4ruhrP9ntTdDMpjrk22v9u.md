@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4ruhrP9ntTdDMpjrk22v9u.md) - cumulative - [plain](/playlists/plain/4ruhrP9ntTdDMpjrk22v9u) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4ruhrP9ntTdDMpjrk22v9u)
 
-### [Top Picks Kids](https://open.spotify.com/playlist/4ruhrP9ntTdDMpjrk22v9u)
+### [Top Picks Kids](https://open.spotify.com/playlist/44XJQkzIwjZrMA7OaZDl5u)
 
 > 
 

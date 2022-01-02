@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: Jim Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,720 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,733 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [My Womans Head](https://open.spotify.com/track/3m0wZuXpHAse472ASMfTpU) | [Sly Stone & The Mojo Men](https://open.spotify.com/artist/6ihpa5zgHEYPbYr27mSAuj) | [Psychedelic Rock](https://open.spotify.com/album/6KxCnCQbrEcyVgfhncxUGN) | 3:01 |
 | 75 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
 
-Snapshot ID: `MTY0MTEwODI2NSwwMDAwMDAwMDA5Zjc1NThmNDE0OTY5MGNhYmI0N2Y1ZmY1NGVlODU2`
+Snapshot ID: `MTY0MTEwOTc3MCwwMDAwMDAwMDA5Zjc1NThmNDE0OTY5MGNhYmI0N2Y1ZmY1NGVlODU2`

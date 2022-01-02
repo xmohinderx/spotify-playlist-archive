@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5McngUiuALFIS4VVF4oko5.md) - cumulative - [plain](/playlists/plain/5McngUiuALFIS4VVF4oko5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5McngUiuALFIS4VVF4oko5)
 
-### [It Only Takes Two](https://open.spotify.com/playlist/5McngUiuALFIS4VVF4oko5)
+### [It Only Takes Two](https://open.spotify.com/playlist/325Jyut4dbApNPZbs4zUNy)
 
 > No, not to tango..\. to write an awesome rock song! These duos know how to make a lot out of what they've got.
 

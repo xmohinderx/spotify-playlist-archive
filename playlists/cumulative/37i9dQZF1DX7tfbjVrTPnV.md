@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7tfbjVrTPnV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7tfbjVrTPnV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7tfbjVrTPnV)
 
-### [Americana Icons](https://open.spotify.com/playlist/37i9dQZF1DX7tfbjVrTPnV)
+### [Americana Icons](https://open.spotify.com/playlist/7LN5PEHjWoyc7Gr8YesNHn)
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Rodney Crowell
 

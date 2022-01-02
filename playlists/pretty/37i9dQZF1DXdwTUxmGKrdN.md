@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,382 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,381 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 49 | [Window of the Soul](https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Presence](https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb) | 4:07 |
 | 50 | [Close Your Eyes](https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ) | [Steve Laury](https://open.spotify.com/artist/71eZRpNSsXNHg2v0ahOlmN) | [Keepin' the Faith](https://open.spotify.com/album/0JBQoZCxqbAAjIBMq0Qz1T) | 5:05 |
 
-Snapshot ID: `MTY0MTEwODc1MywwMDAwMDAwMDU2ODVkM2IwMjFlMjNhZWFlMTBhZTEzMjAyZjE4MTgx`
+Snapshot ID: `MTY0MTExMDIyNywwMDAwMDAwMDU2ODVkM2IwMjFlMjNhZWFlMTBhZTEzMjAyZjE4MTgx`

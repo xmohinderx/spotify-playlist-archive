@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXDJDWnzE39E.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXDJDWnzE39E) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXDJDWnzE39E)
 
-### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
+### [Heavy Queens](https://open.spotify.com/playlist/2PwU7tbcMm117R21Ot8It9)
 
 > A salute to all of the women that like it loud & heavy\. Cover: Nova Twins
 

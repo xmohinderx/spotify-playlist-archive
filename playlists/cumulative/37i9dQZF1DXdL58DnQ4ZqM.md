@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdL58DnQ4ZqM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdL58DnQ4ZqM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdL58DnQ4ZqM)
 
-### [Lazy Chill Afternoon](https://open.spotify.com/playlist/37i9dQZF1DXdL58DnQ4ZqM)
+### [Lazy Chill Afternoon](https://open.spotify.com/playlist/0pfme9U2upA9SIxDVZWpEc)
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 

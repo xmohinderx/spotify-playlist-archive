@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Rodney Crowell
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,990 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,991 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [House of the White Rose Bouquet](https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [House of the White Rose Bouquet](https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb) | 3:23 |
 | 150 | [No Later Than Soon](https://open.spotify.com/track/21J6IIzFPM2BUyCGN6QvA4) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [Black Roses](https://open.spotify.com/album/56XdG9KmxCkvFLOH0E7dEN) | 2:56 |
 
-Snapshot ID: `MTY0MTEwODYxOSwwMDAwMDAwMDAxZjdmM2FhM2ZhMTAzN2JiYjJlMDQ1MmExM2IwMWIw`
+Snapshot ID: `MTY0MTExMDEwNiwwMDAwMDAwMDAxZjdmM2FhM2ZhMTAzN2JiYjJlMDQ1MmExM2IwMWIw`

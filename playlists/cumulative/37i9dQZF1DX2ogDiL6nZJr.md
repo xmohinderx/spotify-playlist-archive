@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ogDiL6nZJr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ogDiL6nZJr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ogDiL6nZJr)
 
-### [Van Life](https://open.spotify.com/playlist/37i9dQZF1DX2ogDiL6nZJr)
+### [Van Life](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 > Home is where you park it.
 

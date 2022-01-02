@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7CHrwiytyubNpnaZqyyUkb.md) - cumulative - [plain](/playlists/plain/7CHrwiytyubNpnaZqyyUkb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7CHrwiytyubNpnaZqyyUkb)
 
-### [Beer 'n Burgers](https://open.spotify.com/playlist/7CHrwiytyubNpnaZqyyUkb)
+### [Beer 'n Burgers](https://open.spotify.com/playlist/1LHqBu1TKoDsRTt8biQCn9)
 
 > Rockabilly and old school rock & roll—the perfect soundtrack to a night of beer and burgers.
 

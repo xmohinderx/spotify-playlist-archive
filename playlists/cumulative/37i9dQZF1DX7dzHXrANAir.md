@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7dzHXrANAir.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7dzHXrANAir) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7dzHXrANAir)
 
-### [Classical X](https://open.spotify.com/playlist/37i9dQZF1DX7dzHXrANAir)
+### [Classical X](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 

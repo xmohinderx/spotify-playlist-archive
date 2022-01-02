@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: Fleet Foxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,083 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,086 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9crXQ0wuuXE.md) - [plain]
 | 99 | [Tried to Tell You](https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 3:38 |
 | 100 | [Dark Child \- Single Edit](https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/514G60yXX7mHxl67i5DYld) | 3:57 |
 
-Snapshot ID: `MTY0MTEwODY1NiwwMDAwMDAwMDc5NGFlNTE2MWRjNzYzMTcwMjNhN2ZhNzlkMjU1NTY4`
+Snapshot ID: `MTY0MTExMDE0MCwwMDAwMDAwMDc5NGFlNTE2MWRjNzYzMTcwMjNhN2ZhNzlkMjU1NTY4`

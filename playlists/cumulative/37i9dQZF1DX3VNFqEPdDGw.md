@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3VNFqEPdDGw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3VNFqEPdDGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3VNFqEPdDGw)
 
-### [Bhangra Bangers](https://open.spotify.com/playlist/37i9dQZF1DX3VNFqEPdDGw)
+### [Bhangra Bangers](https://open.spotify.com/playlist/0uMzddXjKauDUllx7hMr3q)
 
 > Bold bops from Ludhiana to London\. Cover: Sidhu Moose Wala.
 

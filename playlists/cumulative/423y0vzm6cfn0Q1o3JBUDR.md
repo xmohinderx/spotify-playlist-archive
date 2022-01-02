@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/423y0vzm6cfn0Q1o3JBUDR.md) - cumulative - [plain](/playlists/plain/423y0vzm6cfn0Q1o3JBUDR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/423y0vzm6cfn0Q1o3JBUDR)
 
-### [Marie \- Sassy](https://open.spotify.com/playlist/423y0vzm6cfn0Q1o3JBUDR)
+### [Marie \- Sassy](https://open.spotify.com/playlist/6kKJOxVm1xvreiHrnfN7Bg)
 
 > 
 

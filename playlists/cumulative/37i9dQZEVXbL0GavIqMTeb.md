@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbL0GavIqMTeb.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbL0GavIqMTeb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbL0GavIqMTeb)
 
-### [Top 50 \- Chile](https://open.spotify.com/playlist/37i9dQZEVXbL0GavIqMTeb)
+### [Top 50 \- Chile](https://open.spotify.com/playlist/0ZrUZpXe2rRTxSTwZ2QYuw)
 
 > Your daily update of the most played tracks right now \- Chile.
 

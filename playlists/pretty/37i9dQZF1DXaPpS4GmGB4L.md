@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPpS4GmGB4L.md) - [plain]
 | 49 | [Don't Want No Woman](https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [I Pity The Fool: The Duke Recordings, Vol\. One](https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6) | 2:37 |
 | 50 | [Wang Dang Doodle](https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:27 |
 
-Snapshot ID: `MTY0MTEwODY3OSwwMDAwMDAwMGY3MjhjZDA0NWJiZTQyZjQxMzJiOTM0NzZmMTJhYTFm`
+Snapshot ID: `MTY0MTExMDE1NiwwMDAwMDAwMGY3MjhjZDA0NWJiZTQyZjQxMzJiOTM0NzZmMTJhYTFm`

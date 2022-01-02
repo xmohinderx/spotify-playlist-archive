@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZgauS5j6pMv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZgauS5j6pMv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZgauS5j6pMv)
 
-### [Nu\-Funk](https://open.spotify.com/playlist/37i9dQZF1DWZgauS5j6pMv)
+### [Nu\-Funk](https://open.spotify.com/playlist/4Ap0JqC7qn45iPx4JOt9LF)
 
 > The best of today's funk\. Cover: Thundercat
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35oM5SPECmN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35oM5SPECmN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35oM5SPECmN)
 
-### [Run Wild](https://open.spotify.com/playlist/37i9dQZF1DX35oM5SPECmN)
+### [Run Wild](https://open.spotify.com/playlist/49CIAdzcRoXRsq6yO6T4a8)
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 

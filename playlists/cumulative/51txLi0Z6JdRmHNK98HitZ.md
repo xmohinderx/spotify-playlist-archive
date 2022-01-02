@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/51txLi0Z6JdRmHNK98HitZ.md) - cumulative - [plain](/playlists/plain/51txLi0Z6JdRmHNK98HitZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/51txLi0Z6JdRmHNK98HitZ)
 
-### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/51txLi0Z6JdRmHNK98HitZ)
+### [Middle Kids \- Complete Collection](https://open.spotify.com/playlist/5YqPIU9G4RKykzibp2xOPg)
 
 > Here is a playlist of all our songs released so far\. Our new album 'Today We’re The Greatest' is out now!
 

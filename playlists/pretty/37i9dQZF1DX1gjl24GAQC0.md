@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? Cover: Xdinary Heroes \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,115 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,120 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [Left & Right](https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy) | 3:21 |
 | 50 | [MADE FOR TWO](https://open.spotify.com/track/7LcCJJqGAsjIRebidgbjJz) | [VAV](https://open.spotify.com/artist/3riGN5iBVBk5naQxUDr5fk) | [MADE FOR TWO](https://open.spotify.com/album/78MNrJUp3uHLX9DWS7YEjU) | 3:33 |
 
-Snapshot ID: `MTY0MTEwODQ2OSwwMDAwMDAwMGJhMGQyNTdiNWQ4ZjFkZDRlNmM3MDlmNWE2NDU0ZTBl`
+Snapshot ID: `MTY0MTEwOTk2NCwwMDAwMDAwMGJhMGQyNTdiNWQ4ZjFkZDRlNmM3MDlmNWE2NDU0ZTBl`

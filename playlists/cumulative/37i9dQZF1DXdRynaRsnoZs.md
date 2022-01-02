@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdRynaRsnoZs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdRynaRsnoZs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdRynaRsnoZs)
 
-### [Christmas Lullabies](https://open.spotify.com/playlist/37i9dQZF1DXdRynaRsnoZs)
+### [Christmas Lullabies](https://open.spotify.com/playlist/0cma9eATlERoy7bhmBZ0M3)
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 

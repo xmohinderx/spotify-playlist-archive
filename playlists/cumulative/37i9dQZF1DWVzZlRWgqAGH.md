@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVzZlRWgqAGH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVzZlRWgqAGH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVzZlRWgqAGH)
 
-### [Butter](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
+### [Butter](https://open.spotify.com/playlist/6iBWJdwWthi80GH8IDHW0t)
 
 > Smooth joints\. Cover: Terrace Martin
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0Uv9tZ47pWo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0Uv9tZ47pWo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Uv9tZ47pWo)
 
-### [Girls' Night](https://open.spotify.com/playlist/37i9dQZF1DX0Uv9tZ47pWo)
+### [Girls' Night](https://open.spotify.com/playlist/1ityN4Bm7ljJtFkTthOEOy)
 
 > It's all about the girls tonight.
 

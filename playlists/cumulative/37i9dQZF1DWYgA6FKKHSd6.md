@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYgA6FKKHSd6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYgA6FKKHSd6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYgA6FKKHSd6)
 
-### [Sax and the City](https://open.spotify.com/playlist/37i9dQZF1DWYgA6FKKHSd6)
+### [Sax and the City](https://open.spotify.com/playlist/4kKTUiGyNvyLpETOojDsSq)
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 

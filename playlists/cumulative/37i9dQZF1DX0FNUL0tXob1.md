@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0FNUL0tXob1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0FNUL0tXob1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0FNUL0tXob1)
 
-### [Year in Metal 2016](https://open.spotify.com/playlist/37i9dQZF1DX0FNUL0tXob1)
+### [Year in Metal 2016](https://open.spotify.com/playlist/78oYCipLw9bL0rcTsN8kW4)
 
 > The best metal of 2016!
 

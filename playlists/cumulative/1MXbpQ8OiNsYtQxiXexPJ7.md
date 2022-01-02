@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1MXbpQ8OiNsYtQxiXexPJ7.md) - cumulative - [plain](/playlists/plain/1MXbpQ8OiNsYtQxiXexPJ7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1MXbpQ8OiNsYtQxiXexPJ7)
 
-### [Sunset in Austin](https://open.spotify.com/playlist/1MXbpQ8OiNsYtQxiXexPJ7)
+### [Sunset in Austin](https://open.spotify.com/playlist/4kxssIC9ke65LePz38IFed)
 
 > The sun is setting and the night takes over\. Enjoy these while letting the evening play on.
 

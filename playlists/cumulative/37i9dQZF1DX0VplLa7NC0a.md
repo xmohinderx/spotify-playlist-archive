@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0VplLa7NC0a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0VplLa7NC0a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0VplLa7NC0a)
 
-### [This Is Rossini](https://open.spotify.com/playlist/37i9dQZF1DX0VplLa7NC0a)
+### [This Is Rossini](https://open.spotify.com/playlist/0sMUjxM5FJr9WJX1JLwtLB)
 
 > The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.
 

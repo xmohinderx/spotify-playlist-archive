@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVpjAJGB70vU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVpjAJGB70vU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVpjAJGB70vU)
 
-### [90s Country](https://open.spotify.com/playlist/37i9dQZF1DWVpjAJGB70vU)
+### [90s Country](https://open.spotify.com/playlist/5IDkbO4ORcphFP9N9pX9l7)
 
 > Country that made Country Cool! Cover:  George Strait
 

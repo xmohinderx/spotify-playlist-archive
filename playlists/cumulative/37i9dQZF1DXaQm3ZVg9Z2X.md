@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaQm3ZVg9Z2X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaQm3ZVg9Z2X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaQm3ZVg9Z2X)
 
-### [This Is Coldplay](https://open.spotify.com/playlist/37i9dQZF1DXaQm3ZVg9Z2X)
+### [This Is Coldplay](https://open.spotify.com/playlist/1oCJ3Q02CA2EhAiPR90yH4)
 
 > This is Coldplay\. The essential tracks, all in one place.
 

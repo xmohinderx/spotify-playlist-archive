@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9wXOYagay8L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9wXOYagay8L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9wXOYagay8L)
 
-### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
+### [Made In South Africa](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=kwrICFuOQGyJcL4irsVfaA">Nomfundo Moh</a>
 

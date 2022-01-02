@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,469 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,470 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Talvez Tenha Que Aceitar](https://open.spotify.com/track/0L3qvfPrAyk7e8PScHF2We) | [Fabio Barros](https://open.spotify.com/artist/06Y5tXoiJBgYgPJREyFbXO), [Gabriel Nascimbeni](https://open.spotify.com/artist/2Nj8aNaWB72OJhT8knqdAo) | [2020](https://open.spotify.com/album/1WX6lsMaiQZynCwBG664QH) | 3:41 |
 | 60 | [Pro Mundo Que Virá](https://open.spotify.com/track/3Z8wkGzmV0tD1zIQt1CrjH) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [O Amor Liberta](https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd) | 3:23 |
 
-Snapshot ID: `MTY0MTEwODYwNiwwMDAwMDAwMDNmYjNkNDkxZjRmNzk4MDBjMTEyMWYyMmQzMzRjZWYw`
+Snapshot ID: `MTY0MTExMDA5NCwwMDAwMDAwMDNmYjNkNDkxZjRmNzk4MDBjMTEyMWYyMmQzMzRjZWYw`

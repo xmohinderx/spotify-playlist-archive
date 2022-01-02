@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX49poIUZYXp7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX49poIUZYXp7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX49poIUZYXp7)
 
-### [Women of Country](https://open.spotify.com/playlist/37i9dQZF1DX49poIUZYXp7)
+### [Women of Country](https://open.spotify.com/playlist/1lyekVvOZu5fLx1jMjH3fX)
 
 > The extraordinary women making great country music today\.  Cover: Tenille Arts
 

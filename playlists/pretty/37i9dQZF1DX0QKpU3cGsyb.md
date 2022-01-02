@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,337 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467,343 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 49 | [Worldwide](https://open.spotify.com/track/29N2S4U4bHo36ylr4gihq3) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Worldwide](https://open.spotify.com/album/4PnpSGM16sNxYsPE8KDbjg) | 4:04 |
 | 50 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 
-Snapshot ID: `MTY0MTEwODQ0MSwwMDAwMDAwMDg0OTQ4YjdlZTYzYWNkYzI1ZGY0MDZmYTY2MGZmYWY4`
+Snapshot ID: `MTY0MTEwOTkzNywwMDAwMDAwMDg0OTQ4YjdlZTYzYWNkYzI1ZGY0MDZmYTY2MGZmYWY4`

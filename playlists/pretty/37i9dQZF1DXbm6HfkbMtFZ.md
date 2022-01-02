@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,425 likes - 115 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,427 likes - 115 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Life On Fire](https://open.spotify.com/track/3tKp46E93JyBCvnAkrgmcy) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [From Liberty Street](https://open.spotify.com/album/4ynhHENlk6XiUvUggynWdW) | 3:22 |
 | 115 | [You Ain't The Problem \- Claptone Remix](https://open.spotify.com/track/7BFXQINSdAqgOmMydTGnKG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [You Ain't The Problem \(Claptone Remix\)](https://open.spotify.com/album/24U03pgag0P2AvPxzbBeH0) | 2:44 |
 
-Snapshot ID: `MTY0MTEwODcwOCwwMDAwMDAwMGJmNDlmNzljMzhjYWIxZTAxNGU3MDdlMmVlNjAzNDk0`
+Snapshot ID: `MTY0MTExMDE4NCwwMDAwMDAwMGJmNDlmNzljMzhjYWIxZTAxNGU3MDdlMmVlNjAzNDk0`

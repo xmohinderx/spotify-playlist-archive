@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > Celebrating Black love, one song at a time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,774 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,775 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 79 | [I Wanna Know](https://open.spotify.com/track/5kTQvF9U2slqkdsG4VHXoL) | [The Foreign Exchange](https://open.spotify.com/artist/60R4M19QBXvs0gO4IL6CpS) | [Leave It All Behind](https://open.spotify.com/album/65E0c4MMb3dYlTMOgmhQBq) | 3:01 |
 | 80 | [Dontchange](https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 5:04 |
 
-Snapshot ID: `MTY0MTEwODY3OSwwMDAwMDAwMGFiMDM3MjJhY2Y5MzIxZGQ5Yjg1MWQ4M2ZiMzk5ZmIw`
+Snapshot ID: `MTY0MTExMDE1NiwwMDAwMDAwMGFiMDM3MjJhY2Y5MzIxZGQ5Yjg1MWQ4M2ZiMzk5ZmIw`

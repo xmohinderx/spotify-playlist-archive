@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa3NnZWk6Z3T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa3NnZWk6Z3T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa3NnZWk6Z3T)
 
-### [Café con Leche](https://open.spotify.com/playlist/37i9dQZF1DXa3NnZWk6Z3T)
+### [Café con Leche](https://open.spotify.com/playlist/1pJKLpr1AvZE73wFaOC9eU)
 
 > Keep calm and enjoy this musical cafecito.
 

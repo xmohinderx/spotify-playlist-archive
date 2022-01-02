@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWYIyS8LLUDj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWYIyS8LLUDj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWYIyS8LLUDj)
 
-### [This Is Stevie Wonder](https://open.spotify.com/playlist/37i9dQZF1DWWYIyS8LLUDj)
+### [This Is Stevie Wonder](https://open.spotify.com/playlist/5p6rhopHqKunwjNYfuVHiD)
 
 > Stevie Wonder, the essential tracks, all in one playlist.
 

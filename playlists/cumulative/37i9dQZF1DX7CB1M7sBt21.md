@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7CB1M7sBt21.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7CB1M7sBt21) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7CB1M7sBt21)
 
-### [Pepplåtar till träningspasset](https://open.spotify.com/playlist/37i9dQZF1DX7CB1M7sBt21)
+### [Pepplåtar till träningspasset](https://open.spotify.com/playlist/7LLOCYnFLNo5JBC7Qx4h3g)
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 

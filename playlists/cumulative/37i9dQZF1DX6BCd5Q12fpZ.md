@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6BCd5Q12fpZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6BCd5Q12fpZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6BCd5Q12fpZ)
 
-### [Eurovision Party](https://open.spotify.com/playlist/37i9dQZF1DX6BCd5Q12fpZ)
+### [Eurovision Party](https://open.spotify.com/playlist/1exkrkQUMlN50irx29MF90)
 
 > Floor fillers from the long, illustrious history of the show.
 

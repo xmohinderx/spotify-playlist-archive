@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6CfJlSXEcCA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6CfJlSXEcCA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6CfJlSXEcCA)
 
-### [This Is Capcom Sound Team](https://open.spotify.com/playlist/37i9dQZF1DX6CfJlSXEcCA)
+### [This Is Capcom Sound Team](https://open.spotify.com/playlist/7ij89g35L5wid2aPGmGS4I)
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 

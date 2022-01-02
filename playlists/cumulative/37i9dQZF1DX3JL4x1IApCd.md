@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3JL4x1IApCd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3JL4x1IApCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3JL4x1IApCd)
 
-### [Gengeton Fire Presents..\. Best Gengetone Songs Of 2021](https://open.spotify.com/playlist/37i9dQZF1DX3JL4x1IApCd)
+### [Gengeton Fire Presents..\. Best Gengetone Songs Of 2021](https://open.spotify.com/playlist/3E6GHAfjqTrPwpK3Gzst6H)
 
 > Editor's pick: The best of Gengetone songs of 2021\. Cover: "https://open.spotify.com/artist/3MNSiKXQ08jmcwzhQD5JFv?si=ah1amS0nQ3iTfMhqoXh4Ow">Mbuzi Gang'</a>
 

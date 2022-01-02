@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX82qPOvdCxxq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX82qPOvdCxxq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX82qPOvdCxxq)
 
-### [Faith Finds](https://open.spotify.com/playlist/37i9dQZF1DX82qPOvdCxxq)
+### [Faith Finds](https://open.spotify.com/playlist/5f5nzHVSRoG5ROI8VWQOvj)
 
 > Go deep in discovery for great new songs of faith and inspiration\. Cover: Becca Bradley
 

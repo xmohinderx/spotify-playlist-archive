@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWGFQLoP9qlv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWGFQLoP9qlv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWGFQLoP9qlv)
 
-### [Legendary](https://open.spotify.com/playlist/37i9dQZF1DWWGFQLoP9qlv)
+### [Legendary](https://open.spotify.com/playlist/0GtqGrLzVf2NF3NwuYf9ll)
 
 > Great songs by indisputable music legends\. Cover: The Velvet Underground
 

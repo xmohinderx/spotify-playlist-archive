@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUfMnnPBigKP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUfMnnPBigKP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUfMnnPBigKP)
 
-### [Symphony of the Winds](https://open.spotify.com/playlist/37i9dQZF1DWUfMnnPBigKP)
+### [Symphony of the Winds](https://open.spotify.com/playlist/5nVbCcudyOZFYZmNkRxuDa)
 
 > 50 outstanding pieces from the repertoire of <a href="https://en.wikipedia.org/wiki/Concert\_band">concert band</a> \(also called wind ensemble, symphonic band or wind symphony\)\. From cornerstone works by Dvořák, Stravinsky, Grainger to new classics by John Corigliano, David Maslanka, Eric Whitacre, and many more\. Also follow: <a href="spotify:user:spotify:playlist:73OZGA9KbKCzhNe7FcCp17">brass band playlist</a>.
 

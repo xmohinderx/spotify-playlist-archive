@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMnZEatlMSiu.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMnZEatlMSiu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMnZEatlMSiu)
 
-### [Top 50 \- Taiwan](https://open.spotify.com/playlist/37i9dQZEVXbMnZEatlMSiu)
+### [Top 50 \- Taiwan](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 > Your daily update of the most played tracks right now \- Taiwan.
 

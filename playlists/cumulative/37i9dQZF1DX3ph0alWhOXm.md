@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ph0alWhOXm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ph0alWhOXm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ph0alWhOXm)
 
-### [Drinkin' Songs](https://open.spotify.com/playlist/37i9dQZF1DX3ph0alWhOXm)
+### Drinkin' Songs
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 

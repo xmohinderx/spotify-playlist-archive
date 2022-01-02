@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWU6Rfto8Ppm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWU6Rfto8Ppm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWU6Rfto8Ppm)
 
-### [Reggaetón Viejito](https://open.spotify.com/playlist/37i9dQZF1DWWU6Rfto8Ppm)
+### [Reggaetón Viejito](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 > Acuérdate de estas canciones clásicas\. Portada: Tego Calderon.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYtKpmml7moA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYtKpmml7moA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYtKpmml7moA)
 
-### [Chilled Reggae](https://open.spotify.com/playlist/37i9dQZF1DWYtKpmml7moA)
+### [Chilled Reggae](https://open.spotify.com/playlist/0Jg6LvqlfA99j1rS3eLGZd)
 
 > Simmer down with this relaxing selection of old and new Reggae.
 

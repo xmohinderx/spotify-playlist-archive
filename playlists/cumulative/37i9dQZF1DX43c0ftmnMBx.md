@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX43c0ftmnMBx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43c0ftmnMBx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43c0ftmnMBx)
 
-### [Bachatéame](https://open.spotify.com/playlist/37i9dQZF1DX43c0ftmnMBx)
+### [Bachatéame](https://open.spotify.com/playlist/033UsUOq5jX4rotaC52w8z)
 
 > ¡Esto sí es Bachata! Portada: Frank Reyes
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2sJGkrvCPgm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2sJGkrvCPgm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2sJGkrvCPgm)
 
-### [Contemporary Christian Christmas](https://open.spotify.com/playlist/37i9dQZF1DX2sJGkrvCPgm)
+### [Contemporary Christian Christmas](https://open.spotify.com/playlist/3VKHSaQTSqffmNpvFkOoqw)
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 

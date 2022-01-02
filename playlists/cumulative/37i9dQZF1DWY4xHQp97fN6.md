@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY4xHQp97fN6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY4xHQp97fN6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY4xHQp97fN6)
 
-### [Get Turnt](https://open.spotify.com/playlist/37i9dQZF1DWY4xHQp97fN6)
+### [Get Turnt](https://open.spotify.com/playlist/4kpao04ICD5V1vC3V1tB9I)
 
 > Mode: Turnt
 

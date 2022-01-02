@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVIzZt2GAU4X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVIzZt2GAU4X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVIzZt2GAU4X)
 
-### [Piano Ballads](https://open.spotify.com/playlist/37i9dQZF1DWVIzZt2GAU4X)
+### [Piano Ballads](https://open.spotify.com/playlist/1Q4zrbwq1b10L5GOd0I2Ek)
 
 > Vocals and keys, front and center\. Cover: Lewis Capaldi
 

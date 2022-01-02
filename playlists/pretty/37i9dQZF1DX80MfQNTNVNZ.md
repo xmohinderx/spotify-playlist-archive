@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,607 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,610 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Catharsis](https://open.spotify.com/track/2cWAfOTxFrCPJ6rZU5WqDG) | [Master Soul Boy](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Catharsis](https://open.spotify.com/album/2ClfWMCvHw0GhAKAS5EVMa) | 2:24 |
 | 60 | [ALLSTAR](https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby) | [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [FORTHEWORLD](https://open.spotify.com/album/4qjamshmT7gedEq6uGHXLr) | 2:54 |
 
-Snapshot ID: `MTY0MTEwODYyMCwwMDAwMDAwMGMwMzJkNDA1Y2NlNTE1ZjQ4MGIwNTU3ODViYzUyN2Ez`
+Snapshot ID: `MTY0MTExMDEwNywwMDAwMDAwMGMwMzJkNDA1Y2NlNTE1ZjQ4MGIwNTU3ODViYzUyN2Ez`

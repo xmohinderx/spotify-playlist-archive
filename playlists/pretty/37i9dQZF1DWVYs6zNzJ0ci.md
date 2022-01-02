@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Gondwana
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,183,124 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,183,119 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 99 | [Reverdeciendo](https://open.spotify.com/track/1x5xeLTf0SAzXVCQ4ymqrV) | [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW) | [Estacion Wirikuta](https://open.spotify.com/album/6KlEtLRaQBAM1BONHyzflQ) | 3:18 |
 | 100 | [Jah Live](https://open.spotify.com/track/15gJmbM0pjL1yjIASTyW0x) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Spiritual Reggae Band](https://open.spotify.com/artist/1NsI01VINwVZh1Au2lfbAS), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [Jah Live](https://open.spotify.com/album/2qymLzMxxrzzkHQXy9EwlE) | 5:51 |
 
-Snapshot ID: `MTY0MTEwODMzNSwwMDAwMDAwMDIyZjgyNmY3NzA5MTQ2MWQzMzI5Y2I0Y2MwYmI2ZDQ2`
+Snapshot ID: `MTY0MTEwOTgzNywwMDAwMDAwMDIyZjgyNmY3NzA5MTQ2MWQzMzI5Y2I0Y2MwYmI2ZDQ2`

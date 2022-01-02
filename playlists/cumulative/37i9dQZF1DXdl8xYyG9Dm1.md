@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdl8xYyG9Dm1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdl8xYyG9Dm1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdl8xYyG9Dm1)
 
-### [No Wahala](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
+### [No Wahala](https://open.spotify.com/playlist/6lFDRmAzLffN6r39zEBvaL)
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP?si=4mLu7AObRVe3gsSn4kDpjw"> A\-Reece </a>  and <a href="https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR?si=xVwLdOd2TTekWZ7e7xb9Gw"> Jay Jody </a>
 

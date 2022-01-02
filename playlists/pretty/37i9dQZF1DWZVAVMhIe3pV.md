@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,401 likes - 250 songs - 16 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,403 likes - 250 songs - 16 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVAVMhIe3pV.md) - [plain]
 | 249 | [Caution \- Radio Edit](https://open.spotify.com/track/4cI2rd2D44mBjwUVFxTkUZ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Caution \(Radio Edit\)](https://open.spotify.com/album/6XnLSCbiS4TzjTFL2W9979) | 3:48 |
 | 250 | [Leave It All Behind](https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:18 |
 
-Snapshot ID: `MTY0MTEwODQxOSwwMDAwMDAwMDI1ZTc3MWYzNzdkNmQyN2MzYzk3MDY2ZDMwNjk5MmRk`
+Snapshot ID: `MTY0MTEwOTkxNywwMDAwMDAwMDI1ZTc3MWYzNzdkNmQyN2MzYzk3MDY2ZDMwNjk5MmRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 
 > play something that's very very vibe\-worthy
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,294 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,324 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0E9XMGembJo.md) - [plain]
 | 79 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 |
 | 80 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 |
 
-Snapshot ID: `MTY0MTEwODQzNSwwMDAwMDAwMGIzYTU4NDIyMjczY2NiMDNjODRlZDQ4N2ZhNTZlM2Fk`
+Snapshot ID: `MTY0MTEwOTkzMSwwMDAwMDAwMGIzYTU4NDIyMjczY2NiMDNjODRlZDQ4N2ZhNTZlM2Fk`

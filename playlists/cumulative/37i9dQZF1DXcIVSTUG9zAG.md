@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcIVSTUG9zAG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcIVSTUG9zAG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcIVSTUG9zAG)
 
-### [This Is: George Michael](https://open.spotify.com/playlist/37i9dQZF1DXcIVSTUG9zAG)
+### [This Is: George Michael](https://open.spotify.com/playlist/3EaNZYBUfBbdhVqOvLyIGf)
 
 > Listen to a collection of his greatest hits\. This Is: George Michael
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Washed Out, Charli XCX, Tei Shi and more
+> With Washed Out, Ariel Pink, Charli XCX and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,924 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,925 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Everyday](https://open.spotify.com/track/2VYqgye3Wf9ySE4qYM3iJn) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 5:07 |
 | 50 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 |
 
-Snapshot ID: `MTY0MTEwODc2NiwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`
+Snapshot ID: `MTY0MTExMDIzOCwwMDAwMDAwMDQ2YTEzYTZjZGQ1MzllYmUxMjY3MDRmNTY5YTA1MGNj`

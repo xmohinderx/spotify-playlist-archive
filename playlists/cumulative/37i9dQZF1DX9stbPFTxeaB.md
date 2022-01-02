@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9stbPFTxeaB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9stbPFTxeaB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9stbPFTxeaB)
 
-### [Funky Heavy Bluesy](https://open.spotify.com/playlist/37i9dQZF1DX9stbPFTxeaB)
+### [Funky Heavy Bluesy](https://open.spotify.com/playlist/37ATRX3EEE0W2CNCUfCl5p)
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 

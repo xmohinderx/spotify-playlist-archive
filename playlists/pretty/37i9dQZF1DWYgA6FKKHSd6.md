@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,952 likes - 100 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,955 likes - 100 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Up and Up](https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On) | [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Embrace](https://open.spotify.com/album/7bljLOiLPMG0ZbVVduZfzb) | 4:18 |
 | 100 | [Warm \- Album Mix](https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3) | [Brad Rambur](https://open.spotify.com/artist/5qc0Q7HXExyq5FHLe3Hbo7) | [Can't Put It Down](https://open.spotify.com/album/4SPSHIRgAoDxwWAr0K03Ln) | 4:35 |
 
-Snapshot ID: `MTY0MTEwODQwNCwwMDAwMDAwMDUyOTc4ODViZWZiZjBjMzJkN2ViYzY4NzYwZWQ1YzRh`
+Snapshot ID: `MTY0MTEwOTkwMywwMDAwMDAwMDUyOTc4ODViZWZiZjBjMzJkN2ViYzY4NzYwZWQ1YzRh`

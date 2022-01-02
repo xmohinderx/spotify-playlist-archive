@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4NAi06Izmj4CPqmMuY1RsE.md) - cumulative - [plain](/playlists/plain/4NAi06Izmj4CPqmMuY1RsE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4NAi06Izmj4CPqmMuY1RsE)
 
-### [Top Picks Travel](https://open.spotify.com/playlist/4NAi06Izmj4CPqmMuY1RsE)
+### [Top Picks Travel](https://open.spotify.com/playlist/41I3nf5FoHhPDW1bI4ExeC)
 
 > 
 

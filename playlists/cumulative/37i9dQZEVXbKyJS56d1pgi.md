@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKyJS56d1pgi.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKyJS56d1pgi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKyJS56d1pgi)
 
-### [Top 50 \- Portugal](https://open.spotify.com/playlist/37i9dQZEVXbKyJS56d1pgi)
+### [Top 50 \- Portugal](https://open.spotify.com/playlist/5sx0bOwIYMxi0Nf8rS1mMZ)
 
 > Your daily update of the most played tracks right now \- Portugal.
 

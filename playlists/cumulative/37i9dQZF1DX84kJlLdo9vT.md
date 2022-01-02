@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX84kJlLdo9vT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX84kJlLdo9vT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX84kJlLdo9vT)
 
-### [Happy Days](https://open.spotify.com/playlist/37i9dQZF1DX84kJlLdo9vT)
+### [Happy Days](https://open.spotify.com/playlist/2gzlIXvEV3vDGhGFPIuGSf)
 
 > Relive the good ol' days with these cheery 60s and more.
 

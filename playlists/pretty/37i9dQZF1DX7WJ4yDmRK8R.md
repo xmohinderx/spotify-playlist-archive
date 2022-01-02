@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 
 > This is the best of ska, new and classic\. Cover: Goldfinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,733 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,734 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7WJ4yDmRK8R.md) - [plain]
 | 99 | [Cold in the City](https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r) | [Millington](https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp) | [Cold in the City](https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z) | 3:26 |
 | 100 | [All in Stride](https://open.spotify.com/track/49sLiyg8IcSEmtucGbSVdO) | [Bumpin Uglies](https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7), [Passafire](https://open.spotify.com/artist/3Il8w8T0de4sdogo2EQEVJ) | [Beast From The East](https://open.spotify.com/album/6qbGXpKlWDMpvFlTmbmyOh) | 4:08 |
 
-Snapshot ID: `MTY0MTEwODYxMywwMDAwMDAwMGNmOGNmMmZkZDNmMDM1ZTUxYWI1MWNhZGU2YzZhOWIx`
+Snapshot ID: `MTY0MTExMDEwMSwwMDAwMDAwMGNmOGNmMmZkZDNmMDM1ZTUxYWI1MWNhZGU2YzZhOWIx`

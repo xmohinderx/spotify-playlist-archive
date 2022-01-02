@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX76V4s7Zffmt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX76V4s7Zffmt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX76V4s7Zffmt)
 
-### [This Is: Animal Collective](https://open.spotify.com/playlist/37i9dQZF1DX76V4s7Zffmt)
+### [This Is: Animal Collective](https://open.spotify.com/playlist/6AQZkhsONKRhHRtH85bpq1)
 
 > This is the essential Animal Collective.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTJNOeepZTGy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTJNOeepZTGy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTJNOeepZTGy)
 
-### [Wine & Dine](https://open.spotify.com/playlist/37i9dQZF1DWTJNOeepZTGy)
+### [Wine & Dine](https://open.spotify.com/playlist/3Oiyustir2EbcJWY5rmfYz)
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 

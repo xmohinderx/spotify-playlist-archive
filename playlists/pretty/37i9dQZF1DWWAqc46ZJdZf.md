@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,358 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,360 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [U Will Know \- Extended Version](https://open.spotify.com/track/5bM3IhiYoYSK9VjAux2px8) | [B.M.U\. \(Black Men United\)](https://open.spotify.com/artist/6rb2nWF3vuIdxcT8Fci2v4) | [U Will Know](https://open.spotify.com/album/2mbDqpuAcNshFdztxXPBrz) | 4:25 |
 | 60 | [Black Butterfly](https://open.spotify.com/track/5cENyb7BZPoG69RiDWZqwa) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Let's Hear It for the Boy \(Expanded Edition\)](https://open.spotify.com/album/5SQ28k8Esr8yY55ZKvgC5u) | 4:28 |
 
-Snapshot ID: `MTY0MTEwODM1MCwwMDAwMDAwMGM2MWE0MjY0YWRhMzFlNTg1OTJlYzMyNDkzMDQ3ZjQ2`
+Snapshot ID: `MTY0MTEwOTg1MSwwMDAwMDAwMGM2MWE0MjY0YWRhMzFlNTg1OTJlYzMyNDkzMDQ3ZjQ2`

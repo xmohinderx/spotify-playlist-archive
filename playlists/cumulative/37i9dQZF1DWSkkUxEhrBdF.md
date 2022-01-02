@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSkkUxEhrBdF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSkkUxEhrBdF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSkkUxEhrBdF)
 
-### [Reggae Infusions](https://open.spotify.com/playlist/37i9dQZF1DWSkkUxEhrBdF)
+### [Reggae Infusions](https://open.spotify.com/playlist/46NRebXBh8HX6qp1qL56cG)
 
 > Relax and slip into this eclectic mix of reggae infused tracks.
 

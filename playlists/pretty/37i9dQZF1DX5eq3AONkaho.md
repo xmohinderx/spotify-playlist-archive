@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,741 likes - 200 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,740 likes - 200 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5eq3AONkaho.md) - [plain]
 | 199 | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/track/2r1T6xGTVaNAqBoPH4lZEE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Waste It On Me \(feat\. BTS\)](https://open.spotify.com/album/2zGbALuLN1QjFgddq9kIz1) | 3:12 |
 | 200 | [Go or Stop?](https://open.spotify.com/track/5ZQt1BxZ25CYGgxC7g3XFt) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Go or Stop?](https://open.spotify.com/album/1oMfb1X1wk1cyc60tNrqaA) | 2:38 |
 
-Snapshot ID: `MTY0MTEwODU2OCwwMDAwMDAwMDk0NWU2OTg1M2M0NTFlNGIzNWI0MjY4YzBkZTg1MjBh`
+Snapshot ID: `MTY0MTExMDA1OCwwMDAwMDAwMDk0NWU2OTg1M2M0NTFlNGIzNWI0MjY4YzBkZTg1MjBh`

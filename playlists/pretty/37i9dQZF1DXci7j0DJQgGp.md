@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,794,441 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,794,443 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Stay High](https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High](https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c) | 3:11 |
 | 100 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
 
-Snapshot ID: `MTY0MTEwODcyOSwwMDAwMDAwMDVhMjIwMDkxNTVlZDMxNjk1ZTEwZTYzYThlYmY5Mjdj`
+Snapshot ID: `MTY0MTExMDIwNCwwMDAwMDAwMDVhMjIwMDkxNTVlZDMxNjk1ZTEwZTYzYThlYmY5Mjdj`

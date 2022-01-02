@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX33TfGBYPkRQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX33TfGBYPkRQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX33TfGBYPkRQ)
 
-### [Devastating](https://open.spotify.com/playlist/37i9dQZF1DX33TfGBYPkRQ)
+### [Devastating](https://open.spotify.com/playlist/5pmuoSmL7bv4atCJCFd9iO)
 
 > That feeling of being punched in the gut by a song.
 

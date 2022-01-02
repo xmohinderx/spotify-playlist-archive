@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdWZwKY7xcB3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdWZwKY7xcB3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdWZwKY7xcB3)
 
-### [Music Jokes](https://open.spotify.com/playlist/37i9dQZF1DXdWZwKY7xcB3)
+### [Music Jokes](https://open.spotify.com/playlist/4zwDNo3BXJrjq7Y94Pyvhu)
 
 > Comedians ponder all things music, including their favorite celebrities and pop culture icons\. \[Warning: Explicit Content\]
 

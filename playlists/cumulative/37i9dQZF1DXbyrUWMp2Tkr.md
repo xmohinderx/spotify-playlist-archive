@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbyrUWMp2Tkr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbyrUWMp2Tkr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbyrUWMp2Tkr)
 
-### [Thrash Metal Essentials](https://open.spotify.com/playlist/37i9dQZF1DXbyrUWMp2Tkr)
+### [Thrash Metal Essentials](https://open.spotify.com/playlist/6G9MT8JD50Gnl26nAjeAQK)
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 

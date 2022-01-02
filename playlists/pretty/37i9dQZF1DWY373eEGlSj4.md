@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,019,936 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,019,947 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [You Make Me Feel Brand New](https://open.spotify.com/track/3QgsPdDBXZKrpa2iQndFnZ) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/7wb65kxx7K5nEweUPiWw5N) | 5:30 |
 | 50 | [Best Thing That Ever Happened to Me](https://open.spotify.com/track/3j3755RU3R30QAD83LbW26) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Collections](https://open.spotify.com/album/2lWt7eTJLdNUpgCtO87pPx) | 3:44 |
 
-Snapshot ID: `MTY0MTEwODM5MiwwMDAwMDAwMDIwMjdhOGI3YzdkZmFiNTdlYzdjYWQxNWIyNTM5ZmFj`
+Snapshot ID: `MTY0MTEwOTg5MSwwMDAwMDAwMDIwMjdhOGI3YzdkZmFiNTdlYzdjYWQxNWIyNTM5ZmFj`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2Nc3B70tvx0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2Nc3B70tvx0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2Nc3B70tvx0)
 
-### [Ultimate Indie](https://open.spotify.com/playlist/37i9dQZF1DX2Nc3B70tvx0)
+### [Ultimate Indie](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 > The best in modern indie\. Cover: Dijon
 

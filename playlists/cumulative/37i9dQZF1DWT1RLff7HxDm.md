@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT1RLff7HxDm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT1RLff7HxDm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT1RLff7HxDm)
 
-### [Blues Live & Loud](https://open.spotify.com/playlist/37i9dQZF1DWT1RLff7HxDm)
+### [Blues Live & Loud](https://open.spotify.com/playlist/6wMyac4Tq7WkhRXiQeoF05)
 
 > All live, all blues\. Cover: Joe Bonamassa
 

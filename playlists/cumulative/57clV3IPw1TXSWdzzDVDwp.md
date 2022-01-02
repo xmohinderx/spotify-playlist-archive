@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/57clV3IPw1TXSWdzzDVDwp.md) - cumulative - [plain](/playlists/plain/57clV3IPw1TXSWdzzDVDwp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/57clV3IPw1TXSWdzzDVDwp)
 
-### [BRILLIANTMINDS2016](https://open.spotify.com/playlist/57clV3IPw1TXSWdzzDVDwp)
+### [BRILLIANTMINDS2016](https://open.spotify.com/playlist/57t0UcPe9oUlwBVgJZD7Zz)
 
 > Relive your favourite artist moments from the Brilliant Minds conference during <a href="http://symposium.co/">Symposium Stockholm</a>.
 

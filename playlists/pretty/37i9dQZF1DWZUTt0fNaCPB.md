@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,306 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,309 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [Ten Thousand Fists](https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 3:32 |
 | 75 | [Gunpowder](https://open.spotify.com/track/1VsD2j8Zt6zCNpQlNYxiPq) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [Gunpowder](https://open.spotify.com/album/4ZX1nPgiTZOHZSRSHBKe2s) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODQxOCwwMDAwMDAwMGVlZjBlZThiYzViNjVjMjRjN2JiNWU2OGZlNWZlYTRi`
+Snapshot ID: `MTY0MTEwOTkxNiwwMDAwMDAwMGVlZjBlZThiYzViNjVjMjRjN2JiNWU2OGZlNWZlYTRi`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX56bqlsMxJYR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX56bqlsMxJYR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX56bqlsMxJYR)
 
-### [Classic Oldies](https://open.spotify.com/playlist/37i9dQZF1DX56bqlsMxJYR)
+### [Classic Oldies](https://open.spotify.com/playlist/7KF7Evm7HugJ0ZFYg9Yj0E)
 
 > All of the classic hits from the 50s and 60s.
 

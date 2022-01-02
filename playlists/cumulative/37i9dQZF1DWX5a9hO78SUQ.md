@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX5a9hO78SUQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX5a9hO78SUQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX5a9hO78SUQ)
 
-### [Shakespeare: The Poetry](https://open.spotify.com/playlist/37i9dQZF1DWX5a9hO78SUQ)
+### [Shakespeare: The Poetry](https://open.spotify.com/playlist/5mBjCRu7yTudy1feAHshcy)
 
 > Happy Shakespeare Day & National Poetry Month! Lovely, temperate, devouring..\. indelible recordings of every Shakespearean poem.
 

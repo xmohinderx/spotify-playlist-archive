@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6FnQY7eQxRt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6FnQY7eQxRt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6FnQY7eQxRt)
 
-### [Christmas Choir](https://open.spotify.com/playlist/37i9dQZF1DX6FnQY7eQxRt)
+### [Christmas Choir](https://open.spotify.com/playlist/3enUQntb1e907WEvU5APjG)
 
 > Your favourite Christmas carols, performed and re\-imagined by the world's greatest choirs.
 

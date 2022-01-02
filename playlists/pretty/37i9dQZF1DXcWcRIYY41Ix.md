@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: María Cristina Plata
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,613 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,612 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Una Fecha En El Calendario](https://open.spotify.com/track/4SZToPB2zdHUmIASfZFFlI) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Una Fecha En El Calendario](https://open.spotify.com/album/4fn2pYbNE7QD6FoIjWCfOO) | 3:58 |
 | 100 | [Rara Bien](https://open.spotify.com/track/4lSs7nqYqxXjWiiNehh3Ji) | [Rupatrupa](https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei) | [Directo en Sdma](https://open.spotify.com/album/3ijnQ2WzCxPQoj0fPUHsaZ) | 5:36 |
 
-Snapshot ID: `MTY0MTEwODcyMywwMDAwMDAwMGNiOWZkYWNhYWY3NzkyYzFkNGY3MmQwYWQyNzU2ZTBi`
+Snapshot ID: `MTY0MTExMDE5OCwwMDAwMDAwMGNiOWZkYWNhYWY3NzkyYzFkNGY3MmQwYWQyNzU2ZTBi`

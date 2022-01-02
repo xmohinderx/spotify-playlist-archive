@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdx7sCF75xKy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdx7sCF75xKy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdx7sCF75xKy)
 
-### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/37i9dQZF1DXdx7sCF75xKy)
+### [EQUAL Singapore & Malaysia](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Shye
 

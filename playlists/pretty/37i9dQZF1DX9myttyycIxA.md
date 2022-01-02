@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Hana Vu
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,540 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,539 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Comfortable \(feat\. Hand Habits\)](https://open.spotify.com/track/43U3PxxpEJGNs7BCAn8oTS) | [Quarter\-Life Crisis](https://open.spotify.com/artist/3qnQaCIYlxiFNyd4oIwuKW), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Comfortable](https://open.spotify.com/album/51b0cORlSI2dJzC5P33a2k) | 2:39 |
 | 100 | [Certainty](https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Certainty](https://open.spotify.com/album/5VoX2zqhcLicZDikIF5zlw) | 3:07 |
 
-Snapshot ID: `MTY0MTEwODY1OCwwMDAwMDAwMDBkOGFmNGMzMjY4NjE5OTBjODhkNWRlZGJkNTI5ODU0`
+Snapshot ID: `MTY0MTExMDE0MiwwMDAwMDAwMDBkOGFmNGMzMjY4NjE5OTBjODhkNWRlZGJkNTI5ODU0`

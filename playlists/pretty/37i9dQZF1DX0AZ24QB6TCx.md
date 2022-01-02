@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 
 > Relax with deep house and electronica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,441 likes - 70 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,442 likes - 70 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AZ24QB6TCx.md) - [plain]
 | 69 | [Neunivai \- Original Mix](https://open.spotify.com/track/3jCB8uRUxUjownKn5xaQzE) | [Volen Sentir](https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l) | [Neunivai](https://open.spotify.com/album/5ZGmSUDJLrZKYaHj3vvVn2) | 4:21 |
 | 70 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 |
 
-Snapshot ID: `MTY0MTEwODQzMywwMDAwMDAwMGNjYzEyNTQzMjVjOTdlY2ViODUyYjNmMWIyZDE2MmMw`
+Snapshot ID: `MTY0MTEwOTkzMCwwMDAwMDAwMGNjYzEyNTQzMjVjOTdlY2ViODUyYjNmMWIyZDE2MmMw`

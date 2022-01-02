@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX147VuwpqwJX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX147VuwpqwJX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX147VuwpqwJX)
 
-### [The Ballroom \(Vogue\)](https://open.spotify.com/playlist/37i9dQZF1DX147VuwpqwJX)
+### [The Ballroom \(Vogue\)](https://open.spotify.com/playlist/61jb2cF8g7zz9kda9fWPqS)
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 

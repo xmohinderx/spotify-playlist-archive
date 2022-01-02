@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3R5f8c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3R5f8c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3R5f8c)
 
-### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
+### [This Is Black Coffee](https://open.spotify.com/playlist/5qzfg5tNjvV2TQ2fzEbRhw)
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3yUO32lGCEnAfFGORSEsy4.md) - cumulative - [plain](/playlists/plain/3yUO32lGCEnAfFGORSEsy4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3yUO32lGCEnAfFGORSEsy4)
 
-### [Raw Expression](https://open.spotify.com/playlist/3yUO32lGCEnAfFGORSEsy4)
+### [Raw Expression](https://open.spotify.com/playlist/12p07vmmJgWJK1tOpAKbe1)
 
 > Brukout edition: It's a raw and sexy dancehall party!
 

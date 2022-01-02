@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1QCg8MO15wF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1QCg8MO15wF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1QCg8MO15wF)
 
-### [Learn Swedish](https://open.spotify.com/playlist/37i9dQZF1DX1QCg8MO15wF)
+### [Learn Swedish](https://open.spotify.com/playlist/5mwWHPWI1gyuSBtxoMYpww)
 
 > Learn some essential Swedish and master useful travel vocabulary in under seven hours – perfect for a transatlantic flight!
 

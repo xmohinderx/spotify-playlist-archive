@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX78toxP7mOaJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX78toxP7mOaJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX78toxP7mOaJ)
 
-### [Fresh Finds Rock: Best of 2021](https://open.spotify.com/playlist/37i9dQZF1DX78toxP7mOaJ)
+### [Fresh Finds Rock: Best of 2021](https://open.spotify.com/playlist/0mMZrx7DAbFdEFSpJkTloH)
 
 > The top 100 tracks from Fresh Finds Rock in 2021\. Cover: Teen Jesus and the Jean Teasers \| Artwork: Jim Klok
 

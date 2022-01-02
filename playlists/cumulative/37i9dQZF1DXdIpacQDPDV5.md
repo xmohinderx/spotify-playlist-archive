@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdIpacQDPDV5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdIpacQDPDV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdIpacQDPDV5)
 
-### [mint Canada](https://open.spotify.com/playlist/37i9dQZF1DXdIpacQDPDV5)
+### [mint Canada](https://open.spotify.com/playlist/1PEHoMgddwKvz8RvsLstCM)
 
 > The best of today's dance hits\. Cover: Frank Walker, MOTi, Shai
 

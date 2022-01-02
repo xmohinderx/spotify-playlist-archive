@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9WxEZbyU6MA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9WxEZbyU6MA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9WxEZbyU6MA)
 
-### [Calming Choir](https://open.spotify.com/playlist/37i9dQZF1DX9WxEZbyU6MA)
+### [Calming Choir](https://open.spotify.com/playlist/1kZsP2YcL77b9nhWoq6gQJ)
 
 > Relax to the calming sounds of choral music.
 

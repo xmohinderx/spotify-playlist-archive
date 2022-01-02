@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > the resurgence is real\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,538 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,563 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [What A Damn Shame](https://open.spotify.com/track/64aZu0DufRHVyNpr1x0qOf) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [What A Damn Shame](https://open.spotify.com/album/3GCU8o7xZYLMqF0PkLDy0s) | 2:36 |
 | 100 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 |
 
-Snapshot ID: `MTY0MTEwODUwMiwwMDAwMDAwMGVkYWU0ODZlNTUzMGUzNjgwNzNkNjliYWY1M2M3MGM2`
+Snapshot ID: `MTY0MTEwOTk5NSwwMDAwMDAwMGVkYWU0ODZlNTUzMGUzNjgwNzNkNjliYWY1M2M3MGM2`

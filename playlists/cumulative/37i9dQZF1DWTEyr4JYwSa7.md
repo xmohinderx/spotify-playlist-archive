@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTEyr4JYwSa7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTEyr4JYwSa7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTEyr4JYwSa7)
 
-### [Noël, Noël, Noël](https://open.spotify.com/playlist/37i9dQZF1DWTEyr4JYwSa7)
+### [Noël, Noël, Noël](https://open.spotify.com/playlist/0SxZxNJ9FKXL8tKafplut8)
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 

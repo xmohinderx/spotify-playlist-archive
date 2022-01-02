@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,476 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,478 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 50 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 |
 
-Snapshot ID: `MTY0MTEwODczNCwwMDAwMDAwMDRkMGJhOTdjY2Q0ZjljMjYxOWQ4OGFmYzg1Y2FmMWQ4`
+Snapshot ID: `MTY0MTExMDIwOSwwMDAwMDAwMDRkMGJhOTdjY2Q0ZjljMjYxOWQ4OGFmYzg1Y2FmMWQ4`

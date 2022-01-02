@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8CwbNGNKurt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8CwbNGNKurt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8CwbNGNKurt)
 
-### [Throwback Workout](https://open.spotify.com/playlist/37i9dQZF1DX8CwbNGNKurt)
+### [Throwback Workout](https://open.spotify.com/playlist/6qKKex0Xp1vIq3e6QTHdo5)
 
 > Throw it back to the biggest, best hits of the 2000's.
 

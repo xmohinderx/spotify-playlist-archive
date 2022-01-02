@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5baU2nNxC8ag8XzlHNsANg.md) - cumulative - [plain](/playlists/plain/5baU2nNxC8ag8XzlHNsANg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5baU2nNxC8ag8XzlHNsANg)
 
-### [Bring Back the 2000s](https://open.spotify.com/playlist/5baU2nNxC8ag8XzlHNsANg)
+### [Bring Back the 2000s](https://open.spotify.com/playlist/32r3TiInDjvjP4YTbgnXe3)
 
 > All your favorite hits from the decade you love most!
 

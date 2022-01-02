@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0JKUIfwQSJh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0JKUIfwQSJh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0JKUIfwQSJh)
 
-### [70s & 80s Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX0JKUIfwQSJh)
+### [70s & 80s Acoustic](https://open.spotify.com/playlist/2a6pRjNMNt3VwiEs9C9Lyi)
 
 > Rewind and unwind with sirens of the seventies and eighties.
 

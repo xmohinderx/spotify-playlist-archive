@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6ALixlKf7N8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ALixlKf7N8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ALixlKf7N8)
 
-### [Once Upon A Time](https://open.spotify.com/playlist/37i9dQZF1DX6ALixlKf7N8)
+### [Once Upon A Time](https://open.spotify.com/playlist/0fA827yboOSTe39CZBW85j)
 
 > A collection of fairy tales and kids' stories perfect for bedtime and beyond.
 

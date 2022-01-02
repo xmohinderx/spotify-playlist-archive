@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,698 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,700 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 49 | [Easy](https://open.spotify.com/track/4k6eg0pf9IeopgOREVkj5T) | [Bea Anderson](https://open.spotify.com/artist/2FVCMrYrSKRNPXoWw2VozG) | [Easy](https://open.spotify.com/album/1rPv254umKfCuZwyWUoFBl) | 3:30 |
 | 50 | [Addicted \(Acoustic\)](https://open.spotify.com/track/7HQc8ITNpm2NaIdLcKLDAY) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Addicted \(Acoustic\)](https://open.spotify.com/album/0qPYyDTTx74B8sfEGOYZyh) | 3:05 |
 
-Snapshot ID: `MTY0MTEwODY4MiwwMDAwMDAwMDk5YjQ1ODZhNmZiZDQyNDJmNWY5YWQ3NmQyM2QyMjk1`
+Snapshot ID: `MTY0MTExMDE2MCwwMDAwMDAwMDk5YjQ1ODZhNmZiZDQyNDJmNWY5YWQ3NmQyM2QyMjk1`

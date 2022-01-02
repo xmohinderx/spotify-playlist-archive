@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,257 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,256 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 49 | [In the morning](https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 2:52 |
 | 50 | [BANANA CHACHA Acoustic](https://open.spotify.com/track/3qs3ViQCVkiOa6xETGxWnx) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO) | [BANANA CHACHA Acoustic](https://open.spotify.com/album/2Eqqh9P0qrTxQq4vxbHZYd) | 2:13 |
 
-Snapshot ID: `MTY0MTEwODQ3NiwwMDAwMDAwMDk1OGNkNTlkMTE2NjFmZDJiYmNkZjgzM2JlNTY2MGNl`
+Snapshot ID: `MTY0MTEwOTk3MCwwMDAwMDAwMDk1OGNkNTlkMTE2NjFmZDJiYmNkZjgzM2JlNTY2MGNl`

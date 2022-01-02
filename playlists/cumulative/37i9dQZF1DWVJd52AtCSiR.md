@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVJd52AtCSiR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVJd52AtCSiR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVJd52AtCSiR)
 
-### [Disney Classical](https://open.spotify.com/playlist/37i9dQZF1DWVJd52AtCSiR)
+### [Disney Classical](https://open.spotify.com/playlist/0vmRJRYwOgFfUhgFl1I2vw)
 
 > Discover the classical side of your favourite Disney soundtracks.
 

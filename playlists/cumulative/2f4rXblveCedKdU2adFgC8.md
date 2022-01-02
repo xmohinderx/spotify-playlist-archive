@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2f4rXblveCedKdU2adFgC8.md) - cumulative - [plain](/playlists/plain/2f4rXblveCedKdU2adFgC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2f4rXblveCedKdU2adFgC8)
 
-### [Motivation Montage](https://open.spotify.com/playlist/2f4rXblveCedKdU2adFgC8)
+### [Motivation Montage](https://open.spotify.com/playlist/3njXIyWDgdqSuNCqJOWqla)
 
 > Live large, run hard\. Score your workout with some epic action movie soundtracks.
 

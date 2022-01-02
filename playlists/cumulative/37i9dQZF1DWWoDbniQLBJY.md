@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWoDbniQLBJY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWoDbniQLBJY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWoDbniQLBJY)
 
-### [Mediodía Acústico](https://open.spotify.com/playlist/37i9dQZF1DWWoDbniQLBJY)
+### [Mediodía Acústico](https://open.spotify.com/playlist/4u1h06ki2j7GNHTZCGcFb9)
 
 > Pop Acústico para tu día.
 

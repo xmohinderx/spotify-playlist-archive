@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdgz8ZB7c2CP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdgz8ZB7c2CP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdgz8ZB7c2CP)
 
-### [creamy](https://open.spotify.com/playlist/37i9dQZF1DXdgz8ZB7c2CP)
+### [creamy](https://open.spotify.com/playlist/3MCIvOCYNv0w7VlFeU1IOX)
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Tails.
 

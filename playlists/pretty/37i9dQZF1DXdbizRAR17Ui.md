@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,775 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,774 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 49 | [Points Beyond](https://open.spotify.com/track/23N0RehCjU9KC7WfEzxdgJ) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Points Beyond](https://open.spotify.com/album/2O7HzpefeC3nKfjaD3VXNv) | 5:26 |
 | 50 | [Vee \- \(Remix\)](https://open.spotify.com/track/1xnaAMmxda3jtgt9ncspIi) | [Beula](https://open.spotify.com/artist/4pnQqp9N3Ap5N6WE1zoRQv), [Elsa Hewitt](https://open.spotify.com/artist/7xwbnGpTJA94MgILLAeThK) | [Vee](https://open.spotify.com/album/50UsBHxNfVOriCLVn1yrQr) | 5:28 |
 
-Snapshot ID: `MTY0MTEwODc0NiwwMDAwMDAwMGQ3ZTA1MDhkNzkzMGRjNjg5N2ZhNzI3NmYwNGQ5MGRk`
+Snapshot ID: `MTY0MTExMDIyMCwwMDAwMDAwMGQ3ZTA1MDhkNzkzMGRjNjg5N2ZhNzI3NmYwNGQ5MGRk`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbcPC6Vvqudd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbcPC6Vvqudd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcPC6Vvqudd)
 
-### [Night Rain](https://open.spotify.com/playlist/37i9dQZF1DXbcPC6Vvqudd)
+### [Night Rain](https://open.spotify.com/playlist/24mLuWgScUP4helHcwLm2m)
 
 > Pouring rain and occasional rolling thunder.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,253 likes - 150 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,255 likes - 150 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrdml94k1Rt.md) - [plain]
 | 149 | [Make Me Suffer](https://open.spotify.com/track/3xxXGqhgN3vqJ1qmFNjecV) | [Spike 1000](https://open.spotify.com/artist/7Hyu4pnw8uzvTQZeLO0APB) | [Waste Of Skin](https://open.spotify.com/album/5vlJuHJKL0fkvGBoZbaDnK) | 2:59 |
 | 150 | [Take It Out On Me](https://open.spotify.com/track/1RXoCep9hxApPfx8UFsGZk) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [Welcome To The Masquerade \(Fan Edition\)](https://open.spotify.com/album/3fSHF58QvGhJgwOzDPoKDV) | 3:17 |
 
-Snapshot ID: `MTY0MTEwODMyNiwwMDAwMDAwMDQzMWUzZjNjZGQ0M2RiMmY1ZDk5OWJiMzk4MzQ5OTRh`
+Snapshot ID: `MTY0MTEwOTgyNywwMDAwMDAwMDQzMWUzZjNjZGQ0M2RiMmY1ZDk5OWJiMzk4MzQ5OTRh`

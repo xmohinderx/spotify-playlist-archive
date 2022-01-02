@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1lwxXvReaux.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lwxXvReaux) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lwxXvReaux)
 
-### [Workday: Rock Classics](https://open.spotify.com/playlist/37i9dQZF1DX1lwxXvReaux)
+### [Workday: Rock Classics](https://open.spotify.com/playlist/6T33hSZm66DXYIDzTltQGd)
 
 > Classic rock combined a guitar\-driven sound with a particular era\. This playlist delivers classic rock tracks for the entire workday.
 

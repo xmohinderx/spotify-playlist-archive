@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 619,962 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 619,963 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 149 | [Heaven \- Acoustic](https://open.spotify.com/track/6iianeJmHrWZEjYXYKlAPY) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Heaven \(Acoustic\)](https://open.spotify.com/album/1sgfTxlmBQblQTkhLMNVmM) | 2:54 |
 | 150 | [Arms Of A Woman](https://open.spotify.com/track/37pK088xTo1ZpR3y23wsFk) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 4:11 |
 
-Snapshot ID: `MTY0MTEwODMwNiwwMDAwMDAwMDgyN2E3YTAyYTlmOTFhZjY4YzM1MjUzOGFmMDBlYjYx`
+Snapshot ID: `MTY0MTEwOTgwOSwwMDAwMDAwMDgyN2E3YTAyYTlmOTFhZjY4YzM1MjUzOGFmMDBlYjYx`

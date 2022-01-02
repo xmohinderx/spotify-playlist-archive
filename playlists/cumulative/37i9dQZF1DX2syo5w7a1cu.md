@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2syo5w7a1cu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2syo5w7a1cu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2syo5w7a1cu)
 
-### [Soft 90s](https://open.spotify.com/playlist/37i9dQZF1DX2syo5w7a1cu)
+### [Soft 90s](https://open.spotify.com/playlist/3Y9Hoox8bVt84gpOCnK26g)
 
 > Mellow songs from the 1990s\. Cover: Boyz II Men.
 

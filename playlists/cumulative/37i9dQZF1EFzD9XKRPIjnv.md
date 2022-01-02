@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1EFzD9XKRPIjnv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFzD9XKRPIjnv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFzD9XKRPIjnv)
 
-### [Written By Sarah Aarons](https://open.spotify.com/playlist/37i9dQZF1EFzD9XKRPIjnv)
+### [Written By Sarah Aarons](https://open.spotify.com/playlist/3BP8AJXn7JtSS0hniQgsgr)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: IVE\(아이브\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,519 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,533 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 39 | [We Rise](https://open.spotify.com/track/4rv92w93ROUPu0ljeiNMoj) | [Cotton Candy](https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/3YXITGpeUXUpQwdy1u37z3) | 3:29 |
 | 40 | [LAST WALTZ](https://open.spotify.com/track/39kH6C2twlYjyssIW02sbr) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 2:50 |
 
-Snapshot ID: `MTY0MTEwODcwMiwwMDAwMDAwMDRhZWY0ZGU1NTNhOGM0YzNmOGQ0YTIzNjU3MTBjYzA0`
+Snapshot ID: `MTY0MTExMDE3OCwwMDAwMDAwMDRhZWY0ZGU1NTNhOGM0YzNmOGQ0YTIzNjU3MTBjYzA0`

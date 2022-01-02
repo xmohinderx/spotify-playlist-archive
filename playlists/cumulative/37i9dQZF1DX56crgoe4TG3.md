@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX56crgoe4TG3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX56crgoe4TG3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX56crgoe4TG3)
 
-### [Bluegrass Covers](https://open.spotify.com/playlist/37i9dQZF1DX56crgoe4TG3)
+### [Bluegrass Covers](https://open.spotify.com/playlist/6j3EUqB0DJZF4yMM5cX435)
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Molly Tuttle
 

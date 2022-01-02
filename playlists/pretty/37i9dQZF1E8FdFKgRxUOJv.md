@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Matt Nathanson, Local Natives, Rationale and more
+> With John Mayer, Colony House, Maggie Rogers, Rationale and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 737 likes - 50 songs - 3 hr 5 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 | 49 | [Lover Come Back](https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [If I Should Go Before You](https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud) | 3:54 |
 | 50 | [That Was Yesterday](https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That Was Yesterday](https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv) | 3:50 |
 
-Snapshot ID: `MTY0MTEwODc2NiwwMDAwMDAwMGQ3MTNhNzBiZDNhMzdjOWRlMjkzZDI4Y2ZjNWFjNjcx`
+Snapshot ID: `MTY0MTExMDIzOSwwMDAwMDAwMGQ3MTNhNzBiZDNhMzdjOWRlMjkzZDI4Y2ZjNWFjNjcx`

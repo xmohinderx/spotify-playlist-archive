@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa41CMuUARjl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa41CMuUARjl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa41CMuUARjl)
 
-### [Friday Cratediggers](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
+### [Friday Cratediggers](https://open.spotify.com/playlist/25NXjKFuVNVffogmNsYBdE)
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from SLANDER.
 

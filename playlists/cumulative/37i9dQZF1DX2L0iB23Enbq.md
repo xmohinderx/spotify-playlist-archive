@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2L0iB23Enbq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2L0iB23Enbq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2L0iB23Enbq)
 
-### [Viral Hits](https://open.spotify.com/playlist/37i9dQZF1DX2L0iB23Enbq)
+### [Viral Hits](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
 
 > Viral, trending and taking off.
 

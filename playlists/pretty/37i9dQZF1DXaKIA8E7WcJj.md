@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,573,745 likes - 150 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,573,759 likes - 150 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 149 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 150 | [Breaking Up Is Hard to Do](https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Collections](https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o) | 2:16 |
 
-Snapshot ID: `MTY0MTEwODY3NywwMDAwMDAwMDViZjdjNWFhNTA1NjQ4MDAxZTQ3ZjMzMzczM2MwNjI1`
+Snapshot ID: `MTY0MTExMDE1NCwwMDAwMDAwMDViZjdjNWFhNTA1NjQ4MDAxZTQ3ZjMzMzczM2MwNjI1`

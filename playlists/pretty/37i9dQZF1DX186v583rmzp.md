@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,350,767 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,350,790 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 99 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 |
 | 100 | [What You Want \(feat\. Total\)](https://open.spotify.com/track/6hxn98poTu1O4YZfafvC18) | [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6), [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Harlem World](https://open.spotify.com/album/21YtqAiqXNGuvWNBS0JvOy) | 4:02 |
 
-Snapshot ID: `MTY0MTEwODQ1OSwwMDAwMDAwMGNiMmZlMzVkYjBkODU2Mjg0MDljMjc0M2YyMzM2YjRm`
+Snapshot ID: `MTY0MTEwOTk1NSwwMDAwMDAwMGNiMmZlMzVkYjBkODU2Mjg0MDljMjc0M2YyMzM2YjRm`

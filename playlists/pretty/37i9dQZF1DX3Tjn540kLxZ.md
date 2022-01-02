@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > no thoughts, just non\-stop alt bops
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,211 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,212 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [bullet train](https://open.spotify.com/track/5oka498ZuBpOR2WTWq4XoB) | [pizzagirl](https://open.spotify.com/artist/0ef7Q5r0NAMicEugmtYxjA) | [bullet train](https://open.spotify.com/album/5H2UTwsW31W83uw9LklJV4) | 4:30 |
 | 100 | [Naive \- Tony Hoffer Alternate Mix](https://open.spotify.com/track/3SlxGPq2C20sKPooN1BUvr) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In, Inside Out \(15th Anniversary Deluxe\)](https://open.spotify.com/album/5ybcEDla7xn2GNE1VE06V4) | 3:48 |
 
-Snapshot ID: `MTY0MTEwODUxNCwwMDAwMDAwMDExNDE2MTk3ODA0NjVhZTMwNTJmNDEzYzY0YTc2MWY1`
+Snapshot ID: `MTY0MTExMDAwNywwMDAwMDAwMDExNDE2MTk3ODA0NjVhZTMwNTJmNDEzYzY0YTc2MWY1`

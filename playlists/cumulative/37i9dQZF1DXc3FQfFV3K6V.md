@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc3FQfFV3K6V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc3FQfFV3K6V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc3FQfFV3K6V)
 
-### [Laidback Acoustic](https://open.spotify.com/playlist/37i9dQZF1DXc3FQfFV3K6V)
+### [Laidback Acoustic](https://open.spotify.com/playlist/2gZT7bXJYkak1F0H80ajLr)
 
 > Acoustic versions of well\-known songs.
 

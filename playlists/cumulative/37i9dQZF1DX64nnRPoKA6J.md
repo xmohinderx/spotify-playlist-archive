@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX64nnRPoKA6J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX64nnRPoKA6J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX64nnRPoKA6J)
 
-### [Good Feeling 90s](https://open.spotify.com/playlist/37i9dQZF1DX64nnRPoKA6J)
+### [Good Feeling 90s](https://open.spotify.com/playlist/4ykZlSUB1cjwmNNCnB3uWU)
 
 > Feel on top of the world with these uplifting anthems of the 90s
 

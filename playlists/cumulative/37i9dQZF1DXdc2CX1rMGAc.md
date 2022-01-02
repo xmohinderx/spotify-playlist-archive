@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdc2CX1rMGAc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdc2CX1rMGAc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdc2CX1rMGAc)
 
-### [Beast Mode Latin](https://open.spotify.com/playlist/37i9dQZF1DXdc2CX1rMGAc)
+### [Beast Mode Latin](https://open.spotify.com/playlist/7KrnL4O1UlxyAWzycdReuS)
 
 > Latin tunes to get your beast mode on!
 

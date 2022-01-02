@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8O2z77nfMgH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8O2z77nfMgH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8O2z77nfMgH)
 
-### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/37i9dQZF1DX8O2z77nfMgH)
+### [Novedades Viernes Latinoamérica](https://open.spotify.com/playlist/5IWBvXWeYccBbcwARaX1Z3)
 
 > Los lanzamientos latinos más destacados, con Ovi & Gente de Zona.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Sx2mAdbEvx.md) - [plain]
 
 > Iconic artists and voices\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,978 likes - 49 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,981 likes - 49 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Sx2mAdbEvx.md) - [plain]
 | 48 | [There'll Be Some Changes Made](https://open.spotify.com/track/791XP1Sj2BCsf2CYTYje5h) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [Brubeck And Rushing](https://open.spotify.com/album/3mDnrQQWXOSVV1ixnjZzZG) | 2:07 |
 | 49 | [Do Nothing 'Til You Hear From Me](https://open.spotify.com/track/31yWQ2e7dxRKtkDdMr1Rlo) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F) | [Abbey Lincoln's Affair..\. A Story Of A Girl In Love \(Expanded Edition\)](https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg) | 2:16 |
 
-Snapshot ID: `MTY0MTEwODUxNCwwMDAwMDAwMDI5NzdmYzA5ZWEyMmNmNjcxZjkyYWY4MWVmODc1ZTMw`
+Snapshot ID: `MTY0MTExMDAwNiwwMDAwMDAwMDI5NzdmYzA5ZWEyMmNmNjcxZjkyYWY4MWVmODc1ZTMw`

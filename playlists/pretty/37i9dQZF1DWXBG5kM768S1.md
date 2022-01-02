@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Sommerfuggel I Vinterland](https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF) | [Halvdan Sivertsen](https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY) | [Hilsen Halvdan](https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy) | 4:18 |
 | 50 | [Julinetter](https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv) | [Julinetter](https://open.spotify.com/album/3TnJRJMmG55xg5iuTzS4sZ) | 5:39 |
 
-Snapshot ID: `MTY0MTEwODM3MiwwMDAwMDAwMDI2NjdmYjE0Mzg3ODUwNDM4ZDNhZjkyOGU1OWNhNmM3`
+Snapshot ID: `MTY0MTEwOTg3MywwMDAwMDAwMDI2NjdmYjE0Mzg3ODUwNDM4ZDNhZjkyOGU1OWNhNmM3`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4SBhb3fqCJd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4SBhb3fqCJd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4SBhb3fqCJd)
 
-### [Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
+### [Are & Be](https://open.spotify.com/playlist/5zrlCMCGUGIh9pkJp17t53)
 
 > The pulse of R&B music today\.  Cover: SZA
 

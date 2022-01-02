@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZ8QVh1ew4PD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZ8QVh1ew4PD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZ8QVh1ew4PD)
 
-### [Vintage Radio Dramas](https://open.spotify.com/playlist/37i9dQZF1DWZ8QVh1ew4PD)
+### [Vintage Radio Dramas](https://open.spotify.com/playlist/7nXDQ2XO3JqMMR4SM8jKnx)
 
 > For your listening pleasure: relax with classic literature and the best of Hollywood and Broadway on the air\. Updated regularly.
 

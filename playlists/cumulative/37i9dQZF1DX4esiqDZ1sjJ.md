@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4esiqDZ1sjJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4esiqDZ1sjJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4esiqDZ1sjJ)
 
-### [Jock Jams](https://open.spotify.com/playlist/37i9dQZF1DX4esiqDZ1sjJ)
+### [Jock Jams](https://open.spotify.com/playlist/5Zwr8vXJnNJ6byRautt0H4)
 
 > Release your inner jock with these badass jams.
 

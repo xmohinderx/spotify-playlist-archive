@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXupFIUw7TOC.md) - [plain]
 
 > The best of Oasis, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,928 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,934 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1nqy6pUAoUv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1nqy6pUAoUv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1nqy6pUAoUv)
 
-### [Contemporary Folk](https://open.spotify.com/playlist/37i9dQZF1DX1nqy6pUAoUv)
+### [Contemporary Folk](https://open.spotify.com/playlist/79ANrvDhADPfS6kpFqiqNP)
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Tré Burt
 

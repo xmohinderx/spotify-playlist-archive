@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 69 | [Det årnær sæ](https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW) | [Det årnær sæ](https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5) | 2:58 |
 | 70 | [Bygda](https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bygda](https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5) | 2:46 |
 
-Snapshot ID: `MTY0MTEwODY3MiwwMDAwMDAwMGNmMjk1NGNjNmQ2YjcyZTFkNTI1MWM4OWYwYmYwOTc1`
+Snapshot ID: `MTY0MTExMDE1MCwwMDAwMDAwMGNmMjk1NGNjNmQ2YjcyZTFkNTI1MWM4OWYwYmYwOTc1`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ZeFHRhhi7Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ZeFHRhhi7Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ZeFHRhhi7Y)
 
-### [WOR K  OUT](https://open.spotify.com/playlist/37i9dQZF1DX3ZeFHRhhi7Y)
+### [WOR K  OUT](https://open.spotify.com/playlist/1QV1rd0Jl2Uv3EQB0qMIsR)
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 

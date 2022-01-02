@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Third Eye Blind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,453 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,457 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 74 | [Kiss Me](https://open.spotify.com/track/75fuzn623bYyKISKlFHdCw) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [6 PICKS: Essential Radio Hits EP](https://open.spotify.com/album/5kci1HTcEZfK1Jv5HrzPad) | 3:25 |
 | 75 | [Selling The Drama](https://open.spotify.com/track/7BG8BwW3Bhdq4PnZmjDBRm) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Awake The Best Of Live](https://open.spotify.com/album/4rSabzYGjgwZ04581fcBhV) | 3:25 |
 
-Snapshot ID: `MTY0MTEwODUxNiwwMDAwMDAwMGE0NWI5YTBjYTQ2ZDI3NmY1NzQyZDIwY2U5YTY5YTU3`
+Snapshot ID: `MTY0MTExMDAwOSwwMDAwMDAwMGE0NWI5YTBjYTQ2ZDI3NmY1NzQyZDIwY2U5YTY5YTU3`

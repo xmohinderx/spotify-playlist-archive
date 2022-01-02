@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Gwi28HhdBP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Gwi28HhdBP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Gwi28HhdBP)
 
-### [شعبي مصري](https://open.spotify.com/playlist/37i9dQZF1DX7Gwi28HhdBP)
+### [شعبي مصري](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: احمد سعد و مصطفي حجاج
 

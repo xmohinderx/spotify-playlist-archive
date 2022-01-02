@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXqpDKK4ed9O.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXqpDKK4ed9O) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXqpDKK4ed9O)
 
-### [90s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DWXqpDKK4ed9O)
+### [90s Love Songs](https://open.spotify.com/playlist/18ahK2am7p6K88HhVZXnvH)
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 

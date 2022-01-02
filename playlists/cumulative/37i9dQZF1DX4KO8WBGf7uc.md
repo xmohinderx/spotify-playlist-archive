@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4KO8WBGf7uc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4KO8WBGf7uc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4KO8WBGf7uc)
 
-### [Andando De Noche](https://open.spotify.com/playlist/37i9dQZF1DX4KO8WBGf7uc)
+### [Andando De Noche](https://open.spotify.com/playlist/21GnVzY5sfP4CmWY4cHSf6)
 
 > Una vibra urbana en lo que vayas andando en el pueblo de noche.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 
 > Clock in from the comfort of your own home with 8 hours of music to carry you through the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 885,982 likes - 150 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,985 likes - 150 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLSN7iG21yC.md) - [plain]
 | 149 | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Breakdown \(feat\. Demi Lovato\)](https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo) | 2:45 |
 | 150 | [Leave The Door Open](https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Leave The Door Open](https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss) | 4:02 |
 
-Snapshot ID: `MTY0MTEwODI5NCwwMDAwMDAwMGNlZjk2N2RjNDk0OTU2YjRjYzkwMTY1YmE3YjRhYWU0`
+Snapshot ID: `MTY0MTEwOTc5OCwwMDAwMDAwMGNlZjk2N2RjNDk0OTU2YjRjYzkwMTY1YmE3YjRhYWU0`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVY4eLfA3XFQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVY4eLfA3XFQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVY4eLfA3XFQ)
 
-### [Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
+### [Operator](https://open.spotify.com/playlist/1h19DxOaiOA1QrMsl2Oc1M)
 
 > Tech house technicians\. Cover: Joshwa
 

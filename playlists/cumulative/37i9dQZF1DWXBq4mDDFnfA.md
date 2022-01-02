@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXBq4mDDFnfA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXBq4mDDFnfA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXBq4mDDFnfA)
 
-### [Relaxing Classical Guitar](https://open.spotify.com/playlist/37i9dQZF1DWXBq4mDDFnfA)
+### [Relaxing Classical Guitar](https://open.spotify.com/playlist/5ezvMeFI6T1tZLvi0cjCPx)
 
 > Relax to the sound of classical guitar.
 

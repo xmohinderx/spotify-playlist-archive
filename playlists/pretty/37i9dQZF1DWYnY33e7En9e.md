@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,761 likes - 100 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,760 likes - 100 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnY33e7En9e.md) - [plain]
 | 99 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
 | 100 | [Take Me Home, Country Roads](https://open.spotify.com/track/5LV3AJZ7KOKCpoou8kny79) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The Essential John Denver](https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5) | 3:10 |
 
-Snapshot ID: `MTY0MTEwODQwNywwMDAwMDAwMDhmMjRmNmY1MmIwZjBhZDJmZjZkNDYzYmViMzBiNmVl`
+Snapshot ID: `MTY0MTEwOTkwNSwwMDAwMDAwMDhmMjRmNmY1MmIwZjBhZDJmZjZkNDYzYmViMzBiNmVl`

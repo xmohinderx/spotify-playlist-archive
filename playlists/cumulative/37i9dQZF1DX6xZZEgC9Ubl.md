@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6xZZEgC9Ubl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6xZZEgC9Ubl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6xZZEgC9Ubl)
 
-### [tear drop](https://open.spotify.com/playlist/37i9dQZF1DX6xZZEgC9Ubl)
+### [tear drop](https://open.spotify.com/playlist/0iUS4WRaLWFNRyPELzsm9Z)
 
 > emo feels for the misunderstood\. remembering Juice WRLD.
 

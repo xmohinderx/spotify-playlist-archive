@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,426 likes - 148 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,427 likes - 148 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 147 | [Saving My Love](https://open.spotify.com/track/672thZgpcYBR1qow7EOJgC) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Saving My Love](https://open.spotify.com/album/2YHK4d31s4jDsP9cwVeTNt) | 3:29 |
 | 148 | [Hot N Heavy](https://open.spotify.com/track/3sIPjLfkLNnm8KLxR9aInw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hot N Heavy](https://open.spotify.com/album/5mt4XIAT306Y6XdDtJbNUq) | 3:35 |
 
-Snapshot ID: `MTY0MTEwODI3MSwwMDAwMDAwMDc1YmEzNzJhYjY5MjFkOTMwZGI4NTUzYzE5YTAzNzZm`
+Snapshot ID: `MTY0MTEwOTc3NiwwMDAwMDAwMDc1YmEzNzJhYjY5MjFkOTMwZGI4NTUzYzE5YTAzNzZm`

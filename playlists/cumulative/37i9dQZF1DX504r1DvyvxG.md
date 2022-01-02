@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX504r1DvyvxG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX504r1DvyvxG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX504r1DvyvxG)
 
-### [Classic Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX504r1DvyvxG)
+### [Classic Acoustic](https://open.spotify.com/playlist/3SYauXGHMGALNz6T4c3c5m)
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: Joni Mitchell
 

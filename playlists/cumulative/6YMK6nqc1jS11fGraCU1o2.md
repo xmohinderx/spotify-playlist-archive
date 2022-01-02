@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6YMK6nqc1jS11fGraCU1o2.md) - cumulative - [plain](/playlists/plain/6YMK6nqc1jS11fGraCU1o2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6YMK6nqc1jS11fGraCU1o2)
 
-### [Spring Garden](https://open.spotify.com/playlist/6YMK6nqc1jS11fGraCU1o2)
+### [Spring Garden](https://open.spotify.com/playlist/0IT83lmkNTS30YpPEEBV9M)
 
 > Sleep, study, or simply still your mind with the soothing sounds of spring.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,937 likes - 60 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,940 likes - 60 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Anatolia](https://open.spotify.com/track/636ieo1frTLl9XvQwalG1o) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [Anatolia](https://open.spotify.com/album/6dITVz5ayEYI52QZ6Oy8rq) | 5:09 |
 | 60 | [Mirage](https://open.spotify.com/track/79HMJ5AO1qCA4JLZAsrM5j) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Mirage](https://open.spotify.com/album/6XbjotcFUn4IhsYqqYm47B) | 6:28 |
 
-Snapshot ID: `MTY0MTEwODQ5NywwMDAwMDAwMDYyZTZjZmJiYjE1MGI1NjViMTA4NWE5MTk5NTljODVi`
+Snapshot ID: `MTY0MTEwOTk5MSwwMDAwMDAwMDYyZTZjZmJiYjE1MGI1NjViMTA4NWE5MTk5NTljODVi`

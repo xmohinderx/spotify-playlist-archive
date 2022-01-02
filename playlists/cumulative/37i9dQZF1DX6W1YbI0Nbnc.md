@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6W1YbI0Nbnc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6W1YbI0Nbnc)
 
-### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
+### [EQUAL Hong Kong](https://open.spotify.com/playlist/3fyf9kJjwMb77gM8igxXJz)
 
 > 一起感受香港製造的女聲力量！\(cover: Joyce鄭欣宜\)
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWwaxRea1LWS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWwaxRea1LWS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWwaxRea1LWS)
 
-### [Throwback Thursday](https://open.spotify.com/playlist/37i9dQZF1DWWwaxRea1LWS)
+### [Throwback Thursday](https://open.spotify.com/playlist/2yXr2sJKdcvSqNFB56eYbH)
 
 > Party like it's New Year's Eve..\. 10 years ago! Only on \#Spotifytbt Cover: Black Eyed Peas
 

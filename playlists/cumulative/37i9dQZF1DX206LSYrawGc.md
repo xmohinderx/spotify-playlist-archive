@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX206LSYrawGc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX206LSYrawGc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX206LSYrawGc)
 
-### [80s Rock Drive](https://open.spotify.com/playlist/37i9dQZF1DX206LSYrawGc)
+### [80s Rock Drive](https://open.spotify.com/playlist/3hAccsICN2Mkk5YbDegR4U)
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 

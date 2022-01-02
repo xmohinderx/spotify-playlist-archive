@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6bJVMtDYJHx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6bJVMtDYJHx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6bJVMtDYJHx)
 
-### [This Is Aretha Franklin](https://open.spotify.com/playlist/37i9dQZF1DX6bJVMtDYJHx)
+### [This Is Aretha Franklin](https://open.spotify.com/playlist/6eWIEOvHdwAmbDLuMrbmXT)
 
 > Celebrating the legacy of the undisputed Queen of Soul, Aretha Franklin\.  Her most essential tracks, all in one playlist.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrPBdYfoJvz.md) - [plain]
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,206 likes - 98 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,213 likes - 98 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

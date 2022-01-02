@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,814 likes - 150 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,827 likes - 150 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Kiss and Say Goodbye](https://open.spotify.com/track/0rHiGIRASJq8snJGFJMpnI) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Manhattans \(Expanded Version\)](https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv) | 4:26 |
 | 150 | [Feel Like Makin' Love](https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love](https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA) | 2:55 |
 
-Snapshot ID: `MTY0MTEwODI5OSwwMDAwMDAwMDgxYTZiMmZjNThkZWE0YjJjZmU4YTIyYWY3NmY4ZTRk`
+Snapshot ID: `MTY0MTEwOTgwMiwwMDAwMDAwMDgxYTZiMmZjNThkZWE0YjJjZmU4YTIyYWY3NmY4ZTRk`

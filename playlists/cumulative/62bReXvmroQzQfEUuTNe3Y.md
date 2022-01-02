@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62bReXvmroQzQfEUuTNe3Y)
 
-### [Chill House 2022](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
+### [Chill House 2022](https://open.spotify.com/playlist/176RgsLKyYqp0PvMOkg8PN)
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 

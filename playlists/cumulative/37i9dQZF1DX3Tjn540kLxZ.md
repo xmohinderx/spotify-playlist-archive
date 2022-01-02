@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Tjn540kLxZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Tjn540kLxZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Tjn540kLxZ)
 
-### [free refills](https://open.spotify.com/playlist/37i9dQZF1DX3Tjn540kLxZ)
+### [free refills](https://open.spotify.com/playlist/4HyXgaWQ9jg50Del0ne7dK)
 
 > no thoughts, just non\-stop alt bops
 

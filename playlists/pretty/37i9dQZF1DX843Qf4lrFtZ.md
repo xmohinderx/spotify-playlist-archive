@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 
 > That’s how its supposed to be\. Living young, wild and free!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,741,012 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,741,005 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX843Qf4lrFtZ.md) - [plain]
 | 99 | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/track/7ksYNhalX8IWKku513n8QG) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Maybe Don't \(feat\. JP Saxe\)](https://open.spotify.com/album/2X5tbY4Yam5ir3dG8eJSHa) | 2:54 |
 | 100 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 |
 
-Snapshot ID: `MTY0MTEwODYyMywwMDAwMDAwMDVhMzc1ZTFjZjBkMjk3NDU2MGQwY2I5NjA2NzJkZmJi`
+Snapshot ID: `MTY0MTExMDExMCwwMDAwMDAwMDVhMzc1ZTFjZjBkMjk3NDU2MGQwY2I5NjA2NzJkZmJi`

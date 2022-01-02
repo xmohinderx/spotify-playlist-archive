@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX024QaIPhrkq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX024QaIPhrkq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX024QaIPhrkq)
 
-### [This Is Soundgarden](https://open.spotify.com/playlist/37i9dQZF1DX024QaIPhrkq)
+### [This Is Soundgarden](https://open.spotify.com/playlist/41z92p1UL6fbbJMWTUk7uv)
 
 > The essential Soundgarden, all in one playlist.
 

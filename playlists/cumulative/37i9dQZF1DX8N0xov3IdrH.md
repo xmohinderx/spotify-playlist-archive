@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8N0xov3IdrH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8N0xov3IdrH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8N0xov3IdrH)
 
-### [This is Jerry Garcia](https://open.spotify.com/playlist/37i9dQZF1DX8N0xov3IdrH)
+### [This is Jerry Garcia](https://open.spotify.com/playlist/7mM2AMTPLexks0Wsb0sGQW)
 
 > From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.
 

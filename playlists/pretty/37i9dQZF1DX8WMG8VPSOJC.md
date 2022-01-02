@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,510,741 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,510,746 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 84 | [Put Me Back Together](https://open.spotify.com/track/1WelLVAg9UZLglbIopQNBk) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Put Me Back Together](https://open.spotify.com/album/77VHRSFESMUq0V50ZCkFpj) | 3:23 |
 | 85 | [Holding On to You](https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 4:32 |
 
-Snapshot ID: `MTY0MTEwODYzMywwMDAwMDAwMDBhZDBjMWM0Y2NjNzU4NjMwOTZkNjdjY2VkZjQ2ZGFl`
+Snapshot ID: `MTY0MTExMDEyMCwwMDAwMDAwMDBhZDBjMWM0Y2NjNzU4NjMwOTZkNjdjY2VkZjQ2ZGFl`

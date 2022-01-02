@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0XDRWlx2B1C1OXlaLlld8t.md) - cumulative - [plain](/playlists/plain/0XDRWlx2B1C1OXlaLlld8t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0XDRWlx2B1C1OXlaLlld8t)
 
-### [Interstate Drive Songs](https://open.spotify.com/playlist/0XDRWlx2B1C1OXlaLlld8t)
+### [Interstate Drive Songs](https://open.spotify.com/playlist/5yocQp2P0FToSpqcPGUbFg)
 
 > Coast along to the best of the alt rock era.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 
 > Fast cars, zombie love, and psychobilly freakouts!
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,720 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,724 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb2cYklA89lm.md) - [plain]
 | 49 | [Never Again](https://open.spotify.com/track/27AFFzQFa89pmV7PlJJKeW) | [The Crimson Ghosts](https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam) | [Never Again](https://open.spotify.com/album/1l29bJ6ycJmy8yAS7N1rP3) | 3:24 |
 | 50 | [Come A Little Closer](https://open.spotify.com/track/5XBhdcdrUvVENLhSrj3Ho4) | [Andy and the rockets](https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a) | [Come a Little Closer](https://open.spotify.com/album/2tpW9z0UHx09Zqj0XEvvOk) | 2:58 |
 
-Snapshot ID: `MTY0MTEwODY5MywwMDAwMDAwMDRiN2ZhMmI0NDkyYTgxYzRiOTczNzE4YjRiYzhiYWE1`
+Snapshot ID: `MTY0MTExMDE3MCwwMDAwMDAwMDRiN2ZhMmI0NDkyYTgxYzRiOTczNzE4YjRiYzhiYWE1`

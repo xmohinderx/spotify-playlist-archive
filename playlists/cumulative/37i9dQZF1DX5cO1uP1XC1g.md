@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5cO1uP1XC1g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5cO1uP1XC1g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5cO1uP1XC1g)
 
-### [Top Arabic Hits \- Yalla يلا](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
+### [Top Arabic Hits \- Yalla يلا](https://open.spotify.com/playlist/0eanlvLw5z6s34o6Ig0uiT)
 
 > Top Arabic hits are right here\. Cover: Mohamed Ramadan, RedOne, Nouamane Belaiachi
 

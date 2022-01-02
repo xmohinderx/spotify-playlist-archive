@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,439 likes - 100 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,916,447 likes - 100 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 99 | [Impression E Minor](https://open.spotify.com/track/5eIUDdG5pFjmshH9CsJgTV) | [Krzysztof Kobylinski](https://open.spotify.com/artist/7yi2tj3EelAhQoyyN4hYOb), [Erik Truffaz](https://open.spotify.com/artist/6U3cvMmHIab0CAGtC5tRY3) | [Give Me November](https://open.spotify.com/album/3hBYyrSwgLGzQzzxl8tZ10) | 3:42 |
 | 100 | [Infant Eyes \- Remastered1998/Rudy Van Gelder Edition](https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Speak No Evil](https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU) | 6:54 |
 
-Snapshot ID: `MTY0MTEwODU0OCwwMDAwMDAwMDgwOTliNGRiZThiZTVkY2VkYWFkNTE3YTQwOTM4YTRm`
+Snapshot ID: `MTY0MTExMDAzOSwwMDAwMDAwMDgwOTliNGRiZThiZTVkY2VkYWFkNTE3YTQwOTM4YTRm`

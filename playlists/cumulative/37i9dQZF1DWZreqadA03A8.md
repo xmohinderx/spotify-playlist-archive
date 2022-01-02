@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZreqadA03A8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZreqadA03A8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZreqadA03A8)
 
-### [Lucy In The Sky With Diamonds](https://open.spotify.com/playlist/37i9dQZF1DWZreqadA03A8)
+### [Lucy In The Sky With Diamonds](https://open.spotify.com/playlist/6SvDhFi2mB8MGU0H2foVhX)
 
 > Imaginative\. Inventive\. Ingenius\. Influential\. Here are the Beatles at their most experimental; changing and shaping the face of music forever.
 

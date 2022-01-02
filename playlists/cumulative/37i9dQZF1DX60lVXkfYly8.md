@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX60lVXkfYly8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX60lVXkfYly8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX60lVXkfYly8)
 
-### [Learn Chinese](https://open.spotify.com/playlist/37i9dQZF1DX60lVXkfYly8)
+### [Learn Chinese](https://open.spotify.com/playlist/3mCvGJ2ELFlhtMZ0GFMJ71)
 
 > Learn and practice your Chinese language skills, from basic vocabulary to useful travel phrases and conversations.
 

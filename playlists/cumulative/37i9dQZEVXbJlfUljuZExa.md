@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJlfUljuZExa.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJlfUljuZExa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJlfUljuZExa)
 
-### [Top 50 \- Malaysia](https://open.spotify.com/playlist/37i9dQZEVXbJlfUljuZExa)
+### [Top 50 \- Malaysia](https://open.spotify.com/playlist/4xe8JQ3qRY56mBF02olXgZ)
 
 > Your daily update of the most played tracks right now \- Malaysia.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6ALfRKlHn1t.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6ALfRKlHn1t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6ALfRKlHn1t)
 
-### [Soak Up the Sun](https://open.spotify.com/playlist/37i9dQZF1DX6ALfRKlHn1t)
+### [Soak Up the Sun](https://open.spotify.com/playlist/5GFfeaEHqQUbUlBlog2PDd)
 
 > Drink up these tunes and all the feels\. Good vibes only.
 

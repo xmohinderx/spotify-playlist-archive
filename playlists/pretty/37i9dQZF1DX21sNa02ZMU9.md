@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,680 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,681 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21sNa02ZMU9.md) - [plain]
 | 69 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 |
 | 70 | [So What](https://open.spotify.com/track/49KhRYxcukqBtmeSy44s2B) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse](https://open.spotify.com/album/21tsMIrRLUKFwfvX9oxQZR) | 3:35 |
 
-Snapshot ID: `MTY0MTEwODQ4MSwwMDAwMDAwMDRjZTkyYmJkZjdhOWU4M2E2MDMzNjE4Zjk2YWFiNTIw`
+Snapshot ID: `MTY0MTEwOTk3NSwwMDAwMDAwMDRjZTkyYmJkZjdhOWU4M2E2MDMzNjE4Zjk2YWFiNTIw`

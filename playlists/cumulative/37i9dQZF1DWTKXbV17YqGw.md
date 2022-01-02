@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTKXbV17YqGw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTKXbV17YqGw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTKXbV17YqGw)
 
-### [Detty December](https://open.spotify.com/playlist/37i9dQZF1DWTKXbV17YqGw)
+### [Detty December](https://open.spotify.com/playlist/0H4WlWSeclrlkQanHsRFQh)
 
 > Wizkid takes over Detty December with his favourite tracks right now!
 

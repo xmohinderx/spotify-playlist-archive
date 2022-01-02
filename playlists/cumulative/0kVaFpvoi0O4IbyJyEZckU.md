@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0kVaFpvoi0O4IbyJyEZckU.md) - cumulative - [plain](/playlists/plain/0kVaFpvoi0O4IbyJyEZckU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0kVaFpvoi0O4IbyJyEZckU)
 
-### [Amped up.](https://open.spotify.com/playlist/0kVaFpvoi0O4IbyJyEZckU)
+### [Amped up.](https://open.spotify.com/playlist/5FFcQmK56lASUC5T3wxuBv)
 
 > Psych yourself up for whatever you've got going...
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: Mitski
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,432 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,430 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Disassociate](https://open.spotify.com/track/0Apty1GYyLLBkG6MHehlqF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Disassociate](https://open.spotify.com/album/1IQv4Zj4RFkydAxXfS7CLJ) | 3:19 |
 | 90 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 |
 
-Snapshot ID: `MTY0MTEwODQ3MCwwMDAwMDAwMDk5YmFmODFkMWUzZDExMjc2Yzk1ZTllOTUzMGM4Y2U2`
+Snapshot ID: `MTY0MTEwOTk2NSwwMDAwMDAwMDk5YmFmODFkMWUzZDExMjc2Yzk1ZTllOTUzMGM4Y2U2`

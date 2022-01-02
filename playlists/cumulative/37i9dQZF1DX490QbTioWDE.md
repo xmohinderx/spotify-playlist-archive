@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX490QbTioWDE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX490QbTioWDE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX490QbTioWDE)
 
-### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
+### [100% Cuarteto](https://open.spotify.com/playlist/4gHgPMBkk3GWoIEAgwnRzK)
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga.
 

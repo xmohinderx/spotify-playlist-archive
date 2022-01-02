@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7GqyyDpXu1q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7GqyyDpXu1q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7GqyyDpXu1q)
 
-### [Southern Comfort](https://open.spotify.com/playlist/37i9dQZF1DX7GqyyDpXu1q)
+### [Southern Comfort](https://open.spotify.com/playlist/79XVKo7l9XHjcwvW9O8E46)
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Whiskey Myers
 

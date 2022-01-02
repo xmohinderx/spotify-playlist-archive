@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6GwdWRQMQpq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6GwdWRQMQpq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GwdWRQMQpq)
 
-### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
+### [Feelin' Myself](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Megan Thee Stallion
 

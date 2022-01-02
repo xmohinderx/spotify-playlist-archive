@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVsh2vXzlKFb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVsh2vXzlKFb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVsh2vXzlKFb)
 
-### [Summer Indie](https://open.spotify.com/playlist/37i9dQZF1DWVsh2vXzlKFb)
+### [Summer Indie](https://open.spotify.com/playlist/6Y4ymtVT29RGI1Pm3fIQpf)
 
 > Indie tunes for t\-shirt weather.
 

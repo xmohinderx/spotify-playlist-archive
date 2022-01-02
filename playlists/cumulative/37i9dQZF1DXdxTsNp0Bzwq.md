@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdxTsNp0Bzwq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdxTsNp0Bzwq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxTsNp0Bzwq)
 
-### [Gameday](https://open.spotify.com/playlist/37i9dQZF1DXdxTsNp0Bzwq)
+### [Gameday](https://open.spotify.com/playlist/6TtADyX1pjjqxAwbYMYjTP)
 
 > Turn up for the big game!
 

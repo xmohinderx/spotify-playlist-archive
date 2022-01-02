@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9G9wwzwWL2k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9G9wwzwWL2k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9G9wwzwWL2k)
 
-### [Epic Classical](https://open.spotify.com/playlist/37i9dQZF1DX9G9wwzwWL2k)
+### [Epic Classical](https://open.spotify.com/playlist/0Ass7ItbbNyArnjQYNqwuO)
 
 > Lend a little drama to the occasion with this collection of truly epic classical music.
 

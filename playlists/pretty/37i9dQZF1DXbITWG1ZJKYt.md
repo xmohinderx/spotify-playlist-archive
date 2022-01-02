@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,353,628 likes - 200 songs - 17 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,353,632 likes - 200 songs - 17 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbITWG1ZJKYt.md) - [plain]
 | 199 | [Strange Fruit](https://open.spotify.com/track/1CTex49P0iWwzUGsMNjgaV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Billie Holiday](https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs) | 3:12 |
 | 200 | [Blue Rondo à la Turk](https://open.spotify.com/track/36MLLjFug6TJYNODUVR7av) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 6:43 |
 
-Snapshot ID: `MTY0MTEwODY5OSwwMDAwMDAwMDM3MWQyOTJjMjg3NTljMTJlYmY4M2Q4NGEzOGUxYTc2`
+Snapshot ID: `MTY0MTExMDE3NSwwMDAwMDAwMDM3MWQyOTJjMjg3NTljMTJlYmY4M2Q4NGEzOGUxYTc2`

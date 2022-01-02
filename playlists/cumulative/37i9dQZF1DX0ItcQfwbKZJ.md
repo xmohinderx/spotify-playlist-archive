@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0ItcQfwbKZJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0ItcQfwbKZJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ItcQfwbKZJ)
 
-### [Afrobeat Essentials](https://open.spotify.com/playlist/37i9dQZF1DX0ItcQfwbKZJ)
+### [Afrobeat Essentials](https://open.spotify.com/playlist/4VcScZv2o0s4WmAHR6nbC5)
 
 > From Fela Kuti to Antibalas, enjoy a collection of timeless Afrobeat music!
 

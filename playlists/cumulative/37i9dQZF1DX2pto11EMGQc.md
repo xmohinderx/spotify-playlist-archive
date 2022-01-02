@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2pto11EMGQc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2pto11EMGQc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2pto11EMGQc)
 
-### [The Bachelor Party](https://open.spotify.com/playlist/37i9dQZF1DX2pto11EMGQc)
+### [The Bachelor Party](https://open.spotify.com/playlist/2AALAexeFCpJZligRx3g09)
 
 > Here's to the groom! Enjoy your day with the boys!
 

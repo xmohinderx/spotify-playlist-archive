@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: my bloody valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,099 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,100 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [A Design for Life \- Remastered](https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Everything Must Go 10th Anniversary Edition](https://open.spotify.com/album/3jvKfPU4A2j7tVOFkhcEi2) | 4:17 |
 | 80 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 
-Snapshot ID: `MTY0MTEwODY3OCwwMDAwMDAwMDAwMzFkOTIxYTE0YzI0ZWIxOWNhOGE2YmU2MWQxZTRk`
+Snapshot ID: `MTY0MTExMDE1NSwwMDAwMDAwMDAwMzFkOTIxYTE0YzI0ZWIxOWNhOGE2YmU2MWQxZTRk`

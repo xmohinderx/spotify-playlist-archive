@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZUtjhu2IHar.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZUtjhu2IHar) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZUtjhu2IHar)
 
-### [the locker\_ presents..\. Best Of 2021](https://open.spotify.com/playlist/37i9dQZF1DWZUtjhu2IHar)
+### [the locker\_ presents..\. Best Of 2021](https://open.spotify.com/playlist/0gRbgPGo5N1a8Os2Z8btid)
 
 > congrats class of 2021, you crushed it this year \\m/ Cover: WILLOW
 

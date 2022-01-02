@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZXHVUlGM9Wp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZXHVUlGM9Wp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZXHVUlGM9Wp)
 
-### [I Love My 80's Rollerdisco](https://open.spotify.com/playlist/37i9dQZF1DWZXHVUlGM9Wp)
+### [I Love My 80's Rollerdisco](https://open.spotify.com/playlist/04amIGThswj9l5Ef18j76s)
 
 > Reminisce, keep rollin' to the boogie or discover: get a taste of late 70's and early & 80's clubmusic!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdTb8AG95jne.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdTb8AG95jne) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdTb8AG95jne)
 
-### [In The K\-Indie](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
+### [In The K\-Indie](https://open.spotify.com/playlist/7oIOz55z3nJxu7NnCUP6gQ)
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Ha Hyunsang\(하현상\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 

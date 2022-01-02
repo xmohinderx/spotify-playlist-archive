@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJU9eQpX8gPT.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJU9eQpX8gPT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJU9eQpX8gPT)
 
-### [Top 50 \- Morocco](https://open.spotify.com/playlist/37i9dQZEVXbJU9eQpX8gPT)
+### [Top 50 \- Morocco](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 > Your daily update of the most played tracks right now \- Morocco.
 

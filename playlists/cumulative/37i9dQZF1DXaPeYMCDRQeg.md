@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaPeYMCDRQeg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPeYMCDRQeg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPeYMCDRQeg)
 
-### [Black Love Mixtape](https://open.spotify.com/playlist/37i9dQZF1DXaPeYMCDRQeg)
+### [Black Love Mixtape](https://open.spotify.com/playlist/2DmN9l4sDiwLOTL9XKQjgq)
 
 > Celebrating Black love, one song at a time.
 

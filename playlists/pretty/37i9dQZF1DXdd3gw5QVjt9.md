@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise & shine with the perfect blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,217,481 likes - 90 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,483 likes - 90 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 89 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 90 | [Heart and Mind Alike](https://open.spotify.com/track/1A3bB2ovgd5LFV874leyZC) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Heart and Mind Alike](https://open.spotify.com/album/1UJ7f6DVQ0AVxo9H0gLGrr) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODc0OCwwMDAwMDAwMDM4ZWViYzU0MWFiNDVjYjQ2MDI4MWU1ZmZjYmZkM2Ew`
+Snapshot ID: `MTY0MTExMDIyMiwwMDAwMDAwMDM4ZWViYzU0MWFiNDVjYjQ2MDI4MWU1ZmZjYmZkM2Ew`

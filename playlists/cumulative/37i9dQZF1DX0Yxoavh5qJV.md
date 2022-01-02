@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0Yxoavh5qJV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0Yxoavh5qJV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0Yxoavh5qJV)
 
-### [Christmas Hits](https://open.spotify.com/playlist/37i9dQZF1DX0Yxoavh5qJV)
+### [Christmas Hits](https://open.spotify.com/playlist/7l6IxKG32LlSCNWmOjozYs)
 
 > The biggest Christmas songs of all time.
 

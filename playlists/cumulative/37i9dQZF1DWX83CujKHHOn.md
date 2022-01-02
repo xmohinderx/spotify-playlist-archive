@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX83CujKHHOn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX83CujKHHOn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX83CujKHHOn)
 
-### [Alone Again](https://open.spotify.com/playlist/37i9dQZF1DWX83CujKHHOn)
+### [Alone Again](https://open.spotify.com/playlist/4TuqprRvF3pWyUXfGA1jsb)
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 

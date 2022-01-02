@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa8NOEUWPn9W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa8NOEUWPn9W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa8NOEUWPn9W)
 
-### [Housewerk](https://open.spotify.com/playlist/37i9dQZF1DXa8NOEUWPn9W)
+### [Housewerk](https://open.spotify.com/playlist/1B1wblzRfDqZJTGVsoUfwr)
 
 > <a href="spotify:genre:house">House</a> music lives here\. United in one house\. Cover: Ben Kim
 

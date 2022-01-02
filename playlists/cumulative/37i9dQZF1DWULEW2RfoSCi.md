@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWULEW2RfoSCi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULEW2RfoSCi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULEW2RfoSCi)
 
-### [70s Soul Classics](https://open.spotify.com/playlist/37i9dQZF1DWULEW2RfoSCi)
+### [70s Soul Classics](https://open.spotify.com/playlist/1U8oAm40hMuZ5aAKe6Zzaz)
 
 > A collection of the hottest soul tracks from the 1970s.
 

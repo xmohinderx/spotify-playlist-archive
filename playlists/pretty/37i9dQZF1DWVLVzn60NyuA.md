@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,723 likes - 180 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,724 likes - 180 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 179 | [Man on Duty](https://open.spotify.com/track/2jr9GoNKXIj1hJcWNscEO6) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Man on Duty](https://open.spotify.com/album/5AlB2TksQV1NDoUmKGdbLx) | 3:35 |
 | 180 | [Hot Topicz](https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP) | [Shockman](https://open.spotify.com/artist/1yqwpsovt61So9S0YfoEss), [Limitless](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz) | [Hot Topicz](https://open.spotify.com/album/2y9waElWWqJwciMg8gKMkF) | 2:29 |
 
-Snapshot ID: `MTY0MTEwODMzMiwwMDAwMDAwMDcwZjZjMzg2YzVlMzU4OWU0ODM2YzIxYjhjODE2N2M3`
+Snapshot ID: `MTY0MTEwOTgzNCwwMDAwMDAwMDcwZjZjMzg2YzVlMzU4OWU0ODM2YzIxYjhjODE2N2M3`

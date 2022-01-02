@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5sFZ3M4gXeYScR9VJTyBh2.md) - cumulative - [plain](/playlists/plain/5sFZ3M4gXeYScR9VJTyBh2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5sFZ3M4gXeYScR9VJTyBh2)
 
-### [Lost the Game? Drown Your Sorrows](https://open.spotify.com/playlist/5sFZ3M4gXeYScR9VJTyBh2)
+### [Lost the Game? Drown Your Sorrows](https://open.spotify.com/playlist/6Oulyt6ha0qH326XiFsDIq)
 
 > You can't win 'em all\. Drown your sorrows with a cold brew and this drinking playlist.
 

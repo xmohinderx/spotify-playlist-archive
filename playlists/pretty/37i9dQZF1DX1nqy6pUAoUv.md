@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,340 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,341 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Wade In The Water \(Feat\. The War and Treaty, with The Blind Boys of Alabama\)](https://open.spotify.com/track/2gjB0dkFCQMwhy58wf7zix) | [Matt Rollings](https://open.spotify.com/artist/0L0kGJvVnSHBXrmT22xEnu), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Wade In The Water \(Feat\. The War and Treaty, with The Blind Boys of Alabama\)](https://open.spotify.com/album/5nCjw9lzzU26lf5IgYmjuO) | 3:09 |
 | 100 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 |
 
-Snapshot ID: `MTY0MTEwODQ3MiwwMDAwMDAwMDIxYmNmZjEzOTFjNTU1NjRhYTY1MzUyMWZjYWEyYjEw`
+Snapshot ID: `MTY0MTEwOTk2NywwMDAwMDAwMDIxYmNmZjEzOTFjNTU1NjRhYTY1MzUyMWZjYWEyYjEw`

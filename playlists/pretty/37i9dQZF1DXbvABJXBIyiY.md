@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,533 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,534 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 59 | [Shiver](https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:53 |
 | 60 | [Visions Of China](https://open.spotify.com/track/7lkmvTlnEs0JfKIFg9NmcL) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [C\-Sides](https://open.spotify.com/album/4MukviK8Vj2Hfsfg8g99Rk) | 3:21 |
 
-Snapshot ID: `MTY0MTEwODcxMSwwMDAwMDAwMDNkZGMwNzEwOTEzYTRlMmM2YWY3OGFiYmFkNzI4OTFl`
+Snapshot ID: `MTY0MTExMDE4NywwMDAwMDAwMDNkZGMwNzEwOTEzYTRlMmM2YWY3OGFiYmFkNzI4OTFl`

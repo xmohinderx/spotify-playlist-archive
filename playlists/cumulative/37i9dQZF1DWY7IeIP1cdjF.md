@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY7IeIP1cdjF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7IeIP1cdjF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7IeIP1cdjF)
 
-### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
+### [Baila Reggaeton](https://open.spotify.com/playlist/0HEXy6qoPJDhzDX63XfHmx)
 
 > Reggaeton hits from Sech, Blessd, Bad Bunny and more!
 

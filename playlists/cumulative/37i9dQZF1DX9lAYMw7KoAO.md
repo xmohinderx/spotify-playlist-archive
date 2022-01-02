@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9lAYMw7KoAO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9lAYMw7KoAO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9lAYMw7KoAO)
 
-### [Redeemed](https://open.spotify.com/playlist/37i9dQZF1DX9lAYMw7KoAO)
+### [Redeemed](https://open.spotify.com/playlist/7olbfB26cR1n5qSLX8dDVo)
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0r3x8OtiwEM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0r3x8OtiwEM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0r3x8OtiwEM)
 
-### [Lowkey Tech](https://open.spotify.com/playlist/37i9dQZF1DX0r3x8OtiwEM)
+### [Lowkey Tech](https://open.spotify.com/playlist/5L4JSSwDi8JK1xvphQcxXZ)
 
 > Chill techno and tech house.
 

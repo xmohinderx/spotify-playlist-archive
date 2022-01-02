@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSxQLa5KoDYW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSxQLa5KoDYW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSxQLa5KoDYW)
 
-### [This Is Gorillaz](https://open.spotify.com/playlist/37i9dQZF1DWSxQLa5KoDYW)
+### [This Is Gorillaz](https://open.spotify.com/playlist/0C3eODuuVTK4kjBq4D8tUZ)
 
 > The best of Gorillaz, in one place.
 

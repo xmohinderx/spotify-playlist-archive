@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 
 > Because we all deserve great pop love songs in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,427,433 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,427,436 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50QitC6Oqtn.md) - [plain]
 | 99 | [A Thousand Years](https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [A Thousand Years](https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo) | 4:45 |
 | 100 | [What Would You Do for Love?](https://open.spotify.com/track/58H2Sd0efzMuapCQlEKeV2) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [What Would You Do for Love?](https://open.spotify.com/album/4b8s0d8kxJVhKtlTcdNmN9) | 2:56 |
 
-Snapshot ID: `MTY0MTEwODU1MCwwMDAwMDAwMGNjMjdjYWQ4OTQ1YTA4YmZiNDMyODVlODU4YWQxMDU1`
+Snapshot ID: `MTY0MTExMDA0MSwwMDAwMDAwMGNjMjdjYWQ4OTQ1YTA4YmZiNDMyODVlODU4YWQxMDU1`

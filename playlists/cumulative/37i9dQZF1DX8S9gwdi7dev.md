@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8S9gwdi7dev.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8S9gwdi7dev) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8S9gwdi7dev)
 
-### [Halloween Party](https://open.spotify.com/playlist/37i9dQZF1DX8S9gwdi7dev)
+### [Halloween Party](https://open.spotify.com/playlist/4eYbz1GI6qfDbenGzlw63t)
 
 > Fun tracks for your Halloween festivities!
 

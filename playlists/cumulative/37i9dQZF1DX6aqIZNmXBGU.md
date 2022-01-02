@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6aqIZNmXBGU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6aqIZNmXBGU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6aqIZNmXBGU)
 
-### [Sun & Surf](https://open.spotify.com/playlist/37i9dQZF1DX6aqIZNmXBGU)
+### [Sun & Surf](https://open.spotify.com/playlist/0qekuHpLuIk7DFeuQZ1pAT)
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 

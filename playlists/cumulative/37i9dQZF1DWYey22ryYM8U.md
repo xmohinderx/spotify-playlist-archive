@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYey22ryYM8U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYey22ryYM8U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYey22ryYM8U)
 
-### [Paraíso Tropical](https://open.spotify.com/playlist/37i9dQZF1DWYey22ryYM8U)
+### [Paraíso Tropical](https://open.spotify.com/playlist/7C5RQH9PfCfFaVUj1qDQvY)
 
 > Éxitos con sabor\. Cover: Olga Tañon
 

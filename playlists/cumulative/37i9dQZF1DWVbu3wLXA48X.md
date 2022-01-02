@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVbu3wLXA48X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVbu3wLXA48X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVbu3wLXA48X)
 
-### [Indie Shuffle](https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X)
+### [Indie Shuffle](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
 > Current indie tunes from Asia and around the world\. Cover: lilong
 

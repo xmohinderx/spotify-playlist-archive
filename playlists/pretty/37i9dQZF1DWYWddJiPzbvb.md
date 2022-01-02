@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 
 > Chilled songs that you are familiar with \- no surprises!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,207 likes - 200 songs - 12 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,217 likes - 200 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWddJiPzbvb.md) - [plain]
 | 199 | [Young Dumb & Broke](https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [American Teen](https://open.spotify.com/album/6kf46HbnYCZzP6rjvQHYzg) | 3:22 |
 | 200 | [First Time](https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [First Time](https://open.spotify.com/album/6wu7tiTr8zchRG7PWwTOK1) | 3:13 |
 
-Snapshot ID: `MTY0MTEwODQwMiwwMDAwMDAwMGUxZjA0ZWZkNDcwNzhmMGIwNjkzMjU5MTI0MDBlZWYz`
+Snapshot ID: `MTY0MTEwOTkwMSwwMDAwMDAwMGUxZjA0ZWZkNDcwNzhmMGIwNjkzMjU5MTI0MDBlZWYz`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/31agQ1yW51tGsDIFZbAZMl.md) - cumulative - [plain](/playlists/plain/31agQ1yW51tGsDIFZbAZMl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/31agQ1yW51tGsDIFZbAZMl)
 
-### [XFM JUNE 26](https://open.spotify.com/playlist/31agQ1yW51tGsDIFZbAZMl)
+### [XFM JUNE 26](https://open.spotify.com/playlist/5uoR2icLKeQlUKg7ZKjOHE)
 
 > 
 

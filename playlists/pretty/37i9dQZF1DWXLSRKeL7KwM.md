@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,423 likes - 150 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,430 likes - 150 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLSRKeL7KwM.md) - [plain]
 | 149 | [Anything Goes](https://open.spotify.com/track/46ZfPS5VpSQVU5gb82hg3K) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:38 |
 | 150 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 
-Snapshot ID: `MTY0MTEwODM3NSwwMDAwMDAwMDQ2MTRjZGIwMmU3MjMwNTQ4MmVhOTcwOTM5OGNlOGNj`
+Snapshot ID: `MTY0MTEwOTg3NiwwMDAwMDAwMDQ2MTRjZGIwMmU3MjMwNTQ4MmVhOTcwOTM5OGNlOGNj`

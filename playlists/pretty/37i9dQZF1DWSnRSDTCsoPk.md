@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,455 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,463 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 98 | [What's your name?](https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Name is 4minute](https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU) | 3:06 |
 | 99 | [Beautiful](https://open.spotify.com/track/6CDtmm9IbYYKnWWRgUmVRo) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Lights Go On Again](https://open.spotify.com/album/5r0br4nupSu65kd5TzNQEe) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODI4MSwwMDAwMDAwMDk5MTc1MzMyMTc1Yjc0Zjc5YzMzODRiNTQ1NWRhZDFh`
+Snapshot ID: `MTY0MTEwOTc4NSwwMDAwMDAwMDk5MTc1MzMyMTc1Yjc0Zjc5YzMzODRiNTQ1NWRhZDFh`

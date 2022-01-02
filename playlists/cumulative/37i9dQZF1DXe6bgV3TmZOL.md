@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXe6bgV3TmZOL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXe6bgV3TmZOL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXe6bgV3TmZOL)
 
-### [Adrenaline Workout](https://open.spotify.com/playlist/37i9dQZF1DXe6bgV3TmZOL)
+### [Adrenaline Workout](https://open.spotify.com/playlist/4mv92fYpN7Khl6XYFzC35q)
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 

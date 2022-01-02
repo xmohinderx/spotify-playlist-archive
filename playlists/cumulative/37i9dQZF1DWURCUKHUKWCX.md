@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWURCUKHUKWCX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWURCUKHUKWCX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWURCUKHUKWCX)
 
-### [Atmospheric Piano](https://open.spotify.com/playlist/37i9dQZF1DWURCUKHUKWCX)
+### [Atmospheric Piano](https://open.spotify.com/playlist/5PXW8WDXeIw3YqfXn9AhIU)
 
 > Atmospheric and emotional piano pieces.
 

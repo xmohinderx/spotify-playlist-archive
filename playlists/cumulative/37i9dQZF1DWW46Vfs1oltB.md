@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW46Vfs1oltB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW46Vfs1oltB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW46Vfs1oltB)
 
-### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
+### [K\-Hip\-Hop +82](https://open.spotify.com/playlist/6eQCLyN2pb2xMxhClGC7H2)
 
 > Representin' +82 Korean Hip\-Hop's sickest rhymes and beats\. \(Cover: Leellamarz\(릴러말즈\)\) \(한국힙합을 대표하는 곡들을 만나보세요!\)
 

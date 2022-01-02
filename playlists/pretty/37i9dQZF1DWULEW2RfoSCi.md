@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the hottest soul tracks from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,174,941 likes - 85 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,174,946 likes - 85 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 84 | [For the Love of Money](https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 7:19 |
 | 85 | [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 |
 
-Snapshot ID: `MTY0MTEwODMxNiwwMDAwMDAwMGYyNWU3YTNhOGRkM2ExMjlmNjAwM2I2NDVlOTQ4NDg4`
+Snapshot ID: `MTY0MTEwOTgxOCwwMDAwMDAwMGYyNWU3YTNhOGRkM2ExMjlmNjAwM2I2NDVlOTQ4NDg4`

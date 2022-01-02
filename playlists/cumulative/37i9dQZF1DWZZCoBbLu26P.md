@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZZCoBbLu26P.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZZCoBbLu26P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZZCoBbLu26P)
 
-### [Fierce](https://open.spotify.com/playlist/37i9dQZF1DWZZCoBbLu26P)
+### [Fierce](https://open.spotify.com/playlist/5qqRE5zC7pUBy84hiALZqW)
 
 > Queens everywhere \- givin' us life.<br/>Cover: Trixie Mattel
 

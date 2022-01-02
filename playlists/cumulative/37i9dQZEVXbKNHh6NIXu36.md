@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKNHh6NIXu36.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKNHh6NIXu36) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKNHh6NIXu36)
 
-### [Top 50 \- Austria](https://open.spotify.com/playlist/37i9dQZEVXbKNHh6NIXu36)
+### [Top 50 \- Austria](https://open.spotify.com/playlist/4vBxwnHGMceOqI8UVmnj00)
 
 > Your daily update of the most played tracks right now \- Austria.
 

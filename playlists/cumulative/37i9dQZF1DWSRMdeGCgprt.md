@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSRMdeGCgprt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSRMdeGCgprt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSRMdeGCgprt)
 
-### [The Rhythm](https://open.spotify.com/playlist/37i9dQZF1DWSRMdeGCgprt)
+### [The Rhythm](https://open.spotify.com/playlist/5rW6Jls37bSKk3xmMYdx8M)
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVbb8LK4P3Mg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVbb8LK4P3Mg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVbb8LK4P3Mg)
 
-### [Christmas K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DWVbb8LK4P3Mg)
+### [Christmas K\-Pop](https://open.spotify.com/playlist/1yyhOjEH9QwfpQn9ZYLpRJ)
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 

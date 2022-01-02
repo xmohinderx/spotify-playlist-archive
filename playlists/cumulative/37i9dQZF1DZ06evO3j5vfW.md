@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3j5vfW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3j5vfW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3j5vfW)
 
-### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
+### [This Is Nicky Romero](https://open.spotify.com/playlist/0igVTu5HvdcrsZRrSSQai3)
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 

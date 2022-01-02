@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [Untitled 1](https://open.spotify.com/track/4mZlbfoM261nrxvqHgmDQ5) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [The Exit Papers](https://open.spotify.com/album/2aDMw90Gv9SdZWRJN4Ar21) | 3:37 |
 | 110 | [Pillars](https://open.spotify.com/track/2cX0OJh1FENek9cfukulSQ) | [Foreign Fields](https://open.spotify.com/artist/74l5kLfO33c4T39eAROuEL) | [Nashville Indie Spotlight 2014](https://open.spotify.com/album/1qX4JRGUJPyoR9eRInwkKq) | 4:22 |
 
-Snapshot ID: `MTY0MTEwODQ1MywwMDAwMDAwMDI0ZmYyNGFiNmI0OWIxNTE5ZWFkMmZkZjQ2MTY4ZTIx`
+Snapshot ID: `MTY0MTEwOTk0OSwwMDAwMDAwMDI0ZmYyNGFiNmI0OWIxNTE5ZWFkMmZkZjQ2MTY4ZTIx`

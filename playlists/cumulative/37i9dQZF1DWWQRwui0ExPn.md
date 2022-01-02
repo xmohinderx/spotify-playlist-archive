@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWQRwui0ExPn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWQRwui0ExPn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWQRwui0ExPn)
 
-### [lofi beats](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
+### [lofi beats](https://open.spotify.com/playlist/5NoFcGR8fbqWzjFatWkJo3)
 
 > Beats to relax, study, and focus..\. and warm your heart for Xmas!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5LEXW9eXA0n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5LEXW9eXA0n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5LEXW9eXA0n)
 
-### [K\-Pop Ballad Hits](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
+### [K\-Pop Ballad Hits](https://open.spotify.com/playlist/50vXMaH1sm7s2jq2W5LswS)
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: KangHyeWon\(강혜원\)\) \(당신의 감성에 발라드, 려요\)
 

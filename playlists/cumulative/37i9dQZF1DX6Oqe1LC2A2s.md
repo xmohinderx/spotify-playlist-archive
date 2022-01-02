@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6Oqe1LC2A2s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Oqe1LC2A2s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Oqe1LC2A2s)
 
-### [Next Classical](https://open.spotify.com/playlist/37i9dQZF1DX6Oqe1LC2A2s)
+### [Next Classical](https://open.spotify.com/playlist/4CCu6WasvZ9S3SNPhh798w)
 
 > 50 best tracks of 20/21st century <a href="https://open.spotify.com/genre/classical">classical</a> music\. Cover: Arditti Quartet.
 

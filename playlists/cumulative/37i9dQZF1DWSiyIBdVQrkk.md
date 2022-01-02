@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSiyIBdVQrkk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSiyIBdVQrkk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSiyIBdVQrkk)
 
-### [One Love](https://open.spotify.com/playlist/37i9dQZF1DWSiyIBdVQrkk)
+### [One Love](https://open.spotify.com/playlist/55GdQaI3M6rHQD7agSU7NY)
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 

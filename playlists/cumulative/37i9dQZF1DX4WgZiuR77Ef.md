@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4WgZiuR77Ef.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4WgZiuR77Ef) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4WgZiuR77Ef)
 
-### [All Funked Up](https://open.spotify.com/playlist/37i9dQZF1DX4WgZiuR77Ef)
+### [All Funked Up](https://open.spotify.com/playlist/2eceFp3qX8eTXa9OinhIeU)
 
 > New funky songs with a classic funky sound.
 

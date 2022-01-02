@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 
 > All of the classic hits from the 50s and 60s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,173 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,172 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56bqlsMxJYR.md) - [plain]
 | 99 | [You, You, You](https://open.spotify.com/track/7iv8br1y5Hv63QX5Z2HFjv) | [The Ames Brothers](https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv) | [The Ames Brothers Volume 2](https://open.spotify.com/album/3N3zdZQ8DDHcRFiFg1jYH5) | 2:55 |
 | 100 | [Ain't That A Shame](https://open.spotify.com/track/6pTybvSMcw5spOS7d656rn) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:23 |
 
-Snapshot ID: `MTY0MTEwODU1MiwwMDAwMDAwMDU2MGMyMzVlOWQxN2ZhNjUxMzhiNjA2NDg0ODkzYjM3`
+Snapshot ID: `MTY0MTExMDA0MywwMDAwMDAwMDU2MGMyMzVlOWQxN2ZhNjUxMzhiNjA2NDg0ODkzYjM3`

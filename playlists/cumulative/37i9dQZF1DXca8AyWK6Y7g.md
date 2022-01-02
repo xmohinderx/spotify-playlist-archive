@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXca8AyWK6Y7g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXca8AyWK6Y7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXca8AyWK6Y7g)
 
-### [young & free](https://open.spotify.com/playlist/37i9dQZF1DXca8AyWK6Y7g)
+### [young & free](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 > Indie, pop, and everything in between to bring you good energy and good vibes\. Cover: chloe moriondo
 

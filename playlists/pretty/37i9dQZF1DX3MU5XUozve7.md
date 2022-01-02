@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,506 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,509 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Painful Reminder](https://open.spotify.com/track/2OEtxMnhS1quoMaZQUfruh) | [SNFU](https://open.spotify.com/artist/47gDsI3zhRtZPGK7Hv3uxm) | [Something Green And Leafy This Way Comes](https://open.spotify.com/album/6C2Wf1yvr3GinoYZhuPow4) | 4:07 |
 | 100 | [Seize](https://open.spotify.com/track/6En9VwVKoyOEbsBDLgu2b5) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [Seize](https://open.spotify.com/album/6sdivkA0kDc6GfYwISbyh8) | 2:39 |
 
-Snapshot ID: `MTY0MTEwODUxMiwwMDAwMDAwMGNjNDA5OGM5YjYyMWZhZTBkNDk3N2VmMzNlZWFjNGY3`
+Snapshot ID: `MTY0MTExMDAwNCwwMDAwMDAwMGNjNDA5OGM5YjYyMWZhZTBkNDk3N2VmMzNlZWFjNGY3`

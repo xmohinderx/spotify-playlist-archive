@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,635 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,634 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [Last Kiss](https://open.spotify.com/track/3RErQfC1s2idTehzBKu4Dh) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Lost Dogs](https://open.spotify.com/album/0FRPMT2E4RPr9s3AREKYwk) | 3:15 |
 | 100 | [Everything She Wants](https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0) | [Alien Ant Farm](https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO) | [Everything She Wants](https://open.spotify.com/album/5fCJH4JORE9qWixhlniKem) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODQ4OSwwMDAwMDAwMGZiOGE3MjliMjUxNDMwYjg2MDg4YWE2MGY3Zjg3NmY4`
+Snapshot ID: `MTY0MTEwOTk4MywwMDAwMDAwMGZiOGE3MjliMjUxNDMwYjg2MDg4YWE2MGY3Zjg3NmY4`

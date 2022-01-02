@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3qCx5yEZkcJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3qCx5yEZkcJ)
 
-### [Mellow Beats](https://open.spotify.com/playlist/37i9dQZF1DX3qCx5yEZkcJ)
+### [Mellow Beats](https://open.spotify.com/playlist/79bD32Mo8Na66JzRH4c1HB)
 
 > Stay relaxed with these low\-key beats and instrumentals.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2pSTOxoPbx9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2pSTOxoPbx9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2pSTOxoPbx9)
 
-### [Dark & Stormy](https://open.spotify.com/playlist/37i9dQZF1DX2pSTOxoPbx9)
+### [Dark & Stormy](https://open.spotify.com/playlist/05MxtZKo0HueRtsNgrnDSa)
 
 > Beautifully dark, dramatic tracks.
 

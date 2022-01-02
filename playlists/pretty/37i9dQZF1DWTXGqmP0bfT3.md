@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,377 likes - 150 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,378 likes - 150 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [Slaves Beyond Death](https://open.spotify.com/track/376M80F3cD767l9Xt1nZ3O) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Dear Desolation](https://open.spotify.com/album/6gZ3FvJSTtZxX6Z9AammGW) | 3:44 |
 | 150 | [Letting You Go](https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:43 |
 
-Snapshot ID: `MTY0MTEwODMwMSwwMDAwMDAwMDZjNTBkOTgyOWUzN2M4OGJkNTA4NmIyZGI2MjUzMThk`
+Snapshot ID: `MTY0MTEwOTgwNSwwMDAwMDAwMDZjNTBkOTgyOWUzN2M4OGJkNTA4NmIyZGI2MjUzMThk`

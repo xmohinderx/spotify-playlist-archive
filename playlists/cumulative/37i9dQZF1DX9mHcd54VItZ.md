@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9mHcd54VItZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9mHcd54VItZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9mHcd54VItZ)
 
-### [SA Rock Essentials](https://open.spotify.com/playlist/37i9dQZF1DX9mHcd54VItZ)
+### [SA Rock Essentials](https://open.spotify.com/playlist/7m29EUKd7lxp8FUt6WdfbM)
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9?si=ycViu\-0TROu5mHvW9p2m3Q">Sean Koch</a>
 

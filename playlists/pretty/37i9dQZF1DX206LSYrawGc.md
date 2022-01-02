@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 
 > 80s rock to fuel your ride\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,816 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,823 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX206LSYrawGc.md) - [plain]
 | 49 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
 | 50 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 
-Snapshot ID: `MTY0MTEwODQ4MCwwMDAwMDAwMGZmOTNlZDE2MjhiMzFmMzI5MjkzNmUzN2M0MjY3OWNi`
+Snapshot ID: `MTY0MTEwOTk3NCwwMDAwMDAwMGZmOTNlZDE2MjhiMzFmMzI5MjkzNmUzN2M0MjY3OWNi`

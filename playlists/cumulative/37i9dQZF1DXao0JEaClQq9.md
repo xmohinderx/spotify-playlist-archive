@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXao0JEaClQq9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXao0JEaClQq9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXao0JEaClQq9)
 
-### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
+### [Ethereal](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Sega Bodega
 

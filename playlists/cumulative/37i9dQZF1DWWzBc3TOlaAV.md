@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWzBc3TOlaAV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWzBc3TOlaAV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWzBc3TOlaAV)
 
-### [60s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DWWzBc3TOlaAV)
+### [60s Rock Anthems](https://open.spotify.com/playlist/1KKgS6q0sNGU7BWtq9lIZj)
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 

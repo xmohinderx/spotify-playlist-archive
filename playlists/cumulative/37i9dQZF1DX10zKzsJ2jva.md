@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX10zKzsJ2jva.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX10zKzsJ2jva) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX10zKzsJ2jva)
 
-### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
+### [Viva Latino](https://open.spotify.com/playlist/5BhGHTGbq4HOInzfEXtLEB)
 
 > Today's top Latin hits, elevando nuestra música\. Cover: Bad Bunny
 

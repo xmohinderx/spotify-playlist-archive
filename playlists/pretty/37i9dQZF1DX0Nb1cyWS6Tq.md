@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,156 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,160 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [For Her Light](https://open.spotify.com/track/2bdlaYYLaXJIguKSSS63Lz) | [Fields Of The Nephilim](https://open.spotify.com/artist/3m8KqUjgKDwmJ9L9uBHMMs) | [Elizium](https://open.spotify.com/album/08udU6yfPDCUmNXfByjwtE) | 3:01 |
 | 80 | [Evermore](https://open.spotify.com/track/6DHIEgsV6r6GQ0djl6mL6k) | [hackedepicciotto](https://open.spotify.com/artist/1cPVrDY88XGHjD55pKOQ3s) | [Evermore](https://open.spotify.com/album/7KYGSaSbEZww6PMU8DCVgQ) | 2:55 |
 
-Snapshot ID: `MTY0MTEwODQ0MCwwMDAwMDAwMGZlNzc1NTFhMjhmZWE5NjIzYjRhODA0YThjZWNkOTYy`
+Snapshot ID: `MTY0MTEwOTkzNywwMDAwMDAwMGZlNzc1NTFhMjhmZWE5NjIzYjRhODA0YThjZWNkOTYy`

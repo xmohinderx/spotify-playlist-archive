@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa3XvSefBFmb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa3XvSefBFmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa3XvSefBFmb)
 
-### [EQUAL Portugal](https://open.spotify.com/playlist/37i9dQZF1DXa3XvSefBFmb)
+### [EQUAL Portugal](https://open.spotify.com/playlist/2y9YCMBtV9zKs1xMURZiIu)
 
 > Ouve estas extraordinárias mulheres artistas portuguesas, como Carolina Deslandes, com o volume no máximo
 

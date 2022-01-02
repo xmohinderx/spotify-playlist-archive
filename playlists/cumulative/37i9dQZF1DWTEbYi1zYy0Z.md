@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTEbYi1zYy0Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTEbYi1zYy0Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTEbYi1zYy0Z)
 
-### [Nu\-Smooth](https://open.spotify.com/playlist/37i9dQZF1DWTEbYi1zYy0Z)
+### [Nu\-Smooth](https://open.spotify.com/playlist/73Eg864FGRS3gdmYP6IVUV)
 
 > The freshest smooth jazz\. Cover: Ragan Whiteside
 

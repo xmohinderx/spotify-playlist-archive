@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTvNyxOwkztu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTvNyxOwkztu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTvNyxOwkztu)
 
-### [Chillout Lounge](https://open.spotify.com/playlist/37i9dQZF1DWTvNyxOwkztu)
+### [Chillout Lounge](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 > Just lean back and enjoy relaxed beats.
 

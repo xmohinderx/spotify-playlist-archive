@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3DZBe6wPMXo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3DZBe6wPMXo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3DZBe6wPMXo)
 
-### [Relaxing Reading](https://open.spotify.com/playlist/37i9dQZF1DX3DZBe6wPMXo)
+### [Relaxing Reading](https://open.spotify.com/playlist/1DQy7gS8V44qes6mI0Slm9)
 
 > Gentle instrumental music to help you relax while you read.
 

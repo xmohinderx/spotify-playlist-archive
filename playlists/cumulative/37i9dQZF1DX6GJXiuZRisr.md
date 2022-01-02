@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6GJXiuZRisr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6GJXiuZRisr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GJXiuZRisr)
 
-### [Night Rider](https://open.spotify.com/playlist/37i9dQZF1DX6GJXiuZRisr)
+### [Night Rider](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 

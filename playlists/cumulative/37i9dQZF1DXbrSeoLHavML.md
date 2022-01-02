@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbrSeoLHavML.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbrSeoLHavML) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrSeoLHavML)
 
-### [String Quartet 101](https://open.spotify.com/playlist/37i9dQZF1DXbrSeoLHavML)
+### [String Quartet 101](https://open.spotify.com/playlist/7MeOSGMzMDHmoGGOGZXEhy)
 
 > Explore the rich string quartet repertoire in this collection of 101 sublime pieces from 101 composers, performed by 101 outstanding ensembles\. From baroque works that paved the way for the genre, classical and romantic era masterpieces, to many splendid 20/21st century compositions, from all over the world.
 

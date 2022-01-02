@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYgwF78otcGY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYgwF78otcGY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYgwF78otcGY)
 
-### [Schlagerfest](https://open.spotify.com/playlist/37i9dQZF1DWYgwF78otcGY)
+### [Schlagerfest](https://open.spotify.com/playlist/49wk7xyVNm2XYatXm9KNKt)
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 

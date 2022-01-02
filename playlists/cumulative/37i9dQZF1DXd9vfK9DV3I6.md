@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd9vfK9DV3I6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd9vfK9DV3I6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd9vfK9DV3I6)
 
-### [mosaic](https://open.spotify.com/playlist/37i9dQZF1DXd9vfK9DV3I6)
+### [mosaic](https://open.spotify.com/playlist/0PbRB1Ywucxq2SMOhx6qAp)
 
 > Electronic music with Mediterranean and Eastern influences.
 

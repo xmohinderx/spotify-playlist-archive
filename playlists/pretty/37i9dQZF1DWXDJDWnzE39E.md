@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women that like it loud & heavy\. Cover: Nova Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,020 likes - 80 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,019 likes - 80 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 79 | [In Black and White \- New Version 2021](https://open.spotify.com/track/0pT7kpkT3rBpZkXfwP6YYB) | [Kalidia](https://open.spotify.com/artist/0CNwIzfosLnGPKiVrLtLxA) | [Lies' Device \(New Version 2021\)](https://open.spotify.com/album/3tVQsBnb2stVCvWzM7aXgB) | 4:09 |
 | 80 | [Clique](https://open.spotify.com/track/6CVfZfkdd4Jdvg8JnBL6Oy) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Seize the Power](https://open.spotify.com/album/2QgPGKzoN51qcEzGlHYk7j) | 2:19 |
 
-Snapshot ID: `MTY0MTEwODM3MywwMDAwMDAwMGU2ZDBiYzA0NmMyYWE0ZGVhYjJmMDFiOTVlYmNkMDIz`
+Snapshot ID: `MTY0MTEwOTg3MywwMDAwMDAwMGU2ZDBiYzA0NmMyYWE0ZGVhYjJmMDFiOTVlYmNkMDIz`

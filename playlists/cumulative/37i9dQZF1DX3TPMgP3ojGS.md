@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3TPMgP3ojGS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3TPMgP3ojGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3TPMgP3ojGS)
 
-### [Coffee and Piano](https://open.spotify.com/playlist/37i9dQZF1DX3TPMgP3ojGS)
+### [Coffee and Piano](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 

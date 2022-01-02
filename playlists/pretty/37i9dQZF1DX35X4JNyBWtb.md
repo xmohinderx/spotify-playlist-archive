@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,265 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,281 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35X4JNyBWtb.md) - [plain]
 | 149 | [All Stars](https://open.spotify.com/track/26haJjtanhamtf25RXH0MO) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [All Stars](https://open.spotify.com/album/0QmyqQAPTLxNCs6qya9CSa) | 2:50 |
 | 150 | [The One \- Radio Edit](https://open.spotify.com/track/1ftI7QOTB355PRcJ3Y2dIs) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [The One](https://open.spotify.com/album/2APYGsEMw8LlGXnfWtsXsr) | 2:28 |
 
-Snapshot ID: `MTY0MTEwODUwNCwwMDAwMDAwMDEwYjNmNGQzNDhmM2ZiZmIxYThlMThkYjA5ZmVlMzJh`
+Snapshot ID: `MTY0MTEwOTk5NywwMDAwMDAwMDEwYjNmNGQzNDhmM2ZiZmIxYThlMThkYjA5ZmVlMzJh`

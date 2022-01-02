@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9loJQLuEvap.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9loJQLuEvap) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9loJQLuEvap)
 
-### [50 Great Female Voices](https://open.spotify.com/playlist/37i9dQZF1DX9loJQLuEvap)
+### [50 Great Female Voices](https://open.spotify.com/playlist/4KeSj5RmVQDyrnv4hQ1OiP)
 
 > 100% amazing female singers\. Enjoy!
 

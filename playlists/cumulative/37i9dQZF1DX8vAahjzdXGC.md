@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8vAahjzdXGC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8vAahjzdXGC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8vAahjzdXGC)
 
-### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
+### [New Music Friday Indonesia](https://open.spotify.com/playlist/2dNoJSPuB6EBDvdy37ddCM)
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Mahalini, Nuca
 

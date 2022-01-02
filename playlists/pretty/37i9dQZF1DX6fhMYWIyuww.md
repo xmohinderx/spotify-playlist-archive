@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,047 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,049 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 79 | [Take Me to Your Heaven](https://open.spotify.com/track/2QQDZl9xzGOM3z0JevtVgZ) | [Wilson Brothers](https://open.spotify.com/artist/2o9nlTHLJ2SExgv0OHARnW) | [Another Night](https://open.spotify.com/album/72je1WuK4ghlcioqrigQXl) | 3:40 |
 | 80 | [Moonlighting](https://open.spotify.com/track/6GOTL6XgV6eiDTBsKIhzc9) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Another Year](https://open.spotify.com/album/2p2kou1Eo0lr9dADvLfjn7) | 4:13 |
 
-Snapshot ID: `MTY0MTEwODU5NSwwMDAwMDAwMDQwYmI2MWExZjQ0ZDg0NDEyN2FlZGFkMDdiN2Y4Nzcw`
+Snapshot ID: `MTY0MTExMDA4NCwwMDAwMDAwMDQwYmI2MWExZjQ0ZDg0NDEyN2FlZGFkMDdiN2Y4Nzcw`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTVIaV4KJYuq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTVIaV4KJYuq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTVIaV4KJYuq)
 
-### [Classic Covers](https://open.spotify.com/playlist/37i9dQZF1DWTVIaV4KJYuq)
+### [Classic Covers](https://open.spotify.com/playlist/1SZQWs3WD9VeRF5jXaZeol)
 
 > All the classic songs you love—covered\. Cover: Sam Smith
 

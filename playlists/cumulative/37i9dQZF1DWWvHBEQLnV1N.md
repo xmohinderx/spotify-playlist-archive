@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvHBEQLnV1N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvHBEQLnV1N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvHBEQLnV1N)
 
-### [Christmas is Coming](https://open.spotify.com/playlist/37i9dQZF1DWWvHBEQLnV1N)
+### [Christmas is Coming](https://open.spotify.com/playlist/2Kr0huhuGmwKqVDH3tUmr8)
 
 > Get excited with these festive favourites alongside some of the newest holiday releases.
 

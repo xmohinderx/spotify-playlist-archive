@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 
 > The most beautiful love songs of the 2000s
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,160 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,167 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0DyosUBZQ7.md) - [plain]
 | 69 | [Leave Right Now](https://open.spotify.com/track/04eBItNb4WohCQ6x1ccA80) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Keep On](https://open.spotify.com/album/0yvfheLTvk91zegOmw3CvA) | 3:34 |
 | 70 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODczMywwMDAwMDAwMDE3NmRkNGM3MjYwMGQyMTg1YjhlMjA0NmViOTk0OGRh`
+Snapshot ID: `MTY0MTExMDIwOCwwMDAwMDAwMDE3NmRkNGM3MjYwMGQyMTg1YjhlMjA0NmViOTk0OGRh`

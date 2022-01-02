@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Ufz5ldo0J4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Ufz5ldo0J4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Ufz5ldo0J4)
 
-### [Keep Calm](https://open.spotify.com/playlist/37i9dQZF1DX5Ufz5ldo0J4)
+### [Keep Calm](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 > Lean back, close your eyes, and relax.
 

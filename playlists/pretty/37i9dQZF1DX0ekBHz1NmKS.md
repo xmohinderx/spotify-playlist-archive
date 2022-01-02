@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,229 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,230 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [Ghost Killer](https://open.spotify.com/track/04l6PAC8SUtEPTY3IdRuT7) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [VIRGO](https://open.spotify.com/album/1u0nScxOJfm43X7wN2wOW0) | 3:17 |
 | 100 | [Havanna](https://open.spotify.com/track/0ZN8XG8KwLP0gXOcLFETDA) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Havanna](https://open.spotify.com/album/4mBLs4HnnkV71UtvwdTRqg) | 3:31 |
 
-Snapshot ID: `MTY0MTEwODQ0NywwMDAwMDAwMDM0ZmZlNjU3OGQ4M2I3NDNmOGNhYzZiM2Q5NDI0ZmNl`
+Snapshot ID: `MTY0MTEwOTk0MywwMDAwMDAwMDM0ZmZlNjU3OGQ4M2I3NDNmOGNhYzZiM2Q5NDI0ZmNl`

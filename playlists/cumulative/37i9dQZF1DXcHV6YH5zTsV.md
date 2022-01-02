@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcHV6YH5zTsV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcHV6YH5zTsV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcHV6YH5zTsV)
 
-### [Twist and Shout](https://open.spotify.com/playlist/37i9dQZF1DXcHV6YH5zTsV)
+### [Twist and Shout](https://open.spotify.com/playlist/6YYey3eqIonpYLbZ7TiTAN)
 
 > Get ready to twist and shout \- this is the ultimate Beatles party playlist.
 

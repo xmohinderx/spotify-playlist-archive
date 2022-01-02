@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc6Umi4GHdr1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc6Umi4GHdr1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6Umi4GHdr1)
 
-### [Focus Guitar](https://open.spotify.com/playlist/37i9dQZF1DXc6Umi4GHdr1)
+### [Focus Guitar](https://open.spotify.com/playlist/4HU2Rw6bNgsjgvEsWWL6e8)
 
 > Free your mind and let your thoughts flow to the sounds of guitar.
 

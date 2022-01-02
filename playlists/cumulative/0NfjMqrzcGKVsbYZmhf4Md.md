@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0NfjMqrzcGKVsbYZmhf4Md.md) - cumulative - [plain](/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NfjMqrzcGKVsbYZmhf4Md)
 
-### [Classic Honky Tonk](https://open.spotify.com/playlist/0NfjMqrzcGKVsbYZmhf4Md)
+### [Classic Honky Tonk](https://open.spotify.com/playlist/5RkCLhtAVDn9MrFX0hcTir)
 
 > All songs about drinking, cheating, heartaches and everything else going on in a classic honky tonk.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8YFIEyRvxXj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8YFIEyRvxXj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8YFIEyRvxXj)
 
-### [Soul Resistance](https://open.spotify.com/playlist/37i9dQZF1DX8YFIEyRvxXj)
+### [Soul Resistance](https://open.spotify.com/playlist/1V8WWR5ROjEXfGUfw3HRgC)
 
 > These artists changed the world by changing their tune\.  Their music not only grooved but moved the world with personal and political messages.
 

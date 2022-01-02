@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX05oRSrPGj3d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX05oRSrPGj3d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX05oRSrPGj3d)
 
-### [Heart Of Texas](https://open.spotify.com/playlist/37i9dQZF1DX05oRSrPGj3d)
+### [Heart Of Texas](https://open.spotify.com/playlist/4xIGgN9sUn8w5WjNECj4E7)
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars.
 

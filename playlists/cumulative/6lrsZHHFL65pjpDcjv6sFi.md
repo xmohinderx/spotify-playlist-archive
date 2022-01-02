@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6lrsZHHFL65pjpDcjv6sFi.md) - cumulative - [plain](/playlists/plain/6lrsZHHFL65pjpDcjv6sFi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6lrsZHHFL65pjpDcjv6sFi)
 
-### [Stockholm Music & Arts 2012](https://open.spotify.com/playlist/6lrsZHHFL65pjpDcjv6sFi)
+### [Stockholm Music & Arts 2012](https://open.spotify.com/playlist/4l4JpC8UG8kAmJbTQGvTd3)
 
 > Stockholm Music & Arts är en ny festival som i sommar, den 3 \- 5 augusti, arrangeras för första gången\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 

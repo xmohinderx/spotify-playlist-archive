@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0yL7UvjSKZT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0yL7UvjSKZT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0yL7UvjSKZT)
 
-### [Indie Bluegrass](https://open.spotify.com/playlist/37i9dQZF1DX0yL7UvjSKZT)
+### [Indie Bluegrass](https://open.spotify.com/playlist/5sbNmRNN30b3StzmqtFwhp)
 
 > Fresh takes on that high lonesome sound\. Cover: <a href="spotify:artist:4LX0KCPnH7gvxEbVXqXmAE">Molly Tuttle</a>
 

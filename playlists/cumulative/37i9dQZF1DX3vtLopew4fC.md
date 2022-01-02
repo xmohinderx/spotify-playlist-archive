@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3vtLopew4fC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3vtLopew4fC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3vtLopew4fC)
 
-### [EQUAL Canada](https://open.spotify.com/playlist/37i9dQZF1DX3vtLopew4fC)
+### [EQUAL Canada](https://open.spotify.com/playlist/4Zp5WzLP3TXzjpoezKB5IH)
 
 > Listen to women in Canada, at full volume\. Cover: Rochelle Jordan
 

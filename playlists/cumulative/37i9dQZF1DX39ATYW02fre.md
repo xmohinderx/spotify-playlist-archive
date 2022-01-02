@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX39ATYW02fre.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX39ATYW02fre) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX39ATYW02fre)
 
-### [Melantronic](https://open.spotify.com/playlist/37i9dQZF1DX39ATYW02fre)
+### [Melantronic](https://open.spotify.com/playlist/0eIEI0ptmU2SZvI7Y0sdN5)
 
 > Beautiful electronic music for melancholy moments.
 

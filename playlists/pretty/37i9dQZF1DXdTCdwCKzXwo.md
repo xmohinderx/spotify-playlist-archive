@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Classic alternative\. These early pioneers brought the underground to the foreground\. Cover: Lou Reed
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,768 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,777 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Start Choppin'](https://open.spotify.com/track/7yThIhNzpgDBIGoL2y1y6u) | [Dinosaur Jr.](https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ) | [Where You Been](https://open.spotify.com/album/5mJss6O9hjbeESfqoBX1xM) | 5:40 |
 | 75 | [Genius Of Love](https://open.spotify.com/track/6UGlSlhwl2MNhsrg5Wepq3) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club \- Deluxe Edition](https://open.spotify.com/album/0n4nGny616qpi5I087S8ur) | 5:39 |
 
-Snapshot ID: `MTY0MTEwODc0MywwMDAwMDAwMGU1ZDEyMzVlMzBiZTQyYTM3NmZlZmRjYWEwMzA1ZTJj`
+Snapshot ID: `MTY0MTExMDIxNywwMDAwMDAwMGU1ZDEyMzVlMzBiZTQyYTM3NmZlZmRjYWEwMzA1ZTJj`

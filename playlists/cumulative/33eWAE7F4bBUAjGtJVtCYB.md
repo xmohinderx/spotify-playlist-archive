@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/33eWAE7F4bBUAjGtJVtCYB.md) - cumulative - [plain](/playlists/plain/33eWAE7F4bBUAjGtJVtCYB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/33eWAE7F4bBUAjGtJVtCYB)
 
-### [Sveriges Nationaldag](https://open.spotify.com/playlist/33eWAE7F4bBUAjGtJVtCYB)
+### [Sveriges Nationaldag](https://open.spotify.com/playlist/5IB7wZlTvX2xs7cR4Lmcil)
 
 > För att fira de blå/gula färgerna har vi grävt djupt i den svenska låtskatten och sammanställt en spellista med 40 älskade klassiker\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 

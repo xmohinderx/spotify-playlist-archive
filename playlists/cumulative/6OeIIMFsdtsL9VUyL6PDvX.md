@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6OeIIMFsdtsL9VUyL6PDvX.md) - cumulative - [plain](/playlists/plain/6OeIIMFsdtsL9VUyL6PDvX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6OeIIMFsdtsL9VUyL6PDvX)
 
-### [Indie One Stop](https://open.spotify.com/playlist/6OeIIMFsdtsL9VUyL6PDvX)
+### [Indie One Stop](https://open.spotify.com/playlist/25DWmuJQX0GyTqwbrYtz4k)
 
 > All the hottest current Indie music you need....in one stop.
 

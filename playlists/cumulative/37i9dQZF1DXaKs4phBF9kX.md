@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKs4phBF9kX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKs4phBF9kX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKs4phBF9kX)
 
-### [80s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DXaKs4phBF9kX)
+### [80s Summer Rock](https://open.spotify.com/playlist/3L4dwnT5cfSEloX5VLPL45)
 
 > Rock that was on repeat during the summers of the 1980s.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTsUzn4pp2rW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTsUzn4pp2rW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTsUzn4pp2rW)
 
-### [Jazz Pop](https://open.spotify.com/playlist/37i9dQZF1DWTsUzn4pp2rW)
+### [Jazz Pop](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 

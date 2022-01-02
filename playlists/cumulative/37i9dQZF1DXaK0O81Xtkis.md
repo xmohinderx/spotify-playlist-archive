@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaK0O81Xtkis.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaK0O81Xtkis) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaK0O81Xtkis)
 
-### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
+### [soda](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 > shake it up and let it pop! cover: Arlie
 

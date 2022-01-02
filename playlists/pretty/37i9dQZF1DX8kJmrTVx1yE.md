@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 
 > Dale play, y que los temazos no paren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,690 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,692 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kJmrTVx1yE.md) - [plain]
 | 79 | [Eres Perfecta](https://open.spotify.com/track/4zT2BSHExM4ZdTOTaEhqtt) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Eres Perfecta](https://open.spotify.com/album/3aAewL5m0z1jCxEWDk3t1n) | 2:44 |
 | 80 | [Piedra Libre](https://open.spotify.com/track/2pmPEc4SBWSRgfjSBiV0yQ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Piedra Libre](https://open.spotify.com/album/5Oz7N3jmujEG7rXMMPp4cZ) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODYzOSwwMDAwMDAwMDc0NDBjYWE0MzI4ZGE1YWE3MGI1YmU4MDQ1ZjJjY2Qz`
+Snapshot ID: `MTY0MTExMDEyNSwwMDAwMDAwMDc0NDBjYWE0MzI4ZGE1YWE3MGI1YmU4MDQ1ZjJjY2Qz`

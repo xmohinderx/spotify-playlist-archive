@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJiyhoAPEfMK.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJiyhoAPEfMK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJiyhoAPEfMK)
 
-### [Top 50 \- Switzerland](https://open.spotify.com/playlist/37i9dQZEVXbJiyhoAPEfMK)
+### [Top 50 \- Switzerland](https://open.spotify.com/playlist/0LDYGa1V5zOxLgjfmqgruH)
 
 > Your daily update of the most played tracks right now \- Switzerland.
 

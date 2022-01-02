@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVskFRGurTfg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVskFRGurTfg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVskFRGurTfg)
 
-### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
+### [Hits Urbanos](https://open.spotify.com/playlist/2GQMqIHn6mzjfv4YUbCfpS)
 
 > Éxitos urbanos de Latinoamérica\. Foto:  Feid & Ryan Castro.
 

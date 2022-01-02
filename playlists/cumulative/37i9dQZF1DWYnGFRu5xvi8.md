@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYnGFRu5xvi8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYnGFRu5xvi8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYnGFRu5xvi8)
 
-### [FINAL FANTASY](https://open.spotify.com/playlist/37i9dQZF1DWYnGFRu5xvi8)
+### [FINAL FANTASY](https://open.spotify.com/playlist/2dXtKKd1lVWjshQnORlw5n)
 
 > New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series\. ©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 

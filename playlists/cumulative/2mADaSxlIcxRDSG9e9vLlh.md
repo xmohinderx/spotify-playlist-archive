@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2mADaSxlIcxRDSG9e9vLlh.md) - cumulative - [plain](/playlists/plain/2mADaSxlIcxRDSG9e9vLlh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2mADaSxlIcxRDSG9e9vLlh)
 
-### [Walk The Dog](https://open.spotify.com/playlist/2mADaSxlIcxRDSG9e9vLlh)
+### [Walk The Dog](https://open.spotify.com/playlist/2KgxHu7oKXk5HliU5AMyZC)
 
 > Songs for you and your best friend\. Endless love in any weather.
 

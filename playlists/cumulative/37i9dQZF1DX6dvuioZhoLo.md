@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6dvuioZhoLo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6dvuioZhoLo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6dvuioZhoLo)
 
-### [Vintage Vibes](https://open.spotify.com/playlist/37i9dQZF1DX6dvuioZhoLo)
+### [Vintage Vibes](https://open.spotify.com/playlist/4Q5EZJbUbCT3HpL6GxMjPC)
 
 > Old makes new\. Cover: Charley Crockett
 

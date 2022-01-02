@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc7FZ2VBjaeT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc7FZ2VBjaeT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7FZ2VBjaeT)
 
-### [This Is Lady Gaga](https://open.spotify.com/playlist/37i9dQZF1DXc7FZ2VBjaeT)
+### [This Is Lady Gaga](https://open.spotify.com/playlist/0DfYncW9mxd1xxPkajZXJE)
 
 > Listen to all her biggest hits, in one place.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSsCx004HXRd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSsCx004HXRd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSsCx004HXRd)
 
-### [Learn Russian](https://open.spotify.com/playlist/37i9dQZF1DWSsCx004HXRd)
+### [Learn Russian](https://open.spotify.com/playlist/2UkqupMjkGKH48SwipI7Dt)
 
 > Learn and practice your Russian language skills, from basic vocabulary to useful travel phrases and conversations.
 

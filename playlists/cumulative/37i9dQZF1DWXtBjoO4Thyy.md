@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXtBjoO4Thyy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXtBjoO4Thyy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXtBjoO4Thyy)
 
-### [The Classical Takeover: Chanticleer](https://open.spotify.com/playlist/37i9dQZF1DWXtBjoO4Thyy)
+### [The Classical Takeover: Chanticleer](https://open.spotify.com/playlist/4LFsUcwL5AbAm28OUFSOL1)
 
 > Chanticleer continue The Classical Takeover with their all\-time favourite tunes.
 

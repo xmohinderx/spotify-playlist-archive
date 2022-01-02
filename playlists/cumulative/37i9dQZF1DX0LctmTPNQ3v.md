@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0LctmTPNQ3v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0LctmTPNQ3v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0LctmTPNQ3v)
 
-### [Metal Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0LctmTPNQ3v)
+### [Metal Christmas](https://open.spotify.com/playlist/2p8oEdfFYrJdmMGXY2kQRe)
 
 > Time to headbang around the Christmas tree! Cover: Korn
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5TQKebIP2y3YGxoklr72aV.md) - cumulative - [plain](/playlists/plain/5TQKebIP2y3YGxoklr72aV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5TQKebIP2y3YGxoklr72aV)
 
-### [Stories for your Inner Child](https://open.spotify.com/playlist/5TQKebIP2y3YGxoklr72aV)
+### [Stories for your Inner Child](https://open.spotify.com/playlist/6IQ43nApsfne6fVyWGBYOn)
 
 > Fairy tales and children's classics sure to satisfy your inner child...
 

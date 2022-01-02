@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4muFXNJjmJvLWdHmx0PKYO.md) - cumulative - [plain](/playlists/plain/4muFXNJjmJvLWdHmx0PKYO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4muFXNJjmJvLWdHmx0PKYO)
 
-### [Emmaboda 2012](https://open.spotify.com/playlist/4muFXNJjmJvLWdHmx0PKYO)
+### [Emmaboda 2012](https://open.spotify.com/playlist/47iAndCJJlHaEHAjk32ZQ1)
 
 > Emmabodafestivalen har sedan arrangerats sedan 1988 av den ideella föreningen Vinterbadarna\. Sommarens festival arrangeras 25 \- 28 juli\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 

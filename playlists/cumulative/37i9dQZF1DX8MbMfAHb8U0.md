@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8MbMfAHb8U0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8MbMfAHb8U0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8MbMfAHb8U0)
 
-### [I Love My Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX8MbMfAHb8U0)
+### [I Love My Neo\-Soul](https://open.spotify.com/playlist/55RU8oZjX8hltMj0iIsfn8)
 
 > Classic Neo\-Soul, the songs you love, from the artists you love\. Cover: Erykah Badu
 

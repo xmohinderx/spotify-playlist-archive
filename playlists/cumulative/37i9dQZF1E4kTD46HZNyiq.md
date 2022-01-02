@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4kTD46HZNyiq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4kTD46HZNyiq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4kTD46HZNyiq)
 
-### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
+### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
-> With Ollie Wride, Ed Patrick, Handsome Ghost and more
+> With R.LUM.R, Hailaker, VICTORS and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

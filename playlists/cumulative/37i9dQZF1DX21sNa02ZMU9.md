@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX21sNa02ZMU9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX21sNa02ZMU9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX21sNa02ZMU9)
 
-### [Good Feeling 00s](https://open.spotify.com/playlist/37i9dQZF1DX21sNa02ZMU9)
+### [Good Feeling 00s](https://open.spotify.com/playlist/1JS0kEefQI1qgwW3Y378aD)
 
 > Feel on top of the world with these uplifting anthems of the 00s
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0ynPp7KaiSY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0ynPp7KaiSY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ynPp7KaiSY)
 
-### [Winter Classical](https://open.spotify.com/playlist/37i9dQZF1DX0ynPp7KaiSY)
+### [Winter Classical](https://open.spotify.com/playlist/5MlyL0niBoGIZlqfgdhBBp)
 
 > The best <a href="spotify:genre:classical">classical</a> pieces inspired by dancing snowflakes, or evoke images of winter landscapes\. Enjoy the perfect soundtrack for a winter journey, or a quiet night's reading by the fireside\. Other seasons: <a href="spotify:user:spotify:playlist:37i9dQZF1DWZm0IlR3JPVY">Spring</a>, <a href="spotify:user:spotify:playlist:37i9dQZF1DWYRUctuBGBo1">Summer</a>, <a href="spotify:user:spotify:playlist:37i9dQZF1DX2d2B80QbRDa">Autumn</a>.
 

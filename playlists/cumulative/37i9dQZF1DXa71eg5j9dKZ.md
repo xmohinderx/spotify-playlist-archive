@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa71eg5j9dKZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa71eg5j9dKZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa71eg5j9dKZ)
 
-### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
+### [Altar](https://open.spotify.com/playlist/421FObHiJ0lygWLx69aaX2)
 
 > The home for alternative electronic music\. Cover: Fred again..
 

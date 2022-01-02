@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX10uaP8FoDNe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX10uaP8FoDNe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX10uaP8FoDNe)
 
-### [Minimalism](https://open.spotify.com/playlist/37i9dQZF1DX10uaP8FoDNe)
+### [Minimalism](https://open.spotify.com/playlist/7bVQ5Pmga4psujj1DdvaNM)
 
 > Including genre\-defining classics \(Steve Reich, Philip Glass\), postminimalism \(Paul Dresher, Louis Andriessen\), holy minimalism \(Henryk Górecki, Arvo Pärt\) and more.
 

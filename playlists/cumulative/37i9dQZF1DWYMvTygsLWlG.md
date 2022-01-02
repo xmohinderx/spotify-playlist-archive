@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYMvTygsLWlG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYMvTygsLWlG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYMvTygsLWlG)
 
-### [Love Ballads](https://open.spotify.com/playlist/37i9dQZF1DWYMvTygsLWlG)
+### [Love Ballads](https://open.spotify.com/playlist/04ydEG3A6bW8Wea1ObmNiD)
 
 > Some of the worlds most beautiful love songs.
 

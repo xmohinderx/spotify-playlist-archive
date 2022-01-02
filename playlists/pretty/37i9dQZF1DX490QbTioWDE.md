@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,637 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,642 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Olvidala](https://open.spotify.com/track/4Qgl3aQu4sHlt6HFsIsKlr) | [Banda XXI](https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo), [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Olvidala](https://open.spotify.com/album/1fsAciAxlvZCyGxk1h08LX) | 4:35 |
 | 100 | [Lo Mejor del Amor](https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuartetero y Cordobés](https://open.spotify.com/album/3q6Wg7VBtWvIiggdi2lFn1) | 4:41 |
 
-Snapshot ID: `MTY0MTEwODUyNywwMDAwMDAwMGJmNzRmYTBjMjEyNjY1ZGIzNDM5MmE2ZDU2YmMzN2Yw`
+Snapshot ID: `MTY0MTExMDAxOSwwMDAwMDAwMGJmNzRmYTBjMjEyNjY1ZGIzNDM5MmE2ZDU2YmMzN2Yw`

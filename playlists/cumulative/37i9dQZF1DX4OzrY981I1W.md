@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OzrY981I1W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OzrY981I1W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OzrY981I1W)
 
-### [my life is a movie](https://open.spotify.com/playlist/37i9dQZF1DX4OzrY981I1W)
+### [my life is a movie](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 > every main character needs their soundtrack
 

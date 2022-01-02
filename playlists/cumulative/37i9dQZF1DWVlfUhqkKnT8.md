@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVlfUhqkKnT8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVlfUhqkKnT8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlfUhqkKnT8)
 
-### [Piano Variations](https://open.spotify.com/playlist/37i9dQZF1DWVlfUhqkKnT8)
+### [Piano Variations](https://open.spotify.com/playlist/325WH08fugIAX1VRQmGmvv)
 
 > Listen to these variations for <a href="spotify:user:spotify:playlist:37i9dQZF1DXah8e1pvF5oE">piano</a> in their entirety, and see endless forms most beautiful and most wonderful evolved from simple themes, in the hands of great composers.
 

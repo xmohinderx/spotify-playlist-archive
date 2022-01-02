@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUajed02NzWR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUajed02NzWR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUajed02NzWR)
 
-### [Classical Garden](https://open.spotify.com/playlist/37i9dQZF1DWUajed02NzWR)
+### [Classical Garden](https://open.spotify.com/playlist/7JtaxZToMc5B9xvXLAoc8a)
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 

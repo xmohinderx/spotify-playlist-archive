@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
 | 100 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
 
-Snapshot ID: `MTY0MTEwODc1MiwwMDAwMDAwMGFkNTAwOTIwOTYwNDZmMjMzNDFlYWY4MTgyNzc0YjI4`
+Snapshot ID: `MTY0MTExMDIyNiwwMDAwMDAwMGFkNTAwOTIwOTYwNDZmMjMzNDFlYWY4MTgyNzc0YjI4`

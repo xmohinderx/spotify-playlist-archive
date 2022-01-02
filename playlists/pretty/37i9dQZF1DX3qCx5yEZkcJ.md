@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,730 likes - 80 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,729 likes - 80 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 79 | [Crooklyn](https://open.spotify.com/track/0kfpJ6L0Ipw5crz3AaMt5C) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Crooklyn](https://open.spotify.com/album/0cPoqkLyH0M6HZmQf5wYzR) | 1:52 |
 | 80 | [Point Of No Return](https://open.spotify.com/track/0RZDD0fZ1C0gKU1ca1Vibm) | [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Ambient Drift](https://open.spotify.com/album/0tHb7jpm4n4kcJn3VhZnJj) | 2:48 |
 
-Snapshot ID: `MTY0MTEwODUyMSwwMDAwMDAwMDYxNGJlNzkxYzIwNWIxZTk4NmFkMDhkMTRlZTNmZDQ5`
+Snapshot ID: `MTY0MTExMDAxNCwwMDAwMDAwMDYxNGJlNzkxYzIwNWIxZTk4NmFkMDhkMTRlZTNmZDQ5`

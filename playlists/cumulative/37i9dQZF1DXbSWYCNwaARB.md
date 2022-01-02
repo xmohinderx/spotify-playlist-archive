@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbSWYCNwaARB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbSWYCNwaARB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbSWYCNwaARB)
 
-### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
+### [Girl Krush](https://open.spotify.com/playlist/1NPspPN8vwoPb2Vd2JfxrK)
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: IVE\(아이브\)
 

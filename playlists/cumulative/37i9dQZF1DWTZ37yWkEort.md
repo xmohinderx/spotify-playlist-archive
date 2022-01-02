@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTZ37yWkEort.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTZ37yWkEort) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTZ37yWkEort)
 
-### [A Cappella Christmas](https://open.spotify.com/playlist/37i9dQZF1DWTZ37yWkEort)
+### [A Cappella Christmas](https://open.spotify.com/playlist/5QBY79IZSDXVZ7kDF0XFKT)
 
 > From joyful jubillance to hushed harmonies – this is some of the best in A Cappella Christmas.
 

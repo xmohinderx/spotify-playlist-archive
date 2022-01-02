@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8f6LHxMjnzD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8f6LHxMjnzD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8f6LHxMjnzD)
 
-### [Singled Out](https://open.spotify.com/playlist/37i9dQZF1DX8f6LHxMjnzD)
+### [Singled Out](https://open.spotify.com/playlist/2IpzDd0RQh5cskBeJoBiVy)
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: FKA Twigs & The Weeknd
 

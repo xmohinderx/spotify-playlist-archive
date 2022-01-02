@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSjuSq42neMu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSjuSq42neMu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSjuSq42neMu)
 
-### [suave](https://open.spotify.com/playlist/37i9dQZF1DWSjuSq42neMu)
+### [suave](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
 
 > todo un mood.
 

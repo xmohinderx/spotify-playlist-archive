@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3TRdW1ekdvM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3TRdW1ekdvM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3TRdW1ekdvM)
 
-### [REM sleep](https://open.spotify.com/playlist/37i9dQZF1DX3TRdW1ekdvM)
+### [REM sleep](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
 
 > Get your brains' sleep waves just right!
 

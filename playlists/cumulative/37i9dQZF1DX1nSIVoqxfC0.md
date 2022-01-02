@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1nSIVoqxfC0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1nSIVoqxfC0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1nSIVoqxfC0)
 
-### [This Is Tiësto](https://open.spotify.com/playlist/37i9dQZF1DX1nSIVoqxfC0)
+### [This Is Tiësto](https://open.spotify.com/playlist/03RH7S0ADURkwFOlyAwV7I)
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 

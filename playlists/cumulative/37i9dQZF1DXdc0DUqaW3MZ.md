@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdc0DUqaW3MZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdc0DUqaW3MZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdc0DUqaW3MZ)
 
-### [Soultronic](https://open.spotify.com/playlist/37i9dQZF1DXdc0DUqaW3MZ)
+### [Soultronic](https://open.spotify.com/playlist/5u0IGmC2ej39pmSJy1wKWQ)
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Bonobo and Jordan Rakei
 

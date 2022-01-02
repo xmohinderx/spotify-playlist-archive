@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4jokLVYoXC3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4jokLVYoXC3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4jokLVYoXC3)
 
-### [Editor's Choice: Fiction](https://open.spotify.com/playlist/37i9dQZF1DX4jokLVYoXC3)
+### [Editor's Choice: Fiction](https://open.spotify.com/playlist/6xgtmBirfRqGCOyxN5PWh1)
 
 > A selection of some of our favorite fiction – featuring short stories, novels, plays, and more.
 

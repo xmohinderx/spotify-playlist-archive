@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4LmOnbOmtMUyQQjo6L9mct.md) - cumulative - [plain](/playlists/plain/4LmOnbOmtMUyQQjo6L9mct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4LmOnbOmtMUyQQjo6L9mct)
 
-### [Bossa Nova](https://open.spotify.com/playlist/4LmOnbOmtMUyQQjo6L9mct)
+### [Bossa Nova](https://open.spotify.com/playlist/2uWHbzFin9pQaAxg6ohkKX)
 
 > Enjoy the sweet rhythms of bossa nova \- the perfect marriage of samba and jazz.
 

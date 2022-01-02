@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSlwBojgQEcN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSlwBojgQEcN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSlwBojgQEcN)
 
-### [Acoustic Love](https://open.spotify.com/playlist/37i9dQZF1DWSlwBojgQEcN)
+### [Acoustic Love](https://open.spotify.com/playlist/4TQ1r7zEVFlomECRdzH6hX)
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 

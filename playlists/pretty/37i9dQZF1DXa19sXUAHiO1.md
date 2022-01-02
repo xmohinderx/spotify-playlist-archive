@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 
 > A classic mix of pop, rock and folk hits from decades past.
 
-[Spotify](https://open.spotify.com/user/spotify) - 830,514 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 830,516 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa19sXUAHiO1.md) - [plain]
 | 49 | [O\-o\-h Child](https://open.spotify.com/track/1rwGdnrtWnPYBipRrjnzEm) | [The Five Stairsteps](https://open.spotify.com/artist/3Inrg8cs8oc4q8oPES4a6S) | [Stairsteps \(Expanded Edition\)](https://open.spotify.com/album/7H8uLkHFuEqAWpLKBwbGvg) | 3:17 |
 | 50 | [Life in the Fast Lane \- 2013 Remaster](https://open.spotify.com/track/6gXrEUzibufX9xYPk3HD5p) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 4:46 |
 
-Snapshot ID: `MTY0MTEwODY2OSwwMDAwMDAwMGQ4ZmQyYzFhZjU1YmQzNWIzM2NkZTY3NDE0MmE4NmRi`
+Snapshot ID: `MTY0MTExMDE0NywwMDAwMDAwMGQ4ZmQyYzFhZjU1YmQzNWIzM2NkZTY3NDE0MmE4NmRi`

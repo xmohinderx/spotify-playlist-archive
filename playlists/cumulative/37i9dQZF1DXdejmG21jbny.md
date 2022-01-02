@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdejmG21jbny.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdejmG21jbny) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdejmG21jbny)
 
-### [Mind & Body](https://open.spotify.com/playlist/37i9dQZF1DXdejmG21jbny)
+### [Mind & Body](https://open.spotify.com/playlist/6R2Y2tMEHANXWuPQwUT6Pc)
 
 > Chill instrumental ambient for slow, focused movement.
 

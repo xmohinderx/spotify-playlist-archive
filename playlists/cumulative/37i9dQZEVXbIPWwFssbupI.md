@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbIPWwFssbupI.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbIPWwFssbupI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbIPWwFssbupI)
 
-### [Top 50 \- France](https://open.spotify.com/playlist/37i9dQZEVXbIPWwFssbupI)
+### [Top 50 \- France](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 > Your daily update of the most played tracks right now \- France.
 

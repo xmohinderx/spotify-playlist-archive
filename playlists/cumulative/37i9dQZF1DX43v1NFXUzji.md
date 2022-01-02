@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX43v1NFXUzji.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX43v1NFXUzji) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX43v1NFXUzji)
 
-### [Latin Gaming](https://open.spotify.com/playlist/37i9dQZF1DX43v1NFXUzji)
+### [Latin Gaming](https://open.spotify.com/playlist/6UjAez27ivzv4M8nQyQUU6)
 
 > Latin music to game to! ¡Música latina para jugar!
 

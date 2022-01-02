@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Drift off to sleep with acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,956 likes - 82 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,955 likes - 82 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

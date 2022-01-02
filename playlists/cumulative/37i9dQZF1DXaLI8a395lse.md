@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaLI8a395lse.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaLI8a395lse) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaLI8a395lse)
 
-### [Alternative 90s](https://open.spotify.com/playlist/37i9dQZF1DXaLI8a395lse)
+### [Alternative 90s](https://open.spotify.com/playlist/3piEMU8FoPNQ3REnUsiVrc)
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: my bloody valentine
 

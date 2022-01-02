@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0QNpebF7rcL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0QNpebF7rcL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0QNpebF7rcL)
 
-### [Got Blues](https://open.spotify.com/playlist/37i9dQZF1DX0QNpebF7rcL)
+### [Got Blues](https://open.spotify.com/playlist/6WXBnoSHTaV1fXgP91Rwcb)
 
 > The best of blues right now\. Cover: Eric Gales
 

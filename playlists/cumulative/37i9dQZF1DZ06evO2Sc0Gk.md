@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2Sc0Gk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2Sc0Gk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2Sc0Gk)
 
-### [This Is Mr Eazi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Sc0Gk)
+### [This Is Mr Eazi](https://open.spotify.com/playlist/04LUwGShR4OdBbtoV9xRij)
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 

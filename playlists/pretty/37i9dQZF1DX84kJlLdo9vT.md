@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 
 > Relive the good ol' days with these cheery 60s and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,425 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,427 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX84kJlLdo9vT.md) - [plain]
 | 49 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
 | 50 | [Downtown](https://open.spotify.com/track/4AK7JaKbg3LLVszqndBXOF) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Best Of](https://open.spotify.com/album/6hBP1ZDOKNjjaPODomhGmN) | 3:05 |
 
-Snapshot ID: `MTY0MTEwODYyMywwMDAwMDAwMDNlZjgyNTAxZDA4Mjc4NzY5NWRkMzMxYzU5OWVlYjQ4`
+Snapshot ID: `MTY0MTExMDExMCwwMDAwMDAwMDNlZjgyNTAxZDA4Mjc4NzY5NWRkMzMxYzU5OWVlYjQ4`

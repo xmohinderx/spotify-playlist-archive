@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,317 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,316 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Crack Killed Applejack \- Gravy Booty Mix](https://open.spotify.com/track/2SrJ0Quef9Lkv0aIKPWEBY) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 |
 | 60 | [Lock It In The Pocket](https://open.spotify.com/track/2uSTcrVUckp3k6FuMaEfiq) | [Infectious Grooves](https://open.spotify.com/artist/32R6YbLokiJpZpvFX9Ewo9) | [Mas Borracho](https://open.spotify.com/album/5DYPTOnwkK4f8qmuhoowKH) | 3:36 |
 
-Snapshot ID: `MTY0MTEwODQ4MSwwMDAwMDAwMDVmNzUzYzRmODVjMjQ0ZDc3MDZkODZjOGIwMGVlODM4`
+Snapshot ID: `MTY0MTEwOTk3NSwwMDAwMDAwMDVmNzUzYzRmODVjMjQ0ZDc3MDZkODZjOGIwMGVlODM4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,205 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,204 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 69 | [Lucky Now](https://open.spotify.com/track/5kFuU8r1CRl52ghDIOjMY1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Ashes & Fire](https://open.spotify.com/album/6yn8IHWDjRMuU2HYbXSgh7) | 2:52 |
 | 70 | [Summer Song](https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw) | [The Year Of The Leopard](https://open.spotify.com/album/4yeY5ZJS5I8NA4L9Q9p6Xx) | 4:25 |
 
-Snapshot ID: `MTY0MTEwODU2NywwMDAwMDAwMDkxODIwZGE2ZjlkNTBhZWNkOThhNGUwOWQ4ZWI0YjJl`
+Snapshot ID: `MTY0MTExMDA1NywwMDAwMDAwMDkxODIwZGE2ZjlkNTBhZWNkOThhNGUwOWQ4ZWI0YjJl`

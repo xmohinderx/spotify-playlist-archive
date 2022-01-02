@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLn7RQmT5Xv2.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLn7RQmT5Xv2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLn7RQmT5Xv2)
 
-### [Top 50 \- Egypt](https://open.spotify.com/playlist/37i9dQZEVXbLn7RQmT5Xv2)
+### [Top 50 \- Egypt](https://open.spotify.com/playlist/5xT4nQt3o56tzuR4v4jZw5)
 
 > Your daily update of the most played tracks right now \- Egypt.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,276 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,282 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 74 | [I Never](https://open.spotify.com/track/29gtJmxbICNuUU3kaWB38w) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [More Adventurous \(U.S\. Release\)](https://open.spotify.com/album/4n36X2GMJ84BKh9D9zMRVI) | 4:31 |
 | 75 | [Coloring](https://open.spotify.com/track/2FFYeeIB7Vxj5qL8xr7Kd6) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Coloring](https://open.spotify.com/album/0hy2FQyGcmZ9dUMWQZg3gi) | 3:39 |
 
-Snapshot ID: `MTY0MTEwODUwNSwwMDAwMDAwMDE5NDliZTFhZjZmZGNkNDQwZDAyMTdlZmU3ZWYwYWUz`
+Snapshot ID: `MTY0MTEwOTk5OCwwMDAwMDAwMDE5NDliZTFhZjZmZGNkNDQwZDAyMTdlZmU3ZWYwYWUz`

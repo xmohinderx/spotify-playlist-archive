@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG7FCdM1HiA.md) - [plain]
 
 > The unhurried and fundamentally cool side of jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,311 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,313 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG7FCdM1HiA.md) - [plain]
 | 99 | [Martians Go Home](https://open.spotify.com/track/2B2VXFIZCuRZpSKFxjyz16) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN), [his Giants](https://open.spotify.com/artist/7et3m3TvZTjmaDJPAq26yb) | [The Swinging Mr\. Rogers](https://open.spotify.com/album/0FOWqz8QkvY0xH2HosBMFg) | 7:56 |
 | 100 | [Walkin' Shoes](https://open.spotify.com/track/6BavxfUuSOBIhMaEJ6rjNs) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 3:13 |
 
-Snapshot ID: `MTY0MTEwODI5MiwwMDAwMDAwMDIxNGQ1NmI2MDYzNWQzYTljMDA2M2QxMjViZDY5MDE4`
+Snapshot ID: `MTY0MTEwOTc5NSwwMDAwMDAwMDIxNGQ1NmI2MDYzNWQzYTljMDA2M2QxMjViZDY5MDE4`

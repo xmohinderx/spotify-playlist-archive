@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6tTW0xDxScH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6tTW0xDxScH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6tTW0xDxScH)
 
-### [Stay in Bed](https://open.spotify.com/playlist/37i9dQZF1DX6tTW0xDxScH)
+### [Stay in Bed](https://open.spotify.com/playlist/3OzAg60NrwMQPfMtLjUuRG)
 
 > Noodle said it's a <a href="https://www.tiktok.com/@jongraz?">no bones day</a>, and we're with him.
 

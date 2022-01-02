@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXMg4uP5o3dm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXMg4uP5o3dm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXMg4uP5o3dm)
 
-### [Alternative Beats](https://open.spotify.com/playlist/37i9dQZF1DWXMg4uP5o3dm)
+### [Alternative Beats](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
 > Alternative meets electronic\. Cover: Royal & the Serpent
 

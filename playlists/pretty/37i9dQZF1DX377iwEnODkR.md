@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX377iwEnODkR.md) - [plain]
 
 > The new sound of jazz\. Cover: Brian Blade
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,851 likes - 150 songs - 16 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,852 likes - 150 songs - 16 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX377iwEnODkR.md) - [plain]
 | 149 | [Feets from above \- Live](https://open.spotify.com/track/3jWmV8sTtG0jzSqWj42QAh) | [Atomic](https://open.spotify.com/artist/5MaqvdfplsuBzHTHrBxjr6) | [The Bikini Tapes](https://open.spotify.com/album/0GTkunNBXfKmJzx4ZWaDG6) | 8:33 |
 | 150 | [Inhabitants](https://open.spotify.com/track/6jNSqOlffininedHqPmXlY) | [EmAb Connection](https://open.spotify.com/artist/5MAIrFEQ7f6TVOq2ynGQKy) | [Inhabitants](https://open.spotify.com/album/6ciKxRg3CxOthkAbdmD9OP) | 7:18 |
 
-Snapshot ID: `MTY0MTEwODUwNCwwMDAwMDAwMDBlY2QwMjkyYmZhOTZmZTc0NGRiNjBkZGJhNGIwZDFi`
+Snapshot ID: `MTY0MTEwOTk5NywwMDAwMDAwMDBlY2QwMjkyYmZhOTZmZTc0NGRiNjBkZGJhNGIwZDFi`

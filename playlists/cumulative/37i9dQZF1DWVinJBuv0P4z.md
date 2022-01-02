@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVinJBuv0P4z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVinJBuv0P4z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVinJBuv0P4z)
 
-### [Feel Good Classics](https://open.spotify.com/playlist/37i9dQZF1DWVinJBuv0P4z)
+### [Feel Good Classics](https://open.spotify.com/playlist/4WUUkJTjef9Cmttdbtlviv)
 
 > Happy tunes from the 50s, 60s & 70s.
 

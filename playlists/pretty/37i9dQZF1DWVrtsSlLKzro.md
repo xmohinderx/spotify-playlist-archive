@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,597 likes - 121 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,599 likes - 121 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 120 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 |
 | 121 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
 
-Snapshot ID: `MTY0MTEwODM0MywwMDAwMDAwMGY5NTQyYjQ1NjI5OGNlYjRhYmQ0OTdlNDkzMDczZDI2`
+Snapshot ID: `MTY0MTEwOTg0NSwwMDAwMDAwMGY5NTQyYjQ1NjI5OGNlYjRhYmQ0OTdlNDkzMDczZDI2`

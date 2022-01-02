@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa8axQnFlj0R.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa8axQnFlj0R) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa8axQnFlj0R)
 
-### [Sweater Weather](https://open.spotify.com/playlist/37i9dQZF1DXa8axQnFlj0R)
+### [Sweater Weather](https://open.spotify.com/playlist/4z56XoIfvsTeY0YpsD2N6g)
 
 > let me hold both your hands in the holes of my sweater
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZDPloxGJ3JZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZDPloxGJ3JZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZDPloxGJ3JZ)
 
-### [The Romantics](https://open.spotify.com/playlist/37i9dQZF1DWZDPloxGJ3JZ)
+### [The Romantics](https://open.spotify.com/playlist/45xlnEhQkfaMtmvX22ZSSP)
 
 > Emotional fervor and man's mystic relationship with nature are just a few of the prototypical themes featured in this playlist of Romantic poetry.
 

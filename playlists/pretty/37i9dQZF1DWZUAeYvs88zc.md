@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,003 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,005 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 79 | [Friendly Fire](https://open.spotify.com/track/1u71gNzUwTjgfYmArCUD0m) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:42 |
 | 80 | [Happy Loner](https://open.spotify.com/track/3aVpNPYYhmnhFl61QS56tx) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Happy Loner](https://open.spotify.com/album/2LqEi8okydBj6gNTAVhOJq) | 3:13 |
 
-Snapshot ID: `MTY0MTEwODQxNywwMDAwMDAwMDFmOGJmOTExNGRmY2NjZTQ1NGE0OGY1MDJlOWI1NWIx`
+Snapshot ID: `MTY0MTEwOTkxNiwwMDAwMDAwMDFmOGJmOTExNGRmY2NjZTQ1NGE0OGY1MDJlOWI1NWIx`

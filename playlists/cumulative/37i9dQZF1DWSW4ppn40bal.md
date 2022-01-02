@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSW4ppn40bal.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSW4ppn40bal) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSW4ppn40bal)
 
-### [Sleep Noise](https://open.spotify.com/playlist/37i9dQZF1DWSW4ppn40bal)
+### [Sleep Noise](https://open.spotify.com/playlist/0bRP8XzvCxukMLWefooE0H)
 
 > Colored noise to help you sleep.
 

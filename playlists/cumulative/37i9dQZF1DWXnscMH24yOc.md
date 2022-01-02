@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXnscMH24yOc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXnscMH24yOc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXnscMH24yOc)
 
-### [Chill Covers](https://open.spotify.com/playlist/37i9dQZF1DWXnscMH24yOc)
+### [Chill Covers](https://open.spotify.com/playlist/406cJKXTiZWXbCtbjiF9b5)
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 

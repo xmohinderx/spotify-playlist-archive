@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLRnGRo8irv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLRnGRo8irv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLRnGRo8irv)
 
-### [EQUAL Korea](https://open.spotify.com/playlist/37i9dQZF1DWXLRnGRo8irv)
+### [EQUAL Korea](https://open.spotify.com/playlist/43k4c9vIwa5D757ihXdBwg)
 
 > 한국 여성들의 목소리가 담긴 플레이리스트를 감상해보세요\. \(커버: Lil Cherry\)
 

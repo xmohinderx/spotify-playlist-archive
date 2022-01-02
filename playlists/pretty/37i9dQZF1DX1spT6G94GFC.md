@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 
 > These songs rocked the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,148,266 likes - 80 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,148,288 likes - 80 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1spT6G94GFC.md) - [plain]
 | 79 | [Stand \- Remastered](https://open.spotify.com/track/5xQS3BaNZDrltmswg7B8YD) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/6QVNm3lwNzeVmnic41sZM3) | 3:12 |
 | 80 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 
-Snapshot ID: `MTY0MTEwODQ3NSwwMDAwMDAwMDRkZTBjMDE0M2M4NGMzMmMzODk1MzQyZWMzODQ0YWZl`
+Snapshot ID: `MTY0MTEwOTk2OSwwMDAwMDAwMDRkZTBjMDE0M2M4NGMzMmMzODk1MzQyZWMzODQ0YWZl`

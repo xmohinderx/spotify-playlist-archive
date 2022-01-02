@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6J5NfMJS675.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6J5NfMJS675) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6J5NfMJS675)
 
-### [Techno Bunker](https://open.spotify.com/playlist/37i9dQZF1DX6J5NfMJS675)
+### [Techno Bunker](https://open.spotify.com/playlist/2CLl9bdbXGoEG2KzSgeejA)
 
 > Welcome to the dark side of the club.
 

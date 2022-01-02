@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVXBHEDDpqLs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVXBHEDDpqLs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVXBHEDDpqLs)
 
-### [Global Club Music](https://open.spotify.com/playlist/37i9dQZF1DWVXBHEDDpqLs)
+### [Global Club Music](https://open.spotify.com/playlist/5QQpMPs6GIuzG9aq7Y4uCu)
 
 > The biggest club songs from regions around the world\. Cover: Big Dope P
 

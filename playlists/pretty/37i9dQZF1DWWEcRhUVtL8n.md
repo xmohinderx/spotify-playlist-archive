@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: No Rome
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,646,801 likes - 125 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,646,816 likes - 125 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 124 | [Am I Alright](https://open.spotify.com/track/2OZJWIhTXHL3UKJmhG5kxq) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Am I Alright](https://open.spotify.com/album/3b68VqtD6JXCG5NlVo0QTH) | 3:34 |
 | 125 | [ghosts!](https://open.spotify.com/track/5FUO2oWL2z2e5eKsY7awhr) | [Sophie Cates](https://open.spotify.com/artist/4xjJOu0MWVWuaDVZOy0Dx2) | [all my boyfriends](https://open.spotify.com/album/1EKtv3hcYWRTBX1kipfaLA) | 2:50 |
 
-Snapshot ID: `MTY0MTEwODM1MSwwMDAwMDAwMGI2Njg0ZTMwYWFjNDZiZGQ5MzMwNTkzYjc2Y2RmNzk4`
+Snapshot ID: `MTY0MTEwOTg1MiwwMDAwMDAwMGI2Njg0ZTMwYWFjNDZiZGQ5MzMwNTkzYjc2Y2RmNzk4`

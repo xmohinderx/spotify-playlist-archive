@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,796 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,800 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [SUNRISE \(feat\. Arlo Parks\)](https://open.spotify.com/album/68udZ02TROM9S9TWiyxupb) | 2:56 |
 | 50 | [U Already Know](https://open.spotify.com/track/5sUWfe7eSoapj9d6zgjJEe) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:12 |
 
-Snapshot ID: `MTY0MTEwODM5OSwwMDAwMDAwMDE4YzI0YWRjN2EzMDBiMzkwMGIwZjI2ZTIzZmExMmEw`
+Snapshot ID: `MTY0MTEwOTg5OCwwMDAwMDAwMDE4YzI0YWRjN2EzMDBiMzkwMGIwZjI2ZTIzZmExMmEw`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5AviTMPF0km.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5AviTMPF0km) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5AviTMPF0km)
 
-### [Contemporary Chinese Classical](https://open.spotify.com/playlist/37i9dQZF1DX5AviTMPF0km)
+### [Contemporary Chinese Classical](https://open.spotify.com/playlist/2dsSefsZxrM5hTDACTums5)
 
 > A collection of contemporary classical from Chinese and Chinese\-born composers and musicians, from Bright Sheng and Chen Yi to Qu Xiaosong and Zhu Jianer.
 

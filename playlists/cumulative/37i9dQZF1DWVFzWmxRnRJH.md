@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVFzWmxRnRJH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVFzWmxRnRJH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVFzWmxRnRJH)
 
-### [Raised on Country](https://open.spotify.com/playlist/37i9dQZF1DWVFzWmxRnRJH)
+### [Raised on Country](https://open.spotify.com/playlist/3g2U9IoFxgC2npNG8spC0h)
 
 > A fun library of country hits to pass on to the next generation!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1xEPBKyoFUz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xEPBKyoFUz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xEPBKyoFUz)
 
-### [StartSelect: Curated by Sampev2](https://open.spotify.com/playlist/37i9dQZF1DX1xEPBKyoFUz)
+### [StartSelect: Curated by Sampev2](https://open.spotify.com/playlist/1v1TyFBHU1O66sj35Jjlr3)
 
 > <a href="https://www.twitch.tv/sampev2">Sampev2</a>'s go\-to gaming tracks.
 

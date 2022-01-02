@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbZmKskFbVct.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbZmKskFbVct) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbZmKskFbVct)
 
-### [ASMR Sleep Whispers](https://open.spotify.com/playlist/37i9dQZF1DXbZmKskFbVct)
+### [ASMR Sleep Whispers](https://open.spotify.com/playlist/0WpRCwnHLqwwOEdSsL7BjN)
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 

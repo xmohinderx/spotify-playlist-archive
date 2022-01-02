@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,554 likes - 40 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,553 likes - 40 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [The Greatest](https://open.spotify.com/track/6CAG3rBGPTAinoqgVD7fBJ) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Greatest](https://open.spotify.com/album/2ErZHHnKWGdpUWCwYLjHxU) | 3:22 |
 | 40 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 |
 
-Snapshot ID: `MTY0MTEwODMzNCwwMDAwMDAwMGQxMDYyOWRiZDY2ZWQzNTNkYTAxNWJmODkwZjEzNGRj`
+Snapshot ID: `MTY0MTEwOTgzNSwwMDAwMDAwMGQxMDYyOWRiZDY2ZWQzNTNkYTAxNWJmODkwZjEzNGRj`

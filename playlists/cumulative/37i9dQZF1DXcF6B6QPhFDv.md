@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcF6B6QPhFDv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcF6B6QPhFDv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcF6B6QPhFDv)
 
-### [Rock This](https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv)
+### [Rock This](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
 > The latest from Imagine Dragons along with the top Rock songs you need to know.
 

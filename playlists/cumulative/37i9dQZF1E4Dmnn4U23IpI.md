@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Dmnn4U23IpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [The Midnight Radio](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
-> With Billy Mays Band, Ollie Wride, TOKYO ROSE and more
+> With Gunship, PYLOT, Jessie Frye and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

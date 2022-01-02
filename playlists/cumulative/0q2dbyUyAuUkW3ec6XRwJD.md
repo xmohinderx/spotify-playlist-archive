@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0q2dbyUyAuUkW3ec6XRwJD.md) - cumulative - [plain](/playlists/plain/0q2dbyUyAuUkW3ec6XRwJD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0q2dbyUyAuUkW3ec6XRwJD)
 
-### [Top Picks Decades](https://open.spotify.com/playlist/0q2dbyUyAuUkW3ec6XRwJD)
+### [Top Picks Decades](https://open.spotify.com/playlist/1aMZVawDaqDraDd6HDx590)
 
 > 
 

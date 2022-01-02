@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,596 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,593 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [A Slippery Christmas \(Feat\. Chan\)](https://open.spotify.com/track/06m4f8pAOZbrPSw54xDYPj) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F) | [A Slippery Christmas](https://open.spotify.com/album/7KZNP0Tar7wIBdPFYQuAsi) | 3:20 |
 | 100 | [Today and other days \(Feat\. Eily\)](https://open.spotify.com/track/6sBImae6DAAo4vRbHLSgtH) | [lofi](https://open.spotify.com/artist/0Ol1mhlclpCQlBUF8OPZW0), [Eily](https://open.spotify.com/artist/5z23iI1nouNyp7f7HtK005) | [cozy christmas](https://open.spotify.com/album/4gWvzWguilrxXcvU7M9fLH) | 2:03 |
 
-Snapshot ID: `MTY0MTEwODMzNiwwMDAwMDAwMDZhOWQ3YTRjOWNhMDg2MzJkYzYwN2VhYTA1MzQ4OGMw`
+Snapshot ID: `MTY0MTEwOTgzNywwMDAwMDAwMDZhOWQ3YTRjOWNhMDg2MzJkYzYwN2VhYTA1MzQ4OGMw`

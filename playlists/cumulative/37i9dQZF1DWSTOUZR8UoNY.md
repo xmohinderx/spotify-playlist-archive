@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSTOUZR8UoNY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSTOUZR8UoNY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSTOUZR8UoNY)
 
-### [Readings from Dylan Thomas](https://open.spotify.com/playlist/37i9dQZF1DWSTOUZR8UoNY)
+### [Readings from Dylan Thomas](https://open.spotify.com/playlist/6K9tQLRTc5ikK7V6hGFET7)
 
 > Listen to poet Dylan Thomas read great works – both his own and those of others.
 

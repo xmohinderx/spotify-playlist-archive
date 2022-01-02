@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 
 > Get your day off to a cracking start!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,083,092 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,083,101 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5e2bJhV6pu.md) - [plain]
 | 79 | [Slow Grenade](https://open.spotify.com/track/5z8uLrYMcUVvzTV28twt44) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Slow Grenade](https://open.spotify.com/album/15Zgvxqql6EPHE3NJlUt0R) | 3:37 |
 | 80 | [You](https://open.spotify.com/track/4XUbIli3chdqVXfY9ljUFv) | [Isaiah Firebrace](https://open.spotify.com/artist/5lXfVoQxVgC5fpjkVqvNYn) | [You](https://open.spotify.com/album/0zXZMFfOiovbBNXWQSGv5y) | 2:51 |
 
-Snapshot ID: `MTY0MTEwODcxNCwwMDAwMDAwMDhmNmNkMmYyYzBhYWFiNTUyNzhhYmM0MDVhNjQ3MjJl`
+Snapshot ID: `MTY0MTExMDE5MCwwMDAwMDAwMDhmNmNkMmYyYzBhYWFiNTUyNzhhYmM0MDVhNjQ3MjJl`

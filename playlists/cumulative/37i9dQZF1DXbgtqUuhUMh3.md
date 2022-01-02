@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbgtqUuhUMh3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbgtqUuhUMh3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbgtqUuhUMh3)
 
-### [SAWTIK](https://open.spotify.com/playlist/37i9dQZF1DXbgtqUuhUMh3)
+### [SAWTIK](https://open.spotify.com/playlist/4TgfhlgZXXgYge4j0fG2Jr)
 
 > They will be heard\. Discover strong female voices from the Arab World\. Cover: Dana Salah.
 

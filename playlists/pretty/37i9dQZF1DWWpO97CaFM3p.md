@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > Songs for when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,612 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,624 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 99 | [Snowplow](https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Snowplow](https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ) | 2:41 |
 | 100 | [What About U](https://open.spotify.com/track/4FcXhlrtcESQ7zz7WvOQlc) | [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Substellar](https://open.spotify.com/album/1gyH39poCBdAv8PRm5lV0a) | 3:28 |
 
-Snapshot ID: `MTY0MTEwODM2NSwwMDAwMDAwMDFkN2UxZjljZDU2Y2U3MWIzMDAzYTUyM2FiOTVlZmNl`
+Snapshot ID: `MTY0MTEwOTg2NiwwMDAwMDAwMDFkN2UxZjljZDU2Y2U3MWIzMDAzYTUyM2FiOTVlZmNl`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZhMbcax6CUd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZhMbcax6CUd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZhMbcax6CUd)
 
-### [This Is Ravel](https://open.spotify.com/playlist/37i9dQZF1DWZhMbcax6CUd)
+### [This Is Ravel](https://open.spotify.com/playlist/27dwUYJJkPiM7seh6OERBz)
 
 > Explore the great works of Maurice Ravel.
 

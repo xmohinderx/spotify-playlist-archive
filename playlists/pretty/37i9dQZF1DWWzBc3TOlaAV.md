@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,973 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,981 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 89 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
 | 90 | [For Your Love](https://open.spotify.com/track/7A8oXvjcFnGCmzbswJ0MKu) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Five Live Yardbirds](https://open.spotify.com/album/6Xi4L3iQ0iGPqLBSmBfP6z) | 2:29 |
 
-Snapshot ID: `MTY0MTEwODM2OSwwMDAwMDAwMDMzOTRmMDdjYjgwMGZkNGM4MjAzZjI4Y2E4OGNhYzdm`
+Snapshot ID: `MTY0MTEwOTg3MCwwMDAwMDAwMDMzOTRmMDdjYjgwMGZkNGM4MjAzZjI4Y2E4OGNhYzdm`

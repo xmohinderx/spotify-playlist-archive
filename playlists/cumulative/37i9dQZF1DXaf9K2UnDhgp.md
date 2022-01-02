@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaf9K2UnDhgp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaf9K2UnDhgp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaf9K2UnDhgp)
 
-### [Rock Christmas](https://open.spotify.com/playlist/37i9dQZF1DXaf9K2UnDhgp)
+### [Rock Christmas](https://open.spotify.com/playlist/5lFt6f9bgWuVMt1UoMEajh)
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9c7yCloFHHL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9c7yCloFHHL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9c7yCloFHHL)
 
-### [Ambiente](https://open.spotify.com/playlist/37i9dQZF1DX9c7yCloFHHL)
+### [Ambiente](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Cover: Nala Sinephro
 

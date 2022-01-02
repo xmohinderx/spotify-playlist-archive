@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1XDyq5cTk95.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1XDyq5cTk95) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1XDyq5cTk95)
 
-### [This Is Radiohead](https://open.spotify.com/playlist/37i9dQZF1DX1XDyq5cTk95)
+### [This Is Radiohead](https://open.spotify.com/playlist/316QYWvrxBZ4K82evnrAVV)
 
 > The essential Radiohead, all in one playlist.
 

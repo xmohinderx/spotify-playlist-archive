@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSJHnPb1f0X3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSJHnPb1f0X3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSJHnPb1f0X3)
 
-### [Cardio](https://open.spotify.com/playlist/37i9dQZF1DWSJHnPb1f0X3)
+### [Cardio](https://open.spotify.com/playlist/1tr0x1oNxYIGOgyNmauGpx)
 
 > Upbeat dance pop to keep your heart pumping.
 

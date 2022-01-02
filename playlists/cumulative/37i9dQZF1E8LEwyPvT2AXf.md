@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E8LEwyPvT2AXf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8LEwyPvT2AXf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LEwyPvT2AXf)
 
-### [When We Were Young Radio](https://open.spotify.com/playlist/37i9dQZF1E8LEwyPvT2AXf)
+### [When We Were Young Radio](https://open.spotify.com/playlist/4unVIKdkTCDXOJosfpD9UD)
 
-> With Adele, Jasmine Thompson, Shawn Mendes, Kodaline and more
+> With Adele, Sam Smith, Jorja Smith, Little Mix and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

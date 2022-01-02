@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3sJ6SlgRo56Oa7YhHcLK5l.md) - cumulative - [plain](/playlists/plain/3sJ6SlgRo56Oa7YhHcLK5l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3sJ6SlgRo56Oa7YhHcLK5l)
 
-### [Found Them First](https://open.spotify.com/playlist/3sJ6SlgRo56Oa7YhHcLK5l)
+### [Found Them First](https://open.spotify.com/playlist/2L21Mo4TyjsqtbDwHpo1JG)
 
 > What artists have been your favorite new finds this year? Check out a sampling of our favorites here, and don’t forget to check back for updates! For your own list, head over to <a href="http://spoti.fi/1JQhkfk">http://spoti.fi/1JQhkfk</a>
 

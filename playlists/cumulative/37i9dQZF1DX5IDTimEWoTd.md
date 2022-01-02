@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5IDTimEWoTd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5IDTimEWoTd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5IDTimEWoTd)
 
-### [Warm Fuzzy Feeling](https://open.spotify.com/playlist/37i9dQZF1DX5IDTimEWoTd)
+### [Warm Fuzzy Feeling](https://open.spotify.com/playlist/7nReIoiSVbXtMiixzq38Mf)
 
 > Beautiful songs to give you that warm, fuzzy feeling.
 

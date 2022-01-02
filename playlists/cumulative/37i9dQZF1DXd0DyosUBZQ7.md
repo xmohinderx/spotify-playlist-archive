@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd0DyosUBZQ7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd0DyosUBZQ7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd0DyosUBZQ7)
 
-### [00s Love Songs](https://open.spotify.com/playlist/37i9dQZF1DXd0DyosUBZQ7)
+### [00s Love Songs](https://open.spotify.com/playlist/4XlRxN53m0imBUyqmf9uvg)
 
 > The most beautiful love songs of the 2000s
 

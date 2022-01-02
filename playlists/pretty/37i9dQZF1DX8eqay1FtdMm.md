@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN \(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,386 likes - 58 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,393 likes - 58 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 57 | [Stay](https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [Stay](https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6) | 3:46 |
 | 58 | [It′s You](https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [It′s You](https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC) | 3:13 |
 
-Snapshot ID: `MTY0MTEwODYzNiwwMDAwMDAwMDRhOGY0NjZiNzViZTUyMjMxYjliMDNmNzljOTUxNmZm`
+Snapshot ID: `MTY0MTExMDEyMiwwMDAwMDAwMDRhOGY0NjZiNzViZTUyMjMxYjliMDNmNzljOTUxNmZm`

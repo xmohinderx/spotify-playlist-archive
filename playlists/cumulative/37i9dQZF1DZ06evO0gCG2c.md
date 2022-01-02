@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0gCG2c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0gCG2c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0gCG2c)
 
-### [This Is Akon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gCG2c)
+### [This Is Akon](https://open.spotify.com/playlist/0o0fFC1WUDCEKbBM9ARRZc)
 
 > This is Akon\. The essential tracks, all in one playlist.
 

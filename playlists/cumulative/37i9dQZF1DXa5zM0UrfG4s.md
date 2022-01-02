@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa5zM0UrfG4s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa5zM0UrfG4s)
 
-### [Livet på Bøgda!](https://open.spotify.com/playlist/37i9dQZF1DXa5zM0UrfG4s)
+### [Livet på Bøgda!](https://open.spotify.com/playlist/3zMqShr44pcg3CK0Psc64W)
 
 > Spillelisten som byr på en rekke bøgdebangers du liker å spelle i kjerra! Cover: Hagle & Den BB
 

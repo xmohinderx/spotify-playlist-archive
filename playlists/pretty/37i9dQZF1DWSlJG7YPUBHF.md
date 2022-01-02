@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 
 > Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,556 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,558 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 49 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
 | 50 | [Rice Pudding](https://open.spotify.com/track/4hQFPRgDFU8M5AmDAGq02d) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Beck\-Ola](https://open.spotify.com/album/3EESd44PFyI8YczpseEtno) | 7:22 |
 
-Snapshot ID: `MTY0MTEwODI3OSwwMDAwMDAwMDQ5Mzk1OGMyNDQ2MTgxOTFiNzBmN2NkZWE1YzMzYTVj`
+Snapshot ID: `MTY0MTEwOTc4MywwMDAwMDAwMDQ5Mzk1OGMyNDQ2MTgxOTFiNzBmN2NkZWE1YzMzYTVj`

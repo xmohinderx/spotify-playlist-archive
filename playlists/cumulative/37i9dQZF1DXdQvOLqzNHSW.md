@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdQvOLqzNHSW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdQvOLqzNHSW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdQvOLqzNHSW)
 
-### [Late Night Vibes](https://open.spotify.com/playlist/37i9dQZF1DXdQvOLqzNHSW)
+### [Late Night Vibes](https://open.spotify.com/playlist/3PNirhDRmJpGKSd6QkVGL6)
 
 > Slow burners for late nights.
 

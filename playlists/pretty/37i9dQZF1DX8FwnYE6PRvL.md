@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 
 > The ultimate rock party playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,991,378 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,991,392 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FwnYE6PRvL.md) - [plain]
 | 79 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
 | 80 | [Cum on Feel the Noize](https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Quiet Riot \- Greatest Hits](https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy) | 4:47 |
 
-Snapshot ID: `MTY0MTEwODYyNywwMDAwMDAwMGM4NDg1OWE1NzZjNmNlOTc1ZjE1MDI5ZjkyOGRlMWE1`
+Snapshot ID: `MTY0MTExMDExMywwMDAwMDAwMGM4NDg1OWE1NzZjNmNlOTc1ZjE1MDI5ZjkyOGRlMWE1`

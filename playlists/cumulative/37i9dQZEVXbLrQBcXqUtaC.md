@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLrQBcXqUtaC.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLrQBcXqUtaC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLrQBcXqUtaC)
 
-### [Top 50 \- Saudi Arabia](https://open.spotify.com/playlist/37i9dQZEVXbLrQBcXqUtaC)
+### [Top 50 \- Saudi Arabia](https://open.spotify.com/playlist/7viCC71S6fIOj9ymtSPNrp)
 
 > Your daily update of the most played tracks right now \- Saudi Arabia.
 

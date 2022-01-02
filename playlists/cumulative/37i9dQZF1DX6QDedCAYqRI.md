@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6QDedCAYqRI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6QDedCAYqRI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6QDedCAYqRI)
 
-### [Haunting Vocals](https://open.spotify.com/playlist/37i9dQZF1DX6QDedCAYqRI)
+### [Haunting Vocals](https://open.spotify.com/playlist/6I9zKrFBIVKUckprWsUFLc)
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 

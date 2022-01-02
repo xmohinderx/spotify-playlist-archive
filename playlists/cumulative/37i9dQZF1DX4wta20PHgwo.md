@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4wta20PHgwo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4wta20PHgwo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4wta20PHgwo)
 
-### [Late Night Jazz](https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo)
+### [Late Night Jazz](https://open.spotify.com/playlist/7jLGWJVis6kZYA0OgqQsb5)
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 

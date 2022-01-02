@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbZBKpgxsyXU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbZBKpgxsyXU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbZBKpgxsyXU)
 
-### [This Is OneRepublic](https://open.spotify.com/playlist/37i9dQZF1DXbZBKpgxsyXU)
+### [This Is OneRepublic](https://open.spotify.com/playlist/2vSU1mrzJLM9z8pFih229i)
 
 > The essential tracks, all in one playlist.
 

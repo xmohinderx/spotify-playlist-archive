@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSjibQnF0bUk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSjibQnF0bUk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSjibQnF0bUk)
 
-### [Afro Party Anthems](https://open.spotify.com/playlist/37i9dQZF1DWSjibQnF0bUk)
+### [Afro Party Anthems](https://open.spotify.com/playlist/5Ia0O2s18IQpAbkgQJ0E7m)
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 

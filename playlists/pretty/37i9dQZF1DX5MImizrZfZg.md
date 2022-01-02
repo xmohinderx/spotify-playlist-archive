@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,193 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,195 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
 | 50 | [Frobidden Fruit](https://open.spotify.com/track/6uRuDaFMH7UpEuWi4bQFrG) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Elixir](https://open.spotify.com/album/1m52eUD1SkD5l7qA8tyDB6) | 3:22 |
 
-Snapshot ID: `MTY0MTEwODU2MSwwMDAwMDAwMDBmNDU3YzY4MWZlZDliNzlkNDczNDVhYmMwMDVkMTM2`
+Snapshot ID: `MTY0MTExMDA1MSwwMDAwMDAwMDBmNDU3YzY4MWZlZDliNzlkNDczNDVhYmMwMDVkMTM2`

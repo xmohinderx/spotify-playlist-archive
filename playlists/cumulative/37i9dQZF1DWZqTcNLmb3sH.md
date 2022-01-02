@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqTcNLmb3sH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqTcNLmb3sH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqTcNLmb3sH)
 
-### [Latest Kannada](https://open.spotify.com/playlist/37i9dQZF1DWZqTcNLmb3sH)
+### [Latest Kannada](https://open.spotify.com/playlist/4XS8hgj742MTIKKrgMGo1Z)
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Yuvarathnaa
 

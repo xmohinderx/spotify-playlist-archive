@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2RpH7VWNzJa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2RpH7VWNzJa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2RpH7VWNzJa)
 
-### [en mis feelings](https://open.spotify.com/playlist/37i9dQZF1DX2RpH7VWNzJa)
+### [en mis feelings](https://open.spotify.com/playlist/5VYvKzUB8Xd1jQ276La7Ok)
 
 > No te preocupes, feel it all here.
 

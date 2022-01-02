@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZBCPUIUs2iR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZBCPUIUs2iR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZBCPUIUs2iR)
 
-### [Country's Greatest Hits](https://open.spotify.com/playlist/37i9dQZF1DWZBCPUIUs2iR)
+### [Country's Greatest Hits](https://open.spotify.com/playlist/6DZgMLSuA1tQ7AmQ8iik18)
 
 > A compilation of the all\-time biggest hits in Country Music.
 

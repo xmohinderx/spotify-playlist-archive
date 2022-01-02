@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4lwqQxljF1Rge3X4eMzdza.md) - cumulative - [plain](/playlists/plain/4lwqQxljF1Rge3X4eMzdza) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4lwqQxljF1Rge3X4eMzdza)
 
-### [Kendrick Lamar](https://open.spotify.com/playlist/4lwqQxljF1Rge3X4eMzdza)
+### [Kendrick Lamar](https://open.spotify.com/playlist/1WAozFEHt4DClmlJjCsUVg)
 
 > Missa inte Kendrick Lamar på Azalea\-scenen på LÖRDAG / 21.00
 

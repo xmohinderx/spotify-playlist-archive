@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX35X4JNyBWtb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX35X4JNyBWtb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX35X4JNyBWtb)
 
-### [Energy Booster: Dance](https://open.spotify.com/playlist/37i9dQZF1DX35X4JNyBWtb)
+### [Energy Booster: Dance](https://open.spotify.com/playlist/2vm7Zsmtx3aOQOSoSAckj2)
 
 > Need to get your energy level up? This will help!
 

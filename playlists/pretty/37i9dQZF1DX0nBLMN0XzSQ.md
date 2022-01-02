@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 
 > Après Ski...you know what that means!
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,639 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,638 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0nBLMN0XzSQ.md) - [plain]
 | 79 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 80 | [I'm Coming Out](https://open.spotify.com/track/66eYZZfUgBCulq7tsiBbXB) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 5:20 |
 
-Snapshot ID: `MTY0MTEwODQ0OSwwMDAwMDAwMDdlMGZmN2M5N2EzZjU3MWMwM2ZmYmVhZGMzYWQ1ZTAx`
+Snapshot ID: `MTY0MTEwOTk0NiwwMDAwMDAwMDdlMGZmN2M5N2EzZjU3MWMwM2ZmYmVhZGMzYWQ1ZTAx`

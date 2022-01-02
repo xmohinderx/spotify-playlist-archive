@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2mmt7R81K2b.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2mmt7R81K2b) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2mmt7R81K2b)
 
-### [Jazz Meets Classical](https://open.spotify.com/playlist/37i9dQZF1DX2mmt7R81K2b)
+### [Jazz Meets Classical](https://open.spotify.com/playlist/4YuG6HthB2L9AI2fFZW3dd)
 
 > Where jazz meets classical, and classical meets jazz\. Cover: Chick Corea
 

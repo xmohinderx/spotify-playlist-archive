@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1V02WRNSlSH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1V02WRNSlSH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1V02WRNSlSH)
 
-### [Country Music 101:  Funny Country](https://open.spotify.com/playlist/37i9dQZF1DX1V02WRNSlSH)
+### Country Music 101:  Funny Country
 
 > Country Music to tickle your funny bone.
 

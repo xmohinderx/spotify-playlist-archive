@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,426 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,425 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Somebody Stole My Gal](https://open.spotify.com/track/6djAMSikLSwnAuKA4nnsMb) | [Johnny St\. Cyr](https://open.spotify.com/artist/4LVSbS8nWTaRm6G5XKueKN) | [Johnny St\. Cyr](https://open.spotify.com/album/6IkguZ3dD5fce9lfHRmelf) | 3:38 |
 | 50 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
 
-Snapshot ID: `MTY0MTEwODcwMCwwMDAwMDAwMDg1NzU0YjlmM2NhMDM3ZTcwMjYyYTgxODlkZTNlMTEx`
+Snapshot ID: `MTY0MTExMDE3NiwwMDAwMDAwMDg1NzU0YjlmM2NhMDM3ZTcwMjYyYTgxODlkZTNlMTEx`

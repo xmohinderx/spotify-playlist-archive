@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdRITMyVwc9y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdRITMyVwc9y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdRITMyVwc9y)
 
-### [This is: Emeli Sandé](https://open.spotify.com/playlist/37i9dQZF1DXdRITMyVwc9y)
+### [This is: Emeli Sandé](https://open.spotify.com/playlist/0yGxOadOvwh84CnPv5LLnE)
 
 > This is Emeli Sandé\. The essential tracks, all in one playlist.
 

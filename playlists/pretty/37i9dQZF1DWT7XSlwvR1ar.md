@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 
 > No need to stress out\. Stay relaxed with these easy, upbeat songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892,344 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,892,352 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7XSlwvR1ar.md) - [plain]
 | 99 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 |
 | 100 | [Wide Awake](https://open.spotify.com/track/6oa5Vfov0r90SK63nVvTii) | [Frances Cone](https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh) | [Late Riser](https://open.spotify.com/album/0WhrnQczKJFAo1Q1R9buoY) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODI4OSwwMDAwMDAwMDg1NTZmOTA3ZWIxZmU4ZWYzZGFmOTgzZWVmMGMxYmZi`
+Snapshot ID: `MTY0MTEwOTc5MywwMDAwMDAwMDg1NTZmOTA3ZWIxZmU4ZWYzZGFmOTgzZWVmMGMxYmZi`

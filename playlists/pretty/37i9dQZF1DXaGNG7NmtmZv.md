@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,040 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,038 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Few and Far Between](https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib) | [Shutdown](https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3) | [Few and Far Between](https://open.spotify.com/album/3Iq1fBUENsQ2PBGZ7MFvoh) | 2:52 |
 | 50 | [The Disconnect](https://open.spotify.com/track/5JI4HbkaBL3ueJ2sXur0b3) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3yzp4D0TIDi5wgMtqyoqE0) | 3:56 |
 
-Snapshot ID: `MTY0MTEwODY3NiwwMDAwMDAwMGE1OWYwYmQ3ZGFiZmM1NzRhNjljY2Y1M2U2ZTdhZDVk`
+Snapshot ID: `MTY0MTExMDE1MywwMDAwMDAwMGE1OWYwYmQ3ZGFiZmM1NzRhNjljY2Y1M2U2ZTdhZDVk`

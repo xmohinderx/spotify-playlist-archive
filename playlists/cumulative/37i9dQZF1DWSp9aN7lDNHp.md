@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSp9aN7lDNHp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSp9aN7lDNHp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSp9aN7lDNHp)
 
-### [This Is The xx](https://open.spotify.com/playlist/37i9dQZF1DWSp9aN7lDNHp)
+### [This Is The xx](https://open.spotify.com/playlist/13zKOJ11utLCatCElPlh6y)
 
 > A selection of the best songs from their albums and beyond.
 

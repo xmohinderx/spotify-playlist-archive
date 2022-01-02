@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6z20IXmBjWI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6z20IXmBjWI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6z20IXmBjWI)
 
-### [Infinite Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX6z20IXmBjWI)
+### [Infinite Acoustic](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 > Hours of your favorite acoustic and roots music gems\. Cover: Madi Diaz
 

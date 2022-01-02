@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,642 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,644 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Lose Myself](https://open.spotify.com/track/4KpbD67QmMxvdSVGOGiqlj) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Lose Myself](https://open.spotify.com/album/6Ud9eHOMhGXYoYhWjavlDk) | 3:25 |
 | 80 | [Sweat On Me](https://open.spotify.com/track/28jVyHbondZd7dQrZVIk5l) | [Tape Machines](https://open.spotify.com/artist/6geC8EbDc3ifaSAbx3RESQ), [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Sweat On Me](https://open.spotify.com/album/1kzleKua4OGAcJv70up12a) | 3:14 |
 
-Snapshot ID: `MTY0MTEwODY0OCwwMDAwMDAwMDU2ZTlkNTJiNmQ2NTZlMDhmNjdhOGY1ZjY1NDM2OTY5`
+Snapshot ID: `MTY0MTExMDEzMywwMDAwMDAwMDU2ZTlkNTJiNmQ2NTZlMDhmNjdhOGY1ZjY1NDM2OTY5`

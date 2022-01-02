@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4SrOBCjlfVi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4SrOBCjlfVi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4SrOBCjlfVi)
 
-### [New Joints](https://open.spotify.com/playlist/37i9dQZF1DX4SrOBCjlfVi)
+### [New Joints](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 > New joints of the week featuring Nas, Fredo Bang, Spotemgotem, and more\. Cover: Roddy Ricch
 

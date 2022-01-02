@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4yQ5BwwlSiC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4yQ5BwwlSiC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4yQ5BwwlSiC)
 
-### [CMA Summer Jam](https://open.spotify.com/playlist/37i9dQZF1DX4yQ5BwwlSiC)
+### CMA Summer Jam
 
 > The soundtrack to the CMA's 2021 event of the summer, airing Thursday, September 2nd at 8/7c on ABC.
 

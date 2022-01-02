@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 
 > Relax with this soothing soundtrack from the nineties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,119 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,123 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8xrpik0esU.md) - [plain]
 | 79 | [All I Wanna Do](https://open.spotify.com/track/4cqHVuDLFbO1XCr4nmks4S) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Tuesday Night Music Club](https://open.spotify.com/album/1ne2KBkrZa2Qr1TFwoNmJC) | 4:32 |
 | 80 | [If You Tolerate This Your Children Will Be Next](https://open.spotify.com/track/2VmyLy2HQlkevZYboXHM5O) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:50 |
 
-Snapshot ID: `MTY0MTEwODMyOSwwMDAwMDAwMDEyY2MxN2MwN2MyOGYwM2U3NmMzZTZmMDJlNGQ2YTkx`
+Snapshot ID: `MTY0MTEwOTgzMCwwMDAwMDAwMDEyY2MxN2MwN2MyOGYwM2U3NmMzZTZmMDJlNGQ2YTkx`

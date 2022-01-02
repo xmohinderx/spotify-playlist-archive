@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,163 likes - 104 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,162 likes - 104 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 103 | [America the Beautiful](https://open.spotify.com/track/5lLrCv7tYoMQpADRo8b5z7) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [America the Beautiful](https://open.spotify.com/album/3exIZtFE4eKhT2pO8EXO5v) | 5:04 |
 | 104 | [See You Again](https://open.spotify.com/track/7jP7iCJ1cXVXYHWIkYtP6d) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:06 |
 
-Snapshot ID: `MTY0MTEwODU2OSwwMDAwMDAwMGM5NGM2Yjk0ZTVhOTI0ODM5Y2MxMzAxM2QyYzU3ZGRj`
+Snapshot ID: `MTY0MTExMDA2MCwwMDAwMDAwMGM5NGM2Yjk0ZTVhOTI0ODM5Y2MxMzAxM2QyYzU3ZGRj`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWThFkopzOaNW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWThFkopzOaNW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWThFkopzOaNW)
 
-### [This Is New Edition](https://open.spotify.com/playlist/37i9dQZF1DWThFkopzOaNW)
+### [This Is New Edition](https://open.spotify.com/playlist/3gTQhQlbSFMNtLP3beWw6X)
 
 > Celebrate the career of one of the most influential <a href="spotify:artist:1mFX1QlezK1lNPKQJkhwWb">R&B groups</a> of all time.
 

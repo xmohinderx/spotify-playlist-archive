@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4VvfRBFClxm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4VvfRBFClxm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4VvfRBFClxm)
 
-### [Acoustic Hits](https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm)
+### [Acoustic Hits](https://open.spotify.com/playlist/7bUcek1mMNSNQXUd5BDskV)
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Vance Joy
 

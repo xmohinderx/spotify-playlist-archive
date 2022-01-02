@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6l1fwN15uV5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6l1fwN15uV5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6l1fwN15uV5)
 
-### [Easy 80s](https://open.spotify.com/playlist/37i9dQZF1DX6l1fwN15uV5)
+### [Easy 80s](https://open.spotify.com/playlist/7IRjF6AeMRfymoepNhLREz)
 
 > Take it easy with these laid back tracks from the eighties...
 

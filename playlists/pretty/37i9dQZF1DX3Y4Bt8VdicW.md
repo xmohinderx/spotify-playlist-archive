@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,406 likes - 27 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,407 likes - 27 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 | 26 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 |
 | 27 | [The Night Josh Tillman Came To Our Apt.](https://open.spotify.com/track/5UXusQhn77o9f11H4NKFbM) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7) | 3:36 |
 
-Snapshot ID: `MTY0MTEwODUxNiwwMDAwMDAwMGFlZTc4MDM3NTg3ZjAyNjdiYzJlNmZmMDMxOGMxMWRj`
+Snapshot ID: `MTY0MTExMDAwOCwwMDAwMDAwMGFlZTc4MDM3NTg3ZjAyNjdiYzJlNmZmMDMxOGMxMWRj`

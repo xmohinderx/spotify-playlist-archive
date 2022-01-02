@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXs1L3AC0Xio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXs1L3AC0Xio) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXs1L3AC0Xio)
 
-### [Rock Ballads](https://open.spotify.com/playlist/37i9dQZF1DWXs1L3AC0Xio)
+### [Rock Ballads](https://open.spotify.com/playlist/5gPCFlQOL7ecJxKUUBWnZX)
 
 > Chill out with these awesome rock ballads\. Cover: <a href="spotify:artist:6Wr3hh341P84m3EI8qdn9O">Rise Against</a>
 

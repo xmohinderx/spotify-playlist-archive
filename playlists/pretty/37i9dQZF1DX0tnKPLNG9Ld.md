@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,764 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,765 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 49 | [The Song Is You](https://open.spotify.com/track/3Cm5dmc7D8b49sa567pQwX) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Buddy Bregman](https://open.spotify.com/artist/6t6zRn7Wo4ctJPVLNJlhOs) | [Bing Sings Whilst Bregman Swings](https://open.spotify.com/album/73o2GaqcTroIzxh7bggyrY) | 3:54 |
 | 50 | [This Time The Dream's On Me \- Remastered](https://open.spotify.com/track/0lpb1PV5pCTLhpRJILti7E) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Ron McMaster](https://open.spotify.com/artist/4JQpzBKMvxrA6UqO4Z0if4) | [Something Wonderful](https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav) | 2:19 |
 
-Snapshot ID: `MTY0MTEwODQ1MiwwMDAwMDAwMDE2ODdkZDUxY2NmMzNhZjZlY2M1YmNhZTI5ODAyMTI2`
+Snapshot ID: `MTY0MTEwOTk0OCwwMDAwMDAwMDE2ODdkZDUxY2NmMzNhZjZlY2M1YmNhZTI5ODAyMTI2`

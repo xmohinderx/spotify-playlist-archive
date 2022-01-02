@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6GiJlVeD6Ou.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6GiJlVeD6Ou) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6GiJlVeD6Ou)
 
-### [This is: Carole King](https://open.spotify.com/playlist/37i9dQZF1DX6GiJlVeD6Ou)
+### [This is: Carole King](https://open.spotify.com/playlist/3hmUyAitmKTNUie5X02LZE)
 
 > Carole King's most essential tracks, all in one playlist.
 

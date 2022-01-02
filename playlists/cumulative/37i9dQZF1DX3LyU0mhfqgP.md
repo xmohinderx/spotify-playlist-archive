@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3LyU0mhfqgP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3LyU0mhfqgP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3LyU0mhfqgP)
 
-### [Out Now](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
+### [Out Now](https://open.spotify.com/playlist/6zK7hnGvgZc1PZ34TAWzzK)
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 

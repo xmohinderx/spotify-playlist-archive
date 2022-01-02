@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 
 > Turn up with the biggest party tracks of the '90s and '00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,023,429 likes - 93 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,023,426 likes - 93 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ky12eWIvcW.md) - [plain]
 | 92 | [Juicy \- 2007 Remaster](https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 5:01 |
 | 93 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/6u5M4jPpYkoRV4vVHDQvkd) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Victory](https://open.spotify.com/album/5NGFuUQ1SYIUTy10IhA0Ny) | 3:47 |
 
-Snapshot ID: `MTY0MTEwODY0MCwwMDAwMDAwMGE4ZTQxOGZlMWE2MDAxYzZhNzliN2ZiNGM2MzIyNDM1`
+Snapshot ID: `MTY0MTExMDEyNSwwMDAwMDAwMGE4ZTQxOGZlMWE2MDAxYzZhNzliN2ZiNGM2MzIyNDM1`

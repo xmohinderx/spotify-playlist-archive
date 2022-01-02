@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,277 likes - 150 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,279 likes - 150 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 149 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 |
 | 150 | [Slow Separation](https://open.spotify.com/track/02hJFdZllz45ysp4caZh3z) | [Fergus James](https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY) | [Slow Separation](https://open.spotify.com/album/1Sfnsxg3EiSOxXfiVJVnyF) | 3:49 |
 
-Snapshot ID: `MTY0MTEwODMwOCwwMDAwMDAwMGVlZTk1MDg0M2NhNjE0MWE1ZDRkNTEwODNhNDU1NmEz`
+Snapshot ID: `MTY0MTEwOTgxMSwwMDAwMDAwMGVlZTk1MDg0M2NhNjE0MWE1ZDRkNTEwODNhNDU1NmEz`

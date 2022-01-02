@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KpeLFwA3tO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KpeLFwA3tO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KpeLFwA3tO)
 
-### [All New Punk](https://open.spotify.com/playlist/37i9dQZF1DX0KpeLFwA3tO)
+### [All New Punk](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 > The best new music from the wide world of punk\. Cover: Higher Power
 

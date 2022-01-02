@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,975 likes - 75 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,980 likes - 75 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Blues Walk](https://open.spotify.com/track/7dMWiyYYkxNC0mz90Ni9L3) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 6:43 |
 | 75 | [Footprints \(Remastered\)](https://open.spotify.com/track/4oO0i2eMDIWJfDduh3fv9O) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Portrait](https://open.spotify.com/album/2VySoVcjtJ81MBjylAXmHL) | 7:29 |
 
-Snapshot ID: `MTY0MTEwODYwMywwMDAwMDAwMDlmM2Y4MzJlYTBkZjdhNjNmZTEwMjVjNzA0M2MwNjQ1`
+Snapshot ID: `MTY0MTExMDA5MSwwMDAwMDAwMDlmM2Y4MzJlYTBkZjdhNjNmZTEwMjVjNzA0M2MwNjQ1`

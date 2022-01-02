@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 
 > All live, all blues\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,201 likes - 60 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,202 likes - 60 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1RLff7HxDm.md) - [plain]
 | 59 | [How Many More Times \- Live](https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [British Blues Explosion Live](https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc) | 15:22 |
 | 60 | [Ride On Josephine \- Live In Boston, Massachusetts / 1982](https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X) | [George Thorogood & The Destroyers](https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK) | [Ride On Josephine \(Live In Boston / 1982\)](https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP) | 8:21 |
 
-Snapshot ID: `MTY0MTEwODI4NSwwMDAwMDAwMGExODI0Nzg1ZTlhZTM5NzExZTc1MjQ1ZDcyN2FhNDYx`
+Snapshot ID: `MTY0MTEwOTc4OSwwMDAwMDAwMGExODI0Nzg1ZTlhZTM5NzExZTc1MjQ1ZDcyN2FhNDYx`

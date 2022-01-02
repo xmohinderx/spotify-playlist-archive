@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXT8uSSn6PRy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXT8uSSn6PRy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXT8uSSn6PRy)
 
-### [Hot Hits Canada](https://open.spotify.com/playlist/37i9dQZF1DWXT8uSSn6PRy)
+### [Hot Hits Canada](https://open.spotify.com/playlist/6h6yvKmgSMonH6murTjQzd)
 
 > Chart toppers and fresh hits in Canada this week\. Cover: ACRAZE
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8xfQRRX1PDm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8xfQRRX1PDm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8xfQRRX1PDm)
 
-### [Bollywood Dance Music](https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm)
+### [Bollywood Dance Music](https://open.spotify.com/playlist/7qAEWSrM1FrFMeKQC49WwZ)
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Ayushmann Khurrana
 

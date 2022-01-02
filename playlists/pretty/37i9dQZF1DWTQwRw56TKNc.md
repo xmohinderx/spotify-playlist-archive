@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,392 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,395 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 69 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 |
 | 70 | [Wholy Holy](https://open.spotify.com/track/1d9XimiMXrllkSb4BIq5W0) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/6qX4eoPWGteMdJMqGOwPTs) | 3:07 |
 
-Snapshot ID: `MTY0MTEwODI5NiwwMDAwMDAwMDQyZTEzMDU4YmI1YzczMDJhMGU3YjkxYTc1NTk3Mjlh`
+Snapshot ID: `MTY0MTEwOTgwMCwwMDAwMDAwMDQyZTEzMDU4YmI1YzczMDJhMGU3YjkxYTc1NTk3Mjlh`

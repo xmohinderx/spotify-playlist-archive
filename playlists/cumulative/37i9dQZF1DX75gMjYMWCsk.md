@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX75gMjYMWCsk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX75gMjYMWCsk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX75gMjYMWCsk)
 
-### [Queer Composers](https://open.spotify.com/playlist/37i9dQZF1DX75gMjYMWCsk)
+### [Queer Composers](https://open.spotify.com/playlist/4bdhFwQmc1PHe5VOMoHRmL)
 
 > Explore the unforgettable melodies of the greatest LGBTQ+ composers\. Cover: <a href="spotify:artist:2vObsQCPsbVfkqHlQOu2zc">Nico Muhly</a>
 

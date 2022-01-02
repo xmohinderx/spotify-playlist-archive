@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU0r6G8OGirN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU0r6G8OGirN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU0r6G8OGirN)
 
-### [Cozy Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DWU0r6G8OGirN)
+### [Cozy Christmas Jazz](https://open.spotify.com/playlist/39K7VL0TnmsRREiqJDlq2n)
 
 > Warm instrumental versions of your favorite Christmas songs.
 

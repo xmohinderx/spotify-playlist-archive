@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/653U7cDBXXkPZ07Xk8kxL6.md) - cumulative - [plain](/playlists/plain/653U7cDBXXkPZ07Xk8kxL6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/653U7cDBXXkPZ07Xk8kxL6)
 
-### [King of Pop](https://open.spotify.com/playlist/653U7cDBXXkPZ07Xk8kxL6)
+### [King of Pop](https://open.spotify.com/playlist/0Mzgco0meJ4jcid2tpnqq6)
 
 > As one of the most widely beloved entertainers of all\-time, Michael Jackson made an unforgettable imprint on popular music\. Here is a collection of some of his best tunes.
 

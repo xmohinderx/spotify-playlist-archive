@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 
 > Here's a taste of power pop\. <a href="spotify:genre:0JQ5IMCbQBLk5woFi85yOT">Click here for further discovery.</a> Cover: Cheap Trick
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,151 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,152 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5W4wuxak2hE.md) - [plain]
 | 49 | [Pop Song 89 \- Remastered](https://open.spotify.com/track/0pxpo14jvnN33Ej7xHV8TK) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Green \(Remastered\)](https://open.spotify.com/album/7rfKAiPs9ToZP9zEJDBqBH) | 3:04 |
 | 50 | [No Myth](https://open.spotify.com/track/3mlnJWidDh0ASIJYNXDWxH) | [Michael Penn](https://open.spotify.com/artist/4GcBbZ5wVhNABLzm4MpJqG) | [March](https://open.spotify.com/album/3lqEMgImTV9K2ZQYl6JFhO) | 4:09 |
 
-Snapshot ID: `MTY0MTEwODU2NSwwMDAwMDAwMDQ0ZmE3NDg3YmYxNjg3OTE1ZWIxNzAzODRlY2RiZjYz`
+Snapshot ID: `MTY0MTExMDA1NiwwMDAwMDAwMDQ0ZmE3NDg3YmYxNjg3OTE1ZWIxNzAzODRlY2RiZjYz`

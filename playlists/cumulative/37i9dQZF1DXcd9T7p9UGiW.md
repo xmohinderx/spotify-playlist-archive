@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcd9T7p9UGiW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcd9T7p9UGiW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcd9T7p9UGiW)
 
-### [Gone Abroad ](https://open.spotify.com/playlist/37i9dQZF1DXcd9T7p9UGiW)
+### [Gone Abroad ](https://open.spotify.com/playlist/3Y8M6G8CEpUSth190sL4SQ)
 
 > Catching flights and going global\. Cover: <a href="https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC?si=d5Y\-\_SEKQH2m0R1ErOcMNw"> Afro B</a>
 

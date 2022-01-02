@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Summer House to chill, vibe or travel to\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 732,832 likes - 80 songs - 4 hr 30 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 732,836 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

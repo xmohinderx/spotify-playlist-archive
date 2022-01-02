@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKkidEfWYRuD.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKkidEfWYRuD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKkidEfWYRuD)
 
-### [Top 50 \- Ukraine](https://open.spotify.com/playlist/37i9dQZEVXbKkidEfWYRuD)
+### [Top 50 \- Ukraine](https://open.spotify.com/playlist/2khSqJzu5boGIN7vM3USHL)
 
 > Your daily update of the most played tracks right now \- Ukraine.
 

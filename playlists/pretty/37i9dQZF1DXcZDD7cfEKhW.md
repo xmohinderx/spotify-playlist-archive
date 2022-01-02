@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,266,630 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,266,632 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Cool \(Jayda G Remix\)](https://open.spotify.com/track/08Z670x6tSSxElJkhpv5wa) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Cool \(Jayda G Remix\)](https://open.spotify.com/album/3awo0PmF50cVRzWHfdHegI) | 4:06 |
 | 100 | [Deep End \- SIDEPIECE Remix](https://open.spotify.com/track/7JdiXX87BugXUDhQ89GEc8) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Deep End \(SIDEPIECE Remix\)](https://open.spotify.com/album/3G4HzFDfCJUBJ4u7G3IdVc) | 3:16 |
 
-Snapshot ID: `MTY0MTEwODcyNCwwMDAwMDAwMGExNjExYWU4OWJjOTM2MTc5NTM1ZTE4YzkwNjg3MmQw`
+Snapshot ID: `MTY0MTExMDIwMCwwMDAwMDAwMGExNjExYWU4OWJjOTM2MTc5NTM1ZTE4YzkwNjg3MmQw`

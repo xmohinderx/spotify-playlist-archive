@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX80fLED6RkGS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX80fLED6RkGS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX80fLED6RkGS)
 
-### [Gengetone Fire](https://open.spotify.com/playlist/37i9dQZF1DX80fLED6RkGS)
+### [Gengetone Fire](https://open.spotify.com/playlist/7MvfVmuw7tyjVzEqBd5mPq)
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: <a href="https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=sLI4n7mHSAiv4ET\_PvrWYA">Exray Taniua</a>
 

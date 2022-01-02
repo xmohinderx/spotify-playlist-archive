@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1kznM9KyewU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1kznM9KyewU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1kznM9KyewU)
 
-### [90s Summer Rock](https://open.spotify.com/playlist/37i9dQZF1DX1kznM9KyewU)
+### [90s Summer Rock](https://open.spotify.com/playlist/3tnqKXamIBRk8iOPpGRhQG)
 
 > Rock that was on repeat during the summers of the 1990s.
 

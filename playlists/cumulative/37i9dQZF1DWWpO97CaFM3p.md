@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWpO97CaFM3p.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWpO97CaFM3p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWpO97CaFM3p)
 
-### [wanderlust](https://open.spotify.com/playlist/37i9dQZF1DWWpO97CaFM3p)
+### [wanderlust](https://open.spotify.com/playlist/2lKUPKpOcgpoeFy7kKdAMO)
 
 > Songs for when you decide societal constructs just aren’t the vibe anymore.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 
 > Get nostalgic with the golden age of pop punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028,963 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,028,972 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9wYJr1oMFq.md) - [plain]
 | 49 | [The Kids Aren't Alright](https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4) | 2:59 |
 | 50 | [Why Don't You Get A Job](https://open.spotify.com/track/0sNKiz82ATCvT3f3XVVUUj) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:52 |
 
-Snapshot ID: `MTY0MTEwODY3NCwwMDAwMDAwMDA5YzUxNGZkM2EzYjc3YmMxYTY3NDExYTljZDIwNDM1`
+Snapshot ID: `MTY0MTExMDE1MSwwMDAwMDAwMDA5YzUxNGZkM2EzYjc3YmMxYTY3NDExYTljZDIwNDM1`

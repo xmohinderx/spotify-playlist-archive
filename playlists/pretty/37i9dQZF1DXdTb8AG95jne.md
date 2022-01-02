@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Ha Hyunsang\(하현상\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,887 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,895 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Dead end street](https://open.spotify.com/track/493DKBNm3txw82eK4E9u95) | [Leebull Kim](https://open.spotify.com/artist/2hgrTOhZ18zSBEMbiQldoB) | [Dead end street](https://open.spotify.com/album/7FWqnSK5Qm0wA2Jt0gDMEi) | 4:22 |
 | 50 | [Hollywood](https://open.spotify.com/track/5FqGmuM9LxaZGOMKLsGL1U) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [Hollywood](https://open.spotify.com/album/2Mw3tpyBFi65jX9hgBXP17) | 5:31 |
 
-Snapshot ID: `MTY0MTEwODc0NCwwMDAwMDAwMGQzMDlkNDFhZjllYjdlNTVlNmM5MjRjYjEyOTYzMTY4`
+Snapshot ID: `MTY0MTExMDIxOCwwMDAwMDAwMGQzMDlkNDFhZjllYjdlNTVlNmM5MjRjYjEyOTYzMTY4`

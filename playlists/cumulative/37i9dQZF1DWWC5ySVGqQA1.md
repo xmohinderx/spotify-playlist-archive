@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWC5ySVGqQA1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWC5ySVGqQA1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWC5ySVGqQA1)
 
-### [Jane Austen](https://open.spotify.com/playlist/37i9dQZF1DWWC5ySVGqQA1)
+### [Jane Austen](https://open.spotify.com/playlist/3AugNB8FAKSRrkNJCc480c)
 
 > A collection of all things Austen, including audiobooks, poetry, and cinematic scores.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,233 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,235 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 59 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 |
 | 60 | [Hot In The City](https://open.spotify.com/track/71mHuudrRg9RBLxdx1ccOV) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/3NqodgW3niaCkYZ5ol6hMN) | 3:39 |
 
-Snapshot ID: `MTY0MTEwODcwNiwwMDAwMDAwMGJiZGIzYjcxMzNlMWMyZDNmYWZhZTg2MGJkOTRlY2My`
+Snapshot ID: `MTY0MTExMDE4MiwwMDAwMDAwMGJiZGIzYjcxMzNlMWMyZDNmYWZhZTg2MGJkOTRlY2My`

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E8LxY0mOH4jEX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E8LxY0mOH4jEX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E8LxY0mOH4jEX)
 
-### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
+### [24K Magic Radio](https://open.spotify.com/playlist/1BhMYZPvWoqkovqn1vMjMs)
 
-> With Bruno Mars, Anna Kendrick, Don Diablo, The Jackson 5 and more
+> With Bruno Mars, Frankie J, Christopher Mintz\-Plasse, Kunal Nayyar and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTWaD7ByJaBc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTWaD7ByJaBc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTWaD7ByJaBc)
 
-### [MNEK: Pride](https://open.spotify.com/playlist/37i9dQZF1DWTWaD7ByJaBc)
+### [MNEK: Pride](https://open.spotify.com/playlist/7FNb8qMTEz4C5RqBT9VZLB)
 
 > Artist, producer and writer behind many of your favourite songs makes his Pride selection for you.
 

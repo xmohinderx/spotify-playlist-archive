@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWULYh276RumE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWULYh276RumE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWULYh276RumE)
 
-### [This Is Miranda Lambert](https://open.spotify.com/playlist/37i9dQZF1DWULYh276RumE)
+### [This Is Miranda Lambert](https://open.spotify.com/playlist/7lHZN8enynMFl1NITvEJx7)
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 

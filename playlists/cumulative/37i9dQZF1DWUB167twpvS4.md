@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUB167twpvS4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUB167twpvS4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUB167twpvS4)
 
-### [Rockabilly Rebellion!](https://open.spotify.com/playlist/37i9dQZF1DWUB167twpvS4)
+### Rockabilly Rebellion!
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 

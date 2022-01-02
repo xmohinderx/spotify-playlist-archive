@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0611i4oGheJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0611i4oGheJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0611i4oGheJ)
 
-### [Soft + Slow](https://open.spotify.com/playlist/37i9dQZF1DX0611i4oGheJ)
+### [Soft + Slow](https://open.spotify.com/playlist/1IVOoA16apieUJxkNJzI8P)
 
 > Sweet gems to help you slow down and savor your day.
 

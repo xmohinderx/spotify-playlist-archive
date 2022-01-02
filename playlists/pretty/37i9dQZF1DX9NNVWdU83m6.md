@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 
 > A progressive fusion of jazz, rock and avant\-garde.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,531 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,532 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NNVWdU83m6.md) - [plain]
 | 49 | [Hazard Profile Part 5](https://open.spotify.com/track/3Wgry7XCJ7PPEovyaKWxza) | [Soft Machine](https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds) | [Bundles](https://open.spotify.com/album/0xC77HJHW6dHMGLxumSNAd) | 5:29 |
 | 50 | [Apostrophe'](https://open.spotify.com/track/0W7SzJd9YNDiEUxxeKGdTU) | [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Apostrophe\('\)](https://open.spotify.com/album/3EbtMJsHbspjhN6Xd4plIu) | 5:49 |
 
-Snapshot ID: `MTY0MTEwODY1MSwwMDAwMDAwMGRmODIxNjE4ODk0YjRmYWVkMjk4MmQzOGRmZGZmNWQ3`
+Snapshot ID: `MTY0MTExMDEzNiwwMDAwMDAwMGRmODIxNjE4ODk0YjRmYWVkMjk4MmQzOGRmZGZmNWQ3`

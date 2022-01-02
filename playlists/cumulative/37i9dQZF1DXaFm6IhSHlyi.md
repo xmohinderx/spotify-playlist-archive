@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaFm6IhSHlyi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaFm6IhSHlyi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaFm6IhSHlyi)
 
-### [Ballads International](https://open.spotify.com/playlist/37i9dQZF1DXaFm6IhSHlyi)
+### [Ballads International](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 

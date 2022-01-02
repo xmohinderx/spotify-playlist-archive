@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Ollie Wride, Ed Patrick, Handsome Ghost and more
+> With R.LUM.R, Hailaker, VICTORS and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 926 likes - 50 songs - 3 hr 12 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Hourglass](https://open.spotify.com/track/31l8OP9uLAGH5OxxrcGsoR) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Everything I Can't Say Out Loud](https://open.spotify.com/album/1nYPqwlYj2wMoZLlAymsjO) | 3:44 |
 | 50 | [Maybe, One Day](https://open.spotify.com/track/3FQquWL1AHJ8pO75e0MFkk) | [Hotel Apache](https://open.spotify.com/artist/2zKbqRqx22axcZA2mUw71Y) | [I'll Explain Later](https://open.spotify.com/album/4cWNuV3nsNGtOpBnX8LvFH) | 3:50 |
 
-Snapshot ID: `MTY0MTEwODc2NSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MTExMDIzOCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

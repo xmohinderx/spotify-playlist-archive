@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1YMPNuWL6BX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1YMPNuWL6BX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1YMPNuWL6BX)
 
-### [New Years 2022](https://open.spotify.com/playlist/37i9dQZF1DX1YMPNuWL6BX)
+### [New Years 2022](https://open.spotify.com/playlist/0FOSlqCnfdALNwKFgfiVNU)
 
 > Ring in 2022 with your favorite party tracks!
 

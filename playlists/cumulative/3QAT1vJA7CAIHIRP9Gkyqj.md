@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3QAT1vJA7CAIHIRP9Gkyqj.md) - cumulative - [plain](/playlists/plain/3QAT1vJA7CAIHIRP9Gkyqj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3QAT1vJA7CAIHIRP9Gkyqj)
 
-### [AMY](https://open.spotify.com/playlist/3QAT1vJA7CAIHIRP9Gkyqj)
+### [AMY](https://open.spotify.com/playlist/6y7kbLJDHi1PHbIs6WA2mW)
 
 > An inside look into the new Amy Winehouse biopic, featuring exclusive interview clips and top picks from director Asif Kapadia.
 

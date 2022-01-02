@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6sc3Xn6L2DK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6sc3Xn6L2DK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6sc3Xn6L2DK)
 
-### [Cosmic Country](https://open.spotify.com/playlist/37i9dQZF1DX6sc3Xn6L2DK)
+### Cosmic Country
 
 > Explore the stellar corners of the genre's expansive and marvelous universe.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5hnjEy2ZXUZcEcy8jT0Wiw.md) - cumulative - [plain](/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5hnjEy2ZXUZcEcy8jT0Wiw)
 
-### [Cyberpunk Synthwave](https://open.spotify.com/playlist/5hnjEy2ZXUZcEcy8jT0Wiw)
+### [Cyberpunk Synthwave](https://open.spotify.com/playlist/10LE5caoXHsd4rW9HJvqce)
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 

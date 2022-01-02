@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU3iv5mH3inV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU3iv5mH3inV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU3iv5mH3inV)
 
-### [República Dembow](https://open.spotify.com/playlist/37i9dQZF1DWU3iv5mH3inV)
+### [República Dembow](https://open.spotify.com/playlist/0M7kUlhLiJGAPIrDjqZTS6)
 
 > Prendete con tu lista favorita de Dembow\. Foto: Maffio, La Perversa & Yomel El Meloso.
 

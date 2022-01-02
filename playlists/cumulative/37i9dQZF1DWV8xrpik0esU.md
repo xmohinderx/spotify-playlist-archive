@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV8xrpik0esU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV8xrpik0esU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV8xrpik0esU)
 
-### [Easy 90s](https://open.spotify.com/playlist/37i9dQZF1DWV8xrpik0esU)
+### [Easy 90s](https://open.spotify.com/playlist/7fhSCJ8q7xulx4bYNQXkWm)
 
 > Relax with this soothing soundtrack from the nineties...
 

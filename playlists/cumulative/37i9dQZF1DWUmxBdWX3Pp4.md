@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUmxBdWX3Pp4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUmxBdWX3Pp4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUmxBdWX3Pp4)
 
-### [TRAPPERZ](https://open.spotify.com/playlist/37i9dQZF1DWUmxBdWX3Pp4)
+### [TRAPPERZ](https://open.spotify.com/playlist/0YPZzz15ohQLZmTK6LnsaM)
 
 > Éxitos del Trap Latino\. Foto: Eladio Carrion.
 

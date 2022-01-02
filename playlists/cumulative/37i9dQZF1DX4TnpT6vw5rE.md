@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4TnpT6vw5rE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4TnpT6vw5rE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4TnpT6vw5rE)
 
-### [Atmospheric Calm](https://open.spotify.com/playlist/37i9dQZF1DX4TnpT6vw5rE)
+### [Atmospheric Calm](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 

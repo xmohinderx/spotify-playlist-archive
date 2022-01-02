@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW7gj0FcGEx6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7gj0FcGEx6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW7gj0FcGEx6)
 
-### [Soundtracked](https://open.spotify.com/playlist/37i9dQZF1DWW7gj0FcGEx6)
+### [Soundtracked](https://open.spotify.com/playlist/7tcKdYvJjPXjbUrfTeCcQc)
 
 > The latest, greatest soundtracks from the big and small screen.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTggY0yqBxES.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTggY0yqBxES) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTggY0yqBxES)
 
-### [Alternative Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWTggY0yqBxES)
+### [Alternative Hip\-Hop](https://open.spotify.com/playlist/3GUaurvNAFOfKjIYaQKzVc)
 
 > New, leftfield and for the real hip\-hop stans! Cover: Aminé
 

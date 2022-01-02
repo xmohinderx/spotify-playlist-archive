@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1cJWWyylDuw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1cJWWyylDuw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1cJWWyylDuw)
 
-### [Deathcore](https://open.spotify.com/playlist/37i9dQZF1DX1cJWWyylDuw)
+### [Deathcore](https://open.spotify.com/playlist/4ZBLxm54bu7G3RGxe9bh9B)
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Paleface
 

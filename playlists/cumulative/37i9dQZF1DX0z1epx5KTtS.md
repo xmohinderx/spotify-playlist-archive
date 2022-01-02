@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0z1epx5KTtS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0z1epx5KTtS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0z1epx5KTtS)
 
-### [Coupe Decale](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
+### [Coupe Decale](https://open.spotify.com/playlist/05NUJhg2S8ET7TkDhLag5G)
 
 > African dance party music from Paris to Abidjan.
 

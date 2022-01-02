@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The pulse of the best music and sounds in Christian Hip Hop\.  Cover: Lecrae and 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,043 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,044 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [God Thing](https://open.spotify.com/track/2IteCPOu0uca1rbS6WIpRe) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Free Me](https://open.spotify.com/album/3vfQ8n48uKN1fuSvHhsJjJ) | 3:02 |
 | 80 | [Love Your Neighbor](https://open.spotify.com/track/3aCCPNjccDGxtvM78Y7s3F) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Love Your Neighbor](https://open.spotify.com/album/5uGAuqJwSFxtQDc0zZZV6f) | 3:29 |
 
-Snapshot ID: `MTY0MTEwODcxNCwwMDAwMDAwMDM4NTRjNDhlNmVhYzc0YzIyNzEyZDY0NjEzNDI5ODgz`
+Snapshot ID: `MTY0MTExMDE4OSwwMDAwMDAwMDM4NTRjNDhlNmVhYzc0YzIyNzEyZDY0NjEzNDI5ODgz`

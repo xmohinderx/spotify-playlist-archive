@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWXmRdYIgq8J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWXmRdYIgq8J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWXmRdYIgq8J)
 
-### [Pass The Chutney](https://open.spotify.com/playlist/37i9dQZF1DWWXmRdYIgq8J)
+### [Pass The Chutney](https://open.spotify.com/playlist/3hJwIKMOemzG50G9c6UeZn)
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 

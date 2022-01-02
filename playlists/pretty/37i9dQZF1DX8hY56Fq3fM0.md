@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,347 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,354 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hY56Fq3fM0.md) - [plain]
 | 99 | [Stars](https://open.spotify.com/track/3cV7urlavfJPXy4GXs7iTJ) | [Future Generations](https://open.spotify.com/artist/3wKj5PmSpnrtz9n9hG2QCA) | [Stars](https://open.spotify.com/album/3WEJC9bZbWxCE4em6tpCtX) | 3:53 |
 | 100 | [Charlemagne](https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 2:46 |
 
-Snapshot ID: `MTY0MTEwODYzOCwwMDAwMDAwMDZiNzg0MTRmNTkyODdiM2MwNjM1NTY4YWIwYThjOTZm`
+Snapshot ID: `MTY0MTExMDEyNCwwMDAwMDAwMDZiNzg0MTRmNTkyODdiM2MwNjM1NTY4YWIwYThjOTZm`

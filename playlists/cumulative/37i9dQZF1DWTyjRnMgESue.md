@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTyjRnMgESue.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTyjRnMgESue) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTyjRnMgESue)
 
-### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DWTyjRnMgESue)
+### [Today's Singer\-Songwriters](https://open.spotify.com/playlist/4XYhXRn3Q3oPGv6d3LNArS)
 
 > The best new songs from modern singer\-songwriters\. Cover: Jensen McRae
 

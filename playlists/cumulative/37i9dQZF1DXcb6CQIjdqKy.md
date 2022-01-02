@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcb6CQIjdqKy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcb6CQIjdqKy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcb6CQIjdqKy)
 
-### [Top Christian](https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy)
+### [Top Christian](https://open.spotify.com/playlist/08KuTqxhXigwBAuqdjqnNV)
 
 > The best mix of today's Christian music worldwide\.  Cover: Anne Wilson
 

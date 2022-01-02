@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSIcimvN18p3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSIcimvN18p3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSIcimvN18p3)
 
-### [Women of Folk](https://open.spotify.com/playlist/37i9dQZF1DWSIcimvN18p3)
+### [Women of Folk](https://open.spotify.com/playlist/189GjBlA83HumNay4qpApT)
 
 > Dive into the history of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie folk favorites\. Cover: The Staves
 

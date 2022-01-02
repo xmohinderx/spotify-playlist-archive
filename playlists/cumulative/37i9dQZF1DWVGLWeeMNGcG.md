@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVGLWeeMNGcG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVGLWeeMNGcG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVGLWeeMNGcG)
 
-### [Evolution Of Soul](https://open.spotify.com/playlist/37i9dQZF1DWVGLWeeMNGcG)
+### [Evolution Of Soul](https://open.spotify.com/playlist/3cK9yg3609ko0saEs1Ekc8)
 
 > From the past to the present, soul music has evolved into many different sounds and Motown has been at the forefront.
 

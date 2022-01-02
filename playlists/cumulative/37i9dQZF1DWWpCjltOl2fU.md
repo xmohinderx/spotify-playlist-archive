@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWpCjltOl2fU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWpCjltOl2fU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWpCjltOl2fU)
 
-### [EODM Play it Forward Campaign](https://open.spotify.com/playlist/37i9dQZF1DWWpCjltOl2fU)
+### [EODM Play it Forward Campaign](https://open.spotify.com/playlist/2L7aVeGOutWeuWMdh13tZ7)
 
 > Eagles Of Death Metal’s <a href="http://playitforwardeodm.com">Play It Forward Campaign</a> features new versions of the band’s “I Love You All The Time” by a bevy of their peers\. Play these tracks to support the victims of the Paris attacks\. Check out the amazing covers below and head to <a href="http://playitforwardeodm.com">http://playitforwardeodm.com</a> for more info.
 

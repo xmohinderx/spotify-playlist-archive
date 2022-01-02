@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY6vTWIdZ54A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY6vTWIdZ54A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY6vTWIdZ54A)
 
-### [Dirty Rock](https://open.spotify.com/playlist/37i9dQZF1DWY6vTWIdZ54A)
+### [Dirty Rock](https://open.spotify.com/playlist/5E2fDbkCcBNFcuPTDKHwKt)
 
 > Get down and dirty with these bluesy rock songs\. Cover: Royal Blood
 

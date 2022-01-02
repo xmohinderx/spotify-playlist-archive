@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX91UQmVbQYyN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX91UQmVbQYyN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX91UQmVbQYyN)
 
-### [Women of Indie](https://open.spotify.com/playlist/37i9dQZF1DX91UQmVbQYyN)
+### [Women of Indie](https://open.spotify.com/playlist/2LxnqPYAd4vz9nI21uWtgg)
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: FKA Twigs
 

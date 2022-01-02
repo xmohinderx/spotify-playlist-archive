@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > Dive into a mix of electric roots rock and folk\-infused alternative\. Cover: The Brook & The Bluff
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,420 likes - 120 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,421 likes - 120 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 119 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
 | 120 | [Leave Me Empty](https://open.spotify.com/track/5GFrgLaLMxGWaJevimSK2E) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:28 |
 
-Snapshot ID: `MTY0MTEwODY5MCwwMDAwMDAwMGUyMzg0N2IyODU1MzIwZWM0ODNmM2U4Yzc2ZTMyZjA5`
+Snapshot ID: `MTY0MTExMDE2NywwMDAwMDAwMGUyMzg0N2IyODU1MzIwZWM0ODNmM2U4Yzc2ZTMyZjA5`

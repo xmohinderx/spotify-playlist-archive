@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd9dy0tcoQft.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd9dy0tcoQft) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd9dy0tcoQft)
 
-### [Soul Food](https://open.spotify.com/playlist/37i9dQZF1DXd9dy0tcoQft)
+### [Soul Food](https://open.spotify.com/playlist/6eMPj9jP35FWVLCgA9Yvop)
 
 > Add some sweet soul music to your dinner\. Cover: Celeste.
 

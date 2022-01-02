@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 
 > The biggest songs of the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,229,189 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,229,203 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ejj0EkURtP.md) - [plain]
 | 149 | [What Lovers Do \(feat\. SZA\)](https://open.spotify.com/track/2j5hsQvApottzvTn4pFJWF) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:19 |
 | 150 | [Bad Romance](https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4) | 4:54 |
 
-Snapshot ID: `MTY0MTEwODU1NiwwMDAwMDAwMDdlOTgyMjE4YWQ1ZWY1MzI1MjI4OGQ4NTNhOTcwNGFh`
+Snapshot ID: `MTY0MTExMDA0NywwMDAwMDAwMDdlOTgyMjE4YWQ1ZWY1MzI1MjI4OGQ4NTNhOTcwNGFh`

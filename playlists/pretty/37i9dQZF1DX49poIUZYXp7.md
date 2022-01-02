@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\.  Cover: Tenille Arts
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,245 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,246 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 99 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 |
 | 100 | [Left Right](https://open.spotify.com/track/3kvb1ZEzH1dLIPD7ANcnP0) | [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e) | [Left Right](https://open.spotify.com/album/1TEKEo4qFQyyaqIdmVDP0n) | 2:54 |
 
-Snapshot ID: `MTY0MTEwODUyOCwwMDAwMDAwMDNhOGEwM2MzMDdiZTRmOTgyZTYwNzhmMmRjYjU3Nzll`
+Snapshot ID: `MTY0MTExMDAyMCwwMDAwMDAwMDNhOGEwM2MzMDdiZTRmOTgyZTYwNzhmMmRjYjU3Nzll`

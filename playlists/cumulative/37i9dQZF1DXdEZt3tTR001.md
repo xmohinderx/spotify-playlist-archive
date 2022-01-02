@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdEZt3tTR001.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdEZt3tTR001) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdEZt3tTR001)
 
-### [Floating](https://open.spotify.com/playlist/37i9dQZF1DXdEZt3tTR001)
+### [Floating](https://open.spotify.com/playlist/2P37iN5jM6fBGSmKRtbrBn)
 
 > Lay back\. Chill out.
 

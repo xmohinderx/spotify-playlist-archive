@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,228 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,229 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Antidote](https://open.spotify.com/track/03tfJrJnABx6brnvr3Xx0J) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [Antidote](https://open.spotify.com/album/0eOsunWjriXq4GG0es0Uon) | 3:37 |
 | 100 | [Fools Gold](https://open.spotify.com/track/75I4SRz1GyCMESTilmJRTo) | [Finding September](https://open.spotify.com/artist/5LiYZfBK8DDscUygtEzJo9) | [Fools Gold](https://open.spotify.com/album/1TLzeGPpuKPeuIX7f1ZLsB) | 3:44 |
 
-Snapshot ID: `MTY0MTEwODUxNywwMDAwMDAwMGI4YzUxMzNiNDQzMzJjZWMzYzFiNTdmZGIxYzZlZWNm`
+Snapshot ID: `MTY0MTExMDAwOSwwMDAwMDAwMGI4YzUxMzNiNDQzMzJjZWMzYzFiNTdmZGIxYzZlZWNm`

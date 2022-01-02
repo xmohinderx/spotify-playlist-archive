@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Weather Strike](https://open.spotify.com/track/7o2Vk2ozntHju6LqFsXMjc) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Weather Strike](https://open.spotify.com/album/5eEafds3DN8BfUNkojLR9Q) | 3:31 |
 | 75 | [Blood / / Water](https://open.spotify.com/track/1rFAG22RkvaM6BlpWQoZ47) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Blood / / Water](https://open.spotify.com/album/3XqbSGmm923aESZ9tVzg3b) | 3:36 |
 
-Snapshot ID: `MTY0MTEwODQzOCwwMDAwMDAwMDkyMmQ1MjY1YzcyZDM2NTMwNDk4NzZiNDI4YmU5ODNi`
+Snapshot ID: `MTY0MTEwOTkzNSwwMDAwMDAwMDkyMmQ1MjY1YzcyZDM2NTMwNDk4NzZiNDI4YmU5ODNi`

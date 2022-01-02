@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,117,350 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,117,354 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Curse of the Pharaohs](https://open.spotify.com/track/2H4Uh7c159cJBmrbekZFFe) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/2csZMxSEbMiDhiaZuEeuuv) | 3:57 |
 | 125 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
 
-Snapshot ID: `MTY0MTEwODQ4NywwMDAwMDAwMGIyMmVjZTkxZDZiNDYxOTg4MDA2YmM2NmJiMDNhZGRm`
+Snapshot ID: `MTY0MTEwOTk4MCwwMDAwMDAwMGIyMmVjZTkxZDZiNDYxOTg4MDA2YmM2NmJiMDNhZGRm`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2KSySxa7iudjK0IsgFxuaW.md) - cumulative - [plain](/playlists/plain/2KSySxa7iudjK0IsgFxuaW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2KSySxa7iudjK0IsgFxuaW)
 
-### [We Love Elmo!](https://open.spotify.com/playlist/2KSySxa7iudjK0IsgFxuaW)
+### [We Love Elmo!](https://open.spotify.com/playlist/4c5m06jiFi2ltPH1L1dZWY)
 
 > It's Elmo's time to shine!
 

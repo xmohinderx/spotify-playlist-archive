@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWTuLtC3XxmA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWTuLtC3XxmA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWTuLtC3XxmA)
 
-### [Contemporary Christmas](https://open.spotify.com/playlist/37i9dQZF1DWWTuLtC3XxmA)
+### [Contemporary Christmas](https://open.spotify.com/playlist/7cn8GzbNCrgnadfJ65Q1Jc)
 
 > A collection of traditional carols and new classics by the biggest, brightest stars! Cover: Kristin Chenoweth
 

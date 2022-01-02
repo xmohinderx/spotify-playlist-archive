@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5FuBDzVtEFX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5FuBDzVtEFX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5FuBDzVtEFX)
 
-### [Hawaiian Dreams](https://open.spotify.com/playlist/37i9dQZF1DX5FuBDzVtEFX)
+### [Hawaiian Dreams](https://open.spotify.com/playlist/5kx3r9YtSZYk38uX4TbE3b)
 
 > Kick back to the soothing sounds of the Ukulele...
 

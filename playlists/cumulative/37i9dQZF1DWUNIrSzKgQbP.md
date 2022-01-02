@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUNIrSzKgQbP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUNIrSzKgQbP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUNIrSzKgQbP)
 
-### [Winter Acoustic](https://open.spotify.com/playlist/37i9dQZF1DWUNIrSzKgQbP)
+### [Winter Acoustic](https://open.spotify.com/playlist/6f2fRrWXytPodYUZb5jkNk)
 
 > acoustic songs for the season.
 

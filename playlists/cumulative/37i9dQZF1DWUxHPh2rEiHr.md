@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUxHPh2rEiHr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUxHPh2rEiHr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUxHPh2rEiHr)
 
-### [Global X](https://open.spotify.com/playlist/37i9dQZF1DWUxHPh2rEiHr)
+### [Global X](https://open.spotify.com/playlist/6qZ86PrcY4XIZq7R01HhHo)
 
 > The sound of a new era\. Discover rhythmic crossover hits from cultures around the world! Cover: Fireboy DML
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,078 likes - 110 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,081 likes - 110 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Never Surrender](https://open.spotify.com/track/4qdjWOHbHdRxWT3JJ4tpfW) | [Dante Hart](https://open.spotify.com/artist/5ZUAJ4QVAKFlnqGh31i7o6) | [Never Surrender](https://open.spotify.com/album/3fzEZMNKVPO9ty8QPg0cH9) | 3:48 |
 | 110 | [Memphis Sessions: Stop Draggin' My Heart Around](https://open.spotify.com/track/7jRzholDH9k7zOYgz7BAjZ) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [Memphis Sessions: Stop Draggin' My Heart Around](https://open.spotify.com/album/7kBKKGbgTGNwpJvxn1M8Gu) | 4:49 |
 
-Snapshot ID: `MTY0MTEwODMwMCwwMDAwMDAwMDgzMGVkNGQ4MTNiM2M1YjViODFjYzA2ZDE0OGUyYWMz`
+Snapshot ID: `MTY0MTEwOTgwNCwwMDAwMDAwMDgzMGVkNGQ4MTNiM2M1YjViODFjYzA2ZDE0OGUyYWMz`

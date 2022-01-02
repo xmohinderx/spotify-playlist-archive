@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3w9f3pg1Dyc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3w9f3pg1Dyc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3w9f3pg1Dyc)
 
-### [This is: Cher](https://open.spotify.com/playlist/37i9dQZF1DX3w9f3pg1Dyc)
+### [This is: Cher](https://open.spotify.com/playlist/2GTbD89asjyo9F25PyVrQ4)
 
 > Cher's most essential tracks, all in one playlist.
 

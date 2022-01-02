@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 
 > The ultimate playlist to fuel your good mood while on the road.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,450,530 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,450,554 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wC1KY45plY.md) - [plain]
 | 99 | [Stone in Love](https://open.spotify.com/track/4cgSBnNzOo9rhwzUczB7HI) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:25 |
 | 100 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 |
 
-Snapshot ID: `MTY0MTEwODY2OCwwMDAwMDAwMDU1YTY2OTdlYWZhMGYwMjZlNzU2MTBmOWY5MmM0YTQz`
+Snapshot ID: `MTY0MTExMDE0NiwwMDAwMDAwMDU1YTY2OTdlYWZhMGYwMjZlNzU2MTBmOWY5MmM0YTQz`

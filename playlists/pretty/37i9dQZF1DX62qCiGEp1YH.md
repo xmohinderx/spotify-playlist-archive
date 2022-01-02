@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 
 > Embrace the mood of the season with harmonious, comforting songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,912 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,911 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62qCiGEp1YH.md) - [plain]
 | 99 | [Summer's Gone](https://open.spotify.com/track/6PmhCEPMjhSo9j8hz767xy) | [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Summer's Gone](https://open.spotify.com/album/0OsygaGp6HUB4fmdPPgQOh) | 3:24 |
 | 100 | [The Scientist](https://open.spotify.com/track/2LTl1pU074hnzAdy0SpHAb) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [The Scientist](https://open.spotify.com/album/4FtNaWzjhO9OXCRFEsSmuI) | 5:11 |
 
-Snapshot ID: `MTY0MTEwODU3OCwwMDAwMDAwMGMxZGNlYTAwM2JiMzY5ZGE3ZWY0ODFiOTZiOGM1NjQy`
+Snapshot ID: `MTY0MTExMDA2OCwwMDAwMDAwMGMxZGNlYTAwM2JiMzY5ZGE3ZWY0ODFiOTZiOGM1NjQy`

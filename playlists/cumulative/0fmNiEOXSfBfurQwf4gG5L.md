@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0fmNiEOXSfBfurQwf4gG5L.md) - cumulative - [plain](/playlists/plain/0fmNiEOXSfBfurQwf4gG5L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0fmNiEOXSfBfurQwf4gG5L)
 
-### [Best of 2016: Folk & Americana](https://open.spotify.com/playlist/0fmNiEOXSfBfurQwf4gG5L)
+### [Best of 2016: Folk & Americana](https://open.spotify.com/playlist/2tiky73cMbGaqQ9N68uuh9)
 
 > Take a look back on some of the year's top tracks in roots music\. We'll be adding more of your favorites throughout December\. \#SpotifyFolk2016
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6OgmB2fwLGd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6OgmB2fwLGd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6OgmB2fwLGd)
 
-### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
+### [Internet People](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 > The soundtrack to the Internet\. Cover: yvngxchris
 

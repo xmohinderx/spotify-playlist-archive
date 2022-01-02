@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5D4gDh3HAsM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5D4gDh3HAsM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5D4gDh3HAsM)
 
-### [Christmas Jazz](https://open.spotify.com/playlist/37i9dQZF1DX5D4gDh3HAsM)
+### [Christmas Jazz](https://open.spotify.com/playlist/12HWYiTUQkdIKRtyDC4XH7)
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 

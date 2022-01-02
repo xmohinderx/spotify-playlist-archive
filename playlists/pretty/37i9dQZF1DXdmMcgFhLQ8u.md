@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 
 > These country songs know exactly how you feel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,381 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,382 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmMcgFhLQ8u.md) - [plain]
 | 74 | [Break Up In A Small Town](https://open.spotify.com/track/7aftSOGSOpSoIlVAQVBb71) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:49 |
 | 75 | [Think About Me](https://open.spotify.com/track/0onq6klC19tB7MT54gob65) | [Maggie Baugh](https://open.spotify.com/artist/4E82Kdena6yf0reUDRzbvW) | [Think About Me](https://open.spotify.com/album/0PRgtSEi8WEu8AHNNFNK9d) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODc1MiwwMDAwMDAwMDNkZjU4N2EyMzk5ZDU5NTdkZmVlNjQ0OThmZTcxNmM4`
+Snapshot ID: `MTY0MTExMDIyNSwwMDAwMDAwMDNkZjU4N2EyMzk5ZDU5NTdkZmVlNjQ0OThmZTcxNmM4`

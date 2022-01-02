@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9HeUXWsJonl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9HeUXWsJonl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9HeUXWsJonl)
 
-### [Tunisia Sounds](https://open.spotify.com/playlist/37i9dQZF1DX9HeUXWsJonl)
+### [Tunisia Sounds](https://open.spotify.com/playlist/62mwpd1Oiz7ftZFyQ4kKDf)
 
 > The sweet sounds of Tunisia.
 

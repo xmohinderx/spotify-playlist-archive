@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZCkamcYMQkz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZCkamcYMQkz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZCkamcYMQkz)
 
-### [Feel Good Jazz](https://open.spotify.com/playlist/37i9dQZF1DWZCkamcYMQkz)
+### [Feel Good Jazz](https://open.spotify.com/playlist/4rHMKSAEVjnyNAUi0PpYVv)
 
 > Uplifting jazz to get you in good mood.
 

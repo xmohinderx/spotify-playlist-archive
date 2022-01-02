@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTD6JPQU0gqz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTD6JPQU0gqz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTD6JPQU0gqz)
 
-### [Orgullo Afro\-Latino](https://open.spotify.com/playlist/37i9dQZF1DWTD6JPQU0gqz)
+### [Orgullo Afro\-Latino](https://open.spotify.com/playlist/7oLsX7IwgiSOJmGxuJ1YL5)
 
 > Black lives and voices matter\. Cover: Ibeyi
 

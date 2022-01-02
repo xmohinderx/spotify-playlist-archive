@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4nNVfQ9eWidZXkBKZN5li4.md) - cumulative - [plain](/playlists/plain/4nNVfQ9eWidZXkBKZN5li4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4nNVfQ9eWidZXkBKZN5li4)
 
-### [Bollywood Top 50](https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4)
+### [Bollywood Top 50](https://open.spotify.com/playlist/3m6HEtseDvxtZu3t98ztrI)
 
 > Get on top of Bollywood's newest and all time hits \- Raataan Lambiyan and Ranjha from Shershaah, Param Sundari, Shayad,  Channa Mereya and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and many more\. Listen to Bollywood's best only on this playlist!
 

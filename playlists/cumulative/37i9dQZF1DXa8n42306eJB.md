@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa8n42306eJB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa8n42306eJB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa8n42306eJB)
 
-### [Reggae Party](https://open.spotify.com/playlist/37i9dQZF1DXa8n42306eJB)
+### [Reggae Party](https://open.spotify.com/playlist/5mjM1Y8WNUCGGkDhXj1uoY)
 
 > Good vibes for good times!
 

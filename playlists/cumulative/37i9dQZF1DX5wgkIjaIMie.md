@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5wgkIjaIMie.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5wgkIjaIMie) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5wgkIjaIMie)
 
-### [Good Feeling 10s](https://open.spotify.com/playlist/37i9dQZF1DX5wgkIjaIMie)
+### [Good Feeling 10s](https://open.spotify.com/playlist/4gviwYyodXKk9b2KWJpfqt)
 
 > Feel on top of the world with these uplifting anthems of the 10s
 

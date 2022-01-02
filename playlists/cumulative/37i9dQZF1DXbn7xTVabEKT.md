@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbn7xTVabEKT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbn7xTVabEKT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbn7xTVabEKT)
 
-### [Opera Divas](https://open.spotify.com/playlist/37i9dQZF1DXbn7xTVabEKT)
+### [Opera Divas](https://open.spotify.com/playlist/0JSjyO6pGv5itGZXaI5kGa)
 
 > Your favorite arias, performed by legendary opera divas.
 

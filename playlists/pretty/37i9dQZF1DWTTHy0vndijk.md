@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUNG HA\(청하\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,123 likes - 57 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,131 likes - 57 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 56 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 |
 | 57 | [ONION \(feat\. Suk Hoon Chang\)](https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge) | [MIN](https://open.spotify.com/artist/7bQyiBFr2PtSTJ6WFBJCOe), [Suk Hoon Chang](https://open.spotify.com/artist/3kR0K5YzUmjDHQbh3W8zaW) | [ONION](https://open.spotify.com/album/2OqY8Ykt2djgjzszye4ahM) | 3:42 |
 
-Snapshot ID: `MTY0MTEwODI5OSwwMDAwMDAwMGJmZTc1NmJlZDg3YTEyZjg5ZTNmMTY0MzA4MWI3M2U1`
+Snapshot ID: `MTY0MTEwOTgwMiwwMDAwMDAwMGJmZTc1NmJlZDg3YTEyZjg5ZTNmMTY0MzA4MWI3M2U1`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXMEbgClM8hw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXMEbgClM8hw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXMEbgClM8hw)
 
-### [All About That Brass](https://open.spotify.com/playlist/37i9dQZF1DWXMEbgClM8hw)
+### [All About That Brass](https://open.spotify.com/playlist/4bWGU7foJ6Q4XuFvZpob2L)
 
 > A 50\-track collection of the best brass band pieces in <a href="http://open.spotify.com/genre/classical">classical</a> music, from Fanfares For The Common Men, to dozens of brilliant 20/21 century works in the ever expanding repertoire\. Also follow: <a href="spotify:user:spotify:playlist:28dKgWKUcZ6HKUmav0jQ1w">wind symphoy playlist</a>.
 

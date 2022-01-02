@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1W2XJETQjFYdzT4GuhBHmS.md) - cumulative - [plain](/playlists/plain/1W2XJETQjFYdzT4GuhBHmS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1W2XJETQjFYdzT4GuhBHmS)
 
-### [More Banjo!](https://open.spotify.com/playlist/1W2XJETQjFYdzT4GuhBHmS)
+### [More Banjo!](https://open.spotify.com/playlist/7rUIVYAViY0wltRYMwNU1O)
 
 > This playlist is perfect for when you've got a fever..\. and the only prescription is more banjo!
 

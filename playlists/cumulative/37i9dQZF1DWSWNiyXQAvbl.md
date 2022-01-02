@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWNiyXQAvbl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWNiyXQAvbl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWNiyXQAvbl)
 
-### [Easy 70s](https://open.spotify.com/playlist/37i9dQZF1DWSWNiyXQAvbl)
+### [Easy 70s](https://open.spotify.com/playlist/1j6y24QJbO6bcvnAQKeXAM)
 
 > Ease back in time with the help of these seventies classics...
 

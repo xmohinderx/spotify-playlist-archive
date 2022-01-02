@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: EVERGLOW\(에버글로우\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 738,157 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 738,160 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 | 49 | [Moonshot](https://open.spotify.com/track/17wECh3CzqeHm48pqm544P) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Man on the Moon](https://open.spotify.com/album/3sdVDRppHe8ygY7b1NgW7T) | 3:00 |
 | 50 | [Rollin' \(New Version\)](https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin' \(New Version\)](https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw) | 3:21 |
 
-Snapshot ID: `MTY0MTEwODUzMywwMDAwMDAwMDEzMzUwYjc1M2RiNjliYWNhMTA2MTMxOTM1ZWFlNzMw`
+Snapshot ID: `MTY0MTExMDAyNSwwMDAwMDAwMDEzMzUwYjc1M2RiNjliYWNhMTA2MTMxOTM1ZWFlNzMw`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4Buj61XKuhfVLsW8rPX8YQ.md) - cumulative - [plain](/playlists/plain/4Buj61XKuhfVLsW8rPX8YQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4Buj61XKuhfVLsW8rPX8YQ)
 
-### [Get Happy!](https://open.spotify.com/playlist/4Buj61XKuhfVLsW8rPX8YQ)
+### [Get Happy!](https://open.spotify.com/playlist/2czYfooQOw5pkN5XDlDCvu)
 
 > 100+ of the happiest songs of all time\. Come on, Get Happy!
 

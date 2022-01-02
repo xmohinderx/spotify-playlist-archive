@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,657 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,656 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 49 | [Blue](https://open.spotify.com/track/3XtKluN0ce1EjiAax8HFw8) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Still Life \- EP](https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i) | 5:36 |
 | 50 | [Sunsets For Somebody Else](https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [All The Light Above It Too](https://open.spotify.com/album/1a15dDOiwz5ebSxk1ZeFB5) | 3:30 |
 
-Snapshot ID: `MTY0MTEwODUxOCwwMDAwMDAwMGVjMGMyZmY2ODI5ZjI5YzhjOGU5MTE0MTgwZWMzYzMz`
+Snapshot ID: `MTY0MTExMDAxMSwwMDAwMDAwMGVjMGMyZmY2ODI5ZjI5YzhjOGU5MTE0MTgwZWMzYzMz`

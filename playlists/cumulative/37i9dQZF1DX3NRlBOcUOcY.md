@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3NRlBOcUOcY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3NRlBOcUOcY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3NRlBOcUOcY)
 
-### [Buenas Vibras](https://open.spotify.com/playlist/37i9dQZF1DX3NRlBOcUOcY)
+### [Buenas Vibras](https://open.spotify.com/playlist/65W7noKWJz6wRjaNS6ZonA)
 
 > Good vibes only! Aquí solo hay buena vibra.
 

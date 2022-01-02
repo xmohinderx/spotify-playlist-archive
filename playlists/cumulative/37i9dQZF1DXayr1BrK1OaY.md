@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXayr1BrK1OaY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXayr1BrK1OaY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXayr1BrK1OaY)
 
-### [crying on the dance floor](https://open.spotify.com/playlist/37i9dQZF1DXayr1BrK1OaY)
+### [crying on the dance floor](https://open.spotify.com/playlist/0U0cw4q8cHAIGrBJksfsst)
 
 > let the dj set u free
 

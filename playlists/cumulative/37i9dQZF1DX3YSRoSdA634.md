@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3YSRoSdA634.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3YSRoSdA634) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3YSRoSdA634)
 
-### [Life Sucks](https://open.spotify.com/playlist/37i9dQZF1DX3YSRoSdA634)
+### [Life Sucks](https://open.spotify.com/playlist/0iRqQtZmXRENyabIb889yH)
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVstK6FYh8Nw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVstK6FYh8Nw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVstK6FYh8Nw)
 
-### [This Is Future](https://open.spotify.com/playlist/37i9dQZF1DWVstK6FYh8Nw)
+### [This Is Future](https://open.spotify.com/playlist/27sOtYUQ1yZF2n6yJ4ByAM)
 
 > The Atlanta\-born <a href="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i">rapper</a>'s dopest songs plus his latest bangers.
 

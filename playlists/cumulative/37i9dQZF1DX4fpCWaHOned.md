@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4fpCWaHOned.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4fpCWaHOned) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4fpCWaHOned)
 
-### [Confidence Boost](https://open.spotify.com/playlist/37i9dQZF1DX4fpCWaHOned)
+### [Confidence Boost](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
 
 > You're on top of the world\. Don't forget it.
 

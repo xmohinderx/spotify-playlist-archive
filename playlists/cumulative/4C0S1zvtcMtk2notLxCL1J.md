@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4C0S1zvtcMtk2notLxCL1J.md) - cumulative - [plain](/playlists/plain/4C0S1zvtcMtk2notLxCL1J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4C0S1zvtcMtk2notLxCL1J)
 
-### [Grand Hustle Gang Spotify Picks](https://open.spotify.com/playlist/4C0S1zvtcMtk2notLxCL1J)
+### [Grand Hustle Gang Spotify Picks](https://open.spotify.com/playlist/2MXXpOt5KV8sj3SVzLM9ju)
 
 > Grand Hustle Gang top picks chosen by Spotify.
 

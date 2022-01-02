@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWhtNzColB0d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWhtNzColB0d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWhtNzColB0d)
 
-### [French Literature](https://open.spotify.com/playlist/37i9dQZF1DWWhtNzColB0d)
+### [French Literature](https://open.spotify.com/playlist/67UqipP6gxXp3CPZt0TT7Q)
 
 > Flaubert, Hugo, Balzac, Dumas, Stendhal, Maupassant..\. audio versions of classic French novels and short stories.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKypXHVwk1f0.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKypXHVwk1f0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKypXHVwk1f0)
 
-### [Top 50 \- Panama](https://open.spotify.com/playlist/37i9dQZEVXbKypXHVwk1f0)
+### [Top 50 \- Panama](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 > Your daily update of the most played tracks right now \- Panama.
 

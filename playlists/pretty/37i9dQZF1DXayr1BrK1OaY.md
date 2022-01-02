@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,610 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,611 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
 | 75 | [Pure](https://open.spotify.com/track/6OXnL79ZUpY7zsp01yU0q4) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Anjunadeep Explorations 13](https://open.spotify.com/album/6aqRlhEmzmujvXb7EF4pd4) | 3:22 |
 
-Snapshot ID: `MTY0MTEwODY5MiwwMDAwMDAwMDhjMTAyNWExODg1M2FjMGUyZWUwMTMxYjY0YmUyY2M4`
+Snapshot ID: `MTY0MTExMDE2OSwwMDAwMDAwMDhjMTAyNWExODg1M2FjMGUyZWUwMTMxYjY0YmUyY2M4`

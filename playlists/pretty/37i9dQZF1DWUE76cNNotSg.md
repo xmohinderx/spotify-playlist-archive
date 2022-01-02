@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,377 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,376 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [WHERE'D MY EYES GO?](https://open.spotify.com/track/7u3kxFpkTQnXKlWH1r34G5) | [SAVI MINDS](https://open.spotify.com/artist/2PPIKWhRLKnWL4HTip0Osd) | [WHERE'D MY EYES GO?](https://open.spotify.com/album/543YsCG0oQR7Y0t3qtqsQB) | 5:53 |
 | 80 | [Party Theme \(Bout De Toi Remix\)](https://open.spotify.com/track/3vmCx7SgEJOlP2zBrTHwfY) | [Anemone](https://open.spotify.com/artist/6lAzHFVXFnFOc3AsBlDffR) | [Baby Only You & I](https://open.spotify.com/album/0aYWd7r5nfkUxAGTRUHfBy) | 2:59 |
 
-Snapshot ID: `MTY0MTEwODMxNCwwMDAwMDAwMDMzMWRlZTU3N2ZiNWQ2NmI4YTMwYWY3N2MyMTc3Yjlh`
+Snapshot ID: `MTY0MTEwOTgxNiwwMDAwMDAwMDMzMWRlZTU3N2ZiNWQ2NmI4YTMwYWY3N2MyMTc3Yjlh`

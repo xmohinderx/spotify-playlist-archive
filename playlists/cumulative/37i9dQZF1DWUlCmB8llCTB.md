@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUlCmB8llCTB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUlCmB8llCTB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUlCmB8llCTB)
 
-### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
+### [Perreo City](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
 > Esto es un perreo a lo..\. Feid & Karol G.
 

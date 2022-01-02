@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT2jS7NwYPVI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT2jS7NwYPVI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT2jS7NwYPVI)
 
-### [New Noise](https://open.spotify.com/playlist/37i9dQZF1DWT2jS7NwYPVI)
+### [New Noise](https://open.spotify.com/playlist/28qfe2Gbg56ekPQjcdpZuC)
 
 > Here's your cheat sheet for everything on the rise in the rock/alt world\. Cover: The Mysterines
 

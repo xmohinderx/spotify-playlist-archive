@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4yLn8TpmS3h.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4yLn8TpmS3h) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4yLn8TpmS3h)
 
-### [Years & Years: Pride](https://open.spotify.com/playlist/37i9dQZF1DX4yLn8TpmS3h)
+### [Years & Years: Pride](https://open.spotify.com/playlist/5wAeuR8WQRbZzkCM3Rieuk)
 
 > Drawing from R&B, indie, pop, and more, the electropop act’s singer Olly Alexander shines a light on LGBTQIA+ artists that inspire.
 

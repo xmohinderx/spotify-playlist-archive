@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYLoJq8d80ds.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYLoJq8d80ds) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYLoJq8d80ds)
 
-### [Lunas de Folklore](https://open.spotify.com/playlist/37i9dQZF1DWYLoJq8d80ds)
+### [Lunas de Folklore](https://open.spotify.com/playlist/4jV8thGCLiOJDMuDg71WqM)
 
 > ¡Adentro! Lo mejor del folklore argentino para bailar hasta el amanecer\. Foto: Los del Portezuelo.
 

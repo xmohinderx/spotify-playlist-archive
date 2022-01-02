@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0ByLkBLDx1AS5yXJuBTyCd.md) - cumulative - [plain](/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0ByLkBLDx1AS5yXJuBTyCd)
 
-### [World Folk](https://open.spotify.com/playlist/0ByLkBLDx1AS5yXJuBTyCd)
+### [World Folk](https://open.spotify.com/playlist/4Thw0013FxwwpeOiArYjdf)
 
 > Travel the world through sound – with indie and traditional folk and acoustic from across the globe.
 

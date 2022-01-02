@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWDLvD3P5wOG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWDLvD3P5wOG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWDLvD3P5wOG)
 
-### [Dancehall Throwback](https://open.spotify.com/playlist/37i9dQZF1DWWDLvD3P5wOG)
+### [Dancehall Throwback](https://open.spotify.com/playlist/3PPxIsGiR2XzxbMKPVmBN3)
 
 > Throwbacks you can catch a wine to.
 

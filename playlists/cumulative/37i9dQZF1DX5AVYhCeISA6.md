@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5AVYhCeISA6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5AVYhCeISA6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5AVYhCeISA6)
 
-### [Inspiring Latinas](https://open.spotify.com/playlist/37i9dQZF1DX5AVYhCeISA6)
+### [Inspiring Latinas](https://open.spotify.com/playlist/0wabUxwXgd1HFD7zingsRM)
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Maria Becerra, Becky G
 

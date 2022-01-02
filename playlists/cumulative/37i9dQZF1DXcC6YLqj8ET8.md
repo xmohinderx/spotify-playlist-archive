@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcC6YLqj8ET8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcC6YLqj8ET8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcC6YLqj8ET8)
 
-### [Arabic Trap](https://open.spotify.com/playlist/37i9dQZF1DXcC6YLqj8ET8)
+### [Arabic Trap](https://open.spotify.com/playlist/47hjr70tGR1mvbCMqz6RSX)
 
 > Electronic Trap House with Arab spices.
 

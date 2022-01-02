@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7nt6DdNdydo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7nt6DdNdydo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7nt6DdNdydo)
 
-### [Jump Blues](https://open.spotify.com/playlist/37i9dQZF1DX7nt6DdNdydo)
+### [Jump Blues](https://open.spotify.com/playlist/7eNWLYzzmPCUn53rpZv8b8)
 
 > Where swing meets blues.
 

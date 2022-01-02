@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7rqPov2ZRCB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7rqPov2ZRCB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7rqPov2ZRCB)
 
-### [Merengue Típico](https://open.spotify.com/playlist/37i9dQZF1DX7rqPov2ZRCB)
+### [Merengue Típico](https://open.spotify.com/playlist/2kyJb17WIqLunrqe9YytYt)
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 

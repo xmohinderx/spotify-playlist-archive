@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8ZxAQJCANsW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8ZxAQJCANsW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8ZxAQJCANsW)
 
-### [Always Perfect](https://open.spotify.com/playlist/37i9dQZF1DX8ZxAQJCANsW)
+### [Always Perfect](https://open.spotify.com/playlist/4bCnXDDkJHNRPIitsHY1SA)
 
 > The perfect blend of songs, old and new, for around\-the\-clock listening.
 

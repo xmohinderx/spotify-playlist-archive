@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4jUyNIMkj6N.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4jUyNIMkj6N) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4jUyNIMkj6N)
 
-### [Nordic Folk](https://open.spotify.com/playlist/37i9dQZF1DX4jUyNIMkj6N)
+### [Nordic Folk](https://open.spotify.com/playlist/7tEIBkzo4kHvFj89vdjHtz)
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana\. Cover: The Northern Belle
 

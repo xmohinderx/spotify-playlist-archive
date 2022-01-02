@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYl3xONiBhif.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYl3xONiBhif) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYl3xONiBhif)
 
-### [This Is El Alfa](https://open.spotify.com/playlist/37i9dQZF1DWYl3xONiBhif)
+### [This Is El Alfa](https://open.spotify.com/playlist/3ryvLS29Jmz6xZGwGfUWOW)
 
 > Todo lo nuevo y lo esencial de El Alfa.
 

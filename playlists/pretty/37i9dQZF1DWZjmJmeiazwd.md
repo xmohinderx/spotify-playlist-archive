@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game, this is 10+ hours of the best in Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,869 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,871 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 149 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
 | 150 | [Kryptonite](https://open.spotify.com/track/3bbUkaQYGQHkx1TJi7gPSL) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [The Better Life \- Deluxe Edition](https://open.spotify.com/album/6P77jds0hG6gVzUuIQVj7E) | 3:53 |
 
-Snapshot ID: `MTY0MTEwODQyNCwwMDAwMDAwMGYxZjc0NTAxOTAzNGI3OGFkOWNhZmE1YjlmNTMwNmE3`
+Snapshot ID: `MTY0MTEwOTkyMiwwMDAwMDAwMGYxZjc0NTAxOTAzNGI3OGFkOWNhZmE1YjlmNTMwNmE3`

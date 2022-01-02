@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6r0dNjQD0WUHKs1gpMvpLk.md) - cumulative - [plain](/playlists/plain/6r0dNjQD0WUHKs1gpMvpLk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6r0dNjQD0WUHKs1gpMvpLk)
 
-### [JIRMP](https://open.spotify.com/playlist/6r0dNjQD0WUHKs1gpMvpLk)
+### [JIRMP](https://open.spotify.com/playlist/2I7bkr0EJgtS8NXTVTftb9)
 
 > 
 

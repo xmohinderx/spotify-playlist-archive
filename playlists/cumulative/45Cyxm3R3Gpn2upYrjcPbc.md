@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/45Cyxm3R3Gpn2upYrjcPbc.md) - cumulative - [plain](/playlists/plain/45Cyxm3R3Gpn2upYrjcPbc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/45Cyxm3R3Gpn2upYrjcPbc)
 
-### [Happy Birthday Kanye!](https://open.spotify.com/playlist/45Cyxm3R3Gpn2upYrjcPbc)
+### [Happy Birthday Kanye!](https://open.spotify.com/playlist/7s7gYqiaMVahGb4xGb8ASp)
 
 > 
 

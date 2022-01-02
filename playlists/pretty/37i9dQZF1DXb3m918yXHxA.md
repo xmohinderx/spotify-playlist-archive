@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,603 likes - 75 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,608 likes - 75 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [I Gotta Try](https://open.spotify.com/track/0qnfAVtzFPY0pOGYpTkZeY) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:55 |
 | 75 | [JoJo](https://open.spotify.com/track/4mGDtUyNxu4ZDqwMAwHh1Q) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Hits!](https://open.spotify.com/album/5uniuttzg7zsjDvqmvvyDU) | 5:52 |
 
-Snapshot ID: `MTY0MTEwODY5NCwwMDAwMDAwMGJkMDljMjI1NmE4ODhkMWU1NmUzZTkzOTJlYTc0ZGNj`
+Snapshot ID: `MTY0MTExMDE3MSwwMDAwMDAwMGJkMDljMjI1NmE4ODhkMWU1NmUzZTkzOTJlYTc0ZGNj`

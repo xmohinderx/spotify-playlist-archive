@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX09NvEVpeM77.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX09NvEVpeM77) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09NvEVpeM77)
 
-### [Born in the USA](https://open.spotify.com/playlist/37i9dQZF1DX09NvEVpeM77)
+### [Born in the USA](https://open.spotify.com/playlist/5NUMXGMl9oy512BXWlX3w1)
 
 > Keep on rockin' in the free world with these classic tracks from musicians born in the USA.
 

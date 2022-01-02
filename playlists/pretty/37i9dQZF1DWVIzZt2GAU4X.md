@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 
 > Vocals and keys, front and center\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,730 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,737 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVIzZt2GAU4X.md) - [plain]
 | 74 | [Overthinking \- Acoustic](https://open.spotify.com/track/3WDxNaUMRsWk1aoDkz8N9x) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Overthinking \(Acoustic\)](https://open.spotify.com/album/2vxW3glC2Rbr7BnC3W2Xw5) | 3:46 |
 | 75 | [Worse for Me](https://open.spotify.com/track/6qMf2bVZy4IuGvxoc6uOPt) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Tyler Shaw](https://open.spotify.com/album/2sQbk1P48X1EcjnKfPODuC) | 3:08 |
 
-Snapshot ID: `MTY0MTEwODMzMiwwMDAwMDAwMDg5ODJjODQ1OTMxN2ViZjRhZWI1Zjk5YTdiM2ZmY2Qy`
+Snapshot ID: `MTY0MTEwOTgzMywwMDAwMDAwMDg5ODJjODQ1OTMxN2ViZjRhZWI1Zjk5YTdiM2ZmY2Qy`

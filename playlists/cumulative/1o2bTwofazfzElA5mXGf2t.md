@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1o2bTwofazfzElA5mXGf2t.md) - cumulative - [plain](/playlists/plain/1o2bTwofazfzElA5mXGf2t) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1o2bTwofazfzElA5mXGf2t)
 
-### [Breakup Blues](https://open.spotify.com/playlist/1o2bTwofazfzElA5mXGf2t)
+### [Breakup Blues](https://open.spotify.com/playlist/3i3MfNixZjLR4sW4DXekZN)
 
 > From denial and pleading to anger and acceptance, this genre\-blending playlist will carry you through each stage of your breakup blues.
 

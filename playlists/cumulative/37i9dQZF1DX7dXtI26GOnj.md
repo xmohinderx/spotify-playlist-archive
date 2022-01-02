@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7dXtI26GOnj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7dXtI26GOnj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7dXtI26GOnj)
 
-### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
+### [Calorcito](https://open.spotify.com/playlist/0hWEX2Wmud5ZvfLlh8QTkr)
 
 > Todo calor latino está aqui! Foto: LUDMILLA
 

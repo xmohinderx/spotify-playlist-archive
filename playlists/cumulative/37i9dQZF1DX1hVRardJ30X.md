@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1hVRardJ30X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1hVRardJ30X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1hVRardJ30X)
 
-### [New Music Friday Latin](https://open.spotify.com/playlist/37i9dQZF1DX1hVRardJ30X)
+### [New Music Friday Latin](https://open.spotify.com/playlist/6FBekxXSQYqfZkSeoMBQid)
 
 > All\-new releases by Latin artists! Cover: Camilo
 

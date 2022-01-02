@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1kZBqCJkwLM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1kZBqCJkwLM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1kZBqCJkwLM)
 
-### [Dope AF](https://open.spotify.com/playlist/37i9dQZF1DX1kZBqCJkwLM)
+### [Dope AF](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 > Dope, Asian, and Femme\. Cover: Mitski
 

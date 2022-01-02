@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Happy and swinging jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,662 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,665 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 49 | [Anything Goes](https://open.spotify.com/track/4SK4XpzqomNOm2RkscCk5D) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 3:39 |
 | 50 | [It Don't Mean A Thing \(If It Ain't Got That Swing\)](https://open.spotify.com/track/0RGMEpSB5iF6uD0ojXIiWz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 4:14 |
 
-Snapshot ID: `MTY0MTEwODU2NywwMDAwMDAwMDc3YTE0MjE0MDk3NzJmODhkNWRlNGZhNDc0N2MwYjIw`
+Snapshot ID: `MTY0MTExMDA1NywwMDAwMDAwMDc3YTE0MjE0MDk3NzJmODhkNWRlNGZhNDc0N2MwYjIw`

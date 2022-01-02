@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2zAr9vdmFlU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2zAr9vdmFlU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2zAr9vdmFlU)
 
-### [Latin Dinner](https://open.spotify.com/playlist/37i9dQZF1DX2zAr9vdmFlU)
+### [Latin Dinner](https://open.spotify.com/playlist/3N3y8hpOLcf4lHcrRM7Jsi)
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 

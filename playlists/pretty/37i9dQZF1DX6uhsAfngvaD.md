@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,181 likes - 80 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,185 likes - 80 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [what if love isn't enough](https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [what if love isn't enough](https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0) | 3:48 |
 | 80 | [Частица](https://open.spotify.com/track/6EoqF2zkzvJY6EUtwe0g94) | [Mirèle](https://open.spotify.com/artist/62Vu8AC36ARldmNIaJ7f7K), [Кирилл Иванов](https://open.spotify.com/artist/47RwZ0IbFXzrQNl5BgQ6iv) | [Частица](https://open.spotify.com/album/42GJreBb2toMRWaS9TvDsT) | 3:57 |
 
-Snapshot ID: `MTY0MTEwODYwMCwwMDAwMDAwMDZiNjRkMWYxNGQ3MTJjZGVhZGU0NDg5MjM0YjUyZDY1`
+Snapshot ID: `MTY0MTExMDA4OCwwMDAwMDAwMDZiNjRkMWYxNGQ3MTJjZGVhZGU0NDg5MjM0YjUyZDY1`

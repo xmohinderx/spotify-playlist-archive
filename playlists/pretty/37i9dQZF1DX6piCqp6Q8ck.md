@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,263 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,261 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 59 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/01FPQJHDGVAVpcaTwMIoS2) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:25 |
 | 60 | [Santa Claus Got Stuck \(In My Chimney\)](https://open.spotify.com/track/0ZgXBiDC9TW81HGVA0m7qz) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Complete Decca Singles Vol\. 4: 1950\-1955](https://open.spotify.com/album/4FkA8KBzq4EfkdxM0x00bV) | 3:09 |
 
-Snapshot ID: `MTY0MTEwODU5NywwMDAwMDAwMDUzNDMxN2U4ODFjZDg5Y2RjOGEyYzk2OTdkYzA1ODFh`
+Snapshot ID: `MTY0MTExMDA4NiwwMDAwMDAwMDUzNDMxN2U4ODFjZDg5Y2RjOGEyYzk2OTdkYzA1ODFh`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX99DRG9N39X3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX99DRG9N39X3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX99DRG9N39X3)
 
-### [10s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX99DRG9N39X3)
+### [10s Rock Anthems](https://open.spotify.com/playlist/71Ge9gWFFaxmVIwGcXczH8)
 
 > The biggest rock songs of the last decade\. Cover: Arctic Monkeys
 

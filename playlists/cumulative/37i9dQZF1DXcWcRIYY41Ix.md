@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcWcRIYY41Ix.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcWcRIYY41Ix) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcWcRIYY41Ix)
 
-### [Cancionistas](https://open.spotify.com/playlist/37i9dQZF1DXcWcRIYY41Ix)
+### [Cancionistas](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: María Cristina Plata
 

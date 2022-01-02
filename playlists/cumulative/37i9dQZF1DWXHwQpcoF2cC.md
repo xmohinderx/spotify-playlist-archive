@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXHwQpcoF2cC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXHwQpcoF2cC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXHwQpcoF2cC)
 
-### [Metal Rewind](https://open.spotify.com/playlist/37i9dQZF1DWXHwQpcoF2cC)
+### [Metal Rewind](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
 
 > The best recent metal tracks\. Cover: System Of A Down
 

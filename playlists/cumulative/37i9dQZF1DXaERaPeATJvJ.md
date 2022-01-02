@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaERaPeATJvJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaERaPeATJvJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaERaPeATJvJ)
 
-### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
+### [Memorindie](https://open.spotify.com/playlist/5N2buI7pPNVlHhACwo8R0D)
 
 > Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Sieve
 

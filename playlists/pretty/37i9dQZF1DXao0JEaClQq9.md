@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > dedicated to experimentalism with strong elements of pop and universal beauty, ft Sega Bodega
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,866 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,872 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 124 | [Strawberry](https://open.spotify.com/track/3fh68vXcULsi9qkrjesuHN) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/45WdUos0hOBOnDSme9YSwN) | 3:29 |
 | 125 | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/track/3zYomc4obtzqmHbI7BJRBT) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love Cassette \(Mark Ronson Remix\)](https://open.spotify.com/album/2eZ5bdqneW2YcfUMI9Kcbs) | 3:28 |
 
-Snapshot ID: `MTY0MTEwODY4OCwwMDAwMDAwMDc1MDk1OGFkOWE3ZDM4MTU3M2RmYTAyOTM2Zjc5ZjFj`
+Snapshot ID: `MTY0MTExMDE2NSwwMDAwMDAwMDc1MDk1OGFkOWE3ZDM4MTU3M2RmYTAyOTM2Zjc5ZjFj`

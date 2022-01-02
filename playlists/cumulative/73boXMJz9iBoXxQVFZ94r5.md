@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/73boXMJz9iBoXxQVFZ94r5.md) - cumulative - [plain](/playlists/plain/73boXMJz9iBoXxQVFZ94r5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/73boXMJz9iBoXxQVFZ94r5)
 
-### [International Playboy](https://open.spotify.com/playlist/73boXMJz9iBoXxQVFZ94r5)
+### [International Playboy](https://open.spotify.com/playlist/0qMTKMmvps5njZJFYruve5)
 
 > If you travel the world and the seven seas, cashing six figure checks in all currencies, this playlist is a perfect companion for that business class seat or limo ride...
 

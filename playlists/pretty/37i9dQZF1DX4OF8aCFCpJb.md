@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,812 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,813 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [1.000.000 Nollor](https://open.spotify.com/track/2iu5AhrtgQ3qoWvX0vsj2j) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Fläcken Som Aldrig Går Bort](https://open.spotify.com/album/3B4QGsos9iNRUSLuceNZzV) | 3:46 |
 | 50 | [Du Vill Så Du Kan](https://open.spotify.com/track/62diEnWPFPnfTYgspaDsBf) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5FKTVu2DG6bcU58dtcmaJo) | 4:05 |
 
-Snapshot ID: `MTY0MTEwODUzMSwwMDAwMDAwMGFlM2Q3YjI5YWM5MzJjMTM4OWUwMzE3NDI1MDQxNDEz`
+Snapshot ID: `MTY0MTExMDAyMywwMDAwMDAwMGFlM2Q3YjI5YWM5MzJjMTM4OWUwMzE3NDI1MDQxNDEz`

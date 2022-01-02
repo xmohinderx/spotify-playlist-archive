@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French rock scene makes some noise! Cover: Chunk! No, Captain Chunk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,329 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,330 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 69 | [Hello](https://open.spotify.com/track/3UX2rt7dWNVxEGO9LQzkMb) | [I Love My Neighbours](https://open.spotify.com/artist/0OnS3g7UIU366z6CpbhCfz) | [Anthology](https://open.spotify.com/album/37m8Xof3RWkngHVxbfbN8c) | 3:26 |
 | 70 | [Knees](https://open.spotify.com/track/49WaJosNna7DBveejaBjra) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Healing Is Not Linear](https://open.spotify.com/album/6AiJUiqh1ZYTuRboEmFgV0) | 3:08 |
 
-Snapshot ID: `MTY0MTEwODcyMiwwMDAwMDAwMGMyMWIwMGJkMzQ5NTQ1YzVjZTAwOWI3YjY4NzMzZjA4`
+Snapshot ID: `MTY0MTExMDE5OCwwMDAwMDAwMGMyMWIwMGJkMzQ5NTQ1YzVjZTAwOWI3YjY4NzMzZjA4`

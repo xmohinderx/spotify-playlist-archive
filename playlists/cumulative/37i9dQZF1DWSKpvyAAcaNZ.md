@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSKpvyAAcaNZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKpvyAAcaNZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKpvyAAcaNZ)
 
-### [Blues & Roots Rock](https://open.spotify.com/playlist/37i9dQZF1DWSKpvyAAcaNZ)
+### [Blues & Roots Rock](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Adia Victoria
 

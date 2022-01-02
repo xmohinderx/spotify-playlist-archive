@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXpOtMyVOt4Q.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXpOtMyVOt4Q)
 
-### [Soundscapes For Gaming](https://open.spotify.com/playlist/37i9dQZF1DWXpOtMyVOt4Q)
+### [Soundscapes For Gaming](https://open.spotify.com/playlist/11Gpqzsbqf7yfVJuxrNTH2)
 
 > Soundtrack your gaming with these atmospheric beats.
 

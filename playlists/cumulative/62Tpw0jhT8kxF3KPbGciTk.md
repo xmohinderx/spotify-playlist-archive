@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/62Tpw0jhT8kxF3KPbGciTk.md) - cumulative - [plain](/playlists/plain/62Tpw0jhT8kxF3KPbGciTk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62Tpw0jhT8kxF3KPbGciTk)
 
-### [Sweet Winter Songs](https://open.spotify.com/playlist/62Tpw0jhT8kxF3KPbGciTk)
+### [Sweet Winter Songs](https://open.spotify.com/playlist/19ImRQ3ywsfClb7Hyt4MEm)
 
 > As the snow falls outside, cozy up and relax with this collection of soothing acoustic tracks.
 

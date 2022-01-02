@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5IsxYrftjp3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5IsxYrftjp3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5IsxYrftjp3)
 
-### [This Is Brandi Carlile](https://open.spotify.com/playlist/37i9dQZF1DX5IsxYrftjp3)
+### [This Is Brandi Carlile](https://open.spotify.com/playlist/724AjrQuYEeLRajO3CzlB9)
 
 > All the essentials, one playlist.
 

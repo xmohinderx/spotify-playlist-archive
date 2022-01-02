@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTMS5dxv72g0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMS5dxv72g0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTMS5dxv72g0)
 
-### [This Is: Iron & Wine](https://open.spotify.com/playlist/37i9dQZF1DWTMS5dxv72g0)
+### [This Is: Iron & Wine](https://open.spotify.com/playlist/3rsBzyv7vIyXhXeknakosL)
 
 > Get to know <a href="spotify:artist:4M5nCE77Qaxayuhp3fVn4V">Sam Beam</a> with a collection featuring his latest album, <a href="spotify:album:2Ha1FUPZ0RDMjLZFu1iVO1">Beast Epic</a>.
 

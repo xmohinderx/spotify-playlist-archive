@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9SvXmR7wQty.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9SvXmR7wQty) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9SvXmR7wQty)
 
-### [Nouveautés de la semaine Canada](https://open.spotify.com/playlist/37i9dQZF1DX9SvXmR7wQty)
+### [Nouveautés de la semaine Canada](https://open.spotify.com/playlist/14BQdNO6xmXnKxtcZsp2FC)
 
 > Tout nouveau, tout beau\. Photo: DawaMafia
 

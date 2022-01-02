@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWVwtV5Pv39d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWVwtV5Pv39d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWVwtV5Pv39d)
 
-### [Your Daily Routine](https://open.spotify.com/playlist/37i9dQZF1DWWVwtV5Pv39d)
+### [Your Daily Routine](https://open.spotify.com/playlist/0tIR1F4TAVMZPY4NE1Ks1b)
 
 > Songs to help your kids establish a productive daily routine, from waking up and brushing their teeth to potty training, cleaning up, taking a bath, and getting to sleep at night!
 

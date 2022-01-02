@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3DgvEv65pjR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3DgvEv65pjR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3DgvEv65pjR)
 
-### [PRIDE: Nashville](https://open.spotify.com/playlist/37i9dQZF1DX3DgvEv65pjR)
+### [PRIDE: Nashville](https://open.spotify.com/playlist/5JA3OzXsYtkJcZ1drSuF8x)
 
 > Fancy Hagood co\-curates a list of the very best songs from LGBTQQIA+ artists and allies Music City has to offer!
 

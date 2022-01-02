@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWBHeXOYZf74.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWBHeXOYZf74) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWBHeXOYZf74)
 
-### [POLLEN](https://open.spotify.com/playlist/37i9dQZF1DWWBHeXOYZf74)
+### [POLLEN](https://open.spotify.com/playlist/0satjjBJ2wfilttyMYfCS7)
 
 > The best of 2021\. Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 

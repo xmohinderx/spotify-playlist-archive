@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJlfUljuZExa.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,981 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,982 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

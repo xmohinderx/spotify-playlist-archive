@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdwTUxmGKrdN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwTUxmGKrdN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdwTUxmGKrdN)
 
-### [Smooth Jazz](https://open.spotify.com/playlist/37i9dQZF1DXdwTUxmGKrdN)
+### [Smooth Jazz](https://open.spotify.com/playlist/1s0nnW1GT4rUSPV8jIty04)
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 

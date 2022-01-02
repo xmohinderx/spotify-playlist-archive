@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5Ir6gs0eXKyPj3Qin8uEun.md) - cumulative - [plain](/playlists/plain/5Ir6gs0eXKyPj3Qin8uEun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5Ir6gs0eXKyPj3Qin8uEun)
 
-### [Happy Birthday Sir Tom!](https://open.spotify.com/playlist/5Ir6gs0eXKyPj3Qin8uEun)
+### [Happy Birthday Sir Tom!](https://open.spotify.com/playlist/0nr7BQ8ecAD3ZKxbn8t3Pk)
 
 > 
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5PuwKY2VZBZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5PuwKY2VZBZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5PuwKY2VZBZ)
 
-### [SXSW: HipHopUpNext](https://open.spotify.com/playlist/37i9dQZF1DX5PuwKY2VZBZ)
+### [SXSW: HipHopUpNext](https://open.spotify.com/playlist/72UNrENEEBF6ughBYsTycT)
 
 > Hip\-Hop's next generation takes over SXSW! Cover: <a href="spotify:artist:3Gm5F95VdRxW3mqCn8RPBJ">Aminè</a>.
 

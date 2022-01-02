@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVEcPtggpQMu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVEcPtggpQMu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVEcPtggpQMu)
 
-### [Aux](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
+### [Aux](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=444SdbtzRkGu7Xg5IkX0SQ">Zoocci Coke Dope</a>
 

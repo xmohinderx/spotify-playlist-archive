@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcecv7ESbOPu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcecv7ESbOPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcecv7ESbOPu)
 
-### [New Music Friday Sweden](https://open.spotify.com/playlist/37i9dQZF1DXcecv7ESbOPu)
+### [New Music Friday Sweden](https://open.spotify.com/playlist/0S2JKhYsYyye2uwGKkbi05)
 
 > Inte bara nytt år utan även ny musik! Happy New Music Friday!
 

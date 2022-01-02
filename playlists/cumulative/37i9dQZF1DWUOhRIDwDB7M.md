@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUOhRIDwDB7M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUOhRIDwDB7M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUOhRIDwDB7M)
 
-### [Rise](https://open.spotify.com/playlist/37i9dQZF1DWUOhRIDwDB7M)
+### [Rise](https://open.spotify.com/playlist/6fLxyccnSrhX5ogq1L5BVp)
 
 > Positive and uplifting ambient instrumental tracks.
 

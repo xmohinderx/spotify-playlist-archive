@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0SM0LYsmbMT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0SM0LYsmbMT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0SM0LYsmbMT)
 
-### [Jazz Vibes](https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT)
+### [Jazz Vibes](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 > The original chill instrumental beats playlist.
 

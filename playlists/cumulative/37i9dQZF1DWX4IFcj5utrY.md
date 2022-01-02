@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX4IFcj5utrY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX4IFcj5utrY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX4IFcj5utrY)
 
-### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
+### [mint South Africa](https://open.spotify.com/playlist/24Uu3XWGtF4anu2FhCcmjB)
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg">Zakes Bantwini</a>
 

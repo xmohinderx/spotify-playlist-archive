@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX59HcpGmPXYR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59HcpGmPXYR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59HcpGmPXYR)
 
-### [Pride Classics](https://open.spotify.com/playlist/37i9dQZF1DX59HcpGmPXYR)
+### [Pride Classics](https://open.spotify.com/playlist/2k3Js1aEal97We8PPic6Wk)
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Lady Gaga
 

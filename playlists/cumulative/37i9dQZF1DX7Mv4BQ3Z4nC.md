@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Mv4BQ3Z4nC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Mv4BQ3Z4nC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Mv4BQ3Z4nC)
 
-### [The Yule Log](https://open.spotify.com/playlist/37i9dQZF1DX7Mv4BQ3Z4nC)
+### [The Yule Log](https://open.spotify.com/playlist/7iREik6I9yRBKWdtnXfSp4)
 
 > Sometimes all you need is the sound of a cozy, crackling fireplace...
 

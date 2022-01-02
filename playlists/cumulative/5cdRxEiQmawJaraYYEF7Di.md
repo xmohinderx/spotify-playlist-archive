@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5cdRxEiQmawJaraYYEF7Di.md) - cumulative - [plain](/playlists/plain/5cdRxEiQmawJaraYYEF7Di) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5cdRxEiQmawJaraYYEF7Di)
 
-### [\#SundayFunday](https://open.spotify.com/playlist/5cdRxEiQmawJaraYYEF7Di)
+### [\#SundayFunday](https://open.spotify.com/playlist/5uVO9F0m4taiqJdSdtDqmJ)
 
 > Infectiously happy hits from years past blended with the best of today's chart toppers.
 

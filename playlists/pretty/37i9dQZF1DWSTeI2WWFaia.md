@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,866 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,872 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Outside \(with Joey Bada$$\)](https://open.spotify.com/track/1es7SpekMUeMAIlG4iEJKX) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Outside \(with Joey Bada$$\)](https://open.spotify.com/album/1uDHI9Vlzp2tTLKCcySAJi) | 3:08 |
 | 50 | [FATHER FIGURE](https://open.spotify.com/track/4tamxu3gTVkEDzgpTDvDv0) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Royce Da 5'9"](https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [CINCORIGINALS](https://open.spotify.com/album/0Dig7jayR5ts18aaMPFbPP) | 4:21 |
 
-Snapshot ID: `MTY0MTEwODI3MywwMDAwMDAwMGFmNjM3MDgxYjdhNjhlYWQ2ZWViMzdiMTU2ZDAzN2Q3`
+Snapshot ID: `MTY0MTEwOTc3OCwwMDAwMDAwMGFmNjM3MDgxYjdhNjhlYWQ2ZWViMzdiMTU2ZDAzN2Q3`

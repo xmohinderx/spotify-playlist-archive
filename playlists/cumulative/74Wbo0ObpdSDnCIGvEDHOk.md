@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/74Wbo0ObpdSDnCIGvEDHOk.md) - cumulative - [plain](/playlists/plain/74Wbo0ObpdSDnCIGvEDHOk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/74Wbo0ObpdSDnCIGvEDHOk)
 
-### [Bråvalla Festival 2013](https://open.spotify.com/playlist/74Wbo0ObpdSDnCIGvEDHOk)
+### [Bråvalla Festival 2013](https://open.spotify.com/playlist/0ZFtlBg5aqOfn3RFymuKC1)
 
 > 
 

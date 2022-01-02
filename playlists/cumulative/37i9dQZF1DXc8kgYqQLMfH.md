@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc8kgYqQLMfH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc8kgYqQLMfH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc8kgYqQLMfH)
 
-### [Lush Lofi](https://open.spotify.com/playlist/37i9dQZF1DXc8kgYqQLMfH)
+### [Lush Lofi](https://open.spotify.com/playlist/5YUfjMmTDPWP2hNxKcTfly)
 
 > The chillest instrumental lofi beats, certified lush.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW7RgkOJG32Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7RgkOJG32Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW7RgkOJG32Y)
 
-### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
+### [Breakout Country](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 > Top trending new and recent tracks from the last few weeks\.  Cover: Travis Denning
 

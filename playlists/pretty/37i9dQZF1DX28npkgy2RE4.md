@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Allison Ponthier
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,464 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,467 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Hopeful](https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Hopeful](https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz) | 5:16 |
 | 150 | [First Time Feeling](https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [First Time Feeling](https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro) | 3:06 |
 
-Snapshot ID: `MTY0MTEwODQ4MywwMDAwMDAwMDNlZjhjMGM1N2RkZTVjMjgwMWQyYzFiMWNhMjFhZTlm`
+Snapshot ID: `MTY0MTEwOTk3NywwMDAwMDAwMDNlZjhjMGM1N2RkZTVjMjgwMWQyYzFiMWNhMjFhZTlm`

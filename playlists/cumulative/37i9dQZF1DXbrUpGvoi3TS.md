@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbrUpGvoi3TS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbrUpGvoi3TS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrUpGvoi3TS)
 
-### [Broken Heart](https://open.spotify.com/playlist/37i9dQZF1DXbrUpGvoi3TS)
+### [Broken Heart](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
 
 > Nurse your emotional wounds with these heartbreak tracks.
 

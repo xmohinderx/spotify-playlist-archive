@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1OIMC8iDi74.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OIMC8iDi74) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1OIMC8iDi74)
 
-### [Trap Mojito](https://open.spotify.com/playlist/37i9dQZF1DX1OIMC8iDi74)
+### [Trap Mojito](https://open.spotify.com/playlist/6tpQ5fWn7pR2a6KV8Us5hN)
 
 > A cocktail of <a href="spotify:genre:edm\_dance">electronic</a> trap and trap\-influenced tracks\. Cover: Just A Gent.
 

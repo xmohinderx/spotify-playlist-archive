@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,490 likes - 60 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,494 likes - 60 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Push The Feeling On \- Mk Dub Revisited Edit](https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag) | [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Push The Feeling On](https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL) | 4:03 |
 | 60 | [Love Commandments \- Vocal Edit](https://open.spotify.com/track/3KJ8vCkG1wmm3JudilTFOx) | [Gisele Jackson](https://open.spotify.com/artist/10UyQv5ojqx3NCPupzEDcd) | [90's House & Garage compiled by Joey Negro](https://open.spotify.com/album/0056ovkC4UuHKagNtk7ZAN) | 7:49 |
 
-Snapshot ID: `MTY0MTEwODI5OSwwMDAwMDAwMDM0ZjVkYzVhOWRmY2MwMGNlODdkNWY5NDY3N2I5ZDY3`
+Snapshot ID: `MTY0MTEwOTgwMywwMDAwMDAwMDM0ZjVkYzVhOWRmY2MwMGNlODdkNWY5NDY3N2I5ZDY3`

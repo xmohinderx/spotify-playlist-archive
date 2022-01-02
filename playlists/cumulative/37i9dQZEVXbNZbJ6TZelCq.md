@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNZbJ6TZelCq.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNZbJ6TZelCq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNZbJ6TZelCq)
 
-### [Top 50 \- Romania](https://open.spotify.com/playlist/37i9dQZEVXbNZbJ6TZelCq)
+### [Top 50 \- Romania](https://open.spotify.com/playlist/6KKu70qbW9cFQ7dsc1y3hw)
 
 > Your daily update of the most played tracks right now \- Romania.
 

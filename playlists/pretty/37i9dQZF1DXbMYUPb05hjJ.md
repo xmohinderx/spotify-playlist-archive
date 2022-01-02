@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 
 > Classic tracks with roots in post\-punk, garage rock, and new wave\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,644 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,650 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMYUPb05hjJ.md) - [plain]
 | 89 | [How Deep Is Your Love?](https://open.spotify.com/track/58ZxxTUnEHvhdNNZAkcZTN) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/6ZiAGfJbLftvLMAFoEvoYK) | 6:27 |
 | 90 | [North East South West](https://open.spotify.com/track/0M6VQJRyLpg9RC4im1rVZj) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Near To The Wild Heart Of Life](https://open.spotify.com/album/26ZXAfEXcFBGqK7rLbCraB) | 4:20 |
 
-Snapshot ID: `MTY0MTEwODcwMCwwMDAwMDAwMDc4N2EzMGIwMDczN2JkOWE2ZWYzNDM0NmEwMjZiY2Fm`
+Snapshot ID: `MTY0MTExMDE3NywwMDAwMDAwMDc4N2EzMGIwMDczN2JkOWE2ZWYzNDM0NmEwMjZiY2Fm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,069,471 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,069,487 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Only Want You \- Martin Jensen Remix](https://open.spotify.com/track/5dC3Cv6uGfyr16zJtr6n1n) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Only Want You \(Martin Jensen Remix\)](https://open.spotify.com/album/1GwH97kX3Gxa2emwty0RTA) | 2:53 |
 | 100 | [Sing It Back Again](https://open.spotify.com/track/3Q67uLNNnP3B2uYMe1uV5x) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ) | [Sing It Back Again](https://open.spotify.com/album/5HU8u9ObxcRfAEYYu5GlVG) | 2:17 |
 
-Snapshot ID: `MTY0MTEwODc1NSwwMDAwMDAwMDllOWEwZjY2YjIxOTUzOGNlZDFmMDYwMDVkYzE3YTlj`
+Snapshot ID: `MTY0MTExMDIyOCwwMDAwMDAwMDllOWEwZjY2YjIxOTUzOGNlZDFmMDYwMDVkYzE3YTlj`

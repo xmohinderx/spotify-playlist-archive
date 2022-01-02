@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked\. Featuring music by Ricky Montgomery.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,855 likes - 150 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,857 likes - 150 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 149 | [Till Forever Falls Apart](https://open.spotify.com/track/4x5YzxjrF9wvIIXJV7TveC) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Ashlyn](https://open.spotify.com/album/5eCmZVM5Kspu2B1cyVdSqq) | 3:42 |
 | 150 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 |
 
-Snapshot ID: `MTY0MTEwODU0MSwwMDAwMDAwMDFkMWYyMjFmMTExNGI3YWY1M2Q4M2VhMmJmNWE2MDVh`
+Snapshot ID: `MTY0MTExMDAzMywwMDAwMDAwMDFkMWYyMjFmMTExNGI3YWY1M2Q4M2VhMmJmNWE2MDVh`

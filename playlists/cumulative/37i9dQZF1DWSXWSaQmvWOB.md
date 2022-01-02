@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSXWSaQmvWOB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSXWSaQmvWOB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSXWSaQmvWOB)
 
-### [Soul 'n' the City](https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB)
+### [Soul 'n' the City](https://open.spotify.com/playlist/6qA0E068EG9WMYU2rtBJTj)
 
 > Your daily dose of soul\-infused music! Cover: Jon Batiste
 

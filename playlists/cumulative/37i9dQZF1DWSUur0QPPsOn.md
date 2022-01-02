@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSUur0QPPsOn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSUur0QPPsOn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSUur0QPPsOn)
 
-### [Taste](https://open.spotify.com/playlist/37i9dQZF1DWSUur0QPPsOn)
+### [Taste](https://open.spotify.com/playlist/5AYqsnlUM1hNHFfi6U6U5U)
 
 > Sophisticated palates only\. Curated by: Kofi Siriboe
 

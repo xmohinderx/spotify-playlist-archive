@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1UQo7foKwUUMjb9KnaBE3S.md) - cumulative - [plain](/playlists/plain/1UQo7foKwUUMjb9KnaBE3S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1UQo7foKwUUMjb9KnaBE3S)
 
-### [A.M\. Commute](https://open.spotify.com/playlist/1UQo7foKwUUMjb9KnaBE3S)
+### [A.M\. Commute](https://open.spotify.com/playlist/4fkyLTRNVaCgtV35FpDGzL)
 
 > Forget the morning rush and kick off your day the right way \- music on, volume up, happy days!
 

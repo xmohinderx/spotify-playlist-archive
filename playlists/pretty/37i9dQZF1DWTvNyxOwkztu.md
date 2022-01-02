@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509,161 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,169 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 99 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 |
 | 100 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 |
 
-Snapshot ID: `MTY0MTEwODMwNywwMDAwMDAwMGVhZWJiNGE1MzU0M2VmZDk1YmY0NGRhNDllZGQ4M2I3`
+Snapshot ID: `MTY0MTEwOTgxMCwwMDAwMDAwMGVhZWJiNGE1MzU0M2VmZDk1YmY0NGRhNDllZGQ4M2I3`

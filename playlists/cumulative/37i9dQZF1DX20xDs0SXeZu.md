@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX20xDs0SXeZu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX20xDs0SXeZu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX20xDs0SXeZu)
 
-### [Classical Era 50: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DX20xDs0SXeZu)
+### [Classical Era 50: Spotify Picks](https://open.spotify.com/playlist/3OTFrFZvt9i2CgLuVgx2o8)
 
 > Classical music from the classical era\. Light, clear and beautiful\. Music by Beethoven, Mozart and Haydn\. The sons of J.S Bach\. Schubert and Salieri.
 

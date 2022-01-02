@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbN6itCcaL3Tt.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbN6itCcaL3Tt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbN6itCcaL3Tt)
 
-### [Top 50 \- Poland](https://open.spotify.com/playlist/37i9dQZEVXbN6itCcaL3Tt)
+### [Top 50 \- Poland](https://open.spotify.com/playlist/5wOvQVaAfTjuYNJ4iSoX3S)
 
 > Your daily update of the most played tracks right now \- Poland.
 

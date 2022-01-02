@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2i24iHGhL24.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2i24iHGhL24) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2i24iHGhL24)
 
-### [Pop Covers](https://open.spotify.com/playlist/37i9dQZF1DX2i24iHGhL24)
+### [Pop Covers](https://open.spotify.com/playlist/0YqLmoULLKOfYm2xjQ8vjJ)
 
 > Reimagined pop covers of your favorite songs\.  Cover: Kacey Musgraves
 

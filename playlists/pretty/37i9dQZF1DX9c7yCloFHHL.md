@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Cover: Nala Sinephro
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,853 likes - 120 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,857 likes - 120 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 119 | [i want a white petal in my teacup](https://open.spotify.com/track/1oROJIuLMP3VcxhLJdAoiS) | [NRV](https://open.spotify.com/artist/4YDNbSN74NttKCbtKNYQoZ) | [Notari](https://open.spotify.com/album/7mVmnHy97vIe5dKMmj3p1M) | 5:44 |
 | 120 | [Cass](https://open.spotify.com/track/483UearCC3xUm09caTe015) | [The Arteries of New York City](https://open.spotify.com/artist/1WplPnixjEsV4JmRmBl72V), [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ), [Alex Kozobolis](https://open.spotify.com/artist/6fsUe68biDsnK9f8G41rNO) | [Cass](https://open.spotify.com/album/5iVr8DyMUkcuofJcshS7Gi) | 3:28 |
 
-Snapshot ID: `MTY0MTEwODY1NSwwMDAwMDAwMDkxNjAxYThmYWI0N2FkMjM4MTZlMTE4ZDFiZDQyZDRj`
+Snapshot ID: `MTY0MTExMDE0MCwwMDAwMDAwMDkxNjAxYThmYWI0N2FkMjM4MTZlMTE4ZDFiZDQyZDRj`

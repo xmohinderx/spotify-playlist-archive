@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdowzKiHFkSQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdowzKiHFkSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdowzKiHFkSQ)
 
-### [Feel Good Rock](https://open.spotify.com/playlist/37i9dQZF1DXdowzKiHFkSQ)
+### [Feel Good Rock](https://open.spotify.com/playlist/14hNePdHXJqErpHWdFsc2h)
 
 > Let a guitar put a smile on your face.
 

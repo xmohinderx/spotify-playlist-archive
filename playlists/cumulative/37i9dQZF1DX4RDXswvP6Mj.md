@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4RDXswvP6Mj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4RDXswvP6Mj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4RDXswvP6Mj)
 
-### [K\-Club Party](https://open.spotify.com/playlist/37i9dQZF1DX4RDXswvP6Mj)
+### [K\-Club Party](https://open.spotify.com/playlist/0IIEvRANFzgYAa88SFKSJA)
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: EVERGLOW\(에버글로우\)\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 

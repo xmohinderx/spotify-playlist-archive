@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWgdl6IRdIlO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWgdl6IRdIlO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWgdl6IRdIlO)
 
-### [EQUAL Russia](https://open.spotify.com/playlist/37i9dQZF1DWWgdl6IRdIlO)
+### [EQUAL Russia](https://open.spotify.com/playlist/50nl5KDrRQLr7BtXSz0PVM)
 
 > Слушай российских исполнительниц на полной громкости\. На обложке: алёна швец.
 

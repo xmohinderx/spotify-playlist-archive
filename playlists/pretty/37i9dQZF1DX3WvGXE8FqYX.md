@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Kick back with the queens of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,260,150 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,260,158 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [Issues](https://open.spotify.com/track/1sXUWdKx03aP9Gmzft58rt) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues](https://open.spotify.com/album/1FulpD9JiAPbqP2F31pmUP) | 2:56 |
 | 70 | [Bang Bang](https://open.spotify.com/track/0puf9yIluy9W0vpMEUoAnN) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sweet Talker \(Deluxe Version\)](https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb) | 3:19 |
 
-Snapshot ID: `MTY0MTEwODUxNSwwMDAwMDAwMDhiOTkzMWRmN2EwYTkxN2UwMGU1OTA2ZDU2ZGU5NmE3`
+Snapshot ID: `MTY0MTExMDAwOCwwMDAwMDAwMDhiOTkzMWRmN2EwYTkxN2UwMGU1OTA2ZDU2ZGU5NmE3`

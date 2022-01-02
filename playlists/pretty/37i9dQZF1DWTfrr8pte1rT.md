@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop  Cover: Grabbitz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,799 likes - 125 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,803 likes - 125 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 124 | [One More Time](https://open.spotify.com/track/7isayXQEPtwsmuAqq7tZoM) | [Finnet](https://open.spotify.com/artist/083SNs2t2ngrAeHw1M8sPw), [Stay up Late](https://open.spotify.com/artist/5iOsQV7xht5LcNOqxkTFw0) | [One More Time](https://open.spotify.com/album/4J2xMk08UWQ6Rp8OjyRTF1) | 2:55 |
 | 125 | [Fighter](https://open.spotify.com/track/0wuGHHsJVLVkULt8hUgTFa) | [Blue Stahli](https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3) | [Fighter](https://open.spotify.com/album/0xq3KVLWzl2BYEVjYfqwbr) | 2:25 |
 
-Snapshot ID: `MTY0MTEwODMwMywwMDAwMDAwMDI4M2EwODMxYjlmMzQwZjJhMWMzNmMwOWYxNzVjN2E4`
+Snapshot ID: `MTY0MTEwOTgwNiwwMDAwMDAwMDI4M2EwODMxYjlmMzQwZjJhMWMzNmMwOWYxNzVjN2E4`

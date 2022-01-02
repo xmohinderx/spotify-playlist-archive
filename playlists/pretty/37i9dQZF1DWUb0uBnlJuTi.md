@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Dr\. Lonnie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,340 likes - 80 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,343 likes - 80 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [Juice Box](https://open.spotify.com/track/5ZJrwkNAswWr1rHZCrEkfs) | [YAM YAM](https://open.spotify.com/artist/2Y6yVzWTfqjVEMvwO4UX63) | [Juice Box](https://open.spotify.com/album/7DF6OjSJwgaXr9GpPdlXHs) | 4:51 |
 | 80 | [Harlem Buck Dance Strut](https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:55 |
 
-Snapshot ID: `MTY0MTEwODMyMSwwMDAwMDAwMDg3ZGQzMzZlNTQ3N2VhYTgwMDhmMDJjNjA1Yjc3ZWI4`
+Snapshot ID: `MTY0MTEwOTgyMywwMDAwMDAwMDg3ZGQzMzZlNTQ3N2VhYTgwMDhmMDJjNjA1Yjc3ZWI4`

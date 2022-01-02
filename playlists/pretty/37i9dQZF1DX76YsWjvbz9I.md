@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 
 > The unforgettable romantic jazz songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,570 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,576 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76YsWjvbz9I.md) - [plain]
 | 49 | [We'll Be Together Again](https://open.spotify.com/track/772lBovJFWwQdjQn5WnhhY) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Blame It On My Youth](https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un) | 4:46 |
 | 50 | [Dedicated to You \- Remastered 2003](https://open.spotify.com/track/2Ako7iEOscH89vNTr14djH) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj), [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Sarah \- Dedicated to You](https://open.spotify.com/album/6J959QPUPIq5apPFovaoiJ) | 6:02 |
 
-Snapshot ID: `MTY0MTEwODYwNCwwMDAwMDAwMGVmOGM5NGVkMWIwZGNkZWY3ZTRiNjJkNmM0MGQ3ZDg3`
+Snapshot ID: `MTY0MTExMDA5MiwwMDAwMDAwMGVmOGM5NGVkMWIwZGNkZWY3ZTRiNjJkNmM0MGQ3ZDg3`

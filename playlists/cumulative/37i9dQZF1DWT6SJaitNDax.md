@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT6SJaitNDax.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT6SJaitNDax) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT6SJaitNDax)
 
-### [We Everywhere](https://open.spotify.com/playlist/37i9dQZF1DWT6SJaitNDax)
+### [We Everywhere](https://open.spotify.com/playlist/50Q1v3oZfufg8td6P4MbdJ)
 
 > Afro sounds crossing borders\. Top Afro Bashment, Pop, Fusion / X\-Overs from all across the world\.  Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">WizKid</a>
 

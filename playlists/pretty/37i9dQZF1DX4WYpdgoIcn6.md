@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 
 > Kick back to the best new and recent chill tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,927,942 likes - 130 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,927,995 likes - 130 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WYpdgoIcn6.md) - [plain]
 | 129 | [positions](https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [positions](https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi) | 2:52 |
 | 130 | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/track/3cMAS9DjZHrAnKvPrTIw7Z) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Wait for You \(feat\. Zoe Wees\)](https://open.spotify.com/album/7zc5uuNnGFh7krhft1b68F) | 2:33 |
 
-Snapshot ID: `MTY0MTEwODUzNiwwMDAwMDAwMDg3ODRkNTZiMmYwZmEyZTU2NzhjNjllOGIzYmU1NjQ5`
+Snapshot ID: `MTY0MTExMDAyOCwwMDAwMDAwMDg3ODRkNTZiMmYwZmEyZTU2NzhjNjllOGIzYmU1NjQ5`

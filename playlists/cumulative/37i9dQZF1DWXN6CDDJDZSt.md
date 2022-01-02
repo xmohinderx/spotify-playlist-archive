@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXN6CDDJDZSt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXN6CDDJDZSt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXN6CDDJDZSt)
 
-### [This Is Puccini](https://open.spotify.com/playlist/37i9dQZF1DWXN6CDDJDZSt)
+### [This Is Puccini](https://open.spotify.com/playlist/6pFOJ8SKnl4tTx8OfmjZH0)
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 

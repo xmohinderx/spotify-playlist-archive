@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1lU51fgoMhF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1lU51fgoMhF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1lU51fgoMhF)
 
-### [Tropical K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX1lU51fgoMhF)
+### [Tropical K\-Pop](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Hyolyn x Dasom\)
 

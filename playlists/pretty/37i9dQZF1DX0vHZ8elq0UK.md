@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,259 likes - 150 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,262 likes - 150 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vHZ8elq0UK.md) - [plain]
 | 149 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 |
 | 150 | [Fireball \(feat\. John Ryan\)](https://open.spotify.com/track/4Y7XAxTANhu3lmnLAzhWJW) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [John Ryan](https://open.spotify.com/artist/41PsMGvbGsJRtAXk6Kbh5n) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:56 |
 
-Snapshot ID: `MTY0MTEwODQ1MiwwMDAwMDAwMGMyMjUxOTJjMjQ5NTYyYmRjYzJlNGFjNWExNjc4MTMx`
+Snapshot ID: `MTY0MTEwOTk0OCwwMDAwMDAwMGMyMjUxOTJjMjQ5NTYyYmRjYzJlNGFjNWExNjc4MTMx`

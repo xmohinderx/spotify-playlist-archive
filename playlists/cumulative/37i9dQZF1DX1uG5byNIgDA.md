@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1uG5byNIgDA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1uG5byNIgDA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1uG5byNIgDA)
 
-### [Morning K\-Pop!](https://open.spotify.com/playlist/37i9dQZF1DX1uG5byNIgDA)
+### [Morning K\-Pop!](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 

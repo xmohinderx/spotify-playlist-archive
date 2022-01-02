@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0nBLMN0XzSQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0nBLMN0XzSQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0nBLMN0XzSQ)
 
-### [Après Ski Classics](https://open.spotify.com/playlist/37i9dQZF1DX0nBLMN0XzSQ)
+### [Après Ski Classics](https://open.spotify.com/playlist/6k7qWzgrLABg6JzbonqipM)
 
 > Après Ski...you know what that means!
 

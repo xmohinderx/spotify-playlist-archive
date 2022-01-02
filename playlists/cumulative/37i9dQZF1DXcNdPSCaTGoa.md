@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcNdPSCaTGoa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNdPSCaTGoa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNdPSCaTGoa)
 
-### [SA Gold](https://open.spotify.com/playlist/37i9dQZF1DXcNdPSCaTGoa)
+### [SA Gold](https://open.spotify.com/playlist/1IFZS22vComuhJSAqtDaVS)
 
 > Proudly South African classics\. Cover: <a href="https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O?si=AMmA0XYMRCeF3\-HGc030gg">Johnny Clegg</a>
 

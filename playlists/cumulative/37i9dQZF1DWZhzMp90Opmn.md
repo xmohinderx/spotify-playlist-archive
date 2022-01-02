@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZhzMp90Opmn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZhzMp90Opmn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZhzMp90Opmn)
 
-### [Pink Noise](https://open.spotify.com/playlist/37i9dQZF1DWZhzMp90Opmn)
+### [Pink Noise](https://open.spotify.com/playlist/7kSbO7docWbPCdbgHmckd8)
 
 > The perfect frequency for sleep or study – science tested, listener approved.
 

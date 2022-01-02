@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9BXb6GsGCLl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9BXb6GsGCLl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9BXb6GsGCLl)
 
-### [Powerwalk!](https://open.spotify.com/playlist/37i9dQZF1DX9BXb6GsGCLl)
+### [Powerwalk!](https://open.spotify.com/playlist/1x8QJGVpkb79sPVbfvkiMc)
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 

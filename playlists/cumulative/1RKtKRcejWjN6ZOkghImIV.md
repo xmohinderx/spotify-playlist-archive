@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1RKtKRcejWjN6ZOkghImIV.md) - cumulative - [plain](/playlists/plain/1RKtKRcejWjN6ZOkghImIV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1RKtKRcejWjN6ZOkghImIV)
 
-### [Bullet for Hell](https://open.spotify.com/playlist/1RKtKRcejWjN6ZOkghImIV)
+### [Bullet for Hell](https://open.spotify.com/playlist/2aShkNeoqVVPCyAd72j6p2)
 
 > Slipknot, Mudvayne, Hatebreed\. Turn the volume all the way up.
 

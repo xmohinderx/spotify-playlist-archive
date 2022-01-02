@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1YGlW3ovCv9Vek4CPnV0mZ.md) - cumulative - [plain](/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1YGlW3ovCv9Vek4CPnV0mZ)
 
-### [Great Love Ballads](https://open.spotify.com/playlist/1YGlW3ovCv9Vek4CPnV0mZ)
+### [Great Love Ballads](https://open.spotify.com/playlist/6tPgivtVHnIPgj7uDM9orY)
 
 > There's no greater feeling than love, which means that it requires great music\. Here is a collection of some of the most breathtaking ballads about love.
 

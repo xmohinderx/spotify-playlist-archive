@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9E92APFiTvV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9E92APFiTvV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9E92APFiTvV)
 
-### [This Is Rush](https://open.spotify.com/playlist/37i9dQZF1DX9E92APFiTvV)
+### [This Is Rush](https://open.spotify.com/playlist/1mIuP4WMOLBHYCCJkxjo7E)
 
 > A lifetime of legendary tunes courtesy of the holy triumvirate\. Rest in peace, Neil Peart.
 

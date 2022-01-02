@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa2PsvJSPnPf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa2PsvJSPnPf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa2PsvJSPnPf)
 
-### [Front Porch](https://open.spotify.com/playlist/37i9dQZF1DXa2PsvJSPnPf)
+### [Front Porch](https://open.spotify.com/playlist/1J46WbZ3oHtv4aJLZ1hDCX)
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 

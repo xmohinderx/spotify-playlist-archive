@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9LT7r8qPxfa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9LT7r8qPxfa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9LT7r8qPxfa)
 
-### [noir](https://open.spotify.com/playlist/37i9dQZF1DX9LT7r8qPxfa)
+### [noir](https://open.spotify.com/playlist/4pk0w13rV4dmJ8ZImqcVXV)
 
 > deep & dark\. bold & bare\. cover: Julien Baker
 

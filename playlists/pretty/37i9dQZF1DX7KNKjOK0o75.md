@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 
 > Feel great with these timelessly fun songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,112,131 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,112,128 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KNKjOK0o75.md) - [plain]
 | 79 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
 | 80 | [Jessie's Girl](https://open.spotify.com/track/0TF3F5Lw5apoD1zvR8LikO) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [The Best Of Rick Springfield](https://open.spotify.com/album/7bVG2FiRaUwDyzlOFxVX9i) | 3:12 |
 
-Snapshot ID: `MTY0MTEwODYxMSwwMDAwMDAwMDNlNTY1Njc2MzdiZWRmY2Q0YWZkNGY4NjE2NjNlZjg1`
+Snapshot ID: `MTY0MTExMDA5OCwwMDAwMDAwMDNlNTY1Njc2MzdiZWRmY2Q0YWZkNGY4NjE2NjNlZjg1`

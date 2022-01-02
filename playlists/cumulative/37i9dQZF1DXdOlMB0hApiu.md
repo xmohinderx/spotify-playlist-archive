@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdOlMB0hApiu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdOlMB0hApiu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdOlMB0hApiu)
 
-### [The Selected D\. H\. Lawrence](https://open.spotify.com/playlist/37i9dQZF1DXdOlMB0hApiu)
+### [The Selected D\. H\. Lawrence](https://open.spotify.com/playlist/4QEiw6XUjCznW3fMWX38M4)
 
 > "...when genuine passion moves you, say what you've got to say, and say it hot." Selected readings of D\. H\. Lawrence's poetry, novels, short stories, and letters.
 

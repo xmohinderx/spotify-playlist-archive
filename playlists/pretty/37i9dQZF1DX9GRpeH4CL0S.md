@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,413 likes - 225 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,415 likes - 225 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 224 | [The Scientist](https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 5:09 |
 | 225 | [Bring Me To Life](https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:55 |
 
-Snapshot ID: `MTY0MTEwODY0OSwwMDAwMDAwMDY5ZTg2NjIxNzk2M2I3ZmE4ZmZhZmVhMDliYjBhMGQ1`
+Snapshot ID: `MTY0MTExMDEzNCwwMDAwMDAwMDY5ZTg2NjIxNzk2M2I3ZmE4ZmZhZmVhMDliYjBhMGQ1`

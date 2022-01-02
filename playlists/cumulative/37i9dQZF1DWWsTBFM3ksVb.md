@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWsTBFM3ksVb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWsTBFM3ksVb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWsTBFM3ksVb)
 
-### [The Funny Thing About Football Is...](https://open.spotify.com/playlist/37i9dQZF1DWWsTBFM3ksVb)
+### [The Funny Thing About Football Is...](https://open.spotify.com/playlist/7AKCbIjD9wb8IuVTkgsXAp)
 
 > Comedians weigh in on all things sports, football, and \-of course\- the Super Bowl.
 

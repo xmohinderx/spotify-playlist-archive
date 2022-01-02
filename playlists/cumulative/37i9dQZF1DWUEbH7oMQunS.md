@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUEbH7oMQunS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUEbH7oMQunS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUEbH7oMQunS)
 
-### [The Good Cup](https://open.spotify.com/playlist/37i9dQZF1DWUEbH7oMQunS)
+### [The Good Cup](https://open.spotify.com/playlist/2fhEncLY2hSNlKhmKogG0k)
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 

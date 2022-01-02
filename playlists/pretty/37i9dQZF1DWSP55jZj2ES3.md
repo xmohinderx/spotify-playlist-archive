@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > grab a blanket and get the good vibes going
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,096 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,103 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 49 | [Kids](https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB) | 4:29 |
 | 50 | [upside down](https://open.spotify.com/track/27dLE8w9LrbjMNU88kUv0G) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [upside down](https://open.spotify.com/album/7L5hYe5cJOppfwmR7qmBcR) | 2:02 |
 
-Snapshot ID: `MTY0MTEwODI3MSwwMDAwMDAwMGRlY2U2Nzc2MzIxMTk5ZGYxNWVlODY1ZDViODE2NDky`
+Snapshot ID: `MTY0MTEwOTc3NiwwMDAwMDAwMGRlY2U2Nzc2MzIxMTk5ZGYxNWVlODY1ZDViODE2NDky`

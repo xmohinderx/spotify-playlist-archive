@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXboQCHLEaHcr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXboQCHLEaHcr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXboQCHLEaHcr)
 
-### [Fangirls Run the World](https://open.spotify.com/playlist/37i9dQZF1DXboQCHLEaHcr)
+### [Fangirls Run the World](https://open.spotify.com/playlist/1llK4oiMB9CMVCYdqUM4jb)
 
 > Fangirls get a lot of credit for the influence they wield\. These tracks show the full force of these empowered listeners.
 

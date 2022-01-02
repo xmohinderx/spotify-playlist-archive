@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX12YIlzNkccL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX12YIlzNkccL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX12YIlzNkccL)
 
-### [This Is Beethoven](https://open.spotify.com/playlist/37i9dQZF1DX12YIlzNkccL)
+### [This Is Beethoven](https://open.spotify.com/playlist/7npQPe6LEo683b5Sn0aaAj)
 
 > Explore Beethoven's great works in this essential playlist, featuring iconic recordings and special new releases.
 

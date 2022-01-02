@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/24HEIuw8etbkitpDCxZ1dQ.md) - cumulative - [plain](/playlists/plain/24HEIuw8etbkitpDCxZ1dQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/24HEIuw8etbkitpDCxZ1dQ)
 
-### [The Critics Choice 2012](https://open.spotify.com/playlist/24HEIuw8etbkitpDCxZ1dQ)
+### [The Critics Choice 2012](https://open.spotify.com/playlist/0gAM7iqeArqsehi0zGHYli)
 
 > A playlist with songs from the best reviewed albums in Sweden 2012.
 

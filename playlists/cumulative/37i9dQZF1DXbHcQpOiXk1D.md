@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbHcQpOiXk1D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbHcQpOiXk1D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbHcQpOiXk1D)
 
-### [Jazz UK](https://open.spotify.com/playlist/37i9dQZF1DXbHcQpOiXk1D)
+### [Jazz UK](https://open.spotify.com/playlist/59EKsWawfSCVKzHCfwFtdU)
 
 > The best from Britain's vibrant scene\. Cover: Nubya Garcia
 

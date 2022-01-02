@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbLMw3ry7d7k.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbLMw3ry7d7k) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbLMw3ry7d7k)
 
-### [Latin Hit Mix](https://open.spotify.com/playlist/37i9dQZF1DXbLMw3ry7d7k)
+### [Latin Hit Mix](https://open.spotify.com/playlist/1EklffS4Gj7dd3hCqQLa42)
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 

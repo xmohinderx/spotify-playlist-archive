@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0tdTsuJmnf6cRE22DMcgIq.md) - cumulative - [plain](/playlists/plain/0tdTsuJmnf6cRE22DMcgIq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0tdTsuJmnf6cRE22DMcgIq)
 
-### [The 2016 AMAs](https://open.spotify.com/playlist/0tdTsuJmnf6cRE22DMcgIq)
+### [The 2016 AMAs](https://open.spotify.com/playlist/4NebfyoiPcVIWyBzrOsmo9)
 
 > The American Music Awards is the world’s biggest fan\-voted award show\. This year, hosts Gigi Hadid and Jay Pharoah will share the stage with performers Bruno Mars, Twenty One Pilots, The Chainsmokers, and many more.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6Hln2awUHXX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Hln2awUHXX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Hln2awUHXX)
 
-### [This Is Wagner](https://open.spotify.com/playlist/37i9dQZF1DX6Hln2awUHXX)
+### [This Is Wagner](https://open.spotify.com/playlist/6eW0dzuq2jyc5k1ye4gn2K)
 
 > An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.
 

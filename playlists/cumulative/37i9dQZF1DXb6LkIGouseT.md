@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb6LkIGouseT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb6LkIGouseT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb6LkIGouseT)
 
-### [Dreamcatcher](https://open.spotify.com/playlist/37i9dQZF1DXb6LkIGouseT)
+### [Dreamcatcher](https://open.spotify.com/playlist/2YuyGqS2qv274A4WR1Hchl)
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 

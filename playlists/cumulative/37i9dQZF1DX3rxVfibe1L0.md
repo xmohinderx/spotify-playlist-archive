@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3rxVfibe1L0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3rxVfibe1L0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3rxVfibe1L0)
 
-### [Mood Booster](https://open.spotify.com/playlist/37i9dQZF1DX3rxVfibe1L0)
+### [Mood Booster](https://open.spotify.com/playlist/3HO0RxWBgn0Qsm0yVbDeHh)
 
 > Get happy with today's dose of feel\-good songs!
 

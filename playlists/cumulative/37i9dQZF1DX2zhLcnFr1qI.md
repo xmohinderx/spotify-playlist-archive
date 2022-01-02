@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2zhLcnFr1qI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2zhLcnFr1qI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2zhLcnFr1qI)
 
-### [Electronic Christmas](https://open.spotify.com/playlist/37i9dQZF1DX2zhLcnFr1qI)
+### [Electronic Christmas](https://open.spotify.com/playlist/4PrgY693se4AxDeLDvPstU)
 
 > Dance and Electronic tracks for the season <3
 

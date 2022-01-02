@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSTeI2WWFaia.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSTeI2WWFaia) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSTeI2WWFaia)
 
-### [Spilled Ink](https://open.spotify.com/playlist/37i9dQZF1DWSTeI2WWFaia)
+### [Spilled Ink](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 

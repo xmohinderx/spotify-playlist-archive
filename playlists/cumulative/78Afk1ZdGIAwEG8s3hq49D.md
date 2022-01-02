@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/78Afk1ZdGIAwEG8s3hq49D.md) - cumulative - [plain](/playlists/plain/78Afk1ZdGIAwEG8s3hq49D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/78Afk1ZdGIAwEG8s3hq49D)
 
-### [The Roots of..\. Mumford & Sons](https://open.spotify.com/playlist/78Afk1ZdGIAwEG8s3hq49D)
+### [The Roots of..\. Mumford & Sons](https://open.spotify.com/playlist/4X23MXUj04ZpvAlIYk7Fcd)
 
 > 
 

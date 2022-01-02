@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbcP8BbYEQaO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbcP8BbYEQaO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbcP8BbYEQaO)
 
-### [Night Pop](https://open.spotify.com/playlist/37i9dQZF1DXbcP8BbYEQaO)
+### [Night Pop](https://open.spotify.com/playlist/4uegMGWDoppa2uOkW5upmp)
 
 > dancing under streetlights type beat
 

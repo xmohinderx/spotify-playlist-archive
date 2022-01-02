@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYrlaUEYy4Vg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYrlaUEYy4Vg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYrlaUEYy4Vg)
 
-### [This Is John Mayer](https://open.spotify.com/playlist/37i9dQZF1DWYrlaUEYy4Vg)
+### [This Is John Mayer](https://open.spotify.com/playlist/4uI9CZOpzfYSGgAWYGyd75)
 
 > John Mayer's new album Sob Rock and his greatest songs all in one playlist.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6xOPeSOGone.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6xOPeSOGone) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6xOPeSOGone)
 
-### [Soft Rock](https://open.spotify.com/playlist/37i9dQZF1DX6xOPeSOGone)
+### [Soft Rock](https://open.spotify.com/playlist/1qRV6OOjOHTyxZOcARbHhF)
 
 > The great masterpieces of the genre.
 

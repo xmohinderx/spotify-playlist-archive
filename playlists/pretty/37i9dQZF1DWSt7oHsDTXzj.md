@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,949 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,947 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 49 | [Carol Of The Bells](https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK) | [The Big Moon](https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O) | [Carol Of The Bells](https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK) | 3:13 |
 | 50 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 |
 
-Snapshot ID: `MTY0MTEwODI4NCwwMDAwMDAwMGJhN2I2NTBiZDg1M2Y4YjY1ZDIwMDYzZGFhYjk3MGQ0`
+Snapshot ID: `MTY0MTEwOTc4NywwMDAwMDAwMGJhN2I2NTBiZDg1M2Y4YjY1ZDIwMDYzZGFhYjk3MGQ0`

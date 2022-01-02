@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,937,543 likes - 150 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,937,554 likes - 150 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 149 | [arms](https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:21 |
 | 150 | [Above You](https://open.spotify.com/track/19EjekqEVLA9OMubwf2g7O) | [Sophie Morgan](https://open.spotify.com/artist/5z1vMO7unisAb7KsyzAVqW) | [Sons & Daughters EP](https://open.spotify.com/album/4I8FlhZ0Ex01DLa3UMkMTS) | 3:47 |
 
-Snapshot ID: `MTY0MTEwODM3MiwwMDAwMDAwMDBiMWQ3ZDE1Njc3M2IxOTI2ZWQzNGYyNGVkMTk2ZGQ5`
+Snapshot ID: `MTY0MTEwOTg3MiwwMDAwMDAwMDBiMWQ3ZDE1Njc3M2IxOTI2ZWQzNGYyNGVkMTk2ZGQ5`

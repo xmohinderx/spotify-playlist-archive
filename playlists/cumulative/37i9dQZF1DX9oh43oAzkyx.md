@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9oh43oAzkyx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9oh43oAzkyx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9oh43oAzkyx)
 
-### [Beast Mode Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX9oh43oAzkyx)
+### [Beast Mode Hip\-Hop](https://open.spotify.com/playlist/0WLElSVMWfSouxdVbhKXLZ)
 
 > Energy tracks to get your beast mode on.
 

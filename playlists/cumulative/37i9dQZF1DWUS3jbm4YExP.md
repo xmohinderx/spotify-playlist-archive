@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUS3jbm4YExP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUS3jbm4YExP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUS3jbm4YExP)
 
-### [Global Groove](https://open.spotify.com/playlist/37i9dQZF1DWUS3jbm4YExP)
+### [Global Groove](https://open.spotify.com/playlist/4cy2JLPcTDNKlCrRVhjOKn)
 
 > Groovy sounds from around the world.
 

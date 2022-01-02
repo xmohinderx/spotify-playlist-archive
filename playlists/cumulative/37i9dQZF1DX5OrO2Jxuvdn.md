@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5OrO2Jxuvdn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5OrO2Jxuvdn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5OrO2Jxuvdn)
 
-### [Country Workout](https://open.spotify.com/playlist/37i9dQZF1DX5OrO2Jxuvdn)
+### [Country Workout](https://open.spotify.com/playlist/5OTVrhmqyuL6A91i8LMZ9x)
 
 > Sweat it out with your favorite country workout songs.
 

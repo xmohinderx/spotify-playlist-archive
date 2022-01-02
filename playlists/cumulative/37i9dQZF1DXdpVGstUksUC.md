@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdpVGstUksUC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdpVGstUksUC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdpVGstUksUC)
 
-### [Stoner Rock](https://open.spotify.com/playlist/37i9dQZF1DXdpVGstUksUC)
+### [Stoner Rock](https://open.spotify.com/playlist/4fA1HCPR2kNiiFJNe513No)
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 

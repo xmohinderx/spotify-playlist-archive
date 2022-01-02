@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
 
-### [Norah Jones Digs Jazz](https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4)
+### [Norah Jones Digs Jazz](https://open.spotify.com/playlist/3ywwixUqeVJzS3Bjhjqy1r)
 
 > <a href="spotify:artist:2Kx7MNY7cI1ENniW7vT30N">Norah Jones</a> is taking over this holiday edition of Digs Jazz to share her jazzy Christmas favorites.
 

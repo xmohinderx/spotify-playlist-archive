@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVxpHBekDUXK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVxpHBekDUXK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVxpHBekDUXK)
 
-### [Coping With Loss](https://open.spotify.com/playlist/37i9dQZF1DWVxpHBekDUXK)
+### [Coping With Loss](https://open.spotify.com/playlist/13QYcLMFMp1jHvwM1Y6Iom)
 
 > When someone you love becomes a memory..\. find solace in these songs.
 

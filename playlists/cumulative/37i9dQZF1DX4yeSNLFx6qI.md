@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4yeSNLFx6qI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4yeSNLFx6qI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4yeSNLFx6qI)
 
-### [Sin Ti](https://open.spotify.com/playlist/37i9dQZF1DX4yeSNLFx6qI)
+### [Sin Ti](https://open.spotify.com/playlist/5ip3Hsabx9kyB1i1dzdp3Y)
 
 > Se acabó el amor\. La música continúa.
 

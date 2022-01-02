@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1xAmEtLT8c17IisGUa1f4M.md) - cumulative - [plain](/playlists/plain/1xAmEtLT8c17IisGUa1f4M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1xAmEtLT8c17IisGUa1f4M)
 
-### [38 Great Female Duets](https://open.spotify.com/playlist/1xAmEtLT8c17IisGUa1f4M)
+### [38 Great Female Duets](https://open.spotify.com/playlist/4pAIZXPiJVtEhBGHqkspTs)
 
 > 38 great tunes by female singers only!
 

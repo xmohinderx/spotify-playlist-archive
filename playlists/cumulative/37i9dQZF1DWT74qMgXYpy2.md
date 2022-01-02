@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT74qMgXYpy2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT74qMgXYpy2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT74qMgXYpy2)
 
-### [Post/Trad](https://open.spotify.com/playlist/37i9dQZF1DWT74qMgXYpy2)
+### [Post/Trad](https://open.spotify.com/playlist/2xJUsXL10xTMGcRnqRGJHk)
 
 > Flute and fiddle, drums and drops.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5JcPJgYjGcf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5JcPJgYjGcf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5JcPJgYjGcf)
 
-### [This Is: EXO](https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf)
+### [This Is: EXO](https://open.spotify.com/playlist/04BvKrq9MQVW5NqhblFRE4)
 
 > All the megahits by the South Korean boy band are right here! Don't fight your feelings, EXO\-Ls!
 

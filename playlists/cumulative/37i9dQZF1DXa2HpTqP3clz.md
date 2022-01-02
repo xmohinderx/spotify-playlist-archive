@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa2HpTqP3clz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa2HpTqP3clz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa2HpTqP3clz)
 
-### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
+### [Grass Roots](https://open.spotify.com/playlist/1ohgiwSh4jFwvfDQpd6QPG)
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/18KhvyGVGWgFiASCWVYL67)
 
-> With Washed Out, Charli XCX, Tei Shi and more
+> With Washed Out, Ariel Pink, Charli XCX and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

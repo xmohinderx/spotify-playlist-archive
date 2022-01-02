@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of these gospel tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,444 likes - 40 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,445 likes - 40 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 39 | [My World Needs You \(feat\. Sarah Reeves, Tasha Cobbs & Tamela Mann\)](https://open.spotify.com/track/0GRRDzyfiF5dQU1ZpC4Ftk) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Losing My Religion](https://open.spotify.com/album/0Uvc0XDk2O8KsPIsMMdasM) | 7:03 |
 | 40 | [Praying and Believing](https://open.spotify.com/track/7hfv1V47dO8Wg930ARWsex) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Warryn Campbell Presents My Block Inc.](https://open.spotify.com/album/1cbaR2xRm6YAHgbTgr5met) | 5:12 |
 
-Snapshot ID: `MTY0MTEwODYxMiwwMDAwMDAwMDFlMDE0YTdkZGIxMzQ1NjAzZWRhN2IwZmFkMDRiZmQ4`
+Snapshot ID: `MTY0MTExMDA5OSwwMDAwMDAwMDFlMDE0YTdkZGIxMzQ1NjAzZWRhN2IwZmFkMDRiZmQ4`

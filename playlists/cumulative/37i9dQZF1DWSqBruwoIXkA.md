@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSqBruwoIXkA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSqBruwoIXkA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSqBruwoIXkA)
 
-### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
+### [sad hour](https://open.spotify.com/playlist/6tJGIzI3K3tQit8JSbnL1t)
 
 > Sad Boy Winter has landed\. Cover: Shawn Mendes
 

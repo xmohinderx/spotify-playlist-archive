@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4oUPBOaEkL6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4oUPBOaEkL6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4oUPBOaEkL6)
 
-### [Éxitos USA](https://open.spotify.com/playlist/37i9dQZF1DX4oUPBOaEkL6)
+### [Éxitos USA](https://open.spotify.com/playlist/5twlBAlAWZLOSaOy4NqQKe)
 
 > The hottest Latin hits in the US! Cover:<br/>Bad Bunny, Tainy, Julieta Venegas
 

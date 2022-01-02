@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1npVCZGxmhbfhAyeDEqhwA.md) - cumulative - [plain](/playlists/plain/1npVCZGxmhbfhAyeDEqhwA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1npVCZGxmhbfhAyeDEqhwA)
 
-### [Disclosure's Spotify Playlist](https://open.spotify.com/playlist/1npVCZGxmhbfhAyeDEqhwA)
+### [Disclosure's Spotify Playlist](https://open.spotify.com/playlist/0eSfhndiDzfd93LIRBEA2B)
 
 > 
 

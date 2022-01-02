@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaEC8MQ0kjtY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaEC8MQ0kjtY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaEC8MQ0kjtY)
 
-### [This Is: Troye Sivan](https://open.spotify.com/playlist/37i9dQZF1DXaEC8MQ0kjtY)
+### [This Is: Troye Sivan](https://open.spotify.com/playlist/3ivnynU1UfJBhUY1xHyMSc)
 
 > Take a look at Australia's future king of Pop.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2pprEpa9URZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2pprEpa9URZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2pprEpa9URZ)
 
-### [Orgánica](https://open.spotify.com/playlist/37i9dQZF1DX2pprEpa9URZ)
+### [Orgánica](https://open.spotify.com/playlist/72tvy5oFSSxWjO9lGxm3Vs)
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 

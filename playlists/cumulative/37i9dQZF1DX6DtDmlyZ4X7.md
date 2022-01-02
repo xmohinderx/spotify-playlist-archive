@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6DtDmlyZ4X7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6DtDmlyZ4X7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6DtDmlyZ4X7)
 
-### [Pluggfokus](https://open.spotify.com/playlist/37i9dQZF1DX6DtDmlyZ4X7)
+### [Pluggfokus](https://open.spotify.com/playlist/52Fr5IPXybxilHn8pRZsZs)
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 

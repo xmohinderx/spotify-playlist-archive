@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,760 likes - 80 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,767 likes - 80 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Making Plans For Nigel](https://open.spotify.com/track/3ey3YMZLdl1tQjbz7EJkKG) | [XTC](https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz) | [The Compact XTC](https://open.spotify.com/album/6NYMUVXpzsA4XIBD3TmQCA) | 3:53 |
 | 80 | [Love Buzz](https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl) | 3:35 |
 
-Snapshot ID: `MTY0MTEwODI5OCwwMDAwMDAwMDc5ODA2NjJmZjE4ZmU5YWYyNTkyNjI4ZWUyNTIwZDll`
+Snapshot ID: `MTY0MTEwOTgwMSwwMDAwMDAwMDc5ODA2NjJmZjE4ZmU5YWYyNTkyNjI4ZWUyNTIwZDll`

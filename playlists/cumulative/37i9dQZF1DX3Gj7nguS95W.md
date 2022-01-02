@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Gj7nguS95W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Gj7nguS95W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Gj7nguS95W)
 
-### [Is it New Wave?](https://open.spotify.com/playlist/37i9dQZF1DX3Gj7nguS95W)
+### [Is it New Wave?](https://open.spotify.com/playlist/2qBeUMhQx086WYIDXozY1G)
 
 > New wave took the 70s punk blueprint and ran wild! Cover: Blondie
 

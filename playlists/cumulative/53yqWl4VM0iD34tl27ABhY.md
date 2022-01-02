@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/53yqWl4VM0iD34tl27ABhY.md) - cumulative - [plain](/playlists/plain/53yqWl4VM0iD34tl27ABhY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/53yqWl4VM0iD34tl27ABhY)
 
-### [Walter \- Dangerous](https://open.spotify.com/playlist/53yqWl4VM0iD34tl27ABhY)
+### [Walter \- Dangerous](https://open.spotify.com/playlist/1X44RiGjWF1fMA3WnQMb1p)
 
 > 
 

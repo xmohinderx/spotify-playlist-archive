@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,375 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,378 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Honey, There's the Door](https://open.spotify.com/track/4s52lp8tyE4uDFZgKQIrPh) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Lo\-Fi Soul](https://open.spotify.com/album/4EyTf708dFclXh8ALP4saW) | 3:43 |
 | 100 | [Saint](https://open.spotify.com/track/6f6FKPRVzfZWVQBarW574H) | [Maggie Rose](https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn) | [Saint](https://open.spotify.com/album/3SVZKcujNG8IIZCPj6T7PO) | 4:41 |
 
-Snapshot ID: `MTY0MTEwODcyMiwwMDAwMDAwMDBkNWE1ZGRjYWRhYjUzYzJlZDFiZGI4ZTRlOGIyMzli`
+Snapshot ID: `MTY0MTExMDE5NywwMDAwMDAwMDBkNWE1ZGRjYWRhYjUzYzJlZDFiZGI4ZTRlOGIyMzli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,878 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,881 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 99 | [Francesca](https://open.spotify.com/track/4SKt118N7T1TKhodbTPNw9) | [Classixx](https://open.spotify.com/artist/0vUTfcBDZZo2OUQJci5UNZ), [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Francesca / Weekends](https://open.spotify.com/album/7mJkDAmNIiSWCRZHBuiuwS) | 3:39 |
 | 100 | [No Time](https://open.spotify.com/track/6gwiFsxGASUDfVg6Zih2ma) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [No Time \(Reworks\)](https://open.spotify.com/album/1AQpg5XKZIzX4qqtHco3ej) | 3:56 |
 
-Snapshot ID: `MTY0MTEwODU1MywwMDAwMDAwMGUxZGU5MjVlOGVhZDJiYTBkMDkxZWFkOTQ1NDQ3ZDc4`
+Snapshot ID: `MTY0MTExMDA0MywwMDAwMDAwMGUxZGU5MjVlOGVhZDJiYTBkMDkxZWFkOTQ1NDQ3ZDc4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,412 likes - 147 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,413 likes - 147 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FsCLsHeMrM.md) - [plain]
 | 146 | [Let Me Love You](https://open.spotify.com/track/5xV0Czdqefft6sPDqjmFBu) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Turning Point](https://open.spotify.com/album/332c3yPZilz3OnqZKpRxl7) | 4:09 |
 | 147 | [Limbo](https://open.spotify.com/track/03izwX5zArWwRPVB9lNtSx) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Limbo/Lagune](https://open.spotify.com/album/04B1wnvfsJF97vAf4pUaLJ) | 3:10 |
 
-Snapshot ID: `MTY0MTEwODQ4NSwwMDAwMDAwMDBiOTY5MjI5MTgyNzNiMzhhNzQ4NmE3ODdmMjZlMTdm`
+Snapshot ID: `MTY0MTEwOTk3OCwwMDAwMDAwMDBiOTY5MjI5MTgyNzNiMzhhNzQ4NmE3ODdmMjZlMTdm`

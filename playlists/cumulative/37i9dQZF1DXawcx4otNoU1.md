@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXawcx4otNoU1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXawcx4otNoU1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXawcx4otNoU1)
 
-### [Spooning](https://open.spotify.com/playlist/37i9dQZF1DXawcx4otNoU1)
+### [Spooning](https://open.spotify.com/playlist/18y1K7szva4ApQnZGnbzQT)
 
 > This is the perfect playlist for those cozy moments.
 

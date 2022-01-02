@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWF3yivn1m3D.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWF3yivn1m3D) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWF3yivn1m3D)
 
-### [This Is Hans Zimmer](https://open.spotify.com/playlist/37i9dQZF1DWWF3yivn1m3D)
+### [This Is Hans Zimmer](https://open.spotify.com/playlist/0h0rKNbh1QO8K3v7LZmRWf)
 
 > The best of the legendary composer.
 

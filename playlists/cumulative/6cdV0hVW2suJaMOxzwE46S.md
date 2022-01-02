@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6cdV0hVW2suJaMOxzwE46S.md) - cumulative - [plain](/playlists/plain/6cdV0hVW2suJaMOxzwE46S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6cdV0hVW2suJaMOxzwE46S)
 
-### [I Hate My Job.](https://open.spotify.com/playlist/6cdV0hVW2suJaMOxzwE46S)
+### [I Hate My Job.](https://open.spotify.com/playlist/1LZhguuuCLVWrj2DRG7zyI)
 
 > We've all been there\. This playlist can help\. Just don't let your boss catch you listening....
 

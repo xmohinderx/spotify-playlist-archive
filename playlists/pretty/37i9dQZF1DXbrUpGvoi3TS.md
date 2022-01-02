@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,997,968 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,997,974 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [Piano In The Sky](https://open.spotify.com/track/5nCrHjb9e3zWDL6Svvxxwl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Piano In The Sky](https://open.spotify.com/album/6clMKEBohRIk5boUGSr2AL) | 3:10 |
 | 100 | [Can You Hold Me](https://open.spotify.com/track/3w1dGSbR4VwfYvnPELox70) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Mansion](https://open.spotify.com/album/4s9KbOQEr7TnpSDW2EqKBa) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODcxMCwwMDAwMDAwMGY0YTE4YzhlMWZhMDUwZmNhNDFkZGM3MTYxMTQ0YThh`
+Snapshot ID: `MTY0MTExMDE4NiwwMDAwMDAwMGY0YTE4YzhlMWZhMDUwZmNhNDFkZGM3MTYxMTQ0YThh`

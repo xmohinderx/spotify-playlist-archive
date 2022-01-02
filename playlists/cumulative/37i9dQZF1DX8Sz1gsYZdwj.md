@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8Sz1gsYZdwj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Sz1gsYZdwj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Sz1gsYZdwj)
 
-### [Classical Sleep](https://open.spotify.com/playlist/37i9dQZF1DX8Sz1gsYZdwj)
+### [Classical Sleep](https://open.spotify.com/playlist/6X8ndrQOY4J5GaSSbdpL1O)
 
 > Drift off to these peaceful classical melodies.
 

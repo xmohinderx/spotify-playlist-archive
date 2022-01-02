@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 
 > those songs that make you feel like you're levitating
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,671 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,689 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY5eNJoKHd2.md) - [plain]
 | 49 | [Mile High \(feat\. Travis Scott & Metro Boomin\)](https://open.spotify.com/track/4cQrSREMqBSvJ8ZzBZjVb8) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:13 |
 | 50 | [Crust](https://open.spotify.com/track/3KsS9NkC5ZlPAIWpGoL5Sx) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/4duUlv53npBm7EmqxTT1kj) | 2:13 |
 
-Snapshot ID: `MTY0MTEwODMzNSwwMDAwMDAwMDZkMWI3ODI4MTcwNDZmOWQxZGExNWFmM2MxMzYxZjc2`
+Snapshot ID: `MTY0MTEwOTgzNywwMDAwMDAwMDZkMWI3ODI4MTcwNDZmOWQxZGExNWFmM2MxMzYxZjc2`

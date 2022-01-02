@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXajUXy2f1Dsi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajUXy2f1Dsi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajUXy2f1Dsi)
 
-### [Top Latin Classical](https://open.spotify.com/playlist/37i9dQZF1DXajUXy2f1Dsi)
+### [Top Latin Classical](https://open.spotify.com/playlist/71q5Jmn3Q3kxIzC8bbBwvL)
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 

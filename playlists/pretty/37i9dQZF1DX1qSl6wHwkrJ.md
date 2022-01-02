@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,421 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,422 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 49 | [One Day Till Christmas](https://open.spotify.com/track/4lcYwGFhEijTzLREKZ2e9e) | [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [The Northern Blues Legends](https://open.spotify.com/artist/7DRHyLQgMp82jetXfhYBeR) | [Blues from the Heart](https://open.spotify.com/album/6qUDZFzGzV0Y8r9YhaPKre) | 5:20 |
 | 50 | [Santa Claus](https://open.spotify.com/track/1gYi8O7dAFAlaqckT5kNzy) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 2:57 |
 
-Snapshot ID: `MTY0MTEwODQ3MywwMDAwMDAwMDA2ZTdiMGIzMjIxZDI2NWJlZjQzOTJhOWRhYzdkNzc5`
+Snapshot ID: `MTY0MTEwOTk2NywwMDAwMDAwMDA2ZTdiMGIzMjIxZDI2NWJlZjQzOTJhOWRhYzdkNzc5`

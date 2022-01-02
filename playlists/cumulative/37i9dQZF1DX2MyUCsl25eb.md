@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2MyUCsl25eb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2MyUCsl25eb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2MyUCsl25eb)
 
-### [Morning Commute](https://open.spotify.com/playlist/37i9dQZF1DX2MyUCsl25eb)
+### [Morning Commute](https://open.spotify.com/playlist/5aOC3Wi6MSjtqKeAIF8G0z)
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 

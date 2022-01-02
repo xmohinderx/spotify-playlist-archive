@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRAIdXzR5R1.md) - [plain]
 
 > With one of his biggest hits 'Summer of 69', he has contributed more than 30 years to the arts, particularly as a musician and also as an established photographer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,484 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,486 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

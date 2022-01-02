@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 79 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 |
 | 80 | [Close Your Eyes](https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Close Your Eyes](https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE) | 2:40 |
 
-Snapshot ID: `MTY0MTEwODYwNiwwMDAwMDAwMDk5ODNlODUwY2M0M2FjNGI3Zjg3YWY2YWQxYWIyZDYy`
+Snapshot ID: `MTY0MTExMDA5NCwwMDAwMDAwMDk5ODNlODUwY2M0M2FjNGI3Zjg3YWY2YWQxYWIyZDYy`

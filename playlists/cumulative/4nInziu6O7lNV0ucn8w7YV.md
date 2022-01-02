@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4nInziu6O7lNV0ucn8w7YV.md) - cumulative - [plain](/playlists/plain/4nInziu6O7lNV0ucn8w7YV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4nInziu6O7lNV0ucn8w7YV)
 
-### [Spotify Global Hits](https://open.spotify.com/playlist/4nInziu6O7lNV0ucn8w7YV)
+### [Spotify Global Hits](https://open.spotify.com/playlist/5mpySLm4uWYF1JjHjUt153)
 
 > 
 

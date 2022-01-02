@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXarlH9zHuV0v.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXarlH9zHuV0v) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXarlH9zHuV0v)
 
-### [Ultimate Halloween](https://open.spotify.com/playlist/37i9dQZF1DXarlH9zHuV0v)
+### [Ultimate Halloween](https://open.spotify.com/playlist/4VnJnCxoPD2MaeAi0lWMl1)
 
 > A playlist of spooky songs to get you ready for fright night!
 

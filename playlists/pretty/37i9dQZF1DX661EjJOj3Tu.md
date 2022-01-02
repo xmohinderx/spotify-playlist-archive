@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,445 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,447 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Nica's Dream](https://open.spotify.com/track/1i752YT3Ti4CbuZtMpmyGH) | [Conrad Herwig](https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI) | [The Latin Side of Horace Silver](https://open.spotify.com/album/6Plg1VTOVvb6kt2Gxcd7Ix) | 7:38 |
 | 100 | [La Comparsa](https://open.spotify.com/track/0cWrotZwqQAUrYpEeliVuR) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [New Conceptions](https://open.spotify.com/album/4lWVDzxHpWQbyUSrR5AyiH) | 6:56 |
 
-Snapshot ID: `MTY0MTEwODU3OSwwMDAwMDAwMGJlZjQwM2ZjZDdmMWIyNjRjNGVmMmM0NDg5NmVkYTgz`
+Snapshot ID: `MTY0MTExMDA2OSwwMDAwMDAwMGJlZjQwM2ZjZDdmMWIyNjRjNGVmMmM0NDg5NmVkYTgz`

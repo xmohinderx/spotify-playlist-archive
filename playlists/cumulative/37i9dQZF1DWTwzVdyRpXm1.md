@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTwzVdyRpXm1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTwzVdyRpXm1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTwzVdyRpXm1)
 
-### [Desi Hits](https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1)
+### [Desi Hits](https://open.spotify.com/playlist/5pITaMwZ6Z8u14yHLHyyaQ)
 
 > Desi hits from South Asia\. Cover: Badshah
 

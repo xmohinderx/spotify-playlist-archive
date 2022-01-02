@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTYPRTIhI2jZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTYPRTIhI2jZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTYPRTIhI2jZ)
 
-### [Honey Dijon's track IDs](https://open.spotify.com/playlist/37i9dQZF1DWTYPRTIhI2jZ)
+### [Honey Dijon's track IDs](https://open.spotify.com/playlist/26pgehX1ipT0qyKlAqJXDp)
 
 > <a href="spotify:artist:0XfQBWgzisaS9ltDV9bXAS">Honey Dijon</a>'s favorite tracks\. Updated regularly\. Curated by Honey Dijon\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 

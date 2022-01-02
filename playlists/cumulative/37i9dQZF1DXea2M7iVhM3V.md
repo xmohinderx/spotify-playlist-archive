@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXea2M7iVhM3V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXea2M7iVhM3V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXea2M7iVhM3V)
 
-### [Killing It](https://open.spotify.com/playlist/37i9dQZF1DXea2M7iVhM3V)
+### [Killing It](https://open.spotify.com/playlist/5Q6IMDAfsGWBrdnbUcY7mG)
 
 > Kill it today with this awesome Hip Hop.
 

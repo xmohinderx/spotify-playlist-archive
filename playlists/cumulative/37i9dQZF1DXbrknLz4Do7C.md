@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbrknLz4Do7C.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbrknLz4Do7C) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbrknLz4Do7C)
 
-### [Top Christian Presents..\. Best Christian & Gospel Songs of 2021](https://open.spotify.com/playlist/37i9dQZF1DXbrknLz4Do7C)
+### [Top Christian Presents..\. Best Christian & Gospel Songs of 2021](https://open.spotify.com/playlist/0IzMblP0V9gLxyS2I1i6Zs)
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: Maverick City Music and Elevation Worship
 

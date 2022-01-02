@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2x3RAa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2x3RAa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2x3RAa)
 
-### [This Is Sonny Okosun](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2x3RAa)
+### [This Is Sonny Okosun](https://open.spotify.com/playlist/0a2chP1EajQG8cINpQWqPB)
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 

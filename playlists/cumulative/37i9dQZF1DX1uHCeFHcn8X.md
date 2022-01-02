@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1uHCeFHcn8X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1uHCeFHcn8X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1uHCeFHcn8X)
 
-### [Soft 10s](https://open.spotify.com/playlist/37i9dQZF1DX1uHCeFHcn8X)
+### [Soft 10s](https://open.spotify.com/playlist/0GlX4cdlG7EraWNs6wkYYs)
 
 > Mellow songs from the 2010s.
 

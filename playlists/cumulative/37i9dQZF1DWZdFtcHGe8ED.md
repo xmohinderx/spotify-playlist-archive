@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZdFtcHGe8ED.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZdFtcHGe8ED) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZdFtcHGe8ED)
 
-### [Thrashers](https://open.spotify.com/playlist/37i9dQZF1DWZdFtcHGe8ED)
+### [Thrashers](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 > All the new tunes in the Thrash world.
 

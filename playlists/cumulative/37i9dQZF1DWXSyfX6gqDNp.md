@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXSyfX6gqDNp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXSyfX6gqDNp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXSyfX6gqDNp)
 
-### [Evening Jazz](https://open.spotify.com/playlist/37i9dQZF1DWXSyfX6gqDNp)
+### [Evening Jazz](https://open.spotify.com/playlist/5fb91bkAejoTbTEhFeEeo3)
 
 > Slow jazz for evening listening pleasure.
 

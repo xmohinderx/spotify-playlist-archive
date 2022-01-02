@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Sfven
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,364 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,366 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 99 | [everything i wanted](https://open.spotify.com/track/1wv5JHXkjjtAm7CwADyOot) | [Thom Southern](https://open.spotify.com/artist/3YGkI2PubCC6INbbtcpglJ) | [everything i wanted](https://open.spotify.com/album/3fkykLpZgpkeKHFE3XrZHm) | 4:20 |
 | 100 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
 
-Snapshot ID: `MTY0MTEwODQzNCwwMDAwMDAwMDZlOGJmNmIwZjMwOTk1NzU3YjRlYWJjNzMxNjEzMjJi`
+Snapshot ID: `MTY0MTEwOTkzMSwwMDAwMDAwMDZlOGJmNmIwZjMwOTk1NzU3YjRlYWJjNzMxNjEzMjJi`

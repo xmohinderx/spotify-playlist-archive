@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > A collection of rock's best power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,013,800 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,013,807 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [Wasting Love \- 1998 Remastered Version](https://open.spotify.com/track/2DFTsbBalul96hXk8Af5qP) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear Of The Dark \(1998 Remastered Edition\)](https://open.spotify.com/album/6NWFRuPH02C5mBf909pQ26) | 5:50 |
 | 100 | [Oh! Darling \- 2019 Mix](https://open.spotify.com/track/0vCuYbvaN9wd8dA0LZ40i7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Oh! Darling](https://open.spotify.com/album/3mzeYrRmSSnOjEvJaaZVR9) | 3:27 |
 
-Snapshot ID: `MTY0MTEwODYyMSwwMDAwMDAwMGRmOGU1ZWYzNGNkYjY3ZDljZWQ1NTkwZTQ1YTM3NzI2`
+Snapshot ID: `MTY0MTExMDEwOCwwMDAwMDAwMGRmOGU1ZWYzNGNkYjY3ZDljZWQ1NTkwZTQ1YTM3NzI2`

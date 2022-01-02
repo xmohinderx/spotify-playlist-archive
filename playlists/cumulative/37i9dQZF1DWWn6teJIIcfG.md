@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWn6teJIIcfG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWn6teJIIcfG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWn6teJIIcfG)
 
-### [Creative Focus](https://open.spotify.com/playlist/37i9dQZF1DWWn6teJIIcfG)
+### [Creative Focus](https://open.spotify.com/playlist/7jjPP4PUX9hnS6yWYHRUMC)
 
 > Get your creative juices flowing with these instrumental masterpieces.
 

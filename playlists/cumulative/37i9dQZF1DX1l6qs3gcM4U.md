@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1l6qs3gcM4U.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1l6qs3gcM4U) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1l6qs3gcM4U)
 
-### [Dancing Kizomba](https://open.spotify.com/playlist/37i9dQZF1DX1l6qs3gcM4U)
+### [Dancing Kizomba](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Djodje
 

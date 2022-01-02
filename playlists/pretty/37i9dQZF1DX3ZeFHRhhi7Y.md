@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 
 > Workout to K\-Pop? Count me in! \(Cover: IVE\) \(신나는 케이팝 댄스 음악과 함께 운동을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,893 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,906 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZeFHRhhi7Y.md) - [plain]
 | 99 | [Ridin'](https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Reload](https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r) | 3:21 |
 | 100 | [Ah puh](https://open.spotify.com/track/1IJxbEXfgiKuRx6oXMX87e) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:20 |
 
-Snapshot ID: `MTY0MTEwODUxOCwwMDAwMDAwMGQ1ZmFiYzkzZmZiOWRlZWU0NjYzNjdlMzQ2YzRhN2Rk`
+Snapshot ID: `MTY0MTExMDAxMCwwMDAwMDAwMGQ1ZmFiYzkzZmZiOWRlZWU0NjYzNjdlMzQ2YzRhN2Rk`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2Ky26QAfAYo2Zdlo8MqcdH.md) - cumulative - [plain](/playlists/plain/2Ky26QAfAYo2Zdlo8MqcdH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Ky26QAfAYo2Zdlo8MqcdH)
 
-### [Punkcake](https://open.spotify.com/playlist/2Ky26QAfAYo2Zdlo8MqcdH)
+### [Punkcake](https://open.spotify.com/playlist/3WWZlwJ5WvJWKrAIwZJKuF)
 
 > Listen the best of punk pop during your breakfast.
 

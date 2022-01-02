@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWNQEmXRHxVe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNQEmXRHxVe)
 
-### [Halftime Hits](https://open.spotify.com/playlist/37i9dQZF1DWWNQEmXRHxVe)
+### [Halftime Hits](https://open.spotify.com/playlist/5zpvS71N2xg1yMnwTPmsSA)
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: <a href="spotify:artist:0EmeFodog0BfCgMzAIvKQp">Shakira</a> &  <a href="spotify:artist:2DlGxzQSjYe5N6G9nkYghR">Jennifer Lopez</a>
 

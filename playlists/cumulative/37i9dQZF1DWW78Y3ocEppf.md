@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW78Y3ocEppf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW78Y3ocEppf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW78Y3ocEppf)
 
-### [Some Kinda Way](https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf)
+### [Some Kinda Way](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 > The feelings you can't put into words...only songs\. Cover: Mariah The Scientist
 

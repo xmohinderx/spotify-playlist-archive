@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0XUfTFmNBRM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0XUfTFmNBRM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0XUfTFmNBRM)
 
-### [Top Hits Hindi](https://open.spotify.com/playlist/37i9dQZF1DX0XUfTFmNBRM)
+### [Top Hits Hindi](https://open.spotify.com/playlist/62e26QUbeJ31xjxLbj35D3)
 
 > Hottest Hindi music served here\. Cover\- Badshah & Akanksha Sharma
 

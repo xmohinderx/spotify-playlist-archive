@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdR77H5Z8MIM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdR77H5Z8MIM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdR77H5Z8MIM)
 
-### [Nolja!](https://open.spotify.com/playlist/37i9dQZF1DXdR77H5Z8MIM)
+### [Nolja!](https://open.spotify.com/playlist/39wzMqbKWozYJSfwexJqx9)
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TOMORROW X TOGETHER
 

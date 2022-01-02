@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0GO2iStOATx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0GO2iStOATx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0GO2iStOATx)
 
-### [This Is Diljit Dosanjh](https://open.spotify.com/playlist/37i9dQZF1DX0GO2iStOATx)
+### [This Is Diljit Dosanjh](https://open.spotify.com/playlist/1YYq19yeL3exqlU80VrRlo)
 
 > Punjabi superstar’s biggest hits.
 

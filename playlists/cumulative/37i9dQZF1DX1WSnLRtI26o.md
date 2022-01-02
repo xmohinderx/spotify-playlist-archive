@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1WSnLRtI26o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1WSnLRtI26o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1WSnLRtI26o)
 
-### [Happy Drive](https://open.spotify.com/playlist/37i9dQZF1DX1WSnLRtI26o)
+### [Happy Drive](https://open.spotify.com/playlist/7hzvHKwkDQ5iYg92Vjtc0a)
 
 > Let your favorite pop guide you through your daily commute! Cover: Dua Lipa
 

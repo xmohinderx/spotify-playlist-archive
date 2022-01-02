@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXajE2Hhh3n7i.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXajE2Hhh3n7i) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXajE2Hhh3n7i)
 
-### [This Is: Fela Kuti](https://open.spotify.com/playlist/37i9dQZF1DXajE2Hhh3n7i)
+### [This Is: Fela Kuti](https://open.spotify.com/playlist/1YBaVRgo4G8vZpBQHKATBs)
 
 > It's a Felabration\. The <a href="spotify:artist:5CG9X521RDFWCuAhlo6QoR">Black President</a>'s grooves still resonate—preorder the Erykah Badu\-curated <a href="https://regulartrademark.fela.net/products/fela\-kuti\-box\-set\-4\-curated\-by\-erykah\-badu?variant=1711344746520">Fela Kuti Box Set \#4</a>, out Dec 15.
 

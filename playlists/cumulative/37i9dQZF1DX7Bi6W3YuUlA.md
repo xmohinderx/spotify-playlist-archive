@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7Bi6W3YuUlA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7Bi6W3YuUlA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7Bi6W3YuUlA)
 
-### [Blessings](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
+### [Blessings](https://open.spotify.com/playlist/335WJRer6HYh9zgu1XDap1)
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 

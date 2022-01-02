@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUrPBdYfoJvz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUrPBdYfoJvz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrPBdYfoJvz)
 
-### [Ambient Essentials](https://open.spotify.com/playlist/37i9dQZF1DWUrPBdYfoJvz)
+### [Ambient Essentials](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 

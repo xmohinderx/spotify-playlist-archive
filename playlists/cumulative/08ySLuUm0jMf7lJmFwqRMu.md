@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/08ySLuUm0jMf7lJmFwqRMu.md) - cumulative - [plain](/playlists/plain/08ySLuUm0jMf7lJmFwqRMu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/08ySLuUm0jMf7lJmFwqRMu)
 
-### [Skyler \- Strong](https://open.spotify.com/playlist/08ySLuUm0jMf7lJmFwqRMu)
+### [Skyler \- Strong](https://open.spotify.com/playlist/2lq0Y2HoM0kmGJwYzf6pQV)
 
 > 
 

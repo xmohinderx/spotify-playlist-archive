@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX09mi3a4Zmox.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX09mi3a4Zmox) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX09mi3a4Zmox)
 
-### [Baladas Románticas](https://open.spotify.com/playlist/37i9dQZF1DX09mi3a4Zmox)
+### [Baladas Románticas](https://open.spotify.com/playlist/4hPTfvpIVMop23bArXlzb6)
 
 > Música para enamorarse.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5QZZbWjNVjynssxTuO3f0f.md) - cumulative - [plain](/playlists/plain/5QZZbWjNVjynssxTuO3f0f) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5QZZbWjNVjynssxTuO3f0f)
 
-### [Top Picks Pop Culture](https://open.spotify.com/playlist/5QZZbWjNVjynssxTuO3f0f)
+### [Top Picks Pop Culture](https://open.spotify.com/playlist/1j2j0EQn8xFZTrfNRCKuY2)
 
 > 
 

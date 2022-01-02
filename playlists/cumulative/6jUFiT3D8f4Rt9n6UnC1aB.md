@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6jUFiT3D8f4Rt9n6UnC1aB.md) - cumulative - [plain](/playlists/plain/6jUFiT3D8f4Rt9n6UnC1aB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6jUFiT3D8f4Rt9n6UnC1aB)
 
-### [One Perfect Day](https://open.spotify.com/playlist/6jUFiT3D8f4Rt9n6UnC1aB)
+### [One Perfect Day](https://open.spotify.com/playlist/43ALpzbkjuyf1MtDS7pB1C)
 
 > 
 

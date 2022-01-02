@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,335 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,334 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Surfman Cometh](https://open.spotify.com/track/0XLCAcfMcypLKvnBFFbnaB) | [The Expendables](https://open.spotify.com/artist/2OpHxx1SArSMlBrIMM0aV9) | [Surfman Cometh](https://open.spotify.com/album/1YKCOqSvMTH4I8eAAgqkP7) | 5:35 |
 | 100 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
 
-Snapshot ID: `MTY0MTEwODYyMiwwMDAwMDAwMDUwMjE4NDFjMTU5M2JlM2VhMTY0Mzg5N2ViNzdlNmU0`
+Snapshot ID: `MTY0MTExMDEwOSwwMDAwMDAwMDUwMjE4NDFjMTU5M2JlM2VhMTY0Mzg5N2ViNzdlNmU0`

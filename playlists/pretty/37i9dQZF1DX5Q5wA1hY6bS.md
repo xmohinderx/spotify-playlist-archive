@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > Because the best things in life are wild and free...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,477,593 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,477,594 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 99 | [Rolling On](https://open.spotify.com/track/4kOLAEpK2YKpcMMnjVdiXy) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [While I Was Asleep](https://open.spotify.com/album/7jQ7ceeE30vZUGibxHNWVc) | 3:58 |
 | 100 | [Call Me In The Afternoon](https://open.spotify.com/track/2BBb3UMJBNlofpC25pbSp4) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0FCAIjkz366qJJbLe7RSis) | 3:13 |
 
-Snapshot ID: `MTY0MTEwODU2NCwwMDAwMDAwMDkxYzY3NWNlYjAwZDg0ZDQxODMxNmEwMTYyNDAxMjhi`
+Snapshot ID: `MTY0MTExMDA1NCwwMDAwMDAwMDkxYzY3NWNlYjAwZDg0ZDQxODMxNmEwMTYyNDAxMjhi`

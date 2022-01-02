@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 
 > The tracks that gamers love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,096,828 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,096,856 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyiBJ6yEqeu.md) - [plain]
 | 149 | [Ski](https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 2:32 |
 | 150 | [We Paid \(feat\. 42 Dugg\)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:01 |
 
-Snapshot ID: `MTY0MTEwODMwOCwwMDAwMDAwMDI5ZmJlODQ3OGQ2YjQ1MmIyODhlOTJlYTQyMTgwODI0`
+Snapshot ID: `MTY0MTEwOTgxMSwwMDAwMDAwMDI5ZmJlODQ3OGQ2YjQ1MmIyODhlOTJlYTQyMTgwODI0`

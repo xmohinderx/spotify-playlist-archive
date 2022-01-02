@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVcV87ePAqAq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVcV87ePAqAq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVcV87ePAqAq)
 
-### [Fest!](https://open.spotify.com/playlist/37i9dQZF1DWVcV87ePAqAq)
+### [Fest!](https://open.spotify.com/playlist/0p8DpxU3K1bFOSWPIoQiEH)
 
 > Gott nytt år!
 

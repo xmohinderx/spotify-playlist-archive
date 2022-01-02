@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: FKA Twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,804 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,809 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 99 | [GO](https://open.spotify.com/track/6W8XOCAudICxfCjiNgH35p) | [MIA GLADSTONE](https://open.spotify.com/artist/6XoXNsXj8wck0oVUNwxcmF) | [CYCLE/S](https://open.spotify.com/album/10O6gdA0uhYKbwW7F7BuAG) | 3:26 |
 | 100 | [Our Love](https://open.spotify.com/track/4ouHnqx22lzTZHr2hEt5aH) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd) | 3:52 |
 
-Snapshot ID: `MTY0MTEwODY0NCwwMDAwMDAwMDNiOTQwZjlhNjcxODNhZTMzOWZkZDU3YjE5NDBiMjFi`
+Snapshot ID: `MTY0MTExMDEzMCwwMDAwMDAwMDNiOTQwZjlhNjcxODNhZTMzOWZkZDU3YjE5NDBiMjFi`

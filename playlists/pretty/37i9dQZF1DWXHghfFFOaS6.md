@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Jazz, hip\-hop and funk in one flavor\. Cover: Guru
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,103 likes - 90 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,106 likes - 90 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Gimme One of Those](https://open.spotify.com/track/4FW31x4Ua6yvT4dpmoNl7b) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [Brand New Heavies \(Deluxe\)](https://open.spotify.com/album/3QcEUxwfXyyf29RY7xCXIz) | 3:42 |
 | 90 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 
-Snapshot ID: `MTY0MTEwODM3MywwMDAwMDAwMDQ1MzUyYjY5NzE1YTIxYmM3NDQ4ZjdiZDAyNDgzYjZk`
+Snapshot ID: `MTY0MTEwOTg3NCwwMDAwMDAwMDQ1MzUyYjY5NzE1YTIxYmM3NDQ4ZjdiZDAyNDgzYjZk`

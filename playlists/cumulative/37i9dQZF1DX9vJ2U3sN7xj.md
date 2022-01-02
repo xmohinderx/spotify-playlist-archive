@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9vJ2U3sN7xj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9vJ2U3sN7xj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9vJ2U3sN7xj)
 
-### [Farruko's New Year's Party](https://open.spotify.com/playlist/37i9dQZF1DX9vJ2U3sN7xj)
+### [Farruko's New Year's Party](https://open.spotify.com/playlist/5eXuOI8iXcS60FLs5oYxg0)
 
 > You can't do New year's without Farruko! Listen to his party starter kit right here.
 

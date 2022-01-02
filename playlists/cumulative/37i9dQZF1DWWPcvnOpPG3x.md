@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWPcvnOpPG3x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWPcvnOpPG3x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWPcvnOpPG3x)
 
-### [Run This Town](https://open.spotify.com/playlist/37i9dQZF1DWWPcvnOpPG3x)
+### [Run This Town](https://open.spotify.com/playlist/5okw0xKXUK9lSuLXVKNMCM)
 
 > Run to the world of R&B and hip\-hop.
 

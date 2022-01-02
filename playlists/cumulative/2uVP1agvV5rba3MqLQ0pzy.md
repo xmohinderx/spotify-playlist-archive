@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2uVP1agvV5rba3MqLQ0pzy.md) - cumulative - [plain](/playlists/plain/2uVP1agvV5rba3MqLQ0pzy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2uVP1agvV5rba3MqLQ0pzy)
 
-### [Avant Folk](https://open.spotify.com/playlist/2uVP1agvV5rba3MqLQ0pzy)
+### [Avant Folk](https://open.spotify.com/playlist/5V7jCBLFJXjdWEZa2Mf5PC)
 
 > Despite their nomenclature defying eclecticism, these folk inspired artists share a collective penchant for welding experimentation with tradition.
 

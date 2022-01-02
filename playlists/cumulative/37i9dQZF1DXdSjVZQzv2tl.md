@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdSjVZQzv2tl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdSjVZQzv2tl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdSjVZQzv2tl)
 
-### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
+### [Esquenta Sertanejo](https://open.spotify.com/playlist/1QClRCShAKNcti565v7TOp)
 
 > O melhor do sertanejo em uma só playlist! Foto: Jorge & Mateus
 

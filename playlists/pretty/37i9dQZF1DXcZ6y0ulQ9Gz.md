@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Those songs you just love to love\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,254 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,256 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 99 | [In The Summertime](https://open.spotify.com/track/1Y2aYiPPXjCBh6sIzI6E64) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [In The Summertime](https://open.spotify.com/album/46pPuR0pJuWnrh3HuHlyIV) | 3:38 |
 | 100 | [Paprika](https://open.spotify.com/track/7hINOWdRK2rAWDKmjXTHth) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/0ajoNtBO6xHfWEkORtRCAv) | 3:40 |
 
-Snapshot ID: `MTY0MTEwODcyNCwwMDAwMDAwMDJiMjY2ZWJhMjU1ZmVmOWYzZTcwZDdhZWUzYzE4MjM3`
+Snapshot ID: `MTY0MTExMDE5OSwwMDAwMDAwMDJiMjY2ZWJhMjU1ZmVmOWYzZTcwZDdhZWUzYzE4MjM3`

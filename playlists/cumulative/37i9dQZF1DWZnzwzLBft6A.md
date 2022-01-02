@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZnzwzLBft6A.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZnzwzLBft6A) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZnzwzLBft6A)
 
-### [This Is Bach](https://open.spotify.com/playlist/37i9dQZF1DWZnzwzLBft6A)
+### [This Is Bach](https://open.spotify.com/playlist/3hny7LkwQ9IbreqN2pjDTn)
 
 > He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today\. Discover why, right here.
 

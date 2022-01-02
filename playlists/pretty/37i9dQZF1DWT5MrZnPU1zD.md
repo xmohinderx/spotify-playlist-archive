@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,555,018 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,555,024 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [Just Like Martin](https://open.spotify.com/track/0946VVOuYpcWD04kxXHZzP) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Just Like Martin](https://open.spotify.com/album/4BHB0sXSZxnTsPwWNWgVzI) | 2:33 |
 | 100 | [Alpha](https://open.spotify.com/track/086xJzFlEYeCrQmFIVizMb) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT) | [Alpha](https://open.spotify.com/album/2MyUrB5TINFfmDoXQZN6L2) | 2:52 |
 
-Snapshot ID: `MTY0MTEwODI4NywwMDAwMDAwMDUzYjViMjgyOTQwNzZkYjRlNTBmYmE2ZWZkZDQ1YjQ2`
+Snapshot ID: `MTY0MTEwOTc5MSwwMDAwMDAwMDUzYjViMjgyOTQwNzZkYjRlNTBmYmE2ZWZkZDQ1YjQ2`

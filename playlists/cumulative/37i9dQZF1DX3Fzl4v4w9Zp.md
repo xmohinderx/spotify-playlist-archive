@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Fzl4v4w9Zp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Fzl4v4w9Zp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Fzl4v4w9Zp)
 
-### [The Pulse of Americana](https://open.spotify.com/playlist/37i9dQZF1DX3Fzl4v4w9Zp)
+### [The Pulse of Americana](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 > Keep your finger on the pulse of Americana\. Cover: Molly Tuttle
 

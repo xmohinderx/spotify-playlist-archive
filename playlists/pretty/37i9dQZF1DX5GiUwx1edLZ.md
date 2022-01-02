@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,753 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,754 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 98 | [It Aint me \- Acoustic](https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [It Aint me \(Acoustic\)](https://open.spotify.com/album/0yXs7bd41x7RHD8cbLDpbV) | 3:12 |
 | 99 | [Be Your Sound \- Live Acoustic Version](https://open.spotify.com/track/5hWZSnDyQSdydBWrZnVX9Z) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Emma Hewitt](https://open.spotify.com/artist/1t65YxEAtU3iii6bCzSGF8) | [Starting Fires](https://open.spotify.com/album/33e8xGrwbkjnpR4w43dIsM) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODU1NywwMDAwMDAwMDkyMTliOTMwMmRlZjVkOTcxZGQzNDA1NjE0OWUwNzYx`
+Snapshot ID: `MTY0MTExMDA0OCwwMDAwMDAwMDkyMTliOTMwMmRlZjVkOTcxZGQzNDA1NjE0OWUwNzYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,196,094 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,196,096 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 74 | [Untouchable Face](https://open.spotify.com/track/2E8AVQcuYSlXm12g112Kef) | [Ani DiFranco](https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD) | [Dilate](https://open.spotify.com/album/4KE4xztIchTBItYOnCT3FU) | 4:39 |
 | 75 | [Satisfied Mind \- Live at WFMU, East Orange, NJ \- Oct 1992](https://open.spotify.com/track/59J9tAbY39foKp478aUsWX) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk](https://open.spotify.com/album/6xgKRIMW4HHGXUpfJ6aRuL) | 5:57 |
 
-Snapshot ID: `MTY0MTEwODY5NiwwMDAwMDAwMGE0ZGE0NzZiOGViMzY0NjE1MzkxYzFhMzk5OTI1NmVm`
+Snapshot ID: `MTY0MTExMDE3MywwMDAwMDAwMGE0ZGE0NzZiOGViMzY0NjE1MzkxYzFhMzk5OTI1NmVm`

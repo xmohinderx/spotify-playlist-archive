@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6EUcyVKIE73.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6EUcyVKIE73) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6EUcyVKIE73)
 
-### [Hindustani Classical](https://open.spotify.com/playlist/37i9dQZF1DX6EUcyVKIE73)
+### [Hindustani Classical](https://open.spotify.com/playlist/6KxJho2Z4Stal5h3YgTXxS)
 
 > Selections of North Indian classical music.
 

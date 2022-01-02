@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9GxQjEBVviW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9GxQjEBVviW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9GxQjEBVviW)
 
-### [Doo\-Wop Dee Doo](https://open.spotify.com/playlist/37i9dQZF1DX9GxQjEBVviW)
+### [Doo\-Wop Dee Doo](https://open.spotify.com/playlist/2rBoCOPkSalXiItTwp0w7v)
 
 > ​Boogie along to doo\-wop's greatest hits.
 

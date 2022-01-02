@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9tPFwDMOaN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9tPFwDMOaN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tPFwDMOaN1)
 
-### [K\-Pop Daebak](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
+### [K\-Pop Daebak](https://open.spotify.com/playlist/12lAZQWLG8b3pM25Gnfv99)
 
 > Score all the hottest hits from your favourite hallyu star and check out your one true K\-Pop playlist! \#kdaebak Cover: IU
 

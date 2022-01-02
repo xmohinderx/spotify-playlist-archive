@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5mB2C8gBeUM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5mB2C8gBeUM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5mB2C8gBeUM)
 
-### [Wild Country](https://open.spotify.com/playlist/37i9dQZF1DX5mB2C8gBeUM)
+### [Wild Country](https://open.spotify.com/playlist/2NFX3fEEavFql8EoHSR8S8)
 
 > Country gone wild! You never know what you're gonna get\.  Artist: Wrabel and Cam
 

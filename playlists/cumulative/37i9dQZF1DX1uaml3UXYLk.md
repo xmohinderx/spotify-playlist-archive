@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1uaml3UXYLk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1uaml3UXYLk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1uaml3UXYLk)
 
-### [Coffee Beats](https://open.spotify.com/playlist/37i9dQZF1DX1uaml3UXYLk)
+### [Coffee Beats](https://open.spotify.com/playlist/4yzYNda5nlPjjTxwWfgbGS)
 
 > Electronic music with caffeine.
 

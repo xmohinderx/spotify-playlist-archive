@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa9xHlDa5fc6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa9xHlDa5fc6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa9xHlDa5fc6)
 
-### [License To Chill](https://open.spotify.com/playlist/37i9dQZF1DXa9xHlDa5fc6)
+### [License To Chill](https://open.spotify.com/playlist/6Sz9PXGuNaiQlCoxe28vAO)
 
 > Chill out with these awesome alt songs.
 

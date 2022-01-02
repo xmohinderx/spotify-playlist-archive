@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1m1kAx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1m1kAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1m1kAx)
 
-### [This Is 2Baba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1m1kAx)
+### [This Is 2Baba](https://open.spotify.com/playlist/7p0WalrT4dOYZ5O0obVXyp)
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 

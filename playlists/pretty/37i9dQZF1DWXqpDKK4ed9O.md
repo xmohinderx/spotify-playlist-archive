@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 
 > Tight Roll your jeans, break out the CK1, and set the mood...
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,022,923 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,022,935 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqpDKK4ed9O.md) - [plain]
 | 49 | [Stay](https://open.spotify.com/track/0jlgrHvssAloyAidZ1aJzs) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [The Very Best Of](https://open.spotify.com/album/2ieqNp8mf5cc50jLi5w0FX) | 3:04 |
 | 50 | [I Love You Always Forever](https://open.spotify.com/track/1PEqh7awkpuepLBSq8ZwqD) | [Donna Lewis](https://open.spotify.com/artist/2EfG2EoT8GFJrMiilbTVl2) | [Now in a Minute](https://open.spotify.com/album/1VzYTrtId9CgUTo7VQBFbL) | 3:59 |
 
-Snapshot ID: `MTY0MTEwODM4OCwwMDAwMDAwMGRkMTkzOGQzMjhjMTlhZjUxNTkyNGUyOGIwOWFmMDQy`
+Snapshot ID: `MTY0MTEwOTg4NywwMDAwMDAwMGRkMTkzOGQzMjhjMTlhZjUxNTkyNGUyOGIwOWFmMDQy`

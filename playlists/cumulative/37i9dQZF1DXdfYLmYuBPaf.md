@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdfYLmYuBPaf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdfYLmYuBPaf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdfYLmYuBPaf)
 
-### [Arab Reggae](https://open.spotify.com/playlist/37i9dQZF1DXdfYLmYuBPaf)
+### [Arab Reggae](https://open.spotify.com/playlist/0GoQG8PRV51P9Lf8L1GQ1U)
 
 > Reggae tracks from the Arab world\. Cover: <a href="spotify:artist:6Gej8kFQeKbjY7dS9HXu1w">Ahmed Ben Ali</a>
 

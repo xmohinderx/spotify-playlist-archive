@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6MtNKlWguIlTJ6Q7WAcDtU.md) - cumulative - [plain](/playlists/plain/6MtNKlWguIlTJ6Q7WAcDtU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6MtNKlWguIlTJ6Q7WAcDtU)
 
-### [Workday \- Country](https://open.spotify.com/playlist/6MtNKlWguIlTJ6Q7WAcDtU)
+### [Workday \- Country](https://open.spotify.com/playlist/66xtfJXaU3L7pvTtJJLhFg)
 
 > Get through your workday with 8 hours of country music.
 

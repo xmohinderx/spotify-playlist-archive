@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9crXQ0wuuXE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9crXQ0wuuXE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9crXQ0wuuXE)
 
-### [Roots Revival](https://open.spotify.com/playlist/37i9dQZF1DX9crXQ0wuuXE)
+### [Roots Revival](https://open.spotify.com/playlist/0JPuvt6u1FjZyAbnsSb2HM)
 
 > A blend of the best from years past—from indie folk and pop grass to roots rock and Americana\. Cover: Fleet Foxes
 

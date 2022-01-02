@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX59NCqCqJtoH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59NCqCqJtoH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59NCqCqJtoH)
 
-### [idk.](https://open.spotify.com/playlist/37i9dQZF1DX59NCqCqJtoH)
+### [idk.](https://open.spotify.com/playlist/40vV3pGK0ufA9YrTysgewE)
 
 > We hear you
 

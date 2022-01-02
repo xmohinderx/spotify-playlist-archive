@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,960 likes - 40 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,959 likes - 40 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 39 | [Akdeb Alik](https://open.spotify.com/track/1ZsMhxFNAJwPNDBbTNF0Hr) | [Adam](https://open.spotify.com/artist/38hkUvMOhAhRSNGfd402SF) | [Sahrat Tarab](https://open.spotify.com/album/72iiKUrgjejSb61GMtZmEy) | 6:04 |
 | 40 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
 
-Snapshot ID: `MTY0MTEwODQxNywwMDAwMDAwMDNjY2MyNjY4MGEyZWY2YjVhNGNjOTJhNzQ2MTQwYzkw`
+Snapshot ID: `MTY0MTEwOTkxNSwwMDAwMDAwMDNjY2MyNjY4MGEyZWY2YjVhNGNjOTJhNzQ2MTQwYzkw`

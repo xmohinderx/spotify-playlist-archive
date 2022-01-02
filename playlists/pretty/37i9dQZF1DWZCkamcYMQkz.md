@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Uplifting jazz to get you in good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,093 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,094 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 99 | [Sunday Mornin'](https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Soul](https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt) | 6:30 |
 | 100 | [Hello Bright Sunflower \- Rudy Van Gelder Edition/2006 Digital Remaster](https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [The Cat Walk](https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm) | 7:33 |
 
-Snapshot ID: `MTY0MTEwODQxNCwwMDAwMDAwMGJiNzYxZWFmYzg0YjFlNzc5YmQxYzYxOTI4ZjkzZTk2`
+Snapshot ID: `MTY0MTEwOTkxMywwMDAwMDAwMGJiNzYxZWFmYzg0YjFlNzc5YmQxYzYxOTI4ZjkzZTk2`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0kfqBZx9obUKiLVDwTqGly.md) - cumulative - [plain](/playlists/plain/0kfqBZx9obUKiLVDwTqGly) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0kfqBZx9obUKiLVDwTqGly)
 
-### [boys cast](https://open.spotify.com/playlist/0kfqBZx9obUKiLVDwTqGly)
+### [boys cast](https://open.spotify.com/playlist/08MSLBTtsltpfAsmNnuAd3)
 
 > 
 

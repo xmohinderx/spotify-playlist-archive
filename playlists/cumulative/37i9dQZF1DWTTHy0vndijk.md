@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTTHy0vndijk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTTHy0vndijk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTTHy0vndijk)
 
-### [Satang Mix](https://open.spotify.com/playlist/37i9dQZF1DWTTHy0vndijk)
+### [Satang Mix](https://open.spotify.com/playlist/54sOlxCE1pFDWuNfDv9xNV)
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: CHUNG HA\(청하\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 

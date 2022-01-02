@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcgNXUHsZlwX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcgNXUHsZlwX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcgNXUHsZlwX)
 
-### [Café montréalais](https://open.spotify.com/playlist/37i9dQZF1DXcgNXUHsZlwX)
+### [Café montréalais](https://open.spotify.com/playlist/17ts8jbTOK4YpL5tyLJ1kX)
 
 > De la douceur pour accompagner ta journée\.  Photo: Ingrid St\-Pierre
 

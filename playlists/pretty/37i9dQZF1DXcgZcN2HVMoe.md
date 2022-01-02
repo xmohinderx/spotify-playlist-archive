@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,557 likes - 250 songs - 15 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,558 likes - 250 songs - 15 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 249 | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/track/0PDMJ5XPiUc006Th2t04q8) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/album/1UeVCqanippU9jszS3D4Ny) | 3:41 |
 | 250 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 |
 
-Snapshot ID: `MTY0MTEwODcyOCwwMDAwMDAwMGVmNDY1YjI5NDEzZTMxZjVjMTNmMjY5YTM4OGU1ZmY4`
+Snapshot ID: `MTY0MTExMDIwMywwMDAwMDAwMGVmNDY1YjI5NDEzZTMxZjVjMTNmMjY5YTM4OGU1ZmY4`

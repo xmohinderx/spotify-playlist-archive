@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0pH2SQMRXnC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0pH2SQMRXnC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0pH2SQMRXnC)
 
-### [Hardstyle Bangers](https://open.spotify.com/playlist/37i9dQZF1DX0pH2SQMRXnC)
+### [Hardstyle Bangers](https://open.spotify.com/playlist/40ibOn4vxhSEyiHRK9rUTk)
 
 > Only the biggest Hardstyle
 

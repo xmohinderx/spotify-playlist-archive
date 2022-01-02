@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcZDD7cfEKhW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcZDD7cfEKhW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcZDD7cfEKhW)
 
-### [Pop Remix](https://open.spotify.com/playlist/37i9dQZF1DXcZDD7cfEKhW)
+### [Pop Remix](https://open.spotify.com/playlist/19uNHWTaOVDySWkMTC6J3e)
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 

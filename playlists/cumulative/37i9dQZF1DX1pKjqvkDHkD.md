@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1pKjqvkDHkD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1pKjqvkDHkD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1pKjqvkDHkD)
 
-### [Margaret Walker](https://open.spotify.com/playlist/37i9dQZF1DX1pKjqvkDHkD)
+### [Margaret Walker](https://open.spotify.com/playlist/3lJPgBZPjkjtKQT9Gcln91)
 
 > Renowned for her part in the Chicago Black Renaissance, the <a href="spotify:artist:4H2657mM3Y4j6ITcmHOf21">writer</a> reads her own poems and the work of her contemporaries.
 

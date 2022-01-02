@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IbLOJtWiun.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IbLOJtWiun) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IbLOJtWiun)
 
-### [Rise of the Underdog](https://open.spotify.com/playlist/37i9dQZF1DX0IbLOJtWiun)
+### [Rise of the Underdog](https://open.spotify.com/playlist/21WlbNb5CFv2JRzSzbMrde)
 
 > In honor of the little teams who could
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSKtEVXBdAHi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKtEVXBdAHi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKtEVXBdAHi)
 
-### [After Work](https://open.spotify.com/playlist/37i9dQZF1DWSKtEVXBdAHi)
+### [After Work](https://open.spotify.com/playlist/0KjPM3vD02juRmU4m3hVku)
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 

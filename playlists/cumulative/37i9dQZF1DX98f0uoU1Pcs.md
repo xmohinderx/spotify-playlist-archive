@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX98f0uoU1Pcs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX98f0uoU1Pcs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX98f0uoU1Pcs)
 
-### [Noisy](https://open.spotify.com/playlist/37i9dQZF1DX98f0uoU1Pcs)
+### [Noisy](https://open.spotify.com/playlist/2w2n6MDKx2mk1T0ObTv6mW)
 
 > The perfect mosh\-up of Punk, Rock, Alt  & Indie\. Cover: IDLES
 

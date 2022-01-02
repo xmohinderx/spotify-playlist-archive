@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYs83FtTMQFw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYs83FtTMQFw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYs83FtTMQFw)
 
-### [Hot Rhythmic](https://open.spotify.com/playlist/37i9dQZF1DWYs83FtTMQFw)
+### [Hot Rhythmic](https://open.spotify.com/playlist/0v71FT0Grm2FI0apea0kFF)
 
 > The hottest tracks of today...featuring Juice WRLD, Roddy Ricch, and FKA Twigs.
 

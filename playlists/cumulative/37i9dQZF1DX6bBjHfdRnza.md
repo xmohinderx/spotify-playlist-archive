@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6bBjHfdRnza.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6bBjHfdRnza) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6bBjHfdRnza)
 
-### [Fresh Finds Dance: Best of 2021](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
+### [Fresh Finds Dance: Best of 2021](https://open.spotify.com/playlist/4p02qWzo3BDTAOOjWIyieS)
 
 > Top 100 tracks from Fresh Finds: Dance in 2021\. Cover: Barry Can't Swim, Artwork: Rewina Beshue.
 

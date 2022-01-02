@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ja5oV6Kto0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ja5oV6Kto0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ja5oV6Kto0)
 
-### [Altè Cruise](https://open.spotify.com/playlist/37i9dQZF1DX5ja5oV6Kto0)
+### [Altè Cruise](https://open.spotify.com/playlist/7pF4eqr29AOzUGMPmKhLmc)
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/7vmPmyjnn6611mHxCCocuw?si=cBYr1\_IqR1Sgj3Cpwqjlxw">95ANTNY </a>
 

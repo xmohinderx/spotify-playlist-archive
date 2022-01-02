@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0IlCGIUGBsA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0IlCGIUGBsA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0IlCGIUGBsA)
 
-### [Ultimate Party Classics](https://open.spotify.com/playlist/37i9dQZF1DX0IlCGIUGBsA)
+### [Ultimate Party Classics](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
 
 > Get the party going with these classics from across the decades.
 

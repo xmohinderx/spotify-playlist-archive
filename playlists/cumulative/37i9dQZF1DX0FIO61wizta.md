@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0FIO61wizta.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0FIO61wizta) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0FIO61wizta)
 
-### [This Is Verdi](https://open.spotify.com/playlist/37i9dQZF1DX0FIO61wizta)
+### [This Is Verdi](https://open.spotify.com/playlist/1JX2k68z13nb5nDeYoOiIS)
 
 > Verdi was the undisputed king of Italian opera in the 19th century\. Explore his greatest works, including Rigoletto and La Traviata, right here.
 

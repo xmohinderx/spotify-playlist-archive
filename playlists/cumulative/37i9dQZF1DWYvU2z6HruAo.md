@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYvU2z6HruAo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYvU2z6HruAo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYvU2z6HruAo)
 
-### [Hot Country Presents:  Best Country Songs of 2020](https://open.spotify.com/playlist/37i9dQZF1DWYvU2z6HruAo)
+### Hot Country Presents:  Best Country Songs of 2020
 
 > The Top Hot Country Tracks for 2020 in one playlist\. Cover: Luke Combs
 

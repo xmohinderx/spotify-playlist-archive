@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX654XADbS8bL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX654XADbS8bL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX654XADbS8bL)
 
-### [This Is Pritam](https://open.spotify.com/playlist/37i9dQZF1DX654XADbS8bL)
+### [This Is Pritam](https://open.spotify.com/playlist/39QyRlbsxN88JX5sFlDMBV)
 
 > The Bollywood composer's popular tunes.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKAbrMR8uuf7.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKAbrMR8uuf7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKAbrMR8uuf7)
 
-### [Top 50 \- Dominican Republic](https://open.spotify.com/playlist/37i9dQZEVXbKAbrMR8uuf7)
+### [Top 50 \- Dominican Republic](https://open.spotify.com/playlist/7F6MYRS7joHNkbzz7jSdyA)
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX52ln8eMkne9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX52ln8eMkne9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX52ln8eMkne9)
 
-### [Cozy Jazz](https://open.spotify.com/playlist/37i9dQZF1DX52ln8eMkne9)
+### [Cozy Jazz](https://open.spotify.com/playlist/37IsdW9n0SlbPN5SfSK6qD)
 
 > Soft and cozy vocal and instrumental jazz songs\. Cover: Melody Gardot
 

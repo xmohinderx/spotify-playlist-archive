@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcbAIldMQMIs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcbAIldMQMIs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcbAIldMQMIs)
 
-### [text me back](https://open.spotify.com/playlist/37i9dQZF1DXcbAIldMQMIs)
+### [text me back](https://open.spotify.com/playlist/2Dx9G9DAtIF5EVp17A9kKu)
 
 > tfw ur crushing so hard it hurts
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0NYlvGXveeyvhb5G80LPtA.md) - cumulative - [plain](/playlists/plain/0NYlvGXveeyvhb5G80LPtA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NYlvGXveeyvhb5G80LPtA)
 
-### [EM Fotboll 2012](https://open.spotify.com/playlist/0NYlvGXveeyvhb5G80LPtA)
+### [EM Fotboll 2012](https://open.spotify.com/playlist/1ZpqOxiwNSxEyBvc076Da5)
 
 > Älskade fotbollslåtar, samlade i en spellista\. Officiella mästerskapslåtar, varvat med inofficiella hyllningar och storslagna arenahymner\. Hitta spellistor för alla tillfällen på <a href="spotify:app:tunigo">Tunigo</a>
 

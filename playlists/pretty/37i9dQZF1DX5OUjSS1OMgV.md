@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OUjSS1OMgV.md) - [plain]
 
 > Rock this list to help you rock that last rep\. Gainz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,736 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,742 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

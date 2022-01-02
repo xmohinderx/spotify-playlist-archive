@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Amigo](https://open.spotify.com/track/6UEW9NiyPzXxbhkjEiEHPe) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Amigo](https://open.spotify.com/album/6iysreppwtVyUjTK8VTgJe) | 2:35 |
 | 70 | [Yatch](https://open.spotify.com/track/0Fzu7jMb9pqjMf94sd2Iqn) | [Nadia Nakai](https://open.spotify.com/artist/4J1EvxzABwLaJP4NmOqV8r) | [Yatch](https://open.spotify.com/album/7iDgKrhtaM6sHpuY1edwPM) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODc1MSwwMDAwMDAwMDVjYWZhYWRmZWQwOTFhNGJkYzU0N2IzMTUxNmJkY2Fk`
+Snapshot ID: `MTY0MTExMDIyNSwwMDAwMDAwMDVjYWZhYWRmZWQwOTFhNGJkYzU0N2IzMTUxNmJkY2Fk`

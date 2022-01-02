@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa2PvUpywmrr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa2PvUpywmrr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa2PvUpywmrr)
 
-### [Party Hits: NYE 2022](https://open.spotify.com/playlist/37i9dQZF1DXa2PvUpywmrr)
+### [Party Hits: NYE 2022](https://open.spotify.com/playlist/3mIGSmKsp1DrGtqH3WMO2N)
 
 > Happy New Year! A mix of the biggest pop, dance, and hip hop hits\. Cover: Doja Cat
 

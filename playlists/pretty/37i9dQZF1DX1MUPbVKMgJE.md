@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,035 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,275,036 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [More, More, More](https://open.spotify.com/track/4hepyFFOO9I7oZCNn3T2sz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:42 |
 | 50 | [Get Up and Boogie \- That's Right](https://open.spotify.com/track/66wkmlfx3H0Oqg1frvJjhu) | [Silver Convention](https://open.spotify.com/artist/5QHvbEwccF3WANUD5lEIuA) | [Silver Convention \- Fly Robin Fly](https://open.spotify.com/album/7oBAC7hVvGjIOWYyPpRYYI) | 2:52 |
 
-Snapshot ID: `MTY0MTEwODQ2MiwwMDAwMDAwMGI2MzdhNTc0NWViZDllYTg1Mzk1Nzg5YjNlZjgwYjMz`
+Snapshot ID: `MTY0MTEwOTk1NywwMDAwMDAwMGI2MzdhNTc0NWViZDllYTg1Mzk1Nzg5YjNlZjgwYjMz`

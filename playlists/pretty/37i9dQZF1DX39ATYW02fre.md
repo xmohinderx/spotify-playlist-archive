@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,680 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,681 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Steal](https://open.spotify.com/track/0pAiyIHt9DyHOjWgF41kp6) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:39 |
 | 50 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 |
 
-Snapshot ID: `MTY0MTEwODUwNiwwMDAwMDAwMGRmNDExYWY2ZTZjNWNjZjIzOTZmZGZiMmUwYTlmNTdl`
+Snapshot ID: `MTY0MTEwOTk5OSwwMDAwMDAwMGRmNDExYWY2ZTZjNWNjZjIzOTZmZGZiMmUwYTlmNTdl`

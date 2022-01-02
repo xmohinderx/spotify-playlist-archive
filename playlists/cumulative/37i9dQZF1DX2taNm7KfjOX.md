@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2taNm7KfjOX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2taNm7KfjOX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2taNm7KfjOX)
 
-### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
+### [Infinite Indie Folk](https://open.spotify.com/playlist/3LST0f4pA1dtcimgRwJiWD)
 
 > Repeat\-free hours of new and beloved indie folk\. Cover: Hand Habits
 

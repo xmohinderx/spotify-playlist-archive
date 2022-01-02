@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9uKNf5jGX6m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9uKNf5jGX6m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9uKNf5jGX6m)
 
-### [Yoga & Meditation](https://open.spotify.com/playlist/37i9dQZF1DX9uKNf5jGX6m)
+### [Yoga & Meditation](https://open.spotify.com/playlist/5G465BVDSMcRmryY2Z1rr5)
 
 > New age music for balancing mind and body.
 

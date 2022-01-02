@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbITWG1ZJKYt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbITWG1ZJKYt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbITWG1ZJKYt)
 
-### [Jazz Classics](https://open.spotify.com/playlist/37i9dQZF1DXbITWG1ZJKYt)
+### [Jazz Classics](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
 
 > The best tunes in jazz history\. Cover: Ella Fitzgerald
 

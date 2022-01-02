@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Vance Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,440,043 likes - 110 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,440,047 likes - 110 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 109 | [The A Team](https://open.spotify.com/track/6wJhz2jABaX2oMChhGy39Y) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/3w0VffyaakTvUtTwjPCo7Y) | 4:18 |
 | 110 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
 
-Snapshot ID: `MTY0MTEwODUzNSwwMDAwMDAwMGFiODExM2U3YzQwMTVlNDYzMGQxM2FkNzUxMGQwNjNj`
+Snapshot ID: `MTY0MTExMDAyNywwMDAwMDAwMGFiODExM2U3YzQwMTVlNDYzMGQxM2FkNzUxMGQwNjNj`

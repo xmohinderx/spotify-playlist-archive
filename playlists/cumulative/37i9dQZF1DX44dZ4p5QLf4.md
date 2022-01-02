@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX44dZ4p5QLf4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX44dZ4p5QLf4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX44dZ4p5QLf4)
 
-### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
+### [Next Wave Neo\-Soul](https://open.spotify.com/playlist/7xeIijiJL07j3maRHG4UZK)
 
 > A blend of new songs and new artists in the neo\-soul space\. Cover: Naomi Sharon
 

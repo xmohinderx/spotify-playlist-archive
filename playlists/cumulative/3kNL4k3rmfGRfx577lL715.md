@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/3kNL4k3rmfGRfx577lL715.md) - cumulative - [plain](/playlists/plain/3kNL4k3rmfGRfx577lL715) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3kNL4k3rmfGRfx577lL715)
 
-### [US Exclusives](https://open.spotify.com/playlist/3kNL4k3rmfGRfx577lL715)
+### [US Exclusives](https://open.spotify.com/playlist/1NLXScjO4LdlHCTuMsKGC8)
 
 > 
 

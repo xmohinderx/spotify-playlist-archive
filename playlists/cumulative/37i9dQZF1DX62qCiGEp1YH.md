@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX62qCiGEp1YH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX62qCiGEp1YH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX62qCiGEp1YH)
 
-### [Autumn Leaves](https://open.spotify.com/playlist/37i9dQZF1DX62qCiGEp1YH)
+### [Autumn Leaves](https://open.spotify.com/playlist/05oA9W37ZE91GRNnzetck9)
 
 > Embrace the mood of the season with harmonious, comforting songs.
 

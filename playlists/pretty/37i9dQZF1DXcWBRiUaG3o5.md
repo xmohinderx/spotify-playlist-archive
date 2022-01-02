@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,336,460 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336,459 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 99 | [Should I](https://open.spotify.com/track/7bUDoZirLuxyxQEsLEQv6s) | [Arum Rae](https://open.spotify.com/artist/4aqcilLiGfXetHrTuC8DG9) | [Sub Rosa](https://open.spotify.com/album/208D0gsXCpr6urKKD9l4Pu) | 4:04 |
 | 100 | [Nimbin](https://open.spotify.com/track/6wHgmOZfLWmn685tDFXsX7) | [Mappe Of](https://open.spotify.com/artist/02Zxif3WoHx6ujXBSfBKOr) | [Cavern's Dark / Nimbin](https://open.spotify.com/album/5Os7vMZPTFE5jIrdIpDK7l) | 4:43 |
 
-Snapshot ID: `MTY0MTEwODcyMywwMDAwMDAwMGFjZTkwZDQ4M2IwMzgyNDAyNGUxNzFmZGQzNzNhYzc4`
+Snapshot ID: `MTY0MTExMDE5OCwwMDAwMDAwMGFjZTkwZDQ4M2IwMzgyNDAyNGUxNzFmZGQzNzNhYzc4`

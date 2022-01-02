@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXafb0IuPwJyF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXafb0IuPwJyF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXafb0IuPwJyF)
 
-### [Tokyo Super Hits!](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
+### [Tokyo Super Hits!](https://open.spotify.com/playlist/2sQ5Fh8iNKxcYtrG1CztwE)
 
 > 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: milet×Aimer×幾田りら
 

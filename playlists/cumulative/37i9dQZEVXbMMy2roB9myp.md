@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMMy2roB9myp.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMMy2roB9myp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMMy2roB9myp)
 
-### [Top 50 \- Argentina](https://open.spotify.com/playlist/37i9dQZEVXbMMy2roB9myp)
+### [Top 50 \- Argentina](https://open.spotify.com/playlist/5OGTGwAXm9ef4quCFwcKo8)
 
 > Your daily update of the most played tracks right now \- Argentina.
 

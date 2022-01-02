@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYP5PUsVbso9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYP5PUsVbso9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYP5PUsVbso9)
 
-### [70s Country](https://open.spotify.com/playlist/37i9dQZF1DWYP5PUsVbso9)
+### [70s Country](https://open.spotify.com/playlist/1KxHyfdL3wCGKY9oZxPyfF)
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided.
 

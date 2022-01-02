@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSFWSTYGmXDl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSFWSTYGmXDl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSFWSTYGmXDl)
 
-### [Cozy Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DWSFWSTYGmXDl)
+### [Cozy Christmas Pop](https://open.spotify.com/playlist/4qlASBhliKQ4TWTc8zqP2C)
 
 > Soft and warm Christmas songs from recent years\. Cover: Gwen Stefani.
 

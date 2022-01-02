@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcgqrBI8yRRa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcgqrBI8yRRa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcgqrBI8yRRa)
 
-### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
+### [Internet Famous](https://open.spotify.com/playlist/3awV2Nz601Vuas3y1IcXci)
 
 > iykyk
 

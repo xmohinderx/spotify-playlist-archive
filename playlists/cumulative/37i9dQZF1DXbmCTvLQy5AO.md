@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbmCTvLQy5AO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbmCTvLQy5AO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbmCTvLQy5AO)
 
-### [Work It, Own It](https://open.spotify.com/playlist/37i9dQZF1DXbmCTvLQy5AO)
+### [Work It, Own It](https://open.spotify.com/playlist/7wi1BWlfT5Ro0JXOEqc0TU)
 
 > Empowered rhymes and vibes\. Cover: Kehlani
 

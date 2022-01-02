@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUrdml94k1Rt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUrdml94k1Rt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUrdml94k1Rt)
 
-### [Deep Dive \- 00s Metal](https://open.spotify.com/playlist/37i9dQZF1DWUrdml94k1Rt)
+### [Deep Dive \- 00s Metal](https://open.spotify.com/playlist/2qqqacNQkdIoxW5OswERI2)
 
 > Digging deep into the history of 00s Metal\. Maybe rediscover old favorites?
 

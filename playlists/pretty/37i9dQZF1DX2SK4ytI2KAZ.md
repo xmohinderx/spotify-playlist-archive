@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 
 > ALT the Good Vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 637,162 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 637,164 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SK4ytI2KAZ.md) - [plain]
 | 119 | [I Got Love](https://open.spotify.com/track/4KUvir7HcUGWZNNCjUckI5) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [I Got Love / Stay Behind](https://open.spotify.com/album/291rt10ZQsv8QnAhS5e115) | 2:52 |
 | 120 | [Kombucha](https://open.spotify.com/track/7pGYQz0yMkm8rLdP6u1wZW) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [Kombucha](https://open.spotify.com/album/4STKNQMCHzs7k8sEUwdAzL) | 3:15 |
 
-Snapshot ID: `MTY0MTEwODQ4OSwwMDAwMDAwMDJjZmI3YmZiZWE1YTYzMDJlMjU2NTQyOGJjMzBkNGRl`
+Snapshot ID: `MTY0MTEwOTk4MywwMDAwMDAwMDJjZmI3YmZiZWE1YTYzMDJlMjU2NTQyOGJjMzBkNGRl`

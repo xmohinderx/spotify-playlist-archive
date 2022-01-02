@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTALrdBtcXjw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTALrdBtcXjw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTALrdBtcXjw)
 
-### [Jazzy Dinner](https://open.spotify.com/playlist/37i9dQZF1DWTALrdBtcXjw)
+### [Jazzy Dinner](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 > Instrumental jazz to set the mood for a relaxed evening.
 

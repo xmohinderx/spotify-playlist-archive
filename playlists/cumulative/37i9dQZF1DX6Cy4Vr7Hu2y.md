@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6Cy4Vr7Hu2y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6Cy4Vr7Hu2y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6Cy4Vr7Hu2y)
 
-### [Women of K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX6Cy4Vr7Hu2y)
+### [Women of K\-Pop](https://open.spotify.com/playlist/1BRIEKH9YV57s0OYcI8ada)
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: JEON SOMI\)
 

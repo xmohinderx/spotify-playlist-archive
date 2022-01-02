@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0rM1NjYKMJa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0rM1NjYKMJa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0rM1NjYKMJa)
 
-### [Carnival](https://open.spotify.com/playlist/37i9dQZF1DX0rM1NjYKMJa)
+### [Carnival](https://open.spotify.com/playlist/35sKAj4iwKWEOgdGOJN8Zw)
 
 > DJ Private Ryan takes over our Carnival playlist for Carnival season 2021
 

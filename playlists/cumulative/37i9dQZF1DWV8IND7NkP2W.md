@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV8IND7NkP2W.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV8IND7NkP2W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV8IND7NkP2W)
 
-### [Road Trip To Tokyo](https://open.spotify.com/playlist/37i9dQZF1DWV8IND7NkP2W)
+### [Road Trip To Tokyo](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 東京への旅のお供に、日本を代表するインスト楽曲の特集をどうぞ！！
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,909 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,932 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 74 | [One More Day](https://open.spotify.com/track/6EEOfwJ6K8z7Kx4B02dVP4) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF), [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [One More Day](https://open.spotify.com/album/2fMyuRiPrm57Z60DowjQPi) | 4:29 |
 | 75 | [High](https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [High](https://open.spotify.com/album/5Nb5lpQAmZqoUNvCjiQIr9) | 3:37 |
 
-Snapshot ID: `MTY0MTEwODY0MiwwMDAwMDAwMDc3MDVhOTY1M2ZjYzg0ZjU4NDRhZjZhMjJjMzEzNDU3`
+Snapshot ID: `MTY0MTExMDEyOCwwMDAwMDAwMDc3MDVhOTY1M2ZjYzg0ZjU4NDRhZjZhMjJjMzEzNDU3`

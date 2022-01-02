@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2xxkK8eaOyM6JRhHOheZBZ.md) - cumulative - [plain](/playlists/plain/2xxkK8eaOyM6JRhHOheZBZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2xxkK8eaOyM6JRhHOheZBZ)
 
-### [Sweden Rock Festival 2012](https://open.spotify.com/playlist/2xxkK8eaOyM6JRhHOheZBZ)
+### [Sweden Rock Festival 2012](https://open.spotify.com/playlist/3O99m6CCrcVjZq2EssXLXB)
 
 > Sweden Rock är Sveriges största hårdrocksfestival\. Sommarens upplaga äger rum 6 \- 9 juni i Sölvesborg\. Hitta spellistor för alla tillfällen på <a href="spottily:app:tunigo">Tunigo</a>.
 

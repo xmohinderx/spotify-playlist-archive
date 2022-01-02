@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8NzAadCccWE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8NzAadCccWE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8NzAadCccWE)
 
-### [SHERELLE's track IDs](https://open.spotify.com/playlist/37i9dQZF1DX8NzAadCccWE)
+### [SHERELLE's track IDs](https://open.spotify.com/playlist/2gWaZAY61eO3QXZAh34tFq)
 
 > SHERELLE's favorite tracks\. Updated regularly\. Curated by SHERELLE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 

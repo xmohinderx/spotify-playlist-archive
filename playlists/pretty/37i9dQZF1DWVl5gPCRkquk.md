@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,599 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,598 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 119 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 |
 | 120 | [It Is What It Is](https://open.spotify.com/track/3FblHhMLjyL9G8Gtqhe45y) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [It Is What It Is](https://open.spotify.com/album/5uzGw560B5h9zUInkEVqds) | 3:57 |
 
-Snapshot ID: `MTY0MTEwODMzOSwwMDAwMDAwMDkyZTliZjQwOGU1YWI2OTRhYTI0YWNjZTdmYWUzMWNl`
+Snapshot ID: `MTY0MTEwOTg0MSwwMDAwMDAwMDkyZTliZjQwOGU1YWI2OTRhYTI0YWNjZTdmYWUzMWNl`

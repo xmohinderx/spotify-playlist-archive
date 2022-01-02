@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OyEPaWHBdk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OyEPaWHBdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OyEPaWHBdk)
 
-### [2021 MAMA](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
+### [2021 MAMA](https://open.spotify.com/playlist/3jbMs9e43URW6h6a6HfT7p)
 
 > Check out the winners of this year's Mnet Asian Music Awards!
 

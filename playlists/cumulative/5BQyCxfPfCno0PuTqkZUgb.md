@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5BQyCxfPfCno0PuTqkZUgb.md) - cumulative - [plain](/playlists/plain/5BQyCxfPfCno0PuTqkZUgb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5BQyCxfPfCno0PuTqkZUgb)
 
-### [Top Tracks in Kids](https://open.spotify.com/playlist/5BQyCxfPfCno0PuTqkZUgb)
+### [Top Tracks in Kids](https://open.spotify.com/playlist/6Kbso0FsA03ZkC1d74BxHN)
 
 > 
 

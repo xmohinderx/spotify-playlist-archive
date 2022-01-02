@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 
 > a new wave of indie born on the internet\. Cover: Lovejoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,756 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,757 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRL7xbcDl7X.md) - [plain]
 | 99 | [We Met On The Internet](https://open.spotify.com/track/3GIZN6vaMVBt8euR2ZGFTV) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe) | [We Met On The Internet](https://open.spotify.com/album/7gYD3jx2jeLdCE14S4DWQM) | 1:37 |
 | 100 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 |
 
-Snapshot ID: `MTY0MTEwODY3OSwwMDAwMDAwMDYwMGU1NGQwNjQ0ZTUwZWY1ZDM1YTFlNzFlZGRkZDA0`
+Snapshot ID: `MTY0MTExMDE1NywwMDAwMDAwMDYwMGU1NGQwNjQ0ZTUwZWY1ZDM1YTFlNzFlZGRkZDA0`

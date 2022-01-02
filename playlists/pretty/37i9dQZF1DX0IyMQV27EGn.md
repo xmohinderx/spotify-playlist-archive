@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and dark, alluring siren songs\. Cover: Ashley Monroe
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,749 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,748 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 69 | [Should I Stay Or Should I Go \- From The TV Show "Wicked City"](https://open.spotify.com/track/04wrnpT0QumuU3GPWbf0VV) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL) | [Should I Stay Or Should I Go \(From The TV Show "Wicked City"\)](https://open.spotify.com/album/1ivkZkfGqLU1Rf8E92hxwf) | 4:03 |
 | 70 | [Hurricane](https://open.spotify.com/track/6qtQB8jBSRBOqJdvK4OdB7) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Hurricane](https://open.spotify.com/album/0qDA2QB6jgY0WpB8Zbxpuk) | 2:38 |
 
-Snapshot ID: `MTY0MTEwODQzOCwwMDAwMDAwMGY1NDBmMDU5NTJjOGI3YzQ0Mzg3Y2FjN2MzMDZiMTA3`
+Snapshot ID: `MTY0MTEwOTkzNCwwMDAwMDAwMGY1NDBmMDU5NTJjOGI3YzQ0Mzg3Y2FjN2MzMDZiMTA3`

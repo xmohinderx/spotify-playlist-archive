@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO4iGtt9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO4iGtt9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO4iGtt9)
 
-### [This Is Timaya](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iGtt9)
+### [This Is Timaya](https://open.spotify.com/playlist/2qtfJ5HohbRgIzIvDR5e2o)
 
 > This is Timaya\. The essential tracks, all in one playlist.
 

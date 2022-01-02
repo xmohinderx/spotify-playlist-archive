@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 
 > A selection of the greatest Thrash Metal tunes\. Cover: Slayer
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,029 likes - 50 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,035 likes - 50 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbyrUWMp2Tkr.md) - [plain]
 | 49 | [Desecrator](https://open.spotify.com/track/3Lao9WQ5YkN6P9YKE0ppVX) | [Exhorder](https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl) | [Slaughter In The Vatican](https://open.spotify.com/album/5YnKblRYZeLlm90M9xAIvT) | 6:08 |
 | 50 | [Step by Step](https://open.spotify.com/track/3tWkJ2zLklnSF8qDBzTOHX) | [Forbidden](https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN) | [Twisted Into Form](https://open.spotify.com/album/06cQQ47KHUZf6bAuflpbb0) | 4:52 |
 
-Snapshot ID: `MTY0MTEwODcxMiwwMDAwMDAwMDA0YWQ2NmJjNjEwMjFjZjRmNTBlODE1NjViMjQ0NzNh`
+Snapshot ID: `MTY0MTExMDE4OCwwMDAwMDAwMDA0YWQ2NmJjNjEwMjFjZjRmNTBlODE1NjViMjQ0NzNh`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6Sz7KT9MhChZuAJDKEWiLF.md) - cumulative - [plain](/playlists/plain/6Sz7KT9MhChZuAJDKEWiLF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Sz7KT9MhChZuAJDKEWiLF)
 
-### [Kanye To The](https://open.spotify.com/playlist/6Sz7KT9MhChZuAJDKEWiLF)
+### [Kanye To The](https://open.spotify.com/playlist/1IF4AEuZKdPPmxwdf9OGug)
 
 > Some soulful sets from Ye plus contributions to soul\. Please enjoy this curated set entitled &quot;Kanye To The&quot;\. \(1,2,3, rest\)
 

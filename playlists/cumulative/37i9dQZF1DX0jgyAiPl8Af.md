@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0jgyAiPl8Af.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0jgyAiPl8Af) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0jgyAiPl8Af)
 
-### [Peaceful Guitar](https://open.spotify.com/playlist/37i9dQZF1DX0jgyAiPl8Af)
+### [Peaceful Guitar](https://open.spotify.com/playlist/7C5W2Uqg0ynw9C4XUHonb9)
 
 > Unwind to these calm classical guitar pieces.
 

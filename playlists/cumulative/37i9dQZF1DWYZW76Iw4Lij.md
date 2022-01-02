@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYZW76Iw4Lij.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYZW76Iw4Lij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYZW76Iw4Lij)
 
-### [Medieval 50: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DWYZW76Iw4Lij)
+### [Medieval 50: Spotify Picks](https://open.spotify.com/playlist/2Iv29S9krjeGZnPx0mAgx4)
 
 > Medieval music from early Gregorian chants to late Ars Nova\. Secular troubadours and sacred choir music\. Colorful, gothic and beautiful\. Hear music by Wolkenstein, von Bingen, Machaut and Léonin.
 

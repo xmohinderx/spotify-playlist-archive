@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4qq3MCSLrDgYx7RfJBDvij.md) - cumulative - [plain](/playlists/plain/4qq3MCSLrDgYx7RfJBDvij) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4qq3MCSLrDgYx7RfJBDvij)
 
-### [The Bridge](https://open.spotify.com/playlist/4qq3MCSLrDgYx7RfJBDvij)
+### [The Bridge](https://open.spotify.com/playlist/70NyPdT5M68lQRt0p6CXf0)
 
 > From then to now, these songs will forever be classics.
 

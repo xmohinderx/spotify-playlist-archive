@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSpF87bP6JSF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSpF87bP6JSF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSpF87bP6JSF)
 
-### [La Lista Pop](https://open.spotify.com/playlist/37i9dQZF1DWSpF87bP6JSF)
+### [La Lista Pop](https://open.spotify.com/playlist/4iUOCOgAGj98pc9KE7qNhs)
 
 > Los éxitos del pop latino featuring Camilo
 

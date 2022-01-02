@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,224 likes - 80 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,227 likes - 80 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Renaissance](https://open.spotify.com/track/6AHhqu7rJ3ZA7ijx99LuiX) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Odyssee](https://open.spotify.com/album/6ln3Zv73tCbjWMyuNnTMJO) | 6:58 |
 | 80 | [Serenade](https://open.spotify.com/track/6JGDoTtGLaaikBdyLExPZ8) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Serenade](https://open.spotify.com/album/5iRJm5uxTDkkEu0EmQf1jR) | 6:51 |
 
-Snapshot ID: `MTY0MTEwODY3MSwwMDAwMDAwMGMyMDNiM2MyZDJmMzRkMDcwNDc0ZjcyMGNiOTYxYThj`
+Snapshot ID: `MTY0MTExMDE0OSwwMDAwMDAwMGMyMDNiM2MyZDJmMzRkMDcwNDc0ZjcyMGNiOTYxYThj`

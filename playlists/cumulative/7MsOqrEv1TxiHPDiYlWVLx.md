@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7MsOqrEv1TxiHPDiYlWVLx.md) - cumulative - [plain](/playlists/plain/7MsOqrEv1TxiHPDiYlWVLx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7MsOqrEv1TxiHPDiYlWVLx)
 
-### [Sugar & Spice](https://open.spotify.com/playlist/7MsOqrEv1TxiHPDiYlWVLx)
+### [Sugar & Spice](https://open.spotify.com/playlist/5pPmSILnCXKI9cdjTFfM8q)
 
 > ...and everything nice\. Enjoy your dinner to the sounds of classic jazz vocals.
 

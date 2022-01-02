@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKuaTI1Z1Afx.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKuaTI1Z1Afx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKuaTI1Z1Afx)
 
-### [Viral 50 \- USA](https://open.spotify.com/playlist/37i9dQZEVXbKuaTI1Z1Afx)
+### [Viral 50 \- USA](https://open.spotify.com/playlist/2HKs1wzvUezKZaRpk2HAlO)
 
 > Your daily update of the most viral tracks right now \- USA.
 

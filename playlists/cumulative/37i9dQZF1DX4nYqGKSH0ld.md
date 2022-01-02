@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4nYqGKSH0ld.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4nYqGKSH0ld) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4nYqGKSH0ld)
 
-### [4th of July Party](https://open.spotify.com/playlist/37i9dQZF1DX4nYqGKSH0ld)
+### [4th of July Party](https://open.spotify.com/playlist/4Viaag8JICsMFAC05w81oz)
 
 > Get ready for good feels and fireworks!
 

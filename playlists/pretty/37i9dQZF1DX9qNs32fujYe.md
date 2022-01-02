@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,556 likes - 140 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,551 likes - 140 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [Night Rider](https://open.spotify.com/track/0MGLlKw16k1qGlpb69xDZ1) | [Hellryder](https://open.spotify.com/artist/26oAigbWdVRhrCEja6DB0W), [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [Night Rider](https://open.spotify.com/album/1BHqnv1grh8s1mXj8Oekf4) | 3:14 |
 | 140 | [Psycho Thrilling](https://open.spotify.com/track/3gG5yO8ptCHsgt29dsDAlC) | [Sister](https://open.spotify.com/artist/61wT4HUIxJWYmv7r6lNXiQ) | [Vengeance Ignited](https://open.spotify.com/album/04EItnaCegM8FMxusl1zUu) | 3:42 |
 
-Snapshot ID: `MTY0MTEwODY2NiwwMDAwMDAwMDdlYTVmNDIwYWE0MDI2NWUwNThkNThiODY5MzdkM2Zj`
+Snapshot ID: `MTY0MTExMDE0NCwwMDAwMDAwMDdlYTVmNDIwYWE0MDI2NWUwNThkNThiODY5MzdkM2Zj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,987 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,989 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Always, Joni](https://open.spotify.com/track/61EzqOBuKeieLCgkO1xQv8) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Always, Joni](https://open.spotify.com/album/5kSFUmD1KNcPJP0A4Cdakp) | 3:09 |
 | 100 | [Coração](https://open.spotify.com/track/7s8slcfStICYWbPUwf983B) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Until I Live](https://open.spotify.com/album/1VCCjaIiA6oGu1jQ3PThhI) | 3:49 |
 
-Snapshot ID: `MTY0MTEwODM3NSwwMDAwMDAwMGNjZTlmOWNlMDNiNTJkMmE3NTNkOWY2OWU4ODVjZmYw`
+Snapshot ID: `MTY0MTEwOTg3NSwwMDAwMDAwMGNjZTlmOWNlMDNiNTJkMmE3NTNkOWY2OWU4ODVjZmYw`

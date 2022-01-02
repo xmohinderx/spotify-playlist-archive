@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1zj9CzXszqD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1zj9CzXszqD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1zj9CzXszqD)
 
-### [This Is: Status Quo](https://open.spotify.com/playlist/37i9dQZF1DX1zj9CzXszqD)
+### [This Is: Status Quo](https://open.spotify.com/playlist/0mALGxvDniNdUgrsQwQLa2)
 
 > A collection of the essential Status Quo songs.
 

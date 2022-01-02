@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1ZPPgY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1ZPPgY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1ZPPgY)
 
-### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
+### [This Is Barry White](https://open.spotify.com/playlist/0ve0IQqpcAf2gcufo71nvo)
 
 > This is Barry White\. The essential tracks, all in one playlist.
 

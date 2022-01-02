@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWqNV5cS50j6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWqNV5cS50j6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWqNV5cS50j6)
 
-### [anti pop](https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6)
+### [anti pop](https://open.spotify.com/playlist/6mIA8qAabkwc8qms18iOYE)
 
 > not not pop\. featuring new music by <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a>.
 

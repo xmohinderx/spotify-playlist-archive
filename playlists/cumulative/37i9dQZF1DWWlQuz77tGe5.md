@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWlQuz77tGe5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWlQuz77tGe5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWlQuz77tGe5)
 
-### [This is Of Monsters and Men](https://open.spotify.com/playlist/37i9dQZF1DWWlQuz77tGe5)
+### [This is Of Monsters and Men](https://open.spotify.com/playlist/2bNWcZWp4aCwrZts8S4LML)
 
 > This Icelandic indie\-folk group has established a global fan base.
 

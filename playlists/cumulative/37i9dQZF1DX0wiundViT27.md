@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0wiundViT27.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0wiundViT27) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0wiundViT27)
 
-### [Rock Me UP!](https://open.spotify.com/playlist/37i9dQZF1DX0wiundViT27)
+### [Rock Me UP!](https://open.spotify.com/playlist/31BtjWZOch0vZk8cRSyrqF)
 
 > A dose of high energy, feel\-good rock tunes\. Press play and let the good vibes come your way.
 

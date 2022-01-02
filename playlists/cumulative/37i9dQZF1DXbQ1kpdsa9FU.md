@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbQ1kpdsa9FU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbQ1kpdsa9FU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbQ1kpdsa9FU)
 
-### [Everyday Inspiration](https://open.spotify.com/playlist/37i9dQZF1DXbQ1kpdsa9FU)
+### [Everyday Inspiration](https://open.spotify.com/playlist/085exfJgl69qUdFZhCGUCQ)
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 

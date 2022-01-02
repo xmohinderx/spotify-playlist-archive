@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7udthHrZCWz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7udthHrZCWz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7udthHrZCWz)
 
-### [Easy 10s](https://open.spotify.com/playlist/37i9dQZF1DX7udthHrZCWz)
+### [Easy 10s](https://open.spotify.com/playlist/0oEW2djZdF5843olQKfDJx)
 
 > Unwind to these easy classics from the 2010s...
 

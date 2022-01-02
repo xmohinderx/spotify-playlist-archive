@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5MkJ5KSzz4wmCpIFvM6pFT.md) - cumulative - [plain](/playlists/plain/5MkJ5KSzz4wmCpIFvM6pFT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5MkJ5KSzz4wmCpIFvM6pFT)
 
-### [Johnossi](https://open.spotify.com/playlist/5MkJ5KSzz4wmCpIFvM6pFT)
+### [Johnossi](https://open.spotify.com/playlist/7HeYVTQuUrwnrzBOrNyxIO)
 
 > Missa inte Johnossi på Flamingo\-scenen på TORSDAG / 18.45
 

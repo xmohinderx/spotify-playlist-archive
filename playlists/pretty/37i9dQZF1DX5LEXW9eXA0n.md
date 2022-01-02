@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: KangHyeWon\(강혜원\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,559 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,565 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [MY LOVE](https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Moonlovers: Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt 10](https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E) | 3:40 |
 | 50 | [Two People](https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/1tV7ZIyAJDZkis4RjXWQ91) | 4:27 |
 
-Snapshot ID: `MTY0MTEwODU2MCwwMDAwMDAwMGU1ZjBiOWM3OTNlZjE5MGNlNWI5OTg5NjA0NjI1MzJj`
+Snapshot ID: `MTY0MTExMDA1MCwwMDAwMDAwMGU1ZjBiOWM3OTNlZjE5MGNlNWI5OTg5NjA0NjI1MzJj`

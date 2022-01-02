@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8sGALGjOrTu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8sGALGjOrTu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8sGALGjOrTu)
 
-### [2000s Screamo](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
+### 2000s Screamo
 
 > When emo and hardcore fell hard for each other.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUq3wF0JVtEy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUq3wF0JVtEy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUq3wF0JVtEy)
 
-### [Shuffle Syndrome](https://open.spotify.com/playlist/37i9dQZF1DWUq3wF0JVtEy)
+### [Shuffle Syndrome](https://open.spotify.com/playlist/3x0R9H3q2apK7ItZZ2pCtQ)
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out\. Cover: Tchami
 

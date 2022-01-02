@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 
 > The biggest songs of the 1970s\. Cover: ABBA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,523,026 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,523,033 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ7xPn4vNaz.md) - [plain]
 | 149 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 |
 | 150 | [What's Going On](https://open.spotify.com/track/34b3a3Pz9Jlz0092LMyNAB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk) | 3:52 |
 
-Snapshot ID: `MTY0MTEwODI5MiwwMDAwMDAwMGFlZmY5YTI1N2NkNGJjYzFjMjE0NzhkYWRkMzk5NzYw`
+Snapshot ID: `MTY0MTEwOTc5NiwwMDAwMDAwMGFlZmY5YTI1N2NkNGJjYzFjMjE0NzhkYWRkMzk5NzYw`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6pn7MZpvAxlKPzspzMR6T6.md) - cumulative - [plain](/playlists/plain/6pn7MZpvAxlKPzspzMR6T6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6pn7MZpvAxlKPzspzMR6T6)
 
-### [The Scenic Route](https://open.spotify.com/playlist/6pn7MZpvAxlKPzspzMR6T6)
+### [The Scenic Route](https://open.spotify.com/playlist/5vHPC0U4L5fsZ4dqe05oXh)
 
 > Take in the view and get lost in total backroads bliss with this mellow indie folk...
 

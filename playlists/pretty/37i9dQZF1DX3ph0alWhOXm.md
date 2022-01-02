@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 94 | [Pour Whiskey on My Grave](https://open.spotify.com/track/4iMEvUn6UWR8gFogtXcs1s) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Pour Whiskey on My Grave](https://open.spotify.com/album/7mnSC6EOpzLrKssvE1N4DX) | 5:04 |
 | 95 | [Neon Light](https://open.spotify.com/track/289hx4t6fH2BBe8p6cnXo1) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [BRINGING BACK THE SUNSHINE](https://open.spotify.com/album/0daIqjuhsQqXoeII3pBSeT) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODUyMSwwMDAwMDAwMDgzNDBkMzQ4MDBmZDAwODVjNGRiMTYyZGZlMGMxNzAz`
+Snapshot ID: `MTY0MTExMDAxMywwMDAwMDAwMDgzNDBkMzQ4MDBmZDAwODVjNGRiMTYyZGZlMGMxNzAz`

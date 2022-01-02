@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6RK4iTHSRRX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6RK4iTHSRRX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6RK4iTHSRRX)
 
-### [Christmas Peaceful Guitar](https://open.spotify.com/playlist/37i9dQZF1DX6RK4iTHSRRX)
+### [Christmas Peaceful Guitar](https://open.spotify.com/playlist/6RRs5bEtQw4P8pKlBia6m7)
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 

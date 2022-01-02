@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8CopunbDxgW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8CopunbDxgW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8CopunbDxgW)
 
-### [metropolis](https://open.spotify.com/playlist/37i9dQZF1DX8CopunbDxgW)
+### [metropolis](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 > The essential indie dance, featuring LEISURE
 

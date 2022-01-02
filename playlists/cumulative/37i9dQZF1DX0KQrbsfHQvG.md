@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KQrbsfHQvG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KQrbsfHQvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KQrbsfHQvG)
 
-### [Rise Up](https://open.spotify.com/playlist/37i9dQZF1DX0KQrbsfHQvG)
+### [Rise Up](https://open.spotify.com/playlist/3LESta3mpzYXIV0Vy0jKwT)
 
 > Get up\. Stand up\. Be the revolution.
 

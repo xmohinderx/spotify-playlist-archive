@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXU4C3nPzApC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXU4C3nPzApC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXU4C3nPzApC)
 
-### [Very Nearly Nashville](https://open.spotify.com/playlist/37i9dQZF1DWXU4C3nPzApC)
+### [Very Nearly Nashville](https://open.spotify.com/playlist/5MYHtRglmvJsgUyFpYLHKg)
 
 > The best music with a Nashville flavour\. Cover: Kacey Musgraves
 

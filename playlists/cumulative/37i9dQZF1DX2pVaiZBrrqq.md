@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2pVaiZBrrqq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2pVaiZBrrqq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2pVaiZBrrqq)
 
-### [This Is The Laurie Berkner Band](https://open.spotify.com/playlist/37i9dQZF1DX2pVaiZBrrqq)
+### [This Is The Laurie Berkner Band](https://open.spotify.com/playlist/3mcc5ASDHcdAMluyf9EKGW)
 
 > All the best of The Laurie Berkner Band!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZxkZk4wnQ5T.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZxkZk4wnQ5T) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZxkZk4wnQ5T)
 
-### [The Victorians](https://open.spotify.com/playlist/37i9dQZF1DWZxkZk4wnQ5T)
+### [The Victorians](https://open.spotify.com/playlist/4nqaz7IfKoGcOwevTDGQHp)
 
 > From brooding skepticism and ardent romance to utter whimsy and nonsense, explore the Victorian sensibility, as displayed in some of the era's best poetry.
 

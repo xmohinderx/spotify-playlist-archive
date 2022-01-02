@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb7KOnsvmh8V.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb7KOnsvmh8V) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb7KOnsvmh8V)
 
-### [Christmas Coffeehouse](https://open.spotify.com/playlist/37i9dQZF1DXb7KOnsvmh8V)
+### [Christmas Coffeehouse](https://open.spotify.com/playlist/12w8cCmx1q2Iov56A3YAS8)
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 

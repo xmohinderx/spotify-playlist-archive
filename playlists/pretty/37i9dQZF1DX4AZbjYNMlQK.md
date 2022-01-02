@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones\. Cover: Los Aptos
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,413 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,412 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 | 65 | [Va a nevar \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/0lsfg3xlaWdXtRqVKMpq5z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 3:01 |
 | 66 | [Ven A Cantar](https://open.spotify.com/track/0vLLRQTHEvIidczOP4JROU) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Arianna](https://open.spotify.com/artist/6k8y1np6q05Us6dNn3vmF8), [Denise De Kalafe](https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr), [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p), [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP), [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y), [Hernaldo Zuniga](https://open.spotify.com/artist/42vpZLi12oBjp8MuFFkirS), [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 3:59 |
 
-Snapshot ID: `MTY0MTEwODUyOCwwMDAwMDAwMDU4ZTlhODY1NTlmNDM0NTI5N2FhODViZjI2ZTFhM2Ni`
+Snapshot ID: `MTY0MTExMDAyMCwwMDAwMDAwMDU4ZTlhODY1NTlmNDM0NTI5N2FhODViZjI2ZTFhM2Ni`

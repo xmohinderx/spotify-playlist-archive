@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX16Q183eyvd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX16Q183eyvd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX16Q183eyvd)
 
-### [Hip\-Hopscotch & Reggae Recess](https://open.spotify.com/playlist/37i9dQZF1DWX16Q183eyvd)
+### [Hip\-Hopscotch & Reggae Recess](https://open.spotify.com/playlist/3wJRkoKTIvnJlE0H1vhhVJ)
 
 > Push play on the coolest playlist around, and get ready to jump around.
 

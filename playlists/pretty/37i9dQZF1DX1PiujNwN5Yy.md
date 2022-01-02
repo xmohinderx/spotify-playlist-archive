@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Canciones tristes para uno de esos días\. Sad songs just 4 you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,350 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,349 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/track/5xpBHHSL7zwrZfE9QnqHI2) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Cuando lloras \(feat\. David Rees\)](https://open.spotify.com/album/7uDxV8cJyWJGai8ARnYSbZ) | 3:17 |
 | 100 | [Impostora](https://open.spotify.com/track/3qt8BT9AvLwsZDP3OkBdz0) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Impostora](https://open.spotify.com/album/2pxlBM9lnTuwDaou9eo66p) | 3:33 |
 
-Snapshot ID: `MTY0MTEwODQ2MywwMDAwMDAwMGMzYjgwMmJhYzhlMDQ1ZWJlOGM4MDBhOWZjMzZmNjdk`
+Snapshot ID: `MTY0MTEwOTk1OCwwMDAwMDAwMGMzYjgwMmJhYzhlMDQ1ZWJlOGM4MDBhOWZjMzZmNjdk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,415 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,419 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 74 | [Dirtknock](https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Dirtknock](https://open.spotify.com/album/6b5SURdUoINESwJRl3Vy64) | 2:14 |
 | 75 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr), [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 |
 
-Snapshot ID: `MTY0MTEwODU4MSwwMDAwMDAwMGU1Y2EwZTdhMmI3NjZiMGIyMjQ4OTA5OTA2YmI1NTIw`
+Snapshot ID: `MTY0MTExMDA3MSwwMDAwMDAwMGU1Y2EwZTdhMmI3NjZiMGIyMjQ4OTA5OTA2YmI1NTIw`

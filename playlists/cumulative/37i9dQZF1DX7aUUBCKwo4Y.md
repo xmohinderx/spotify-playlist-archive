@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7aUUBCKwo4Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7aUUBCKwo4Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7aUUBCKwo4Y)
 
-### [Country Worldwide Hot 50](https://open.spotify.com/playlist/37i9dQZF1DX7aUUBCKwo4Y)
+### [Country Worldwide Hot 50](https://open.spotify.com/playlist/4jlP9JLoDqL2UcXAwJMvrX)
 
 > Country's Top 50 most played songs—in the world\. Updated weekly\. Formerly Nashville's Worldwide Hot 50.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMH2jvi6jvjk.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMH2jvi6jvjk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMH2jvi6jvjk)
 
-### [Top 50 \- South Africa](https://open.spotify.com/playlist/37i9dQZEVXbMH2jvi6jvjk)
+### [Top 50 \- South Africa](https://open.spotify.com/playlist/2AYVNbtt3hjw4vUNEvl5wW)
 
 > Your daily update of the most played tracks right now \- South Africa.
 

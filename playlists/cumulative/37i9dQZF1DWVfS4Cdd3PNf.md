@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVfS4Cdd3PNf.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVfS4Cdd3PNf) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVfS4Cdd3PNf)
 
-### [Opera 100: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DWVfS4Cdd3PNf)
+### [Opera 100: Spotify Picks](https://open.spotify.com/playlist/4iUcB7iHJy25BC2sZMm5AM)
 
 > 100 highlight tracks from 100 great operas, including masterpieces of baroque era \(Monteverdi, Rameau, Gluck\) all the way to 20th century and contemporary classics \(Ligeti, Saariaho, John Adams\).
 

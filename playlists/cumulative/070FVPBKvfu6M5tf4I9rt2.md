@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/070FVPBKvfu6M5tf4I9rt2.md) - cumulative - [plain](/playlists/plain/070FVPBKvfu6M5tf4I9rt2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/070FVPBKvfu6M5tf4I9rt2)
 
-### [The Blues Skies](https://open.spotify.com/playlist/070FVPBKvfu6M5tf4I9rt2)
+### [The Blues Skies](https://open.spotify.com/playlist/2eQWYfaAytRK3djiE8TNjg)
 
 > The skies are filled with blues for a joyful ride.
 

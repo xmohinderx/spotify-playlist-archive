@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY5ai7gxfuaS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY5ai7gxfuaS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY5ai7gxfuaS)
 
-### [The oTHERS](https://open.spotify.com/playlist/37i9dQZF1DWY5ai7gxfuaS)
+### [The oTHERS](https://open.spotify.com/playlist/74UBTR7z0vAmQsRIWWsXwK)
 
 > The most innovative and forward thinking metal right now\. Cover: Ghostemane
 

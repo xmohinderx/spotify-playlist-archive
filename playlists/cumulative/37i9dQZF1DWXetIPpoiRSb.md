@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXetIPpoiRSb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXetIPpoiRSb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXetIPpoiRSb)
 
-### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
+### [New Pop Revolution](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 > Pop is the best that it's ever been\. Need proof? Just press play\. Cover: Astrid S & Dagny
 

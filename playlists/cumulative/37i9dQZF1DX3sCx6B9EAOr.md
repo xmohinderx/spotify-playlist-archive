@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3sCx6B9EAOr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3sCx6B9EAOr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3sCx6B9EAOr)
 
-### [So Kool Driving](https://open.spotify.com/playlist/37i9dQZF1DX3sCx6B9EAOr)
+### [So Kool Driving](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
 
 > Tap your feet to the K\-Pop beats on your way through the driving moments\. \(시원한 국내음악들과 드라이빙을 즐겨보세요!\)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner ta journée\.  Photo: Ingrid St\-Pierre
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,736 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,737 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [J'trouve ça beau](https://open.spotify.com/track/33gIRI0EOFISryPJtSVCqJ) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Comme June aime Johnny](https://open.spotify.com/album/1j5nc7LO1tQnImfo45Cekn) | 3:26 |
 | 100 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 |
 
-Snapshot ID: `MTY0MTEwODcyNywwMDAwMDAwMGMxNzNkYTRlMDhjNDE5MmYwNzQ3YTc1ZjZmZmUxMzkx`
+Snapshot ID: `MTY0MTExMDIwMiwwMDAwMDAwMGMxNzNkYTRlMDhjNDE5MmYwNzQ3YTc1ZjZmZmUxMzkx`

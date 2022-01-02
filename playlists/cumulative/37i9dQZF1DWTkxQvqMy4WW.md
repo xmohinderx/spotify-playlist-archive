@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTkxQvqMy4WW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTkxQvqMy4WW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTkxQvqMy4WW)
 
-### [Chillin' on a Dirt Road](https://open.spotify.com/playlist/37i9dQZF1DWTkxQvqMy4WW)
+### [Chillin' on a Dirt Road](https://open.spotify.com/playlist/2tqcUzcMdvjapZUweh0oOM)
 
 > Country music to get you back to the basics.
 

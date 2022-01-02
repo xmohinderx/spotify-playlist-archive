@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVw3oyaj4jsN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVw3oyaj4jsN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVw3oyaj4jsN)
 
-### [This Is: BIGBANG](https://open.spotify.com/playlist/37i9dQZF1DWVw3oyaj4jsN)
+### [This Is: BIGBANG](https://open.spotify.com/playlist/6mHh7wwlcJs8TcKPhp1sgK)
 
 > Meet G\-Dragon, Taeyang, T.O.P, and Daesung—members of the acclaimed K\-Pop phenom with their V.I.Ps
 

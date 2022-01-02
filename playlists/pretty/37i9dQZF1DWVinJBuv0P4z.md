@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,616 likes - 150 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,621 likes - 150 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [A Glass of Champagne](https://open.spotify.com/track/6P8vZyZnBo1dqycL08w93w) | [Sailor](https://open.spotify.com/artist/4pE3KE9J1Z1LKzjwLtWU21) | [The Best Of Sailor](https://open.spotify.com/album/4xVIgkt5yh9XBTxMBZptlu) | 2:40 |
 | 150 | [Shout, Pts\. 1 & 2](https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Shout!](https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH) | 4:28 |
 
-Snapshot ID: `MTY0MTEwODMzOCwwMDAwMDAwMGQyYmIwNWJlMDI5NjkzZGNkMWYxYzc3MTAzMzRkMmRi`
+Snapshot ID: `MTY0MTEwOTg0MCwwMDAwMDAwMGQyYmIwNWJlMDI5NjkzZGNkMWYxYzc3MTAzMzRkMmRi`

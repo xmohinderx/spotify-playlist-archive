@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,559,015 likes - 100 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,559,021 likes - 100 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [September Sun](https://open.spotify.com/track/4EsMNnijTIfsL3y3qzK50F) | [Sol Rising](https://open.spotify.com/artist/1BdgyHJZID1ceLLg31KyAv), [Koala Karlous](https://open.spotify.com/artist/5h0JMWzRBgCtl8dahtxugO) | [Gratitude](https://open.spotify.com/album/7nGozHMt2PFfQHUbUBVUWR) | 3:29 |
 | 100 | [Electric Counterpoint](https://open.spotify.com/track/3vKRwlgJ0KHvoP1wyKONr7) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Electric Counterpoint](https://open.spotify.com/album/0ckBbNNCgXOkOuOx6i6QUv) | 4:23 |
 
-Snapshot ID: `MTY0MTEwODM3NiwwMDAwMDAwMDQxMDY0ZjNmMWE3MWZjZDYzMmYxMmQxMGQ1YTIxZDAz`
+Snapshot ID: `MTY0MTEwOTg3NiwwMDAwMDAwMDQxMDY0ZjNmMWE3MWZjZDYzMmYxMmQxMGQ1YTIxZDAz`

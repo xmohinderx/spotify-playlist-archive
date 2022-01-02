@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX86aPVQf2emM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX86aPVQf2emM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX86aPVQf2emM)
 
-### [This Is Sampha](https://open.spotify.com/playlist/37i9dQZF1DX86aPVQf2emM)
+### [This Is Sampha](https://open.spotify.com/playlist/5KpVGaLmtcPYy5ZAGgSpid)
 
 > His finest work, in one playlist
 

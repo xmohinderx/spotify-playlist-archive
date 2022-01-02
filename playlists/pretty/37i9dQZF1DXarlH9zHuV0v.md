@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,572 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,571 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Frankenstein](https://open.spotify.com/track/4aK0vJsPXFsFdBUh8hPaDT) | [The Edgar Winter Group](https://open.spotify.com/artist/7j9PMegEgVN1fNp8NZXNCI) | [The Best Of Edgar Winter](https://open.spotify.com/album/6knWE50fnmU6X50X7QGfQY) | 4:45 |
 | 60 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 
-Snapshot ID: `MTY0MTEwODY5MCwwMDAwMDAwMDA3YWUxODhmZTBlMzIyN2NiMWY5OTAxM2Y2ZGM0OTQy`
+Snapshot ID: `MTY0MTExMDE2NywwMDAwMDAwMDA3YWUxODhmZTBlMzIyN2NiMWY5OTAxM2Y2ZGM0OTQy`

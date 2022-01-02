@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdxZQJxjFMLO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdxZQJxjFMLO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdxZQJxjFMLO)
 
-### [This Is The Lumineers](https://open.spotify.com/playlist/37i9dQZF1DXdxZQJxjFMLO)
+### [This Is The Lumineers](https://open.spotify.com/playlist/2lSLzBOr380FObisC0ABbx)
 
 > The band's essential tracks, all in a single playlist.
 

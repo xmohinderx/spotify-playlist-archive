@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWEcRhUVtL8n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWEcRhUVtL8n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWEcRhUVtL8n)
 
-### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
+### [Indie Pop](https://open.spotify.com/playlist/2nCGCENCYFC3EyufXsiFQ9)
 
 > New and approved indie pop\. Cover: No Rome
 

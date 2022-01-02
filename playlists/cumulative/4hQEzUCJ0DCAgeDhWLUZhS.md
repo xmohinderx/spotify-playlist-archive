@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4hQEzUCJ0DCAgeDhWLUZhS.md) - cumulative - [plain](/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4hQEzUCJ0DCAgeDhWLUZhS)
 
-### [Plugged In](https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS)
+### [Plugged In](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: The Amity Affliction
 

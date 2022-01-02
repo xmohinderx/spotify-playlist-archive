@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYxwmBaMqxsl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYxwmBaMqxsl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYxwmBaMqxsl)
 
-### [Rainy Day Jazz](https://open.spotify.com/playlist/37i9dQZF1DWYxwmBaMqxsl)
+### [Rainy Day Jazz](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 > Blue jazz when you're feeling blue.
 

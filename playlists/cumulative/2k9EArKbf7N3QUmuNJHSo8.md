@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2k9EArKbf7N3QUmuNJHSo8.md) - cumulative - [plain](/playlists/plain/2k9EArKbf7N3QUmuNJHSo8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2k9EArKbf7N3QUmuNJHSo8)
 
-### [Intervju med Seinabo Sey](https://open.spotify.com/playlist/2k9EArKbf7N3QUmuNJHSo8)
+### [Intervju med Seinabo Sey](https://open.spotify.com/playlist/7LuoHEh7ZWxFYV3dt4CB19)
 
 > Stjärnskottet Seinabo Sey berättar historien bakom sin uppmärksammade debutsingel "Younger", och presenterar den nya versionen av låten som släpps exklusivt på Spotify.
 

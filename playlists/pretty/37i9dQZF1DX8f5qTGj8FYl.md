@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,470 likes - 80 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,469 likes - 80 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Funky D](https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Bob Franceschini](https://open.spotify.com/artist/60wazyFfOCbXXrJCC0I3O4) | [TRYPNOTYX](https://open.spotify.com/album/5YiTpi7O0xx1yXTNXCTHFb) | 5:44 |
 | 80 | [The Scarab's Quest](https://open.spotify.com/track/1dkfnaV3LVFH4DxADgBXsP) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Scarab's Quest](https://open.spotify.com/album/2lqVp42YBxsM3usUoSWOAA) | 3:30 |
 
-Snapshot ID: `MTY0MTEwODYzNywwMDAwMDAwMDMwMDQ3ZDYzYmVkMTAzYzMxNTFlNTc2YWQ0MWJkNWQy`
+Snapshot ID: `MTY0MTExMDEyMywwMDAwMDAwMDMwMDQ3ZDYzYmVkMTAzYzMxNTFlNTc2YWQ0MWJkNWQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Snail Mail
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,131 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,135 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 99 | [God Knows Why](https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [New Truth](https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE) | 3:01 |
 | 100 | [Honey](https://open.spotify.com/track/2InbY91stGdhxZRL4h4IIQ) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Honey](https://open.spotify.com/album/6vkuAUXk0Gm8xizHhtjx0w) | 3:44 |
 
-Snapshot ID: `MTY0MTEwODQ4NiwwMDAwMDAwMDkxMDM4NDAxZjlkMTlmMDAzZmMxN2NmZTc0M2RkZTg0`
+Snapshot ID: `MTY0MTEwOTk3OSwwMDAwMDAwMDkxMDM4NDAxZjlkMTlmMDAzZmMxN2NmZTc0M2RkZTg0`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md) - cumulative - [plain](/playlists/plain/2dWfCGZguakRQagX7wM6Mi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2dWfCGZguakRQagX7wM6Mi)
 
-### [\#FlashbackFriday](https://open.spotify.com/playlist/2dWfCGZguakRQagX7wM6Mi)
+### [\#FlashbackFriday](https://open.spotify.com/playlist/2GkwX1ftJXERWKzcFnaUVH)
 
 > Stay tuned for a fresh mix of flashback hits! This week, party like it's 1999!
 

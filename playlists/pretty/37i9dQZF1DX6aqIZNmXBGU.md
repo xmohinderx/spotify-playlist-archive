@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Toad Jam](https://open.spotify.com/track/7hYJzj15DrecxdMA9jSXnC) | [Ghost King](https://open.spotify.com/artist/5yJlhaqziKf3chFEX8RV84) | [Toad Jam](https://open.spotify.com/album/0qTGqqkhpY5nezI7St0jFW) | 2:58 |
 | 60 | [Girlfriend](https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 2:12 |
 
-Snapshot ID: `MTY0MTEwODU5MywwMDAwMDAwMDE5NDgwYjI5NmVlODkyZjhmMWE1N2ExNjZlM2YzOTVm`
+Snapshot ID: `MTY0MTExMDA4MiwwMDAwMDAwMDE5NDgwYjI5NmVlODkyZjhmMWE1N2ExNjZlM2YzOTVm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,570 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,572 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mWCZw6qYIw.md) - [plain]
 | 59 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 |
 | 60 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
 
-Snapshot ID: `MTY0MTEwODU0MywwMDAwMDAwMDZhN2QzNGM2N2I2ZmY2MWZhMTgxYzEyZmU0OGQ2NDVk`
+Snapshot ID: `MTY0MTExMDAzNCwwMDAwMDAwMDZhN2QzNGM2N2I2ZmY2MWZhMTgxYzEyZmU0OGQ2NDVk`

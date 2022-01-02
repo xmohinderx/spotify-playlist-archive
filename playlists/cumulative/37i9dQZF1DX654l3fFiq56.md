@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX654l3fFiq56.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX654l3fFiq56) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX654l3fFiq56)
 
-### [群星報喜：屬雞歌手](https://open.spotify.com/playlist/37i9dQZF1DX654l3fFiq56)
+### [群星報喜：屬雞歌手](https://open.spotify.com/playlist/2TEJLTWYDkfTxvlZ3EebJ4)
 
 > 雞年生的人謙虛謹慎、端莊尊貴，而且經常是眾人的注目焦點哦！看看有哪些歌手吧！Cover: 林俊傑 \(JJ Lin\)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 
 > Sometimes it's nice to be nice, you know.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,173 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,174 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZndSu0dHeI.md) - [plain]
 | 74 | [Isn’t It](https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Isn’t It](https://open.spotify.com/album/1vRciHqPyPkre5uJHbCeDC) | 2:04 |
 | 75 | [Between Your Teeth](https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Between Your Teeth](https://open.spotify.com/album/7mwqbpDbLgAWr85eW1Vp3E) | 2:53 |
 
-Snapshot ID: `MTY0MTEwODcwNCwwMDAwMDAwMGM3YjNmMTBhOTdmYmIxM2QwZDNhNGFkMGZhOGQ3ZWNj`
+Snapshot ID: `MTY0MTExMDE4MCwwMDAwMDAwMGM3YjNmMTBhOTdmYmIxM2QwZDNhNGFkMGZhOGQ3ZWNj`

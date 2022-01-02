@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,074 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 674,082 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Fading](https://open.spotify.com/track/0BjH7OEBTqqqjX03iBhErp) | [Paige](https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w), [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [Beacon Bloom](https://open.spotify.com/artist/7ecriBfYo3KBxbNspB0Tcc) | [Fading](https://open.spotify.com/album/52BqwuUYV9KTvX1jStO5Y9) | 3:30 |
 | 60 | [Hiding](https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH) | [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC), [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV) | [Hiding](https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH) | 7:11 |
 
-Snapshot ID: `MTY0MTEwODQ1MCwwMDAwMDAwMDkyNDc0MzZhYzllYmM5Y2EyN2I5ODg5YTU2ZGFkZjdm`
+Snapshot ID: `MTY0MTEwOTk0NywwMDAwMDAwMDkyNDc0MzZhYzllYmM5Y2EyN2I5ODg5YTU2ZGFkZjdm`

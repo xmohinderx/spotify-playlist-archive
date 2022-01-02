@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9iGsUcr0Bpa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9iGsUcr0Bpa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9iGsUcr0Bpa)
 
-### [Door Knockers](https://open.spotify.com/playlist/37i9dQZF1DX9iGsUcr0Bpa)
+### [Door Knockers](https://open.spotify.com/playlist/3BbShuFX55bv82Dwzl8fxS)
 
 > Classics from trailblazing women in hip\-hop\. Cover: Lil' Kim
 

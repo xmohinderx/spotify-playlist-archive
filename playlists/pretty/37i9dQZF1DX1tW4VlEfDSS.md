@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,685 likes - 60 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,687 likes - 60 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [My Own Way](https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [My Own Way](https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA) | 2:21 |
 | 60 | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Everybody Dance \(feat\. Nile Rodgers\)](https://open.spotify.com/album/4vcuBBBPLCegTTJWF2p2hb) | 2:48 |
 
-Snapshot ID: `MTY0MTEwODQ3NSwwMDAwMDAwMDI4N2ViYWFhNGJlNmEzOWZkYmZhMmFhYzBlNWU0Mzlm`
+Snapshot ID: `MTY0MTEwOTk2OSwwMDAwMDAwMDI4N2ViYWFhNGJlNmEzOWZkYmZhMmFhYzBlNWU0Mzlm`

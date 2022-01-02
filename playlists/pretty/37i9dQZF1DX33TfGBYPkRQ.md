@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,898 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,900 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Devastating \- Demo](https://open.spotify.com/track/52WVwH53Z4FgGiabokIK1p) | [Woodpigeon](https://open.spotify.com/artist/5UDSvbfSs63qDk39xVtEdy) | [Devastating](https://open.spotify.com/album/24fB3jadcsdVirGTcjVwje) | 5:57 |
 | 100 | [True Love Waits](https://open.spotify.com/track/01ZpFhrMMqKPVCwyqXneVp) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/6vuykQgDLUCiZ7YggIpLM9) | 4:43 |
 
-Snapshot ID: `MTY0MTEwODUwMywwMDAwMDAwMGJjNDU2MTc2Nzg2OTEwM2NmZmVhNjczZmEwYmZjMTll`
+Snapshot ID: `MTY0MTEwOTk5NiwwMDAwMDAwMGJjNDU2MTc2Nzg2OTEwM2NmZmVhNjczZmEwYmZjMTll`

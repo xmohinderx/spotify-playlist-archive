@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ufqCXkhnSb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ufqCXkhnSb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ufqCXkhnSb)
 
-### [La poésie française](https://open.spotify.com/playlist/37i9dQZF1DX7ufqCXkhnSb)
+### [La poésie française](https://open.spotify.com/playlist/7w5i7EnR4hCRSudXRiUPEJ)
 
 > Une collection des plus beaux poèmes de la langue française.
 

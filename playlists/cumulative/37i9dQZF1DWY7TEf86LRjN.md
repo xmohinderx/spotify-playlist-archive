@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY7TEf86LRjN.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY7TEf86LRjN) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY7TEf86LRjN)
 
-### [Welcome To Zamrock](https://open.spotify.com/playlist/37i9dQZF1DWY7TEf86LRjN)
+### [Welcome To Zamrock](https://open.spotify.com/playlist/3ppTHOvW7TIZZAqRMlrUMS)
 
 > Zambia had a huge rock explosion in the 70’s that shook the world! Here are some classic Zamrock jams!
 

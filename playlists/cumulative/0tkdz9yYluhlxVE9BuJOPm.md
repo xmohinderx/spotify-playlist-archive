@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0tkdz9yYluhlxVE9BuJOPm.md) - cumulative - [plain](/playlists/plain/0tkdz9yYluhlxVE9BuJOPm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0tkdz9yYluhlxVE9BuJOPm)
 
-### [Spotify Sessions](https://open.spotify.com/playlist/0tkdz9yYluhlxVE9BuJOPm)
+### [Spotify Sessions](https://open.spotify.com/playlist/7idCWbRt29BywQ2w3ik1gB)
 
 > A collection of live, exclusive performances from the most exciting artists in the world.
 

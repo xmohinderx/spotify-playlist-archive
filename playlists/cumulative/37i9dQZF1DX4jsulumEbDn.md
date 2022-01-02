@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4jsulumEbDn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4jsulumEbDn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4jsulumEbDn)
 
-### [This Is LCD Soundsystem](https://open.spotify.com/playlist/37i9dQZF1DX4jsulumEbDn)
+### [This Is LCD Soundsystem](https://open.spotify.com/playlist/2MsRk2inMVbfoo6kwfoO15)
 
 > The <a href="spotify:artist:066X20Nz7iquqkkCW6Jxy6">band</a>'s greatest hits, including selections from their latest album, american dream.
 

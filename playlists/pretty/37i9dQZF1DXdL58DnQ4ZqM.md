@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,871 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,872 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [Midnight Mood](https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z) | [Mourco U.](https://open.spotify.com/artist/7pfi2Lbczm9JOzZw5ag5ho) | [Late Night Lovers \(Best Of 2014\-2016\)](https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm) | 5:53 |
 | 100 | [Riding the Atmosphere](https://open.spotify.com/track/47iUF2syKZAqWOAd0LvNk9) | [Floating Lights](https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw) | [Weightless](https://open.spotify.com/album/1RpTpCr3JWULDnaM9SLRW7) | 4:45 |
 
-Snapshot ID: `MTY0MTEwODczOSwwMDAwMDAwMGE2ZTVkNmMyMmFkMjBkNThhNjQ3ZmVjMjYxZWJhZGM0`
+Snapshot ID: `MTY0MTExMDIxMywwMDAwMDAwMGE2ZTVkNmMyMmFkMjBkNThhNjQ3ZmVjMjYxZWJhZGM0`

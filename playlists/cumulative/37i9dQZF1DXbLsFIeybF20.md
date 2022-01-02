@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbLsFIeybF20.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbLsFIeybF20) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbLsFIeybF20)
 
-### [New Orleans Brass](https://open.spotify.com/playlist/37i9dQZF1DXbLsFIeybF20)
+### [New Orleans Brass](https://open.spotify.com/playlist/6oGduaavUNSqsgwL1C4cOy)
 
 > Get into the spirit of New Orleans
 

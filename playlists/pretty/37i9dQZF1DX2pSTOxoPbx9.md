@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,463 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,469 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 99 | [Waiting Game](https://open.spotify.com/track/27mT3JdR3sRJyiMBFHdhB4) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Goddess \(Deluxe\)](https://open.spotify.com/album/1eeYYgK208xvkCEGkYqWah) | 3:27 |
 | 100 | [Fight For Life](https://open.spotify.com/track/3Hd8w9C1pU2zBFohcndEfw) | [El Perro del Mar](https://open.spotify.com/artist/0bnwha8WPTU2sf4Q4P6vE0) | [Fight For Life](https://open.spotify.com/album/05TrqScxJZ8iWLgQWGPsEB) | 4:10 |
 
-Snapshot ID: `MTY0MTEwODQ5NywwMDAwMDAwMDA1MjBmY2VlNzkwNGU3ODBiOGQxNWFlNjAyOWJjMTE3`
+Snapshot ID: `MTY0MTEwOTk5MCwwMDAwMDAwMDA1MjBmY2VlNzkwNGU3ODBiOGQxNWFlNjAyOWJjMTE3`

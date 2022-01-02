@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 
 > Summertime sadness everyday
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,492 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,493 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYD2pxgooM7y.md) - [plain]
 | 59 | [Home](https://open.spotify.com/track/21xCXsuI6easPmJ9e25nkl) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj) | [Home](https://open.spotify.com/album/2KRKS9HSVOW0oTtergpq3H) | 2:50 |
 | 60 | [so done](https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [so done \(bye\)](https://open.spotify.com/album/42NA4WjXX7liHHiUiAHQ0l) | 2:54 |
 
-Snapshot ID: `MTY0MTEwODM5NywwMDAwMDAwMGMwZGQ0ZDEwYzVhNjNjZWZlOTEzMGE3OTNiMmM2ZDE1`
+Snapshot ID: `MTY0MTEwOTg5NiwwMDAwMDAwMGMwZGQ0ZDEwYzVhNjNjZWZlOTEzMGE3OTNiMmM2ZDE1`

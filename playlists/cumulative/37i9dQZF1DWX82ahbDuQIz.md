@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX82ahbDuQIz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX82ahbDuQIz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX82ahbDuQIz)
 
-### [Best of Broadway](https://open.spotify.com/playlist/37i9dQZF1DWX82ahbDuQIz)
+### [Best of Broadway](https://open.spotify.com/playlist/3qlaQmgNCu3UM5Zlcrjz8A)
 
 > Musical songs from Broadway, the West End and beyond\. Cover: SIX
 

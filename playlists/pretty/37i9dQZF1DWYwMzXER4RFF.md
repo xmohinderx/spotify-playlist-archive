@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,449 likes - 55 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,450 likes - 55 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Invading the World of the Guilty as a Spirit of Vengeance](https://open.spotify.com/track/3AgbLyU5SYYnRuupVUOzVX) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Invading the World of the Guilty as a Spirit of Vengeance](https://open.spotify.com/album/18JdBks3zqAR2ohBFdGym8) | 5:50 |
 | 55 | [Calling It](https://open.spotify.com/track/1V4GgaXzuPn4lOWtx33crz) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [Calling It](https://open.spotify.com/album/37JI4ABn0J52KVFRdKuBYi) | 2:29 |
 
-Snapshot ID: `MTY0MTEwODQxMCwwMDAwMDAwMDY2NjU2YmQ3OWFmM2UxMThmYTMzZDBjYmVkZjRiNjE2`
+Snapshot ID: `MTY0MTEwOTkwOSwwMDAwMDAwMDY2NjU2YmQ3OWFmM2UxMThmYTMzZDBjYmVkZjRiNjE2`

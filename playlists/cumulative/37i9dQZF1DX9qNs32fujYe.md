@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9qNs32fujYe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9qNs32fujYe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9qNs32fujYe)
 
-### [Heavy Metal](https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe)
+### [Heavy Metal](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 

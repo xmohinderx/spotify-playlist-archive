@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0do1Z6kTyyR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0do1Z6kTyyR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0do1Z6kTyyR)
 
-### [This Is Hugh Masekela](https://open.spotify.com/playlist/37i9dQZF1DX0do1Z6kTyyR)
+### [This Is Hugh Masekela](https://open.spotify.com/playlist/6sonBVu9mSOgms2YG5QPD3)
 
 > In memory of the South African jazz pioneer \(1939–2018\).
 

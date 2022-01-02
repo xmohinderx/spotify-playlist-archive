@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,453 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,456 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64nnRPoKA6J.md) - [plain]
 | 69 | [Can't Stop This Thing We Started](https://open.spotify.com/track/4e80zUwo7YuhNHs9OokSG0) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 4:29 |
 | 70 | [You Get What You Give](https://open.spotify.com/track/32lF1rsInDTdK6Av3KdfaY) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/2AbdLTMFF9UaDoEdJPva4g) | 5:00 |
 
-Snapshot ID: `MTY0MTEwODU3OCwwMDAwMDAwMDU1YjljMDY4NGRhZjk3NjcxODdkMDQzM2VjYTllOGFi`
+Snapshot ID: `MTY0MTExMDA2OCwwMDAwMDAwMDU1YjljMDY4NGRhZjk3NjcxODdkMDQzM2VjYTllOGFi`

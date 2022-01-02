@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade so far\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,180 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,188 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [Helplessness Blues](https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 5:03 |
 | 80 | [I Feel](https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3) | [Bad Sounds](https://open.spotify.com/artist/0hSgRl2U8kSaJLE2Di325f) | [I Feel](https://open.spotify.com/album/1QFPoF5sG2ufYfPbw5xCa2) | 3:49 |
 
-Snapshot ID: `MTY0MTEwODYyNCwwMDAwMDAwMGMzZmQzNmIwMGRjNjA1NzE0YTdhY2I1N2Y4ZjE0OGI2`
+Snapshot ID: `MTY0MTExMDExMSwwMDAwMDAwMGMzZmQzNmIwMGRjNjA1NzE0YTdhY2I1N2Y4ZjE0OGI2`

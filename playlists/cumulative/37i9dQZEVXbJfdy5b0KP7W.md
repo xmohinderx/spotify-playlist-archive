@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJfdy5b0KP7W.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJfdy5b0KP7W) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJfdy5b0KP7W)
 
-### [Top 50 \- Peru](https://open.spotify.com/playlist/37i9dQZEVXbJfdy5b0KP7W)
+### [Top 50 \- Peru](https://open.spotify.com/playlist/5vi5P9XAfzKe30tgFRMu63)
 
 > Your daily update of the most played tracks right now \- Peru.
 

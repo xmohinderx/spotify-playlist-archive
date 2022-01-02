@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZyQUsU1vj4x.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZyQUsU1vj4x) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZyQUsU1vj4x)
 
-### [Cinematic Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DWZyQUsU1vj4x)
+### [Cinematic Indie Folk](https://open.spotify.com/playlist/2V1p4xykjAhFetkB4ZPv4j)
 
 > Indie folk ventures into the cinematic West.
 

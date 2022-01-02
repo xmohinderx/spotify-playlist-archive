@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 
 > Today's best pop to fuel your gaming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,159 likes - 120 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,157 likes - 120 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRNXjFoiid2.md) - [plain]
 | 119 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 |
 | 120 | [Dynamite](https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/6K4chJALBBMYmXjwgvqahx) | 3:19 |
 
-Snapshot ID: `MTY0MTEwODQwMCwwMDAwMDAwMGMyZWY3YTdiMmNhZGY0OTk0MmY4NWUxYTk0YmU3OTlh`
+Snapshot ID: `MTY0MTEwOTg5OSwwMDAwMDAwMGMyZWY3YTdiMmNhZGY0OTk0MmY4NWUxYTk0YmU3OTlh`

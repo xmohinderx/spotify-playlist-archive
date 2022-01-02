@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,596 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,604 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [Adrenaline](https://open.spotify.com/track/5vxX2POnp7NBbaCAIVQix7) | [Simple Creatures](https://open.spotify.com/artist/4svozL97Y6aqWeZNJPqvsL) | [Strange Love](https://open.spotify.com/album/1j6QSpMFpwtR9SEZvGgR4L) | 3:21 |
 | 100 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
 
-Snapshot ID: `MTY0MTEwODY5MCwwMDAwMDAwMGQ1YWFhZThmNmM3MmI2MTgyOGIyNmYyNzc0MTBkMTk4`
+Snapshot ID: `MTY0MTExMDE2NywwMDAwMDAwMGQ1YWFhZThmNmM3MmI2MTgyOGIyNmYyNzc0MTBkMTk4`

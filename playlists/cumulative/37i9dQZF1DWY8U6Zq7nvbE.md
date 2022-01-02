@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY8U6Zq7nvbE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY8U6Zq7nvbE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY8U6Zq7nvbE)
 
-### [Hot Acoustics](https://open.spotify.com/playlist/37i9dQZF1DWY8U6Zq7nvbE)
+### [Hot Acoustics](https://open.spotify.com/playlist/4k2X8AujYuVA9s50gTmPB1)
 
 > The best from the world of acoustic songs right now.
 

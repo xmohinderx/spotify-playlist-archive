@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTfrr8pte1rT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTfrr8pte1rT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTfrr8pte1rT)
 
-### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
+### [Rocktronic](https://open.spotify.com/playlist/5zoHrqDNjf3cQeuQpkDbfT)
 
 > Rock with a Drop  Cover: Grabbitz \\m/
 

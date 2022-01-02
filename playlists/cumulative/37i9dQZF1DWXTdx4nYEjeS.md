@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXTdx4nYEjeS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXTdx4nYEjeS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXTdx4nYEjeS)
 
-### [Mates y Música](https://open.spotify.com/playlist/37i9dQZF1DWXTdx4nYEjeS)
+### [Mates y Música](https://open.spotify.com/playlist/3QIsT3LSf24K84j95owWwc)
 
 > Música para acompañar esas rondas interminables de mate.
 

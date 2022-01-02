@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc5e2bJhV6pu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc5e2bJhV6pu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc5e2bJhV6pu)
 
-### [Morning Motivation](https://open.spotify.com/playlist/37i9dQZF1DXc5e2bJhV6pu)
+### [Morning Motivation](https://open.spotify.com/playlist/67irSdO9zVHD30k2pQQgca)
 
 > Get your day off to a cracking start!
 

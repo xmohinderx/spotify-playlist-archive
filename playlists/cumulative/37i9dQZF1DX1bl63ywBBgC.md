@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1bl63ywBBgC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1bl63ywBBgC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1bl63ywBBgC)
 
-### [¡A Limpiar con Ritmo!](https://open.spotify.com/playlist/37i9dQZF1DX1bl63ywBBgC)
+### [¡A Limpiar con Ritmo!](https://open.spotify.com/playlist/5k29oxOKnG3oi1X4Hhvzpq)
 
 > Aquí le ponemos ritmo a las tareas del hogar.
 

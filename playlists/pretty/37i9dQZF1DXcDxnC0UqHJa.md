@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,098 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,099 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Billie Jean](https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between The Bars \(EP\)](https://open.spotify.com/album/3N99UWfASH8iTQqGoFV7q5) | 4:19 |
 | 115 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona Armstrong](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 |
 
-Snapshot ID: `MTY0MTEwODcxOCwwMDAwMDAwMGI3YTgyYzlkNzI1MzA0ZjBhNDUyZDYzZDFhZWMwYjUz`
+Snapshot ID: `MTY0MTExMDE5NCwwMDAwMDAwMGI3YTgyYzlkNzI1MzA0ZjBhNDUyZDYzZDFhZWMwYjUz`

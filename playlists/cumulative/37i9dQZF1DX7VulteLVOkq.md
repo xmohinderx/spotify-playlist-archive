@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7VulteLVOkq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7VulteLVOkq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7VulteLVOkq)
 
-### [This Is Elton John](https://open.spotify.com/playlist/37i9dQZF1DX7VulteLVOkq)
+### [This Is Elton John](https://open.spotify.com/playlist/2gLRn6w7L54vomQPqYMuBE)
 
 > Just some of the many highlights from the <a href="spotify:artist:3PhoLpVuITZKcymswpck5b">Rocket Man</a>'s career.
 

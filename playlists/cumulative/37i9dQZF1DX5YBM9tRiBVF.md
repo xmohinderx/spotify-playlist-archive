@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5YBM9tRiBVF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5YBM9tRiBVF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5YBM9tRiBVF)
 
-### [EQUAL Belgium](https://open.spotify.com/playlist/37i9dQZF1DX5YBM9tRiBVF)
+### [EQUAL Belgium](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
 > Listen to women from Belgium, at full volume\. Cover: Pommelien Thijs
 

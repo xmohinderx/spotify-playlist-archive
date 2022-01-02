@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3uZHsihe90o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3uZHsihe90o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3uZHsihe90o)
 
-### [Family Folk](https://open.spotify.com/playlist/37i9dQZF1DX3uZHsihe90o)
+### [Family Folk](https://open.spotify.com/playlist/1qRROkHI9x5BXVWcCEXpLA)
 
 > A down to earth collection of new and classic folk tunes for kids.
 

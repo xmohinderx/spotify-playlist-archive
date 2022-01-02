@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6VDO8a6cQME.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6VDO8a6cQME) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6VDO8a6cQME)
 
-### [I Love My '90s R&B](https://open.spotify.com/playlist/37i9dQZF1DX6VDO8a6cQME)
+### [I Love My '90s R&B](https://open.spotify.com/playlist/1VYI8Qigj4Sumv75JdWTOA)
 
 > The '90s had an amazing soundtrack\. Let's reminisce with these R&B jams!
 

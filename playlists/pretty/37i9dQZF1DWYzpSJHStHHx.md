@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,646 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,648 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 79 | [Hey Good Lookin'](https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9) | [Blonde Tongues](https://open.spotify.com/artist/1WXAzKcld8b4tZIteRi14G) | [Blonde Tongues](https://open.spotify.com/album/1pzZ7uCZMJSH21sP8g7dUG) | 5:47 |
 | 80 | [I’ll Be Loving You](https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [Invisible Girl](https://open.spotify.com/album/7DP9LpHXZ4Ak560LIqDsFT) | 3:10 |
 
-Snapshot ID: `MTY0MTEwODQxMiwwMDAwMDAwMDM0NTQ1NTFjZTE5ZjA0ZjVjZTcwYzVkMTRjNmZhM2Nj`
+Snapshot ID: `MTY0MTEwOTkxMSwwMDAwMDAwMDM0NTQ1NTFjZTE5ZjA0ZjVjZTcwYzVkMTRjNmZhM2Nj`

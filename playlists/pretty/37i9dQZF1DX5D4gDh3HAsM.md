@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,571 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,570 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 49 | [A Child Is Born](https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Christmas With Sinatra And Friends](https://open.spotify.com/album/6llYu8gxmvS2WrbVdGmoti) | 3:16 |
 | 50 | [Jingle Bells](https://open.spotify.com/track/0JY5B4TlHfWBqg72hF7KwX) | [Eric Chacón](https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR), [Chipi Chacon](https://open.spotify.com/artist/0tKWh0NtdpcakhwymYbfc8) | [Jingle Bells](https://open.spotify.com/album/1GiduA9UpMRVLW9m8lKOxs) | 4:13 |
 
-Snapshot ID: `MTY0MTEwODU1NSwwMDAwMDAwMGJmYzRiNzdjNzRkNjQ2MDJkYTcwYmYyZmI0ODA2NmU5`
+Snapshot ID: `MTY0MTExMDA0NiwwMDAwMDAwMGJmYzRiNzdjNzRkNjQ2MDJkYTcwYmYyZmI0ODA2NmU5`

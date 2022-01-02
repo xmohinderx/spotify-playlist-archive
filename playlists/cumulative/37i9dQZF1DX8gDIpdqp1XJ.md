@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8gDIpdqp1XJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8gDIpdqp1XJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8gDIpdqp1XJ)
 
-### [Modern Psychedelia](https://open.spotify.com/playlist/37i9dQZF1DX8gDIpdqp1XJ)
+### [Modern Psychedelia](https://open.spotify.com/playlist/13FLvUS6p460Alut0P8FWR)
 
 > The best of modern psych\. Cover: St\. Vincent
 

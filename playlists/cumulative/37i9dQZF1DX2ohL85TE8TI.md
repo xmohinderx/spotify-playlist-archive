@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ohL85TE8TI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ohL85TE8TI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ohL85TE8TI)
 
-### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
+### [Korean OSTs](https://open.spotify.com/playlist/05dVRqh1WO1Wgu33OmJUg0)
 
 > Familiar hits that match your emotions while watching your favourite Korean movie or TV drama from Snowdrop, Jirisan and more..\. \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: Our Beloved Summer\(그 해 우리는\)\)
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbK4gjvS1FjPY.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbK4gjvS1FjPY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbK4gjvS1FjPY)
 
-### [Top 50 \- Singapore](https://open.spotify.com/playlist/37i9dQZEVXbK4gjvS1FjPY)
+### [Top 50 \- Singapore](https://open.spotify.com/playlist/5EotmOQUP2E4ReVZlTzX93)
 
 > Your daily update of the most played tracks right now \- Singapore.
 

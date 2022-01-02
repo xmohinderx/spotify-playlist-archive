@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSP55jZj2ES3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSP55jZj2ES3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSP55jZj2ES3)
 
-### [park hangs](https://open.spotify.com/playlist/37i9dQZF1DWSP55jZj2ES3)
+### [park hangs](https://open.spotify.com/playlist/0uKWr1Uzb37C6D49uTzEk7)
 
 > grab a blanket and get the good vibes going
 

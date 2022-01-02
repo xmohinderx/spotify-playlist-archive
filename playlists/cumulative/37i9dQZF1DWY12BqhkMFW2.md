@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY12BqhkMFW2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY12BqhkMFW2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY12BqhkMFW2)
 
-### [Soul Revived](https://open.spotify.com/playlist/37i9dQZF1DWY12BqhkMFW2)
+### [Soul Revived](https://open.spotify.com/playlist/0eLui4qtyf4eA1MgRpDFE4)
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 

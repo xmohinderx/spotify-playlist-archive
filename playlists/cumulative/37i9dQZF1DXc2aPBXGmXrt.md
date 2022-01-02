@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc2aPBXGmXrt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc2aPBXGmXrt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc2aPBXGmXrt)
 
-### [This Is Justin Bieber](https://open.spotify.com/playlist/37i9dQZF1DXc2aPBXGmXrt)
+### [This Is Justin Bieber](https://open.spotify.com/playlist/6l4lBg2UWguODj4gDE9AzT)
 
 > This is the essential Justin Bieber.
 

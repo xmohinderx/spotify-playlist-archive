@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,748,627 likes - 150 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,748,640 likes - 150 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [True \- Single Edit](https://open.spotify.com/track/6eDYgjKl4vUgRusxb7THDu) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold \- The Best of Spandau Ballet](https://open.spotify.com/album/5UUutTu9xlQnG9duYrIIW7) | 5:29 |
 | 150 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 
-Snapshot ID: `MTY0MTEwODM5OSwwMDAwMDAwMDAwM2M2NGQzZTQzMTMyNjI3Y2NlMWExODI5YjMzMzM4`
+Snapshot ID: `MTY0MTEwOTg5OCwwMDAwMDAwMDAwM2M2NGQzZTQzMTMyNjI3Y2NlMWExODI5YjMzMzM4`

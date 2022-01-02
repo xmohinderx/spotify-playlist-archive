@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdEH86O6asrX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdEH86O6asrX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdEH86O6asrX)
 
-### [Navidad de Película](https://open.spotify.com/playlist/37i9dQZF1DXdEH86O6asrX)
+### [Navidad de Película](https://open.spotify.com/playlist/5cQQm2LjSMgtwxT4KTfJwM)
 
 > ¡Los más cálidos soundtracks navideños para este temporada!
 

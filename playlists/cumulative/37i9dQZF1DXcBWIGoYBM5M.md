@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcBWIGoYBM5M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcBWIGoYBM5M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcBWIGoYBM5M)
 
-### [Today's Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
+### [Today's Top Hits](https://open.spotify.com/playlist/47EyYjdbbASCmJLAzJxhXP)
 
 > Adele is on top of the Hottest 50!
 

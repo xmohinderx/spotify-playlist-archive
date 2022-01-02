@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaQQM8OxjxoC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaQQM8OxjxoC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaQQM8OxjxoC)
 
-### [This Is Brahms](https://open.spotify.com/playlist/37i9dQZF1DXaQQM8OxjxoC)
+### [This Is Brahms](https://open.spotify.com/playlist/1XDbvVi0X3ytWtcUNYcRM6)
 
 > Discover the music of Brahms.
 

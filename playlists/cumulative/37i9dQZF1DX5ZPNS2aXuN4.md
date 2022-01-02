@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5ZPNS2aXuN4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5ZPNS2aXuN4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5ZPNS2aXuN4)
 
-### [This Is Bartók](https://open.spotify.com/playlist/37i9dQZF1DX5ZPNS2aXuN4)
+### [This Is Bartók](https://open.spotify.com/playlist/5QWVYmwWpWHocH48FhHCga)
 
 > An introduction to the music of Bartok, Hungary's greatest composer.
 

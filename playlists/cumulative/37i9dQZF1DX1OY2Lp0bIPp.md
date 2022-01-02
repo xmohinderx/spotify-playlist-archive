@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1OY2Lp0bIPp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1OY2Lp0bIPp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1OY2Lp0bIPp)
 
-### [Monday Motivation](https://open.spotify.com/playlist/37i9dQZF1DX1OY2Lp0bIPp)
+### [Monday Motivation](https://open.spotify.com/playlist/0X6TOoiYfTcPrHrYMRW2LE)
 
 > Giving motivation to your Monday\. You got this!
 

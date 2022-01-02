@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8a1tdzq5tbM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8a1tdzq5tbM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8a1tdzq5tbM)
 
-### [Dance Classics](https://open.spotify.com/playlist/37i9dQZF1DX8a1tdzq5tbM)
+### [Dance Classics](https://open.spotify.com/playlist/6IKSKLiJj6eKbX4pw7OX7K)
 
 > <a href="spotify:genre:edm\_dance">Dance radio</a> hits from the 90s and 00s!
 

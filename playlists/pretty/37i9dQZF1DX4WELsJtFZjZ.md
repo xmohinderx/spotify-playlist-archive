@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,891 likes - 150 songs - 10 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,898 likes - 150 songs - 10 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Your Love Is King](https://open.spotify.com/track/7erXAfnatmoUow8DnbseOY) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 3:39 |
 | 150 | [Miracle of Love](https://open.spotify.com/track/0HnxCKczhxIDpwhwcYs2kf) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Greatest Hits](https://open.spotify.com/album/1moeActSxQQhEdAVIClRBm) | 4:35 |
 
-Snapshot ID: `MTY0MTEwODUzNiwwMDAwMDAwMDlkNGZkZDM2ZTVkNTlkMzQ3ODdjMTgzMTYwOTc1NTBi`
+Snapshot ID: `MTY0MTExMDAyNywwMDAwMDAwMDlkNGZkZDM2ZTVkNTlkMzQ3ODdjMTgzMTYwOTc1NTBi`

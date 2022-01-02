@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the history of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie folk favorites\. Cover: The Staves
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,084 likes - 200 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,086 likes - 200 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 199 | [Libra](https://open.spotify.com/track/7uHoNWpMZ8BdJo3I6h9oIk) | [Lemoncello](https://open.spotify.com/artist/3TzSVg2vePWnfYCTNo3Mx6) | [Oil and Water](https://open.spotify.com/album/6Cjo8BqWWgDeOHFf8Ezeei) | 5:08 |
 | 200 | [Deep Dark Below](https://open.spotify.com/track/4UT2LGBeSW7dRIiUPyYyrd) | [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [Down Fell the Doves](https://open.spotify.com/album/6DVHMSBPHdJ42Okvp5QJ9X) | 3:21 |
 
-Snapshot ID: `MTY0MTEwODI2NiwwMDAwMDAwMGIyYjgyNzZiY2QxOTU3Y2RhNjQ5ODUxYzQ3YmM0NjM2`
+Snapshot ID: `MTY0MTEwOTc3MiwwMDAwMDAwMGIyYjgyNzZiY2QxOTU3Y2RhNjQ5ODUxYzQ3YmM0NjM2`

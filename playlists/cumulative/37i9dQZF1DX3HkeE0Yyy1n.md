@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3HkeE0Yyy1n.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3HkeE0Yyy1n) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3HkeE0Yyy1n)
 
-### [Best of 2016: Metal](https://open.spotify.com/playlist/37i9dQZF1DX3HkeE0Yyy1n)
+### [Best of 2016: Metal](https://open.spotify.com/playlist/54thkZ5GCjZUXqi3m9Nh7k)
 
 > Looking back at the greatest metal released in 2016.
 

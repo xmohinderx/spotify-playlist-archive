@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2XmsXL2WBQd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2XmsXL2WBQd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2XmsXL2WBQd)
 
-### [I Love My '80s Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DX2XmsXL2WBQd)
+### [I Love My '80s Hip\-Hop](https://open.spotify.com/playlist/0wZfFAve2bpWARsdwq2jEw)
 
 > Anthems from the early days of recorded rap music.
 

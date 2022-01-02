@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTLSN7iG21yC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTLSN7iG21yC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTLSN7iG21yC)
 
-### [Work From Home](https://open.spotify.com/playlist/37i9dQZF1DWTLSN7iG21yC)
+### [Work From Home](https://open.spotify.com/playlist/1nCLDzLkfoW4PEmPPr38Hp)
 
 > Clock in from the comfort of your own home with 8 hours of music to carry you through the day.
 

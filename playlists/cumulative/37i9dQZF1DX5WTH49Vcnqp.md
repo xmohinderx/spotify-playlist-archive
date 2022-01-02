@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5WTH49Vcnqp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5WTH49Vcnqp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5WTH49Vcnqp)
 
-### [Front Left](https://open.spotify.com/playlist/37i9dQZF1DX5WTH49Vcnqp)
+### [Front Left](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 > music that's hard to define but easy to love\. Cover: Hermitude
 

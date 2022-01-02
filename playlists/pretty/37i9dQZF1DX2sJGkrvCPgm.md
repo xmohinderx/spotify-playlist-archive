@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [Brightest And Best](https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Brightest And Best](https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag) | 4:40 |
 | 100 | [Christmas Vacation](https://open.spotify.com/track/1DxmJ0SaINkxDxA2xzlBOH) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Christmas Vacation](https://open.spotify.com/album/0kinNJkdODMETukgMudmMb) | 3:50 |
 
-Snapshot ID: `MTY0MTEwODQ5OCwwMDAwMDAwMDZkNWNmOGVjODAwNDU5NDRmZDNmM2M1MWQ0ZTg1NzJl`
+Snapshot ID: `MTY0MTEwOTk5MiwwMDAwMDAwMDZkNWNmOGVjODAwNDU5NDRmZDNmM2M1MWQ0ZTg1NzJl`

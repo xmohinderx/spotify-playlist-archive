@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY1wwcap53LA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY1wwcap53LA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY1wwcap53LA)
 
-### [Country Frequency](https://open.spotify.com/playlist/37i9dQZF1DWY1wwcap53LA)
+### Country Frequency
 
 > Country music making waves\. Cover: Rvshvd
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Paleface
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,488 likes - 120 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,487 likes - 120 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [In the Night](https://open.spotify.com/track/4VxKFbwSOqYYU93ndl1Ap7) | [Phinehas](https://open.spotify.com/artist/1GHGBOI7I9FJfvhJe7e3A0) | [In the Night](https://open.spotify.com/album/5Afz9UTx4crqKUBsAdy4B7) | 4:43 |
 | 120 | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/track/4nCekuTPAxUJg8n5druzdZ) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD) | 2:51 |
 
-Snapshot ID: `MTY0MTEwODQ2NywwMDAwMDAwMGM1Nzc3ZGJiZTU3ODM4YTJlYTY3YzNkMTYwMzFhNmVl`
+Snapshot ID: `MTY0MTEwOTk2MiwwMDAwMDAwMGM1Nzc3ZGJiZTU3ODM4YTJlYTY3YzNkMTYwMzFhNmVl`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaPpS4GmGB4L.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaPpS4GmGB4L) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaPpS4GmGB4L)
 
-### [Upbeat Blues](https://open.spotify.com/playlist/37i9dQZF1DXaPpS4GmGB4L)
+### [Upbeat Blues](https://open.spotify.com/playlist/0ZGzl8ZDjgisJi8EmlTZqX)
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 

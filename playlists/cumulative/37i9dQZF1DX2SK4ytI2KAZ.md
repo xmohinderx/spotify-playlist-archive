@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2SK4ytI2KAZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2SK4ytI2KAZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2SK4ytI2KAZ)
 
-### [It's ALT Good!](https://open.spotify.com/playlist/37i9dQZF1DX2SK4ytI2KAZ)
+### [It's ALT Good!](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 > ALT the Good Vibes.
 

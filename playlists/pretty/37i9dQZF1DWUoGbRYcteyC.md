@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,856 likes - 130 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,859 likes - 130 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Esta Noche](https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:37 |
 | 130 | [Querer Mejor](https://open.spotify.com/track/5Yp4UtIwEHfHXEowSan061) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Querer Mejor](https://open.spotify.com/album/7BkEMbfRJKKj4nbXB4xhRp) | 2:51 |
 
-Snapshot ID: `MTY0MTEwODMyNCwwMDAwMDAwMGI0NjU0NzVlYzM1ZDYyY2JhMzZlNDcyMDU5YmExMmE4`
+Snapshot ID: `MTY0MTEwOTgyNSwwMDAwMDAwMGI0NjU0NzVlYzM1ZDYyY2JhMzZlNDcyMDU5YmExMmE4`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX76Wlfdnj7AP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX76Wlfdnj7AP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX76Wlfdnj7AP)
 
-### [Beast Mode](https://open.spotify.com/playlist/37i9dQZF1DX76Wlfdnj7AP)
+### [Beast Mode](https://open.spotify.com/playlist/2nFNJMbQKer7P1FTwUEMzE)
 
 > Get your beast mode on!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5rqcJUB5ox8BK3L3Ki7gfF.md) - cumulative - [plain](/playlists/plain/5rqcJUB5ox8BK3L3Ki7gfF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5rqcJUB5ox8BK3L3Ki7gfF)
 
-### [Tunigo Live](https://open.spotify.com/playlist/5rqcJUB5ox8BK3L3Ki7gfF)
+### [Tunigo Live](https://open.spotify.com/playlist/6golly3GslhB6tFvIDkzuA)
 
 > 
 

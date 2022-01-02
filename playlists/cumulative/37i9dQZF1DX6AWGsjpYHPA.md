@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6AWGsjpYHPA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6AWGsjpYHPA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6AWGsjpYHPA)
 
-### [Turntable](https://open.spotify.com/playlist/37i9dQZF1DX6AWGsjpYHPA)
+### [Turntable](https://open.spotify.com/playlist/5AAqvpIoHyvDthNcBVV4BF)
 
 > Hand\-curated cuts from the vault, no record player required.
 

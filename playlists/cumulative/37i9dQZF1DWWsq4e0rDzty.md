@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWsq4e0rDzty.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWsq4e0rDzty) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWsq4e0rDzty)
 
-### [Rock School](https://open.spotify.com/playlist/37i9dQZF1DWWsq4e0rDzty)
+### Rock School
 
 > For an education in rock.
 

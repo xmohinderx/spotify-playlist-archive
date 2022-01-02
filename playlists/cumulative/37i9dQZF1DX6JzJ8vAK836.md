@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6JzJ8vAK836.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6JzJ8vAK836) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6JzJ8vAK836)
 
-### [This Is Prince](https://open.spotify.com/playlist/37i9dQZF1DX6JzJ8vAK836)
+### [This Is Prince](https://open.spotify.com/playlist/7fAjUWCKdwM8RcnPSoDoRu)
 
 > Pop, rock, funk, R&B, psychedelia—the man from Minneapolis was a true original and earth\-shattering performer\. Hear <a href="spotify:artist:5a2EaR3hamoenG9rDuVn8j">Prince Rogers Nelson</a>'s best right now.
 

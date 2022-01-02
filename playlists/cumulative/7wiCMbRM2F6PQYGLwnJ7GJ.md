@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7wiCMbRM2F6PQYGLwnJ7GJ.md) - cumulative - [plain](/playlists/plain/7wiCMbRM2F6PQYGLwnJ7GJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7wiCMbRM2F6PQYGLwnJ7GJ)
 
-### [Power Hour \(2\)](https://open.spotify.com/playlist/7wiCMbRM2F6PQYGLwnJ7GJ)
+### [Power Hour \(2\)](https://open.spotify.com/playlist/6E9Wbmh47ePP5eDeyJoemD)
 
 > Pre\-game music to get you pumped up before heading out for the night.
 

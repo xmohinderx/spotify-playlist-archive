@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0uqkwkR49kK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0uqkwkR49kK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0uqkwkR49kK)
 
-### [Prog Rock Monsters](https://open.spotify.com/playlist/37i9dQZF1DX0uqkwkR49kK)
+### [Prog Rock Monsters](https://open.spotify.com/playlist/2rdAvTDYuWVwQMDSQjVRa5)
 
 > A 100\-track collection of insanely good progressive rock creations, from classic acts like Rush, Yes, and Genesis to lesser\-known international gems\. Cover: Rush
 

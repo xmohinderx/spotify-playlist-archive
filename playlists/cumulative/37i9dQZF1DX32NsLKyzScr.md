@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX32NsLKyzScr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX32NsLKyzScr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX32NsLKyzScr)
 
-### [Power Hour](https://open.spotify.com/playlist/37i9dQZF1DX32NsLKyzScr)
+### [Power Hour](https://open.spotify.com/playlist/0fI15NHKYSYthkrLgIHhwC)
 
 > Tap it back or go for a spin with these uptempo tracks!
 

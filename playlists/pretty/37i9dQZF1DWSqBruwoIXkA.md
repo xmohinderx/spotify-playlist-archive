@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Sad Boy Winter has landed\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,332 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,339 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 99 | [The Night You Left](https://open.spotify.com/track/5lLg6681ubB6onQvgtcI4k) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [The Night You Left](https://open.spotify.com/album/4R9WkXMPVd9GvS9T8WiKFj) | 2:39 |
 | 100 | [Two Week Notice](https://open.spotify.com/track/4Dv0LIwnRPMPCgKJEwEG3c) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Two Week Notice](https://open.spotify.com/album/0hefDitXRWRRoVQ8G9NyzV) | 3:58 |
 
-Snapshot ID: `MTY0MTEwODI4MiwwMDAwMDAwMDNiNjE4ODcxZjE0YjA0YTM2NGFhYmQzODBjYWU5NzE0`
+Snapshot ID: `MTY0MTEwOTc4NiwwMDAwMDAwMDNiNjE4ODcxZjE0YjA0YTM2NGFhYmQzODBjYWU5NzE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,096 likes - 90 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,097 likes - 90 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Que Tiene de Malo Eso](https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Que Tiene de Malo Eso](https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw) | 2:46 |
 | 90 | [Amor de Papel](https://open.spotify.com/track/3vfumP2by7vcgQsEdWEurh) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos \(Sesiones 2020\)](https://open.spotify.com/album/3mrsqUgypqoCX1xyZzlJFk) | 2:13 |
 
-Snapshot ID: `MTY0MTEwODI3MiwwMDAwMDAwMDFhMWE3NmY1MjM1MTk5ZDY1YWRiODI2ZmM4NWQ4Yjc4`
+Snapshot ID: `MTY0MTEwOTc3NywwMDAwMDAwMDFhMWE3NmY1MjM1MTk5ZDY1YWRiODI2ZmM4NWQ4Yjc4`

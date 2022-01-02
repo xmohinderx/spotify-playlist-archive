@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWoCDtOBjhpE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWoCDtOBjhpE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWoCDtOBjhpE)
 
-### [Top Female Artists of 2016 \- USA](https://open.spotify.com/playlist/37i9dQZF1DWWoCDtOBjhpE)
+### [Top Female Artists of 2016 \- USA](https://open.spotify.com/playlist/0oEXpgdKUn1jp8Zn8AOn2K)
 
 > Listen to the most streamed female artists in the US this year!
 

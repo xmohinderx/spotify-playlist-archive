@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9AFOBBZSMWw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9AFOBBZSMWw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9AFOBBZSMWw)
 
-### [This Is Stormzy](https://open.spotify.com/playlist/37i9dQZF1DX9AFOBBZSMWw)
+### [This Is Stormzy](https://open.spotify.com/playlist/1eq441F6Kq07Kj48Nsa7vI)
 
 > Listen to all of Stormzy's biggest cuts and new music as it drops.
 

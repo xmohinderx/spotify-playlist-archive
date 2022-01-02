@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4DJLSJvJ3bH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4DJLSJvJ3bH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4DJLSJvJ3bH)
 
-### [Jazzy Christmas Dinner](https://open.spotify.com/playlist/37i9dQZF1DX4DJLSJvJ3bH)
+### [Jazzy Christmas Dinner](https://open.spotify.com/playlist/1RCTc7oBE4t1Ge16K09W30)
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 

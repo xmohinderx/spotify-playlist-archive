@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZqyWCBK6QTt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZqyWCBK6QTt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZqyWCBK6QTt)
 
-### [Spotify Singles: Covers](https://open.spotify.com/playlist/37i9dQZF1DWZqyWCBK6QTt)
+### [Spotify Singles: Covers](https://open.spotify.com/playlist/2xTD8zXhA6slKE04Bf9gwn)
 
 > The songs you love, in ways you’ve never heard before\.  Cover: Zoe Wees, YUNGBLUD, and FLETCHER.
 

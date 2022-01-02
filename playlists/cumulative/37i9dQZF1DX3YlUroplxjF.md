@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3YlUroplxjF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3YlUroplxjF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3YlUroplxjF)
 
-### [Crash Course](https://open.spotify.com/playlist/37i9dQZF1DX3YlUroplxjF)
+### [Crash Course](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Ice Nine Kills
 

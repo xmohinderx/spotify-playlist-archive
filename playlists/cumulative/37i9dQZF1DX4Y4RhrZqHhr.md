@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Y4RhrZqHhr.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Y4RhrZqHhr) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Y4RhrZqHhr)
 
-### [Beach Party](https://open.spotify.com/playlist/37i9dQZF1DX4Y4RhrZqHhr)
+### [Beach Party](https://open.spotify.com/playlist/1vwsHOAHQQxvAh97Q9OOyt)
 
 > The ocean, the sun, your friends, the music.
 

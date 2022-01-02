@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbm6HfkbMtFZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbm6HfkbMtFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbm6HfkbMtFZ)
 
-### [Feel Good Dinner](https://open.spotify.com/playlist/37i9dQZF1DXbm6HfkbMtFZ)
+### [Feel Good Dinner](https://open.spotify.com/playlist/3PqA3yBwlmJru2JyyuNSjK)
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,574 likes - 35 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,577 likes - 35 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 |
 | 35 | [Feel Like Makin' Love](https://open.spotify.com/track/5ZbY8J67Qsv6Kko2tZOf5Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/1ecv8bJajqX9E0EOX2g3eI) | 6:22 |
 
-Snapshot ID: `MTY0MTEwODM5MCwwMDAwMDAwMGI0ZmNhYzFkOTkyZDkxN2FkMGMyMjQ0MTc0MGYyMGIw`
+Snapshot ID: `MTY0MTEwOTg5MCwwMDAwMDAwMGI0ZmNhYzFkOTkyZDkxN2FkMGMyMjQ0MTc0MGYyMGIw`

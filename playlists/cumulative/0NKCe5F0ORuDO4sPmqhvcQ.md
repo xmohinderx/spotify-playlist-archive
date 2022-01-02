@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/0NKCe5F0ORuDO4sPmqhvcQ.md) - cumulative - [plain](/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/0NKCe5F0ORuDO4sPmqhvcQ)
 
-### [Moving Castle Monthly](https://open.spotify.com/playlist/0NKCe5F0ORuDO4sPmqhvcQ)
+### [Moving Castle Monthly](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 > Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month\.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately
 

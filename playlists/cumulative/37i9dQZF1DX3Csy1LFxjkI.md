@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Csy1LFxjkI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Csy1LFxjkI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Csy1LFxjkI)
 
-### [This Is James Arthur](https://open.spotify.com/playlist/37i9dQZF1DX3Csy1LFxjkI)
+### [This Is James Arthur](https://open.spotify.com/playlist/4yIYnwQo6SMudduGAj9nyA)
 
 > All his biggest hits, all in one place.
 

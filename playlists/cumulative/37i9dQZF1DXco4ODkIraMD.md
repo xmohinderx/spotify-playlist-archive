@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXco4ODkIraMD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXco4ODkIraMD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXco4ODkIraMD)
 
-### [Reggaetón Rewind](https://open.spotify.com/playlist/37i9dQZF1DXco4ODkIraMD)
+### [Reggaetón Rewind](https://open.spotify.com/playlist/6ENxT1J0ltTig8PeynE97H)
 
 > Esos éxitos del reggaetón que todavía quieres seguir escuchando.<br/>Foto: Arcangel.
 

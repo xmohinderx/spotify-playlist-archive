@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > Keep your run going with these upbeat rock tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,584 likes - 40 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,588 likes - 40 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 39 | [Between Wounds](https://open.spotify.com/track/772FnT40LPQX1j2vx9BDzh) | [Last Train](https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG) | [Weathering](https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn) | 3:46 |
 | 40 | [Outside](https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 5:14 |
 
-Snapshot ID: `MTY0MTEwODM4OSwwMDAwMDAwMGYzZjVmYjgxZjY1YzVjN2FhM2JjZDY3ZTVlMGIyMjlm`
+Snapshot ID: `MTY0MTEwOTg4OSwwMDAwMDAwMGYzZjVmYjgxZjY1YzVjN2FhM2JjZDY3ZTVlMGIyMjlm`

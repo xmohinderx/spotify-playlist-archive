@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 
 > Drift away with enthralling instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,435 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,436 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbkmlag2h7b.md) - [plain]
 | 99 | [Minism](https://open.spotify.com/track/2yAb7Su6vkaBvnhCkkBQFx) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Somi](https://open.spotify.com/album/5lZVMWi7YF0XBeRqDlRojo) | 3:47 |
 | 100 | [Mysterium](https://open.spotify.com/track/50zj8Ry2UH4x55kAjlQQZm) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Mysterium](https://open.spotify.com/album/2NnfmVtTwx3f3qCfFajETT) | 2:47 |
 
-Snapshot ID: `MTY0MTEwODc0NywwMDAwMDAwMDMwOGFhMTZkNjNlNWE3YzdiNTgwOTA3ODkzYWFkYWNj`
+Snapshot ID: `MTY0MTExMDIyMSwwMDAwMDAwMDMwOGFhMTZkNjNlNWE3YzdiNTgwOTA3ODkzYWFkYWNj`

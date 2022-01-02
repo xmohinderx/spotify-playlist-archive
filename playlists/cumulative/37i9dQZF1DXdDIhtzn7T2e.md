@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdDIhtzn7T2e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdDIhtzn7T2e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdDIhtzn7T2e)
 
-### [Greener Pastures](https://open.spotify.com/playlist/37i9dQZF1DXdDIhtzn7T2e)
+### [Greener Pastures](https://open.spotify.com/playlist/7Fdh0ZQzW1X475GT90gmXk)
 
 > Let these country tunes light up your day
 

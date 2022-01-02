@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa2SPUyWl8Y5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa2SPUyWl8Y5)
 
-### [Beats to think to](https://open.spotify.com/playlist/37i9dQZF1DXa2SPUyWl8Y5)
+### [Beats to think to](https://open.spotify.com/playlist/2NF8nAjl3TnPE9TJlqKk6S)
 
 > Focus with deep techno and tech house.
 

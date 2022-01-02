@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLxoIml4MYkT.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLxoIml4MYkT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLxoIml4MYkT)
 
-### [Top 50 \- El Salvador](https://open.spotify.com/playlist/37i9dQZEVXbLxoIml4MYkT)
+### [Top 50 \- El Salvador](https://open.spotify.com/playlist/721wE5lHAa4JBRjC4QpOOZ)
 
 > Your daily update of the most played tracks right now \- El Salvador.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1S4JPQeJxtsN37X8as5EPk.md) - cumulative - [plain](/playlists/plain/1S4JPQeJxtsN37X8as5EPk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1S4JPQeJxtsN37X8as5EPk)
 
-### [Back to the Roots](https://open.spotify.com/playlist/1S4JPQeJxtsN37X8as5EPk)
+### [Back to the Roots](https://open.spotify.com/playlist/4Jo19HBA4ixNDiU0S9aYdZ)
 
 > Classic folk, bluegrass, country blues, and spirituals, along with some recent songs that have a traditional vibe.
 

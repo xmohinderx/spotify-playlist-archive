@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,411,692 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,411,706 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/track/5902W4uHWzhtOff1UK7the) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [When I’m Gone \(with Katy Perry\)](https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9) | 2:41 |
 | 100 | [We're Good \- Dillon Francis Remix](https://open.spotify.com/track/5Ja8ZlVexmTQKbWAQgZ3f0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [We're Good \(Dillon Francis Remix\)](https://open.spotify.com/album/5WGdFx6zypKOC8JQRgGtdz) | 3:06 |
 
-Snapshot ID: `MTY0MTEwODI2NywwMDAwMDAwMDBmNTMzMWE1YjNlYWMxODYwMjFhYWZkNmIyZDMzNDc3`
+Snapshot ID: `MTY0MTEwOTc3MiwwMDAwMDAwMDBmNTMzMWE1YjNlYWMxODYwMjFhYWZkNmIyZDMzNDc3`

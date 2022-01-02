@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX905zIRtblN3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX905zIRtblN3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX905zIRtblN3)
 
-### [La Reina: Éxitos del Regional Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX905zIRtblN3)
+### [La Reina: Éxitos del Regional Mexicano](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
 > ¡Las poderosas y llegadoras de nuestra música! Al millón con Calibre 50, al millón con La Reina.
 

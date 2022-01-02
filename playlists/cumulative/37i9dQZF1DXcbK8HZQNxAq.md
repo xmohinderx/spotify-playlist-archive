@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcbK8HZQNxAq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcbK8HZQNxAq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcbK8HZQNxAq)
 
-### [Indie Classical: Composed In 21st Century](https://open.spotify.com/playlist/37i9dQZF1DXcbK8HZQNxAq)
+### [Indie Classical: Composed In 21st Century](https://open.spotify.com/playlist/7ulsobvXzlGD2HiXJLwVT7)
 
 > 50 highlights of classical music composed in the new millennium\. Find more <a href="https://open.spotify.com/user/spotify/playlist/1SBY0rHT0QjEtrzSNFzpMM">contemporary</a>, <a href="spotify:user:danielstahl:playlist:7ijkPw3lLKPW6k3qee38Ki">avant\-garde</a> and <a href="spotify:user:spotify:playlist:5YuLa2rxwWrILo5KKHGCwX">minimalism</a> playlists at our <a href="http://open.spotify.com/genre/classical">Classical Hub</a>.
 

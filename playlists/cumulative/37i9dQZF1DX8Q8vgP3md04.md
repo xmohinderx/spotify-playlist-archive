@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8Q8vgP3md04.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8Q8vgP3md04) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8Q8vgP3md04)
 
-### [Ethio\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX8Q8vgP3md04)
+### [Ethio\-Pop](https://open.spotify.com/playlist/5h1kkeVebhBTJyRzBDxWOy)
 
 > Hit music from Ethiopia's finest.
 

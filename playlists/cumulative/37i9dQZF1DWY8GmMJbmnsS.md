@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWY8GmMJbmnsS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWY8GmMJbmnsS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWY8GmMJbmnsS)
 
-### [Timeless Soul Ballads](https://open.spotify.com/playlist/37i9dQZF1DWY8GmMJbmnsS)
+### [Timeless Soul Ballads](https://open.spotify.com/playlist/20VzWcV4IPB7T8VIiW5Cwq)
 
 > All of your classic soul ballads, right here\. Cover: <a href="spotify:artist:3rRmDmzPcAFwcUDvG5gBqO">Percy Sledge</a>
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 
 > Dinner with Friends? Here's the perfect playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371,900 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,371,902 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xuWVBs4FgJ.md) - [plain]
 | 99 | [Bright Eyes](https://open.spotify.com/track/3aEx5VvdgQsKy6vbOqpmEO) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [Bright Eyes](https://open.spotify.com/album/2CtaWkXvIZOsox1acC9IyC) | 4:40 |
 | 100 | [Kids In Love](https://open.spotify.com/track/2EjR7VKpDBdC2wgS053ivc) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Kids In Love](https://open.spotify.com/album/1iWMCIOJ18npeRsMZxfDER) | 3:09 |
 
-Snapshot ID: `MTY0MTEwODU0OCwwMDAwMDAwMDkwNDk2YmVjMTVhMGMzMjZmOTk4ZWU2MGU4NGI5ODQ4`
+Snapshot ID: `MTY0MTExMDAzOSwwMDAwMDAwMDkwNDk2YmVjMTVhMGMzMjZmOTk4ZWU2MGU4NGI5ODQ4`

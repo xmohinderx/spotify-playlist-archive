@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbJqdarpmTJDL.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbJqdarpmTJDL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbJqdarpmTJDL)
 
-### [Top 50 \- Greece](https://open.spotify.com/playlist/37i9dQZEVXbJqdarpmTJDL)
+### [Top 50 \- Greece](https://open.spotify.com/playlist/6k8YKBJeozCdDcoim94nFY)
 
 > Your daily update of the most played tracks right now \- Greece.
 

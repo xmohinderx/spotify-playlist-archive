@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdePw2uBvpYa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdePw2uBvpYa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdePw2uBvpYa)
 
-### [PRIDE: Punka](https://open.spotify.com/playlist/37i9dQZF1DXdePw2uBvpYa)
+### [PRIDE: Punka](https://open.spotify.com/playlist/5jRw18kvgpN77vsHjCscPj)
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 

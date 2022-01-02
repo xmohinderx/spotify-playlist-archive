@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLy5tBFyQvd4.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLy5tBFyQvd4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLy5tBFyQvd4)
 
-### [Top 50 \- Guatemala](https://open.spotify.com/playlist/37i9dQZEVXbLy5tBFyQvd4)
+### [Top 50 \- Guatemala](https://open.spotify.com/playlist/4IDWvFyBzZfAJ3pkT7fy9U)
 
 > Your daily update of the most played tracks right now \- Guatemala.
 

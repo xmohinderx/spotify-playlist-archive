@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6uhsAfngvaD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6uhsAfngvaD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6uhsAfngvaD)
 
-### [Dreampop](https://open.spotify.com/playlist/37i9dQZF1DX6uhsAfngvaD)
+### [Dreampop](https://open.spotify.com/playlist/2EQALS83E7BvUY2kshwRg7)
 
 > Dream your way through the day to these blissful indie tunes.
 

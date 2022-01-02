@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Aretha Franklin
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,571 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,573 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 49 | [That's The Way Love Goes](https://open.spotify.com/track/29rQJydAlO0uMyWvRIZxQg) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Janet](https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg) | 4:25 |
 | 50 | [Let Me Be Your Angel](https://open.spotify.com/track/3UteV5HVR6c6vMfFTvYtuG) | [Stacy Lattisaw](https://open.spotify.com/artist/0rKnxuiIepvjtMmrYYV2VA) | [Let Me Be Your Angel](https://open.spotify.com/album/1r3ojiC0kokSIk8S4K3tQV) | 3:59 |
 
-Snapshot ID: `MTY0MTEwODQ3OCwwMDAwMDAwMDU5ZGU2YTk5ZWE5YjNmNThiNGZhODc2NDZmYjFkZTVh`
+Snapshot ID: `MTY0MTEwOTk3MiwwMDAwMDAwMDU5ZGU2YTk5ZWE5YjNmNThiNGZhODc2NDZmYjFkZTVh`

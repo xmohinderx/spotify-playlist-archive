@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > tfw ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,543 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,550 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 69 | [Nostalgia](https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo) | [Tae](https://open.spotify.com/artist/3lcTi8VZbKKXUa0gpyLQx2) | [Nostalgia](https://open.spotify.com/album/4oU7ZVhl83heRjeobpGFIN) | 3:50 |
 | 70 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 
-Snapshot ID: `MTY0MTEwODcyNiwwMDAwMDAwMDAxN2Y1OWNkNjAxNGUxOTAwZDI4MjMzZDhmODY5Zjg4`
+Snapshot ID: `MTY0MTExMDIwMSwwMDAwMDAwMDAxN2Y1OWNkNjAxNGUxOTAwZDI4MjMzZDhmODY5Zjg4`

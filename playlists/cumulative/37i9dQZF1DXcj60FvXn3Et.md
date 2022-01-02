@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcj60FvXn3Et.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcj60FvXn3Et) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcj60FvXn3Et)
 
-### [Women of Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DXcj60FvXn3Et)
+### [Women of Soundtracks](https://open.spotify.com/playlist/3RBpFCwPPhCIAcnst6oao3)
 
 > Extraordinary soundtracks composed by extraordinary women\. Photo: <a href="spotify:artist:2lD1D6eEh7xQdBtnl2Ik7Y">Hildur Guðnadóttir</a>
 

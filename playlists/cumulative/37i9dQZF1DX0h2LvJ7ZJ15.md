@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0h2LvJ7ZJ15.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0h2LvJ7ZJ15) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0h2LvJ7ZJ15)
 
-### [slowed + reverbed](https://open.spotify.com/playlist/37i9dQZF1DX0h2LvJ7ZJ15)
+### [slowed + reverbed](https://open.spotify.com/playlist/4pr4mU2uzG9Ws0D5WIoeQn)
 
 > slowed, reverbed, chopped and screwed
 

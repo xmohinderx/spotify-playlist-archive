@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,004,266 likes - 76 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,285 likes - 76 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [9 Bridge](https://open.spotify.com/track/2sHekv6OdEiO4htSjdB9j4) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [9 Bridge](https://open.spotify.com/album/0MKr6ZcGoEnkycOQTpDANu) | 2:27 |
 | 76 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 
-Snapshot ID: `MTY0MTEwODY2NSwwMDAwMDAwMDQ0ODRmY2VlMWFlNmY3NjcxYTI1MWZmZWU3YzdiZDVm`
+Snapshot ID: `MTY0MTExMDE0MywwMDAwMDAwMDQ0ODRmY2VlMWFlNmY3NjcxYTI1MWZmZWU3YzdiZDVm`

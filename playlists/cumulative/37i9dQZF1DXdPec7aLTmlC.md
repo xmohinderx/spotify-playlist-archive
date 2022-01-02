@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdPec7aLTmlC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdPec7aLTmlC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdPec7aLTmlC)
 
-### [Happy Hits!](https://open.spotify.com/playlist/37i9dQZF1DXdPec7aLTmlC)
+### [Happy Hits!](https://open.spotify.com/playlist/7AErLDUggnFbzZO3gre4Ta)
 
 > Hits to boost your mood and fill you with happiness!
 

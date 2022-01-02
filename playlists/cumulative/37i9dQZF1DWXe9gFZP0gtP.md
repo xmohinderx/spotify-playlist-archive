@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXe9gFZP0gtP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXe9gFZP0gtP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXe9gFZP0gtP)
 
-### [Stress Relief](https://open.spotify.com/playlist/37i9dQZF1DWXe9gFZP0gtP)
+### [Stress Relief](https://open.spotify.com/playlist/7wZ6R9ir4o1jCeBuEOr8FQ)
 
 > Calm your mind with gentle piano and ambient.
 

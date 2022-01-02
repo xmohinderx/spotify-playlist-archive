@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0ekBHz1NmKS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0ekBHz1NmKS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ekBHz1NmKS)
 
-### [Made in Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0ekBHz1NmKS)
+### [Made in Sweden](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 > Här hör du de bästa svenska låtarna just nu.
 

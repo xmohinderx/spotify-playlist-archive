@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Lm1ZiObdc3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Lm1ZiObdc3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Lm1ZiObdc3)
 
-### [Feel Good Classical](https://open.spotify.com/playlist/37i9dQZF1DX5Lm1ZiObdc3)
+### [Feel Good Classical](https://open.spotify.com/playlist/6G3IZBkRRq0i7YKsVltwJR)
 
 > Classical tunes to make you feel good.
 

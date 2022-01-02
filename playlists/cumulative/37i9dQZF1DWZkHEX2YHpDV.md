@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZkHEX2YHpDV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZkHEX2YHpDV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZkHEX2YHpDV)
 
-### [The Scene](https://open.spotify.com/playlist/37i9dQZF1DWZkHEX2YHpDV)
+### [The Scene](https://open.spotify.com/playlist/4Z9TvdiaBBwAHoM8rp9lOU)
 
 > Call it pop\-punk, emo, post\-hardcore, whatever you want\. We call it all awesome\. Cover: Waterparks
 

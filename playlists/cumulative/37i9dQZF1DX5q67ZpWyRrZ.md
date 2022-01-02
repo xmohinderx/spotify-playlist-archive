@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5q67ZpWyRrZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5q67ZpWyRrZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5q67ZpWyRrZ)
 
-### [Indie India Presents Best Indie Songs of 2021](https://open.spotify.com/playlist/37i9dQZF1DX5q67ZpWyRrZ)
+### [Indie India Presents Best Indie Songs of 2021](https://open.spotify.com/playlist/0s5qf5tZzCsWtR2JuhZtq7)
 
 > Indie songs we loved the most in 2021\. Cover: Anuv Jain
 

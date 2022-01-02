@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXat5j4Lk8UEj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXat5j4Lk8UEj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXat5j4Lk8UEj)
 
-### [Folk Rock Favorites](https://open.spotify.com/playlist/37i9dQZF1DXat5j4Lk8UEj)
+### [Folk Rock Favorites](https://open.spotify.com/playlist/3TIa5auBD6glGxwEhYFQcx)
 
 > Dive into a mix of electric roots rock and folk\-infused alternative\. Cover: The Brook & The Bluff
 

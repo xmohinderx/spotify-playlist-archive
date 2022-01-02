@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZGJs84R82Xg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZGJs84R82Xg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZGJs84R82Xg)
 
-### [This Is Celia Cruz](https://open.spotify.com/playlist/37i9dQZF1DWZGJs84R82Xg)
+### [This Is Celia Cruz](https://open.spotify.com/playlist/0sB2aWBQof5wvxWW3vCHwL)
 
 > The latest and greatest\. Lo nuevo y lo esencial.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1vEe0OWx8Fn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1vEe0OWx8Fn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1vEe0OWx8Fn)
 
-### [dear diary](https://open.spotify.com/playlist/37i9dQZF1DX1vEe0OWx8Fn)
+### [dear diary](https://open.spotify.com/playlist/7zNUe9tpLIHIO7lX9G9AtD)
 
 > it was never just a phase
 

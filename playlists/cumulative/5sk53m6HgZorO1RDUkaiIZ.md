@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5sk53m6HgZorO1RDUkaiIZ.md) - cumulative - [plain](/playlists/plain/5sk53m6HgZorO1RDUkaiIZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5sk53m6HgZorO1RDUkaiIZ)
 
-### [The official Bråvalla Festival playlist 2017](https://open.spotify.com/playlist/5sk53m6HgZorO1RDUkaiIZ)
+### [The official Bråvalla Festival playlist 2017](https://open.spotify.com/playlist/2tslPI1L7we7Rqm1LSxr3A)
 
 > All confirmed artists at the Bråvalla Festival 2017! June 28th \- July 1st, Norrköping, Sweden\. <a href="http://www.bravallafestival.se/">www.bravallafestival.se</a>
 

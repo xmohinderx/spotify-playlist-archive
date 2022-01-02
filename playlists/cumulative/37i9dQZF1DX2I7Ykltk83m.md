@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2I7Ykltk83m.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2I7Ykltk83m) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2I7Ykltk83m)
 
-### [badass](https://open.spotify.com/playlist/37i9dQZF1DX2I7Ykltk83m)
+### [badass](https://open.spotify.com/playlist/4qEfllXxSWqJiKi8GSfFEw)
 
 > killer songs from badass artists\. Cover: Snail Mail
 

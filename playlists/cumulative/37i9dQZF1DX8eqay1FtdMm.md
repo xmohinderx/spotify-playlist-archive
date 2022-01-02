@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8eqay1FtdMm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8eqay1FtdMm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8eqay1FtdMm)
 
-### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
+### [v o K a l](https://open.spotify.com/playlist/2BbJAyiww6XGkUOKjIhd3r)
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN \(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 

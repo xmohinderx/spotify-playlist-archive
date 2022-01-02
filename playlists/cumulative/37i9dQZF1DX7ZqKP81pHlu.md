@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7ZqKP81pHlu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7ZqKP81pHlu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7ZqKP81pHlu)
 
-### [Algeria Sounds](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
+### [Algeria Sounds](https://open.spotify.com/playlist/3fsBErBFxBgQOhLwfmS0nf)
 
 > The sweet sounds of Algeria.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134,129 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,130 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 49 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
 | 50 | [Mannequin \- 2006 Remastered Version](https://open.spotify.com/track/3iTGXWfuazyOJBbjHXary5) | [Wire](https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d) | [Pink Flag](https://open.spotify.com/album/5dfFLlA2pgPWdZZxrgZAGP) | 2:37 |
 
-Snapshot ID: `MTY0MTEwODUxMSwwMDAwMDAwMGViZGUyNjdmN2U0NjI1ZDk2YWU4MjVjODEzNWM5NWMy`
+Snapshot ID: `MTY0MTExMDAwNCwwMDAwMDAwMGViZGUyNjdmN2U0NjI1ZDk2YWU4MjVjODEzNWM5NWMy`

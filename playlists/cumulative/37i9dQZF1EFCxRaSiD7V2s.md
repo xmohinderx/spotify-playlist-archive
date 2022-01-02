@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1EFCxRaSiD7V2s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFCxRaSiD7V2s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFCxRaSiD7V2s)
 
-### [Written By Jenny Owen Youngs](https://open.spotify.com/playlist/37i9dQZF1EFCxRaSiD7V2s)
+### [Written By Jenny Owen Youngs](https://open.spotify.com/playlist/16pN73IBRpwEn7YSfpEgt6)
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1LOFFo47FopFwql14pkoJP">Jenny Owen Youngs</a>, all in one playlist\. <a href="spotify:genre:songwriters\-page">Discover more songwriters on Spotify</a>.
 

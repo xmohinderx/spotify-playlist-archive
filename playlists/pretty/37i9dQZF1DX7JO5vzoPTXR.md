@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE?si=GPDQpygtSJOb3jufW0Qvog">Trousdale</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,074 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,073 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Real Enough To Feel Good](https://open.spotify.com/track/4nOg2QiFCMJN5R124BQiZg) | [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [All Hours](https://open.spotify.com/album/3IR4b0tGlu8yYzHFix9TwN) | 5:06 |
 | 40 | [Dancing In The Living Room](https://open.spotify.com/track/1Y2drdMPyCwRxTCnUmadFh) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:16 |
 
-Snapshot ID: `MTY0MTEwODYxMCwwMDAwMDAwMDA3MTg2MWI1MjI4OGUxYmUwMTY1NTg5N2I4ZDg0MDk1`
+Snapshot ID: `MTY0MTExMDA5NywwMDAwMDAwMDA3MTg2MWI1MjI4OGUxYmUwMTY1NTg5N2I4ZDg0MDk1`

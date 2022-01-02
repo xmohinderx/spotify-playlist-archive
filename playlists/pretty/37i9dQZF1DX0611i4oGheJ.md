@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,818 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,819 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 149 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
 | 150 | [Forever and Then Some](https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 4:49 |
 
-Snapshot ID: `MTY0MTEwODQzMSwwMDAwMDAwMDg2NWI2OWQ3MWQwMWQ5YjExNTM4Njk4MTM1MjViNDk1`
+Snapshot ID: `MTY0MTEwOTkyOCwwMDAwMDAwMDg2NWI2OWQ3MWQwMWQ5YjExNTM4Njk4MTM1MjViNDk1`

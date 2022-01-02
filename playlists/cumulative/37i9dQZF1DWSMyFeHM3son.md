@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSMyFeHM3son.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSMyFeHM3son) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSMyFeHM3son)
 
-### [reblog](https://open.spotify.com/playlist/37i9dQZF1DWSMyFeHM3son)
+### [reblog](https://open.spotify.com/playlist/2NOVuwP1ISEFI7XoVimdD6)
 
 > pigtail buns, chokers, knee socks, and chunky platforms
 

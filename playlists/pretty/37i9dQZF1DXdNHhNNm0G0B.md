@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 
 > Relax to the sounds of acoustic blues and folk...
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,504 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,505 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNHhNNm0G0B.md) - [plain]
 | 49 | [Preachin' Blues](https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Preachin' Blues](https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G) | 5:16 |
 | 50 | [Shake It for Me](https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Shake It for Me](https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av) | 3:42 |
 
-Snapshot ID: `MTY0MTEwODc0MCwwMDAwMDAwMDIzYTNiMWI5ODczNWFhYmJiZmE4YjgxZDk5NWM0NGIx`
+Snapshot ID: `MTY0MTExMDIxNCwwMDAwMDAwMDIzYTNiMWI5ODczNWFhYmJiZmE4YjgxZDk5NWM0NGIx`

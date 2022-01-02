@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7qRKBHjmYIE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7qRKBHjmYIE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7qRKBHjmYIE)
 
-### [Mixto](https://open.spotify.com/playlist/37i9dQZF1DX7qRKBHjmYIE)
+### [Mixto](https://open.spotify.com/playlist/3SORnEVvwZnZFZt7CVPiaY)
 
 > De aquí y de allá\. A mixture of sounds and artists\. Cover: Arca
 

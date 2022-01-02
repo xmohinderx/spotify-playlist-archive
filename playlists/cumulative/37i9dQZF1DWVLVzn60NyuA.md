@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVLVzn60NyuA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVLVzn60NyuA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVLVzn60NyuA)
 
-### [Summer Vibes](https://open.spotify.com/playlist/37i9dQZF1DWVLVzn60NyuA)
+### [Summer Vibes](https://open.spotify.com/playlist/7LR5cDpT1OxrbiDhjL3XRj)
 
 > Afro, Caribbean & Latin sounds for that summer vibe.
 

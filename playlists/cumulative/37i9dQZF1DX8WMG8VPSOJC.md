@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8WMG8VPSOJC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8WMG8VPSOJC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8WMG8VPSOJC)
 
-### [Country Kind of Love](https://open.spotify.com/playlist/37i9dQZF1DX8WMG8VPSOJC)
+### [Country Kind of Love](https://open.spotify.com/playlist/3D2crqIpUOvL4P3WOb2H4z)
 
 > Nothing but beautiful country love songs.
 

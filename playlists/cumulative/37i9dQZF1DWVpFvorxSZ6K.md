@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVpFvorxSZ6K.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVpFvorxSZ6K) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVpFvorxSZ6K)
 
-### [This Is Leonard Cohen](https://open.spotify.com/playlist/37i9dQZF1DWVpFvorxSZ6K)
+### [This Is Leonard Cohen](https://open.spotify.com/playlist/7eCzCVE5qCaVfM0MMOMuRX)
 
 > All of your favorite songs from the legendary singer\-songwriter.
 

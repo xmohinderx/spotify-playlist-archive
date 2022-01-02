@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Pokey LaFarge
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,747 likes - 90 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,748 likes - 90 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 89 | [Wastin' My Mind](https://open.spotify.com/track/0SeboT7teon4VsNRa2vewB) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [The Muse](https://open.spotify.com/album/6eq3ap2wTob9CGEoPQsuH3) | 2:59 |
 | 90 | [In and Out of Love](https://open.spotify.com/track/44WS4ss6Rh3tbTkVwttvpV) | [The Harpoonist & the Axe Murderer](https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF) | [A Real Fine Mess \(Deluxe Version\)](https://open.spotify.com/album/3X43SBnfPj79lGPW1eEaq7) | 2:49 |
 
-Snapshot ID: `MTY0MTEwODMyOCwwMDAwMDAwMDdhYjVkYjVjMTVmMTNiMDM4MGE4MWJjYzQ4ZjEzNDgz`
+Snapshot ID: `MTY0MTEwOTgzMCwwMDAwMDAwMDdhYjVkYjVjMTVmMTNiMDM4MGE4MWJjYzQ4ZjEzNDgz`

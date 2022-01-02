@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNHwMxAkvmF8.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNHwMxAkvmF8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNHwMxAkvmF8)
 
-### [Top 50 \- Hungary](https://open.spotify.com/playlist/37i9dQZEVXbNHwMxAkvmF8)
+### [Top 50 \- Hungary](https://open.spotify.com/playlist/7svddjzxIPaFrTrcCSo8Qo)
 
 > Your daily update of the most played tracks right now \- Hungary.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 東京への旅のお供に、日本を代表するインスト楽曲の特集をどうぞ！！
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,243 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,244 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [BLUE MOON](https://open.spotify.com/track/2gt5R59niPj7cFflsCNBEI) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [BLUE MOON](https://open.spotify.com/album/6wya2peFBrgmH7VhYvh9DF) | 3:05 |
 | 100 | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/track/1GpnpwnjedpwMLmpnNx2VE) | [NABOWA](https://open.spotify.com/artist/2RoKrXDjKFkqCTtmIwtAha) | [timmit \(HIRAKU YAMAMOTO tim←metro→mit REMIX\)](https://open.spotify.com/album/3yr3bD3xk9IA8xwDkc7zZ2) | 3:53 |
 
-Snapshot ID: `MTY0MTEwODMyOCwwMDAwMDAwMDcxYjJlNmZkNDBkY2YxNzViYWFjYjUyMzA2ZmFmYzE0`
+Snapshot ID: `MTY0MTEwOTgzMCwwMDAwMDAwMDcxYjJlNmZkNDBkY2YxNzViYWFjYjUyMzA2ZmFmYzE0`

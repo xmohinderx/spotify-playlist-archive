@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSKoG4oVafMt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSKoG4oVafMt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSKoG4oVafMt)
 
-### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
+### [Punjabi Pyar](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 > Catch the most\-streamed romantic tracks in 2021\. Cover: Harnoor
 

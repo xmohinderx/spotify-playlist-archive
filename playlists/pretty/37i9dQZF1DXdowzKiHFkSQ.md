@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdowzKiHFkSQ.md) - [plain]
 
 > Let a guitar put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,723 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,725 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdowzKiHFkSQ.md) - [plain]
 | 99 | [The Bliss](https://open.spotify.com/track/3jBxuyTAmkliaV09qYOwTo) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 4:43 |
 | 100 | [No You Girls](https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight](https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS) | 3:43 |
 
-Snapshot ID: `MTY0MTEwODc1MiwwMDAwMDAwMGRmOTk3YmIzYjVmMzBjNzAxYmViMzkwOGY1MTdiYjYw`
+Snapshot ID: `MTY0MTExMDIyNiwwMDAwMDAwMGRmOTk3YmIzYjVmMzBjNzAxYmViMzkwOGY1MTdiYjYw`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUzFXarNiofw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUzFXarNiofw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUzFXarNiofw)
 
-### [New Jams](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
+### [New Jams](https://open.spotify.com/playlist/2y3HQxunEcE7pPAyHu4buJ)
 
 > The newest, freshest R&B tunes\.  Cover: Alex Isley
 

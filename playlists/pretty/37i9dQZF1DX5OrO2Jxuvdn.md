@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,035 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,040 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 99 | [What She Wants Tonight](https://open.spotify.com/track/5M3v6frAiTyqenNAeQVcxC) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [What She Wants Tonight](https://open.spotify.com/album/0YgJpsCDakroRHWZ8WzgiT) | 3:06 |
 | 100 | [Hooked](https://open.spotify.com/track/3DV49ruvI5Sl6iisPZAc2c) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Dylan Scott \(Deluxe Edition\)](https://open.spotify.com/album/2zSuxzKE7PIi9LhCk3uL6o) | 2:29 |
 
-Snapshot ID: `MTY0MTEwODU2MiwwMDAwMDAwMDY0MjhlMzRhM2E2NmFmMDU4NWQwNjFiOWEyNWFhZDgw`
+Snapshot ID: `MTY0MTExMDA1MiwwMDAwMDAwMDY0MjhlMzRhM2E2NmFmMDU4NWQwNjFiOWEyNWFhZDgw`

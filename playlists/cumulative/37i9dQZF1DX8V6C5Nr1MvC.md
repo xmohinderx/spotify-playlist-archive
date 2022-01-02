@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8V6C5Nr1MvC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8V6C5Nr1MvC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8V6C5Nr1MvC)
 
-### [Rocktail Hour](https://open.spotify.com/playlist/37i9dQZF1DX8V6C5Nr1MvC)
+### [Rocktail Hour](https://open.spotify.com/playlist/497y8NFRf0FN68176BW58p)
 
 > Unwind and drink up these awesome Rock slow songs
 

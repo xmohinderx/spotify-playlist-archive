@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1VHgGvdVgaZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1VHgGvdVgaZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1VHgGvdVgaZ)
 
-### [Carnatic Instrumental](https://open.spotify.com/playlist/37i9dQZF1DX1VHgGvdVgaZ)
+### [Carnatic Instrumental](https://open.spotify.com/playlist/2AwX8bUMnLlmfapVgD5oSt)
 
 > Instrumental selections from the South Indian school of music.
 

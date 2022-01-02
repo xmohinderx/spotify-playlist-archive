@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYoYGBbGKurt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYoYGBbGKurt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYoYGBbGKurt)
 
-### [Chill Instrumental Beats](https://open.spotify.com/playlist/37i9dQZF1DWYoYGBbGKurt)
+### [Chill Instrumental Beats](https://open.spotify.com/playlist/2L6ovOzRwBQGJ4GyNuKOX7)
 
 > Instrumental beats to chill to.
 

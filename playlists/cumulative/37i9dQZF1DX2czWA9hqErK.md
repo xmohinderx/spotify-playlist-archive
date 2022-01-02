@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2czWA9hqErK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2czWA9hqErK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2czWA9hqErK)
 
-### [Easy](https://open.spotify.com/playlist/37i9dQZF1DX2czWA9hqErK)
+### [Easy](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 > Laid back sounds to see you through your day.
 

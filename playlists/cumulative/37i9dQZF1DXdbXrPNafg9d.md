@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdbXrPNafg9d.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdbXrPNafg9d) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdbXrPNafg9d)
 
-### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
+### [All New Indie](https://open.spotify.com/playlist/1AAb6HvkitUK9waoKCTxpm)
 
 > The best new tracks every week\. Cover: Mitski
 

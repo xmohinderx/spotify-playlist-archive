@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX525kA8Naqsg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX525kA8Naqsg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX525kA8Naqsg)
 
-### [Raised on Rock](https://open.spotify.com/playlist/37i9dQZF1DX525kA8Naqsg)
+### Raised on Rock
 
 > A soundtrack that both you and your little one can enjoy.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7FW3TjTduV4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7FW3TjTduV4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7FW3TjTduV4)
 
-### [This Is: Dirty Projectors](https://open.spotify.com/playlist/37i9dQZF1DX7FW3TjTduV4)
+### [This Is: Dirty Projectors](https://open.spotify.com/playlist/0VhfMNPR5KphRb5KqyHiyL)
 
 > This is the best of Dirty Projectors...
 

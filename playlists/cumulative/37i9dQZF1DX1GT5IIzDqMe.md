@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1GT5IIzDqMe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1GT5IIzDqMe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1GT5IIzDqMe)
 
-### [Detroit Techno](https://open.spotify.com/playlist/37i9dQZF1DX1GT5IIzDqMe)
+### [Detroit Techno](https://open.spotify.com/playlist/5JHgeYLsYwT2eXjUytLgX7)
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Remembering K\-HAND.
 

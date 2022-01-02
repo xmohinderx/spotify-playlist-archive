@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5lw1wrxWyPu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5lw1wrxWyPu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5lw1wrxWyPu)
 
-### [Shakespeare: The Tragedies](https://open.spotify.com/playlist/37i9dQZF1DX5lw1wrxWyPu)
+### [Shakespeare: The Tragedies](https://open.spotify.com/playlist/6SPj10iIlcwfVEExIrGwPK)
 
 > For never were there stories of more woe...\. than those found in these masterful performances, adaptations, and readings of Shakespeare's Tragedies.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1iOLV6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1iOLV6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1iOLV6)
 
-### [This Is Patoranking](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iOLV6)
+### [This Is Patoranking](https://open.spotify.com/playlist/4I1tHZ9VgAFZYFBmOwNU7i)
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 

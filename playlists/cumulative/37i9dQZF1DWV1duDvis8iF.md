@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWV1duDvis8iF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWV1duDvis8iF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWV1duDvis8iF)
 
-### [Irish Lit](https://open.spotify.com/playlist/37i9dQZF1DWV1duDvis8iF)
+### [Irish Lit](https://open.spotify.com/playlist/6lejQPdaONkwic3ZBJkyhe)
 
 > A collection of classic and contemporary Irish short stories, novels, plays, poetry, and historical artifacts in English and Irish.
 

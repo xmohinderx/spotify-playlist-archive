@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYwMzXER4RFF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYwMzXER4RFF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYwMzXER4RFF)
 
-### [Post Punk 2k](https://open.spotify.com/playlist/37i9dQZF1DWYwMzXER4RFF)
+### [Post Punk 2k](https://open.spotify.com/playlist/0Kwx2x0cfXxWAWrkYyuEPR)
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 

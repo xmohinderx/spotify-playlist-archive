@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWViyN2b86Qnu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWViyN2b86Qnu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWViyN2b86Qnu)
 
-### [Transcend](https://open.spotify.com/playlist/37i9dQZF1DWViyN2b86Qnu)
+### [Transcend](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Freddie Lewis
 

@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Christmas Cheer](https://open.spotify.com/track/3yQw5zU2b3MNH2h9ccYgyZ) | [Abbey Lincoln](https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F), [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:51 |
 | 70 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
 
-Snapshot ID: `MTY0MTEwODUyOCwwMDAwMDAwMGRmMjNlZjRjNWQ5NzdjMTZmODMyZjFhZjc5OTAxNWYx`
+Snapshot ID: `MTY0MTExMDAyMCwwMDAwMDAwMGRmMjNlZjRjNWQ5NzdjMTZmODMyZjFhZjc5OTAxNWYx`

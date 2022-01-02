@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2cW2nLJVrZg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2cW2nLJVrZg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2cW2nLJVrZg)
 
-### [Hollywood's Big Night](https://open.spotify.com/playlist/37i9dQZF1DX2cW2nLJVrZg)
+### [Hollywood's Big Night](https://open.spotify.com/playlist/7CjEHP2nFY9SLCboWUYZ1B)
 
 > Nominees from the 93rd annual event celebrating Hollywood's brightest stars.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5eq3AONkaho.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5eq3AONkaho) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5eq3AONkaho)
 
-### [Workday K\-Pop](https://open.spotify.com/playlist/37i9dQZF1DX5eq3AONkaho)
+### [Workday K\-Pop](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 

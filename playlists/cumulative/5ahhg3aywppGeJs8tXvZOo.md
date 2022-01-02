@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5ahhg3aywppGeJs8tXvZOo.md) - cumulative - [plain](/playlists/plain/5ahhg3aywppGeJs8tXvZOo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5ahhg3aywppGeJs8tXvZOo)
 
-### [The New Standards](https://open.spotify.com/playlist/5ahhg3aywppGeJs8tXvZOo)
+### [The New Standards](https://open.spotify.com/playlist/3EZGyGUFiYpKXpSkoEbvC2)
 
 > Fresh takes on all of your favorite standards.
 

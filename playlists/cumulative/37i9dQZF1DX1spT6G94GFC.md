@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1spT6G94GFC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1spT6G94GFC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1spT6G94GFC)
 
-### [80s Rock Anthems](https://open.spotify.com/playlist/37i9dQZF1DX1spT6G94GFC)
+### [80s Rock Anthems](https://open.spotify.com/playlist/4jYRsZsdPBj4GY3BTjud4Q)
 
 > These songs rocked the 80s.
 

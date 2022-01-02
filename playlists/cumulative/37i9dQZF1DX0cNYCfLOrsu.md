@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0cNYCfLOrsu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0cNYCfLOrsu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0cNYCfLOrsu)
 
-### [Dancehall Queen](https://open.spotify.com/playlist/37i9dQZF1DX0cNYCfLOrsu)
+### [Dancehall Queen](https://open.spotify.com/playlist/2HvSrSvEMicLEMbs1ellKF)
 
 > The best to ever do it\. Cover: Amaria BB
 

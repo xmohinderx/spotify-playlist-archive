@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXcg95telZlE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXcg95telZlE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXcg95telZlE)
 
-### [Soft 50s](https://open.spotify.com/playlist/37i9dQZF1DWXcg95telZlE)
+### [Soft 50s](https://open.spotify.com/playlist/1rXcx4WvqwbQUqwLDBHKJH)
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 

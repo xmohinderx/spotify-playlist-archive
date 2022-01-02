@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXasneILDRM7B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXasneILDRM7B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXasneILDRM7B)
 
-### [Pure Pop Punk](https://open.spotify.com/playlist/37i9dQZF1DXasneILDRM7B)
+### [Pure Pop Punk](https://open.spotify.com/playlist/2378SJjdyJCwFI5oiW7u05)
 
 > Please stand for your personal anthems.
 

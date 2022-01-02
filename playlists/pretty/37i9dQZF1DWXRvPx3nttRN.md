@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,131 likes - 232 songs - 13 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,133 likes - 232 songs - 13 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,4 +241,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 231 | [Waiting For Love \- Prinston & Astrid S Acoustic Version](https://open.spotify.com/track/6jMcnR3U9NDwtziD5fmSYY) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Jens Siverstedt](https://open.spotify.com/artist/7J2MiNrvu4hfaZ3U0lXBQI) | [Waiting For Love \(Remixes\)](https://open.spotify.com/album/4yjiauN4w1HUe5dmv7An24) | 3:21 |
 | 232 | [You Don't Know Me \- Acoustic Version](https://open.spotify.com/track/3LUBsjAuvdCcPVHvwQhVOJ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [You Don't Know Me \(Acoustic Version\)](https://open.spotify.com/album/74DlSwELqP1vuk3ynNVvMk) | 3:44 |
 
-Snapshot ID: `MTY0MTEwODM3OCwwMDAwMDAwMGJiNzMxY2UyNzM5NGY2NDNlZmM0N2ZkZDY3NGFhNmM0`
+Snapshot ID: `MTY0MTEwOTg3OCwwMDAwMDAwMGJiNzMxY2UyNzM5NGY2NDNlZmM0N2ZkZDY3NGFhNmM0`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWxuZGEYY4h1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWxuZGEYY4h1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWxuZGEYY4h1)
 
-### [This Is Zonke](https://open.spotify.com/playlist/37i9dQZF1DWWxuZGEYY4h1)
+### [This Is Zonke](https://open.spotify.com/playlist/4qp6Mt5uBV7NJMkser1rz1)
 
 > All the essentials from this South African star.
 

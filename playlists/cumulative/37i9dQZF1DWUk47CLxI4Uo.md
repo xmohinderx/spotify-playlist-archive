@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUk47CLxI4Uo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUk47CLxI4Uo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUk47CLxI4Uo)
 
-### [Instrumental Madness](https://open.spotify.com/playlist/37i9dQZF1DWUk47CLxI4Uo)
+### [Instrumental Madness](https://open.spotify.com/playlist/3F6qdWSwZxrusUKESQeAKK)
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 

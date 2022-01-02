@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbj3m6LiQbmy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbj3m6LiQbmy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbj3m6LiQbmy)
 
-### [Pride Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
+### [Pride Italia](https://open.spotify.com/playlist/4rwUfZJKHXiQQuTAaFt3nw)
 
 > Orgoglio! Cover: M¥SS KETA
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: serpentwithfeet
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,098 likes - 74 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,096 likes - 74 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 73 | [Good Day \(feat\. MisterWives & Curtis Roach\)](https://open.spotify.com/track/6cZTY8gdphkmqXRKI8jBTt) | [Jax Anderson](https://open.spotify.com/artist/4Gh0D04oCEVbnsx63LXUmT), [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Good Day \(feat\. MisterWives & Curtis Roach\)](https://open.spotify.com/album/0LuAEXGmnQD1CenvT6DhsB) | 3:36 |
 | 74 | [Hot & Heavy](https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Hot & Heavy](https://open.spotify.com/album/3oInRchbCmQzKxmDdozxwu) | 4:10 |
 
-Snapshot ID: `MTY0MTEwODUxMiwwMDAwMDAwMDJjMGUwZmY5YjkxNzZkNTc3NmUyMGFjMTNiNTZjYzdk`
+Snapshot ID: `MTY0MTExMDAwNCwwMDAwMDAwMDJjMGUwZmY5YjkxNzZkNTc3NmUyMGFjMTNiNTZjYzdk`

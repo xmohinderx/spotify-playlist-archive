@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6NjugpbMNtXAtbv3NIbb3j.md) - cumulative - [plain](/playlists/plain/6NjugpbMNtXAtbv3NIbb3j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6NjugpbMNtXAtbv3NIbb3j)
 
-### [Spotify House Thursday](https://open.spotify.com/playlist/6NjugpbMNtXAtbv3NIbb3j)
+### [Spotify House Thursday](https://open.spotify.com/playlist/7ckrUpDroxHr9SwDwTLicA)
 
 > The Spotify House 2015 Thursday lineup.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,117 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,120 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [A Ton of Love \- Acoustic Version](https://open.spotify.com/track/0QlJAgg3zveXMQwKWmJdyJ) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Formaldehyde](https://open.spotify.com/album/0PYwWFc9D6TaFnxnOuVZ9b) | 3:11 |
 | 50 | [7 \- Acoustic](https://open.spotify.com/track/0ZObDSV7QWyu0Zdinf61Mq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/3918b6TP7PXvhRrJj0SevW) | 4:12 |
 
-Snapshot ID: `MTY0MTEwODQ1MSwwMDAwMDAwMGY3ZTQyMDNlYmVlNjM4ZGJmZTNiODIwNDk5YThlZTQx`
+Snapshot ID: `MTY0MTEwOTk0NywwMDAwMDAwMGY3ZTQyMDNlYmVlNjM4ZGJmZTNiODIwNDk5YThlZTQx`

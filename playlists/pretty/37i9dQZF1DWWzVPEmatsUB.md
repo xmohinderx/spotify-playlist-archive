@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Have a quiet morning with this mix of something familiar and something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,964 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,965 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 69 | [for life](https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [magnolia](https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6) | 3:31 |
 | 70 | [Broke \- Mahogany Sessions](https://open.spotify.com/track/31lFJpeg5EGzxpPEetMbty) | [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Broke \(Mahogany Sessions\)](https://open.spotify.com/album/4OBlAJRLTChQfVWrswZj2Y) | 2:46 |
 
-Snapshot ID: `MTY0MTEwODM2OSwwMDAwMDAwMGZkNmVjNzI4NTY4NzI0ZjRmYTAxZjljMjkwMDc3NGMx`
+Snapshot ID: `MTY0MTEwOTg3MCwwMDAwMDAwMGZkNmVjNzI4NTY4NzI0ZjRmYTAxZjljMjkwMDc3NGMx`

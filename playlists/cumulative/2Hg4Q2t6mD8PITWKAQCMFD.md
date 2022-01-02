@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2Hg4Q2t6mD8PITWKAQCMFD.md) - cumulative - [plain](/playlists/plain/2Hg4Q2t6mD8PITWKAQCMFD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2Hg4Q2t6mD8PITWKAQCMFD)
 
-### [Top Tracks in Travel](https://open.spotify.com/playlist/2Hg4Q2t6mD8PITWKAQCMFD)
+### [Top Tracks in Travel](https://open.spotify.com/playlist/3ePVF2W879qMCGOVRY5fEb)
 
 > 
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbbp0uiGXEBw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbbp0uiGXEBw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbbp0uiGXEBw)
 
-### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
+### [EQUAL Vietnam](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Văn Mai Hương
 

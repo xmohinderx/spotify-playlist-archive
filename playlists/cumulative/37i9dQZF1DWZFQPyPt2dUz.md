@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZFQPyPt2dUz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZFQPyPt2dUz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZFQPyPt2dUz)
 
-### [The Selected W\. B\. Yeats](https://open.spotify.com/playlist/37i9dQZF1DWZFQPyPt2dUz)
+### [The Selected W\. B\. Yeats](https://open.spotify.com/playlist/77YCTdYvglPrOp2gNdzo0t)
 
 > Within these words, "midnight's all a glimmer, and noon a purple glow..." Classic performances of Yeats' poems alongside the voice of the man himself.
 

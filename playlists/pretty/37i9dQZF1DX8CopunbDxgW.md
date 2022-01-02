@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The essential indie dance, featuring LEISURE
 
-[Spotify](https://open.spotify.com/user/spotify) - 778,060 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 778,061 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Meliadi](https://open.spotify.com/track/7q0hKCMq8bSTB6z6BSXQ2a) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [Meliadi](https://open.spotify.com/album/2uerceDrS1RHxnrpNq8Zz7) | 2:46 |
 | 100 | [Innerspace](https://open.spotify.com/track/4tZ5Z8toQDjOmnWQYUe8Nv) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Innerspace](https://open.spotify.com/album/5agObt2DmaTVZSbmDp6mom) | 2:44 |
 
-Snapshot ID: `MTY0MTEwODYyNiwwMDAwMDAwMGM2ZTMxZDI3YTg3Mjc1ODVjNjExM2ZmYWI2YjliNmFi`
+Snapshot ID: `MTY0MTExMDExMiwwMDAwMDAwMGM2ZTMxZDI3YTg3Mjc1ODVjNjExM2ZmYWI2YjliNmFi`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZTHlwqNeZ4l.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZTHlwqNeZ4l) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZTHlwqNeZ4l)
 
-### [Tegan and Sara: Pride](https://open.spotify.com/playlist/37i9dQZF1DWZTHlwqNeZ4l)
+### [Tegan and Sara: Pride](https://open.spotify.com/playlist/5ZnqR4bBjTmkxLaZkof7fU)
 
 > Tapping Gallant, ANOHNI, and more, the Canadian duo forge a Pride list that defines eclecticism\. Listen for a new tune with Ingrid Michaelson.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXardnHdSkglX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXardnHdSkglX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXardnHdSkglX)
 
-### [Bossa Nova Covers](https://open.spotify.com/playlist/37i9dQZF1DXardnHdSkglX)
+### [Bossa Nova Covers](https://open.spotify.com/playlist/23RXcXaPeEct85QVx5IyTE)
 
 > Some of the world's biggest pop hits in bossa nova versions.
 

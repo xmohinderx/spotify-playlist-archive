@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcGV9sg8bMdx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcGV9sg8bMdx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcGV9sg8bMdx)
 
-### [This Is Jane's Addiction](https://open.spotify.com/playlist/37i9dQZF1DXcGV9sg8bMdx)
+### [This Is Jane's Addiction](https://open.spotify.com/playlist/3WuJuTMYi6oilkx2gNA0Eb)
 
 > Jane says these are the essentials.
 

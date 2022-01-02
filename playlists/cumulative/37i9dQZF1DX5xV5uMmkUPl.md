@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5xV5uMmkUPl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5xV5uMmkUPl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5xV5uMmkUPl)
 
-### [This Is Residente](https://open.spotify.com/playlist/37i9dQZF1DX5xV5uMmkUPl)
+### [This Is Residente](https://open.spotify.com/playlist/1yQp1AISCS3ieoWUwr4OMq)
 
 > Lo nuevo y lo esencial de René.
 

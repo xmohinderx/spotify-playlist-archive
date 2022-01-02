@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZC2yew0xGiz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZC2yew0xGiz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZC2yew0xGiz)
 
-### [Film & TV Favorites: 90s Black Cinema](https://open.spotify.com/playlist/37i9dQZF1DWZC2yew0xGiz)
+### [Film & TV Favorites: 90s Black Cinema](https://open.spotify.com/playlist/3WbwSM5Rxh6r83rw0ZWIf0)
 
 > This month: songs from an iconic era of Black film soundtracks.
 

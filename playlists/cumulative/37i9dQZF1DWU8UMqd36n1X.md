@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWU8UMqd36n1X.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWU8UMqd36n1X) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWU8UMqd36n1X)
 
-### [I Love My New Jack Swing](https://open.spotify.com/playlist/37i9dQZF1DWU8UMqd36n1X)
+### [I Love My New Jack Swing](https://open.spotify.com/playlist/3LLczNPMEh351FaOO7FDDn)
 
 > Music from that amazing era\. Cover: Teddy Riley
 

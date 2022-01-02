@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbvABJXBIyiY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbvABJXBIyiY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbvABJXBIyiY)
 
-### [Rainy Day](https://open.spotify.com/playlist/37i9dQZF1DXbvABJXBIyiY)
+### [Rainy Day](https://open.spotify.com/playlist/155vUGZmORDuQImfG0A8fc)
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 

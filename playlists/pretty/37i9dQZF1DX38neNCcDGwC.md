@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,136 likes - 34 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,137 likes - 34 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38neNCcDGwC.md) - [plain]
 | 33 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 |
 | 34 | [No Woman No Cry](https://open.spotify.com/track/3PQLYVskjUeRmRIfECsL0X) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:46 |
 
-Snapshot ID: `MTY0MTEwODUwNiwwMDAwMDAwMDFlNjYzNWE5Y2EwMTBiMWUyZWVjN2I5MWMxNGY2OTk0`
+Snapshot ID: `MTY0MTEwOTk5OCwwMDAwMDAwMDFlNjYzNWE5Y2EwMTBiMWUyZWVjN2I5MWMxNGY2OTk0`

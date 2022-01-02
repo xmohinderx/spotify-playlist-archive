@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT6pI50XnTRh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT6pI50XnTRh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT6pI50XnTRh)
 
-### [AfroBoogie](https://open.spotify.com/playlist/37i9dQZF1DWT6pI50XnTRh)
+### [AfroBoogie](https://open.spotify.com/playlist/4YKO46RxFLzyv2WBj8cBhs)
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 

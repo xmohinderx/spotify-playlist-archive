@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXJnW46G73SM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXJnW46G73SM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXJnW46G73SM)
 
-### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
+### [مصري جديد](https://open.spotify.com/playlist/5Fhjc5ZL4Nmtc864W7gKN4)
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: تامر عاشور
 

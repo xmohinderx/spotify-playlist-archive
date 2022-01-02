@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,490 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,492 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 79 | [Happy Just To Know](https://open.spotify.com/track/53qdE4yFweq6kbO2MQ44Ul) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Happy Just To Know](https://open.spotify.com/album/3iDEefcXTLkslAUAAC6ZfJ) | 3:08 |
 | 80 | [I'm So Happy \- Acoustic](https://open.spotify.com/track/3tnNZ5fg5AHlFwTW8j9ywH) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I’m So Happy](https://open.spotify.com/album/3ocDAi8hhp7ebXbUnweRNy) | 2:53 |
 
-Snapshot ID: `MTY0MTEwODQ5MywwMDAwMDAwMDhkMjZmNmQxNTA3NWJkMGVjYjBhZWIzMjVhNGE4Mjg5`
+Snapshot ID: `MTY0MTEwOTk4NywwMDAwMDAwMDhkMjZmNmQxNTA3NWJkMGVjYjBhZWIzMjVhNGE4Mjg5`

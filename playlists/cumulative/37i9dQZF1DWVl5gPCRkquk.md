@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVl5gPCRkquk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVl5gPCRkquk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVl5gPCRkquk)
 
-### [Chill Folk](https://open.spotify.com/playlist/37i9dQZF1DWVl5gPCRkquk)
+### [Chill Folk](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
 
 > Channel some chilled\-out back yard vibes.
 

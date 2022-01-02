@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,274 likes - 70 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,277 likes - 70 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 69 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 |
 | 70 | [You Leave Me Breathless \- Rudy Van Gelder Remaster](https://open.spotify.com/track/0FcDIsJa17QDNo1zHp6SB5) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Red Garland Trio](https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5) | [Traneing In \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6ZRbMHogsfhBX2naOXUnkp) | 7:21 |
 
-Snapshot ID: `MTY0MTEwODM1NywwMDAwMDAwMDE4MDY5NDM4ZTMxNzMyYjkyZGZkYjJlZTliYmM2NjZk`
+Snapshot ID: `MTY0MTEwOTg1OCwwMDAwMDAwMDE4MDY5NDM4ZTMxNzMyYjkyZGZkYjJlZTliYmM2NjZk`

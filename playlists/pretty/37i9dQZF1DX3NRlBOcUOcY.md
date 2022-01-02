@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,416 likes - 90 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,415 likes - 90 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 89 | [La Historia](https://open.spotify.com/track/20RGQHWvqyyacpuxMBeLsZ) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [DJ Conds](https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw) | [La Historia](https://open.spotify.com/album/4GFEbJYptlAq0R6GImm7oF) | 3:57 |
 | 90 | [IMPOSIBLE \- REMIX](https://open.spotify.com/track/5eaLGyPrVG7FbZ5vVnBm93) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [IMPOSIBLE \(REMIX\)](https://open.spotify.com/album/6TxOo9xRjrNPyNSHLtMpIR) | 3:41 |
 
-Snapshot ID: `MTY0MTEwODUxMiwwMDAwMDAwMDMzOTJkYzczNzFlNmI1OGViYzRiZmVmYzVlMTJmODRk`
+Snapshot ID: `MTY0MTExMDAwNSwwMDAwMDAwMDMzOTJkYzczNzFlNmI1OGViYzRiZmVmYzVlMTJmODRk`

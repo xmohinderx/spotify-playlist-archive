@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXagUeYbNSnOA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXagUeYbNSnOA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXagUeYbNSnOA)
 
-### [Fresh Finds Latin: Lo Mejor de 2021](https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA)
+### [Fresh Finds Latin: Lo Mejor de 2021](https://open.spotify.com/playlist/5ZY0PW884IrmtUbFQ3mqP3)
 
 > The top 70 tracks from Fresh Finds Latin in 2021\. Los 70 top tracks de Fresh Finds Latin en 2021\. Cover: Paty B
 

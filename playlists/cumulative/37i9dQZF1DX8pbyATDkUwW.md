@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8pbyATDkUwW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8pbyATDkUwW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8pbyATDkUwW)
 
-### [La littérature française](https://open.spotify.com/playlist/37i9dQZF1DX8pbyATDkUwW)
+### [La littérature française](https://open.spotify.com/playlist/3lDfR742Bogb7En47ISyqT)
 
 > Les plus grands romans et autres nouvelles de la littérature française.
 

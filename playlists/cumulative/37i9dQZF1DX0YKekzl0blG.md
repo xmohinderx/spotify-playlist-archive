@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0YKekzl0blG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0YKekzl0blG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0YKekzl0blG)
 
-### [Alternative 00s](https://open.spotify.com/playlist/37i9dQZF1DX0YKekzl0blG)
+### [Alternative 00s](https://open.spotify.com/playlist/0l2j8XF9puRyFNeDOUmk2F)
 
 > All the indelible tunes from the other side of the 00s\. Cover: Bloc Party
 

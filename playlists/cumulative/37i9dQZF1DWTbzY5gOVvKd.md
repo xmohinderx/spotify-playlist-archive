@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTbzY5gOVvKd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTbzY5gOVvKd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTbzY5gOVvKd)
 
-### [Jazzy Romance](https://open.spotify.com/playlist/37i9dQZF1DWTbzY5gOVvKd)
+### [Jazzy Romance](https://open.spotify.com/playlist/70IqB6MweM6qsbIR6Kn9aT)
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 

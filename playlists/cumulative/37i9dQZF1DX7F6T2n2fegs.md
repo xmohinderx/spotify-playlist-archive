@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7F6T2n2fegs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7F6T2n2fegs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7F6T2n2fegs)
 
-### [Throwback Party](https://open.spotify.com/playlist/37i9dQZF1DX7F6T2n2fegs)
+### [Throwback Party](https://open.spotify.com/playlist/5TiGu0tiZTqKRaesFDomVT)
 
 > Here it is, the playlist for the ultimate throwback bash!
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaGNG7NmtmZv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaGNG7NmtmZv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaGNG7NmtmZv)
 
-### [Classic Hardcore](https://open.spotify.com/playlist/37i9dQZF1DXaGNG7NmtmZv)
+### [Classic Hardcore](https://open.spotify.com/playlist/47UJ8RmOikLRz8ibfhHOqe)
 
 > Classic songs from the legends of the hardcore scene.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKM896FDX8L1.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKM896FDX8L1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKM896FDX8L1)
 
-### [Top 50 \- Ireland](https://open.spotify.com/playlist/37i9dQZEVXbKM896FDX8L1)
+### [Top 50 \- Ireland](https://open.spotify.com/playlist/4n1f92uAImh9ia0W919RKo)
 
 > Your daily update of the most played tracks right now \- Ireland.
 

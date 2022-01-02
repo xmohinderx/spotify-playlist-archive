@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWMOmoXKqHTD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWMOmoXKqHTD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWMOmoXKqHTD)
 
-### [Songs to Sing in the Car](https://open.spotify.com/playlist/37i9dQZF1DWWMOmoXKqHTD)
+### [Songs to Sing in the Car](https://open.spotify.com/playlist/1OVcAnTmAg9Lhtx4p2Q5k3)
 
 > Sing along and enjoy the drive...
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0sQWfevMRw3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0sQWfevMRw3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0sQWfevMRw3)
 
-### [Det blir kaoz!](https://open.spotify.com/playlist/37i9dQZF1DX0sQWfevMRw3)
+### [Det blir kaoz!](https://open.spotify.com/playlist/1lQZeKZO86vF18J2l093qd)
 
 > Gå loss till Spotifys fetaste festlåtar!
 

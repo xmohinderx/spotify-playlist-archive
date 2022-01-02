@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of heavy rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,037 likes - 70 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,043 likes - 70 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 69 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 |
 | 70 | [Seven Nation Army](https://open.spotify.com/track/1jNOi6m3Hn8nLEeHCp5Msr) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/4teFaDSeFHYXZjZJaZGrAO) | 3:51 |
 
-Snapshot ID: `MTY0MTEwODQ0OCwwMDAwMDAwMDIyMzczNmI4M2RiNWMxZWY3YzM4NzY1ZGJjNTg0Zjli`
+Snapshot ID: `MTY0MTEwOTk0NCwwMDAwMDAwMDIyMzczNmI4M2RiNWMxZWY3YzM4NzY1ZGJjNTg0Zjli`

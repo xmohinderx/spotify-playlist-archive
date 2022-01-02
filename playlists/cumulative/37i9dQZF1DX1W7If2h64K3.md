@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1W7If2h64K3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1W7If2h64K3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1W7If2h64K3)
 
-### [This Is Schumann](https://open.spotify.com/playlist/37i9dQZF1DX1W7If2h64K3)
+### [This Is Schumann](https://open.spotify.com/playlist/4JZtynEiMqwLsOubUVaOc2)
 
 > Discover the music of Schumann.
 

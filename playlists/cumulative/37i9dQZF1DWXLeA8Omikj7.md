@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXLeA8Omikj7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXLeA8Omikj7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXLeA8Omikj7)
 
-### [Brain Food](https://open.spotify.com/playlist/37i9dQZF1DWXLeA8Omikj7)
+### [Brain Food](https://open.spotify.com/playlist/0rhu3j6f2MxHd8IeLxajNI)
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 

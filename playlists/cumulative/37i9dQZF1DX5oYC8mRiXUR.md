@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5oYC8mRiXUR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5oYC8mRiXUR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5oYC8mRiXUR)
 
-### [Cleaning Kit](https://open.spotify.com/playlist/37i9dQZF1DX5oYC8mRiXUR)
+### [Cleaning Kit](https://open.spotify.com/playlist/6oRvGpvzDj3pSeGrYB27Hn)
 
 > No dust was found after cleaning to this playlist.
 

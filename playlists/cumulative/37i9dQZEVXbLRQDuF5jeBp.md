@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbLRQDuF5jeBp.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLRQDuF5jeBp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbLRQDuF5jeBp)
 
-### [Top 50 \- USA](https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp)
+### [Top 50 \- USA](https://open.spotify.com/playlist/4luieFDtvEoTyoNndcCLdN)
 
 > Your daily update of the most played tracks right now \- USA.
 

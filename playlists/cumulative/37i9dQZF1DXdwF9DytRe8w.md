@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdwF9DytRe8w.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdwF9DytRe8w) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdwF9DytRe8w)
 
-### [Here Comes The Sun](https://open.spotify.com/playlist/37i9dQZF1DXdwF9DytRe8w)
+### [Here Comes The Sun](https://open.spotify.com/playlist/7dBoXfijzN7oxrrRwWsP5s)
 
 > Start your day with The Beatles!
 

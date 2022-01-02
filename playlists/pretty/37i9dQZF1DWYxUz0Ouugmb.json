@@ -1,0 +1,985 @@
+{
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Oslo Ibrahim",
+  "name": "RADAR Indonesia",
+  "num_followers": 21389,
+  "owner": {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/user/spotify"
+  },
+  "snapshot_id": "MTYzNzg1OTY1MCwwMDAwMDAzYzAwMDAwMTdkNTgwYWVhOGEwMDAwMDE3ZDU4MGEwYWYz",
+  "tracks": [
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Strangers Again",
+        "url": "https://open.spotify.com/album/3q6c8XzlrtbsE3FFdatQtO"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        },
+        {
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
+        }
+      ],
+      "duration_ms": 233940,
+      "name": "Strangers Again (feat. Pamungkas)",
+      "url": "https://open.spotify.com/track/1QYff3eiMnTtCyCmLIUrmp"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Walau Ku Jauh",
+        "url": "https://open.spotify.com/album/5hpBhQAXmCiv7MPFlOhaqG"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr"
+        },
+        {
+          "name": "David Noah",
+          "url": "https://open.spotify.com/artist/4b8KHsSpH8aBRYyi5SPSNJ"
+        }
+      ],
+      "duration_ms": 278965,
+      "name": "Walau Ku Jauh",
+      "url": "https://open.spotify.com/track/3ornTHHn1dhIymFRJaG7fE"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Pernah Salah",
+        "url": "https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 258631,
+      "name": "Pernah Salah",
+      "url": "https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Do You Think You Know Me?",
+        "url": "https://open.spotify.com/album/2pZYi5d7n0Ns1dBVFodbf3"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "duration_ms": 206583,
+      "name": "Do You Think You Know Me?",
+      "url": "https://open.spotify.com/track/2PPpy5E9AlP8x2YSso07hx"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Miniatur (Korean Version)",
+        "url": "https://open.spotify.com/album/4MJ0pbU4bbUkdBpN5D9zO0"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 190078,
+      "name": "Miniatur - Korean Version",
+      "url": "https://open.spotify.com/track/467o1Qh9ND8VeORTC0gNwW"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Kelangan",
+        "url": "https://open.spotify.com/album/7fGMY8J1COdJaOjfiJi3oO"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "duration_ms": 294921,
+      "name": "Kelangan",
+      "url": "https://open.spotify.com/track/30B1PUSsLPT9hQrNnAPh3C"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Ombak Banyu Asmara",
+        "url": "https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "duration_ms": 161174,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "It's Never Easy",
+        "url": "https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 225948,
+      "name": "This Love Will Never End",
+      "url": "https://open.spotify.com/track/2TqXDSUrc8zgMMI8KOHjCK"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Pilihan Ati",
+        "url": "https://open.spotify.com/album/5GWUfo0ZgDB2Gt0n4CTjUZ"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 299816,
+      "name": "Pilihan Ati",
+      "url": "https://open.spotify.com/track/3ODS3N2Pdtacr7Jxllky2c"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Blanket of Sadness (feat. Rendy Pandugo)",
+        "url": "https://open.spotify.com/album/6l9qAa1aXXW47F9fvaKFuq"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        },
+        {
+          "name": "Rendy Pandugo",
+          "url": "https://open.spotify.com/artist/04u3fc37nHFKN7GJTSIwI8"
+        }
+      ],
+      "duration_ms": 246927,
+      "name": "Blanket of Sadness (feat. Rendy Pandugo)",
+      "url": "https://open.spotify.com/track/35aPun5RCCmKOWe1a6t8b9"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Penghapus Pensil",
+        "url": "https://open.spotify.com/album/4ZIA1vi2rfeVt80IGbh2fK"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Penghapus Pensil",
+      "url": "https://open.spotify.com/track/018kPIAzYiX8rZefBIyHdI"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/0dCKftLBkpep9tF6v91uUD"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 214877,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/3tcyNOKOBzLWr45Sg5gi8R"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Adulting For Dummies",
+        "url": "https://open.spotify.com/album/1DbVqDub31P40C9YNCcNVG"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        },
+        {
+          "name": "Kamga",
+          "url": "https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O"
+        }
+      ],
+      "duration_ms": 271557,
+      "name": "Bismillah",
+      "url": "https://open.spotify.com/track/5jSsYb2otlowbQELi1HHmc"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Baby Don't Let Me Go",
+        "url": "https://open.spotify.com/album/74FMJYc6vXTplYWmS7hxMY"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "duration_ms": 233097,
+      "name": "Baby Don't Let Me Go",
+      "url": "https://open.spotify.com/track/1NKjWIAEYAjNlzk8qePK8F"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Whiskey Bottle",
+        "url": "https://open.spotify.com/album/0uoybUEml6qw7kVXXFkBl8"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 150720,
+      "name": "Whiskey Bottle",
+      "url": "https://open.spotify.com/track/6FPC5aJiqfqccXxlJoUmwv"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Pelangi",
+        "url": "https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr"
+        }
+      ],
+      "duration_ms": 256614,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "24 Jam",
+        "url": "https://open.spotify.com/album/2uK6XYBT5Gsj5ej97qMWzr"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "24 Jam",
+      "url": "https://open.spotify.com/track/0TQbvVM5D5wAgbF3uhXEsQ"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Pisah",
+        "url": "https://open.spotify.com/album/1OK2oRKzT6csqvA0fMCDi1"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Pisah",
+      "url": "https://open.spotify.com/track/0moK39JPJTSbypvshvH4NH"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/7AsxoSgN0BlAQQaRxjFxZP"
+      },
+      "artists": [
+        {
+          "name": "HNATA",
+          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
+        },
+        {
+          "name": "Justin Adijanto",
+          "url": "https://open.spotify.com/artist/3jPJR4xjyCwJQSG5JLEbzl"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/3zdLMiip3PdPfGSE10Q9di"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Blue Jeans",
+        "url": "https://open.spotify.com/album/7sO28fbiEU3JbkTcY7vkZi"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 211483,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/4kfjA6WfgKBt7I7YKuDCkU"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 174206,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Journey on September",
+        "url": "https://open.spotify.com/album/6Z7AkTjYkglyuDNEYXZd4h"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Journey on September",
+      "url": "https://open.spotify.com/track/22PhxtknUvYnNNidP1cuGJ"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "CHING",
+        "url": "https://open.spotify.com/album/6eFxr6XC0Aqn9phSP9E4BO"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 155634,
+      "name": "CHING",
+      "url": "https://open.spotify.com/track/2SBD7hDiuVIRvngQ5tHCBa"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Come Over (I\u2019m In Tresno)",
+        "url": "https://open.spotify.com/album/2xuCjLACT2yowlV9XHVkWX"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Come Over (I\u2019m In Tresno)",
+      "url": "https://open.spotify.com/track/2TGAMsANnNOj1mZGbwCB2Y"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "I Only Dance When I'm Sad",
+        "url": "https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "duration_ms": 248842,
+      "name": "Someone That Can\u2019t Be Mine",
+      "url": "https://open.spotify.com/track/26gulJKHQJ7ZqPbd66e3I9"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Suara Kita, Cerita Kamu",
+        "url": "https://open.spotify.com/album/5XWEnuQVVXCf2EmxuYSRH0"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Miniatur - Minimalist Version",
+      "url": "https://open.spotify.com/track/2Cnmn4jARAPRocw9meEMQq"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Midnight Thoughts",
+        "url": "https://open.spotify.com/album/4xxohLBOeccaHemf2lOk6w"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6FEqIXKSJnEWkiQWd4ucn4"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/697noPaxXP5UVgvOG808yg"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 239304,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/0tATv5Fy2aJXUOMKp2utl0"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Kaktus",
+        "url": "https://open.spotify.com/album/15mi7JkXNjMScyGbX1nlTg"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 187741,
+      "name": "Kaktus",
+      "url": "https://open.spotify.com/track/31byM0OBU7OoKuVkTrTCOh"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Ninggal Cerito (Purwokerto)",
+        "url": "https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "duration_ms": 320624,
+      "name": "Ninggal Cerito (Purwokerto)",
+      "url": "https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "I Only Dance When I'm Sad",
+        "url": "https://open.spotify.com/album/3SpFqyFxLOamUvIolMGFGW"
+      },
+      "artists": [
+        {
+          "name": "Oslo Ibrahim",
+          "url": "https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF"
+        }
+      ],
+      "duration_ms": 172631,
+      "name": "You Are Too Beautiful",
+      "url": "https://open.spotify.com/track/7rypINT2fPXEJTAW211dTp"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Patah Hati",
+        "url": "https://open.spotify.com/album/1RbRNiJbus4z5EvZiAj1HE"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "duration_ms": 289777,
+      "name": "Patah Hati",
+      "url": "https://open.spotify.com/track/5P86ensnQKHQNfSOdUZ2Vf"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Seribu Kali Cinta",
+        "url": "https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz"
+      },
+      "artists": [
+        {
+          "name": "Christie",
+          "url": "https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr"
+        }
+      ],
+      "duration_ms": 270055,
+      "name": "Seribu Kali Cinta",
+      "url": "https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Kebal Kelaran",
+        "url": "https://open.spotify.com/album/0C4eIv3pgBnMJFrhcj8bt5"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "Kebal Kelaran",
+      "url": "https://open.spotify.com/track/6TcBc2Bs6PGYIl1oJMbzMR"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Songs To Begal To",
+        "url": "https://open.spotify.com/album/0Ji2j5R9apVWxkaF0eADlu"
+      },
+      "artists": [
+        {
+          "name": "BAP.",
+          "url": "https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Begal",
+      "url": "https://open.spotify.com/track/37hXg8ANTcG13pKX0X16XM"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "UWU (Unhappy Without You)",
+        "url": "https://open.spotify.com/album/18TVJDxgsRqJlHU62hnJoJ"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 205984,
+      "name": "UWU (Unhappy Without You)",
+      "url": "https://open.spotify.com/track/7epyzR1KrrHDOUeieXyxka"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Tafsir Mistik",
+        "url": "https://open.spotify.com/album/4b20NkzkPuqNDXmhcQ8gHi"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "duration_ms": 249343,
+      "name": "Tafsir Mistik",
+      "url": "https://open.spotify.com/track/0aPepMh9otBMbV4xKmiRtq"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Perlahan",
+        "url": "https://open.spotify.com/album/13KPnJMze6Ndt2u2KgSrtG"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Perlahan",
+      "url": "https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Gem In I",
+        "url": "https://open.spotify.com/album/7sGZvHUbo1bsAy513vYld3"
+      },
+      "artists": [
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        },
+        {
+          "name": "Mouzect",
+          "url": "https://open.spotify.com/artist/4UA5XcAGTnqceTGGWGg9mu"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "Gem In I",
+      "url": "https://open.spotify.com/track/24CX75uSDkTyLsbxqigA9V"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Sedang Sayang Sayangnya",
+        "url": "https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 261030,
+      "name": "Sedang Sayang Sayangnya",
+      "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Soal Kita",
+        "url": "https://open.spotify.com/album/6jgYTIvlTMtNH1XBmVu3FA"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        }
+      ],
+      "duration_ms": 231864,
+      "name": "Soal Kita",
+      "url": "https://open.spotify.com/track/14rpraFulfsWytcg4kMtLz"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Ruang Rindu",
+        "url": "https://open.spotify.com/album/18jRL6EcPhjPYeKEnF2jmY"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 189397,
+      "name": "Ruang Rindu",
+      "url": "https://open.spotify.com/track/7GaqO0Mddb1W2bMmV3g6Kx"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "angin dalu",
+        "url": "https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 259512,
+      "name": "angin dalu",
+      "url": "https://open.spotify.com/track/658ox296pj18QSjzTBGWWy"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Korban Janji",
+        "url": "https://open.spotify.com/album/3xgzFV9CWB4WqufuiN6HBX"
+      },
+      "artists": [
+        {
+          "name": "Guyon Waton",
+          "url": "https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx"
+        }
+      ],
+      "duration_ms": 255508,
+      "name": "Korban Janji",
+      "url": "https://open.spotify.com/track/5AZ41aRMKszALdu5qm4sju"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Lebih Dari Egoku",
+        "url": "https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 249097,
+      "name": "Lebih Dari Egoku",
+      "url": "https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Balada Semburan Naga",
+        "url": "https://open.spotify.com/album/4dlBcajEgrrep6NtFGM0s6"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        },
+        {
+          "name": "Adipati 'The Kuda'",
+          "url": "https://open.spotify.com/artist/6swIALUfGBjKO9eGwHpipX"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Balada Semburan Naga",
+      "url": "https://open.spotify.com/track/2RtoG9G8lFbdcMqXMLP05j"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Merindu",
+        "url": "https://open.spotify.com/album/2tWvLOzIXczbXws6GeM0YE"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 219135,
+      "name": "Merindu",
+      "url": "https://open.spotify.com/track/4hERzfQ6Aiu5pKSqCeiAab"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/7ke39l8r5Zu7MgMfqEaSt1"
+      },
+      "artists": [
+        {
+          "name": "Suara Kayu",
+          "url": "https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC"
+        },
+        {
+          "name": "Chintya Gabriella",
+          "url": "https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Superhero",
+      "url": "https://open.spotify.com/track/2XGFYZMzanUbWNSfox0U2z"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Kebal Kelaran",
+        "url": "https://open.spotify.com/album/39PM31EBVu9TUyeql8wJhz"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 269307,
+      "name": "Kebal Kelaran",
+      "url": "https://open.spotify.com/track/2PJt7EOOh92Khzjr9T7QTq"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Sambel terasi",
+        "url": "https://open.spotify.com/album/1AH9wWrPKRzvydpQLk2ta1"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 299520,
+      "name": "Sambel Terasi",
+      "url": "https://open.spotify.com/track/1i1vBILMIPrdSykyIHS6JV"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Mabuk Laut",
+        "url": "https://open.spotify.com/album/33y0fKhUcFcUeGv31HH4mg"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3hg1tMeMdz9SUeAwf9dscu"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "sahabat",
+        "url": "https://open.spotify.com/album/6UfIzBcTa1Zrkl8R2TicQo"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "sahabat",
+      "url": "https://open.spotify.com/track/2CTq462kUxg8yu9oWt3seb"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/7hez8uQfAf80j8KI1oj2Bb"
+      },
+      "artists": [
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        },
+        {
+          "name": "Julian Jacob",
+          "url": "https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9"
+        }
+      ],
+      "duration_ms": 227067,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "MILIK ORANG",
+        "url": "https://open.spotify.com/album/42JxMwHI7LXX9a6q8gNV1O"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "MILIK ORANG",
+      "url": "https://open.spotify.com/track/4eV2IIMNfS8SO5nvmsMZ37"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Ajur Mumur",
+        "url": "https://open.spotify.com/album/4pNFORxfVZ4gfBaaogJMFy"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "duration_ms": 284005,
+      "name": "Ajur Mumur",
+      "url": "https://open.spotify.com/track/30NDRknWvH6eRPIZwERRQJ"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Queen of The South",
+        "url": "https://open.spotify.com/album/6Y0eJDOJccyw6nmrGFNFwk"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "Queen of The South",
+      "url": "https://open.spotify.com/track/65Y2vY9zirG11USMyryRqu"
+    },
+    {
+      "added_at": "2021-11-25 17:00:50",
+      "album": {
+        "name": "Putra Petir",
+        "url": "https://open.spotify.com/album/6NCzDjlMh8oLKEaW6HbJAX"
+      },
+      "artists": [
+        {
+          "name": "The Panturas",
+          "url": "https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl"
+        }
+      ],
+      "duration_ms": 141908,
+      "name": "Putra Petir",
+      "url": "https://open.spotify.com/track/1YLuNkA0rSZkJiQJqnWYkP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb"
+}

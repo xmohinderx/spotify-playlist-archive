@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,699 likes - 150 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,701 likes - 150 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Two Story House](https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [George Jones and Tammy Wynette \- 16 Biggest Hits](https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs) | 2:40 |
 | 150 | [I Will Always Love You](https://open.spotify.com/track/269tQZZrPkJrWTpgK915BW) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 2:53 |
 
-Snapshot ID: `MTY0MTEwODU4OSwwMDAwMDAwMDZlNmIxZmE1Mjg1NGNlZWZlZDM2MmFlOTFkYTg0YjRk`
+Snapshot ID: `MTY0MTExMDA3OCwwMDAwMDAwMDZlNmIxZmE1Mjg1NGNlZWZlZDM2MmFlOTFkYTg0YjRk`

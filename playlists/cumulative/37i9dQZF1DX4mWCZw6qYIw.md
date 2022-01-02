@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4mWCZw6qYIw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4mWCZw6qYIw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4mWCZw6qYIw)
 
-### [songs to scream in the car](https://open.spotify.com/playlist/37i9dQZF1DX4mWCZw6qYIw)
+### [songs to scream in the car](https://open.spotify.com/playlist/32BidoR3zFJ9QHJUXqSSjL)
 
 > the mood is to scream into your dashboard/choke back tears in the parking lot
 

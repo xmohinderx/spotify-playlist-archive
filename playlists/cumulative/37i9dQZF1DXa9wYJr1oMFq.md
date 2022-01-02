@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa9wYJr1oMFq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa9wYJr1oMFq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa9wYJr1oMFq)
 
-### [Pop Punk Powerhouses](https://open.spotify.com/playlist/37i9dQZF1DXa9wYJr1oMFq)
+### [Pop Punk Powerhouses](https://open.spotify.com/playlist/4iIg2MRFTgqXXHr5Sw52If)
 
 > Get nostalgic with the golden age of pop punk.
 

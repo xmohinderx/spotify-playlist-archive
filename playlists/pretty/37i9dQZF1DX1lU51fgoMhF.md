@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 69 | [Lonely Night](https://open.spotify.com/track/4XU6e2GZEivyaBWMR2zePc) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [With](https://open.spotify.com/album/6rKxpIuWbyGteUGsGbEuM7) | 3:52 |
 | 70 | [Forever Young](https://open.spotify.com/track/56bHclo7YNvpujMveLElQn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/2zwfcNqJe7IT1RwgVyv1ug) | 3:57 |
 
-Snapshot ID: `MTY0MTEwODQ3MSwwMDAwMDAwMDVmMThlM2MyMTVhZmQ2NzhjYTg1ZGNmOTUwNzZhNjMy`
+Snapshot ID: `MTY0MTEwOTk2NiwwMDAwMDAwMDVmMThlM2MyMTVhZmQ2NzhjYTg1ZGNmOTUwNzZhNjMy`

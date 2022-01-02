@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,412,847 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,412,849 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 74 | [Stubborn Love](https://open.spotify.com/track/4nOi8Y22QaxmAEkIrpb5Fv) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers](https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83) | 4:39 |
 | 75 | [Hold Out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 
-Snapshot ID: `MTY0MTEwODUwNCwwMDAwMDAwMDQ5ZTY0OTgzYTU5NGFmMGIwZWU1NGE3ZmM5ZmNmNjY0`
+Snapshot ID: `MTY0MTEwOTk5NywwMDAwMDAwMDQ5ZTY0OTgzYTU5NGFmMGIwZWU1NGE3ZmM5ZmNmNjY0`

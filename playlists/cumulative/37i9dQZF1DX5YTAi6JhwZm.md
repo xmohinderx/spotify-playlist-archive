@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5YTAi6JhwZm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5YTAi6JhwZm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5YTAi6JhwZm)
 
-### [Happy Jazz!](https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm)
+### [Happy Jazz!](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 > Happy and swinging jazz.
 

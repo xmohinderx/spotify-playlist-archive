@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2GKumqRIZ7g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2GKumqRIZ7g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2GKumqRIZ7g)
 
-### [Disco Fever](https://open.spotify.com/playlist/37i9dQZF1DX2GKumqRIZ7g)
+### [Disco Fever](https://open.spotify.com/playlist/3W1OXCv2wCUeYUG2uyRNKn)
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 

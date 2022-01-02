@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KsORvsQKOa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KsORvsQKOa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KsORvsQKOa)
 
-### [PRIDE: Glasgow](https://open.spotify.com/playlist/37i9dQZF1DX0KsORvsQKOa)
+### [PRIDE: Glasgow](https://open.spotify.com/playlist/2mCKlGG8eMCYFDBaSnGdTH)
 
 > Claim your space this Pride in Glasgow\. Cover: Joesef
 

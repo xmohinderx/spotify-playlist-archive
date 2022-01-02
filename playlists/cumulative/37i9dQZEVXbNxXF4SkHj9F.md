@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbNxXF4SkHj9F.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbNxXF4SkHj9F) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbNxXF4SkHj9F)
 
-### [Top 50 \- South Korea](https://open.spotify.com/playlist/37i9dQZEVXbNxXF4SkHj9F)
+### [Top 50 \- South Korea](https://open.spotify.com/playlist/4DRTrXneBtNnJtlxBODsX9)
 
 > Your daily update of the most played tracks right now \- South Korea.
 

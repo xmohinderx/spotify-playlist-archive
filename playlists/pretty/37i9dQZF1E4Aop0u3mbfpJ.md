@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With Timbaland, Madonna, Sickick and more
+> With Becky G, Demi Lovato, Ava Max and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 133,301 likes - 50 songs - 2 hr 55 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Aop0u3mbfpJ.md) - [plain]
 | 49 | [Sweet Melody](https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:33 |
 | 50 | [Love On Top](https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:27 |
 
-Snapshot ID: `MTY0MTEwODc2NSwwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1`
+Snapshot ID: `MTY0MTExMDIzNywwMDAwMDAwMGVlYjZjNGM1YTc4YThjZDZiMzI4MDM3M2EwNGZjNGI1`

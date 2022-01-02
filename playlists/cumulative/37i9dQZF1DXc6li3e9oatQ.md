@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc6li3e9oatQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc6li3e9oatQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc6li3e9oatQ)
 
-### [Learn Spanish](https://open.spotify.com/playlist/37i9dQZF1DXc6li3e9oatQ)
+### [Learn Spanish](https://open.spotify.com/playlist/2y9mLKcjlTvBpEnysoqOz4)
 
 > Learn Spanish with a collection of audio courses that will take you from beginner lessons to advanced conversations – featuring essential travel phrases and vocabulary!
 

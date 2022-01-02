@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0ZFVMeJPr1Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0ZFVMeJPr1Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0ZFVMeJPr1Z)
 
-### [Svenska sommarklassiker](https://open.spotify.com/playlist/37i9dQZF1DX0ZFVMeJPr1Z)
+### [Svenska sommarklassiker](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
 
 > Spellistan för den svenska sommaren.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWxPM4nWdhyI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWxPM4nWdhyI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWxPM4nWdhyI)
 
-### [This Is Ed Sheeran](https://open.spotify.com/playlist/37i9dQZF1DWWxPM4nWdhyI)
+### [This Is Ed Sheeran](https://open.spotify.com/playlist/1ubXN8ZL3te8j1JSTcPftP)
 
 > Listen to new album =, alongside all his biggest hits.
 

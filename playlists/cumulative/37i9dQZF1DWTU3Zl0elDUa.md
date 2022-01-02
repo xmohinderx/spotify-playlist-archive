@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTU3Zl0elDUa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTU3Zl0elDUa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTU3Zl0elDUa)
 
-### [90s House Classics](https://open.spotify.com/playlist/37i9dQZF1DWTU3Zl0elDUa)
+### [90s House Classics](https://open.spotify.com/playlist/6Kv5FB2j0bACWv8Ol5GxDe)
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 

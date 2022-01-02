@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1cddSHoeIrE3m0i8TqYNbn.md) - cumulative - [plain](/playlists/plain/1cddSHoeIrE3m0i8TqYNbn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1cddSHoeIrE3m0i8TqYNbn)
 
-### [Annorlunda Kärlekslåtar](https://open.spotify.com/playlist/1cddSHoeIrE3m0i8TqYNbn)
+### [Annorlunda Kärlekslåtar](https://open.spotify.com/playlist/6p9c4PTliFseHrbUcJ0JZh)
 
 > 
 

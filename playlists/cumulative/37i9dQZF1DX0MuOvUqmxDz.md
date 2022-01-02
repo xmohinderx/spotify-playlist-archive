@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0MuOvUqmxDz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0MuOvUqmxDz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0MuOvUqmxDz)
 
-### [Country Christmas](https://open.spotify.com/playlist/37i9dQZF1DX0MuOvUqmxDz)
+### [Country Christmas](https://open.spotify.com/playlist/4Obyr7GsNC8q59bOekRAcO)
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\.  Cover: Brett Eldredge
 

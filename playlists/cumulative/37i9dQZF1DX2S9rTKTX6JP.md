@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2S9rTKTX6JP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2S9rTKTX6JP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2S9rTKTX6JP)
 
-### [Rock Covers](https://open.spotify.com/playlist/37i9dQZF1DX2S9rTKTX6JP)
+### [Rock Covers](https://open.spotify.com/playlist/6fMWxdc4tVDZLm5e3A4GlR)
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 

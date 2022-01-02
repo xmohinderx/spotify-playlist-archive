@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSL7w3snV7Gw.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSL7w3snV7Gw) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSL7w3snV7Gw)
 
-### [This Is: Glenn Gould](https://open.spotify.com/playlist/37i9dQZF1DWSL7w3snV7Gw)
+### [This Is: Glenn Gould](https://open.spotify.com/playlist/3FUnM4UGiu4XuRRnYr6C5E)
 
 > 50 great tracks from 20th century's most celebrated piano genius\. Beyond his iconic Bach recordings, you will also find his unique interpretation of Beethoven, Scriabin, Strauss, and many other composers from renaissance to modern age.
 

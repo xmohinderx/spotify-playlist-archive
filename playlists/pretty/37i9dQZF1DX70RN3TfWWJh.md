@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 
 > Pop hits to keep your workout fresh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,549,391 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,549,398 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70RN3TfWWJh.md) - [plain]
 | 99 | [First Time](https://open.spotify.com/track/4L4lClgi5m2Itz6Fgt750F) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [First Time](https://open.spotify.com/album/3brTW6AYnC94Uafukxvhcu) | 2:26 |
 | 100 | [Red Eye \(feat\. TroyBoi\)](https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 3:07 |
 
-Snapshot ID: `MTY0MTEwODYwMiwwMDAwMDAwMGQ3YzRhNGQ5MDQxY2Q3ZGY3MDY2NDI0Njg0NTAzYjQ1`
+Snapshot ID: `MTY0MTExMDA5MSwwMDAwMDAwMGQ3YzRhNGQ5MDQxY2Q3ZGY3MDY2NDI0Njg0NTAzYjQ1`

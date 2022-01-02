@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbMxcczTSoGwZ.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbMxcczTSoGwZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbMxcczTSoGwZ)
 
-### [Top 50 \- Finland](https://open.spotify.com/playlist/37i9dQZEVXbMxcczTSoGwZ)
+### [Top 50 \- Finland](https://open.spotify.com/playlist/50dEKzS9seM5D60e1IgQ1V)
 
 > Your daily update of the most played tracks right now \- Finland.
 

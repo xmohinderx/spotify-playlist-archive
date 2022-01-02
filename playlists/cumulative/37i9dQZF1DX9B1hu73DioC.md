@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9B1hu73DioC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9B1hu73DioC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9B1hu73DioC)
 
-### [Indie Chillout](https://open.spotify.com/playlist/37i9dQZF1DX9B1hu73DioC)
+### [Indie Chillout](https://open.spotify.com/playlist/41MzLqMCO3UL9HEUFZj7KO)
 
 > Chill\. The best indie tracks for just hanging out.
 

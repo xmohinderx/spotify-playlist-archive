@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5y8xoSWyhcz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5y8xoSWyhcz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5y8xoSWyhcz)
 
-### [indie pop & chill](https://open.spotify.com/playlist/37i9dQZF1DX5y8xoSWyhcz)
+### [indie pop & chill](https://open.spotify.com/playlist/4lgMQu4P2ziouf8Qz9MR8Q)
 
 > it's a vibe \(◡ ‿ ◡ ✿\) cover: Yot Club
 

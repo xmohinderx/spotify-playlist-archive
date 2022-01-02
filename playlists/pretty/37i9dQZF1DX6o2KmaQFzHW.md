@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Ramón Ayala El Mensú.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,102 likes - 90 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,103 likes - 90 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Pedro Canoero](https://open.spotify.com/track/5EGWO5XHAdLsTjsXva5wbO) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Sin Estribos \(Vol\. 4\)](https://open.spotify.com/album/4SjktbPWYfGC3m8f9uPOb8) | 1:50 |
 | 90 | [Chakay manta](https://open.spotify.com/track/7ATexwfFZeosRNCcUleNfr) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Lo Mejor de Los Chalchaleros](https://open.spotify.com/album/79jsjC3J5BTYrywWhjjLzF) | 2:07 |
 
-Snapshot ID: `MTY0MTEwODU5NywwMDAwMDAwMDBkMjg2YzVmMTk3ODI3Y2VkNGEzMjFhNThhZWI0MGZj`
+Snapshot ID: `MTY0MTExMDA4NSwwMDAwMDAwMDBkMjg2YzVmMTk3ODI3Y2VkNGEzMjFhNThhZWI0MGZj`

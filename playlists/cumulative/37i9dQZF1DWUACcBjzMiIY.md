@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUACcBjzMiIY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUACcBjzMiIY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUACcBjzMiIY)
 
-### [Mellow Drive](https://open.spotify.com/playlist/37i9dQZF1DWUACcBjzMiIY)
+### [Mellow Drive](https://open.spotify.com/playlist/1d47Qc11bpmTvpUoDV1dDf)
 
 > Easy listening for a pleasant drive.
 

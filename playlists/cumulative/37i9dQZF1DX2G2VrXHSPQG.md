@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2G2VrXHSPQG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2G2VrXHSPQG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2G2VrXHSPQG)
 
-### [Your Alternative](https://open.spotify.com/playlist/37i9dQZF1DX2G2VrXHSPQG)
+### [Your Alternative](https://open.spotify.com/playlist/0ORcVEhvSZghh7zSPbWGd2)
 
 > Both Classic and New Songs from Your Favorite Alternative Artists / Cover: The Strokes
 

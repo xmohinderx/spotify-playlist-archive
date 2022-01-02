@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7R9e00hBCQT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7R9e00hBCQT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7R9e00hBCQT)
 
-### [This Is Langston Hughes](https://open.spotify.com/playlist/37i9dQZF1DX7R9e00hBCQT)
+### [This Is Langston Hughes](https://open.spotify.com/playlist/2eo2Bro0HaNNrDgwZDKuQ1)
 
 > The Harlem Renaissance comes alive once more as the <a href="spotify:artist:1mNcebzTg5QlHEY4WYhLSm">innovative poet</a> and his cohorts read and discuss his work.
 

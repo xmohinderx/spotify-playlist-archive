@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbpYC8go5XtU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbpYC8go5XtU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbpYC8go5XtU)
 
-### [Wild Ambience](https://open.spotify.com/playlist/37i9dQZF1DXbpYC8go5XtU)
+### [Wild Ambience](https://open.spotify.com/playlist/7JtjL9J4rMiUbiR6UqNhl3)
 
 > Ambient music backed by the atmospheric sounds and elements of nature.
 

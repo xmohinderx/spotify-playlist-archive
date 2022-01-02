@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,533 likes - 69 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,536 likes - 69 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 68 | [最高品質靜悄悄](https://open.spotify.com/track/6fxjnz8unvpHk5hRKkKYhc) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:23 |
 | 69 | [Negra Presuntuosa](https://open.spotify.com/track/6NVirfsnzXgZdSoasFbwLw) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/745bovopinCyeNzU9uCLbG) | 4:16 |
 
-Snapshot ID: `MTY0MTEwODMxMiwwMDAwMDAwMDFhODhmNTM5M2YyOTIwOGQwODNmMjllZjc1Mjk1MTRm`
+Snapshot ID: `MTY0MTEwOTgxNCwwMDAwMDAwMDFhODhmNTM5M2YyOTIwOGQwODNmMjllZjc1Mjk1MTRm`

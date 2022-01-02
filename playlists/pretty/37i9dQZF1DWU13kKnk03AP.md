@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 
 > Get in the zone with these current jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,786 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,784 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU13kKnk03AP.md) - [plain]
 | 99 | [INFERNO](https://open.spotify.com/track/7aonAWn0J0AJ47ZU9WHCXC) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [INFERNO](https://open.spotify.com/album/0o6H7RwYZAE6v15lnENDab) | 2:13 |
 | 100 | [2011](https://open.spotify.com/track/5GzpstdtupjJcu0JR5j3v6) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [2011](https://open.spotify.com/album/15zabwPUdPTC2JLygT5blT) | 3:17 |
 
-Snapshot ID: `MTY0MTEwODMxMCwwMDAwMDAwMGU3OTE3ZDJmNjc1MWU3NDU1Y2Q4ZTdiZjE2NjlmNzBl`
+Snapshot ID: `MTY0MTEwOTgxMiwwMDAwMDAwMGU3OTE3ZDJmNjc1MWU3NDU1Y2Q4ZTdiZjE2NjlmNzBl`

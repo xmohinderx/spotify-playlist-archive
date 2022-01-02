@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 
 > That special feeling of being calm, happy and relaxed at the same time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,273 likes - 76 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,276 likes - 76 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bSrsRWE9cd.md) - [plain]
 | 75 | [Us \- Acoustic](https://open.spotify.com/track/0N25huBHqdI7UuidqpbnN2) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Us \(Acoustic\)](https://open.spotify.com/album/55BCOpImDVe7KNpwd9Nex5) | 3:55 |
 | 76 | [For You](https://open.spotify.com/track/0up9nYxGHVFdPuFR42cD9r) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Traces](https://open.spotify.com/album/2hLJ7to63ksBquZgNNgNFZ) | 3:05 |
 
-Snapshot ID: `MTY0MTEwODUzOCwwMDAwMDAwMGE0ODFiYzEyY2FjOWY1ZTBmZTc3YzgwNmViMTYzYTBi`
+Snapshot ID: `MTY0MTExMDAzMCwwMDAwMDAwMGE0ODFiYzEyY2FjOWY1ZTBmZTc3YzgwNmViMTYzYTBi`

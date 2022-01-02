@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,705,861 likes - 150 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,705,859 likes - 150 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Future Starts Now](https://open.spotify.com/track/3p2wS6G159mBIU50xl7uvc) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Future Starts Now](https://open.spotify.com/album/0mhiYBnL1wLGc0CgMhvBe2) | 4:39 |
 | 150 | [Move Your Body](https://open.spotify.com/track/3EAwcVzkJyIp481tAtYeR0) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [hermixalot](https://open.spotify.com/artist/6hdb3ZH5gpJxqFPdXRGmdC) | [Move Your Body](https://open.spotify.com/album/0eIn9Vlw8ZwN79RTZeibbp) | 3:21 |
 
-Snapshot ID: `MTY0MTEwODI3NywwMDAwMDAwMDc0OTVhYzI2MGI1ZjUxZmMwMjcxMTkxYTRiNzU5MDQw`
+Snapshot ID: `MTY0MTEwOTc4MSwwMDAwMDAwMDc0OTVhYzI2MGI1ZjUxZmMwMjcxMTkxYTRiNzU5MDQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The top 70 tracks from Fresh Finds Latin in 2021\. Los 70 top tracks de Fresh Finds Latin en 2021\. Cover: Paty B
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,009 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,010 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 69 | [Marinero](https://open.spotify.com/track/6waY05zsDSRriG3lmgFSTG) | [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy), [CARREÑO](https://open.spotify.com/artist/5YjemQid6pod8wVjG95Bnw) | [Marinero](https://open.spotify.com/album/1adOzcCHUdePajHRKum7nd) | 3:24 |
 | 70 | [COCA](https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O) | [Bautista](https://open.spotify.com/artist/7uioiA7kBF425UCAdkgPXB) | [COCA](https://open.spotify.com/album/1PdDyS4RrZi6otW4YWPwTp) | 2:21 |
 
-Snapshot ID: `MTY0MTEwODY4NiwwMDAwMDAwMGUzYzAyNmM0MDdjZGNjMmQ4YjQ4OGVlOTAxNTAyZjk4`
+Snapshot ID: `MTY0MTExMDE2MywwMDAwMDAwMGUzYzAyNmM0MDdjZGNjMmQ4YjQ4OGVlOTAxNTAyZjk4`

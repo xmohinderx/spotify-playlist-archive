@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 
 > Hit the road to the soundtrack of these seventies classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,465,454 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,465,457 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiDhnQ2IIru.md) - [plain]
 | 99 | [Mexico](https://open.spotify.com/track/0VOIJT3Gz8uStYHHBGAUj1) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Gorilla](https://open.spotify.com/album/4mMlhHLgeVQHymeJPzP93p) | 2:57 |
 | 100 | [Because the Night](https://open.spotify.com/track/0lIoY4ZQsdn5QzhraM9o9u) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Easter](https://open.spotify.com/album/1p6cWoueuunhpgy6131zAd) | 3:24 |
 
-Snapshot ID: `MTY0MTEwODM2MywwMDAwMDAwMGNmZDdhMjk0MDU5MzNmOGZkYWE4OWYyY2YyMGVhOWEy`
+Snapshot ID: `MTY0MTEwOTg2MywwMDAwMDAwMGNmZDdhMjk0MDU5MzNmOGZkYWE4OWYyY2YyMGVhOWEy`

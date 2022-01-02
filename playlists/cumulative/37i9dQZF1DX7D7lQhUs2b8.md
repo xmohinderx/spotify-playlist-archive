@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7D7lQhUs2b8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7D7lQhUs2b8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7D7lQhUs2b8)
 
-### [EQUAL Centro & Caribe](https://open.spotify.com/playlist/37i9dQZF1DX7D7lQhUs2b8)
+### [EQUAL Centro & Caribe](https://open.spotify.com/playlist/4obl6liHOgVlJw1mIpZjUr)
 
 > Mujeres de Centroamérica y el Caribe a todo volumen\. Foto: YEИDRY
 

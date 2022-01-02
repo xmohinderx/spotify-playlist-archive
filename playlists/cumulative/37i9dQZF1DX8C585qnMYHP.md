@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8C585qnMYHP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8C585qnMYHP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8C585qnMYHP)
 
-### [Fresh Finds Experimental: Best of 2021](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
+### [Fresh Finds Experimental: Best of 2021](https://open.spotify.com/playlist/3s62nqRUBHZZxektuC0STR)
 
 > The top 100 tracks from Fresh Finds Experimental in 2021\. Cover: Ana Roxanne, Artwork: Thami Nabil
 

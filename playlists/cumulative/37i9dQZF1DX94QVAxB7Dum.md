@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX94QVAxB7Dum.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX94QVAxB7Dum) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX94QVAxB7Dum)
 
-### [The Black Power Mixtape 1967–1975](https://open.spotify.com/playlist/37i9dQZF1DX94QVAxB7Dum)
+### [The Black Power Mixtape 1967–1975](https://open.spotify.com/playlist/1QA2tc2Xo5I48etmel1cFu)
 
 > Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
 

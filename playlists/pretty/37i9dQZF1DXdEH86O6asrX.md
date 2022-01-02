@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 
 > ¡Los más cálidos soundtracks navideños para este temporada!
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,699 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,698 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEH86O6asrX.md) - [plain]
 | 49 | [Into the Unknown \- Panic! At The Disco Version](https://open.spotify.com/track/421eObjg0DTm2qajJl5OJm) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Frozen 2 \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz) | 3:09 |
 | 50 | [The Christmas Song \(From "Best Man Holiday"\)](https://open.spotify.com/track/0bIjreLxgy9HlOV6oLlL1h) | [Holiday Cinema Stars](https://open.spotify.com/artist/3dPfuoEXdydv9BP6teM2wO) | [Christmas at the Movies](https://open.spotify.com/album/73bb16uiMnVvropOWaOFCb) | 3:25 |
 
-Snapshot ID: `MTY0MTEwODczNywwMDAwMDAwMDEyZmExN2EzMTU4M2QyNmUzMGRlNmMwMjc0ZTBhODQ4`
+Snapshot ID: `MTY0MTExMDIxMSwwMDAwMDAwMDEyZmExN2EzMTU4M2QyNmUzMGRlNmMwMjc0ZTBhODQ4`

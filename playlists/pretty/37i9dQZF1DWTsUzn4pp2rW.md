@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,084 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,085 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 149 | [Just A Little Bit](https://open.spotify.com/track/3dIIFugA63qbkvnX9pTgw3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Just A Little Bit](https://open.spotify.com/album/56bhw19Vvl8lJ5A8DAZMm3) | 5:02 |
 | 150 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
 
-Snapshot ID: `MTY0MTEwODMwNSwwMDAwMDAwMGFhNjZhMzYyM2E2ZTExYjdjYWVhNjI5NWZjMGIzZDIz`
+Snapshot ID: `MTY0MTEwOTgwOCwwMDAwMDAwMGFhNjZhMzYyM2E2ZTExYjdjYWVhNjI5NWZjMGIzZDIz`

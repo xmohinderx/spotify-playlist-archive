@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSlJG7YPUBHF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSlJG7YPUBHF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSlJG7YPUBHF)
 
-### [Legendary Guitar Solos](https://open.spotify.com/playlist/37i9dQZF1DWSlJG7YPUBHF)
+### [Legendary Guitar Solos](https://open.spotify.com/playlist/0rO41sUWACZztPLVmQUDoG)
 
 > Enjoy the most epic, electrifying, face\-melting axe performances\. Cover: Eddie Van Halen
 

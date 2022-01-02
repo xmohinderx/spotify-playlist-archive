@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 
 > Indie tunes for t\-shirt weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,100 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,098 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsh2vXzlKFb.md) - [plain]
 | 79 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 |
 | 80 | [I'll Get By](https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [I'll Get By](https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn) | 2:30 |
 
-Snapshot ID: `MTY0MTEwODM0NCwwMDAwMDAwMDY0ZDdjYTJlODA0NGNkMWI1ZGUwZDgxMDdiODYxNGRj`
+Snapshot ID: `MTY0MTEwOTg0NiwwMDAwMDAwMDY0ZDdjYTJlODA0NGNkMWI1ZGUwZDgxMDdiODYxNGRj`

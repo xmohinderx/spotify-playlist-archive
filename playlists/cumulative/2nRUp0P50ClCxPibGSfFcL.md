@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2nRUp0P50ClCxPibGSfFcL.md) - cumulative - [plain](/playlists/plain/2nRUp0P50ClCxPibGSfFcL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2nRUp0P50ClCxPibGSfFcL)
 
-### [Hank \- Gutsy](https://open.spotify.com/playlist/2nRUp0P50ClCxPibGSfFcL)
+### [Hank \- Gutsy](https://open.spotify.com/playlist/46apRdoax5hCZThFzXYzVb)
 
 > 
 

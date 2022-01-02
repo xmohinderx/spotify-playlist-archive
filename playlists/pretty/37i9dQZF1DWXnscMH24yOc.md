@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 
 > Kick back and relax with a collection of eclectic and unexpected reimaginings\. Cover:  Joy Oladokun
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,777 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,779 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXnscMH24yOc.md) - [plain]
 | 99 | [Lost](https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Lost](https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ) | 3:57 |
 | 100 | [What I Am \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Spotify Singles](https://open.spotify.com/album/0J74kr54nlrBjodALQYuc7) | 3:55 |
 
-Snapshot ID: `MTY0MTEwODM4NywwMDAwMDAwMDJmMTE3OTVlODQ1MTJiMzFhYTlkYjdkOTYxYmI1OGJh`
+Snapshot ID: `MTY0MTEwOTg4NiwwMDAwMDAwMDJmMTE3OTVlODQ1MTJiMzFhYTlkYjdkOTYxYmI1OGJh`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2FjbiwWYHqEifO3VY5LYP8.md) - cumulative - [plain](/playlists/plain/2FjbiwWYHqEifO3VY5LYP8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2FjbiwWYHqEifO3VY5LYP8)
 
-### [New Year's 2015](https://open.spotify.com/playlist/2FjbiwWYHqEifO3VY5LYP8)
+### [New Year's 2015](https://open.spotify.com/playlist/68YLmcEp6HPpOHF6tYH0ZD)
 
 > A toast to all the artists who will be performing on New Year&\#x27;s Eve across the globe.
 

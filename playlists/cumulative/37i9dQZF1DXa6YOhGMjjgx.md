@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXa6YOhGMjjgx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXa6YOhGMjjgx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXa6YOhGMjjgx)
 
-### [New Alt\-Rock Mixtape](https://open.spotify.com/playlist/37i9dQZF1DXa6YOhGMjjgx)
+### [New Alt\-Rock Mixtape](https://open.spotify.com/playlist/0f6jgqJwAht9fZKpu62uCO)
 
 > This is the best of today's true alternative rock scene.
 

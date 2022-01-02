@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTyiBJ6yEqeu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTyiBJ6yEqeu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTyiBJ6yEqeu)
 
-### [Top Gaming Tracks](https://open.spotify.com/playlist/37i9dQZF1DWTyiBJ6yEqeu)
+### [Top Gaming Tracks](https://open.spotify.com/playlist/26oryHMYAfrN6WG84npVhm)
 
 > The tracks that gamers love.
 

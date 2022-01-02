@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXdiK4WAVRUW.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXdiK4WAVRUW) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXdiK4WAVRUW)
 
-### [2010s Country](https://open.spotify.com/playlist/37i9dQZF1DWXdiK4WAVRUW)
+### [2010s Country](https://open.spotify.com/playlist/1rsikrd7wTVvtQeoOiLi8z)
 
 > The most memorable country hits from the 2010's\. Cover: Miranda Lambert, Luke Bryan and Jason Aldean.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0UrRvztWcAU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0UrRvztWcAU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0UrRvztWcAU)
 
-### [Wake Up Happy](https://open.spotify.com/playlist/37i9dQZF1DX0UrRvztWcAU)
+### [Wake Up Happy](https://open.spotify.com/playlist/7ews4wFqqHSGVIJAMBJ3GY)
 
 > Set the mood of your day with these awesome, happy songs!
 

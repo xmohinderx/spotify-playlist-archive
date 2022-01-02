@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9XIFQuFvzM4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9XIFQuFvzM4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9XIFQuFvzM4)
 
-### [Feelin' Good](https://open.spotify.com/playlist/37i9dQZF1DX9XIFQuFvzM4)
+### [Feelin' Good](https://open.spotify.com/playlist/1vzEyOKMOiIbxyVfBjbHDh)
 
 > Feel good with this positively timeless playlist!
 

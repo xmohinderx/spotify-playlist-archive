@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZyp9KgPL31Y.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZyp9KgPL31Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZyp9KgPL31Y)
 
-### [This Is The Shins](https://open.spotify.com/playlist/37i9dQZF1DWZyp9KgPL31Y)
+### [This Is The Shins](https://open.spotify.com/playlist/2v0MvtF0vc3LhQKTEADDr5)
 
 > A collection of all The Shins greatest tracks, plus some of James Mercer's other projects.
 

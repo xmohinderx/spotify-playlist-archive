@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVlLVXKTOAYa.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVlLVXKTOAYa) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVlLVXKTOAYa)
 
-### [Pop Right Now](https://open.spotify.com/playlist/37i9dQZF1DWVlLVXKTOAYa)
+### [Pop Right Now](https://open.spotify.com/playlist/69q7Enb8pVVf5rCvGWee3I)
 
 > The most interesting tracks in the current world of pop music.
 

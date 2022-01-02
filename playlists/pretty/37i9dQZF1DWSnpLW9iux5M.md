@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 
 > Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,334 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,333 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnpLW9iux5M.md) - [plain]
 | 74 | [Winter Wonderland](https://open.spotify.com/track/08wpq3prs1o1DLQyNukmjB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Michael Tait](https://open.spotify.com/artist/6DcdhH46Toay7xuWck4jQW) | [White Christmas](https://open.spotify.com/album/1Bep3JEfFFmVL8EA2Fugvz) | 3:01 |
 | 75 | [No Christmas Without You](https://open.spotify.com/track/2OVd9bw697vfuskRx65JQi) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY) | [Joy To The World](https://open.spotify.com/album/6cJAAI5DrfmD8S9kWi8LhK) | 4:02 |
 
-Snapshot ID: `MTY0MTEwODI4MSwwMDAwMDAwMDZiOGUyNGQ0NzFmMjU2ZWY4NDg2MDQ5YTU2NGFmMTk1`
+Snapshot ID: `MTY0MTEwOTc4NSwwMDAwMDAwMDZiOGUyNGQ0NzFmMjU2ZWY4NDg2MDQ5YTU2NGFmMTk1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: <a href="spotify:artist:3rRmDmzPcAFwcUDvG5gBqO">Percy Sledge</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,899 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,900 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 32 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/0zpGOqyqTEzWGkvZGdALMX) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Very Best Of Dusty Springfield](https://open.spotify.com/album/3BMtVA6jcl1GzwfIO4HD48) | 2:50 |
 | 33 | [Money](https://open.spotify.com/track/3kBdQ0SCr6cWDhXsS5g69l) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/7HeoMx4J2lWyL3PF1z39oE) | 3:21 |
 
-Snapshot ID: `MTY0MTEwODM5NSwwMDAwMDAwMDk1ZDg4MWZlMGU5NTJkNzMzNWEyZjAzNDhmZjVkMDA5`
+Snapshot ID: `MTY0MTEwOTg5NCwwMDAwMDAwMDk1ZDg4MWZlMGU5NTJkNzMzNWEyZjAzNDhmZjVkMDA5`

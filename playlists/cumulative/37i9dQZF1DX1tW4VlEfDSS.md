@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tW4VlEfDSS.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tW4VlEfDSS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tW4VlEfDSS)
 
-### [Groove Theory](https://open.spotify.com/playlist/37i9dQZF1DX1tW4VlEfDSS)
+### [Groove Theory](https://open.spotify.com/playlist/4JyXGtfxADyxCIBU0wnIqy)
 
 > A feel\-good soulful house  and disco selection.
 

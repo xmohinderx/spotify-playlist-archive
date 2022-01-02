@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdJyxIBq7Xdy.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdJyxIBq7Xdy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdJyxIBq7Xdy)
 
-### [Queens of Disco](https://open.spotify.com/playlist/37i9dQZF1DXdJyxIBq7Xdy)
+### [Queens of Disco](https://open.spotify.com/playlist/6o3V1jZmHWvECMVGyJ14Gh)
 
 > The most definitive female voices in Disco\. Cover: Chaka Khan
 

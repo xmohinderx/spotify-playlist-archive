@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX62Nfha2yFhL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX62Nfha2yFhL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX62Nfha2yFhL)
 
-### [Soul Lounge](https://open.spotify.com/playlist/37i9dQZF1DX62Nfha2yFhL)
+### [Soul Lounge](https://open.spotify.com/playlist/7okhrNisMIylwZHgFGUJed)
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYzpSJHStHHx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYzpSJHStHHx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYzpSJHStHHx)
 
-### [Surf Rock Sunshine](https://open.spotify.com/playlist/37i9dQZF1DWYzpSJHStHHx)
+### [Surf Rock Sunshine](https://open.spotify.com/playlist/7xuY9VzYKx31liJVjNf8ux)
 
 > Sunny tracks from Mac DeMarco, The Beach Boys, and everyone in between.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,772 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,776 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 49 | [Livin' Thing](https://open.spotify.com/track/2hdNya0b6Cc2YJ8IyaQIWp) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [A New World Record](https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un) | 3:32 |
 | 50 | [Best of My Love \- Single Version](https://open.spotify.com/track/7bznzicO9bLBhe6SufE0Vw) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:38 |
 
-Snapshot ID: `MTY0MTEwODM2MSwwMDAwMDAwMGEwM2MyMDQ4YTE4NWIwZTcxYmU4ZWE1MmZmZjZiYzAw`
+Snapshot ID: `MTY0MTEwOTg2MiwwMDAwMDAwMGEwM2MyMDQ4YTE4NWIwZTcxYmU4ZWE1MmZmZjZiYzAw`

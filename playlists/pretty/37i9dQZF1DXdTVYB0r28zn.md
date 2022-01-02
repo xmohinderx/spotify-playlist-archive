@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVYB0r28zn.md) - [plain]
 
 > The sound of jazz today\. Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,858 likes - 500 songs - 1 day 23 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,859 likes - 500 songs - 1 day 23 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVYB0r28zn.md) - [plain]
 | 499 | [Eysh](https://open.spotify.com/track/5r5hB0n3YNW9LldqdJK8zR) | [LOWN](https://open.spotify.com/artist/2mFltwoM18fUvq3WaltXvQ) | [Eysh](https://open.spotify.com/album/0FaUIyGz88UApuDBQVBcB4) | 4:50 |
 | 500 | [Aila](https://open.spotify.com/track/5vqkHmIPzHfkuFx7khSuH2) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Aila](https://open.spotify.com/album/7hND7bznRFJIrVZhkVEEnh) | 5:23 |
 
-Snapshot ID: `MTY0MTEwODc0MywwMDAwMDAwMGM0YTMxYTM4N2I4NmFkYzI0YWU4MzVmNWNkNmQ0MjY3`
+Snapshot ID: `MTY0MTExMDIxNywwMDAwMDAwMGM0YTMxYTM4N2I4NmFkYzI0YWU4MzVmNWNkNmQ0MjY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: JEON SOMI\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 698,031 likes - 64 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 698,047 likes - 64 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [My Trouble](https://open.spotify.com/track/0OQQTmbThttTpDoF4t5DmP) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [My Trouble](https://open.spotify.com/album/6ZTQpZMX8i1RMzq2S27OuY) | 3:17 |
 | 64 | [Wishing Well](https://open.spotify.com/track/76clbQ61WsOS7n7azRQcB7) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Wishing Well](https://open.spotify.com/album/4hfJhyV3vs44VXsyDdxPsr) | 3:32 |
 
-Snapshot ID: `MTY0MTEwODU4MiwwMDAwMDAwMDk5NjFlODdiZmY4N2M2OGViNDAzZDU5YmVmMjZhMjFm`
+Snapshot ID: `MTY0MTExMDA3MSwwMDAwMDAwMDk5NjFlODdiZmY4N2M2OGViNDAzZDU5YmVmMjZhMjFm`

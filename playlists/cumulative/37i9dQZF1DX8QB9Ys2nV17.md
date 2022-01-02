@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8QB9Ys2nV17.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8QB9Ys2nV17) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8QB9Ys2nV17)
 
-### [Women of the Blues](https://open.spotify.com/playlist/37i9dQZF1DX8QB9Ys2nV17)
+### [Women of the Blues](https://open.spotify.com/playlist/0UGCoI6ggpt60ggSYYng1k)
 
 > The greatest female voices in blues today\. Cover: Bettye LaVette
 

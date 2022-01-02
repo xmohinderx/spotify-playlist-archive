@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > The sound of a g\-g\-generation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,752 likes - 70 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,761 likes - 70 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 69 | [Snot](https://open.spotify.com/track/3KNoT6ldHrGS82S9bYeUk4) | [Snot](https://open.spotify.com/artist/6TnlohrPbZ8D0JvJp9S1t8) | [Get Some](https://open.spotify.com/album/4BvZjpnr3SBg8bKQ5hzn9f) | 3:21 |
 | 70 | [Denial](https://open.spotify.com/track/12nGRgtkjrqb3mvsEp4yKj) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Best Of \(Chapter One 1997\-2004\)](https://open.spotify.com/album/0YIzJF9rLdrK9KzADZjYVe) | 4:18 |
 
-Snapshot ID: `MTY0MTEwODcyNywwMDAwMDAwMGRmYWJmMTgwNDhiOGQwM2U2MWYzMmQyMmZjYTYyOWNk`
+Snapshot ID: `MTY0MTExMDIwMiwwMDAwMDAwMGRmYWJmMTgwNDhiOGQwM2U2MWYzMmQyMmZjYTYyOWNk`

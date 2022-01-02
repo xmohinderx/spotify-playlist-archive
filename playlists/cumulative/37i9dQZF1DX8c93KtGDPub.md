@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8c93KtGDPub.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8c93KtGDPub) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8c93KtGDPub)
 
-### [Folksy Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8c93KtGDPub)
+### [Folksy Christmas](https://open.spotify.com/playlist/7FfL6kxJ46PiydiUpSfDYM)
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/4p3lupatTubTWpTgCZjgpk.md) - cumulative - [plain](/playlists/plain/4p3lupatTubTWpTgCZjgpk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/4p3lupatTubTWpTgCZjgpk)
 
-### [Walk a Country Mile](https://open.spotify.com/playlist/4p3lupatTubTWpTgCZjgpk)
+### [Walk a Country Mile](https://open.spotify.com/playlist/1FUceff87u8twasHTSibY0)
 
 > Countrify your power walk
 

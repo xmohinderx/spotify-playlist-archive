@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2PMlGn5a2jxukdhCYQyQvG.md) - cumulative - [plain](/playlists/plain/2PMlGn5a2jxukdhCYQyQvG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2PMlGn5a2jxukdhCYQyQvG)
 
-### [Inget är större än KÄRLEKEN](https://open.spotify.com/playlist/2PMlGn5a2jxukdhCYQyQvG)
+### [Inget är större än KÄRLEKEN](https://open.spotify.com/playlist/0t9CFWc2SPFmBYaVmIEph6)
 
 > 
 

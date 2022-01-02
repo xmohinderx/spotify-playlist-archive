@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbL8l7ra5vVdB.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbL8l7ra5vVdB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbL8l7ra5vVdB)
 
-### [Top 50 \- Russia](https://open.spotify.com/playlist/37i9dQZEVXbL8l7ra5vVdB)
+### [Top 50 \- Russia](https://open.spotify.com/playlist/4A0GX2m9jv4o0xd8EdZCL8)
 
 > Your daily update of the most played tracks right now \- Russia.
 

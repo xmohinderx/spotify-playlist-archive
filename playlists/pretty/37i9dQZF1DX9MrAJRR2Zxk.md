@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,408 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,410 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [Feeling Myself](https://open.spotify.com/track/4vgTAdLit4VNnxZ7YK06NW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Pinkprint \(International Deluxe Explicit\)](https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96) | 3:57 |
 | 50 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 |
 
-Snapshot ID: `MTY0MTEwODY1MSwwMDAwMDAwMDI5ZjU5NWFjNmVlMjFjOTQwZDA4YzY3MDM1Mjg5OTE4`
+Snapshot ID: `MTY0MTExMDEzNiwwMDAwMDAwMDI5ZjU5NWFjNmVlMjFjOTQwZDA4YzY3MDM1Mjg5OTE4`

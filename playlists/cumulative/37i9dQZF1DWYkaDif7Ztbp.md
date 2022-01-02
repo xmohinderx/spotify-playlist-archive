@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYkaDif7Ztbp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYkaDif7Ztbp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYkaDif7Ztbp)
 
-### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
+### [African Heat](https://open.spotify.com/playlist/6CGfDwBbFDC5qx0eVHKRnz)
 
 > The tracks heating up the continent right now! Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=5Z7nU1NlSleLiz1BSOb7Dw"> Fireboy DML </a>
 

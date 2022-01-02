@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7JO5vzoPTXR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7JO5vzoPTXR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7JO5vzoPTXR)
 
-### [Created by Women](https://open.spotify.com/playlist/37i9dQZF1DX7JO5vzoPTXR)
+### [Created by Women](https://open.spotify.com/playlist/4frft2pyObjR6lkHbPcXin)
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE?si=GPDQpygtSJOb3jufW0Qvog">Trousdale</a>
 

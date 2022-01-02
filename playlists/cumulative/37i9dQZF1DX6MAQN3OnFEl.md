@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6MAQN3OnFEl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6MAQN3OnFEl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6MAQN3OnFEl)
 
-### [y2k](https://open.spotify.com/playlist/37i9dQZF1DX6MAQN3OnFEl)
+### [y2k](https://open.spotify.com/playlist/23bOsAGR1opaZnliocSEkf)
 
 > that's hot
 

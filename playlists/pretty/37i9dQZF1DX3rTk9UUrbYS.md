@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,343 likes - 50 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,344 likes - 50 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 49 | [Composite](https://open.spotify.com/track/2IXxhyBkczi3kz6QRWuIsQ) | [Trio 3](https://open.spotify.com/artist/53psjKXqjEs7i8Xgw1xxNq) | [Visiting Texture](https://open.spotify.com/album/4ZQzLMdMBdyfONnftLOzgN) | 6:39 |
 | 50 | [Fractured Gatherings](https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl) | 12:40 |
 
-Snapshot ID: `MTY0MTEwODUyMiwwMDAwMDAwMDJiYmZhNjZlMzdjYWE5YmJlOTgzMTdmZDA5MzJmOTQz`
+Snapshot ID: `MTY0MTExMDAxNCwwMDAwMDAwMDJiYmZhNjZlMzdjYWE5YmJlOTgzMTdmZDA5MzJmOTQz`

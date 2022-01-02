@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUPAFOWtSz6P.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUPAFOWtSz6P) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUPAFOWtSz6P)
 
-### [Yoga Acoustics](https://open.spotify.com/playlist/37i9dQZF1DWUPAFOWtSz6P)
+### [Yoga Acoustics](https://open.spotify.com/playlist/5SjLeW9rbn4LmmpPiQxmTZ)
 
 > Set your intentions and guide your practice with these mindful, meditative lyrics.
 

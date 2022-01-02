@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0SlHbqMm3vJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0SlHbqMm3vJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0SlHbqMm3vJ)
 
-### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
+### [Ginger Me](https://open.spotify.com/playlist/6c4FAtKQpbdqtWlJf4Goom)
 
 > A collection of old and new R&B cuts from West Africa’s finest artists.
 

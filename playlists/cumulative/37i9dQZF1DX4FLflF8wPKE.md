@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4FLflF8wPKE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4FLflF8wPKE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4FLflF8wPKE)
 
-### [Tranquility](https://open.spotify.com/playlist/37i9dQZF1DX4FLflF8wPKE)
+### [Tranquility](https://open.spotify.com/playlist/7vNXNRq5W3aaOfi5RFe203)
 
 > Relax and escape with these tranquil tracks.
 

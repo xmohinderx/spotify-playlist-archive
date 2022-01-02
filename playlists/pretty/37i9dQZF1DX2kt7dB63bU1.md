@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Cécile McLorin Salvant
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,480 likes - 116 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,482 likes - 116 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 115 | [Sweet Lorraine](https://open.spotify.com/track/5oc7mmLqcClZ4CTIpn8w3W) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Relief \- a Benefit for the Jazz Foundation of America's Musicians' Emergency Fund](https://open.spotify.com/album/4jtdfVBlSM9dHwEb3jtnNi) | 3:54 |
 | 116 | [Wild Is The Wind](https://open.spotify.com/track/4MKfsaaYbB78ibU0kNGxMu) | [Anna Kolchina](https://open.spotify.com/artist/2vP3HFkAxomZGmfq8NG390) | [Wild Is The Wind](https://open.spotify.com/album/6PWm7iGTcvrmI9Vx7lMisb) | 4:50 |
 
-Snapshot ID: `MTY0MTEwODQ5NCwwMDAwMDAwMGNmMWM0MTZjNjE0YjFjOTQ3MDYzZmY4NWFjNzYyNGI0`
+Snapshot ID: `MTY0MTEwOTk4OCwwMDAwMDAwMGNmMWM0MTZjNjE0YjFjOTQ3MDYzZmY4NWFjNzYyNGI0`

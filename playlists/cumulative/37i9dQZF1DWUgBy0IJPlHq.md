@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUgBy0IJPlHq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUgBy0IJPlHq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUgBy0IJPlHq)
 
-### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
+### [Indigo](https://open.spotify.com/playlist/3YetB26RqGyFH6Ypx3VTr9)
 
 > A new shade of Country\. Cover: Billy Strings
 

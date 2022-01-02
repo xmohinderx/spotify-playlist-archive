@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX13kFuGnInkY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX13kFuGnInkY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX13kFuGnInkY)
 
-### [ACM Awards 2021](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
+### [ACM Awards 2021](https://open.spotify.com/playlist/2abNicU5x5EpZu7AnrWZEQ)
 
 > A complete playlist of all the winners & nominees\. Tune in to the ACM Awards LIVE on CBS & Paramount + on April 18th 8/7c!
 

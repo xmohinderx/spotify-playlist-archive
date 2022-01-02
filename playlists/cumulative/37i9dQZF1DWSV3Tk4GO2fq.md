@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSV3Tk4GO2fq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSV3Tk4GO2fq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSV3Tk4GO2fq)
 
-### [All Out 50s](https://open.spotify.com/playlist/37i9dQZF1DWSV3Tk4GO2fq)
+### [All Out 50s](https://open.spotify.com/playlist/0KP8tMIBjL4MwHe5MXMJNh)
 
 > The biggest songs of the 1950s.
 

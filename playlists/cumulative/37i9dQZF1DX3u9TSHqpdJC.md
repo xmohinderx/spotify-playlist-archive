@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3u9TSHqpdJC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3u9TSHqpdJC)
 
-### [Fresh Finds Pop: Best of 2021](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
+### [Fresh Finds Pop: Best of 2021](https://open.spotify.com/playlist/0YjSDOaLou4lkDlWrOqgY0)
 
 > The top 50 tracks from Fresh Finds Pop in 2021\. Cover: King Mala, Artwork: Paola Saliby
 

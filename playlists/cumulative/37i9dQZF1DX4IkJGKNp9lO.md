@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4IkJGKNp9lO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4IkJGKNp9lO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4IkJGKNp9lO)
 
-### [Svensk Punk](https://open.spotify.com/playlist/37i9dQZF1DX4IkJGKNp9lO)
+### [Svensk Punk](https://open.spotify.com/playlist/3Pn9tRKK1cG7DF1Ujbt84s)
 
 > Svensk punk från förr och nu.
 

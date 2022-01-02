@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdgnLr18vPvu.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdgnLr18vPvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdgnLr18vPvu)
 
-### [Tailgate Party](https://open.spotify.com/playlist/37i9dQZF1DXdgnLr18vPvu)
+### [Tailgate Party](https://open.spotify.com/playlist/7wnWj8g9uDLSq7ZWd0CcWi)
 
 > The right music can make a good tailgate great.
 

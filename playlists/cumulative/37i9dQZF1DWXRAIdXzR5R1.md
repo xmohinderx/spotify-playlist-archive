@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWXRAIdXzR5R1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWXRAIdXzR5R1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXRAIdXzR5R1)
 
-### [This Is: Bryan Adams](https://open.spotify.com/playlist/37i9dQZF1DWXRAIdXzR5R1)
+### [This Is: Bryan Adams](https://open.spotify.com/playlist/0FzeKcZ9fafJ2Vf6hAqxym)
 
 > With one of his biggest hits 'Summer of 69', he has contributed more than 30 years to the arts, particularly as a musician and also as an established photographer.
 

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaKctwWdt4be.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaKctwWdt4be) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaKctwWdt4be)
 
-### [Behind The Lyrics: Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DXaKctwWdt4be)
+### [Behind The Lyrics: Hip Hop](https://open.spotify.com/playlist/4BTJFx0jcFzWS0MANGhmoD)
 
 > Watch your screen as you listen to see lyrics, fun facts, and artist stories from Genius! \(on mobile only\)
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,904 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,906 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 99 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 |
 | 100 | [You for Me](https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You for Me](https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT) | 2:55 |
 
-Snapshot ID: `MTY0MTEwODM0MCwwMDAwMDAwMDEyZGI0MmIzYjc2MWFlYzEzMzZjZjUxYmJlNTA1ZDY2`
+Snapshot ID: `MTY0MTEwOTg0MSwwMDAwMDAwMDEyZGI0MmIzYjc2MWFlYzEzMzZjZjUxYmJlNTA1ZDY2`

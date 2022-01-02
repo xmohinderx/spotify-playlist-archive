@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,540 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,556 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Mystery Lady \- ChopNotSlop Remix](https://open.spotify.com/track/4E3KOqQvFCq8j0d8XeaNq6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(ChopNotSlop Remix\)](https://open.spotify.com/album/240eFEHl03EpsKxbMatAXl) | 5:12 |
 | 50 | [Flashbacks \(Slowed\)](https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1) | [CRASPORE](https://open.spotify.com/artist/70uBplYS9d9GUfEKVusJw6) | [Flashbacks \(Slowed\)](https://open.spotify.com/album/7eO75JwSheXFOmkep315aR) | 6:42 |
 
-Snapshot ID: `MTY0MTEwODQ0OCwwMDAwMDAwMDFmNTc5ODNmYjNkZGJiMGM4ZGY1ZDEzMjYzY2IyYWI4`
+Snapshot ID: `MTY0MTEwOTk0NCwwMDAwMDAwMDFmNTc5ODNmYjNkZGJiMGM4ZGY1ZDEzMjYzY2IyYWI4`

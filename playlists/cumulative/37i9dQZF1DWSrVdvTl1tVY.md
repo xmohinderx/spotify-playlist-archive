@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSrVdvTl1tVY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSrVdvTl1tVY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSrVdvTl1tVY)
 
-### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
+### [UK House Music](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
 > Celebrating the biggest UK house bangers\. Updated regularly\. Cover: Michael Bibi
 

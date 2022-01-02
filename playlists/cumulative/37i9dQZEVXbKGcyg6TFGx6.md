@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZEVXbKGcyg6TFGx6.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbKGcyg6TFGx6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXbKGcyg6TFGx6)
 
-### [Top 50 \- Luxembourg](https://open.spotify.com/playlist/37i9dQZEVXbKGcyg6TFGx6)
+### [Top 50 \- Luxembourg](https://open.spotify.com/playlist/0YNt2rlDx7K55Onz4ARGVq)
 
 > Your daily update of the most played tracks right now \- Luxembourg.
 

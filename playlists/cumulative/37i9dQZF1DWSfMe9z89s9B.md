@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSfMe9z89s9B.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSfMe9z89s9B) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSfMe9z89s9B)
 
-### [Alternative R&B](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
+### [Alternative R&B](https://open.spotify.com/playlist/5LTt78znSTM3vwYtfHo5Kh)
 
 > These progressive R&B and soul tracks can't be put in a box\. Cover: Fana Hues
 

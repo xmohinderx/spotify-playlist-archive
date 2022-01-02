@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1adpUbAHocs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1adpUbAHocs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1adpUbAHocs)
 
-### [Scenic Route](https://open.spotify.com/playlist/37i9dQZF1DX1adpUbAHocs)
+### [Scenic Route](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
 
 > hop in and take the long way.
 

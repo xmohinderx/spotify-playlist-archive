@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 59 | [Alle snakker sant](https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm) | [Siri Nilsen](https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM) | [Alle snakker sant](https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3) | 2:48 |
 | 60 | [Sjåaren](https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Nord](https://open.spotify.com/album/3MOfbBRIIiDiJANV0Ko6GN) | 5:17 |
 
-Snapshot ID: `MTY0MTEwODU0MiwwMDAwMDAwMDUwNWY5ODc0NWUxMzUzNzI5ZWMyZDg4YTEwMjFkZGI1`
+Snapshot ID: `MTY0MTExMDAzNCwwMDAwMDAwMDUwNWY5ODc0NWUxMzUzNzI5ZWMyZDg4YTEwMjFkZGI1`

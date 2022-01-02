@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6RCydf9ytsj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6RCydf9ytsj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6RCydf9ytsj)
 
-### [80s Country](https://open.spotify.com/playlist/37i9dQZF1DX6RCydf9ytsj)
+### [80s Country](https://open.spotify.com/playlist/5zYDQkCJi1ELDVkzWoTLTr)
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene.
 

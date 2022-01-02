@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1qSl6wHwkrJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1qSl6wHwkrJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1qSl6wHwkrJ)
 
-### [Christmas Blues](https://open.spotify.com/playlist/37i9dQZF1DX1qSl6wHwkrJ)
+### [Christmas Blues](https://open.spotify.com/playlist/2ff9bHziRvMPkCidiX8ZOI)
 
 > Christmas classics from your favourite Blues artists.
 

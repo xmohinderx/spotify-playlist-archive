@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,264,667 likes - 200 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,264,672 likes - 200 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [Someone Else](https://open.spotify.com/track/2JUaGpCrD8tywgj9MeLFbb) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Loved You.](https://open.spotify.com/album/3hKjzbCr8wCNcjr54dYYv6) | 3:52 |
 | 200 | [Wish You Were Here](https://open.spotify.com/track/0UUm2qlU7O8xcYdl6tzGY3) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby](https://open.spotify.com/album/3Y541cesrOsvoEk527yUxx) | 3:45 |
 
-Snapshot ID: `MTY0MTEwODUxNiwwMDAwMDAwMGM3NmU1OTllZTkyZGU1ODRlODRjNzliMzFiYzFjZDgy`
+Snapshot ID: `MTY0MTExMDAwOSwwMDAwMDAwMGM3NmU1OTllZTkyZGU1ODRlODRjNzliMzFiYzFjZDgy`

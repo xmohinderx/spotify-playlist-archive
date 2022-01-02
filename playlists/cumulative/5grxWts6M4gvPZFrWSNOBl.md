@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/5grxWts6M4gvPZFrWSNOBl.md) - cumulative - [plain](/playlists/plain/5grxWts6M4gvPZFrWSNOBl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5grxWts6M4gvPZFrWSNOBl)
 
-### [Disclosure](https://open.spotify.com/playlist/5grxWts6M4gvPZFrWSNOBl)
+### [Disclosure](https://open.spotify.com/playlist/7J6ThB1nRJ9uroMSK3YZnJ)
 
 > Missa inte Disclosure på Linné\-scenen på LÖRDAG / 23.00
 

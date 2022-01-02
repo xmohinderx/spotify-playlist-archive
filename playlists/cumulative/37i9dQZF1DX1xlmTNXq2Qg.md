@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1xlmTNXq2Qg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1xlmTNXq2Qg)
 
-### [This Is LANY](https://open.spotify.com/playlist/37i9dQZF1DX1xlmTNXq2Qg)
+### [This Is LANY](https://open.spotify.com/playlist/1UD1v4gMRoi8wlQD3xgZBb)
 
 > Time for dancing in the kitchen!
 
