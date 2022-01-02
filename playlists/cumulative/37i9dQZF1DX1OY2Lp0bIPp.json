@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-04-30",
   "description": "Giving motivation to your Monday. You got this!",
   "name": "Monday Motivation",
+  "published_playlist_ids": [
+    "0X6TOoiYfTcPrHrYMRW2LE"
+  ],
   "tracks": [
     {
       "album": {
@@ -204,7 +207,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 248400,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe"
@@ -378,7 +381,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180240,
       "name": "Break My Stride",
       "url": "https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU"
@@ -450,7 +453,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227146,
       "name": "Brokenhearted",
       "url": "https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi"
@@ -974,7 +977,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227893,
       "name": "Firework",
       "url": "https://open.spotify.com/track/4TVuirwgzxe9fWRBoWtPpq"
@@ -1036,7 +1039,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191933,
       "name": "Found What I've Been Looking For",
       "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
@@ -1202,7 +1205,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 241306,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/3uvTySdxejOSPEACJsajdW"
@@ -1470,7 +1473,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 240073,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/0Nu64rJw60LPf816F9k5VN"
@@ -1528,7 +1531,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
@@ -1712,7 +1715,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 204514,
       "name": "Juliet & Romeo",
       "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
@@ -1998,7 +2001,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 165789,
       "name": "Move on Up",
       "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
@@ -2182,7 +2185,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 209586,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/1T6928Jai5vaFUIP7XhXhS"
@@ -2386,7 +2389,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191026,
       "name": "Pack Up",
       "url": "https://open.spotify.com/track/5YWP23fhLuBR7adVav91Nb"
@@ -2422,7 +2425,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 193829,
       "name": "Physical",
       "url": "https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V"
@@ -2650,7 +2653,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
@@ -2760,7 +2763,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213080,
       "name": "Same Jeans",
       "url": "https://open.spotify.com/track/5aUwnYLjQD7OfLMJDWSnsT"
@@ -2796,7 +2799,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 219209,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt"
@@ -3396,7 +3399,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 199580,
       "name": "Ugly Heart",
       "url": "https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW"
@@ -3598,7 +3601,7 @@
       ],
       "date_added": "2020-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180066,
       "name": "White Tiger - Single Version",
       "url": "https://open.spotify.com/track/64I0PKLFEKlcvc7fEVUGq0"

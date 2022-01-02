@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Key words: Contemporary pop, legends, country music - and something in between. Just good tunes!",
   "name": "The New Waltz",
+  "published_playlist_ids": [
+    "3T7FuaCHpe9xluTwkrgztG"
+  ],
   "tracks": [
     {
       "album": {
@@ -1086,7 +1089,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 382853,
       "name": "Story Of Everything",
       "url": "https://open.spotify.com/track/6exGzQG7704sf82TorgroD"
@@ -1158,7 +1161,7 @@
       ],
       "date_added": "2019-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 229680,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/2N5FkUB6QPAYZwdm1kP470"

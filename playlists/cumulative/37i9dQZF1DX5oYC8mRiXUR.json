@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "No dust was found after cleaning to this playlist.",
   "name": "Cleaning Kit",
+  "published_playlist_ids": [
+    "6oRvGpvzDj3pSeGrYB27Hn"
+  ],
   "tracks": [
     {
       "album": {
@@ -762,7 +765,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 272080,
       "name": "Don't Cha",
       "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
@@ -2232,7 +2235,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 268066,
       "name": "Shortie Like Mine (feat. Chris Brown & Johnt\u00e1 Austin)",
       "url": "https://open.spotify.com/track/6oUGAx0vkBcnGzYkvw0ZsA"

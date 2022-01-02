@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "The songs that defined the other side of the 80s. Cover: Siouxsie and the Banshees",
   "name": "Alternative 80s",
+  "published_playlist_ids": [
+    "2H1LxPFJmPRXwu3yCnyOJK"
+  ],
   "tracks": [
     {
       "album": {
@@ -146,7 +149,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238626,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/5zpRUKG7MSRZvNjr25vJsl"
@@ -308,7 +311,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 152200,
       "name": "Crash",
       "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
@@ -902,7 +905,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 223573,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/1MwGbyzRmPXWABLIdW8tzG"
@@ -938,7 +941,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 215120,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX"
@@ -1100,7 +1103,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185199,
       "name": "On my Radio",
       "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
@@ -1154,7 +1157,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 350560,
       "name": "Pacific State - Origin Mix",
       "url": "https://open.spotify.com/track/1bdqvBFKJKbkZvFeF7hNQs"
@@ -1262,7 +1265,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 282600,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
@@ -1478,7 +1481,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197533,
       "name": "Spellbound",
       "url": "https://open.spotify.com/track/5W8K2a4nCZ8df93uJm2pjI"
@@ -1568,7 +1571,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 232746,
       "name": "The Cutter",
       "url": "https://open.spotify.com/track/5UrmKv9c4nau5uiW9Shz4N"
@@ -1658,7 +1661,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 189040,
       "name": "The Tunnel of Love",
       "url": "https://open.spotify.com/track/5LN1GM6XWFEAQiWOT8RDfd"
@@ -1701,6 +1704,24 @@
     },
     {
       "album": {
+        "name": "Alternative 80's",
+        "url": "https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "There There My Dear",
+      "url": "https://open.spotify.com/track/6qCrD2Z1rea8wL8iO9baep"
+    },
+    {
+      "album": {
         "name": "The Smiths",
         "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
       },
@@ -1712,7 +1733,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 162920,
       "name": "This Charming Man - 2011 Remaster",
       "url": "https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ"
@@ -1730,7 +1751,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 163053,
       "name": "This Charming Man - Single Version; 2008 Remaster",
       "url": "https://open.spotify.com/track/1oDpnYvcjkgxNc9ytYmxQJ"
@@ -1820,7 +1841,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
@@ -1838,7 +1859,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204906,
       "name": "Walk out to Winter",
       "url": "https://open.spotify.com/track/6Z2TIb43jnjHcmMGSkxJcI"
@@ -1910,7 +1931,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 330640,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/12EsXesqewZ7mIwWswf6tn"

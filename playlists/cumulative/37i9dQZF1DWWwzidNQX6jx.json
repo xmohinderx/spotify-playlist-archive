@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "These songs rocked the 70s.",
   "name": "70s Rock Anthems",
+  "published_playlist_ids": [
+    "300rDEvhUkSxlICWNMARoz"
+  ],
   "tracks": [
     {
       "album": {
@@ -646,7 +649,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 200579,
       "name": "Fire and Rain",
       "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
@@ -1078,7 +1081,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 536226,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/2wvMC5EyaaYQwBfiwwY2xE"
@@ -1492,7 +1495,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 252773,
       "name": "Rhiannon",
       "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
@@ -1510,7 +1513,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"

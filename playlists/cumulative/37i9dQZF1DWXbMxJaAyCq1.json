@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "This is the remix... escuchalos ac\u00e1. Foto: Mora, Feid & Eladio Carrion.",
   "name": "Remixes Urbanos",
+  "published_playlist_ids": [
+    "5vLgxBMLeVg8tWML5FMZMe"
+  ],
   "tracks": [
     {
       "album": {
@@ -44,7 +47,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
@@ -334,7 +337,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 322906,
       "name": "Bonita - Remix",
       "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
@@ -552,7 +555,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 512093,
       "name": "Darte Remix",
       "url": "https://open.spotify.com/track/6xqbec9MHRmW7qtEINAlRx"
@@ -578,7 +581,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 331413,
       "name": "Diabla - Official Remix",
       "url": "https://open.spotify.com/track/2OxUtaKYeahAGNaBiahXtR"
@@ -620,6 +623,36 @@
       "duration_ms": 258600,
       "name": "DJ No Pare (feat. Zion, Dalex, Lenny Tav\u00e1rez) - Remix",
       "url": "https://open.spotify.com/track/1ndyl3wJCFs872XZ3ztPk6"
+    },
+    {
+      "album": {
+        "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) [Remix]",
+        "url": "https://open.spotify.com/album/3hqnnuMqi7Q5CTWLHnnnVD"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252903,
+      "name": "Domingo (Reykon, Cosculluela, Greeicy & Rauw Alejandro) - Remix",
+      "url": "https://open.spotify.com/track/2RcvZFouLOTFZbQHr3nhOj"
     },
     {
       "album": {
@@ -938,6 +971,40 @@
       "duration_ms": 275217,
       "name": "Extra\u00f1andote - Remix",
       "url": "https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj"
+    },
+    {
+      "album": {
+        "name": "Fantasias (Remix) [feat. Farruko & Lunay]",
+        "url": "https://open.spotify.com/album/2kcKdEULKToIB701VWtOPr"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Natti Natasha",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267241,
+      "name": "Fantasias - Remix",
+      "url": "https://open.spotify.com/track/0A37XY67wSdGqkGjtfW6aV"
     },
     {
       "album": {
@@ -1472,7 +1539,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 255800,
       "name": "Mi Nin\u0303a - Remix",
       "url": "https://open.spotify.com/track/43PXER25C9JkExLBd5dObG"
@@ -1693,6 +1760,32 @@
     },
     {
       "album": {
+        "name": "No Te Veo (Remix)",
+        "url": "https://open.spotify.com/album/5pfrJdlwNslURLsWO9Sew1"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255604,
+      "name": "No Te Veo - Remix",
+      "url": "https://open.spotify.com/track/4NDIXOvmcKopGcRfs48IyV"
+    },
+    {
+      "album": {
         "name": "Otro Trago (Remix)",
         "url": "https://open.spotify.com/album/3hiJmThCss4ugTPzvgUnT1"
       },
@@ -1758,6 +1851,48 @@
       "duration_ms": 318600,
       "name": "Pa Los Gustos Los Colores - Remix",
       "url": "https://open.spotify.com/track/0VPN27Nd8gQPe3tT16nsyG"
+    },
+    {
+      "album": {
+        "name": "Climaxxx",
+        "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360960,
+      "name": "Pa M\u00ed - Remix",
+      "url": "https://open.spotify.com/track/7g8YaUQABMal0zWe7a2ijz"
     },
     {
       "album": {
@@ -1938,10 +2073,44 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206896,
       "name": "Qu\u00e9 Mal Te Fue (Remix)",
       "url": "https://open.spotify.com/track/7FhopXtl9z9YtD9NwUf9ss"
+    },
+    {
+      "album": {
+        "name": "Rasta Barbie Remix",
+        "url": "https://open.spotify.com/album/0PH9PbOv7T44GcZxo5uEDT"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288469,
+      "name": "Rasta Barbie (Remix)",
+      "url": "https://open.spotify.com/track/64kNRze29YqCFzFEpQCaHQ"
     },
     {
       "album": {
@@ -2091,6 +2260,36 @@
     },
     {
       "album": {
+        "name": "Soy Peor Remix",
+        "url": "https://open.spotify.com/album/21s4p4Nr7YJnbEGGu7Phta"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324827,
+      "name": "Soy Peor Remix (feat. J Balvin, Ozuna & Arcangel)",
+      "url": "https://open.spotify.com/track/4UG962ViiLqoUyx0RjCcwP"
+    },
+    {
+      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -2148,7 +2347,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 290160,
       "name": "TBT - Remix",
       "url": "https://open.spotify.com/track/2SdwRMzLw1vKClRinPqtuU"
@@ -2310,6 +2509,28 @@
       "duration_ms": 210352,
       "name": "Turraka - Remix",
       "url": "https://open.spotify.com/track/2Qv0DF1us4LhzLj0Cx9cSn"
+    },
+    {
+      "album": {
+        "name": "Tus Besos (Remix)",
+        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "Tus Besos - Remix",
+      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
     },
     {
       "album": {

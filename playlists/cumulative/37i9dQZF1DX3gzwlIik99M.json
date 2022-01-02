@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
   "name": "Metal del Nuestro",
+  "published_playlist_ids": [
+    "7s5Dgpk9E3N59KDagZAZrc"
+  ],
   "tracks": [
     {
       "album": {
@@ -23,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Fugitive State of Mind",
+        "url": "https://open.spotify.com/album/6N7IWhu9D9iXmw7jT3VJai"
+      },
+      "artists": [
+        {
+          "name": "Voltax",
+          "url": "https://open.spotify.com/artist/1A5Dt5zgajoli6BFEiL4P2"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227013,
+      "name": "Acero Inmortal",
+      "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
+    },
+    {
+      "album": {
         "name": "El Mar De Las Almas",
         "url": "https://open.spotify.com/album/52tcNhROdl0187orh4tB3N"
       },
@@ -38,6 +59,24 @@
       "duration_ms": 223440,
       "name": "Acido",
       "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
+    },
+    {
+      "album": {
+        "name": "Kollong",
+        "url": "https://open.spotify.com/album/5ZWWaYGC3xjLgYrJbXb3IN"
+      },
+      "artists": [
+        {
+          "name": "Nunca Seremos Dichosos",
+          "url": "https://open.spotify.com/artist/0XLQ3xZLk6ptsTLMHDKgTR"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455449,
+      "name": "Ancestral",
+      "url": "https://open.spotify.com/track/4MDkQk38V9VZHn6VyZzARv"
     },
     {
       "album": {
@@ -95,6 +134,24 @@
     },
     {
       "album": {
+        "name": "La Industria del Poder",
+        "url": "https://open.spotify.com/album/22AC5HwcgT60YSnRVIl5zr"
+      },
+      "artists": [
+        {
+          "name": "Logos",
+          "url": "https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300066,
+      "name": "Como Rel\u00e1mpago en la Oscuridad",
+      "url": "https://open.spotify.com/track/5QVFOgHCV6rXkDXpJp0Wsr"
+    },
+    {
+      "album": {
         "name": "Muerte y Transfiguraci\u00f3n",
         "url": "https://open.spotify.com/album/2QrrXjUSMcwNHVieEJjcM4"
       },
@@ -106,7 +163,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 286747,
       "name": "De las Profundidades de la Tierra",
       "url": "https://open.spotify.com/track/2APmd5EEbt25qhBbJiD8sE"
@@ -124,7 +181,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 316413,
       "name": "Deseando Destruir y Matar",
       "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
@@ -149,6 +206,28 @@
     },
     {
       "album": {
+        "name": "Cr\u00f3nicas de sangre y carne",
+        "url": "https://open.spotify.com/album/2VLRUuEsACumbbhdV7a0yc"
+      },
+      "artists": [
+        {
+          "name": "Gore and Carnage",
+          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
+        },
+        {
+          "name": "Karma Dhiluz",
+          "url": "https://open.spotify.com/artist/0PwTMcLi1HftWhObcwZqeF"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195653,
+      "name": "Economia de la Muerte",
+      "url": "https://open.spotify.com/track/1dqDKk9UW8CiaurtULYdAJ"
+    },
+    {
+      "album": {
         "name": "Tierras de Leyenda",
         "url": "https://open.spotify.com/album/3FDDeh9sZO0LomncCL9fEf"
       },
@@ -164,6 +243,24 @@
       "duration_ms": 209013,
       "name": "El Caballo De Troya",
       "url": "https://open.spotify.com/track/2sUsyTWx6HeRxrnPpNL1gJ"
+    },
+    {
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/2Lx0ZVDWhHAVR01bkGFDHl"
+      },
+      "artists": [
+        {
+          "name": "Medical Negligence",
+          "url": "https://open.spotify.com/artist/3jL94uFzu0H6r9vi5nXVAg"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "El Charro",
+      "url": "https://open.spotify.com/track/4kLJUOOd8yrb1frZ3oKFE1"
     },
     {
       "album": {
@@ -243,6 +340,24 @@
     },
     {
       "album": {
+        "name": "3L1T3",
+        "url": "https://open.spotify.com/album/25K5wiaSI0xh4cP9m4XQ8c"
+      },
+      "artists": [
+        {
+          "name": "Nueva Etica",
+          "url": "https://open.spotify.com/artist/5wYHNj05LXPw4TrdIHFoK2"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "El Tiempo Es Ahora",
+      "url": "https://open.spotify.com/track/5p6TdjObpqc3vSpDoyGDQO"
+    },
+    {
+      "album": {
         "name": "Por Tu Honor",
         "url": "https://open.spotify.com/album/139KGXxHg2hwbNrHrCfU12"
       },
@@ -272,7 +387,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 251268,
       "name": "Enslaved from Disease",
       "url": "https://open.spotify.com/track/5D9XF3vxlk35016zNoJBen"
@@ -308,7 +423,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 264000,
       "name": "Escapar",
       "url": "https://open.spotify.com/track/0cW3dN4Jz3hYPU7OAiqHq5"
@@ -326,7 +441,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 182323,
       "name": "Esquizofrenia",
       "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
@@ -348,6 +463,24 @@
       "duration_ms": 241333,
       "name": "Exoplanets",
       "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
+    },
+    {
+      "album": {
+        "name": "Animal humano",
+        "url": "https://open.spotify.com/album/2J6bHZx2YmmnpgTnybfKIh"
+      },
+      "artists": [
+        {
+          "name": "Agonica",
+          "url": "https://open.spotify.com/artist/3OsceChdhzneoAz0TEoPXS"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252525,
+      "name": "Frontera",
+      "url": "https://open.spotify.com/track/5wiNLf4FcU9dTn72OnA0VI"
     },
     {
       "album": {
@@ -405,6 +538,42 @@
     },
     {
       "album": {
+        "name": "Tzompantli",
+        "url": "https://open.spotify.com/album/7GmdWqPEcptcBt89MZwzcH"
+      },
+      "artists": [
+        {
+          "name": "Avernal",
+          "url": "https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229285,
+      "name": "Hilera de Cr\u00e1neos",
+      "url": "https://open.spotify.com/track/4KYCAI8Ji8ZjsMnolgoZdC"
+    },
+    {
+      "album": {
+        "name": "El Sangriento",
+        "url": "https://open.spotify.com/album/614yYarWjW9kGJ7HApmS0Y"
+      },
+      "artists": [
+        {
+          "name": "Avernal",
+          "url": "https://open.spotify.com/artist/0Pk6A0iFcoDjG1w0P1OMU2"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Hoy Podes Pudrirte",
+      "url": "https://open.spotify.com/track/4taoA7P7oh1whE2Z4EHJGc"
+    },
+    {
+      "album": {
         "name": "Javhe Karma",
         "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
       },
@@ -420,6 +589,24 @@
       "duration_ms": 460813,
       "name": "Infiel a Dos Mentiras \"Vida\"",
       "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
+    },
+    {
+      "album": {
+        "name": "Los Cantipuercos",
+        "url": "https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw"
+      },
+      "artists": [
+        {
+          "name": "Cuentos de los Hermanos Grind",
+          "url": "https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "La Caperuputa y el Lobo Culi\u00f3n",
+      "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
     },
     {
       "album": {
@@ -452,7 +639,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 124948,
       "name": "Las Piedras No Se Comen",
       "url": "https://open.spotify.com/track/6LZOde1jUcuNLrQSrKLqcT"
@@ -603,6 +790,24 @@
     },
     {
       "album": {
+        "name": "Nuevo Orden Mundial",
+        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231426,
+      "name": "Nuevo Orden Mundial",
+      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
+    },
+    {
+      "album": {
         "name": "The Beginning of the End",
         "url": "https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM"
       },
@@ -614,7 +819,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 223588,
       "name": "Outsider God Creation (O.G.C)",
       "url": "https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ"
@@ -639,6 +844,24 @@
     },
     {
       "album": {
+        "name": "Saca el Cobre",
+        "url": "https://open.spotify.com/album/6RG3MdjAsNxsZGlzYv3Ddy"
+      },
+      "artists": [
+        {
+          "name": "Rusty Eye",
+          "url": "https://open.spotify.com/artist/7K0XgSCkObkxipvNYoBzfT"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286266,
+      "name": "Perd\u00ed Mi Ojo de Venado",
+      "url": "https://open.spotify.com/track/16rUuHp2nGkSAG4gMlXshS"
+    },
+    {
+      "album": {
         "name": "Escotomafobia",
         "url": "https://open.spotify.com/album/7xGttGXsvSn6gNI0jIDeYm"
       },
@@ -650,7 +873,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 314832,
       "name": "Pesadilla",
       "url": "https://open.spotify.com/track/3wwbOhG8PY3L60O7tRNqkS"
@@ -686,7 +909,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199226,
       "name": "Refuse / Resist",
       "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
@@ -722,7 +945,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220849,
       "name": "Resilent",
       "url": "https://open.spotify.com/track/1ks4oI8rHS6kWwUf4rOmcn"
@@ -747,6 +970,28 @@
     },
     {
       "album": {
+        "name": "Postrauma",
+        "url": "https://open.spotify.com/album/1azeLJhK9N0zsG2dpQf8cr"
+      },
+      "artists": [
+        {
+          "name": "Cromlech",
+          "url": "https://open.spotify.com/artist/6Cn0i5S3HFlCJqzVBLSksj"
+        },
+        {
+          "name": "Alex Oquendo",
+          "url": "https://open.spotify.com/artist/27AX7iKzlljwYs5Qdeh9pF"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215109,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/3gm05NmlKD6PvAGvA1VRct"
+    },
+    {
+      "album": {
         "name": "Mighty Jungle",
         "url": "https://open.spotify.com/album/25H3EHBgRdfCiMJM158ISm"
       },
@@ -758,7 +1003,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 263778,
       "name": "Screams from the South",
       "url": "https://open.spotify.com/track/7mNPAgUtwKRMw6IZVHwrBY"
@@ -830,7 +1075,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 347619,
       "name": "Thanksgiving Day",
       "url": "https://open.spotify.com/track/4pBh3oJssl8uraWJlnRwmI"
@@ -902,7 +1147,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 150600,
       "name": "\u00a1Qu\u00e9menlos!",
       "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "Canciones tristes para uno de esos d\u00edas. Sad songs just 4 you.",
   "name": "gris",
+  "published_playlist_ids": [
+    "2UyGgwrSRZspaHIh8SZiLr"
+  ],
   "tracks": [
     {
       "album": {
@@ -276,7 +279,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194506,
       "name": "Con el Viento",
       "url": "https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF"
@@ -584,7 +587,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 172693,
       "name": "El Fuego En El Cielo (MASTER 1)",
       "url": "https://open.spotify.com/track/3hJgUV0AiZkjalnfq8geGo"
@@ -686,6 +689,24 @@
       "duration_ms": 223465,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB"
+    },
+    {
+      "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223465,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/0itukH4hI1pxOsyRQRQ28f"
     },
     {
       "album": {
@@ -1102,7 +1123,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187016,
       "name": "nana triste",
       "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
@@ -1254,7 +1275,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 217399,
       "name": "No Te Voy a Ver",
       "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
@@ -1446,7 +1467,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206746,
       "name": "Por \u00daltima Vez (con Yoly Saa) - MUU Sessions",
       "url": "https://open.spotify.com/track/6srnSjztnUZhf8zJqPOotI"
@@ -1504,7 +1525,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 244253,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/34gzxIVoKXsFQPiiT6rUX4"
@@ -1652,7 +1673,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196022,
       "name": "Ser tu depresi\u00f3n (ac\u00fastica)",
       "url": "https://open.spotify.com/track/4TkPskOsVY7j798xZwIZ5M"

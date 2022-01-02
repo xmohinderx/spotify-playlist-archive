@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
   "name": "mosaic",
-  "num_followers": 131861,
+  "num_followers": 131925,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDQxOCwwMDAwMDAwMDU2NGI0ZTA1YjgyMDkyYzk5NDc2MDhlNjdjNTkyZjk3",
+  "snapshot_id": "MTY0MTEwODczNSwwMDAwMDAwMGFjNDZkNWNjYWZlZDNiMGVlZTAzNmFlZjlhY2IwMTUy",
   "tracks": [
     {
       "added_at": "2021-12-16 11:00:00",
@@ -119,22 +119,18 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
+        "name": "Moroccan Sahara",
+        "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
       },
       "artists": [
         {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "K\u00e1llay Saunders",
-          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
+          "name": "Palmtherapy by DrNR",
+          "url": "https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho"
         }
       ],
-      "duration_ms": 201125,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
+      "duration_ms": 185208,
+      "name": "Moroccan Sahara",
+      "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -163,18 +159,22 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "La rose \u00e9ternelle",
-        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
+        "name": "Le Beirut",
+        "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s"
         }
       ],
-      "duration_ms": 270015,
-      "name": "La rose \u00e9ternelle",
-      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
+      "duration_ms": 431520,
+      "name": "Le Beirut",
+      "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
+        "name": "Mindreader",
+        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
+        }
+      ],
+      "duration_ms": 172850,
+      "name": "Mindreader",
+      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
         "name": "Nu Vreau",
         "url": "https://open.spotify.com/album/0ee7ZElrlFTTPATQV9OUJZ"
       },
@@ -223,130 +239,114 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Le Beirut",
-        "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0QbS1GUJgoVoM21wlHDIs9"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         },
         {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/4rcc50B4lBpvHrylYxv62s"
+          "name": "K\u00e1llay Saunders",
+          "url": "https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj"
         }
       ],
-      "duration_ms": 431520,
-      "name": "Le Beirut",
-      "url": "https://open.spotify.com/track/7dpKMbwkvZUV9JKFpjaxp0"
+      "duration_ms": 201125,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/0oe5TCBBSszAglzUynjiUy"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Mindreader",
-        "url": "https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM"
+        "name": "Fiddle",
+        "url": "https://open.spotify.com/album/14DBwliJswNdRZvNfJBcUg"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI"
-        }
-      ],
-      "duration_ms": 172850,
-      "name": "Mindreader",
-      "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Il mattino",
-        "url": "https://open.spotify.com/album/0neoRDp75zHq73Q6TWKzPq"
-      },
-      "artists": [
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 331206,
-      "name": "Il mattino",
-      "url": "https://open.spotify.com/track/33u7IkzvaIVBLkGqLcpWpw"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Moroccan Sahara",
-        "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
-      },
-      "artists": [
-        {
-          "name": "Palmtherapy by DrNR",
-          "url": "https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Moroccan Sahara",
-      "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "all the things i got",
-        "url": "https://open.spotify.com/album/5aoS1dovoz26u81WOSE3nz"
-      },
-      "artists": [
-        {
-          "name": "Faruk Orakci",
-          "url": "https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe"
+          "name": "Enes Yaman",
+          "url": "https://open.spotify.com/artist/14ztES2AtAE1TlnPhBXtB2"
         },
         {
-          "name": "Ceren Toks\u00f6z",
-          "url": "https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT"
+          "name": "Berkay Cavus",
+          "url": "https://open.spotify.com/artist/3YP66RAgFxRT9cE5MbBZBz"
         }
       ],
-      "duration_ms": 145210,
-      "name": "all the things i got",
-      "url": "https://open.spotify.com/track/6v23NC6jtRJaAZJehAfxoZ"
+      "duration_ms": 224727,
+      "name": "Fiddle",
+      "url": "https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/2Rgx4AxMc5y3N42etoSOF5"
+        "name": "La rose \u00e9ternelle",
+        "url": "https://open.spotify.com/album/0fwLAyLc6trrhaDY73QGJc"
       },
       "artists": [
         {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/26KQ4SMgPG82GEkobL1DjT"
+      "duration_ms": 270015,
+      "name": "La rose \u00e9ternelle",
+      "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Love of You (The Violin Song)",
-        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
       },
       "artists": [
         {
-          "name": "Embody",
-          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
         },
         {
-          "name": "Brianna",
-          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
         }
       ],
-      "duration_ms": 160575,
-      "name": "Love of You (The Violin Song)",
-      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "Dj Iljano",
+          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -371,66 +371,6 @@
       "duration_ms": 158677,
       "name": "Overdose - Sait Esmeray Remix",
       "url": "https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
-      },
-      "artists": [
-        {
-          "name": "Nick Saley",
-          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
-        },
-        {
-          "name": "Dj Pantelis",
-          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
-        }
-      ],
-      "duration_ms": 334889,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "La Blanche",
-        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
-      },
-      "artists": [
-        {
-          "name": "TEHRACH",
-          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "La Blanche",
-      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -467,194 +407,38 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Fiddle",
-        "url": "https://open.spotify.com/album/14DBwliJswNdRZvNfJBcUg"
+        "name": "Il mattino",
+        "url": "https://open.spotify.com/album/0neoRDp75zHq73Q6TWKzPq"
       },
       "artists": [
         {
-          "name": "Enes Yaman",
-          "url": "https://open.spotify.com/artist/14ztES2AtAE1TlnPhBXtB2"
-        },
-        {
-          "name": "Berkay Cavus",
-          "url": "https://open.spotify.com/artist/3YP66RAgFxRT9cE5MbBZBz"
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         }
       ],
-      "duration_ms": 224727,
-      "name": "Fiddle",
-      "url": "https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB"
+      "duration_ms": 331206,
+      "name": "Il mattino",
+      "url": "https://open.spotify.com/track/33u7IkzvaIVBLkGqLcpWpw"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0Rjpw1MhWfGh1K9lyqakjY"
+        "name": "Love of You (The Violin Song)",
+        "url": "https://open.spotify.com/album/5enimcWdUNJu7ijU0MSHaW"
       },
       "artists": [
         {
-          "name": "Frauble",
-          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/79K265g8aRrl98igAjOE0L"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv"
-      },
-      "artists": [
-        {
-          "name": "Parah Dice",
-          "url": "https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o"
+          "name": "Embody",
+          "url": "https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv"
         },
         {
           "name": "Brianna",
           "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
         }
       ],
-      "duration_ms": 169180,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "O.M.M.A",
-        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
-      },
-      "artists": [
-        {
-          "name": "Camil Kanouni",
-          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Oud Love",
-      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Mazrub",
-        "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
-      },
-      "artists": [
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        },
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        }
-      ],
-      "duration_ms": 186184,
-      "name": "Mazrub",
-      "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Painter",
-        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Ocean",
-          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
-        }
-      ],
-      "duration_ms": 203428,
-      "name": "Painter",
-      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "Dj Iljano",
-          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m"
-      },
-      "artists": [
-        {
-          "name": "Bugra Atmaca",
-          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
-        }
-      ],
-      "duration_ms": 169449,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 251324,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Arabian Magic",
-        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Arabian Magic",
-      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
+      "duration_ms": 160575,
+      "name": "Love of You (The Violin Song)",
+      "url": "https://open.spotify.com/track/5WUl5natjFTSqSljddJqqZ"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -679,6 +463,82 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
+        "name": "all the things i got",
+        "url": "https://open.spotify.com/album/5aoS1dovoz26u81WOSE3nz"
+      },
+      "artists": [
+        {
+          "name": "Faruk Orakci",
+          "url": "https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe"
+        },
+        {
+          "name": "Ceren Toks\u00f6z",
+          "url": "https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT"
+        }
+      ],
+      "duration_ms": 145210,
+      "name": "all the things i got",
+      "url": "https://open.spotify.com/track/6v23NC6jtRJaAZJehAfxoZ"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "La Blanche",
+        "url": "https://open.spotify.com/album/1o7CTbxk7JsML7VSot5CsZ"
+      },
+      "artists": [
+        {
+          "name": "TEHRACH",
+          "url": "https://open.spotify.com/artist/4z1dBAzVb8mw98OT94dYZt"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "La Blanche",
+      "url": "https://open.spotify.com/track/3z98DNxcPp0EcNwi44oxYN"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/2Rgx4AxMc5y3N42etoSOF5"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/26KQ4SMgPG82GEkobL1DjT"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0Rjpw1MhWfGh1K9lyqakjY"
+      },
+      "artists": [
+        {
+          "name": "Frauble",
+          "url": "https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/79K265g8aRrl98igAjOE0L"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
         "name": "Nouaassi",
         "url": "https://open.spotify.com/album/7GhqHCBdmicl5e6xw5pgWm"
       },
@@ -695,6 +555,142 @@
       "duration_ms": 328000,
       "name": "Nouaassi",
       "url": "https://open.spotify.com/track/73hp1lkSkYR674gCyB10m6"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/3hjgx4cloyYAA6fW7UsLcA"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 251324,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/41oLuetwousQIfBOxYVxcL"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Ramla",
+        "url": "https://open.spotify.com/album/63Hvj5DivROjnPWxaCYVik"
+      },
+      "artists": [
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 394862,
+      "name": "Ramla",
+      "url": "https://open.spotify.com/track/0aPtCFb0E1ZKGzE1bMuvV0"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Fade Away (feat. Rhi'N'B)",
+        "url": "https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT"
+      },
+      "artists": [
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Rhi'N'B",
+          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Fade Away (feat. Rhi'N'B)",
+      "url": "https://open.spotify.com/track/4aZ9uL2VqIyRHansZ87JaZ"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "One Soul",
+        "url": "https://open.spotify.com/album/00vxM8qbchIRJZzSEiP3Id"
+      },
+      "artists": [
+        {
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+        },
+        {
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
+        },
+        {
+          "name": "Nikos Giouletzis",
+          "url": "https://open.spotify.com/artist/0SPLdwEwKSVDbsOhGzPSwc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "One Soul",
+      "url": "https://open.spotify.com/track/2UpdWyiHg8gDDPTDKh8k4P"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/0YMBhvo8rwRFmiIzBEDj6m"
+      },
+      "artists": [
+        {
+          "name": "Bugra Atmaca",
+          "url": "https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23"
+        }
+      ],
+      "duration_ms": 169449,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
+        }
+      ],
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
+      },
+      "artists": [
+        {
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Amelie Martinez",
+          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+        }
+      ],
+      "duration_ms": 200950,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -735,26 +731,18 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Fade Away (feat. Rhi'N'B)",
-        "url": "https://open.spotify.com/album/7zxTlymJ9by0TvT4adXHrT"
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
       "artists": [
         {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        },
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Rhi'N'B",
-          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Fade Away (feat. Rhi'N'B)",
-      "url": "https://open.spotify.com/track/4aZ9uL2VqIyRHansZ87JaZ"
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -775,118 +763,38 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
+        "name": "Sahara",
+        "url": "https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7"
       },
       "artists": [
         {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+          "name": "SLH",
+          "url": "https://open.spotify.com/artist/6yLqIVQgDKG5uQ454fPsj0"
         },
         {
-          "name": "Amelie Martinez",
-          "url": "https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1"
+          "name": "F.I.D.",
+          "url": "https://open.spotify.com/artist/6MlNFQkUS24vx0YMH20JW0"
         }
       ],
-      "duration_ms": 200950,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+      "duration_ms": 331562,
+      "name": "Sahara",
+      "url": "https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "3 to 1",
-        "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
-      },
-      "artists": [
-        {
-          "name": "Monoir",
-          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
-        },
-        {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
-        }
-      ],
-      "duration_ms": 219508,
-      "name": "3 to 1",
-      "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
+        "name": "Arabian Magic",
+        "url": "https://open.spotify.com/album/5yqEQGVO0qNA0N5y2CBjQX"
       },
       "artists": [
         {
           "name": "Recham",
           "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
         }
       ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Ederlezi (feat. Dikanda)",
-        "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
-        },
-        {
-          "name": "Dikanda",
-          "url": "https://open.spotify.com/artist/5IgWYAqgf7ZJAqzCHDFOvQ"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Ederlezi (feat. Dikanda)",
-      "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+      "duration_ms": 188000,
+      "name": "Arabian Magic",
+      "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -915,6 +823,86 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
+        "name": "Ederlezi (feat. Dikanda)",
+        "url": "https://open.spotify.com/album/6eZg4TQ6bB2P6kv7EYssNG"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+        },
+        {
+          "name": "Dikanda",
+          "url": "https://open.spotify.com/artist/5IgWYAqgf7ZJAqzCHDFOvQ"
+        }
+      ],
+      "duration_ms": 244878,
+      "name": "Ederlezi (feat. Dikanda)",
+      "url": "https://open.spotify.com/track/1LdmFlLhYJiW7BlE7PzGfR"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "3 to 1",
+        "url": "https://open.spotify.com/album/0UNDxZCKgUOIYajZVsS6Of"
+      },
+      "artists": [
+        {
+          "name": "Monoir",
+          "url": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 219508,
+      "name": "3 to 1",
+      "url": "https://open.spotify.com/track/1Rt3XQp1trBEFNLOsheKfu"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Painter",
+        "url": "https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Ocean",
+          "url": "https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn"
+        }
+      ],
+      "duration_ms": 203428,
+      "name": "Painter",
+      "url": "https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Mazrub",
+        "url": "https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi"
+      },
+      "artists": [
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        },
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        }
+      ],
+      "duration_ms": 186184,
+      "name": "Mazrub",
+      "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
         "name": "Bali",
         "url": "https://open.spotify.com/album/0MPF0EVygO60VuV99r3p68"
       },
@@ -927,6 +915,114 @@
       "duration_ms": 344464,
       "name": "Delina",
       "url": "https://open.spotify.com/track/7eJCU0qd9dvFVneR46G1os"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
+      },
+      "artists": [
+        {
+          "name": "Nick Saley",
+          "url": "https://open.spotify.com/artist/0ongbiSDrQIMLe8ubdYgez"
+        },
+        {
+          "name": "Dj Pantelis",
+          "url": "https://open.spotify.com/artist/7nuSTNTAcDVJULc1be6vAZ"
+        }
+      ],
+      "duration_ms": 334889,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/6eFZWWLSszx4wgmlZmRGA7"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/24kHYMHVm3cFlvNS1ru9Qv"
+      },
+      "artists": [
+        {
+          "name": "Parah Dice",
+          "url": "https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o"
+        },
+        {
+          "name": "Brianna",
+          "url": "https://open.spotify.com/artist/3q1xAVcUquRc7oCZYLLIvZ"
+        }
+      ],
+      "duration_ms": 169180,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0cD9Wkmru9qmxuTAVq8CCM"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Oh Lor My Love",
+        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 180983,
+      "name": "Oh Lor My Love",
+      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "O.M.M.A",
+        "url": "https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe"
+      },
+      "artists": [
+        {
+          "name": "Camil Kanouni",
+          "url": "https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Oud Love",
+      "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Isla Bonita",
+        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "MD DJ",
+          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Isla Bonita - Radio Edit",
+      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Stair at the light",
+        "url": "https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ"
+      },
+      "artists": [
+        {
+          "name": "Djamil",
+          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
+        }
+      ],
+      "duration_ms": 182222,
+      "name": "Stair at the light",
+      "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -955,66 +1051,6 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Ramla",
-        "url": "https://open.spotify.com/album/63Hvj5DivROjnPWxaCYVik"
-      },
-      "artists": [
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 394862,
-      "name": "Ramla",
-      "url": "https://open.spotify.com/track/0aPtCFb0E1ZKGzE1bMuvV0"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Play the Game",
-        "url": "https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w"
-      },
-      "artists": [
-        {
-          "name": "ReMan",
-          "url": "https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR"
-        },
-        {
-          "name": "Deepest",
-          "url": "https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz"
-        },
-        {
-          "name": "AMHouse",
-          "url": "https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa"
-        }
-      ],
-      "duration_ms": 142303,
-      "name": "Play the Game",
-      "url": "https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        },
-        {
-          "name": "DJ Ego",
-          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
-        }
-      ],
-      "duration_ms": 377704,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
         "name": "Babel",
         "url": "https://open.spotify.com/album/2QHtq53qPyOo0fawuJcMns"
       },
@@ -1031,122 +1067,22 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "One Soul",
-        "url": "https://open.spotify.com/album/00vxM8qbchIRJZzSEiP3Id"
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2OqAZG09xs8wbGFP2qzxf8"
       },
       "artists": [
         {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
         },
         {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
-        },
-        {
-          "name": "Nikos Giouletzis",
-          "url": "https://open.spotify.com/artist/0SPLdwEwKSVDbsOhGzPSwc"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 236000,
-      "name": "One Soul",
-      "url": "https://open.spotify.com/track/2UpdWyiHg8gDDPTDKh8k4P"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Isla Bonita",
-        "url": "https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "MD DJ",
-          "url": "https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Isla Bonita - Radio Edit",
-      "url": "https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Che Danestam (Seventh Soul Remix)",
-        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
-      },
-      "artists": [
-        {
-          "name": "Homayoun Shajarian",
-          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
-        },
-        {
-          "name": "Seventh Soul",
-          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
-        }
-      ],
-      "duration_ms": 506666,
-      "name": "Che Danestam - Seventh Soul Remix",
-      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Sahara",
-        "url": "https://open.spotify.com/album/0WmME87pq6EEJUOQJ2R9b7"
-      },
-      "artists": [
-        {
-          "name": "SLH",
-          "url": "https://open.spotify.com/artist/6yLqIVQgDKG5uQ454fPsj0"
-        },
-        {
-          "name": "F.I.D.",
-          "url": "https://open.spotify.com/artist/6MlNFQkUS24vx0YMH20JW0"
-        }
-      ],
-      "duration_ms": 331562,
-      "name": "Sahara",
-      "url": "https://open.spotify.com/track/0Rxy7OTbF4qa7zaVrk2b8l"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Stair at the light",
-        "url": "https://open.spotify.com/album/6km2pCJjykmNZ5abb6mYaZ"
-      },
-      "artists": [
-        {
-          "name": "Djamil",
-          "url": "https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "Stair at the light",
-      "url": "https://open.spotify.com/track/6cyCzerNE7diDCxQeaFltj"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Oud Trip",
-        "url": "https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        },
-        {
-          "name": "DJ A Ego",
-          "url": "https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9"
-        }
-      ],
-      "duration_ms": 272901,
-      "name": "Oud Trip",
-      "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
+      "duration_ms": 194198,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/4I7lwnnrm9EqsUsP77YNEW"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1187,22 +1123,6 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/1jl0dMITPG9dJx4KBsMbD9"
-      },
-      "artists": [
-        {
-          "name": "IV-IN",
-          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
-        }
-      ],
-      "duration_ms": 262641,
-      "name": "Vestido Preto",
-      "url": "https://open.spotify.com/track/6xbeN3grl6kAKBSvgIOxOT"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
         "name": "Give It To Me (feat. Ezgi Kosa) [Remixes]",
         "url": "https://open.spotify.com/album/6Lk1ovuSfjEx28Bf6K8GLW"
       },
@@ -1231,62 +1151,42 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Hey Hey",
-        "url": "https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM"
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
       },
       "artists": [
         {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
         },
         {
-          "name": "DIESE",
-          "url": "https://open.spotify.com/artist/75nmfDZti5vB2i3dUEc0KG"
+          "name": "DJ Ego",
+          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
         }
       ],
-      "duration_ms": 248095,
-      "name": "Hey Hey",
-      "url": "https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB"
+      "duration_ms": 377704,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Jasmine",
-        "url": "https://open.spotify.com/album/2OqAZG09xs8wbGFP2qzxf8"
+        "name": "My Useless Life",
+        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
       },
       "artists": [
         {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+          "name": "millforlife",
+          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
         },
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Odarka",
+          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/4I7lwnnrm9EqsUsP77YNEW"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Sophonisbe",
-        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        },
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        }
-      ],
-      "duration_ms": 396428,
-      "name": "Sophonisbe - Sahale Remix",
-      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+      "duration_ms": 141779,
+      "name": "My Useless Life",
+      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1315,6 +1215,82 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/1jl0dMITPG9dJx4KBsMbD9"
+      },
+      "artists": [
+        {
+          "name": "IV-IN",
+          "url": "https://open.spotify.com/artist/1ZJ9FL0P4XtTwiP79VTLCD"
+        }
+      ],
+      "duration_ms": 262641,
+      "name": "Vestido Preto",
+      "url": "https://open.spotify.com/track/6xbeN3grl6kAKBSvgIOxOT"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Play the Game",
+        "url": "https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w"
+      },
+      "artists": [
+        {
+          "name": "ReMan",
+          "url": "https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR"
+        },
+        {
+          "name": "Deepest",
+          "url": "https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz"
+        },
+        {
+          "name": "AMHouse",
+          "url": "https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa"
+        }
+      ],
+      "duration_ms": 142303,
+      "name": "Play the Game",
+      "url": "https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Hey Hey",
+        "url": "https://open.spotify.com/album/5I5AAajOGNZA9za66DpimM"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        },
+        {
+          "name": "DIESE",
+          "url": "https://open.spotify.com/artist/75nmfDZti5vB2i3dUEc0KG"
+        }
+      ],
+      "duration_ms": 248095,
+      "name": "Hey Hey",
+      "url": "https://open.spotify.com/track/2FROUQIblxhRtNa5OBPMLB"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Helwa Belady El Samra (Kharma Remix)",
+        "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 176350,
+      "name": "Helwa Belady El Samra (Kharma Remix)",
+      "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
         "name": "Lala",
         "url": "https://open.spotify.com/album/6k4FU5NkKbVg64krIS9fjC"
       },
@@ -1327,6 +1303,138 @@
       "duration_ms": 394280,
       "name": "Lala",
       "url": "https://open.spotify.com/track/4e8eGYuknZV22JYoOCV2MY"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "OUD",
+        "url": "https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo"
+      },
+      "artists": [
+        {
+          "name": "FNX OMAR",
+          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+        }
+      ],
+      "duration_ms": 435187,
+      "name": "OUD",
+      "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Oud Trip",
+        "url": "https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        },
+        {
+          "name": "DJ A Ego",
+          "url": "https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9"
+        }
+      ],
+      "duration_ms": 272901,
+      "name": "Oud Trip",
+      "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Amare",
+        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 410526,
+      "name": "Euphrates",
+      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Prophecies of the Ancient Future",
+        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+      },
+      "artists": [
+        {
+          "name": "Lemurian",
+          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
+        },
+        {
+          "name": "Bora Uzer",
+          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+        }
+      ],
+      "duration_ms": 320045,
+      "name": "Sensiz",
+      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Mawjou3 Galbi",
+        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
+      },
+      "artists": [
+        {
+          "name": "D33pSoul",
+          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
+        },
+        {
+          "name": "Najwa Farouk",
+          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
+        }
+      ],
+      "duration_ms": 198200,
+      "name": "Mawjou3 Galbi",
+      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Sophonisbe",
+        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
+      },
+      "artists": [
+        {
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        },
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        }
+      ],
+      "duration_ms": 396428,
+      "name": "Sophonisbe - Sahale Remix",
+      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1363,198 +1471,54 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Mosa\u00efque",
-        "url": "https://open.spotify.com/album/4K9y6tfn2SgAwqcy7bf2wb"
+        "name": "Che Danestam (Seventh Soul Remix)",
+        "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
       "artists": [
         {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+          "name": "Homayoun Shajarian",
+          "url": "https://open.spotify.com/artist/5Uj3HYkiz1cn32IPHMqhOy"
+        },
+        {
+          "name": "Seventh Soul",
+          "url": "https://open.spotify.com/artist/7JfGGDKGTmy0JyjawXv0F6"
         }
       ],
-      "duration_ms": 221962,
-      "name": "Mosa\u00efque",
-      "url": "https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ"
+      "duration_ms": 506666,
+      "name": "Che Danestam - Seventh Soul Remix",
+      "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Oriental Touch 2",
-        "url": "https://open.spotify.com/album/4YPYXHxyV2J5ow1GDztdO8"
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
       },
       "artists": [
         {
-          "name": "Mozkai",
-          "url": "https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1"
+          "name": "H.A.Z.E",
+          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
         }
       ],
-      "duration_ms": 377156,
-      "name": "Sophia",
-      "url": "https://open.spotify.com/track/1cNpthOJnJS9fx79Q6ulIz"
+      "duration_ms": 208695,
+      "name": "Letting Go - Radio Edit",
+      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/6ZTmos63cMAEdHeZzpPTJv"
+        "name": "Delichones",
+        "url": "https://open.spotify.com/album/7JDEXzgMecy0ut0xXIIcks"
       },
       "artists": [
         {
-          "name": "G\u00f6rkem Sala",
-          "url": "https://open.spotify.com/artist/7dsJIPuXciM0pz4G7CA3ZC"
-        },
-        {
-          "name": "Solven",
-          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
-        },
-        {
-          "name": "3RIN",
-          "url": "https://open.spotify.com/artist/0EHDpt81aRXnBCL5KJbXjU"
+          "name": "Anatolian Sessions",
+          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
         }
       ],
-      "duration_ms": 152380,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/1drJPCR41J9gdpln5VxdIa"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "My Useless Life",
-        "url": "https://open.spotify.com/album/4C5Dq5Vagx9VoXmsGnBVpc"
-      },
-      "artists": [
-        {
-          "name": "millforlife",
-          "url": "https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36"
-        },
-        {
-          "name": "Odarka",
-          "url": "https://open.spotify.com/artist/1TOsnvoQJm6iZwIdEbH3gs"
-        }
-      ],
-      "duration_ms": 141779,
-      "name": "My Useless Life",
-      "url": "https://open.spotify.com/track/1J7uqXKTytSifeP2ouKtIm"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Helwa Belady El Samra (Kharma Remix)",
-        "url": "https://open.spotify.com/album/6E1OsQm0cdga4YR0LH5cv7"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 176350,
-      "name": "Helwa Belady El Samra (Kharma Remix)",
-      "url": "https://open.spotify.com/track/5usGKrykRENg5c3DAOEEIN"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Voyage",
-        "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
-      },
-      "artists": [
-        {
-          "name": "Houssem Amari",
-          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
-        },
-        {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Voyage",
-      "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Clandestina (feat. Emma Peters) [Cocaina Remix]",
-        "url": "https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82"
-      },
-      "artists": [
-        {
-          "name": "FILV",
-          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
-        },
-        {
-          "name": "Edmofo",
-          "url": "https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ"
-        },
-        {
-          "name": "Emma Peters",
-          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
-        }
-      ],
-      "duration_ms": 150106,
-      "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
-      "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Mawjou3 Galbi",
-        "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
-      },
-      "artists": [
-        {
-          "name": "D33pSoul",
-          "url": "https://open.spotify.com/artist/2HZLJwBLZN8etpz2ZvHqlL"
-        },
-        {
-          "name": "Najwa Farouk",
-          "url": "https://open.spotify.com/artist/0nGyyjulhM4IB5kNqyKvGq"
-        }
-      ],
-      "duration_ms": 198200,
-      "name": "Mawjou3 Galbi",
-      "url": "https://open.spotify.com/track/6TG4s4lyrLJ8OpaGbgfqGl"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/23NVYYNs4HxDHfc0zKm4tX"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/2s61JUSrJVjtkZKxFSBsdH"
+      "duration_ms": 405538,
+      "name": "Delichones",
+      "url": "https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1579,54 +1543,18 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Lamouni",
-        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
+        "name": "Oriental Touch 2",
+        "url": "https://open.spotify.com/album/4YPYXHxyV2J5ow1GDztdO8"
       },
       "artists": [
         {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        },
-        {
-          "name": "CHAAMA",
-          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+          "name": "Mozkai",
+          "url": "https://open.spotify.com/artist/7rWNHtHH7p8ymnKcXL35r1"
         }
       ],
-      "duration_ms": 217647,
-      "name": "Lamouni",
-      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Amare",
-        "url": "https://open.spotify.com/album/7ELZffIkSkgSeSZwXfuh4K"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 410526,
-      "name": "Euphrates",
-      "url": "https://open.spotify.com/track/2clyVcUj199ccetJU2Bkej"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Route 55",
-        "url": "https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR"
-      },
-      "artists": [
-        {
-          "name": "Mr Oasis",
-          "url": "https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Route 55",
-      "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
+      "duration_ms": 377156,
+      "name": "Sophia",
+      "url": "https://open.spotify.com/track/1cNpthOJnJS9fx79Q6ulIz"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1655,70 +1583,138 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/1mABpSoBrD4rFpeQhdNSwc"
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
       },
       "artists": [
         {
-          "name": "Rodge",
-          "url": "https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG"
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
         },
         {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+          "name": "Murat Salman",
+          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/37bW0E4kxB3Ex5K4NwgnUY"
+      "duration_ms": 179512,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Belly Dance",
-        "url": "https://open.spotify.com/album/2wpmlA6VViXp4INJpIlIp8"
+        "name": "Lamouni",
+        "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
       "artists": [
         {
-          "name": "Game Chasers",
-          "url": "https://open.spotify.com/artist/0Zg9ME7KSNIjdMSRspxWCS"
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
         }
       ],
-      "duration_ms": 194754,
-      "name": "Belly Dance",
-      "url": "https://open.spotify.com/track/7cYuWkbHyld3zWV9jx5vTQ"
+      "duration_ms": 217647,
+      "name": "Lamouni",
+      "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/1IKDDxUoTJsEkqkHV6VvM4"
+        "name": "Mosa\u00efque",
+        "url": "https://open.spotify.com/album/4K9y6tfn2SgAwqcy7bf2wb"
       },
       "artists": [
         {
-          "name": "H.A.Z.E",
-          "url": "https://open.spotify.com/artist/3fNIlM0jHaoyX2V05nYTgh"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
         }
       ],
-      "duration_ms": 208695,
-      "name": "Letting Go - Radio Edit",
-      "url": "https://open.spotify.com/track/13ZVXJtXmCBZa41ikye5Lt"
+      "duration_ms": 221962,
+      "name": "Mosa\u00efque",
+      "url": "https://open.spotify.com/track/175YJCAiO0KSP05eI9XINZ"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "OUD",
-        "url": "https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo"
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/3GG4N6FNRVPajfse66Jsad"
       },
       "artists": [
         {
-          "name": "FNX OMAR",
-          "url": "https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW"
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
         }
       ],
-      "duration_ms": 435187,
-      "name": "OUD",
-      "url": "https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl"
+      "duration_ms": 147096,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/4ERRd1FhG9gqUa99H97ijX"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Clandestina (feat. Emma Peters) [Cocaina Remix]",
+        "url": "https://open.spotify.com/album/06IeiiR0ZXsBmrBxJ35t82"
+      },
+      "artists": [
+        {
+          "name": "FILV",
+          "url": "https://open.spotify.com/artist/438DEJaM9KJdqbBUPnVYB0"
+        },
+        {
+          "name": "Edmofo",
+          "url": "https://open.spotify.com/artist/0YFbuIzBUfAK1FqcEvxnqQ"
+        },
+        {
+          "name": "Emma Peters",
+          "url": "https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5"
+        }
+      ],
+      "duration_ms": 150106,
+      "name": "Clandestina (feat. Emma Peters) - Cocaina Remix",
+      "url": "https://open.spotify.com/track/5x5jtuR4qWJzC6cDTgysez"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/23NVYYNs4HxDHfc0zKm4tX"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/2s61JUSrJVjtkZKxFSBsdH"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
+      },
+      "artists": [
+        {
+          "name": "Houssem Amari",
+          "url": "https://open.spotify.com/artist/0nVvRWWnt2xwqy290TfVAd"
+        },
+        {
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/3XSQpsj22eFhBehwDvR2kF"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1743,42 +1739,42 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/57Z941SVyGkJaGrtgho0wd"
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/6ZTmos63cMAEdHeZzpPTJv"
       },
       "artists": [
         {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+          "name": "G\u00f6rkem Sala",
+          "url": "https://open.spotify.com/artist/7dsJIPuXciM0pz4G7CA3ZC"
         },
         {
-          "name": "Javid",
-          "url": "https://open.spotify.com/artist/3ZhJ3em1R16L20pHNA0P4M"
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        },
+        {
+          "name": "3RIN",
+          "url": "https://open.spotify.com/artist/0EHDpt81aRXnBCL5KJbXjU"
         }
       ],
-      "duration_ms": 551025,
-      "name": "Ala Moj Al Bahr (JAVID Remix)",
-      "url": "https://open.spotify.com/track/5DHrTSqpv4g6AJoHlE3oiw"
+      "duration_ms": 152380,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/1drJPCR41J9gdpln5VxdIa"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Prophecies of the Ancient Future",
-        "url": "https://open.spotify.com/album/1KQT7GzCu1bnpRnTPyMvbH"
+        "name": "Samra",
+        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
       },
       "artists": [
         {
-          "name": "Lemurian",
-          "url": "https://open.spotify.com/artist/4L3uym0nDz6ziBGFOmUCDu"
-        },
-        {
-          "name": "Bora Uzer",
-          "url": "https://open.spotify.com/artist/71WhzQzCSYszOnrfCEbZge"
+          "name": "Mostafa Akmal",
+          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
         }
       ],
-      "duration_ms": 320045,
-      "name": "Sensiz",
-      "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+      "duration_ms": 283659,
+      "name": "Samra",
+      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1803,54 +1799,54 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/12uSZ3ULhwSOonJm0I0FMO"
+        "name": "Route 55",
+        "url": "https://open.spotify.com/album/1iXUuIQpSnzUZcSUGRvjgR"
       },
       "artists": [
         {
-          "name": "Pad\u00e9",
-          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+          "name": "Mr Oasis",
+          "url": "https://open.spotify.com/artist/3arKqyvmf9PeoHKISoOUex"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Route 55",
+      "url": "https://open.spotify.com/track/2EzwcoyoFof9Vp2IOAajrp"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "One Night in Dubai",
+        "url": "https://open.spotify.com/album/6zTsRObldbTAyLZNxT9TxO"
+      },
+      "artists": [
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
         },
         {
-          "name": "Murat Salman",
-          "url": "https://open.spotify.com/artist/1eqldZfko4SRQltdC2GbTn"
+          "name": "Helena",
+          "url": "https://open.spotify.com/artist/7JkJKtwP9pkix2AxUJmXjS"
         }
       ],
-      "duration_ms": 179512,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/4POX8H7xtAnD3MJM1fY9i8"
+      "duration_ms": 160051,
+      "name": "One Night in Dubai",
+      "url": "https://open.spotify.com/track/0AmwmAEOgm11kXiaL9jHOZ"
     },
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/3fWzFPiEAXLSIlCgqNs1wS"
+        "name": "Dle Yaman (116 Deep Mix)",
+        "url": "https://open.spotify.com/album/0ZVGtpSt8qU5zDGWm2A7Mj"
       },
       "artists": [
         {
-          "name": "Iarina",
-          "url": "https://open.spotify.com/artist/0qCN2evCqb8R0GBCuCwlr7"
+          "name": "Hraach",
+          "url": "https://open.spotify.com/artist/6rdTxNwQhUJTodUx7voWXO"
         }
       ],
-      "duration_ms": 159864,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3unxpgWFIPcYAgr9Jmhz9p"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
-        "name": "Delichones",
-        "url": "https://open.spotify.com/album/7JDEXzgMecy0ut0xXIIcks"
-      },
-      "artists": [
-        {
-          "name": "Anatolian Sessions",
-          "url": "https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK"
-        }
-      ],
-      "duration_ms": 405538,
-      "name": "Delichones",
-      "url": "https://open.spotify.com/track/6qiwOC5TeKXK4pDonIZxgR"
+      "duration_ms": 438674,
+      "name": "Dle Yaman (116 Deep Mix)",
+      "url": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
     },
     {
       "added_at": "2021-12-16 11:00:00",
@@ -1875,22 +1871,6 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Samra",
-        "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
-      },
-      "artists": [
-        {
-          "name": "Mostafa Akmal",
-          "url": "https://open.spotify.com/artist/5qOuYfYtZ7v7mGbQteuRT3"
-        }
-      ],
-      "duration_ms": 283659,
-      "name": "Samra",
-      "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
-    },
-    {
-      "added_at": "2021-12-16 11:00:00",
-      "album": {
         "name": "Journey (Mahmut Orhan Remix)",
         "url": "https://open.spotify.com/album/3W4y2VylACtq2E0ZFxwHd6"
       },
@@ -1911,22 +1891,34 @@
     {
       "added_at": "2021-12-16 11:00:00",
       "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/60BkiwqufLrelLEbCueKG5"
+        "name": "Chameleon",
+        "url": "https://open.spotify.com/album/3XLeoHmYQrRxRqZJTsKvlU"
       },
       "artists": [
         {
-          "name": "Mert Kurt",
-          "url": "https://open.spotify.com/artist/4RT6cDwglyYnmCDaxX2LHL"
-        },
-        {
-          "name": "Bar\u0131\u015f \u00c7ak\u0131r",
-          "url": "https://open.spotify.com/artist/4UXic6o2WzSQJwgMzAP32J"
+          "name": "Sandra N.",
+          "url": "https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L"
         }
       ],
-      "duration_ms": 170228,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/0jqczwiW0nZS9nbHcP53zH"
+      "duration_ms": 186017,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/3DWxynxt6kx2OAzAzLUgjZ"
+    },
+    {
+      "added_at": "2021-12-16 11:00:00",
+      "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd9vfK9DV3I6"

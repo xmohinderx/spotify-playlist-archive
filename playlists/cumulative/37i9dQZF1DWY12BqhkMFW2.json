@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
   "name": "Soul Revived",
+  "published_playlist_ids": [
+    "0eLui4qtyf4eA1MgRpDFE4"
+  ],
   "tracks": [
     {
       "album": {
@@ -132,7 +135,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 382333,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/5ZbY8J67Qsv6Kko2tZOf5Z"
@@ -266,7 +269,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 390426,
       "name": "I Love You More Than You'll Ever Know",
       "url": "https://open.spotify.com/track/5JEju6tjLsd0qbiWfGxAky"
@@ -494,7 +497,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 201266,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/5UzPW8HC6slxstdRbV3Kcp"
@@ -826,7 +829,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221969,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi"

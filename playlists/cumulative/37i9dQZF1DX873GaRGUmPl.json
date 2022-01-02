@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "The best alternative songs of the decade so far. Cover: HAIM",
   "name": "Alternative 10s",
+  "published_playlist_ids": [
+    "2Ui9272wdN8QbSdg7t8gMR"
+  ],
   "tracks": [
     {
       "album": {
@@ -34,7 +37,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
@@ -160,7 +163,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237354,
       "name": "Before Sunrise",
       "url": "https://open.spotify.com/track/6POhPsV2jFJCzZMubANwNB"
@@ -398,7 +401,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239508,
       "name": "Death with Dignity",
       "url": "https://open.spotify.com/track/4fpEuKIzTLmMJnYwFU0oqr"
@@ -434,7 +437,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 404413,
       "name": "Desire Lines",
       "url": "https://open.spotify.com/track/3jZ0GKAZiDMya0dZPrw8zq"
@@ -452,7 +455,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 252818,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/6dux5viG3Ku3IefPx3gFNT"
@@ -506,7 +509,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF"
@@ -578,7 +581,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 278520,
       "name": "Everything & More",
       "url": "https://open.spotify.com/track/5mVoeGuLmmzZ7dUrgfIWuw"
@@ -672,7 +675,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 308733,
       "name": "Harmony Hall",
       "url": "https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0"
@@ -780,7 +783,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 163292,
       "name": "I Don't Wanna Be Funny Anymore",
       "url": "https://open.spotify.com/track/0kwBATkVUAG7JRMEosNUUs"
@@ -798,7 +801,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 229586,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/3GkIeUXutIw8XnW9ZC3hJ3"
@@ -978,7 +981,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 281406,
       "name": "Life Itself",
       "url": "https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD"
@@ -1050,7 +1053,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 190845,
       "name": "My Kind of Woman",
       "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
@@ -1140,7 +1143,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185893,
       "name": "Octopus",
       "url": "https://open.spotify.com/track/2sSHL10udKLFAWsGwPZjjq"
@@ -1428,7 +1431,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 239010,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5"
@@ -1554,7 +1557,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 251626,
       "name": "Step",
       "url": "https://open.spotify.com/track/78J9MBkAoqfvyeEpQKJDzD"
@@ -1572,7 +1575,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 251061,
       "name": "Stop Thinking (About Me)",
       "url": "https://open.spotify.com/track/22W4eNzgioQ4Tkz8B3v17a"
@@ -1626,7 +1629,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
@@ -1878,7 +1881,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 251466,
       "name": "When We're Dancing",
       "url": "https://open.spotify.com/track/6oaVjaw6KOd6vXPG1S4K7p"
@@ -1914,7 +1917,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/202QyrB6Q3Kimsr7KqJut3"
@@ -2058,7 +2061,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 290720,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/2SNGR7tguWgIR7sWzn40bw"

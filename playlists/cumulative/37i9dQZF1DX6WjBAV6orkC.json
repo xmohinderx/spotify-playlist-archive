@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "The legendary Indian musician's classics.",
   "name": "This Is A.R. Rahman",
+  "published_playlist_ids": [
+    "5tofQ5ATaCIuSFqIIHAHcN"
+  ],
   "tracks": [
     {
       "album": {
@@ -32,7 +35,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 348373,
       "name": "Aalaporaan Thamizhan",
       "url": "https://open.spotify.com/track/1CjXSN6vgWmniOCEycVFdN"
@@ -266,7 +269,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 329503,
       "name": "Endhira Logathu Sundariye",
       "url": "https://open.spotify.com/track/3qyYX5ZvmodvV8w3RVVEw4"

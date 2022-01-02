@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Have a quiet morning with this mix of something familiar and something new.",
   "name": "Mellow Morning",
+  "published_playlist_ids": [
+    "28RD6nYufPNLui4c84uOdv"
+  ],
   "tracks": [
     {
       "album": {
@@ -92,7 +95,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx"
@@ -876,7 +879,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 265589,
       "name": "Little Bird",
       "url": "https://open.spotify.com/track/5tPyzRPQpJszN4KLCPEUHz"
@@ -1078,7 +1081,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -1338,7 +1341,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 163586,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY"
@@ -1504,7 +1507,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227027,
       "name": "Stupid Me",
       "url": "https://open.spotify.com/track/2YlCAofl2PplOmHSZQRTLk"
@@ -1652,7 +1655,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 181875,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/3xeTIOSLaGIw8XaCwNKhec"

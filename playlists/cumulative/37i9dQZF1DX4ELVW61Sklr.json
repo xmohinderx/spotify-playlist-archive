@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "A collection of soul, rnb and gospel flavored takes on the most beloved Christmas songs.",
   "name": "Soulful Christmas",
+  "published_playlist_ids": [
+    "0IHlpNTtsuqIq1gmndTBxa"
+  ],
   "tracks": [
     {
       "album": {
@@ -60,7 +63,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
@@ -114,7 +117,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 251040,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/2BhqB61ZY7vrsE6sQ2W1XE"
@@ -322,7 +325,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 225576,
       "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
       "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
@@ -448,7 +451,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 318533,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
@@ -828,7 +831,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 308640,
       "name": "O Come",
       "url": "https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK"
@@ -1140,7 +1143,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188885,
       "name": "This Christmas - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8"

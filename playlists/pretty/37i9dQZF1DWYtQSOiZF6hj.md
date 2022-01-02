@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtQSOiZF6hj.md) - [plain]
 
 > Great songs for your birthday! Let's celebrate!
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,773 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,780 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

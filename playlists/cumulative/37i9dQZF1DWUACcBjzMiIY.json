@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Easy listening for a pleasant drive.",
   "name": "Mellow Drive",
+  "published_playlist_ids": [
+    "1d47Qc11bpmTvpUoDV1dDf"
+  ],
   "tracks": [
     {
       "album": {
@@ -34,7 +37,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 341800,
       "name": "A New Day Has Come",
       "url": "https://open.spotify.com/track/1Hck0Y3AgGLIvv9pRuq3ti"
@@ -52,7 +55,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
@@ -344,7 +347,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 250053,
       "name": "Beautiful Trauma",
       "url": "https://open.spotify.com/track/1ipE3bBLWeLkIvxWUaxpSu"
@@ -542,7 +545,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242200,
       "name": "Calling All Angels",
       "url": "https://open.spotify.com/track/0E29BKKGCJHcb7b9oIWgGB"
@@ -578,7 +581,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 278373,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/7gpy7sfWPNuOKmUNs3XQYE"
@@ -906,7 +909,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 216480,
       "name": "Empire State of Mind (Part II) Broken Down",
       "url": "https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI"
@@ -978,7 +981,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
@@ -1404,7 +1407,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 300840,
       "name": "I And Love And You",
       "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
@@ -1548,7 +1551,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/1VbhR6D6zUoSTBzvnRonXO"
@@ -2068,7 +2071,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 259120,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
@@ -2140,7 +2143,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 250266,
       "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
       "url": "https://open.spotify.com/track/1ip2IGDWMrUmlaepEbWlL8"
@@ -2494,7 +2497,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 264373,
       "name": "No Air (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/1jUA4rb6ZCv4gby4YU53xq"
@@ -2620,7 +2623,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 206200,
       "name": "Only Want You",
       "url": "https://open.spotify.com/track/2zYFfLULhSgZWCCRVZ5csm"
@@ -2790,7 +2793,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 210580,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
@@ -2844,7 +2847,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238666,
       "name": "Push",
       "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
@@ -3176,7 +3179,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "Sight of the Sun - Single Version",
       "url": "https://open.spotify.com/track/4orHVYvdG5v4G4bmp2Lwdg"
@@ -3486,7 +3489,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 235493,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
@@ -3990,7 +3993,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 177523,
       "name": "watch",
       "url": "https://open.spotify.com/track/44jVYj3TXig7Cf1vkgulnQ"
@@ -4098,7 +4101,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
@@ -4170,7 +4173,7 @@
       ],
       "date_added": "2019-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT"

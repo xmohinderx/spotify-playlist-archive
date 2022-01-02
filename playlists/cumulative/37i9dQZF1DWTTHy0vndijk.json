@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: CHUNG HA(\uccad\ud558) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix",
+  "published_playlist_ids": [
+    "54sOlxCE1pFDWuNfDv9xNV"
+  ],
   "tracks": [
     {
       "album": {
@@ -340,7 +343,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199747,
       "name": "Cameo",
       "url": "https://open.spotify.com/track/7x9AO2pEWZTbKIek7RAecH"
@@ -646,7 +649,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
@@ -664,7 +667,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 208053,
       "name": "Dumhdurum",
       "url": "https://open.spotify.com/track/2ljLbFotsy2hFxAkjpsfbb"
@@ -880,7 +883,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 186895,
       "name": "Heart Shaker",
       "url": "https://open.spotify.com/track/6WJWTeZExNu0X42hiegRVs"
@@ -1114,7 +1117,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 195753,
       "name": "KNOCK KNOCK",
       "url": "https://open.spotify.com/track/7kKvrBLjXFPFWtEAjT59CV"
@@ -1240,7 +1243,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222451,
       "name": "Love Bug",
       "url": "https://open.spotify.com/track/5KnXbmxjbmXiuSmMclGOIi"
@@ -1402,7 +1405,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 219386,
       "name": "MOONLIGHT",
       "url": "https://open.spotify.com/track/14k4ALBLN2FjtELYDcQUoi"
@@ -1532,6 +1535,24 @@
       "duration_ms": 223453,
       "name": "No Oh Oh",
       "url": "https://open.spotify.com/track/4XeQFSPMRpru7afNxa01Lr"
+    },
+    {
+      "album": {
+        "name": "APRIL Summer Special Album \u2018Hello Summer\u2019",
+        "url": "https://open.spotify.com/album/3LxHIjDaVAwzkagYX3dShh"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211960,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/1FNZqjmqkJgE5Bn8BAzZGt"
     },
     {
       "album": {
@@ -2090,7 +2111,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 221150,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/0DNTNFa6zMDfjqpQFdcb3q"
@@ -2108,7 +2129,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 158893,
       "name": "Swim Away",
       "url": "https://open.spotify.com/track/0ejKDNqpEx3Dx2umKGk2lD"
@@ -2169,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "Lovelyz 4th Mini Album Heal",
+        "url": "https://open.spotify.com/album/2bEKOTFTxk07CU3O2sk9BX"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207558,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/153Q9DPESoV9PfJXHMnAFH"
+    },
+    {
+      "album": {
         "name": "APRIL 5th Mini Album 'The Blue'",
         "url": "https://open.spotify.com/album/6peri17gXJDs3LQeeD66ju"
       },
@@ -2216,7 +2255,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 179763,
       "name": "Tiki-Taka(99%)",
       "url": "https://open.spotify.com/track/2gLAfzOB7angHctZ0IQAtu"
@@ -2234,7 +2273,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 188527,
       "name": "To Heart",
       "url": "https://open.spotify.com/track/3PIzI4Bl2b7oZloFWTPAna"
@@ -2288,7 +2327,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 223388,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/4k5kdHHIt1D5ZEaBvrPXB9"
@@ -2342,10 +2381,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215666,
       "name": "VIVACE",
       "url": "https://open.spotify.com/track/4t2A9XnGWrIqzKOYKYfPTr"
+    },
+    {
+      "album": {
+        "name": "Lovelyz Digital Single 'Wag-zak'",
+        "url": "https://open.spotify.com/album/1JvjesAVP9BlXCtU0HGrlA"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211156,
+      "name": "Wag-zak",
+      "url": "https://open.spotify.com/track/45UsiRzyeeAm1LlQZi66k2"
     },
     {
       "album": {
@@ -2400,7 +2457,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 182558,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/1Hy0XSHNBojwZhkwCLGXQ1"
@@ -2634,7 +2691,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237685,
       "name": "YES or YES",
       "url": "https://open.spotify.com/track/1S6zXoXhfalX2ETKo337Md"

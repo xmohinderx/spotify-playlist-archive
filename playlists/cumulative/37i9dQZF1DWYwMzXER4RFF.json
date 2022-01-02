@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "New no wave, post-punk, and anything else. Cover: Enola Gay",
   "name": "Post Punk 2k",
+  "published_playlist_ids": [
+    "0Kwx2x0cfXxWAWrkYyuEPR"
+  ],
   "tracks": [
     {
       "album": {
@@ -70,7 +73,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194693,
       "name": "Almost Had to Start a Fight/In and Out of Patience",
       "url": "https://open.spotify.com/track/0QAEc5JBdaZMdxqU3xL64H"
@@ -124,7 +127,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 83326,
       "name": "B Boys Anthem",
       "url": "https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J"
@@ -214,7 +217,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 120268,
       "name": "Book",
       "url": "https://open.spotify.com/track/6lpyYxV1Hd72S4ezzA47fb"
@@ -268,7 +271,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 149666,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/1V4GgaXzuPn4lOWtx33crz"
@@ -340,7 +343,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
@@ -614,7 +617,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 187946,
       "name": "Disco II",
       "url": "https://open.spotify.com/track/1UR9gt52iX05JDI9WsnQLl"
@@ -668,7 +671,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 146978,
       "name": "Don't Cling To Life",
       "url": "https://open.spotify.com/track/0KWnYZSO5GAzCJrgr4oGNr"
@@ -996,7 +999,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 157146,
       "name": "Gotta Do More Gotta Be More",
       "url": "https://open.spotify.com/track/6Ai1aNmJ2hMMcx7QQyNIom"
@@ -1032,7 +1035,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 235400,
       "name": "Head Sport Full Face",
       "url": "https://open.spotify.com/track/5vdG7m9JvJIulc1JoRSQtl"
@@ -1140,7 +1143,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
@@ -1219,6 +1222,24 @@
     },
     {
       "album": {
+        "name": "Invading the World of the Guilty as a Spirit of Vengeance",
+        "url": "https://open.spotify.com/album/18JdBks3zqAR2ohBFdGym8"
+      },
+      "artists": [
+        {
+          "name": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
+          "url": "https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Invading the World of the Guilty as a Spirit of Vengeance",
+      "url": "https://open.spotify.com/track/3AgbLyU5SYYnRuupVUOzVX"
+    },
+    {
+      "album": {
         "name": "John L / Despair",
         "url": "https://open.spotify.com/album/1ag2RQZa8qNklAMCqS1ugx"
       },
@@ -1248,7 +1269,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 268226,
       "name": "Jumbo\u2019s",
       "url": "https://open.spotify.com/track/6geZTtlllUBUei0ypRehDt"
@@ -1356,7 +1377,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 217080,
       "name": "Lentil Soup",
       "url": "https://open.spotify.com/track/5GEfgaRwaecTBa8UF8UTgz"
@@ -1612,7 +1633,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 272500,
       "name": "Narrator - Edit",
       "url": "https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1"
@@ -1702,7 +1723,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204306,
       "name": "Nigel Hitter",
       "url": "https://open.spotify.com/track/5sV5xcygaRKdwL48GIvj1a"
@@ -1756,7 +1777,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 223067,
       "name": "NOTICE OF FORECLOSURE",
       "url": "https://open.spotify.com/track/2PCnHuNdckPK468Y3Gkm3a"
@@ -1774,7 +1795,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214578,
       "name": "One Rizla",
       "url": "https://open.spotify.com/track/2ibdYmH7GRHNnUcBa6kbnG"
@@ -1886,7 +1907,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 174386,
       "name": "Payday",
       "url": "https://open.spotify.com/track/54xTBGmKCsrrWDiUrM9UFX"
@@ -1922,7 +1943,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
@@ -2034,7 +2055,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 426057,
       "name": "Saintless",
       "url": "https://open.spotify.com/track/3Dq8NtMPkJAHTZs1BQZ5jL"
@@ -2124,7 +2145,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 141040,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0vMTSRlRofM60LZmWP04ZC"
@@ -2178,7 +2199,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 252411,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/07cUDeewEa1wMfKHUakxtK"
@@ -2380,7 +2401,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 185080,
       "name": "Stimulus for Living",
       "url": "https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh"
@@ -2398,7 +2419,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Stoned Again - Live",
       "url": "https://open.spotify.com/track/1fwPnO7m3MdoOCYQg7iM4N"
@@ -2438,7 +2459,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 276002,
       "name": "Sunglasses - Edit",
       "url": "https://open.spotify.com/track/449tx8bd5PFEw5dT0KPpLz"
@@ -2474,7 +2495,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS"
@@ -2503,6 +2524,24 @@
     },
     {
       "album": {
+        "name": "Take Flight",
+        "url": "https://open.spotify.com/album/1MBVNZ1VvPISEcdn30IZgu"
+      },
+      "artists": [
+        {
+          "name": "Muck Spreader",
+          "url": "https://open.spotify.com/artist/3MRaVMO8ZuzbkegIXYrFFY"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121666,
+      "name": "Take Flight",
+      "url": "https://open.spotify.com/track/3Y1ITNg38Lq4OzgzdKkbaX"
+    },
+    {
+      "album": {
         "name": "Taking On Time",
         "url": "https://open.spotify.com/album/3KfdysWJU39uXlmN5ivR4S"
       },
@@ -2514,7 +2553,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 188986,
       "name": "Taking On Time",
       "url": "https://open.spotify.com/track/1b0UgeaxiNubfHilAf4AWh"

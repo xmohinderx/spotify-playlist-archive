@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "the mood is to scream into your dashboard/choke back tears in the parking lot",
   "name": "songs to scream in the car",
+  "published_playlist_ids": [
+    "32BidoR3zFJ9QHJUXqSSjL"
+  ],
   "tracks": [
     {
       "album": {
@@ -106,7 +109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 157555,
       "name": "Are you happy?",
       "url": "https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO"
@@ -142,7 +145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180933,
       "name": "Bored",
       "url": "https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ"
@@ -196,7 +199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 186129,
       "name": "Come Here and Leave Me Alone",
       "url": "https://open.spotify.com/track/2AirVCqXkrvrqs6WkN4bgp"
@@ -420,6 +423,24 @@
       "duration_ms": 183786,
       "name": "GO TO HELL",
       "url": "https://open.spotify.com/track/55XRXhQeU25IwqVpjQqxkz"
+    },
+    {
+      "album": {
+        "name": "good 4 u",
+        "url": "https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178147,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM"
     },
     {
       "album": {
@@ -676,7 +697,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
@@ -882,7 +903,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 162732,
       "name": "Make It To Me",
       "url": "https://open.spotify.com/track/3EBdDNM1VcD8d8mJJEYIcJ"
@@ -944,7 +965,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 171280,
       "name": "Mess It Up",
       "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
@@ -1092,7 +1113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"

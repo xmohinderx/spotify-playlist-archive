@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Songs for when you decide societal constructs just aren\u2019t the vibe anymore. \n",
   "name": "wanderlust",
+  "published_playlist_ids": [
+    "2lKUPKpOcgpoeFy7kKdAMO"
+  ],
   "tracks": [
     {
       "album": {
@@ -348,7 +351,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
@@ -1012,7 +1015,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 184300,
       "name": "Life Is Suffering",
       "url": "https://open.spotify.com/track/43Rh4q9wWgIEETAt0F2zCu"
@@ -1628,7 +1631,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238520,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
@@ -1976,7 +1979,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
@@ -2196,7 +2199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "What About U",
       "url": "https://open.spotify.com/track/4FcXhlrtcESQ7zz7WvOQlc"
@@ -2268,7 +2271,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205657,
       "name": "You Needed Love, I Needed You",
       "url": "https://open.spotify.com/track/61E4DgklZb36Oxn8el9NNy"

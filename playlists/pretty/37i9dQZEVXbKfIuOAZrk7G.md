@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKfIuOAZrk7G.md) - [plain]
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,084 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,085 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

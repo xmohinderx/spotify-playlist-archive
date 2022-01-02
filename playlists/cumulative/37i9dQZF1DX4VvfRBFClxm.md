@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Acoustic](https://open.spotify.com/track/5kh7BbzXPgooAU9MB9L7yw) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Acoustic](https://open.spotify.com/album/7fBz9Ec9AzdMJpeZ4PbSn6) | 2:52 | 2021-10-13 |  |
+| [Acoustic](https://open.spotify.com/track/5kh7BbzXPgooAU9MB9L7yw) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Acoustic](https://open.spotify.com/album/7fBz9Ec9AzdMJpeZ4PbSn6) | 2:52 | 2021-10-13 | 2022-01-02 |
 | [After Rain](https://open.spotify.com/track/3XzLC1TU451F0nPiJitk49) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/1NtdVz5tQtiql7SmN1SKEL) | 4:54 | 2021-10-13 |  |
 | [All I Want](https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World](https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL) | 5:05 | 2021-10-13 |  |
 | [All My Love \- Acoustic](https://open.spotify.com/track/4XLSdphp0tS5Qp6Lu0DUUm) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [All My Love \(Acoustic\)](https://open.spotify.com/album/7vYcH0D1gIsooHSMXiszyB) | 2:43 | 2021-10-13 |  |
@@ -77,7 +77,7 @@
 | [Morning Breeze](https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [GREY](https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI) | 3:14 | 2021-10-13 |  |
 | [Most Girls \- Acoustic](https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Most Girls \(Acoustic\)](https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0) | 3:20 | 2021-10-13 |  |
 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 | 2021-10-13 | 2021-12-31 |
-| [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2021-10-13 | 2022-01-01 |
+| [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 | 2021-10-13 |  |
 | [No Place In Mind](https://open.spotify.com/track/6BYb8RVAVC8bAOx6H74CtK) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [High Tide](https://open.spotify.com/album/4KizRi22Ekbl4vebGS9mhe) | 4:44 | 2021-10-13 |  |
 | [Not Enough Drugs \(Acoustic\)](https://open.spotify.com/track/4JWgRSFQqIQFFase45s6Ho) | [Curtis Peoples](https://open.spotify.com/artist/7LfBHu0AWzbnRsqkMtypBG), [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Not Enough Drugs \(Acoustic\)](https://open.spotify.com/album/0XcgfWRJfCjo1OnVi2paW1) | 3:46 | 2021-10-13 | 2022-01-01 |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2021-10-13 |  |

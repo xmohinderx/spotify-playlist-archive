@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Una vibra urbana en lo que vayas andando en el pueblo de noche.",
   "name": "Andando De Noche",
+  "published_playlist_ids": [
+    "21GnVzY5sfP4CmWY4cHSf6"
+  ],
   "tracks": [
     {
       "album": {
@@ -172,7 +175,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 299586,
       "name": "Caile (feat. Zion & De La Ghetto)",
       "url": "https://open.spotify.com/track/626rYyBfeAeleh1F5t4B70"
@@ -330,6 +333,28 @@
       "duration_ms": 254413,
       "name": "Cuerpo en Venta",
       "url": "https://open.spotify.com/track/2B94bbI1a4LyBpK1439oP7"
+    },
+    {
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
     },
     {
       "album": {
@@ -572,7 +597,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -1077,6 +1102,32 @@
     },
     {
       "album": {
+        "name": "Me Ama Me Odia",
+        "url": "https://open.spotify.com/album/0MB7Wln3Ojj44qEBJIeS2u"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325265,
+      "name": "Me Ama Me Odia",
+      "url": "https://open.spotify.com/track/6041gM9Th1ViQcnzkIxnuv"
+    },
+    {
+      "album": {
         "name": "Mi Error",
         "url": "https://open.spotify.com/album/0cm5gt3aGLZooZ6r2jm5gN"
       },
@@ -1260,7 +1311,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 270186,
       "name": "Nadie (feat. Sech & Sharo Towers) - Remix",
       "url": "https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji"
@@ -1352,6 +1403,32 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "album": {
+        "name": "Nunca Me Amo",
+        "url": "https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Baby Rasta",
+          "url": "https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199641,
+      "name": "Nunca Me Amo",
+      "url": "https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW"
     },
     {
       "album": {
@@ -1452,6 +1529,40 @@
       "duration_ms": 225600,
       "name": "Que Le De",
       "url": "https://open.spotify.com/track/08aYFNUTIOMGq93e2VSArQ"
+    },
+    {
+      "album": {
+        "name": "Que Le De (Remix)",
+        "url": "https://open.spotify.com/album/5EEursU9nXfGNUXF23WVoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312000,
+      "name": "Que Le De - Remix",
+      "url": "https://open.spotify.com/track/3fAwTY8XWSLxyX5Rgungap"
     },
     {
       "album": {
@@ -1898,7 +2009,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 179892,
       "name": "T\u00fa Vas a Tener Que Explicarme - Remix",
       "url": "https://open.spotify.com/track/1eLiEFCEFRFsoHDL2bh8wy"

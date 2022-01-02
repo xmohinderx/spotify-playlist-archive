@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "French rock scene makes some noise! Cover: Chunk! No, Captain Chunk!",
   "name": "French Noise",
+  "published_playlist_ids": [
+    "16ojsYsGmxEyBlFo3lFArf"
+  ],
   "tracks": [
     {
       "album": {
@@ -70,7 +73,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213546,
       "name": "After Party",
       "url": "https://open.spotify.com/track/3XtzpIgrWXYgFZMKvbVjz1"
@@ -88,7 +91,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 162039,
       "name": "Ai tant Montat",
       "url": "https://open.spotify.com/track/2tGrjlZ3zkEdr1JQVSl6Xf"
@@ -106,7 +109,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194893,
       "name": "All Things Well Considered",
       "url": "https://open.spotify.com/track/3Ha4nVs1j82mNZnkrqwylW"
@@ -178,7 +181,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 283226,
       "name": "Anyone, Evermore",
       "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
@@ -214,7 +217,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 257226,
       "name": "Asobi",
       "url": "https://open.spotify.com/track/28trZ8QrOP4Hudaw8jAcFv"
@@ -358,10 +361,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 146988,
       "name": "Choices (Radio Edit)",
       "url": "https://open.spotify.com/track/1q5SLmeZ6yICIMEFgInRLa"
+    },
+    {
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/0glR4PgfoTaSTxef6dVn9d"
+      },
+      "artists": [
+        {
+          "name": "The Earl Grey",
+          "url": "https://open.spotify.com/artist/4Ph9WRHCkS2n5stCcMjxbD"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Church of Noise",
+      "url": "https://open.spotify.com/track/2dpVGV4XGTlSbYMm9Qar3m"
     },
     {
       "album": {
@@ -376,7 +397,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 294594,
       "name": "Cold Crusader",
       "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
@@ -448,7 +469,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203026,
       "name": "Damn Cool",
       "url": "https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy"
@@ -538,7 +559,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
@@ -592,7 +613,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 232693,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30"
@@ -664,7 +685,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 226715,
       "name": "Funny Job",
       "url": "https://open.spotify.com/track/1UkK5H2jqo3AsT1BqWN18p"
@@ -700,7 +721,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249946,
       "name": "Gold Digger Woman",
       "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
@@ -761,6 +782,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/37m8Xof3RWkngHVxbfbN8c"
+      },
+      "artists": [
+        {
+          "name": "I Love My Neighbours",
+          "url": "https://open.spotify.com/artist/0OnS3g7UIU366z6CpbhCfz"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206691,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/3UX2rt7dWNVxEGO9LQzkMb"
+    },
+    {
+      "album": {
         "name": "Blue Orchid",
         "url": "https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB"
       },
@@ -790,7 +829,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 407361,
       "name": "High Pride",
       "url": "https://open.spotify.com/track/6GwKtbgJw0pT0un2mHiT0h"
@@ -880,7 +919,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 265346,
       "name": "I'm Not Shallow Anymore",
       "url": "https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b"
@@ -952,7 +991,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164068,
       "name": "It's About Time !",
       "url": "https://open.spotify.com/track/741CQNrA1mkBvzqPKKbw9F"
@@ -1006,7 +1045,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180614,
       "name": "Joy",
       "url": "https://open.spotify.com/track/6q3L0PXHNHM2wLRkpxINmH"
@@ -1078,7 +1117,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236542,
       "name": "Lonesome Terror",
       "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
@@ -1096,7 +1135,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 322119,
       "name": "Lust of the Dead",
       "url": "https://open.spotify.com/track/5TE5sZsPuChH5PzVNJ0aBR"
@@ -1186,7 +1225,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 107456,
       "name": "Pas la peine",
       "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
@@ -1222,7 +1261,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 223421,
       "name": "Peeling the Onion",
       "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
@@ -1240,7 +1279,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220812,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
@@ -1348,7 +1387,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 132061,
       "name": "Sane! Sane! Sane!",
       "url": "https://open.spotify.com/track/3g3kipiNq024hxd67t8Bmp"
@@ -1474,7 +1513,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205386,
       "name": "Sink",
       "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
@@ -1492,7 +1531,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 246666,
       "name": "Skyless",
       "url": "https://open.spotify.com/track/7jh3IHdHMcm9oJBSP9IJJW"
@@ -1672,7 +1711,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 173379,
       "name": "The Ejector Side",
       "url": "https://open.spotify.com/track/0AoTadBjgwXlbLWryWXTqI"
@@ -1708,7 +1747,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 210315,
       "name": "The Shining of My Soul",
       "url": "https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI"
@@ -1820,7 +1859,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 170393,
       "name": "Vulgar",
       "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
@@ -1838,7 +1877,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 212386,
       "name": "Wandering Life",
       "url": "https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E"

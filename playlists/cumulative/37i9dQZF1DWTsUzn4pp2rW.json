@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-01",
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
   "name": "Jazz Pop",
+  "published_playlist_ids": [
+    "0zTna4IYVzsQVY4oHk0pH1"
+  ],
   "tracks": [
     {
       "album": {
@@ -1433,6 +1436,24 @@
     },
     {
       "album": {
+        "name": "Just A Little Bit",
+        "url": "https://open.spotify.com/album/56bhw19Vvl8lJ5A8DAZMm3"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302890,
+      "name": "Just A Little Bit",
+      "url": "https://open.spotify.com/track/3dIIFugA63qbkvnX9pTgw3"
+    },
+    {
+      "album": {
         "name": "Just a Little Bit",
         "url": "https://open.spotify.com/album/0dBeEKGEg7rpeyYvTzgnou"
       },
@@ -1644,7 +1665,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 194023,
       "name": "Lost in Paris",
       "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
@@ -1992,7 +2013,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 243170,
       "name": "Not for Me",
       "url": "https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB"
@@ -2064,7 +2085,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 229706,
       "name": "Peace",
       "url": "https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT"

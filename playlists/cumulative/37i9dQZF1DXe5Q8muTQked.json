@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Kick back with a mix of covers.",
   "name": "Ultimate Covers",
+  "published_playlist_ids": [
+    "4ZekyI25JTzcwoswovlyqc"
+  ],
   "tracks": [
     {
       "album": {
@@ -394,7 +397,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 245053,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/282mpJjzXHueMKalP5ifxT"
@@ -448,7 +451,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214874,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX"
@@ -484,7 +487,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178658,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0hGO3Ws99t05Iboxcve9DC"
@@ -654,7 +657,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 193266,
       "name": "Can't Help Falling in Love",
       "url": "https://open.spotify.com/track/2rU70oQ4Ioun0sujdlHlkV"
@@ -834,7 +837,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/2EDYchd8hhwAOWKGQxJoro"
@@ -960,7 +963,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 165309,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
@@ -1032,7 +1035,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227500,
       "name": "Crazy in Love",
       "url": "https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK"
@@ -1512,7 +1515,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222741,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/1JiHcWvhF1CKccD8H3oiFm"
@@ -1784,7 +1787,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 160160,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/4B1oEy7m2dl1osmBE6L3AE"
@@ -1838,7 +1841,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191333,
       "name": "Friday I'm In Love",
       "url": "https://open.spotify.com/track/3pTjdUeogTd4xIOMpYwxJi"
@@ -1990,7 +1993,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "Girls Just Want To Have Fun",
       "url": "https://open.spotify.com/track/3Qy9NQhUhXKQFXWEBjm4UI"
@@ -2008,7 +2011,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215062,
       "name": "Give Me A Reason",
       "url": "https://open.spotify.com/track/15F2UPxCIGHNoi8DK23eaf"
@@ -2080,7 +2083,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 198946,
       "name": "Half The World Away",
       "url": "https://open.spotify.com/track/7LZPUnAC0rBCXSLIflzE3I"
@@ -2156,7 +2159,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201605,
       "name": "Halo (Beyonce Cover) [Live On Icelandic National Radio]",
       "url": "https://open.spotify.com/track/2i9ArJ8VpPu5scoaIG0OkZ"
@@ -2178,6 +2181,24 @@
       "duration_ms": 278611,
       "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
+    },
+    {
+      "album": {
+        "name": "UnCovered",
+        "url": "https://open.spotify.com/album/4MjJg3GMvdo85uZkpInk5D"
+      },
+      "artists": [
+        {
+          "name": "Skylar Stecker",
+          "url": "https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156477,
+      "name": "Happy (Acoustic)",
+      "url": "https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ"
     },
     {
       "album": {
@@ -2670,7 +2691,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 261951,
       "name": "I See Fire, Burn - Acoustic Mashup",
       "url": "https://open.spotify.com/track/0xk5evjL1C5DQS0ewDkh3L"
@@ -3274,7 +3295,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "It's So Hard to Say Goodbye to Yesterday",
       "url": "https://open.spotify.com/track/5flETcE0vCaNcbgcMy5AYY"
@@ -3602,7 +3623,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 244208,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/71pa4bKxO1QHetRxhGo86P"
@@ -3620,7 +3641,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221361,
       "name": "Let Me Love You - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
@@ -3714,7 +3735,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 173146,
       "name": "Live And Let Die",
       "url": "https://open.spotify.com/track/7xGgissfweCRip2WmupekT"
@@ -3808,7 +3829,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 274220,
       "name": "Lost in the Light",
       "url": "https://open.spotify.com/track/0bgqXYJld8cSkAW72VfVDM"
@@ -3970,7 +3991,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 139918,
       "name": "Michelle",
       "url": "https://open.spotify.com/track/4wLs9DrVk27tgY2y9KZkZ0"
@@ -4268,7 +4289,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 352417,
       "name": "Nothing Compares 2 U",
       "url": "https://open.spotify.com/track/3lrs6FGTNVJvJipNtvrVdO"
@@ -4380,7 +4401,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 288255,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3D8yrQUKBcOKpJglrRT0MT"
@@ -4814,7 +4835,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 258826,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/6DLVPBlHvHvicxJHzcsev8"
@@ -5320,7 +5341,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 275548,
       "name": "The Air That I Breathe",
       "url": "https://open.spotify.com/track/7AyuLqGozNeloS5djeShEN"
@@ -5356,7 +5377,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205786,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/2wlhm9q8AaZbWEtczeTi2M"
@@ -5648,7 +5669,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210826,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/3hduloI1MwLBPm8DqOG4Xb"
@@ -5786,7 +5807,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199118,
       "name": "Walls",
       "url": "https://open.spotify.com/track/3UpEsDQyd6eyRQzgQdNyGo"
@@ -6050,7 +6071,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 197577,
       "name": "Wherever You Will Go",
       "url": "https://open.spotify.com/track/2fR87xADQylPuAlq7r3Jod"
@@ -6596,7 +6617,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 211866,
       "name": "You're Gonna Make Me Lonesome When You Go",
       "url": "https://open.spotify.com/track/4elbVXqYcmvakKQKpJ0ZUP"
@@ -6614,7 +6635,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 264560,
       "name": "You've Got a Friend - Acoustic version",
       "url": "https://open.spotify.com/track/4CAsE3NjVAkehuOyNQLFi5"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Be cool with refreshing Tropical K-Pop dance music! (\uc2dc\uc6d0\uccad\ub7c9\ud55c \uad6d\ub0b4 \ub304\uc2a4\uace1\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) (Cover: Hyolyn x Dasom)",
   "name": "Tropical K-Pop",
+  "published_playlist_ids": [
+    "4I910OciKq3ClAvBAI2YCq"
+  ],
   "tracks": [
     {
       "album": {
@@ -52,7 +55,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 215560,
       "name": "22CENTURY GIRL",
       "url": "https://open.spotify.com/track/4Sg6hnJ0MXIzU4wl47KKs7"
@@ -128,7 +131,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205019,
       "name": "A Brand New Day (BTS World Original Soundtrack) [Pt. 2]",
       "url": "https://open.spotify.com/track/5XkyZyKMdFungjDb9cUKc3"
@@ -182,7 +185,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200813,
       "name": "AH EE YAH",
       "url": "https://open.spotify.com/track/3nTmLNMMydS6NjSvS5Mqa9"
@@ -348,7 +351,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205080,
       "name": "B.L.T (BLING LIKE THIS)",
       "url": "https://open.spotify.com/track/4rXZrKBGVRh98LnKxbda91"
@@ -388,7 +391,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242062,
       "name": "Be My Lover",
       "url": "https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik"
@@ -424,7 +427,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 183933,
       "name": "Beautiful Night",
       "url": "https://open.spotify.com/track/6kDTdIoSgVqm4hWj0EIhHz"
@@ -446,7 +449,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 161167,
       "name": "Bet You Wanna (feat. Cardi B)",
       "url": "https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe"
@@ -482,7 +485,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 196306,
       "name": "BIM BAM BUM",
       "url": "https://open.spotify.com/track/7JfqtEztxAA11Q7O9N6ryT"
@@ -500,7 +503,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 211381,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/4oVkV9xL6sHIhaBemd9Qkp"
@@ -710,7 +713,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 147320,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F"
@@ -840,7 +843,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "Down For You",
       "url": "https://open.spotify.com/track/5NcJGNuS275gu8yzagz3L1"
@@ -858,7 +861,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 226786,
       "name": "DREAMLIKE",
       "url": "https://open.spotify.com/track/3Hpzmd4GsW2vqxNplwUL1r"
@@ -876,7 +879,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210640,
       "name": "DUMDi DUMDi",
       "url": "https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C"
@@ -970,10 +973,28 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 204040,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
+    },
+    {
+      "album": {
+        "name": "Summer Queen",
+        "url": "https://open.spotify.com/album/2x10RN9oP665I7gyP1UNUi"
+      },
+      "artists": [
+        {
+          "name": "Brave Girls",
+          "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205346,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6eKNfMj4VnioR0LcXo6ktd"
     },
     {
       "album": {
@@ -1042,7 +1063,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237076,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/56bHclo7YNvpujMveLElQn"
@@ -1140,7 +1161,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 158911,
       "name": "goodbye June",
       "url": "https://open.spotify.com/track/0M5q5GduZrUTKwsVm4HGNL"
@@ -1324,7 +1345,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 217322,
       "name": "Into the I-LAND",
       "url": "https://open.spotify.com/track/4YvtgtEH5E1pahZu9uzKRy"
@@ -1454,7 +1475,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206386,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o"
@@ -1472,7 +1493,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 218993,
       "name": "La Vie en Rose",
       "url": "https://open.spotify.com/track/1fRaznZsAB2i63TtmYv2Hc"
@@ -1516,7 +1537,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 189858,
       "name": "Let Me In (20 CUBE)",
       "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
@@ -1592,7 +1613,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203240,
       "name": "Lights",
       "url": "https://open.spotify.com/track/33d5dR5IjSAp2Tsn1xMLRA"
@@ -1628,7 +1649,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 232146,
       "name": "Lonely Night",
       "url": "https://open.spotify.com/track/4XU6e2GZEivyaBWMR2zePc"
@@ -1704,7 +1725,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 190920,
       "name": "Love U",
       "url": "https://open.spotify.com/track/4x5l1gjNcoBhhWBPEMo7OQ"
@@ -1722,7 +1743,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191805,
       "name": "Luce Sicut Stellae",
       "url": "https://open.spotify.com/track/6j2Tpn3qQS2BLPNwytsefO"
@@ -1804,7 +1825,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 211666,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/2Ce7mrdXCXE4KB73djPjXk"
@@ -1930,7 +1951,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 202760,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/5joNJn9LUvYcamWwa2iYCL"
@@ -2060,7 +2081,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 203613,
       "name": "One Day At A Time",
       "url": "https://open.spotify.com/track/1eFk8R4OobU7kaAZdfYBKz"
@@ -2118,7 +2139,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 193866,
       "name": "Paeonia",
       "url": "https://open.spotify.com/track/1Unl2r6bKGsAV90WNNRJ2M"
@@ -2252,7 +2273,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197355,
       "name": "PLAYING WITH FIRE",
       "url": "https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi"
@@ -2274,7 +2295,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192573,
       "name": "Pool Party (Feat. E-CHAN of DKB)",
       "url": "https://open.spotify.com/track/2avJo0RwtC1zWiOx4CaGWG"
@@ -2292,7 +2313,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204800,
       "name": "Popping",
       "url": "https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158"
@@ -2372,7 +2393,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt"
@@ -2390,7 +2411,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
@@ -2588,7 +2609,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201600,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/19WLJ1GQY3IMXUOMvbcpDk"
@@ -2816,7 +2837,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 203933,
       "name": "Wave",
       "url": "https://open.spotify.com/track/28xjm4FnnGI4Xnds7VoNSl"
@@ -2834,7 +2855,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
@@ -2878,7 +2899,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210750,
       "name": "Way Back Home - Advanced Remix",
       "url": "https://open.spotify.com/track/0I8oItfrq8SHNDKNMxNpqD"
@@ -2950,7 +2971,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 209280,
       "name": "When You Call My Name",
       "url": "https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2"
@@ -2986,7 +3007,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 207777,
       "name": "Why",
       "url": "https://open.spotify.com/track/4eiPbjcTEJDQcsv7WV0vfD"

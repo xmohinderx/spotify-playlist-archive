@@ -2,7 +2,28 @@
   "date_first_scraped": "2021-12-28",
   "description": "Ponte a guayar con este playlist de Merengue Tipico. Cover: El Prodigio",
   "name": "Merengue T\u00edpico",
+  "published_playlist_ids": [
+    "2kyJb17WIqLunrqe9YytYt"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Amor Divino",
+        "url": "https://open.spotify.com/album/7tmq9RfNNH3TVVPoAU174M"
+      },
+      "artists": [
+        {
+          "name": "Geovanny Polanco",
+          "url": "https://open.spotify.com/artist/0awBNuVACBDglhyp0vRMgY"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287085,
+      "name": "A Beber Con Juan",
+      "url": "https://open.spotify.com/track/7i4EvIZvClTMbl2EkB4YTx"
+    },
     {
       "album": {
         "name": "Merengues Tipicos los Numero 1",
@@ -272,7 +293,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 303490,
       "name": "Como Tu",
       "url": "https://open.spotify.com/track/6FxNgPp1ltcBloQ4A8L6V0"
@@ -290,7 +311,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 313208,
       "name": "Como Tu",
       "url": "https://open.spotify.com/track/6cdX2qASQqvG8RCUBT0QFH"
@@ -308,7 +329,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236721,
       "name": "Como Tu - Live",
       "url": "https://open.spotify.com/track/5GSQ5TVxrilyZDYYBR3APB"
@@ -326,7 +347,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 240651,
       "name": "Con el Agua y el Jabon",
       "url": "https://open.spotify.com/track/0EVM5zK0JvLCaaRBL1fPSq"
@@ -344,7 +365,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 259573,
       "name": "Con el Agua y el Jab\u00f3n",
       "url": "https://open.spotify.com/track/1VeE2eQetaWW9OYtXBjv1l"
@@ -506,7 +527,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 336226,
       "name": "Dile Que Vuelva",
       "url": "https://open.spotify.com/track/2HDynkWGsEg1pGoTEZlN9S"
@@ -542,7 +563,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 229015,
       "name": "El Amor Mas Grande del Planeta",
       "url": "https://open.spotify.com/track/3PhlpwjtUwUn2L0vhfcYlt"
@@ -650,7 +671,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 338226,
       "name": "El Conejo De La Vecina",
       "url": "https://open.spotify.com/track/0quAI5YgttjrisTDw3CH4d"
@@ -668,7 +689,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 277986,
       "name": "El Diente de Oro",
       "url": "https://open.spotify.com/track/7fSnl9iRCYNX6N4SPPxzf3"
@@ -686,7 +707,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 287733,
       "name": "El diente de oro",
       "url": "https://open.spotify.com/track/36s4W1NUg0amqDSNRK8Lo4"
@@ -758,7 +779,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 223653,
       "name": "El Farolito",
       "url": "https://open.spotify.com/track/4GcDiWUmIUxLjgxN9hqV6q"
@@ -830,7 +851,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 368065,
       "name": "El Hombre Mas Guapo",
       "url": "https://open.spotify.com/track/4CG0YAJEkSxutjqoiUkWV6"
@@ -956,10 +977,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 261936,
       "name": "El Pobre Infeliz",
       "url": "https://open.spotify.com/track/3pR2s1iAU7G2PrgK64Gz2t"
+    },
+    {
+      "album": {
+        "name": "Canto a Mi Pueblo",
+        "url": "https://open.spotify.com/album/6y2Y0EvodLC0czeJCETvJC"
+      },
+      "artists": [
+        {
+          "name": "Maria Diaz",
+          "url": "https://open.spotify.com/artist/5dYa0AAqG7tZT1vsX3j7Aj"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "El Pobre Maelo",
+      "url": "https://open.spotify.com/track/02qep4MeCCxOMJTcwSOFy4"
     },
     {
       "album": {
@@ -1046,7 +1085,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 348682,
       "name": "El Total",
       "url": "https://open.spotify.com/track/3ZSXZBaUB3PZtNDcUopOJZ"
@@ -1064,7 +1103,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 343093,
       "name": "El Trafico",
       "url": "https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU"
@@ -1234,7 +1273,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 260333,
       "name": "La Caja de Bola",
       "url": "https://open.spotify.com/track/6vwfuUNuXaBSxPIn3tcAoD"
@@ -1292,7 +1331,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 309968,
       "name": "La Chiflera - 2k15 Edition",
       "url": "https://open.spotify.com/track/51MmT2oz05BA71QbyDUcNU"
@@ -1364,7 +1403,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 371613,
       "name": "La Culebra",
       "url": "https://open.spotify.com/track/6U9qD39KThuIceRgmSyGaJ"
@@ -1382,7 +1421,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 397400,
       "name": "La Difunta",
       "url": "https://open.spotify.com/track/5baWcVrfE2mgkTpK3wvxzC"
@@ -1404,7 +1443,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249312,
       "name": "La Enfermedad",
       "url": "https://open.spotify.com/track/2XD2kI2vA9HFZmbIbOxGOd"
@@ -1512,7 +1551,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 270093,
       "name": "La Historia De Un Gran Amor",
       "url": "https://open.spotify.com/track/6xDH1AopZEPEAyVR1Ji9In"
@@ -1548,7 +1587,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 292640,
       "name": "La Historia de un Gran Amor",
       "url": "https://open.spotify.com/track/5KgTIeLQUJvxB0pJv9TB3U"
@@ -1566,7 +1605,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 183522,
       "name": "La Llave",
       "url": "https://open.spotify.com/track/0oXqG8CDAwMZJVMUsMdc59"
@@ -1620,7 +1659,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 171426,
       "name": "La Pava",
       "url": "https://open.spotify.com/track/6EYmqkj3o78oX29YF5FOyl"
@@ -1710,7 +1749,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 209411,
       "name": "La Reina del Bar",
       "url": "https://open.spotify.com/track/3J6oyIWJ2hfqZEj7U5iP7y"
@@ -1750,7 +1789,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 267493,
       "name": "La Torera",
       "url": "https://open.spotify.com/track/2X1IXZUkJKKVRzuBU7WW0y"
@@ -1948,7 +1987,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 335412,
       "name": "Moreno Tejada",
       "url": "https://open.spotify.com/track/7tGAWlnetlM44sXwF9Rs9w"
@@ -2038,7 +2077,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 278186,
       "name": "Perd\u00ed un Amigo",
       "url": "https://open.spotify.com/track/4nmEsNwf0PPUIQxPNJCuJY"
@@ -2092,7 +2131,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 395023,
       "name": "Popurry de Alex Bueno",
       "url": "https://open.spotify.com/track/2dRarqm3hRlcHwlOecDX4R"
@@ -2110,7 +2149,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 310005,
       "name": "Por Mujeres Voy a Morir",
       "url": "https://open.spotify.com/track/4z91y2K61tnG3IgZZtq84H"
@@ -2164,7 +2203,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 237853,
       "name": "Que No Te Valla Bien",
       "url": "https://open.spotify.com/track/22w4xiphRCA5vECrqDFUv7"
@@ -2182,7 +2221,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "Que Se Vaya",
       "url": "https://open.spotify.com/track/0Xtj6e8Buf5iPqopUp74N3"
@@ -2542,10 +2581,28 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 284413,
       "name": "Vamos Pa la Playa",
       "url": "https://open.spotify.com/track/0S5e0l6A8iZhUl2WQCFecX"
+    },
+    {
+      "album": {
+        "name": "Sabor Criollo (M\u00fasica T\u00edpica)",
+        "url": "https://open.spotify.com/album/0tst9q40oqCAzUuvOF38vy"
+      },
+      "artists": [
+        {
+          "name": "Kiko El Presidente",
+          "url": "https://open.spotify.com/artist/4Ub4fWV0GUdwjnr2HroLwi"
+        }
+      ],
+      "date_added": "2019-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284413,
+      "name": "Vamos Pa la Playa",
+      "url": "https://open.spotify.com/track/2UFuyJNjpIhpCAvLeGB2W5"
     },
     {
       "album": {
@@ -2560,7 +2617,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 357433,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/6aeAgCXriC5ikrMjEr7DRA"
@@ -2596,7 +2653,7 @@
       ],
       "date_added": "2019-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 392746,
       "name": "Yo Me Muero Por Ti",
       "url": "https://open.spotify.com/track/1soZPkNYncKsVnSk18OGTP"

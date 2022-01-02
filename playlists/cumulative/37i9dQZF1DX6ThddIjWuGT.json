@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Timeless Latin pop hits through the decades! Cover: Juanes",
   "name": "Latin Pop Classics",
+  "published_playlist_ids": [
+    "2FSO8yoy6jp43MoiNNcuHM"
+  ],
   "tracks": [
     {
       "album": {
@@ -254,7 +257,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258626,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La"
@@ -785,6 +788,28 @@
     },
     {
       "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227706,
+      "name": "La Bicicleta",
+      "url": "https://open.spotify.com/track/0sXvAOmXgjR2QUqLK1MltU"
+    },
+    {
+      "album": {
         "name": "La M\u00e1s Completa Colecci\u00f3n",
         "url": "https://open.spotify.com/album/6kLkzewL7iIg1qGAnTaJwx"
       },
@@ -995,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Superexitos Vol. 2",
+        "url": "https://open.spotify.com/album/57F2KpxAqeW0G1fQJMehyv"
+      },
+      "artists": [
+        {
+          "name": "The Sacados",
+          "url": "https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219454,
+      "name": "Mas De Lo Que Te Imaginas (Classic Version)",
+      "url": "https://open.spotify.com/track/5Ieljx2SJYrQWJFlNcJB1X"
+    },
+    {
+      "album": {
         "name": "Alejandro Fernandez 15 A\u00f1os De Exitos",
         "url": "https://open.spotify.com/album/1XIDdkj7xuSoDDyYseS7o3"
       },
@@ -1010,6 +1053,24 @@
       "duration_ms": 232893,
       "name": "Me Dediqu\u00e9 a Perderte",
       "url": "https://open.spotify.com/track/1HpIBHs03kKCxlrPthWXmL"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
     },
     {
       "album": {
@@ -1042,7 +1103,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 237386,
       "name": "Mi primer millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
@@ -1316,7 +1377,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224453,
       "name": "Primera Vez",
       "url": "https://open.spotify.com/track/28yLuP6lRFzm9fv0SSZ4Vd"

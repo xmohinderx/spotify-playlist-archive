@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "grab a blanket and get the good vibes going",
   "name": "park hangs",
+  "published_playlist_ids": [
+    "0uKWr1Uzb37C6D49uTzEk7"
+  ],
   "tracks": [
     {
       "album": {
@@ -52,7 +55,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
@@ -212,7 +215,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 160236,
       "name": "Can\u2019t Decide",
       "url": "https://open.spotify.com/track/7xEVy3xCkmRSbYavgefnsI"
@@ -734,7 +737,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 269142,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg"
@@ -908,7 +911,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239324,
       "name": "Only Child",
       "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
@@ -992,7 +995,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 146826,
       "name": "Phone Numbers",
       "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
@@ -1234,7 +1237,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188916,
       "name": "Trader Joe",
       "url": "https://open.spotify.com/track/68UwqWt98BW1QdDnGV9DO1"

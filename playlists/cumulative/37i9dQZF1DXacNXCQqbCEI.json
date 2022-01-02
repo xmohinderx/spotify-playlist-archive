@@ -2,7 +2,32 @@
   "date_first_scraped": "2021-12-28",
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
   "name": "El\u00e9ctrica Selv\u00e1tica",
+  "published_playlist_ids": [
+    "7IeIClkaFsF64hmSNTI4y6"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Ag\u00fcita del Equilibrio (Remix)",
+        "url": "https://open.spotify.com/album/43lARNcRvw8swQlr54FofW"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        },
+        {
+          "name": "Juan Campodonico",
+          "url": "https://open.spotify.com/artist/0sadZS0EK146Ej3M0chASN"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287387,
+      "name": "Ag\u00fcita del Equilibrio (Remix)",
+      "url": "https://open.spotify.com/track/4xkbFCTyLI4DZJKkOqTuh6"
+    },
     {
       "album": {
         "name": "Aire",
@@ -56,7 +81,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 289186,
       "name": "Altamar",
       "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
@@ -74,7 +99,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 295605,
       "name": "Antares",
       "url": "https://open.spotify.com/track/5AtSxyPK3zcij0QjqvcmbE"
@@ -346,7 +371,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 307830,
       "name": "Ch'usay",
       "url": "https://open.spotify.com/track/704xWR1nWpxhFRBbB8sboj"
@@ -470,7 +495,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 317790,
       "name": "Currulao Version",
       "url": "https://open.spotify.com/track/0tCCY12EmCOF8KSbJjpKKo"
@@ -572,7 +597,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208125,
       "name": "El Alma del Mundo",
       "url": "https://open.spotify.com/track/511oG5pe1WMrmGHed4VaGP"
@@ -638,7 +663,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 235032,
       "name": "El Mago Georges",
       "url": "https://open.spotify.com/track/1CJ5JejmIAEtShoxy8DQHU"
@@ -660,7 +685,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237818,
       "name": "El Pajarito - Ben Matik instrumental edit",
       "url": "https://open.spotify.com/track/7a3A5Cm9iFa52Hkfj0jgvF"
@@ -700,7 +725,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 184886,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
@@ -762,7 +787,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 346280,
       "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
       "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
@@ -798,7 +823,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/2K8z5hrIFrCTcYRab2EEbm"
@@ -1028,7 +1053,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
@@ -1054,7 +1079,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 271335,
       "name": "Las Mellas - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/2H9fKVibA0pCyjBCcL86MW"
@@ -1072,7 +1097,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Levanta Muertos",
       "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
@@ -1094,7 +1119,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 259849,
       "name": "Maleza",
       "url": "https://open.spotify.com/track/6thXjSpWtLHJL72kXLgOkI"
@@ -1200,7 +1225,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7yoBYwXd4gtGBIygYefGOI"
@@ -1236,7 +1261,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 253626,
       "name": "Me Recordaras",
       "url": "https://open.spotify.com/track/4Epb3W6hvWcPUR7IGcnqEo"
@@ -1302,7 +1327,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 400826,
       "name": "Nevar",
       "url": "https://open.spotify.com/track/73GA4mNm07rlhf1BfDd4iS"
@@ -1416,7 +1441,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 157746,
       "name": "Pachamama",
       "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
@@ -1930,7 +1955,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239417,
       "name": "Sue\u00f1o en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5"
@@ -1992,7 +2017,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 231875,
       "name": "Tambor Del Monte",
       "url": "https://open.spotify.com/track/4nSVv5flBb0ucHTGgxiFi5"
@@ -2094,7 +2119,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Vayay\u00f3",
       "url": "https://open.spotify.com/track/4YEeQ4gYDBTZbyBDFbtZYS"

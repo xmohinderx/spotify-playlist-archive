@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Piano music to hone your thought process.",
   "name": "Focus Piano",
+  "published_playlist_ids": [
+    "7cjodZVzQ3VbBI3fx7ewwS"
+  ],
   "tracks": [
     {
       "album": {
@@ -196,7 +199,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "A Winged Time",
       "url": "https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4"
@@ -2670,7 +2673,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144555,
       "name": "Howthian",
       "url": "https://open.spotify.com/track/7Ifj1BA2mFHr1FmCxV9p1M"
@@ -2940,7 +2943,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 155000,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/3EOylKjaenyKmwO4R9IDBz"
@@ -3714,7 +3717,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 165250,
       "name": "Longues Plages",
       "url": "https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj"
@@ -3948,7 +3951,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 171142,
       "name": "Melodrome",
       "url": "https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb"
@@ -5284,7 +5287,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 136591,
       "name": "Rianmarsi",
       "url": "https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn"
@@ -6332,7 +6335,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 110465,
       "name": "The Moon Tells Me a Secret",
       "url": "https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64"
@@ -6750,7 +6753,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 188638,
       "name": "Unspoken Declarations",
       "url": "https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC"
@@ -6786,7 +6789,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 167288,
       "name": "Vacanza in bicicletta",
       "url": "https://open.spotify.com/track/7insrNcRlTVhOZLKdZPoUq"
@@ -6840,7 +6843,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 124029,
       "name": "Valverde",
       "url": "https://open.spotify.com/track/5G1xgH1zCwWF4f5aIOUksB"

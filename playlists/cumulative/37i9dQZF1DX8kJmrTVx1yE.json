@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Dale play, y que los temazos no paren.",
   "name": "Enganchados: Latinos",
+  "published_playlist_ids": [
+    "6WNVwKx5b2eYvG3DgOaqOA"
+  ],
   "tracks": [
     {
       "album": {
@@ -20,6 +23,24 @@
       "duration_ms": 220546,
       "name": "A fuego lento",
       "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "A Puro Dolor - Balada",
+      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
     },
     {
       "album": {
@@ -52,7 +73,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
@@ -397,6 +418,28 @@
     },
     {
       "album": {
+        "name": "Deja Que Te Bese",
+        "url": "https://open.spotify.com/album/7JimYZIPnQsUqlkBIPQAq4"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244353,
+      "name": "Deja Que Te Bese",
+      "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
+    },
+    {
+      "album": {
         "name": "Atado A Tu Amor",
         "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
@@ -444,7 +487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 231693,
       "name": "Donde Estas Corazon",
       "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
@@ -560,6 +603,42 @@
       "duration_ms": 250693,
       "name": "Es Por T\u00ed",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233826,
+      "name": "Estoy Aqu\u00ed",
+      "url": "https://open.spotify.com/track/117PkfBYudl1lSoFFAvOM4"
+    },
+    {
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/7DS5eAaSqaPRercZMkxVeL"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332040,
+      "name": "Experiencia Religiosa",
+      "url": "https://open.spotify.com/track/4pGCA3BOCADbAAvK4HIozW"
     },
     {
       "album": {
@@ -780,7 +859,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187520,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s"
@@ -827,6 +906,28 @@
     },
     {
       "album": {
+        "name": "Cama Incendiada",
+        "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272576,
+      "name": "Mi Verdad (feat. Shakira)",
+      "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -850,6 +951,24 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "album": {
+        "name": "Santo Pecado",
+        "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247613,
+      "name": "Minutos",
+      "url": "https://open.spotify.com/track/0HIoLXQTYfRvsDGifz8cWY"
     },
     {
       "album": {
@@ -886,7 +1005,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 207013,
       "name": "Mujeres",
       "url": "https://open.spotify.com/track/4TR6e2sBy2PzTnfu6MnLFD"
@@ -922,7 +1041,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239400,
       "name": "No Me Doy Por Vencido",
       "url": "https://open.spotify.com/track/4lerOTNr2tFWJCAmmhymhi"
@@ -1002,6 +1121,24 @@
       "duration_ms": 234373,
       "name": "Pasos de cero",
       "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
+    },
+    {
+      "album": {
+        "name": "Sinverguenza",
+        "url": "https://open.spotify.com/album/7adZK0OmOhHL3DnEL5qWKb"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Pasos de gigantes",
+      "url": "https://open.spotify.com/track/5cfyheAkmqThtjovwfQnD4"
     },
     {
       "album": {
@@ -1288,7 +1425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 228146,
       "name": "S\u00e9 Que Te Duele",
       "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
@@ -1364,7 +1501,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 169720,
       "name": "Te regalo",
       "url": "https://open.spotify.com/track/0fmgOwkb9AwgzXhYVSZRDs"
@@ -1386,7 +1523,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
@@ -1429,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278546,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
@@ -1444,7 +1599,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 164440,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
@@ -1510,6 +1665,24 @@
       "duration_ms": 187426,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "album": {

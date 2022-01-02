@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana. Cover: The Northern Belle",
   "name": "Nordic Folk",
+  "published_playlist_ids": [
+    "7tEIBkzo4kHvFj89vdjHtz"
+  ],
   "tracks": [
     {
       "album": {
@@ -110,7 +113,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 326314,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
@@ -128,7 +131,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 168373,
       "name": "Alle snakker sant",
       "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
@@ -1046,7 +1049,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 317053,
       "name": "Sj\u00e5aren",
       "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
@@ -1454,7 +1457,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 257440,
       "name": "With Tomorrow/I'm On Fire",
       "url": "https://open.spotify.com/track/4fcQm79lQN2GJHRYq75sSO"

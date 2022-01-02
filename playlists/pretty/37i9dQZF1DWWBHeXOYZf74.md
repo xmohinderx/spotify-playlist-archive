@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > The best of 2021\. Genre\-less\. Quality first always\. Cover: Tyler, The Creator
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,379 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,417 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

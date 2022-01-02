@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-01",
   "description": "Jazz voices of today. Cover: C\u00e9cile McLorin Salvant",
   "name": "Vocal Jazz",
+  "published_playlist_ids": [
+    "1MJcLwlhyaudSQhL0k2nLU"
+  ],
   "tracks": [
     {
       "album": {
@@ -150,7 +153,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224016,
       "name": "All Or Nothing At All",
       "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
@@ -262,7 +265,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 146797,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/5fnjz2gnBth73KZE7wbyUX"
@@ -470,7 +473,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173913,
       "name": "Come Fly With Me",
       "url": "https://open.spotify.com/track/49YWNbeuLCWIov2BZQ0Q6d"
@@ -540,7 +543,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 346481,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2qe7O9lFVGJDeOSz9VBn0T"
@@ -774,7 +777,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 301266,
       "name": "Esperanto",
       "url": "https://open.spotify.com/track/6sQH5Xgc5SbH3TKGI4xFj9"
@@ -814,7 +817,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 351904,
       "name": "Finis",
       "url": "https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi"
@@ -924,7 +927,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 286640,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/7C6zXzKu70gtiIoPC1OgIQ"
@@ -1004,7 +1007,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 270440,
       "name": "Greenbacks",
       "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
@@ -1047,6 +1050,24 @@
     },
     {
       "album": {
+        "name": "Little Songs: If I Was the President",
+        "url": "https://open.spotify.com/album/0hdbjk6GX9mwhyYCz9WF5E"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258575,
+      "name": "I Don't Know Anything",
+      "url": "https://open.spotify.com/track/4VDHfpObfOrut2GvkCOu6V"
+    },
+    {
+      "album": {
         "name": "I Fall to Pieces",
         "url": "https://open.spotify.com/album/0AgqUaoymiX2pAQlHlwZKr"
       },
@@ -1058,7 +1079,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 171513,
       "name": "I Fall to Pieces",
       "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
@@ -1280,7 +1301,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 251066,
       "name": "If This Was",
       "url": "https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB"
@@ -1356,7 +1377,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 268586,
       "name": "It Ain't Necessarily So (feat. Byron Stripling)",
       "url": "https://open.spotify.com/track/3EmhZE7D8skjPkXtgu1J2C"
@@ -1486,7 +1507,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 462415,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/01je6IZ6DPfoY1AGzblHVz"
@@ -1570,7 +1591,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Let You Break My Heart Again",
       "url": "https://open.spotify.com/track/41H96KDENmbR7d9NzMgojt"
@@ -1684,7 +1705,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 220786,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3iaTig1JxHZF73Ozg8awNl"
@@ -1760,7 +1781,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 183901,
       "name": "Lover Man (Oh, Where Can You Be?)",
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
@@ -1804,7 +1825,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 259851,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH"
@@ -2042,7 +2063,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 355587,
       "name": "Nuit Blanche (Live)",
       "url": "https://open.spotify.com/track/1GoyNvRJycBHfiHPJvRgwz"
@@ -2282,7 +2303,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 261226,
       "name": "Social Call",
       "url": "https://open.spotify.com/track/5FRQElyjOYVd6a0rcaIuu0"
@@ -2398,7 +2419,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 254093,
       "name": "Strange Fruit",
       "url": "https://open.spotify.com/track/52l6GPIMJWIZhW2a2JRpDX"
@@ -2532,6 +2553,28 @@
       "duration_ms": 230880,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
+    },
+    {
+      "album": {
+        "name": "The Cool School",
+        "url": "https://open.spotify.com/album/6zpKrrNK3Es836zkUUglYG"
+      },
+      "artists": [
+        {
+          "name": "Leo Sidran",
+          "url": "https://open.spotify.com/artist/2HpgbqUcGmk4M2dG9wph1h"
+        },
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272573,
+      "name": "The Cool School",
+      "url": "https://open.spotify.com/track/2EQRwli4Q2QWYiB1J5i9gf"
     },
     {
       "album": {
@@ -2676,7 +2719,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 187040,
       "name": "Three Cigarettes in an Ashtray",
       "url": "https://open.spotify.com/track/6nlynVbgwm6bavyuQw39Yo"
@@ -2840,7 +2883,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1eBS1yv4ec7FegMJt4adef"
@@ -3000,7 +3043,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 290053,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/4MKfsaaYbB78ibU0kNGxMu"

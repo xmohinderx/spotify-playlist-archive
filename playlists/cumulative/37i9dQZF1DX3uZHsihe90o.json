@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "A down to earth collection of new and classic folk tunes for kids.",
   "name": "Family Folk",
+  "published_playlist_ids": [
+    "1qRROkHI9x5BXVWcCEXpLA"
+  ],
   "tracks": [
     {
       "album": {
@@ -74,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 85666,
       "name": "Big Rock Candy Mountain",
       "url": "https://open.spotify.com/track/3xZ0xSnBXCCnhANkmbg4YT"
@@ -796,7 +799,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 171893,
       "name": "I Got a Boy and His Name Is John",
       "url": "https://open.spotify.com/track/6U8URqc3zh8f0u1E4CvKzm"
@@ -818,7 +821,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 244961,
       "name": "I Hear America Singing",
       "url": "https://open.spotify.com/track/0nUSS3iQn8xRRbaHlluzZ6"
@@ -898,7 +901,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 138173,
       "name": "I've Been Workin' on the Railroad (feat. Niall de Burca and John Wood)",
       "url": "https://open.spotify.com/track/6x28Wyl6aWusAfnywEyBIl"
@@ -970,7 +973,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 193600,
       "name": "Infinity - They Might Be Giants",
       "url": "https://open.spotify.com/track/3YbyGGXGLp1O5dwJXmgwxF"
@@ -1654,7 +1657,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 139693,
       "name": "This Land is Your Land",
       "url": "https://open.spotify.com/track/7CNaYAdLyi86kofGafReiT"

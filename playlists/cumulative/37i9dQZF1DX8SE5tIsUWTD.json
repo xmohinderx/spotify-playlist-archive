@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "A playlist for your Arab hipster starter kit.",
   "name": "Funk & Disco Zamaan",
+  "published_playlist_ids": [
+    "17ATh4UAh4fydqblUGTXv8"
+  ],
   "tracks": [
     {
       "album": {
@@ -226,7 +229,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD"
@@ -244,7 +247,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV"
@@ -334,7 +337,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 253293,
       "name": "Bisaraha",
       "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
@@ -428,7 +431,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 561786,
       "name": "El Layla El Kebera",
       "url": "https://open.spotify.com/track/3zIrlJmUysULejWsHG0nGm"
@@ -464,7 +467,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 272773,
       "name": "Endak Haq",
       "url": "https://open.spotify.com/track/3pFQBpMhzjsfi7NlMiQD3k"
@@ -616,7 +619,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 252991,
       "name": "Jamileh",
       "url": "https://open.spotify.com/track/0F8co9bBHh5js5mxTnSMPk"
@@ -634,7 +637,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242960,
       "name": "Ken Yama Disco",
       "url": "https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK"
@@ -782,7 +785,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Mafatshi Leh",
       "url": "https://open.spotify.com/track/72icTQKZRXB47Q9r5t8rQO"
@@ -1114,7 +1117,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 426733,
       "name": "Warak Al Khareef",
       "url": "https://open.spotify.com/track/2YRdil5daXlDTDWsstccZ0"
@@ -1150,7 +1153,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 260167,
       "name": "Ya Leila Disco",
       "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"

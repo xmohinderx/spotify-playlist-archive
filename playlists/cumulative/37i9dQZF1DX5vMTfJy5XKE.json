@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "'Tis the season! All new holiday releases. Cover: Elton John & Ed Sheeran",
   "name": "New Music Holiday",
+  "published_playlist_ids": [
+    "5LfWH4HC2jeu9j5xLz96yV"
+  ],
   "tracks": [
     {
       "album": {
@@ -78,7 +81,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227769,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/27K612weC4sZcXotGmjw0s"
@@ -530,7 +533,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178656,
       "name": "Christmas Show - Bonus Track",
       "url": "https://open.spotify.com/track/2i8m7x84erxs9CTyUIUIz3"
@@ -638,7 +641,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 228494,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/70j4eEbliNTlcjMc3ZUPIR"
@@ -1194,7 +1197,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 157830,
       "name": "Home By Midnight",
       "url": "https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS"
@@ -1956,7 +1959,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 270531,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/0Qg6c3We3Ol8zMi7k1E0dD"
@@ -2854,7 +2857,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 121931,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS"

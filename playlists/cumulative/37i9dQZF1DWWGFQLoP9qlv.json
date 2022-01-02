@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Great songs by indisputable music legends. Cover: The Velvet Underground",
   "name": "Legendary",
+  "published_playlist_ids": [
+    "0GtqGrLzVf2NF3NwuYf9ll"
+  ],
   "tracks": [
     {
       "album": {
@@ -74,7 +77,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 248946,
       "name": "A Whiter Shade Of Pale",
       "url": "https://open.spotify.com/track/3qitymULqEibr7yknRMKU4"
@@ -514,7 +517,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 256666,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3"
@@ -644,7 +647,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 219026,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f"
@@ -1022,7 +1025,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 149466,
       "name": "Mr. Tambourine Man",
       "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
@@ -1292,7 +1295,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
@@ -1494,7 +1497,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 288733,
       "name": "The Boys Of Summer",
       "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"

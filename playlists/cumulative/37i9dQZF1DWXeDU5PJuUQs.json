@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Los del Fuego.",
   "name": "Vivo de Cumbia",
+  "published_playlist_ids": [
+    "2wJPFQSijKKEawsi9DOknr"
+  ],
   "tracks": [
     {
       "album": {
@@ -327,6 +330,42 @@
     },
     {
       "album": {
+        "name": "En Vivo en Pasi\u00f3n 2018",
+        "url": "https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE"
+      },
+      "artists": [
+        {
+          "name": "Karen Britos",
+          "url": "https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184790,
+      "name": "Falso Malo - En Vivo",
+      "url": "https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h"
+    },
+    {
+      "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297351,
+      "name": "Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame - En Vivo",
+      "url": "https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5"
+    },
+    {
+      "album": {
         "name": "Gordo Rata (En Vivo)",
         "url": "https://open.spotify.com/album/16T2Dow87fIOSsP4m311pg"
       },
@@ -436,7 +475,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 330339,
       "name": "Jurabas T\u00fa / Mis Sentimientos (En Vivo)",
       "url": "https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY"
@@ -472,7 +511,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 1189152,
       "name": "La Huella / Aprovechadora / Has Vuelto Mi Amor / Vengo a Pedirte / Amor de Adolescente / Una Noche Mas / Regresa por Favor / La Que Me Pudo Enamorar / Te Extra\u00f1o a Ti / Pensando en Ti / Desesperado - En Vivo",
       "url": "https://open.spotify.com/track/6K4dgYClJiJvHmlxHGKY4X"
@@ -541,6 +580,24 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124253,
+      "name": "La Ultima Cancion - En Vivo",
+      "url": "https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4"
+    },
+    {
+      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -570,7 +627,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 92020,
       "name": "Labios Compartidos - En Vivo",
       "url": "https://open.spotify.com/track/4mbZ7lM957Ljb3grkhrs2q"
@@ -881,6 +938,24 @@
     },
     {
       "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "album": {
         "name": "Por Siempre",
         "url": "https://open.spotify.com/album/4XO4d5OymSnSwoQYYRPInc"
       },
@@ -1066,7 +1141,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 158958,
       "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
       "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"

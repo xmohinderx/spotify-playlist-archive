@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Benny The Butcher",
   "name": "Spilled Ink",
+  "published_playlist_ids": [
+    "263ylGzX2g8MfE4QemXHet"
+  ],
   "tracks": [
     {
       "album": {
@@ -90,7 +93,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194746,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/42dLRNmTqdwPZIiG0NRBWH"
@@ -353,6 +356,24 @@
     },
     {
       "album": {
+        "name": "Cause & Effect",
+        "url": "https://open.spotify.com/album/3DRJ1DX40MSRBSbxv9vM59"
+      },
+      "artists": [
+        {
+          "name": "DonMonique",
+          "url": "https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148584,
+      "name": "Cause & Effect",
+      "url": "https://open.spotify.com/track/6n7HPSVEjREx4mrqQAw8uz"
+    },
+    {
+      "album": {
         "name": "Fame Or Feds 3",
         "url": "https://open.spotify.com/album/2r8lvARHTS5aivIQd8ZHVq"
       },
@@ -412,7 +433,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
@@ -474,7 +495,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 274133,
       "name": "Dmtri",
       "url": "https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc"
@@ -596,7 +617,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 261517,
       "name": "FATHER FIGURE",
       "url": "https://open.spotify.com/track/4tamxu3gTVkEDzgpTDvDv0"
@@ -662,7 +683,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200666,
       "name": "FR33DOM (ft. Zacari)",
       "url": "https://open.spotify.com/track/145fkxY3C8qyj1qfLdfc5t"
@@ -742,7 +763,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238800,
       "name": "God's Bathroom Floor",
       "url": "https://open.spotify.com/track/6V7c3Y5Nio1rp87a52mgtN"
@@ -1564,7 +1585,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191481,
       "name": "Peaks N Pitfalls",
       "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
@@ -1620,7 +1641,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210000,
       "name": "Play Around (feat. Conway the Machine, 2 Chainz, Killer Mike, & Allan Kingdom)",
       "url": "https://open.spotify.com/track/5iJcqpJ0pSwBcBhu4SEZli"
@@ -1734,7 +1755,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 162380,
       "name": "Red Lobster Biscuits",
       "url": "https://open.spotify.com/track/7JcUYHmxHM6H9kjHOcTxuW"
@@ -1774,7 +1795,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 178536,
       "name": "RUN THE WORLD",
       "url": "https://open.spotify.com/track/24O46adSE5SxxOthWe28AC"
@@ -1844,7 +1865,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 199803,
       "name": "Shame On You",
       "url": "https://open.spotify.com/track/0d33DG1uICHiennWuQUjzs"
@@ -1954,7 +1975,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 198493,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/4exgimuT6EdLBN3R4Ww3xO"
@@ -2156,7 +2177,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 162528,
       "name": "Talkin' Back (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0Bj62CkpsaMZJwgqZ0UbPc"
@@ -2196,7 +2217,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -2548,7 +2569,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 124872,
       "name": "Weight",
       "url": "https://open.spotify.com/track/5sdkS8DXx8rXNLxbSos8GS"

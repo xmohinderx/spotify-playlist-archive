@@ -2,6 +2,9 @@
   "date_first_scraped": "2020-11-04",
   "description": "Let these innovative tracks spark your creativity and inspiration.",
   "name": "Creativity Boost",
+  "published_playlist_ids": [
+    "1aiXmCTeHQI0hMOaYE96Os"
+  ],
   "tracks": [
     {
       "album": {
@@ -722,7 +725,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/0OcoZJjaHsYmYZhzT3F3oL"
@@ -1476,7 +1479,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 206793,
       "name": "Hurry Up and Crush Me",
       "url": "https://open.spotify.com/track/19TLY1W9XOTGwKAQQrraY6"
@@ -1716,7 +1719,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 264000,
       "name": "Keep Running",
       "url": "https://open.spotify.com/track/1PlrUviBqdCy4P4TTdv66y"
@@ -2242,7 +2245,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 236173,
       "name": "No Time",
       "url": "https://open.spotify.com/track/6gwiFsxGASUDfVg6Zih2ma"
@@ -2398,7 +2401,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236167,
       "name": "ophelie",
       "url": "https://open.spotify.com/track/7CaFGdmcY0tZev9f6zKzDR"
@@ -2572,7 +2575,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 244158,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/5VhqfEogUz8FvBZrFK8I4M"
@@ -2750,7 +2753,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 246973,
       "name": "Simple, Sweet, and Smiling",
       "url": "https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh"
@@ -3650,7 +3653,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 202348,
       "name": "Without You - Jim-E Stack Remix",
       "url": "https://open.spotify.com/track/6imeB9iHkhAj0Q5sAAANB3"

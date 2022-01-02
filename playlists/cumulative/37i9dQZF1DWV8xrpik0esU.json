@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Relax with this soothing soundtrack from the nineties...",
   "name": "Easy 90s",
+  "published_playlist_ids": [
+    "7fhSCJ8q7xulx4bYNQXkWm"
+  ],
   "tracks": [
     {
       "album": {
@@ -34,10 +37,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 241026,
       "name": "2 Become 1",
       "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+    },
+    {
+      "album": {
+        "name": "Everything Must Go 20 (Remastered)",
+        "url": "https://open.spotify.com/album/0N5NWxZazrftwlXMOgHQrC"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257653,
+      "name": "A Design for Life - 2016 Remastered Version",
+      "url": "https://open.spotify.com/track/7rIoot9qXXs4H3n1kH2V4F"
     },
     {
       "album": {
@@ -70,7 +91,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 281200,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/4lsEHglVsLzILTDQ3CNESV"
@@ -326,7 +347,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 287826,
       "name": "Don't Look Back In Anger",
       "url": "https://open.spotify.com/track/3ixTiPABjqkBKPocxq6oIe"
@@ -780,7 +801,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206400,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/7FrMtidZwT7Q8vKNgR96Q6"
@@ -942,7 +963,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/4xzhlulgIL4yFEAR9EjHkR"
@@ -1738,7 +1759,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 259466,
       "name": "What Can I Do",
       "url": "https://open.spotify.com/track/4rvT5iZVOCJeXZrDvy6JFK"
@@ -1886,7 +1907,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 300773,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"

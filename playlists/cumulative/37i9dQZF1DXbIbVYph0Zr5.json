@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "The perfect soundtrack recipe for a backyard barbecue! ",
   "name": "Country Cookout",
+  "published_playlist_ids": [
+    "0jQ54mEPRoiJAcBR4wlz5Q"
+  ],
   "tracks": [
     {
       "album": {
@@ -42,6 +45,24 @@
       "duration_ms": 180906,
       "name": "1, 2 Many",
       "url": "https://open.spotify.com/track/6pgN3d6oBrhmrSAKBfWNsf"
+    },
+    {
+      "album": {
+        "name": "Rock n Roll Jesus",
+        "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
+      },
+      "artists": [
+        {
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297586,
+      "name": "All Summer Long",
+      "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
     },
     {
       "album": {
@@ -326,7 +347,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188133,
       "name": "Better Things To Do",
       "url": "https://open.spotify.com/track/29V94tQgMoSJjbzuTliPj6"
@@ -424,6 +445,28 @@
       "duration_ms": 179077,
       "name": "Buy Me a Boat",
       "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
+    },
+    {
+      "album": {
+        "name": "Caught Up In The Country",
+        "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        },
+        {
+          "name": "The Fisk Jubilee Singers",
+          "url": "https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160991,
+      "name": "Caught Up In The Country",
+      "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
     },
     {
       "album": {
@@ -814,7 +857,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199640,
       "name": "Follow Your Arrow",
       "url": "https://open.spotify.com/track/4CLPNURPcKztF9RRdcWLGP"
@@ -1587,6 +1630,24 @@
     },
     {
       "album": {
+        "name": "One Of Them Girls",
+        "url": "https://open.spotify.com/album/42Rl6aaMTG6EgYxzjP41qp"
+      },
+      "artists": [
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "date_added": "2021-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "One Of Them Girls",
+      "url": "https://open.spotify.com/track/14GwnOeC9qYEKEA6uOZepa"
+    },
+    {
+      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -1598,7 +1659,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188893,
       "name": "One Of Them Girls",
       "url": "https://open.spotify.com/track/6uyiyatWPCqC59Mm4rO8xL"

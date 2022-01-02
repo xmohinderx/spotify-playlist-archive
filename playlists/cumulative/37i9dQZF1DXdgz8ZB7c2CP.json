@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>. Featuring new music by Tails.",
   "name": "creamy",
+  "published_playlist_ids": [
+    "3MCIvOCYNv0w7VlFeU1IOX"
+  ],
   "tracks": [
     {
       "album": {
@@ -60,7 +63,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
@@ -158,7 +161,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 183391,
       "name": "Autonomy",
       "url": "https://open.spotify.com/track/7ElgaUtGnr2HXJZSKfnhhO"
@@ -318,6 +321,28 @@
       "duration_ms": 176470,
       "name": "brief grip of creation",
       "url": "https://open.spotify.com/track/1Tc0j6uGzj6iCGqgTfy50T"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/6psuN2lsYkoAb4gpKs4cGb"
+      },
+      "artists": [
+        {
+          "name": "PURGE",
+          "url": "https://open.spotify.com/artist/06TMvxQPjjyo2Lz9iZrrKt"
+        },
+        {
+          "name": "Silent Child",
+          "url": "https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M"
+        }
+      ],
+      "date_added": "2021-08-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/0dH5Rd4OCfZjb48hhaWVGg"
     },
     {
       "album": {
@@ -746,7 +771,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192729,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/5BevUDbSHGxIbmXGDd6Ejs"
@@ -816,7 +841,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 184545,
       "name": "Everybody You Hurt",
       "url": "https://open.spotify.com/track/2J4oKpZ5tgsx5ciq7g2waw"
@@ -1216,7 +1241,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194546,
       "name": "Home",
       "url": "https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y"
@@ -1434,7 +1459,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "idio-savan",
       "url": "https://open.spotify.com/track/21kzMROplBP8MhBCmfYcSm"
@@ -1456,7 +1481,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 165750,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/4JpQy59PDi8Wiucp4fHSpH"
@@ -1616,7 +1641,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 151425,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/43EsCCOIJL1gVTBraWd4Gx"
@@ -2200,7 +2225,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206788,
       "name": "Revival",
       "url": "https://open.spotify.com/track/5ClSTs7w4GWa6ipki5M8J7"
@@ -2434,7 +2459,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
@@ -2548,7 +2573,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199540,
       "name": "SLIT",
       "url": "https://open.spotify.com/track/1wHsT97qhIpq4UmTCGESVF"
@@ -2610,7 +2635,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 259660,
       "name": "Something Wonderful",
       "url": "https://open.spotify.com/track/1bgsB8QJAfc2y0KqI44Y7J"
@@ -3262,7 +3287,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "waves",
       "url": "https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To"

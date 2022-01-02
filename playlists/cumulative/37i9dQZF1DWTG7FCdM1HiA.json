@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-01",
   "description": "The unhurried and fundamentally cool side of jazz. Cover: Miles Davis ",
   "name": "Cool Jazz",
+  "published_playlist_ids": [
+    "10BCizIIBZqIAWnzbKylaT"
+  ],
   "tracks": [
     {
       "album": {
@@ -100,7 +103,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178640,
       "name": "Almost Like Being In Love",
       "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
@@ -424,7 +427,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 485680,
       "name": "Con Alma",
       "url": "https://open.spotify.com/track/70XKlUf9V0L60Flm5yjiOu"
@@ -594,6 +597,24 @@
       "duration_ms": 381466,
       "name": "East Of The Sun (And West Of The Moon)",
       "url": "https://open.spotify.com/track/06B7xlY2JUoGhPu8WtFQni"
+    },
+    {
+      "album": {
+        "name": "New Star On The Horizon",
+        "url": "https://open.spotify.com/album/42wxrESo2NkEf1hevvQruN"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221961,
+      "name": "Easy Livin",
+      "url": "https://open.spotify.com/track/2Wlfta7vocbOW32AH3wRe3"
     },
     {
       "album": {
@@ -1246,7 +1267,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 292973,
       "name": "Moonglow",
       "url": "https://open.spotify.com/track/0fNXvJOidMPKly0iWa392g"
@@ -1682,7 +1703,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 286133,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/09JSmxCUJrjBE0dVXurHT2"
@@ -1946,6 +1967,24 @@
       "duration_ms": 281493,
       "name": "These Foolish Things (Remind Me Of You)",
       "url": "https://open.spotify.com/track/2YOak7hL5XozgxIyBge01e"
+    },
+    {
+      "album": {
+        "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193133,
+      "name": "Walkin' Shoes",
+      "url": "https://open.spotify.com/track/6BavxfUuSOBIhMaEJ6rjNs"
     },
     {
       "album": {

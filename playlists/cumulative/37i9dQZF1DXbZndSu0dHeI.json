@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "Sometimes it's nice to be nice, you know.",
   "name": "The Lovely Little Playlist",
+  "published_playlist_ids": [
+    "2x6wDidT6OVKVCyYz3g29W"
+  ],
   "tracks": [
     {
       "album": {
@@ -16,10 +19,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 193000,
       "name": "A Little Less Bored",
       "url": "https://open.spotify.com/track/7Mf4X2WRdXV3GCCkc6dlk0"
+    },
+    {
+      "album": {
+        "name": "Rain / Actor With A Loaded Gun",
+        "url": "https://open.spotify.com/album/18NwctEsyhxA7ZQ1K6bkFL"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Actor With A Loaded Gun",
+      "url": "https://open.spotify.com/track/3u8KqniHoAO7mdq3ynkqym"
     },
     {
       "album": {
@@ -142,7 +163,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 173006,
       "name": "Between Your Teeth",
       "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
@@ -286,7 +307,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180706,
       "name": "Cheer Captain",
       "url": "https://open.spotify.com/track/1rW9uae4EZuui4vARG2IyI"
@@ -536,7 +557,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/78wvkEG8AhizCo20BeJjRF"
@@ -572,7 +593,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 267308,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn"
@@ -738,7 +759,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -918,7 +939,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 161880,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb"
@@ -940,7 +961,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
@@ -1048,7 +1069,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192026,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
@@ -1282,7 +1303,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 287146,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv"
@@ -1336,7 +1357,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200186,
       "name": "Only The Strong",
       "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
@@ -1434,7 +1455,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
@@ -1510,7 +1531,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208200,
       "name": "Semolina",
       "url": "https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln"
@@ -1586,7 +1607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 198160,
       "name": "Something Holy",
       "url": "https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98"
@@ -1622,7 +1643,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
@@ -1640,10 +1661,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 248973,
       "name": "Sorry Kid - Edit",
       "url": "https://open.spotify.com/track/3vovrmRCW1gk3LX0LIYcbi"
+    },
+    {
+      "album": {
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/0yss5R3uULkCI7Dc9jKRoV"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
     },
     {
       "album": {
@@ -1842,7 +1881,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 179000,
       "name": "Try",
       "url": "https://open.spotify.com/track/1E2pCJo8kbB2og7YYiJMWx"
@@ -1940,7 +1979,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 345728,
       "name": "When",
       "url": "https://open.spotify.com/track/4SjQJG7we1POYEKye7YnNA"

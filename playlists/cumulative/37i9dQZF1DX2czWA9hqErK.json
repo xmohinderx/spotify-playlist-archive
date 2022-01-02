@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Laid back sounds to see you through your day.",
   "name": "Easy",
+  "published_playlist_ids": [
+    "395pTXWBe61bIiK2GSpSLA"
+  ],
   "tracks": [
     {
       "album": {
@@ -52,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
@@ -676,7 +679,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 169453,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn"
@@ -734,7 +737,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188443,
       "name": "Happy Just To Know",
       "url": "https://open.spotify.com/track/53qdE4yFweq6kbO2MQ44Ul"
@@ -1210,7 +1213,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 255255,
       "name": "Know Me Again (with Cate)",
       "url": "https://open.spotify.com/track/503vjbISPH5hJbGpYOFAcN"
@@ -1416,7 +1419,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275113,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5HzQDTbgRVfDgjxgwQ6lmt"
@@ -1434,7 +1437,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 154186,
       "name": "More of You",
       "url": "https://open.spotify.com/track/3KwddnMagr7xnFFZTb4t7Z"
@@ -1506,7 +1509,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 262978,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw"
@@ -1832,6 +1835,24 @@
       "duration_ms": 220720,
       "name": "Short Sighted",
       "url": "https://open.spotify.com/track/25hKDHLSeH6M4J47pMXu9T"
+    },
+    {
+      "album": {
+        "name": "Songs They Told Me Weren't Singles - Part 1",
+        "url": "https://open.spotify.com/album/0bsjzb3mpaau8nuzfJSPmC"
+      },
+      "artists": [
+        {
+          "name": "Jamie Grey",
+          "url": "https://open.spotify.com/artist/5xoERNSvFkLef8Lkupbu4t"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Shouldn't Be Thinking About You",
+      "url": "https://open.spotify.com/track/3Inj1eHMvEhwUFej1LYR0d"
     },
     {
       "album": {
@@ -2228,7 +2249,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 183880,
       "name": "Used To Love Me",
       "url": "https://open.spotify.com/track/4rzgxHBn7CI1FHGwn4d34k"
@@ -2354,7 +2375,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144666,
       "name": "WYD Now?",
       "url": "https://open.spotify.com/track/3ZBeHiRJUj1vdiU8zzGPgb"

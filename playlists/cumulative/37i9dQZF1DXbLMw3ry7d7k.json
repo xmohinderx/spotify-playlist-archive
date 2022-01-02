@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "These hits were made to stay! Revive los \u00e9xitos de los \u00faltimos meses aqu\u00ed.",
   "name": "Latin Hit Mix",
+  "published_playlist_ids": [
+    "1EklffS4Gj7dd3hCqQLa42"
+  ],
   "tracks": [
     {
       "album": {
@@ -1192,7 +1195,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 345240,
       "name": "La Jeepeta - Remix",
       "url": "https://open.spotify.com/track/1mohfLaTJtB2RplHLQVM70"
@@ -1424,6 +1427,32 @@
       "duration_ms": 230728,
       "name": "Mala Costumbre",
       "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
+    },
+    {
+      "album": {
+        "name": "MAMACITA",
+        "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249142,
+      "name": "MAMACITA",
+      "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
     },
     {
       "album": {

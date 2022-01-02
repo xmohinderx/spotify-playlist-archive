@@ -1,12 +1,12 @@
 {
   "description": "The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.",
   "name": "This Is Bon Iver",
-  "num_followers": 211232,
+  "num_followers": 211252,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDM2MywwMDAwMDAwMDFiNGM5M2RhNjE3ZjQxYTExMjZjZTIyMDZiYjBjMDFl",
+  "snapshot_id": "MTY0MTEwODY4MCwwMDAwMDAwMGEyNzFlN2UyMzUyN2NlODg4NGMzMjVjMmNiZDUyYTBl",
   "tracks": [
     {
       "added_at": "2016-10-20 14:29:54",
@@ -43,8 +43,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Unmap",
-        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
       },
       "artists": [
         {
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Husks And Shells",
-      "url": "https://open.spotify.com/track/05PxNZJfr9OTpCo2JjH0xe"
+      "duration_ms": 297306,
+      "name": "Tiderays",
+      "url": "https://open.spotify.com/track/7eEEgizmmwDNvdUI7yOiAF"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -183,8 +183,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Repave",
-        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
+        "name": "Unmap",
+        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 274506,
-      "name": "Comrade",
-      "url": "https://open.spotify.com/track/6UQQX0VsSDCBe2r3wh3hVN"
+      "duration_ms": 223746,
+      "name": "Husks And Shells",
+      "url": "https://open.spotify.com/track/05PxNZJfr9OTpCo2JjH0xe"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -239,8 +239,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -264,15 +264,15 @@
           "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 297306,
-      "name": "Tiderays",
-      "url": "https://open.spotify.com/track/7eEEgizmmwDNvdUI7yOiAF"
+      "duration_ms": 274506,
+      "name": "Comrade",
+      "url": "https://open.spotify.com/track/6UQQX0VsSDCBe2r3wh3hVN"
     },
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
     },
     {
-      "added_at": "2019-08-08 15:43:21",
-      "album": {
-        "name": "Salem",
-        "url": "https://open.spotify.com/album/4Vr20z6geWzLvK5kcT4uR5"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "Salem",
-      "url": "https://open.spotify.com/track/2I9ujc2hgn7mJgFiMYbNnm"
-    },
-    {
       "added_at": "2016-10-20 14:29:54",
       "album": {
         "name": "For Emma, Forever Ago",
@@ -431,6 +415,38 @@
       "duration_ms": 401413,
       "name": "Re:Stacks",
       "url": "https://open.spotify.com/track/1RuyGO0kmkNkfixUFKkjuC"
+    },
+    {
+      "added_at": "2016-10-20 14:29:54",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
+    },
+    {
+      "added_at": "2019-08-08 15:43:21",
+      "album": {
+        "name": "Salem",
+        "url": "https://open.spotify.com/album/4Vr20z6geWzLvK5kcT4uR5"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 224706,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/2I9ujc2hgn7mJgFiMYbNnm"
     },
     {
       "added_at": "2019-08-08 15:43:21",
@@ -451,8 +467,8 @@
     {
       "added_at": "2019-08-08 15:43:21",
       "album": {
-        "name": "iMi",
-        "url": "https://open.spotify.com/album/3bPUex8ZN4NWUqsJPGO57f"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6udb0IhmEdSQvWwjfnh6UA"
       },
       "artists": [
         {
@@ -460,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 196360,
-      "name": "iMi",
-      "url": "https://open.spotify.com/track/7xcaurF9h0C7cRmybuVUES"
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3mZHmZahGKJwP0GDtWaOq8"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -483,8 +499,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
       "artists": [
         {
@@ -492,31 +508,15 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 238520,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
-    },
-    {
-      "added_at": "2016-10-20 14:29:54",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/15WS5DLuxA4zBF0tH1sOR9"
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0"
     },
     {
       "added_at": "2019-08-08 15:43:21",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6udb0IhmEdSQvWwjfnh6UA"
+        "name": "iMi",
+        "url": "https://open.spotify.com/album/3bPUex8ZN4NWUqsJPGO57f"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/3mZHmZahGKJwP0GDtWaOq8"
+      "duration_ms": 196360,
+      "name": "iMi",
+      "url": "https://open.spotify.com/track/7xcaurF9h0C7cRmybuVUES"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -547,8 +547,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 309013,
-      "name": "8 (circle)",
-      "url": "https://open.spotify.com/track/47IklCMgkgWvI4jpkdrop0"
+      "duration_ms": 213920,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/15WS5DLuxA4zBF0tH1sOR9"
     },
     {
       "added_at": "2019-08-08 15:43:21",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/4HEqM4RSvXQAXqSdqqD8qE"
     },
     {
-      "added_at": "2019-08-08 15:43:21",
-      "album": {
-        "name": "Holyfields,",
-        "url": "https://open.spotify.com/album/1oztJvqexlJyJtTUdkH2wH"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Holyfields,",
-      "url": "https://open.spotify.com/track/1Gz0wsD8w1XkB4xQVSh5wy"
-    },
-    {
       "added_at": "2016-10-20 14:29:54",
       "album": {
         "name": "Bon Iver",
@@ -703,6 +687,22 @@
       "duration_ms": 142880,
       "name": "We",
       "url": "https://open.spotify.com/track/1D0JZaZh2rjrZXv5pxFoUD"
+    },
+    {
+      "added_at": "2019-08-08 15:43:21",
+      "album": {
+        "name": "Holyfields,",
+        "url": "https://open.spotify.com/album/1oztJvqexlJyJtTUdkH2wH"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Holyfields,",
+      "url": "https://open.spotify.com/track/1Gz0wsD8w1XkB4xQVSh5wy"
     },
     {
       "added_at": "2016-10-20 14:29:54",

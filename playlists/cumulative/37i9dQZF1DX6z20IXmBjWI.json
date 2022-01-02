@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Hours of your favorite acoustic and roots music gems. Cover: Madi Diaz",
   "name": "Infinite Acoustic",
+  "published_playlist_ids": [
+    "2lhdiCy6DWi2BRRHxhm4lv"
+  ],
   "tracks": [
     {
       "album": {
@@ -106,7 +109,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 178840,
       "name": "Angela (Single Version)",
       "url": "https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D"
@@ -614,7 +617,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188000,
       "name": "Desert Wine (Acoustic)",
       "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
@@ -1278,7 +1281,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -1564,7 +1567,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
@@ -1846,7 +1849,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 152626,
       "name": "Naked As We Came",
       "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
@@ -2902,7 +2905,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 264866,
       "name": "The Bear (Trio)",
       "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
@@ -3202,7 +3205,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 252125,
       "name": "Treading Water",
       "url": "https://open.spotify.com/track/63nK4bChcJqSALOTnwrYOz"
@@ -3390,7 +3393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 157068,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/1qIktGpjJbiikPxFDbuh1L"
@@ -3408,7 +3411,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 158386,
       "name": "Whale Song",
       "url": "https://open.spotify.com/track/0qFFiR3SiXqgnQvX6Q1WOO"
@@ -3426,7 +3429,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y"

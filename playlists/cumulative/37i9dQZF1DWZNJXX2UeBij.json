@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Top Bollywood songs from 2000s till 2010",
   "name": "All Out 00s",
+  "published_playlist_ids": [
+    "49x8xu9XAFH3wVmrbJMb3I"
+  ],
   "tracks": [
     {
       "album": {
@@ -302,7 +305,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 271986,
       "name": "Bheegey Hont",
       "url": "https://open.spotify.com/track/2GhIleCFsmI6WU8BDG1UAv"
@@ -364,7 +367,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 335832,
       "name": "Bum Bum Bole",
       "url": "https://open.spotify.com/track/5Dq7d6Y2K2CRNFm1bC3I7A"
@@ -660,7 +663,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 373357,
       "name": "Dhoom Taana",
       "url": "https://open.spotify.com/track/4eKWtXoGajnaGKvKAcgc8f"
@@ -956,7 +959,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 250920,
       "name": "Hai Mera Dil",
       "url": "https://open.spotify.com/track/7LAwdDzta1roB9n4GuVpzG"
@@ -1000,7 +1003,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 88373,
       "name": "Ik Onkar",
       "url": "https://open.spotify.com/track/4Ko5KYEiZ0rrFiBJKmvMQc"
@@ -1144,7 +1147,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 333093,
       "name": "It's the Time to Disco",
       "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
@@ -1426,7 +1429,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 68546,
       "name": "Kaho Naa Pyar Hai - Sad",
       "url": "https://open.spotify.com/track/5cr7u4DI62FzLhZA900WQq"
@@ -2207,6 +2210,32 @@
     },
     {
       "album": {
+        "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Ravi \"Rags\" Khote",
+          "url": "https://open.spotify.com/artist/7jhqJGN86YT2lS3i1HgO13"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353880,
+      "name": "Pretty Woman",
+      "url": "https://open.spotify.com/track/3rsx3pDYM3a08O0Yu3Tq6V"
+    },
+    {
+      "album": {
         "name": "Kaho Naa Pyar Hai",
         "url": "https://open.spotify.com/album/114GBlvfAQBvbXt6KH3NKO"
       },
@@ -2830,7 +2859,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 347453,
       "name": "Tumhi Dekho Naa",
       "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
@@ -3010,7 +3039,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 343066,
       "name": "Yeh Hum Aa Gaye Hain Kahaan",
       "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
@@ -3046,7 +3075,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 388106,
       "name": "Yeh Jo Des Hai Tera",
       "url": "https://open.spotify.com/track/65fbHxPPnRGPXaGN3PtpXd"
@@ -3124,7 +3153,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 446986,
       "name": "Yun Hi Chala Chal",
       "url": "https://open.spotify.com/track/3GrTI5vAoDD3VE24VTBJAc"

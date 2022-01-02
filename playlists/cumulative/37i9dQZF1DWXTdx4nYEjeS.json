@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "M\u00fasica para acompa\u00f1ar esas rondas interminables de mate.",
   "name": "Mates y M\u00fasica",
+  "published_playlist_ids": [
+    "3QIsT3LSf24K84j95owWwc"
+  ],
   "tracks": [
     {
       "album": {
@@ -234,7 +237,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 279920,
       "name": "Bastar\u00e1",
       "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
@@ -328,7 +331,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 296400,
       "name": "Cosa Linda",
       "url": "https://open.spotify.com/track/102YhppAbm0jBaafWUWrNC"
@@ -386,7 +389,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 248466,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV"
@@ -644,6 +647,24 @@
       "duration_ms": 224507,
       "name": "Fuego y Pasi\u00f3n",
       "url": "https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w"
+    },
+    {
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "album": {
@@ -987,6 +1008,42 @@
     },
     {
       "album": {
+        "name": "No Te Voy a Buscar",
+        "url": "https://open.spotify.com/album/0WYfLklnw7JUHCKewLMzHS"
+      },
+      "artists": [
+        {
+          "name": "Jon Deca",
+          "url": "https://open.spotify.com/artist/1tPDPyiADJ307pAqrRjb18"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239364,
+      "name": "No Te Voy a Buscar",
+      "url": "https://open.spotify.com/track/5qlqykPSg4VBPP7YWzPNqU"
+    },
+    {
+      "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260371,
+      "name": "Nunca quise",
+      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
+    },
+    {
+      "album": {
         "name": "Obsesionario",
         "url": "https://open.spotify.com/album/6t01Vq8XJrZbKmjpgBSirm"
       },
@@ -1016,7 +1073,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222706,
       "name": "Olivia",
       "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
@@ -1175,6 +1232,24 @@
     },
     {
       "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
+    },
+    {
+      "album": {
         "name": "Leb\u00f3n & Co.",
         "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
@@ -1316,7 +1391,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204540,
       "name": "Seminare",
       "url": "https://open.spotify.com/track/5UvdojEkKkZIpnOzJ7qM8B"
@@ -1338,6 +1413,24 @@
       "duration_ms": 181826,
       "name": "Ser\u00e1",
       "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
     },
     {
       "album": {
@@ -1370,7 +1463,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218800,
       "name": "Soltar",
       "url": "https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq"
@@ -1432,6 +1525,24 @@
       "duration_ms": 297999,
       "name": "Tan Lejos",
       "url": "https://open.spotify.com/track/7D5yebasDybJ83PTpwQNfx"
+    },
+    {
+      "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/2r9obvPDsbCqk69TXz5W6m"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246858,
+      "name": "Tan Solo (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2kXVg8VLdF3YXZ4NLSqsoz"
     },
     {
       "album": {

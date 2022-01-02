@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-01",
   "description": "The best from Britain's vibrant scene. Cover: Nubya Garcia",
   "name": "Jazz UK",
+  "published_playlist_ids": [
+    "59EKsWawfSCVKzHCfwFtdU"
+  ],
   "tracks": [
     {
       "album": {
@@ -183,6 +186,24 @@
     },
     {
       "album": {
+        "name": "Starts Again",
+        "url": "https://open.spotify.com/album/5M26XYkOb1UHh8MM3eJimL"
+      },
+      "artists": [
+        {
+          "name": "Tawiah",
+          "url": "https://open.spotify.com/artist/7HRQKKdC8gtmcV3DyCmrAN"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237579,
+      "name": "Borders",
+      "url": "https://open.spotify.com/track/64kPvG0cDJ7ePFIZi8KBn9"
+    },
+    {
+      "album": {
         "name": "Breathe Suite B",
         "url": "https://open.spotify.com/album/68HVSiWgjCigjRCKUMG6Oh"
       },
@@ -333,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Beginner's Mind",
+        "url": "https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325500,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1RYvG5NlbR0tXBZvdLLDDS"
+    },
+    {
+      "album": {
         "name": "Early Hours",
         "url": "https://open.spotify.com/album/25o3AA79SplKRugLXGA7ja"
       },
@@ -344,7 +383,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242834,
       "name": "Early Hours",
       "url": "https://open.spotify.com/track/0t7NNWc2iaPJInAaKYCx4K"
@@ -494,7 +533,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197872,
       "name": "Give A Little - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/6QvCnbVDTKqQyyJRsnLlIS"
@@ -556,7 +595,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 240947,
       "name": "Howufeel",
       "url": "https://open.spotify.com/track/4btEBsYlxoY0b8JC3GYAt0"
@@ -844,7 +883,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 351933,
       "name": "Montara",
       "url": "https://open.spotify.com/track/2Wj7zgUsolPMaSokDuZMFT"
@@ -862,7 +901,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 280800,
       "name": "Monument",
       "url": "https://open.spotify.com/track/41ZVxdu7KTYquKjdWStpf8"
@@ -884,7 +923,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 206250,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/1MoWsRjtJVoOHEVKRuyGHu"
@@ -1016,7 +1055,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 271322,
       "name": "Never Odd or Even",
       "url": "https://open.spotify.com/track/15CgvAuQAy0FOPJYiJ2yTG"
@@ -1034,7 +1073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206095,
       "name": "Never Stopped for the Sun 'till Now",
       "url": "https://open.spotify.com/track/20afoEqLRHin6E8mm4o4Lq"
@@ -1086,6 +1125,28 @@
       "duration_ms": 253517,
       "name": "Nights In Havana",
       "url": "https://open.spotify.com/track/1WIT85qChJThW4G53ZtP3x"
+    },
+    {
+      "album": {
+        "name": "No Be Today (Yeye Be Dem Policy)",
+        "url": "https://open.spotify.com/album/01EuhGK8frKIRtHJEdMEOI"
+      },
+      "artists": [
+        {
+          "name": "Scrimshire",
+          "url": "https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217268,
+      "name": "No Be Today - Yeye Be Dem Policy",
+      "url": "https://open.spotify.com/track/1or6YdEd7OVm9bo72rYBOe"
     },
     {
       "album": {
@@ -1154,7 +1215,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 302000,
       "name": "PJFC",
       "url": "https://open.spotify.com/track/5WJFkmVH7DzzcSFl7l4xhH"
@@ -1308,7 +1369,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 260122,
       "name": "Shades of You",
       "url": "https://open.spotify.com/track/2OtnmFipsJgxUPkwnMP11I"
@@ -1438,7 +1499,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 728346,
       "name": "Source [Feat. Ms MAURICE, Cassie Kinoshi, Richie Seivwright]",
       "url": "https://open.spotify.com/track/760WV9S8e01SgZzdkZYqvp"
@@ -1474,7 +1535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 299653,
       "name": "Speak No Evil (Night Dreamer)",
       "url": "https://open.spotify.com/track/4DTdxOytdNr6zQBBtfBWbg"
@@ -1510,7 +1571,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 309452,
       "name": "Spooki",
       "url": "https://open.spotify.com/track/1OmRDsBv7CQaIjuPBLySHJ"
@@ -1590,7 +1651,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 183653,
       "name": "sweet wurli",
       "url": "https://open.spotify.com/track/3SMt4rUCBTQUEDwtpGZv71"
@@ -1616,7 +1677,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 205091,
       "name": "Take Your Time",
       "url": "https://open.spotify.com/track/59Q0Io9CKIqZfPCJhRwH79"
@@ -1780,7 +1841,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 413213,
       "name": "The Unknown - Rework",
       "url": "https://open.spotify.com/track/45qxOEcnwOClF2dmMBArtQ"
@@ -1922,7 +1983,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 138653,
       "name": "Twisti",
       "url": "https://open.spotify.com/track/6vGzNnn7cMAQQMqdlAmV72"
@@ -2002,7 +2063,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 245865,
       "name": "Withered",
       "url": "https://open.spotify.com/track/1QDpEhAMGzBtFq5uYyKCk4"
@@ -2042,7 +2103,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 388186,
       "name": "Your Saint",
       "url": "https://open.spotify.com/track/0OsNaSKEXq4zFOzbgfMwHR"

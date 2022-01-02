@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Avant-garde, experimental and free jazz.",
   "name": "Avant-Jazz",
+  "published_playlist_ids": [
+    "0VDNYH3pzGkgUvS5GusBo1"
+  ],
   "tracks": [
     {
       "album": {
@@ -64,7 +67,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 291066,
       "name": "And Then There Was Peace",
       "url": "https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h"
@@ -600,7 +603,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 411466,
       "name": "From Before",
       "url": "https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN"
@@ -722,7 +725,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 441973,
       "name": "Hemlock",
       "url": "https://open.spotify.com/track/0Ru8qoDCdYck8yELWqRUbO"
@@ -740,7 +743,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 892666,
       "name": "Impressions - Live At The Village Vanguard / 1961",
       "url": "https://open.spotify.com/track/0YCTmedyF6ztGlNkugYo8W"
@@ -832,7 +835,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 122142,
       "name": "Kasumi",
       "url": "https://open.spotify.com/track/4TY0ywSa4bGblUa4rGZmkU"
@@ -888,7 +891,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 344453,
       "name": "Lebroba",
       "url": "https://open.spotify.com/track/5Uiofafr14TDphDMDeqxIz"
@@ -968,7 +971,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 461626,
       "name": "Mr. Syms",
       "url": "https://open.spotify.com/track/5lNZvkoBgIETzAWNS7mToD"
@@ -1080,7 +1083,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/1Rk7L0w2piutRt6onKrIdj"
@@ -1200,7 +1203,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227346,
       "name": "Shudder to Think",
       "url": "https://open.spotify.com/track/0BjzzajYvpe3dQmcyIKSQv"
@@ -1218,7 +1221,7 @@
       ],
       "date_added": "2020-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 224880,
       "name": "Sing, Sing Loud",
       "url": "https://open.spotify.com/track/5KUuZ8A3u42Cdu6HsrcZSA"
@@ -1288,7 +1291,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 1013476,
       "name": "Suite 3320, Pt. I - Live",
       "url": "https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI"
@@ -1558,7 +1561,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 519041,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"

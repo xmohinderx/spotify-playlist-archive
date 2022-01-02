@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Real nasty house. Cover: Wenzday",
   "name": "Nasty Bits",
+  "published_playlist_ids": [
+    "2H083FLJ5ZhYNqx83NgdpT"
+  ],
   "tracks": [
     {
       "album": {
@@ -38,6 +41,24 @@
       "duration_ms": 240000,
       "name": "12 AM Shuffle",
       "url": "https://open.spotify.com/track/0xAjCLCwfRUZQe6t2G2Ywe"
+    },
+    {
+      "album": {
+        "name": "Body Step EP",
+        "url": "https://open.spotify.com/album/5ZyMfBh5IFIfTbzdIGlTGH"
+      },
+      "artists": [
+        {
+          "name": "One Day One Coke",
+          "url": "https://open.spotify.com/artist/2B7tdyU1J3iiUU3AiKYxaX"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220546,
+      "name": "2Step",
+      "url": "https://open.spotify.com/track/6h6eZvyZ6TQX0wsK1bFJyg"
     },
     {
       "album": {
@@ -312,7 +333,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 171362,
       "name": "Be Good",
       "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
@@ -374,7 +395,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 180850,
       "name": "Beat Like This",
       "url": "https://open.spotify.com/track/6zm3myLdhev6UuL8xOewow"
@@ -410,7 +431,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 216960,
       "name": "Big Bass",
       "url": "https://open.spotify.com/track/0cZNioy7IGLvLrqqI2JW3z"
@@ -564,7 +585,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 187142,
       "name": "BOOTY MACHINE",
       "url": "https://open.spotify.com/track/2IowJ31tdRvj4n53rGoHnh"
@@ -696,7 +717,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 161932,
       "name": "Burn the House",
       "url": "https://open.spotify.com/track/0Qv962GVef5ssQboETsqvF"
@@ -1038,7 +1059,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 157500,
       "name": "Dear Driver - Lowdown Remix",
       "url": "https://open.spotify.com/track/3pQg7EoslPJ2OOoEXItDQl"
@@ -1078,7 +1099,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222746,
       "name": "deeper",
       "url": "https://open.spotify.com/track/5Qb1L6fvkn9fLWKlyTvqiJ"
@@ -1282,7 +1303,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 137255,
       "name": "Famous Last Words",
       "url": "https://open.spotify.com/track/6poUGr8xrWtCxttBIbiS15"
@@ -1384,7 +1405,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 174843,
       "name": "Full of Love",
       "url": "https://open.spotify.com/track/62UaGLT1sKYQhhudWjcAjq"
@@ -1446,7 +1467,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 236488,
       "name": "Get In",
       "url": "https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy"
@@ -1482,7 +1503,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176750,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/5Q6nl2QQGP4KTD24FIKM8G"
@@ -1522,7 +1543,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 163200,
       "name": "Gold On My Crown (feat. Born I)",
       "url": "https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii"
@@ -1544,7 +1565,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 142857,
       "name": "Good Again",
       "url": "https://open.spotify.com/track/6jbdxYkwM7pf1pVujcoWyQ"
@@ -1610,7 +1631,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176770,
       "name": "Gotta Be - Bleu Clair Remix",
       "url": "https://open.spotify.com/track/4FynH1lObCJ0ILN5VgfWOD"
@@ -1690,7 +1711,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -1760,7 +1781,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
@@ -1840,7 +1861,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173858,
       "name": "Hypnosis",
       "url": "https://open.spotify.com/track/218C3xKWaTkNwEmDLW6oD4"
@@ -2006,7 +2027,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 216377,
       "name": "Killin' Me",
       "url": "https://open.spotify.com/track/1cPqgK1AmZmywfmakmDkZW"
@@ -2042,7 +2063,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 170476,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz"
@@ -2060,7 +2081,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 160081,
       "name": "Light Show",
       "url": "https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG"
@@ -2100,7 +2121,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 181417,
       "name": "LO*E DR*G",
       "url": "https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN"
@@ -2308,7 +2329,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Mindfuck",
       "url": "https://open.spotify.com/track/3Ab83RolErGgia4RzGbczc"
@@ -2326,7 +2347,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213543,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/2DE6qfjcw3kCh9LQlwCItw"
@@ -2766,7 +2787,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Represent",
       "url": "https://open.spotify.com/track/0m1T6bvHN1TtWJD88cgXLo"
@@ -2784,7 +2805,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238080,
       "name": "Ride with Us",
       "url": "https://open.spotify.com/track/71mJJ2kF8TnwDbNnBbSnzy"
@@ -2876,7 +2897,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144590,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco"
@@ -2938,7 +2959,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 174696,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/0ZVpeCq77i5ZkXWLfalueR"
@@ -3056,7 +3077,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 172380,
       "name": "Stylin (feat. Dread Mc)",
       "url": "https://open.spotify.com/track/4CkNZ89V4ojzlrotfcBR2M"
@@ -3162,7 +3183,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220645,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S"

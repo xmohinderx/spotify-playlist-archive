@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Folksy takes on your favorite tracks. Cover: Waxahatchee",
   "name": "Folksy Covers",
+  "published_playlist_ids": [
+    "6KADyqBu5lIdzQAumGvv1d"
+  ],
   "tracks": [
     {
       "album": {
@@ -164,7 +167,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200705,
       "name": "Anthems For A Seventeen Year Old Girl",
       "url": "https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V"
@@ -254,7 +257,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 259920,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/4zzi2eD2cEPpQ3a307mPPj"
@@ -312,7 +315,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197306,
       "name": "Bluebird Wine - 2003 Remaster",
       "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
@@ -652,7 +655,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 294613,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/01J26T3XB19o21N7XV4npl"
@@ -786,7 +789,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275880,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
@@ -982,7 +985,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 289586,
       "name": "Freedom Highway",
       "url": "https://open.spotify.com/track/3BpfVJSY1fUlzHXfnrzsSg"
@@ -1330,7 +1333,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
@@ -1758,7 +1761,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 294957,
       "name": "Mississippi Goddam (feat. Adia Victoria & Kyshona Armstrong)",
       "url": "https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm"
@@ -1924,7 +1927,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173714,
       "name": "Prayer in Open D",
       "url": "https://open.spotify.com/track/4fuBj2N1iQNL58iP8FzHQc"
@@ -2322,7 +2325,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"

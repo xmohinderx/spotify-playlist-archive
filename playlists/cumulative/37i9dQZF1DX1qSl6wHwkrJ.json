@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Christmas classics from your favourite Blues artists. ",
   "name": "Christmas Blues",
+  "published_playlist_ids": [
+    "2ff9bHziRvMPkCidiX8ZOI"
+  ],
   "tracks": [
     {
       "album": {
@@ -686,7 +689,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 272266,
       "name": "Please Let Me Be Your Santa Claus",
       "url": "https://open.spotify.com/track/2V6sTUWqFFb1WUwOIID6QZ"
@@ -830,7 +833,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203266,
       "name": "Santa Claus Wants Some Lovin'",
       "url": "https://open.spotify.com/track/35d8cz7V2ppNIwmPFV5w9g"

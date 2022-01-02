@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Timeless Latin hits, solo tus favoritos!",
   "name": "Esenciales",
+  "published_playlist_ids": [
+    "6Way9yNdo6mukwZcZ3i08m"
+  ],
   "tracks": [
     {
       "album": {
@@ -436,7 +439,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 278493,
       "name": "Bella Se\u00f1ora",
       "url": "https://open.spotify.com/track/5G856yObLTUZpFwZXkZLXu"
@@ -454,7 +457,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 226186,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI"
@@ -682,7 +685,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Coraz\u00f3n En La Maleta",
       "url": "https://open.spotify.com/track/3ljr9ATeLs2BY9gNp7vm62"
@@ -874,7 +877,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 244353,
       "name": "Deja Que Te Bese",
       "url": "https://open.spotify.com/track/1uwPEGzopXl9KawQR1JGXq"
@@ -1460,7 +1463,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 235760,
       "name": "Estrellas Rotas",
       "url": "https://open.spotify.com/track/5OeCxTOOl8N4FAUNZmw4Va"
@@ -1890,7 +1893,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 283120,
       "name": "La Vida Despues De Ti",
       "url": "https://open.spotify.com/track/3ywtpODtgaPs2vjqj4GCBi"
@@ -2028,7 +2031,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197800,
       "name": "Lo Aprend\u00ed de Ti - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3"
@@ -2870,7 +2873,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 157200,
       "name": "Quiero Que Vuelvas",
       "url": "https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT"
@@ -3210,7 +3213,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 262693,
       "name": "Tardes Negras",
       "url": "https://open.spotify.com/track/0IgtEvYFtZEapMoCcgizGQ"
@@ -3246,7 +3249,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 273373,
       "name": "Te lo agradezco, pero no",
       "url": "https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4"
@@ -3264,7 +3267,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
@@ -3358,7 +3361,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 263400,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/1WXtIPNPn1F7Ex2G03kNQI"
@@ -3394,7 +3397,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 246200,
       "name": "Tocando Fondo",
       "url": "https://open.spotify.com/track/12KP3TP0BYKhYWp0H3YXtq"
@@ -3466,7 +3469,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"

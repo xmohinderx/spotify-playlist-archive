@@ -1,29 +1,13 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
   "name": "Jazzy Christmas Dinner",
-  "num_followers": 66582,
+  "num_followers": 66559,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDIwMiwwMDAwMDAwMDgzYTAyMWRhNmI0YjhlMDlmODcwYjYwNjYzMmQ2OTZm",
+  "snapshot_id": "MTY0MTEwODUyOCwwMDAwMDAwMGRmMjNlZjRjNWQ5NzdjMTZmODMyZjFhZjc5OTAxNWYx",
   "tracks": [
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "The Christmas Song (Merry Christmas To You)",
-      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
-    },
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 130345,
       "name": "It's a Marshmallow World",
       "url": "https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -107,22 +107,6 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "Christmas With Ella & Friends",
-        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/2wWlECRmZiILJSgT5KCmxi"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
         "name": "The First Noel",
         "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 90964,
       "name": "The Holly and the Ivy",
       "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "Christmas With Ella & Friends",
+        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/2wWlECRmZiILJSgT5KCmxi"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -155,6 +155,22 @@
       "duration_ms": 158133,
       "name": "Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Beautiful, Altogether",
+      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -187,34 +203,18 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/6vWS3FRodKtNLbH25ZbNt5"
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Beautiful, Altogether",
-      "url": "https://open.spotify.com/track/7qsv2ZaehJN4uIkCDsubKQ"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
-        "name": "White Nights",
-        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
-      },
-      "artists": [
-        {
-          "name": "Meadowpoint",
-          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
-        }
-      ],
-      "duration_ms": 145483,
-      "name": "Ding Dong Merrily on High",
-      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
+      "duration_ms": 220133,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -235,18 +235,18 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+        "name": "White Nights",
+        "url": "https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst"
       },
       "artists": [
         {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Meadowpoint",
+          "url": "https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21"
         }
       ],
-      "duration_ms": 220133,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
+      "duration_ms": 145483,
+      "name": "Ding Dong Merrily on High",
+      "url": "https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 169506,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
         "name": "Best Of / 20th Century - Christmas",
         "url": "https://open.spotify.com/album/6ZDopFxyk160WEpKuIuhUq"
       },
@@ -387,38 +403,6 @@
       "duration_ms": 174000,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/4Jj3HUcLGj0ysrJRmtgN3a"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
-        "name": "Christmas With Ella & Friends",
-        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "Here Comes Santa Claus (Down Santa Claus Lane)",
-      "url": "https://open.spotify.com/track/19LwRHfT9YVd8OWcIWzsHK"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
-        "name": "An Oscar Peterson Christmas",
-        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 169506,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -467,6 +451,22 @@
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/5a1iz510sv2W9Dt1MvFd5R"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "Christmas With Ella & Friends",
+        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Here Comes Santa Claus (Down Santa Claus Lane)",
+      "url": "https://open.spotify.com/track/19LwRHfT9YVd8OWcIWzsHK"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -591,22 +591,6 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
         "name": "Joe Pass - Six String Santa",
         "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
       },
@@ -623,6 +607,22 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
         "name": "Christmas With Ella & Friends",
         "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 168666,
       "name": "You Don't Have To Be A Santa Claus (When Christmas Comes Around)",
       "url": "https://open.spotify.com/track/2ruEhydzvd72btuYoXX1oV"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "Reflections III Christmas",
+        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
+      },
+      "artists": [
+        {
+          "name": "Sissel",
+          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
+        }
+      ],
+      "duration_ms": 213889,
+      "name": "Make Me a Present of You",
+      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -687,38 +703,6 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "That Holiday Feelin'",
-        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
-      },
-      "artists": [
-        {
-          "name": "Joe Williams",
-          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
-        }
-      ],
-      "duration_ms": 313066,
-      "name": "Christmas Rainbows",
-      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
-        "name": "Reflections III Christmas",
-        "url": "https://open.spotify.com/album/1fxObqAQsE5iz2lEWQwrL6"
-      },
-      "artists": [
-        {
-          "name": "Sissel",
-          "url": "https://open.spotify.com/artist/2jaOpr7Go1avixlg1lfJOb"
-        }
-      ],
-      "duration_ms": 213889,
-      "name": "Make Me a Present of You",
-      "url": "https://open.spotify.com/track/09MXanUedyI3MBy3KXHxrk"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
         "name": "The Essential Eartha Kitt",
         "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "A Jolly Christmas From Frank Sinatra",
-        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+        "name": "Christmas With Ella & Friends",
+        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
         }
       ],
-      "duration_ms": 181773,
-      "name": "The Christmas Waltz - Remastered 1999",
-      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
+      "duration_ms": 162979,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/2Zwx4HXBBz8DHrIrsPI8gZ"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -783,18 +767,34 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "Christmas With Ella & Friends",
-        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
+        "name": "That Holiday Feelin'",
+        "url": "https://open.spotify.com/album/73x03sZD5Xkb6cOqbJ5R1j"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Joe Williams",
+          "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 162979,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/2Zwx4HXBBz8DHrIrsPI8gZ"
+      "duration_ms": 313066,
+      "name": "Christmas Rainbows",
+      "url": "https://open.spotify.com/track/3YriJtNU0FTmdTE8vZUaxd"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 181773,
+      "name": "The Christmas Waltz - Remastered 1999",
+      "url": "https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -831,22 +831,6 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters",
-        "url": "https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76"
-      },
-      "artists": [
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "I'd Like To Hitch A Ride With Santa Claus",
-      "url": "https://open.spotify.com/track/13OvBxKYOl8Gy1hanZkqPQ"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/3ZHBI81GwgJyEfkbj3ueAr"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "Christmas With Etta Jones",
-        "url": "https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI"
+        "name": "A Merry Christmas With Bing Crosby & The Andrews Sisters",
+        "url": "https://open.spotify.com/album/6gIKhHXyNJzmFO9OQpEL76"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Ring The Bells",
-      "url": "https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA"
+      "duration_ms": 181533,
+      "name": "I'd Like To Hitch A Ride With Santa Claus",
+      "url": "https://open.spotify.com/track/13OvBxKYOl8Gy1hanZkqPQ"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -891,6 +875,22 @@
       "duration_ms": 345133,
       "name": "Santa Claus Blues",
       "url": "https://open.spotify.com/track/2UlYU8FYRi8ejPfPbGs2pH"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "Christmas With Etta Jones",
+        "url": "https://open.spotify.com/album/1gr7kGHxjoYXfD6g7UXSZI"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Ring The Bells",
+      "url": "https://open.spotify.com/track/6cMTdYjGTUxqqoHQtJXoWA"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -943,22 +943,6 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "Away In a Manger",
-        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
-      },
-      "artists": [
-        {
-          "name": "Tannenbaum Trio",
-          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
-        }
-      ],
-      "duration_ms": 69541,
-      "name": "Away In a Manger",
-      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
         "name": "Christmas Classics",
         "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
-        "name": "Jazz Christmas",
-        "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
+        "name": "Away In a Manger",
+        "url": "https://open.spotify.com/album/0zMvwS3xk4yzILsWST0dZ5"
       },
       "artists": [
         {
-          "name": "Nicki Parrott",
-          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl"
+      "duration_ms": 69541,
+      "name": "Away In a Manger",
+      "url": "https://open.spotify.com/track/2GRvpoXLoxOiu88ME6YX6y"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -1011,6 +995,22 @@
     {
       "added_at": "2021-12-21 12:49:16",
       "album": {
+        "name": "Jazz Christmas",
+        "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Parrott",
+          "url": "https://open.spotify.com/artist/5iHeuA1c9Mvy1DXO7aToU7"
+        }
+      ],
+      "duration_ms": 230906,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3FSkM93UUqfYURsDbDlYyl"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
         "name": "The Christmas Song (Expanded Edition)",
         "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
@@ -1023,6 +1023,26 @@
       "duration_ms": 139466,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/07grjb29wSIEwP4xKtZUjH"
+    },
+    {
+      "added_at": "2021-12-21 12:49:16",
+      "album": {
+        "name": "Jazz For Joy: A Verve Christmas Album",
+        "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 280933,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
     },
     {
       "added_at": "2021-12-21 12:49:16",
@@ -1059,26 +1079,6 @@
       "duration_ms": 185626,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL"
-    },
-    {
-      "added_at": "2021-12-21 12:49:16",
-      "album": {
-        "name": "Jazz For Joy: A Verve Christmas Album",
-        "url": "https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc"
-      },
-      "artists": [
-        {
-          "name": "Christian McBride",
-          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
-        },
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 280933,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/0chBHr9DJuSYwN5JuunfY5"
     },
     {
       "added_at": "2021-12-21 12:49:16",

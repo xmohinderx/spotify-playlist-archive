@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKyJS56d1pgi.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,082 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,079 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

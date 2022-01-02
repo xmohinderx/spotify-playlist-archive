@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/37i9dQZF1E8LxY0mOH4jEX)
 
-> With Bruno Mars, Maroon 5, Don Diablo, The Jackson 5 and more
+> With Bruno Mars, Anna Kendrick, Don Diablo, The Jackson 5 and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,028 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,027 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8LxY0mOH4jEX.md) - [plain]
 | 49 | [No Excuses](https://open.spotify.com/track/13KCcVDJM9rrQlPgGtepK8) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:32 |
 | 50 | [Beautiful Girls](https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Beautiful Girls](https://open.spotify.com/album/71clfVkkopYLrgweVj2cow) | 3:45 |
 
-Snapshot ID: `MTY0MTA4NDQ1MiwwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4`
+Snapshot ID: `MTY0MTEwODc2NywwMDAwMDAwMDg1ZTZiNDA3YzgxMjA1YjVhMjdkMzk1NDI4NjU5OTk4`

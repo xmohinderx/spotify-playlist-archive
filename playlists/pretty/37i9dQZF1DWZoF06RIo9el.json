@@ -1,12 +1,12 @@
 {
   "description": "The Latin hits of tomorrow are on Spotify today.  Cover: Eladio Carrion",
   "name": "Future Hits: Latin",
-  "num_followers": 1455594,
+  "num_followers": 1455583,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDA5NiwwMDAwMDAwMDM3ODk1OTUxNmE0ZTlmNTYxMGYxZmM2ZjkwMDQ2MmZl",
+  "snapshot_id": "MTY0MTEwODQyNiwwMDAwMDAwMDI0NzUwZGQ5MDRiNmYwNjllOTQ5ZmM3ODkzNGI2ZWM0",
   "tracks": [
     {
       "added_at": "2021-12-14 21:03:50",
@@ -75,18 +75,22 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+        "name": "Mal Acostumbrao",
+        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+      "duration_ms": 190405,
+      "name": "Mal Acostumbrao",
+      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -107,22 +111,34 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "Mal Acostumbrao",
-        "url": "https://open.spotify.com/album/1UEzLJ7ykAt3pwIznJrI8Q"
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 190405,
-      "name": "Mal Acostumbrao",
-      "url": "https://open.spotify.com/track/1wcE84DVQUF16xudVFzezL"
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "La Funka",
+        "url": "https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 198827,
+      "name": "La Funka",
+      "url": "https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -147,22 +163,6 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "La Funka",
-        "url": "https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 198827,
-      "name": "La Funka",
-      "url": "https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -179,26 +179,6 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Se Menea",
-        "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Se Menea",
-      "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -223,6 +203,26 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
+        "name": "Se Menea",
+        "url": "https://open.spotify.com/album/1MtqA947JKdlShamS80Wr5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 190880,
+      "name": "Se Menea",
+      "url": "https://open.spotify.com/track/1ZcrHpBbILPNfhBtPhQVHh"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
         "name": "Mat\u00f3 Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/7qGDQXrIHDq4WqkDxN78XD"
       },
@@ -239,58 +239,22 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "VACAXIONES",
-        "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
+        "name": "Cachito",
+        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "VACAXIONES",
-      "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Wow Wow (feat. Becky G)",
-        "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 199772,
-      "name": "Wow Wow (feat. Becky G)",
-      "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Mejor Sola",
-        "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 230776,
-      "name": "Mejor Sola",
-      "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
+      "duration_ms": 188546,
+      "name": "Cachito",
+      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -335,6 +299,62 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
+        "name": "Mejor Sola",
+        "url": "https://open.spotify.com/album/3TI2wvsbQINrmuV5CIXwWH"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 230776,
+      "name": "Mejor Sola",
+      "url": "https://open.spotify.com/track/5bpklP2B9Nlj5BO90RuCyA"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Wow Wow (feat. Becky G)",
+        "url": "https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Wow Wow (feat. Becky G)",
+      "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "VACAXIONES",
+        "url": "https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "VACAXIONES",
+      "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
         "name": "LAS OLAS",
         "url": "https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p"
       },
@@ -355,22 +375,18 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "Cachito",
-        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
+        "name": "Intentar",
+        "url": "https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "The Change",
+          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
         }
       ],
-      "duration_ms": 188546,
-      "name": "Cachito",
-      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+      "duration_ms": 190416,
+      "name": "Intentar",
+      "url": "https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -391,22 +407,6 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Intentar",
-        "url": "https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn"
-      },
-      "artists": [
-        {
-          "name": "The Change",
-          "url": "https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK"
-        }
-      ],
-      "duration_ms": 190416,
-      "name": "Intentar",
-      "url": "https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -451,22 +451,18 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "EL LOBBY",
-        "url": "https://open.spotify.com/album/0ihbQj0DqoCTxtuAc4ggJS"
+        "name": "Vamo\u2019 A Beber",
+        "url": "https://open.spotify.com/album/6E0WZlZ3Wu0GZ4umVzWyE1"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
         }
       ],
-      "duration_ms": 208057,
-      "name": "EL LOBBY",
-      "url": "https://open.spotify.com/track/14gKV9ddDCAhm21tUngnY0"
+      "duration_ms": 189006,
+      "name": "Vamo\u2019 A Beber",
+      "url": "https://open.spotify.com/track/52Jv0Db51Aa3LztWh00xVU"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -487,46 +483,6 @@
       "duration_ms": 209546,
       "name": "De Frente",
       "url": "https://open.spotify.com/track/5T0DhxjhBrdrG1H6JTsLpA"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Vamo\u2019 A Beber",
-        "url": "https://open.spotify.com/album/6E0WZlZ3Wu0GZ4umVzWyE1"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 189006,
-      "name": "Vamo\u2019 A Beber",
-      "url": "https://open.spotify.com/track/52Jv0Db51Aa3LztWh00xVU"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Unisex",
-        "url": "https://open.spotify.com/album/4HBSwyNAlIwgVkUNqDdWbn"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 277751,
-      "name": "M\u00e1quina del Tiempo",
-      "url": "https://open.spotify.com/track/1h30YmutXoFXcSruha08zj"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -575,62 +531,6 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "Una Chica Como T\u00fa",
-        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "Una Chica Como T\u00fa",
-      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Dorito & Coca-Cola",
-        "url": "https://open.spotify.com/album/6aihn3huRuRNqouOcdPmRX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 153697,
-      "name": "Dorito & Coca-Cola",
-      "url": "https://open.spotify.com/track/61Ebr3GVSelgx3I18exUIj"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 197241,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
         "name": "Pegao",
         "url": "https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO"
       },
@@ -647,22 +547,46 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "Coldplay",
-        "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
+        "name": "EL LOBBY",
+        "url": "https://open.spotify.com/album/0ihbQj0DqoCTxtuAc4ggJS"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         },
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 183920,
-      "name": "Coldplay",
-      "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
+      "duration_ms": 208057,
+      "name": "EL LOBBY",
+      "url": "https://open.spotify.com/track/14gKV9ddDCAhm21tUngnY0"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Unisex",
+        "url": "https://open.spotify.com/album/4HBSwyNAlIwgVkUNqDdWbn"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 277751,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/1h30YmutXoFXcSruha08zj"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -687,6 +611,26 @@
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/5qhKAVJqruluLhgIe3wo1A"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        },
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 197241,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/7M9dU6JqgKnGWGgkAoHD0m"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -723,18 +667,58 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "Tu Weekend",
-        "url": "https://open.spotify.com/album/1Er5uQwx2dA0WGZuBHOooU"
+        "name": "Una Chica Como T\u00fa",
+        "url": "https://open.spotify.com/album/7neBiMNxuv7nz6z8v1JB1M"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 148847,
-      "name": "Tu Weekend",
-      "url": "https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv"
+      "duration_ms": 167640,
+      "name": "Una Chica Como T\u00fa",
+      "url": "https://open.spotify.com/track/39IgIaGpqk7DQx7EZpmgCJ"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Dorito & Coca-Cola",
+        "url": "https://open.spotify.com/album/6aihn3huRuRNqouOcdPmRX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 153697,
+      "name": "Dorito & Coca-Cola",
+      "url": "https://open.spotify.com/track/61Ebr3GVSelgx3I18exUIj"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Coldplay",
+        "url": "https://open.spotify.com/album/10rK1UDegx1LEDnbswIkTk"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Coldplay",
+      "url": "https://open.spotify.com/track/1aaACV8X5g9coHgXLlEfIX"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -767,6 +751,22 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
+        "name": "Tu Weekend",
+        "url": "https://open.spotify.com/album/1Er5uQwx2dA0WGZuBHOooU"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 148847,
+      "name": "Tu Weekend",
+      "url": "https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
         "name": "Dance Crip",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
-        "name": "Si Yo Estoy Loco",
-        "url": "https://open.spotify.com/album/26Bn7ZYhbejXkNV32jQLk5"
-      },
-      "artists": [
-        {
-          "name": "Sanluis",
-          "url": "https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW"
-        },
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 213005,
-      "name": "Si Yo Estoy Loco",
-      "url": "https://open.spotify.com/track/4IK4EszBJ2wzMuwNGh1YzF"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -827,6 +807,26 @@
       "duration_ms": 186000,
       "name": "Socadona (feat. Mr. Vegas)",
       "url": "https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Si Yo Estoy Loco",
+        "url": "https://open.spotify.com/album/26Bn7ZYhbejXkNV32jQLk5"
+      },
+      "artists": [
+        {
+          "name": "Sanluis",
+          "url": "https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 213005,
+      "name": "Si Yo Estoy Loco",
+      "url": "https://open.spotify.com/track/4IK4EszBJ2wzMuwNGh1YzF"
     },
     {
       "added_at": "2021-12-14 21:03:50",
@@ -919,22 +919,6 @@
     {
       "added_at": "2021-12-14 21:03:50",
       "album": {
-        "name": "Midtown",
-        "url": "https://open.spotify.com/album/0XEPeZszOiMvSVTWmpgR5s"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 205709,
-      "name": "Midtown",
-      "url": "https://open.spotify.com/track/4lyhbrXClLAza4bFA21ir0"
-    },
-    {
-      "added_at": "2021-12-14 21:03:50",
-      "album": {
         "name": "Esos D\u00edas - Spotify Singles",
         "url": "https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 151020,
       "name": "Esos D\u00edas - Spotify Singles",
       "url": "https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY"
+    },
+    {
+      "added_at": "2021-12-14 21:03:50",
+      "album": {
+        "name": "Midtown",
+        "url": "https://open.spotify.com/album/0XEPeZszOiMvSVTWmpgR5s"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 205709,
+      "name": "Midtown",
+      "url": "https://open.spotify.com/track/4lyhbrXClLAza4bFA21ir0"
     },
     {
       "added_at": "2021-12-14 21:03:50",

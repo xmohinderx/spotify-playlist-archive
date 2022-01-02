@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "The '90s had an amazing soundtrack. Let's reminisce with these R&B jams!",
   "name": "I Love My '90s R&B",
+  "published_playlist_ids": [
+    "1VYI8Qigj4Sumv75JdWTOA"
+  ],
   "tracks": [
     {
       "album": {
@@ -60,7 +63,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275106,
       "name": "B.B.D. (I Thought It Was Me)?",
       "url": "https://open.spotify.com/track/4oRDt0qQeY4XQOQWYOQUmt"
@@ -576,7 +579,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242360,
       "name": "In My Bed - So So Def Mix",
       "url": "https://open.spotify.com/track/0IBgCsG8dRnUtveiIaoFHF"
@@ -594,7 +597,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "It Had to Be You",
       "url": "https://open.spotify.com/track/0UH3m8uxVdQDCtG61CKMXE"
@@ -648,7 +651,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
@@ -764,7 +767,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 232733,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/2ZmUMKX5cJQfQj12SmGYtg"
@@ -1036,7 +1039,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 219120,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"

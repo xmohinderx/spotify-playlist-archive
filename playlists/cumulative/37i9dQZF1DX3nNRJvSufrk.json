@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago. Cover: DJ Manny",
   "name": "Footwork/Juke",
+  "published_playlist_ids": [
+    "3oCTRz60otx3xUwTM6srZy"
+  ],
   "tracks": [
     {
       "album": {
@@ -1300,7 +1303,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 312106,
       "name": "Set It",
       "url": "https://open.spotify.com/track/1T7BgOvzf2pNKs6vTGfw99"
@@ -1318,7 +1321,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 312106,
       "name": "Set It",
       "url": "https://open.spotify.com/track/72paK2vF9UTopN6XAsijRX"
@@ -1474,7 +1477,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194541,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/2r9821O4VvvqaRQles7VlL"
@@ -1492,7 +1495,7 @@
       ],
       "date_added": "2020-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 194541,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/5Qdcx5xvBBckTVyYiHdQuN"

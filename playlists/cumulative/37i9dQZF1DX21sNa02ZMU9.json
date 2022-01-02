@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Feel on top of the world with these uplifting anthems of the 00s",
   "name": "Good Feeling 00s",
+  "published_playlist_ids": [
+    "1JS0kEefQI1qgwW3Y378aD"
+  ],
   "tracks": [
     {
       "album": {
@@ -88,7 +91,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200120,
       "name": "Act Yr Age",
       "url": "https://open.spotify.com/track/0pBVEfjoWDErPWlboJbRdR"
@@ -290,7 +293,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 196226,
       "name": "Bubbly",
       "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
@@ -308,7 +311,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205733,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd"
@@ -506,7 +509,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1mr3616BzLdhXfJmLmRsO8"
@@ -564,7 +567,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227619,
       "name": "Groovejet (If This Ain't Love) [feat. Sophie Ellis-Bextor]",
       "url": "https://open.spotify.com/track/5ydeCNaWDmFbu4zl0roPAH"
@@ -698,7 +701,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/04aQmJ2Bvd7gb65Af9ZNzC"
@@ -1030,7 +1033,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 196946,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8"
@@ -1048,7 +1051,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218093,
       "name": "Push The Button",
       "url": "https://open.spotify.com/track/3EDS89HeAhHiZKlljciK0a"
@@ -1174,7 +1177,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
@@ -1210,7 +1213,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 213986,
       "name": "Shine",
       "url": "https://open.spotify.com/track/672uPLDAVUmeCOh0UD128y"
@@ -1282,10 +1285,28 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201626,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4ZC8hXXqu2hPcDLw9QTdtQ"
+    },
+    {
+      "album": {
+        "name": "Funhouse",
+        "url": "https://open.spotify.com/album/21tsMIrRLUKFwfvX9oxQZR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215160,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/49KhRYxcukqBtmeSy44s2B"
     },
     {
       "album": {
@@ -1408,7 +1429,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 182386,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/6gjjyhY00azOGzdeZqyuW9"
@@ -1426,7 +1447,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 271906,
       "name": "Take Your Mama",
       "url": "https://open.spotify.com/track/75lZOZjQaA66br3Vu1iYCw"

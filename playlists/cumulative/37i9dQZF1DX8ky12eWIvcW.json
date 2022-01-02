@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Turn up with the biggest party tracks of the '90s and '00s.",
   "name": "Throwback Jams",
+  "published_playlist_ids": [
+    "6l7zisn5J6TZh32hHzVzEo"
+  ],
   "tracks": [
     {
       "album": {
@@ -172,7 +175,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227293,
       "name": "All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",
       "url": "https://open.spotify.com/track/6u5M4jPpYkoRV4vVHDQvkd"
@@ -632,7 +635,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 265866,
       "name": "Ghetto Supastar (That Is What You Are)",
       "url": "https://open.spotify.com/track/3ZI94oaQBva1OK6DmpIGG7"
@@ -720,7 +723,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
@@ -1724,7 +1727,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 324373,
       "name": "Rosa Parks",
       "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9"
@@ -2002,7 +2005,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
@@ -2246,7 +2249,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"

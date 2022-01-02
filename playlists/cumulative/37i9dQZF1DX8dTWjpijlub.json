@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "The champs are here.",
   "name": "Trophy Room",
+  "published_playlist_ids": [
+    "7c3mbv9wG0Fh52EVbq32G1"
+  ],
   "tracks": [
     {
       "album": {
@@ -38,7 +41,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "2 Sauce",
       "url": "https://open.spotify.com/track/2JzX9cvgywUC1hDfoMGYRK"
@@ -122,7 +125,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 167915,
       "name": "After Party",
       "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
@@ -140,7 +143,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 156032,
       "name": "All In",
       "url": "https://open.spotify.com/track/6PhChjgiQ3hERBwkqlAa5Q"
@@ -732,7 +735,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/1viUV5EGlKGCiSveBfFeQg"
@@ -914,7 +917,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 188563,
       "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
       "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"
@@ -940,6 +943,28 @@
       "duration_ms": 180805,
       "name": "On Go (feat. Polo G)",
       "url": "https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM"
+    },
+    {
+      "album": {
+        "name": "Outside (Better Days)",
+        "url": "https://open.spotify.com/album/1DJ4bBATfVNTZ3Y0JlX9oi"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Og Bobby Billions",
+          "url": "https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148715,
+      "name": "Outside (Better Days)",
+      "url": "https://open.spotify.com/track/26BMsCXJpD7eYtP7ufhApC"
     },
     {
       "album": {
@@ -1182,7 +1207,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 172105,
       "name": "Shoot My Shot",
       "url": "https://open.spotify.com/track/5q9Et9kJTWvRg80uQLBW4s"
@@ -1380,10 +1405,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188320,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
+    },
+    {
+      "album": {
+        "name": "Vaccine",
+        "url": "https://open.spotify.com/album/3MYWr5418EXuoq5udBmqIC"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121650,
+      "name": "Vaccine",
+      "url": "https://open.spotify.com/track/3SDCwIs4eizbx4rDIgB9Lf"
     },
     {
       "album": {
@@ -1398,7 +1441,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144935,
       "name": "VIBEZ",
       "url": "https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM"
@@ -1464,7 +1507,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214960,
       "name": "Welcome To The Party",
       "url": "https://open.spotify.com/track/0fIffclhgJC5h8AdMMVvkp"
@@ -1486,7 +1529,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275162,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/7Ei7kZxjEw9d76cEDxoxua"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Abel Pintos & Los Palmeras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,995 likes - 103 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,099 likes - 103 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

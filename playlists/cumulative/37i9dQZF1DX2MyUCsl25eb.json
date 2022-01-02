@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
   "name": "Morning Commute",
+  "published_playlist_ids": [
+    "5aOC3Wi6MSjtqKeAIF8G0z"
+  ],
   "tracks": [
     {
       "album": {
@@ -124,7 +127,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258733,
       "name": "Bad To Worse",
       "url": "https://open.spotify.com/track/4UnkELKTWTBKeuQHiiVdsl"
@@ -366,7 +369,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 230234,
       "name": "Coast",
       "url": "https://open.spotify.com/track/0mwmnzC58HlOGPmX82jKZs"
@@ -640,7 +643,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
@@ -1250,7 +1253,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/3lHtxy7keWMXYBQU5LkUXH"
@@ -1734,7 +1737,7 @@
       ],
       "date_added": "2021-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194231,
       "name": "You Better Run",
       "url": "https://open.spotify.com/track/7BX7n5ZRHCM8Ao4dN70qnC"
@@ -1752,7 +1755,7 @@
       ],
       "date_added": "2021-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208064,
       "name": "You Love Are My Only",
       "url": "https://open.spotify.com/track/4MVqOvkS751uyilBIQqeMO"

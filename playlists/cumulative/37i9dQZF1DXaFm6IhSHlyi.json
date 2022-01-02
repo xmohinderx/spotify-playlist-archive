@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
   "name": "Ballads International",
+  "published_playlist_ids": [
+    "1ZTU8Dt8vxdmkmh5cekOqK"
+  ],
   "tracks": [
     {
       "album": {
@@ -404,7 +407,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 197600,
       "name": "Bhula Dunga",
       "url": "https://open.spotify.com/track/7pmY8QjqZP8GRV6qBRpheu"
@@ -1188,7 +1191,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 225453,
       "name": "In meiner Erinnerung",
       "url": "https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l"
@@ -1980,7 +1983,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/1NrDot6zcivIjCVMFoe7uV"
@@ -2088,7 +2091,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 186915,
       "name": "Sikasih",
       "url": "https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2"
@@ -2168,7 +2171,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
@@ -2240,7 +2243,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 143799,
       "name": "Taal (#YOM 10)",
       "url": "https://open.spotify.com/track/3xy6zmlJbmFvTkn3P87TCC"
@@ -2472,7 +2475,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 210857,
       "name": "Tum Na Ho",
       "url": "https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj"
@@ -2548,7 +2551,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 209627,
       "name": "Vanha (feat. BEHM)",
       "url": "https://open.spotify.com/track/3VMLjw1WTEU5xEcNfNiUMd"
@@ -2780,7 +2783,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 155294,
       "name": "\u041c\u043e\u044f \u0434\u0443\u0448\u0430",
       "url": "https://open.spotify.com/track/4QtIr8eU5jvKTmM1T44rnJ"
@@ -3054,7 +3057,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 284360,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"

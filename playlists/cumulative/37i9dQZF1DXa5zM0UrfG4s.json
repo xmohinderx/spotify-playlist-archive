@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle & Den BB",
   "name": "Livet p\u00e5 B\u00f8gda!",
+  "published_playlist_ids": [
+    "3zMqShr44pcg3CK0Psc64W"
+  ],
   "tracks": [
     {
       "album": {
@@ -140,7 +143,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 180826,
       "name": "Alt du vil ha",
       "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
@@ -176,7 +179,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 196080,
       "name": "Bare for i kveld",
       "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
@@ -412,7 +415,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 178103,
       "name": "Det \u00e5rn\u00e6r s\u00e6",
       "url": "https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp"
@@ -488,7 +491,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 236386,
       "name": "Ei runde til",
       "url": "https://open.spotify.com/track/660vI3gYDKGe8p3hEfNvwT"
@@ -710,7 +713,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 160002,
       "name": "Ga\u030ardsgutt",
       "url": "https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC"
@@ -902,7 +905,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 179500,
       "name": "H\u00e5per du er lykkelig n\u00e5",
       "url": "https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d"
@@ -938,7 +941,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 164905,
       "name": "Ja vi elsker (Typisk Norsk 2019)",
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
@@ -1011,6 +1014,24 @@
     },
     {
       "album": {
+        "name": "J\u00e6vel",
+        "url": "https://open.spotify.com/album/1wjs2ODEQjb5IR69btor9l"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "J\u00e6vel",
+      "url": "https://open.spotify.com/track/47i5Fl1PK2PO3D0PHi5hwd"
+    },
+    {
+      "album": {
         "name": "Kentucky",
         "url": "https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7"
       },
@@ -1062,7 +1083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs"
@@ -1292,7 +1313,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 170526,
       "name": "N\u00e5 Er Det Fredan Igjen",
       "url": "https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo"
@@ -1328,7 +1349,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 169466,
       "name": "N\u00e5 Koser Vi Oss",
       "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
@@ -1614,7 +1635,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206053,
       "name": "Sj\u00e5 sole",
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
@@ -1784,7 +1805,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 215119,
       "name": "Sykepleierinnen - Remix",
       "url": "https://open.spotify.com/track/7ysbOWocXnU71Td0ggrrGd"
@@ -1820,7 +1841,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 278457,
       "name": "S\u00e5nn So Det Va F\u00f8r",
       "url": "https://open.spotify.com/track/4s6yGnZ8L7PqTsKftYgADQ"

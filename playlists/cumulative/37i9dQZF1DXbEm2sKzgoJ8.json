@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Set the mood just right...",
   "name": "Make Out Jams",
+  "published_playlist_ids": [
+    "4zTYKLjx7UDt8CxQque0o1"
+  ],
   "tracks": [
     {
       "album": {
@@ -344,7 +347,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227964,
       "name": "Case of You",
       "url": "https://open.spotify.com/track/3b7g1DPRwUy1QRkYxoJYW1"
@@ -542,7 +545,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 181186,
       "name": "Daddy Issues (Remix) feat. Syd",
       "url": "https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe"

@@ -1,13 +1,29 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
   "name": "\u201980s Jam Session",
-  "num_followers": 646291,
+  "num_followers": 646363,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDEwNiwwMDAwMDAwMDEyZjg3YTdjODk3OWQ4NGE5ZGMzMjg4YmM5NTJiODI0",
+  "snapshot_id": "MTY0MTEwODQzNiwwMDAwMDAwMDc2MzVlYWFiYzk2NzRlMWQ4ZWFmNjM1YzI2NzIwOTc4",
   "tracks": [
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Best Of The Gap Band",
+        "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 376640,
+      "name": "Outstanding - Original 12\" Mix",
+      "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
+    },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
@@ -27,18 +43,18 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Best Of The Gap Band",
-        "url": "https://open.spotify.com/album/3nsrmd93AcWiyVLtsWFbxL"
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
       },
       "artists": [
         {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 376640,
-      "name": "Outstanding - Original 12\" Mix",
-      "url": "https://open.spotify.com/track/1MOl6vGP299N8vd4zaHMTE"
+      "duration_ms": 314826,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/3geEOHGloO2IIzE45BQWTC"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -71,22 +87,6 @@
       "duration_ms": 364946,
       "name": "Love Come Down",
       "url": "https://open.spotify.com/track/0Of5lCNEqh62twRkQIOLuK"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/5IneLpH3dsBiLlgcSseF8l"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 314826,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/3geEOHGloO2IIzE45BQWTC"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -159,22 +159,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Best of Gerald Levert",
-        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
-      },
-      "artists": [
-        {
-          "name": "Levert",
-          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
-        }
-      ],
-      "duration_ms": 262373,
-      "name": "Casanova",
-      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Thriller",
         "url": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ"
       },
@@ -189,20 +173,20 @@
       "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
+      "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+        "name": "The Best of Gerald Levert",
+        "url": "https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Levert",
+          "url": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
         }
       ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
+      "duration_ms": 262373,
+      "name": "Casanova",
+      "url": "https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -241,20 +225,20 @@
       "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
     },
     {
-      "added_at": "2021-04-01 19:37:56",
+      "added_at": "2021-07-01 19:39:13",
       "album": {
-        "name": "All Our Love",
-        "url": "https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h"
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
       "artists": [
         {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 326733,
-      "name": "Love Overboard",
-      "url": "https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh"
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -273,20 +257,20 @@
       "url": "https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7"
     },
     {
-      "added_at": "2021-07-01 19:39:13",
+      "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+        "name": "All Our Love",
+        "url": "https://open.spotify.com/album/317yszmuS2lV5tGIEepU2h"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
         }
       ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+      "duration_ms": 326733,
+      "name": "Love Overboard",
+      "url": "https://open.spotify.com/track/2dykYf0mZG217bYkiREKEh"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -321,6 +305,38 @@
       "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
     },
     {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+    },
+    {
       "added_at": "2021-04-01 19:37:56",
       "album": {
         "name": "If I Were Your Woman",
@@ -343,38 +359,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Just Gets Better With Time",
-        "url": "https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH"
-      },
-      "artists": [
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 243706,
-      "name": "Rock Steady - Radio Edit",
-      "url": "https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Lost R&B Hits Of The 80S",
-        "url": "https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk"
-      },
-      "artists": [
-        {
-          "name": "E.U.",
-          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Da Butt",
-      "url": "https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "The Best of Keith Sweat: Make You Sweat",
         "url": "https://open.spotify.com/album/6GXk2hxl4q5GoPHarlUet8"
       },
@@ -387,54 +371,6 @@
       "duration_ms": 221400,
       "name": "I Want Her",
       "url": "https://open.spotify.com/track/24gxdUxufJ5eSamdYcPAKH"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Hurry Up This Way Again",
-        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Hurry Up This Way Again",
-      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "On The Rise",
-        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
-      },
-      "artists": [
-        {
-          "name": "The S.O.S Band",
-          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
-        }
-      ],
-      "duration_ms": 416733,
-      "name": "Tell Me If You Still Care",
-      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Greatest Hits Of Freddie Jackson",
-        "url": "https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ"
-      },
-      "artists": [
-        {
-          "name": "Freddie Jackson",
-          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Jam Tonight",
-      "url": "https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -459,54 +395,34 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ"
+        "name": "Just Gets Better With Time",
+        "url": "https://open.spotify.com/album/0OUlAcInVaAk2LrGrQv1bH"
       },
       "artists": [
         {
-          "name": "Kashif",
-          "url": "https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M"
-        },
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
         }
       ],
-      "duration_ms": 282666,
-      "name": "Love Changes (with Meli'sa Morgan) - Digitally Remastered 1998",
-      "url": "https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn"
+      "duration_ms": 243706,
+      "name": "Rock Steady - Radio Edit",
+      "url": "https://open.spotify.com/track/4RRs6lOD5L1KbQ56rp61RM"
     },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2ttKyfkGqMzpQQ6oqBwCqd"
+        "name": "On The Rise",
+        "url": "https://open.spotify.com/album/6Q06918qdBmGSuMlfnERUb"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "The S.O.S Band",
+          "url": "https://open.spotify.com/artist/6pXCjxMOBcWtvULYkFPVW6"
         }
       ],
-      "duration_ms": 327912,
-      "name": "Something In The Way (You Make Me Feel)",
-      "url": "https://open.spotify.com/track/3nW6iZFsJhOTZBeRdC5tKD"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Essential Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "You Know How to Love Me - Edit",
-      "url": "https://open.spotify.com/track/6GqRnLm8b3RLHOmDinAbYt"
+      "duration_ms": 416733,
+      "name": "Tell Me If You Still Care",
+      "url": "https://open.spotify.com/track/2QRR9j7uTyK4nvt7lt5qOB"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -527,6 +443,70 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "The Greatest Hits Of Freddie Jackson",
+        "url": "https://open.spotify.com/album/7thvb896bJwK56oIcZWKwZ"
+      },
+      "artists": [
+        {
+          "name": "Freddie Jackson",
+          "url": "https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Jam Tonight",
+      "url": "https://open.spotify.com/track/2iftQA575wOPFU6VGU3XkJ"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "In Effect Mode",
+        "url": "https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu"
+      },
+      "artists": [
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Off on Your Own (Girl)",
+      "url": "https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2ttKyfkGqMzpQQ6oqBwCqd"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 327912,
+      "name": "Something In The Way (You Make Me Feel)",
+      "url": "https://open.spotify.com/track/3nW6iZFsJhOTZBeRdC5tKD"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "Hurry Up This Way Again",
+        "url": "https://open.spotify.com/album/3733Xb7Z6mY9dwMDkWg3cK"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 353680,
+      "name": "Hurry Up This Way Again",
+      "url": "https://open.spotify.com/track/7fAe2PjWPfVdEur3xUCcvt"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Street Called Desire ... And More",
         "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
       },
@@ -539,6 +519,22 @@
       "duration_ms": 321066,
       "name": "I'll Be Good",
       "url": "https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "Come Share My Love",
+        "url": "https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf"
+      },
+      "artists": [
+        {
+          "name": "Miki Howard",
+          "url": "https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh"
+        }
+      ],
+      "duration_ms": 290533,
+      "name": "Come Share My Love",
+      "url": "https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -559,70 +555,34 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "In Effect Mode",
-        "url": "https://open.spotify.com/album/3RjOQ5eRm9f5kf6ysRpByu"
+        "name": "Love for Love",
+        "url": "https://open.spotify.com/album/1o1QIPcHjUEqzAtVWubyZN"
       },
       "artists": [
         {
-          "name": "Al B. Sure!",
-          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Off on Your Own (Girl)",
-      "url": "https://open.spotify.com/track/2GRMJEIAvKlqJd9UHZTjRD"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+      "duration_ms": 349133,
+      "name": "Keep On Lovin' Me",
+      "url": "https://open.spotify.com/track/3SiUv5vf79EuP0VjIZJ9A2"
     },
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "80's Soul Number 1's",
-        "url": "https://open.spotify.com/album/0GoeyWfdBjNPcC4fVisM7x"
+        "name": "Lost R&B Hits Of The 80S",
+        "url": "https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk"
       },
       "artists": [
         {
-          "name": "Yarbrough & Peoples",
-          "url": "https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV"
+          "name": "E.U.",
+          "url": "https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Don't Stop The Music",
-      "url": "https://open.spotify.com/track/0DVevhcLPiHoLaVyl6dSGr"
-    },
-    {
-      "added_at": "2021-07-01 19:39:13",
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        },
-        {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
-        }
-      ],
-      "duration_ms": 332866,
-      "name": "Feel the Fire",
-      "url": "https://open.spotify.com/track/2Dlo3MHqNxgRKOX6KAmWWO"
+      "duration_ms": 314133,
+      "name": "Da Butt",
+      "url": "https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2"
     },
     {
       "added_at": "2021-04-01 19:37:56",
@@ -643,22 +603,6 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
-        "name": "Love for Love",
-        "url": "https://open.spotify.com/album/1o1QIPcHjUEqzAtVWubyZN"
-      },
-      "artists": [
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Keep On Lovin' Me",
-      "url": "https://open.spotify.com/track/3SiUv5vf79EuP0VjIZJ9A2"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
         "name": "Ready For The World",
         "url": "https://open.spotify.com/album/7J4vN1d089or6LJDdIQxdg"
       },
@@ -671,6 +615,58 @@
       "duration_ms": 240093,
       "name": "Oh Sheila",
       "url": "https://open.spotify.com/track/5PM96PMKMfD1lLX2lryUsG"
+    },
+    {
+      "added_at": "2021-07-01 19:39:13",
+      "album": {
+        "name": "Get as Much Love as You Can",
+        "url": "https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi"
+      },
+      "artists": [
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Nights Over Egypt",
+      "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/18qv2M2UpaSk0H1f0lRauJ"
+      },
+      "artists": [
+        {
+          "name": "Kashif",
+          "url": "https://open.spotify.com/artist/135Rv69sEKYSUfBBaI7i3M"
+        },
+        {
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
+        }
+      ],
+      "duration_ms": 282666,
+      "name": "Love Changes (with Meli'sa Morgan) - Digitally Remastered 1998",
+      "url": "https://open.spotify.com/track/2TQAKues8mUovMsp6u8gpn"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
+        "name": "The Essential Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6VUEth5sqgE8jceRauguLC"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "You Know How to Love Me - Edit",
+      "url": "https://open.spotify.com/track/6GqRnLm8b3RLHOmDinAbYt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0H8hDpv38Ju"

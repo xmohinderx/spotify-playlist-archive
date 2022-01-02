@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen",
   "name": "Rock Covers",
+  "published_playlist_ids": [
+    "6fMWxdc4tVDZLm5e3A4GlR"
+  ],
   "tracks": [
     {
       "album": {
@@ -236,7 +239,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 267000,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5267gVdYWrLoz6ClOhlqmE"
@@ -652,7 +655,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221082,
       "name": "Everything She Wants",
       "url": "https://open.spotify.com/track/01pR1krOFbSYfTbSaxYHq0"
@@ -796,7 +799,7 @@
       ],
       "date_added": "2020-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194426,
       "name": "Growin' Up - acoustic at home",
       "url": "https://open.spotify.com/track/65KqSqOTL5DbFYU5d2kcaT"
@@ -992,7 +995,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 290400,
       "name": "House of the rising sun",
       "url": "https://open.spotify.com/track/4rfYDrmdzFb9Saf4lCxQTP"
@@ -1050,7 +1053,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 216533,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6"
@@ -1452,7 +1455,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195653,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/3RErQfC1s2idTehzBKu4Dh"
@@ -1880,7 +1883,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 278280,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
@@ -1974,7 +1977,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 169319,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/7glhk9s9UWuq9Nhd8l8dPi"
@@ -2342,7 +2345,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 261093,
       "name": "The Man Who Sold The World",
       "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg"
@@ -2566,7 +2569,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 143360,
       "name": "What a Wonderful World",
       "url": "https://open.spotify.com/track/5UvspVN88FScdaUjfcIfhD"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "Hand-curated cuts from the vault, no record player required. ",
   "name": "Turntable",
+  "published_playlist_ids": [
+    "5AAqvpIoHyvDthNcBVV4BF"
+  ],
   "tracks": [
     {
       "album": {
@@ -20,10 +23,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
+    },
+    {
+      "album": {
+        "name": "Switched On Ra",
+        "url": "https://open.spotify.com/album/2q3htL7CiskaRfbmV1xXnn"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336223,
+      "name": "A Call For All Demons",
+      "url": "https://open.spotify.com/track/75ShahS35yl5k6qGckNVay"
     },
     {
       "album": {
@@ -56,7 +77,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238533,
       "name": "Baba Ayoola",
       "url": "https://open.spotify.com/track/5HkJXcRA2gPA7QNP9ozXgK"
@@ -92,7 +113,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
@@ -310,7 +331,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -398,7 +419,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 324271,
       "name": "Desert Mule",
       "url": "https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb"
@@ -434,7 +455,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 134600,
       "name": "Dirtknock",
       "url": "https://open.spotify.com/track/6Eo6VMANKQi3Zc1IdkDfSp"
@@ -474,7 +495,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/0CarV7bYpdZomES1VtPQDh"
@@ -616,7 +637,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196746,
       "name": "Gun Metal Grey",
       "url": "https://open.spotify.com/track/2xBMnos2JHuKgRGr0cSgK5"
@@ -948,7 +969,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
@@ -1038,7 +1059,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 213540,
       "name": "Movementt",
       "url": "https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC"
@@ -1202,7 +1223,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 277245,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4Bigp1M2cas5ocOo0nO8kn"
@@ -1318,7 +1339,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 308746,
       "name": "Pretty Bright Light",
       "url": "https://open.spotify.com/track/1bo2uwP333C9FYNXpH7OHT"
@@ -1336,7 +1357,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 157043,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/5mS0JXt10eEjAeC7wVhEzU"
@@ -1398,7 +1419,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 166200,
       "name": "Romeo (feat. Bas)",
       "url": "https://open.spotify.com/track/2M1NViRgTlFMB6wB7AM7pa"
@@ -1416,7 +1437,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218226,
       "name": "Safe In My Arms",
       "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
@@ -1802,7 +1823,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 272026,
       "name": "U Just R",
       "url": "https://open.spotify.com/track/6yE6L6KPE16EtskOhbdlVk"
@@ -1878,6 +1899,24 @@
       "duration_ms": 235680,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
+    },
+    {
+      "album": {
+        "name": "White Picket Fence",
+        "url": "https://open.spotify.com/album/1AHfQkKelaUKhCXXn9kr1C"
+      },
+      "artists": [
+        {
+          "name": "Koreless",
+          "url": "https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "White Picket Fence",
+      "url": "https://open.spotify.com/track/1S9N0MuXeSajQo0EcGgM3A"
     },
     {
       "album": {

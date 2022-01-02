@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.",
   "name": "Lazy Chill Afternoon",
+  "published_playlist_ids": [
+    "0pfme9U2upA9SIxDVZWpEc"
+  ],
   "tracks": [
     {
       "album": {
@@ -308,7 +311,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -470,7 +473,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 198240,
       "name": "Emotional World",
       "url": "https://open.spotify.com/track/6PxDKdFNU3yaDY1gCLjtTj"
@@ -596,7 +599,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 352758,
       "name": "Gliding",
       "url": "https://open.spotify.com/track/6IMxaXgh0Z1G2xA6iGSOJj"
@@ -1032,7 +1035,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214629,
       "name": "Loving You (One Last Time) - Lounge Version",
       "url": "https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx"
@@ -1432,7 +1435,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 345600,
       "name": "Platonic Jive",
       "url": "https://open.spotify.com/track/3TjIRkNUnTpS3TaBCSCdP6"
@@ -1468,7 +1471,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197142,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/33iouj5bpuoi0tQBgpm3EP"

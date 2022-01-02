@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "A decade full of 00s country hits! Cover: Keith Urban, Carrie Underwood, Kenny Chesney",
   "name": "2000s Country",
+  "published_playlist_ids": [
+    "3pUY5iuYWlsPVBK6AnHFI9"
+  ],
   "tracks": [
     {
       "album": {
@@ -492,6 +495,24 @@
       "duration_ms": 239413,
       "name": "Do I",
       "url": "https://open.spotify.com/track/7A5CReD6yWe0rrkJym34QI"
+    },
+    {
+      "album": {
+        "name": "Do You Believe Me Now",
+        "url": "https://open.spotify.com/album/7vhccDcKK6PRecn07RsLOh"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Wayne",
+          "url": "https://open.spotify.com/artist/60h3lZFY2T93K7qxVPrajf"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204386,
+      "name": "Do You Believe Me Now",
+      "url": "https://open.spotify.com/track/0HbtLdjkFkY8doAZzjRDmj"
     },
     {
       "album": {
@@ -1104,7 +1125,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 230400,
       "name": "Love Don't Live Here",
       "url": "https://open.spotify.com/track/16vNQhg2y5RDkkNaQExLTL"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41xCOSePXnM.md) - [plain]
 
 > Sit there, all by yourself, and listen to the <a href="spotify:artist:2wkz8hACugzAvF0voupg3H">folk legend</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,834 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,835 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

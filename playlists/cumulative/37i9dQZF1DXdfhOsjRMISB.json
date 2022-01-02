@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Country music to accompany your commute. Cover: Eric Church",
   "name": "Country Drive",
+  "published_playlist_ids": [
+    "47rjNHtXp2evdcvfOcsmhH"
+  ],
   "tracks": [
     {
       "album": {
@@ -110,7 +113,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 169920,
       "name": "All To Myself",
       "url": "https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D"
@@ -146,7 +149,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 231920,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
@@ -518,7 +521,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 165386,
       "name": "Body Like A Back Road",
       "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
@@ -786,7 +789,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221240,
       "name": "Country Again",
       "url": "https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG"
@@ -840,7 +843,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 188320,
       "name": "Die From A Broken Heart",
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
@@ -960,7 +963,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 167360,
       "name": "Drunk & I Miss You",
       "url": "https://open.spotify.com/track/7DoUCGBFzVTVfl4Nhl5BZE"
@@ -1000,7 +1003,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 225253,
       "name": "Even Though I'm Leaving",
       "url": "https://open.spotify.com/track/3sVLgsSTHRu483w6QciloO"
@@ -1036,7 +1039,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192586,
       "name": "Everywhere But On",
       "url": "https://open.spotify.com/track/0ifYeH4gNXEyba41xr3I1w"
@@ -1242,7 +1245,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 230842,
       "name": "Giving You Up",
       "url": "https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj"
@@ -1614,7 +1617,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 166573,
       "name": "Hotel Key",
       "url": "https://open.spotify.com/track/33471tzU1VghDg9zNgGRpz"
@@ -1882,7 +1885,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
@@ -1900,7 +1903,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224853,
       "name": "In Case You Didn't Know",
       "url": "https://open.spotify.com/track/10M2Ex445zw585Ducldzkw"
@@ -2156,7 +2159,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 186118,
       "name": "Love Ain't",
       "url": "https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg"
@@ -2174,7 +2177,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 211720,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/43CFDpciGFDm226POTLEXU"
@@ -2318,7 +2321,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192840,
       "name": "Miss Me More",
       "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
@@ -2712,7 +2715,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220573,
       "name": "She's Country",
       "url": "https://open.spotify.com/track/0PspNrE4MSjr1JeB4OW0jn"
@@ -2914,7 +2917,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 202853,
       "name": "Southbound",
       "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
@@ -2950,7 +2953,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 263386,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
@@ -3058,7 +3061,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174254,
       "name": "Take It From Me",
       "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
@@ -3184,7 +3187,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194426,
       "name": "There Was This Girl",
       "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"

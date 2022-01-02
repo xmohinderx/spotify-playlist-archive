@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "The best new songs from modern singer-songwriters. Cover: Jensen McRae",
   "name": "Today's Singer-Songwriters",
+  "published_playlist_ids": [
+    "4XYhXRn3Q3oPGv6d3LNArS"
+  ],
   "tracks": [
     {
       "album": {
@@ -16,7 +19,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 215070,
       "name": "25",
       "url": "https://open.spotify.com/track/1fkIBUJFJ2U1hmVJRo4FTC"
@@ -212,7 +215,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215111,
       "name": "Beat of My Heart",
       "url": "https://open.spotify.com/track/44fTa1co7zmof732liprRg"
@@ -364,7 +367,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1afsbzgZmEP4hVRyGrmIOv"
@@ -674,7 +677,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 127080,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/4VKvrqnpMqW8IATrhGsU8v"
@@ -934,7 +937,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 142150,
       "name": "Four Tequilas Down",
       "url": "https://open.spotify.com/track/7ilxwPIQLBWPIQa1gxYow6"
@@ -1154,7 +1157,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220171,
       "name": "Happier Without Me",
       "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
@@ -1172,7 +1175,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
@@ -1266,7 +1269,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 256760,
       "name": "Here Comes the Flood",
       "url": "https://open.spotify.com/track/3lz94fxTt6BHRjpzV3SvsH"
@@ -1634,7 +1637,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199041,
       "name": "Let Love Heal - Live Deluxe",
       "url": "https://open.spotify.com/track/5oVb4u7s4QLh0hHzHkOXBz"
@@ -1652,7 +1655,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 186601,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/04ZNuBUb2OAM4RUPi6s67q"
@@ -1670,7 +1673,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 256092,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/5qFRPfX8KnMsnlbNrjXxHR"
@@ -2140,7 +2143,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 229076,
       "name": "Nobody's Fault",
       "url": "https://open.spotify.com/track/12pAzc2hvw5kCsVlGKIlD5"
@@ -2566,7 +2569,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 261472,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/0E2LmUQq8ud6OJz55gWgeI"
@@ -2588,6 +2591,24 @@
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "album": {
+        "name": "Slow Separation",
+        "url": "https://open.spotify.com/album/1Sfnsxg3EiSOxXfiVJVnyF"
+      },
+      "artists": [
+        {
+          "name": "Fergus James",
+          "url": "https://open.spotify.com/artist/6iQluOJNzmmaXVVCA0XgbY"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229131,
+      "name": "Slow Separation",
+      "url": "https://open.spotify.com/track/02hJFdZllz45ysp4caZh3z"
     },
     {
       "album": {
@@ -2624,7 +2645,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 236760,
       "name": "Still",
       "url": "https://open.spotify.com/track/5uhVnZboNh4duvA50RgNv5"
@@ -2913,6 +2934,24 @@
     },
     {
       "album": {
+        "name": "Things I Won't Forget",
+        "url": "https://open.spotify.com/album/5ey3vGisgY5j8zMFYYGP5Z"
+      },
+      "artists": [
+        {
+          "name": "Tori Tullier",
+          "url": "https://open.spotify.com/artist/5DuFAJCKleATdVR3UK4aAF"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282793,
+      "name": "Things I Won't Forget",
+      "url": "https://open.spotify.com/track/6QLWLpbZ67om3gUNBcDFs7"
+    },
+    {
+      "album": {
         "name": "this is how you fall in love",
         "url": "https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW"
       },
@@ -3094,7 +3133,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237631,
       "name": "Walls",
       "url": "https://open.spotify.com/track/2q3mVaM2J2HOd6gXiGR8RT"
@@ -3156,7 +3195,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 189360,
       "name": "We Need to Talk",
       "url": "https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2"
@@ -3214,7 +3253,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191572,
       "name": "Wholeheartedly",
       "url": "https://open.spotify.com/track/57Gcs9Mo5wvO8gvp3fsle5"
@@ -3344,7 +3383,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 178186,
       "name": "you make me feel alright",
       "url": "https://open.spotify.com/track/62VR8f0u8XIgDQCwT1tzNC"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soundtrack your gaming with these atmospheric beats.",
   "name": "Soundscapes For Gaming",
+  "published_playlist_ids": [
+    "11Gpqzsbqf7yfVJuxrNTH2"
+  ],
   "tracks": [
     {
       "album": {
@@ -214,7 +217,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 352246,
       "name": "Cirrus",
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
@@ -344,7 +347,7 @@
       ],
       "date_added": "2019-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 326240,
       "name": "Eyesdown",
       "url": "https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9"

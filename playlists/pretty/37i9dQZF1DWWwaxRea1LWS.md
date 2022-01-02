@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Party like it's New Year's Eve..\. 10 years ago! Only on \#Spotifytbt Cover: Black Eyed Peas
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,370 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046,358 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

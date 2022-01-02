@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Acu\u00e9rdate de estas canciones cl\u00e1sicas. Portada: Tego Calderon.",
   "name": "Reggaet\u00f3n Viejito",
+  "published_playlist_ids": [
+    "5SgU8PR0wDw30k07Az00VU"
+  ],
   "tracks": [
     {
       "album": {
@@ -206,7 +209,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
@@ -462,7 +465,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 142867,
       "name": "Bailando Provocas",
       "url": "https://open.spotify.com/track/3IaMJw9SJ1VxI1pjUQUtWB"
@@ -586,6 +589,24 @@
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
+    },
+    {
+      "album": {
+        "name": "Top Of The Line",
+        "url": "https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/7gsnOUqQD5rm2QhsnbTEpy"
     },
     {
       "album": {
@@ -1109,6 +1130,24 @@
     },
     {
       "album": {
+        "name": "Reggaeton Karaoke Volume 1",
+        "url": "https://open.spotify.com/album/7svLayvjnqvJgXtpQQeJiO"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169457,
+      "name": "En La Disco Bailoteo",
+      "url": "https://open.spotify.com/track/5JrcvfOt5mDZvrsrLtHazX"
+    },
+    {
+      "album": {
         "name": "King Of Kings",
         "url": "https://open.spotify.com/album/2ah0xzOU2sqN46Lc665g0Z"
       },
@@ -1433,6 +1472,28 @@
     },
     {
       "album": {
+        "name": "Los Homerun-es",
+        "url": "https://open.spotify.com/album/0TmvUiHKnPR8tOyU6giI3V"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "Gata Gangster",
+      "url": "https://open.spotify.com/track/0vpEg6cBXfG0PZXRSKZ4bE"
+    },
+    {
+      "album": {
         "name": "El Bokisucio",
         "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
       },
@@ -1707,6 +1768,24 @@
     },
     {
       "album": {
+        "name": "La Santa",
+        "url": "https://open.spotify.com/album/2o1mgdJOh3Jbo365b4YfpC"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206249,
+      "name": "La Santa",
+      "url": "https://open.spotify.com/track/3hkvdWmg96e8wEemc9Cm3p"
+    },
+    {
+      "album": {
         "name": "Los Bandoleros Reloaded",
         "url": "https://open.spotify.com/album/5KtOg6t1abStlfb6OvoD8R"
       },
@@ -1944,7 +2023,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 272822,
       "name": "Matador - Official Remix",
       "url": "https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg"
@@ -2082,6 +2161,24 @@
       "duration_ms": 179093,
       "name": "Me Voy Pa'l Party",
       "url": "https://open.spotify.com/track/634SIK3O65qhslx5DLX44X"
+    },
+    {
+      "album": {
+        "name": "12 Discipulos",
+        "url": "https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w"
+      },
+      "artists": [
+        {
+          "name": "Wiso G",
+          "url": "https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191191,
+      "name": "Medley",
+      "url": "https://open.spotify.com/track/6KC9RBNcIaXHHE18tdyq3h"
     },
     {
       "album": {
@@ -3124,7 +3221,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 182621,
       "name": "Rompe - Live",
       "url": "https://open.spotify.com/track/55kYRn7VFOM5eZ6c4kkk4s"
@@ -3150,7 +3247,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 301133,
       "name": "Ronca",
       "url": "https://open.spotify.com/track/3XaFdB9TrrD6ZVKs61zltw"

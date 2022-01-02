@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Ancient North African rhythms.",
   "name": "Gnawa Music",
+  "published_playlist_ids": [
+    "3OgiyHJUCNeYIkZafUQepx"
+  ],
   "tracks": [
     {
       "album": {
@@ -184,7 +187,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 375120,
       "name": "Baba Arabi",
       "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
@@ -338,7 +341,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 379744,
       "name": "Baniya",
       "url": "https://open.spotify.com/track/0dL5X4UqGdw2jt3DNDUj6T"
@@ -504,7 +507,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 832840,
       "name": "Chorfa",
       "url": "https://open.spotify.com/track/0nmDCBvIy4gDP1fyDInu1I"
@@ -522,7 +525,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 474333,
       "name": "El Ghaba",
       "url": "https://open.spotify.com/track/1nY3pSoPw1OisHDjoPGXNa"
@@ -576,7 +579,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 400744,
       "name": "Finkoum Ya Albouhala",
       "url": "https://open.spotify.com/track/3tasYylFyl52FR6Py5lPAB"
@@ -666,7 +669,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249053,
       "name": "Hamdouchia",
       "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
@@ -720,7 +723,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 617000,
       "name": "La Ilaha Illa Allah",
       "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
@@ -792,7 +795,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 292520,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/2EcbOCnEBlOivIBWZcS0Cp"

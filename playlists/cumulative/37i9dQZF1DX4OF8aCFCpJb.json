@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
   "name": "Svensk Reggae",
+  "published_playlist_ids": [
+    "7yF7K05YVtBZlFxXJKjSU8"
+  ],
   "tracks": [
     {
       "album": {
@@ -52,7 +55,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232586,
       "name": "12/12",
       "url": "https://open.spotify.com/track/1MLZBxByuck2C5ulgQFeEx"
@@ -88,7 +91,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 224863,
       "name": "2000 \u00c5r",
       "url": "https://open.spotify.com/track/2pRhP0LlT8LzG5EujwK1cf"
@@ -110,7 +113,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 200576,
       "name": "Aina \u00e4lskar ganja",
       "url": "https://open.spotify.com/track/0ZZU7t3meUqAuBMcfjFiel"
@@ -194,7 +197,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 194000,
       "name": "Attityd",
       "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
@@ -234,7 +237,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 187500,
       "name": "Babylove",
       "url": "https://open.spotify.com/track/4nBNcwji3bTo6IoaEpoZZY"
@@ -314,7 +317,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 223840,
       "name": "Bonus P\u00e5 Kortet",
       "url": "https://open.spotify.com/track/5qVcVWM8tMt7HTH8DTpdnq"
@@ -404,7 +407,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221800,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt"
@@ -452,7 +455,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 257399,
       "name": "Det Str\u00e5lar S\u00e5 Om Dig (feat. Hoffmaestro)",
       "url": "https://open.spotify.com/track/1moyS7mNDbCxhSvcJaKCtE"
@@ -554,7 +557,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205900,
       "name": "Du Oh Jah",
       "url": "https://open.spotify.com/track/5Ipo2W1JPQsPJjdqHzPPDH"
@@ -626,7 +629,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 145238,
       "name": "En annan tid",
       "url": "https://open.spotify.com/track/36jO1fAZAxUX1AiCSUuT0g"
@@ -822,7 +825,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 196349,
       "name": "Galenskap",
       "url": "https://open.spotify.com/track/0VGjwaW89C7funq3crFav6"
@@ -916,7 +919,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 216151,
       "name": "Hela mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW"
@@ -978,7 +981,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203418,
       "name": "Hetare \u00c4n Lava (med Syster Sol)",
       "url": "https://open.spotify.com/track/2CAcMHYILhxMCYia4U9aSb"
@@ -1094,7 +1097,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 229714,
       "name": "Jag lever f\u00f6r dig och d\u00e5 lever jag f\u00f6r att leva",
       "url": "https://open.spotify.com/track/0kgKxpl9VwHicgLeJpJSR3"
@@ -1112,7 +1115,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 242874,
       "name": "Jag Minns",
       "url": "https://open.spotify.com/track/6ZbEjK7jdClL1MGczRAU0q"
@@ -1182,7 +1185,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 192028,
       "name": "Ju Mer Dom Spottar",
       "url": "https://open.spotify.com/track/6809ESRbIU87qbXCeR80xA"
@@ -1415,6 +1418,28 @@
     },
     {
       "album": {
+        "name": "Marknadens soldat",
+        "url": "https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t"
+      },
+      "artists": [
+        {
+          "name": "Helt Off",
+          "url": "https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy"
+        },
+        {
+          "name": "Timbuktu",
+          "url": "https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Mediak\u00e5t feat. Timbuktu",
+      "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
+    },
+    {
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
@@ -1444,7 +1469,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 289706,
       "name": "M\u00e5sten",
       "url": "https://open.spotify.com/track/3Ea996dwFzTOtxuK9Rtiv6"
@@ -1622,7 +1647,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 208902,
       "name": "Poppigt nog",
       "url": "https://open.spotify.com/track/7G8J2s4DDLLsdPF7QO9FBI"
@@ -1724,7 +1749,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 211573,
       "name": "Sm\u00e5 svarta \u00e4nglar",
       "url": "https://open.spotify.com/track/4XzlEOyf4X1pHCujvUlYN7"
@@ -1876,7 +1901,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 246808,
       "name": "S\u00e4g nej!",
       "url": "https://open.spotify.com/track/2pq3CZrGt1lrcRjiEtFtjY"
@@ -2050,7 +2075,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187000,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/06iclXdpVQmLGuM6Lts2dU"
@@ -2104,7 +2129,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 212786,
       "name": "Vakna",
       "url": "https://open.spotify.com/track/71eIvP2mWcDf590qWU1zht"
@@ -2198,7 +2223,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227500,
       "name": "Vindarna",
       "url": "https://open.spotify.com/track/4daiQ4LFjZac9JRp7GSFdN"
@@ -2332,7 +2357,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Weh Dem A Gwaan",
       "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
@@ -2408,7 +2433,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 219750,
       "name": "\u00c4lskar att \u00e4lska dig",
       "url": "https://open.spotify.com/track/5Vspk7VYYxmyY1aXYY1XXJ"

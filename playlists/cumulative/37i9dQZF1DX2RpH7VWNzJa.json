@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "No te preocupes, feel it all here. ",
   "name": "en mis feelings",
+  "published_playlist_ids": [
+    "5VYvKzUB8Xd1jQ276La7Ok"
+  ],
   "tracks": [
     {
       "album": {
@@ -92,7 +95,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 185984,
       "name": "Amanecer",
       "url": "https://open.spotify.com/track/1hfA56vqCGk6SZzVSaOxSm"
@@ -516,7 +519,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 181600,
       "name": "Llama",
       "url": "https://open.spotify.com/track/7m7EGngnVidYTBVUsvRWQ9"

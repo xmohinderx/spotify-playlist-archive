@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FW3TjTduV4.md) - [plain]
 
 > This is the best of Dirty Projectors...
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,464 likes - 23 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,463 likes - 23 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

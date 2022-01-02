@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg">Zakes Bantwini</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,322 likes - 81 songs - 8 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,329 likes - 81 songs - 8 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

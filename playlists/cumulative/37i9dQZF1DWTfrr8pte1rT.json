@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Rock with a Drop  Cover: Grabbitz \\m/",
   "name": "Rocktronic",
+  "published_playlist_ids": [
+    "5zoHrqDNjf3cQeuQpkDbfT"
+  ],
   "tracks": [
     {
       "album": {
@@ -964,7 +967,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 145091,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/0wuGHHsJVLVkULt8hUgTFa"
@@ -1400,7 +1403,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 165703,
       "name": "Last One To Know - Curbi Remix",
       "url": "https://open.spotify.com/track/2gm7uyTVq6FqLfXHatUY2b"
@@ -2210,7 +2213,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237203,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/35rozLoS6QLE8HX8qswM3k"
@@ -2426,7 +2429,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 268852,
       "name": "Shine (Konus & INF1N1TE Remix)",
       "url": "https://open.spotify.com/track/5jdMwB3oIRYwPtjXHxgDoE"
@@ -2594,7 +2597,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201600,
       "name": "Stay",
       "url": "https://open.spotify.com/track/37qWakxSJQTd5RFmXH21gN"
@@ -2730,7 +2733,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198400,
       "name": "The Bottom (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/1s2xUbLU0bcNRWKK04X9NO"
@@ -2752,7 +2755,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 277555,
       "name": "The Change (feat. DMA'S)",
       "url": "https://open.spotify.com/track/28MN5zcvOPm5OD49gOsBZ8"
@@ -3046,7 +3049,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218666,
       "name": "Wait",
       "url": "https://open.spotify.com/track/64pmOdBwsj6t3hMDlWpz42"

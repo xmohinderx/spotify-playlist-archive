@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
   "name": "Smooth Jazz",
-  "num_followers": 307292,
+  "num_followers": 307382,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDQzNiwwMDAwMDAwMGE4YWEwODI2NjkxNTAwYmUzNGQzY2NkOWY3OTIyYjJi",
+  "snapshot_id": "MTY0MTEwODc1MywwMDAwMDAwMDU2ODVkM2IwMjFlMjNhZWFlMTBhZTEzMjAyZjE4MTgx",
   "tracks": [
     {
       "added_at": "2021-12-27 10:15:18",
@@ -63,6 +63,22 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
+      },
+      "artists": [
+        {
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
+        }
+      ],
+      "duration_ms": 310280,
+      "name": "Seventh Heaven (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
         "name": "Unified",
         "url": "https://open.spotify.com/album/5CHXhccisUukWWv9yGxq5f"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 262640,
       "name": "Fired Up",
       "url": "https://open.spotify.com/track/3vkk18EK3VoKePPFGUQhcH"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 310280,
-      "name": "Seventh Heaven (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/2ZZ6st5XTa8wDNqsE1bHa7"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -199,22 +199,18 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "The Story of Jaz",
-        "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
+        "name": "Sippin the Yak",
+        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
       },
       "artists": [
         {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
-        },
-        {
-          "name": "Jeff Lorber",
-          "url": "https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK"
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Amends",
-      "url": "https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU"
+      "duration_ms": 267913,
+      "name": "Sippin the Yak",
+      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -255,54 +251,22 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+        "name": "The Story of Jaz",
+        "url": "https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Echoes Of The Heart",
-        "url": "https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
         },
         {
-          "name": "Chris Geith",
-          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK"
         }
       ],
-      "duration_ms": 238213,
-      "name": "Echoes of the Heart",
-      "url": "https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314574,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
+      "duration_ms": 204826,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/7InZJZjLe2rbSlVBL4PLXU"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -343,6 +307,42 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314574,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/1xLU1zCbjo9HAoutmWsHlK"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "Echoes Of The Heart",
+        "url": "https://open.spotify.com/album/4PVrOH383N97LMbLNJCTAy"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        },
+        {
+          "name": "Chris Geith",
+          "url": "https://open.spotify.com/artist/3St6VrtnX5WUVFNNcX1DBb"
+        }
+      ],
+      "duration_ms": 238213,
+      "name": "Echoes of the Heart",
+      "url": "https://open.spotify.com/track/5O5Aa0k1p5fjXmBMDkjTVp"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
       },
@@ -355,22 +355,6 @@
       "duration_ms": 272342,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Fall For You",
-        "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
-      },
-      "artists": [
-        {
-          "name": "Blake Aaron",
-          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Fall For You",
-      "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -391,6 +375,38 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
+      },
+      "artists": [
+        {
+          "name": "Brendan Rothwell",
+          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
+        }
+      ],
+      "duration_ms": 240172,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "Fall For You",
+        "url": "https://open.spotify.com/album/1069ubCvaVGmtkw2VNxZAV"
+      },
+      "artists": [
+        {
+          "name": "Blake Aaron",
+          "url": "https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Fall For You",
+      "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
         "name": "I'm All Ears",
         "url": "https://open.spotify.com/album/3ykJSwWwjmgwX5RkgxlFdC"
       },
@@ -403,6 +419,22 @@
       "duration_ms": 299583,
       "name": "I'm All Ears",
       "url": "https://open.spotify.com/track/14CjlC1OvoUWoKgggP5YNd"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "Let's Get Serious",
+        "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 246546,
+      "name": "Let's Get Serious",
+      "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -435,38 +467,6 @@
       "duration_ms": 252333,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
-      },
-      "artists": [
-        {
-          "name": "Brendan Rothwell",
-          "url": "https://open.spotify.com/artist/5RABpAgeEQTwa2yoatfUQQ"
-        }
-      ],
-      "duration_ms": 240172,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/73p8Mzp41RUDQtbe52JWHu"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Let's Get Serious",
-        "url": "https://open.spotify.com/album/49K4eS0dajl4UzTYEMb5Zj"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 246546,
-      "name": "Let's Get Serious",
-      "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -507,34 +507,18 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Paul Hardcastle 8",
-        "url": "https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU"
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ"
       },
       "artists": [
         {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Happy Go Lucky",
-      "url": "https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "Low and Slow",
-      "url": "https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA"
+      "duration_ms": 244000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -555,34 +539,34 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/7H9XuHrHpGiknmAdjO3epZ"
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/0vHob9cPz7DqegoGiAtQgJ"
       },
       "artists": [
         {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/6Sw0KXcoIOtBl4OrXMxe9U"
+      "duration_ms": 248626,
+      "name": "Low and Slow",
+      "url": "https://open.spotify.com/track/04fVzUHhEBwEHOOtWeKEUA"
     },
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+        "name": "Paul Hardcastle 8",
+        "url": "https://open.spotify.com/album/2s9Zd05UpwRAoTQnwAmCIU"
       },
       "artists": [
         {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
         }
       ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
+      "duration_ms": 254000,
+      "name": "Happy Go Lucky",
+      "url": "https://open.spotify.com/track/1qgmJ4zIuP3PX0M5Exdv98"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -599,6 +583,22 @@
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+        }
+      ],
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -635,22 +635,18 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Supreme",
-        "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
       },
       "artists": [
         {
-          "name": "Julian Vaughn",
-          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
-        },
-        {
-          "name": "Elan Trotman",
-          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 263106,
-      "name": "Afternoon Delight",
-      "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
+      "duration_ms": 224000,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -671,6 +667,26 @@
       "duration_ms": 227752,
       "name": "It's On Now",
       "url": "https://open.spotify.com/track/7qXLWmM1TzvksNaXOpjkB5"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "Supreme",
+        "url": "https://open.spotify.com/album/4MNKiHJkFX4fJKOhJnAwVj"
+      },
+      "artists": [
+        {
+          "name": "Julian Vaughn",
+          "url": "https://open.spotify.com/artist/6NS4Qt4ISw27NC9tIN9jgg"
+        },
+        {
+          "name": "Elan Trotman",
+          "url": "https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "Afternoon Delight",
+      "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -723,22 +739,6 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/35w3Ip2wbKcpkDgkFWs3VO"
-      },
-      "artists": [
-        {
-          "name": "Skinny Hightower",
-          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "BLUE MOON",
-      "url": "https://open.spotify.com/track/0w0MlXKdxvgv5elw50DguP"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
         "name": "Listen to This",
         "url": "https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 239949,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/2htlcs2eo5JBL1gQu8UvYE"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
+      },
+      "artists": [
+        {
+          "name": "Lin Rountree",
+          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+        }
+      ],
+      "duration_ms": 292253,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -779,22 +795,6 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
         "name": "Reasons",
         "url": "https://open.spotify.com/album/5qAM5T1dtZgsbjRJeknBiB"
       },
@@ -815,18 +815,34 @@
     {
       "added_at": "2021-12-27 10:15:18",
       "album": {
-        "name": "Release",
-        "url": "https://open.spotify.com/album/7xjP0qV8h62UHwown45INg"
+        "name": "Retrospect",
+        "url": "https://open.spotify.com/album/0DuCba2Nbv3Idu2M9cSEoh"
       },
       "artists": [
         {
-          "name": "Lin Rountree",
-          "url": "https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg"
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
         }
       ],
-      "duration_ms": 292253,
-      "name": "Release",
-      "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
+      "duration_ms": 260886,
+      "name": "Sample That",
+      "url": "https://open.spotify.com/track/0L8KQ0yRTpqy1PMVzEHKax"
+    },
+    {
+      "added_at": "2021-12-27 10:15:18",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2021-12-27 10:15:18",
@@ -843,22 +859,6 @@
       "duration_ms": 305226,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/4d12NDxv7ol5lMJemDsWXJ"
-    },
-    {
-      "added_at": "2021-12-27 10:15:18",
-      "album": {
-        "name": "Urban Troubadour",
-        "url": "https://open.spotify.com/album/3rdEQhJDA24YWXnd5q3SoS"
-      },
-      "artists": [
-        {
-          "name": "Phil Denny",
-          "url": "https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH"
-        }
-      ],
-      "duration_ms": 222670,
-      "name": "Around the Block",
-      "url": "https://open.spotify.com/track/2Q5tHXr0obkhR9YhZR5DXB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdwTUxmGKrdN"

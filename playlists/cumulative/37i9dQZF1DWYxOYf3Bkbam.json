@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
   "name": "Mundo Chamam\u00e9",
+  "published_playlist_ids": [
+    "2GjcMWtH64TAHAcgFS6gKj"
+  ],
   "tracks": [
     {
       "album": {
@@ -78,6 +81,24 @@
       "duration_ms": 110253,
       "name": "Adios palomita ingrata",
       "url": "https://open.spotify.com/track/4xCcI7PyEhlSqVWOxJjGj3"
+    },
+    {
+      "album": {
+        "name": "Reyes de la Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ"
+      },
+      "artists": [
+        {
+          "name": "Los Sena",
+          "url": "https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130786,
+      "name": "Adi\u00f3s Ciudad de Mercedes",
+      "url": "https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z"
     },
     {
       "album": {
@@ -212,7 +233,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180224,
       "name": "Asi, Como Mi Gente",
       "url": "https://open.spotify.com/track/2yybit8zXj60xJM13hBpgL"
@@ -407,6 +428,24 @@
     },
     {
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Toto Maidana",
+          "url": "https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139586,
+      "name": "Compa\u00f1era",
+      "url": "https://open.spotify.com/track/1uoa6sDuL8PJnsnQAxKLF2"
+    },
+    {
+      "album": {
         "name": "Duendes Puebleros",
         "url": "https://open.spotify.com/album/1RJSfyaGC3cIw9vUs1r4FO"
       },
@@ -462,6 +501,28 @@
       "duration_ms": 379080,
       "name": "El Cascabel",
       "url": "https://open.spotify.com/track/59jqFfNaUWKLRuuFRvePHl"
+    },
+    {
+      "album": {
+        "name": "12 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
+      },
+      "artists": [
+        {
+          "name": "La Pilarcita",
+          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
+        },
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183220,
+      "name": "El Gallo Negro",
+      "url": "https://open.spotify.com/track/4m5vvAc8yy1J52xeQTkQaU"
     },
     {
       "album": {
@@ -570,7 +631,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144906,
       "name": "El Pe\u00f3n de Obraje",
       "url": "https://open.spotify.com/track/2GNEWWMSqDq24BbXA5uEJb"
@@ -668,7 +729,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 339000,
       "name": "Enganchados: Al Otro de la Tablada / Crece el R\u00edo / El Tapecito",
       "url": "https://open.spotify.com/track/2BAgZZXOrecQPxRkEInYf6"
@@ -784,7 +845,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206998,
       "name": "Guainita Posade\u00f1a",
       "url": "https://open.spotify.com/track/6rplTcstMbtUp4iRxOGgvT"
@@ -809,6 +870,24 @@
     },
     {
       "album": {
+        "name": "Chamame los 100 mejores temas Vol 1",
+        "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
+      },
+      "artists": [
+        {
+          "name": "Fito Ledesma",
+          "url": "https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120720,
+      "name": "Jineteando",
+      "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "album": {
         "name": "Eduardo Mi\u00f1o y Ruben Mi\u00f1o",
         "url": "https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR"
       },
@@ -820,7 +899,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 162573,
       "name": "Kilometro 11",
       "url": "https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP"
@@ -903,6 +982,28 @@
     },
     {
       "album": {
+        "name": "Si el Campo Crece, Crece el Pa\u00eds",
+        "url": "https://open.spotify.com/album/3TrPDaLtRXg4iuXuMHgNqZ"
+      },
+      "artists": [
+        {
+          "name": "Anibal Maldonado",
+          "url": "https://open.spotify.com/artist/6WEUDx5pkVqSRslfQxIVYi"
+        },
+        {
+          "name": "Silvio Quintana",
+          "url": "https://open.spotify.com/artist/3Q4nmjdBoFnPBbrnHNvcgZ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247240,
+      "name": "La Changa de los Domingos - Chamam\u00e9",
+      "url": "https://open.spotify.com/track/1C58csh64wznZj64hwV9gx"
+    },
+    {
+      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -936,7 +1037,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173386,
       "name": "La Due\u00f1a del Monte",
       "url": "https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt"
@@ -976,6 +1077,24 @@
       "duration_ms": 192042,
       "name": "La Leyenda de la Brasita de Fuego",
       "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "album": {
+        "name": "Chamame Del Bueno",
+        "url": "https://open.spotify.com/album/1QsYkWmNqx8IOeVAwqC06P"
+      },
+      "artists": [
+        {
+          "name": "Grupo Reencuentro",
+          "url": "https://open.spotify.com/artist/3YIxe11W03QO7HdnoW6UIJ"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "La Tierra No Tiene due\u00f1o",
+      "url": "https://open.spotify.com/track/4zpEvUobp6hf9gDtjRkGcn"
     },
     {
       "album": {
@@ -1221,6 +1340,24 @@
     },
     {
       "album": {
+        "name": "No Le Mezquine la Marca",
+        "url": "https://open.spotify.com/album/0wjDpVzsLDJhQJFxh3tDv1"
+      },
+      "artists": [
+        {
+          "name": "Los Tatas del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/5ivkhJSBl2creWgSBXy4rw"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153504,
+      "name": "Mis Harapos",
+      "url": "https://open.spotify.com/track/3gjICraXtcv9m4eFhKHYVC"
+    },
+    {
+      "album": {
         "name": "Los 55 Anos del Cuarteto Santa Ana",
         "url": "https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr"
       },
@@ -1276,6 +1413,24 @@
       "duration_ms": 184253,
       "name": "No Hay Mal Que por Bien No Venga",
       "url": "https://open.spotify.com/track/2yYkSIrfPJu1V43674yMHv"
+    },
+    {
+      "album": {
+        "name": "Pajaro Chog\u00fci",
+        "url": "https://open.spotify.com/album/44p1qgyjA1IyldFsRezUa4"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Dominguez Y Raul Barboza",
+          "url": "https://open.spotify.com/artist/7D3iUpUwF4lOsFPJIazFXS"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "Pajaro Chog\u00fci",
+      "url": "https://open.spotify.com/track/6dIuzRkAGb3HXVHJjiXkAh"
     },
     {
       "album": {
@@ -1348,7 +1503,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 298893,
       "name": "Pegaditos de Chamam\u00e9",
       "url": "https://open.spotify.com/track/3DTTYtuqJTFwAr8A0qlJEx"
@@ -1402,7 +1557,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 167592,
       "name": "Por Tus Besos",
       "url": "https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr"

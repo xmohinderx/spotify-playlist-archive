@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "80s rock to fuel your ride. Cover: Guns N' Roses",
   "name": "80s Rock Drive",
+  "published_playlist_ids": [
+    "3hAccsICN2Mkk5YbDegR4U"
+  ],
   "tracks": [
     {
       "album": {
@@ -52,7 +55,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 236933,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4p4YiROw0qF059Mcstu8rl"
@@ -200,6 +203,24 @@
       "duration_ms": 265773,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "album": {
+        "name": "Vixen",
+        "url": "https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY"
+        }
+      ],
+      "date_added": "2021-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "Edge Of A Broken Heart",
+      "url": "https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh"
     },
     {
       "album": {
@@ -358,7 +379,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 241893,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn"
@@ -556,7 +577,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 246120,
       "name": "Mean Streak",
       "url": "https://open.spotify.com/track/7x46WcotUUy3ft5KcLqETA"
@@ -664,7 +685,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 211440,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/6hpPAOftKbe1YghyTtJuCq"
@@ -952,7 +973,7 @@
       ],
       "date_added": "2021-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"

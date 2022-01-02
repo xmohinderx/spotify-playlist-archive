@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Billy Mays Band, Miami Nights 1984, Mellow Fields and more
+> With Billy Mays Band, Ollie Wride, TOKYO ROSE and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

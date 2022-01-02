@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Hit the road to the soundtrack of these seventies classics.",
   "name": "70s Road Trip",
+  "published_playlist_ids": [
+    "1G4piBuXasSgedzOMD6dKo"
+  ],
   "tracks": [
     {
       "album": {
@@ -38,7 +41,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249600,
       "name": "A Horse with No Name - 2006 Remaster",
       "url": "https://open.spotify.com/track/0LfiPrJKVVpnkXUcLLMzOo"
@@ -668,7 +671,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 263746,
       "name": "I Shot The Sheriff",
       "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"

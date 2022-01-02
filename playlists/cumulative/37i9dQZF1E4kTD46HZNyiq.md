@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Lowswimmer, The Light the Heat, Pippa and more
+> With Ollie Wride, Ed Patrick, Handsome Ghost and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

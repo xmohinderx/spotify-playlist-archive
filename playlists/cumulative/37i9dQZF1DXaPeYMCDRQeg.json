@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Celebrating Black love, one song at a time.",
   "name": "Black Love Mixtape",
+  "published_playlist_ids": [
+    "2DmN9l4sDiwLOTL9XKQjgq"
+  ],
   "tracks": [
     {
       "album": {
@@ -158,7 +161,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 272560,
       "name": "Beauty",
       "url": "https://open.spotify.com/track/125dAqUSmX1nOG50fBz9vb"
@@ -470,7 +473,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 252266,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
@@ -568,7 +571,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 304426,
       "name": "Dontchange",
       "url": "https://open.spotify.com/track/3DkaXDmC0qaFNAxgLMuwX4"
@@ -774,7 +777,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 267160,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/6gsmFgUiSTuinJlScwFODv"
@@ -828,7 +831,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 181054,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/5kTQvF9U2slqkdsG4VHXoL"
@@ -846,7 +849,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 229626,
       "name": "I Want To Thank You",
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
@@ -1118,10 +1121,32 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 224444,
       "name": "N Side",
       "url": "https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
       "album": {
@@ -1216,7 +1241,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
@@ -1500,7 +1525,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 318666,
       "name": "Soul Sista",
       "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
@@ -1726,7 +1751,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 304000,
       "name": "This Is for the Lover in You",
       "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
@@ -1806,7 +1831,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 226506,
       "name": "TOO SWEET (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/1zw58wBujy79wxhOoxHxii"

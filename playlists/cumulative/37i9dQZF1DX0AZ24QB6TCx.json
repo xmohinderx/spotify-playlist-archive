@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-01",
   "description": "Relax with deep house and electronica.",
   "name": "Afterhours",
+  "published_playlist_ids": [
+    "0pd6sm63IqpenIInSzOhQs"
+  ],
   "tracks": [
     {
       "album": {
@@ -60,7 +63,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 287986,
       "name": "AvA",
       "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
@@ -140,7 +143,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192386,
       "name": "Best of Me - Album Mix",
       "url": "https://open.spotify.com/track/7zusjgCHs7kRzOX04YGaS8"
@@ -212,7 +215,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 393428,
       "name": "Bosque",
       "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
@@ -248,7 +251,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 284800,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/303c3Z3xF0KgPJkqy7U9bK"
@@ -430,7 +433,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 381965,
       "name": "Eolian",
       "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
@@ -724,7 +727,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 462560,
       "name": "I'm Fallin'",
       "url": "https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk"
@@ -790,7 +793,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236180,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm"
@@ -1339,6 +1342,24 @@
     },
     {
       "album": {
+        "name": "Silence & Secrets",
+        "url": "https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd"
+      },
+      "artists": [
+        {
+          "name": "WhoMadeWho",
+          "url": "https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269115,
+      "name": "Silence & Secrets",
+      "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
+    },
+    {
+      "album": {
         "name": "Sky Is the Limit",
         "url": "https://open.spotify.com/album/0lbhE8DcKP45BQWiysHZby"
       },
@@ -1358,6 +1379,24 @@
       "duration_ms": 223873,
       "name": "Sky Is the Limit - Edit",
       "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
+    },
+    {
+      "album": {
+        "name": "Spinnerei",
+        "url": "https://open.spotify.com/album/5xjLma9spCFrat7FBVVn3v"
+      },
+      "artists": [
+        {
+          "name": "Planet Caravan",
+          "url": "https://open.spotify.com/artist/1vL80BIxkjefhlD5Gc88r5"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340856,
+      "name": "Spinnerei",
+      "url": "https://open.spotify.com/track/3RPzB3zrl0WOaxfneOn1rH"
     },
     {
       "album": {
@@ -1506,7 +1545,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 512724,
       "name": "The River - Original",
       "url": "https://open.spotify.com/track/7y7zMcqnXC40wfJ5yhp2u2"

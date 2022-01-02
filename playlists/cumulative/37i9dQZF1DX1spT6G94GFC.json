@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "These songs rocked the 80s. ",
   "name": "80s Rock Anthems",
+  "published_playlist_ids": [
+    "4jYRsZsdPBj4GY3BTjud4Q"
+  ],
   "tracks": [
     {
       "album": {
@@ -92,7 +95,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 255493,
       "name": "Back In Black",
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
@@ -1334,7 +1337,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 354520,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7o2CTH4ctstm8TNelqjb51"
@@ -1352,7 +1355,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 356400,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/4MhTFsyqIJnjsOweVcU8ug"
@@ -1428,7 +1431,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 228066,
       "name": "Unskinny Bop",
       "url": "https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM"

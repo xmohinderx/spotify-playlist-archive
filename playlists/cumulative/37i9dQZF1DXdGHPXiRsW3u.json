@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 2000s. Cover: Rihanna.",
   "name": "Soft 00s",
+  "published_playlist_ids": [
+    "6WzeCAKfLBdNdOPGxWapt7"
+  ],
   "tracks": [
     {
       "album": {
@@ -74,7 +77,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 250800,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/3K2oxUQxZTxjluEvk7eqXD"
@@ -92,7 +95,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 250800,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/7pbNNVcFePJV3Wani6zH8q"
@@ -500,7 +503,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 234640,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/1zVBU0PAj7ZUVmVfG2pgQG"
@@ -922,7 +925,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
@@ -1124,7 +1127,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
@@ -1520,7 +1523,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 234826,
       "name": "Life Is A Rollercoaster",
       "url": "https://open.spotify.com/track/5lQfI9cYzezWGvqwrWkzqh"
@@ -1574,7 +1577,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 255333,
       "name": "Love",
       "url": "https://open.spotify.com/track/0W4NhJhcqKCqEP2GIpDCDq"
@@ -1596,7 +1599,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 223666,
       "name": "Love Like This (feat. Sean Kingston)",
       "url": "https://open.spotify.com/track/2FDXMNnzPstPQgZ1BM4vX0"
@@ -1900,7 +1903,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 202066,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4DxybsoSiMUW0JI2oM0SSN"
@@ -2394,7 +2397,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 252466,
       "name": "The Closest Thing to Crazy",
       "url": "https://open.spotify.com/track/4FXzCVsRurpgAYuRyaD8Y4"
@@ -2448,7 +2451,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232800,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1lHtE5JDCas1EwXhQIMOIj"
@@ -2682,7 +2685,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201173,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"

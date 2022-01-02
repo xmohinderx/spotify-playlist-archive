@@ -1,12 +1,12 @@
 {
   "description": "Iconic artists and voices. Cover: Ella Fitzgerald",
   "name": "Vocal Jazz Classics",
-  "num_followers": 24958,
+  "num_followers": 24978,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDE4NywwMDAwMDAwMGZlMGJkYjNiOTUwOTg2ZWIzYjc2M2M1NzhhZDIwMzU5",
+  "snapshot_id": "MTY0MTEwODUxNCwwMDAwMDAwMDI5NzdmYzA5ZWEyMmNmNjcxZjkyYWY4MWVmODc1ZTMw",
   "tracks": [
     {
       "added_at": "2021-05-03 15:54:16",
@@ -59,54 +59,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Ultimate Sinatra",
-        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "One For My Baby (And One More For The Road) - Remastered",
-      "url": "https://open.spotify.com/track/1qDTsxSnBxNwh6CdPWvkaz"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 149826,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -135,6 +87,54 @@
       "duration_ms": 223706,
       "name": "Let's Get Lost",
       "url": "https://open.spotify.com/track/0UZFhlhUMrYyzzyOHkylM3"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Ultimate Sinatra",
+        "url": "https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "One For My Baby (And One More For The Road) - Remastered",
+      "url": "https://open.spotify.com/track/1qDTsxSnBxNwh6CdPWvkaz"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 149826,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "Black Coffee",
-      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "I Left My Heart In San Francisco",
         "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 170960,
       "name": "(I Left My Heart) In San Francisco",
       "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/3F0Q6zKxvJJbxWR4hZWcef"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/56IQUfsUskt9VHe6YM6kue"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -239,54 +239,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "The Hottest New Group In Jazz",
-        "url": "https://open.spotify.com/album/2q4Htl4R4c3jkpbWqN0ZJ5"
-      },
-      "artists": [
-        {
-          "name": "Lambert, Hendricks & Ross",
-          "url": "https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/3BlH0FmO4ely9l2vzowc8H"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "God Bless The Child: Best Of Billie Holiday",
-        "url": "https://open.spotify.com/album/6PgYUQEXQUIcGvS6ioDw44"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 202506,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/0rtwmfkjc2Kd7hwMEqfWak"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -299,22 +251,6 @@
       "duration_ms": 215466,
       "name": "It's Always You - Vocal Version",
       "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "The Essential Bessie Smith",
-        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
-      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -339,22 +275,50 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf"
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Pure Ella",
+        "url": "https://open.spotify.com/album/1sVP1k1tw1hd95xkgiMj72"
+      },
+      "artists": [
         {
           "name": "Ella Fitzgerald",
           "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 298133,
+      "duration_ms": 300040,
       "name": "Summertime",
-      "url": "https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH"
+      "url": "https://open.spotify.com/track/2U8D3hTpsgAGZBnNLSoAZQ"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "The Hottest New Group In Jazz",
+        "url": "https://open.spotify.com/album/2q4Htl4R4c3jkpbWqN0ZJ5"
+      },
+      "artists": [
+        {
+          "name": "Lambert, Hendricks & Ross",
+          "url": "https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/3BlH0FmO4ely9l2vzowc8H"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -371,6 +335,54 @@
       "duration_ms": 258893,
       "name": "Something Cool - Mono",
       "url": "https://open.spotify.com/track/2mqjKGlSdJHdjCQHtOx6PD"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "God Bless The Child: Best Of Billie Holiday",
+        "url": "https://open.spotify.com/album/6PgYUQEXQUIcGvS6ioDw44"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/0rtwmfkjc2Kd7hwMEqfWak"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "The Essential Bessie Smith",
+        "url": "https://open.spotify.com/album/0NSxpb50uBMgAzOJQpp4Ag"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "Nobody Knows You When You're Down and Out - 78rpm Version",
+      "url": "https://open.spotify.com/track/3ru8IZrBxuFFHOFKEvvpFP"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 201440,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -395,38 +407,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 201440,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/0F845nujLVqCb0XMZCh5Pc"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 238120,
-      "name": "God Bless The Child - 1956 Version",
-      "url": "https://open.spotify.com/track/6rX7Rgi2O5csTzLan7rL0c"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 321826,
       "name": "The Girl From Ipanema",
       "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -487,22 +487,34 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
       "artists": [
         {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 385706,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+      "duration_ms": 238120,
+      "name": "God Bless The Child - 1956 Version",
+      "url": "https://open.spotify.com/track/6rX7Rgi2O5csTzLan7rL0c"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Gone For The Day",
+        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
+      },
+      "artists": [
+        {
+          "name": "June Christy",
+          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
+        }
+      ],
+      "duration_ms": 137893,
+      "name": "Give Me The Simple Life",
+      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -571,58 +583,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Gone For The Day",
-        "url": "https://open.spotify.com/album/3iGX9Hro2C3IWAXgVPtVeP"
-      },
-      "artists": [
-        {
-          "name": "June Christy",
-          "url": "https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP"
-        }
-      ],
-      "duration_ms": 137893,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/19qklMrfkSQjwIR33bAIN7"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "'Round Midnight",
-        "url": "https://open.spotify.com/album/6jlhrQp4yRd0CBcFqwrCdf"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/3VS1qUm62nDLZJtxd0V2bb"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "The Complete Anita O'Day Verve-Clef Sessions",
-        "url": "https://open.spotify.com/album/5r3ZZRvdBuWIjsF6N6SDqO"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 185640,
-      "name": "Peel Me A Grape",
-      "url": "https://open.spotify.com/track/16v818j90olbfaqnuimP8R"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "Travelin' Light",
         "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
       },
@@ -635,6 +595,22 @@
       "duration_ms": 149640,
       "name": "And I Love Him",
       "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -659,38 +635,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Timeless: Billy Eckstine",
-        "url": "https://open.spotify.com/album/5etpGOnsRQD8pwjUTLm5nK"
-      },
-      "artists": [
-        {
-          "name": "Billy Eckstine",
-          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "(She's Got The) Blues For Sale",
-      "url": "https://open.spotify.com/track/55wCWY97H8b2au31iCdOYI"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
-        "name": "My Kind Of Broadway",
-        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 314133,
-      "name": "Luck Be A Lady",
-      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "Getz/Gilberto (Expanded Edition)",
         "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
       },
@@ -711,6 +655,42 @@
       "duration_ms": 248013,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/2tcfbkABIwzpepPyaFsYF4"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Anita O'Day And The Three Sounds",
+        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/6jlhrQp4yRd0CBcFqwrCdf"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/3VS1qUm62nDLZJtxd0V2bb"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -747,26 +727,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Anita O'Day And The Three Sounds",
-        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Whisper Not",
-      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "Dinah Washington - The Great American Songbook",
         "url": "https://open.spotify.com/album/3zoDLuBtILNMGV555HHSu1"
       },
@@ -779,6 +739,42 @@
       "duration_ms": 152360,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/4GUvOaJiYlvFTKXDEg3QR6"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "The Complete Anita O'Day Verve-Clef Sessions",
+        "url": "https://open.spotify.com/album/5r3ZZRvdBuWIjsF6N6SDqO"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 185640,
+      "name": "Peel Me A Grape",
+      "url": "https://open.spotify.com/track/16v818j90olbfaqnuimP8R"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Timeless: Billy Eckstine",
+        "url": "https://open.spotify.com/album/5etpGOnsRQD8pwjUTLm5nK"
+      },
+      "artists": [
+        {
+          "name": "Billy Eckstine",
+          "url": "https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "(She's Got The) Blues For Sale",
+      "url": "https://open.spotify.com/track/55wCWY97H8b2au31iCdOYI"
     },
     {
       "added_at": "2021-05-03 15:54:16",
@@ -815,22 +811,6 @@
     {
       "added_at": "2021-05-03 15:54:16",
       "album": {
-        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 136360,
-      "name": "Do Nothing 'Til You Hear From Me",
-      "url": "https://open.spotify.com/track/31yWQ2e7dxRKtkDdMr1Rlo"
-    },
-    {
-      "added_at": "2021-05-03 15:54:16",
-      "album": {
         "name": "Brubeck And Rushing",
         "url": "https://open.spotify.com/album/3mDnrQQWXOSVV1ixnjZzZG"
       },
@@ -847,6 +827,22 @@
       "duration_ms": 127133,
       "name": "There'll Be Some Changes Made",
       "url": "https://open.spotify.com/track/791XP1Sj2BCsf2CYTYje5h"
+    },
+    {
+      "added_at": "2021-05-03 15:54:16",
+      "album": {
+        "name": "Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/75kSQXvLMJh5TsK65zGkOg"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 136360,
+      "name": "Do Nothing 'Til You Hear From Me",
+      "url": "https://open.spotify.com/track/31yWQ2e7dxRKtkDdMr1Rlo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Sx2mAdbEvx"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.",
   "name": "Run Wild",
+  "published_playlist_ids": [
+    "49CIAdzcRoXRsq6yO6T4a8"
+  ],
   "tracks": [
     {
       "album": {
@@ -178,7 +181,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 179713,
       "name": "Burn Too Bright",
       "url": "https://open.spotify.com/track/7uAlJ3iZWFm8OlC7mtXHec"
@@ -214,7 +217,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190786,
       "name": "Can't Cheat Death",
       "url": "https://open.spotify.com/track/3ocLv1zQYgIT09uIWjmTSz"
@@ -326,7 +329,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
@@ -344,7 +347,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5vJzPLEkqOXaqKZqzsYt9r"
@@ -550,7 +553,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 156013,
       "name": "Good Luck, Kid",
       "url": "https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O"
@@ -730,7 +733,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 262866,
       "name": "Hold Out Your Hand",
       "url": "https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan"
@@ -1004,7 +1007,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 300960,
       "name": "My Love Took Me Down To The River To Silence Me",
       "url": "https://open.spotify.com/track/0x1mjEve6LgDbFqBO36p0X"
@@ -1238,7 +1241,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/2SWF7MUtjpdeUxE1eDS5kc"
@@ -1274,7 +1277,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 241706,
       "name": "Shake",
       "url": "https://open.spotify.com/track/33faLM9uNVtibuZIb37MOV"
@@ -1602,7 +1605,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 247600,
       "name": "Van Dyke Brown",
       "url": "https://open.spotify.com/track/1D8iUDeYeouDd3XrRKcuQ5"

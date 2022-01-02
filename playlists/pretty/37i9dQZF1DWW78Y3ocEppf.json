@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Mariah The Scientist",
   "name": "Some Kinda Way",
-  "num_followers": 21460,
+  "num_followers": 21484,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDAxNiwwMDAwMDAwMDU4NTU4MTEyMDk0NjI4MjE3NGVkYjYyOGZhM2FmNTMy",
+  "snapshot_id": "MTY0MTEwODM0OSwwMDAwMDAwMDljODU4N2VjYzhlYWYwMDk2Mzg3ZTZmOTU0ZWY0OGY1",
   "tracks": [
     {
       "added_at": "2021-12-15 20:35:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
+        "name": "Girl Like Me (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/7zur3l7Shcxd6JfOFl8UB0"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 223842,
+      "name": "Girl Like Me (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1OKy6TtXWD7oz1b1dComxI"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
         "name": "Ur Best Friend",
         "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
       },
@@ -151,6 +171,42 @@
       "duration_ms": 182858,
       "name": "Ur Best Friend (with Kehlani)",
       "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Table For Two",
+        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 302240,
+      "name": "How Much Can A Heart Take (feat. Yebba)",
+      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -179,90 +235,34 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+      "duration_ms": 185198,
+      "name": "Bitch Don't Be Mad",
+      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Girl Like Me (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/7zur3l7Shcxd6JfOFl8UB0"
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
       },
       "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 223842,
-      "name": "Girl Like Me (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1OKy6TtXWD7oz1b1dComxI"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/5oimSytgAUa5GF6pZRnzYD"
-      },
-      "artists": [
-        {
-          "name": "James Fauntleroy",
-          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3iJf0dg0PGISj0ied0T0g0"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Table For Two",
-        "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        },
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 302240,
-      "name": "How Much Can A Heart Take (feat. Yebba)",
-      "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR"
-      },
-      "artists": [
-        {
-          "name": "Tone Stith",
-          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
-        }
-      ],
-      "duration_ms": 249494,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7"
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -283,38 +283,34 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Nobody But You",
-        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
+        "name": "Aura III",
+        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
       },
       "artists": [
         {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
         }
       ],
-      "duration_ms": 213214,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+      "duration_ms": 188234,
+      "name": "In My Corner",
+      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+        "name": "Pick Up Your Feelings",
+        "url": "https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 223414,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+      "duration_ms": 232096,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -367,206 +363,6 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Pick Up Your Feelings",
-        "url": "https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 232096,
-      "name": "Pick Up Your Feelings",
-      "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 185198,
-      "name": "Bitch Don't Be Mad",
-      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Comeback.",
-        "url": "https://open.spotify.com/album/0YPxsm4lh9nFvkGYNSYXsa"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Comeback.",
-      "url": "https://open.spotify.com/track/4i1sWZe3erL8QVRCdwMoxT"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 314848,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Homies",
-        "url": "https://open.spotify.com/album/6V8MNF7tuZKKGb7hTyZt3S"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 155131,
-      "name": "Homies",
-      "url": "https://open.spotify.com/track/2xc5inawsqx1hYWjxJNBv8"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dion",
-          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "So Frequently",
-        "url": "https://open.spotify.com/album/773nWzQZ7Uy2BekzwLAUYI"
-      },
-      "artists": [
-        {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "So Frequently",
-      "url": "https://open.spotify.com/track/5dpEHuTqnkM0SxzRpme5Bi"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Tragic",
-        "url": "https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 207314,
-      "name": "Tragic",
-      "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "I Used To Know Her",
-        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Could've Been (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "alone / the catch up",
-        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
-      },
-      "artists": [
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 188115,
-      "name": "the catch up",
-      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 196786,
-      "name": "Anymore (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
         "name": "Let You Go",
         "url": "https://open.spotify.com/album/76hyS0MpstCRbSqt46w7Th"
       },
@@ -583,18 +379,18 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Aura III",
-        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+        "name": "DYING 4 YOUR LOVE",
+        "url": "https://open.spotify.com/album/1EUCSZciwmAutnu9M8lqZW"
       },
       "artists": [
         {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 188234,
-      "name": "In My Corner",
-      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+      "duration_ms": 206773,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/5d6qTZOLnj4zbgFGRoJiNz"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -615,70 +411,66 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX"
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 205116,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh"
+      "duration_ms": 314848,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+        "name": "trying not to think about it",
+        "url": "https://open.spotify.com/album/3pqGPovRqsz0IYfWsfR5CL"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
         }
       ],
-      "duration_ms": 226278,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+      "duration_ms": 245426,
+      "name": "Anxiety (Burlinda\u2019s Theme)",
+      "url": "https://open.spotify.com/track/1fEkrXY5RLeVZ7kMDzGUVb"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Butterflies Pt. 2 (Wale Remix)",
-        "url": "https://open.spotify.com/album/6UWMsCzYSuWuSUsnQSYA4a"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6Ybk2UXncKCGUvi41vwcWR"
       },
       "artists": [
         {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         }
       ],
-      "duration_ms": 162825,
-      "name": "Butterflies Pt. 2 - Wale Remix",
-      "url": "https://open.spotify.com/track/2Ucbz9AR0ybbwm6JM2p9Gk"
+      "duration_ms": 249494,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2b3y7M0vz0oqP5AwGguTV7"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "Bling Up",
+        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 177914,
+      "name": "Bling Up",
+      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -719,22 +511,206 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Gotta Move On",
-        "url": "https://open.spotify.com/album/0gLmWMI0fbHGPj2fnEl6Yg"
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
       "artists": [
         {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "To Myself (Deluxe)",
+        "url": "https://open.spotify.com/album/2RKhRRDOU32gaoNRrQICbG"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 174208,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/3GI61nYQMfL6diHPFU0YLB"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Tragic",
+        "url": "https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 207314,
+      "name": "Tragic",
+      "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "alone / the catch up",
+        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
+      },
+      "artists": [
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 188115,
+      "name": "the catch up",
+      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
         },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 258125,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/4E8NdFfprLwbouZ46bv75o"
+      "duration_ms": 199533,
+      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Triggered (freestyle)",
+      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Options",
+        "url": "https://open.spotify.com/album/5S5hBOi5w9lrBovIyyWevN"
+      },
+      "artists": [
+        {
+          "name": "Journee",
+          "url": "https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/3NE8KZipKxO0aKYQQn3oU8"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 205116,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "HAPPY 2 BE HERE (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1djR94Uyy0vjecCXfOdXng"
+      },
+      "artists": [
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "duration_ms": 111160,
+      "name": "June 1st",
+      "url": "https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "On Read with Tiana Major9",
+        "url": "https://open.spotify.com/album/3BWtvrFVWeuhsYJDxSvPXE"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "duration_ms": 183699,
+      "name": "On Read with Tiana Major9",
+      "url": "https://open.spotify.com/track/0lruAPwhxreBwk78gzK96P"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "JAGUAR",
+        "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 183731,
+      "name": "Go There With You",
+      "url": "https://open.spotify.com/track/4DHbBXZYwlFIVpcI8fC6Ue"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -755,70 +731,6 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Stay Mad",
-        "url": "https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V"
-      },
-      "artists": [
-        {
-          "name": "IV JAY",
-          "url": "https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX"
-        }
-      ],
-      "duration_ms": 131347,
-      "name": "Stay Mad",
-      "url": "https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Clear My Mind",
-        "url": "https://open.spotify.com/album/7DWz3qJP7YjXwhoEknFpz0"
-      },
-      "artists": [
-        {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
-        }
-      ],
-      "duration_ms": 155459,
-      "name": "Clear My Mind",
-      "url": "https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 199540,
-      "name": "Time & Space",
-      "url": "https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "S.O.L.A.R.",
-        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
-      },
-      "artists": [
-        {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
-        }
-      ],
-      "duration_ms": 188839,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
         "name": "Pack Lite",
         "url": "https://open.spotify.com/album/00IWbDt6d3LfbgnIdZ58OY"
       },
@@ -835,24 +747,80 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "R\u00e9sum\u00e9",
-        "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
+        "name": "Hard 4 Me 2 Love You",
+        "url": "https://open.spotify.com/album/1PtHdtq6JgoCxawh4fwZHl"
       },
       "artists": [
         {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
         }
       ],
-      "duration_ms": 180357,
-      "name": "R\u00e9sum\u00e9",
-      "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
+      "duration_ms": 230693,
+      "name": "Hard 4 Me 2 Love You",
+      "url": "https://open.spotify.com/track/4YF1ucCHnZHQFxeLxtPLpS"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Alone With You",
+        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+      },
+      "artists": [
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 226278,
+      "name": "Alone With You",
+      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "So Done (feat. Khalid)",
+        "url": "https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 235785,
+      "name": "So Done (feat. Khalid)",
+      "url": "https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
@@ -860,9 +828,41 @@
           "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 198370,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/3sxDMHKPPqjQRpCOUNDw2z"
+      },
+      "artists": [
+        {
+          "name": "Miiesha",
+          "url": "https://open.spotify.com/artist/1ehGGQnc7E28DNwhvnFuyL"
+        }
+      ],
+      "duration_ms": 196536,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/1Q15fOVSvuMbvgUddeMNVj"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf"

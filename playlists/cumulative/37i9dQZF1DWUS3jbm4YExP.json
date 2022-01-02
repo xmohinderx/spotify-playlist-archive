@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
+  "published_playlist_ids": [
+    "4cy2JLPcTDNKlCrRVhjOKn"
+  ],
   "tracks": [
     {
       "album": {
@@ -116,7 +119,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
@@ -282,7 +285,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 308471,
       "name": "Babalawo",
       "url": "https://open.spotify.com/track/6ifwhjw3szFwweQbAZAu7j"
@@ -318,7 +321,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 309543,
       "name": "Bayne Lay Yihedal",
       "url": "https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk"
@@ -546,7 +549,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 289506,
       "name": "Cumbia Fantas\u00eda",
       "url": "https://open.spotify.com/track/1uAbXVyaMqHBHIo8gp3GMK"
@@ -568,6 +571,32 @@
       "duration_ms": 306640,
       "name": "Dawn at the Souk",
       "url": "https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD"
+    },
+    {
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/48n17knZcV17EROw3ndSRm"
+      },
+      "artists": [
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295733,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/2nJTbCUSqva9qCjLFFQJhu"
     },
     {
       "album": {
@@ -744,7 +773,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 184886,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/18xMAhhakzjsthPu1OAIq9"
@@ -1006,7 +1035,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 190280,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/1A0GQQTh59wxrM5OT4Dw0o"
@@ -1174,7 +1203,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 205874,
       "name": "Haditouni (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/40Eql6g1f9BLSWeJ8mZgOU"
@@ -1196,7 +1225,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 257120,
       "name": "Hang Tuah - Frente Cumbiero Remix",
       "url": "https://open.spotify.com/track/0f9EYFymFDnBj585AACYqN"
@@ -1312,7 +1341,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 345705,
       "name": "House of Lett",
       "url": "https://open.spotify.com/track/0t43FxUgWcEMRqKAykWn0k"
@@ -1352,7 +1381,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 400000,
       "name": "I Can't Get Along Without You",
       "url": "https://open.spotify.com/track/6mHUnQi6NWf1bq2f9GIbH5"
@@ -1512,7 +1541,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214287,
       "name": "Judge Not - Ray Mang Radio Edit",
       "url": "https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy"
@@ -1650,7 +1679,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 322249,
       "name": "Lambada de Oceania, Africa y America (eran un solo continente)",
       "url": "https://open.spotify.com/track/3FiCLbJj5E7jBDo87OAElh"
@@ -1690,7 +1719,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 221760,
       "name": "Long in the Tooth",
       "url": "https://open.spotify.com/track/7ETH5mL8eLwdrx0cwQiLk9"
@@ -1726,7 +1755,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 204333,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6o8TnSHigKVdqxXDVtmbIx"
@@ -1780,7 +1809,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 235250,
       "name": "Mam Yinne Wa",
       "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
@@ -2024,6 +2053,24 @@
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/7JLRUxp5qbK2OGUq9Bbqga"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Huanca",
+        "url": "https://open.spotify.com/album/1jEJCXRSZAmsnDwMcIfHGP"
+      },
+      "artists": [
+        {
+          "name": "Martin Bruhn",
+          "url": "https://open.spotify.com/artist/7Dac3ptM3pvSiPzkRVJ548"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116782,
+      "name": "M\u00fasica Huanca",
+      "url": "https://open.spotify.com/track/70nmT1ABxMP4K82VbTivGM"
     },
     {
       "album": {
@@ -2274,7 +2321,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 346373,
       "name": "Otemoyan - Reggae",
       "url": "https://open.spotify.com/track/4DIkIKQ3LgaI9bs0JX2qgN"
@@ -2376,7 +2423,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
@@ -2478,7 +2525,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 211426,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/1PPJiazinbp1EFvRFBW2su"
@@ -2630,7 +2677,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 257489,
       "name": "Siakwaa / Nana Agyei - Medley",
       "url": "https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn"
@@ -2768,7 +2815,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "Spiritual Ideation",
       "url": "https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy"
@@ -2808,7 +2855,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 361715,
       "name": "Suro Nipa",
       "url": "https://open.spotify.com/track/74hBqD4AZElwmfRxR9dOPZ"
@@ -3018,7 +3065,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 383833,
       "name": "Vans\u00e9 - Voilaaa Remix",
       "url": "https://open.spotify.com/track/5hj3i8nHG3nWgn5Y0EKeWu"

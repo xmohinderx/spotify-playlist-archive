@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Chillout to the coolest Korean acoustic tunes. (Cover: Oh Si Young(\uc624\uc2dc\uc601)) (\uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.)",
   "name": "K-Pop Acoustic",
+  "published_playlist_ids": [
+    "6ycQZelJsg1QvKdkpuvD2Q"
+  ],
   "tracks": [
     {
       "album": {
@@ -16,7 +19,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 223451,
       "name": "11:11",
       "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
@@ -342,7 +345,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 186200,
       "name": "Eye To Eye",
       "url": "https://open.spotify.com/track/3l5h4nyOoMXv52yRwbk139"
@@ -360,7 +363,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 225189,
       "name": "Fallin\u2019",
       "url": "https://open.spotify.com/track/3ADWPCUm96c7ruPWgzkcTa"
@@ -548,7 +551,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 158666,
       "name": "HAAN DEMO 2",
       "url": "https://open.spotify.com/track/40pFXhQsyPJvXICzULkc8v"
@@ -790,7 +793,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
@@ -880,7 +883,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 226083,
       "name": "Maze in the Mirror",
       "url": "https://open.spotify.com/track/2tYA2hPbaJqshY73q15wJz"
@@ -996,7 +999,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
@@ -1014,7 +1017,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 248835,
       "name": "Only Then",
       "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
@@ -1086,7 +1089,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194892,
       "name": "Running - Acoustic",
       "url": "https://open.spotify.com/track/5MQoTAOrOjNafc4VPav9Rn"
@@ -1122,7 +1125,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 170746,
       "name": "Say I Love U",
       "url": "https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H"
@@ -1292,7 +1295,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 273333,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/05ho1OFzZj2yGMcEGPKtCF"
@@ -1368,7 +1371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220106,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/6WoloXr2PXu8FRYZFtzbij"
@@ -1386,7 +1389,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224000,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
@@ -1476,7 +1479,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 248768,
       "name": "Wait",
       "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
@@ -1552,7 +1555,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210613,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/4M13QYXUbkv5cWYqw7m88u"
@@ -1588,7 +1591,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213211,
       "name": "What I want to say",
       "url": "https://open.spotify.com/track/4door6xOPf2auseb5Foc9f"

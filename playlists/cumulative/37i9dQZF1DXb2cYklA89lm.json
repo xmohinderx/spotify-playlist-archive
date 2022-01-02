@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
   "name": "Hot Rods & Horror Shows",
+  "published_playlist_ids": [
+    "6c1YOrZpM9l4oCxY3cV0I7"
+  ],
   "tracks": [
     {
       "album": {
@@ -124,7 +127,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 185280,
       "name": "Black Jack Death Bet",
       "url": "https://open.spotify.com/track/3QGVVYsXDDKMio22eEAvYI"
@@ -286,7 +289,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 158095,
       "name": "Drinking from the Skull of My Favourite Enemy",
       "url": "https://open.spotify.com/track/1AgqItQXKJAFF4nas6J1Gr"
@@ -416,7 +419,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210589,
       "name": "Growing up Monsters",
       "url": "https://open.spotify.com/track/3IeYXAKmLoRotJ5zJX73y6"
@@ -434,7 +437,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 145680,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/6G6A9ehdsV7YGiIlcAvtrY"
@@ -492,7 +495,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 215292,
       "name": "King of the Waves",
       "url": "https://open.spotify.com/track/56rkUIGHMGCfCFZOdpr57t"
@@ -564,7 +567,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 238280,
       "name": "Mark of the Devil",
       "url": "https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH"
@@ -676,7 +679,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204160,
       "name": "My Love for Evermore",
       "url": "https://open.spotify.com/track/1pGUl6SIkUG2eOAOwMN82W"
@@ -820,7 +823,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 145546,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/74YuAIgyAC6dRq4tLdUdDr"
@@ -964,7 +967,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 181546,
       "name": "Rockin' at the House of Strange",
       "url": "https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8"
@@ -1108,7 +1111,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 145541,
       "name": "They're Inside",
       "url": "https://open.spotify.com/track/2trEgoZgPLKyaek0vg9Gfb"

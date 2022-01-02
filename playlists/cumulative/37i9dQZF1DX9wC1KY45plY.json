@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "The ultimate playlist to fuel your good mood while on the road.",
   "name": "Classic Road Trip Songs",
+  "published_playlist_ids": [
+    "3JiRPi2K3BLi8D6ddBol7M"
+  ],
   "tracks": [
     {
       "album": {
@@ -596,7 +599,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
@@ -1374,7 +1377,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"

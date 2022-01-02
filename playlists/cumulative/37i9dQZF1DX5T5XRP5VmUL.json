@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "The perfect soundtrack to the holiday season!",
   "name": "Christmas in Canada",
+  "published_playlist_ids": [
+    "4IaW87U8saVqpYKumxtPZo"
+  ],
   "tracks": [
     {
       "album": {
@@ -128,7 +131,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194943,
       "name": "Angels We Have Heard on High",
       "url": "https://open.spotify.com/track/4rGTZ1t0WLFpviiN3zZb0V"
@@ -644,7 +647,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 169133,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/2bzs48jw4TFTCNJfuRTfu4"
@@ -854,6 +857,24 @@
       "duration_ms": 206480,
       "name": "God Rest Ye Merry Gentlemen (feat. Sarah McLachlan)",
       "url": "https://open.spotify.com/track/6YgKtmBkCAm2ew0JYZFVVd"
+    },
+    {
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4iffxTsB6gVyLrDO499z76"
+      },
+      "artists": [
+        {
+          "name": "Skydiggers",
+          "url": "https://open.spotify.com/artist/7laI3diMt9Gpz0GAp85qLb"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233653,
+      "name": "Good King Wenceslas",
+      "url": "https://open.spotify.com/track/3pw8zpeohwko3l6RojpeKp"
     },
     {
       "album": {
@@ -1172,7 +1193,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 250000,
       "name": "If Christmas Comes This Year",
       "url": "https://open.spotify.com/track/1n89cEk1qmayPDVUlEwejQ"
@@ -1392,7 +1413,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191340,
       "name": "Last Christmas with Your Love",
       "url": "https://open.spotify.com/track/5WwBjeV964pJVId737SjvC"
@@ -1530,7 +1551,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 254562,
       "name": "Love Is Christmas",
       "url": "https://open.spotify.com/track/2bw9wryxOpzFdjaiB5hq24"
@@ -1602,7 +1623,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Moonshine and Mistletoe",
       "url": "https://open.spotify.com/track/1AgjU4E9UjsKNDfO5ItZZG"
@@ -1620,7 +1641,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 207866,
       "name": "My Christmas List",
       "url": "https://open.spotify.com/track/5yqePwEEEahon0KlROPSr0"

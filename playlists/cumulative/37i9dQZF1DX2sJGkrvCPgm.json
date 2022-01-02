@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "A mix of new songs and beloved classics from your favorite Contemporary Christian artists! ",
   "name": "Contemporary Christian Christmas",
+  "published_playlist_ids": [
+    "3VKHSaQTSqffmNpvFkOoqw"
+  ],
   "tracks": [
     {
       "album": {
@@ -302,7 +305,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 256107,
       "name": "Being Home for Christmas",
       "url": "https://open.spotify.com/track/6C5kkTtjWio0ah4AZDEiFS"
@@ -360,7 +363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 280518,
       "name": "Brightest And Best",
       "url": "https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f"
@@ -508,7 +511,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
@@ -580,7 +583,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197223,
       "name": "Favorite Time Of Year",
       "url": "https://open.spotify.com/track/2aq7ZO1is1czoQAh076QFU"
@@ -859,6 +862,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR"
+    },
+    {
+      "album": {
         "name": "Advent Songs",
         "url": "https://open.spotify.com/album/0q3YflR2DQiPytrpHx7lAA"
       },
@@ -1084,7 +1105,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173500,
       "name": "I Saw Three Ships",
       "url": "https://open.spotify.com/track/4DJGAJKzUvnoRes5aiv3Ji"
@@ -1182,7 +1203,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 278825,
       "name": "Jesus You Come - Acoustic",
       "url": "https://open.spotify.com/track/0cBXP4xPo4E1YmAbXYPNxp"
@@ -1218,7 +1239,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205733,
       "name": "Joy",
       "url": "https://open.spotify.com/track/1niWovttFgyl2fqY7sFbGO"
@@ -1438,7 +1459,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239054,
       "name": "Let There Be Peace",
       "url": "https://open.spotify.com/track/0unhO1D9nwFlljFrhwB9Rs"
@@ -1510,7 +1531,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 251773,
       "name": "Little Drummer Boy (Rewrapped)",
       "url": "https://open.spotify.com/track/3MihysDPUE1E1aAmtcQvat"
@@ -1688,7 +1709,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 272813,
       "name": "O Come O Come Emmanuel",
       "url": "https://open.spotify.com/track/1o8HpmXhtfxmvdottedQlD"
@@ -1764,7 +1785,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 97000,
       "name": "O Come, O Come, Emmanuel",
       "url": "https://open.spotify.com/track/6ETev8u6Hb3YqToPpmTRMl"
@@ -1804,7 +1825,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 358580,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/2LqmbPc1ti3yGppE5Xy3Cq"
@@ -2304,7 +2325,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 262160,
       "name": "We Three Kings (feat. Britt Nicole)",
       "url": "https://open.spotify.com/track/2RXca2IBMfwk3cawIXH5k3"

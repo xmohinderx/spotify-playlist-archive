@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Mellow songs from the 1990s. Cover: Boyz II Men.",
   "name": "Soft 90s",
+  "published_playlist_ids": [
+    "3Y9Hoox8bVt84gpOCnK26g"
+  ],
   "tracks": [
     {
       "album": {
@@ -88,7 +91,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 292400,
       "name": "4 Seasons Of Loneliness",
       "url": "https://open.spotify.com/track/1TyNecZDYU3BP3EitfpgnT"
@@ -1072,7 +1075,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258240,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1S1TItTK7HaRDnfj1vZ80Q"
@@ -2904,7 +2907,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 266026,
       "name": "Senza Una Donna - English Version",
       "url": "https://open.spotify.com/track/5Z19GK3mj0wrb4jMnjiE0D"
@@ -3142,7 +3145,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 189826,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
@@ -3290,7 +3293,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 218360,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
@@ -3744,7 +3747,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224466,
       "name": "Weather With You",
       "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"

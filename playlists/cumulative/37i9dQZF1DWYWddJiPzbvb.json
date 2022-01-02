@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Chilled songs that you are familiar with - no surprises!",
   "name": "Comfort Zone",
+  "published_playlist_ids": [
+    "7tG4LH7tBjMglaIXXEhkq4"
+  ],
   "tracks": [
     {
       "album": {
@@ -154,7 +157,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 283706,
       "name": "All For Love - From \"The Three Musketeers\"",
       "url": "https://open.spotify.com/track/035aFnfIrO25Hy4PRP6GC7"
@@ -994,7 +997,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 193511,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Gl0FzuLxflY6nPifJp5Dr"
@@ -1418,7 +1421,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239440,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi"
@@ -3932,7 +3935,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 202546,
       "name": "Young Dumb & Broke",
       "url": "https://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY"

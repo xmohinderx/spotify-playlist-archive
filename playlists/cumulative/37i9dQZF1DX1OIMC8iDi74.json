@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "A cocktail of <a href=\"spotify:genre:edm_dance\">electronic</a> trap and trap-influenced tracks. Cover: Just A Gent.",
   "name": "Trap Mojito",
+  "published_playlist_ids": [
+    "6tpQ5fWn7pR2a6KV8Us5hN"
+  ],
   "tracks": [
     {
       "album": {
@@ -150,7 +153,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 175304,
       "name": "Been That Ill",
       "url": "https://open.spotify.com/track/0ksOXKdoU7tm5maWw2Oe2T"
@@ -398,7 +401,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 303517,
       "name": "Diamond Chain",
       "url": "https://open.spotify.com/track/60svIMvs5qsqcrQcqoPbXp"
@@ -978,7 +981,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 179200,
       "name": "Helix",
       "url": "https://open.spotify.com/track/0NzzaQ0u505zpG8IAZQyT7"
@@ -1116,7 +1119,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 216827,
       "name": "I Got Tha",
       "url": "https://open.spotify.com/track/2RfIvDkzZ0d11fpT1FYBcd"
@@ -1218,7 +1221,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/74leCkl7rVK7GcycRrc9wq"
@@ -1236,7 +1239,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 167441,
       "name": "INTHEENDITSYOU",
       "url": "https://open.spotify.com/track/6rNrdKs44k8ZsrB3Jpsozc"
@@ -1316,7 +1319,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 154887,
       "name": "Kings",
       "url": "https://open.spotify.com/track/6X38QEOERzDXI5HPvwAJw7"
@@ -1390,7 +1393,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 273600,
       "name": "Lions - Doctor P Remix",
       "url": "https://open.spotify.com/track/6exH1RP0wkEQgfHJ3rd2mP"
@@ -1852,7 +1855,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206086,
       "name": "Nothing Less",
       "url": "https://open.spotify.com/track/2Z1qVWjEyUipTbgUKOKuGo"
@@ -2272,7 +2275,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/6y3jQ1n5P4z1DAtHd7HWcV"
@@ -2298,7 +2301,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 215040,
       "name": "Shadow (feat. Calivania)",
       "url": "https://open.spotify.com/track/3sQEGlBQsZQesOboMHDLqn"
@@ -2702,6 +2705,24 @@
       "duration_ms": 182181,
       "name": "ULTRAMAGNET",
       "url": "https://open.spotify.com/track/5fz7jzEkp9Hxh9kZewWVCU"
+    },
+    {
+      "album": {
+        "name": "Why Is It So Hard",
+        "url": "https://open.spotify.com/album/1u42tckI6ReuhdPIVgUxjW"
+      },
+      "artists": [
+        {
+          "name": "Santiago",
+          "url": "https://open.spotify.com/artist/1nZ7JTJvYw7eGVECfF43hF"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203700,
+      "name": "Why Is It So Hard",
+      "url": "https://open.spotify.com/track/6ovna0z2elvIqqfVw8p4z1"
     },
     {
       "album": {

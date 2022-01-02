@@ -2,6 +2,9 @@
   "date_first_scraped": "2020-10-13",
   "description": "New and approved indie pop. Cover: No Rome",
   "name": "Indie Pop",
+  "published_playlist_ids": [
+    "2nCGCENCYFC3EyufXsiFQ9"
+  ],
   "tracks": [
     {
       "album": {
@@ -638,7 +641,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 214746,
       "name": "Am I Alright",
       "url": "https://open.spotify.com/track/2OZJWIhTXHL3UKJmhG5kxq"
@@ -1570,7 +1573,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 163987,
       "name": "BeVerly Hills BoYfRiEnd (with ROLE MODEL)",
       "url": "https://open.spotify.com/track/0xljDdXOyRfnlYAW6ZkzF8"
@@ -2620,7 +2623,7 @@
       ],
       "date_added": "2021-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 215515,
       "name": "chance with you",
       "url": "https://open.spotify.com/track/0Mdpgse4iIjQOpWJGTh3VS"
@@ -2660,7 +2663,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 147368,
       "name": "CHARGER (ft. Charli XCX)",
       "url": "https://open.spotify.com/track/0WDjZuWS4Z0ATgR8eL5cr1"
@@ -3630,7 +3633,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 150792,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/778JDHI6qfgQ1HBEKP1FZu"
@@ -4916,7 +4919,7 @@
       ],
       "date_added": "2021-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 181853,
       "name": "fan behavior",
       "url": "https://open.spotify.com/track/2HWJELHnneoKGVe0mRFeeD"
@@ -5912,7 +5915,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 215402,
       "name": "Good Girls (Don't Get Used)",
       "url": "https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz"
@@ -6132,7 +6135,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 231700,
       "name": "Happen To Me",
       "url": "https://open.spotify.com/track/1bPo0RfCT7T4GHblhc7c7R"
@@ -6916,7 +6919,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 165533,
       "name": "i deserve 2 b alone",
       "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
@@ -7118,7 +7121,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222786,
       "name": "I Love You But I Love Me More (feat. Beach Bunny)",
       "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
@@ -8570,7 +8573,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 251280,
       "name": "Line Without a Hook (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR"
@@ -9160,7 +9163,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 155695,
       "name": "Make of It",
       "url": "https://open.spotify.com/track/1JhAUdnlUyUqZocC2mvpwH"
@@ -11836,7 +11839,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249078,
       "name": "Prom",
       "url": "https://open.spotify.com/track/0jDly7CyGCcPWGw5LNr7KL"
@@ -12176,7 +12179,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Record Player (with AJR)",
       "url": "https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM"
@@ -13312,7 +13315,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 114320,
       "name": "Something",
       "url": "https://open.spotify.com/track/3CzfTl1RSsQ6jnxKZmsJMe"
@@ -14712,7 +14715,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185781,
       "name": "The Cause",
       "url": "https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ"
@@ -14928,7 +14931,7 @@
       ],
       "date_added": "2021-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220840,
       "name": "The Walls Are Way Too Thin",
       "url": "https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV"
@@ -16088,7 +16091,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 174720,
       "name": "When She Comes Around",
       "url": "https://open.spotify.com/track/7EJVLdcpC2lqg8Y9T5NnX8"

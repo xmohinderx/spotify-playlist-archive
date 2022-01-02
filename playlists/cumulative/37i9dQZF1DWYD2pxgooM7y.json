@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Summertime sadness everyday",
   "name": "Sun Kissed",
+  "published_playlist_ids": [
+    "6cyWpehxt0KCj4u5mLdL90"
+  ],
   "tracks": [
     {
       "album": {
@@ -34,7 +37,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 192319,
       "name": "2Drunk",
       "url": "https://open.spotify.com/track/33o0xXMPY41CWwDTnxyM5Z"
@@ -142,7 +145,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 158027,
       "name": "Angel",
       "url": "https://open.spotify.com/track/2ZAR6KM22MVIZDZFjAthrN"
@@ -440,7 +443,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
@@ -548,7 +551,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 146147,
       "name": "everybody's fine but me",
       "url": "https://open.spotify.com/track/0r9vj3shKehGiJqlmkZSnR"
@@ -570,7 +573,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 163500,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/0KEIkG5UaLrDjBZ5HVQIfe"
@@ -770,7 +773,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -806,7 +809,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 170913,
       "name": "Home",
       "url": "https://open.spotify.com/track/21xCXsuI6easPmJ9e25nkl"
@@ -842,7 +845,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 136058,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
@@ -966,7 +969,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 195692,
       "name": "juice",
       "url": "https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x"
@@ -1028,7 +1031,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176800,
       "name": "Kiss My (Uh Oh)",
       "url": "https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp"
@@ -1192,7 +1195,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 207497,
       "name": "Morning Light",
       "url": "https://open.spotify.com/track/5xfwbfvRCaMstC6DsZk2h9"
@@ -1254,7 +1257,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187317,
       "name": "Nothing's gonna hurt us",
       "url": "https://open.spotify.com/track/1QhcAeny9lvKxVYIv6htoq"
@@ -1308,7 +1311,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 213506,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/1YlulsUKDduOmC7WxvXYPW"
@@ -1326,7 +1329,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 182961,
       "name": "PARADISE",
       "url": "https://open.spotify.com/track/3gyfxe6NhOXKe6YTQ57xkw"
@@ -1398,7 +1401,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 186760,
       "name": "Ready to love",
       "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
@@ -1470,7 +1473,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 216539,
       "name": "Rise",
       "url": "https://open.spotify.com/track/0s8aU1K1veT7CSpBfqZEFP"
@@ -1568,7 +1571,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174719,
       "name": "so done",
       "url": "https://open.spotify.com/track/0CJujB84MFibxHqxFQVLu1"
@@ -1604,7 +1607,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232997,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/12OsT8udgAJilYkSMHU6tl"
@@ -1710,7 +1713,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 200292,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k"
@@ -1888,7 +1891,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 198053,
       "name": "The Feels",
       "url": "https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY"
@@ -2008,7 +2011,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 176372,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/3VVLOvm3AV7quKn7gN9szx"
@@ -2026,7 +2029,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 193373,
       "name": "War With Heaven",
       "url": "https://open.spotify.com/track/14gmLQPNYokqB8OKxAp69f"
@@ -2066,7 +2069,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144538,
       "name": "What Are We Doing? (with lewloh)",
       "url": "https://open.spotify.com/track/5asna33aDIbUCIYLPoLfm5"
@@ -2164,7 +2167,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 150662,
       "name": "You're My Superhero",
       "url": "https://open.spotify.com/track/2Zv9TY8e1EGRluqujUvoDX"

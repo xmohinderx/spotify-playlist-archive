@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Classic tracks with roots in post-punk, garage rock, and new wave. Cover: The Strokes",
   "name": "Garage Rock Revival",
+  "published_playlist_ids": [
+    "0WE4y9j38pkHLOQzcuOVJZ"
+  ],
   "tracks": [
     {
       "album": {
@@ -1006,7 +1009,7 @@
       ],
       "date_added": "2020-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 262306,
       "name": "No One Sleeps When I\u2019m Awake",
       "url": "https://open.spotify.com/track/3WKuvzrcU1eMt0cxHV9OZ5"
@@ -1150,7 +1153,7 @@
       ],
       "date_added": "2020-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199999,
       "name": "Painted By Numbers",
       "url": "https://open.spotify.com/track/0vKt8MR7mVWJ7uWH93HYzl"

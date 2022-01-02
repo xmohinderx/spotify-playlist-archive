@@ -2,6 +2,9 @@
   "date_first_scraped": "2020-10-20",
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
   "name": "Not Quite Classical",
+  "published_playlist_ids": [
+    "1ETtqPKkXByhWILIPwHSkw"
+  ],
   "tracks": [
     {
       "album": {
@@ -20,7 +23,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 237832,
       "name": "#20 (Lichen)",
       "url": "https://open.spotify.com/track/4ovtBDG1jiIXe033VVhNgq"
@@ -114,7 +117,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-03",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/1kHETSWzScobcs0K5JsVc0"
@@ -600,7 +603,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236520,
       "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
@@ -1352,7 +1355,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221960,
       "name": "Dear, Utopia - Jameson Nathan Jones Rework",
       "url": "https://open.spotify.com/track/4DDtvtAqHwTchhBthZIPcO"
@@ -1464,7 +1467,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 278435,
       "name": "Don\u2019t Walk Alone",
       "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
@@ -1614,7 +1617,7 @@
       ],
       "date_added": "2021-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238400,
       "name": "East London Street - Edit",
       "url": "https://open.spotify.com/track/5j7CNRmC6Rx6bCW8a55kr2"
@@ -2242,7 +2245,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 414255,
       "name": "Forest Path",
       "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
@@ -2260,7 +2263,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 182759,
       "name": "Fredag",
       "url": "https://open.spotify.com/track/0maSnp4yKgYgbRfPvNvxud"
@@ -2428,7 +2431,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 359628,
       "name": "Gloaming",
       "url": "https://open.spotify.com/track/2mqSvQ8XCWa0uoMVx6RmO9"
@@ -2726,7 +2729,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "I'll see you in 21 days",
       "url": "https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl"
@@ -3098,7 +3101,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
@@ -4102,7 +4105,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 228904,
       "name": "Refrost",
       "url": "https://open.spotify.com/track/05MRIEoiBKTtnTT70KkDdX"
@@ -4342,7 +4345,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 335767,
       "name": "She Lives in Golden Sands",
       "url": "https://open.spotify.com/track/2bfPtJBxdYPrF8cKeIEUzH"
@@ -5394,7 +5397,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"

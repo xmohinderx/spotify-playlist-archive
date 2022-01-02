@@ -2,6 +2,9 @@
   "date_first_scraped": "2020-10-05",
   "description": "Chill. The best indie tracks for just hanging out.",
   "name": "Indie Chillout",
+  "published_playlist_ids": [
+    "41MzLqMCO3UL9HEUFZj7KO"
+  ],
   "tracks": [
     {
       "album": {
@@ -150,7 +153,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
@@ -732,7 +735,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -1886,7 +1889,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 264607,
       "name": "Deep Down - Blood Orange Remix",
       "url": "https://open.spotify.com/track/1qDXiACY4IrRsQ6mfTXrqA"
@@ -1940,7 +1943,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 164213,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/1ul6ZsL4SybkiVTCzYTLyN"
@@ -2002,7 +2005,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 228200,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/33sOtnSvolKA5lDbvBtiSs"
@@ -2272,7 +2275,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 270837,
       "name": "End Summer",
       "url": "https://open.spotify.com/track/1OQEF0LsL7KMQmBZSiUcdE"
@@ -2344,7 +2347,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 134780,
       "name": "Face Again",
       "url": "https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc"
@@ -2388,7 +2391,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185812,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/0zX1fnVFXWE0zBSwoppHeg"
@@ -3056,7 +3059,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
@@ -3208,7 +3211,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224075,
       "name": "Housekeys",
       "url": "https://open.spotify.com/track/1qjSdzpCDpXhWqVtUlaFSM"
@@ -3794,7 +3797,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 189382,
       "name": "Laurelhurst",
       "url": "https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg"
@@ -5212,7 +5215,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
@@ -5634,7 +5637,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 262736,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S"
@@ -5728,7 +5731,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD"
@@ -6150,7 +6153,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/4fMIe4htuvA8RoygYDFqO5"
@@ -6892,7 +6895,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 205911,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/4lI4Q0EMFksyN79hx5DPbP"

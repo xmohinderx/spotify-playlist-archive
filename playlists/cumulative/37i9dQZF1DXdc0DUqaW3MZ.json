@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Bonobo and Jordan Rakei",
   "name": "Soultronic",
+  "published_playlist_ids": [
+    "5u0IGmC2ej39pmSJy1wKWQ"
+  ],
   "tracks": [
     {
       "album": {
@@ -46,7 +49,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 170501,
       "name": "1985",
       "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
@@ -173,6 +176,28 @@
     },
     {
       "album": {
+        "name": "All the Leaves Are Falling",
+        "url": "https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI"
+      },
+      "artists": [
+        {
+          "name": "Nealo",
+          "url": "https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO"
+        },
+        {
+          "name": "Molly Sterling",
+          "url": "https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248506,
+      "name": "All the Leaves Are Falling",
+      "url": "https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA"
+    },
+    {
+      "album": {
         "name": "All Up To You",
         "url": "https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp"
       },
@@ -202,7 +227,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 169493,
       "name": "Anyone Around",
       "url": "https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e"
@@ -256,7 +281,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173000,
       "name": "argentin",
       "url": "https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s"
@@ -394,7 +419,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 153002,
       "name": "Blessa (Instrumental)",
       "url": "https://open.spotify.com/track/6D6HuWcYLPzlseIYMMWFJj"
@@ -412,7 +437,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 326242,
       "name": "Blind Spot",
       "url": "https://open.spotify.com/track/3bOvyoDhBUnLf8NisLxGn6"
@@ -658,7 +683,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 186000,
       "name": "Come Back",
       "url": "https://open.spotify.com/track/0jX4GHNCQr7Fq0GvXWuF3t"
@@ -738,7 +763,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/3VlbXBW2heJ3s6GS23wyAV"
@@ -836,7 +861,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 181922,
       "name": "Dragonball Durag",
       "url": "https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c"
@@ -942,7 +967,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227070,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/76KumSfWF8BFG9mi1d6U3Q"
@@ -1158,7 +1183,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 197675,
       "name": "Ghostin'",
       "url": "https://open.spotify.com/track/02oUEbDQXcVITlLQKMPN1F"
@@ -1374,7 +1399,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 172866,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/2UWyaEEAjiLEhrNcwiKXKY"
@@ -1516,7 +1541,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 225199,
       "name": "Idle (feat. Ghostly Kisses)",
       "url": "https://open.spotify.com/track/4mXdlglKsmZ8kpakb84mLn"
@@ -1534,7 +1559,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201991,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R"
@@ -1894,7 +1919,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
@@ -1952,7 +1977,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 223533,
       "name": "Mr. Sun (miss da sun)",
       "url": "https://open.spotify.com/track/2dhPGfqPl8LEXqRiU8tfPl"
@@ -2356,7 +2381,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 214500,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0bnDUeKsh5bwkDLudWsXTT"
@@ -2558,7 +2583,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 299688,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY"
@@ -2712,7 +2737,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 253356,
       "name": "We Will Rise",
       "url": "https://open.spotify.com/track/0b5tPH5FEQbLhboKbyxOMJ"
@@ -2748,7 +2773,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"

@@ -1,0 +1,929 @@
+{
+  "date_first_scraped": "2022-01-02",
+  "description": "Current country music and artists making noise on Spotify. Featuring: Conner Smith",
+  "name": "RADAR Country",
+  "published_playlist_ids": [],
+  "tracks": [
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/5T9VoZ9HYeDUhlr7NTjHfH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Dailey",
+          "url": "https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183033,
+      "name": "24",
+      "url": "https://open.spotify.com/track/520NKSFkKbELWUV5XQfIG9"
+    },
+    {
+      "album": {
+        "name": "Backroad Flyin'",
+        "url": "https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y"
+      },
+      "artists": [
+        {
+          "name": "Luke and Kaylee",
+          "url": "https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192921,
+      "name": "Backroad Flyin'",
+      "url": "https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl"
+    },
+    {
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/5gZP9GdBmQljja486HZYa0"
+      },
+      "artists": [
+        {
+          "name": "Pierre Alexander",
+          "url": "https://open.spotify.com/artist/55TMBUBKkjVqu2EipyfY9z"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/232kkQ6vbOzY4kE2JkrBpp"
+    },
+    {
+      "album": {
+        "name": "Boy From Anderson County",
+        "url": "https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244290,
+      "name": "Boy From Anderson County",
+      "url": "https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw"
+    },
+    {
+      "album": {
+        "name": "Let Love Be Love",
+        "url": "https://open.spotify.com/album/4Pw17nZHXxHSux3kpl26l7"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172400,
+      "name": "Buzzkilla",
+      "url": "https://open.spotify.com/track/2mnHIT6zav3oCFqQ2nO9cz"
+    },
+    {
+      "album": {
+        "name": "Born in July",
+        "url": "https://open.spotify.com/album/3FeBLXRG2x2SOz3hOoktdY"
+      },
+      "artists": [
+        {
+          "name": "Taylor Edwards",
+          "url": "https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180628,
+      "name": "Call Your Sister",
+      "url": "https://open.spotify.com/track/6E7NIyFK1OYaG4fTyr8zX1"
+    },
+    {
+      "album": {
+        "name": "Can't Do Without Me",
+        "url": "https://open.spotify.com/album/7rMux0Or1QJ7PW6AAm25D4"
+      },
+      "artists": [
+        {
+          "name": "Chayce Beckham",
+          "url": "https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt"
+        },
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201146,
+      "name": "Can't Do Without Me",
+      "url": "https://open.spotify.com/track/6Wy1WU6nkioVn681Rom3SP"
+    },
+    {
+      "album": {
+        "name": "Changed Everything",
+        "url": "https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Changed Everything",
+      "url": "https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy"
+    },
+    {
+      "album": {
+        "name": "Come Home to Me",
+        "url": "https://open.spotify.com/album/62pRsoHQRvpdtO6OuSuAMt"
+      },
+      "artists": [
+        {
+          "name": "Scott Stevens",
+          "url": "https://open.spotify.com/artist/18gxQcIuISU8gKxgElH7OU"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221878,
+      "name": "Come Home to Me",
+      "url": "https://open.spotify.com/track/7sHsHmY4ZpVP9DCPe2cz8c"
+    },
+    {
+      "album": {
+        "name": "Damn Boy",
+        "url": "https://open.spotify.com/album/0laEF40rInjHjkXmMdugTA"
+      },
+      "artists": [
+        {
+          "name": "Christina Taylor",
+          "url": "https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193598,
+      "name": "Damn Boy",
+      "url": "https://open.spotify.com/track/5Rc9i0vrgXPtVfGcDMShH4"
+    },
+    {
+      "album": {
+        "name": "Don't Hate the Idea",
+        "url": "https://open.spotify.com/album/5NT1zohs6dRjUVT248QRxT"
+      },
+      "artists": [
+        {
+          "name": "Hannah May Allison",
+          "url": "https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180731,
+      "name": "Don't Hate the Idea",
+      "url": "https://open.spotify.com/track/6rXJzWMwP9VDEb8zuI2bou"
+    },
+    {
+      "album": {
+        "name": "Every Last Little Bit",
+        "url": "https://open.spotify.com/album/34dNvUJxxGTKbo2OGMT2oz"
+      },
+      "artists": [
+        {
+          "name": "Josh Melton",
+          "url": "https://open.spotify.com/artist/5l5SDQs2xyEidWQOw3ro6T"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178130,
+      "name": "Every Last Little Bit",
+      "url": "https://open.spotify.com/track/73AWyXD7uwDHMBKtRm5tkj"
+    },
+    {
+      "album": {
+        "name": "Everything I'm Not",
+        "url": "https://open.spotify.com/album/69xhM28ljDGkmazJoODM87"
+      },
+      "artists": [
+        {
+          "name": "Bri Fletcher",
+          "url": "https://open.spotify.com/artist/7L0vBPI3KGaA64mN3j1x3m"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191888,
+      "name": "Everything I'm Not",
+      "url": "https://open.spotify.com/track/2Sh4TM6Ypg3KiEjdOS2GVy"
+    },
+    {
+      "album": {
+        "name": "Get That All The Time (feat. Mitchell Tenpenny)",
+        "url": "https://open.spotify.com/album/3nD5gS9oxfsp4JjpmcO41B"
+      },
+      "artists": [
+        {
+          "name": "RaeLynn",
+          "url": "https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n"
+        },
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178433,
+      "name": "Get That All The Time (feat. Mitchell Tenpenny)",
+      "url": "https://open.spotify.com/track/3hfEwSKgFMMhZJBaPpR41e"
+    },
+    {
+      "album": {
+        "name": "Miss California",
+        "url": "https://open.spotify.com/album/1XcCJgdR5mdwmY38BwO3o5"
+      },
+      "artists": [
+        {
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173922,
+      "name": "Having It All",
+      "url": "https://open.spotify.com/track/5xeASgqvLB3WOUkND2zfrZ"
+    },
+    {
+      "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/4ktGyJCvZrEDcDMMR9tWnh"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174046,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/6999hCnJloghAoFgdnSbOZ"
+    },
+    {
+      "album": {
+        "name": "Bad Case of the Good Ole Boy",
+        "url": "https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rowe",
+          "url": "https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183427,
+      "name": "I Didn't Sleep Last Night",
+      "url": "https://open.spotify.com/track/2JsHAPmp3sbFY2KHlcWcfn"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Go To Heaven",
+        "url": "https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201294,
+      "name": "I Don't Wanna Go To Heaven",
+      "url": "https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf"
+    },
+    {
+      "album": {
+        "name": "If It Weren't For You",
+        "url": "https://open.spotify.com/album/2ydfeIUCt4BnkVb9hUu39t"
+      },
+      "artists": [
+        {
+          "name": "FINMAR",
+          "url": "https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196312,
+      "name": "If It Weren't For You",
+      "url": "https://open.spotify.com/track/6gdHaep5FFl6hhz6JGYEjb"
+    },
+    {
+      "album": {
+        "name": "If You Have To",
+        "url": "https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199493,
+      "name": "If You Have To",
+      "url": "https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq"
+    },
+    {
+      "album": {
+        "name": "Intertwined",
+        "url": "https://open.spotify.com/album/5S2n9RJ2VwNFXwHdPJSjQD"
+      },
+      "artists": [
+        {
+          "name": "CHASE WRIGHT",
+          "url": "https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c"
+        },
+        {
+          "name": "Delaney Jane",
+          "url": "https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182411,
+      "name": "Intertwined",
+      "url": "https://open.spotify.com/track/6CEpat1VI4pDz57r9CxVm5"
+    },
+    {
+      "album": {
+        "name": "Lose Somebody You Love",
+        "url": "https://open.spotify.com/album/2cljVPOjMLcwYh51w94RSE"
+      },
+      "artists": [
+        {
+          "name": "Hayden Coffman",
+          "url": "https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243094,
+      "name": "Lose Somebody You Love",
+      "url": "https://open.spotify.com/track/7EqJ06QvfGhvXcHPldhTa8"
+    },
+    {
+      "album": {
+        "name": "Lost My Heartbreak",
+        "url": "https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4"
+      },
+      "artists": [
+        {
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157213,
+      "name": "Lost My Heartbreak",
+      "url": "https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m"
+    },
+    {
+      "album": {
+        "name": "Love Don't",
+        "url": "https://open.spotify.com/album/2uUYcWE12W5KOVlF97rOeT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Love Don't",
+      "url": "https://open.spotify.com/track/0RYFpi4VhFeGGArrw5CL6I"
+    },
+    {
+      "album": {
+        "name": "Made",
+        "url": "https://open.spotify.com/album/4h4ZmlKntuJzWox0Ci3Q0i"
+      },
+      "artists": [
+        {
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "Made",
+      "url": "https://open.spotify.com/track/4G644pINN0ZYIxyqeyuT4b"
+    },
+    {
+      "album": {
+        "name": "Miss Us Then",
+        "url": "https://open.spotify.com/album/4NmOlKfPRKxL8Oe1pFKnnw"
+      },
+      "artists": [
+        {
+          "name": "Leah Marie Mason",
+          "url": "https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193610,
+      "name": "Miss Us Then",
+      "url": "https://open.spotify.com/track/3v7t1HDVDKCwa5QB9GUy4I"
+    },
+    {
+      "album": {
+        "name": "Most Nights",
+        "url": "https://open.spotify.com/album/40FJ8tW2YSU4gXEj9WOLgN"
+      },
+      "artists": [
+        {
+          "name": "Kat & Alex",
+          "url": "https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198272,
+      "name": "Most Nights",
+      "url": "https://open.spotify.com/track/5gs9CYfoPQUKJ9TPBRgBWI"
+    },
+    {
+      "album": {
+        "name": "Ms. Fire",
+        "url": "https://open.spotify.com/album/03wuG8bYc2k2YR0r27vMzp"
+      },
+      "artists": [
+        {
+          "name": "Haley Mae Campbell",
+          "url": "https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Ms. Fire",
+      "url": "https://open.spotify.com/track/3iVmCauTAulRmUKIuh821l"
+    },
+    {
+      "album": {
+        "name": "Already Drank That Beer - Side A",
+        "url": "https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173533,
+      "name": "Never Til Now",
+      "url": "https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/0PyKFrlxVGbIXSlYuvkTuU"
+      },
+      "artists": [
+        {
+          "name": "Zac Hart",
+          "url": "https://open.spotify.com/artist/5IMlHwNBRTSplBWaMMPuYb"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0sGM6MBl8Oe6yMfW2pV7SJ"
+    },
+    {
+      "album": {
+        "name": "Only Us",
+        "url": "https://open.spotify.com/album/3BfpheJUxjdVBG51HHIeUD"
+      },
+      "artists": [
+        {
+          "name": "Clayton Anderson",
+          "url": "https://open.spotify.com/artist/3jYolGVCwXgJYEr3GL8FCb"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162578,
+      "name": "Only Us",
+      "url": "https://open.spotify.com/track/4k98tAWO0N5hMkZnx13TfJ"
+    },
+    {
+      "album": {
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/4bw75pRjfmQcN8En3ROBG1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Gates",
+          "url": "https://open.spotify.com/artist/2qwlFTAV2LVhQ01ljAyWJz"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/55gUo00x6uQFchmkr9pe08"
+    },
+    {
+      "album": {
+        "name": "Pickup",
+        "url": "https://open.spotify.com/album/75yTVtHRGlobA0IvgGG59X"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168447,
+      "name": "Pickup",
+      "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+    },
+    {
+      "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
+    },
+    {
+      "album": {
+        "name": "Rhinestone Ring",
+        "url": "https://open.spotify.com/album/17oU8IlYEwDF946GBffGp1"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205394,
+      "name": "Rhinestone Ring",
+      "url": "https://open.spotify.com/track/2j4ap81Wqs3VmNWBg3tAt8"
+    },
+    {
+      "album": {
+        "name": "Right Girl",
+        "url": "https://open.spotify.com/album/0axcFuwGBllOypitOLRRYM"
+      },
+      "artists": [
+        {
+          "name": "Dylan Schneider",
+          "url": "https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "Right Girl",
+      "url": "https://open.spotify.com/track/47Y3HSasGqByNgNHJDo9U5"
+    },
+    {
+      "album": {
+        "name": "Run with You",
+        "url": "https://open.spotify.com/album/4TbQZVsmwfiMEGx1GEaPLb"
+      },
+      "artists": [
+        {
+          "name": "Nolan Sotillo",
+          "url": "https://open.spotify.com/artist/4NcwaEQYKWvOiZF8XhyxBQ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211794,
+      "name": "Run with You",
+      "url": "https://open.spotify.com/track/7zdJMnSuErpYnNgpHD2noL"
+    },
+    {
+      "album": {
+        "name": "Antipodes",
+        "url": "https://open.spotify.com/album/0f8qJlyAOGniS3MogPgEUH"
+      },
+      "artists": [
+        {
+          "name": "Caroline Jones",
+          "url": "https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y"
+        },
+        {
+          "name": "Matthew Ramsey",
+          "url": "https://open.spotify.com/artist/75Cucz3gHpGaJbD9yia27H"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215611,
+      "name": "So Many Skies",
+      "url": "https://open.spotify.com/track/2LF0OpWDJDad3cNGqwk3kf"
+    },
+    {
+      "album": {
+        "name": "Strangers Again",
+        "url": "https://open.spotify.com/album/6B7ClqMsgMWeJv7AIcjiCd"
+      },
+      "artists": [
+        {
+          "name": "Sydney Mack",
+          "url": "https://open.spotify.com/artist/6jdb2NPAY3uHHAomUSOCwO"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177362,
+      "name": "Strangers Again",
+      "url": "https://open.spotify.com/track/2J6WowAkuhahfmThFsKZiz"
+    },
+    {
+      "album": {
+        "name": "Stronger Than I Am",
+        "url": "https://open.spotify.com/album/3GA3McZD9w6gJblZ9ZUV8A"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231849,
+      "name": "Stronger Than I Am",
+      "url": "https://open.spotify.com/track/3oOZKrcY9kzhHeuP9h5is8"
+    },
+    {
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/7pZWY6EqOlAZnYNW949KbJ"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I"
+    },
+    {
+      "album": {
+        "name": "Pohorylle",
+        "url": "https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR"
+      },
+      "artists": [
+        {
+          "name": "Margo Cilker",
+          "url": "https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Tehachapi",
+      "url": "https://open.spotify.com/track/5jAwx5j4pI1iy9cm1ZmwM4"
+    },
+    {
+      "album": {
+        "name": "Tell You Everything",
+        "url": "https://open.spotify.com/album/7gjPWAq21I5fMsQCroL3Zv"
+      },
+      "artists": [
+        {
+          "name": "Robyn Ottolini",
+          "url": "https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175270,
+      "name": "Tell You Everything",
+      "url": "https://open.spotify.com/track/6q8BR4D8pvhSMVcIfrDHwS"
+    },
+    {
+      "album": {
+        "name": "Think You Know Someone",
+        "url": "https://open.spotify.com/album/73AKWFQnLqG0Yo9e9PP1he"
+      },
+      "artists": [
+        {
+          "name": "Kyle Clark",
+          "url": "https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192387,
+      "name": "Think You Know Someone",
+      "url": "https://open.spotify.com/track/3NChyBhQpbHKzIHeyfZT5w"
+    },
+    {
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/1XixtqL2k7mcV8slS7FpAb"
+      },
+      "artists": [
+        {
+          "name": "Hannah Ellis",
+          "url": "https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183736,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/4iQL5pIhMjKAS6feGjaw5t"
+    },
+    {
+      "album": {
+        "name": "Used To",
+        "url": "https://open.spotify.com/album/7ILMvDpbyOtiqovE2itsId"
+      },
+      "artists": [
+        {
+          "name": "Natalia Taylar",
+          "url": "https://open.spotify.com/artist/5DvIX76UmlOkfUnwwLjcZB"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Used To",
+      "url": "https://open.spotify.com/track/0qy8mUJt4ZGWTyhPobNZ7D"
+    },
+    {
+      "album": {
+        "name": "When You Don't",
+        "url": "https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213784,
+      "name": "When You Don't",
+      "url": "https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3"
+    },
+    {
+      "album": {
+        "name": "Why Don't We",
+        "url": "https://open.spotify.com/album/4PywMvltuqO7wSGwFxSmfY"
+      },
+      "artists": [
+        {
+          "name": "Zack Dyer",
+          "url": "https://open.spotify.com/artist/3uabBlRSP7PRKh1822wSL2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180481,
+      "name": "Why Don't We",
+      "url": "https://open.spotify.com/track/2aRN0QN3BSUAd81TatzrMK"
+    },
+    {
+      "album": {
+        "name": "You Got a Small Town",
+        "url": "https://open.spotify.com/album/2dRiCtzyR2XKR4mwwU370t"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "You Got a Small Town",
+      "url": "https://open.spotify.com/track/0uxbkVqzKkxeVszRa0LFnb"
+    },
+    {
+      "album": {
+        "name": "You Got It",
+        "url": "https://open.spotify.com/album/233d1wJqpwcKTOY3ZqO5fo"
+      },
+      "artists": [
+        {
+          "name": "Ryan Robinette",
+          "url": "https://open.spotify.com/artist/0TyoYqD4NUQuF4Rv76MCdu"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182165,
+      "name": "You Got It",
+      "url": "https://open.spotify.com/track/7jydBWPQZZEioR4dSbntvP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX11Mx8sjx0nW"
+}

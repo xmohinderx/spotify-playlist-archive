@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-01",
   "description": "Funky jazz from the mid 1950s to the early 1960s. Cover: Art Blakey",
   "name": "Hard Bop Classics",
+  "published_playlist_ids": [
+    "2b7j02vyfaUwUVvu3T1f24"
+  ],
   "tracks": [
     {
       "album": {
@@ -507,6 +510,24 @@
     },
     {
       "album": {
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395213,
+      "name": "Light Blue - Remastered",
+      "url": "https://open.spotify.com/track/57gN4EUhMll26FXfYKWVLw"
+    },
+    {
+      "album": {
         "name": "The Congregation (Expanded Edition)",
         "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
       },
@@ -608,7 +629,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 328800,
       "name": "Mumbo Jumbo",
       "url": "https://open.spotify.com/track/2k5QlnGxJ0tsAWCRXs5Gag"
@@ -630,6 +651,24 @@
       "duration_ms": 259040,
       "name": "Nice And Easy - Rudy Van Gelder Edition/Remastered 2006",
       "url": "https://open.spotify.com/track/3E7QzgM8Je4hyf0kK8tGmD"
+    },
+    {
+      "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333693,
+      "name": "No Smokin' - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6Z602VAQGptsRT8IzBwM9y"
     },
     {
       "album": {
@@ -770,7 +809,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 439866,
       "name": "Say You're Mine - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0MfnaTLO0CLErXjJCzFzsd"

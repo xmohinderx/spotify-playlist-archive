@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Ac\u00e1 hay letra. Foto: Brray.",
   "name": "Rimas y Perreo",
+  "published_playlist_ids": [
+    "23mcGFZmewEpHERZOtSvTD"
+  ],
   "tracks": [
     {
       "album": {
@@ -106,7 +109,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 202746,
       "name": "BABY DRIP",
       "url": "https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr"
@@ -132,6 +135,28 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
+    },
+    {
+      "album": {
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/1eRtwerdpd1Gp7Rfzkpacn"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/5suqjbw9bF0T1X3HU1oG1v"
     },
     {
       "album": {
@@ -180,7 +205,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 189506,
       "name": "Billetes Azules (with J Balvin)",
       "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
@@ -228,7 +253,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 212210,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/21SA3m9Lgs1Ch9leBdYrfz"
@@ -613,6 +638,28 @@
     },
     {
       "album": {
+        "name": "Estamos Bien",
+        "url": "https://open.spotify.com/album/2lU1so5WNClh7tlVUitXhy"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263478,
+      "name": "Estamos Bien",
+      "url": "https://open.spotify.com/track/2V4Vz4m9V6ldtTiIu6AR88"
+    },
+    {
+      "album": {
         "name": "Para Mi Ex",
         "url": "https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u"
       },
@@ -944,7 +991,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 308241,
       "name": "Jukiao - Remix",
       "url": "https://open.spotify.com/track/08HdyqNXBEHUF4tkZejKUR"
@@ -1731,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
+    },
+    {
+      "album": {
         "name": "R Sport",
         "url": "https://open.spotify.com/album/2bhwoywFrxHlUiS3zPhge4"
       },
@@ -1767,6 +1832,24 @@
     },
     {
       "album": {
+        "name": "Reggaeton",
+        "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158800,
+      "name": "Reggaeton",
+      "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "album": {
         "name": "Reggaeton Sessions #3",
         "url": "https://open.spotify.com/album/22Mpk6BWGwXVaumykB4o1N"
       },
@@ -1782,7 +1865,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 165215,
       "name": "Reggaeton Sessions #3",
       "url": "https://open.spotify.com/track/4u6zSS8VVCMXwVlwKPZUa6"
@@ -1982,6 +2065,44 @@
       "duration_ms": 173945,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/3ymRYcYHxXMmyvCaKcJ46k"
+    },
+    {
+      "album": {
+        "name": "Cauty VS Young Cauty",
+        "url": "https://open.spotify.com/album/00op2xzUMjsxCj6aCmcnFJ"
+      },
+      "artists": [
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Rafa Pab\u00f6n",
+          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304859,
+      "name": "Ta To Gucci (Remix)",
+      "url": "https://open.spotify.com/track/7kuRvjpeUcn6qNV9IBXC2C"
     },
     {
       "album": {

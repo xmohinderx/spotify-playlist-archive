@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "slowed, reverbed, chopped and screwed",
   "name": "slowed + reverbed",
+  "published_playlist_ids": [
+    "4pr4mU2uzG9Ws0D5WIoeQn"
+  ],
   "tracks": [
     {
       "album": {
@@ -736,7 +739,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 92869,
       "name": "LEFT RIGHT - Slowed",
       "url": "https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM"
@@ -1072,7 +1075,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"

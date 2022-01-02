@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "When the night isn't over just yet.",
   "name": "4AM Chillout",
+  "published_playlist_ids": [
+    "0Of8ma195u6f1pUyvCxvgT"
+  ],
   "tracks": [
     {
       "album": {
@@ -128,7 +131,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 379213,
       "name": "APOLOGY",
       "url": "https://open.spotify.com/track/0mZafSubGAMuhfZotQlSkw"
@@ -146,7 +149,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
@@ -226,6 +229,24 @@
       "duration_ms": 301933,
       "name": "better",
       "url": "https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN"
+    },
+    {
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/1UJTpHdEjAIAGM1thfu7za"
+      },
+      "artists": [
+        {
+          "name": "Delac",
+          "url": "https://open.spotify.com/artist/2MkVSepMMfJrKDOivPEmKM"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/7he3R6DA2RBIuBA4jAWMjt"
     },
     {
       "album": {
@@ -334,7 +355,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213040,
       "name": "Ecce! Ego!",
       "url": "https://open.spotify.com/track/2YsDZTwLm6cswPh0zSQAF4"
@@ -406,7 +427,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 373666,
       "name": "God Knows We Tried",
       "url": "https://open.spotify.com/track/4u4kVqtHSNULrl0esijmbK"
@@ -460,7 +481,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 352000,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6bZMUM8GNyStCJXC0oKG82"
@@ -684,7 +705,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 252493,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls"
@@ -909,6 +930,24 @@
     },
     {
       "album": {
+        "name": "Points Beyond",
+        "url": "https://open.spotify.com/album/2O7HzpefeC3nKfjaD3VXNv"
+      },
+      "artists": [
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326500,
+      "name": "Points Beyond",
+      "url": "https://open.spotify.com/track/23N0RehCjU9KC7WfEzxdgJ"
+    },
+    {
+      "album": {
         "name": "Reflect",
         "url": "https://open.spotify.com/album/5HX1I06K15jFjyYAkS445E"
       },
@@ -1028,7 +1067,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144026,
       "name": "Settle Down - Mixed",
       "url": "https://open.spotify.com/track/3Eeh7y2avP7wwLtyhljcU2"
@@ -1134,7 +1173,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 376000,
       "name": "Sun_3hd",
       "url": "https://open.spotify.com/track/3SZNh86XYkpDumjfWaV1b0"
@@ -1282,7 +1321,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 331624,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z"
@@ -1318,7 +1357,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 486941,
       "name": "Together - Rework",
       "url": "https://open.spotify.com/track/6PBGwNxMnoAxJWzHCeKniV"

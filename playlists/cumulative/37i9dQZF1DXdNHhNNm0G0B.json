@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Relax to the sounds of acoustic blues and folk...",
   "name": "Backporch Blues",
+  "published_playlist_ids": [
+    "2SbTfjlboeBgZrjdgbkYSX"
+  ],
   "tracks": [
     {
       "album": {
@@ -532,7 +535,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 31844,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/7qWRxZQ6YTNDxUV3MRuZiV"
@@ -806,7 +809,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 261333,
       "name": "Right Kind of Trouble",
       "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2019-05-25",
   "description": "Country music to get you back to the basics.",
   "name": "Chillin' on a Dirt Road",
+  "published_playlist_ids": [
+    "2tqcUzcMdvjapZUweh0oOM"
+  ],
   "tracks": [
     {
       "album": {
@@ -1030,7 +1033,7 @@
       ],
       "date_added": "2019-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199906,
       "name": "Doin' Fine",
       "url": "https://open.spotify.com/track/6nqvInlnaMzEzaw4s0zbee"
@@ -1156,7 +1159,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 213023,
       "name": "Drunk Me",
       "url": "https://open.spotify.com/track/3N2AIfVOq6NiTcWHIP4Oco"
@@ -1484,7 +1487,7 @@
       ],
       "date_added": "2019-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199625,
       "name": "Get Along",
       "url": "https://open.spotify.com/track/6n6OQfBpCgzF9oEg8zhBN7"
@@ -2800,7 +2803,7 @@
       ],
       "date_added": "2019-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV"
@@ -2818,7 +2821,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205453,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/0OWZFobGSIW9GrSlQ9C5pc"
@@ -2862,7 +2865,7 @@
       ],
       "date_added": "2019-05-25",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
@@ -3872,7 +3875,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 198208,
       "name": "Somebody Like That",
       "url": "https://open.spotify.com/track/62SvLj5dBDI9Ee3eBA0BxL"
@@ -5312,7 +5315,7 @@
       ],
       "date_added": "2019-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "You Make It Easy",
       "url": "https://open.spotify.com/track/2ZxTjs4EdJl4Y9YByIiNoo"

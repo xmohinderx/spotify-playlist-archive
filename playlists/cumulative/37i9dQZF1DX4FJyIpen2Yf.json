@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Listen to these flows during your yoga flow.",
   "name": "Hip-Hop Yoga",
+  "published_playlist_ids": [
+    "0w38tJ0DK6jJgEZIRyEAWI"
+  ],
   "tracks": [
     {
       "album": {
@@ -24,6 +27,24 @@
       "duration_ms": 186684,
       "name": "10%",
       "url": "https://open.spotify.com/track/6Ti0coAmnSsv3Wx09RhoY6"
+    },
+    {
+      "album": {
+        "name": "i am > i was",
+        "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288624,
+      "name": "a lot",
+      "url": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
     },
     {
       "album": {
@@ -260,7 +281,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
@@ -354,7 +375,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 143880,
       "name": "CIVIL WAR - Bonus",
       "url": "https://open.spotify.com/track/5tmu5pAFHkUSl8Fo8ncyA4"
@@ -412,7 +433,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 181653,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/0axytamcq1Gd4qZD5xlDR9"
@@ -720,7 +741,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210200,
       "name": "It's A Vibe",
       "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
@@ -896,7 +917,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178216,
       "name": "Moana",
       "url": "https://open.spotify.com/track/7ANlBL6oL7J9gs03prsv7J"
@@ -1122,7 +1143,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 326933,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
@@ -1162,7 +1183,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 150866,
       "name": "Saint-Tropez",
       "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq"
@@ -1278,7 +1299,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 155189,
       "name": "SOMETHING FROM NOTHIN' (feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/37pqoamiQVw95UEiiE0viQ"
@@ -1348,7 +1369,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200106,
       "name": "The London (feat. J. Cole & Travis Scott)",
       "url": "https://open.spotify.com/track/7DcvwMAiqKJQD1rrdfxSDx"
@@ -1432,7 +1453,7 @@
       ],
       "date_added": "2020-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
@@ -1524,7 +1545,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 275560,
       "name": "Want Her",
       "url": "https://open.spotify.com/track/4zrwPfq5ENLzjq41Txs2HR"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
   "name": "Folklore Rom\u00e1ntico ",
+  "published_playlist_ids": [
+    "6iMV8piE9igffxc51R0RU9"
+  ],
   "tracks": [
     {
       "album": {
@@ -110,7 +113,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 211410,
       "name": "Amarte Sin Piedad",
       "url": "https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8"
@@ -168,6 +171,24 @@
       "duration_ms": 252813,
       "name": "Anaranjado - Mas All\u00e1 De La Ternura",
       "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
+    },
+    {
+      "album": {
+        "name": "Ven por Mi (Sesiones 2020)",
+        "url": "https://open.spotify.com/album/1hGf9vvJOi3ULdTSTRcPpW"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209288,
+      "name": "Ang\u00e9lica",
+      "url": "https://open.spotify.com/track/22MtFu7CYyj0pPjEFHOSgG"
     },
     {
       "album": {
@@ -324,6 +345,24 @@
       "duration_ms": 206963,
       "name": "Cambiar de Vida (feat. Jorge Rojas)",
       "url": "https://open.spotify.com/track/3U7gSN4ucI87n6A7dYkGnK"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
     },
     {
       "album": {
@@ -888,7 +927,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214466,
       "name": "No Me Canso de Amar",
       "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"

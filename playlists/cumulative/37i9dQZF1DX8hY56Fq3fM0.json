@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "Need to get your energy level up? This will help!",
   "name": "Energy Booster: Indie",
+  "published_playlist_ids": [
+    "6T6fNI28dK30V4yGA7f0oJ"
+  ],
   "tracks": [
     {
       "album": {
@@ -250,7 +253,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 166791,
       "name": "Charlemagne",
       "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
@@ -988,7 +991,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
@@ -1564,7 +1567,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236440,
       "name": "Sleep Alone",
       "url": "https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8"
@@ -1834,7 +1837,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 209186,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/44psOy0D0SP8rcIiUgKgBs"

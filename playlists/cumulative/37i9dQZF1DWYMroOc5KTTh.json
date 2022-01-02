@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "100% good vibes.",
   "name": "Serotonin",
+  "published_playlist_ids": [
+    "2WPgm1aPptS8Ttm3dYBYj9"
+  ],
   "tracks": [
     {
       "album": {
@@ -118,7 +121,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 229893,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/6GkSwWTuOF8awxEtVaBvVt"
@@ -238,7 +241,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
@@ -510,7 +513,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238465,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
@@ -572,7 +575,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 170375,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
@@ -670,7 +673,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 387750,
       "name": "I Fold You - Kassian Remix",
       "url": "https://open.spotify.com/track/3o4vqzvU3fjJCFQZFo1Trb"
@@ -750,7 +753,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 247767,
       "name": "Joy",
       "url": "https://open.spotify.com/track/776Kqi9RqGbXHWCHzU2ZSi"
@@ -790,7 +793,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164874,
       "name": "Joyfulness - Radio Edit",
       "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
@@ -812,7 +815,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
@@ -856,6 +859,24 @@
       "duration_ms": 363492,
       "name": "Keep Moving - Dave Lee Remix",
       "url": "https://open.spotify.com/track/1xnlffPIq3yKph87VmCiqc"
+    },
+    {
+      "album": {
+        "name": "Lady / Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/30sqXAoM99GhQik4QC7kpN"
+      },
+      "artists": [
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368244,
+      "name": "Lady (Hear Me Tonight)",
+      "url": "https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe"
     },
     {
       "album": {
@@ -1318,7 +1339,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 269000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
@@ -1336,7 +1357,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 217768,
       "name": "Skylab District",
       "url": "https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX"
@@ -1562,7 +1583,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 290633,
       "name": "Time Slips Away",
       "url": "https://open.spotify.com/track/3KMEtQ7GoQqyWIxNhuPAGy"
@@ -1580,7 +1601,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Trouble to Share",
       "url": "https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai"
@@ -1638,7 +1659,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 321266,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO"

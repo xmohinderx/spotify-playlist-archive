@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Drive slow homie.",
   "name": "Hip-Hop Drive",
+  "published_playlist_ids": [
+    "7ycsijTk0AaYCaTLam5bfu"
+  ],
   "tracks": [
     {
       "album": {
@@ -250,7 +253,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 245133,
       "name": "Always On Time",
       "url": "https://open.spotify.com/track/4hrae8atte6cRlSC9a7VCO"
@@ -653,6 +656,28 @@
     },
     {
       "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/3PdtIrHMhNPNGV2NQAlTuU"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/3VzJE6yGuj8fDExUh6TLnc"
+    },
+    {
+      "album": {
         "name": "There's Something About Remy-Based On A True Story",
         "url": "https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO"
       },
@@ -718,7 +743,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221933,
       "name": "Crank That (Soulja Boy)",
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
@@ -842,7 +867,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 256800,
       "name": "Dem Boyz",
       "url": "https://open.spotify.com/track/59xyRqG06dGbTmmJFVFbyQ"
@@ -860,7 +885,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249040,
       "name": "Dipset Anthem",
       "url": "https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa"
@@ -1022,7 +1047,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 285906,
       "name": "E.I.",
       "url": "https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ"
@@ -1160,7 +1185,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 262133,
       "name": "Get It On The Floor",
       "url": "https://open.spotify.com/track/094MWdspdy9amhOi8TFlIN"
@@ -1310,7 +1335,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210093,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/5c3664v0qorEpBy1nXqtfL"
@@ -1556,7 +1581,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 232533,
       "name": "Hey Ma",
       "url": "https://open.spotify.com/track/0Uhnzk5zI46IRlQ04LNOtc"
@@ -1930,7 +1955,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 193466,
       "name": "In Da Club",
       "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC"
@@ -2048,7 +2073,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 193733,
       "name": "Jesus Walks",
       "url": "https://open.spotify.com/track/62r62ArmWq38cu6QCVgyTc"
@@ -2146,7 +2171,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 212906,
       "name": "Knock Yourself Out",
       "url": "https://open.spotify.com/track/4jCio4LNO1eZbl09ed4ZFn"
@@ -2198,7 +2223,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 272586,
       "name": "Kryptonite",
       "url": "https://open.spotify.com/track/4i2HYTGM7yHty0qVhD3lqD"
@@ -2216,10 +2241,44 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 224253,
       "name": "Laffy Taffy",
       "url": "https://open.spotify.com/track/2ajhenDRiiAnCHHjsIOHhJ"
+    },
+    {
+      "album": {
+        "name": "The Best Of Snoop Dogg",
+        "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Butch Cassidy",
+          "url": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+        },
+        {
+          "name": "Tha Eastsidaz",
+          "url": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/4QNJd8ma02Oy9PBenHErs1"
     },
     {
       "album": {
@@ -2284,7 +2343,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 290266,
       "name": "Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix",
       "url": "https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP"
@@ -2492,7 +2551,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 299333,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
@@ -2738,7 +2797,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 258586,
       "name": "Money To Blow - Street Version",
       "url": "https://open.spotify.com/track/4gaz3uvhKgO078XcdzyPsl"
@@ -3142,7 +3201,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 286800,
       "name": "P.I.M.P. - Snoop Dogg Remix",
       "url": "https://open.spotify.com/track/7D8gRgQ161fqXNOkcanJfa"
@@ -3160,7 +3219,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 268866,
       "name": "Party Up",
       "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC"
@@ -3356,7 +3415,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 293866,
       "name": "Renee",
       "url": "https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G"
@@ -3502,6 +3561,24 @@
       "duration_ms": 369320,
       "name": "Roses",
       "url": "https://open.spotify.com/track/7KViJE5WtqHzztR9APTDl0"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
     },
     {
       "album": {
@@ -3718,7 +3795,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258680,
       "name": "Shoulder Lean (feat. T.I.)",
       "url": "https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii"
@@ -3740,7 +3817,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 228933,
       "name": "Sittin' Sidewayz (feat. Big Pokey)",
       "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
@@ -3996,7 +4073,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/6C7RJEIUDqKkJRZVWdkfkH"
@@ -4102,7 +4179,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 226160,
       "name": "Take It to da House",
       "url": "https://open.spotify.com/track/1wLhwzPAtze5JT8qqXlqaO"
@@ -4138,7 +4215,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
@@ -4156,7 +4233,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 284800,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/1MYlx4dBtiyjn7K8YSyfzT"
@@ -4371,6 +4448,24 @@
     },
     {
       "album": {
+        "name": "Dark Days, Bright Nights",
+        "url": "https://open.spotify.com/album/5k0DIwQUjfFWxxliiWVzxr"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265226,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/3ltqIDgVV4QSNDQPQ4y5kr"
+    },
+    {
+      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
@@ -4422,7 +4517,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249840,
       "name": "Wasted (feat. Plies)",
       "url": "https://open.spotify.com/track/11hQvcLydGTyXS3Wo6AkmW"
@@ -4550,7 +4645,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 253040,
       "name": "What These Bitches Want",
       "url": "https://open.spotify.com/track/57kdeoYzgGaKzRWj4XM1u8"
@@ -4748,6 +4843,24 @@
       "duration_ms": 290880,
       "name": "Wipe Me Down (feat. Foxx)",
       "url": "https://open.spotify.com/track/2TosX3xYACy6rOe1HGC85K"
+    },
+    {
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290320,
+      "name": "Without Me",
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
       "album": {

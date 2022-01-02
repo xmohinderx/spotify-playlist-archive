@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Mellow & sentimental K-Pop ballads. (Cover: KangHyeWon(\uac15\ud61c\uc6d0)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "K-Pop Ballad Hits",
+  "published_playlist_ids": [
+    "50vXMaH1sm7s2jq2W5LswS"
+  ],
   "tracks": [
     {
       "album": {
@@ -34,7 +37,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 203866,
       "name": "All My Love - Korean Ver.",
       "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
@@ -164,7 +167,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 250746,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/4VsjMhMOhz9XGDNIzFNGgr"
@@ -254,7 +257,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "But I'll Miss You",
       "url": "https://open.spotify.com/track/7AyxUdou9NrGU64bTc9dsT"
@@ -413,6 +416,24 @@
     },
     {
       "album": {
+        "name": "Daystar",
+        "url": "https://open.spotify.com/album/0EOLOmGmGxtLntJpB2SxMu"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Daystar",
+      "url": "https://open.spotify.com/track/6HcNz2K1JVXb1xgMAD93og"
+    },
+    {
+      "album": {
         "name": "Dear",
         "url": "https://open.spotify.com/album/20YuFf31mUzKLlcKTAGEV5"
       },
@@ -486,7 +507,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 222415,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm"
@@ -504,7 +525,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249241,
       "name": "Ending Scene",
       "url": "https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm"
@@ -744,7 +765,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 260597,
       "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
       "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
@@ -932,7 +953,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227866,
       "name": "I still love you a lot",
       "url": "https://open.spotify.com/track/2zCORPZHF7g9SPjZfrGVuy"
@@ -1040,7 +1061,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 248066,
       "name": "Is it me?",
       "url": "https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ"
@@ -1282,7 +1303,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 261720,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7BUtoP9NXEe7MgWvIG2KGE"
@@ -1354,7 +1375,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 220929,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
@@ -1600,7 +1621,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 203853,
       "name": "RAIN DROP (feat. Lee Na Eun)",
       "url": "https://open.spotify.com/track/2lCOSE6b5yYQPcMFU6QJUb"
@@ -2120,7 +2141,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 267893,
       "name": "Two People",
       "url": "https://open.spotify.com/track/7yxdDkL1ar39CWTX4hMRFk"
@@ -2192,7 +2213,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 207126,
       "name": "want to love you",
       "url": "https://open.spotify.com/track/4is7rfBhIbPBpVdAMnhFoQ"
@@ -2318,7 +2339,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 253045,
       "name": "With My Tears",
       "url": "https://open.spotify.com/track/2ocf3TyvsHPvXQ1vwbavQE"
@@ -2354,7 +2375,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 224702,
       "name": "You're Free",
       "url": "https://open.spotify.com/track/19BiyAamzm9lGzz7LXuCbb"
@@ -2401,6 +2422,24 @@
     },
     {
       "album": {
+        "name": "HYENA (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5PUCfHi8hSo2wrH2W79Kbs"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238752,
+      "name": "\ub108\uc5d0\uac8c \uac00\ub294 \uc774 \uae38 \uc704\uc5d0\uc11c (\ub108.\uc774.\uae38)",
+      "url": "https://open.spotify.com/track/6NyEYh3xw55B8d5WK5kSrf"
+    },
+    {
+      "album": {
         "name": "\ub9c8\uc9c0\ub9c9 \ub0a0\uc5d0 Moving On",
         "url": "https://open.spotify.com/album/4xnNvjkkXT1OginjGHFeSk"
       },
@@ -2412,7 +2451,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 297306,
       "name": "\ub9c8\uc9c0\ub9c9 \ub0a0\uc5d0 Moving On",
       "url": "https://open.spotify.com/track/73TXBk1LE2V4OcyLI2aq3p"

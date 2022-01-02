@@ -2,6 +2,9 @@
   "date_first_scraped": "2020-10-27",
   "description": "Slacker jams. Cover: Sfven",
   "name": "Lo-fi Indie",
+  "published_playlist_ids": [
+    "3DFRzyGUurZxuvxmPOrIHy"
+  ],
   "tracks": [
     {
       "album": {
@@ -860,7 +863,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 242972,
       "name": "cool kid",
       "url": "https://open.spotify.com/track/7Iq3WKDjRaGyYjaAZr0Lcx"
@@ -1088,7 +1091,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 216589,
       "name": "Every Start Has an End",
       "url": "https://open.spotify.com/track/6GWIbQgl3WyvKPRCcSTOIY"
@@ -1124,7 +1127,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 260906,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/1wv5JHXkjjtAm7CwADyOot"
@@ -1990,7 +1993,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 154640,
       "name": "it only gets worse, i promise",
       "url": "https://open.spotify.com/track/3Y1iVG5c7me95XqqFZY97x"
@@ -2070,7 +2073,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187687,
       "name": "just the way it is",
       "url": "https://open.spotify.com/track/0hLf3CBO9Oq7OAQx3r4XRR"
@@ -2142,7 +2145,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Laying out Your Web",
       "url": "https://open.spotify.com/track/2RQbHBSGpU3CmkHUBEWIYJ"
@@ -2218,7 +2221,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 159130,
       "name": "Loose Fix",
       "url": "https://open.spotify.com/track/4IhrvjuTob5DQRcToBvCrk"
@@ -2676,7 +2679,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 273360,
       "name": "Physical",
       "url": "https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z"
@@ -2752,7 +2755,7 @@
       ],
       "date_added": "2021-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258946,
       "name": "Pointing the Finger",
       "url": "https://open.spotify.com/track/67BEckciiEnrJ7s7zVamMO"
@@ -2810,7 +2813,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
@@ -2832,7 +2835,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/6atMbXoRFejwytU6RgU3mT"
@@ -3532,7 +3535,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 125291,
       "name": "Spring Lovers",
       "url": "https://open.spotify.com/track/32HzGTnuDjLjyQuwrN530Y"
@@ -3882,7 +3885,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 138556,
       "name": "Up in the Air",
       "url": "https://open.spotify.com/track/2rZ1YtyTsdZ5gQbJeOEsa1"
@@ -4258,7 +4261,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176760,
       "name": "You Say I'm in Love",
       "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"

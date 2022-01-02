@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-30",
   "description": "nose cold and a little sad about it ",
   "name": "sad girl starter pack",
+  "published_playlist_ids": [
+    "5UTQ4xT7qWCIyQUEEvPYu1"
+  ],
   "tracks": [
     {
       "album": {
@@ -164,7 +167,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 294521,
       "name": "betty",
       "url": "https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi"
@@ -186,6 +189,24 @@
       "duration_ms": 167044,
       "name": "Big Star",
       "url": "https://open.spotify.com/track/6Hgk1HQsWfx6VmivH45Csc"
+    },
+    {
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192142,
+      "name": "Blossom (Wasting All My Time)",
+      "url": "https://open.spotify.com/track/4yhAcg6xUHtZgt731WsFl1"
     },
     {
       "album": {
@@ -308,7 +329,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 172988,
       "name": "Cut Your Bangs",
       "url": "https://open.spotify.com/track/75T4FO7bShVDfUN1ZDA9yP"
@@ -668,7 +689,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
@@ -704,7 +725,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194026,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/2LY95oBAiaHzWkqKjEwvOT"
@@ -812,7 +833,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 167926,
       "name": "mom i think im gay",
       "url": "https://open.spotify.com/track/4XbuSG13zneXPZCo8jwMVd"
@@ -1242,7 +1263,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Talia",
       "url": "https://open.spotify.com/track/53jbdPQBaH6WaQvW0zmGBs"
@@ -1368,7 +1389,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 236864,
       "name": "VBS",
       "url": "https://open.spotify.com/track/2ZnEPfXm1CZzhGOn1Ay4mZ"

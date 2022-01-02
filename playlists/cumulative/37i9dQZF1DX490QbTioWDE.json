@@ -2,6 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: La K'onga.",
   "name": "100% Cuarteto",
+  "published_playlist_ids": [
+    "4gHgPMBkk3GWoIEAgwnRzK"
+  ],
   "tracks": [
     {
       "album": {
@@ -823,6 +826,24 @@
     },
     {
       "album": {
+        "name": "La Hija del Doctor",
+        "url": "https://open.spotify.com/album/2FUEEh2NoXMZtrBHAqasMJ"
+      },
+      "artists": [
+        {
+          "name": "Megatrack",
+          "url": "https://open.spotify.com/artist/5VqFyx1HDLsbf0bAK0K7Oa"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281678,
+      "name": "La Hija del Doctor",
+      "url": "https://open.spotify.com/track/6xeWe38Z70YXx9k7zTbVC8"
+    },
+    {
+      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/74mSEDvYetzjvZjzoJkYH2"
       },
@@ -957,6 +978,24 @@
     },
     {
       "album": {
+        "name": "Cuartetero y Cordob\u00e9s",
+        "url": "https://open.spotify.com/album/3q6Wg7VBtWvIiggdi2lFn1"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281880,
+      "name": "Lo Mejor del Amor",
+      "url": "https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz"
+    },
+    {
+      "album": {
         "name": "Yo Volvere",
         "url": "https://open.spotify.com/album/5rskljENABIpbOyawBHF6P"
       },
@@ -968,10 +1007,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 233413,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/3cMh6JUaqYVYKCsj1pp7Ue"
+    },
+    {
+      "album": {
+        "name": "Pleno",
+        "url": "https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr"
+      },
+      "artists": [
+        {
+          "name": "Ale Ceberio",
+          "url": "https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209746,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij"
     },
     {
       "album": {
@@ -1580,7 +1637,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 302800,
       "name": "Soy Cordobes",
       "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
@@ -1735,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "La Magia de La Mona (En Vivo '92)",
+        "url": "https://open.spotify.com/album/0ZfDwnnPHU8GHUZ7GhVcY2"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "Tinta China - En Vivo",
+      "url": "https://open.spotify.com/track/3ykGF7ztZ1Ij37QQluEwb5"
+    },
+    {
+      "album": {
         "name": "Todo de T\u00ed",
         "url": "https://open.spotify.com/album/48rfGjtK1o7k8f6hcnSbbY"
       },
@@ -1790,7 +1865,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 198320,
       "name": "Tu amor me duele",
       "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
@@ -1848,7 +1923,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242950,
       "name": "Un Perfecto Idiota",
       "url": "https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq"

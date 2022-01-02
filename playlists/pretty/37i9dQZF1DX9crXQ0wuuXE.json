@@ -1,12 +1,12 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: Fleet Foxes",
   "name": "Roots Revival",
-  "num_followers": 540045,
+  "num_followers": 540083,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA4NDM0NSwwMDAwMDAwMGM4YmQ5MWRmYzQxYmNhYThhYTc4Mjg3MTNlYjMxNDQ2",
+  "snapshot_id": "MTY0MTEwODY1NiwwMDAwMDAwMDc5NGFlNTE2MWRjNzYzMTcwMjNhN2ZhNzlkMjU1NTY4",
   "tracks": [
     {
       "added_at": "2021-10-01 04:00:00",
@@ -59,6 +59,54 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "The Nashville Sound",
+        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 215563,
+      "name": "If We Were Vampires",
+      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/4sRUr5XaJYlc17t4jUrqYB"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/20svOpmCQao5GUBgSu8zDe"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -75,18 +123,34 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/35oJ7lIOHpQtRxr4QiCK5j"
+        "name": "And It\u2019s Still Alright",
+        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 229773,
-      "name": "BRIGHTSIDE",
-      "url": "https://open.spotify.com/track/1TX0ImiGMYiikRash29a2b"
+      "duration_ms": 235746,
+      "name": "And It's Still Alright",
+      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Lost On The River",
+        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -111,22 +175,6 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/4sRUr5XaJYlc17t4jUrqYB"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/20svOpmCQao5GUBgSu8zDe"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
         "name": "Mouthfuls",
         "url": "https://open.spotify.com/album/2qdxVSIyuIbBaSrkeWXL0L"
       },
@@ -143,66 +191,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "And It\u2019s Still Alright",
-        "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
         }
       ],
-      "duration_ms": 235746,
-      "name": "And It's Still Alright",
-      "url": "https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Nashville Sound",
-        "url": "https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 215563,
-      "name": "If We Were Vampires",
-      "url": "https://open.spotify.com/track/250RLekaiL1q9qZer975Eg"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Evening Machines",
-        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "San Luis",
-      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Lost On The River",
-        "url": "https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq"
-      },
-      "artists": [
-        {
-          "name": "The New Basement Tapes",
-          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/4p4YWRwlMj6XFcHkOrAbG7"
+      "duration_ms": 266756,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -223,18 +223,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Lonesome Dreams",
-        "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
         }
       ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -267,34 +267,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/51c0ZqXWp5SfKOeyLK3Vg5"
+        "name": "Lonesome Dreams",
+        "url": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/75ATxsSO6V87RSR4UXLj2G"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 266756,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/1Y4N7rL8XF0vMpFGHmjiJO"
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -319,22 +303,6 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 196055,
-      "name": "Honeybee",
-      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
         "name": "Utah",
         "url": "https://open.spotify.com/album/6ampZidxH8AtXdxEFoZVv7"
       },
@@ -347,54 +315,6 @@
       "duration_ms": 252960,
       "name": "California (Cast Iron Soul)",
       "url": "https://open.spotify.com/track/14A2dKF4O0kQD0E5CCX3Jc"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Weatherman",
-        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 212800,
-      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
-      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Shore",
-        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Can I Believe You",
-      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -415,136 +335,24 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/51c0ZqXWp5SfKOeyLK3Vg5"
       },
       "artists": [
         {
-          "name": "Mandolin Orange",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/75ATxsSO6V87RSR4UXLj2G"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Mt. Joy",
-        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Seasons of Change",
-        "url": "https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Grow into Love",
-      "url": "https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Dark Holler Pop",
-        "url": "https://open.spotify.com/album/6jYi08JB6JIvQu1Rhuf1HO"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 266997,
-      "name": "Louise",
-      "url": "https://open.spotify.com/track/0YeQtvlM0NBGneArOPR1Xw"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+        "name": "Evening Machines",
+        "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
       "artists": [
         {
@@ -552,25 +360,25 @@
           "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 217466,
-      "name": "Big Black Car",
-      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+      "duration_ms": 272346,
+      "name": "San Luis",
+      "url": "https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
         }
       ],
-      "duration_ms": 238560,
-      "name": "River",
-      "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
+      "duration_ms": 212800,
+      "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
+      "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -591,6 +399,118 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Shore",
+        "url": "https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 244186,
+      "name": "Can I Believe You",
+      "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Seasons of Change",
+        "url": "https://open.spotify.com/album/2dyKBgz9mbVHUbeX2lbd8p"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 162106,
+      "name": "Grow into Love",
+      "url": "https://open.spotify.com/track/6FloUWDjW3r51mRYyw0vv5"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Mt. Joy",
+        "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Dark Holler Pop",
+        "url": "https://open.spotify.com/album/6jYi08JB6JIvQu1Rhuf1HO"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 266997,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/0YeQtvlM0NBGneArOPR1Xw"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "The Weatherman",
+        "url": "https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 109735,
+      "name": "Flowers in Your Hair",
+      "url": "https://open.spotify.com/track/3Hvg5tRKsQlX25wYwgMF9p"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
         "name": "North Hills",
         "url": "https://open.spotify.com/album/58XLXjaWRukUeT2GGQkNDf"
       },
@@ -607,34 +527,34 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Falling Faster Than You Can Run",
-        "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Mandolin Orange",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 249579,
-      "name": "Still Trying",
-      "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+      "duration_ms": 238560,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0NeJjNlprGfZpeX2LQuN6c"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -655,34 +575,34 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Motel Mayday",
-        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
       "artists": [
         {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Stolen Love",
-      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+      "duration_ms": 217466,
+      "name": "Big Black Car",
+      "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Come Back As Rain",
-        "url": "https://open.spotify.com/album/0VTbqFF2pxCJopfms6um73"
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
       "artists": [
         {
-          "name": "Good Old War",
-          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 226453,
-      "name": "Amazing Eyes",
-      "url": "https://open.spotify.com/track/3UGJdpJrWDp07V37Q5PNas"
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -703,6 +623,22 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
         "name": "Bahamas is Afie",
         "url": "https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv"
       },
@@ -719,18 +655,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO"
+        "name": "Falling Faster Than You Can Run",
+        "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
       },
       "artists": [
         {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL"
+      "duration_ms": 249579,
+      "name": "Still Trying",
+      "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -751,34 +687,98 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/719riSyZnHWIJibYVpTS96"
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
       },
       "artists": [
         {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/07J2YnBDALX80kWIdQoK7Q"
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
         }
       ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/12M64Waii6uYeGrpkUwo3K"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 330772,
+      "name": "Michigan",
+      "url": "https://open.spotify.com/track/0WkJWnMCumm1fnFscdY7Rw"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2"
+        "name": "The Pet Parade",
+        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz"
+      "duration_ms": 248925,
+      "name": "The Balcony",
+      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Half the City",
-        "url": "https://open.spotify.com/album/7dmD07Qccdkm5Gina2emQ5"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0Of5so0SmxQprfv96NkXhb"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -879,66 +863,34 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/719riSyZnHWIJibYVpTS96"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Stubborn Love",
-      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/07J2YnBDALX80kWIdQoK7Q"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/12M64Waii6uYeGrpkUwo3K"
+        "name": "Come Back As Rain",
+        "url": "https://open.spotify.com/album/0VTbqFF2pxCJopfms6um73"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Good Old War",
+          "url": "https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL"
         }
       ],
-      "duration_ms": 330772,
-      "name": "Michigan",
-      "url": "https://open.spotify.com/track/0WkJWnMCumm1fnFscdY7Rw"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "What Is There",
-        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
-      },
-      "artists": [
-        {
-          "name": "Delta Spirit",
-          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "It Ain\u2019t Easy",
-      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+      "duration_ms": 226453,
+      "name": "Amazing Eyes",
+      "url": "https://open.spotify.com/track/3UGJdpJrWDp07V37Q5PNas"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -959,18 +911,114 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Til It Breaks",
-        "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
+        "name": "My Mother the Moon",
+        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
       },
       "artists": [
         {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+          "name": "Dead Horses",
+          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
         }
       ],
-      "duration_ms": 201520,
-      "name": "Til It Breaks",
-      "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
+      "duration_ms": 196173,
+      "name": "Turntable",
+      "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "What Is There",
+        "url": "https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz"
+      },
+      "artists": [
+        {
+          "name": "Delta Spirit",
+          "url": "https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "It Ain\u2019t Easy",
+      "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Half the City",
+        "url": "https://open.spotify.com/album/7dmD07Qccdkm5Gina2emQ5"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0Of5so0SmxQprfv96NkXhb"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Between the Country",
+        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 269083,
+      "name": "Letter to Madeline",
+      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5m1L3o7fOfLFyw6VwumROL"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -987,54 +1035,6 @@
       "duration_ms": 209047,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Pet Parade",
-        "url": "https://open.spotify.com/album/4fyZyhtsOevsFYLbLitaHZ"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 248925,
-      "name": "The Balcony",
-      "url": "https://open.spotify.com/track/27GaPhdSkbvrfPTKZk2C6V"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Up from Below",
-        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1059,114 +1059,66 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Between the Country",
-        "url": "https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf"
+        "name": "Rubber",
+        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
       "artists": [
         {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 269083,
-      "name": "Letter to Madeline",
-      "url": "https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI"
+      "duration_ms": 198373,
+      "name": "Rubber",
+      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "My Mother the Moon",
-        "url": "https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P"
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
       },
       "artists": [
         {
-          "name": "Dead Horses",
-          "url": "https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 196173,
-      "name": "Turntable",
-      "url": "https://open.spotify.com/track/0Dp07EA5ybveKSUE27CuEd"
+      "duration_ms": 279000,
+      "name": "Stubborn Love",
+      "url": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Signs of Light",
-        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 225560,
-      "name": "All We Ever Knew",
-      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Hozier (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 229720,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Humbug Mountain Song",
-      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Dusty Trails",
-      "url": "https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w"
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1187,6 +1139,246 @@
       "duration_ms": 168760,
       "name": "The Way We Move",
       "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Milo Greene",
+        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
+      },
+      "artists": [
+        {
+          "name": "Milo Greene",
+          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "1957",
+      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Day by Day",
+        "url": "https://open.spotify.com/album/3ra5M72nDbIICWPtjanTRG"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/5kQyTlP8HGfjsEYpxpk59v"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Humbug Mountain Song",
+      "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Post-War",
+        "url": "https://open.spotify.com/album/0dGHgm63WE9dltjb9LcEsc"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Chinese Translation",
+      "url": "https://open.spotify.com/track/7IJlk42gDKt5dfSSLwtEsp"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/1XvtHMu0oP7oCBx3E73IMA"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/49cgL2LMpDg3x70PWB13y3"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "I'm Wide Awake, It's Morning",
+        "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 188800,
+      "name": "First Day Of My Life",
+      "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Turtles All the Way Down",
+      "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Blacklisted",
+        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "I Wish I Was the Moon",
+      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Naked as We Came",
+      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1219,258 +1411,34 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Are We There",
-        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
+        "name": "Up from Below",
+        "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
       },
       "artists": [
         {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 262520,
-      "name": "Every Time the Sun Comes Up",
-      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N"
     },
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+        "name": "Fire and the Flood (Acoustic)",
+        "url": "https://open.spotify.com/album/6alwDf6dHo90NoIgIJqnnk"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Rubber",
-        "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Rubber",
-      "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "I'm Wide Awake, It's Morning",
-        "url": "https://open.spotify.com/album/5msfCyqu8fJYqDDV6OrXTg"
-      },
-      "artists": [
-        {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
-        }
-      ],
-      "duration_ms": 188800,
-      "name": "First Day Of My Life",
-      "url": "https://open.spotify.com/track/5OiaAaIMYlCZONyDBxqk4G"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Naked as We Came",
-      "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "O' Be Joyful",
-        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "Birmingham",
-      "url": "https://open.spotify.com/track/3lwcrfL6LfZ1p9ZU8KRx4n"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Milo Greene",
-        "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
-      },
-      "artists": [
-        {
-          "name": "Milo Greene",
-          "url": "https://open.spotify.com/artist/5euJsEvfrlfhYDorMR40OF"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "1957",
-      "url": "https://open.spotify.com/track/08cXy6KUizaAelYXtcew3w"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Let's Be Still",
-        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 241706,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/5m1L3o7fOfLFyw6VwumROL"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "I'm Alone, No You're Not",
-        "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Canyon",
-      "url": "https://open.spotify.com/track/2SzIui6zoL8iXbKn6nU7sr"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Day by Day",
-        "url": "https://open.spotify.com/album/3ra5M72nDbIICWPtjanTRG"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/5kQyTlP8HGfjsEYpxpk59v"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/1XvtHMu0oP7oCBx3E73IMA"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/49cgL2LMpDg3x70PWB13y3"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Post-War",
-        "url": "https://open.spotify.com/album/0dGHgm63WE9dltjb9LcEsc"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Chinese Translation",
-      "url": "https://open.spotify.com/track/7IJlk42gDKt5dfSSLwtEsp"
+      "duration_ms": 222662,
+      "name": "Fire and the Flood - Acoustic",
+      "url": "https://open.spotify.com/track/3fUpLMdT3hPTOiy6sy6x9L"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1495,50 +1463,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Blacklisted",
-        "url": "https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU"
+        "name": "O' Be Joyful",
+        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
       },
       "artists": [
         {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 214733,
-      "name": "I Wish I Was the Moon",
-      "url": "https://open.spotify.com/track/4PxzGOH79jcmmldKgoI9sB"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Turtles All the Way Down",
-      "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
-        "name": "The Ash & Clay",
-        "url": "https://open.spotify.com/album/151a4bghgq5jgbaZt96p71"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 244520,
-      "name": "Whisper In Her Ear",
-      "url": "https://open.spotify.com/track/5YuHMfznSrE6qsKGQzcAnO"
+      "duration_ms": 240560,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/3lwcrfL6LfZ1p9ZU8KRx4n"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1559,6 +1495,38 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Dusty Trails",
+      "url": "https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Til It Breaks",
+        "url": "https://open.spotify.com/album/14EpUh3ciFNz8tYPyT09uC"
+      },
+      "artists": [
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        }
+      ],
+      "duration_ms": 201520,
+      "name": "Til It Breaks",
+      "url": "https://open.spotify.com/track/4sbqArnm1dCgLQiMF9vP9z"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
         "name": "Extralife",
         "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
       },
@@ -1575,18 +1543,18 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "Ignorance",
-        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+        "name": "North Hills",
+        "url": "https://open.spotify.com/album/58XLXjaWRukUeT2GGQkNDf"
       },
       "artists": [
         {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 218602,
-      "name": "Tried to Tell You",
-      "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
+      "duration_ms": 358773,
+      "name": "That Western Skyline",
+      "url": "https://open.spotify.com/track/5czb6N8T50aNnJoKWQRgQo"
     },
     {
       "added_at": "2021-10-01 04:00:00",
@@ -1607,6 +1575,22 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
+        "name": "Are We There",
+        "url": "https://open.spotify.com/album/0F1pMhF8Vy74nKkQeLBfrd"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "Every Time the Sun Comes Up",
+      "url": "https://open.spotify.com/track/38ydcsbayM4oX21Hhu84DT"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
         "name": "Up From Below",
         "url": "https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf"
       },
@@ -1623,22 +1607,6 @@
     {
       "added_at": "2021-10-01 04:00:00",
       "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/2uRTsStAmo7Z2UwCIvuwMv"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/3l9eg9RtisizG12a1D6nZl"
-    },
-    {
-      "added_at": "2021-10-01 04:00:00",
-      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
       },
@@ -1651,6 +1619,38 @@
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Ignorance",
+        "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Tried to Tell You",
+      "url": "https://open.spotify.com/track/7DPKumvNXs9YFK9u5HvH0u"
+    },
+    {
+      "added_at": "2021-10-01 04:00:00",
+      "album": {
+        "name": "Dark Child",
+        "url": "https://open.spotify.com/album/514G60yXX7mHxl67i5DYld"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 237122,
+      "name": "Dark Child - Single Edit",
+      "url": "https://open.spotify.com/track/4puHB4a2PUyJViWnJcJEv0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9crXQ0wuuXE"

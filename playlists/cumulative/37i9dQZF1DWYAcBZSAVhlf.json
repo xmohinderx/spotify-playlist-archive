@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "The best feel-good songs of the 1980s.",
   "name": "Happy 80s",
+  "published_playlist_ids": [
+    "3kEIbFvf5MNOkdlnY6hDok"
+  ],
   "tracks": [
     {
       "album": {
@@ -78,7 +81,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 280853,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
@@ -284,7 +287,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 249840,
       "name": "Dressed For Success",
       "url": "https://open.spotify.com/track/5hRXW7bDPwj08jTI74N3gg"
@@ -374,7 +377,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 256666,
       "name": "Feels Like I'm in Love",
       "url": "https://open.spotify.com/track/3Swc1delyFn1fwPDkInUhC"
@@ -630,7 +633,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 218066,
       "name": "Hot In The City - 2001 Digital Remaster",
       "url": "https://open.spotify.com/track/0MHTpNtTcrdseMWAhh7Sdp"
@@ -1142,7 +1145,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 200826,
       "name": "Morning Train (Nine to Five) - Edit",
       "url": "https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm"
@@ -1478,7 +1481,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238013,
       "name": "The Motown Song (with The Temptations) - 2008 Remaster",
       "url": "https://open.spotify.com/track/2GZ0dVvRcmtojWuPgBfKIl"
@@ -1892,7 +1895,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 211226,
       "name": "You Got It",
       "url": "https://open.spotify.com/track/0RteYQqW1AOq3JNL0yMWYt"
@@ -1928,7 +1931,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204880,
       "name": "Young at Heart",
       "url": "https://open.spotify.com/track/5PwWIKBztoHDVAVcL3IH2X"

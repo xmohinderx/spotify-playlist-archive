@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "Clock in from the comfort of your own home with 8 hours of music to carry you through the day.",
   "name": "Work From Home",
+  "published_playlist_ids": [
+    "1nCLDzLkfoW4PEmPPr38Hp"
+  ],
   "tracks": [
     {
       "album": {
@@ -186,7 +189,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
@@ -644,7 +647,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 165686,
       "name": "Breakdown (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE"
@@ -924,7 +927,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 234466,
       "name": "Dangerous Levels of Introspection",
       "url": "https://open.spotify.com/track/4iT46O2cYu63Rlv09Fpxch"
@@ -942,7 +945,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 183723,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/12e5rUktNoga7mdtziCw33"
@@ -1970,7 +1973,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 153865,
       "name": "Lifestyle (feat. Adam Levine)",
       "url": "https://open.spotify.com/track/0osvOdeD3YXZiWkT8MKolJ"
@@ -2420,7 +2423,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 171613,
       "name": "Perfect Conditions",
       "url": "https://open.spotify.com/track/5PegehfZSBLp5HZ8OuUJQz"
@@ -2692,7 +2695,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191208,
       "name": "SING",
       "url": "https://open.spotify.com/track/73qyiny4KFB8kh4n2TUkOX"
@@ -2728,7 +2731,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 147840,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/03sDUI44L3nlJoSoGgMRQ8"
@@ -3006,7 +3009,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 203258,
       "name": "The 90s",
       "url": "https://open.spotify.com/track/6xmlFb4Ld15YysAmRQ545N"
@@ -3226,7 +3229,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206108,
       "name": "Way Less Sad",
       "url": "https://open.spotify.com/track/4jbtL4tjkqghUvJknUqU1s"
@@ -3450,7 +3453,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 202706,
       "name": "wish you were here",
       "url": "https://open.spotify.com/track/0DEVHeqxATyAmwUMFGFTfv"
@@ -3606,7 +3609,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 178470,
       "name": "You Give Me More",
       "url": "https://open.spotify.com/track/4yDN3raV23ADESRpIoW8AO"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "All of the classic hits from the 50s and 60s.",
   "name": "Classic Oldies",
+  "published_playlist_ids": [
+    "7KF7Evm7HugJ0ZFYg9Yj0E"
+  ],
   "tracks": [
     {
       "album": {
@@ -128,7 +131,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 143893,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/6pTybvSMcw5spOS7d656rn"
@@ -766,7 +769,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 112520,
       "name": "He's So Fine - Remastered 2000",
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
@@ -1274,7 +1277,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 244026,
       "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
       "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
@@ -1796,7 +1799,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 147266,
       "name": "Surf City",
       "url": "https://open.spotify.com/track/1Oewmmr12xuhgzvUJ9Q0cf"

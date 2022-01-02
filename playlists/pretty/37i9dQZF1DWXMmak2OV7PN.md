@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMmak2OV7PN.md) - [plain]
 
 > The best of alt\-J, so far.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,919 likes - 29 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,928 likes - 29 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

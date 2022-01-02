@@ -2,6 +2,9 @@
   "date_first_scraped": "2019-05-26",
   "description": "Relax with these timeless tunes.",
   "name": "Mellow Classics",
+  "published_playlist_ids": [
+    "32lp5vkX1hCFRdFKPQMDZK"
+  ],
   "tracks": [
     {
       "album": {
@@ -250,7 +253,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 165426,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -1782,7 +1785,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-30",
+      "date_removed": null,
       "duration_ms": 187866,
       "name": "Wholy Holy",
       "url": "https://open.spotify.com/track/1d9XimiMXrllkSb4BIq5W0"

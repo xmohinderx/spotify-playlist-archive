@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
   "name": "60s Rock Anthems",
+  "published_playlist_ids": [
+    "1KKgS6q0sNGU7BWtq9lIZj"
+  ],
   "tracks": [
     {
       "album": {
@@ -1042,7 +1045,7 @@
       ],
       "date_added": "2018-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 145746,
       "name": "I Want To Hold Your Hand - Remastered 2015",
       "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
@@ -2112,7 +2115,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"

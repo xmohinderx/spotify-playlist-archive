@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-21",
   "description": "The most interesting tracks in the current world of pop music.",
   "name": "Pop Right Now",
+  "published_playlist_ids": [
+    "69q7Enb8pVVf5rCvGWee3I"
+  ],
   "tracks": [
     {
       "album": {
@@ -74,7 +77,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 208714,
       "name": "After All",
       "url": "https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP"
@@ -92,7 +95,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 166609,
       "name": "aftermath",
       "url": "https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po"
@@ -212,7 +215,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227627,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/2zYze9NpKgmpwq58hmgDkL"
@@ -572,7 +575,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k"
@@ -974,7 +977,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 226402,
       "name": "Happy For You",
       "url": "https://open.spotify.com/track/68z9t6zihQgqzBGtexjTRG"
@@ -1032,7 +1035,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199506,
       "name": "heart won't let me",
       "url": "https://open.spotify.com/track/2IY537C2ecmUMJ46bYQggp"
@@ -1276,7 +1279,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
@@ -1414,7 +1417,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 181249,
       "name": "Letters",
       "url": "https://open.spotify.com/track/5II1sTlUHO9QAZBbxFUm8C"
@@ -1450,7 +1453,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 190527,
       "name": "Looks Like Me",
       "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
@@ -1874,7 +1877,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185849,
       "name": "r u ok",
       "url": "https://open.spotify.com/track/7rq1zCf90CnU7OalBLIgNp"
@@ -1914,7 +1917,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187452,
       "name": "Red Eye (feat. TroyBoi)",
       "url": "https://open.spotify.com/track/24OeEKPQ8qqNZnPevRHxUT"
@@ -2222,7 +2225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 177041,
       "name": "Stop",
       "url": "https://open.spotify.com/track/1iCVw7fVBPdEzPibIQ0JCv"
@@ -2432,7 +2435,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214623,
       "name": "This Is Heaven",
       "url": "https://open.spotify.com/track/7oAly6qQFPu1JhmlE2Vujg"
@@ -2472,7 +2475,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"

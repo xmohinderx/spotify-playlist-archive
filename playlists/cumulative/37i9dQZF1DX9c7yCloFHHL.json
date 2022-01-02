@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "The home of today\u2019s cutting edge Ambient, Atmospheric and Neo Classical music. Cover: Nala Sinephro",
   "name": "Ambiente",
+  "published_playlist_ids": [
+    "2VJZyunnZCFnCPLdfBtZ7N"
+  ],
   "tracks": [
     {
       "album": {
@@ -316,7 +319,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 285904,
       "name": "April's Coloring Book",
       "url": "https://open.spotify.com/track/5o2sM5n4pA10eNdEU375aW"
@@ -388,7 +391,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 300176,
       "name": "Ascending End",
       "url": "https://open.spotify.com/track/04HnJ3z4ZCILqbJvvTu8ub"
@@ -406,7 +409,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 152126,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/0jWFW9fhF9YoEEUVBfUSXC"
@@ -424,7 +427,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 276026,
       "name": "Aura",
       "url": "https://open.spotify.com/track/1UowdYgxMKdJE0RxRBleZ3"
@@ -518,7 +521,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 507060,
       "name": "Blind Power - Exzald S Remix",
       "url": "https://open.spotify.com/track/2Qx5xSZixGfNiQRE71rTwR"
@@ -668,7 +671,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 208469,
       "name": "Cass",
       "url": "https://open.spotify.com/track/483UearCC3xUm09caTe015"
@@ -708,7 +711,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 168000,
       "name": "Circle 18",
       "url": "https://open.spotify.com/track/5Bz0j8O0yJ5G8vEqYV7S5L"
@@ -869,6 +872,24 @@
     },
     {
       "album": {
+        "name": "tape/01",
+        "url": "https://open.spotify.com/album/10Ax2Z48HuVrk4RoT1vAD5"
+      },
+      "artists": [
+        {
+          "name": "Collapsed Textures",
+          "url": "https://open.spotify.com/artist/5tFWnJpqJAHDKuB0A2cqKj"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Color Filter",
+      "url": "https://open.spotify.com/track/12jTQgH4CtK6V7jbYgRRwA"
+    },
+    {
+      "album": {
         "name": "Coming Into Being and Passing Away",
         "url": "https://open.spotify.com/album/5Pxv17JVeKQSnrCyYs8s7T"
       },
@@ -934,7 +955,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 314000,
       "name": "Dalim",
       "url": "https://open.spotify.com/track/1FQ4jGitG2YKoo8aatirip"
@@ -1032,7 +1053,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 284747,
       "name": "Delayed",
       "url": "https://open.spotify.com/track/2sxKhUF19gjuOg9OQY4Nwl"
@@ -1104,7 +1125,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192426,
       "name": "doggo cc22",
       "url": "https://open.spotify.com/track/3jZc0IPpfezEGg5XZPZUCv"
@@ -1202,7 +1223,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 311000,
       "name": "Du repos",
       "url": "https://open.spotify.com/track/1HTyYBqbbyKH8zHRgUru2q"
@@ -1238,7 +1259,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 116565,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/4vvpzJF121oJbfU2F7yaO0"
@@ -1350,7 +1371,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215475,
       "name": "Fabric",
       "url": "https://open.spotify.com/track/62FHm8qe3SqCddZBADTtcx"
@@ -1404,7 +1425,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 119217,
       "name": "Family",
       "url": "https://open.spotify.com/track/22S1pOKa2VYWQTbx6tHqZv"
@@ -1514,7 +1535,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 210372,
       "name": "For Catherine E. Coulson - Solo Piano",
       "url": "https://open.spotify.com/track/0gBJ0WNaEvKnkqixbqBiXE"
@@ -1630,7 +1651,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 310388,
       "name": "Full of Stars",
       "url": "https://open.spotify.com/track/6hlz2hzylyRz2JlWdOPOWA"
@@ -1772,7 +1793,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1zt45xMQfZi3aq1NOrrPyR"
@@ -1830,7 +1851,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 253357,
       "name": "Holy Me",
       "url": "https://open.spotify.com/track/59g21npYPh7l1LQKYeiJkm"
@@ -1902,7 +1923,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 344173,
       "name": "i want a white petal in my teacup",
       "url": "https://open.spotify.com/track/1oROJIuLMP3VcxhLJdAoiS"
@@ -1920,7 +1941,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 294000,
       "name": "I've Got What I Need",
       "url": "https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY"
@@ -1938,7 +1959,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 156000,
       "name": "Icarus",
       "url": "https://open.spotify.com/track/7znsnWlNp5NpC4whTL7RnQ"
@@ -2160,7 +2181,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 145700,
       "name": "Kaosmos",
       "url": "https://open.spotify.com/track/5IDJrkMDijnd9VJPBdT5h6"
@@ -2272,7 +2293,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 165701,
       "name": "Like We Were Dreaming All This Time, Pt. 1",
       "url": "https://open.spotify.com/track/3CXrrmtXlYedfOTciTk6DN"
@@ -2540,7 +2561,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 181904,
       "name": "Momenti",
       "url": "https://open.spotify.com/track/5XlAz7h7YWGBCx7npym8DO"
@@ -2562,7 +2583,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 331520,
       "name": "Monomom",
       "url": "https://open.spotify.com/track/083hSYQL8F0UScdHIXDBTN"
@@ -2718,7 +2739,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 239000,
       "name": "Natural Unfolding",
       "url": "https://open.spotify.com/track/0lVIplvA9hPsa8WsTZ8gid"
@@ -2769,6 +2790,32 @@
     },
     {
       "album": {
+        "name": "Night Bunny",
+        "url": "https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR"
+      },
+      "artists": [
+        {
+          "name": "Alister Fawnwoda",
+          "url": "https://open.spotify.com/artist/16Vq22oDSB5NDYczsnJ89o"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Greg Leisz",
+          "url": "https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413993,
+      "name": "Night Bunny",
+      "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
+    },
+    {
+      "album": {
         "name": "Night Sky / Sheldon's Weight",
         "url": "https://open.spotify.com/album/5ulXP3zXjIZciwpN1JkxhU"
       },
@@ -2784,7 +2831,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 193937,
       "name": "Night Sky",
       "url": "https://open.spotify.com/track/6JQNc3kdDUTuSN4QpN9llS"
@@ -2850,7 +2897,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 243669,
       "name": "No\u0301tt (Theta Waves)",
       "url": "https://open.spotify.com/track/36NEC2elZ60PFXxbb2bkAQ"
@@ -2868,7 +2915,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220500,
       "name": "Nychthemera in A Major",
       "url": "https://open.spotify.com/track/1VXkNxE0szN2MNsk4x7P8C"
@@ -2962,7 +3009,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 190000,
       "name": "Parallel_arc",
       "url": "https://open.spotify.com/track/3lrOUF9BVkpakEZV7htTaB"
@@ -3034,7 +3081,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 481560,
       "name": "Pavan II",
       "url": "https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr"
@@ -3088,7 +3135,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 403346,
       "name": "Pink Noise",
       "url": "https://open.spotify.com/track/3lroHSuomu8fkbk7raTLAk"
@@ -3142,7 +3189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 217392,
       "name": "Prudence",
       "url": "https://open.spotify.com/track/7xIzl5AzUj3pxJe1GjhATB"
@@ -3377,6 +3424,28 @@
     },
     {
       "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/5gWsyqURvhG8MyxLz7Nz50"
+      },
+      "artists": [
+        {
+          "name": "UH",
+          "url": "https://open.spotify.com/artist/77p9ghvK0WqycHbls2k9VP"
+        },
+        {
+          "name": "Uwe Hager",
+          "url": "https://open.spotify.com/artist/1JzBQNzU9AJGEHBxirj9I9"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218554,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/1MNs6jT6pvV1KBmZcOCXdS"
+    },
+    {
+      "album": {
         "name": "Hidden Smiles",
         "url": "https://open.spotify.com/album/7d1tWxqSfdUBwB7FRqFJqU"
       },
@@ -3442,7 +3511,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 111316,
       "name": "Rhymes of Chance Pt 3",
       "url": "https://open.spotify.com/track/7fhW0s39jN0o8KX5arsF3K"
@@ -3558,7 +3627,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 368000,
       "name": "Sequoia",
       "url": "https://open.spotify.com/track/3uGqtW7R02zPpi9DiDUvv3"
@@ -3704,7 +3773,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 433243,
       "name": "Soft Entrance",
       "url": "https://open.spotify.com/track/5z5VfxOrrtQoE0BqpVF6Di"
@@ -3860,7 +3929,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 342173,
       "name": "The Aurae Loops",
       "url": "https://open.spotify.com/track/19dF9aQX9Kn5lTt5VJv7pF"
@@ -4120,7 +4189,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 155375,
       "name": "Together in Static",
       "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
@@ -4200,7 +4269,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258821,
       "name": "Tympanum (feat. Nala Sinephro)",
       "url": "https://open.spotify.com/track/7hOn0zGFIZoLk8a5pUOtYU"
@@ -4254,7 +4323,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 169911,
       "name": "Under",
       "url": "https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD"
@@ -4330,7 +4399,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 267442,
       "name": "Untold - Pure Current",
       "url": "https://open.spotify.com/track/3zYkrtSYxzfpEf32pvYvwA"

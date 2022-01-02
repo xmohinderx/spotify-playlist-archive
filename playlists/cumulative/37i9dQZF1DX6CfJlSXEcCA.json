@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
   "name": "This Is Capcom Sound Team",
+  "published_playlist_ids": [
+    "7ij89g35L5wid2aPGmGS4I"
+  ],
   "tracks": [
     {
       "album": {
@@ -211,6 +214,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "Dudley Stage -YOU BLOW MY MIND-",
+      "url": "https://open.spotify.com/track/2k1B29kBE3UCYbKk5v68vB"
+    },
+    {
+      "album": {
         "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:3 \u30a2\u30eb\u30d0\u30e0 \u30d7\u30ec\u30d3\u30e5\u30fc",
         "url": "https://open.spotify.com/album/5B26OGt9by1hpAYZqadKlA"
       },
@@ -258,7 +279,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 120973,
       "name": "FIRE FIELD",
       "url": "https://open.spotify.com/track/3kXaNzhwlGurylzMT7it2I"
@@ -276,7 +297,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 154293,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/1IZRDWWDyVmfmpenjaLzLB"
@@ -572,7 +593,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 234857,
       "name": "Ryu's Theme - The Moe\u2019s Pizzeria Steve Aoki Remix",
       "url": "https://open.spotify.com/track/0IT73kNAnWd3UUsVToD79B"
@@ -774,7 +795,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249333,
       "name": "TeenageBlues",
       "url": "https://open.spotify.com/track/6UXsvQPymtQBhc4q83fT3O"
@@ -1290,7 +1311,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191893,
       "name": "\u8ffd\u6c42 \u301c\u5927\u9006\u8ee2\u306e\u3068\u304d",
       "url": "https://open.spotify.com/track/6p3BMNKh2EjgQ0lRUCvfJf"

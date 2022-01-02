@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Rock N' Roll Swagger Served Straight Up  / Cover: Whiskey Myers
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,808 likes - 105 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,821 likes - 105 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

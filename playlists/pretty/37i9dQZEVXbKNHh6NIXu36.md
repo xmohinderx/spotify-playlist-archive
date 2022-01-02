@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKNHh6NIXu36.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,892 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,897 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

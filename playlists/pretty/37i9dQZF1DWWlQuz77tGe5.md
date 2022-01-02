@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlQuz77tGe5.md) - [plain]
 
 > This Icelandic indie\-folk group has established a global fan base.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,276 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,280 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

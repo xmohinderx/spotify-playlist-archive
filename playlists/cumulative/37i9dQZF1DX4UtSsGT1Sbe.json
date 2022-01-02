@@ -2,6 +2,9 @@
   "date_first_scraped": "2019-05-26",
   "description": "The biggest songs of the 1980s.",
   "name": "All Out 80s",
+  "published_playlist_ids": [
+    "6kIRUOEADDcyDgRr5BVja2"
+  ],
   "tracks": [
     {
       "album": {
@@ -598,7 +601,7 @@
       ],
       "date_added": "2020-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 316866,
       "name": "Angel Eyes (Home And Away)",
       "url": "https://open.spotify.com/track/2ClEdZjrJD2lQOrWU1qqO5"
@@ -3374,7 +3377,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 256666,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/7woZGXjtaYwuvSoU1zToB3"
@@ -3864,7 +3867,7 @@
       ],
       "date_added": "2019-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 264333,
       "name": "Guilty (feat. Barry Gibb)",
       "url": "https://open.spotify.com/track/60mGckXEG1EzR4VmjYLfEW"
@@ -4838,7 +4841,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 304786,
       "name": "I Want to Know What Love Is - 1999 Remaster",
       "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
@@ -6078,7 +6081,7 @@
       ],
       "date_added": "2020-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 274466,
       "name": "Lay All Your Love On Me",
       "url": "https://open.spotify.com/track/3LIaJyHeA9lxmskbFaez44"
@@ -6240,7 +6243,7 @@
       ],
       "date_added": "2020-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 328093,
       "name": "Listen To Your Heart",
       "url": "https://open.spotify.com/track/5JvsxPAHsGxwNq4xto2HtM"

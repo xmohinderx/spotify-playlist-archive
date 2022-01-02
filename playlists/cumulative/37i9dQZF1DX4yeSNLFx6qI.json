@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-28",
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
   "name": "Sin Ti",
+  "published_playlist_ids": [
+    "5ip3Hsabx9kyB1i1dzdp3Y"
+  ],
   "tracks": [
     {
       "album": {
@@ -114,7 +117,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 305346,
       "name": "Ahora Quien",
       "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
@@ -208,7 +211,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 206666,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/1n1HgKJ9TFplBuhbdBbYZK"
@@ -255,6 +258,28 @@
     },
     {
       "album": {
+        "name": "Atado Entre Tus Manos",
+        "url": "https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Atado Entre Tus Manos",
+      "url": "https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG"
+    },
+    {
+      "album": {
         "name": "Avioncito de Papel",
         "url": "https://open.spotify.com/album/5qoaoUSAfDGA4obdQHb2yb"
       },
@@ -288,7 +313,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220000,
       "name": "A\u00fan me amas",
       "url": "https://open.spotify.com/track/6QpL9FS8ytyEIYrM2l7lSf"
@@ -476,7 +501,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 183756,
       "name": "Cuando Decidas Amar",
       "url": "https://open.spotify.com/track/2wPIX2kegXNe5kH0ZRGV64"
@@ -574,7 +599,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 202053,
       "name": "Dices Que Te Vas",
       "url": "https://open.spotify.com/track/0QHOIQxRlIPYPJ1HLgIN8S"
@@ -704,7 +729,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 231680,
       "name": "El Que Olvida",
       "url": "https://open.spotify.com/track/69dW5grE2KVwjl0ACruk0k"
@@ -1022,7 +1047,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204044,
       "name": "Lo Intent\u00e9 Todo",
       "url": "https://open.spotify.com/track/6PxY5drMNRkO9CB6dL2srb"
@@ -1282,7 +1307,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195485,
       "name": "Modo Ofendida",
       "url": "https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE"
@@ -1560,7 +1585,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201190,
       "name": "Por Qu\u00e9 Te Vas",
       "url": "https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3"
@@ -1872,7 +1897,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 144840,
       "name": "Son Tantas Cosas",
       "url": "https://open.spotify.com/track/54nYowFYNMP2buVxg73w6w"
@@ -1970,7 +1995,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 181960,
       "name": "te echo de menos </3",
       "url": "https://open.spotify.com/track/2cI9at8yZOA69znRNFFyOe"
@@ -2202,7 +2227,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 150094,
       "name": "Tomar Distancia",
       "url": "https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD"
@@ -2446,7 +2471,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 211138,
       "name": "\u00bfPor Qu\u00e9 Lloras? (feat. Matisse)",
       "url": "https://open.spotify.com/track/2G9LSMGW7a9QFP8Fi9cvTE"

@@ -2,6 +2,9 @@
   "date_first_scraped": "2021-12-29",
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: NSG",
   "name": "Afro Bashment",
+  "published_playlist_ids": [
+    "60Bw7Cwgr0oH9rAK1w2wYZ"
+  ],
   "tracks": [
     {
       "album": {
@@ -166,7 +169,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187782,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7"
@@ -276,7 +279,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 237876,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
@@ -404,7 +407,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 159338,
       "name": "Damn (feat. 6lack)",
       "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
@@ -456,7 +459,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 495746,
       "name": "Dinaledi",
       "url": "https://open.spotify.com/track/0kNOuZYnpu1RiQTWXUUzE8"
@@ -500,7 +503,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 212620,
       "name": "Don't Play Me",
       "url": "https://open.spotify.com/track/11zDwAkUczHN72NmK4nPHf"
@@ -518,7 +521,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174295,
       "name": "E Be Mad",
       "url": "https://open.spotify.com/track/2aochHcSqGYOJrHOQXVAYY"
@@ -598,6 +601,24 @@
       "duration_ms": 135555,
       "name": "Fool for You",
       "url": "https://open.spotify.com/track/4NgVqQZ9T6Vby01CGoEiuw"
+    },
+    {
+      "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/5VmXCn8kqqeWkA5TarkaEf"
+      },
+      "artists": [
+        {
+          "name": "Happi",
+          "url": "https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/6LVKTrXpVtaEhUF5KDFVaA"
     },
     {
       "album": {
@@ -736,7 +757,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188657,
       "name": "Hold",
       "url": "https://open.spotify.com/track/7vNuWM68PF5O5rBWtWXvnl"
@@ -814,7 +835,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 161116,
       "name": "Intentionally",
       "url": "https://open.spotify.com/track/4ALqm90dxgYWOnwSxwWSzV"
@@ -974,7 +995,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 156454,
       "name": "Koroba",
       "url": "https://open.spotify.com/track/6MzjLOHzkqoi7667ysz41k"
@@ -1018,7 +1039,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 239893,
       "name": "Longtime (feat. Skepta)",
       "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
@@ -1084,6 +1105,28 @@
       "duration_ms": 190210,
       "name": "Mama Stay",
       "url": "https://open.spotify.com/track/6v5xfPpCMt03M9r3dcH53k"
+    },
+    {
+      "album": {
+        "name": "Twelve A.M",
+        "url": "https://open.spotify.com/album/6ZOAzx00nKsqJYRTW3wknJ"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "One Acen",
+          "url": "https://open.spotify.com/artist/16plk1BhihSieDutGFbLt8"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172848,
+      "name": "Man Dem",
+      "url": "https://open.spotify.com/track/4EziPrWWeLbMzI6Oho0O7z"
     },
     {
       "album": {
@@ -1558,7 +1601,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 166920,
       "name": "Run",
       "url": "https://open.spotify.com/track/6W7GzCtwCy88SazHUCN87W"
@@ -1686,7 +1729,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 163736,
       "name": "Send Me Nudes (feat. Joey B)",
       "url": "https://open.spotify.com/track/0eWsDRH2aTkDmjcUEntwZ5"
@@ -1932,7 +1975,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 241881,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/3vrNZUSTDywwH7CDp8wUtF"
@@ -1968,7 +2011,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 168896,
       "name": "The Don",
       "url": "https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD"
@@ -2132,7 +2175,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 192880,
       "name": "Wickedest",
       "url": "https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ"
@@ -2168,7 +2211,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 228463,
       "name": "Yebo/Sema",
       "url": "https://open.spotify.com/track/7tFZNqsXf7ESFsT8pYd2RV"
