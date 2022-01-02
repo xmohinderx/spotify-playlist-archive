@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cEqBpR9k1C.md) - [plain]
 
 > Immerse yourself in the dark and beautiful sound of Trentemøller.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,669 likes - 35 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,672 likes - 35 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

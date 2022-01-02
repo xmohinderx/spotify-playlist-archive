@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Joshwa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962,366 likes - 95 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,962,371 likes - 95 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

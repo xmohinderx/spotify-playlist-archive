@@ -1,12 +1,12 @@
 {
   "description": "Meet Korea's representative eardrum boyfriend & girlfriend vocals. (Cover: KIM JAE HWAN (\uae40\uc7ac\ud658)) (\ud55c\uad6d\uc744 \ub300\ud45c\ud558\ub294 \uace0\ub9c9\ub0a8\uce5c & \uace0\ub9c9\uc5ec\uce5c \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.)",
   "name": "v o K a l",
-  "num_followers": 272330,
+  "num_followers": 272339,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA3MzkwOCwwMDAwMDAwMDA0ZWIyNTdlMjY4YjYwNzU0ZjAxNTcyMGYxOTU1OGEx",
+  "snapshot_id": "MTY0MTA4NDMyNiwwMDAwMDAwMDRiYWRkNjE4NzU1NDNjMTllYzdjODk4YTQ0MDkwZGMx",
   "tracks": [
     {
       "added_at": "2021-12-27 09:49:11",
@@ -23,22 +23,6 @@
       "duration_ms": 208213,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/2y0fZIKYpjN8ZCylkttePB"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Red Diary Page.1",
-        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 181373,
-      "name": "Some",
-      "url": "https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -95,6 +79,22 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
+        "name": "Red Diary Page.1",
+        "url": "https://open.spotify.com/album/4pUGLEuGG0PH9Slw3nt1Jn"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 181373,
+      "name": "Some",
+      "url": "https://open.spotify.com/track/3mmLyEhphJAaW7hyEXAD8l"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
         "name": "One Day More",
         "url": "https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68"
       },
@@ -111,54 +111,18 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Me After You",
-        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
+        "name": "Love, Yerin",
+        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
         }
       ],
-      "duration_ms": 280358,
-      "name": "Me After You",
-      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Only Then",
-        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
-      },
-      "artists": [
-        {
-          "name": "Roy Kim",
-          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
-        }
-      ],
-      "duration_ms": 248835,
-      "name": "Only Then",
-      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Ode To The Stars",
-        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
-        }
-      ],
-      "duration_ms": 282853,
-      "name": "Ode To The Stars",
-      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+      "duration_ms": 205800,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -195,18 +159,38 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "WAW",
-        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+        "name": "#tb",
+        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Hongbi",
+          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Where Are We Now",
-      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+      "duration_ms": 275200,
+      "name": "#tb",
+      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -227,6 +211,22 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
+        "name": "Only Then",
+        "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "duration_ms": 248835,
+      "name": "Only Then",
+      "url": "https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
         "name": "Spring Again",
         "url": "https://open.spotify.com/album/2jb2k5LTycuATa7UjogpPg"
       },
@@ -239,22 +239,6 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/5QBOylNG7y0dob40NZxF9p"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 9",
-        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 229678,
-      "name": "I Will Go To You Like the First Snow",
-      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -279,38 +263,18 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Penthouse2 (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo"
+        "name": "Guardian (Original Television Soundtrack), Pt. 9",
+        "url": "https://open.spotify.com/album/42jhVkCdzN4cuIvc0QyXbS"
       },
       "artists": [
         {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 217066,
-      "name": "Repeatedly",
-      "url": "https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "#tb",
-        "url": "https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Hongbi",
-          "url": "https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "#tb",
-      "url": "https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT"
+      "duration_ms": 229678,
+      "name": "I Will Go To You Like the First Snow",
+      "url": "https://open.spotify.com/track/2BPXILn0MqOe5WroVXlvN1"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -331,98 +295,90 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe"
+        "name": "Me After You",
+        "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
+      "duration_ms": 280358,
+      "name": "Me After You",
+      "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Happy Ending",
-        "url": "https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p"
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6"
       },
       "artists": [
         {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "Ban Gwang Ok",
-          "url": "https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS"
-        },
-        {
-          "name": "Jeon Sang Keun",
-          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
-        },
-        {
-          "name": "Jung Young Eun",
-          "url": "https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf"
-        },
-        {
-          "name": "Leeraon",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
         }
       ],
-      "duration_ms": 260597,
-      "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
-      "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Love, Yerin",
-        "url": "https://open.spotify.com/album/2K41KAlW6n9bVlRCQPVcSZ"
+        "name": "Looking at the Photo (REVIBE Vol.2)",
+        "url": "https://open.spotify.com/album/25JKB4F13k0KyACimQx081"
       },
       "artists": [
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
         }
       ],
-      "duration_ms": 205800,
-      "name": "A Walk",
-      "url": "https://open.spotify.com/track/07o59OvDiUuVpAbGNntwCy"
+      "duration_ms": 279026,
+      "name": "Looking at the Photo",
+      "url": "https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+        "name": "Jelly box Flower Way (Prod. By ZICO) SEJEONG",
+        "url": "https://open.spotify.com/album/1dakUeYDjlm2TQwzbLrln1"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 273680,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+      "duration_ms": 239122,
+      "name": "Flower Way (Prod. By ZICO)",
+      "url": "https://open.spotify.com/track/0ESGvKJoja4msEeDhOMDD8"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Only you don't know (Samsung New Retro Series)",
-        "url": "https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU"
+        "name": "Way - SM STATION",
+        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
       },
       "artists": [
         {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
         }
       ],
-      "duration_ms": 245960,
-      "name": "Only you don't know (Samsung New Retro Series)",
-      "url": "https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x"
+      "duration_ms": 238853,
+      "name": "Way",
+      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -443,6 +399,74 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
+        "name": "Penthouse2 (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/21zg2W8KpUED6ljxAKDEGo"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Repeatedly",
+      "url": "https://open.spotify.com/track/0cJjwKRBzxafqKJlRAwuE9"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "WAW",
+        "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Where Are We Now",
+      "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Ode To The Stars",
+        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "Leeraon",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "duration_ms": 282853,
+      "name": "Ode To The Stars",
+      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "On A Starry Night (REVIBE Vol.3)",
+        "url": "https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 272573,
+      "name": "On A Starry Night",
+      "url": "https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
         "name": "Lovers of the Red Sky OST Part.1",
         "url": "https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe"
       },
@@ -459,54 +483,34 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "After Summer",
-        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
+        "name": "Only you don't know (Samsung New Retro Series)",
+        "url": "https://open.spotify.com/album/5DqfLEt9syg644ToarPkZU"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 195293,
-      "name": "After Summer",
-      "url": "https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6"
+      "duration_ms": 245960,
+      "name": "Only you don't know (Samsung New Retro Series)",
+      "url": "https://open.spotify.com/track/6Zvu8RwsRkogAb5AvBpF2x"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Starting Now",
-        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+        "name": "Be Ordinary",
+        "url": "https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
         }
       ],
-      "duration_ms": 205440,
-      "name": "Starting Now",
-      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Autumn Memories",
-        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
-      },
-      "artists": [
-        {
-          "name": "JO YURI",
-          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
-        },
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Autumn Memories (with Lee Seok Hoon)",
-      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
+      "duration_ms": 259079,
+      "name": "A Daily Song",
+      "url": "https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -531,150 +535,18 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Be Ordinary",
-        "url": "https://open.spotify.com/album/2p6TG0CTBBbY5jVaCnlHO5"
+        "name": "After Summer",
+        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
       },
       "artists": [
         {
-          "name": "Hwang Chi Yeul",
-          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 259079,
-      "name": "A Daily Song",
-      "url": "https://open.spotify.com/track/5Df08ImWepnNDWoOS7pIxq"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "On A Starry Night (REVIBE Vol.3)",
-        "url": "https://open.spotify.com/album/3J2AhRHfqSOMwp6YYloJxC"
-      },
-      "artists": [
-        {
-          "name": "KYUHYUN",
-          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
-        }
-      ],
-      "duration_ms": 272573,
-      "name": "On A Starry Night",
-      "url": "https://open.spotify.com/track/7wWPy7xxl4lBpuGSIUzt0h"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Hate Everything",
-        "url": "https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 205759,
-      "name": "Hate Everything - Korean Version",
-      "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "How could you",
-        "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG HWAN",
-          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
-        },
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 251240,
-      "name": "How could you",
-      "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Looking at the Photo (REVIBE Vol.2)",
-        "url": "https://open.spotify.com/album/25JKB4F13k0KyACimQx081"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 279026,
-      "name": "Looking at the Photo",
-      "url": "https://open.spotify.com/track/05vg8sTPGNYv7uKYbVU4e3"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Come & Talk",
-        "url": "https://open.spotify.com/album/5mXhZgl7vv33urDUc7dujJ"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 211386,
-      "name": "Come & Talk",
-      "url": "https://open.spotify.com/track/3uBqqwDtAq2ps9ctayHa3n"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Words From The Wind",
-        "url": "https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB"
-      },
-      "artists": [
-        {
-          "name": "Forestella",
-          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
-        }
-      ],
-      "duration_ms": 238426,
-      "name": "Words From The Wind",
-      "url": "https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Fixed On You (new.MAKE20 #10)",
-        "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
-      },
-      "artists": [
-        {
-          "name": "Kim Bum Soo",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 263640,
-      "name": "Fixed On You",
-      "url": "https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI"
+      "duration_ms": 160306,
+      "name": "Gloomy Sunday",
+      "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -711,38 +583,18 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Sun And Moon Part.1",
-        "url": "https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq"
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
       },
       "artists": [
         {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 301059,
-      "name": "Sun And Moon",
-      "url": "https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Jelly box Flower Way (Prod. By ZICO) SEJEONG",
-        "url": "https://open.spotify.com/album/1dakUeYDjlm2TQwzbLrln1"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 239122,
-      "name": "Flower Way (Prod. By ZICO)",
-      "url": "https://open.spotify.com/track/0ESGvKJoja4msEeDhOMDD8"
+      "duration_ms": 228615,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -763,150 +615,118 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Empty words",
-        "url": "https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU"
+        "name": "Sun And Moon Part.1",
+        "url": "https://open.spotify.com/album/6V4LB5p32MXvwWkpBMufTq"
       },
       "artists": [
         {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
         }
       ],
-      "duration_ms": 252144,
-      "name": "Empty words",
-      "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
+      "duration_ms": 301059,
+      "name": "Sun And Moon",
+      "url": "https://open.spotify.com/track/0IHgyl0zAHIj7kpm4YKKv3"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/7yDjc5x9LlccQIxNgDnqi6"
+        "name": "Happy Ending",
+        "url": "https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p"
       },
       "artists": [
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/1frranq2uyiOn5RObEG9g9"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Ballad 21 F/W",
-        "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
-      },
-      "artists": [
-        {
-          "name": "2am",
-          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Should\u2032ve known",
-      "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "Not Anyone Else",
-        "url": "https://open.spotify.com/album/60GKYHN9SHL0IdxZhU5uBR"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Not Anyone Else",
-      "url": "https://open.spotify.com/track/4TFjrY1GsVbIUZrNH0OTim"
-    },
-    {
-      "added_at": "2021-12-27 09:49:11",
-      "album": {
-        "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon) - Single",
-        "url": "https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
         },
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Ban Gwang Ok",
+          "url": "https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS"
+        },
+        {
+          "name": "Jeon Sang Keun",
+          "url": "https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd"
+        },
+        {
+          "name": "Jung Young Eun",
+          "url": "https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf"
+        },
+        {
+          "name": "Leeraon",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
         }
       ],
-      "duration_ms": 219106,
-      "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon)",
-      "url": "https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB"
+      "duration_ms": 260597,
+      "name": "Happiness (feat. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun)",
+      "url": "https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "180\u02da",
-        "url": "https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6"
+        "name": "RETRO",
+        "url": "https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
         }
       ],
-      "duration_ms": 229187,
-      "name": "180 Degree",
-      "url": "https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB"
+      "duration_ms": 258112,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
+        "name": "Fixed On You (new.MAKE20 #10)",
+        "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
       },
       "artists": [
         {
-          "name": "Jang Jane",
-          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 214346,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i"
+      "duration_ms": 263640,
+      "name": "Fixed On You",
+      "url": "https://open.spotify.com/track/4ySfsrGG2VLMEllTC1QYfI"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
+        "name": "After Summer",
+        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
       },
       "artists": [
         {
-          "name": "Joosiq",
-          "url": "https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh"
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
         }
       ],
-      "duration_ms": 212608,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ"
+      "duration_ms": 195293,
+      "name": "After Summer",
+      "url": "https://open.spotify.com/track/5Po1aAY2C6FWCda85dvza6"
     },
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Stay Here",
-        "url": "https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw"
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
       "artists": [
         {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 228615,
-      "name": "Stay Here",
-      "url": "https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z"
+      "duration_ms": 273680,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -927,6 +747,94 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/6ZLQnQfsxbsdLNff0gz2Qe"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/093PI3mdUvOSlvMYDwnV1e"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Autumn Memories",
+        "url": "https://open.spotify.com/album/1Bv77lq1y1C2nEqpVMy99O"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        },
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Autumn Memories (with Lee Seok Hoon)",
+      "url": "https://open.spotify.com/track/1McWd1iOZjwhof6OA7SpDZ"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Hate Everything",
+        "url": "https://open.spotify.com/album/73Qi78BaJKF8PNd7WuG97d"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 205759,
+      "name": "Hate Everything - Korean Version",
+      "url": "https://open.spotify.com/track/7hXTyDaFuwx9t8b52sf6d3"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Words From The Wind",
+        "url": "https://open.spotify.com/album/3tTot2iuMI0qcBviT62OWB"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "duration_ms": 238426,
+      "name": "Words From The Wind",
+      "url": "https://open.spotify.com/track/1pgLgR2J3uviJoZeyn3ZBQ"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "How could you",
+        "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 251240,
+      "name": "How could you",
+      "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
         "name": "EMPATHY",
         "url": "https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym"
       },
@@ -943,18 +851,50 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "After Summer",
-        "url": "https://open.spotify.com/album/6KZDOJpbSLCEB55txKJDj5"
+        "name": "You&I \uc778\uc0ac",
+        "url": "https://open.spotify.com/album/23NbTefiEEVOUKekR8ocYT"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
         }
       ],
-      "duration_ms": 160306,
-      "name": "Gloomy Sunday",
-      "url": "https://open.spotify.com/track/2mvZNCT457rEgTRvedTiJV"
+      "duration_ms": 221333,
+      "name": "You&I \uc778\uc0ac",
+      "url": "https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Starting Now",
+        "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Starting Now",
+      "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Ballad 21 F/W",
+        "url": "https://open.spotify.com/album/6EggMg9W6wan2o1YadUhAq"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Should\u2032ve known",
+      "url": "https://open.spotify.com/track/4xpx0BlfaTd64yciFWlM4w"
     },
     {
       "added_at": "2021-12-27 09:49:11",
@@ -975,22 +915,86 @@
     {
       "added_at": "2021-12-27 09:49:11",
       "album": {
-        "name": "Way - SM STATION",
-        "url": "https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y"
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
       },
       "artists": [
         {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        },
-        {
-          "name": "Punch",
-          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 238853,
-      "name": "Way",
-      "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        },
+        {
+          "name": "JEON MI DO",
+          "url": "https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX"
+        }
+      ],
+      "duration_ms": 226480,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Love should not be harsh on you",
+        "url": "https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 268984,
+      "name": "Love should not be harsh on you",
+      "url": "https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Back In Time (The Moon during the Day X K.will)",
+        "url": "https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x"
+      },
+      "artists": [
+        {
+          "name": "K.Will",
+          "url": "https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t"
+        }
+      ],
+      "duration_ms": 225120,
+      "name": "Back In Time (The Moon during the Day X K.will)",
+      "url": "https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe"
+    },
+    {
+      "added_at": "2021-12-27 09:49:11",
+      "album": {
+        "name": "Emergency Room (2021)",
+        "url": "https://open.spotify.com/album/2ysDz3rcISkxRnuLjM8gaW"
+      },
+      "artists": [
+        {
+          "name": "Hwang In Wook",
+          "url": "https://open.spotify.com/artist/56U7IcfF1h54ZxOPqjEnjq"
+        }
+      ],
+      "duration_ms": 243986,
+      "name": "Emergency Room - 2021",
+      "url": "https://open.spotify.com/track/3USmrwVK08XzzrIQdYtY1m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm"

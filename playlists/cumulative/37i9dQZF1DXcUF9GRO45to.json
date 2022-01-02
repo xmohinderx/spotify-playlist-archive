@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Empty Rooms",
+        "url": "https://open.spotify.com/album/5iB0BwdGPSTp2HwSPpp3YD"
+      },
+      "artists": [
+        {
+          "name": "Karaba F.C.",
+          "url": "https://open.spotify.com/artist/6ypkB6GRxIVIWu09pFZDhh"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/3XtzpIgrWXYgFZMKvbVjz1"
+    },
+    {
+      "album": {
         "name": "Ai tant Montat",
         "url": "https://open.spotify.com/album/7id7rcEznYebMGIHM8r6xv"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 162039,
       "name": "Ai tant Montat",
       "url": "https://open.spotify.com/track/2tGrjlZ3zkEdr1JQVSl6Xf"
+    },
+    {
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/5nmqdDfR8nkAcuP3pB1kkw"
+      },
+      "artists": [
+        {
+          "name": "Meredith",
+          "url": "https://open.spotify.com/artist/5MxFq3OfLPnd8xUZtJVBFi"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194893,
+      "name": "All Things Well Considered",
+      "url": "https://open.spotify.com/track/3Ha4nVs1j82mNZnkrqwylW"
     },
     {
       "album": {
@@ -131,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Linger Over, Linger On",
+        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
+      },
+      "artists": [
+        {
+          "name": "The Great Divide",
+          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283226,
+      "name": "Anyone, Evermore",
+      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
+    },
+    {
+      "album": {
         "name": "Stained Years",
         "url": "https://open.spotify.com/album/28JKOwKuqVdATYhwnAcnFp"
       },
@@ -160,7 +214,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 257226,
       "name": "Asobi",
       "url": "https://open.spotify.com/track/28trZ8QrOP4Hudaw8jAcFv"
@@ -304,7 +358,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 146988,
       "name": "Choices (Radio Edit)",
       "url": "https://open.spotify.com/track/1q5SLmeZ6yICIMEFgInRLa"
@@ -394,7 +448,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 203026,
       "name": "Damn Cool",
       "url": "https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy"
@@ -412,7 +466,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 243520,
       "name": "Death Sound",
       "url": "https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5"
@@ -484,7 +538,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
@@ -502,7 +556,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 312000,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/3Yl0g8bQ4ZcmFIUmGE3E5N"
@@ -538,7 +592,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232693,
       "name": "Fire Fire",
       "url": "https://open.spotify.com/track/4AtH6aTfjdf8SEVtA7LX30"
@@ -646,7 +700,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 249946,
       "name": "Gold Digger Woman",
       "url": "https://open.spotify.com/track/6NnzPYNCUGzxiNhSdAVWyO"
@@ -736,7 +790,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 407361,
       "name": "High Pride",
       "url": "https://open.spotify.com/track/6GwKtbgJw0pT0un2mHiT0h"
@@ -772,7 +826,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176961,
       "name": "Hush Hush",
       "url": "https://open.spotify.com/track/3L2r7s8P53jfpoVa1fjtNb"
@@ -812,6 +866,24 @@
       "duration_ms": 283440,
       "name": "I See You Dead",
       "url": "https://open.spotify.com/track/4DAlJFTyn1MpQtfy7L5Ikx"
+    },
+    {
+      "album": {
+        "name": "I'm Not Shallow Anymore",
+        "url": "https://open.spotify.com/album/62DebgPW62MyV7uLxjzBuf"
+      },
+      "artists": [
+        {
+          "name": "Hallowed Ground",
+          "url": "https://open.spotify.com/artist/6YqFkQS9wiZXghL4aavRFh"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "I'm Not Shallow Anymore",
+      "url": "https://open.spotify.com/track/7lFoUyqzPBxIYd8ym94z9b"
     },
     {
       "album": {
@@ -1006,7 +1078,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 236542,
       "name": "Lonesome Terror",
       "url": "https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS"
@@ -1024,7 +1096,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 322119,
       "name": "Lust of the Dead",
       "url": "https://open.spotify.com/track/5TE5sZsPuChH5PzVNJ0aBR"
@@ -1060,7 +1132,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 176378,
       "name": "Never Let You Go",
       "url": "https://open.spotify.com/track/0GK8EEqEtmkWk3l0oktBgH"
@@ -1114,7 +1186,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 107456,
       "name": "Pas la peine",
       "url": "https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w"
@@ -1150,7 +1222,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 223421,
       "name": "Peeling the Onion",
       "url": "https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev"
@@ -1168,7 +1240,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 220812,
       "name": "Power Lines",
       "url": "https://open.spotify.com/track/1oHDykzsljPnHszthIcZb5"
@@ -1222,7 +1294,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 278801,
       "name": "R.I.P. in Peace",
       "url": "https://open.spotify.com/track/238vQOEsppkBCz57hy3mag"
@@ -1402,7 +1474,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205386,
       "name": "Sink",
       "url": "https://open.spotify.com/track/0M40TJrYk8d8mdSpEmSIzN"
@@ -1474,7 +1546,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Stay Close To Me",
       "url": "https://open.spotify.com/track/5GoywaDrYsNK1o6JkYuhoa"
@@ -1528,7 +1600,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222627,
       "name": "Survived the Great Flood",
       "url": "https://open.spotify.com/track/3x6uWv7tdpJz4vPS2eqBhg"
@@ -1564,7 +1636,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238947,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
@@ -1618,7 +1690,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 209893,
       "name": "The Midnight Son",
       "url": "https://open.spotify.com/track/5Eb1TzFxX0FvubRiy05E3j"
@@ -1636,7 +1708,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 210315,
       "name": "The Shining of My Soul",
       "url": "https://open.spotify.com/track/6smtkTLehhZSseuFldnIRI"
@@ -1654,7 +1726,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 241812,
       "name": "Tree",
       "url": "https://open.spotify.com/track/38fLg3qA8mtJTuLDmtVc3x"
@@ -1737,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "Postmodern Blue",
+        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
+      },
+      "artists": [
+        {
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170393,
+      "name": "Vulgar",
+      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "album": {
         "name": "Wandering Life",
         "url": "https://open.spotify.com/album/7dDOXyyR3MgSkqoZkW4MdV"
       },
@@ -1748,7 +1838,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 212386,
       "name": "Wandering Life",
       "url": "https://open.spotify.com/track/1yAzT7gBa4nAn8SeUrwj3E"

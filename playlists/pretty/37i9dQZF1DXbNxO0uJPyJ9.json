@@ -1,13 +1,29 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
   "name": "12\" Classics",
-  "num_followers": 534470,
+  "num_followers": 534497,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA3Mzk2MywwMDAwMDAwMGQ3YzYyNGE0YWJiYjdhOTNkNjRiOWRmYTk0MjBmYTJm",
+  "snapshot_id": "MTY0MTA4NDM4MywwMDAwMDAwMGJkZjI4MDE0YTU3OTA5ZjZlNzQ4NWUxYzRmODg1MGNk",
   "tracks": [
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2doOYBckmPG4zdRzvBOofA"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "Big In Japan - Original",
+      "url": "https://open.spotify.com/track/1KtMazpCseJ2TjKPas4d7h"
+    },
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
@@ -23,54 +39,6 @@
       "duration_ms": 451426,
       "name": "Dolce Vita",
       "url": "https://open.spotify.com/track/2mRgBTwCtP7zdtzQWjkSN1"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "12\" 80s Classics",
-        "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 444506,
-      "name": "Relax - New York Mix",
-      "url": "https://open.spotify.com/track/2e0kuhNcdSrwsaQc2lZ8eO"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Never Ending Story",
-        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
-      },
-      "artists": [
-        {
-          "name": "Limahl",
-          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
-        }
-      ],
-      "duration_ms": 320946,
-      "name": "Never Ending Story",
-      "url": "https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "so80s (So Eighties) Volume 4 - Pres. By Blank & Jones",
-        "url": "https://open.spotify.com/album/5KZreTwJZo9nGNoKtHiYXS"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 460000,
-      "name": "Let's Dance",
-      "url": "https://open.spotify.com/track/17UCjtGEwO9FgCjuHyqTW5"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -91,18 +59,82 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2doOYBckmPG4zdRzvBOofA"
+        "name": "so80s (So Eighties) Volume 4 - Pres. By Blank & Jones",
+        "url": "https://open.spotify.com/album/5KZreTwJZo9nGNoKtHiYXS"
       },
       "artists": [
         {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 286160,
-      "name": "Big In Japan - Original",
-      "url": "https://open.spotify.com/track/1KtMazpCseJ2TjKPas4d7h"
+      "duration_ms": 460000,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/17UCjtGEwO9FgCjuHyqTW5"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Never Ending Story",
+        "url": "https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD"
+      },
+      "artists": [
+        {
+          "name": "Limahl",
+          "url": "https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D"
+        }
+      ],
+      "duration_ms": 320946,
+      "name": "Never Ending Story",
+      "url": "https://open.spotify.com/track/2M6q8SznCTMo9XmppUmSJE"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "12\" 80s Classics",
+        "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 444506,
+      "name": "Relax - New York Mix",
+      "url": "https://open.spotify.com/track/2e0kuhNcdSrwsaQc2lZ8eO"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The Very Best Of Kajagoogoo",
+        "url": "https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m"
+      },
+      "artists": [
+        {
+          "name": "Kajagoogoo",
+          "url": "https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl"
+        }
+      ],
+      "duration_ms": 327066,
+      "name": "Too Shy - Extended Version",
+      "url": "https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Reputation & Rarities",
+        "url": "https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 431760,
+      "name": "In Private - 12\" Version",
+      "url": "https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -131,54 +163,6 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Reputation & Rarities",
-        "url": "https://open.spotify.com/album/3FUL7hI1fTm5LXwBpV4T81"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 431760,
-      "name": "In Private - 12\" Version",
-      "url": "https://open.spotify.com/track/0hxJDpEZzyasDeZGMbbhde"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "The Very Best Of Kajagoogoo",
-        "url": "https://open.spotify.com/album/18QlJWuxHQ1IGQ52qf8T1m"
-      },
-      "artists": [
-        {
-          "name": "Kajagoogoo",
-          "url": "https://open.spotify.com/artist/0f3kLT4wvi2mFHlHJgV8Hl"
-        }
-      ],
-      "duration_ms": 327066,
-      "name": "Too Shy - Extended Version",
-      "url": "https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Letter from My Heart",
-        "url": "https://open.spotify.com/album/75NA8Y09ksHqmgOVfKsuoA"
-      },
-      "artists": [
-        {
-          "name": "Steve Allen",
-          "url": "https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS"
-        }
-      ],
-      "duration_ms": 325877,
-      "name": "Letter from My Heart - Original 12\" Version",
-      "url": "https://open.spotify.com/track/2ZUxlAMRYuVLmXJhDKgmRV"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
         "name": "True Blue (Reissue)",
         "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
@@ -199,22 +183,6 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "The Age Of Consent",
-        "url": "https://open.spotify.com/album/76FsX997zHYXNiBVcdWZHG"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/1nz1xzqPN4xYZtR4zgiLxt"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -231,18 +199,34 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "80s: 100 Remixes",
-        "url": "https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s"
+        "name": "Modern Eighties Long Versions",
+        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
       },
       "artists": [
         {
-          "name": "Gazebo",
-          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
+          "name": "Fox the Fox",
+          "url": "https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9"
         }
       ],
-      "duration_ms": 458786,
-      "name": "I Like Chopin - Extended Dance Version",
-      "url": "https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5"
+      "duration_ms": 310080,
+      "name": "Precious Little Diamond - 12\" Mix",
+      "url": "https://open.spotify.com/track/4dDedpTkRp1rekQjfeovwS"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The Age Of Consent",
+        "url": "https://open.spotify.com/album/76FsX997zHYXNiBVcdWZHG"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/1nz1xzqPN4xYZtR4zgiLxt"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -263,6 +247,22 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
+        "name": "Fantastic",
+        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Club Tropicana",
+      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
         "name": "Extended 80s - The Definitive 12\" Collection",
         "url": "https://open.spotify.com/album/0sTwtICqSY31MdIGGwAfJx"
       },
@@ -275,22 +275,6 @@
       "duration_ms": 463493,
       "name": "Lullaby - Extended Mix",
       "url": "https://open.spotify.com/track/6HURSxn73thUTH84NfW2UE"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Introspective",
-        "url": "https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 460800,
-      "name": "Domino Dancing - 2001 Remastered Version",
-      "url": "https://open.spotify.com/track/0OB3ic6dpirm9lJdhbf5Wf"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -311,18 +295,18 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "The History",
-        "url": "https://open.spotify.com/album/7JBktJSLnyraztsdHGhgYD"
+        "name": "DMBX1 (Part 2)",
+        "url": "https://open.spotify.com/album/4aUWNtX9Gl48ylmVTcMK0e"
       },
       "artists": [
         {
-          "name": "M",
-          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 294160,
-      "name": "Pop Muzik - 1989 remix",
-      "url": "https://open.spotify.com/track/0SHbehTzk01RfLDVAVaCtA"
+      "duration_ms": 408026,
+      "name": "Just Can't Get Enough - Schizo Mix",
+      "url": "https://open.spotify.com/track/3AGWJIHSuWQnVkcfwCJxo5"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -343,38 +327,6 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "DMBX1 (Part 2)",
-        "url": "https://open.spotify.com/album/4aUWNtX9Gl48ylmVTcMK0e"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 408026,
-      "name": "Just Can't Get Enough - Schizo Mix",
-      "url": "https://open.spotify.com/track/3AGWJIHSuWQnVkcfwCJxo5"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Dance Vault Remixes",
-        "url": "https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 343333,
-      "name": "I'm So Excited (12\" Extended Mix)",
-      "url": "https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/2doOYBckmPG4zdRzvBOofA"
       },
@@ -387,6 +339,38 @@
       "duration_ms": 285360,
       "name": "Sounds Like A Melody",
       "url": "https://open.spotify.com/track/1QJxCwd1WqderUeSsvllft"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The History",
+        "url": "https://open.spotify.com/album/7JBktJSLnyraztsdHGhgYD"
+      },
+      "artists": [
+        {
+          "name": "M",
+          "url": "https://open.spotify.com/artist/4ZYjW9vY2BTk1er3xomkwI"
+        }
+      ],
+      "duration_ms": 294160,
+      "name": "Pop Muzik - 1989 remix",
+      "url": "https://open.spotify.com/track/0SHbehTzk01RfLDVAVaCtA"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Letter from My Heart",
+        "url": "https://open.spotify.com/album/75NA8Y09ksHqmgOVfKsuoA"
+      },
+      "artists": [
+        {
+          "name": "Steve Allen",
+          "url": "https://open.spotify.com/artist/2RsnV5tqDGDBOooPbpSVdS"
+        }
+      ],
+      "duration_ms": 325877,
+      "name": "Letter from My Heart - Original 12\" Version",
+      "url": "https://open.spotify.com/track/2ZUxlAMRYuVLmXJhDKgmRV"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -407,18 +391,18 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Fantastic",
-        "url": "https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR"
+        "name": "80s: 100 Remixes",
+        "url": "https://open.spotify.com/album/3goHSkdSCMhZQPe2zH8x0s"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+          "name": "Gazebo",
+          "url": "https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1"
         }
       ],
-      "duration_ms": 265600,
-      "name": "Club Tropicana",
-      "url": "https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji"
+      "duration_ms": 458786,
+      "name": "I Like Chopin - Extended Dance Version",
+      "url": "https://open.spotify.com/track/3M5cHUiZQy9oIPtNDxBVB5"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -439,18 +423,66 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Fran\u00e7ois",
-        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+        "name": "Violator",
+        "url": "https://open.spotify.com/album/1v6DV6Bt0kDsX1Vd1f7CEe"
       },
       "artists": [
         {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 403586,
-      "name": "Voyage voyage - Maxi",
-      "url": "https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt"
+      "duration_ms": 372813,
+      "name": "Enjoy The Silence - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/3enkvSCLKtGCCXfRyEK9Fl"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Reload! Frankie: The Whole 12 Inches",
+        "url": "https://open.spotify.com/album/7bfpkbku6m1cMU4UPQAggE"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 476466,
+      "name": "Two Tribes (Carnage Mix)",
+      "url": "https://open.spotify.com/track/1KoL3cW4vnCEF6paWaveeH"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Bad Girls [Deluxe Edition (US Version)]",
+        "url": "https://open.spotify.com/album/34qkfc2enZLwUhnrUGLLjb"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 495186,
+      "name": "I Feel Love - 12\" Version",
+      "url": "https://open.spotify.com/track/2d6qTH3HKGwn75lpRtaEA1"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Dance Vault Remixes",
+        "url": "https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 343333,
+      "name": "I'm So Excited (12\" Extended Mix)",
+      "url": "https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -487,24 +519,8 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Modern Eighties Long Versions",
-        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
-      },
-      "artists": [
-        {
-          "name": "Fox the Fox",
-          "url": "https://open.spotify.com/artist/7fcUoP9P3QEP2m8jdQWTh9"
-        }
-      ],
-      "duration_ms": 310080,
-      "name": "Precious Little Diamond - 12\" Mix",
-      "url": "https://open.spotify.com/track/4dDedpTkRp1rekQjfeovwS"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Reload! Frankie: The Whole 12 Inches",
-        "url": "https://open.spotify.com/album/7bfpkbku6m1cMU4UPQAggE"
+        "name": "Extended 80s - The Definitive 12\" Collection",
+        "url": "https://open.spotify.com/album/0sTwtICqSY31MdIGGwAfJx"
       },
       "artists": [
         {
@@ -512,265 +528,9 @@
           "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
         }
       ],
-      "duration_ms": 476466,
-      "name": "Two Tribes (Carnage Mix)",
-      "url": "https://open.spotify.com/track/1KoL3cW4vnCEF6paWaveeH"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Violator",
-        "url": "https://open.spotify.com/album/1v6DV6Bt0kDsX1Vd1f7CEe"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 372813,
-      "name": "Enjoy The Silence - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/3enkvSCLKtGCCXfRyEK9Fl"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "so80s (So Eighties) - Pres. By Blank & Jones",
-        "url": "https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5"
-      },
-      "artists": [
-        {
-          "name": "Baltimora",
-          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
-        }
-      ],
-      "duration_ms": 372001,
-      "name": "Tarzan Boy",
-      "url": "https://open.spotify.com/track/7Jdho08Mesu8UmheGNICJ6"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Baker Street",
-        "url": "https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW"
-      },
-      "artists": [
-        {
-          "name": "Undercover",
-          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
-        }
-      ],
-      "duration_ms": 311866,
-      "name": "Baker Street - Extended Mix",
-      "url": "https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Bad Girls [Deluxe Edition (US Version)]",
-        "url": "https://open.spotify.com/album/34qkfc2enZLwUhnrUGLLjb"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 495186,
-      "name": "I Feel Love - 12\" Version",
-      "url": "https://open.spotify.com/track/2d6qTH3HKGwn75lpRtaEA1"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Hunting High and Low (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 505093,
-      "name": "The Sun Always Shines on T.V. - Extended Version",
-      "url": "https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Remixed (2003 Remaster)",
-        "url": "https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 421026,
-      "name": "Such a Shame - Extended Mix; 2003 Remaster",
-      "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Good Vibes - The Very Best of Laid Back",
-        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
-      },
-      "artists": [
-        {
-          "name": "Laid Back",
-          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
-        }
-      ],
-      "duration_ms": 281813,
-      "name": "Bakerman",
-      "url": "https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/2KjyrYoMNwesyJzAbnnAw5"
-      },
-      "artists": [
-        {
-          "name": "Heaven 17",
-          "url": "https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/4ziSTCq8ykRUsdF0DADYps"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Modern Eighties Long Versions",
-        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
-      },
-      "artists": [
-        {
-          "name": "My Mine",
-          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
-        }
-      ],
-      "duration_ms": 369266,
-      "name": "Hypnotic Tango - Original 12\" Version",
-      "url": "https://open.spotify.com/track/22Nr8FO0EFLbMSCpBoYBl6"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Human Racing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/73s7f6K2K8u5GyKUQu6lhY"
-      },
-      "artists": [
-        {
-          "name": "Nik Kershaw",
-          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "Wouldn't It Be Good - Extended 12\" Remix",
-      "url": "https://open.spotify.com/track/4Higw00SKb2QInfrWsExET"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Aneka",
-        "url": "https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0"
-      },
-      "artists": [
-        {
-          "name": "Aneka",
-          "url": "https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy"
-        }
-      ],
-      "duration_ms": 237988,
-      "name": "Japanese Boy",
-      "url": "https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "True Blue (Reissue)",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "80s 12'' Party",
-        "url": "https://open.spotify.com/album/3lYh9EYOXTV2JxmpQ0nhV2"
-      },
-      "artists": [
-        {
-          "name": "Paul Hardcastle",
-          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
-        }
-      ],
-      "duration_ms": 428666,
-      "name": "19 - Destruction Mix",
-      "url": "https://open.spotify.com/track/3BEgqRTBWUNhiADZp2oBf4"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Goldmine: The Best Of The Pointer Sisters",
-        "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
-      },
-      "artists": [
-        {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-        }
-      ],
-      "duration_ms": 384626,
-      "name": "Jump (For My Love) - 12\" Long Version",
-      "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Communards",
-        "url": "https://open.spotify.com/album/1tLHfZGM9lKYjxYAYm45vT"
-      },
-      "artists": [
-        {
-          "name": "The Communards",
-          "url": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
-        }
-      ],
-      "duration_ms": 1369240,
-      "name": "Don't Leave Me This Way - 12\" Mega Mixes",
-      "url": "https://open.spotify.com/track/5KmMQZib9nhxtQftu4SnOB"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "DMBX2 (Part 1)",
-        "url": "https://open.spotify.com/album/4cIjIegfCCHgm0ojRz8RAr"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 441200,
-      "name": "Everything Counts (In Larger Amounts)",
-      "url": "https://open.spotify.com/track/1HsP7cSDdA02sIxKCOJ4zG"
+      "duration_ms": 309280,
+      "name": "Welcome to the Pleasuredome - Escape Act Video Mix",
+      "url": "https://open.spotify.com/track/023kVtcAbapTmnF6y02gua"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -791,6 +551,166 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
+        "name": "Baker Street",
+        "url": "https://open.spotify.com/album/719HzJ5wKCbFb5KeU96DhW"
+      },
+      "artists": [
+        {
+          "name": "Undercover",
+          "url": "https://open.spotify.com/artist/5EQMhqNfNmnIIAgwQX1WZ7"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Baker Street - Extended Mix",
+      "url": "https://open.spotify.com/track/5zQ0hhBlYb23q2XAP6Br70"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "DMBX2 (Part 1)",
+        "url": "https://open.spotify.com/album/4cIjIegfCCHgm0ojRz8RAr"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 441200,
+      "name": "Everything Counts (In Larger Amounts)",
+      "url": "https://open.spotify.com/track/1HsP7cSDdA02sIxKCOJ4zG"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Extended Dancefloor",
+        "url": "https://open.spotify.com/album/5ClYDP3cMxc3Li2OG8mYnJ"
+      },
+      "artists": [
+        {
+          "name": "Imagination",
+          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
+        }
+      ],
+      "duration_ms": 324653,
+      "name": "Music And Lights - Extended Version",
+      "url": "https://open.spotify.com/track/5Ixg4mWzXK7wPkcC9rDTzf"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Aneka",
+        "url": "https://open.spotify.com/album/6lEiLRQ83Fqmk9QstZIOW0"
+      },
+      "artists": [
+        {
+          "name": "Aneka",
+          "url": "https://open.spotify.com/artist/2IGQyVitQXADoOSROGLNJy"
+        }
+      ],
+      "duration_ms": 237988,
+      "name": "Japanese Boy",
+      "url": "https://open.spotify.com/track/4VmmNHz5nigftA0B3GR0M5"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Remixed (2003 Remaster)",
+        "url": "https://open.spotify.com/album/4A3cOTzJ1bcoKgOnXE1TU4"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 421026,
+      "name": "Such a Shame - Extended Mix; 2003 Remaster",
+      "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Modern Eighties Long Versions",
+        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
+      },
+      "artists": [
+        {
+          "name": "My Mine",
+          "url": "https://open.spotify.com/artist/6RJSLoaPbwMo58MnK83v8o"
+        }
+      ],
+      "duration_ms": 369266,
+      "name": "Hypnotic Tango - Original 12\" Version",
+      "url": "https://open.spotify.com/track/22Nr8FO0EFLbMSCpBoYBl6"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "C'est la ouate",
+        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loeb",
+          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
+        }
+      ],
+      "duration_ms": 363760,
+      "name": "C'est la ouate - Extended Version",
+      "url": "https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/2KjyrYoMNwesyJzAbnnAw5"
+      },
+      "artists": [
+        {
+          "name": "Heaven 17",
+          "url": "https://open.spotify.com/artist/5PYuBRQMHh7nWmdV076sH9"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/4ziSTCq8ykRUsdF0DADYps"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The Best of",
+        "url": "https://open.spotify.com/album/46yIgCncZnDixOKtdvFs8J"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 434773,
+      "name": "Happy Station - Original 12''",
+      "url": "https://open.spotify.com/track/52IqKAPRF1R5EvwHucCrU7"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Good Vibes - The Very Best of Laid Back",
+        "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
+      },
+      "artists": [
+        {
+          "name": "Laid Back",
+          "url": "https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX"
+        }
+      ],
+      "duration_ms": 281813,
+      "name": "Bakerman",
+      "url": "https://open.spotify.com/track/6AxqU1NcIvnBC3W62TSk3n"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
       },
@@ -807,18 +727,18 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "The Very Best Of Johnny Hates Jazz",
-        "url": "https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB"
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
       },
       "artists": [
         {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
         }
       ],
-      "duration_ms": 312333,
-      "name": "Shattered Dreams - 12'' Extended Mix",
-      "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
+      "duration_ms": 403586,
+      "name": "Voyage voyage - Maxi",
+      "url": "https://open.spotify.com/track/1i8isuRSQWFX9qKnaI5hrt"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -843,50 +763,218 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "The 12\" Album",
-        "url": "https://open.spotify.com/album/4Ix2UjgjjXwOWnBFopkKkb"
+        "name": "Introspective",
+        "url": "https://open.spotify.com/album/3LSFOygcqME1JSV0Pr5VtA"
       },
       "artists": [
         {
-          "name": "Howard Jones",
-          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
         }
       ],
-      "duration_ms": 396093,
-      "name": "What Is Love? [Extended Mix]",
-      "url": "https://open.spotify.com/track/76ubLHclAKDHQUwcuQRrkj"
+      "duration_ms": 460800,
+      "name": "Domino Dancing - 2001 Remastered Version",
+      "url": "https://open.spotify.com/track/0OB3ic6dpirm9lJdhbf5Wf"
     },
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Extended 80s - The Definitive 12\" Collection",
-        "url": "https://open.spotify.com/album/0sTwtICqSY31MdIGGwAfJx"
+        "name": "Human Racing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/73s7f6K2K8u5GyKUQu6lhY"
       },
       "artists": [
         {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
         }
       ],
-      "duration_ms": 309280,
-      "name": "Welcome to the Pleasuredome - Escape Act Video Mix",
-      "url": "https://open.spotify.com/track/023kVtcAbapTmnF6y02gua"
+      "duration_ms": 411000,
+      "name": "Wouldn't It Be Good - Extended 12\" Remix",
+      "url": "https://open.spotify.com/track/4Higw00SKb2QInfrWsExET"
     },
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "The Best of",
-        "url": "https://open.spotify.com/album/46yIgCncZnDixOKtdvFs8J"
+        "name": "The Very Best Of Jimmy Somerville, Bronski Beat And The Communards",
+        "url": "https://open.spotify.com/album/6WiIzEOMOeXuQIExBXcxKz"
       },
       "artists": [
         {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
         }
       ],
-      "duration_ms": 434773,
-      "name": "Happy Station - Original 12''",
-      "url": "https://open.spotify.com/track/52IqKAPRF1R5EvwHucCrU7"
+      "duration_ms": 348466,
+      "name": "I Feel Love /Johnny Remember Me",
+      "url": "https://open.spotify.com/track/6RXoP81io4PDxQx81so7Xs"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Hunting High and Low (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CpGnl4MhdAMDqPQadQrWj"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 505093,
+      "name": "The Sun Always Shines on T.V. - Extended Version",
+      "url": "https://open.spotify.com/track/1naErYuUEfrmNcwn2EQWBU"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Absolute Hits 2011",
+        "url": "https://open.spotify.com/album/22Xf833kS0A1sj56UGBN6X"
+      },
+      "artists": [
+        {
+          "name": "Hot Chocolate",
+          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
+        },
+        {
+          "name": "Ben Liebrand",
+          "url": "https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "You Sexy Thing - Remix",
+      "url": "https://open.spotify.com/track/0yIX2IepFAoSPbS8gk0jpY"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "so80s (So Eighties) - Pres. By Blank & Jones",
+        "url": "https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5"
+      },
+      "artists": [
+        {
+          "name": "Baltimora",
+          "url": "https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG"
+        }
+      ],
+      "duration_ms": 372001,
+      "name": "Tarzan Boy",
+      "url": "https://open.spotify.com/track/7Jdho08Mesu8UmheGNICJ6"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "80s 12'' Party",
+        "url": "https://open.spotify.com/album/3lYh9EYOXTV2JxmpQ0nhV2"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 428666,
+      "name": "19 - Destruction Mix",
+      "url": "https://open.spotify.com/track/3BEgqRTBWUNhiADZp2oBf4"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Communards",
+        "url": "https://open.spotify.com/album/1tLHfZGM9lKYjxYAYm45vT"
+      },
+      "artists": [
+        {
+          "name": "The Communards",
+          "url": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
+        }
+      ],
+      "duration_ms": 1369240,
+      "name": "Don't Leave Me This Way - 12\" Mega Mixes",
+      "url": "https://open.spotify.com/track/5KmMQZib9nhxtQftu4SnOB"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The Twelve Inch Mixes",
+        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 365160,
+      "name": "True",
+      "url": "https://open.spotify.com/track/4q2lRiodoQnyFO65watkse"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Original Hits - 80s 12''",
+        "url": "https://open.spotify.com/album/0hJxbR0OF38xO0qyYlOAV1"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        },
+        {
+          "name": "Tim Friese-Greene",
+          "url": "https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi"
+        }
+      ],
+      "duration_ms": 419226,
+      "name": "Life's What You Make It - Extended Mix",
+      "url": "https://open.spotify.com/track/3YmfUx9TzkLsbyUaoSqnTX"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Open Book - The Best Of...",
+        "url": "https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN"
+      },
+      "artists": [
+        {
+          "name": "Cock Robin",
+          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Thought You Were On My Side - Extended Remix/European",
+      "url": "https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/7rsyTubfxdtX7lWCVmmBVy"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 358626,
+      "name": "Maneater - Extended Club Mix",
+      "url": "https://open.spotify.com/track/1kTH8Ok1XWldpvIuzrCHFg"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Falco - The Sound Of Musik",
+        "url": "https://open.spotify.com/album/1R5n97h4zI1mb8TPYKmY4A"
+      },
+      "artists": [
+        {
+          "name": "Falco",
+          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
+        }
+      ],
+      "duration_ms": 349880,
+      "name": "Rock Me Amadeus - 12\" American Edit",
+      "url": "https://open.spotify.com/track/4cf3G0u7zyEu2dhRDFsunY"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -903,6 +991,22 @@
       "duration_ms": 401813,
       "name": "Every 1's a Winner - 12\" Version",
       "url": "https://open.spotify.com/track/6Y47nQx3KqO6F1nLdfedio"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Best Remixes",
+        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 427480,
+      "name": "Blue Monday ('88) - 12\" Version",
+      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -932,38 +1036,6 @@
       },
       "artists": [
         {
-          "name": "Sandra",
-          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
-        }
-      ],
-      "duration_ms": 421107,
-      "name": "Maria Magdalena - Extended Version",
-      "url": "https://open.spotify.com/track/0VOOUPTrEkcQrSXP9yUjtC"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Suddenly (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 488146,
-      "name": "Loverboy - Extended Mix",
-      "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "so80s (So Eighties) - Pres. By Blank & Jones",
-        "url": "https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5"
-      },
-      "artists": [
-        {
           "name": "Talk Talk",
           "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
         }
@@ -975,298 +1047,18 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+        "name": "The Very Best Of Johnny Hates Jazz",
+        "url": "https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
         }
       ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Best Remixes",
-        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 427480,
-      "name": "Blue Monday ('88) - 12\" Version",
-      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Absolute Hits 2011",
-        "url": "https://open.spotify.com/album/22Xf833kS0A1sj56UGBN6X"
-      },
-      "artists": [
-        {
-          "name": "Hot Chocolate",
-          "url": "https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi"
-        },
-        {
-          "name": "Ben Liebrand",
-          "url": "https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "You Sexy Thing - Remix",
-      "url": "https://open.spotify.com/track/0yIX2IepFAoSPbS8gk0jpY"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "C'est la ouate",
-        "url": "https://open.spotify.com/album/3yiq55M0qGXWFzv56C8cXb"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loeb",
-          "url": "https://open.spotify.com/artist/4zYAaouXzmn3A6XTC2Uqlm"
-        }
-      ],
-      "duration_ms": 363760,
-      "name": "C'est la ouate - Extended Version",
-      "url": "https://open.spotify.com/track/1NzowVFBeKuGBEO3tGY6Jj"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Hot Girls, Bad Boys",
-        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 321840,
-      "name": "You're a Woman",
-      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "The Very Best Of Jimmy Somerville, Bronski Beat And The Communards",
-        "url": "https://open.spotify.com/album/6WiIzEOMOeXuQIExBXcxKz"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 348466,
-      "name": "I Feel Love /Johnny Remember Me",
-      "url": "https://open.spotify.com/track/6RXoP81io4PDxQx81so7Xs"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "That's The Way I Like It: The Best of Dead Or Alive",
-        "url": "https://open.spotify.com/album/1FhVoVBXXXJuZr3GwdOgPS"
-      },
-      "artists": [
-        {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
-        }
-      ],
-      "duration_ms": 481013,
-      "name": "You Spin Me Round (Like a Record) - Murder Mix",
-      "url": "https://open.spotify.com/track/6gIBeNdhyrT2nt1zEILoxc"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Extended Dancefloor",
-        "url": "https://open.spotify.com/album/5ClYDP3cMxc3Li2OG8mYnJ"
-      },
-      "artists": [
-        {
-          "name": "Imagination",
-          "url": "https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m"
-        }
-      ],
-      "duration_ms": 324653,
-      "name": "Music And Lights - Extended Version",
-      "url": "https://open.spotify.com/track/5Ixg4mWzXK7wPkcC9rDTzf"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Falco - The Sound Of Musik",
-        "url": "https://open.spotify.com/album/1R5n97h4zI1mb8TPYKmY4A"
-      },
-      "artists": [
-        {
-          "name": "Falco",
-          "url": "https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW"
-        }
-      ],
-      "duration_ms": 349880,
-      "name": "Rock Me Amadeus - 12\" American Edit",
-      "url": "https://open.spotify.com/track/4cf3G0u7zyEu2dhRDFsunY"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Open Book - The Best Of...",
-        "url": "https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN"
-      },
-      "artists": [
-        {
-          "name": "Cock Robin",
-          "url": "https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Thought You Were On My Side - Extended Remix/European",
-      "url": "https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Only Yazoo - The Best of Yazoo",
-        "url": "https://open.spotify.com/album/4Vxu0Y9hYrveIxzUrhxOae"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 346626,
-      "name": "Situation (US 12 Inch Mix)",
-      "url": "https://open.spotify.com/track/3Ac5PgwByH0Ptr3hnqbKAz"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "The Twelve Inch Singles",
-        "url": "https://open.spotify.com/album/5zeGFTKlts1ViWGK5dszcX"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 536706,
-      "name": "Say Hello, Wave Goodbye - Extended Version",
-      "url": "https://open.spotify.com/track/65VecWWPnXspZRuy7Bafz3"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Original Hits - 80s 12''",
-        "url": "https://open.spotify.com/album/0hJxbR0OF38xO0qyYlOAV1"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        },
-        {
-          "name": "Tim Friese-Greene",
-          "url": "https://open.spotify.com/artist/7Dx9xrykZrUZd5aemucBMi"
-        }
-      ],
-      "duration_ms": 419226,
-      "name": "Life's What You Make It - Extended Mix",
-      "url": "https://open.spotify.com/track/3YmfUx9TzkLsbyUaoSqnTX"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "The 12\" Collection And More (Funk Essentials)",
-        "url": "https://open.spotify.com/album/3ASTpe9dseash20mpsDaz7"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/7Emp1GkTzF4Uj1Ov9afqDl"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "The Singles 81-85",
-        "url": "https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 394306,
-      "name": "The Reflex - Dance Mix",
-      "url": "https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "The Twelve Inch Mixes",
-        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 365160,
-      "name": "True",
-      "url": "https://open.spotify.com/track/4q2lRiodoQnyFO65watkse"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Like A Prayer (30th Anniversary)",
-        "url": "https://open.spotify.com/album/1eiHWJu6JPiYDFFrE1rwhq"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 472899,
-      "name": "Like a Prayer - 12\" Dance Mix",
-      "url": "https://open.spotify.com/track/3KqZm6zInkBONIaiLEfqXL"
-    },
-    {
-      "added_at": "2021-12-22 06:47:11",
-      "album": {
-        "name": "Modern Eighties Long Versions",
-        "url": "https://open.spotify.com/album/7yWfnNEsghWveiVUC1Qo3m"
-      },
-      "artists": [
-        {
-          "name": "Eighth Wonder",
-          "url": "https://open.spotify.com/artist/67drSMarzjhEXxEJ2ATLfE"
-        }
-      ],
-      "duration_ms": 479160,
-      "name": "I'm Not Scared - Disco Mix",
-      "url": "https://open.spotify.com/track/2oFfNhQSR912YuzeGn24GQ"
+      "duration_ms": 312333,
+      "name": "Shattered Dreams - 12'' Extended Mix",
+      "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
     },
     {
       "added_at": "2021-12-22 06:47:11",
@@ -1287,6 +1079,38 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Forever Young - Best of The 80's",
+        "url": "https://open.spotify.com/album/1cdWbTN6ri5Ynjb0Lvqf7x"
+      },
+      "artists": [
+        {
+          "name": "Ultravox",
+          "url": "https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Vienna - 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/4a8FQmchPNHwrVTSRQVXtw"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
         "name": "Raspberry Beret",
         "url": "https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx"
       },
@@ -1303,6 +1127,70 @@
     {
       "added_at": "2021-12-22 06:47:11",
       "album": {
+        "name": "The Twelve Inch Singles",
+        "url": "https://open.spotify.com/album/5zeGFTKlts1ViWGK5dszcX"
+      },
+      "artists": [
+        {
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+        }
+      ],
+      "duration_ms": 536706,
+      "name": "Say Hello, Wave Goodbye - Extended Version",
+      "url": "https://open.spotify.com/track/65VecWWPnXspZRuy7Bafz3"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Goldmine: The Best Of The Pointer Sisters",
+        "url": "https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 384626,
+      "name": "Jump (For My Love) - 12\" Long Version",
+      "url": "https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "45 RPM - The Singles Of The The",
+        "url": "https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa"
+      },
+      "artists": [
+        {
+          "name": "The The",
+          "url": "https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce"
+        }
+      ],
+      "duration_ms": 599400,
+      "name": "Uncertain Smile - 12\" Remix",
+      "url": "https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "90125 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 422693,
+      "name": "Owner of a Lonely Heart - Extended Remix",
+      "url": "https://open.spotify.com/track/65oXAEPde2ARDKkg9A13gZ"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
         "name": "In Your Room",
         "url": "https://open.spotify.com/album/4lgxP2ClCUl2jPfc74T9Wn"
       },
@@ -1315,6 +1203,118 @@
       "duration_ms": 246960,
       "name": "Don't Go (Remix) [2008 - Remaster]",
       "url": "https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Hot Girls, Bad Boys",
+        "url": "https://open.spotify.com/album/20Al9Br3ICD73ni3WuhA9Y"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 321840,
+      "name": "You're a Woman",
+      "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The 12\" Collection And More (Funk Essentials)",
+        "url": "https://open.spotify.com/album/3ASTpe9dseash20mpsDaz7"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/7Emp1GkTzF4Uj1Ov9afqDl"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "so80s (So Eighties) - Pres. By Blank & Jones",
+        "url": "https://open.spotify.com/album/1jLj9PKgewe9nDTQDF4AL5"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        }
+      ],
+      "duration_ms": 421107,
+      "name": "Maria Magdalena - Extended Version",
+      "url": "https://open.spotify.com/track/0VOOUPTrEkcQrSXP9yUjtC"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Private Dancer (30th Anniversary Issue)",
+        "url": "https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "duration_ms": 341893,
+      "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
+      "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "True Blue (Reissue)",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "The 12\" Album",
+        "url": "https://open.spotify.com/album/4Ix2UjgjjXwOWnBFopkKkb"
+      },
+      "artists": [
+        {
+          "name": "Howard Jones",
+          "url": "https://open.spotify.com/artist/6loBF9iQdE11WSX29fNKqY"
+        }
+      ],
+      "duration_ms": 396093,
+      "name": "What Is Love? [Extended Mix]",
+      "url": "https://open.spotify.com/track/76ubLHclAKDHQUwcuQRrkj"
+    },
+    {
+      "added_at": "2021-12-22 06:47:11",
+      "album": {
+        "name": "Suddenly (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 488146,
+      "name": "Loverboy - Extended Mix",
+      "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbNxO0uJPyJ9"

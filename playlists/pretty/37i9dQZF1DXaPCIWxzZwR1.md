@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop featuring Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 997,613 likes - 97 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,633 likes - 97 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

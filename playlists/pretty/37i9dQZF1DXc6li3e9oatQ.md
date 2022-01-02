@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6li3e9oatQ.md) - [plain]
 
 > Learn Spanish with a collection of audio courses that will take you from beginner lessons to advanced conversations – featuring essential travel phrases and vocabulary!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,602 likes - 459 songs - 2 day 0 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,607 likes - 459 songs - 2 day 0 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

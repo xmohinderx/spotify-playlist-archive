@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 294214,
       "name": "A Dog Named Fletcher",
       "url": "https://open.spotify.com/track/2SqUavFkcpnddrJL3Uqdfy"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 162428,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1hcV6VquM6EeKang31h3Ur"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258000,
       "name": "California (Acoustic)",
       "url": "https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg"
@@ -362,6 +362,42 @@
       "duration_ms": 224066,
       "name": "Colorblind - Acoustic",
       "url": "https://open.spotify.com/track/0Q0ZwpPIBqGFQGQy415wpX"
+    },
+    {
+      "album": {
+        "name": "Joy, Find Me",
+        "url": "https://open.spotify.com/album/00h8jTFXbJR8lBUKTd3r3Z"
+      },
+      "artists": [
+        {
+          "name": "Safe Bet",
+          "url": "https://open.spotify.com/artist/0qzkE4Zz56jh5s2szlGvsm"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176583,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/6inWtMG4JFWO1REhSiVq2Y"
+    },
+    {
+      "album": {
+        "name": "Confident (Redux)",
+        "url": "https://open.spotify.com/album/66PeJxM27UOI8R0O3qxh1t"
+      },
+      "artists": [
+        {
+          "name": "Nightwell",
+          "url": "https://open.spotify.com/artist/24yD6efifoMyvX3srNFHJN"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Confident - Redux",
+      "url": "https://open.spotify.com/track/6wmbStddsBS5vsMm99mhGq"
     },
     {
       "album": {
@@ -556,7 +592,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 199086,
       "name": "Disarm",
       "url": "https://open.spotify.com/track/4fErrMPwWeUCgcOgi1jPEk"
@@ -578,7 +614,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 298000,
       "name": "Down for the Ride",
       "url": "https://open.spotify.com/track/5m4FRZfAgAf5YCN8T7C3rN"
@@ -596,7 +632,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275140,
       "name": "Down Through",
       "url": "https://open.spotify.com/track/0YCwiFdDBzZJ7DtOBhCBfi"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178680,
       "name": "Drown In My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/3SbuveWXg234Hu07dDoAWy"
@@ -704,7 +740,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 277961,
       "name": "End Of A Good Thing",
       "url": "https://open.spotify.com/track/6F6MrtUbHqf7AASOXDMlMp"
@@ -740,7 +776,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202554,
       "name": "England's Dreaming - Acoustic",
       "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
@@ -758,10 +794,28 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 244323,
       "name": "Every Little Thing, but More Chill",
       "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
+    },
+    {
+      "album": {
+        "name": "Eye to Eye (Acoustic)",
+        "url": "https://open.spotify.com/album/4Jq1EYDbNNLY0RUavbpWXy"
+      },
+      "artists": [
+        {
+          "name": "Calmgrove",
+          "url": "https://open.spotify.com/artist/69ijBiV3tPi6K6Us940JLq"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186422,
+      "name": "Eye to Eye - Acoustic",
+      "url": "https://open.spotify.com/track/7eUBwEAnghwTwxPoECjKa0"
     },
     {
       "album": {
@@ -902,7 +956,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 203210,
       "name": "From The Outside - Acoustic",
       "url": "https://open.spotify.com/track/6jnOgu9AWyTGRJCrlrAKzq"
@@ -1036,7 +1090,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185604,
       "name": "How Big Is Your Brain?",
       "url": "https://open.spotify.com/track/0Jeam6MrHArvfYeMubagfZ"
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238228,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/0RScY1H5GhufUdvb65dWoE"
@@ -1108,7 +1162,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 189899,
       "name": "I Love You, I Love You. It's Disgusting",
       "url": "https://open.spotify.com/track/45Y69qZUFNXIzcSdXF8Wl8"
@@ -1335,6 +1389,24 @@
     },
     {
       "album": {
+        "name": "Light On",
+        "url": "https://open.spotify.com/album/0shoi18L4d6jBsFyTs29d2"
+      },
+      "artists": [
+        {
+          "name": "Last Night Saved My Life",
+          "url": "https://open.spotify.com/artist/0AcQzV75nMVCmChGNyGzPH"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/4QeuXQ7LKdRXo5o7C6al6S"
+    },
+    {
+      "album": {
         "name": "Limits",
         "url": "https://open.spotify.com/album/13Kz5MQJaH2Gz74OidluA5"
       },
@@ -1418,7 +1490,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 237714,
       "name": "Losing Sleep",
       "url": "https://open.spotify.com/track/5lJmNEGml8HW0GkMBnfikG"
@@ -1584,7 +1656,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 212181,
       "name": "No Good for Me - Acoustic",
       "url": "https://open.spotify.com/track/3ebtwR7PHES1UwePhIreM5"
@@ -1714,7 +1786,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 240428,
       "name": "Pavement (Acoustic)",
       "url": "https://open.spotify.com/track/7ewuuvaj84vzUKpq8SYwCn"
@@ -1786,7 +1858,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 169930,
       "name": "Playing Fiction (Acoustic)",
       "url": "https://open.spotify.com/track/17PGUJ8kvyyMaRzQKbcWMN"
@@ -1862,7 +1934,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 287459,
       "name": "Screaming Infidelities - Recorded at Electric Lady Studios NYC, 2020",
       "url": "https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi"
@@ -1880,7 +1952,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
@@ -1916,7 +1988,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 203791,
       "name": "Send Help",
       "url": "https://open.spotify.com/track/1cqSgH6m4nrW1xsTtX6OUj"
@@ -1978,7 +2050,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 156010,
       "name": "Smokestack",
       "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
@@ -2032,7 +2104,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
@@ -2122,7 +2194,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 234912,
       "name": "Take My Breath Away",
       "url": "https://open.spotify.com/track/7wtmaB8TOVjItfBcBP59TL"
@@ -2140,7 +2212,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 253493,
       "name": "Take This To Heart - Acoustic",
       "url": "https://open.spotify.com/track/5v4qGjZrHIepDAsLGoYU0r"
@@ -2270,7 +2342,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 290786,
       "name": "Three Cheers for Five Years",
       "url": "https://open.spotify.com/track/2CePJFAdroNJcLT0THVemC"
@@ -2306,7 +2378,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 255102,
       "name": "Tiny Vessels",
       "url": "https://open.spotify.com/track/0lwXjccCJAvS0GGLEky85h"
@@ -2360,7 +2432,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202920,
       "name": "Tracks",
       "url": "https://open.spotify.com/track/1WXq7yfGDqp24hK7q1oFut"
@@ -2432,7 +2504,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195937,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/2qllvKclzdC7rbiow3o6QB"
@@ -2530,7 +2602,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206557,
       "name": "Without My Ring (I Think I Want You)",
       "url": "https://open.spotify.com/track/2nIkWia8VMuHL51ipVFL3P"
@@ -2548,7 +2620,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232840,
       "name": "Wolf In Sheep\u2019s Clothing - Acoustic",
       "url": "https://open.spotify.com/track/7k6wAmfKKU1HY09PO3dbtc"
@@ -2602,7 +2674,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 188093,
       "name": "\u201csometimes you meet the right people at the wrong times\u201d - Revisited",
       "url": "https://open.spotify.com/track/60fAMBBIVvW6mao5zVkzIZ"

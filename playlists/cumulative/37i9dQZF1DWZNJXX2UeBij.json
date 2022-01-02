@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 258800,
       "name": "Baatein Kuch Ankahee Si - Unplugged",
       "url": "https://open.spotify.com/track/4yWEl7boNZlIUQ32enHCsi"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 335832,
       "name": "Bum Bum Bole",
       "url": "https://open.spotify.com/track/5Dq7d6Y2K2CRNFm1bC3I7A"
@@ -484,7 +484,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 433920,
       "name": "Chup Chup Ke",
       "url": "https://open.spotify.com/track/2C6l8EGcbfcLXu0mWfAadB"
@@ -551,6 +551,40 @@
     },
     {
       "album": {
+        "name": "Om Shanti Om",
+        "url": "https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k"
+      },
+      "artists": [
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Rahul Saxena",
+          "url": "https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352388,
+      "name": "Deewangi Deewangi",
+      "url": "https://open.spotify.com/track/7emLx4rVwr0tPyjktu7A7U"
+    },
+    {
+      "album": {
         "name": "Bunty Aur Babli",
         "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
       },
@@ -611,6 +645,28 @@
     },
     {
       "album": {
+        "name": "Om Shanti Om",
+        "url": "https://open.spotify.com/album/2cUzlmLfL5LUTSEk7qG09k"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Abhijeet",
+          "url": "https://open.spotify.com/artist/2ZRrPOjBIWoKK5rHedLijj"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373357,
+      "name": "Dhoom Taana",
+      "url": "https://open.spotify.com/track/4eKWtXoGajnaGKvKAcgc8f"
+    },
+    {
+      "album": {
         "name": "Dil Chahta Hai",
         "url": "https://open.spotify.com/album/3Hks2UVvtQT8Q9VHRAJUgI"
       },
@@ -622,7 +678,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 310080,
       "name": "Dil Chahta Hai",
       "url": "https://open.spotify.com/track/2r1CHpKRDdzHGJScn5UqjX"
@@ -744,6 +800,24 @@
       "duration_ms": 265926,
       "name": "Do Pal",
       "url": "https://open.spotify.com/track/7fyIuR4aaWb6iltlAoSkxF"
+    },
+    {
+      "album": {
+        "name": "Dev D",
+        "url": "https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230249,
+      "name": "Duniya",
+      "url": "https://open.spotify.com/track/3oRUE9SiyDmZT8NX9jueiY"
     },
     {
       "album": {
@@ -882,7 +956,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 250920,
       "name": "Hai Mera Dil",
       "url": "https://open.spotify.com/track/7LAwdDzta1roB9n4GuVpzG"
@@ -926,7 +1000,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 88373,
       "name": "Ik Onkar",
       "url": "https://open.spotify.com/track/4Ko5KYEiZ0rrFiBJKmvMQc"
@@ -1070,7 +1144,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 333093,
       "name": "It's the Time to Disco",
       "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
@@ -1452,7 +1526,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 321240,
       "name": "Kal Ho Naa Ho",
       "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
@@ -1478,6 +1552,32 @@
       "duration_ms": 425413,
       "name": "Kay Sera Sera",
       "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
+    },
+    {
+      "album": {
+        "name": "Rang De Basanti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Nacim",
+          "url": "https://open.spotify.com/artist/7eA1pRq5l8UzL8LpZ5Aeuk"
+        },
+        {
+          "name": "Mohammed Aslam",
+          "url": "https://open.spotify.com/artist/6lGchZePVLrGOqMCtXKNFi"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379226,
+      "name": "Khalbali",
+      "url": "https://open.spotify.com/track/6sXzqMagXtWvSOI9nNc4UD"
     },
     {
       "album": {
@@ -1562,7 +1662,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 319560,
       "name": "Kuch To Hua Hai",
       "url": "https://open.spotify.com/track/0Kd2IhGYGYrOATgOOnDBzI"
@@ -1752,7 +1852,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 245099,
       "name": "Mauja Hi Mauja",
       "url": "https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ"
@@ -1994,7 +2094,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 362762,
       "name": "Nach Baliye",
       "url": "https://open.spotify.com/track/7AJtoJnHV80IMEHgQs6YvU"
@@ -2268,7 +2368,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 408920,
       "name": "Say \"Shava Shava\"",
       "url": "https://open.spotify.com/track/7CdABTaND3EW5cETakiBD3"
@@ -2408,7 +2508,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 369546,
       "name": "Tanhayee",
       "url": "https://open.spotify.com/track/5HXJV5FjXdfUk3UFBTg8Fe"
@@ -2946,7 +3046,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 388106,
       "name": "Yeh Jo Des Hai Tera",
       "url": "https://open.spotify.com/track/65fbHxPPnRGPXaGN3PtpXd"

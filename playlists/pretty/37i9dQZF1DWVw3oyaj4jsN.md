@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw3oyaj4jsN.md) - [plain]
 
 > Meet G\-Dragon, Taeyang, T.O.P, and Daesung—members of the acclaimed K\-Pop phenom with their V.I.Ps
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,133 likes - 47 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,139 likes - 47 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

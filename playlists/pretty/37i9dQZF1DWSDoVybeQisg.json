@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: Jim Morrison \n",
   "name": "Psychedelic Rock",
-  "num_followers": 839460,
+  "num_followers": 839550,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA3MzU0MiwwMDAwMDAwMDNlZDBmYTU2OTMzODViNWZjN2RhY2Q0ODQ2OTIzNDdh",
+  "snapshot_id": "MTY0MTA4MzkyOSwwMDAwMDAwMDY2MzRhOTQ5M2EyNWIwMmYzN2E4M2JmNjk4NmY5NmZi",
   "tracks": [
     {
       "added_at": "2021-11-10 18:08:33",
@@ -43,18 +43,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+        "name": "Wheels Of Fire (Remastered)",
+        "url": "https://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 275866,
-      "name": "I Am The Walrus - Remastered 2009",
-      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
+      "duration_ms": 303200,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/5X76oXHcR5uCXali0gOyX5"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -75,18 +75,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Wheels Of Fire (Remastered)",
-        "url": "https://open.spotify.com/album/4M9csrFM1XVEpwMeYUBRmX"
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 303200,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/5X76oXHcR5uCXali0gOyX5"
+      "duration_ms": 275866,
+      "name": "I Am The Walrus - Remastered 2009",
+      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -175,22 +175,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The First Edition",
-        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
-      },
-      "artists": [
-        {
-          "name": "The First Edition",
-          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Just Dropped In (To See What Condition My Condition Was In)",
-      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "The Dark Side of the Moon",
         "url": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 169534,
       "name": "Breathe (In the Air)",
       "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250413,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -223,6 +223,22 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
+        "name": "The First Edition",
+        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
+      },
+      "artists": [
+        {
+          "name": "The First Edition",
+          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Just Dropped In (To See What Condition My Condition Was In)",
+      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
         "name": "Forever Changes",
         "url": "https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um"
       },
@@ -239,18 +255,34 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5dkntf76VkS2C85Xzjud9E"
+        "name": "Clear Spot",
+        "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Captain Beefheart & His Magic Band",
+          "url": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw"
         }
       ],
-      "duration_ms": 250413,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/4gxtH5mCSqVPTsqGcWKVOC"
+      "duration_ms": 177506,
+      "name": "Her Eyes Are a Blue Million Miles",
+      "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
+        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 171426,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/4BYGxv4rxSNcTgT3DsFB9o"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -303,34 +335,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Experience Hendrix: The Best Of Jimi Hendrix",
-        "url": "https://open.spotify.com/album/2vfiwvlxOBNBohRXfvlMtY"
+        "name": "When You're Strange (Songs From The Motion Picture)",
+        "url": "https://open.spotify.com/album/6gXup4LBaeG6bkuJSznYCI"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/4BYGxv4rxSNcTgT3DsFB9o"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Clear Spot",
-        "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
-      },
-      "artists": [
-        {
-          "name": "Captain Beefheart & His Magic Band",
-          "url": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw"
-        }
-      ],
-      "duration_ms": 177506,
-      "name": "Her Eyes Are a Blue Million Miles",
-      "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+      "duration_ms": 265080,
+      "name": "Five To One",
+      "url": "https://open.spotify.com/track/4IxCudQYUrgPu6qVrwnB5p"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -351,18 +367,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "When You're Strange (Songs From The Motion Picture)",
-        "url": "https://open.spotify.com/album/6gXup4LBaeG6bkuJSznYCI"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 265080,
-      "name": "Five To One",
-      "url": "https://open.spotify.com/track/4IxCudQYUrgPu6qVrwnB5p"
+      "duration_ms": 222293,
+      "name": "Manic Depression",
+      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -399,22 +415,6 @@
       "duration_ms": 312253,
       "name": "Venus In Furs",
       "url": "https://open.spotify.com/track/3x5IM9VEpsFLhkzy9YT2F0"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -467,18 +467,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Axis: Bold As Love",
-        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
         }
       ],
-      "duration_ms": 221826,
-      "name": "One Rainy Wish",
-      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -499,34 +499,34 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Buffalo Springfield Again",
-        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+        "name": "Roger the Engineer",
+        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
       },
       "artists": [
         {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Soul",
-      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
+      "duration_ms": 142506,
+      "name": "Over Under Sideways Down - The Mono Album",
+      "url": "https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X"
     },
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "6 6 6",
-        "url": "https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv"
+        "name": "Axis: Bold As Love",
+        "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
       "artists": [
         {
-          "name": "Aphrodite's Child",
-          "url": "https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 353426,
-      "name": "The Four Horsemen",
-      "url": "https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b"
+      "duration_ms": 221826,
+      "name": "One Rainy Wish",
+      "url": "https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -547,38 +547,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Roger the Engineer",
-        "url": "https://open.spotify.com/album/3s6wTRMDispMa4gCd26FPc"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
-        }
-      ],
-      "duration_ms": 142506,
-      "name": "Over Under Sideways Down - The Mono Album",
-      "url": "https://open.spotify.com/track/07KYQySlrmE94gaLbhvp4X"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Manic Depression",
-      "url": "https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "The Future Starts Here: The Essential Doors Hits",
         "url": "https://open.spotify.com/album/3OIjlStgBVQfGjkiftDAZp"
       },
@@ -591,22 +559,6 @@
       "duration_ms": 390293,
       "name": "The End",
       "url": "https://open.spotify.com/track/2jzjhQa7nLIaDMhMjSzedd"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Light and Heavy/The Best of...",
-        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "In-A-Gadda-Da-Vida - Single Version",
-      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -627,6 +579,70 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
+        "name": "Buffalo Springfield Again",
+        "url": "https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Mr. Soul",
+      "url": "https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "S.F. Sorrow",
+        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 231613,
+      "name": "Private Sorrow",
+      "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "6 6 6",
+        "url": "https://open.spotify.com/album/2lWDphDAlgk8PNdODreJwv"
+      },
+      "artists": [
+        {
+          "name": "Aphrodite's Child",
+          "url": "https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8"
+        }
+      ],
+      "duration_ms": 353426,
+      "name": "The Four Horsemen",
+      "url": "https://open.spotify.com/track/5FgQkEcqMXCqFdcsEx143b"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Light and Heavy/The Best of...",
+        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "In-A-Gadda-Da-Vida - Single Version",
+      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
         "name": "Nights In White Satin Hit Pac",
         "url": "https://open.spotify.com/album/2cYCHa8cPrvU2Vrw4xahof"
       },
@@ -643,30 +659,6 @@
       "duration_ms": 264133,
       "name": "Nights In White Satin - Single Edit",
       "url": "https://open.spotify.com/track/6clw4A52XQ9tLBPHBM8SYG"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Cactology \"The Cactus Collection\"",
-        "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
-      },
-      "artists": [
-        {
-          "name": "Cactus",
-          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
-        },
-        {
-          "name": "Gene Paul",
-          "url": "https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto"
-        },
-        {
-          "name": "Jackson Howe",
-          "url": "https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA"
-        }
-      ],
-      "duration_ms": 195826,
-      "name": "Evil - Single Version",
-      "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -703,102 +695,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The Essentials: Tommy James & The Shondells",
-        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
-      },
-      "artists": [
-        {
-          "name": "Tommy James & The Shondells",
-          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
-        }
-      ],
-      "duration_ms": 208666,
-      "name": "Crimson & Clover - Single Version",
-      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "S.F. Sorrow",
-        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
-        }
-      ],
-      "duration_ms": 231613,
-      "name": "Private Sorrow",
-      "url": "https://open.spotify.com/track/6xTQTYLIbzC0TLoSe2H4ve"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday On My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Forever Changes",
-        "url": "https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "The Red Telephone",
-      "url": "https://open.spotify.com/track/1MCyV705T0Yp2TldCyscGc"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Singles 1965-1967",
-        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 275840,
-      "name": "We Love You - Stereo Version",
-      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Eight Miles High",
-      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Happy Trails",
         "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
       },
@@ -815,18 +711,42 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Psychedelic Rock Essentials",
-        "url": "https://open.spotify.com/album/0q5z7Gin0UZOD5Q66lGCXq"
+        "name": "Cactology \"The Cactus Collection\"",
+        "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
       },
       "artists": [
         {
-          "name": "Fever Tree",
-          "url": "https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc"
+          "name": "Cactus",
+          "url": "https://open.spotify.com/artist/0GLvcqWIueXNjv3212pJAj"
+        },
+        {
+          "name": "Gene Paul",
+          "url": "https://open.spotify.com/artist/1q8e6StM7uuBBH7YWqjVto"
+        },
+        {
+          "name": "Jackson Howe",
+          "url": "https://open.spotify.com/artist/1RJRMqWL8u5u1xSjjWG9tA"
         }
       ],
-      "duration_ms": 242840,
-      "name": "San Francisco Girls (Return Of The Native)",
-      "url": "https://open.spotify.com/track/1eOlByA00fmTaQTMJ9vz1B"
+      "duration_ms": 195826,
+      "name": "Evil - Single Version",
+      "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "The Essentials: Tommy James & The Shondells",
+        "url": "https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy James & The Shondells",
+          "url": "https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Crimson & Clover - Single Version",
+      "url": "https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -847,18 +767,50 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The World Is Yours \u2013 The Anthology 1968-1976",
-        "url": "https://open.spotify.com/album/0GSYLa8YmACMfpBR9ymgzI"
+        "name": "Singles 1965-1967",
+        "url": "https://open.spotify.com/album/2EXY5L6GbdSrRR3mo5Bes5"
       },
       "artists": [
         {
-          "name": "Caravan",
-          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Magic Man - Stereo Version",
-      "url": "https://open.spotify.com/track/1UnKocC4TFivzN9TSDnui6"
+      "duration_ms": 275840,
+      "name": "We Love You - Stereo Version",
+      "url": "https://open.spotify.com/track/7D9zQOnM8fDzNHtI1rondd"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Forever Changes",
+        "url": "https://open.spotify.com/album/6myt0Ez6hGJIPQeZKgY8um"
+      },
+      "artists": [
+        {
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "The Red Telephone",
+      "url": "https://open.spotify.com/track/1MCyV705T0Yp2TldCyscGc"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Psychedelic Rock Essentials",
+        "url": "https://open.spotify.com/album/0q5z7Gin0UZOD5Q66lGCXq"
+      },
+      "artists": [
+        {
+          "name": "Fever Tree",
+          "url": "https://open.spotify.com/artist/4kC1wUAU4QHotWGD2MwAHc"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "San Francisco Girls (Return Of The Native)",
+      "url": "https://open.spotify.com/track/1eOlByA00fmTaQTMJ9vz1B"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -879,24 +831,24 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Electric Music For The Mind And Body",
-        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
       "artists": [
         {
-          "name": "Country Joe & The Fish",
-          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
         }
       ],
-      "duration_ms": 303000,
-      "name": "Bass Strings",
-      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+      "duration_ms": 163293,
+      "name": "Friday On My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
     },
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Incense & Peppermints",
-        "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
       },
       "artists": [
         {
@@ -904,9 +856,9 @@
           "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Incense And Peppermints",
-      "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -927,22 +879,34 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
       },
       "artists": [
         {
-          "name": "Big Brother & The Holding Company",
-          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
-        },
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
         }
       ],
-      "duration_ms": 293040,
-      "name": "I Need a Man to Love",
-      "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
+      "duration_ms": 303000,
+      "name": "Bass Strings",
+      "url": "https://open.spotify.com/track/0MjNwys4xsfX3MoiJUtMfw"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/1MpYGjBsBZm2wW8fvf10OO"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/5v3utF8InHZKd8JZJK5rCx"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -963,18 +927,50 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Back To The Story",
-        "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
+        "name": "The World Is Yours \u2013 The Anthology 1968-1976",
+        "url": "https://open.spotify.com/album/0GSYLa8YmACMfpBR9ymgzI"
       },
       "artists": [
         {
-          "name": "The Idle Race",
-          "url": "https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G"
+          "name": "Caravan",
+          "url": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
         }
       ],
-      "duration_ms": 108626,
-      "name": "Morning Sunshine",
-      "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
+      "duration_ms": 240840,
+      "name": "Magic Man - Stereo Version",
+      "url": "https://open.spotify.com/track/1UnKocC4TFivzN9TSDnui6"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "The Savage Resurrection",
+        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+      },
+      "artists": [
+        {
+          "name": "The Savage Resurrection",
+          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+        }
+      ],
+      "duration_ms": 186560,
+      "name": "Thing in E",
+      "url": "https://open.spotify.com/track/6yUIyHqIrx854Jief095VE"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Wake Up...It's Tomorrow",
+        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Sit With The Guru",
+      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -1011,38 +1007,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "The Savage Resurrection",
-        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
-      },
-      "artists": [
-        {
-          "name": "The Savage Resurrection",
-          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
-        }
-      ],
-      "duration_ms": 186560,
-      "name": "Thing in E",
-      "url": "https://open.spotify.com/track/6yUIyHqIrx854Jief095VE"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Surrealistic Pillow",
         "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
       },
@@ -1059,50 +1023,38 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "S.F. Sorrow",
-        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },
       "artists": [
         {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 221013,
-      "name": "Bracelets Of Fingers",
-      "url": "https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj"
+      "duration_ms": 293040,
+      "name": "I Need a Man to Love",
+      "url": "https://open.spotify.com/track/5Z27tZEeC8WBiQvoDpx1Sw"
     },
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The Essential Byrds",
-        "url": "https://open.spotify.com/album/5TDuE1VngEpSqXue0bMRU1"
+        "name": "Back To The Story",
+        "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
       },
       "artists": [
         {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+          "name": "The Idle Race",
+          "url": "https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G"
         }
       ],
-      "duration_ms": 152453,
-      "name": "5D (Fifth Dimension)",
-      "url": "https://open.spotify.com/track/6QZfj7u76JcewmSARFVUmr"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "\"Os Mutantes\"",
-        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
-      },
-      "artists": [
-        {
-          "name": "Os Mutantes",
-          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
-        }
-      ],
-      "duration_ms": 284986,
-      "name": "A Minha Menina",
-      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
+      "duration_ms": 108626,
+      "name": "Morning Sunshine",
+      "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -1123,6 +1075,54 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
+        "name": "\"Os Mutantes\"",
+        "url": "https://open.spotify.com/album/0RBkIFbQy91qv8Tqja20og"
+      },
+      "artists": [
+        {
+          "name": "Os Mutantes",
+          "url": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+        }
+      ],
+      "duration_ms": 284986,
+      "name": "A Minha Menina",
+      "url": "https://open.spotify.com/track/0lGEWOZvMexZFXckBJxlVO"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Incense & Peppermints",
+        "url": "https://open.spotify.com/album/5hGwwc1svsrzpCUlnP84F5"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "Incense And Peppermints",
+      "url": "https://open.spotify.com/track/20MBLB1TCm3tQK3XZlHXTK"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "The Essential Byrds",
+        "url": "https://open.spotify.com/album/5TDuE1VngEpSqXue0bMRU1"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 152453,
+      "name": "5D (Fifth Dimension)",
+      "url": "https://open.spotify.com/track/6QZfj7u76JcewmSARFVUmr"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
         "name": "Bohemian Vendetta",
         "url": "https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD"
       },
@@ -1139,34 +1139,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
+        "name": "S.F. Sorrow",
+        "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
       },
       "artists": [
         {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 180600,
-      "name": "Mama Roux",
-      "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
+      "duration_ms": 221013,
+      "name": "Bracelets Of Fingers",
+      "url": "https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Clear Light (US Internet Release)",
-        "url": "https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl"
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
       },
       "artists": [
         {
-          "name": "Clear Light",
-          "url": "https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ"
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
         }
       ],
-      "duration_ms": 158506,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog"
+      "duration_ms": 180600,
+      "name": "Mama Roux",
+      "url": "https://open.spotify.com/track/1RMa7sVQua8dMiqixX2bYM"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -1219,18 +1203,34 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Green Tambourine",
-        "url": "https://open.spotify.com/album/4rwwZmYuH2XhZDozHksVQw"
+        "name": "Rainbow Chaser: The 60s Recordings (The Island Years)",
+        "url": "https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN"
       },
       "artists": [
         {
-          "name": "The Lemon Pipers",
-          "url": "https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5"
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC"
         }
       ],
-      "duration_ms": 131133,
-      "name": "Rice Is Nice",
-      "url": "https://open.spotify.com/track/2Lg0cTxmByzQcozvDcayw0"
+      "duration_ms": 158360,
+      "name": "Rainbow Chaser",
+      "url": "https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Clear Light (US Internet Release)",
+        "url": "https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl"
+      },
+      "artists": [
+        {
+          "name": "Clear Light",
+          "url": "https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ"
+        }
+      ],
+      "duration_ms": 158506,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSDoVybeQisg"

@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "AvA",
+        "url": "https://open.spotify.com/album/2tbdf6Acn9D7UFOB10EedD"
+      },
+      "artists": [
+        {
+          "name": "Amy Root",
+          "url": "https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "AvA",
+      "url": "https://open.spotify.com/track/3iCcDV8pYG9m5RnOMLhL2n"
+    },
+    {
+      "album": {
         "name": "Balearic Sea",
         "url": "https://open.spotify.com/album/6xFK1n3vVBXu9ru7pXZotB"
       },
@@ -183,6 +201,24 @@
     },
     {
       "album": {
+        "name": "Bosquemar",
+        "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
+    },
+    {
+      "album": {
         "name": "Burning Out",
         "url": "https://open.spotify.com/album/7iyQSMVIGjqaexRkvNGEqz"
       },
@@ -212,7 +248,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 284800,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/303c3Z3xF0KgPJkqy7U9bK"
@@ -754,7 +790,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 236180,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm"
@@ -965,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "Mindshift",
+        "url": "https://open.spotify.com/album/4HBtmtXSTtn8aiRAPvqsM0"
+      },
+      "artists": [
+        {
+          "name": "Danjo (ITA)",
+          "url": "https://open.spotify.com/artist/1qVflpUkY6jI5M63yU25Ze"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449156,
+      "name": "Mindshift",
+      "url": "https://open.spotify.com/track/5hGnV6EcmkCR5d9NrfIpfk"
+    },
+    {
+      "album": {
         "name": "Neunivai",
         "url": "https://open.spotify.com/album/5ZGmSUDJLrZKYaHj3vvVn2"
       },
@@ -1020,7 +1074,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 322034,
       "name": "No Room - Johannes Klingebiel Remix",
       "url": "https://open.spotify.com/track/4i9ILIeksvaDAYnimKjCw0"
@@ -1082,7 +1136,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 450149,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/55nvfQUAzLMVtRqcMLAv6w"
@@ -1300,7 +1354,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 223873,
       "name": "Sky Is the Limit - Edit",
       "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"

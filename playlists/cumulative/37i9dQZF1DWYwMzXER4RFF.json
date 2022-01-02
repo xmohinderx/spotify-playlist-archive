@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Dada",
+        "url": "https://open.spotify.com/album/1YLqgmVidQ5seIyuBgaI50"
+      },
+      "artists": [
+        {
+          "name": "B Boys",
+          "url": "https://open.spotify.com/artist/5q3Rqu9idb7essQqKJ7SOa"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83326,
+      "name": "B Boys Anthem",
+      "url": "https://open.spotify.com/track/6RCJa37P65U7uCm6oyxY3J"
+    },
+    {
+      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/6Il9jwREmViqtjAXbkprVA"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
@@ -250,7 +268,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 149666,
       "name": "Calling It",
       "url": "https://open.spotify.com/track/1V4GgaXzuPn4lOWtx33crz"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213626,
       "name": "Camel Crew",
       "url": "https://open.spotify.com/track/41CGrgMGCVSpWGZKTKmOLF"
@@ -322,7 +340,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/4Lq00qcqHANbxFUeq2ORCk"
@@ -466,7 +484,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 387000,
       "name": "Cruising",
       "url": "https://open.spotify.com/track/42FoHPbDOZM1qCCCKmEvf2"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 264436,
       "name": "Daily Routine",
       "url": "https://open.spotify.com/track/3w6YBy7b80Q5pjZKBmy3dP"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 156338,
       "name": "Design - Beck Remix",
       "url": "https://open.spotify.com/track/6sA8kdgPdWHERyEWQmyMV6"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 190875,
       "name": "Disposable",
       "url": "https://open.spotify.com/track/7as7JjtXYlzWXkesWJv3wZ"
@@ -1014,7 +1032,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 235400,
       "name": "Head Sport Full Face",
       "url": "https://open.spotify.com/track/5vdG7m9JvJIulc1JoRSQtl"
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
@@ -1338,10 +1356,28 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 217080,
       "name": "Lentil Soup",
       "url": "https://open.spotify.com/track/5GEfgaRwaecTBa8UF8UTgz"
+    },
+    {
+      "album": {
+        "name": "Letter",
+        "url": "https://open.spotify.com/album/35fiLveqLZEkUeKbbtqdge"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197078,
+      "name": "Letter",
+      "url": "https://open.spotify.com/track/0FOtDyR1nTN9vMQs0jVGeU"
     },
     {
       "album": {
@@ -1428,7 +1464,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 153414,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/4r7cKo2Lp5sD6VcK1Gu3r4"
@@ -1464,7 +1500,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 321506,
       "name": "Male Bonding",
       "url": "https://open.spotify.com/track/3Mef8dlql8ngrKhOt7IAoZ"
@@ -1576,7 +1612,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 272500,
       "name": "Narrator - Edit",
       "url": "https://open.spotify.com/track/0kU1dKmPqpSjHBMQ0lU9z1"
@@ -1886,7 +1922,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 305899,
       "name": "Processed By The Boys",
       "url": "https://open.spotify.com/track/5iOgwvHcgvW7EMaMDt79aT"
@@ -1940,7 +1976,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 108444,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/0u2kTKd00Jk9UEbn9CxrYj"
@@ -2088,7 +2124,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 141040,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0vMTSRlRofM60LZmWP04ZC"
@@ -2142,7 +2178,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 252411,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/07cUDeewEa1wMfKHUakxtK"
@@ -2196,7 +2232,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221760,
       "name": "Skeleton Key",
       "url": "https://open.spotify.com/track/4060BrMu5pqQZUUXFvpre1"
@@ -2344,7 +2380,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185080,
       "name": "Stimulus for Living",
       "url": "https://open.spotify.com/track/6ZuhUEBqrXxvsrxAymcwzh"
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 299068,
       "name": "Suntan",
       "url": "https://open.spotify.com/track/3dX7k03fCG9VANcuLDiomu"
@@ -2438,7 +2474,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222840,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/1RESyaoEkLAUmX0NEjMfUS"
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204786,
       "name": "This Heat",
       "url": "https://open.spotify.com/track/5zzfwhoMD6rRct8MTyeAFR"
@@ -2712,7 +2748,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 248408,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/072FXhjdSibK3wSavEBnIc"
@@ -2824,7 +2860,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 182413,
       "name": "Unsmart Lady",
       "url": "https://open.spotify.com/track/1D9OstlmYwAZx1PwJaxEkD"
@@ -2864,6 +2900,24 @@
       "duration_ms": 265879,
       "name": "Wharf (ii)",
       "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+    },
+    {
+      "album": {
+        "name": "If You Could Have It All Again",
+        "url": "https://open.spotify.com/album/3RSVfuDghNNc8LKgqnw7h2"
+      },
+      "artists": [
+        {
+          "name": "Low Island",
+          "url": "https://open.spotify.com/artist/5MCl6mca6ZixPR36dHH9Sd"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225850,
+      "name": "What Do You Stand For",
+      "url": "https://open.spotify.com/track/0C2BL4ZwEl2iQmQ55aIhU7"
     },
     {
       "album": {

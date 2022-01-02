@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 203706,
       "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
       "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 193616,
       "name": "Can't Let You Go (feat. Nick Grant)",
       "url": "https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4"
@@ -920,6 +920,28 @@
       "duration_ms": 249373,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/50iCTSYg5gE5QTKgSvIGe8"
+    },
+    {
+      "album": {
+        "name": "Gently",
+        "url": "https://open.spotify.com/album/5wY1pmBRd3E2M95vGoYUf3"
+      },
+      "artists": [
+        {
+          "name": "KeepVibesNear",
+          "url": "https://open.spotify.com/artist/1DjFYTQJksL0kkw9VABxdU"
+        },
+        {
+          "name": "Evie Golding",
+          "url": "https://open.spotify.com/artist/0lmVQca66IXJR7m7lPn2pL"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248982,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/6PJH0gps7eVqjz3FtSN5pd"
     },
     {
       "album": {
@@ -1630,7 +1652,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 281840,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/71RgnWLv0ktFfH3cvB7XzU"
@@ -1826,7 +1848,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201011,
       "name": "Nobody's Perfect",
       "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
@@ -2131,6 +2153,28 @@
     },
     {
       "album": {
+        "name": "Record Store / Fli Beat Patrol",
+        "url": "https://open.spotify.com/album/1Rc8cyAlVZAVnoGGeosGpL"
+      },
+      "artists": [
+        {
+          "name": "Dragon Fli Empire",
+          "url": "https://open.spotify.com/artist/7pINBiGkyGRA50rqXQmFZd"
+        },
+        {
+          "name": "J-Live",
+          "url": "https://open.spotify.com/artist/5bb5uytW59wDF0gpv8iQbE"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247181,
+      "name": "Record Store (feat. J-Live)",
+      "url": "https://open.spotify.com/track/7zV3SOq5tMOP4z0SiSr6os"
+    },
+    {
+      "album": {
         "name": "Rose Shades",
         "url": "https://open.spotify.com/album/598dvuuWlbz0MxXz30LPtK"
       },
@@ -2142,7 +2186,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214173,
       "name": "Rose Shades",
       "url": "https://open.spotify.com/track/6rqqMyBXYEOZCPiH2vuptp"
@@ -2342,7 +2386,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 154837,
       "name": "Street Jazz",
       "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
@@ -2398,7 +2442,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 160508,
       "name": "Super Fly Funk",
       "url": "https://open.spotify.com/track/16dyAuXav2Oxrl5IABKscC"
@@ -2529,6 +2573,24 @@
     },
     {
       "album": {
+        "name": "The LP",
+        "url": "https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1"
+      },
+      "artists": [
+        {
+          "name": "Large Professor",
+          "url": "https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "The LP",
+      "url": "https://open.spotify.com/track/3TGJJERElA998ZlJcfA1Qz"
+    },
+    {
+      "album": {
         "name": "The Process",
         "url": "https://open.spotify.com/album/3uhsgJvdqAzEbLBY7IeWw5"
       },
@@ -2652,7 +2714,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 251590,
       "name": "These Days",
       "url": "https://open.spotify.com/track/1g5d90XIFHNllQ1Vq1rjMs"
@@ -2906,7 +2968,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 230404,
       "name": "Who's on the Playlist",
       "url": "https://open.spotify.com/track/0Bjm2IaLuaY6ttrj9Bv1Dz"

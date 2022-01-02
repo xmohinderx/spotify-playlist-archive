@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDVlYWQwY2FhNWRkYWFkMjIyYjhmMDVkYzlkYmM1YWM2",
+  "snapshot_id": "MCwwMDAwMDAwMDI5NWRhMDQzMTNkZDhhMDk2NmQ2OWY3NGJmNTdhMzVm",
   "tracks": [
     {
       "added_at": "2021-12-27 05:00:00",
@@ -20,137 +20,133 @@
           "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 191801,
-      "name": "The Chase",
-      "url": "https://open.spotify.com/track/2g0YiUxA19s9NupHD9xDgb"
+      "duration_ms": 175092,
+      "name": "Bouncin",
+      "url": "https://open.spotify.com/track/6sHgMLiwXXCbg2AbkzQAWK"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "MANIAC",
-        "url": "https://open.spotify.com/album/2HiEsKirbmToafVita0Z3Z"
-      },
-      "artists": [
-        {
-          "name": "Baby Storme",
-          "url": "https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe"
-        }
-      ],
-      "duration_ms": 175768,
-      "name": "MANIAC",
-      "url": "https://open.spotify.com/track/7yPw8hXDf2NDhYzz3r33v5"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Gay Hands Up",
-        "url": "https://open.spotify.com/album/2eBVu6QH6XTlh3vxNniKYq"
-      },
-      "artists": [
-        {
-          "name": "Jan",
-          "url": "https://open.spotify.com/artist/3kjA2xAd5YnNXi5ayMxBFq"
-        },
-        {
-          "name": "Alaska Thunderfuck",
-          "url": "https://open.spotify.com/artist/4p55SV4lkAp6WBXcBImrtm"
-        },
-        {
-          "name": "Peppermint",
-          "url": "https://open.spotify.com/artist/210s1q4wkXp3p2OyCOr790"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Gay Hands Up",
-      "url": "https://open.spotify.com/track/0J3ZBXrhQjL1EHKKYkUXkX"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Soft Bitch",
-        "url": "https://open.spotify.com/album/6cihzW2bCxmqOFs4EhDcQz"
-      },
-      "artists": [
-        {
-          "name": "Studio Killers",
-          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
-        },
-        {
-          "name": "Ally Ahern",
-          "url": "https://open.spotify.com/artist/4RSgbf1zgR2X2APEbTqxbM"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Soft Bitch",
-      "url": "https://open.spotify.com/track/0VcXNyaz6Wu25Sb5r42u0A"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Stole My Man",
-        "url": "https://open.spotify.com/album/42hwidtGI9fVHETibhV2FG"
-      },
-      "artists": [
-        {
-          "name": "Karen Hardy",
-          "url": "https://open.spotify.com/artist/12n0d7WQSiQtJ3HwJFPO1F"
-        }
-      ],
-      "duration_ms": 177388,
-      "name": "Stole My Man",
-      "url": "https://open.spotify.com/track/5rTe0pOYIuTVg7C0GdqmkJ"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Letting the Wolf In",
-        "url": "https://open.spotify.com/album/5u9wJmulvEFL4tamgsrcb6"
+        "name": "Soul Sucker, Pt. 2",
+        "url": "https://open.spotify.com/album/5DkmK3sQcBanrRg1lFHlMs"
       },
       "artists": [
         {
           "name": "Ellise",
           "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
-        }
-      ],
-      "duration_ms": 168238,
-      "name": "Wicked Witch of the Westside",
-      "url": "https://open.spotify.com/track/5sX3yE3JNVoMcXq9KIML6B"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "The Feeling's Mutual",
-        "url": "https://open.spotify.com/album/2neZEfmBOHLIaVcwoW7rZk"
-      },
-      "artists": [
-        {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
-        }
-      ],
-      "duration_ms": 235998,
-      "name": "California Palms",
-      "url": "https://open.spotify.com/track/7qL7N0BfaqbIYnLQmQ5Noy"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Catch a Vibe",
-        "url": "https://open.spotify.com/album/633NVriYPmbqopR0t9UjhB"
-      },
-      "artists": [
-        {
-          "name": "Diarra Sylla",
-          "url": "https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS"
         },
         {
-          "name": "Marieme",
-          "url": "https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD"
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        },
+        {
+          "name": "Mothica",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 169786,
-      "name": "Catch a Vibe",
-      "url": "https://open.spotify.com/track/1O4sy9T2RayfiJIRRZ4TxB"
+      "duration_ms": 161250,
+      "name": "Soul Sucker, Pt. 2",
+      "url": "https://open.spotify.com/track/7lSRoGGERYMfi5mDotavru"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "ZIP",
+        "url": "https://open.spotify.com/album/0RSgHWggxgyGOTQWlajWpw"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "Chase Icon",
+          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
+        }
+      ],
+      "duration_ms": 173746,
+      "name": "ZIP",
+      "url": "https://open.spotify.com/track/4QtiKZUPZl8WNWyWOV2Pvy"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Stealing Candy",
+        "url": "https://open.spotify.com/album/0TKTUEQ8i8ey4nxrbCUiir"
+      },
+      "artists": [
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        }
+      ],
+      "duration_ms": 191007,
+      "name": "Stealing Candy",
+      "url": "https://open.spotify.com/track/1t0OjpdIiT4Ywa6K6V7z7e"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Yandere",
+        "url": "https://open.spotify.com/album/3Np4ztZJFfK4IGT72lzqUo"
+      },
+      "artists": [
+        {
+          "name": "Jazmin Bean",
+          "url": "https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL"
+        }
+      ],
+      "duration_ms": 211410,
+      "name": "Yandere",
+      "url": "https://open.spotify.com/track/6a9gDPGHaLfiM2XYrKXOVy"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/5DHseF14USVgIZ6AzsX9bi"
+      },
+      "artists": [
+        {
+          "name": "WJSN",
+          "url": "https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD"
+        }
+      ],
+      "duration_ms": 208047,
+      "name": "Pantomime",
+      "url": "https://open.spotify.com/track/4lPsBlof2cjAIArw0nOGvQ"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Love You!!!!!!",
+        "url": "https://open.spotify.com/album/1mXHeGBeM3gJpvik6FsXKe"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "duration_ms": 125612,
+      "name": "Love You!!!!!!",
+      "url": "https://open.spotify.com/track/0ZkvrUjMQNXK1IIlZIaE5P"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Division",
+        "url": "https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Division",
+      "url": "https://open.spotify.com/track/61YldFgqyxAvqGzZbOg1yY"
     },
     {
       "added_at": "2021-12-27 05:00:00",
@@ -164,41 +160,141 @@
           "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         }
       ],
-      "duration_ms": 164956,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
+      "duration_ms": 211052,
+      "name": "Pens\u00e9es positives",
+      "url": "https://open.spotify.com/track/5XQKrcRNi1XR7ayz5AX9NS"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "September (Barking Owl Session) [Live]",
-        "url": "https://open.spotify.com/album/7MQmY1ppC2gb16iNMg9Fi1"
+        "name": "Street Woman Fighter(SWF) Special",
+        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
       "artists": [
         {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+          "name": "LACHICA",
+          "url": "https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
         }
       ],
-      "duration_ms": 280277,
-      "name": "September - Barking Owl Session (Live)",
-      "url": "https://open.spotify.com/track/2cVAii55MfYFykvEcDK5D9"
+      "duration_ms": 194053,
+      "name": "BAD GIRL (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "Judas",
-        "url": "https://open.spotify.com/album/4LX1Pw0EQSqrEx4E5SJ56X"
+        "name": "THE OTHER SIDE OF THE MOON",
+        "url": "https://open.spotify.com/album/4W9vkO9c1K2oVvLTNsjWv7"
       },
       "artists": [
         {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
         }
       ],
-      "duration_ms": 247561,
-      "name": "Judas",
-      "url": "https://open.spotify.com/track/3y9z8ShoJTFEkb0Yjz2x49"
+      "duration_ms": 219386,
+      "name": "I Can't Breathe",
+      "url": "https://open.spotify.com/track/6RIYWSUxJGpcz8nnzitiwK"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/7vKfoQdDR2rj2S8jkVJf0s"
+      },
+      "artists": [
+        {
+          "name": "LUNA",
+          "url": "https://open.spotify.com/artist/56HZvtrzD82YKMGGJTlIG2"
+        }
+      ],
+      "duration_ms": 171218,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/4EhsQ3MCiCbdvHIcOZ4YKk"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Sing 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Johansson",
+          "url": "https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa"
+        }
+      ],
+      "duration_ms": 217517,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/6HoYz6oC2y3OWfeJIOooM7"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "NASA",
+        "url": "https://open.spotify.com/album/5Auut8DFmVyMiqztEpMJO4"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 132794,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/4WcvNM8nhqfUi1HSqksUSL"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Walk It Like A Boss",
+        "url": "https://open.spotify.com/album/7H2vFSaZlzDB6QpQ52O1hX"
+      },
+      "artists": [
+        {
+          "name": "Lovely Peaches",
+          "url": "https://open.spotify.com/artist/2YYWJ6QaD1uERs1BHFgy02"
+        }
+      ],
+      "duration_ms": 145632,
+      "name": "Walk It Like A Boss",
+      "url": "https://open.spotify.com/track/5HSZDdvjssUsy3pEjd7owS"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/3wbXZPZ2DO8BimdggYOnkl"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jeffery",
+          "url": "https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/7MMyAoYiqjwF2rfrpjraaQ"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "What A Waste",
+        "url": "https://open.spotify.com/album/4ydBNpc9b94VSX2VizYfRW"
+      },
+      "artists": [
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "What A Waste",
+      "url": "https://open.spotify.com/track/7kGIXHL97P3bVy3Wh997ZA"
     },
     {
       "added_at": "2021-12-27 05:00:00",
@@ -212,225 +308,141 @@
           "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
         }
       ],
-      "duration_ms": 188500,
-      "name": "Sexy Villain",
-      "url": "https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J"
+      "duration_ms": 199157,
+      "name": "wyd",
+      "url": "https://open.spotify.com/track/2W47Qlm2vTrGXWXdf4lxka"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "Thermostat",
-        "url": "https://open.spotify.com/album/35XqonZ0mteVVibQgSfUGL"
+        "name": "Steven Universe Future (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/26E5up17WRaMSy8In8fXFN"
       },
       "artists": [
         {
-          "name": "MegaGoneFree",
-          "url": "https://open.spotify.com/artist/3tWkCJzvXG06cMypQEvEE4"
-        }
-      ],
-      "duration_ms": 229771,
-      "name": "Thermostat",
-      "url": "https://open.spotify.com/track/5ofT4TYqA7Ijc7g0KOLBaK"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "SUGARDUST",
-        "url": "https://open.spotify.com/album/20GzJ7LExkgEAVubdi1cp8"
-      },
-      "artists": [
-        {
-          "name": "YukoEXE",
-          "url": "https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs"
-        }
-      ],
-      "duration_ms": 121787,
-      "name": "Miso Yuko",
-      "url": "https://open.spotify.com/track/5e8DupXUX2LaVsNSge2hPY"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "THE VOICE",
-        "url": "https://open.spotify.com/album/21FV0HtXsSCwGTgNn28FOc"
-      },
-      "artists": [
-        {
-          "name": "Voice DJ's",
-          "url": "https://open.spotify.com/artist/6I5wsDPPzItI5Oc0cQ4o8r"
-        }
-      ],
-      "duration_ms": 248685,
-      "name": "Fireball",
-      "url": "https://open.spotify.com/track/5pqT8LofKXWEX4Cntan6T6"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Sugared Up",
-        "url": "https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my"
-      },
-      "artists": [
-        {
-          "name": "twst",
-          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
-        }
-      ],
-      "duration_ms": 153317,
-      "name": "Sugared Up",
-      "url": "https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Burning Bridges",
-        "url": "https://open.spotify.com/album/3UY0icdy06Ex4JQIAXzF6H"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 172310,
-      "name": "Burning Bridges",
-      "url": "https://open.spotify.com/track/76VK9vnW5pnnfS2pd7lkRo"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/2Sl73qVduRb08sWj28sIjz"
-      },
-      "artists": [
-        {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
-        }
-      ],
-      "duration_ms": 113406,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/0JTcrSy0QHpzpdiXykZufX"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Invisible Girl!",
-        "url": "https://open.spotify.com/album/0EgU3PeVLKKVPSSRdQXkdu"
-      },
-      "artists": [
-        {
-          "name": "Morgan Reese",
-          "url": "https://open.spotify.com/artist/4Ro2elWptpQoQOLV1F2JoR"
-        }
-      ],
-      "duration_ms": 182350,
-      "name": "Invisible Girl!",
-      "url": "https://open.spotify.com/track/7dmxSLMLrtkIXm3kOY1XIe"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "How Are You?",
-        "url": "https://open.spotify.com/album/1Bn9N9uVpL48gFXmwpgSsS"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 137568,
-      "name": "But I Don'T",
-      "url": "https://open.spotify.com/track/0mhS4w3sej2kpvDuAhiZeq"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
         },
         {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+          "name": "aivi & surasshu",
+          "url": "https://open.spotify.com/artist/4sIyCz2Qurt0THKPlhYpgb"
         },
         {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+          "name": "Rebecca Sugar",
+          "url": "https://open.spotify.com/artist/6Pd7FRVtwNxFsQIkDMpLGz"
         }
       ],
-      "duration_ms": 225502,
-      "name": "Ex For A Reason (with JT from City Girls)",
-      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
+      "duration_ms": 91419,
+      "name": "My Little Reason Why",
+      "url": "https://open.spotify.com/track/4CAhld2jBzqGtEDQjP4hT1"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "OTHER WAYS TO VENT",
-        "url": "https://open.spotify.com/album/4ZMHZn1OsaFc4Gydlzw9VK"
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
       },
       "artists": [
         {
-          "name": "iyla",
-          "url": "https://open.spotify.com/artist/4LXBFNxqvOcdBVpbgKn6op"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 179527,
-      "name": "Tattoo Tears",
-      "url": "https://open.spotify.com/track/73XCBmAq8ExhpAaK7OTbA4"
+      "duration_ms": 170057,
+      "name": "Handstand (with Doja Cat feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "Fragile",
-        "url": "https://open.spotify.com/album/4RwVWm4kAzRgEiVzVpxHGG"
+        "name": "Token",
+        "url": "https://open.spotify.com/album/6bWwQVghkoqH6dh0qeL5gV"
       },
       "artists": [
         {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+          "name": "Roma Radz",
+          "url": "https://open.spotify.com/artist/0jMSOegqRuQmeHo2EAZtud"
         }
       ],
-      "duration_ms": 214102,
-      "name": "Sad Song",
-      "url": "https://open.spotify.com/track/2ksxz0To79bB3LBBndQVhQ"
+      "duration_ms": 193920,
+      "name": "Token",
+      "url": "https://open.spotify.com/track/1nei1kX6dmWSNMZYGFMSIz"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "On a Different Wave!",
-        "url": "https://open.spotify.com/album/0yMmsrhZIYi8VbF7BtRbng"
+        "name": "Voc\u00ea Aprendeu A Amar?",
+        "url": "https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4"
       },
       "artists": [
         {
-          "name": "Madelline",
-          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+          "name": "Priscilla Alcantara",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
         }
       ],
-      "duration_ms": 153000,
-      "name": "On a Different Wave!",
-      "url": "https://open.spotify.com/track/07LnlO6efG3J0M6jyjo2cl"
+      "duration_ms": 185821,
+      "name": "Voc\u00ea \u00c9 Um Perigo",
+      "url": "https://open.spotify.com/track/1V9ON0iJZSpcmGPQUZ58Qd"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/15qHh5U7v1DrA3Bk9M1jAu"
+        "name": "Indecisive (feat. Tommy Genesis)",
+        "url": "https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6"
       },
       "artists": [
         {
-          "name": "Fefe Dobson",
-          "url": "https://open.spotify.com/artist/0mzTssRDPIQVH5wSNzOdFZ"
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        },
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/0BxXxEqSAryqLZILkTOrBm"
+      "duration_ms": 135516,
+      "name": "Indecisive (feat. Tommy Genesis)",
+      "url": "https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "Please Be Angry",
+        "url": "https://open.spotify.com/album/7yrabR7ww6kPzjtW8F5hwf"
+      },
+      "artists": [
+        {
+          "name": "Pierz Barry",
+          "url": "https://open.spotify.com/artist/2dzdUgM8QYmJYG3BIFn4J1"
+        }
+      ],
+      "duration_ms": 169381,
+      "name": "Please Be Angry",
+      "url": "https://open.spotify.com/track/73nOluA2ZPnTnG22VEBqvK"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "don\u2019t miss me",
+        "url": "https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 123949,
+      "name": "don't miss me",
+      "url": "https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl"
     },
     {
       "added_at": "2021-12-27 05:00:00",
@@ -444,77 +456,77 @@
           "url": "https://open.spotify.com/artist/7CuIkxF7VfHwKecQzUEGgv"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Simping For The Villain",
-      "url": "https://open.spotify.com/track/67J564H3hIxKm3qOc0GHkC"
+      "duration_ms": 173837,
+      "name": "Mr. Brightside (Hyperpop Version)",
+      "url": "https://open.spotify.com/track/2UvUnPoYW7VKc8EZ4CuzuW"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "Party 22",
-        "url": "https://open.spotify.com/album/75eIzhuTaVE3zUcYpLBn72"
+        "name": "Main Thing",
+        "url": "https://open.spotify.com/album/2bfvc96ArOw5qY5SS64niQ"
       },
       "artists": [
         {
-          "name": "Lilyisthatyou",
-          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
-        }
-      ],
-      "duration_ms": 109928,
-      "name": "Party 22",
-      "url": "https://open.spotify.com/track/2cW6YjxfNnDycOoE95xwfa"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Return of The Girl",
-        "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
-      },
-      "artists": [
-        {
-          "name": "EVERGLOW",
-          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
-        }
-      ],
-      "duration_ms": 210013,
-      "name": "Pirate",
-      "url": "https://open.spotify.com/track/0Vu5tjvXZX3qtzRiezxLi1"
-    },
-    {
-      "added_at": "2021-12-27 05:00:00",
-      "album": {
-        "name": "Sleepy Hollow (Brow Remix)",
-        "url": "https://open.spotify.com/album/0dAa3TuE9jOY0DkWdchqqu"
-      },
-      "artists": [
-        {
-          "name": "Su Lee",
-          "url": "https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK"
+          "name": "Madison Reyes",
+          "url": "https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ"
         },
         {
-          "name": "Brow",
-          "url": "https://open.spotify.com/artist/6H75iakrr1sH591afpevi3"
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
         }
       ],
-      "duration_ms": 267729,
-      "name": "Sleepy Hollow - Brow Remix",
-      "url": "https://open.spotify.com/track/4zIk6kWgZcAYqPtnalRo87"
+      "duration_ms": 199867,
+      "name": "Main Thing",
+      "url": "https://open.spotify.com/track/3XUuOtzmYbMeLeFAs5lTSD"
     },
     {
       "added_at": "2021-12-27 05:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0rP5Fehkl4VnXqLQX7JFjc"
+        "name": "light switch",
+        "url": "https://open.spotify.com/album/4GED21xC8AqLDLPpNjLbNm"
       },
       "artists": [
         {
-          "name": "Drew Monson",
-          "url": "https://open.spotify.com/artist/2fcTsyIEQGfGemX3YDWS78"
+          "name": "Audrey Gillispie",
+          "url": "https://open.spotify.com/artist/2TtsBuE93Ha0uOc2m92J49"
         }
       ],
-      "duration_ms": 187062,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6KcR27IiDfdsOGkKdL4NsQ"
+      "duration_ms": 201919,
+      "name": "light switch",
+      "url": "https://open.spotify.com/track/2XSHaoLhVIyxo7lY4J2gj7"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "the rainbow cassette",
+        "url": "https://open.spotify.com/album/7uzmNefPoRgc5Pi9DS00CC"
+      },
+      "artists": [
+        {
+          "name": "mazie",
+          "url": "https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz"
+        }
+      ],
+      "duration_ms": 125256,
+      "name": "dumb dumb",
+      "url": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R"
+    },
+    {
+      "added_at": "2021-12-27 05:00:00",
+      "album": {
+        "name": "One Night",
+        "url": "https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXcJR8Ys0NBejf"

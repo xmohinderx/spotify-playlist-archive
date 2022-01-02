@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 202760,
       "name": "20 i hue",
       "url": "https://open.spotify.com/track/0RHeLUY9dxaCeVvBc2xQfu"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 159093,
       "name": "Adj\u00f8",
       "url": "https://open.spotify.com/track/72byZWY2WfbuSI48TINr3g"
@@ -140,7 +140,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 180826,
       "name": "Alt du vil ha",
       "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "Dagsfylla",
+        "url": "https://open.spotify.com/album/01a07OQoUKeb6FfsTfbNTt"
+      },
+      "artists": [
+        {
+          "name": "Kaptein EPA",
+          "url": "https://open.spotify.com/artist/2v7lprKyLQB5CHQkT50JFk"
+        },
+        {
+          "name": "Fl\u00f6ber",
+          "url": "https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t"
+        },
+        {
+          "name": "L\u00f8vendahl",
+          "url": "https://open.spotify.com/artist/2crP0DzGXR6GMPGgXeoebz"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111282,
+      "name": "Dagsfylla",
+      "url": "https://open.spotify.com/track/09FoTcU7J5K2jpzzUwhij7"
+    },
+    {
+      "album": {
         "name": "Den fineste Chevy'n",
         "url": "https://open.spotify.com/album/0ceGayBcQcl2rKM0WeNrzo"
       },
@@ -386,7 +412,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178103,
       "name": "Det \u00e5rn\u00e6r s\u00e6",
       "url": "https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp"
@@ -702,7 +728,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/7mBxJDprUn3C1uRWBe3DJa"
@@ -912,7 +938,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164905,
       "name": "Ja vi elsker (Typisk Norsk 2019)",
       "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
@@ -1036,7 +1062,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/5GPa945q93slwVFDuNgtMs"
@@ -1146,7 +1172,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 127058,
       "name": "Mcdonalds",
       "url": "https://open.spotify.com/track/4um6ufqR4iLTP11FnrrXfJ"
@@ -1164,7 +1190,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 62722,
       "name": "MDG (Jada, jada, jada)",
       "url": "https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe"
@@ -1204,7 +1230,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "Monster",
       "url": "https://open.spotify.com/track/3jky5ngzze3qNFigQCaP8L"
@@ -1230,7 +1256,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 172272,
       "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
       "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
@@ -1266,7 +1292,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 170526,
       "name": "N\u00e5 Er Det Fredan Igjen",
       "url": "https://open.spotify.com/track/6zYOdvNQuHxUQtmktw2vwo"
@@ -1338,7 +1364,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205666,
       "name": "Polare",
       "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
@@ -1476,7 +1502,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 207659,
       "name": "Rompa mi",
       "url": "https://open.spotify.com/track/4xh1HYiuwF8B200hbKW5Ic"
@@ -1552,7 +1578,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 241949,
       "name": "Sidehilling",
       "url": "https://open.spotify.com/track/7ncIIf7l61q5H61J7RKwPQ"
@@ -1588,7 +1614,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206053,
       "name": "Sj\u00e5 sole",
       "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
@@ -1740,7 +1766,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 138947,
       "name": "Sv\u00e6re Pupper",
       "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"

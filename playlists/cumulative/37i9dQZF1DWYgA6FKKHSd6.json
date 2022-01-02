@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 250358,
       "name": "All of Me",
       "url": "https://open.spotify.com/track/4FruIj8XF7TVGD2eiZEFMS"
@@ -314,7 +314,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 304360,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
@@ -332,7 +332,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 243146,
       "name": "Cachaca",
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 267933,
       "name": "Crazy Groove",
       "url": "https://open.spotify.com/track/4a76ZiSAzc4QSTEtAxx4Ga"
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 243882,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4dIm1mKNrPj8zzADhw7BTq"
@@ -1502,6 +1502,24 @@
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+    },
+    {
+      "album": {
+        "name": "Everything Must Change",
+        "url": "https://open.spotify.com/album/5VeEiF0EOUkSiVP4AdiCRc"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/3MxfsAOPmO6aL4Rv2PtGej"
     },
     {
       "album": {
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 303693,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/0usBe90xdHtrm3vCbmKGsa"
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 255773,
       "name": "Tale of Two Cities",
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
@@ -2308,7 +2326,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 247306,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/46ExhGFngL8g3zqI9r8jCF"
@@ -2330,7 +2348,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 217843,
       "name": "Una Mas",
       "url": "https://open.spotify.com/track/1r9VLVwwqC1855WVhiZ5FX"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275680,
       "name": "Warm - Album Mix",
       "url": "https://open.spotify.com/track/6QvJtPAuUWtPzC87raT6x3"

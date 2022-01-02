@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Round Midnight",
+        "url": "https://open.spotify.com/album/1d5i1HL0MUDVd99p1Lp2u6"
+      },
+      "artists": [
+        {
+          "name": "Mary Stallings",
+          "url": "https://open.spotify.com/artist/3EYSKfrP35BZwqsMiGU3Gf"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312253,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/7gdQMVRLL96TvTdcYbYM6d"
+    },
+    {
+      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -114,7 +132,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 136185,
       "name": "Ain't We Got Fun?",
       "url": "https://open.spotify.com/track/10OGGFenmKHtfpMs4FOmq1"
@@ -470,7 +488,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 282600,
       "name": "Come Rain or Come Shine",
       "url": "https://open.spotify.com/track/03R5ea3FXGW22d1aR4idlp"
@@ -522,7 +540,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 346481,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2qe7O9lFVGJDeOSz9VBn0T"
@@ -570,6 +588,36 @@
       "duration_ms": 205453,
       "name": "Days Of Wine And Roses",
       "url": "https://open.spotify.com/track/15rK0xMSB82q4UMlqsif9d"
+    },
+    {
+      "album": {
+        "name": "Devil May Care",
+        "url": "https://open.spotify.com/album/0mGEg2st15A9QxS0MOOTRA"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        },
+        {
+          "name": "Mark Fitzgibbon",
+          "url": "https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB"
+        },
+        {
+          "name": "Ben Hanlon",
+          "url": "https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY"
+        },
+        {
+          "name": "Peter Hodges",
+          "url": "https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh"
+        }
+      ],
+      "date_added": "2021-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210824,
+      "name": "Devil May Care",
+      "url": "https://open.spotify.com/track/5htUOMnpFQN7Aw53s1rwFM"
     },
     {
       "album": {
@@ -707,6 +755,32 @@
     },
     {
       "album": {
+        "name": "Esperanto",
+        "url": "https://open.spotify.com/album/7aLheGoeh6lW0Dz7y295O7"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Danilo Perez",
+          "url": "https://open.spotify.com/artist/6nPiCm3jwXHrOsMbTDoc4E"
+        },
+        {
+          "name": "Chico Pinheiro",
+          "url": "https://open.spotify.com/artist/5YfW24O2P3ljTAZjBRr4jy"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301266,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/6sQH5Xgc5SbH3TKGI4xFj9"
+    },
+    {
+      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/3VBajOBgjfC2BSlonO8KwT"
       },
@@ -722,6 +796,28 @@
       "duration_ms": 168092,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/0Jfz8rtw11v3Mixr4yTorQ"
+    },
+    {
+      "album": {
+        "name": "Earth Voices",
+        "url": "https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Tosoff",
+          "url": "https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR"
+        },
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "date_added": "2021-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351904,
+      "name": "Finis",
+      "url": "https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi"
     },
     {
       "album": {
@@ -908,7 +1004,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 270440,
       "name": "Greenbacks",
       "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
@@ -962,7 +1058,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 171513,
       "name": "I Fall to Pieces",
       "url": "https://open.spotify.com/track/34QBDcwnUMlQCGpjUhXN8u"
@@ -988,6 +1084,32 @@
       "duration_ms": 213960,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU"
+    },
+    {
+      "album": {
+        "name": "I Have Nothing Left for You",
+        "url": "https://open.spotify.com/album/4B90ZdhB4bxJ7VaVFrthmY"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        },
+        {
+          "name": "Stockholm Underground",
+          "url": "https://open.spotify.com/artist/4cBZdr2PjNdXrbkK9xhLJA"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274091,
+      "name": "I Have Nothing Left for You",
+      "url": "https://open.spotify.com/track/3txo7DYX9jReZuUqnwbsPR"
     },
     {
       "album": {
@@ -1234,7 +1356,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 268586,
       "name": "It Ain't Necessarily So (feat. Byron Stripling)",
       "url": "https://open.spotify.com/track/3EmhZE7D8skjPkXtgu1J2C"
@@ -1310,7 +1432,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 175970,
       "name": "James",
       "url": "https://open.spotify.com/track/3yQmQSliq7uJhJet0YGmeX"
@@ -1353,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "The Dream Is You: Vanessa Rubin Sings Tadd Dameron",
+        "url": "https://open.spotify.com/album/3cDsafLbjQuDNGxpuXdwXO"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Rubin",
+          "url": "https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462415,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/01je6IZ6DPfoY1AGzblHVz"
+    },
+    {
+      "album": {
         "name": "Language Of Love",
         "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
       },
@@ -1386,7 +1526,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 172158,
       "name": "Learnin' the Blues / Ju\u017c wiesz, co to blues",
       "url": "https://open.spotify.com/track/27PTYw4GXEbY08C8pui11I"
@@ -1544,7 +1684,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220786,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3iaTig1JxHZF73Ozg8awNl"
@@ -1620,7 +1760,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 183901,
       "name": "Lover Man (Oh, Where Can You Be?)",
       "url": "https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc"
@@ -1650,6 +1790,24 @@
       "duration_ms": 269288,
       "name": "Making Love",
       "url": "https://open.spotify.com/track/5l0PWCX2G7SI3fNHvGH1ib"
+    },
+    {
+      "album": {
+        "name": "Making Room",
+        "url": "https://open.spotify.com/album/4Dca3AwituUnPJFqTMTolt"
+      },
+      "artists": [
+        {
+          "name": "Kelly Schenk",
+          "url": "https://open.spotify.com/artist/3kHGDGEmX8EWocacdi5Ijk"
+        }
+      ],
+      "date_added": "2021-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259851,
+      "name": "Making Room",
+      "url": "https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH"
     },
     {
       "album": {
@@ -1812,7 +1970,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 308733,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/0zGKCcCnkIuNBYyROYYahX"
@@ -1884,7 +2042,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 355587,
       "name": "Nuit Blanche (Live)",
       "url": "https://open.spotify.com/track/1GoyNvRJycBHfiHPJvRgwz"
@@ -2030,7 +2188,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 587186,
       "name": "Practical Arrangement (with Joey Calderazzo, Eric Revis & Justin Faulkner)",
       "url": "https://open.spotify.com/track/0lKUEcJpGcox2NiEVFy9KX"
@@ -2102,10 +2260,32 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 283893,
       "name": "Seems I\u2019m Never Tired Lovin\u2019 You",
       "url": "https://open.spotify.com/track/7vCfPnxfZstgS5QUlWV7aY"
+    },
+    {
+      "album": {
+        "name": "A Lot of Livin' to Do",
+        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        },
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261226,
+      "name": "Social Call",
+      "url": "https://open.spotify.com/track/5FRQElyjOYVd6a0rcaIuu0"
     },
     {
       "album": {
@@ -2348,7 +2528,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 230880,
       "name": "The Birds and the Bees",
       "url": "https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb"
@@ -2496,7 +2676,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187040,
       "name": "Three Cigarettes in an Ashtray",
       "url": "https://open.spotify.com/track/6nlynVbgwm6bavyuQw39Yo"
@@ -2544,6 +2724,24 @@
       "duration_ms": 323266,
       "name": "Time's Passage",
       "url": "https://open.spotify.com/track/2CaZoBCWUfIN9jiJVS5ZO5"
+    },
+    {
+      "album": {
+        "name": "Together Alone",
+        "url": "https://open.spotify.com/album/0ThfLn7C5R8BmAm5CPoBV1"
+      },
+      "artists": [
+        {
+          "name": "Samantha Schultz",
+          "url": "https://open.spotify.com/artist/7qBUZQ7O7UNpBgD23MIM3v"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233957,
+      "name": "Together Alone",
+      "url": "https://open.spotify.com/track/55f6EReAsgNQOFvQaa31yH"
     },
     {
       "album": {
@@ -2642,7 +2840,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191453,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1eBS1yv4ec7FegMJt4adef"
@@ -2748,7 +2946,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 277093,
       "name": "What's Happening Brother",
       "url": "https://open.spotify.com/track/4UFGdhSIPgVg7mvgshbw2x"
@@ -2820,7 +3018,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 297466,
       "name": "Yes, I'm Ready",
       "url": "https://open.spotify.com/track/5XlhFiWDin9FrGrwIrmDtp"

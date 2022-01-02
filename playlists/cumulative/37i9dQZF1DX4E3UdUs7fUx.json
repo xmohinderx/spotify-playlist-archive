@@ -726,7 +726,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 266340,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/2K90utpi9AUlGUrYDapNGB"
@@ -878,7 +878,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232400,
       "name": "Lights Off",
       "url": "https://open.spotify.com/track/5WbbSGSA8qb601YH4SqLA6"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 238515,
       "name": "May",
       "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
@@ -1784,6 +1784,24 @@
       "duration_ms": 192813,
       "name": "To Live a Life",
       "url": "https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL"
+    },
+    {
+      "album": {
+        "name": "Tom",
+        "url": "https://open.spotify.com/album/6WpkIkPKxMy0mYF2m0kn2k"
+      },
+      "artists": [
+        {
+          "name": "Damien Jurado",
+          "url": "https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Tom",
+      "url": "https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4"
     },
     {
       "album": {

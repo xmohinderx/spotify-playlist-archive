@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 225640,
       "name": "All Lined Up",
       "url": "https://open.spotify.com/track/1MTZLNGlaw1308UlCv9QGJ"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 247653,
       "name": "Birth, School, Work, Death",
       "url": "https://open.spotify.com/track/6cKYSjLBhQVFbmXmJSQOA7"
@@ -218,7 +218,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 221053,
       "name": "Brilliant Mind",
       "url": "https://open.spotify.com/track/6lN2rz6C3XTq6RauOl8J3a"
@@ -290,7 +290,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 151226,
       "name": "Crash",
       "url": "https://open.spotify.com/track/2yZxK7LuQFcNOlMy6s2zwO"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 152200,
       "name": "Crash",
       "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
@@ -938,7 +938,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 215120,
       "name": "Love Buzz",
       "url": "https://open.spotify.com/track/4LzM58Gzcc0Wumj4djK1mX"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 185199,
       "name": "On my Radio",
       "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 350560,
       "name": "Pacific State - Origin Mix",
       "url": "https://open.spotify.com/track/1bdqvBFKJKbkZvFeF7hNQs"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 282600,
       "name": "Pull Up To The Bumper",
       "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
@@ -1467,6 +1467,24 @@
     },
     {
       "album": {
+        "name": "The Best Of Siouxsie And The Banshees (Limited Edition)",
+        "url": "https://open.spotify.com/album/6ANNQwhAvnPE1EQRX38C7U"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Spellbound",
+      "url": "https://open.spotify.com/track/5W8K2a4nCZ8df93uJm2pjI"
+    },
+    {
+      "album": {
         "name": "Alternative 80's",
         "url": "https://open.spotify.com/album/7FRbWtxabN5jApV5x2gXy0"
       },
@@ -1550,7 +1568,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232746,
       "name": "The Cutter",
       "url": "https://open.spotify.com/track/5UrmKv9c4nau5uiW9Shz4N"
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 189040,
       "name": "The Tunnel of Love",
       "url": "https://open.spotify.com/track/5LN1GM6XWFEAQiWOT8RDfd"
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173266,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5FFowl1Ve4S5OehL6OywSg"
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204906,
       "name": "Walk out to Winter",
       "url": "https://open.spotify.com/track/6Z2TIb43jnjHcmMGSkxJcI"
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 330426,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/2mwdSJZlzXOJqTQ37rpIbv"
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 330640,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/12EsXesqewZ7mIwWswf6tn"

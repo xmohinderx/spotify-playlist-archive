@@ -268,7 +268,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 228166,
       "name": "Everyone Falls In Love",
       "url": "https://open.spotify.com/track/1jRVjtZnyLjE0LOS8UT78f"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 273040,
       "name": "Hills And Valleys",
       "url": "https://open.spotify.com/track/2H4M3lyO2rJFQw33idCk1X"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 232781,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 240226,
       "name": "I Am Not Afraid",
       "url": "https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 212262,
       "name": "Living In Love",
       "url": "https://open.spotify.com/track/5XXd7aHObJEHYm9FpsNeKH"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 235533,
       "name": "Strange",
       "url": "https://open.spotify.com/track/0hBoSLU2bvScgEA8JAAiyQ"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 262800,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
@@ -1151,6 +1151,24 @@
     },
     {
       "album": {
+        "name": "Oh No It's Red Rat",
+        "url": "https://open.spotify.com/album/7ET4yhpl6CoZQmHJmmfWZi"
+      },
+      "artists": [
+        {
+          "name": "Red Rat",
+          "url": "https://open.spotify.com/artist/4lthN9sVX4QW2lnXQEUbMh"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214160,
+      "name": "Tight Up Skirt",
+      "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz"
       },
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 227933,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
@@ -1188,7 +1206,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 219013,
       "name": "Trueversation (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 265053,
       "name": "Unity We Need (feat. Chronixx)",
       "url": "https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 225506,
       "name": "Youth Dem Cold",
       "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"

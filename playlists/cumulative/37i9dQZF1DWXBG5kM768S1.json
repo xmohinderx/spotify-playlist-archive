@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+      },
+      "artists": [
+        {
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
+    },
+    {
+      "album": {
         "name": "2020",
         "url": "https://open.spotify.com/album/3pssxznFPsw3TO2ns1Mey3"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 275253,
       "name": "2020",
       "url": "https://open.spotify.com/track/2JCskibhK5KQk8v8An371h"
@@ -268,7 +286,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
@@ -362,7 +380,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
@@ -846,7 +864,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 268366,
       "name": "Ikke deg",
       "url": "https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N"
@@ -1023,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Et sted under stjernene",
+        "url": "https://open.spotify.com/album/4lkAF5a0B0xDbaTcbZY4NL"
+      },
+      "artists": [
+        {
+          "name": "Terje Formoe",
+          "url": "https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221866,
+      "name": "Miriams sang",
+      "url": "https://open.spotify.com/track/2dlxb5AyIThRLQwhh9tXml"
+    },
+    {
+      "album": {
         "name": "Mitt Andre Hjem",
         "url": "https://open.spotify.com/album/4WChofZor5RuSged93ZT0c"
       },
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186552,
       "name": "Pusterom",
       "url": "https://open.spotify.com/track/1pa2qaCSAloisRVL8YSMUT"
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 191902,
       "name": "Sm\u00e5`n",
       "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
@@ -1302,7 +1338,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 285653,
       "name": "S\u00f8tten \u00e5r",
       "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
@@ -1506,6 +1542,28 @@
       "duration_ms": 197960,
       "name": "Ved Rondane",
       "url": "https://open.spotify.com/track/3HLVO8u3OJTqkmlqpcjFyt"
+    },
+    {
+      "album": {
+        "name": "Veien (feat. Kapteinen)",
+        "url": "https://open.spotify.com/album/0eTSDSVIJ2qX76TwGDWWA8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249557,
+      "name": "Veien (feat. Kapteinen)",
+      "url": "https://open.spotify.com/track/36Ohx2M4j4l3smfS1VNU6j"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "A little psychedelic, a little groovy, and very rootsy.",
   "name": "Psych & Groove",
-  "num_followers": 103668,
+  "num_followers": 103685,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTA3Mzc1NiwwMDAwMDAwMGI5MjRlMDBiMzQ5NDFiMDlkYzEyMWMwMGUxY2I2Yzdl",
+  "snapshot_id": "MTY0MTA4NDE1NiwwMDAwMDAwMDRlMGY4OWMwMDc1ZjA4OTExZWU2MTdkZGI3ZWZiZGEx",
   "tracks": [
     {
       "added_at": "2021-10-08 04:00:00",
@@ -23,22 +23,6 @@
       "duration_ms": 204548,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Liz Cooper & the Stampede | Audiotree Far Out",
-        "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 331879,
-      "name": "Motions - Far Out Version",
-      "url": "https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -63,6 +47,22 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
+        "name": "Liz Cooper & the Stampede | Audiotree Far Out",
+        "url": "https://open.spotify.com/album/6HDTKU5sFW1SwJ0CParyYQ"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 331879,
+      "name": "Motions - Far Out Version",
+      "url": "https://open.spotify.com/track/6sF7pOzhRCvuTLtVDrTg1Z"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/5nXc9eJPrasJL63AxYDMS6"
       },
@@ -75,54 +75,6 @@
       "duration_ms": 243769,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4UPVhpMIAuTUS6NDaEajXI"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "The Atlantic Ocean",
-        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
-      },
-      "artists": [
-        {
-          "name": "Richard Swift",
-          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Caught It from the Rye",
-        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
-      },
-      "artists": [
-        {
-          "name": "Tr\u00e9 Burt",
-          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "Real You",
-      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Habbie Doobie",
-        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 376618,
-      "name": "Habbie Doobie",
-      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -143,18 +95,18 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Dream Within a Dream",
-        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
+        "name": "The Atlantic Ocean",
+        "url": "https://open.spotify.com/album/2172kXt6Kr0rZigqs3GWKC"
       },
       "artists": [
         {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+          "name": "Richard Swift",
+          "url": "https://open.spotify.com/artist/7fSjnDr8tBO37Xbb2UXuYr"
         }
       ],
-      "duration_ms": 168080,
-      "name": "Dream Within a Dream",
-      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
+      "duration_ms": 258800,
+      "name": "Lady Luck",
+      "url": "https://open.spotify.com/track/68dSvPdwsCEGoKj72QDEXQ"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -183,18 +135,18 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Eno Nothing",
-        "url": "https://open.spotify.com/album/44VHKnRJRB38QN8pkOUmfp"
+        "name": "Caught It from the Rye",
+        "url": "https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag"
       },
       "artists": [
         {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+          "name": "Tr\u00e9 Burt",
+          "url": "https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc"
         }
       ],
-      "duration_ms": 216413,
-      "name": "Eno Nothing",
-      "url": "https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D"
+      "duration_ms": 169160,
+      "name": "Real You",
+      "url": "https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -215,6 +167,54 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
+        "name": "Eno Nothing",
+        "url": "https://open.spotify.com/album/44VHKnRJRB38QN8pkOUmfp"
+      },
+      "artists": [
+        {
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Eno Nothing",
+      "url": "https://open.spotify.com/track/3IRSGpUi9NhYHl6EdfQo8D"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 205525,
+      "name": "Quite Like You",
+      "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7fTjGWzWtuslYB5DBzOrZC"
+      },
+      "artists": [
+        {
+          "name": "Steve Gunn",
+          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
         "name": "On the Line",
         "url": "https://open.spotify.com/album/2AHG3vkC3H7zqHbYdgCCcy"
       },
@@ -231,18 +231,18 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Shannon In Nashville",
-        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP"
       },
       "artists": [
         {
-          "name": "Shannon Shaw",
-          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
         }
       ],
-      "duration_ms": 163280,
-      "name": "Goodbye Summer",
-      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
+      "duration_ms": 219029,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -263,18 +263,34 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+        "name": "Absolute Loser",
+        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
       "artists": [
         {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 205525,
-      "name": "Quite Like You",
-      "url": "https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX"
+      "duration_ms": 229840,
+      "name": "Baby Bluebird",
+      "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "To Who Knows Where",
+        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
+      },
+      "artists": [
+        {
+          "name": "Vetiver",
+          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "To Who Knows Where",
+      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -299,50 +315,18 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "The Olympians",
-        "url": "https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR"
+        "name": "LONER",
+        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
       },
       "artists": [
         {
-          "name": "The Olympians",
-          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 271466,
-      "name": "Apollo's Mood",
-      "url": "https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7fTjGWzWtuslYB5DBzOrZC"
-      },
-      "artists": [
-        {
-          "name": "Steve Gunn",
-          "url": "https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "New Moon",
-      "url": "https://open.spotify.com/track/69RVRzm0NGlg1qi7GgA5J5"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Phase Zero",
-        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
-      },
-      "artists": [
-        {
-          "name": "Morgan Delt",
-          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "Some Sunsick Day",
-      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
+      "duration_ms": 248791,
+      "name": "More Of The Same",
+      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -363,82 +347,34 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "The Unborn Capitalist From Limbo",
-        "url": "https://open.spotify.com/album/6yg69QGmlM2MDcX1Bdo2RN"
+        "name": "Phase Zero",
+        "url": "https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb"
       },
       "artists": [
         {
-          "name": "Cory Hanson",
-          "url": "https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6"
+          "name": "Morgan Delt",
+          "url": "https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1"
         }
       ],
-      "duration_ms": 248093,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/7xGMxT9ehrOlWjJwEyhuk2"
+      "duration_ms": 311280,
+      "name": "Some Sunsick Day",
+      "url": "https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Wild Heart",
-        "url": "https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09"
+        "name": "The Olympians",
+        "url": "https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR"
       },
       "artists": [
         {
-          "name": "Kashena Sampson",
-          "url": "https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt"
+          "name": "The Olympians",
+          "url": "https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Wild Heart",
-      "url": "https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP"
-      },
-      "artists": [
-        {
-          "name": "The Texas Gentlemen",
-          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
-        }
-      ],
-      "duration_ms": 219029,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "LONER",
-        "url": "https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 248791,
-      "name": "More Of The Same",
-      "url": "https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi"
+      "duration_ms": 271466,
+      "name": "Apollo's Mood",
+      "url": "https://open.spotify.com/track/1N9WgSJAca6uaXFHTktS97"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -459,24 +395,8 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "To Who Knows Where",
-        "url": "https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn"
-      },
-      "artists": [
-        {
-          "name": "Vetiver",
-          "url": "https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E"
-        }
-      ],
-      "duration_ms": 199586,
-      "name": "To Who Knows Where",
-      "url": "https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Ain't Nothin' New",
-        "url": "https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F"
+        "name": "Habbie Doobie",
+        "url": "https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk"
       },
       "artists": [
         {
@@ -484,41 +404,9 @@
           "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
         }
       ],
-      "duration_ms": 298933,
-      "name": "Ain't Nothin' New",
-      "url": "https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "V.",
-        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
-      },
-      "artists": [
-        {
-          "name": "Wooden Shjips",
-          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
-        }
-      ],
-      "duration_ms": 447998,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Absolute Loser",
-        "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Baby Bluebird",
-      "url": "https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh"
+      "duration_ms": 376618,
+      "name": "Habbie Doobie",
+      "url": "https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -555,122 +443,66 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "ism",
-        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
       },
       "artists": [
         {
-          "name": "Steelism",
-          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
-        },
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        },
-        {
-          "name": "Jessie Baylin",
-          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
         }
       ],
-      "duration_ms": 229506,
-      "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
-      "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
+      "duration_ms": 163280,
+      "name": "Goodbye Summer",
+      "url": "https://open.spotify.com/track/0d7crNWqruNUFY796UFbe5"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "No Quit",
-        "url": "https://open.spotify.com/album/3If5SivukLSxu4S7DCWbOd"
+        "name": "Wild Heart",
+        "url": "https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09"
       },
       "artists": [
         {
-          "name": "Michael Nau",
-          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
+          "name": "Kashena Sampson",
+          "url": "https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt"
         }
       ],
-      "duration_ms": 193520,
-      "name": "No Quit",
-      "url": "https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0"
+      "duration_ms": 222453,
+      "name": "Wild Heart",
+      "url": "https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Vanishing Shores",
-        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
+        "name": "Ain't Nothin' New",
+        "url": "https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F"
       },
       "artists": [
         {
-          "name": "Tom West",
-          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
+          "name": "The Texas Gentlemen",
+          "url": "https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw"
         }
       ],
-      "duration_ms": 212725,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
+      "duration_ms": 298933,
+      "name": "Ain't Nothin' New",
+      "url": "https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Bottle It In",
-        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
+        "name": "V.",
+        "url": "https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk"
       },
       "artists": [
         {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+          "name": "Wooden Shjips",
+          "url": "https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0"
         }
       ],
-      "duration_ms": 203133,
-      "name": "Loading Zones",
-      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Private Tales",
-        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 266946,
-      "name": "Seaquest",
-      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "666",
-        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
-      },
-      "artists": [
-        {
-          "name": "Sugar Candy Mountain",
-          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
-        }
-      ],
-      "duration_ms": 192027,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
-        "url": "https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8"
-      },
-      "artists": [
-        {
-          "name": "Ryley Walker",
-          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
-        }
-      ],
-      "duration_ms": 281786,
-      "name": "The Roundabout",
-      "url": "https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M"
+      "duration_ms": 447998,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -707,18 +539,18 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Fanfare",
-        "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
+        "name": "Vanishing Shores",
+        "url": "https://open.spotify.com/album/1uUarXMkJvV1R2syV3cYnU"
       },
       "artists": [
         {
-          "name": "Jonathan Wilson",
-          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
+          "name": "Tom West",
+          "url": "https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr"
         }
       ],
-      "duration_ms": 390666,
-      "name": "Cecil Taylor",
-      "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
+      "duration_ms": 212725,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/6mgIfZWip9DpqFD6q2Gf4G"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -755,66 +587,122 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Destroyer",
-        "url": "https://open.spotify.com/album/6i91Krcop9ZJeTzPLqhPZO"
+        "name": "The Unborn Capitalist From Limbo",
+        "url": "https://open.spotify.com/album/6yg69QGmlM2MDcX1Bdo2RN"
       },
       "artists": [
         {
-          "name": "Black Mountain",
-          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+          "name": "Cory Hanson",
+          "url": "https://open.spotify.com/artist/2XG4LWrmKXFA1PqnUsuPj6"
         }
       ],
-      "duration_ms": 298760,
-      "name": "Pretty Little Lazies",
-      "url": "https://open.spotify.com/track/48TSuxtSV3nLsHLbwSw2UY"
+      "duration_ms": 248093,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/7xGMxT9ehrOlWjJwEyhuk2"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Confidence Man",
-        "url": "https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB"
+        "name": "No Quit",
+        "url": "https://open.spotify.com/album/3If5SivukLSxu4S7DCWbOd"
       },
       "artists": [
         {
-          "name": "Cass McCombs",
-          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
+          "name": "Michael Nau",
+          "url": "https://open.spotify.com/artist/1VfgWum48nwYJcCfdPwWgs"
         }
       ],
-      "duration_ms": 282975,
-      "name": "Confidence Man",
-      "url": "https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC"
+      "duration_ms": 193520,
+      "name": "No Quit",
+      "url": "https://open.spotify.com/track/4g15kgCDhIdHEzbBJvCNd0"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Vol. 1",
-        "url": "https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf"
+        "name": "ism",
+        "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
       "artists": [
         {
-          "name": "BROS",
-          "url": "https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc"
+          "name": "Steelism",
+          "url": "https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco"
+        },
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        },
+        {
+          "name": "Jessie Baylin",
+          "url": "https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT"
         }
       ],
-      "duration_ms": 231155,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/581KISzBIATjlONj5MbPQe"
+      "duration_ms": 229506,
+      "name": "Lonely Game (feat. Andrew Combs & Jessie Baylin)",
+      "url": "https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Champions",
-        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
+        "name": "Dream Within a Dream",
+        "url": "https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx"
       },
       "artists": [
         {
-          "name": "Whiskerman",
-          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
         }
       ],
-      "duration_ms": 318826,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
+      "duration_ms": 168080,
+      "name": "Dream Within a Dream",
+      "url": "https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Bottle It In",
+        "url": "https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Loading Zones",
+      "url": "https://open.spotify.com/track/69o00fGvsei250jH7bF781"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Private Tales",
+        "url": "https://open.spotify.com/album/2A2CCRLatKBrBodEp4UIz6"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 266946,
+      "name": "Seaquest",
+      "url": "https://open.spotify.com/track/2VsAxaacbKF0L54eymlPVd"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -835,34 +723,18 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Karma For Cheap",
-        "url": "https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD"
+        "name": "Confidence Man",
+        "url": "https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB"
       },
       "artists": [
         {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+          "name": "Cass McCombs",
+          "url": "https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz"
         }
       ],
-      "duration_ms": 243346,
-      "name": "Heart Slows Down",
-      "url": "https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Brain Cycles",
-        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
-      },
-      "artists": [
-        {
-          "name": "Radio Moscow",
-          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "250 Miles",
-      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
+      "duration_ms": 282975,
+      "name": "Confidence Man",
+      "url": "https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -883,18 +755,82 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/4JgEQ2lgKAZievIQsRh7lI"
+        "name": "Fanfare",
+        "url": "https://open.spotify.com/album/0oFgCWCbCPdLcDBVblR65z"
       },
       "artists": [
         {
-          "name": "Dylan LeBlanc",
-          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
+          "name": "Jonathan Wilson",
+          "url": "https://open.spotify.com/artist/6KJIIOCWsWtNc7ICINtPEw"
         }
       ],
-      "duration_ms": 234346,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc"
+      "duration_ms": 390666,
+      "name": "Cecil Taylor",
+      "url": "https://open.spotify.com/track/0dTKg7gQzxuBRNRy0e1IVX"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf"
+      },
+      "artists": [
+        {
+          "name": "BROS",
+          "url": "https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc"
+        }
+      ],
+      "duration_ms": 231155,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/581KISzBIATjlONj5MbPQe"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Destroyer",
+        "url": "https://open.spotify.com/album/6i91Krcop9ZJeTzPLqhPZO"
+      },
+      "artists": [
+        {
+          "name": "Black Mountain",
+          "url": "https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Pretty Little Lazies",
+      "url": "https://open.spotify.com/track/48TSuxtSV3nLsHLbwSw2UY"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Golden Sings That Have Been Sung (Deep Cuts Edition)",
+        "url": "https://open.spotify.com/album/6pzoDMaxrkGRsjoMKey5x8"
+      },
+      "artists": [
+        {
+          "name": "Ryley Walker",
+          "url": "https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc"
+        }
+      ],
+      "duration_ms": 281786,
+      "name": "The Roundabout",
+      "url": "https://open.spotify.com/track/1bdp1CY6vfKPESMCa2NI1M"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "666",
+        "url": "https://open.spotify.com/album/1Utz6IHVssHoFwNWrXLoFe"
+      },
+      "artists": [
+        {
+          "name": "Sugar Candy Mountain",
+          "url": "https://open.spotify.com/artist/3y6SKYXXP4lrliD6CzVXH3"
+        }
+      ],
+      "duration_ms": 192027,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -915,50 +851,34 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "There Will Come Soft Rains",
-        "url": "https://open.spotify.com/album/4hfr4fU8gI3kqxgY9Exx0o"
+        "name": "Karma For Cheap",
+        "url": "https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD"
       },
       "artists": [
         {
-          "name": "Esm\u00e9 Patterson",
-          "url": "https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa"
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
         }
       ],
-      "duration_ms": 134880,
-      "name": "Out The Door",
-      "url": "https://open.spotify.com/track/3qQhgP33KDnEdF1XdVJGwK"
+      "duration_ms": 243346,
+      "name": "Heart Slows Down",
+      "url": "https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH"
     },
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Gather, Form & Fly",
-        "url": "https://open.spotify.com/album/7iFwHuSyqONu2CmFjWY12E"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/4JgEQ2lgKAZievIQsRh7lI"
       },
       "artists": [
         {
-          "name": "Megafaun",
-          "url": "https://open.spotify.com/artist/0o1wK6uAmkrixovsE80lMR"
+          "name": "Dylan LeBlanc",
+          "url": "https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k"
         }
       ],
-      "duration_ms": 236533,
-      "name": "Kaufman's Ballad",
-      "url": "https://open.spotify.com/track/792ebNEUn9ndC6GT54a7hc"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "Island Time",
-        "url": "https://open.spotify.com/album/0ILY6L8LhDDnmfctnXdwjj"
-      },
-      "artists": [
-        {
-          "name": "Jamtown",
-          "url": "https://open.spotify.com/artist/32eTdkXPNVrfPShFVWZu1N"
-        }
-      ],
-      "duration_ms": 235407,
-      "name": "Island Time",
-      "url": "https://open.spotify.com/track/453gfGTfhbbOGXVaaNVrPo"
+      "duration_ms": 234346,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/5HiIz6ICFx1VgoxjxX4ywc"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -979,6 +899,54 @@
     {
       "added_at": "2021-10-08 04:00:00",
       "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05"
+      },
+      "artists": [
+        {
+          "name": "Whiskerman",
+          "url": "https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta"
+        }
+      ],
+      "duration_ms": 318826,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "There Will Come Soft Rains",
+        "url": "https://open.spotify.com/album/4hfr4fU8gI3kqxgY9Exx0o"
+      },
+      "artists": [
+        {
+          "name": "Esm\u00e9 Patterson",
+          "url": "https://open.spotify.com/artist/1PoFNQQDFXvOYm6Dx8coAa"
+        }
+      ],
+      "duration_ms": 134880,
+      "name": "Out The Door",
+      "url": "https://open.spotify.com/track/3qQhgP33KDnEdF1XdVJGwK"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Automechanic",
+        "url": "https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA"
+      },
+      "artists": [
+        {
+          "name": "Jenny O.",
+          "url": "https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Automechanic",
+      "url": "https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
         "name": "Roulette (feat. Ruby Amanfu)",
         "url": "https://open.spotify.com/album/4wccD7Vpkx9Grut1VFTTUm"
       },
@@ -995,6 +963,38 @@
       "duration_ms": 271306,
       "name": "Roulette (feat. Ruby Amanfu)",
       "url": "https://open.spotify.com/track/6l8joEnsFzO05Uy7LVT3HD"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Brain Cycles",
+        "url": "https://open.spotify.com/album/7BpKrz38kMmgSTLrRU17ZO"
+      },
+      "artists": [
+        {
+          "name": "Radio Moscow",
+          "url": "https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "250 Miles",
+      "url": "https://open.spotify.com/track/3drJvEvfMS5mnJ4JtmkM5S"
+    },
+    {
+      "added_at": "2021-10-08 04:00:00",
+      "album": {
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/3l12R0s3By5uisnybE2Cbk"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 201545,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/1Q55tboRIfofEepjqB8n8P"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2FJ4E5eMYdk"

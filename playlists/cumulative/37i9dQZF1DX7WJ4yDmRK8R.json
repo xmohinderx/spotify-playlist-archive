@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220133,
       "name": "A Flowery Song",
       "url": "https://open.spotify.com/track/6FYCcmTfxq84NSePWXLIby"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164880,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4rcNt8pEnkQSQVyTXgmlG9"
@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "Cattle Life",
+        "url": "https://open.spotify.com/album/3Zvigxl3r86W0lkMtMx8FJ"
+      },
+      "artists": [
+        {
+          "name": "Abraskadabra",
+          "url": "https://open.spotify.com/artist/0YYh1MN3VtMPwamadN4xp2"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182708,
+      "name": "Cattle Life",
+      "url": "https://open.spotify.com/track/7udyYiY9yq9InvAqiJYjo7"
+    },
+    {
+      "album": {
         "name": "Grazie Governo",
         "url": "https://open.spotify.com/album/3smUFawuEdEriRtb69L6ev"
       },
@@ -456,7 +474,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
@@ -492,7 +510,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 254720,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5EcwkzTe649NhX3GzN7kNK"
@@ -600,7 +618,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 102826,
       "name": "Friday",
       "url": "https://open.spotify.com/track/7IjLHbXOVXZNxJiiNHL6hF"
@@ -618,7 +636,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 95500,
       "name": "Future Version",
       "url": "https://open.spotify.com/track/03VKi7ZYa1pvUKeZ8TfrOP"
@@ -712,7 +730,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 164092,
       "name": "Hello Again",
       "url": "https://open.spotify.com/track/4X2MCbOuInlaGGTrhtNNQA"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 226413,
       "name": "Here is the News (Papa\u00b4s Got a Brand New Pigbag)",
       "url": "https://open.spotify.com/track/0Sgv5oF4OGGGFlEmtzpAEc"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 229813,
       "name": "Hey Road",
       "url": "https://open.spotify.com/track/0GnkpXQV1n2W6gJ5Mq4b9T"
@@ -964,7 +982,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 228947,
       "name": "Level Up - Radio Edit",
       "url": "https://open.spotify.com/track/1tUfaWeAysLESckeL3HfvD"
@@ -982,7 +1000,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 204534,
       "name": "Libriyum",
       "url": "https://open.spotify.com/track/7M4lhJlyieKjpi5LLhpDgw"
@@ -1162,7 +1180,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206032,
       "name": "Middle Finger",
       "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 208587,
       "name": "Second Cities",
       "url": "https://open.spotify.com/track/13yAmRJ9Djttg27TgT2dC8"
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205585,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/70Oq8tGYqDhgZiywEb16bS"
@@ -1684,7 +1702,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Stepping Out",
       "url": "https://open.spotify.com/track/3TjsikWPyMLvnjQiUATci6"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 166093,
       "name": "Underinsured",
       "url": "https://open.spotify.com/track/5XysARL1Hl8na7hvnHhiS1"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 188250,
       "name": "Wake Up, The Monster Said",
       "url": "https://open.spotify.com/track/3LyhwdYWw11L7evg7EliIl"
@@ -2406,7 +2424,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 202874,
       "name": "What You Burn",
       "url": "https://open.spotify.com/track/7tp2beIGRHisVsXz8DJi5O"

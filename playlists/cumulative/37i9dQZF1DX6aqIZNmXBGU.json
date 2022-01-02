@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190640,
       "name": "Alone & Stoned",
       "url": "https://open.spotify.com/track/3gWXj0M91hORb7ZjSZpdHW"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "Buick Mackane",
       "url": "https://open.spotify.com/track/4MYQmhDkFCC7HTrVCdWhGE"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 89520,
       "name": "Demon From Hell",
       "url": "https://open.spotify.com/track/3NaT4FM9fCu29Ep9DoVh0N"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 148893,
       "name": "DVP",
       "url": "https://open.spotify.com/track/0bq0YAWnc5HuE3AnYhITA5"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 132760,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/5vEE1d5gkv3pgfZyppLeX8"
@@ -452,7 +452,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 234048,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4PiWyH1ZPvH7PVEON92tDM"
@@ -834,10 +834,28 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 312613,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/6ox3xc5CNTDQiAINfzP8Zw"
+    },
+    {
+      "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156773,
+      "name": "Nerve Jamming",
+      "url": "https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq"
     },
     {
       "album": {
@@ -888,7 +906,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 161893,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/0LBmvPJYmtEJ7kkWvc3kbT"
@@ -910,6 +928,24 @@
       "duration_ms": 154880,
       "name": "On Your Own",
       "url": "https://open.spotify.com/track/2uDFhZYPUUp89iET130ZEm"
+    },
+    {
+      "album": {
+        "name": "In Utero - 20th Anniversary Remaster",
+        "url": "https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "Pennyroyal Tea",
+      "url": "https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu"
     },
     {
       "album": {
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 246946,
       "name": "Sick Shit",
       "url": "https://open.spotify.com/track/14q1CWouLEjFT6zu5re8hR"
@@ -1216,6 +1252,24 @@
       "duration_ms": 148306,
       "name": "Veni Vidi Vici",
       "url": "https://open.spotify.com/track/5Z5YEyR5i8V8Ui2e5jGAAm"
+    },
+    {
+      "album": {
+        "name": "Keep Your Stupid Dreams Alive",
+        "url": "https://open.spotify.com/album/4NaHNMDgSixvdoV58jJLSF"
+      },
+      "artists": [
+        {
+          "name": "The Prefab Messiahs",
+          "url": "https://open.spotify.com/artist/5GYnYoovZYKHZwodZQ9leb"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166093,
+      "name": "Weirdoz Everywhere",
+      "url": "https://open.spotify.com/track/1y1x50RPlbMxQEfdEea4jq"
     },
     {
       "album": {

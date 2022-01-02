@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 204761,
       "name": "ABrandNewDay",
       "url": "https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 120973,
       "name": "FIRE FIELD",
       "url": "https://open.spotify.com/track/3kXaNzhwlGurylzMT7it2I"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 223560,
       "name": "Guile's Theme",
       "url": "https://open.spotify.com/track/7M6nNNNY64iudc2TDijFpv"
@@ -460,10 +460,28 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 122493,
       "name": "OPENING STAGE X",
       "url": "https://open.spotify.com/track/4Y9GXg4Pb12oyhWcyVL67w"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60586,
+      "name": "Opening(\u30d1\u30ef\u30fc\u30c9\u30ae\u30a2\u3088\u308a)",
+      "url": "https://open.spotify.com/track/5SgC1qbSdw6d5AgNyU31dw"
     },
     {
       "album": {
@@ -666,7 +684,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 298106,
       "name": "Shall Never Surrender (\u30b9\u30bf\u30c3\u30d5\u30ed\u30fc\u30eb)",
       "url": "https://open.spotify.com/track/28V8E51oYwpyocyUsqr63y"
@@ -745,6 +763,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "TeenageBlues",
+      "url": "https://open.spotify.com/track/6UXsvQPymtQBhc4q83fT3O"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo"
       },
@@ -792,7 +828,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 184600,
       "name": "Theme of Ken",
       "url": "https://open.spotify.com/track/7usj87tZmaPwgYm7EmJPgr"
@@ -864,7 +900,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 201133,
       "name": "ULTRA VIOLET(\u30cd\u30ed \u30a2\u30f3\u30b8\u30a7\u30ed\u6226)",
       "url": "https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI"
@@ -972,7 +1008,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 242083,
       "name": "\u30ab\u30e0\u30e9\u7953\u3048\u6b4c",
       "url": "https://open.spotify.com/track/1UjOE6ihgAsc5LxzxRFVxE"
@@ -1243,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u9006\u8ee2\u88c1\u5224 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u5192\u96aa- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
+        "url": "https://open.spotify.com/album/2CmR5MR5IMs14hEE50YbVH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "\u8ffd\u6c42 \u301c\u5927\u9006\u8ee2\u306e\u3068\u304d",
+      "url": "https://open.spotify.com/track/6p3BMNKh2EjgQ0lRUCvfJf"
+    },
+    {
+      "album": {
         "name": "\u9006\u8ee2\u88c1\u52244 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/3haM8GP0d5GVapGEwxyH2O"
       },
@@ -1254,7 +1308,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 109000,
       "name": "\u8ffd\u6c42 \u301c\u8ffd\u3044\u3064\u3081\u306a\u3044\u3068",
       "url": "https://open.spotify.com/track/0RFqcEz2UQkBccRilC278S"

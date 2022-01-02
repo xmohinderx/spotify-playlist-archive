@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654XADbS8bL.md) - [plain]
 
 > The Bollywood composer's popular tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,945 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,947 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

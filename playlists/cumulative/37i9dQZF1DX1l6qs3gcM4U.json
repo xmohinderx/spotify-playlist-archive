@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 235244,
       "name": "Acerta",
       "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
@@ -274,7 +274,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194851,
       "name": "Bonequinha",
       "url": "https://open.spotify.com/track/6BbmAv609s7flNYFKhmnGG"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214492,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/7smOsCISsw5wc4UHBfq2Tb"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214500,
       "name": "Exagerar",
       "url": "https://open.spotify.com/track/6WZuamKbhEv7uJnSPWtzAv"
@@ -930,6 +930,28 @@
       "duration_ms": 228000,
       "name": "Insistir Porqu\u00ea - Saxo-Kizomba Remix",
       "url": "https://open.spotify.com/track/1T6FLxnygwAYRqBq02fZO0"
+    },
+    {
+      "album": {
+        "name": "Jaj\u00e3o (feat. Eddy Flow)",
+        "url": "https://open.spotify.com/album/6EXDkJvIsctHejnqH1aQyN"
+      },
+      "artists": [
+        {
+          "name": "Master Jake",
+          "url": "https://open.spotify.com/artist/7tdSrdoqbAniXIyahnjsXX"
+        },
+        {
+          "name": "Eddy Flow",
+          "url": "https://open.spotify.com/artist/3Hr0eR1NAk4mjPW9WXjsMi"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248913,
+      "name": "Jaj\u00e3o (feat. Eddy Flow)",
+      "url": "https://open.spotify.com/track/3wgRc4Rkba9wxgJ8gxgX8I"
     },
     {
       "album": {
@@ -1182,7 +1204,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 219218,
       "name": "Meu Marido",
       "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
@@ -1328,6 +1350,28 @@
       "duration_ms": 226626,
       "name": "Nha Rainha (feat. Dino D'Santiago)",
       "url": "https://open.spotify.com/track/2eWly1qDvIMnrV91WGvAzX"
+    },
+    {
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190190,
+      "name": "No Bad Vibez",
+      "url": "https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz"
     },
     {
       "album": {
@@ -1670,7 +1714,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 199219,
       "name": "Quem \u00c9 ?",
       "url": "https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY"
@@ -1830,7 +1874,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 205785,
       "name": "Ser Feliz",
       "url": "https://open.spotify.com/track/4tb70HZ8PwboF7aGGVBl1I"
@@ -1870,7 +1914,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 202397,
       "name": "Sinto Falta",
       "url": "https://open.spotify.com/track/3HjUVOsrtf2fkJRXaXzhkO"
@@ -1932,7 +1976,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 231529,
       "name": "Sozinha Comigo",
       "url": "https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX"
@@ -2052,7 +2096,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
@@ -2184,7 +2228,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195408,
       "name": "UH",
       "url": "https://open.spotify.com/track/5LgphYNfWHIwIRUqNCWcOM"
@@ -2210,7 +2254,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 256366,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/3DLt9ps9wxm2eggczXShLM"

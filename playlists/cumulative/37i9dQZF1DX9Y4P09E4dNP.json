@@ -186,7 +186,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 331258,
       "name": "Araba Lawson (feat. All4real)",
       "url": "https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 342125,
       "name": "Bue Bue (feat. Castro)",
       "url": "https://open.spotify.com/track/1vSMFShTdr7geA5nfh4zpg"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 305972,
       "name": "Deeba",
       "url": "https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 341968,
       "name": "Konkontiba (feat. Batman)",
       "url": "https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 212767,
       "name": "Maba",
       "url": "https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 346775,
       "name": "Mesan Aba (feat. Nana Quame)",
       "url": "https://open.spotify.com/track/6ubA77bSivUeRqk10GpRTX"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 331389,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 305005,
       "name": "Obaa Sweety",
       "url": "https://open.spotify.com/track/5veXakVB9V2uZmKM1cwK95"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 309786,
       "name": "Odo Esisi Me",
       "url": "https://open.spotify.com/track/2zhlGF3UdumrDkgLx3iaVv"
@@ -774,6 +774,24 @@
       "duration_ms": 300359,
       "name": "Oye Ohene featuring Tinny",
       "url": "https://open.spotify.com/track/4vR0tJ5daJdqZ0sjEidju2"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Nsiah Piesie",
+          "url": "https://open.spotify.com/artist/3Jz73C0AKTFh62DKP9pTOd"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308688,
+      "name": "Police Abaa",
+      "url": "https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL"
     },
     {
       "album": {
@@ -940,7 +958,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 316003,
       "name": "Tuabodom",
       "url": "https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf"
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2020-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 293355,
       "name": "Yahooya (feat. Batman)",
       "url": "https://open.spotify.com/track/2f31vW2Rp3390tlIZ0IHzl"

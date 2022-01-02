@@ -92,7 +92,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 218733,
       "name": "Alone",
       "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 266960,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/0k9un4VZY52tvtxNhg6XLo"
@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "No Frontiers",
+        "url": "https://open.spotify.com/album/4du1Fufay94XEZm5TuVsah"
+      },
+      "artists": [
+        {
+          "name": "Mary Black",
+          "url": "https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243093,
+      "name": "No Frontiers",
+      "url": "https://open.spotify.com/track/075LWX2tTniXSYSyRlTObj"
+    },
+    {
+      "album": {
         "name": "Waking Hours",
         "url": "https://open.spotify.com/album/0Lc01v8Q9j9WW2XyGtxzdx"
       },
@@ -1210,6 +1228,24 @@
       "duration_ms": 237013,
       "name": "One Of Us",
       "url": "https://open.spotify.com/track/1GIH43Iy0VhhJ7a00wRy25"
+    },
+    {
+      "album": {
+        "name": "The Rise & Fall",
+        "url": "https://open.spotify.com/album/6CZkNYiE9HGqRlGFprzR4i"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/1EXrFPfVNVsyb32yapebbM"
     },
     {
       "album": {
@@ -1318,7 +1354,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 266333,
       "name": "Slave To Love",
       "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
@@ -1336,7 +1372,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 312000,
       "name": "Solid",
       "url": "https://open.spotify.com/track/4sr4NdrPfds9Qfors9UkiO"
@@ -1354,7 +1390,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 242706,
       "name": "Somewhere in My Heart",
       "url": "https://open.spotify.com/track/1cjXYzFXdHGppaMFFvU64g"
@@ -1520,7 +1556,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 149026,
       "name": "Theme from Harry's Game - Remastered",
       "url": "https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF"
@@ -1538,7 +1574,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 214000,
       "name": "This Woman's Work",
       "url": "https://open.spotify.com/track/4F6ihtOUcj1uLWdSkc1RzG"
@@ -1892,7 +1928,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 173760,
       "name": "You Keep It All In",
       "url": "https://open.spotify.com/track/2FrSgjKapyphwJok43nt1a"

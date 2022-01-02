@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 133293,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/2XTggG0CO00DkQy3U9rj1e"
@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Drain The Blood (DMD Maxi)",
+        "url": "https://open.spotify.com/album/4SvyM68OkDNAtCzUD0bKbi"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "Drain the Blood",
+      "url": "https://open.spotify.com/track/3G0dKzDGU2jUphIjfbgGuj"
+    },
+    {
+      "album": {
         "name": "Drunken Lullabies",
         "url": "https://open.spotify.com/album/7tX0mFU6VBKjBXKJRv3jc5"
       },
@@ -376,7 +394,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 230640,
       "name": "Drunken Lullabies",
       "url": "https://open.spotify.com/track/3nhJpxZXEQTsZwrDUihXQf"
@@ -592,7 +610,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 206080,
       "name": "Kemp",
       "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"

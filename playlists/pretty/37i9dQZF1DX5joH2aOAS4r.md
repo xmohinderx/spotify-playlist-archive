@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5joH2aOAS4r.md) - [plain]
 
 > Never Forget all their biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,106 likes - 44 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,104 likes - 44 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

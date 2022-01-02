@@ -260,7 +260,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 237466,
       "name": "Ankhon Hi Ankhon Mein",
       "url": "https://open.spotify.com/track/4DrwGBkDCtQsA81GNPgvNA"
@@ -318,7 +318,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 339066,
       "name": "Aye-Dil-E-Nadan, Pt. 1",
       "url": "https://open.spotify.com/track/4GPR2blOOTmvo1cW2rTM7J"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 199119,
       "name": "Dil Ka Bhanwar Kare Pukar (From \"Tere Ghar Ke Samne\")",
       "url": "https://open.spotify.com/track/5jLLoCldTG8bsynJWI7jJT"
@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Vintage Music Of Goa India",
+        "url": "https://open.spotify.com/album/5l6QOP6eEHuuqGE0WOQZ0n"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Amirbai Karnataki",
+          "url": "https://open.spotify.com/artist/025NPyHBtWC9aQM4STXI5V"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186693,
+      "name": "Dillagi: Gore Gore O Banke Chhore",
+      "url": "https://open.spotify.com/track/5xuR8nxoyWGIa4qxr0EiOC"
+    },
+    {
+      "album": {
         "name": "The Great Gambler",
         "url": "https://open.spotify.com/album/5ySk8K15eNgQVTCKhpb42c"
       },
@@ -514,7 +536,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 279754,
       "name": "Do Lafzon Ki Hai Dil Ki Kahani - Asha Bhosle",
       "url": "https://open.spotify.com/track/72B7rdPUVvEbap8RvIQbVk"
@@ -660,7 +682,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 200240,
       "name": "Jaata Kahanhai Diwane",
       "url": "https://open.spotify.com/track/5nWMAyvfVkvu7TOtVhGLqM"
@@ -942,7 +964,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 363200,
       "name": "Mera Saaya Saath Hoga (From \"Mera Saaya\")",
       "url": "https://open.spotify.com/track/4XUPFhs4GiN3Mu1wv0MIcy"
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 415236,
       "name": "O Haseena Zulfonwale Jane Jahan (From \"Teesri Manzil\")",
       "url": "https://open.spotify.com/track/1JHNf1BPNDQEVZehemIDay"
@@ -1232,7 +1254,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 254773,
       "name": "Tera Mujhse - Aa Gale Lag Jaa / Soundtrack Version",
       "url": "https://open.spotify.com/track/3Jj02N4CsUY8YAn2d03M4K"
@@ -1250,7 +1272,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 261279,
       "name": "Tere Mere Sapne Ab Ek Rang Hain",
       "url": "https://open.spotify.com/track/0bkZP6HJBDA0kBbMYKXsWj"
@@ -1344,7 +1366,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 248226,
       "name": "Yeh Hai Bombay Meri Jaan",
       "url": "https://open.spotify.com/track/15XBdkGcDy4WZJlWjF1gZc"
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 474906,
       "name": "Yeh Kahan Aa Gaye Hum",
       "url": "https://open.spotify.com/track/1QIj8I43FGPhol27UIk7ix"
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 226680,
       "name": "Yeh Mera Diwanapan Hai",
       "url": "https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU"
@@ -1464,7 +1486,7 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 201160,
       "name": "Yeh Raaten Yeh Mausam",
       "url": "https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J"

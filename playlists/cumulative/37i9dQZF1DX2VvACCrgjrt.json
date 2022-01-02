@@ -34,7 +34,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 240000,
       "name": "12 AM Shuffle",
       "url": "https://open.spotify.com/track/0xAjCLCwfRUZQe6t2G2Ywe"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 265320,
       "name": "Asquerosa",
       "url": "https://open.spotify.com/track/5eMDSOp94CwdbgduVHApEj"
@@ -194,7 +194,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 198980,
       "name": "Badman",
       "url": "https://open.spotify.com/track/7xrLwvKLrZfzLvoBOdoEUf"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 216960,
       "name": "Big Bass",
       "url": "https://open.spotify.com/track/0cZNioy7IGLvLrqqI2JW3z"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 187142,
       "name": "BOOTY MACHINE",
       "url": "https://open.spotify.com/track/2IowJ31tdRvj4n53rGoHnh"
@@ -612,7 +612,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 184777,
       "name": "Break (My Heart)",
       "url": "https://open.spotify.com/track/1kjs6z6gLjcBWvZ71EJNXz"
@@ -696,7 +696,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 161932,
       "name": "Burn the House",
       "url": "https://open.spotify.com/track/0Qv962GVef5ssQboETsqvF"
@@ -1085,6 +1085,28 @@
     },
     {
       "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "album": {
         "name": "Do Me Right",
         "url": "https://open.spotify.com/album/67FSPQuOEYIU4vqtcg0Fxm"
       },
@@ -1176,7 +1198,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 161932,
       "name": "Eat That",
       "url": "https://open.spotify.com/track/3wAZSNBuAlgA0fHELUvjMF"
@@ -1238,7 +1260,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 220650,
       "name": "Faded",
       "url": "https://open.spotify.com/track/4m2EC8p4YY3pLdmLM6hegJ"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 195000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC"
@@ -1362,7 +1384,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 174843,
       "name": "Full of Love",
       "url": "https://open.spotify.com/track/62UaGLT1sKYQhhudWjcAjq"
@@ -1413,6 +1435,24 @@
     },
     {
       "album": {
+        "name": "Get In",
+        "url": "https://open.spotify.com/album/69RX6uKhlhNJQ3jbdEuLnu"
+      },
+      "artists": [
+        {
+          "name": "Shahay",
+          "url": "https://open.spotify.com/artist/1pjJMzKi91pQ2AWcEcXPZ2"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236488,
+      "name": "Get In",
+      "url": "https://open.spotify.com/track/4ishNa3yuhYvCLBRhCjFiy"
+    },
+    {
+      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/6dGns7nbpxDipRomnj6mgC"
       },
@@ -1428,6 +1468,24 @@
       "duration_ms": 186239,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3bT1QiVx8FcObFcDuBArth"
+    },
+    {
+      "album": {
+        "name": "Night Bass Freshmen Vol 5",
+        "url": "https://open.spotify.com/album/3OjXm3xqc8IsIKIdJ3nf8U"
+      },
+      "artists": [
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "Give It To Me",
+      "url": "https://open.spotify.com/track/5Q6nl2QQGP4KTD24FIKM8G"
     },
     {
       "album": {
@@ -1464,7 +1522,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 163200,
       "name": "Gold On My Crown (feat. Born I)",
       "url": "https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii"
@@ -1552,7 +1610,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 176770,
       "name": "Gotta Be - Bleu Clair Remix",
       "url": "https://open.spotify.com/track/4FynH1lObCJ0ILN5VgfWOD"
@@ -1614,7 +1672,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 330937,
       "name": "Healed",
       "url": "https://open.spotify.com/track/7B25qFeKgDW6X7gDogoseo"
@@ -1632,7 +1690,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 194319,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5YT0stC917pjldKbdVzEo4"
@@ -1746,7 +1804,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 142380,
       "name": "Hold Up (feat. J. Plaza)",
       "url": "https://open.spotify.com/track/6HkQZhtfy9VEl149aO3g6d"
@@ -1768,6 +1826,24 @@
       "duration_ms": 170370,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/6YMSywt3HpzVLoxDN6tzqo"
+    },
+    {
+      "album": {
+        "name": "Hypnosis",
+        "url": "https://open.spotify.com/album/1GSiJhz5OGVnWvxCqhHKSi"
+      },
+      "artists": [
+        {
+          "name": "Brandon Mints",
+          "url": "https://open.spotify.com/artist/5YjfNaHq05WrwldRe1QSBc"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173858,
+      "name": "Hypnosis",
+      "url": "https://open.spotify.com/track/218C3xKWaTkNwEmDLW6oD4"
     },
     {
       "album": {
@@ -1930,7 +2006,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 216377,
       "name": "Killin' Me",
       "url": "https://open.spotify.com/track/1cPqgK1AmZmywfmakmDkZW"
@@ -1984,7 +2060,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 160081,
       "name": "Light Show",
       "url": "https://open.spotify.com/track/5vCQx3NZg5e54gMgprzYqG"
@@ -2024,7 +2100,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 181417,
       "name": "LO*E DR*G",
       "url": "https://open.spotify.com/track/1JfryJlUV7RuCdTOSSVbwN"
@@ -2116,7 +2192,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 183701,
       "name": "Love Is Coming Down",
       "url": "https://open.spotify.com/track/48dEIGE6vrPalLnkZH9KXI"
@@ -2250,7 +2326,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 213543,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/2DE6qfjcw3kCh9LQlwCItw"
@@ -2440,7 +2516,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 223200,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb"
@@ -2494,7 +2570,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 190522,
       "name": "Pass",
       "url": "https://open.spotify.com/track/1RrTBlXTL0S4ny1KaqGZIe"
@@ -2650,7 +2726,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 184761,
       "name": "Rampage",
       "url": "https://open.spotify.com/track/1FAMmDVKA84HUrA12iFEuE"
@@ -2690,10 +2766,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 213333,
       "name": "Represent",
       "url": "https://open.spotify.com/track/0m1T6bvHN1TtWJD88cgXLo"
+    },
+    {
+      "album": {
+        "name": "Ride with Us",
+        "url": "https://open.spotify.com/album/5JaU29Bf9psPTIBiBAntE6"
+      },
+      "artists": [
+        {
+          "name": "TCHDWN",
+          "url": "https://open.spotify.com/artist/60niYEUa3Wsf65wvQUy5tw"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "Ride with Us",
+      "url": "https://open.spotify.com/track/71mJJ2kF8TnwDbNnBbSnzy"
     },
     {
       "album": {

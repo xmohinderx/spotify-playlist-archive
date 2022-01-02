@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205286,
       "name": "A Concert Six Months From Now",
       "url": "https://open.spotify.com/track/1FaXNkTPTe6k8mCCi6OVbh"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 222628,
       "name": "Before You Let Me Go",
       "url": "https://open.spotify.com/track/5VhiUa3rk0vPdXGf48EC7K"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 172821,
       "name": "Down Days",
       "url": "https://open.spotify.com/track/7zbHLUYieIVy0Qb8ciRbmx"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 167943,
       "name": "Fall Before You",
       "url": "https://open.spotify.com/track/1Nq0NBvGr3uPtKu0IhhBWM"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 184280,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/5TdTYpjLQv25ImZAX6s4Db"
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 224093,
       "name": "Lost Keys",
       "url": "https://open.spotify.com/track/2UFnAnx5ZC0RgCqVSlA1Zj"
@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 275113,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5HzQDTbgRVfDgjxgwQ6lmt"
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 262978,
       "name": "Nocturnal",
       "url": "https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-02",
       "duration_ms": 153453,
       "name": "The Outside",
       "url": "https://open.spotify.com/track/3E73vIwmxgJxa4hoRB0jHI"
@@ -2214,6 +2214,24 @@
       "duration_ms": 195840,
       "name": "upstream",
       "url": "https://open.spotify.com/track/6t2BxwBbLB8M981sJqDxte"
+    },
+    {
+      "album": {
+        "name": "Used To Love Me",
+        "url": "https://open.spotify.com/album/7g5HUwnAC5uinT6b7PlNVK"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Used To Love Me",
+      "url": "https://open.spotify.com/track/4rzgxHBn7CI1FHGwn4d34k"
     },
     {
       "album": {
