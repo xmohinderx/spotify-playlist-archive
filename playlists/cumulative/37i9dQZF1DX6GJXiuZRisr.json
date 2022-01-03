@@ -133,7 +133,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 168319,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
@@ -220,6 +220,32 @@
     },
     {
       "album": {
+        "name": "Awakening",
+        "url": "https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205464,
+      "name": "Awakening",
+      "url": "https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m"
+    },
+    {
+      "album": {
         "name": "Apnea",
         "url": "https://open.spotify.com/album/2P7XyZlFlhCHtXCUp7al5C"
       },
@@ -293,7 +319,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 345365,
       "name": "Bridges In The Sky (feat. Maurits Colijn)",
       "url": "https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII"
@@ -311,7 +337,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 195360,
       "name": "bygones",
       "url": "https://open.spotify.com/track/61VpTyZBzCFtkPpii7pYWl"
@@ -333,7 +359,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210963,
       "name": "Calling Out Your Name - Radio Edit",
       "url": "https://open.spotify.com/track/4Zd0Bqfka9K3m3Mv1eibaP"
@@ -399,7 +425,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 229249,
       "name": "Celestia",
       "url": "https://open.spotify.com/track/3BZ8KRBfIg9Lu9Zl3i2X6N"
@@ -487,7 +513,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Cure Or Remedy",
       "url": "https://open.spotify.com/track/3iGHGIAwH96Ri9NuBGkdeV"
@@ -593,7 +619,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 236488,
       "name": "Empyrean",
       "url": "https://open.spotify.com/track/5f768GZ884iQphBUZWmjum"
@@ -647,7 +673,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 439437,
       "name": "Face The Sun",
       "url": "https://open.spotify.com/track/1NBGV6jaSjoCtdhwQlaj1n"
@@ -745,7 +771,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 136942,
       "name": "Fix Your Problems",
       "url": "https://open.spotify.com/track/3dazx4jjnVEfwoHcSQocxj"
@@ -821,7 +847,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204686,
       "name": "Future",
       "url": "https://open.spotify.com/track/4Gvh60vRr6cKdB3RVtBiOg"
@@ -1175,7 +1201,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 288795,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/4LIWlYAo7Ee2nl5GVuvCNC"
@@ -1193,7 +1219,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 225245,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/1dyNtDn8U344aEntrBkQFq"
@@ -1237,10 +1263,28 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 457036,
       "name": "Invisible - Paul Kalkbrenner Remix",
       "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
+    },
+    {
+      "album": {
+        "name": "Is This Trance?",
+        "url": "https://open.spotify.com/album/0YcN5yn9v3g0SDoGQj9jkr"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289017,
+      "name": "Is This Trance?",
+      "url": "https://open.spotify.com/track/3xml45o5PxJw6Xlp8sfPIC"
     },
     {
       "album": {
@@ -1255,7 +1299,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 259057,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/2lLcfRJK6pNyn1WvDkyUtu"
@@ -1277,7 +1321,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/5QCFCmu2pCzQE2uobbJ3jt"
@@ -1295,7 +1339,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 220161,
       "name": "Kensh\u014d",
       "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
@@ -1313,7 +1357,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228629,
       "name": "Kiss from God - mint Singles",
       "url": "https://open.spotify.com/track/3V9Ye0o7szPrtMEELrOlfg"
@@ -1465,7 +1509,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183350,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz"
@@ -1681,7 +1725,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 279919,
       "name": "No Need To Hide",
       "url": "https://open.spotify.com/track/024TgtXFxGA9oxeW36nzI8"
@@ -1801,7 +1845,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 180483,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/3seZ0Y5gGrUzb2blg5L7Sd"
@@ -1973,7 +2017,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
@@ -1999,10 +2043,28 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 203267,
       "name": "Reclaim Me (feat. Nimmo) - Maya Jane Coles Remix [Edit]",
       "url": "https://open.spotify.com/track/7DLxRocVGAXVaq63ZuuIby"
+    },
+    {
+      "album": {
+        "name": "Red Sky",
+        "url": "https://open.spotify.com/album/6Le1yadSvu8kwHwS15Pfxh"
+      },
+      "artists": [
+        {
+          "name": "DoubleV",
+          "url": "https://open.spotify.com/artist/6Ess5QdnNvdRhAMhGNq1uS"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/6db3K1345xcIVsYaofJauI"
     },
     {
       "album": {
@@ -2064,6 +2126,28 @@
     },
     {
       "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/2wdg1O8GblskgwH2K5ZGiu"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Aryan Saleh",
+          "url": "https://open.spotify.com/artist/3V3Ye4nzNruEuomiLi2CV2"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288387,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/10etnNyws0WMn5J654CSwE"
+    },
+    {
+      "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/16Kon7rTm0D4jOwEu2me2c"
       },
@@ -2101,7 +2185,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 250587,
       "name": "Say",
       "url": "https://open.spotify.com/track/51o86RT9X0EqMLJ43hrYe9"
@@ -2141,7 +2225,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 202314,
       "name": "Sendeturm",
       "url": "https://open.spotify.com/track/0VoqjK1Nf9MjeRM60b8GiO"
@@ -2199,7 +2283,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 242000,
       "name": "Sky",
       "url": "https://open.spotify.com/track/1IxF42puAtZnjhAB6opO83"
@@ -2301,7 +2385,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 211200,
       "name": "Spicy (feat. Ginger) - Edit",
       "url": "https://open.spotify.com/track/5ebmgjX1AIlMPXmAvmxfoH"
@@ -2487,7 +2571,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/5DCQiBkk4jqj3y7ozW6DuG"
@@ -2683,7 +2767,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 233440,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
@@ -2859,7 +2943,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 211475,
       "name": "Vallut Bass",
       "url": "https://open.spotify.com/track/6etAsc19pzAmugWALZjpDo"
@@ -2939,7 +3023,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 210491,
       "name": "Weight Of The World",
       "url": "https://open.spotify.com/track/7tjxcrVxHH7fPvkTdcqFcB"
@@ -2987,7 +3071,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 411964,
       "name": "Womaa",
       "url": "https://open.spotify.com/track/5JFrgSCrW4aSeYKSK9MyyC"
@@ -3035,7 +3119,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 219518,
       "name": "Your Eyes",
       "url": "https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd"

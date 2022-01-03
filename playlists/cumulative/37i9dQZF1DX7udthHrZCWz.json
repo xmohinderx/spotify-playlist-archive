@@ -73,10 +73,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 240826,
       "name": "Arms Open",
       "url": "https://open.spotify.com/track/3WTUNLFtzWaDwfFfZJZ9d8"
+    },
+    {
+      "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250053,
+      "name": "Beautiful Trauma",
+      "url": "https://open.spotify.com/track/2DlIwu1iDTILEMXA7MUotn"
     },
     {
       "album": {
@@ -639,7 +657,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 240165,
       "name": "I Won't Give Up",
       "url": "https://open.spotify.com/track/53QF56cjZA9RTuuMZDrSA6"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 246587,
       "name": "Jar of Hearts",
       "url": "https://open.spotify.com/track/7p8wAUDFBSWPMh2KxfUDQk"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208395,
       "name": "Keeping Your Head Up",
       "url": "https://open.spotify.com/track/3UbCMiXR6d9zcfNRS0mTzG"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 252733,
       "name": "Let Her Go",
       "url": "https://open.spotify.com/track/0JmiBCpWc1IAc0et7Xm7FL"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/40EB7ABUO6MoWMUwPKptJ7"
@@ -1126,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "Back from the Edge",
+        "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Safe Inside",
+      "url": "https://open.spotify.com/track/5ooilrQAnOJbUjq7IDm8lY"
+    },
+    {
+      "album": {
         "name": "Is There Anybody Out There?",
         "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
       },
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208853,
       "name": "She Said",
       "url": "https://open.spotify.com/track/5kVU4z9zL3M7w7EVhBBbEF"
@@ -1235,7 +1271,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/6k8kLJFmWkHaTbSLUhJ3H0"
@@ -1271,7 +1307,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 182160,
       "name": "Someone You Loved",
       "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
@@ -1679,7 +1715,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 213826,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"

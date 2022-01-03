@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 258466,
       "name": "Bullet With Butterfly Wings - Remastered 2012",
       "url": "https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 287400,
       "name": "Cum on Feel the Noize",
       "url": "https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183602,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd"
@@ -437,6 +437,24 @@
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
     },
     {
       "album": {
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 186448,
       "name": "Last Night a DJ Saved my Life",
       "url": "https://open.spotify.com/track/06VqOgAQvYTpZk6VpsDD20"
@@ -797,6 +815,24 @@
       "duration_ms": 199893,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv"
+    },
+    {
+      "album": {
+        "name": "Let's Dance (1999 Remaster)",
+        "url": "https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457133,
+      "name": "Let's Dance - 1999 Remaster",
+      "url": "https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm"
     },
     {
       "album": {
@@ -869,6 +905,24 @@
       "duration_ms": 222586,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/7oK9VyNzrYvRFo7nQEYkWN"
+    },
+    {
+      "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180517,
+      "name": "Need You Tonight",
+      "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
       "album": {
@@ -1279,7 +1333,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 215266,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/2VAlwOewe5c40VHyqozF1V"

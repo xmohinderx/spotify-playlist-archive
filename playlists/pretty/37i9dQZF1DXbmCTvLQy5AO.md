@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,047 likes - 58 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,316 likes - 58 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

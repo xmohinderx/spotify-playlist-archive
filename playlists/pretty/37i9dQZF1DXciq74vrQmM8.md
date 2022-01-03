@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our universe ft\. Ashnikko
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,029 likes - 81 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,242 likes - 81 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

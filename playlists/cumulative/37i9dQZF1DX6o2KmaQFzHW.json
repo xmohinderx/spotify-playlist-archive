@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/5buepIzsy25Q4VqutUCtUQ"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Agitando Pa\u00f1uelos",
+      "url": "https://open.spotify.com/track/1Q24A8F0cKTGhDHaBaCM0t"
+    },
+    {
+      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -247,7 +265,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 191653,
       "name": "Canci\u00f3n Para Una Mentira",
       "url": "https://open.spotify.com/track/4ZchCWefhpCY7Tr8CcNsFv"
@@ -265,7 +283,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 178186,
       "name": "Candombe para Jose",
       "url": "https://open.spotify.com/track/5DWCoojpitiZmqvmfbIMVl"
@@ -283,7 +301,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196413,
       "name": "Cantas T\u00fa, Canto Yo",
       "url": "https://open.spotify.com/track/5IJ9BpJg40GItALp4XY3HK"
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 128893,
       "name": "Chacarera del Olvido",
       "url": "https://open.spotify.com/track/3umAXc7lFcIw9YdfWJjNBH"
@@ -427,7 +445,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 219933,
       "name": "Chibidon",
       "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
@@ -445,10 +463,28 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 157040,
       "name": "Como La Cigarra",
       "url": "https://open.spotify.com/track/3d9cyv4UtVqbWnVa9fqwiO"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
     },
     {
       "album": {
@@ -463,7 +499,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198037,
       "name": "Cosa Peligrosa",
       "url": "https://open.spotify.com/track/1JGtk2FhlLe0rJtaeZH0Tv"
@@ -517,7 +553,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228666,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/7bDlnoDZMnOZeS9caKawpd"
@@ -780,6 +816,24 @@
     },
     {
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF"
+      },
+      "artists": [
+        {
+          "name": "Cuti y Roberto Carabajal",
+          "url": "https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179722,
+      "name": "Entre A Mi Pago Sin Golpear",
+      "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
+    },
+    {
+      "album": {
         "name": "Poncho Al Viento",
         "url": "https://open.spotify.com/album/5lE01dF2K4sLVwlVfoP124"
       },
@@ -831,6 +885,24 @@
       "duration_ms": 221985,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3wo5ZlsWZNVAeemkiel7Ds"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV"
+      },
+      "artists": [
+        {
+          "name": "Los Fronterizos",
+          "url": "https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196773,
+      "name": "Guitarra de Medianoche",
+      "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
     },
     {
       "album": {
@@ -889,6 +961,24 @@
       "duration_ms": 171399,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN"
+    },
+    {
+      "album": {
+        "name": "Inolvidable - Jorge Cafrune -",
+        "url": "https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231400,
+      "name": "La atardecida",
+      "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
     },
     {
       "album": {
@@ -957,7 +1047,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 170160,
       "name": "La Descre\u00edda",
       "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
@@ -979,6 +1069,42 @@
       "duration_ms": 188400,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
+    },
+    {
+      "album": {
+        "name": "14 Grandes Exitos De Horacio Guarany",
+        "url": "https://open.spotify.com/album/5x0uk0qveoSgg0hj7IfJeR"
+      },
+      "artists": [
+        {
+          "name": "Nestor \"Pueblo\" Celiz",
+          "url": "https://open.spotify.com/artist/4OwujoecddJiSJNUq0uw3P"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184825,
+      "name": "La Enga\u00f1era",
+      "url": "https://open.spotify.com/track/1TPhyS7nMiWjEM0fifOLzN"
+    },
+    {
+      "album": {
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/1Wh6RCE1LgMHO6jP1xLNXG"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/0ETzFaHMsT2MdaEgOQzn4J"
     },
     {
       "album": {
@@ -1029,7 +1155,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 176945,
       "name": "La Malvada",
       "url": "https://open.spotify.com/track/1slQGKMnJZdwYwDsVSWtb3"
@@ -1047,7 +1173,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 182400,
       "name": "La Olvidada",
       "url": "https://open.spotify.com/track/6yllGuh3Tsh4LiKMO17tgU"
@@ -1083,7 +1209,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 203053,
       "name": "La Refranera",
       "url": "https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP"
@@ -1137,7 +1263,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 293186,
       "name": "La Tempranera",
       "url": "https://open.spotify.com/track/0znYHtilgBJqNwtiB5oOqc"
@@ -1191,7 +1317,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 138280,
       "name": "Largos Caminos Me Ire",
       "url": "https://open.spotify.com/track/7b3CAqCWhh0m01DSR1WW1G"
@@ -1213,6 +1339,24 @@
       "duration_ms": 166000,
       "name": "Las Manos De Mi Madre",
       "url": "https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ"
+    },
+    {
+      "album": {
+        "name": "22 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4VcoE025pFB2BLm9fhgg6T"
+      },
+      "artists": [
+        {
+          "name": "Los Chalchaleros",
+          "url": "https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Llorar\u00e9",
+      "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
     },
     {
       "album": {
@@ -1245,7 +1389,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200040,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ"
@@ -1289,7 +1433,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 214493,
       "name": "Luna Tucumana - Remastered 2003",
       "url": "https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC"
@@ -1311,6 +1455,24 @@
       "duration_ms": 214386,
       "name": "Mi Luna Cautiva",
       "url": "https://open.spotify.com/track/10md0ULrtvH4fGhPKmknPq"
+    },
+    {
+      "album": {
+        "name": "Grandes Del Folklore",
+        "url": "https://open.spotify.com/album/10sMUx7o8wqKvctxvatyi3"
+      },
+      "artists": [
+        {
+          "name": "Jorge Cafrune",
+          "url": "https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri"
     },
     {
       "album": {
@@ -1401,7 +1563,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 110320,
       "name": "Pedro Canoero",
       "url": "https://open.spotify.com/track/5EGWO5XHAdLsTjsXva5wbO"
@@ -1423,6 +1585,24 @@
       "duration_ms": 193773,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt"
+    },
+    {
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/0RrfUzvrRxY38Bqdi9cMsl"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151600,
+      "name": "Recuerdo Salte\u00f1o",
+      "url": "https://open.spotify.com/track/76yO7eh6SgvE0PSYjKdaVj"
     },
     {
       "album": {
@@ -1481,7 +1661,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 148933,
       "name": "Serenata Oto\u00f1al",
       "url": "https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B"
@@ -1503,6 +1683,28 @@
       "duration_ms": 201640,
       "name": "Si Se Calla El Cantor",
       "url": "https://open.spotify.com/track/2P7OgqbN6vtwsAvJnXh7q5"
+    },
+    {
+      "album": {
+        "name": "Sole y Horacio juntos por \u00danica Vez (Grabado en Vivo en el Luna Park)",
+        "url": "https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "Si Se Calla el Cantor - En Vivo",
+      "url": "https://open.spotify.com/track/5JftjNXymDWk4NfsPnQNue"
     },
     {
       "album": {
@@ -1579,6 +1781,24 @@
       "duration_ms": 248866,
       "name": "Sube, Sube, Sube",
       "url": "https://open.spotify.com/track/4YrnVwR7GpfWYKLJtoQczf"
+    },
+    {
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272986,
+      "name": "Sue\u00f1ero",
+      "url": "https://open.spotify.com/track/6WvNlAbmHeglLk5MKtRhND"
     },
     {
       "album": {
@@ -1666,6 +1886,24 @@
     },
     {
       "album": {
+        "name": "Horacio Guarany",
+        "url": "https://open.spotify.com/album/7aD2UhWw7u2wqK23hVKpsT"
+      },
+      "artists": [
+        {
+          "name": "Horacio Guarany",
+          "url": "https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243666,
+      "name": "Volver en Vino",
+      "url": "https://open.spotify.com/track/3UIcoBbd2kwFPuMc4Xq93q"
+    },
+    {
+      "album": {
         "name": "Arde la Vida",
         "url": "https://open.spotify.com/album/5WNBaGEHkLenCuWY0Unnl1"
       },
@@ -1677,7 +1915,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 147786,
       "name": "Volver\u00e9 a Salavina",
       "url": "https://open.spotify.com/track/78fIapn9oUUBk1B2wCdBJd"
@@ -1703,6 +1941,24 @@
       "duration_ms": 206266,
       "name": "Y As\u00ed y As\u00ed (with Luciano Pereyra)",
       "url": "https://open.spotify.com/track/75rd1MHawa6hNqLI5TMs6B"
+    },
+    {
+      "album": {
+        "name": "El Estilo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2"
+      },
+      "artists": [
+        {
+          "name": "Los Del Suqu\u00eda",
+          "url": "https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Y Va Pasando la Vida",
+      "url": "https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0"
     },
     {
       "album": {
@@ -1753,7 +2009,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 231733,
       "name": "Zamba de Abril",
       "url": "https://open.spotify.com/track/71l747KWxSIlCOiKbtBokH"

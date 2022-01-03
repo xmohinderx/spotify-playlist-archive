@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 157358,
       "name": "1984",
       "url": "https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 120000,
       "name": "9 PM",
       "url": "https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 122076,
       "name": "Adore",
       "url": "https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 146309,
       "name": "Africa to the World",
       "url": "https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Agoura Eyes",
       "url": "https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 168521,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/1WzL0kZk3j5lCse7JgF3qV"
@@ -405,10 +405,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 152164,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/6cukWPxlzVl7zhXUU75rkq"
+    },
+    {
+      "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20"
+      },
+      "artists": [
+        {
+          "name": "Sennhofer",
+          "url": "https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161590,
+      "name": "Carte Blanche",
+      "url": "https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5"
     },
     {
       "album": {
@@ -459,7 +477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 216032,
       "name": "Coffee Break",
       "url": "https://open.spotify.com/track/0ExYatKbwbodCrVuA0uEH7"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 166779,
       "name": "Demurity",
       "url": "https://open.spotify.com/track/4YGkHrj5NQzSn3q2aJ4C9O"
@@ -650,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Five Points",
+        "url": "https://open.spotify.com/album/2YQst9sLvIkUD9ti0UWAp6"
+      },
+      "artists": [
+        {
+          "name": "Lo & Fozzi",
+          "url": "https://open.spotify.com/artist/70Q05jq5O6Y1hKiB8QxjjW"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Five Points",
+      "url": "https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo"
+    },
+    {
+      "album": {
         "name": "Floating In Space",
         "url": "https://open.spotify.com/album/1bMdQiOFa3WLbiRmfO5GTb"
       },
@@ -769,7 +805,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 239394,
       "name": "Goldclap",
       "url": "https://open.spotify.com/track/1lDEM6ESKlPj3wFBTtZ8Z8"
@@ -809,7 +845,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184296,
       "name": "Hangin Up",
       "url": "https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma"
@@ -907,7 +943,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191614,
       "name": "Idiot (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/5PprWUDtMegwUWZkPwHjDQ"
@@ -929,7 +965,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 127636,
       "name": "In the Mirror",
       "url": "https://open.spotify.com/track/205U3hn1052lvW97Adry7h"
@@ -947,7 +983,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
@@ -1037,7 +1073,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 151794,
       "name": "Like a Dream",
       "url": "https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp"
@@ -1127,7 +1163,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200697,
       "name": "Lupino",
       "url": "https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0"
@@ -1163,7 +1199,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 126000,
       "name": "Maze",
       "url": "https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W"
@@ -1329,7 +1365,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179478,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR"
@@ -1347,7 +1383,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 251593,
       "name": "Ocean of Love",
       "url": "https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67"
@@ -1513,7 +1549,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 171137,
       "name": "Retreat",
       "url": "https://open.spotify.com/track/03Ea1zretFckOySx9Vb6db"
@@ -1553,7 +1589,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 152727,
       "name": "Romance",
       "url": "https://open.spotify.com/track/22wyV35EezfLo1x4ppf1dq"
@@ -1593,6 +1629,24 @@
       "duration_ms": 200510,
       "name": "Rose - Edit",
       "url": "https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa"
+    },
+    {
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/4ro6LmU19g0pfkaIJYcm0X"
+      },
+      "artists": [
+        {
+          "name": "Chilou",
+          "url": "https://open.spotify.com/artist/2wTi41vTfbFFHdAAezSSF8"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/1lcOX9scuEaFjOuLSbpLpr"
     },
     {
       "album": {
@@ -1647,6 +1701,24 @@
       "duration_ms": 152000,
       "name": "Sea Roses",
       "url": "https://open.spotify.com/track/4EruKoCJQHvgnsRMS8tf5V"
+    },
+    {
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD"
+      },
+      "artists": [
+        {
+          "name": "Dj Hindi Bacha",
+          "url": "https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193577,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws"
     },
     {
       "album": {
@@ -1769,7 +1841,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 167239,
       "name": "Step By Step",
       "url": "https://open.spotify.com/track/17YLsJ4vxqP113HNFrFSUV"
@@ -1805,7 +1877,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179889,
       "name": "Summer Vibe",
       "url": "https://open.spotify.com/track/1s7MlV77vmjAHqzVq60Vfd"
@@ -1895,7 +1967,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
@@ -1989,7 +2061,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 203657,
       "name": "The K\u00e1rm\u00e1n Line",
       "url": "https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz"
@@ -2043,7 +2115,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 376842,
       "name": "The Third in Line",
       "url": "https://open.spotify.com/track/0aCzk0rLcSarPylQmx6txM"

@@ -979,7 +979,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/4rino0wsmUcK36Ro4CCrke"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 224720,
       "name": "Bumpy Ride",
       "url": "https://open.spotify.com/track/71R6zJsrF3ffc3TBFHfivX"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 181080,
       "name": "Ecuador - Original Mix",
       "url": "https://open.spotify.com/track/2fEqFPhM6dmRvDfzkh8xNt"
@@ -2115,7 +2115,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 206184,
       "name": "El\u00e4m\u00e4 on nyt (feat. Br\u00e4di) - Remix",
       "url": "https://open.spotify.com/track/510tiEyEldPLv0Ex8ss3Yb"
@@ -2319,7 +2319,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-07-01",
+      "date_removed": null,
       "duration_ms": 207155,
       "name": "Esson baariin",
       "url": "https://open.spotify.com/track/2SNZVqgDiiuOUe2qPOW1m1"
@@ -3087,7 +3087,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 211670,
       "name": "Hei rakas",
       "url": "https://open.spotify.com/track/2XaewhXngZd2Zi4ijFIkK0"
@@ -3443,7 +3443,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206232,
       "name": "Hyv\u00e4uskoinen",
       "url": "https://open.spotify.com/track/08EMclZsu3ZwuQxlVcsAXI"
@@ -3571,7 +3571,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
@@ -5123,6 +5123,24 @@
     {
       "album": {
         "name": "Kyl\u00e4baari",
+        "url": "https://open.spotify.com/album/06cvSKHIeSFxxb5TEUfXjW"
+      },
+      "artists": [
+        {
+          "name": "Portion Boys",
+          "url": "https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226996,
+      "name": "Kyl\u00e4baari",
+      "url": "https://open.spotify.com/track/0QO1QnI4tOXLwtgXQmVqPA"
+    },
+    {
+      "album": {
+        "name": "Kyl\u00e4baari",
         "url": "https://open.spotify.com/album/1nFfc7DtNWDpXUQmSmymEI"
       },
       "artists": [
@@ -6062,6 +6080,24 @@
     },
     {
       "album": {
+        "name": "20 Suosikkia",
+        "url": "https://open.spotify.com/album/487ykGqsbTkMF89rCgPCIK"
+      },
+      "artists": [
+        {
+          "name": "Egotrippi",
+          "url": "https://open.spotify.com/artist/1RJkmcXtvDdyhfn2PbrZzQ"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241320,
+      "name": "Matkustaja",
+      "url": "https://open.spotify.com/track/5esJb63Nbi1LeG0v4NyKTt"
+    },
+    {
+      "album": {
         "name": "Matkustaja (feat. Aksel Kankaanranta)",
         "url": "https://open.spotify.com/album/780cND8LZdQMnu3GRWhK3r"
       },
@@ -6077,7 +6113,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191905,
       "name": "Matkustaja (feat. Aksel Kankaanranta)",
       "url": "https://open.spotify.com/track/357JgDad80qVDg23D2GI63"
@@ -6629,7 +6665,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 195105,
       "name": "Mr. Saxobeat - Radio Edit",
       "url": "https://open.spotify.com/track/3LWDPEXEaLBRGNLbdcbwBR"
@@ -7705,7 +7741,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 268693,
       "name": "Piilotan mun kyyneleet",
       "url": "https://open.spotify.com/track/4FMR3LE9lxvhgVLErzNQRc"
@@ -8721,7 +8757,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 195853,
       "name": "Sexy Bitch (feat. Akon)",
       "url": "https://open.spotify.com/track/77V0TWycxV4wuhcip5LF3X"
@@ -9077,7 +9113,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184015,
       "name": "Stereo Love - Radio Edit",
       "url": "https://open.spotify.com/track/5FObEZUEZTgmcH6Xg2GDSs"
@@ -9771,7 +9807,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -10075,7 +10111,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 241874,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/5c4tB0saSkNHX5CyDosuF7"
@@ -10129,7 +10165,7 @@
       ],
       "date_added": "2021-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 255600,
       "name": "Tulik\u00e4rp\u00e4set",
       "url": "https://open.spotify.com/track/34an0cwgyJ0oRTjQMNmbIw"
@@ -10505,7 +10541,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 196470,
       "name": "USA",
       "url": "https://open.spotify.com/track/4oq88Qn7UdpiSjiL2E23dM"
@@ -11205,7 +11241,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

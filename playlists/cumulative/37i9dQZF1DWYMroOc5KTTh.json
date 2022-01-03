@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc"
@@ -241,7 +241,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Gordon Von Zilla Presents",
+        "url": "https://open.spotify.com/album/7BBG2McZxe7XHPmFzhDjjc"
+      },
+      "artists": [
+        {
+          "name": "Gardens & Villa",
+          "url": "https://open.spotify.com/artist/5NgfalfOtMDHkJ0SbFAxyA"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200088,
+      "name": "Disco Kitchen",
+      "url": "https://open.spotify.com/track/00eHtpRr74BgWQN7u6vEHT"
+    },
+    {
+      "album": {
         "name": "Don't You Like It?",
         "url": "https://open.spotify.com/album/1GOPldTzZzwjyr6GrstMvf"
       },
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 245579,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs"
@@ -564,6 +582,36 @@
     },
     {
       "album": {
+        "name": "Free My People (The Streets Remix)",
+        "url": "https://open.spotify.com/album/3tsrF1lrccDppgj0mMi0HK"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        },
+        {
+          "name": "SIMMY",
+          "url": "https://open.spotify.com/artist/527kNlxgOHUAZ1YOonXDJd"
+        },
+        {
+          "name": "Kid Cruise",
+          "url": "https://open.spotify.com/artist/3M6mw8TcBFhDXPdF2Csupw"
+        },
+        {
+          "name": "The Streets",
+          "url": "https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Free My People (feat. Simmy & Kid Cruise) - The Streets Remix",
+      "url": "https://open.spotify.com/track/6qFbRXLt0IN3M1HE5d7YPu"
+    },
+    {
+      "album": {
         "name": "Fruit Punch",
         "url": "https://open.spotify.com/album/7GedFW6ha4qFhf7JELVK8e"
       },
@@ -575,7 +623,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 170375,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
@@ -658,6 +706,28 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna Lose You",
+        "url": "https://open.spotify.com/album/3AmRw6l5o2DP8PWFHczwLn"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Olivia Louise",
+          "url": "https://open.spotify.com/artist/6E1v7RmEYvZIvhauy9v0sd"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "I Don't Wanna Lose You - Edit",
+      "url": "https://open.spotify.com/track/7ErWxcxjkfmRXiL0CD08FN"
+    },
+    {
+      "album": {
         "name": "I Fold You (Kassian Remix)",
         "url": "https://open.spotify.com/album/4QiLKvYTGkOsj361PTZnuR"
       },
@@ -691,7 +761,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 206500,
       "name": "I'm a Kid",
       "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
@@ -735,7 +805,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 201884,
       "name": "Jessica",
       "url": "https://open.spotify.com/track/41H2fON7xrNirxSmbEgPVR"
@@ -753,7 +823,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 247767,
       "name": "Joy",
       "url": "https://open.spotify.com/track/776Kqi9RqGbXHWCHzU2ZSi"
@@ -771,7 +841,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 218849,
       "name": "JOY (Meet Me In My Dreams)",
       "url": "https://open.spotify.com/track/6IVDsrrWgQgd4AmajSAlHk"
@@ -815,7 +885,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
@@ -873,7 +943,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 368244,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe"
@@ -895,7 +965,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 294200,
       "name": "Lamb's Wool (with Poolside)",
       "url": "https://open.spotify.com/track/2Kv2ihNE3KAztq2GWassEZ"
@@ -1019,7 +1089,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 281200,
       "name": "Missing (feat. Andreya Triana & Ben Westbeech)",
       "url": "https://open.spotify.com/track/5tBKJQuTSZcT50MXdJ5HYu"
@@ -1066,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Must Be Deep",
+        "url": "https://open.spotify.com/album/6Hh0GLP8zhmKUtQJBdXwQ0"
+      },
+      "artists": [
+        {
+          "name": "Hugo Mari",
+          "url": "https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346673,
+      "name": "Must Be Deep",
+      "url": "https://open.spotify.com/track/5XsozhvsiH5nJ5xdEJkn4o"
+    },
+    {
+      "album": {
         "name": "Ndeko Solo",
         "url": "https://open.spotify.com/album/6EJmG2vGlkqjgl9J9RP6Y0"
       },
@@ -1099,7 +1187,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 304486,
       "name": "New Gods - Ron Basejam Remix",
       "url": "https://open.spotify.com/track/3Pckvky9FxWNjlmHa22QuB"
@@ -1168,6 +1256,24 @@
     },
     {
       "album": {
+        "name": "Rainbow Road",
+        "url": "https://open.spotify.com/album/2qO9xeTX6Saig34VZtdg3g"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327231,
+      "name": "Rainbow Road",
+      "url": "https://open.spotify.com/track/3MJXbFkCPJhu0i7tsiOXJa"
+    },
+    {
+      "album": {
         "name": "Rays Above",
         "url": "https://open.spotify.com/album/2Ecxb5YgJr5I1T9ttGbsXU"
       },
@@ -1223,7 +1329,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "red leather",
       "url": "https://open.spotify.com/track/0tr7sfdHBzs9PgBWeS27ro"
@@ -1263,7 +1369,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 259146,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/0BeR2mw32K0N5PrtRxWrZl"
@@ -1281,7 +1387,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 163669,
       "name": "Safe",
       "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
@@ -1339,7 +1445,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 269000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/5S8igEQLgDY0lMScgbyeHW"
@@ -1357,7 +1463,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 217768,
       "name": "Skylab District",
       "url": "https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX"
@@ -1393,7 +1499,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 217380,
       "name": "So Close Now",
       "url": "https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21"
@@ -1525,7 +1631,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 487619,
       "name": "The Best Rapper Alive",
       "url": "https://open.spotify.com/track/4tPQDofr1qmip4bbWFs9Qf"
@@ -1601,7 +1707,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 240000,
       "name": "Trouble to Share",
       "url": "https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai"
@@ -1641,10 +1747,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 250485,
       "name": "U Never Know",
       "url": "https://open.spotify.com/track/6ngfBeWnkydrBRrhqvxiXu"
+    },
+    {
+      "album": {
+        "name": "Up High",
+        "url": "https://open.spotify.com/album/66wLpWvG5J7bEI2kFUABSt"
+      },
+      "artists": [
+        {
+          "name": "Lxury",
+          "url": "https://open.spotify.com/artist/65A90NWrD8qdbNtsRgVXdf"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366121,
+      "name": "Up High",
+      "url": "https://open.spotify.com/track/7w5rc4pyAPMwK3RiEB8gjE"
     },
     {
       "album": {
@@ -1703,7 +1827,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186173,
       "name": "WestBorn",
       "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
@@ -1721,7 +1845,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"

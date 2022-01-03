@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 168093,
       "name": "FDH",
       "url": "https://open.spotify.com/track/7hRbS8uL6VXwTgSAg3BGSw"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 213311,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/1gVrmubxd0344yczu7EXjQ"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 222333,
       "name": "My Neck, My Back",
       "url": "https://open.spotify.com/track/04NMCxLqlXuyONlkdH4rY2"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 144097,
       "name": "My Way",
       "url": "https://open.spotify.com/track/5EyFc6hkkLCMEnPGt2u1D6"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 214583,
       "name": "Nunnadet Shit",
       "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
@@ -869,6 +869,28 @@
       "duration_ms": 260826,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/2mSLhpYdxyeKUeiSwdtS6E"
+    },
+    {
+      "album": {
+        "name": "One Percent (feat. Kap G)",
+        "url": "https://open.spotify.com/album/7jL2U8uyaL580kQ1AT4D97"
+      },
+      "artists": [
+        {
+          "name": "Taylor Girlz",
+          "url": "https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA"
+        },
+        {
+          "name": "Kap G",
+          "url": "https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O"
+        }
+      ],
+      "date_added": "2021-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236796,
+      "name": "One Percent (feat. Kap G)",
+      "url": "https://open.spotify.com/track/0QE5OugWlDVOLe1rV8MOqE"
     },
     {
       "album": {
@@ -977,7 +999,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 112845,
       "name": "Straight To It",
       "url": "https://open.spotify.com/track/6r9zoV35UeEAh12sGS8gek"
@@ -1209,7 +1231,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 170732,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/1N3WA69hiGcEsO2ExABuqs"

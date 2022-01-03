@@ -61,7 +61,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 422053,
       "name": "African Blues",
       "url": "https://open.spotify.com/track/3vxY3FC2UbTGr3uxXNYpTV"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 474186,
       "name": "Ali ya ali",
       "url": "https://open.spotify.com/track/67P3E8BYxF21HxQwQDcXbj"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 375120,
       "name": "Baba Arabi",
       "url": "https://open.spotify.com/track/1uj5Fhdsg5UvRVx70G22cN"
@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179640,
       "name": "Bambala",
       "url": "https://open.spotify.com/track/1MRufqwOqcz0tVPlymfIEi"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 323848,
       "name": "Baniyorkoy",
       "url": "https://open.spotify.com/track/6ISbel4AdYheOCO65DX94A"
@@ -543,7 +543,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 358725,
       "name": "Fangara",
       "url": "https://open.spotify.com/track/5oSPmtyuSkHVFJwXFTUazC"
@@ -658,6 +658,32 @@
     },
     {
       "album": {
+        "name": "Kalimba",
+        "url": "https://open.spotify.com/album/45kB4RCp3VGg3DZo3klaup"
+      },
+      "artists": [
+        {
+          "name": "Joachim K\u00fchn",
+          "url": "https://open.spotify.com/artist/63ZJSdxmTX5wWRMoS1C5ph"
+        },
+        {
+          "name": "Majid Bekkas",
+          "url": "https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C"
+        },
+        {
+          "name": "Ramon Lopez",
+          "url": "https://open.spotify.com/artist/2YGdXhpR7VkGHLHTA3x3GG"
+        }
+      ],
+      "date_added": "2021-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356066,
+      "name": "Hamdouchi",
+      "url": "https://open.spotify.com/track/7pa2MBRVlnvxxuY9DTfYYk"
+    },
+    {
+      "album": {
         "name": "Gnawa Home Songs",
         "url": "https://open.spotify.com/album/6Od4rFAxX1GZGMTrEdrRSu"
       },
@@ -669,7 +695,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249053,
       "name": "Hamdouchia",
       "url": "https://open.spotify.com/track/297ADzLE7uIT5OhZeA7TvS"
@@ -723,7 +749,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 617000,
       "name": "La Ilaha Illa Allah",
       "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
@@ -759,7 +785,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 434155,
       "name": "La Illaha Illa Allah",
       "url": "https://open.spotify.com/track/3WMv8hXHCZAzITR77sFL6G"
@@ -853,7 +879,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 410573,
       "name": "Mimouna Gnawa",
       "url": "https://open.spotify.com/track/7ahy3fhvPApYDTYtI8jHJN"
@@ -875,7 +901,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 309000,
       "name": "Mister X",
       "url": "https://open.spotify.com/track/4mnwLXp1eO7BaaSh4c1cbK"
@@ -985,7 +1011,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 467800,
       "name": "Sentir solo",
       "url": "https://open.spotify.com/track/3RZWkRMU2BsIiTZ9U5ugFL"
@@ -1059,7 +1085,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 239693,
       "name": "Sidi Musa",
       "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
@@ -1077,7 +1103,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 372558,
       "name": "Soltani",
       "url": "https://open.spotify.com/track/79aEKqdlERdubQHXAinoPS"
@@ -1131,7 +1157,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 293600,
       "name": "Tabey Tarate",
       "url": "https://open.spotify.com/track/5AufVqlW1U4T81LZkQ1KRA"

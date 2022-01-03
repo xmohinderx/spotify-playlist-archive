@@ -140,6 +140,24 @@
     },
     {
       "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/4zoJp3Lvtfx2BF3e1dC83K"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2021-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203293,
+      "name": "Any Ol' Barstool",
+      "url": "https://open.spotify.com/track/7DEgL4rErTwjrsxLMlUVhf"
+    },
+    {
+      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -205,7 +223,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
@@ -253,6 +271,24 @@
       "duration_ms": 204000,
       "name": "Beer For My Horses",
       "url": "https://open.spotify.com/track/5iuPF9zzwVy5JwWIZhOBRv"
+    },
+    {
+      "album": {
+        "name": "Beer Me Up",
+        "url": "https://open.spotify.com/album/4aQoWE9uSB7ZP13VWo4D2n"
+      },
+      "artists": [
+        {
+          "name": "Derek Austin",
+          "url": "https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177156,
+      "name": "Beer Me Up",
+      "url": "https://open.spotify.com/track/5S43ssynwmOntzVvXSluh5"
     },
     {
       "album": {
@@ -653,7 +689,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 213546,
       "name": "Drunk On You",
       "url": "https://open.spotify.com/track/3b7CDTKB0SRTmQ6ytYi5vZ"
@@ -953,7 +989,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 195426,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/4vLRCGOBz4zIS8nEHk5v9j"
@@ -1301,6 +1337,24 @@
       "duration_ms": 304246,
       "name": "Pour Whiskey on My Grave",
       "url": "https://open.spotify.com/track/4iMEvUn6UWR8gFogtXcs1s"
+    },
+    {
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "date_added": "2021-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210920,
+      "name": "Power of Positive Drinkin'",
+      "url": "https://open.spotify.com/track/3yww2zhTK6xJuVGtn6oHNY"
     },
     {
       "album": {

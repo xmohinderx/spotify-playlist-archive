@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Basement (feat. Knucks) [Remix]",
+        "url": "https://open.spotify.com/album/1FZ0nOIPl4F2T5hFijxFXi"
+      },
+      "artists": [
+        {
+          "name": "JVCK JAMES",
+          "url": "https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193989,
+      "name": "Basement (feat. Knucks) - Remix",
+      "url": "https://open.spotify.com/track/1jUAMYBNZ2Gt3lbNRk2YhX"
+    },
+    {
+      "album": {
         "name": "Bed Friend",
         "url": "https://open.spotify.com/album/4yddao1MpTLxHNHoSupTpP"
       },
@@ -301,7 +323,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 196000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/18GeUA2TkZDUOsRqbNj36C"
@@ -447,7 +469,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 196596,
       "name": "HEADLINE",
       "url": "https://open.spotify.com/track/59mmKoHbCWc10mlWwwTYxn"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 216160,
       "name": "Moon",
       "url": "https://open.spotify.com/track/4u5sbHIPXsL3ixbOVOow3M"
@@ -669,7 +691,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 168269,
       "name": "Nasty Girl",
       "url": "https://open.spotify.com/track/59BQqS7wNaSqXPQCyiaPwy"
@@ -731,7 +753,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 197074,
       "name": "OMW",
       "url": "https://open.spotify.com/track/0fSdTWC36g1Y44tpKzp7f2"
@@ -979,7 +1001,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228681,
       "name": "Surround Me",
       "url": "https://open.spotify.com/track/12yQgyLlpnI6EweSDsxs9i"
@@ -1037,7 +1059,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 213333,
       "name": "Time (Remix) [feat. KIRBY]",
       "url": "https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N"

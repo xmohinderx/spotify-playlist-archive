@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 408736,
       "name": "Ahmed",
       "url": "https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 387593,
       "name": "All Inclusive",
       "url": "https://open.spotify.com/track/3gXM39jnW18uL5Zyg47wXN"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 346451,
       "name": "Anything & Everything",
       "url": "https://open.spotify.com/track/3LbSfbeLXZSWVHiyFvahcM"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 332142,
       "name": "Beat Cari",
       "url": "https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 286271,
       "name": "Blue",
       "url": "https://open.spotify.com/track/2C8c1RN9BDuwR7DiIXqYNY"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 287773,
       "name": "Bo & Wing",
       "url": "https://open.spotify.com/track/6BRr6a4zwmI7H3c7IBSsK5"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 254015,
       "name": "Faded Memory",
       "url": "https://open.spotify.com/track/30sWK9of3ll8689n12qV0b"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 331409,
       "name": "Fate",
       "url": "https://open.spotify.com/track/6ydG9RkiNbu3eWAspbLPT4"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 351428,
       "name": "Fig Spread",
       "url": "https://open.spotify.com/track/7aqk3yBoqxB4nIl4UuMyxB"
@@ -1309,6 +1309,24 @@
       "duration_ms": 232000,
       "name": "For Now",
       "url": "https://open.spotify.com/track/3EMGPuLLcXxJkT8wipZjy9"
+    },
+    {
+      "album": {
+        "name": "Blasphemy",
+        "url": "https://open.spotify.com/album/4csl0WC7mxhBhab5nYfBnW"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395215,
+      "name": "Four Feet",
+      "url": "https://open.spotify.com/track/2JebL9WaaUylWLns0SmVuU"
     },
     {
       "album": {
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "Keep On Reachin - Main Mix",
       "url": "https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 224448,
       "name": "Keramas",
       "url": "https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK"
@@ -1984,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "For Lovers",
+        "url": "https://open.spotify.com/album/1kV1CYyGYVePD90IJ7ZzYZ"
+      },
+      "artists": [
+        {
+          "name": "Octo Octa",
+          "url": "https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327457,
+      "name": "Loops For Healing",
+      "url": "https://open.spotify.com/track/1RL9gghbn6lqDyCTPteNfB"
+    },
+    {
+      "album": {
         "name": "Lost in the Sun (feat. Ruth Royall)",
         "url": "https://open.spotify.com/album/20WgeTKy5S1nhrB7FakTR8"
       },
@@ -2047,6 +2083,24 @@
       "duration_ms": 328000,
       "name": "Magnetic",
       "url": "https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r"
+    },
+    {
+      "album": {
+        "name": "Magnetic Generation",
+        "url": "https://open.spotify.com/album/2tArvO5RHUfeQkspt6OgNF"
+      },
+      "artists": [
+        {
+          "name": "Pi-Singer",
+          "url": "https://open.spotify.com/artist/0laYghO0Z0yrzxgrWX0aD3"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333442,
+      "name": "Magnetic Generation",
+      "url": "https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM"
     },
     {
       "album": {
@@ -2195,7 +2249,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 365792,
       "name": "Moment Scale - Dubmaster X Remix",
       "url": "https://open.spotify.com/track/3RsWr97TnDsUA4AMd2aiXB"
@@ -2279,7 +2333,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 469995,
       "name": "Muy\u00e8",
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
@@ -2421,7 +2475,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 425043,
       "name": "Novo Dia",
       "url": "https://open.spotify.com/track/3rYiDPHMFnUseosoKq6YCC"
@@ -3119,7 +3173,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 503500,
       "name": "She's A Replicant - Afriqua Remix",
       "url": "https://open.spotify.com/track/19iHk5XuK4BwNrEbqUCkxO"
@@ -3265,7 +3319,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 326722,
       "name": "Sofia's Theme",
       "url": "https://open.spotify.com/track/16qgL8moRXVRZA5K0yU4yZ"
@@ -3301,7 +3355,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 287750,
       "name": "Solace",
       "url": "https://open.spotify.com/track/7B9Nl7MSxywe2TfcqztTJ5"
@@ -3421,7 +3475,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 170181,
       "name": "Stop That Man",
       "url": "https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ"
@@ -3811,7 +3865,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "There's No End in the Beginning",
       "url": "https://open.spotify.com/track/0rWXWWfMU3biukxJAdgRNY"
@@ -3847,7 +3901,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 211119,
       "name": "Trace",
       "url": "https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE"
@@ -3865,7 +3919,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 356309,
       "name": "Tranquility",
       "url": "https://open.spotify.com/track/1FTbeseqg1XrgTnPjhChjn"
@@ -4105,7 +4159,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 509210,
       "name": "Wake Me - Louie Vega & Joe Claussell Remix",
       "url": "https://open.spotify.com/track/6XuKWXObGRTtoe2NoO3xZA"
@@ -4203,7 +4257,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 225000,
       "name": "What You Want",
       "url": "https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw"

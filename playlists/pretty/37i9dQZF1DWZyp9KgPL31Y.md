@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyp9KgPL31Y.md) - [plain]
 
 > A collection of all The Shins greatest tracks, plus some of James Mercer's other projects.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,335 likes - 28 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,342 likes - 28 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

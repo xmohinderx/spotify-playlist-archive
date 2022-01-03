@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PB4Qx11qXU.md) - [plain]
 
 > The essential songs from Paul McCartney's solo career and the Wings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,727 likes - 71 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,770 likes - 71 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PB4Qx11qXU.md) - [plain]
 | 70 | [Yesterday \- Live](https://open.spotify.com/track/1UckbVsWEg5kqIgeDB9b4H) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The U.S.](https://open.spotify.com/album/0PoRrBKXrrsRTE4tyq45Xz) | 2:08 |
 | 71 | [Let It Be \- Live](https://open.spotify.com/track/5Rr5QQ1wRzmnqC9MyfTqmk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The World \(Live\)](https://open.spotify.com/album/0Cq6VQQvxlCkKdu4tvHCCO) | 3:57 |
 
-Snapshot ID: `MTY0MTEwOTk4MiwwMDAwMDAwMDMyOTVkYTgyNmE5Njg2ZDIxY2NkMzlkMjBhNjc4YzVi`
+Snapshot ID: `MTY0MTE3MDQ3MiwwMDAwMDAwMDMyOTVkYTgyNmE5Njg2ZDIxY2NkMzlkMjBhNjc4YzVi`

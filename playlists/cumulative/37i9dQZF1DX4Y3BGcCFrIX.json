@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Teesri Kasam",
+        "url": "https://open.spotify.com/album/3jFSziukuDAZllsKdTZf1W"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303813,
+      "name": "Aa Aa Bhi Ja",
+      "url": "https://open.spotify.com/track/6Epbwyzwuvkth72Su3hzhn"
+    },
+    {
+      "album": {
         "name": "Apnapan",
         "url": "https://open.spotify.com/album/6SKRYoUaR1YqzDOphEiVd8"
       },
@@ -331,7 +349,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 275746,
       "name": "Allah Jane Kya Hoga Aage",
       "url": "https://open.spotify.com/track/5dUVlaivCRTwDgn8IV3YVu"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 301266,
       "name": "Bhool Gaya Sub Kuchh - Julie / Soundtrack Version",
       "url": "https://open.spotify.com/track/3KlhVEjtoX5TVxtqRtmGL6"
@@ -493,7 +511,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 355733,
       "name": "Dekha Ek Khwab (with Dialogues)",
       "url": "https://open.spotify.com/track/4OvDkKNj49Zecu365xMAQN"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 287893,
       "name": "Ek Pyar Ka Naghma Hai",
       "url": "https://open.spotify.com/track/6RELGnjAoxtO1IRYUcEcta"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 292855,
       "name": "Gaata Rahe Mera Dil",
       "url": "https://open.spotify.com/track/6knyRBZ0lLQoFV0611RiNX"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 291626,
       "name": "Gore Rang Pe Itna Gumaan Na Kar - Roti / Soundtrack Version",
       "url": "https://open.spotify.com/track/6ISF8WtUVBrjXB1rL1PMFu"
@@ -825,7 +843,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 209000,
       "name": "Har Khushi Ho Wahan",
       "url": "https://open.spotify.com/track/2p4KzBHYAMII5z52c5ZCyZ"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 270733,
       "name": "Hum Dono Do Premi",
       "url": "https://open.spotify.com/track/3Cx7kRThxe9AYG0u68ldK3"
@@ -1072,6 +1090,28 @@
     },
     {
       "album": {
+        "name": "Aah",
+        "url": "https://open.spotify.com/album/3hAhQMdtUXYATD1mf4Qoc3"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219713,
+      "name": "Jane Na Nazar Pehchane Jigar",
+      "url": "https://open.spotify.com/track/1cpaDNciPGlC39qPs4RkMU"
+    },
+    {
+      "album": {
         "name": "Dharti Kahe Pukar Ke",
         "url": "https://open.spotify.com/album/0GpJlpUGfLRNuQipA70ysj"
       },
@@ -1257,7 +1297,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 282389,
       "name": "Kajra Lagake Gajra Sajake",
       "url": "https://open.spotify.com/track/07MjVCKuc4RMRKP3cK5nco"
@@ -1283,7 +1323,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 310813,
       "name": "Karvaten Badalte Rahe",
       "url": "https://open.spotify.com/track/7yJVavhTsIrjM1KleXlpHR"
@@ -1305,7 +1345,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 284506,
       "name": "Kasme Vaade Nibhayenge Hum - Part 1, From \"Kasme Vaade\"",
       "url": "https://open.spotify.com/track/6RMoHQuWmOl4EDGKcDbOcN"
@@ -1353,7 +1393,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 313933,
       "name": "Kitna Pyara Wada Hai",
       "url": "https://open.spotify.com/track/2Axir2r0thDYOWFPXasNfU"
@@ -1603,7 +1643,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 388760,
       "name": "Megha Re Megha Re",
       "url": "https://open.spotify.com/track/0y8GqdhKlBhiG7rAdQ7Jg7"
@@ -1661,6 +1701,28 @@
       "duration_ms": 275539,
       "name": "Mil Gaye Mil Gaye Aaj Mere Sanam",
       "url": "https://open.spotify.com/track/5eij7xjeKfMcCslKbmfgpE"
+    },
+    {
+      "album": {
+        "name": "The Legend Forever - Lata Mangeshkar - Vol.5",
+        "url": "https://open.spotify.com/album/31d5u9jAMxvnZZAA37AVUz"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282306,
+      "name": "Mile Mile Do Badan - Blackmail / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6Vc2mGEmrS6UudUme39ZCr"
     },
     {
       "album": {
@@ -1753,7 +1815,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 127733,
       "name": "O Janewale Mud Ke Zara",
       "url": "https://open.spotify.com/track/4x1mkBZCtJlYtDTyEmuPXK"
@@ -1797,7 +1859,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 204333,
       "name": "Ooi Maa Ooi Maa Yeh Kya Ho Gaya",
       "url": "https://open.spotify.com/track/4PLRQcijKQ4Hk8rV9vwczo"
@@ -2055,7 +2117,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 304813,
       "name": "Shokhiyon Mein Ghola Jaye",
       "url": "https://open.spotify.com/track/5ebdGvBpzZl1PKiedwm6AP"
@@ -2121,7 +2183,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 263466,
       "name": "Tadap Yeh Din Raat Ki",
       "url": "https://open.spotify.com/track/6VZNYQwZjC5PFdCyHMtyym"
@@ -2139,7 +2201,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 190960,
       "name": "Tera Mera Pyar Amar - Lata Mangeshkar",
       "url": "https://open.spotify.com/track/0Sm3rEToKnYX3vIjDzrQmn"
@@ -2165,7 +2227,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 354013,
       "name": "Tere Bina Zindagi Se",
       "url": "https://open.spotify.com/track/57l24qsMzRsvecxRM0tfC6"
@@ -2187,7 +2249,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 302400,
       "name": "Tere Chehre Se Nazar Nahin",
       "url": "https://open.spotify.com/track/3z7jy3126KF930xKvLCD94"
@@ -2231,7 +2293,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 304853,
       "name": "Tere Kaaran Mere Saajan",
       "url": "https://open.spotify.com/track/4z4i6sZhN10UIty1ayDKbr"
@@ -2357,7 +2419,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 296173,
       "name": "Tu Pyar Tu Preet - Tera Mera Juda Hona",
       "url": "https://open.spotify.com/track/5Zy8v77I71nTlJXsfcWnu1"
@@ -2383,7 +2445,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220106,
       "name": "Tujhse Naraz Nahin Zindagi - Lata Mangeshkar",
       "url": "https://open.spotify.com/track/4M6QtwT7kFCMqztO4E96kk"
@@ -2409,7 +2471,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 252360,
       "name": "Tum Aa Gaye Ho Noor Aa Gaya",
       "url": "https://open.spotify.com/track/7a918splcA26WH2Palfpq3"
@@ -2471,7 +2533,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 307040,
       "name": "Vada Karo Jaanam",
       "url": "https://open.spotify.com/track/5xkUKF8bx9lon72L0k7q6t"
@@ -2497,7 +2559,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 287504,
       "name": "Wada Kar Le Sajna",
       "url": "https://open.spotify.com/track/3J8ueXZ1M2QsPznc4T9oSj"
@@ -2519,10 +2581,32 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 314706,
       "name": "Wada Karo - From \"Aa Gale Lag Jaa\"",
       "url": "https://open.spotify.com/track/6PTn66QzyMC8qVV7vNMRXE"
+    },
+    {
+      "album": {
+        "name": "Mere Mehboob",
+        "url": "https://open.spotify.com/album/5xk6VSsc2yfkuMQAUzpHDi"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267493,
+      "name": "Yaad Men Teri Jaag Jaag Ke Hum",
+      "url": "https://open.spotify.com/track/4aAJROJ0LtJD9h2Ol6pOgv"
     },
     {
       "album": {
@@ -2545,7 +2629,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 351506,
       "name": "Ye Dil Tum Bin Lagta Nahin",
       "url": "https://open.spotify.com/track/1vi4SYpDhUVf4R247VpzMv"

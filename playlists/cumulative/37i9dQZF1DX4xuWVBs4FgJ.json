@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0AQDhFnLUd32C8y3cjje9g"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/2e9N4vHYVUwSwRorBzsZXE"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 148040,
       "name": "Bitter With The Sweet",
       "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 280066,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/3aEx5VvdgQsKy6vbOqpmEO"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 154229,
       "name": "Change",
       "url": "https://open.spotify.com/track/1ztB2LwqXxn0IH2jMrKvDw"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 258533,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 156066,
       "name": "Full Full Colour",
       "url": "https://open.spotify.com/track/4TmZ7SSq5YnKe2Qu9ge5fL"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 194422,
       "name": "Hard Act To Follow",
       "url": "https://open.spotify.com/track/6IKoE1DlvzdGfzUS9QQaVP"
@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 212093,
       "name": "Holy (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
@@ -1404,6 +1404,24 @@
     },
     {
       "album": {
+        "name": "If Not With You, For You",
+        "url": "https://open.spotify.com/album/1TYQx1Ku35FXe4eatyAGeC"
+      },
+      "artists": [
+        {
+          "name": "Chris Kl\u00e4fford",
+          "url": "https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188908,
+      "name": "If Not With You, For You",
+      "url": "https://open.spotify.com/track/2Vp7ZK5wP51LYayV14ichq"
+    },
+    {
+      "album": {
         "name": "If That's Alright",
         "url": "https://open.spotify.com/album/0N45Hx7WHKubuoOVWUzgSH"
       },
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/2EjR7VKpDBdC2wgS053ivc"
@@ -1592,6 +1610,24 @@
     },
     {
       "album": {
+        "name": "In Hindsight",
+        "url": "https://open.spotify.com/album/323C2iF45gSw52R7c0aSk0"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167942,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/03rrlcjsqarfllXgIr2I2a"
+    },
+    {
+      "album": {
         "name": "Mess",
         "url": "https://open.spotify.com/album/1GUJhhunpOI7cfbVc2AsMv"
       },
@@ -1621,7 +1657,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 268839,
       "name": "Miracle of Love",
       "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
@@ -1711,7 +1747,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 232347,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/2an7S0pfafUr6YNabYXIl0"
@@ -1809,6 +1845,24 @@
       "duration_ms": 204309,
       "name": "Perfectly Imperfect",
       "url": "https://open.spotify.com/track/6TbkMxKZudkP6Sty7rkLU9"
+    },
+    {
+      "album": {
+        "name": "FRONTYARD EP",
+        "url": "https://open.spotify.com/album/340CX8mw2SrcHE67JwonOB"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180972,
+      "name": "Picking Flowers",
+      "url": "https://open.spotify.com/track/25DhGXCrAoGppWiU8beWqX"
     },
     {
       "album": {
@@ -2047,7 +2101,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 189495,
       "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
@@ -2181,7 +2235,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 237493,
       "name": "Where Do You Go",
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"

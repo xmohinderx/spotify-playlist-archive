@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 242973,
       "name": "12 Steps",
       "url": "https://open.spotify.com/track/43EV79K6fajovzzFlPK5fM"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200576,
       "name": "Aina \u00e4lskar ganja",
       "url": "https://open.spotify.com/track/0ZZU7t3meUqAuBMcfjFiel"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 229960,
       "name": "Babylonsjukan",
       "url": "https://open.spotify.com/track/4xd2Qn78AeaA9FLnAS3J6S"
@@ -353,7 +353,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 254293,
       "name": "Bulleribock",
       "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 276417,
       "name": "Chimurenga",
       "url": "https://open.spotify.com/track/1ptNyHtwxuJH8RBdBubzdY"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 199872,
       "name": "Come By",
       "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221800,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 257399,
       "name": "Det Str\u00e5lar S\u00e5 Om Dig (feat. Hoffmaestro)",
       "url": "https://open.spotify.com/track/1moyS7mNDbCxhSvcJaKCtE"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 193908,
       "name": "Enda V\u00e4gen Fram (med Kapten R\u00f6d)",
       "url": "https://open.spotify.com/track/42AuLtsnFVXHE3jVQBOyHU"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220676,
       "name": "Finns det liv finns det tid",
       "url": "https://open.spotify.com/track/4nMzM9STL3bbAErupiguPm"
@@ -771,6 +771,28 @@
       "duration_ms": 191120,
       "name": "Full fokus",
       "url": "https://open.spotify.com/track/26amtV7taoZZCk1zrGu2uc"
+    },
+    {
+      "album": {
+        "name": "F\u00e4rsking",
+        "url": "https://open.spotify.com/album/24GKR0Sw8jc6PWA4XPoSX5"
+      },
+      "artists": [
+        {
+          "name": "Leafnuts",
+          "url": "https://open.spotify.com/artist/5rPdsyRPV9VQXLu4YXhVvy"
+        },
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "F\u00e4rsking",
+      "url": "https://open.spotify.com/track/3Zqwzrtlla5n0PQrljCaI5"
     },
     {
       "album": {
@@ -959,7 +981,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 266770,
       "name": "Hennes K\u00e4rlek",
       "url": "https://open.spotify.com/track/63bToG6KJCg4d0xuzPLMk6"
@@ -1115,7 +1137,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 242874,
       "name": "Jag Minns",
       "url": "https://open.spotify.com/track/6ZbEjK7jdClL1MGczRAU0q"
@@ -1323,7 +1345,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 176470,
       "name": "Ljuva Livet (Binnie Smalls Remix)",
       "url": "https://open.spotify.com/track/7APOeunmslLVLaaUh6jL2o"
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 234438,
       "name": "Luftslott (feat. Nayomi)",
       "url": "https://open.spotify.com/track/6HFDca3nQ3wZ8vJflJqUJq"
@@ -1389,7 +1411,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 193000,
       "name": "L\u00e5t ingen fakka din vibe",
       "url": "https://open.spotify.com/track/0RXTRlLdb6i05iCRYdEyBv"
@@ -1433,7 +1455,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 251000,
       "name": "Mediak\u00e5t feat. Timbuktu",
       "url": "https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw"
@@ -1469,7 +1491,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 289706,
       "name": "M\u00e5sten",
       "url": "https://open.spotify.com/track/3Ea996dwFzTOtxuK9Rtiv6"
@@ -1491,7 +1513,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179368,
       "name": "Nice",
       "url": "https://open.spotify.com/track/37LyUYAXgYTJpnYaC95ouM"
@@ -1509,7 +1531,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 245530,
       "name": "No winners",
       "url": "https://open.spotify.com/track/2LiweIh9adLp0xVZBAMVK2"
@@ -1531,7 +1553,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 221773,
       "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
       "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
@@ -1593,7 +1615,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 232000,
       "name": "Pass p\u00e5 dom",
       "url": "https://open.spotify.com/track/3ECcRt0WUZHvXUK80I5NOe"
@@ -1611,7 +1633,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208000,
       "name": "Peace n Love",
       "url": "https://open.spotify.com/track/02LepIdABo8o2fjhCjAdR1"
@@ -1647,10 +1669,32 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208902,
       "name": "Poppigt nog",
       "url": "https://open.spotify.com/track/7G8J2s4DDLLsdPF7QO9FBI"
+    },
+    {
+      "album": {
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/0dSRC0KYXkkQMCSPo72LHX"
+      },
+      "artists": [
+        {
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
+        },
+        {
+          "name": "Jr Erik",
+          "url": "https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Reggaeprofil Feat. Jr Erik",
+      "url": "https://open.spotify.com/track/01YRjjmY3VmYixPrVPV3TR"
     },
     {
       "album": {
@@ -1691,7 +1735,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 201184,
       "name": "Saker som jag sett",
       "url": "https://open.spotify.com/track/5ZTJj1tjcmpm2tyvQtxC3J"
@@ -1785,7 +1829,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198805,
       "name": "Som Bob Marley",
       "url": "https://open.spotify.com/track/1RlMC1HIfdMfj0hfx51ieH"
@@ -1919,7 +1963,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "S\u00e4g Till Mig",
       "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
@@ -1937,7 +1981,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "S\u00e5 fakking fin",
       "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
@@ -1999,7 +2043,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 216971,
       "name": "Tid att tro",
       "url": "https://open.spotify.com/track/0MI0zmhQHMnHYHFO5sH4rC"
@@ -2075,7 +2119,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/06iclXdpVQmLGuM6Lts2dU"
@@ -2190,6 +2234,52 @@
     },
     {
       "album": {
+        "name": "Viben Remix",
+        "url": "https://open.spotify.com/album/55S3LbRTVEcuxmOyllz0ya"
+      },
+      "artists": [
+        {
+          "name": "Essa Cham",
+          "url": "https://open.spotify.com/artist/3N8khuP6qGB5ZHl7jZxHDB"
+        },
+        {
+          "name": "Kid Jallow",
+          "url": "https://open.spotify.com/artist/39xugmzlLF6xuZkPkoGayq"
+        },
+        {
+          "name": "Stina Velocette",
+          "url": "https://open.spotify.com/artist/6svreHBL2Mn2eH3JfJu7aR"
+        },
+        {
+          "name": "Aurelia Dey",
+          "url": "https://open.spotify.com/artist/1eFBWrAF8Vu18ey4zdRqIA"
+        },
+        {
+          "name": "Alibrorsh",
+          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
+        },
+        {
+          "name": "Slim Prince",
+          "url": "https://open.spotify.com/artist/2sDEJu2GS3AKx2RtMr9l2m"
+        },
+        {
+          "name": "Panetoz",
+          "url": "https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa"
+        },
+        {
+          "name": "Salif The First Black Viking",
+          "url": "https://open.spotify.com/artist/5hg8TccK1KMZrOmc8mkeec"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201391,
+      "name": "Viben Remix",
+      "url": "https://open.spotify.com/track/7blbwkyBU1lcPiBSbuE02f"
+    },
+    {
+      "album": {
         "name": "Det Bortgl\u00f6mda Sverige",
         "url": "https://open.spotify.com/album/48GyrYLyjSYKV3WE3BJ75D"
       },
@@ -2201,7 +2291,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 211352,
       "name": "Vilse",
       "url": "https://open.spotify.com/track/4STwzs8fwqVvAEngOlpZDx"
@@ -2223,7 +2313,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 227500,
       "name": "Vindarna",
       "url": "https://open.spotify.com/track/4daiQ4LFjZac9JRp7GSFdN"
@@ -2259,7 +2349,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208057,
       "name": "V\u00e4gsj\u00e4l",
       "url": "https://open.spotify.com/track/22ehzAT8AUMGiR7eVaZqRC"
@@ -2357,7 +2447,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200000,
       "name": "Weh Dem A Gwaan",
       "url": "https://open.spotify.com/track/02knQB6by79wVxI7eNgxJO"
@@ -2375,7 +2465,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208637,
       "name": "Whada Deng",
       "url": "https://open.spotify.com/track/1r6SQ5yAMl5R3gR4BHm75e"
@@ -2393,7 +2483,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 260399,
       "name": "You Are My Angel",
       "url": "https://open.spotify.com/track/6GSKEnNSqP8e1jXlJw9LXW"
@@ -2433,7 +2523,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 219750,
       "name": "\u00c4lskar att \u00e4lska dig",
       "url": "https://open.spotify.com/track/5Vspk7VYYxmyY1aXYY1XXJ"
@@ -2469,7 +2559,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200000,
       "name": "\u00d6PPNA D\u00d6RREN NU",
       "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"

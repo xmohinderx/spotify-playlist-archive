@@ -284,6 +284,24 @@
     },
     {
       "album": {
+        "name": "Better Now",
+        "url": "https://open.spotify.com/album/1XDF06BnrFhW9VOxdncZPI"
+      },
+      "artists": [
+        {
+          "name": "Theresa Rex",
+          "url": "https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/5UkAKOxSAIa9GVgXbJKz7T"
+    },
+    {
+      "album": {
         "name": "Better Together",
         "url": "https://open.spotify.com/album/0KAwOGS6XRZfVBx9qmSlMc"
       },
@@ -428,6 +446,24 @@
     },
     {
       "album": {
+        "name": "Songs of Dylan",
+        "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229052,
+      "name": "Blowin' In the Wind",
+      "url": "https://open.spotify.com/track/0k9RKhN4MFzaon1u5jmZnh"
+    },
+    {
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm"
       },
@@ -443,6 +479,24 @@
       "duration_ms": 264288,
       "name": "Born To Be Yours - Chill Out Version",
       "url": "https://open.spotify.com/track/5n5DrY0ZIYiQ37sYnqbKPF"
+    },
+    {
+      "album": {
+        "name": "Wilting Rooting Blooming",
+        "url": "https://open.spotify.com/album/2hlcsys3vCrpxkrALsl4Lk"
+      },
+      "artists": [
+        {
+          "name": "Crying Day Care Choir",
+          "url": "https://open.spotify.com/artist/2wA059Agr6FoUUJTD23KLl"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207693,
+      "name": "Branches",
+      "url": "https://open.spotify.com/track/10xHiBHqsjVHK6AkAEb6SH"
     },
     {
       "album": {
@@ -529,7 +583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183209,
       "name": "Change of Mind - Acoustic",
       "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
@@ -663,6 +717,24 @@
       "duration_ms": 213800,
       "name": "cowboy in LA",
       "url": "https://open.spotify.com/track/0E6uWutxRjIDhleURR92do"
+    },
+    {
+      "album": {
+        "name": "Cut Me",
+        "url": "https://open.spotify.com/album/1FWXfOdSVUrPPCXymMMiCK"
+      },
+      "artists": [
+        {
+          "name": "Chris Medina",
+          "url": "https://open.spotify.com/artist/2uCmngYSlTEELzZXl1z1dV"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185357,
+      "name": "Cut Me",
+      "url": "https://open.spotify.com/track/1wtrJ0dcTjqP8PMRTczdSi"
     },
     {
       "album": {
@@ -949,7 +1021,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
@@ -1234,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Entwined",
+        "url": "https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB"
+    },
+    {
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl"
       },
@@ -1281,7 +1371,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
@@ -1343,6 +1433,24 @@
       "duration_ms": 199462,
       "name": "Free",
       "url": "https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB"
+    },
+    {
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/2ZspHdWlWxc0zig3O6VC1X"
+      },
+      "artists": [
+        {
+          "name": "Pl\u00e0si",
+          "url": "https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180483,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/7gLdCsimRDhH0PtZoFwOAR"
     },
     {
       "album": {
@@ -1675,7 +1783,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 217360,
       "name": "Hold Your Head Up High",
       "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
@@ -1921,7 +2029,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 251704,
       "name": "I Should Live in Salt - Live from Spotify, London",
       "url": "https://open.spotify.com/track/559ucgZOloQL75DwOQLCEt"
@@ -2051,10 +2159,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 213097,
       "name": "If Your Heart Is Broken (Acoustic)",
       "url": "https://open.spotify.com/track/54DtcXCPyocXJZ61opPW2b"
+    },
+    {
+      "album": {
+        "name": "James Arthur (Deluxe)",
+        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Impossible - Acoustic",
+      "url": "https://open.spotify.com/track/0JswmIBSn3XZ15wEEtH5fj"
     },
     {
       "album": {
@@ -2170,6 +2296,24 @@
     },
     {
       "album": {
+        "name": "+",
+        "url": "https://open.spotify.com/album/02pi98kE0nra0yBqCStzbC"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280853,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
+    },
+    {
+      "album": {
         "name": "Laura's Song",
         "url": "https://open.spotify.com/album/0wXOHkGHSL0umJqz99nUJx"
       },
@@ -2257,7 +2401,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
@@ -2651,7 +2795,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179299,
       "name": "Must Have Been The Wind",
       "url": "https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG"
@@ -3297,7 +3441,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 202717,
       "name": "Same Moon",
       "url": "https://open.spotify.com/track/2Vw1Ch9uvjTk8jmxsWnUoL"
@@ -3524,6 +3668,24 @@
     },
     {
       "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/35qC0lWF8T5voFiiLE0o4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Lee",
+          "url": "https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257073,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/5kmh9DtV95RXDUoNCeTkXW"
+    },
+    {
+      "album": {
         "name": "Sorry Would Go A Long Way",
         "url": "https://open.spotify.com/album/1y14kxEmxu5AXm7BApA2hc"
       },
@@ -3589,7 +3751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 168050,
       "name": "Stars",
       "url": "https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe"
@@ -3665,7 +3827,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
@@ -3813,7 +3975,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 175061,
       "name": "The Best You Had",
       "url": "https://open.spotify.com/track/5GT8b1dFaOWFF5twsmSOYx"

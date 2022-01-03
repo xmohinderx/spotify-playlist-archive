@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 174312,
       "name": "Doja - 4 Morant",
       "url": "https://open.spotify.com/track/6YJafO3sMQmcyxNT6AzOjK"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -950,6 +950,28 @@
     },
     {
       "album": {
+        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
+        },
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164163,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/1iFgG6BeEPTbXsAok6zYxR"
+    },
+    {
+      "album": {
         "name": "TO THE",
         "url": "https://open.spotify.com/album/2CZxED1GDIM7fV6ODe6rMf"
       },
@@ -1025,6 +1047,24 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "We Rollin",
+        "url": "https://open.spotify.com/album/7FdUhWYHba3PgF8tB9ELXo"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199205,
+      "name": "We Rollin",
+      "url": "https://open.spotify.com/track/7xeE24WnWUXDwgqGiaeshi"
     },
     {
       "album": {

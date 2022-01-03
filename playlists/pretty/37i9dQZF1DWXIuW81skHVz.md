@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIuW81skHVz.md) - [plain]
 
 > The shape of jazz today\. Cover: Alfa Mist
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,781 likes - 86 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,780 likes - 86 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 229373,
       "name": "C\u00facala",
       "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 223466,
       "name": "Dos D\u00edas en la Vida",
       "url": "https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Me Voy A Pinar Del Rio",
       "url": "https://open.spotify.com/track/1MEPy1v2mx52JPLsOUnpEH"
@@ -1108,6 +1108,28 @@
     },
     {
       "album": {
+        "name": "Ritmo en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ei3gt0jWaAbbDn6k8rYpA"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304226,
+      "name": "Para Decirte Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1A4B4JH61qpCTfiXmFg9Bb"
+    },
+    {
+      "album": {
         "name": "\u00a1La Excitante Celia Cruz!",
         "url": "https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw"
       },
@@ -1119,7 +1141,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 152090,
       "name": "Para Ti Mi Boogaloo",
       "url": "https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ"
@@ -1199,7 +1221,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
@@ -1465,7 +1487,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"

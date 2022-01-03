@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 233320,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/6zmGtaJ5If4EXZOijSHnx0"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 295075,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 226101,
       "name": "Bottomless Mimosas",
       "url": "https://open.spotify.com/track/3Ox18GRfrmkayoD9QTE10K"
@@ -619,7 +619,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 239480,
       "name": "Easier",
       "url": "https://open.spotify.com/track/51ly3W8LifaVReT1NAgaH2"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 243773,
       "name": "First Defeat",
       "url": "https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 289306,
       "name": "Forever and Then Some",
       "url": "https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 235043,
       "name": "Justine",
       "url": "https://open.spotify.com/track/6VLRjvkWNAvKqiF77bxppi"
@@ -1529,7 +1529,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 379333,
       "name": "Learning to Lose (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0Pr7l3Zvr9F4upwYZFpkS7"
@@ -1641,10 +1641,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR"
+    },
+    {
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "album": {
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 194320,
       "name": "Mind on Fire",
       "url": "https://open.spotify.com/track/45RX9we2ExTAPtPmHRJT9C"
@@ -1749,7 +1767,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 277676,
       "name": "Moon Song",
       "url": "https://open.spotify.com/track/6sALLrBPX30ptG1HWH6vmW"
@@ -2165,7 +2183,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 219466,
       "name": "Poison & Wine",
       "url": "https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye"
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 266906,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Strange Country",
       "url": "https://open.spotify.com/track/5FKe8dFIw1CAbFocbGpG7Y"
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
@@ -2777,7 +2795,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 292493,
       "name": "The Question",
       "url": "https://open.spotify.com/track/6IfxNYJWYBaaDxCN8FWehD"
@@ -2867,7 +2885,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
@@ -2965,7 +2983,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 259008,
       "name": "To S.",
       "url": "https://open.spotify.com/track/17ogyMCuQ3aWoFQkNldC9U"
@@ -3001,7 +3019,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 225666,
       "name": "Took You Up - Acoustic",
       "url": "https://open.spotify.com/track/7iDz4xuwt0E7lIxwhBsZAI"
@@ -3037,7 +3055,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/3e3g5fhOUw0TxHZ46Qn9uF"
@@ -3221,7 +3239,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 287417,
       "name": "Wayfaring Stranger (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6fVWRVu15YqA9yhd5hy9Bj"
@@ -3257,7 +3275,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205120,
       "name": "Western Movies",
       "url": "https://open.spotify.com/track/1iEZwHyU08FwHqAql9A8uo"
@@ -3275,7 +3293,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 235579,
       "name": "What I Am - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1b5Cgfs0La5peeZ7Sw7y6y"
@@ -3293,7 +3311,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 197323,
       "name": "When I Found You",
       "url": "https://open.spotify.com/track/0EU95trt0NRr1egprQgxgF"
@@ -3437,7 +3455,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2VGMMVCzLU6ff980myVsdr"

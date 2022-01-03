@@ -1,12 +1,12 @@
 {
   "description": "Burn off all those beers from last night.",
   "name": "Rock Your Body",
-  "num_followers": 539406,
+  "num_followers": 539543,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTExMDE3NCwwMDAwMDAwMGVmYmU0NmFhOGJkYjZjZjVhZDI4ZDdkYTFmMzgzNDIw",
+  "snapshot_id": "MTY0MTE3MDY4MywwMDAwMDAwMDIxODdjMDIxZDNmY2FiODJmZjU2MzA5ODViNDM3Y2Y0",
   "tracks": [
     {
       "added_at": "2021-12-16 09:34:48",
@@ -23,6 +23,22 @@
       "duration_ms": 177614,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/2fZFQe9qyQx1AX7tZ3Uztl"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Devil",
+        "url": "https://open.spotify.com/album/16NCKTebMK4KzJeuHOAMm9"
+      },
+      "artists": [
+        {
+          "name": "Fight The Fade",
+          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
+        }
+      ],
+      "duration_ms": 170366,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/2C1gcpQDw2sPz5k01gUv5r"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -71,22 +87,6 @@
       "duration_ms": 209480,
       "name": "Boilermaker",
       "url": "https://open.spotify.com/track/27BEATf1JFhKDmwJdpGVSk"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Devil",
-        "url": "https://open.spotify.com/album/16NCKTebMK4KzJeuHOAMm9"
-      },
-      "artists": [
-        {
-          "name": "Fight The Fade",
-          "url": "https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF"
-        }
-      ],
-      "duration_ms": 170366,
-      "name": "Devil",
-      "url": "https://open.spotify.com/track/2C1gcpQDw2sPz5k01gUv5r"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -187,50 +187,18 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+        "name": "Billy Talent III",
+        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
         }
       ],
-      "duration_ms": 166373,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Teach Me To Fight",
-        "url": "https://open.spotify.com/album/65hS1sPlNrXeB9XJIPBQ8r"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 192951,
-      "name": "Teach Me To Fight",
-      "url": "https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Runnin' Wild",
-        "url": "https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Runnin' Wild",
-      "url": "https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV"
+      "duration_ms": 229533,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -251,6 +219,38 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
+        "name": "Runnin' Wild",
+        "url": "https://open.spotify.com/album/5e11cqb5L0C6s9RBasePB8"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Runnin' Wild",
+      "url": "https://open.spotify.com/track/1wXuogT7bvqnhuWzDBNOdV"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
         "name": "Let The Vultures In",
         "url": "https://open.spotify.com/album/4xPEjD84ueU6Oq6l2saC2d"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 207141,
       "name": "Let Me Live / Let Me Die",
       "url": "https://open.spotify.com/track/5bCDC7qkmxiJc0lPsqiALj"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/15ZfluTMIxytOUoy1FSaEw"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -299,38 +315,6 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Americana",
-        "url": "https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4"
-      },
-      "artists": [
-        {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "The Kids Aren't Alright",
-      "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Th1rt3en or Nothing",
-        "url": "https://open.spotify.com/album/1GAgpG73IgX85uKhqbio5O"
-      },
-      "artists": [
-        {
-          "name": "Backyard Babies",
-          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Th1rt3en or Nothing",
-      "url": "https://open.spotify.com/track/781bD6xtn77Wcep2hs13TC"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
         "name": "Outlaws & Outsiders",
         "url": "https://open.spotify.com/album/1FMwktOdGcAx5tzgdHRUf4"
       },
@@ -359,54 +343,6 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Is Everybody Going Crazy?",
-        "url": "https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 237053,
-      "name": "Is Everybody Going Crazy?",
-      "url": "https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Billy Talent III",
-        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "Devil on My Shoulder",
-      "url": "https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "As Blue as Indigo",
-        "url": "https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 208064,
-      "name": "Sleepwalker",
-      "url": "https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/2q2RKKrd7AuRE4I21b090c"
       },
@@ -423,98 +359,18 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Hybrid Theory (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+        "name": "Teach Me To Fight",
+        "url": "https://open.spotify.com/album/65hS1sPlNrXeB9XJIPBQ8r"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
         }
       ],
-      "duration_ms": 157333,
-      "name": "One Step Closer",
-      "url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Myths & Legends",
-        "url": "https://open.spotify.com/album/6hNgPbvuietZC9tQE6Ix8L"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 189120,
-      "name": "Legend",
-      "url": "https://open.spotify.com/track/4MNx1N8V4RLTKlRsbQ5Sd2"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Welcome to the Neighbourhood",
-        "url": "https://open.spotify.com/album/1i0k46X5g1vDetBJfNaOYT"
-      },
-      "artists": [
-        {
-          "name": "Boston Manor",
-          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
-        }
-      ],
-      "duration_ms": 223720,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/0BBuP5Ynwl0hMKbQGEjfnk"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Feral Roots",
-        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "Do Your Worst",
-      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
-      },
-      "artists": [
-        {
-          "name": "Sugarcult",
-          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
+      "duration_ms": 192951,
+      "name": "Teach Me To Fight",
+      "url": "https://open.spotify.com/track/73BDFtqyGUgQN35Gw3jzYH"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -551,50 +407,18 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/15ZfluTMIxytOUoy1FSaEw"
+        "name": "Is Everybody Going Crazy?",
+        "url": "https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1"
       },
       "artists": [
         {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 202800,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2TFWiFlB1t8j2ALmzIRZOa"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "By the Way (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
-    },
-    {
-      "added_at": "2021-12-16 09:34:48",
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+      "duration_ms": 237053,
+      "name": "Is Everybody Going Crazy?",
+      "url": "https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -615,18 +439,34 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Sugarcult",
+          "url": "https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW"
         }
       ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+      "duration_ms": 237573,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Th1rt3en or Nothing",
+        "url": "https://open.spotify.com/album/1GAgpG73IgX85uKhqbio5O"
+      },
+      "artists": [
+        {
+          "name": "Backyard Babies",
+          "url": "https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Th1rt3en or Nothing",
+      "url": "https://open.spotify.com/track/781bD6xtn77Wcep2hs13TC"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -647,34 +487,34 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Willow Tree",
-        "url": "https://open.spotify.com/album/6l7FQvAQgrIeeoYBJ0WrR0"
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
       "artists": [
         {
-          "name": "Twin Wild",
-          "url": "https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D"
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
         }
       ],
-      "duration_ms": 199412,
-      "name": "Willow Tree",
-      "url": "https://open.spotify.com/track/5HYonJKY0t9tPAtExyBuvr"
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Satellite (U.S. Version)",
-        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
+        "name": "Myths & Legends",
+        "url": "https://open.spotify.com/album/6hNgPbvuietZC9tQE6Ix8L"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Boom",
-      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+      "duration_ms": 189120,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/4MNx1N8V4RLTKlRsbQ5Sd2"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -691,6 +531,70 @@
       "duration_ms": 223560,
       "name": "Curse the Weather",
       "url": "https://open.spotify.com/track/2o0fZALPlVohLSNrjYN3I5"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Willow Tree",
+        "url": "https://open.spotify.com/album/6l7FQvAQgrIeeoYBJ0WrR0"
+      },
+      "artists": [
+        {
+          "name": "Twin Wild",
+          "url": "https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D"
+        }
+      ],
+      "duration_ms": 199412,
+      "name": "Willow Tree",
+      "url": "https://open.spotify.com/track/5HYonJKY0t9tPAtExyBuvr"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "One Step Closer",
+      "url": "https://open.spotify.com/track/3K4HG9evC7dg3N0R9cYqk4"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Welcome to the Neighbourhood",
+        "url": "https://open.spotify.com/album/1i0k46X5g1vDetBJfNaOYT"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/0BBuP5Ynwl0hMKbQGEjfnk"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -727,50 +631,82 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
+        "name": "Feral Roots",
+        "url": "https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
+      "duration_ms": 210493,
+      "name": "Do Your Worst",
+      "url": "https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq"
     },
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Crooked Teeth (Deluxe)",
-        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+        "name": "Americana",
+        "url": "https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 214797,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
+      "duration_ms": 179600,
+      "name": "The Kids Aren't Alright",
+      "url": "https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig"
     },
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "Never Take Friendship Personal",
-        "url": "https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5C7ycA5j67dfbzOGcIWXWl"
       },
       "artists": [
         {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+          "name": "Mallory Knox",
+          "url": "https://open.spotify.com/artist/7bHTSvk96ULRLZPZr1SoCZ"
         }
       ],
-      "duration_ms": 207360,
-      "name": "The Feel Good Drag",
-      "url": "https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj"
+      "duration_ms": 209954,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/71H2SB2sNLUuGvZ8iV02cT"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Lights And Sounds",
+        "url": "https://open.spotify.com/album/5EaEOUs3O1MZRicDMUIuqo"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Lights And Sounds",
+      "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -791,18 +727,50 @@
     {
       "added_at": "2021-12-16 09:34:48",
       "album": {
-        "name": "GLOW ON",
-        "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
+        "name": "Satellite (U.S. Version)",
+        "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         }
       ],
-      "duration_ms": 173279,
-      "name": "BLACKOUT",
-      "url": "https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o"
+      "duration_ms": 190760,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/5DooySfCD1xCJ49gQm9rx7"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "Crooked Teeth (Deluxe)",
+        "url": "https://open.spotify.com/album/4KTUNKma9YpiSbioeui4pW"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 214797,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/6EaGMOSWL2LndwY6gClBaD"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
     },
     {
       "added_at": "2021-12-16 09:34:48",
@@ -819,6 +787,46 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/6A5M31nKvt6GYaGL7XpX2w"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "url": "https://open.spotify.com/track/7hvO2qCwJVZxiyoA7c9i5d"
+    },
+    {
+      "added_at": "2021-12-16 09:34:48",
+      "album": {
+        "name": "As Blue as Indigo",
+        "url": "https://open.spotify.com/album/3uyuxQdmh6N956P7RcOOIG"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 208064,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1d3bB2IXjNfJRJi2xZVY9t"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbFRZSqP41al"

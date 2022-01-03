@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
       "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221680,
       "name": "Last Of The True Believers - Acoustic",
       "url": "https://open.spotify.com/track/0p0nJ9xWdY5wTmVCbiIQ62"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 219160,
       "name": "Mercy - Acoustic",
       "url": "https://open.spotify.com/track/0uZnF1sn2IcNCvnyAIKNMQ"
@@ -1090,6 +1090,24 @@
     },
     {
       "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235466,
+      "name": "New Year\u2019s Day",
+      "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+    },
+    {
+      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 226615,
       "name": "Overthinking - Acoustic",
       "url": "https://open.spotify.com/track/3WDxNaUMRsWk1aoDkz8N9x"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186090,
       "name": "Simple Things - Piano Version",
       "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 217257,
       "name": "The Bones - Acoustic",
       "url": "https://open.spotify.com/track/0qSR7aeJONS1yapONTKerm"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 188613,
       "name": "Worse for Me",
       "url": "https://open.spotify.com/track/6qMf2bVZy4IuGvxoc6uOPt"

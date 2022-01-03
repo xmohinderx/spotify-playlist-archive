@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -3473,7 +3473,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -4780,6 +4780,32 @@
     },
     {
       "album": {
+        "name": "iMali",
+        "url": "https://open.spotify.com/album/6ggoVHjrshZtOhuEpHjOXN"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436000,
+      "name": "iMali (Ft. Nana Atta)",
+      "url": "https://open.spotify.com/track/280MTeg7bZYCHaHxhaAtPq"
+    },
+    {
+      "album": {
         "name": "Mpumalanga",
         "url": "https://open.spotify.com/album/60ggaOopXApXj9qV58Oytc"
       },
@@ -4803,7 +4829,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 408639,
       "name": "Impilo yaseSandton",
       "url": "https://open.spotify.com/track/2Q7chNue0LxoNT4iKSyfbo"
@@ -5881,7 +5907,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -6755,6 +6781,28 @@
       "duration_ms": 446216,
       "name": "Lwandle Xiluva",
       "url": "https://open.spotify.com/track/3s9jBEwEJNJD7Ynzoh8K5I"
+    },
+    {
+      "album": {
+        "name": "Yimi Lo",
+        "url": "https://open.spotify.com/album/4qsxQElnfnsgWzkG1ozu6b"
+      },
+      "artists": [
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381428,
+      "name": "Lyf Styl",
+      "url": "https://open.spotify.com/track/1VSqIYu2mCrGgurfE6mdXc"
     },
     {
       "album": {
@@ -8625,7 +8673,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-19",
+      "date_removed": null,
       "duration_ms": 257851,
       "name": "Phuze - Remix",
       "url": "https://open.spotify.com/track/7AyIRe0g7fobaymXh9IXqx"
@@ -8817,7 +8865,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 410066,
       "name": "Possible",
       "url": "https://open.spotify.com/track/6ARmMd93cqRGYDP0XC6JH7"
@@ -11069,7 +11117,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -11161,7 +11209,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -12021,7 +12069,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 192053,
       "name": "Vat 'n Bietjie",
       "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
@@ -12791,7 +12839,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

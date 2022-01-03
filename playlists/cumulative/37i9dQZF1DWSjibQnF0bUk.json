@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 231471,
       "name": "Ameno Amapiano - Remix",
       "url": "https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 238576,
       "name": "Berna",
       "url": "https://open.spotify.com/track/6UqvKN9wgDiZ25SFAJE3Va"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 187782,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/5azcf1g5AMWfRMieQC9nZ7"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 208718,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/3PnkEOvEKu7s2qQJ5mHpNl"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 207784,
       "name": "Deceive",
       "url": "https://open.spotify.com/track/6FuWagyvOErfJ7UnViYVlD"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 183118,
       "name": "E Choke",
       "url": "https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA"
@@ -715,7 +715,7 @@
       ],
       "date_added": "2019-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 187609,
       "name": "Gbona",
       "url": "https://open.spotify.com/track/0DrzsBstN5rObzTuX8DSro"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200646,
       "name": "Haunisumbui",
       "url": "https://open.spotify.com/track/5fIynQNdXenPqXRkdVnPj6"
@@ -869,6 +869,24 @@
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
+    },
+    {
+      "album": {
+        "name": "Jaho",
+        "url": "https://open.spotify.com/album/01mTvriEq6uibyJlQloSdr"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "date_added": "2020-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179983,
+      "name": "Jaho",
+      "url": "https://open.spotify.com/track/5cSBj0AMrUAvs19NBmSvxP"
     },
     {
       "album": {
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 176320,
       "name": "Jeje de Whine",
       "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Kilofeshe",
       "url": "https://open.spotify.com/track/6vg6CHlcsjLXCDKZHYtzwd"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/4r0aW0nezMcvAH5Z9dxxJ9"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 150491,
       "name": "Move",
       "url": "https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK"
@@ -1303,10 +1321,36 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 195789,
       "name": "One Leg Up",
       "url": "https://open.spotify.com/track/23WUYrTGdeVdahNXCUPSwr"
+    },
+    {
+      "album": {
+        "name": "Only Fan",
+        "url": "https://open.spotify.com/album/439U5f2zTZ5SASTUukJIzp"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200973,
+      "name": "Only Fan",
+      "url": "https://open.spotify.com/track/0E9LwEqc2WIpsY0bNZELDc"
     },
     {
       "album": {
@@ -1397,7 +1441,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 223967,
       "name": "REQUIRE",
       "url": "https://open.spotify.com/track/7n194jHXt3EXVe2Kd42deD"
@@ -1437,7 +1481,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 185769,
       "name": "Rock",
       "url": "https://open.spotify.com/track/5mcD4M6ERcFxeB2T6oe4dZ"
@@ -1539,7 +1583,7 @@
       ],
       "date_added": "2020-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 192623,
       "name": "Skeletun",
       "url": "https://open.spotify.com/track/6gAU6YgNzWdyBN4j1ec66T"
@@ -1557,7 +1601,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -1619,7 +1663,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 194400,
       "name": "Tele",
       "url": "https://open.spotify.com/track/7gdKO8t9G1qrAvrnQji5Wk"
@@ -1663,7 +1707,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
@@ -1685,6 +1729,28 @@
       "duration_ms": 165000,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "album": {
+        "name": "The Palmwine Express",
+        "url": "https://open.spotify.com/album/30hmYIZ0vzvmkkmvZm1qLs"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2020-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234704,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/43i5Kznrr7IvX743PlzUCP"
     },
     {
       "album": {

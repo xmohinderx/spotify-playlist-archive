@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 196800,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/2QcHmqNOkYPiTxqvJRTCKa"
@@ -104,6 +104,24 @@
     },
     {
       "album": {
+        "name": "Amor Genuino",
+        "url": "https://open.spotify.com/album/1YlOaWSAKVR6BcnSvV9qfh"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179936,
+      "name": "Amor Genuino",
+      "url": "https://open.spotify.com/track/6pK5edDoyrn4mWwRSVc2a5"
+    },
+    {
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -123,7 +141,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 249733,
       "name": "Dembow y Reggaeton",
       "url": "https://open.spotify.com/track/1U3CZqgtekCchvUXV6o9l1"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 224697,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4NLcgBskZkUYgpAVQF0sNI"
@@ -597,7 +615,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 183333,
       "name": "D\u00f3nde Est\u00e1s (with Piso 21) - Remix",
       "url": "https://open.spotify.com/track/7z0cli6eF13Ew8ARrDgGHJ"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 416129,
       "name": "Ella y Yo (Remix) [feat. Farruko, Ozuna, Arcangel, Anuel Aa, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo]",
       "url": "https://open.spotify.com/track/59osEAhiXkRXH6hZTD4VqC"
@@ -1384,6 +1402,24 @@
     },
     {
       "album": {
+        "name": "No Te Enamores",
+        "url": "https://open.spotify.com/album/6PXli9mP6Bx73bBqZk9sPE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183398,
+      "name": "No Te Enamores",
+      "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
+    },
+    {
+      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -1559,7 +1595,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 312000,
       "name": "Que Le De - Remix",
       "url": "https://open.spotify.com/track/3fAwTY8XWSLxyX5Rgungap"
@@ -1898,6 +1934,28 @@
     },
     {
       "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/56dHJTQQ8lMGgBegxfYVDM"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201813,
+      "name": "S\u00edgueme - Remix",
+      "url": "https://open.spotify.com/track/7IpRYJ71dk98P0SmgnNLYh"
+    },
+    {
+      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1947,10 +2005,36 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
+    },
+    {
+      "album": {
+        "name": "Episodios",
+        "url": "https://open.spotify.com/album/3W7zfpgYWWUyh8G3fKxdgY"
+      },
+      "artists": [
+        {
+          "name": "Urba y Rome",
+          "url": "https://open.spotify.com/artist/73Lhk4XucX7BDRL82Zngs5"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221290,
+      "name": "Te Veo",
+      "url": "https://open.spotify.com/track/1gaOPLc4KRQt3LU83e4jzj"
     },
     {
       "album": {
@@ -1994,6 +2078,40 @@
     },
     {
       "album": {
+        "name": "T\u00fa No Amas",
+        "url": "https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh"
+      },
+      "artists": [
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273321,
+      "name": "T\u00fa No Amas",
+      "url": "https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq"
+    },
+    {
+      "album": {
         "name": "T\u00fa Vas a Tener Que Explicarme (Remix)",
         "url": "https://open.spotify.com/album/3HItKdsXoqNXaNcKeJPVBW"
       },
@@ -2009,7 +2127,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 179892,
       "name": "T\u00fa Vas a Tener Que Explicarme - Remix",
       "url": "https://open.spotify.com/track/1eLiEFCEFRFsoHDL2bh8wy"

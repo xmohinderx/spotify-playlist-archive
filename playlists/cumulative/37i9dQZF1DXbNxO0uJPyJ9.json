@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 379266,
       "name": "1999",
       "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 427480,
       "name": "Blue Monday ('88) - 12\" Version",
       "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 342360,
       "name": "Buffalo Stance",
       "url": "https://open.spotify.com/track/3XWgwgbWDI56mf1Wl3cLzb"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 360333,
       "name": "Change - Extended Version",
       "url": "https://open.spotify.com/track/57HhVS1e5EtfQF1Y7RgM8w"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 473893,
       "name": "Doctor! Doctor! (12\" Extended Mix) - Extended Version",
       "url": "https://open.spotify.com/track/2baOM44WjfFGKTC1PecnDS"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 246960,
       "name": "Don't Go (Remix) [2008 - Remaster]",
       "url": "https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 1369240,
       "name": "Don't Leave Me This Way - 12\" Mega Mixes",
       "url": "https://open.spotify.com/track/5KmMQZib9nhxtQftu4SnOB"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 321813,
       "name": "Don't Look Any Further - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6g8oJoXtmwE8hrJr7ZKnlw"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 388533,
       "name": "Dr. Beat - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 401813,
       "name": "Every 1's a Winner - 12\" Version",
       "url": "https://open.spotify.com/track/6Y47nQx3KqO6F1nLdfedio"
@@ -593,10 +593,32 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 350600,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/7Emp1GkTzF4Uj1Ov9afqDl"
+    },
+    {
+      "album": {
+        "name": "Depeche Mode - Singles Box 2 (US Release)",
+        "url": "https://open.spotify.com/album/3Ibulbu8G88euLKvtwqpvY"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Daniel Miller",
+          "url": "https://open.spotify.com/artist/4zvLVP1siaenGVnUBDo2nt"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475600,
+      "name": "Get The Balance Right! - Combination Mix",
+      "url": "https://open.spotify.com/track/6Na3LJmy6qmjK1SYzUhmZ6"
     },
     {
       "album": {
@@ -611,7 +633,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 341680,
       "name": "Girls on Film - Single Mix",
       "url": "https://open.spotify.com/track/6Z5lWYCMdbHf753WqSVTI3"
@@ -629,7 +651,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 435213,
       "name": "Gold - 12\" Mix",
       "url": "https://open.spotify.com/track/1U5VuBNupSdGTDBUWLt01N"
@@ -647,7 +669,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 434773,
       "name": "Happy Station - Original 12''",
       "url": "https://open.spotify.com/track/52IqKAPRF1R5EvwHucCrU7"
@@ -683,7 +705,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 370386,
       "name": "High Society Girl - Long Dub Version; 1983 Digital Remaster",
       "url": "https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG"
@@ -719,7 +741,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 369266,
       "name": "Hypnotic Tango - Original 12\" Version",
       "url": "https://open.spotify.com/track/22Nr8FO0EFLbMSCpBoYBl6"
@@ -737,7 +759,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 341893,
       "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
       "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
@@ -773,7 +795,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 348466,
       "name": "I Feel Love /Johnny Remember Me",
       "url": "https://open.spotify.com/track/6RXoP81io4PDxQx81so7Xs"
@@ -809,7 +831,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 479160,
       "name": "I'm Not Scared - Disco Mix",
       "url": "https://open.spotify.com/track/2oFfNhQSR912YuzeGn24GQ"
@@ -881,7 +903,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 318240,
       "name": "In the Heat of the Night",
       "url": "https://open.spotify.com/track/7cT0a9WMQg9nB9eolSW24k"
@@ -1091,7 +1113,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 472899,
       "name": "Like a Prayer - 12\" Dance Mix",
       "url": "https://open.spotify.com/track/3KqZm6zInkBONIaiLEfqXL"
@@ -1127,7 +1149,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
@@ -1199,7 +1221,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 324653,
       "name": "Music And Lights - Extended Version",
       "url": "https://open.spotify.com/track/5Ixg4mWzXK7wPkcC9rDTzf"
@@ -1325,7 +1347,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 203160,
       "name": "Poison Arrow",
       "url": "https://open.spotify.com/track/6FctVqTg08QcA8I3DPb8zz"
@@ -1379,7 +1401,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 229973,
       "name": "Pulstar",
       "url": "https://open.spotify.com/track/1vuON4Kz4tQW1icz92PVGK"
@@ -1397,7 +1419,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 389066,
       "name": "Pump Up The Volume (UK 12\" Remix)",
       "url": "https://open.spotify.com/track/3CqQIRZng2MVh3k1H2jHHN"
@@ -1451,7 +1473,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 316133,
       "name": "Rhythm Is A Dancer - 12'' Version",
       "url": "https://open.spotify.com/track/0RVW7ifzZWqxfNWequ5CfJ"
@@ -1523,7 +1545,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 312333,
       "name": "Shattered Dreams - 12'' Extended Mix",
       "url": "https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi"
@@ -1639,7 +1661,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 265013,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/3MgkCOLLBFvWjUr2fQ16jq"
@@ -1657,7 +1679,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 316346,
       "name": "Sometimes - 12'' Mix",
       "url": "https://open.spotify.com/track/6lCToVvD5FikFmq0UmYj0v"
@@ -1693,7 +1715,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 421026,
       "name": "Such a Shame - Extended Mix; 2003 Remaster",
       "url": "https://open.spotify.com/track/6blgcXjvQ4F5CtmABEQlSQ"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 395266,
       "name": "Sussudio - Extended Remix",
       "url": "https://open.spotify.com/track/4eZxIWW9JcaKo0xcKegItn"
@@ -1819,7 +1841,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 394306,
       "name": "The Reflex - Dance Mix",
       "url": "https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 327066,
       "name": "Too Shy - Extended Version",
       "url": "https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5"
@@ -2223,7 +2245,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 321840,
       "name": "You're a Woman",
       "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"

@@ -344,6 +344,32 @@
     },
     {
       "album": {
+        "name": "Comerte A Besos",
+        "url": "https://open.spotify.com/album/3zm5wqIhfUhMkouSb0ytIH"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230320,
+      "name": "Comerte A Besos",
+      "url": "https://open.spotify.com/track/6Rh1rwJagYUEbzoAXtu1LA"
+    },
+    {
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -503,7 +529,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 244000,
       "name": "Dame Banda",
       "url": "https://open.spotify.com/track/1ASpvbgcHh1QkWjNwXRpmG"
@@ -761,7 +787,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 219302,
       "name": "Esclavo de Tus Besos",
       "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
@@ -791,7 +817,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/37TrAhC6TniD5Stl8EZ4U5"
@@ -1753,7 +1779,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 187125,
       "name": "Quiere Beber",
       "url": "https://open.spotify.com/track/3rPAD722s5FFNnwjC91t7Z"
@@ -1801,7 +1827,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 195986,
       "name": "Ramayama",
       "url": "https://open.spotify.com/track/6gokadtiVvFO0nuAoOLX98"
@@ -2293,7 +2319,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 191460,
       "name": "Tun Tun",
       "url": "https://open.spotify.com/track/5Xhzsn8demSBBaHDSH6cou"
@@ -2519,7 +2545,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 263973,
       "name": "Zumba",
       "url": "https://open.spotify.com/track/43CL49bukqUMNxontuQtR2"

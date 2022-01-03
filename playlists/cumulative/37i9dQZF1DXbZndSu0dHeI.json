@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 177693,
       "name": "Actor With A Loaded Gun",
       "url": "https://open.spotify.com/track/3u8KqniHoAO7mdq3ynkqym"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 289651,
       "name": "Beggar",
       "url": "https://open.spotify.com/track/1DseRcZXWabAhUpeFHnzPX"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 173006,
       "name": "Between Your Teeth",
       "url": "https://open.spotify.com/track/0bIgYIJimrHidCxFgYcgxT"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 270600,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/3MlA3b8KVJuratU2qdW4Yb"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205902,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/3JvSdMghhVpTkn30dRl6v0"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 207786,
       "name": "Circles In The Firing Line - Edit",
       "url": "https://open.spotify.com/track/5Ad4txkIPAHM4ciyEzmY3P"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Craziest Things",
       "url": "https://open.spotify.com/track/2BYBbUyjC4yZ4L2IKIVAgf"
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Drink The Lake",
+        "url": "https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3"
+      },
+      "artists": [
+        {
+          "name": "IAN SWEET",
+          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Drink The Lake",
+      "url": "https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw"
+    },
+    {
+      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 267308,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn"
@@ -647,7 +665,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184822,
       "name": "Fashun",
       "url": "https://open.spotify.com/track/3r5QW19eJG9ucJKouXP0DB"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191234,
       "name": "For All You Give (feat. Lucy Rose)",
       "url": "https://open.spotify.com/track/0vL6Dt7L7k9srca6XxtjBM"
@@ -759,7 +777,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 206233,
       "name": "Guts",
       "url": "https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x"
@@ -849,7 +867,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 196640,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/7upm07Y3Fx4AJs5G5OqG1A"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 161880,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/2B56sqgNauLMR9iqBMITwb"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/3LvJ7Dj8WsWu7RufNvbOYe"
@@ -1087,10 +1105,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 173000,
       "name": "Madonna",
       "url": "https://open.spotify.com/track/6WrZ8rFuvTsWkFjC3US38h"
+    },
+    {
+      "album": {
+        "name": "Make Peace with That",
+        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122237,
+      "name": "Make Peace with That",
+      "url": "https://open.spotify.com/track/2Ps3rsuD8K52laHDdQLIJw"
     },
     {
       "album": {
@@ -1249,7 +1285,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 250162,
       "name": "Nazareth",
       "url": "https://open.spotify.com/track/03JgKNVxicoLINfg3q8qBv"
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 287146,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/7hQtE18rdFeXhSVhF62CXv"
@@ -1455,7 +1491,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 295333,
       "name": "Pristine",
       "url": "https://open.spotify.com/track/4UADR6fNQfx4fxkiRQvSy2"
@@ -1531,10 +1567,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208200,
       "name": "Semolina",
       "url": "https://open.spotify.com/track/6vjz5weAmyNgRWdLE6TKln"
+    },
+    {
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l"
+      },
+      "artists": [
+        {
+          "name": "Girl Ray",
+          "url": "https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Show Me More",
+      "url": "https://open.spotify.com/track/0cKmAiOd52XSO3Ecoen1QU"
     },
     {
       "album": {
@@ -1571,7 +1625,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 193013,
       "name": "Slow (feat. Henjila)",
       "url": "https://open.spotify.com/track/1U2Oezr82LbYOcXanHxyty"
@@ -1589,7 +1643,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 331664,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/1wgouwqKDYxxZUj9jHZCBu"
@@ -1607,7 +1661,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 198160,
       "name": "Something Holy",
       "url": "https://open.spotify.com/track/47pLIdG3FelOM4aklpMJ98"
@@ -1643,7 +1697,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1"
@@ -1661,7 +1715,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 248973,
       "name": "Sorry Kid - Edit",
       "url": "https://open.spotify.com/track/3vovrmRCW1gk3LX0LIYcbi"
@@ -1679,7 +1733,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 202003,
       "name": "Southwark",
       "url": "https://open.spotify.com/track/0YuFYmdojZmBYD9V5giqTR"
@@ -1809,7 +1863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221682,
       "name": "The Sky Is Painted Gray Today",
       "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
@@ -1831,6 +1885,24 @@
       "duration_ms": 256048,
       "name": "the sum of the in-between",
       "url": "https://open.spotify.com/track/73jIdwmiQRQOGUE2pWMrDp"
+    },
+    {
+      "album": {
+        "name": "For Better Days EP",
+        "url": "https://open.spotify.com/album/61Uzg30BtCEECUR8WoYT55"
+      },
+      "artists": [
+        {
+          "name": "The Night Caf\u00e9",
+          "url": "https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202760,
+      "name": "Think It Over",
+      "url": "https://open.spotify.com/track/7cqtdA99r352k31wNTRIZM"
     },
     {
       "album": {
@@ -1935,7 +2007,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184483,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/4GEm1plrloLKfg2T4HxCiI"
@@ -1997,7 +2069,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 271160,
       "name": "When U Love Somebody",
       "url": "https://open.spotify.com/track/2Vy7B6YpJHfqSzMmheUfvy"
@@ -2037,6 +2109,24 @@
       "duration_ms": 196613,
       "name": "Worrying",
       "url": "https://open.spotify.com/track/1nSslY0CD4ieqt54vHYfYA"
+    },
+    {
+      "album": {
+        "name": "With Love From...",
+        "url": "https://open.spotify.com/album/4KIvYeUhmFSP1TQmjKZksy"
+      },
+      "artists": [
+        {
+          "name": "The Hit Parade",
+          "url": "https://open.spotify.com/artist/0eW2MAqK9MLTdD4nZKiw4W"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "You Didn't Love Me Then",
+      "url": "https://open.spotify.com/track/0RziRXSj2ZHVLonxak2WLV"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
   "name": "Top 50 - Greece",
-  "num_followers": 65207,
+  "num_followers": 65233,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk0MzQ0NzcyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk0NDM5NTk0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Chinchilla",
         "url": "https://open.spotify.com/album/0TRAWrrKjYGCd8WhyxL8xG"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/30K8l6FPIUB9iH1txpmWtD"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "OPLO",
         "url": "https://open.spotify.com/album/4UH5r8a4WyhAPRJgXl7cEh"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4hQD9RLZC5M3xU2W4Mvulg"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "King Kong",
         "url": "https://open.spotify.com/album/4eprABWusdNM8O5QazmH1i"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0HUabBApCqvyOWksm6Rk8N"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Aftoktonia",
         "url": "https://open.spotify.com/album/5F4LJOszRloSlIEQpXesHv"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/7IokpTW54OgzPu6Q3fkVHn"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Immortale",
         "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/07qyw1D9R324YyFNZGUUdl"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "LOCA",
         "url": "https://open.spotify.com/album/3EcHu1w6JVsfoIoDyT8ORM"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/7JYa8V4dGXSDcZnO2CiRaP"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Rackattack (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/0hVl1Eb02SNnTHSgrlhBm7"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Immortale",
         "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
@@ -173,7 +173,23 @@
       "url": "https://open.spotify.com/track/6W11qt0cfGVx7ZOEYNrSYX"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Dynata (Ta Ta Ta)",
+        "url": "https://open.spotify.com/album/00zlYdQFh5gtrsbFN2uePL"
+      },
+      "artists": [
+        {
+          "name": "Stefanos Pitsiniagkas",
+          "url": "https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Dynata - Ta Ta Ta",
+      "url": "https://open.spotify.com/track/0abW4AXMPM75YUA87mlljq"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Wet",
         "url": "https://open.spotify.com/album/2W70HSqrvBc5botBiR5Xgw"
@@ -201,23 +217,7 @@
       "url": "https://open.spotify.com/track/2faI6zbvghH5wDaS6g5mEN"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Dynata (Ta Ta Ta)",
-        "url": "https://open.spotify.com/album/00zlYdQFh5gtrsbFN2uePL"
-      },
-      "artists": [
-        {
-          "name": "Stefanos Pitsiniagkas",
-          "url": "https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE"
-        }
-      ],
-      "duration_ms": 193777,
-      "name": "Dynata - Ta Ta Ta",
-      "url": "https://open.spotify.com/track/0abW4AXMPM75YUA87mlljq"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "TrapLife",
         "url": "https://open.spotify.com/album/3fnbgVRpYb6ByRkFO8uoW0"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/5aFybnjLrxe6E88i63IyK4"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Mporei",
         "url": "https://open.spotify.com/album/4JwZ2i8PfSthbNNj78AwS0"
@@ -261,27 +261,7 @@
       "url": "https://open.spotify.com/track/7raprblR3NfeuiV72Lz5Il"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "COCO",
-        "url": "https://open.spotify.com/album/3XtVh6cdgqy3bGYLeCmRRk"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Stanley",
-          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "COCO",
-      "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Latina",
         "url": "https://open.spotify.com/album/6I05KXZobddEIzbUaVPAOa"
@@ -301,7 +281,27 @@
       "url": "https://open.spotify.com/track/3DbiL7GTCopFHk9t9qpDut"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "COCO",
+        "url": "https://open.spotify.com/album/3XtVh6cdgqy3bGYLeCmRRk"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Stanley",
+          "url": "https://open.spotify.com/artist/4bIKDIUQmRdbScZXFtAk75"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "COCO",
+      "url": "https://open.spotify.com/track/6yOg1Tt1ELOWseyPg2vEos"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Dominicana Latina",
         "url": "https://open.spotify.com/album/3XXNUaxNESTxl6xooP479z"
@@ -321,27 +321,7 @@
       "url": "https://open.spotify.com/track/2OHRc3BN8NDZ6j2sCleBp4"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Foti\u00e1 (Evangelia x Eleni Foureira)",
-        "url": "https://open.spotify.com/album/4jDchGBgtx772BlfW931iP"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        },
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 174972,
-      "name": "Foti\u00e1 - Evangelia x Eleni Foureira",
-      "url": "https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Low Rider",
         "url": "https://open.spotify.com/album/1c4fHechMRstHLcSZ0zogC"
@@ -361,7 +341,7 @@
       "url": "https://open.spotify.com/track/6QU91Ir06s9ibWyTLIY9lN"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Telika",
         "url": "https://open.spotify.com/album/7KZT0JODVGwQQmkudtO3ij"
@@ -381,27 +361,27 @@
       "url": "https://open.spotify.com/track/4CZiBLERDxvMQaieIlUklq"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
-        "name": "Eipes Tha Figeis",
-        "url": "https://open.spotify.com/album/0pWX92zcZPZOTRvGWtH4bk"
+        "name": "Foti\u00e1 (Evangelia x Eleni Foureira)",
+        "url": "https://open.spotify.com/album/4jDchGBgtx772BlfW931iP"
       },
       "artists": [
         {
-          "name": "VLOSPA",
-          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+          "name": "Evangelia",
+          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
         },
         {
-          "name": "Beats Pliz",
-          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
         }
       ],
-      "duration_ms": 184015,
-      "name": "Eipes Tha Figeis",
-      "url": "https://open.spotify.com/track/1Fb2MdKgC5IYdinvP3RHp2"
+      "duration_ms": 174972,
+      "name": "Foti\u00e1 - Evangelia x Eleni Foureira",
+      "url": "https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Gia Dio",
         "url": "https://open.spotify.com/album/5nTDzAtEZXZKqtiP3FeYkU"
@@ -421,27 +401,7 @@
       "url": "https://open.spotify.com/track/3spuD6XrnVkNFef5eAC2DI"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Love Stories",
-        "url": "https://open.spotify.com/album/1K0JQxlj9lR36dc7DGjeiH"
-      },
-      "artists": [
-        {
-          "name": "MG",
-          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
-        },
-        {
-          "name": "GAMEBOY",
-          "url": "https://open.spotify.com/artist/09admC8JPSuizanrDUzWtd"
-        }
-      ],
-      "duration_ms": 188041,
-      "name": "Love Stories",
-      "url": "https://open.spotify.com/track/1nWlOOQdYHMCiHKLy2VBWi"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/6bUga9DgcNA5f2soUib6rV"
@@ -461,27 +421,27 @@
       "url": "https://open.spotify.com/track/3PJ08KHVwAX8HI1PHbVPHj"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
-        "name": "Ku Je Ti",
-        "url": "https://open.spotify.com/album/1YfMzzOjhD5IBDtapwEIvx"
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/1K0JQxlj9lR36dc7DGjeiH"
       },
       "artists": [
         {
-          "name": "Finem",
-          "url": "https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50"
+          "name": "MG",
+          "url": "https://open.spotify.com/artist/6SWOdiks4Ac3lMM8NCqDm0"
         },
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "GAMEBOY",
+          "url": "https://open.spotify.com/artist/09admC8JPSuizanrDUzWtd"
         }
       ],
-      "duration_ms": 161000,
-      "name": "Ku Je Ti",
-      "url": "https://open.spotify.com/track/7aTCnW8zpEIpYaI2Y6ypFW"
+      "duration_ms": 188041,
+      "name": "Love Stories",
+      "url": "https://open.spotify.com/track/1nWlOOQdYHMCiHKLy2VBWi"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Rackattack",
         "url": "https://open.spotify.com/album/7yVBbv5rns5WJmpQaDSEK3"
@@ -505,63 +465,27 @@
       "url": "https://open.spotify.com/track/4gFO7c2q8Iku8bjylseQzT"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+        "name": "Ku Je Ti",
+        "url": "https://open.spotify.com/album/1YfMzzOjhD5IBDtapwEIvx"
       },
       "artists": [
         {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+          "name": "Finem",
+          "url": "https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         }
       ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+      "duration_ms": 161000,
+      "name": "Ku Je Ti",
+      "url": "https://open.spotify.com/track/7aTCnW8zpEIpYaI2Y6ypFW"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Aeraki (To Thiliko)",
-        "url": "https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 191356,
-      "name": "Aeraki - To Thiliko",
-      "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Dale",
-        "url": "https://open.spotify.com/album/1Ir91nN1hecPp4pfaLTkWt"
-      },
-      "artists": [
-        {
-          "name": "Mente Fuerte",
-          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
-        },
-        {
-          "name": "Baghdad",
-          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Dale",
-      "url": "https://open.spotify.com/track/1nNIj9EJmlbSuDBfwIwE0Y"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Filakes",
         "url": "https://open.spotify.com/album/5tR5vecLqsa8PqbHBUjsHK"
@@ -581,7 +505,47 @@
       "url": "https://open.spotify.com/track/0omM3mkVfjt8MhDKinkhcn"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Eipes Tha Figeis",
+        "url": "https://open.spotify.com/album/0pWX92zcZPZOTRvGWtH4bk"
+      },
+      "artists": [
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        },
+        {
+          "name": "Beats Pliz",
+          "url": "https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E"
+        }
+      ],
+      "duration_ms": 184015,
+      "name": "Eipes Tha Figeis",
+      "url": "https://open.spotify.com/track/1Fb2MdKgC5IYdinvP3RHp2"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Dale",
+        "url": "https://open.spotify.com/album/1Ir91nN1hecPp4pfaLTkWt"
+      },
+      "artists": [
+        {
+          "name": "Mente Fuerte",
+          "url": "https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Dale",
+      "url": "https://open.spotify.com/track/1nNIj9EJmlbSuDBfwIwE0Y"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/2CASbkwxK2zM1vBmFRi9iN"
@@ -601,7 +565,43 @@
       "url": "https://open.spotify.com/track/3xcSTAxSTwfx0A4Ly68dfW"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Aeraki (To Thiliko)",
+        "url": "https://open.spotify.com/album/4tJtx4Ah4XKMoqQwnEJ0Gv"
+      },
+      "artists": [
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 191356,
+      "name": "Aeraki - To Thiliko",
+      "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Kavatza / K\u03b1\u03b2\u03b1\u03c4\u03b6\u03b1",
         "url": "https://open.spotify.com/album/1QyP0narfe0LkA0kDizYg8"
@@ -617,7 +617,27 @@
       "url": "https://open.spotify.com/track/2Y9SsUu3RWCPBTtMRiOW7Q"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "XCM (Xapiacocomayro)",
+        "url": "https://open.spotify.com/album/6KqooRfAKrYbP91iZXyMMY"
+      },
+      "artists": [
+        {
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "XCM (Xapiacocomayro)",
+      "url": "https://open.spotify.com/track/1n5p8hMkO5RJsePA9NFi9x"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Dokimase Ton",
         "url": "https://open.spotify.com/album/5d8FjcWOa33b7McSzeJxxl"
@@ -641,107 +661,27 @@
       "url": "https://open.spotify.com/track/2Jr5Z8VTNa3bPAlbBk6n6k"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
-        "name": "XCM (Xapiacocomayro)",
-        "url": "https://open.spotify.com/album/6KqooRfAKrYbP91iZXyMMY"
+        "name": "Funky",
+        "url": "https://open.spotify.com/album/469ap8yEmPY7sRdzZjSuJ8"
       },
       "artists": [
         {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
         },
         {
-          "name": "Chico Beatz",
-          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+          "name": "Display",
+          "url": "https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28"
         }
       ],
-      "duration_ms": 210842,
-      "name": "XCM (Xapiacocomayro)",
-      "url": "https://open.spotify.com/track/1n5p8hMkO5RJsePA9NFi9x"
+      "duration_ms": 255160,
+      "name": "Funky",
+      "url": "https://open.spotify.com/track/45tKbJjhOIrURcjLNfjLye"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Immortale",
-        "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 164374,
-      "name": "Woo Walk",
-      "url": "https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
-        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 173381,
-      "name": "Enemy (with JID) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Timima",
-        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 209390,
-      "name": "Daewoo 3",
-      "url": "https://open.spotify.com/track/6pwZ0KpNZ4CKwXcTiGRiOq"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Prometheus",
-        "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
-      },
-      "artists": [
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        },
-        {
-          "name": "Chico Beatz",
-          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
-        }
-      ],
-      "duration_ms": 233090,
-      "name": "Funeral",
-      "url": "https://open.spotify.com/track/6LxUxssRORxjir61cJadlt"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Immortale",
         "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
@@ -765,27 +705,7 @@
       "url": "https://open.spotify.com/track/3fCMmmmbmhCbSwVQhPeTpW"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Funky",
-        "url": "https://open.spotify.com/album/469ap8yEmPY7sRdzZjSuJ8"
-      },
-      "artists": [
-        {
-          "name": "Fy",
-          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
-        },
-        {
-          "name": "Display",
-          "url": "https://open.spotify.com/artist/2h5alBjyxfubD2ci4vSc28"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Funky",
-      "url": "https://open.spotify.com/track/45tKbJjhOIrURcjLNfjLye"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Kokaina",
         "url": "https://open.spotify.com/album/5l2Q7rWD2eBdcjRNLKUcrC"
@@ -801,7 +721,23 @@
       "url": "https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Immortale",
+        "url": "https://open.spotify.com/album/7eypibdDfmkcSp62ElEv1G"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 164374,
+      "name": "Woo Walk",
+      "url": "https://open.spotify.com/track/7zWzNwjF8nsGnQq3mJiG13"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "XILIOMETRA",
         "url": "https://open.spotify.com/album/2gFaNxStuphvpezGodu4aD"
@@ -829,27 +765,7 @@
       "url": "https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Immune x Fumez The Engineer - Plugged In",
-        "url": "https://open.spotify.com/album/64ldK5YYLcvU5DumxGw6jK"
-      },
-      "artists": [
-        {
-          "name": "Fumez The Engineer",
-          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
-        },
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        }
-      ],
-      "duration_ms": 194366,
-      "name": "Immune x Fumez The Engineer - Plugged In",
-      "url": "https://open.spotify.com/track/4DJdbzwhOQfJzJMstOD1jP"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Checks",
         "url": "https://open.spotify.com/album/2bHfGN2yPrj7lKzmx2B8JF"
@@ -873,39 +789,71 @@
       "url": "https://open.spotify.com/track/4x4io9GDTPPetji4i06L6c"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
-        "name": "Indianoi Twn Polewn",
-        "url": "https://open.spotify.com/album/4HRYoHOywORunyPl8yIyyC"
+        "name": "Timima",
+        "url": "https://open.spotify.com/album/2iL8eaJzsTSQWlvHmzJgdU"
       },
       "artists": [
         {
-          "name": "Logos Timis",
-          "url": "https://open.spotify.com/artist/1s3DdqnSPErYk7xQkRFZ0s"
-        },
-        {
-          "name": "Eleuthero Pneuma",
-          "url": "https://open.spotify.com/artist/1ES4Fgglz6Q2ySlPsCAcgZ"
-        },
-        {
-          "name": "Koraki",
-          "url": "https://open.spotify.com/artist/3KNpAQtSKrxaoafYl6RRuV"
-        },
-        {
-          "name": "Tokesick",
-          "url": "https://open.spotify.com/artist/733tGeoTlbTeRjKHm7HAvQ"
-        },
-        {
-          "name": "Sativa",
-          "url": "https://open.spotify.com/artist/6xfmBXL6ndOsNpZPpxWz6w"
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
         }
       ],
-      "duration_ms": 288435,
-      "name": "Indianoi Twn Polewn",
-      "url": "https://open.spotify.com/track/4ja1GkjGUdzzw3TzS3ZiLI"
+      "duration_ms": 209390,
+      "name": "Daewoo 3",
+      "url": "https://open.spotify.com/track/6pwZ0KpNZ4CKwXcTiGRiOq"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Prometheus",
+        "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        },
+        {
+          "name": "Chico Beatz",
+          "url": "https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY"
+        }
+      ],
+      "duration_ms": 233090,
+      "name": "Funeral",
+      "url": "https://open.spotify.com/track/6LxUxssRORxjir61cJadlt"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Enemy (with JID) [from the series Arcane League of Legends]",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 173381,
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Guccci",
         "url": "https://open.spotify.com/album/6uDMvE2zNzejcwwrnGixG8"
@@ -921,47 +869,7 @@
       "url": "https://open.spotify.com/track/4AcWoNZHJ6tLBcKWifiTbC"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Full Press",
-        "url": "https://open.spotify.com/album/5LFKGqyuMkDN76IfLCHBJY"
-      },
-      "artists": [
-        {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
-        },
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
-        }
-      ],
-      "duration_ms": 285308,
-      "name": "Full Press",
-      "url": "https://open.spotify.com/track/1AJrznrjCng2wX8dy4LGXk"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3lCR4bRuGMthDG3iE30DyX"
-      },
-      "artists": [
-        {
-          "name": "Immune",
-          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/5sCiSMu4nWKgKQlHVyEaQq"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Aliteia",
         "url": "https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY"
@@ -989,43 +897,67 @@
       "url": "https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
       "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+        "name": "Full Press",
+        "url": "https://open.spotify.com/album/5LFKGqyuMkDN76IfLCHBJY"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2022-01-01 09:32:52",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
         },
         {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 285308,
+      "name": "Full Press",
+      "url": "https://open.spotify.com/track/1AJrznrjCng2wX8dy4LGXk"
     },
     {
-      "added_at": "2022-01-01 09:32:52",
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3lCR4bRuGMthDG3iE30DyX"
+      },
+      "artists": [
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/5sCiSMu4nWKgKQlHVyEaQq"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Immune x Fumez The Engineer - Plugged In",
+        "url": "https://open.spotify.com/album/64ldK5YYLcvU5DumxGw6jK"
+      },
+      "artists": [
+        {
+          "name": "Fumez The Engineer",
+          "url": "https://open.spotify.com/artist/0ksX396B3t2Gt8kwr0BJZk"
+        },
+        {
+          "name": "Immune",
+          "url": "https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX"
+        }
+      ],
+      "duration_ms": 194366,
+      "name": "Immune x Fumez The Engineer - Plugged In",
+      "url": "https://open.spotify.com/track/4DJdbzwhOQfJzJMstOD1jP"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
       "album": {
         "name": "Super Trapper II",
         "url": "https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV"
@@ -1039,6 +971,62 @@
       "duration_ms": 216158,
       "name": "Elpida",
       "url": "https://open.spotify.com/track/1JaBJC3gj7jSsNxsnYTzhj"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Mauro Gyali",
+        "url": "https://open.spotify.com/album/4SnGpaBniieMAzWRT0y7ra"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "ATC Taff",
+          "url": "https://open.spotify.com/artist/7sqEbHUwpaJTFqLv8e0W0J"
+        }
+      ],
+      "duration_ms": 246761,
+      "name": "Mauro Gyali",
+      "url": "https://open.spotify.com/track/1kyu3bq5O9hpAHQPDvX31M"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "S' Agapao",
+        "url": "https://open.spotify.com/album/0P23smtf1s0qLKFSEqEaRJ"
+      },
+      "artists": [
+        {
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "S' Agapao",
+      "url": "https://open.spotify.com/track/6tfajS9NU9zqfOZdByVbV1"
+    },
+    {
+      "added_at": "2022-01-02 11:53:14",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/0YjJuXJlkF0Al7355W6BXU"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        }
+      ],
+      "duration_ms": 190941,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/6tGl1mj5CyoB1hUtOKyhkQ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJqdarpmTJDL"

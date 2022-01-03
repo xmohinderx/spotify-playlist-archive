@@ -26,6 +26,32 @@
     },
     {
       "album": {
+        "name": "Music! Musik! Musique!",
+        "url": "https://open.spotify.com/album/2LKUkNOEDQqR4oijIFpAgZ"
+      },
+      "artists": [
+        {
+          "name": "Rosy Lee",
+          "url": "https://open.spotify.com/artist/4jwIwBy4eybqGDvdvwgXB7"
+        },
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        },
+        {
+          "name": "Summers Sons",
+          "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231192,
+      "name": "A Little Less",
+      "url": "https://open.spotify.com/track/4Clgx7wT4PypsGzf9hzQjv"
+    },
+    {
+      "album": {
         "name": "2000",
         "url": "https://open.spotify.com/album/5D0qg59CW2bRpo2DawgpIW"
       },
@@ -37,7 +63,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 220400,
       "name": "A Little Of This",
       "url": "https://open.spotify.com/track/47vzQk78oRe1g9vpT5663T"
@@ -185,7 +211,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203706,
       "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
       "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
@@ -215,7 +241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 238666,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4sdP88Ei3DfoJ5necptBsA"
@@ -237,7 +263,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 128955,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/73IZLLvCZMDUWfmqZaLwEs"
@@ -363,7 +389,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228280,
       "name": "Burnt Out",
       "url": "https://open.spotify.com/track/4meQGI49dD8lCvG0PGckdO"
@@ -503,7 +529,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 126666,
       "name": "Connection - Remix",
       "url": "https://open.spotify.com/track/3VKjKet2Tr9TRKyC6wJl8p"
@@ -533,6 +559,24 @@
       "duration_ms": 259906,
       "name": "Cookie Chips",
       "url": "https://open.spotify.com/track/4rnj9LIIotxPIe9qih7tjb"
+    },
+    {
+      "album": {
+        "name": "Dedicated and Driven",
+        "url": "https://open.spotify.com/album/2CUsLOyraPGg5QL42ktAic"
+      },
+      "artists": [
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "Dedicated and Driven",
+      "url": "https://open.spotify.com/track/5whpaOLF9BzasKJvdIR0y5"
     },
     {
       "album": {
@@ -573,7 +617,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 176771,
       "name": "Doors",
       "url": "https://open.spotify.com/track/0SOYE62n69v8mfLs0Y6QVe"
@@ -661,7 +705,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 145008,
       "name": "Dusty",
       "url": "https://open.spotify.com/track/6giunaOFjNFLVFh8KgidHL"
@@ -712,6 +756,28 @@
     },
     {
       "album": {
+        "name": "Elephant Rome",
+        "url": "https://open.spotify.com/album/1TfHq6QSPyw8Li2CpGPLyL"
+      },
+      "artists": [
+        {
+          "name": "CYNE",
+          "url": "https://open.spotify.com/artist/7bTL2or1gi4VAjY7XzoK8e"
+        },
+        {
+          "name": "Daedelus",
+          "url": "https://open.spotify.com/artist/1YRGQOk4Mk9EpM6nTJhXtK"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Elephant Rome",
+      "url": "https://open.spotify.com/track/1ZkcKSKfGU8HcJsv5c23yF"
+    },
+    {
+      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
@@ -727,7 +793,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
@@ -893,10 +959,36 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
+    },
+    {
+      "album": {
+        "name": "See You Soon",
+        "url": "https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j"
+      },
+      "artists": [
+        {
+          "name": "Submerse",
+          "url": "https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF"
+        },
+        {
+          "name": "Devin Morrison",
+          "url": "https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW"
+        },
+        {
+          "name": "Pink Siifu",
+          "url": "https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj"
     },
     {
       "album": {
@@ -915,7 +1007,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 167953,
       "name": "Fossils",
       "url": "https://open.spotify.com/track/1xw0CwUE6XgVGnTkNMjrFg"
@@ -971,7 +1063,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 248982,
       "name": "Gently",
       "url": "https://open.spotify.com/track/6PJH0gps7eVqjz3FtSN5pd"
@@ -997,7 +1089,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 297990,
       "name": "Get Lost (feat. Regis Molina)",
       "url": "https://open.spotify.com/track/6Bx4JNMJaAljZ8pMgpvdc9"
@@ -1155,7 +1247,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 247092,
       "name": "Guidelines",
       "url": "https://open.spotify.com/track/10kFUu0fsEalcs8WxgTNNK"
@@ -1177,7 +1269,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 155346,
       "name": "Head Highs",
       "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
@@ -1251,7 +1343,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 156386,
       "name": "Hi(gh)",
       "url": "https://open.spotify.com/track/0pknQqT6b6vfh1bRFrL5QQ"
@@ -1355,7 +1447,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 117240,
       "name": "Indecisive",
       "url": "https://open.spotify.com/track/7xEVZoHDUdKHCplThmLnBS"
@@ -1395,7 +1487,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 171061,
       "name": "Irreversible",
       "url": "https://open.spotify.com/track/4GODOFCGfppXsod6Jogh5R"
@@ -1623,7 +1715,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 138491,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5LYEVTjL2KCJuDUDjUl69n"
@@ -1737,7 +1829,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 193450,
       "name": "Morning Walk",
       "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
@@ -1785,7 +1877,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
@@ -1833,7 +1925,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 213947,
       "name": "No Gangster",
       "url": "https://open.spotify.com/track/2QVD1WfdzJGWOaXQontw3S"
@@ -1855,7 +1947,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 214700,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
@@ -1929,6 +2021,24 @@
       "duration_ms": 172026,
       "name": "Nostalgia Pt. 1",
       "url": "https://open.spotify.com/track/0J2DqrSwWNsT0mE2n9bMh9"
+    },
+    {
+      "album": {
+        "name": "Walk Of Life",
+        "url": "https://open.spotify.com/album/37UwKCJ5P3w5IjUHySFWCd"
+      },
+      "artists": [
+        {
+          "name": "Square One",
+          "url": "https://open.spotify.com/artist/0WgU2ybrtVLEz2LF1ySm6e"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326773,
+      "name": "Nuttin' Changed",
+      "url": "https://open.spotify.com/track/18tAh42iQ2bLbSnsdurGOc"
     },
     {
       "album": {
@@ -2043,7 +2153,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 150370,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6cmViVLv84w4xcPLGWUcqS"
@@ -2109,7 +2219,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 158033,
       "name": "Peruggia",
       "url": "https://open.spotify.com/track/2n4NDSTmtO4JyrX6dzeqoH"
@@ -2149,7 +2259,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
@@ -2205,7 +2315,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 187666,
       "name": "Recalibrate",
       "url": "https://open.spotify.com/track/2KPxboNfXjvDQY33woze93"
@@ -2345,7 +2455,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 202638,
       "name": "Simple",
       "url": "https://open.spotify.com/track/0aHwWRN3Nd1ul6rxmHLhca"
@@ -2419,7 +2529,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 189916,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2WH14gINyIA1wmj3E4Ui1F"
@@ -2445,7 +2555,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 154837,
       "name": "Street Jazz",
       "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z"
@@ -2501,7 +2611,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 160508,
       "name": "Super Fly Funk",
       "url": "https://open.spotify.com/track/16dyAuXav2Oxrl5IABKscC"
@@ -2673,7 +2783,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 227213,
       "name": "The Process",
       "url": "https://open.spotify.com/track/0a0Uoa9hQbK8sYk0f6PgvO"
@@ -2817,7 +2927,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179626,
       "name": "Trick Questions",
       "url": "https://open.spotify.com/track/4SwhF2yf6cIXOfMXJK2SEc"
@@ -2913,7 +3023,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 187941,
       "name": "We Do It (Jazz Spastiks Remix)",
       "url": "https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi"
@@ -3071,7 +3181,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"

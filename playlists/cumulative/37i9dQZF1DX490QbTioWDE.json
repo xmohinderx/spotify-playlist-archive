@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "200 Copas (En Vivo)",
+        "url": "https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "200 Copas - En Vivo",
+      "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
+    },
+    {
+      "album": {
         "name": "A Pura Snagre",
         "url": "https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi"
       },
@@ -135,7 +153,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 192453,
       "name": "Amor De Madrugada",
       "url": "https://open.spotify.com/track/010A0oe6YYm0ng35rAG7tV"
@@ -237,7 +255,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 256560,
       "name": "Atrevida - En Vivo",
       "url": "https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP"
@@ -255,7 +273,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 255680,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk"
@@ -281,6 +299,32 @@
       "duration_ms": 199545,
       "name": "Beb\u00e9",
       "url": "https://open.spotify.com/track/62fEPchIkRcZYJukmqhLuj"
+    },
+    {
+      "album": {
+        "name": "Beso a Beso (con La Mona)",
+        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Hugh Padgham",
+          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
+        },
+        {
+          "name": "Sergio Oliva",
+          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303253,
+      "name": "Beso a beso",
+      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
     },
     {
       "album": {
@@ -403,10 +447,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 246533,
       "name": "Cuentale",
       "url": "https://open.spotify.com/track/5rwkGQ7koZIMFtHhOMEepL"
+    },
+    {
+      "album": {
+        "name": "Al M\u00e1ximo Late",
+        "url": "https://open.spotify.com/album/5BoaBnzIipQvH6vHYQPlii"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204008,
+      "name": "Dame el Aire",
+      "url": "https://open.spotify.com/track/7kcvu6EbKIOD2VefjNKGGD"
     },
     {
       "album": {
@@ -493,7 +555,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 264853,
       "name": "El Marginal",
       "url": "https://open.spotify.com/track/3E78p8FVQQDktDJbdYjiju"
@@ -855,7 +917,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 301740,
       "name": "La Langosta - En Vivo",
       "url": "https://open.spotify.com/track/3hLGtxS0zLnQrdbCibycFI"
@@ -1025,7 +1087,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 209746,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij"
@@ -1134,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196588,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9"
+    },
+    {
+      "album": {
         "name": "Te Suena?",
         "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
       },
@@ -1221,7 +1301,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 227306,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
@@ -1637,7 +1717,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 302800,
       "name": "Soy Cordobes",
       "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
@@ -1923,7 +2003,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 242950,
       "name": "Un Perfecto Idiota",
       "url": "https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq"
@@ -1984,6 +2064,24 @@
     },
     {
       "album": {
+        "name": "Ya No Quiero",
+        "url": "https://open.spotify.com/album/03xaq8TIlNDwh16ksZUSTV"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246360,
+      "name": "Ya No Quiero",
+      "url": "https://open.spotify.com/track/5ZRjSlIgKzTtjaLgyVZ1jY"
+    },
+    {
+      "album": {
         "name": "Soy Cordobes",
         "url": "https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3"
       },
@@ -2017,6 +2115,24 @@
       "duration_ms": 177453,
       "name": "Yo No Te Pido La Luna",
       "url": "https://open.spotify.com/track/3eQSwoKeqXtJ1Nu7n7Qup8"
+    },
+    {
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226417,
+      "name": "\u00c9l no soy yo",
+      "url": "https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE"

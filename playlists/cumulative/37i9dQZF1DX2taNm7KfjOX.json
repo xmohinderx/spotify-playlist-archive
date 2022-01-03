@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 173981,
       "name": "Ain't That The Way",
       "url": "https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 244905,
       "name": "Another Lifetime",
       "url": "https://open.spotify.com/track/3V18Owc2UzBCb1fY41mj5D"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 239421,
       "name": "Bed Song 1",
       "url": "https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 179141,
       "name": "Before the Fall",
       "url": "https://open.spotify.com/track/4zDgW6uebdnhvGnZsAicHa"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 174680,
       "name": "Bereft of the Myth",
       "url": "https://open.spotify.com/track/3TmV1nkm4IhIdKDhAWdHCM"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 250386,
       "name": "Bullet Proof",
       "url": "https://open.spotify.com/track/2bgBA5NPkIzokTUBlHNnJl"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179713,
       "name": "Burn Too Bright",
       "url": "https://open.spotify.com/track/7zADZr2fslOAQg0gG058bA"
@@ -519,6 +519,24 @@
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
+    },
+    {
+      "album": {
+        "name": "Listen to Formation, Look for the Signs",
+        "url": "https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR"
+      },
+      "artists": [
+        {
+          "name": "Nadia Reid",
+          "url": "https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212816,
+      "name": "Call the Days",
+      "url": "https://open.spotify.com/track/43zbl1HtPGmdXktjOzRFXX"
     },
     {
       "album": {
@@ -627,7 +645,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 198985,
       "name": "Change Comes Slow",
       "url": "https://open.spotify.com/track/5buf2aI7e6Az9RJoRE9GvW"
@@ -1075,7 +1093,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 223761,
       "name": "For Props",
       "url": "https://open.spotify.com/track/3vF0yZnO7cHJKNKzE3gN99"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 210421,
       "name": "Hypochondriac - acoustic",
       "url": "https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 258946,
       "name": "I Don't Think You're an Angel (Anymore)",
       "url": "https://open.spotify.com/track/6Hbt5RBxPN1QBvNdlyGMuO"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 294586,
       "name": "I Pity the Country",
       "url": "https://open.spotify.com/track/5kLzTt5wBILL0VfUEDkX9h"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 213560,
       "name": "Illinois",
       "url": "https://open.spotify.com/track/1lHpPXDvH0NP9xyz6EmnRy"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 156219,
       "name": "Is / Was",
       "url": "https://open.spotify.com/track/4TWXHt2u1IXQWxEP1pkzzH"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174465,
       "name": "It's Infinite",
       "url": "https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca"
@@ -1759,7 +1777,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 246986,
       "name": "Life Crisis",
       "url": "https://open.spotify.com/track/0IqmtYOYMRIAPxyAQ0YdOD"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 143674,
       "name": "Lincoln, Nebraska",
       "url": "https://open.spotify.com/track/0wjgbfx3N3bYqJUgs80gQi"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 322521,
       "name": "Lost in the Country",
       "url": "https://open.spotify.com/track/77XbmhGmIedQyragDU6cq3"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208854,
       "name": "Market and Black (feat. Tennis)",
       "url": "https://open.spotify.com/track/7bSOlKTFSgS1zTRfPNaOZw"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 278876,
       "name": "Memorial",
       "url": "https://open.spotify.com/track/1sXdly4AscLh38opR7AkAN"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 259088,
       "name": "Money (Hymn)",
       "url": "https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 343253,
       "name": "Other You",
       "url": "https://open.spotify.com/track/1IQEtgj49aI8FEMsEEyqGA"
@@ -2287,7 +2305,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 213373,
       "name": "Raising the Dead",
       "url": "https://open.spotify.com/track/79T4cBOstvsj4P7oJRo726"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 196320,
       "name": "Red White and Black",
       "url": "https://open.spotify.com/track/30prf1EAz6dbnHRBD66vT4"
@@ -2435,7 +2453,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 155530,
       "name": "Roll Back Your Clocks",
       "url": "https://open.spotify.com/track/5zNRi0V5CoFoubQV4irWZ2"
@@ -2471,7 +2489,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 213666,
       "name": "Rose Petals",
       "url": "https://open.spotify.com/track/0NJ1LV5VblYyJsJt3EbAx7"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 241640,
       "name": "Savior Complex",
       "url": "https://open.spotify.com/track/4BNew3AqFCvABdFsYMRiyB"
@@ -2695,7 +2713,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 228866,
       "name": "Still Life (feat. Joseph)",
       "url": "https://open.spotify.com/track/2Qj1pOoYSCjLDgxMKffGuS"
@@ -2843,7 +2861,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/41EWCCqujOEoyQreiu9pt2"
@@ -2919,7 +2937,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 172568,
       "name": "The Desperate Kingdom of Love",
       "url": "https://open.spotify.com/track/7ulI3Txmmm5YwuxVhvT7b5"
@@ -2955,7 +2973,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 158948,
       "name": "The Love",
       "url": "https://open.spotify.com/track/62LTppMMcW65EGe7gKs5nL"
@@ -3135,7 +3153,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200880,
       "name": "Tom",
       "url": "https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4"
@@ -3189,7 +3207,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 186838,
       "name": "Tupperware",
       "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
@@ -3337,7 +3355,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205626,
       "name": "Water Flowing Downward",
       "url": "https://open.spotify.com/track/7nvxj8fbIpGurKhR3AflFh"
@@ -3391,7 +3409,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
@@ -3463,7 +3481,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5"
@@ -3517,7 +3535,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 249322,
       "name": "Worship the Sun",
       "url": "https://open.spotify.com/track/3Seg3sd8Hm9YLA80TuCrvg"

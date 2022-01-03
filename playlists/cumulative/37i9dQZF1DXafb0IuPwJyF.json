@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: milet\u00d7Aimer\u00d7\u5e7e\u7530\u308a\u3089",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: King Gnu",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 215404,
       "name": "ACTION (with ZAZEN BOYS)",
       "url": "https://open.spotify.com/track/7KRwCd1TCyUtrpGXZNDiwA"
@@ -81,10 +81,28 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 177973,
       "name": "Chopstick",
       "url": "https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl"
+    },
+    {
+      "album": {
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
     },
     {
       "album": {
@@ -142,6 +160,24 @@
     },
     {
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+    },
+    {
+      "album": {
         "name": "EVERBLUE",
         "url": "https://open.spotify.com/album/2TWOBBZ8C8mqkNGerg2C5f"
       },
@@ -157,6 +193,24 @@
       "duration_ms": 241866,
       "name": "EVERBLUE",
       "url": "https://open.spotify.com/track/5RmtuRIe8FJg9FRegwCqzW"
+    },
+    {
+      "album": {
+        "name": "FiNAL SHiTS",
+        "url": "https://open.spotify.com/album/3UFM7yNZ0Rndf5KtjGNM7U"
+      },
+      "artists": [
+        {
+          "name": "BiSH",
+          "url": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279091,
+      "name": "FiNAL SHiTS",
+      "url": "https://open.spotify.com/track/0t3Aho5s4jnyU3q3g61ygp"
     },
     {
       "album": {
@@ -204,6 +258,24 @@
     },
     {
       "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/1CjyXicCmGeuLVs3DT4Kl2"
+      },
+      "artists": [
+        {
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334773,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/5AyIYrq6MV7uuLRGFqtXPK"
+    },
+    {
+      "album": {
         "name": "It's All For Us",
         "url": "https://open.spotify.com/album/2m2LvEg4ByGuDlVrD4DFGN"
       },
@@ -219,6 +291,42 @@
       "duration_ms": 228019,
       "name": "It's All For Us",
       "url": "https://open.spotify.com/track/2EQFpKZWfUMdcpWILJVGru"
+    },
+    {
+      "album": {
+        "name": "Landscape",
+        "url": "https://open.spotify.com/album/1MwodpSl0YAbklUKWwqitl"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Landscape",
+      "url": "https://open.spotify.com/track/1cvluyKT1Iw1NZGGUgQ8u4"
+    },
+    {
+      "album": {
+        "name": "Le Penseur",
+        "url": "https://open.spotify.com/album/4fqkW8OxKluaCiDPmVSDbB"
+      },
+      "artists": [
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Le Penseur",
+      "url": "https://open.spotify.com/track/0FTuYACjywpTTY5IyEJKv5"
     },
     {
       "album": {
@@ -273,7 +381,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 287453,
       "name": "ONE AND LAST",
       "url": "https://open.spotify.com/track/52hEoJr9DL19p4BKGuvnfv"
@@ -353,7 +461,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 226779,
       "name": "STAY TUNE (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R"
@@ -444,6 +552,24 @@
     },
     {
       "album": {
+        "name": "\u304d\u3089\u308a",
+        "url": "https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231882,
+      "name": "\u304d\u3089\u308a",
+      "url": "https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj"
+    },
+    {
+      "album": {
         "name": "\u3053\u305f\u3048\u3042\u308f\u305b",
         "url": "https://open.spotify.com/album/3G4KTtLghaKBEk5A7ibODi"
       },
@@ -455,7 +581,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 230746,
       "name": "\u3053\u305f\u3048\u3042\u308f\u305b",
       "url": "https://open.spotify.com/track/46AAVTHrvm4Dt9Kwk2uGKo"
@@ -571,7 +697,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 207796,
       "name": "\u30b5\u30f3\u30bf\u30ac\u30fc\u30eb feat. \u306b\u3057\u306a",
       "url": "https://open.spotify.com/track/3ILA858bkYyDznOeZfXSM1"
@@ -902,6 +1028,24 @@
     },
     {
       "album": {
+        "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
+        "url": "https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op"
+      },
+      "artists": [
+        {
+          "name": "Mone Kamishiraishi",
+          "url": "https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273293,
+      "name": "\u61d0\u304b\u3057\u3044\u672a\u6765",
+      "url": "https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH"
+    },
+    {
+      "album": {
         "name": "\u65b0\u547c\u5438",
         "url": "https://open.spotify.com/album/6ZWyL8ksiCKbmtUkyIgnfy"
       },
@@ -913,7 +1057,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 218400,
       "name": "\u65b0\u547c\u5438",
       "url": "https://open.spotify.com/track/6AQfpBDkerfo3AWJUMr7ND"
@@ -985,7 +1129,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 247100,
       "name": "\u732b\u30ea\u30bb\u30c3\u30c8",
       "url": "https://open.spotify.com/track/68TwxeHi1pyFDRIKHxSArM"

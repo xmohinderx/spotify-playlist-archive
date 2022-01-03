@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 137426,
       "name": "99 Problems",
       "url": "https://open.spotify.com/track/7hN5TKSdRb56uytwIpcUES"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 227386,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/37H2CfPAljdCi1eSQqj6JQ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 184466,
       "name": "Barley",
       "url": "https://open.spotify.com/track/0h7329EnhfoaUEu2sN8o1U"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 186453,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 205773,
       "name": "Barton Hollow",
       "url": "https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 457666,
       "name": "Blackland Farmer",
       "url": "https://open.spotify.com/track/1WM2z5ygjXsQ3m7c4wOnCm"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 200497,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/5ScqgAxMZQSB2ubp9OOAD2"
@@ -876,6 +876,24 @@
     },
     {
       "album": {
+        "name": "...And There Are Devils",
+        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Folk Ramblers",
+          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
+        }
+      ],
+      "date_added": "2021-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216160,
+      "name": "Gambling Preacher and His Daughter",
+      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
+    },
+    {
+      "album": {
         "name": "Heavy Load",
         "url": "https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx"
       },
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 234146,
       "name": "God Of Love",
       "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
@@ -1417,7 +1435,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 190053,
       "name": "No Way Out But Down",
       "url": "https://open.spotify.com/track/4QWnQIa20uqK8uR5RVSRoh"
@@ -1435,7 +1453,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 164200,
       "name": "Nothing But The Water (I)",
       "url": "https://open.spotify.com/track/4f9F6CSTaJeMyvn1Plu89U"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 199240,
       "name": "Personal Jesus",
       "url": "https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 192586,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/07JyD08sM6AbyV4b15AExB"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 240813,
       "name": "Scavenger Hunt",
       "url": "https://open.spotify.com/track/5IrrRSLUoUsEjEKjQAyWVb"
@@ -2121,7 +2139,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 284357,
       "name": "Waiting Around to Die",
       "url": "https://open.spotify.com/track/5gogtHCaImFgzzSNZxCPeQ"

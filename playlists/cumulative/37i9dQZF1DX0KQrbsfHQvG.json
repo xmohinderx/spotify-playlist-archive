@@ -129,7 +129,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 203118,
       "name": "American Dreams",
       "url": "https://open.spotify.com/track/2BljDCCL2GPYOXNSY0DEfU"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 178592,
       "name": "Bodied",
       "url": "https://open.spotify.com/track/3C7fssc2tiauEx2Z82evXo"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 196120,
       "name": "Fuck Authority",
       "url": "https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208949,
       "name": "Give In",
       "url": "https://open.spotify.com/track/1PnpENYXi7nYMRsJq6nU3k"
@@ -681,6 +681,24 @@
       "duration_ms": 204026,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1caNzSrwm2CP4GNHLjdgmg"
+    },
+    {
+      "album": {
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "album": {
@@ -875,7 +893,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 215200,
       "name": "Middle Fingers",
       "url": "https://open.spotify.com/track/1RgvTl4vQN4qECtnO1guEp"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 158680,
       "name": "Point the Finger (feat. Riley Gale)",
       "url": "https://open.spotify.com/track/0qBAJcRGUwjEw2dAmGi4vG"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 154961,
       "name": "Revolt",
       "url": "https://open.spotify.com/track/6OpJmZltXIDFtdAroRWr0g"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 180853,
       "name": "Revolution Radio",
       "url": "https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 233586,
       "name": "Rise",
       "url": "https://open.spotify.com/track/7yniOnkRyjMmFXleGkG1ON"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "The Culling",
       "url": "https://open.spotify.com/track/1yB4sUSgRGEeiSslaoRpYD"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 244741,
       "name": "Too Real",
       "url": "https://open.spotify.com/track/2wLAE0dOBrxmKFql0qpsw5"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 188493,
       "name": "Unbreakable",
       "url": "https://open.spotify.com/track/3UbIhHCEYbH7ayc76IB0Q9"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 171809,
       "name": "Walking In My Shoes",
       "url": "https://open.spotify.com/track/7mqJvR6BgtGbOssGZAfdaP"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2020-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 204613,
       "name": "We Fight",
       "url": "https://open.spotify.com/track/6hv6d8YnlBPuSnueUjxXny"

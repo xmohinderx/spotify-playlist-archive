@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 207000,
       "name": "A Long Time Ago In A Galaxy Called LA",
       "url": "https://open.spotify.com/track/5miZeAqW2OLH3iBIKiL9hQ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 197200,
       "name": "All Signs Point to Lauderdale",
       "url": "https://open.spotify.com/track/15qf0H31MChhqKr2zvejla"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 265224,
       "name": "Alone with You",
       "url": "https://open.spotify.com/track/3jLj7HQNl4LXc9vNuwcFyw"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 174320,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/45zvStEMsXp8z45OQRhWFJ"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 192317,
       "name": "Break a Leg Kid",
       "url": "https://open.spotify.com/track/5J2pcBXgCL7cHPUqAyMbeT"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 164333,
       "name": "Christian Nationalist",
       "url": "https://open.spotify.com/track/65CdHKGQBBkktAKgciMcCX"
@@ -574,6 +574,24 @@
     },
     {
       "album": {
+        "name": "Therapy",
+        "url": "https://open.spotify.com/album/7BHmLI3iFYEbbKqb2r97a6"
+      },
+      "artists": [
+        {
+          "name": "We Still Dream",
+          "url": "https://open.spotify.com/artist/1hYf0dAHtryg8JfaQd5c5o"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187655,
+      "name": "Cop Outs and Cover Ups",
+      "url": "https://open.spotify.com/track/1eky0UG5NxlVNtcPrNOPSl"
+    },
+    {
+      "album": {
         "name": "Surviving",
         "url": "https://open.spotify.com/album/1oXiDeNuXr0A4DFQEr3fhI"
       },
@@ -585,7 +603,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
@@ -639,7 +657,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 191756,
       "name": "Dead and Gone",
       "url": "https://open.spotify.com/track/22aRgzwro3KIz9QWAdY2E1"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 210880,
       "name": "Everything Is Ordinary",
       "url": "https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 201625,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/0jUb48UMAdHwmNeeg1ZpN0"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 185493,
       "name": "From The Outside",
       "url": "https://open.spotify.com/track/7LAZoVMv0qo20VpimTOBsi"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 212892,
       "name": "Get By",
       "url": "https://open.spotify.com/track/1UnpGQbe2SDnAtr6vAYI4K"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 185419,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2MyUIH6eOOfzgxAEw8qz5R"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227493,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5g4ENWdp43q5ZLH5Pre7s0"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 154971,
       "name": "Hotel Beds",
       "url": "https://open.spotify.com/track/7Leefj1rxiHwg9eblvVfLm"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 193560,
       "name": "I Just Died In Your Arms",
       "url": "https://open.spotify.com/track/34pzs6syywbpcdBBCcLvKK"
@@ -1551,7 +1569,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 171417,
       "name": "Last, Last Words",
       "url": "https://open.spotify.com/track/5isbScmSRT5TIwZwApadZV"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 216696,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/2x3h75zzl2IudkzFbG3UuV"
@@ -1836,6 +1854,24 @@
     },
     {
       "album": {
+        "name": "Joy as an Act of Resistance.",
+        "url": "https://open.spotify.com/album/2vBa3poU0e82yfPtxcn9lg"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228831,
+      "name": "Never Fight A Man With A Perm",
+      "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
+    },
+    {
+      "album": {
         "name": "Lost Touch",
         "url": "https://open.spotify.com/album/3FU3OYWetRWVgjvnlHdhec"
       },
@@ -1865,7 +1901,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/473gsXF8axYSsplgUfnbXf"
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 160677,
       "name": "P.A.W",
       "url": "https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL"
@@ -2099,7 +2135,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
       "url": "https://open.spotify.com/track/3wTyLh0vhP3dN5yv0Mti17"
@@ -2333,7 +2369,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 180599,
       "name": "Sleeping In",
       "url": "https://open.spotify.com/track/0FNPI9jhoho8rZL1J7WK1v"
@@ -2513,7 +2549,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 170875,
       "name": "Surviving California",
       "url": "https://open.spotify.com/track/3awZR6RwEJA0Mb1vrOKlTM"
@@ -2585,7 +2621,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
@@ -2607,7 +2643,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 171741,
       "name": "The Lighthouse",
       "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
@@ -2697,7 +2733,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202533,
       "name": "Time-Bomb Ticking Away",
       "url": "https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU"
@@ -2751,7 +2787,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 179349,
       "name": "Underground",
       "url": "https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN"
@@ -2859,7 +2895,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
@@ -2899,6 +2935,24 @@
       "duration_ms": 143808,
       "name": "Worries",
       "url": "https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG"
+    },
+    {
+      "album": {
+        "name": "Piecing It Together",
+        "url": "https://open.spotify.com/album/2OWssmFogmnwTnzynsTNcC"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        }
+      ],
+      "date_added": "2021-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168082,
+      "name": "Worry Seed",
+      "url": "https://open.spotify.com/track/3yWbedbZB6qp7FALvp4Q7C"
     },
     {
       "album": {

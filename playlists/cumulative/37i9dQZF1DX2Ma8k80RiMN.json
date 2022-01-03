@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 299800,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 463840,
       "name": "Do Me, Baby",
       "url": "https://open.spotify.com/track/621BmKwXCNiTBfmeJtxoD8"
@@ -450,6 +450,24 @@
     },
     {
       "album": {
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390573,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/1NJMK4Gb9itR3ORd6NTdyi"
+    },
+    {
+      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/00veEy3Rm9cUZOZOdmtUK3"
       },
@@ -581,7 +599,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 404333,
       "name": "Meet Me On The Moon",
       "url": "https://open.spotify.com/track/3oJh3bfR18qSOb9ss4uVHm"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 207158,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/0jesM7wcZacJWJde6noqB9"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 185627,
       "name": "One I Got",
       "url": "https://open.spotify.com/track/6coM4ER26az6RA3lQDy2jv"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 275826,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
@@ -787,7 +805,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 217054,
       "name": "Stay on Your Mind",
       "url": "https://open.spotify.com/track/7M2Y6k2KSpH28HUAFamMg5"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 322693,
       "name": "You're My Latest, Greatest Inspiration",
       "url": "https://open.spotify.com/track/24Uu2LvYtrQucgUL69WzMx"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 255973,
       "name": "Your Smile",
       "url": "https://open.spotify.com/track/15SNslBn9n3jutwxlJGpMd"

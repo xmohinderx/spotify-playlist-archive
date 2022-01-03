@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 170501,
       "name": "1985",
       "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 94344,
       "name": "A Stone Shaped Like The Head Of A Bird",
       "url": "https://open.spotify.com/track/17bg1kywGbf40Bg7Ao3jDA"
@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 253456,
       "name": "Alcoholics",
       "url": "https://open.spotify.com/track/4GZEdwnAiQ96UmhiPetw33"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 248506,
       "name": "All the Leaves Are Falling",
       "url": "https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 173000,
       "name": "argentin",
       "url": "https://open.spotify.com/track/7FZhZpPpfw9j8IDuqxtF8s"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 231352,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/79g4Bb5vUU63OfjXG2j9Af"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 326242,
       "name": "Blind Spot",
       "url": "https://open.spotify.com/track/3bOvyoDhBUnLf8NisLxGn6"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 237973,
       "name": "Breathe In",
       "url": "https://open.spotify.com/track/1mdJafthfNamlzyZayaOVM"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 241368,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/1D4GkNWWjnsygYIo2PvQdm"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 170881,
       "name": "Cig Angel",
       "url": "https://open.spotify.com/track/4AMw3vWRQxJJSCv0WVvofD"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 229542,
       "name": "Cosmos (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 264542,
       "name": "Cruisin",
       "url": "https://open.spotify.com/track/6k72w5n6bjf3gSgNId74sS"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/3VlbXBW2heJ3s6GS23wyAV"
@@ -821,10 +821,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 163973,
       "name": "Debold",
       "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
+    },
+    {
+      "album": {
+        "name": "Back for More - EP",
+        "url": "https://open.spotify.com/album/7jTVYwjkKRY9z6SfY6NfGa"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214320,
+      "name": "Did She Know",
+      "url": "https://open.spotify.com/track/5eUbSzFwUnT2eKMNZkzQk8"
     },
     {
       "album": {
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227070,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/76KumSfWF8BFG9mi1d6U3Q"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 300310,
       "name": "Feel",
       "url": "https://open.spotify.com/track/1KUsl0lQW0IOi9AebkDoLc"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 273468,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/6NV1oF6zZ5VoVpICTsOLYD"
@@ -1069,7 +1087,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "For You & I",
       "url": "https://open.spotify.com/track/5Vj7O3T5u0wHuFD99x2Rv1"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 134831,
       "name": "Gunning For Fees",
       "url": "https://open.spotify.com/track/003oYjviEtMybWtnTa0lln"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 254156,
       "name": "I Had To Slow It Down",
       "url": "https://open.spotify.com/track/6a6wnYqP8F7rK9lrNK8ARn"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 225199,
       "name": "Idle (feat. Ghostly Kisses)",
       "url": "https://open.spotify.com/track/4mXdlglKsmZ8kpakb84mLn"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4"
@@ -1599,7 +1617,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 164874,
       "name": "Joyfulness - Radio Edit",
       "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 191895,
       "name": "ME!",
       "url": "https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 218571,
       "name": "Mounemouma",
       "url": "https://open.spotify.com/track/7diF7X2vCFc15ee69L2YI7"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
@@ -1959,7 +1977,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/7xeAzyhW9sfqoIIm7685mL"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 223533,
       "name": "Mr. Sun (miss da sun)",
       "url": "https://open.spotify.com/track/2dhPGfqPl8LEXqRiU8tfPl"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 247619,
       "name": "No Fuss No Fight - Radio Edit",
       "url": "https://open.spotify.com/track/6AtGyzSSN3Js4fSRPimqxK"
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 283000,
       "name": "Quiet Nights Without You - Elsa Hewitt Remix",
       "url": "https://open.spotify.com/track/3HAv2Dh1VLRUYwuTGGo8v4"
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 192703,
       "name": "Raining Colours",
       "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 214500,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0bnDUeKsh5bwkDLudWsXTT"
@@ -2547,7 +2565,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 244706,
       "name": "swag w/ kav",
       "url": "https://open.spotify.com/track/7lPt8ISy7ax86QSfl4I3Z7"
@@ -2583,7 +2601,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 299688,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY"
@@ -2755,7 +2773,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 325714,
       "name": "Weigh it",
       "url": "https://open.spotify.com/track/3GIEtUsDd7EWAs5eMXCz0S"
@@ -2817,7 +2835,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"

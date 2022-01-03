@@ -1,64 +1,60 @@
 {
   "description": "Nominees from the 93rd annual event celebrating Hollywood's brightest stars.",
   "name": "Hollywood's Big Night",
-  "num_followers": 88413,
+  "num_followers": 88412,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTEwOTk4NiwwMDAwMDAwMGMyMTIxYThiMTc0M2UwZDgzYzhkZGJmYjQwYWQ1MmI0",
+  "snapshot_id": "MTY0MTE3MDQ3NywwMDAwMDAwMDhiNzdjYzE3NGQwYWYxYjU5Zjg5YWU3NzIzNDdiZWQ2",
   "tracks": [
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "The Trial Of The Chicago 7 (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/7x06ePHyeqFaXFMCIpLajC"
+        "name": "Minari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
         }
       ],
-      "duration_ms": 188306,
-      "name": "Hear My Voice",
-      "url": "https://open.spotify.com/track/2VQLvnoWPwWaOmErqIV1zH"
+      "duration_ms": 136234,
+      "name": "Big Country",
+      "url": "https://open.spotify.com/track/2FH1R4lNVQQx64VLEPLOhF"
     },
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "Mulan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
       },
       "artists": [
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 217996,
-      "name": "Reflection (2020)",
-      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "My Octopus Teacher (Music from the Netflix Documentary)",
-        "url": "https://open.spotify.com/album/4VgpunftblRtRqyaRZKFRu"
+        "name": "Nomadland (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
       },
       "artists": [
         {
-          "name": "Kevin Smuts",
-          "url": "https://open.spotify.com/artist/28o69UYRCUkfpTQ9osvV09"
-        },
-        {
-          "name": "Matthew Dennis",
-          "url": "https://open.spotify.com/artist/4N313ATuzhiUWq8iJdVNQf"
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
         }
       ],
-      "duration_ms": 107531,
-      "name": "My Octopus Teacher End Credits",
-      "url": "https://open.spotify.com/track/7o7CCSoey85v5TOEqaHq6O"
+      "duration_ms": 246257,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
     },
     {
       "added_at": "2021-03-25 21:33:25",
@@ -83,6 +79,22 @@
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217996,
+      "name": "Reflection (2020)",
+      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
         "name": "Speak Now (From The Motion Picture Soundtrack Of One Night In Miami...)",
         "url": "https://open.spotify.com/album/7lj05DmCzCTu4Hxvnk1jAR"
       },
@@ -95,42 +107,6 @@
       "duration_ms": 217066,
       "name": "Speak Now",
       "url": "https://open.spotify.com/track/4AIaSod5XuXDApmMv1ATqr"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Io s\u00ec (Seen) [From \u201cThe Life Ahead (La vita davanti a s\u00e9)\u201d]",
-        "url": "https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 234450,
-      "name": "Io s\u00ec (Seen) [From The Life Ahead (La vita davanti a s\u00e9)]",
-      "url": "https://open.spotify.com/track/7FnHZ5YmsCi6Gdm3fo3De0"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "EMMA. (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS"
-      },
-      "artists": [
-        {
-          "name": "Isobel Waller-Bridge",
-          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
-        },
-        {
-          "name": "David Schweitzer",
-          "url": "https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc"
-        }
-      ],
-      "duration_ms": 367866,
-      "name": "Emma Suite",
-      "url": "https://open.spotify.com/track/6nQImNsFZlgsn9KeMbkjJT"
     },
     {
       "added_at": "2021-03-25 21:33:25",
@@ -151,134 +127,6 @@
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-        "url": "https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 191482,
-      "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
-      "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "The Midnight Sky (Music From The Netflix Film)",
-        "url": "https://open.spotify.com/album/6vmu6V3J4WABvjKoAwqrQw"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Desplat",
-          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "The Midnight Sky",
-      "url": "https://open.spotify.com/track/6VmExNANnycvFtCmARWjn2"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
-      },
-      "artists": [
-        {
-          "name": "Anthony Willis",
-          "url": "https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk"
-        }
-      ],
-      "duration_ms": 111133,
-      "name": "Toxic - From \"Promising Young Woman\" Soundtrack",
-      "url": "https://open.spotify.com/track/05XtOl4zvDiOXcHjtTMIqd"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "News Of The World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
-      },
-      "artists": [
-        {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        }
-      ],
-      "duration_ms": 126906,
-      "name": "Captain Jefferson",
-      "url": "https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "What A Life (From the Motion Picture \"Another Round\")",
-        "url": "https://open.spotify.com/album/13FUjs5sLETUhC3KaRKZUN"
-      },
-      "artists": [
-        {
-          "name": "Scarlet Pleasure",
-          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
-        }
-      ],
-      "duration_ms": 169943,
-      "name": "What A Life - From the Motion Picture \"Another Round\"",
-      "url": "https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Judas and the Black Messiah: The Inspired Album",
-        "url": "https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 270710,
-      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
-      "url": "https://open.spotify.com/track/4gsHejrUpQI63qXWzp7psJ"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Green (An Original Song from the Motion Picture \u201cSound of Metal\u201d)",
-        "url": "https://open.spotify.com/album/3fpm5s5FAe2FnAbHTuTXt5"
-      },
-      "artists": [
-        {
-          "name": "Abraham Marder",
-          "url": "https://open.spotify.com/artist/1mWBfXz6jucW65OnB7ZJsz"
-        }
-      ],
-      "duration_ms": 267251,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -291,46 +139,6 @@
       "duration_ms": 200000,
       "name": "Ultraluminary (From the Netflix Film \"Over the Moon\")",
       "url": "https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Hillbilly Elegy (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/3B45f4sZTY8VC6slaW79Si"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "David Fleming",
-          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
-        }
-      ],
-      "duration_ms": 165048,
-      "name": "Rust",
-      "url": "https://open.spotify.com/track/0XTRYLKGS0Y9YghgzBXYVs"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "A Shaun the Sheep Movie: Farmageddon (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/20YaFK12vAUEtVvOImcUGo"
-      },
-      "artists": [
-        {
-          "name": "The Vaccines",
-          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 209850,
-      "name": "LAZY",
-      "url": "https://open.spotify.com/track/4lQAyzhjWWOMkJPFepV5nr"
     },
     {
       "added_at": "2021-03-25 21:33:25",
@@ -359,114 +167,70 @@
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "WolfWalkers (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6XVCLtMjubQa0VHm9UHsXN"
+        "name": "The Midnight Sky (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/6vmu6V3J4WABvjKoAwqrQw"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Running with the Wolves - WolfWalkers Version",
-      "url": "https://open.spotify.com/track/5KF4xocBjejdsiztbvSW83"
+      "duration_ms": 211320,
+      "name": "The Midnight Sky",
+      "url": "https://open.spotify.com/track/6VmExNANnycvFtCmARWjn2"
     },
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "Greyhound (Apple TV+ Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/57JxE0K1c4vuuP2pS5t2md"
+        "name": "Green (An Original Song from the Motion Picture \u201cSound of Metal\u201d)",
+        "url": "https://open.spotify.com/album/3fpm5s5FAe2FnAbHTuTXt5"
       },
       "artists": [
         {
-          "name": "Blake Neely",
-          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+          "name": "Abraham Marder",
+          "url": "https://open.spotify.com/artist/1mWBfXz6jucW65OnB7ZJsz"
         }
       ],
-      "duration_ms": 263426,
-      "name": "First Crossing",
-      "url": "https://open.spotify.com/track/4kB8uNTf0YWH4g6vOj4K6R"
+      "duration_ms": 267251,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/5Qbbt2pFCtK1TURRKyc44t"
     },
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "Nandito (\"Better Days\" Boys Love Series Original Soundtrack)",
-        "url": "https://open.spotify.com/album/28aSJYhykZjYowiaz7QN7s"
+        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
       },
       "artists": [
         {
-          "name": "Benedix Ramos",
-          "url": "https://open.spotify.com/artist/5fldgzVYNjhJSwZorLIrXq"
+          "name": "Anthony Willis",
+          "url": "https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk"
         }
       ],
-      "duration_ms": 277446,
-      "name": "Nandito (\"Better Days\" Boys Love Series Original Soundtrack)",
-      "url": "https://open.spotify.com/track/5MxNumr5U2RItqaIQ358vo"
+      "duration_ms": 111133,
+      "name": "Toxic - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/05XtOl4zvDiOXcHjtTMIqd"
     },
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "Mank (Original Musical Score)",
-        "url": "https://open.spotify.com/album/4bF6HoSA0B7FbkY1z8uTq5"
+        "name": "My Octopus Teacher (Music from the Netflix Documentary)",
+        "url": "https://open.spotify.com/album/4VgpunftblRtRqyaRZKFRu"
       },
       "artists": [
         {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
-        }
-      ],
-      "duration_ms": 135893,
-      "name": "Welcome to Victorville",
-      "url": "https://open.spotify.com/track/17RSYIsjVFmNekx5TmvgKf"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Nomadland (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3gd5jLNJnFB2eKn2qQHHZq"
-      },
-      "artists": [
+          "name": "Kevin Smuts",
+          "url": "https://open.spotify.com/artist/28o69UYRCUkfpTQ9osvV09"
+        },
         {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+          "name": "Matthew Dennis",
+          "url": "https://open.spotify.com/artist/4N313ATuzhiUWq8iJdVNQf"
         }
       ],
-      "duration_ms": 246257,
-      "name": "Epilogue",
-      "url": "https://open.spotify.com/track/5LqyJJiZ3X74giX7n0QxjF"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Da 5 Bloods (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/0LarP0xBEosOk39WtkHd2C"
-      },
-      "artists": [
-        {
-          "name": "Terence Blanchard",
-          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
-        }
-      ],
-      "duration_ms": 284398,
-      "name": "What This Mission's About",
-      "url": "https://open.spotify.com/track/6gZpNkvDpjsTi02VV1O2WI"
-    },
-    {
-      "added_at": "2021-03-25 21:33:25",
-      "album": {
-        "name": "Minari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/73YA428yr1quWSDEVuJXe5"
-      },
-      "artists": [
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 136234,
-      "name": "Big Country",
-      "url": "https://open.spotify.com/track/2FH1R4lNVQQx64VLEPLOhF"
+      "duration_ms": 107531,
+      "name": "My Octopus Teacher End Credits",
+      "url": "https://open.spotify.com/track/7o7CCSoey85v5TOEqaHq6O"
     },
     {
       "added_at": "2021-03-25 21:33:25",
@@ -487,6 +251,90 @@
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
+        "name": "News Of The World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "duration_ms": 126906,
+      "name": "Captain Jefferson",
+      "url": "https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "The Trial Of The Chicago 7 (Music From The Netflix Film)",
+        "url": "https://open.spotify.com/album/7x06ePHyeqFaXFMCIpLajC"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 188306,
+      "name": "Hear My Voice",
+      "url": "https://open.spotify.com/track/2VQLvnoWPwWaOmErqIV1zH"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Judas and the Black Messiah: The Inspired Album",
+        "url": "https://open.spotify.com/album/0f0XZWfp7I1awuU40IPGGz"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 270710,
+      "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
+      "url": "https://open.spotify.com/track/4gsHejrUpQI63qXWzp7psJ"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Hillbilly Elegy (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/3B45f4sZTY8VC6slaW79Si"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "David Fleming",
+          "url": "https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8"
+        }
+      ],
+      "duration_ms": 165048,
+      "name": "Rust",
+      "url": "https://open.spotify.com/track/0XTRYLKGS0Y9YghgzBXYVs"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "What A Life (From the Motion Picture \"Another Round\")",
+        "url": "https://open.spotify.com/album/13FUjs5sLETUhC3KaRKZUN"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        }
+      ],
+      "duration_ms": 169943,
+      "name": "What A Life - From the Motion Picture \"Another Round\"",
+      "url": "https://open.spotify.com/track/4DXceUhBu8hVYO1EuT6EOt"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
         "name": "Pinocchio (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0oz9pxUkwhg8ar7tSS3rhp"
       },
@@ -499,6 +347,110 @@
       "duration_ms": 108640,
       "name": "Once Upon a Time",
       "url": "https://open.spotify.com/track/627zszyuSvSLsGCVLqXR99"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Ma Rainey's Black Bottom (Music from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0B48b43IEv1H01wkgn6yxs"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "duration_ms": 292106,
+      "name": "Deep Moaning Blues",
+      "url": "https://open.spotify.com/track/4FioWFT9z8CBULVgnLyb6Z"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "A Shaun the Sheep Movie: Farmageddon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/20YaFK12vAUEtVvOImcUGo"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 209850,
+      "name": "LAZY",
+      "url": "https://open.spotify.com/track/4lQAyzhjWWOMkJPFepV5nr"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "WolfWalkers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6XVCLtMjubQa0VHm9UHsXN"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Running with the Wolves - WolfWalkers Version",
+      "url": "https://open.spotify.com/track/5KF4xocBjejdsiztbvSW83"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "EMMA. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS"
+      },
+      "artists": [
+        {
+          "name": "Isobel Waller-Bridge",
+          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+        },
+        {
+          "name": "David Schweitzer",
+          "url": "https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc"
+        }
+      ],
+      "duration_ms": 367866,
+      "name": "Emma Suite",
+      "url": "https://open.spotify.com/track/6nQImNsFZlgsn9KeMbkjJT"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Mank (Original Musical Score)",
+        "url": "https://open.spotify.com/album/4bF6HoSA0B7FbkY1z8uTq5"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 135893,
+      "name": "Welcome to Victorville",
+      "url": "https://open.spotify.com/track/17RSYIsjVFmNekx5TmvgKf"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Io s\u00ec (Seen) [From \u201cThe Life Ahead (La vita davanti a s\u00e9)\u201d]",
+        "url": "https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 234450,
+      "name": "Io s\u00ec (Seen) [From The Life Ahead (La vita davanti a s\u00e9)]",
+      "url": "https://open.spotify.com/track/7FnHZ5YmsCi6Gdm3fo3De0"
     },
     {
       "added_at": "2021-03-25 21:33:25",
@@ -519,18 +471,66 @@
     {
       "added_at": "2021-03-25 21:33:25",
       "album": {
-        "name": "Ma Rainey's Black Bottom (Music from the Netflix Film)",
-        "url": "https://open.spotify.com/album/0B48b43IEv1H01wkgn6yxs"
+        "name": "Nandito (\"Better Days\" Boys Love Series Original Soundtrack)",
+        "url": "https://open.spotify.com/album/28aSJYhykZjYowiaz7QN7s"
       },
       "artists": [
         {
-          "name": "Branford Marsalis",
-          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+          "name": "Benedix Ramos",
+          "url": "https://open.spotify.com/artist/5fldgzVYNjhJSwZorLIrXq"
         }
       ],
-      "duration_ms": 292106,
-      "name": "Deep Moaning Blues",
-      "url": "https://open.spotify.com/track/4FioWFT9z8CBULVgnLyb6Z"
+      "duration_ms": 277446,
+      "name": "Nandito (\"Better Days\" Boys Love Series Original Soundtrack)",
+      "url": "https://open.spotify.com/track/5MxNumr5U2RItqaIQ358vo"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Da 5 Bloods (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/0LarP0xBEosOk39WtkHd2C"
+      },
+      "artists": [
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "duration_ms": 284398,
+      "name": "What This Mission's About",
+      "url": "https://open.spotify.com/track/6gZpNkvDpjsTi02VV1O2WI"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+        "url": "https://open.spotify.com/album/5QIrCVTrODMsB5XIBrPvGz"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 191482,
+      "name": "Tigress & Tweed (Music from the Motion Picture \"The United States vs. Billie Holiday\")",
+      "url": "https://open.spotify.com/track/72PM6IPh11h6akXKzMJs3q"
+    },
+    {
+      "added_at": "2021-03-25 21:33:25",
+      "album": {
+        "name": "Greyhound (Apple TV+ Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/57JxE0K1c4vuuP2pS5t2md"
+      },
+      "artists": [
+        {
+          "name": "Blake Neely",
+          "url": "https://open.spotify.com/artist/4UOzqO0jZUrTiTunfBw4tp"
+        }
+      ],
+      "duration_ms": 263426,
+      "name": "First Crossing",
+      "url": "https://open.spotify.com/track/4kB8uNTf0YWH4g6vOj4K6R"
     },
     {
       "added_at": "2021-03-25 21:33:25",

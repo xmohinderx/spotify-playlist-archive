@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 235244,
       "name": "Acerta",
       "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 240021,
       "name": "All I Have",
       "url": "https://open.spotify.com/track/5VB3K5qgvXlfkKaxUVMyvu"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 173844,
       "name": "Boda",
       "url": "https://open.spotify.com/track/1oXbGqMPqugKoEaEuBZMXL"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 194851,
       "name": "Bonequinha",
       "url": "https://open.spotify.com/track/6BbmAv609s7flNYFKhmnGG"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183092,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 218871,
       "name": "Cigana Linda",
       "url": "https://open.spotify.com/track/5ZhYcNNdJMYUkUkFjeuWDI"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206451,
       "name": "Comment vivre sans toi",
       "url": "https://open.spotify.com/track/0B2qVNmH4ngg1SpNH2zHzk"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 222928,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O"
@@ -615,7 +615,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 165203,
       "name": "Dor d'um Kriolu",
       "url": "https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 174501,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/63advOBOXbhkDmNXVHlCvw"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 204531,
       "name": "Escola",
       "url": "https://open.spotify.com/track/1WpDYqttO9wySpUvvk9tXG"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 233145,
       "name": "Evil Tarraxo",
       "url": "https://open.spotify.com/track/4jEswQpBN1ju5ioo12w3YF"
@@ -855,6 +855,24 @@
       "duration_ms": 202113,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+    },
+    {
+      "album": {
+        "name": "Resili\u00eancia",
+        "url": "https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7"
+      },
+      "artists": [
+        {
+          "name": "Filomena Maricoa",
+          "url": "https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Fininho",
+      "url": "https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q"
     },
     {
       "album": {
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184868,
       "name": "Maningue Doce",
       "url": "https://open.spotify.com/track/4x2pDgtEyVVjmjHpoEO38H"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 190190,
       "name": "No Bad Vibez",
       "url": "https://open.spotify.com/track/4Csfj1xoyB2e9KcbhRempz"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208840,
       "name": "Planos",
       "url": "https://open.spotify.com/track/39RaXavHae4m2ltDym9lIM"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 197956,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5"
@@ -1811,7 +1829,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 230559,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN"
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184093,
       "name": "Siguim",
       "url": "https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 231529,
       "name": "Sozinha Comigo",
       "url": "https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 232421,
       "name": "Super Mulher",
       "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 229354,
       "name": "Tayanna",
       "url": "https://open.spotify.com/track/5koelUYXOtUwFvRvuaNu2n"
@@ -2183,7 +2201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 195408,
       "name": "UH",
       "url": "https://open.spotify.com/track/5LgphYNfWHIwIRUqNCWcOM"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 341518,
       "name": "Vai",
       "url": "https://open.spotify.com/track/2dn2cuVW6K4QXOFbCLzm9S"

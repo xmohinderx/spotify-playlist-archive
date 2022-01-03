@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: phem
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,283 likes - 151 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,498 likes - 151 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

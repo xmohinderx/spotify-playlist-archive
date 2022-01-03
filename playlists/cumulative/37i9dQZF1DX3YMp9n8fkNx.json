@@ -258,6 +258,24 @@
     },
     {
       "album": {
+        "name": "evan and jaron",
+        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
+      },
+      "artists": [
+        {
+          "name": "Evan And Jaron",
+          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Crazy for This Girl",
+      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
+    },
+    {
+      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -287,7 +305,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 255160,
       "name": "Everything About You",
       "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
@@ -521,7 +539,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164466,
       "name": "Into Your Arms",
       "url": "https://open.spotify.com/track/22goEULcezLAiENbgpJw7k"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205239,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/75fuzn623bYyKISKlFHdCw"
@@ -651,6 +669,24 @@
       "duration_ms": 274706,
       "name": "Linger",
       "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
+    },
+    {
+      "album": {
+        "name": "Mellow Gold",
+        "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
     },
     {
       "album": {
@@ -935,7 +971,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205413,
       "name": "Selling The Drama",
       "url": "https://open.spotify.com/track/7BG8BwW3Bhdq4PnZmjDBRm"
@@ -957,6 +993,24 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "album": {
+        "name": "The Best Of / 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/73dMmmMMWYjmCnGj1OgvIR"
+      },
+      "artists": [
+        {
+          "name": "Rusted Root",
+          "url": "https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "Send Me On My Way",
+      "url": "https://open.spotify.com/track/4yshHBPp0MoVynV1sMCKV3"
     },
     {
       "album": {
@@ -1191,6 +1245,24 @@
       "duration_ms": 256733,
       "name": "Two Princes",
       "url": "https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90"
+    },
+    {
+      "album": {
+        "name": "Fush Yu Mang (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Walkin' On The Sun",
+      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
     },
     {
       "album": {

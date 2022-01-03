@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Army of Darkness",
       "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 158545,
       "name": "Be My End",
       "url": "https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 158480,
       "name": "Beyond The Veil",
       "url": "https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 178024,
       "name": "Come A Little Closer",
       "url": "https://open.spotify.com/track/5XBhdcdrUvVENLhSrj3Ho4"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 265144,
       "name": "Decompose",
       "url": "https://open.spotify.com/track/58QdFjoa1UytClOVUfnWqe"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 158095,
       "name": "Drinking from the Skull of My Favourite Enemy",
       "url": "https://open.spotify.com/track/1AgqItQXKJAFF4nas6J1Gr"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 145680,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/6G6A9ehdsV7YGiIlcAvtrY"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 238280,
       "name": "Mark of the Devil",
       "url": "https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 204160,
       "name": "My Love for Evermore",
       "url": "https://open.spotify.com/track/1pGUl6SIkUG2eOAOwMN82W"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202773,
       "name": "Not of This Earth",
       "url": "https://open.spotify.com/track/6xy4ql4ipxfRVjcJeY7ek8"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 200560,
       "name": "Perfect Krime",
       "url": "https://open.spotify.com/track/0nadTqwwQvg50HUBYk2s7P"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 215493,
       "name": "Rainy Season",
       "url": "https://open.spotify.com/track/4jjzm8vHpVk1YXWiAMtjKE"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 181546,
       "name": "Rockin' at the House of Strange",
       "url": "https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 224946,
       "name": "She's a Ghost",
       "url": "https://open.spotify.com/track/3tKoGCW6e2JExbv8QmyG6E"
@@ -1082,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "The Harder the Fall",
+        "url": "https://open.spotify.com/album/1HROOBNot0QRdFglK0QvhS"
+      },
+      "artists": [
+        {
+          "name": "Doghouse Rose",
+          "url": "https://open.spotify.com/artist/1sOSSlyQ46PYp22R2eneUa"
+        }
+      ],
+      "date_added": "2021-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/7GjT9IzL739FUW9JnFP8tu"
+    },
+    {
+      "album": {
         "name": "Our Way & The Highway",
         "url": "https://open.spotify.com/album/3csHpaafwVPG118KJFaibU"
       },
@@ -1111,7 +1129,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 145541,
       "name": "They're Inside",
       "url": "https://open.spotify.com/track/2trEgoZgPLKyaek0vg9Gfb"

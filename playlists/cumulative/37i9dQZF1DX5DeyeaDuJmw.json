@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "BABY DRIP",
       "url": "https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "Billetes Azules (with J Balvin)",
       "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 212210,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/21SA3m9Lgs1Ch9leBdYrfz"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 163120,
       "name": "Descarada",
       "url": "https://open.spotify.com/track/7mUHaCKJzEymowgGNNUPI9"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 158673,
       "name": "DONDE SEA",
       "url": "https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164813,
       "name": "El Que Se Enamora Pierde (feat. Darell)",
       "url": "https://open.spotify.com/track/5Ik2TPCpwDNnBmkIf4GhBM"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 178560,
       "name": "Ghetto",
       "url": "https://open.spotify.com/track/5CZQKFyopa2wIG7LjMrbPJ"
@@ -895,6 +895,36 @@
       "duration_ms": 195284,
       "name": "Hookah & Sheridan s",
       "url": "https://open.spotify.com/track/3QfD4bxxkopZL7XZ8RaezH"
+    },
+    {
+      "album": {
+        "name": "I Don't Sleep (Remix)",
+        "url": "https://open.spotify.com/album/7wjVfAmxJLwseVgevp2JYX"
+      },
+      "artists": [
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        },
+        {
+          "name": "Marko Italia",
+          "url": "https://open.spotify.com/artist/4jodefSETPrPm4qkYPXSQT"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "The Bestsoundz",
+          "url": "https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203008,
+      "name": "I Don't Sleep - Remix",
+      "url": "https://open.spotify.com/track/6VzbeqtKkPOaAxiNeXhomy"
     },
     {
       "album": {
@@ -1266,6 +1296,28 @@
     },
     {
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "MOJAITA",
+      "url": "https://open.spotify.com/track/71pEiUWwfDFiRO6RmFpnBf"
+    },
+    {
+      "album": {
         "name": "Morado",
         "url": "https://open.spotify.com/album/7ynTaSXD9esXkgY0GG8UFd"
       },
@@ -1284,6 +1336,24 @@
     },
     {
       "album": {
+        "name": "Mujer Satisfecha",
+        "url": "https://open.spotify.com/album/27szUuDYpIZMaBAjvUy5O3"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213281,
+      "name": "Mujer Satisfecha",
+      "url": "https://open.spotify.com/track/2dSy7VwJsM9qEs5wAE9GJV"
+    },
+    {
+      "album": {
         "name": "New York",
         "url": "https://open.spotify.com/album/1SgLR8t1oBjhK7yoqgMBiE"
       },
@@ -1299,7 +1369,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 238481,
       "name": "New York",
       "url": "https://open.spotify.com/track/4dJmVKgYJGSnRRb1jPFiq4"
@@ -1722,6 +1792,28 @@
     },
     {
       "album": {
+        "name": "Los Favoritos 2",
+        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
+      },
+      "artists": [
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Pilonea",
+      "url": "https://open.spotify.com/track/217RE2TUIVqJCB6pg3nIhx"
+    },
+    {
+      "album": {
         "name": "Pirueta",
         "url": "https://open.spotify.com/album/0o2obtNZzpkgha30wtsODZ"
       },
@@ -1789,7 +1881,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 210520,
       "name": "Que Tire Pa Lante",
       "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
@@ -1957,7 +2049,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198857,
       "name": "Royal Medellin",
       "url": "https://open.spotify.com/track/3x9TgnIE1EbkKXJeIeBxYp"
@@ -2349,7 +2441,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 137727,
       "name": "VIDRIOS NEGROS",
       "url": "https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz"
@@ -2383,6 +2475,28 @@
       "duration_ms": 174790,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5yAo09btO7hEn8YDKW4Dkm"
+    },
+    {
+      "album": {
+        "name": "PERREAMOS?",
+        "url": "https://open.spotify.com/album/6F2TAcgZ09A7GjvJTgc8NY"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Kaydy Cain",
+          "url": "https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184535,
+      "name": "XULITA (feat. Kaydy Cain)",
+      "url": "https://open.spotify.com/track/1HjpnKN5vfceRgV7fa1DJA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
   "name": "Hot Rods & Horror Shows",
-  "num_followers": 128724,
+  "num_followers": 128759,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTExMDE3MCwwMDAwMDAwMDRiN2ZhMmI0NDkyYTgxYzRiOTczNzE4YjRiYzhiYWE1",
+  "snapshot_id": "MTY0MTE3MDY3OCwwMDAwMDAwMDYxZTIzNzMxZTI5MzNmMmViMWNkZjM2NjAyNzlhZTRh",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -27,6 +27,38 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Mind Control",
+        "url": "https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0"
+      },
+      "artists": [
+        {
+          "name": "Snash",
+          "url": "https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4"
+        }
+      ],
+      "duration_ms": 134520,
+      "name": "Mind Control",
+      "url": "https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Death at My Door",
+        "url": "https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu"
+      },
+      "artists": [
+        {
+          "name": "The Creepshow",
+          "url": "https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt"
+        }
+      ],
+      "duration_ms": 130542,
+      "name": "Death at My Door",
+      "url": "https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Return Of The Loving Dead",
         "url": "https://open.spotify.com/album/7dr1Aqdu3jMjHKC8J3QCvd"
       },
@@ -39,6 +71,214 @@
       "duration_ms": 236933,
       "name": "Gargoyles Over Copenhagen",
       "url": "https://open.spotify.com/track/7HtSPzWtfn0PWY2NkWGYvq"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Red Sky",
+        "url": "https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI"
+      },
+      "artists": [
+        {
+          "name": "The Hellfreaks",
+          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
+        }
+      ],
+      "duration_ms": 193339,
+      "name": "Red Sky",
+      "url": "https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Decade of Decay \u2013 The Gravest Hits of BZFOS",
+        "url": "https://open.spotify.com/album/17DnDU517Ai4F0GnXKcsQe"
+      },
+      "artists": [
+        {
+          "name": "Bloodsucking Zombies from outer Space",
+          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Monster Mutant Boogie",
+      "url": "https://open.spotify.com/track/1whmgIk2bEHVmB5hhzm9MT"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Our Way & The Highway",
+        "url": "https://open.spotify.com/album/3csHpaafwVPG118KJFaibU"
+      },
+      "artists": [
+        {
+          "name": "Koffin Kats",
+          "url": "https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf"
+        }
+      ],
+      "duration_ms": 144120,
+      "name": "The Way Of The Road",
+      "url": "https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Tiger Army",
+        "url": "https://open.spotify.com/album/61K5aimtKFNer86bAkbENa"
+      },
+      "artists": [
+        {
+          "name": "Tiger Army",
+          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Outlaw Heart",
+      "url": "https://open.spotify.com/track/1jSeiRCO1fIdszTZpSd0A6"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Bring It On!",
+        "url": "https://open.spotify.com/album/6zFe2Y2pjcoqgNrU8ThTFA"
+      },
+      "artists": [
+        {
+          "name": "Horrorpops",
+          "url": "https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ"
+        }
+      ],
+      "duration_ms": 247053,
+      "name": "Walk Like A Zombie",
+      "url": "https://open.spotify.com/track/79gMyKntkCECOnZSbZ5zcP"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 208102,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/3jXptpf8Z3aU9O1Bj6YCl0"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Death at My Door",
+        "url": "https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu"
+      },
+      "artists": [
+        {
+          "name": "The Creepshow",
+          "url": "https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt"
+        }
+      ],
+      "duration_ms": 198643,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/6afQKJhKqdqTGomP1bbRT5"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "MODERN ARTillery (U.S. Version)",
+        "url": "https://open.spotify.com/album/19tTQZGysI1NfLDD9wWjrP"
+      },
+      "artists": [
+        {
+          "name": "The Living End",
+          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/7z4DarPmWybFV4LUgx2Bot"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Zombie Nation",
+        "url": "https://open.spotify.com/album/0OsmMp8K4RMY6BEWpJ9UZB"
+      },
+      "artists": [
+        {
+          "name": "The Brains",
+          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
+        }
+      ],
+      "duration_ms": 127506,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/2E8iFawFugRpE4VkKtTgID"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "40",
+        "url": "https://open.spotify.com/album/3B3HvhuZSILz3RiALDEji2"
+      },
+      "artists": [
+        {
+          "name": "Stray Cats",
+          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+        }
+      ],
+      "duration_ms": 189279,
+      "name": "Cry Danger",
+      "url": "https://open.spotify.com/track/2ELPuZjju8CpJ7o9QGLq31"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Welcome Back To Insanity Hall",
+        "url": "https://open.spotify.com/album/4i5c1RomR4Wby8dpKljvHT"
+      },
+      "artists": [
+        {
+          "name": "Demented Are Go",
+          "url": "https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W"
+        }
+      ],
+      "duration_ms": 148013,
+      "name": "Bodies in the Basement",
+      "url": "https://open.spotify.com/track/7K9mpvjH1YfGpn7vVys9nn"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Formula 666",
+        "url": "https://open.spotify.com/album/0Fd5terpOdaXIzlV5tn6Qd"
+      },
+      "artists": [
+        {
+          "name": "Sarah and the Safe Word",
+          "url": "https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3"
+        }
+      ],
+      "duration_ms": 216009,
+      "name": "Formula 666",
+      "url": "https://open.spotify.com/track/0AniATpGL5KElCpak9n05M"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Retrofuture",
+        "url": "https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1"
+      },
+      "artists": [
+        {
+          "name": "Tiger Army",
+          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
+        }
+      ],
+      "duration_ms": 196533,
+      "name": "Last Ride",
+      "url": "https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -59,18 +299,234 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Hell Yeah!",
-        "url": "https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC"
+        "name": "Friday the 13th",
+        "url": "https://open.spotify.com/album/1vFKaljY8aSUu6UMKQPVEY"
       },
       "artists": [
         {
-          "name": "Horrorpops",
-          "url": "https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
         }
       ],
-      "duration_ms": 238333,
-      "name": "Miss Take",
-      "url": "https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y"
+      "duration_ms": 173053,
+      "name": "Nightmare on Elm Street",
+      "url": "https://open.spotify.com/track/0jrMrAKf4LAUETxwEJ12U0"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Walk Through Walls",
+        "url": "https://open.spotify.com/album/5LtYw0nyRj8cznP49gOJVA"
+      },
+      "artists": [
+        {
+          "name": "The Atom Age",
+          "url": "https://open.spotify.com/artist/79UcvR6kEruu3AQ0gYOJUk"
+        }
+      ],
+      "duration_ms": 148766,
+      "name": "Walk Through Walls",
+      "url": "https://open.spotify.com/track/4QCeZwh8Df8L8GiSXHloKr"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Stereoghost",
+        "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
+      },
+      "artists": [
+        {
+          "name": "The Rosedales",
+          "url": "https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Stars Are Falling",
+      "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Buy, Beg or Steal",
+        "url": "https://open.spotify.com/album/5H0lRv5wf1n2d27g5whpBS"
+      },
+      "artists": [
+        {
+          "name": "The Hillbilly Moon Explosion",
+          "url": "https://open.spotify.com/artist/2osRW41mzIig6TuqQeNsJR"
+        },
+        {
+          "name": "Mark 'Sparky' Philips",
+          "url": "https://open.spotify.com/artist/0LuNFlbi83aO0G6wtclfGK"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "My Love for Evermore",
+      "url": "https://open.spotify.com/track/1pGUl6SIkUG2eOAOwMN82W"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Rev",
+        "url": "https://open.spotify.com/album/5Bc3HNq80A8iemymZpRi6Q"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Horton Heat",
+          "url": "https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw"
+        }
+      ],
+      "duration_ms": 203360,
+      "name": "Victory Lap",
+      "url": "https://open.spotify.com/track/09OfkAO3hV9GeU78QTjGJ3"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "King of the Waves",
+        "url": "https://open.spotify.com/album/5rrSKAMIuu3RpsjWbUEiDo"
+      },
+      "artists": [
+        {
+          "name": "Johnny and the Rotten",
+          "url": "https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng"
+        }
+      ],
+      "duration_ms": 215292,
+      "name": "King of the Waves",
+      "url": "https://open.spotify.com/track/56rkUIGHMGCfCFZOdpr57t"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Yet Not Human",
+        "url": "https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn"
+      },
+      "artists": [
+        {
+          "name": "The Crimson Ghosts",
+          "url": "https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam"
+        }
+      ],
+      "duration_ms": 185958,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Bail set at $6M",
+        "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
+      },
+      "artists": [
+        {
+          "name": "Batmobile",
+          "url": "https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Kiss me now",
+      "url": "https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Perfect Krime",
+        "url": "https://open.spotify.com/album/5d7DNTkZvvcMW6bc5eA5P0"
+      },
+      "artists": [
+        {
+          "name": "The Arkhams",
+          "url": "https://open.spotify.com/artist/40ysFRvbAAE375dfCnruXM"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Perfect Krime",
+      "url": "https://open.spotify.com/track/0nadTqwwQvg50HUBYk2s7P"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Drinking from the Skull of My Favourite Enemy",
+        "url": "https://open.spotify.com/album/7KLNDKuRDiiayZJwJakLFK"
+      },
+      "artists": [
+        {
+          "name": "Blue Jinns",
+          "url": "https://open.spotify.com/artist/1LaP2GqFdQQonRmYdn7dqE"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Drinking from the Skull of My Favourite Enemy",
+      "url": "https://open.spotify.com/track/1AgqItQXKJAFF4nas6J1Gr"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Re-Animation Festival",
+        "url": "https://open.spotify.com/album/5z9XLXhyriqOEJWF63zZNY"
+      },
+      "artists": [
+        {
+          "name": "Kepi Ghoulie",
+          "url": "https://open.spotify.com/artist/658GkrDJtppifckfBbynzB"
+        },
+        {
+          "name": "The Copyrights",
+          "url": "https://open.spotify.com/artist/7xm2IaaRIe82EpyZwEi7Un"
+        }
+      ],
+      "duration_ms": 145961,
+      "name": "Graveyard Girlfriend",
+      "url": "https://open.spotify.com/track/4LEl8FxQNlUpGYT7fn9rEc"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "All These Fiendish Things",
+        "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
+      },
+      "artists": [
+        {
+          "name": "Bloodsucking Zombies from outer Space",
+          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Night Flier",
+      "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Smoke 'em If You Got 'em",
+        "url": "https://open.spotify.com/album/2BBSIaVB4o0uO4zj8jadQp"
+      },
+      "artists": [
+        {
+          "name": "The Reverend Horton Heat",
+          "url": "https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Psychobilly Freakout",
+      "url": "https://open.spotify.com/track/1KWWnlTbCv7jtwNyJFBgpW"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -91,18 +547,98 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Tiger Army",
-        "url": "https://open.spotify.com/album/61K5aimtKFNer86bAkbENa"
+        "name": "They're Inside",
+        "url": "https://open.spotify.com/album/13V0y7VWc9OWjcJmjxkqd2"
       },
       "artists": [
         {
-          "name": "Tiger Army",
-          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
+          "name": "Horror Section",
+          "url": "https://open.spotify.com/artist/33EHfmTzJM6tPgFkC7MgNm"
         }
       ],
-      "duration_ms": 238773,
-      "name": "Outlaw Heart",
-      "url": "https://open.spotify.com/track/1jSeiRCO1fIdszTZpSd0A6"
+      "duration_ms": 145541,
+      "name": "They're Inside",
+      "url": "https://open.spotify.com/track/2trEgoZgPLKyaek0vg9Gfb"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Going Viral",
+        "url": "https://open.spotify.com/album/0rpJl9yw57Ly0cq3m0Wey1"
+      },
+      "artists": [
+        {
+          "name": "Toxic Zombie",
+          "url": "https://open.spotify.com/artist/6hSmJaHviUicWQYtRVApJ0"
+        }
+      ],
+      "duration_ms": 210589,
+      "name": "Growing up Monsters",
+      "url": "https://open.spotify.com/track/3IeYXAKmLoRotJ5zJX73y6"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Nature Calls",
+        "url": "https://open.spotify.com/album/5nCY4KY6SzC4toWSqrpZGj"
+      },
+      "artists": [
+        {
+          "name": "Iguana Death Cult",
+          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "Nature Calls",
+      "url": "https://open.spotify.com/track/7sORA6qpf0gdbxfI1MatzV"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Knuckle Supper",
+        "url": "https://open.spotify.com/album/0unukVwXqOcKkKr7K3u3wQ"
+      },
+      "artists": [
+        {
+          "name": "Bullet Machine",
+          "url": "https://open.spotify.com/artist/1ewnFY8WPCfT6glpGLYWfG"
+        }
+      ],
+      "duration_ms": 145680,
+      "name": "Head in a Jar",
+      "url": "https://open.spotify.com/track/6G6A9ehdsV7YGiIlcAvtrY"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Return of the Infamous Four",
+        "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
+      },
+      "artists": [
+        {
+          "name": "Drunktank",
+          "url": "https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Army of Darkness",
+      "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Gravedigging",
+        "url": "https://open.spotify.com/album/17rPwDTozCphUe1mEFcKMd"
+      },
+      "artists": [
+        {
+          "name": "The Buttertones",
+          "url": "https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx"
+        }
+      ],
+      "duration_ms": 112386,
+      "name": "Two-Headed Shark",
+      "url": "https://open.spotify.com/track/4YDoYqJLLfQej9esfKOMUA"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -139,268 +675,8 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Decade of Decay \u2013 The Gravest Hits of BZFOS",
-        "url": "https://open.spotify.com/album/17DnDU517Ai4F0GnXKcsQe"
-      },
-      "artists": [
-        {
-          "name": "Bloodsucking Zombies from outer Space",
-          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Monster Mutant Boogie",
-      "url": "https://open.spotify.com/track/1whmgIk2bEHVmB5hhzm9MT"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Re-Animation Festival",
-        "url": "https://open.spotify.com/album/5z9XLXhyriqOEJWF63zZNY"
-      },
-      "artists": [
-        {
-          "name": "Kepi Ghoulie",
-          "url": "https://open.spotify.com/artist/658GkrDJtppifckfBbynzB"
-        },
-        {
-          "name": "The Copyrights",
-          "url": "https://open.spotify.com/artist/7xm2IaaRIe82EpyZwEi7Un"
-        }
-      ],
-      "duration_ms": 145961,
-      "name": "Graveyard Girlfriend",
-      "url": "https://open.spotify.com/track/4LEl8FxQNlUpGYT7fn9rEc"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Formula 666",
-        "url": "https://open.spotify.com/album/0Fd5terpOdaXIzlV5tn6Qd"
-      },
-      "artists": [
-        {
-          "name": "Sarah and the Safe Word",
-          "url": "https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3"
-        }
-      ],
-      "duration_ms": 216009,
-      "name": "Formula 666",
-      "url": "https://open.spotify.com/track/0AniATpGL5KElCpak9n05M"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Zombie Nation",
-        "url": "https://open.spotify.com/album/0OsmMp8K4RMY6BEWpJ9UZB"
-      },
-      "artists": [
-        {
-          "name": "The Brains",
-          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
-        }
-      ],
-      "duration_ms": 127506,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/2E8iFawFugRpE4VkKtTgID"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Bring It On!",
-        "url": "https://open.spotify.com/album/6zFe2Y2pjcoqgNrU8ThTFA"
-      },
-      "artists": [
-        {
-          "name": "Horrorpops",
-          "url": "https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ"
-        }
-      ],
-      "duration_ms": 247053,
-      "name": "Walk Like A Zombie",
-      "url": "https://open.spotify.com/track/79gMyKntkCECOnZSbZ5zcP"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "MODERN ARTillery (U.S. Version)",
-        "url": "https://open.spotify.com/album/19tTQZGysI1NfLDD9wWjrP"
-      },
-      "artists": [
-        {
-          "name": "The Living End",
-          "url": "https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/7z4DarPmWybFV4LUgx2Bot"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Our Way & The Highway",
-        "url": "https://open.spotify.com/album/3csHpaafwVPG118KJFaibU"
-      },
-      "artists": [
-        {
-          "name": "Koffin Kats",
-          "url": "https://open.spotify.com/artist/5SlxIxRqgFVFeSfpG6SHdf"
-        }
-      ],
-      "duration_ms": 144120,
-      "name": "The Way Of The Road",
-      "url": "https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Stereoghost",
-        "url": "https://open.spotify.com/album/2bK56ZDB5cHluxzAUGtF6l"
-      },
-      "artists": [
-        {
-          "name": "The Rosedales",
-          "url": "https://open.spotify.com/artist/1GCXkPIyVrSK5Xyitgw1dU"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Stars Are Falling",
-      "url": "https://open.spotify.com/track/49aaN0x4nDDLgB3zOqZFii"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Welcome Back To Insanity Hall",
-        "url": "https://open.spotify.com/album/4i5c1RomR4Wby8dpKljvHT"
-      },
-      "artists": [
-        {
-          "name": "Demented Are Go",
-          "url": "https://open.spotify.com/artist/7fvToIpjDfwtLhAoZdVF5W"
-        }
-      ],
-      "duration_ms": 148013,
-      "name": "Bodies in the Basement",
-      "url": "https://open.spotify.com/track/7K9mpvjH1YfGpn7vVys9nn"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Friday the 13th",
-        "url": "https://open.spotify.com/album/1vFKaljY8aSUu6UMKQPVEY"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 173053,
-      "name": "Nightmare on Elm Street",
-      "url": "https://open.spotify.com/track/0jrMrAKf4LAUETxwEJ12U0"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Retrofuture",
-        "url": "https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1"
-      },
-      "artists": [
-        {
-          "name": "Tiger Army",
-          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Beyond The Veil",
-      "url": "https://open.spotify.com/track/5wW50T3h2AnaQXp6rUALtg"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "She's a Ghost",
-        "url": "https://open.spotify.com/album/5k9IJ7EoaD0nNv431G01Fp"
-      },
-      "artists": [
-        {
-          "name": "The Other",
-          "url": "https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "She's a Ghost",
-      "url": "https://open.spotify.com/track/3tKoGCW6e2JExbv8QmyG6E"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Gravedigging",
-        "url": "https://open.spotify.com/album/17rPwDTozCphUe1mEFcKMd"
-      },
-      "artists": [
-        {
-          "name": "The Buttertones",
-          "url": "https://open.spotify.com/artist/1CMml5seBEaxQzlmaGxMPx"
-        }
-      ],
-      "duration_ms": 112386,
-      "name": "Two-Headed Shark",
-      "url": "https://open.spotify.com/track/4YDoYqJLLfQej9esfKOMUA"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Night Flier / Rainy Season",
-        "url": "https://open.spotify.com/album/4L2EHDk1U1ot7uKebwXYq9"
-      },
-      "artists": [
-        {
-          "name": "Bloodsucking Zombies from outer Space",
-          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Rainy Season",
-      "url": "https://open.spotify.com/track/4jjzm8vHpVk1YXWiAMtjKE"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Bail set at $6M",
-        "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
-      },
-      "artists": [
-        {
-          "name": "Batmobile",
-          "url": "https://open.spotify.com/artist/7qkq2G92f2yMJVejh6NBEJ"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Kiss me now",
-      "url": "https://open.spotify.com/track/5MZbDFmM6KMMXwRu5JIIez"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 208102,
-      "name": "Saturday Night",
-      "url": "https://open.spotify.com/track/3jXptpf8Z3aU9O1Bj6YCl0"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Yet Not Human",
-        "url": "https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn"
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/1l29bJ6ycJmy8yAS7N1rP3"
       },
       "artists": [
         {
@@ -408,95 +684,15 @@
           "url": "https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam"
         }
       ],
-      "duration_ms": 185958,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E"
+      "duration_ms": 204890,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/27AFFzQFa89pmV7PlJJKeW"
     },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/3ScQoSk30eCbhlZIB7lGGm"
-      },
-      "artists": [
-        {
-          "name": "Raygun Cowboys",
-          "url": "https://open.spotify.com/artist/2UKtH8VoQ4nJl77F9pBf9U"
-        }
-      ],
-      "duration_ms": 192957,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/64j5jHLIqjlM5Sw2fZkgOt"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Smoke 'em If You Got 'em",
-        "url": "https://open.spotify.com/album/2BBSIaVB4o0uO4zj8jadQp"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Horton Heat",
-          "url": "https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Psychobilly Freakout",
-      "url": "https://open.spotify.com/track/1KWWnlTbCv7jtwNyJFBgpW"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Death at My Door",
-        "url": "https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu"
-      },
-      "artists": [
-        {
-          "name": "The Creepshow",
-          "url": "https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt"
-        }
-      ],
-      "duration_ms": 130542,
-      "name": "Death at My Door",
-      "url": "https://open.spotify.com/track/3YY9GOjWTzEYwptFfomE1L"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Walk Through Walls",
-        "url": "https://open.spotify.com/album/5LtYw0nyRj8cznP49gOJVA"
-      },
-      "artists": [
-        {
-          "name": "The Atom Age",
-          "url": "https://open.spotify.com/artist/79UcvR6kEruu3AQ0gYOJUk"
-        }
-      ],
-      "duration_ms": 148766,
-      "name": "Walk Through Walls",
-      "url": "https://open.spotify.com/track/4QCeZwh8Df8L8GiSXHloKr"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Retrofuture",
-        "url": "https://open.spotify.com/album/5DbBmt6CrKpGsWnhgYKPX1"
-      },
-      "artists": [
-        {
-          "name": "Tiger Army",
-          "url": "https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi"
-        }
-      ],
-      "duration_ms": 196533,
-      "name": "Last Ride",
-      "url": "https://open.spotify.com/track/7vW7D1uPPSw6V7kt9VJL6S"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Haunted",
-        "url": "https://open.spotify.com/album/1CigInXplAqMF77IcdCdb5"
+        "name": "End of Days",
+        "url": "https://open.spotify.com/album/59fSdtWfww6FT0x1QzTs09"
       },
       "artists": [
         {
@@ -504,169 +700,57 @@
           "url": "https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W"
         }
       ],
-      "duration_ms": 238280,
-      "name": "Mark of the Devil",
-      "url": "https://open.spotify.com/track/4MvaRGF0s248WZV2w7JtIH"
+      "duration_ms": 219480,
+      "name": "End of Days",
+      "url": "https://open.spotify.com/track/5WXEzE8A6DrAtCJueWV9Js"
     },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "All These Fiendish Things",
-        "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
+        "name": "Not of This Earth",
+        "url": "https://open.spotify.com/album/5NDcttjYKFC9jYOnjEdDJ8"
       },
       "artists": [
         {
-          "name": "Bloodsucking Zombies from outer Space",
-          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+          "name": "Bloody Hammers",
+          "url": "https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW"
         }
       ],
-      "duration_ms": 209973,
-      "name": "Night Flier",
-      "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
+      "duration_ms": 202773,
+      "name": "Not of This Earth",
+      "url": "https://open.spotify.com/track/6xy4ql4ipxfRVjcJeY7ek8"
     },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
+        "name": "Hell Yeah!",
+        "url": "https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC"
       },
       "artists": [
         {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+          "name": "Horrorpops",
+          "url": "https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ"
         }
       ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
+      "duration_ms": 238333,
+      "name": "Miss Take",
+      "url": "https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y"
     },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "40",
-        "url": "https://open.spotify.com/album/3B3HvhuZSILz3RiALDEji2"
+        "name": "No Brain, No Pain",
+        "url": "https://open.spotify.com/album/6Tc9AZqtsPJLLzLbjyCBfO"
       },
       "artists": [
         {
-          "name": "Stray Cats",
-          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+          "name": "The Brains",
+          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
         }
       ],
-      "duration_ms": 189279,
-      "name": "Cry Danger",
-      "url": "https://open.spotify.com/track/2ELPuZjju8CpJ7o9QGLq31"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Mind Control",
-        "url": "https://open.spotify.com/album/1MFwVDPT3hggfu3WWWTeZ0"
-      },
-      "artists": [
-        {
-          "name": "Snash",
-          "url": "https://open.spotify.com/artist/34vKcVb8KHcZzOJgokh0Y4"
-        }
-      ],
-      "duration_ms": 134520,
-      "name": "Mind Control",
-      "url": "https://open.spotify.com/track/32weR7gT1q5DDwP9Zr7lSB"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Red Sky",
-        "url": "https://open.spotify.com/album/3ZjHe6g42gDQcvCzGB56LI"
-      },
-      "artists": [
-        {
-          "name": "The Hellfreaks",
-          "url": "https://open.spotify.com/artist/2gwo7JN0Ug8xOQZKevs5Pr"
-        }
-      ],
-      "duration_ms": 193339,
-      "name": "Red Sky",
-      "url": "https://open.spotify.com/track/0G3PNHYZlGdGqL2AUGjNip"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Death at My Door",
-        "url": "https://open.spotify.com/album/0LbmGABwr2WGTzNObgorLu"
-      },
-      "artists": [
-        {
-          "name": "The Creepshow",
-          "url": "https://open.spotify.com/artist/7rHGFWPlIoy2qOWBDLAWNt"
-        }
-      ],
-      "duration_ms": 198643,
-      "name": "Sticks & Stones",
-      "url": "https://open.spotify.com/track/6afQKJhKqdqTGomP1bbRT5"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "A Ticket into Underworld",
-        "url": "https://open.spotify.com/album/48eZIeLcXwdS3fugzVPJ0i"
-      },
-      "artists": [
-        {
-          "name": "Mad Sin",
-          "url": "https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Meattrain at Midnight",
-      "url": "https://open.spotify.com/track/43zkwuvDAcqUL1xKvZ2Ic3"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Rev",
-        "url": "https://open.spotify.com/album/5Bc3HNq80A8iemymZpRi6Q"
-      },
-      "artists": [
-        {
-          "name": "The Reverend Horton Heat",
-          "url": "https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/09OfkAO3hV9GeU78QTjGJ3"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Going Viral",
-        "url": "https://open.spotify.com/album/0rpJl9yw57Ly0cq3m0Wey1"
-      },
-      "artists": [
-        {
-          "name": "Toxic Zombie",
-          "url": "https://open.spotify.com/artist/6hSmJaHviUicWQYtRVApJ0"
-        }
-      ],
-      "duration_ms": 210589,
-      "name": "Growing up Monsters",
-      "url": "https://open.spotify.com/track/3IeYXAKmLoRotJ5zJX73y6"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Be My End",
-        "url": "https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Be My End",
-      "url": "https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe"
+      "duration_ms": 185280,
+      "name": "Black Jack Death Bet",
+      "url": "https://open.spotify.com/track/3QGVVYsXDDKMio22eEAvYI"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -691,130 +775,50 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Decompose",
-        "url": "https://open.spotify.com/album/1VbGdZdfljgKp8q9GVkFXG"
+        "name": "A Ticket into Underworld",
+        "url": "https://open.spotify.com/album/48eZIeLcXwdS3fugzVPJ0i"
       },
       "artists": [
         {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+          "name": "Mad Sin",
+          "url": "https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB"
         }
       ],
-      "duration_ms": 265144,
-      "name": "Decompose",
-      "url": "https://open.spotify.com/track/58QdFjoa1UytClOVUfnWqe"
+      "duration_ms": 215973,
+      "name": "Meattrain at Midnight",
+      "url": "https://open.spotify.com/track/43zkwuvDAcqUL1xKvZ2Ic3"
     },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "No Brain, No Pain",
-        "url": "https://open.spotify.com/album/6Tc9AZqtsPJLLzLbjyCBfO"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/3ScQoSk30eCbhlZIB7lGGm"
       },
       "artists": [
         {
-          "name": "The Brains",
-          "url": "https://open.spotify.com/artist/0ujJcXFGHsPI1zGj4UoTKH"
+          "name": "Raygun Cowboys",
+          "url": "https://open.spotify.com/artist/2UKtH8VoQ4nJl77F9pBf9U"
         }
       ],
-      "duration_ms": 185280,
-      "name": "Black Jack Death Bet",
-      "url": "https://open.spotify.com/track/3QGVVYsXDDKMio22eEAvYI"
+      "duration_ms": 192957,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/64j5jHLIqjlM5Sw2fZkgOt"
     },
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "King of the Waves",
-        "url": "https://open.spotify.com/album/5rrSKAMIuu3RpsjWbUEiDo"
+        "name": "The Harder the Fall",
+        "url": "https://open.spotify.com/album/1HROOBNot0QRdFglK0QvhS"
       },
       "artists": [
         {
-          "name": "Johnny and the Rotten",
-          "url": "https://open.spotify.com/artist/0UxpQSNKdoqA1TOdFnAcng"
+          "name": "Doghouse Rose",
+          "url": "https://open.spotify.com/artist/1sOSSlyQ46PYp22R2eneUa"
         }
       ],
-      "duration_ms": 215292,
-      "name": "King of the Waves",
-      "url": "https://open.spotify.com/track/56rkUIGHMGCfCFZOdpr57t"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "The Power of 3",
-        "url": "https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y"
-      },
-      "artists": [
-        {
-          "name": "The Meteors",
-          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "Rockin' at the House of Strange",
-      "url": "https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "End of Days",
-        "url": "https://open.spotify.com/album/59fSdtWfww6FT0x1QzTs09"
-      },
-      "artists": [
-        {
-          "name": "The Other",
-          "url": "https://open.spotify.com/artist/0a3Gua6g9TZBKlDSqebL7W"
-        }
-      ],
-      "duration_ms": 219480,
-      "name": "End of Days",
-      "url": "https://open.spotify.com/track/5WXEzE8A6DrAtCJueWV9Js"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Nature Calls",
-        "url": "https://open.spotify.com/album/5nCY4KY6SzC4toWSqrpZGj"
-      },
-      "artists": [
-        {
-          "name": "Iguana Death Cult",
-          "url": "https://open.spotify.com/artist/3krOZK9c8q5QOdt9QSdEV8"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "Nature Calls",
-      "url": "https://open.spotify.com/track/7sORA6qpf0gdbxfI1MatzV"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Never Again",
-        "url": "https://open.spotify.com/album/1l29bJ6ycJmy8yAS7N1rP3"
-      },
-      "artists": [
-        {
-          "name": "The Crimson Ghosts",
-          "url": "https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam"
-        }
-      ],
-      "duration_ms": 204890,
-      "name": "Never Again",
-      "url": "https://open.spotify.com/track/27AFFzQFa89pmV7PlJJKeW"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Come a Little Closer",
-        "url": "https://open.spotify.com/album/2tpW9z0UHx09Zqj0XEvvOk"
-      },
-      "artists": [
-        {
-          "name": "Andy and the rockets",
-          "url": "https://open.spotify.com/artist/6B1g25y7etRaKrODzS312a"
-        }
-      ],
-      "duration_ms": 178024,
-      "name": "Come A Little Closer",
-      "url": "https://open.spotify.com/track/5XBhdcdrUvVENLhSrj3Ho4"
+      "duration_ms": 182373,
+      "name": "The Rose",
+      "url": "https://open.spotify.com/track/7GjT9IzL739FUW9JnFP8tu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb2cYklA89lm"

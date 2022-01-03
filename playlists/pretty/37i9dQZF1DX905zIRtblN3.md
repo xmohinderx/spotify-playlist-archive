@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX905zIRtblN3.md) - [plain]
 
 > ¡Las poderosas y llegadoras de nuestra música! Al millón con Calibre 50, al millón con La Reina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,814 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,668 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

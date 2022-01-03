@@ -757,7 +757,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 175400,
       "name": "Feel Like Makin' Love",
       "url": "https://open.spotify.com/track/7gkboYtvhuXNS4EUwmFPcw"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 238146,
       "name": "Get Closer",
       "url": "https://open.spotify.com/track/5Eq0mobXSnyWu1dpE6lSdY"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 178000,
       "name": "Honey Come Back",
       "url": "https://open.spotify.com/track/26qDFDKrveLljfIX5ft061"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 193066,
       "name": "If Not You",
       "url": "https://open.spotify.com/track/4S8Py01f0V6R6pIoqwUDhh"
@@ -1888,6 +1888,24 @@
     },
     {
       "album": {
+        "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2021-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224013,
+      "name": "Northern Sky",
+      "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
+    },
+    {
+      "album": {
         "name": "Hit Highlights from the Chi-Lites",
         "url": "https://open.spotify.com/album/1qhpbSEbFvL8Lz0Qxe7CgF"
       },
@@ -1899,7 +1917,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 216280,
       "name": "Oh Girl",
       "url": "https://open.spotify.com/track/2vEjT4ggFNc8wQ8t0pkLKF"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 184973,
       "name": "Puppy Love",
       "url": "https://open.spotify.com/track/7HWH4kGaHR3ZwKNFPT4dSW"
@@ -2249,7 +2267,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228933,
       "name": "Sorry Seems To Be The Hardest Word",
       "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
@@ -2400,6 +2418,24 @@
     },
     {
       "album": {
+        "name": "Carly Simon",
+        "url": "https://open.spotify.com/album/2cuqP3kLRSgnjDmAN7SHA9"
+      },
+      "artists": [
+        {
+          "name": "Carly Simon",
+          "url": "https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258133,
+      "name": "That's The Way I've Always Heard It Should Be",
+      "url": "https://open.spotify.com/track/4jkn5PRfAJoKfXF0OPL7n7"
+    },
+    {
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -2483,7 +2519,7 @@
       ],
       "date_added": "2021-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 139226,
       "name": "The Morning After - Single Version",
       "url": "https://open.spotify.com/track/3gAdXCoPRBhIGRoa7XdyUq"

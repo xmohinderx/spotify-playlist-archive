@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 274586,
       "name": "Born in Dissonance",
       "url": "https://open.spotify.com/track/0s2jyCzxpTshZGC0w0wbL1"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 207293,
       "name": "By the Blood",
       "url": "https://open.spotify.com/track/0arNSonXPblVjCjts3kfV7"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 252468,
       "name": "Collapse",
       "url": "https://open.spotify.com/track/6oBjnOBqngXWsRuYY5eTnz"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 214560,
       "name": "Dead But Rising",
       "url": "https://open.spotify.com/track/0Xu8n8K2SEuhraFVD5jUtI"
@@ -1128,6 +1128,28 @@
     },
     {
       "album": {
+        "name": "Found In Far Away Places",
+        "url": "https://open.spotify.com/album/46uMdmTIh7xBxLJrFcFTbL"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        },
+        {
+          "name": "Jeremy Mckinnon",
+          "url": "https://open.spotify.com/artist/2pbDbO5s6Tx2EHmpvLFuLw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289188,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6pvtHYK8YwNDbfmKPljvIo"
+    },
+    {
+      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -1215,6 +1237,24 @@
       "duration_ms": 187670,
       "name": "Hell To Pay",
       "url": "https://open.spotify.com/track/3CH1wUFmm89RYy9v5W4jtk"
+    },
+    {
+      "album": {
+        "name": "At Heart",
+        "url": "https://open.spotify.com/album/0vnba3b6zUGsHoiVbtV6rO"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235640,
+      "name": "Hey Mister",
+      "url": "https://open.spotify.com/track/3ORgbqQVR5oj2QlX1nML8l"
     },
     {
       "album": {
@@ -1355,7 +1395,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 227647,
       "name": "I.H.E.",
       "url": "https://open.spotify.com/track/1c5FP1UuxzD4ZSoNoKmNfy"
@@ -1589,7 +1629,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 220368,
       "name": "Learn To Live",
       "url": "https://open.spotify.com/track/6zROcM9OvgYBjvnOnJ6nHE"
@@ -1751,7 +1791,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 157053,
       "name": "Middle Fingers Up",
       "url": "https://open.spotify.com/track/14ZX4MpuG9XW1MaZY5drY0"
@@ -1841,7 +1881,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 233933,
       "name": "No Way Out",
       "url": "https://open.spotify.com/track/6yHx2dNnWb1fEChGoulEVc"
@@ -1913,7 +1953,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 265613,
       "name": "One Man Army",
       "url": "https://open.spotify.com/track/0abHvyyQu4s82Vzq4z5vLI"
@@ -1949,7 +1989,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227864,
       "name": "Over It",
       "url": "https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO"
@@ -2003,7 +2043,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Proving Grounds",
       "url": "https://open.spotify.com/track/6wrJh8NPZxO9v68Hwr36Zg"
@@ -2021,7 +2061,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195790,
       "name": "Puppet Master",
       "url": "https://open.spotify.com/track/7Ehz2k1K2YJ5xbyAAfaPAa"
@@ -2183,7 +2223,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 207200,
       "name": "Royals",
       "url": "https://open.spotify.com/track/51OeSEP85etN0dhX9Vbp8v"
@@ -2273,7 +2313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 224794,
       "name": "Slaves Beyond Death",
       "url": "https://open.spotify.com/track/376M80F3cD767l9Xt1nZ3O"
@@ -2291,7 +2331,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 239493,
       "name": "Son of a Wolf",
       "url": "https://open.spotify.com/track/69A78zQYA5z0mqmkNZd7rz"
@@ -2345,7 +2385,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 262333,
       "name": "Still Echoes",
       "url": "https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9"
@@ -2381,7 +2421,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 226013,
       "name": "Strength of the Mind",
       "url": "https://open.spotify.com/track/6AjXt5W30GHH3pZPrYK6TH"
@@ -2507,7 +2547,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 230887,
       "name": "The Anomaly",
       "url": "https://open.spotify.com/track/0Bjyo7tRKigcNn29B1aCo2"

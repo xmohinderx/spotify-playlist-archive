@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 245573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
@@ -1499,7 +1499,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228213,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/7u93rCmIM9mBoT4mvfUBTZ"
@@ -1643,7 +1643,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/2DmNhvPUecofT7Zu7DJxS1"
@@ -2029,6 +2029,24 @@
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "album": {
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Jumpsuit",
+      "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
     },
     {
       "album": {
@@ -3985,7 +4003,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183853,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ"
@@ -4551,7 +4569,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 199253,
       "name": "Why Worry",
       "url": "https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF"

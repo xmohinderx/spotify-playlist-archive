@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 172500,
       "name": "A QUEDA",
       "url": "https://open.spotify.com/track/2s9BO8c0co0PmgBiUoTT17"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 140942,
       "name": "Batom de Cereja - Ao Vivo",
       "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
@@ -1455,6 +1455,28 @@
       "duration_ms": 188671,
       "name": "Desbloqueado - Ao Vivo",
       "url": "https://open.spotify.com/track/79Wou8NwYEFzTyDQudjENF"
+    },
+    {
+      "album": {
+        "name": "Deu Meia Noite, Eu Sumi, Geral Soltando Fogos",
+        "url": "https://open.spotify.com/album/0AlJZSnFCRXtEhgBQ2Gnre"
+      },
+      "artists": [
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        },
+        {
+          "name": "DJ MT7",
+          "url": "https://open.spotify.com/artist/5lomh7H0yuxEtZnvtSCHI1"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "Deu Meia Noite, Eu Sumi, Geral Soltando Fogos",
+      "url": "https://open.spotify.com/track/3hycwch1V1aCbKGlcfKg0I"
     },
     {
       "album": {
@@ -3573,7 +3595,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 170866,
       "name": "Motel Afrodite",
       "url": "https://open.spotify.com/track/6WxpU2F5gwTzwYsAalI6nI"
@@ -4885,7 +4907,7 @@
       ],
       "date_added": "2021-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 239928,
       "name": "Se For Amor",
       "url": "https://open.spotify.com/track/5F2xRvRFkxDvqdFtUNAEyw"
@@ -4969,7 +4991,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 267130,
       "name": "Sem D\u00f3",
       "url": "https://open.spotify.com/track/2AQJRDfQJbfgmTf5e62Czl"
@@ -5545,7 +5567,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 203158,
       "name": "Troca de Cal\u00e7ada",
       "url": "https://open.spotify.com/track/4AAIAVjSyiq1N7SXKkwXZe"
@@ -5683,7 +5705,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-08",
+      "date_removed": null,
       "duration_ms": 139528,
       "name": "Vamo Tomar Uma",
       "url": "https://open.spotify.com/track/452LVnTBjXYW3guqe3xiqI"

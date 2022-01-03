@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: Logic1000",
   "name": "EQUAL Global",
-  "num_followers": 828536,
+  "num_followers": 828496,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTEwOTgxNCwwMDAwMDAwMDFhODhmNTM5M2YyOTIwOGQwODNmMjllZjc1Mjk1MTRm",
+  "snapshot_id": "MTY0MTE3MDI4NywwMDAwMDAwMDhiNGI1OWFkYjg5YmQ5MTY0MDA2MDUyZTZmZGRhMDkz",
   "tracks": [
     {
       "added_at": "2021-12-11 01:39:19",
@@ -27,6 +27,22 @@
       "duration_ms": 193893,
       "name": "What You Like",
       "url": "https://open.spotify.com/track/0h6ENY9kDXxfbbfnX3onPR"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Meisjes Van Honing",
+        "url": "https://open.spotify.com/album/3UObXg8uHcVOWPH5nM523V"
+      },
+      "artists": [
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Meisjes Van Honing",
+      "url": "https://open.spotify.com/track/66dGbMxzOVbhv2CwnfA3MJ"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -67,22 +83,6 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Meisjes Van Honing",
-        "url": "https://open.spotify.com/album/3UObXg8uHcVOWPH5nM523V"
-      },
-      "artists": [
-        {
-          "name": "Pommelien Thijs",
-          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Meisjes Van Honing",
-      "url": "https://open.spotify.com/track/66dGbMxzOVbhv2CwnfA3MJ"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
         "name": "In De Nacht",
         "url": "https://open.spotify.com/album/6fyLVAtPIAPNc4twVtiyXo"
       },
@@ -99,102 +99,6 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Eco - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/28P2W9MunOGmfnDetyntYx"
-      },
-      "artists": [
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 174190,
-      "name": "Eco - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3WkTWK2VCy8R9Lzb8q6AgP"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "CEO",
-        "url": "https://open.spotify.com/album/3LJnIGIiyotvZIEmcEUznd"
-      },
-      "artists": [
-        {
-          "name": "Netta",
-          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-        }
-      ],
-      "duration_ms": 170774,
-      "name": "CEO",
-      "url": "https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "illusion",
-        "url": "https://open.spotify.com/album/6vF1DfRn78Kt7kzUELpxJH"
-      },
-      "artists": [
-        {
-          "name": "Lunace",
-          "url": "https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx"
-        }
-      ],
-      "duration_ms": 200530,
-      "name": "illusion",
-      "url": "https://open.spotify.com/track/0p5wnvG3ofWkm5MDraDX6h"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Yo Invito",
-        "url": "https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH"
-      },
-      "artists": [
-        {
-          "name": "Amaia",
-          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
-        }
-      ],
-      "duration_ms": 191114,
-      "name": "Yo Invito",
-      "url": "https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "\u6700\u96e3\u884c\u7684\u8def",
-        "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cheng",
-          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
-        }
-      ],
-      "duration_ms": 218917,
-      "name": "\u6700\u96e3\u884c\u7684\u8def",
-      "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "You're Not Harry Styles",
-        "url": "https://open.spotify.com/album/2syexb536heyUjkWkx7Kab"
-      },
-      "artists": [
-        {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
-        }
-      ],
-      "duration_ms": 176530,
-      "name": "You're Not Harry Styles",
-      "url": "https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
         "name": "Bad Little Thing",
         "url": "https://open.spotify.com/album/4BSIzDQVYki1Muj0QiwHJW"
       },
@@ -207,42 +111,6 @@
       "duration_ms": 143004,
       "name": "Bad Little Thing",
       "url": "https://open.spotify.com/track/1i722InMCT8ltWSn1M5fYE"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Niebo by\u0142o r\u00f3\u017cowe",
-        "url": "https://open.spotify.com/album/361lqwHWr1wDsFvp8AgP9s"
-      },
-      "artists": [
-        {
-          "name": "Ka\u015bka Sochacka",
-          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
-        }
-      ],
-      "duration_ms": 254383,
-      "name": "Niebo by\u0142o r\u00f3\u017cowe",
-      "url": "https://open.spotify.com/track/60KK0iXcaShxA55KXy1WcF"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "h\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq"
-      },
-      "artists": [
-        {
-          "name": "V\u0103n Mai H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
-        },
-        {
-          "name": "Negav",
-          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "H\u01b0\u01a1ng (feat. Negav)",
-      "url": "https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -271,234 +139,102 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi"
+        "name": "You're Not Harry Styles",
+        "url": "https://open.spotify.com/album/2syexb536heyUjkWkx7Kab"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk"
         }
       ],
-      "duration_ms": 199638,
-      "name": "365",
-      "url": "https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG"
+      "duration_ms": 176530,
+      "name": "You're Not Harry Styles",
+      "url": "https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Wish The Love Never Died",
-        "url": "https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP"
+        "name": "CEO",
+        "url": "https://open.spotify.com/album/3LJnIGIiyotvZIEmcEUznd"
       },
       "artists": [
         {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "name": "Netta",
+          "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
         }
       ],
-      "duration_ms": 181599,
-      "name": "Wish The Love Never Died",
-      "url": "https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK"
+      "duration_ms": 170774,
+      "name": "CEO",
+      "url": "https://open.spotify.com/track/0d1SYlJPC9ZiF9DKFS8ZnH"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Perreo Pa Las Nenas",
-        "url": "https://open.spotify.com/album/6JnN31WUQId1OkfiGqEKWd"
+        "name": "Yo Invito",
+        "url": "https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "Amaia",
+          "url": "https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Perreo Pa Las Nenas",
-      "url": "https://open.spotify.com/track/0MMfa6tiHQB0bfu4LQwqmp"
+      "duration_ms": 191114,
+      "name": "Yo Invito",
+      "url": "https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "\u041c\u0430\u043d\u0433\u043e",
-        "url": "https://open.spotify.com/album/0iw7nITN3ngyMfmvd1Q1Zd"
+        "name": "Birbirimize \u0130yi Gelmiyoruz",
+        "url": "https://open.spotify.com/album/5jiLN0CWAJDnjpnQ2XMJMv"
       },
       "artists": [
         {
-          "name": "ETOLUBOV",
-          "url": "https://open.spotify.com/artist/5rZcCYFGSeRDMOQcP7S5vn"
+          "name": "G\u00fcl\u00e7in Erg\u00fcl",
+          "url": "https://open.spotify.com/artist/5nxcBdJcaohXiCIMuQd200"
         }
       ],
-      "duration_ms": 151804,
-      "name": "\u041c\u0430\u043d\u0433\u043e",
-      "url": "https://open.spotify.com/track/2teOdusDjtMwfS01A7i6U3"
+      "duration_ms": 195710,
+      "name": "Birbirimize \u0130yi Gelmiyoruz",
+      "url": "https://open.spotify.com/track/1K53MNZNAn0icTmKGbzMRa"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Nada Com Ele",
-        "url": "https://open.spotify.com/album/1lAmd78tHxPeLzxrgf16lX"
+        "name": "Eco - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/28P2W9MunOGmfnDetyntYx"
       },
       "artists": [
         {
-          "name": "Blacci",
-          "url": "https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak"
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
         }
       ],
-      "duration_ms": 168136,
-      "name": "Nada Com Ele",
-      "url": "https://open.spotify.com/track/3DeFVvQ9jklfaXKxMGFAtW"
+      "duration_ms": 174190,
+      "name": "Eco - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3WkTWK2VCy8R9Lzb8q6AgP"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "\u96e8\u4e0d\u505c\u3002\u6d41 (\u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU"
+        "name": "h\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq"
       },
       "artists": [
         {
-          "name": "Shi Shi",
-          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
-        }
-      ],
-      "duration_ms": 265935,
-      "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Wait for Life",
-        "url": "https://open.spotify.com/album/12hatNWqCDyWNlkWvhm9GX"
-      },
-      "artists": [
-        {
-          "name": "Barbora Mochowa",
-          "url": "https://open.spotify.com/artist/68iFvJPW67sP3wfUBrwcvM"
-        }
-      ],
-      "duration_ms": 253680,
-      "name": "Wait for Life",
-      "url": "https://open.spotify.com/track/7f5aSQS3MIeqerJKbHtywz"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/0lTOcKW3sqR56ym8qK4m9h"
-      },
-      "artists": [
-        {
-          "name": "liesl-mae",
-          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
-        }
-      ],
-      "duration_ms": 214124,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/237S0tOk45SdG23Oh0bZBA"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "La \u00daltima Vez",
-        "url": "https://open.spotify.com/album/2zWsQaVxgUsCWxMkYsOqv2"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 227811,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/4oTbwq0ozVuwnkCuNntRnx"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Alcoh\u00f3lica Funcional",
-        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161953,
-      "name": "Alcoh\u00f3lica Funcional",
-      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "MAKE U DANCE",
-        "url": "https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep"
-      },
-      "artists": [
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
+          "name": "V\u0103n Mai H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
         },
         {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
         }
       ],
-      "duration_ms": 157253,
-      "name": "MAKE U DANCE",
-      "url": "https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Czy masz jak ja?",
-        "url": "https://open.spotify.com/album/3e4uOHJWH3HIo6Q0OzlAvZ"
-      },
-      "artists": [
-        {
-          "name": "Karolina Stanis\u0142awczyk",
-          "url": "https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Czy masz jak ja?",
-      "url": "https://open.spotify.com/track/4ggEwdFC2VoR2BXgR3qGwW"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
-      },
-      "artists": [
-        {
-          "name": "Leona Lewis",
-          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 215058,
-      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
-      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/1vZ7dIXeNdHJkUhT0lVf0E"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5YkXkfXWTE1pk6l2m78JnH"
+      "duration_ms": 210285,
+      "name": "H\u01b0\u01a1ng (feat. Negav)",
+      "url": "https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -523,190 +259,6 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/6GeMiynuj56geayA7AqRra"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0MJY6eEe0lCmMkONLSg7YX"
-      },
-      "artists": [
-        {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
-        }
-      ],
-      "duration_ms": 253246,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4A5QkBp4h8ju0WCdShljgX"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "hello TRINITY",
-        "url": "https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh"
-      },
-      "artists": [
-        {
-          "name": "Shye",
-          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
-        }
-      ],
-      "duration_ms": 191029,
-      "name": "CORDUROY",
-      "url": "https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Birbirimize \u0130yi Gelmiyoruz",
-        "url": "https://open.spotify.com/album/5jiLN0CWAJDnjpnQ2XMJMv"
-      },
-      "artists": [
-        {
-          "name": "G\u00fcl\u00e7in Erg\u00fcl",
-          "url": "https://open.spotify.com/artist/5nxcBdJcaohXiCIMuQd200"
-        }
-      ],
-      "duration_ms": 195710,
-      "name": "Birbirimize \u0130yi Gelmiyoruz",
-      "url": "https://open.spotify.com/track/1K53MNZNAn0icTmKGbzMRa"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "\u00faltimo y primero",
-        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 179377,
-      "name": "\u00faltimo y primero",
-      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Cos\u00ec Leggera",
-        "url": "https://open.spotify.com/album/0Rjhyjo9x4aI0siMTVlOlj"
-      },
-      "artists": [
-        {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
-        },
-        {
-          "name": "No Label",
-          "url": "https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx"
-        }
-      ],
-      "duration_ms": 173683,
-      "name": "Cos\u00ec Leggera",
-      "url": "https://open.spotify.com/track/27gcKMZcvsiwyVdo0XFZLB"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD"
-      },
-      "artists": [
-        {
-          "name": "Muthoni Drummer Queen",
-          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
-        }
-      ],
-      "duration_ms": 207569,
-      "name": "African Fever",
-      "url": "https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU"
-      },
-      "artists": [
-        {
-          "name": "Numcha",
-          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
-        }
-      ],
-      "duration_ms": 212187,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M"
-      },
-      "artists": [
-        {
-          "name": "Belle Mariano",
-          "url": "https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1"
-        }
-      ],
-      "duration_ms": 188186,
-      "name": "Tanging Dahilan",
-      "url": "https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "\u0412\u0420\u0415\u0414\u0418\u041d\u0410",
-        "url": "https://open.spotify.com/album/7xLJ1srg7cLX0bB5BKMV5g"
-      },
-      "artists": [
-        {
-          "name": "\u0430\u043b\u0451\u043d\u0430 \u0448\u0432\u0435\u0446.",
-          "url": "https://open.spotify.com/artist/7m9RH1V73dYjGv8RgGP39c"
-        }
-      ],
-      "duration_ms": 141716,
-      "name": "\u0432\u0440\u0435\u0434\u0438\u043d\u0430",
-      "url": "https://open.spotify.com/track/7z5d2KNHm2prczVHmSdWBz"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "T\u0159i te\u010dky",
-        "url": "https://open.spotify.com/album/2YyWekDi3HRk226aQQy0zo"
-      },
-      "artists": [
-        {
-          "name": "Berenika Kohoutov\u00e1",
-          "url": "https://open.spotify.com/artist/28ukt2qiT4J2XeLyZklllx"
-        }
-      ],
-      "duration_ms": 151800,
-      "name": "T\u0159i te\u010dky",
-      "url": "https://open.spotify.com/track/0PqdMzuPMXXkX9xtO9Hyhx"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
         "name": "Put\u00f3n",
         "url": "https://open.spotify.com/album/5u9eDID4HjmNnPoB6iYJRq"
       },
@@ -723,38 +275,50 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Heavenly Christmas, Vol. 2",
-        "url": "https://open.spotify.com/album/16LNyxhpM8ma4zm7BxZ4Hs"
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr"
       },
       "artists": [
         {
-          "name": "Despina Vandi",
-          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+          "name": "Falana",
+          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
         }
       ],
-      "duration_ms": 322773,
-      "name": "Xristougenna",
-      "url": "https://open.spotify.com/track/4Rc8EDUqOILTxe7Hzk5BHq"
+      "duration_ms": 226960,
+      "name": "Sweet Adetola",
+      "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "searching for nirvana",
-        "url": "https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28"
+        "name": "365",
+        "url": "https://open.spotify.com/album/66ATAuPBpHYXytPUXzCCwi"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        },
-        {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
         }
       ],
-      "duration_ms": 126633,
-      "name": "girls (feat. phem)",
-      "url": "https://open.spotify.com/track/4Y1cqXFt1JgdzodgqqQskd"
+      "duration_ms": 199638,
+      "name": "365",
+      "url": "https://open.spotify.com/track/7j01rdHvXniCA8f1x0NTUG"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0MJY6eEe0lCmMkONLSg7YX"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 253246,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4A5QkBp4h8ju0WCdShljgX"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -783,242 +347,126 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Who Are They",
-        "url": "https://open.spotify.com/album/4nsrfHKmnYyS7iUa3MqVQx"
+        "name": "MAKE U DANCE",
+        "url": "https://open.spotify.com/album/1UoyICgBwsGpylrHLj5zep"
       },
       "artists": [
         {
-          "name": "Danai Nielsen",
-          "url": "https://open.spotify.com/artist/1V81ZJyFmiadP8c8ra4kDa"
-        }
-      ],
-      "duration_ms": 242624,
-      "name": "Who Are They",
-      "url": "https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/1HREWIDOSN2kOOq0FtPQVr"
-      },
-      "artists": [
-        {
-          "name": "Falana",
-          "url": "https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Sweet Adetola",
-      "url": "https://open.spotify.com/track/7hLyAxfA4obdEW8DXMsqpU"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Sweet Dream, Sweet Little Thing",
-        "url": "https://open.spotify.com/album/1eOZAIj5bU0i3JtgW7U7Pt"
-      },
-      "artists": [
-        {
-          "name": "Meda Kawu",
-          "url": "https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr"
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/3M1kgHOpPruu1uBymBHF3r"
         },
         {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
         }
       ],
-      "duration_ms": 261216,
-      "name": "Sweet Dream, Sweet Little Thing",
-      "url": "https://open.spotify.com/track/27OuHuNDnWpmqmgd9ZKEZq"
+      "duration_ms": 157253,
+      "name": "MAKE U DANCE",
+      "url": "https://open.spotify.com/track/1vozwNInCvxQaBrc5a66eo"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "call me when you wake up",
-        "url": "https://open.spotify.com/album/5lAIULp9wE4dQnmgJsHzAt"
+        "name": "Wish The Love Never Died",
+        "url": "https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP"
       },
       "artists": [
         {
-          "name": "TALA",
-          "url": "https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR"
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
         }
       ],
-      "duration_ms": 206511,
-      "name": "sandcastles",
-      "url": "https://open.spotify.com/track/5hNKmPWC97RxTXpgy3kf6x"
+      "duration_ms": 181599,
+      "name": "Wish The Love Never Died",
+      "url": "https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "O Bom Pastor",
-        "url": "https://open.spotify.com/album/1c61juuE8iKDkl5XSlInd7"
+        "name": "Czy masz jak ja?",
+        "url": "https://open.spotify.com/album/3e4uOHJWH3HIo6Q0OzlAvZ"
       },
       "artists": [
         {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+          "name": "Karolina Stanis\u0142awczyk",
+          "url": "https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t"
         }
       ],
-      "duration_ms": 323850,
-      "name": "O Bom Pastor",
-      "url": "https://open.spotify.com/track/7djOFQprGO89J8o6OTFEzf"
+      "duration_ms": 165500,
+      "name": "Czy masz jak ja?",
+      "url": "https://open.spotify.com/track/4ggEwdFC2VoR2BXgR3qGwW"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e1b\u0e32\u0e01",
-        "url": "https://open.spotify.com/album/1huOqfF8rkuN6xcmr95bCE"
+        "name": "Cos\u00ec Leggera",
+        "url": "https://open.spotify.com/album/0Rjhyjo9x4aI0siMTVlOlj"
       },
       "artists": [
         {
-          "name": "Tai Orathai",
-          "url": "https://open.spotify.com/artist/03PmA3VuwfyZVA0rel561k"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e1b\u0e32\u0e01",
-      "url": "https://open.spotify.com/track/0rg1lwrCrgk6QtWy36F08h"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 203425,
-      "name": "ALL ALONG",
-      "url": "https://open.spotify.com/track/11Q12uGLdf1ZmbcCbevWAY"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "PYE LIFE",
-        "url": "https://open.spotify.com/album/7jivrcL7kJWstKJBanAjQh"
-      },
-      "artists": [
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        }
-      ],
-      "duration_ms": 187201,
-      "name": "PYE LIFE",
-      "url": "https://open.spotify.com/track/575UVLiKt2Cpv4Nx5sLs9Q"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Bitches brauchen Rap",
-        "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
-      },
-      "artists": [
-        {
-          "name": "Shirin David",
-          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Man's World",
-      "url": "https://open.spotify.com/track/6qbuTJchJw2MeEAvjWAhNj"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "TOLKIN YIT",
-        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 141407,
-      "name": "TOLKIN YIT",
-      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "Vital",
-        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
-      },
-      "artists": [
-        {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
-        }
-      ],
-      "duration_ms": 182062,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
-    },
-    {
-      "added_at": "2021-12-11 01:39:19",
-      "album": {
-        "name": "La Puteria",
-        "url": "https://open.spotify.com/album/5gROPnEVSnEv0pYUyaqTI1"
-      },
-      "artists": [
-        {
-          "name": "Lizz",
-          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
         },
         {
-          "name": "Tomasa del Real",
-          "url": "https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD"
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        },
+        {
+          "name": "No Label",
+          "url": "https://open.spotify.com/artist/7eSQIwqpU7HGvEQVgcMqQx"
         }
       ],
-      "duration_ms": 214088,
-      "name": "La Puteria",
-      "url": "https://open.spotify.com/track/2WRvcn9pk7bYB0G4mPPwLp"
+      "duration_ms": 173683,
+      "name": "Cos\u00ec Leggera",
+      "url": "https://open.spotify.com/track/27gcKMZcvsiwyVdo0XFZLB"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Ng\u00e0y T\u1eadn Th\u1ebf (feat. Da LAB, Touliver)",
-        "url": "https://open.spotify.com/album/2XisxHC5bOgtKg39SXZLZF"
+        "name": "Wait for Life",
+        "url": "https://open.spotify.com/album/12hatNWqCDyWNlkWvhm9GX"
       },
       "artists": [
         {
-          "name": "T\u00f3c Ti\u00ean",
-          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
-        },
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        },
-        {
-          "name": "Touliver",
-          "url": "https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M"
+          "name": "Barbora Mochowa",
+          "url": "https://open.spotify.com/artist/68iFvJPW67sP3wfUBrwcvM"
         }
       ],
-      "duration_ms": 232166,
-      "name": "Ng\u00e0y T\u1eadn Th\u1ebf (feat. Da LAB, Touliver)",
-      "url": "https://open.spotify.com/track/4Tf9rW9ZTbvSKxV4ocXBhB"
+      "duration_ms": 253680,
+      "name": "Wait for Life",
+      "url": "https://open.spotify.com/track/7f5aSQS3MIeqerJKbHtywz"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW"
+        "name": "Niebo by\u0142o r\u00f3\u017cowe",
+        "url": "https://open.spotify.com/album/361lqwHWr1wDsFvp8AgP9s"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Ka\u015bka Sochacka",
+          "url": "https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN"
         }
       ],
-      "duration_ms": 210041,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7"
+      "duration_ms": 254383,
+      "name": "Niebo by\u0142o r\u00f3\u017cowe",
+      "url": "https://open.spotify.com/track/60KK0iXcaShxA55KXy1WcF"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Nada Com Ele",
+        "url": "https://open.spotify.com/album/1lAmd78tHxPeLzxrgf16lX"
+      },
+      "artists": [
+        {
+          "name": "Blacci",
+          "url": "https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak"
+        }
+      ],
+      "duration_ms": 168136,
+      "name": "Nada Com Ele",
+      "url": "https://open.spotify.com/track/3DeFVvQ9jklfaXKxMGFAtW"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -1039,6 +487,38 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/6GeMiynuj56geayA7AqRra"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/4fWY8QZsAhEF0WeI20QhMj"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "illusion",
+        "url": "https://open.spotify.com/album/6vF1DfRn78Kt7kzUELpxJH"
+      },
+      "artists": [
+        {
+          "name": "Lunace",
+          "url": "https://open.spotify.com/artist/5U8bVQaRanq5zSEcFT1inx"
+        }
+      ],
+      "duration_ms": 200530,
+      "name": "illusion",
+      "url": "https://open.spotify.com/track/0p5wnvG3ofWkm5MDraDX6h"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
         "name": "Put You In Line",
         "url": "https://open.spotify.com/album/0wni4sPnNeBD4SgXrRINys"
       },
@@ -1055,34 +535,346 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "HARDCORE HAPPY",
-        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
+        "name": "\u96e8\u4e0d\u505c\u3002\u6d41 (\u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU"
       },
       "artists": [
         {
-          "name": "THE BLOSSOM",
-          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
         }
       ],
-      "duration_ms": 169400,
-      "name": "HARDCORE HAPPY",
-      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
+      "duration_ms": 265935,
+      "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
     },
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "TARJETA GOLD",
-        "url": "https://open.spotify.com/album/4hCx1wdfVDmZPRwxiqB4W0"
+        "name": "T\u0159i te\u010dky",
+        "url": "https://open.spotify.com/album/2YyWekDi3HRk226aQQy0zo"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "Berenika Kohoutov\u00e1",
+          "url": "https://open.spotify.com/artist/28ukt2qiT4J2XeLyZklllx"
         }
       ],
-      "duration_ms": 185336,
-      "name": "TARJETA GOLD",
-      "url": "https://open.spotify.com/track/6PQC4GNmRv0dL3PCJuKMia"
+      "duration_ms": 151800,
+      "name": "T\u0159i te\u010dky",
+      "url": "https://open.spotify.com/track/0PqdMzuPMXXkX9xtO9Hyhx"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "\u0412\u0420\u0415\u0414\u0418\u041d\u0410",
+        "url": "https://open.spotify.com/album/7xLJ1srg7cLX0bB5BKMV5g"
+      },
+      "artists": [
+        {
+          "name": "\u0430\u043b\u0451\u043d\u0430 \u0448\u0432\u0435\u0446.",
+          "url": "https://open.spotify.com/artist/7m9RH1V73dYjGv8RgGP39c"
+        }
+      ],
+      "duration_ms": 141716,
+      "name": "\u0432\u0440\u0435\u0434\u0438\u043d\u0430",
+      "url": "https://open.spotify.com/track/7z5d2KNHm2prczVHmSdWBz"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "\u041c\u0430\u043d\u0433\u043e",
+        "url": "https://open.spotify.com/album/0iw7nITN3ngyMfmvd1Q1Zd"
+      },
+      "artists": [
+        {
+          "name": "ETOLUBOV",
+          "url": "https://open.spotify.com/artist/5rZcCYFGSeRDMOQcP7S5vn"
+        }
+      ],
+      "duration_ms": 151804,
+      "name": "\u041c\u0430\u043d\u0433\u043e",
+      "url": "https://open.spotify.com/track/2teOdusDjtMwfS01A7i6U3"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/59aMdKZVNkLZzYHkg9YIwU"
+      },
+      "artists": [
+        {
+          "name": "Numcha",
+          "url": "https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d"
+        }
+      ],
+      "duration_ms": 212187,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Heavenly Christmas, Vol. 2",
+        "url": "https://open.spotify.com/album/16LNyxhpM8ma4zm7BxZ4Hs"
+      },
+      "artists": [
+        {
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        }
+      ],
+      "duration_ms": 322773,
+      "name": "Xristougenna",
+      "url": "https://open.spotify.com/track/4Rc8EDUqOILTxe7Hzk5BHq"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Who Are They",
+        "url": "https://open.spotify.com/album/4nsrfHKmnYyS7iUa3MqVQx"
+      },
+      "artists": [
+        {
+          "name": "Danai Nielsen",
+          "url": "https://open.spotify.com/artist/1V81ZJyFmiadP8c8ra4kDa"
+        }
+      ],
+      "duration_ms": 242624,
+      "name": "Who Are They",
+      "url": "https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/0lTOcKW3sqR56ym8qK4m9h"
+      },
+      "artists": [
+        {
+          "name": "liesl-mae",
+          "url": "https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0"
+        }
+      ],
+      "duration_ms": 214124,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/237S0tOk45SdG23Oh0bZBA"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/1vZ7dIXeNdHJkUhT0lVf0E"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5YkXkfXWTE1pk6l2m78JnH"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "La \u00daltima Vez",
+        "url": "https://open.spotify.com/album/2zWsQaVxgUsCWxMkYsOqv2"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 227811,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/4oTbwq0ozVuwnkCuNntRnx"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "hello TRINITY",
+        "url": "https://open.spotify.com/album/03h1vbYJqvoI1fpnBDWuvh"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "duration_ms": 191029,
+      "name": "CORDUROY",
+      "url": "https://open.spotify.com/track/6UWr3nxjlOJ5j4dwA8qIwf"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "O Bom Pastor",
+        "url": "https://open.spotify.com/album/1c61juuE8iKDkl5XSlInd7"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 323850,
+      "name": "O Bom Pastor",
+      "url": "https://open.spotify.com/track/7djOFQprGO89J8o6OTFEzf"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Perreo Pa Las Nenas",
+        "url": "https://open.spotify.com/album/6JnN31WUQId1OkfiGqEKWd"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Perreo Pa Las Nenas",
+      "url": "https://open.spotify.com/track/0MMfa6tiHQB0bfu4LQwqmp"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "\u00faltimo y primero",
+        "url": "https://open.spotify.com/album/6Vz1ySq6ONBmTyR95eluUT"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 179377,
+      "name": "\u00faltimo y primero",
+      "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+        "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 215058,
+      "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
+      "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD"
+      },
+      "artists": [
+        {
+          "name": "Muthoni Drummer Queen",
+          "url": "https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB"
+        }
+      ],
+      "duration_ms": 207569,
+      "name": "African Fever",
+      "url": "https://open.spotify.com/track/4AvCMabzghnW8gXLyrGUYu"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M"
+      },
+      "artists": [
+        {
+          "name": "Belle Mariano",
+          "url": "https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1"
+        }
+      ],
+      "duration_ms": 188186,
+      "name": "Tanging Dahilan",
+      "url": "https://open.spotify.com/track/23sa0BogsmnZXkXT7bHDYK"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Bitches brauchen Rap",
+        "url": "https://open.spotify.com/album/1ip2dYNZGfpdV5wass2xQp"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/6qbuTJchJw2MeEAvjWAhNj"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv"
+      },
+      "artists": [
+        {
+          "name": "Grace Aimi",
+          "url": "https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX"
+        }
+      ],
+      "duration_ms": 245853,
+      "name": "Are You Okay?",
+      "url": "https://open.spotify.com/track/3PUaD0ghcL0160tlyDYlCg"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "searching for nirvana",
+        "url": "https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 126633,
+      "name": "girls (feat. phem)",
+      "url": "https://open.spotify.com/track/4Y1cqXFt1JgdzodgqqQskd"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Alcoh\u00f3lica Funcional",
+        "url": "https://open.spotify.com/album/7C4hHq1P0CeazLLqIitR7z"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161953,
+      "name": "Alcoh\u00f3lica Funcional",
+      "url": "https://open.spotify.com/track/4lA24fgAOX0nRHUPzI2Fz3"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -1107,18 +899,138 @@
     {
       "added_at": "2021-12-11 01:39:19",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv"
+        "name": "\u6700\u96e3\u884c\u7684\u8def",
+        "url": "https://open.spotify.com/album/5jJTEx6QbocPAFgiMx1MEJ"
       },
       "artists": [
         {
-          "name": "Grace Aimi",
-          "url": "https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX"
+          "name": "Joyce Cheng",
+          "url": "https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV"
         }
       ],
-      "duration_ms": 245853,
-      "name": "Are You Okay?",
-      "url": "https://open.spotify.com/track/3PUaD0ghcL0160tlyDYlCg"
+      "duration_ms": 218917,
+      "name": "\u6700\u96e3\u884c\u7684\u8def",
+      "url": "https://open.spotify.com/track/15Df9sWQ3zFhc5bsEM293n"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/4iZOHFX2SszM6fuopbHDHW"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 210041,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/3EZRaK5v9Pz5AV7maEQsD7"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "PYE LIFE",
+        "url": "https://open.spotify.com/album/7jivrcL7kJWstKJBanAjQh"
+      },
+      "artists": [
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "duration_ms": 187201,
+      "name": "PYE LIFE",
+      "url": "https://open.spotify.com/track/575UVLiKt2Cpv4Nx5sLs9Q"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Sweet Dream, Sweet Little Thing",
+        "url": "https://open.spotify.com/album/1eOZAIj5bU0i3JtgW7U7Pt"
+      },
+      "artists": [
+        {
+          "name": "Meda Kawu",
+          "url": "https://open.spotify.com/artist/2Fn8lD5ZQhmXzQOAmTEppr"
+        },
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 261216,
+      "name": "Sweet Dream, Sweet Little Thing",
+      "url": "https://open.spotify.com/track/27OuHuNDnWpmqmgd9ZKEZq"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "call me when you wake up",
+        "url": "https://open.spotify.com/album/5lAIULp9wE4dQnmgJsHzAt"
+      },
+      "artists": [
+        {
+          "name": "TALA",
+          "url": "https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "sandcastles",
+      "url": "https://open.spotify.com/track/5hNKmPWC97RxTXpgy3kf6x"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "La Puteria",
+        "url": "https://open.spotify.com/album/5gROPnEVSnEv0pYUyaqTI1"
+      },
+      "artists": [
+        {
+          "name": "Lizz",
+          "url": "https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6"
+        },
+        {
+          "name": "Tomasa del Real",
+          "url": "https://open.spotify.com/artist/3Dz4sliAAIVOlALfHW9TtD"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "La Puteria",
+      "url": "https://open.spotify.com/track/2WRvcn9pk7bYB0G4mPPwLp"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "HARDCORE HAPPY",
+        "url": "https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG"
+      },
+      "artists": [
+        {
+          "name": "THE BLOSSOM",
+          "url": "https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "HARDCORE HAPPY",
+      "url": "https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -1135,6 +1047,78 @@
       "duration_ms": 174846,
       "name": "Now You See Me",
       "url": "https://open.spotify.com/track/6Oex5FIRjSH56Q1e3Z5JFA"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7E3i95vLu92apiebOiFbAL"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 203425,
+      "name": "ALL ALONG",
+      "url": "https://open.spotify.com/track/11Q12uGLdf1ZmbcCbevWAY"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "TOLKIN YIT",
+        "url": "https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 141407,
+      "name": "TOLKIN YIT",
+      "url": "https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e1b\u0e32\u0e01",
+        "url": "https://open.spotify.com/album/1huOqfF8rkuN6xcmr95bCE"
+      },
+      "artists": [
+        {
+          "name": "Tai Orathai",
+          "url": "https://open.spotify.com/artist/03PmA3VuwfyZVA0rel561k"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "\u0e25\u0e37\u0e21\u0e44\u0e14\u0e49\u0e41\u0e15\u0e48\u0e1b\u0e32\u0e01",
+      "url": "https://open.spotify.com/track/0rg1lwrCrgk6QtWy36F08h"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "Ng\u00e0y T\u1eadn Th\u1ebf (feat. Da LAB, Touliver)",
+        "url": "https://open.spotify.com/album/2XisxHC5bOgtKg39SXZLZF"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        },
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Touliver",
+          "url": "https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M"
+        }
+      ],
+      "duration_ms": 232166,
+      "name": "Ng\u00e0y T\u1eadn Th\u1ebf (feat. Da LAB, Touliver)",
+      "url": "https://open.spotify.com/track/4Tf9rW9ZTbvSKxV4ocXBhB"
     },
     {
       "added_at": "2021-12-11 01:39:19",
@@ -1171,6 +1155,22 @@
       "duration_ms": 203363,
       "name": "\u6700\u9ad8\u54c1\u8cea\u975c\u6084\u6084",
       "url": "https://open.spotify.com/track/6fxjnz8unvpHk5hRKkKYhc"
+    },
+    {
+      "added_at": "2021-12-11 01:39:19",
+      "album": {
+        "name": "TARJETA GOLD",
+        "url": "https://open.spotify.com/album/4hCx1wdfVDmZPRwxiqB4W0"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 185336,
+      "name": "TARJETA GOLD",
+      "url": "https://open.spotify.com/track/6PQC4GNmRv0dL3PCJuKMia"
     },
     {
       "added_at": "2021-12-11 01:39:19",

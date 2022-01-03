@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 159452,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/31ogqmalNGYOuRtuT7fJKg"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 166973,
       "name": "club - ballerini album version",
       "url": "https://open.spotify.com/track/3nCoIIsNggk2iJ8YxleLXZ"
@@ -293,7 +293,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 173195,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198479,
       "name": "Dust",
       "url": "https://open.spotify.com/track/7gKB72lW18lE0pfo9GMzMJ"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 263053,
       "name": "Fall On Me",
       "url": "https://open.spotify.com/track/3t7PAG8ByriTrDNWSDCP1x"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205462,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6sHxpnCerm9M6A5zaFFNfs"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 231666,
       "name": "Made It Home",
       "url": "https://open.spotify.com/track/1Wz2Cy5cDNOKgExGdmejjI"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 212040,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/5FgPwJ7Nh2FVmIXviKl2VF"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 174586,
       "name": "Milk And Honey",
       "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
@@ -1929,7 +1929,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 218826,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/614GWtz7F9A61E9OPZqNkU"
@@ -2207,6 +2207,28 @@
       "duration_ms": 281546,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/1zdhLwuduTGwGSlJSowTzA"
+    },
+    {
+      "album": {
+        "name": "Wolves Don't Live by the Rules (feat. Joe Grass)",
+        "url": "https://open.spotify.com/album/2tvFcSOoh3e01NJx7pVrkp"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        },
+        {
+          "name": "Joe Grass",
+          "url": "https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "Wolves Don't Live by the Rules (feat Joe Grass)",
+      "url": "https://open.spotify.com/track/61z2qry5ZoEHwuSZ17V63k"
     },
     {
       "album": {

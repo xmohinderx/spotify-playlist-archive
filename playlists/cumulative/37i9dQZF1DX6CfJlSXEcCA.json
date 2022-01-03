@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 204761,
       "name": "ABrandNewDay",
       "url": "https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 154293,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/1IZRDWWDyVmfmpenjaLzLB"
@@ -344,6 +344,24 @@
     },
     {
       "album": {
+        "name": "\u30b9\u30c8\u30ea\u30fc\u30c8\u30d5\u30a1\u30a4\u30bf\u30fcIII \u30b5\u30fc\u30c9\u30b9\u30c8\u30e9\u30a4\u30af \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6SoRVUwpD4odggcEThCInH"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164640,
+      "name": "Gouki Stage -KILLING MOON-",
+      "url": "https://open.spotify.com/track/0MGFdCAxtdgIZGLWMLZNwM"
+    },
+    {
+      "album": {
         "name": "\u30ed\u30c3\u30af\u30de\u30f3X3 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
         "url": "https://open.spotify.com/album/4RijHi8wFnQSdYt1TvQIpw"
       },
@@ -373,7 +391,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 223560,
       "name": "Guile's Theme",
       "url": "https://open.spotify.com/track/7M6nNNNY64iudc2TDijFpv"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 60586,
       "name": "Opening(\u30d1\u30ef\u30fc\u30c9\u30ae\u30a2\u3088\u308a)",
       "url": "https://open.spotify.com/track/5SgC1qbSdw6d5AgNyU31dw"
@@ -784,6 +802,24 @@
     },
     {
       "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "T-B",
+      "url": "https://open.spotify.com/track/6GWX6FRxeui0pIcfMFsUCU"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30d7\u30b3\u30f3\u30a2\u30fc\u30b1\u30fc\u30c9\u30b9\u30bf\u30b8\u30a2\u30e0 \u30df\u30cb\u30a2\u30eb\u30d0\u30e0",
         "url": "https://open.spotify.com/album/1qSeVN4W7UYymi9TZzwyHI"
       },
@@ -795,7 +831,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249333,
       "name": "TeenageBlues",
       "url": "https://open.spotify.com/track/6UXsvQPymtQBhc4q83fT3O"
@@ -1235,7 +1271,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 161133,
       "name": "\u7dbe\u91cc\u771f\u5bb5 \u301c\u9006\u8ee2\u59c9\u59b9\u306e\u30c6\u30fc\u30de 2001",
       "url": "https://open.spotify.com/track/1L84WnMrvTg84ilWBnSv4e"

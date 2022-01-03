@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 138857,
       "name": "buckshot boy",
       "url": "https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 152389,
       "name": "Children of The Dark",
       "url": "https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 129339,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 177326,
       "name": "Day I Die",
       "url": "https://open.spotify.com/track/1iprDFClQB6LyLCtihRwtH"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 160471,
       "name": "Green Squirrel in Pretty Bad Shape",
       "url": "https://open.spotify.com/track/33r1jonOpYUyWrk30ZeKHj"
@@ -504,6 +504,24 @@
     },
     {
       "album": {
+        "name": "Hate Me",
+        "url": "https://open.spotify.com/album/1XTGnMBP75w3lVdfWYIi4c"
+      },
+      "artists": [
+        {
+          "name": "Layto",
+          "url": "https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Hate Me",
+      "url": "https://open.spotify.com/track/1Lk13k8L1NPszPjKoNio3G"
+    },
+    {
+      "album": {
         "name": "Pink Elephant",
         "url": "https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu"
       },
@@ -515,7 +533,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 128983,
       "name": "Her",
       "url": "https://open.spotify.com/track/7AKWV3l6tVrhLj9nstvdHg"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 190239,
       "name": "Imprint",
       "url": "https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 196956,
       "name": "In the Dark Times",
       "url": "https://open.spotify.com/track/6FzjrbBVDbUwY5jN1RiqvB"
@@ -804,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/4yjQ37OaKDFisxclW7x6sl"
+      },
+      "artists": [
+        {
+          "name": "Yung'cid",
+          "url": "https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151908,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/3mkXhFOYSb3O52x70Pj9Z7"
+    },
+    {
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -815,10 +851,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 240206,
       "name": "love song",
       "url": "https://open.spotify.com/track/0DZr4tVoYT3rUJzm9w15Lg"
+    },
+    {
+      "album": {
+        "name": "Meant to be",
+        "url": "https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8"
+      },
+      "artists": [
+        {
+          "name": "idkjack",
+          "url": "https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX"
+        },
+        {
+          "name": "ylm shwty",
+          "url": "https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159212,
+      "name": "Meant to be",
+      "url": "https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm"
     },
     {
       "album": {
@@ -891,7 +949,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 174472,
       "name": "My Chemical Romance",
       "url": "https://open.spotify.com/track/1FnKqa450Xr7HXkHV1ILem"
@@ -909,7 +967,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 205723,
       "name": "NO VANITY",
       "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
@@ -1119,7 +1177,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 168653,
       "name": "problems",
       "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
@@ -1155,7 +1213,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 103846,
       "name": "relax and float downstream",
       "url": "https://open.spotify.com/track/4yk8K9Mkjxxwv16sjzEGfs"
@@ -1195,7 +1253,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 215266,
       "name": "Skin",
       "url": "https://open.spotify.com/track/57aXGko6xZws5P5Z8SGNds"
@@ -1267,7 +1325,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 188012,
       "name": "Teenage Heartbreak",
       "url": "https://open.spotify.com/track/0skv6CWu2KWa97zeAFaSTb"
@@ -1321,7 +1379,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 147258,
       "name": "There's Nowhere Better Than This",
       "url": "https://open.spotify.com/track/0YRtaQuU5j8qiCBCRQYwf3"
@@ -1375,7 +1433,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 214320,
       "name": "WAYWURD sON",
       "url": "https://open.spotify.com/track/1vn5HbJduxB1ae0QjV2Wm7"

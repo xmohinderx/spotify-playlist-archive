@@ -82,6 +82,28 @@
     },
     {
       "album": {
+        "name": "Bollywood Best of 90's",
+        "url": "https://open.spotify.com/album/7kHZdUygrwvLf9su1SjINW"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        }
+      ],
+      "date_added": "2021-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475253,
+      "name": "Agar Zindagi Ho (From \"Balmaa\")",
+      "url": "https://open.spotify.com/track/49DbnlJQz1ntKfCz5Q46LZ"
+    },
+    {
+      "album": {
         "name": "Pyaar To Hona Hi Tha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6pEHb1MG9U5UZJK0rQ2OUX"
       },
@@ -179,7 +201,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 250493,
       "name": "Chhod Do Aanchal Zamana Kya Kahega",
       "url": "https://open.spotify.com/track/4gSg57VPQCijuhSlyGq1hN"
@@ -257,7 +279,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 314253,
       "name": "Chura Liya Hai Tumne Jo Dil Ko With Dialogues",
       "url": "https://open.spotify.com/track/4G7mYDYTIOKFvQ12HSRwNE"
@@ -327,7 +349,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 508368,
       "name": "Dekha Teri Mast Nigahon Mein (From \"Khiladi\")",
       "url": "https://open.spotify.com/track/2wABF5mVSKA2F16EHZCHfy"
@@ -733,7 +755,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 353106,
       "name": "Jaane Jaan Dhoondata - From \"Jawani Diwani\"",
       "url": "https://open.spotify.com/track/6Fdg2TXeZes5rSYYfrJ1hV"
@@ -877,7 +899,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 389160,
       "name": "Khatouba",
       "url": "https://open.spotify.com/track/62CTCK5zMY2XALqC1xFeZ1"
@@ -1105,7 +1127,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 398973,
       "name": "Mera Kuchh Samaan",
       "url": "https://open.spotify.com/track/2en58opvPKM0Ek6OFpcGJx"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 232146,
       "name": "Mil Gaya Humko Saathi Mil Gaya",
       "url": "https://open.spotify.com/track/0rIN0YJe3Zxjz4x3jpKHeN"
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 335005,
       "name": "O Saathi Re - Female Vocals",
       "url": "https://open.spotify.com/track/1dYOciuxgvYcepVR1ZmQNk"
@@ -1319,7 +1341,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 368640,
       "name": "Puchho Na Yaar Kya Hua - From \"Zamaane Ko Dikhana Hai\"",
       "url": "https://open.spotify.com/track/3BgEcK8ozV3ravPQh6we71"
@@ -1341,7 +1363,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 317880,
       "name": "Raat Akeli Hai Bujh Gaye Die",
       "url": "https://open.spotify.com/track/7dTO8sygT29fjknptjtL8j"
@@ -1445,7 +1467,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 323693,
       "name": "Sapne Mein",
       "url": "https://open.spotify.com/track/0CFIkzVgJRzcPb1Ni1nzvi"
@@ -1573,7 +1595,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 281546,
       "name": "Typewriter Tip Tip Tip",
       "url": "https://open.spotify.com/track/3F4UtwguBOrZiDlt4h0GoA"
@@ -1639,7 +1661,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 201066,
       "name": "Yeh Hai Reshmi Zulfon Ka Andhera",
       "url": "https://open.spotify.com/track/5cW39Th955ZBQQXipdl6GP"

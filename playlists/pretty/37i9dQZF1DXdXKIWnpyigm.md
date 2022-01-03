@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXKIWnpyigm.md) - [plain]
 
 > The essential Ryan Adams, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,895 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,904 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

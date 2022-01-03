@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Daniel Powter",
+        "url": "https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
+    },
+    {
+      "album": {
         "name": "All That You Can't Leave Behind",
         "url": "https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 227746,
       "name": "Been Waiting",
       "url": "https://open.spotify.com/track/0bVErWwMwsPgf3PufQA80g"
@@ -257,7 +275,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 239945,
       "name": "Boys of Summer",
       "url": "https://open.spotify.com/track/283ljdju5yqvGSmvmgdYC9"
@@ -473,7 +491,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208626,
       "name": "Escape",
       "url": "https://open.spotify.com/track/10IJIegM5XnMlN7zrfn3tL"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/1mr3616BzLdhXfJmLmRsO8"
@@ -632,6 +650,24 @@
     },
     {
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
+    },
+    {
+      "album": {
         "name": "Smile...It Confuses People",
         "url": "https://open.spotify.com/album/2vh0Lg3vwmArk6KI0m9eb5"
       },
@@ -701,7 +737,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 241933,
       "name": "Just Dance",
       "url": "https://open.spotify.com/track/04aQmJ2Bvd7gb65Af9ZNzC"
@@ -749,6 +785,24 @@
       "duration_ms": 197026,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/48gAcPH3stFshFnGDvo6SQ"
+    },
+    {
+      "album": {
+        "name": "Six Strings and a Sailboat",
+        "url": "https://open.spotify.com/album/3pzgfnto4wo2Pi41lNfr9u"
+      },
+      "artists": [
+        {
+          "name": "Jamie McDell",
+          "url": "https://open.spotify.com/artist/44MWRwByQXnNT4PwguMPIH"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212665,
+      "name": "Life In Sunshine",
+      "url": "https://open.spotify.com/track/3GPviL3N7CqRmAAMT4ptCL"
     },
     {
       "album": {
@@ -835,7 +889,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 238266,
       "name": "Love at First Sight",
       "url": "https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX"
@@ -979,7 +1033,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 213200,
       "name": "On a Night like This",
       "url": "https://open.spotify.com/track/68YkiTIRWcXN3q11ED70iN"
@@ -1123,7 +1177,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
@@ -1177,7 +1231,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 179946,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/5619Ojc6t9evEEs3B7Drhe"
@@ -1285,7 +1339,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 201626,
       "name": "Smile",
       "url": "https://open.spotify.com/track/4ZC8hXXqu2hPcDLw9QTdtQ"
@@ -1505,7 +1559,7 @@
       ],
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 216360,
       "name": "These Words",
       "url": "https://open.spotify.com/track/6QLU1GKy2Zh2mOh2uoJ0TV"

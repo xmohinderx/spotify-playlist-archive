@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Mx8sjx0nW.md) - [plain]
 
 > Current country music and artists making noise on Spotify\. Featuring: Conner Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,472 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,484 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

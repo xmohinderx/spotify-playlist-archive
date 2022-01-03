@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "12345",
+        "url": "https://open.spotify.com/album/1UULSmzki8FPkCVaSjVnRl"
+      },
+      "artists": [
+        {
+          "name": "King Charles",
+          "url": "https://open.spotify.com/artist/6QKDcdjtwqu4E7rztEUQu5"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162090,
+      "name": "12345",
+      "url": "https://open.spotify.com/track/6WKZjZ8Efxa5JDBEE5Qiyg"
+    },
+    {
+      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/5wrGviDHdJ2MYgDRow14cu"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 156853,
       "name": "Archers",
       "url": "https://open.spotify.com/track/0rQyr2LkdMpJqGF1pfxwJi"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 229426,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7s8slcfStICYWbPUwf983B"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183551,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/5eMzR6D1oiZd6uPbYijJVs"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 216666,
       "name": "Diamonds in the Rough",
       "url": "https://open.spotify.com/track/3gqiWsG6pJ2aJyoMFfezdS"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 201333,
       "name": "Don't Say",
       "url": "https://open.spotify.com/track/2kCQe2koRNHNdOtOxyKhaO"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 189026,
       "name": "Greatest Enemy",
       "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
@@ -1119,10 +1137,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "I Don't Really Care For You",
       "url": "https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll"
+    },
+    {
+      "album": {
+        "name": "Beebe",
+        "url": "https://open.spotify.com/album/1t3vArpUecsBVn9Maanu53"
+      },
+      "artists": [
+        {
+          "name": "BEEBE",
+          "url": "https://open.spotify.com/artist/0oAtSSMTWJahNLnc0OMxiq"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189213,
+      "name": "I Got You on My Mind",
+      "url": "https://open.spotify.com/track/2yDmtELC2x3qNbJRfnFmga"
     },
     {
       "album": {
@@ -1137,7 +1173,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE"
@@ -1281,7 +1317,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 191986,
       "name": "Kick Out the Windows - Radio Edit",
       "url": "https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1"
@@ -1397,7 +1433,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 205935,
       "name": "Love in Vain",
       "url": "https://open.spotify.com/track/5MarctIzuTHNE914cieIlz"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198040,
       "name": "Spiders",
       "url": "https://open.spotify.com/track/75LW3ygJkAOnHLRW6okBSN"
@@ -1983,7 +2019,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 202110,
       "name": "The Hunt",
       "url": "https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq"
@@ -2041,7 +2077,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"
@@ -2405,7 +2441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 203048,
       "name": "Your Look (Glorious)",
       "url": "https://open.spotify.com/track/3ZaS6VcE0Rvaccr7hNcuFN"

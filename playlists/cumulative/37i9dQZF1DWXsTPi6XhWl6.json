@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 239733,
       "name": "1904",
       "url": "https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 348226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 170866,
       "name": "Die Die Die",
       "url": "https://open.spotify.com/track/1FZKxt9SOFvxKbhjzlBONc"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
@@ -617,7 +617,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 234240,
       "name": "Morning Song",
       "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 183532,
       "name": "Mr. Tillman",
       "url": "https://open.spotify.com/track/6ZcuwgTbYQ7xz5VN9tBhCw"
@@ -797,7 +797,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 196163,
       "name": "Rambling Man",
       "url": "https://open.spotify.com/track/2FTvxZEiOET0VP6FkVfvXt"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 254386,
       "name": "Santa Fe",
       "url": "https://open.spotify.com/track/6c9t15M38cWxyt3uLnLfD8"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2020-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 327760,
       "name": "Show Me Something Higher",
       "url": "https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB"
@@ -1079,6 +1079,24 @@
       "duration_ms": 206933,
       "name": "When You're Away",
       "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"
+    },
+    {
+      "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/5FHgJlXkHfMP4vwK0hDN0i"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2020-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150506,
+      "name": "Why Do You Let Me Stay Here?",
+      "url": "https://open.spotify.com/track/6e7TwT8TUE3BHN7aokBKfq"
     },
     {
       "album": {

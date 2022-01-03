@@ -1086,6 +1086,28 @@
     },
     {
       "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1448,6 +1470,36 @@
     },
     {
       "album": {
+        "name": "Ela me Falou Que Quer Rave",
+        "url": "https://open.spotify.com/album/7oquoqetiWHdL6JIp7LrEw"
+      },
+      "artists": [
+        {
+          "name": "MC Levin",
+          "url": "https://open.spotify.com/artist/0guw2RGoUqaWKpoCY5DzWY"
+        },
+        {
+          "name": "DJ Nikolas Alves Exclusive",
+          "url": "https://open.spotify.com/artist/23buF7CmOZll8oQveAvsut"
+        },
+        {
+          "name": "DJ Kaioken",
+          "url": "https://open.spotify.com/artist/1aQbanZ6xPrOtTYtsMdm3Q"
+        },
+        {
+          "name": "DJ Gege",
+          "url": "https://open.spotify.com/artist/2BvV4u6AUwFCrAriUIo9Sm"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235206,
+      "name": "Ela me Falou Que Quer Rave",
+      "url": "https://open.spotify.com/track/0JdkDCdrhMOaeXjIZdeBXN"
+    },
+    {
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -1755,6 +1807,28 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "album": {
+        "name": "Formosa",
+        "url": "https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI"
+      },
+      "artists": [
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "MC CJ",
+          "url": "https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185831,
+      "name": "Formosa",
+      "url": "https://open.spotify.com/track/1QmupixsVNc0osesKXraZC"
     },
     {
       "album": {
@@ -2961,7 +3035,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -4057,7 +4131,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -5359,7 +5433,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
@@ -5991,7 +6065,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -6171,7 +6245,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"

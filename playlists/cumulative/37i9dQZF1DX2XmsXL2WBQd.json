@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 446533,
       "name": "8th Wonder",
       "url": "https://open.spotify.com/track/3k2ACFdQY2Y9y8FYdODZxs"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/0FPXDopNoeVy2GmE6ZLrv1"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 197933,
       "name": "Get into It",
       "url": "https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 583266,
       "name": "Jazzy Sensation - Bronx Version",
       "url": "https://open.spotify.com/track/0mjhfkFmpUkknmrl40zFFx"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
@@ -925,7 +925,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 422493,
       "name": "Looking for the Perfect Beat - Original 12\" Version",
       "url": "https://open.spotify.com/track/3vKwjiEXL3ThZymIyfqo51"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 167880,
       "name": "My Adidas",
       "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
@@ -1087,7 +1087,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 383096,
       "name": "One for the Treble",
       "url": "https://open.spotify.com/track/5uAzSQQhVL9X0C2BFNA7EC"
@@ -1214,6 +1214,24 @@
     },
     {
       "album": {
+        "name": "E-Flat Boogie",
+        "url": "https://open.spotify.com/album/4JPtXpD3O8Lo8IhsCCAORM"
+      },
+      "artists": [
+        {
+          "name": "Trouble Funk",
+          "url": "https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394000,
+      "name": "Pump Me Up",
+      "url": "https://open.spotify.com/track/4lz2rMdMB596mLwjaO2mpb"
+    },
+    {
+      "album": {
         "name": "Greatest Hits: Blondie",
         "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
       },
@@ -1225,7 +1243,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 299373,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 308558,
       "name": "South Bronx",
       "url": "https://open.spotify.com/track/6JMIaVMbh5emijDiBODgit"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 280840,
       "name": "Wild Wild West",
       "url": "https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg"

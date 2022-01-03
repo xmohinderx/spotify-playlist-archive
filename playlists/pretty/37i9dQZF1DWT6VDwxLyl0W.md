@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6VDwxLyl0W.md) - [plain]
 
 > Enjoy over 50 years of musical genius.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,860 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,928 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

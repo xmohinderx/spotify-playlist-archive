@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 178546,
       "name": "A Little Love - From The John Lewis & Waitrose Christmas Advert 2020",
       "url": "https://open.spotify.com/track/7eTonpb9lXgerPaW6I1VnP"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 272266,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 225022,
       "name": "Christmas Eve (Soul Purpose)",
       "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128737,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns"
+    },
+    {
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/5mbES4AbdxFA8hgsakkFMk"
       },
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 315654,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7EFAQ73Xs21BXMovH9qKr8"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 225817,
       "name": "Home To You (This Christmas)",
       "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
@@ -679,10 +697,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 136846,
       "name": "It\u2019s Going To Be A Cold Winter",
       "url": "https://open.spotify.com/track/1G2gpOv9sgCpVKgd2watPU"
+    },
+    {
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/237sWX7XtxysrJ30iuwQeY"
+      },
+      "artists": [
+        {
+          "name": "Bleached",
+          "url": "https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199794,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/20I188Y2jFukR5DfONMhA8"
     },
     {
       "album": {
@@ -697,7 +733,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 188720,
       "name": "Just Like Christmas",
       "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
@@ -751,7 +787,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 135506,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
@@ -827,10 +863,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198147,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/7I53IhL7CuLvRs9g6jyliB"
+    },
+    {
+      "album": {
+        "name": "Rise Up Shepherd",
+        "url": "https://open.spotify.com/album/4ZxYdejwPFlkjDX47OHAke"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147134,
+      "name": "Rise Up Shepherd",
+      "url": "https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp"
     },
     {
       "album": {
@@ -845,7 +899,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 163741,
       "name": "Santa Baby - Recorded at Strongroom Studios London",
       "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
@@ -867,7 +921,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 240800,
       "name": "Santa Stay Home",
       "url": "https://open.spotify.com/track/2VzSeBsCm5lqbIHEUvM9UQ"
@@ -975,7 +1029,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "ugly xmas sweater party",
       "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
@@ -1029,7 +1083,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 215933,
       "name": "We're The Lucky Ones",
       "url": "https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT"
@@ -1101,7 +1155,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 190567,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/3TqG0HDrk8zP3y7Mh3GyHe"

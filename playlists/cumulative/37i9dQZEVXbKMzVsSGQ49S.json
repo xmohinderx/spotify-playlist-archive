@@ -931,7 +931,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 212266,
       "name": "BLINDAR G\u00d6TUR",
       "url": "https://open.spotify.com/track/25SvN97AlQYxhy2W4Duusa"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 123576,
       "name": "B\u00ed b\u00ed og blaka",
       "url": "https://open.spotify.com/track/1rS8kkyjKDrprqYW64pcgA"
@@ -2079,6 +2079,28 @@
       "duration_ms": 277571,
       "name": "Ef \u00e9g nenni",
       "url": "https://open.spotify.com/track/0Dxbgb8aUV9EHOGJF4MXQy"
+    },
+    {
+      "album": {
+        "name": "Ef \u00fe\u00fa hugsar eins og \u00e9g",
+        "url": "https://open.spotify.com/album/5Niul5PfRKbIRHDxq5WvOD"
+      },
+      "artists": [
+        {
+          "name": "FLOTT",
+          "url": "https://open.spotify.com/artist/4Z6xJqgOAzLf0NTBjQVlB7"
+        },
+        {
+          "name": "Unnsteinn",
+          "url": "https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Ef \u00fe\u00fa hugsar eins og \u00e9g",
+      "url": "https://open.spotify.com/track/6zwp5dM2tL5hOWpfEmMpTB"
     },
     {
       "album": {
@@ -2969,7 +2991,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/3Ci0iILaHXY5Y5blEp9IWZ"
@@ -3529,7 +3551,7 @@
       ],
       "date_added": "2021-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 132446,
       "name": "G\u00f3\u00f0a n\u00f3tt",
       "url": "https://open.spotify.com/track/5DTaPBlR5WVwcQVl77hCFY"
@@ -4461,7 +4483,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -5035,7 +5057,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/4L8MTvkf2uLxBcalXgjA1f"
@@ -5111,7 +5133,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -5509,7 +5531,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
@@ -5853,7 +5875,7 @@
       ],
       "date_added": "2021-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -6199,7 +6221,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
@@ -6497,6 +6519,24 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "M\u00e9r er drull",
+        "url": "https://open.spotify.com/album/3S3QuthObLPcuwp74omjPY"
+      },
+      "artists": [
+        {
+          "name": "FLOTT",
+          "url": "https://open.spotify.com/artist/4Z6xJqgOAzLf0NTBjQVlB7"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215824,
+      "name": "M\u00e9r er drull",
+      "url": "https://open.spotify.com/track/2eppXfCeR7XaX7x2zkCBIw"
     },
     {
       "album": {
@@ -6873,7 +6913,7 @@
       ],
       "date_added": "2021-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/4V9Dfo2e4km7aAqbyCBoff"
@@ -7043,7 +7083,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
@@ -7959,7 +7999,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
@@ -8479,7 +8519,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/6qLniagBCgRqiHD6kG97FP"
@@ -8727,7 +8767,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164211,
       "name": "St\u00f3\u00f0 \u00e9g \u00fati \u00ed tunglslj\u00f3si",
       "url": "https://open.spotify.com/track/3M3AzmBS3juTDKKefAXQq4"
@@ -8881,7 +8921,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202226,
       "name": "Surface Pressure",
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
@@ -9019,7 +9059,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/76Y8XoegQ5wzOzbUeDOMos"
@@ -9171,7 +9211,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -10119,7 +10159,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -10607,7 +10647,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 191332,
       "name": "\u00c6vint\u00fdral\u00f6nd",
       "url": "https://open.spotify.com/track/1uaSTOZG1cSH2e7EaWNYaM"
@@ -10901,7 +10941,7 @@
       ],
       "date_added": "2021-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 197241,
       "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
       "url": "https://open.spotify.com/track/3RkoMHO82pcLpCosDR7Gbj"
@@ -10937,7 +10977,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/2rgn4a3kdHllF1O2qiNCeE"

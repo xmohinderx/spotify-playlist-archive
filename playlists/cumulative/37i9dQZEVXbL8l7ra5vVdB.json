@@ -113,10 +113,32 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 117356,
       "name": "1000-7",
       "url": "https://open.spotify.com/track/2L2iWhBsyosVcxx36iurfa"
+    },
+    {
+      "album": {
+        "name": "1000-7",
+        "url": "https://open.spotify.com/album/4mDMpytDYT55xNnV8LFTBE"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        },
+        {
+          "name": "GENJUTSU",
+          "url": "https://open.spotify.com/artist/3AqIMsKWh90Y41un7hL29x"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127139,
+      "name": "1000-7",
+      "url": "https://open.spotify.com/track/2IMrzJTRHGndoUbM39QIJ7"
     },
     {
       "album": {
@@ -327,7 +349,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
@@ -345,7 +367,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -403,7 +425,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 167272,
       "name": "Aomine Daiki",
       "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
@@ -2185,7 +2207,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 263693,
       "name": "Happy New Year",
       "url": "https://open.spotify.com/track/4AsvGVDWs16fqIiIdDzyvX"
@@ -2367,7 +2389,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -2385,7 +2407,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -2439,7 +2461,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -2501,7 +2523,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 136798,
       "name": "juggernaut (Prod. by PLVSTIC)",
       "url": "https://open.spotify.com/track/57V0VhEg1CAkPXeaCLikNW"
@@ -2763,7 +2785,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -2785,7 +2807,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -4052,6 +4074,28 @@
     },
     {
       "album": {
+        "name": "psiblades",
+        "url": "https://open.spotify.com/album/2NUSLnsIWcBYyDy7POwCYR"
+      },
+      "artists": [
+        {
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
+        },
+        {
+          "name": "babyswishh1",
+          "url": "https://open.spotify.com/artist/7tKvlpqru29X8gAwQ4aP0F"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131595,
+      "name": "psiblades",
+      "url": "https://open.spotify.com/track/3auzaPW4fXa8oI4KbTalAU"
+    },
+    {
+      "album": {
         "name": "PUSSY BOY",
         "url": "https://open.spotify.com/album/43RGWSAgcUh3ytWu26mdGH"
       },
@@ -4389,7 +4433,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -4477,7 +4521,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -4535,7 +4579,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 143708,
       "name": "shadowfiend",
       "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
@@ -4579,7 +4623,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 166360,
       "name": "Shivers (feat. FEDUK & SLAVA MARLOW)",
       "url": "https://open.spotify.com/track/64MeGCH5YppnMj0iNyaXvY"
@@ -4767,7 +4811,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 165906,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -5377,7 +5421,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-16",
+      "date_removed": null,
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
@@ -7575,7 +7619,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 133984,
       "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"
@@ -7883,7 +7927,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 184536,
       "name": "\u0417\u0432\u0435\u043d\u0438\u0442 \u044f\u043d\u0432\u0430\u0440\u0441\u043a\u0430\u044f \u0432\u044c\u044e\u0433\u0430",
       "url": "https://open.spotify.com/track/1NEI55hYR02EGUOffbHob2"
@@ -8601,7 +8645,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 202040,
       "name": "\u041a\u0443\u043a\u043b\u0430 \u043a\u043e\u043b\u0434\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/2DYzsMQpO7xOw7b3JwyIWP"
@@ -9853,7 +9897,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 143386,
       "name": "\u041d\u043e\u0432\u043e\u0433\u043e\u0434\u043d\u044f\u044f",
       "url": "https://open.spotify.com/track/3e4ksSBSoDqTDOCGDwyMQ8"
@@ -10383,7 +10427,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 116404,
       "name": "\u043f\u043b\u0430\u0447\u044c",
       "url": "https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM"
@@ -10459,7 +10503,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 112682,
       "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W"
@@ -11149,7 +11193,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 131333,
       "name": "\u0441\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8"
@@ -11823,7 +11867,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 140222,
       "name": "\u0422\u0440\u0438 \u0431\u0435\u043b\u044b\u0445 \u043a\u043e\u043d\u044f",
       "url": "https://open.spotify.com/track/2Tk3nkjHg82bLnjZPOrtVT"
@@ -12153,7 +12197,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
       "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"

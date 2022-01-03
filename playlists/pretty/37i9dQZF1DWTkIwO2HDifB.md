@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Calma Bb, são os funks mais 🔑 do Brasil\. Foto: Mc Th, DJ Tacinho, Dj Terrorista
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,437,717 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,438,563 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

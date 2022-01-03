@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring Juice WRLD, Roddy Ricch, and FKA Twigs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,060,626 likes - 89 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,060,809 likes - 89 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

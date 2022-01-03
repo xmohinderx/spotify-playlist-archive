@@ -95,7 +95,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 201706,
       "name": "Coffee in the Morning",
       "url": "https://open.spotify.com/track/6FNOTA9gcK03rocm5fYTL5"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 323008,
       "name": "Colors - Acoustic",
       "url": "https://open.spotify.com/track/4If5wEl5u76l2FcrGNE5AE"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 209160,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 134742,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx"
@@ -673,6 +673,24 @@
       "duration_ms": 222155,
       "name": "Honey + Tea",
       "url": "https://open.spotify.com/track/7t9rZKKU43qcg5oyUEp4XL"
+    },
+    {
+      "album": {
+        "name": "King Calaway",
+        "url": "https://open.spotify.com/album/5J2QWaK5lqtv6OrpLoMxUj"
+      },
+      "artists": [
+        {
+          "name": "King Calaway",
+          "url": "https://open.spotify.com/artist/1IdbSuYtF7RSaFarmctwoE"
+        }
+      ],
+      "date_added": "2020-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/4x4ucaprkYX3cQ3LYG1bo6"
     },
     {
       "album": {
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 230620,
       "name": "Money and Fools",
       "url": "https://open.spotify.com/track/5Dd3iLxJNlFnzsY8T8PW3a"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 163586,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/2ZIbiTRemxHiYAPg0UqoLY"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 300295,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 227027,
       "name": "Stupid Me",
       "url": "https://open.spotify.com/track/2YlCAofl2PplOmHSZQRTLk"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-03",
       "duration_ms": 181875,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/3xeTIOSLaGIw8XaCwNKhec"
@@ -1713,7 +1731,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 201053,
       "name": "We Were Never Friends",
       "url": "https://open.spotify.com/track/0txG3MJ2CO3031axdnyyTD"
