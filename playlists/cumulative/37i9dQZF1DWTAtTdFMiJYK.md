@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTAtTdFMiJYK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTAtTdFMiJYK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTAtTdFMiJYK)
 
-### Radar India: Best of 2021
+### [Radar India: Best of 2021](https://open.spotify.com/playlist/4jNdHfYjQPh3C4QABhIM7t)
 
 > Best of Radar artists from India in 2021\. Cover\- Adarsh Rao
 

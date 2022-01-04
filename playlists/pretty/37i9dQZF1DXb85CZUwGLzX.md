@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb85CZUwGLzX.md) - [plain]
 
 > Silly\-walk your way through the entire Monty Python catalogue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,935 likes - 436 songs - 16 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,933 likes - 436 songs - 16 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

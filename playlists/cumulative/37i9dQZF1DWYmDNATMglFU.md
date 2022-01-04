@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYmDNATMglFU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYmDNATMglFU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYmDNATMglFU)
 
-### the locker\_
+### [the locker\_](https://open.spotify.com/playlist/1cxlMpGMt6Ftx1RJPyoLZS)
 
 > avril is here to dj \\m/
 

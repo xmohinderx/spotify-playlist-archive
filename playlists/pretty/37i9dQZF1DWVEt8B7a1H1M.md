@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEt8B7a1H1M.md) - [plain]
 
 > Relaxing sounds of birds in vast forests.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,147 likes - 88 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,279 likes - 88 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

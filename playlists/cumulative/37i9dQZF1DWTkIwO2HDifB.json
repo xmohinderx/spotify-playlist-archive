@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Anota A\u00ed",
+        "url": "https://open.spotify.com/album/0FRhf5YKZhZUPF7WgSHQVv"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "Anota A\u00ed",
+      "url": "https://open.spotify.com/track/0unjURnhsUVgVAUtNxyr8j"
+    },
+    {
+      "album": {
         "name": "Aqui Em BH Ningu\u00e9m \u00c9 de Ningu\u00e9m",
         "url": "https://open.spotify.com/album/4MziE9em0P5p1sr35zj2OG"
       },
@@ -515,7 +533,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 135732,
       "name": "Faz a Pose",
       "url": "https://open.spotify.com/track/1sTVKLLFDfAfowsG4bRBN4"

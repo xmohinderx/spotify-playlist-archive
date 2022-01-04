@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxuZGEYY4h1.md) - [plain]
 
 > All the essentials from this South African star.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,239 likes - 37 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,269 likes - 37 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

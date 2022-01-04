@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaDsAWldGrpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaDsAWldGrpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaDsAWldGrpI)
 
-### Country Live
+### [Country Live](https://open.spotify.com/playlist/26VNM7RZboFEJ69w2h5xCg)
 
 > Your favorite artists, caught in the act!  Recorded Live...just like you were there\.  Cover:  Kenny Chesney
 

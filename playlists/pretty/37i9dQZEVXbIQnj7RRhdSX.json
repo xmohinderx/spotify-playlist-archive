@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
-  "num_followers": 970679,
+  "num_followers": 970818,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk0NDM5NTk1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk0NTIxODIyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/2VyZWWKamfq7kVnh5gMgPd"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Finch\u00e9 Non Mi Seppelliscono",
+      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "DISUMANO",
         "url": "https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9"
@@ -49,23 +65,7 @@
       "url": "https://open.spotify.com/track/3QdtpN3K8s2aDsX6o10KZK"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Finch\u00e9 Non Mi Seppelliscono",
-      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
@@ -81,27 +81,7 @@
       "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "MI FAI IMPAZZIRE",
-        "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "MI FAI IMPAZZIRE",
-      "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
@@ -117,7 +97,7 @@
       "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
@@ -137,39 +117,27 @@
       "url": "https://open.spotify.com/track/1oMZnVIuo6GmUNnemu8sLu"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+        "name": "MI FAI IMPAZZIRE",
+        "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
       "artists": [
         {
           "name": "BLANCO",
           "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Notti In Bianco",
-      "url": "https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
+        },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 220235,
+      "name": "MI FAI IMPAZZIRE",
+      "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "FLOP",
         "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
@@ -185,7 +153,23 @@
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 176400,
+      "name": "Notti In Bianco",
+      "url": "https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "GVESVS",
         "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
@@ -201,7 +185,59 @@
       "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "SUI MURI",
+        "url": "https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf"
+      },
+      "artists": [
+        {
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
+        }
+      ],
+      "duration_ms": 181529,
+      "name": "SUI MURI",
+      "url": "https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
+      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp"
@@ -225,95 +261,39 @@
       "url": "https://open.spotify.com/track/3fxSSvnUS7ALxmhOckb7t6"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 212897,
+      "name": "Come nelle canzoni",
+      "url": "https://open.spotify.com/track/0JsfWhQ2STKCqsvKse3Rgj"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
-        }
-      ],
-      "duration_ms": 188975,
-      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
-      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "SUI MURI",
-        "url": "https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf"
-      },
-      "artists": [
-        {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
-        }
-      ],
-      "duration_ms": 181529,
-      "name": "SUI MURI",
-      "url": "https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Paraocchi",
-      "url": "https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
@@ -333,23 +313,7 @@
       "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 212897,
-      "name": "Come nelle canzoni",
-      "url": "https://open.spotify.com/track/0JsfWhQ2STKCqsvKse3Rgj"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Bromance",
         "url": "https://open.spotify.com/album/5t1JK0YSFFJF6FGtQvm0eG"
@@ -369,7 +333,23 @@
       "url": "https://open.spotify.com/track/0sAroRXvF6YQqMdonRDE9e"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Paraocchi",
+      "url": "https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "GVESVS",
         "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
@@ -389,7 +369,7 @@
       "url": "https://open.spotify.com/track/7u02ZUejB2uhTw1WuFXrlf"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
@@ -405,7 +385,27 @@
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -429,7 +429,23 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 206379,
+      "name": "Blu Celeste",
+      "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -449,7 +465,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -469,43 +485,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 206379,
-      "name": "Blu Celeste",
-      "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Blitz! (feat. Geolier)",
-      "url": "https://open.spotify.com/track/00gEB0MSDWojSbzIt1TrFT"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -533,7 +513,27 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "GVESVS",
+        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Blitz! (feat. Geolier)",
+      "url": "https://open.spotify.com/track/00gEB0MSDWojSbzIt1TrFT"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -549,47 +549,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "OBE",
-        "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
-      },
-      "artists": [
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
-      "url": "https://open.spotify.com/track/1uXJYnCsXy2v50y0fDEEiV"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp"
-      },
-      "artists": [
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        }
-      ],
-      "duration_ms": 221019,
-      "name": "PARTIRE DA TE",
-      "url": "https://open.spotify.com/track/43mGIsFZwISk1WWTcAK728"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "uNa DiReZioNe giUsTa",
         "url": "https://open.spotify.com/album/51yDwPiJNSAOouxDtp1t3G"
@@ -613,7 +573,47 @@
       "url": "https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        }
+      ],
+      "duration_ms": 221019,
+      "name": "PARTIRE DA TE",
+      "url": "https://open.spotify.com/track/43mGIsFZwISk1WWTcAK728"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "OBE",
+        "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
+      },
+      "artists": [
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 237613,
+      "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
+      "url": "https://open.spotify.com/track/1uXJYnCsXy2v50y0fDEEiV"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -629,7 +629,27 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "sangiovanni",
+        "url": "https://open.spotify.com/album/20ka24Xscw75vAaBohAA38"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "perso nel buio (con Madame)",
+      "url": "https://open.spotify.com/track/3M5rbwyOMpjb3Ge277ILVT"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "AHIA!",
         "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
@@ -645,23 +665,7 @@
       "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "sangiovanni",
-        "url": "https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz"
-      },
-      "artists": [
-        {
-          "name": "sangiovanni",
-          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "malibu",
-      "url": "https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Wallah",
         "url": "https://open.spotify.com/album/5lQJt5izjVQV15FGIwi1xv"
@@ -677,7 +681,59 @@
       "url": "https://open.spotify.com/track/39CXkMn8AAFu3qwnZHJCNo"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "OCEANO PARADISO",
+        "url": "https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "duration_ms": 180342,
+      "name": "Quanto ti vorrei",
+      "url": "https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Quello che fa male",
+        "url": "https://open.spotify.com/album/1t9fgMfIvJYn2YSbC8jbND"
+      },
+      "artists": [
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        }
+      ],
+      "duration_ms": 150104,
+      "name": "Quello che fa male",
+      "url": "https://open.spotify.com/track/1LNWoDTDsfIt9I4WM68xEa"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/0u0sBgOAOo8TBlIp1HcrHp"
@@ -701,79 +757,23 @@
       "url": "https://open.spotify.com/track/7xtDBQTR47nZwpBRu6pOdO"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "OCEANO PARADISO",
-        "url": "https://open.spotify.com/album/2uopesg6vZ52owGKMTBl9m"
-      },
-      "artists": [
-        {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
-        },
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        }
-      ],
-      "duration_ms": 180342,
-      "name": "Quanto ti vorrei",
-      "url": "https://open.spotify.com/track/2KdcUxAJWAARnGTWmSWxwu"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "sangiovanni",
-        "url": "https://open.spotify.com/album/20ka24Xscw75vAaBohAA38"
+        "url": "https://open.spotify.com/album/4glIx4caTnxFFuRP5tUFaz"
       },
       "artists": [
         {
           "name": "sangiovanni",
           "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
         }
       ],
-      "duration_ms": 170400,
-      "name": "perso nel buio (con Madame)",
-      "url": "https://open.spotify.com/track/3M5rbwyOMpjb3Ge277ILVT"
+      "duration_ms": 166216,
+      "name": "malibu",
+      "url": "https://open.spotify.com/track/4p0o4pBoJPxYMXKhYbRzzw"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "Quello che fa male",
-        "url": "https://open.spotify.com/album/1t9fgMfIvJYn2YSbC8jbND"
-      },
-      "artists": [
-        {
-          "name": "LDA",
-          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
-        }
-      ],
-      "duration_ms": 150104,
-      "name": "Quello che fa male",
-      "url": "https://open.spotify.com/track/1LNWoDTDsfIt9I4WM68xEa"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Giovane e triste",
         "url": "https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1"
@@ -789,7 +789,39 @@
       "url": "https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 234446,
+      "name": "DUBBI",
+      "url": "https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -809,23 +841,39 @@
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "DISUMANO",
+        "url": "https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
         }
       ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+      "duration_ms": 188766,
+      "name": "MEGLIO DEL CINEMA",
+      "url": "https://open.spotify.com/track/58P3eeXDfBPfgrX2fQ1URh"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "m%n",
+        "url": "https://open.spotify.com/album/6EkbZ11Pg8jQAViLSZ1o7y"
+      },
+      "artists": [
+        {
+          "name": "tha Supreme",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 174364,
+      "name": "m%n",
+      "url": "https://open.spotify.com/track/5VSmYYZYuSCSlOweGMpM1A"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
@@ -836,12 +884,32 @@
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 234446,
-      "name": "DUBBI",
-      "url": "https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN"
+      "duration_ms": 195560,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/1U4dpTSsugnH510JzzCykV"
     },
     {
-      "added_at": "2022-01-02 11:53:15",
+      "added_at": "2022-01-03 10:43:42",
+      "album": {
+        "name": "Untouchable",
+        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 158971,
+      "name": "Mi Piace (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj"
+    },
+    {
+      "added_at": "2022-01-03 10:43:42",
       "album": {
         "name": "DISUMANO",
         "url": "https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9"
@@ -863,74 +931,6 @@
       "duration_ms": 175923,
       "name": "MILLE \u2013 feat. Orietta Berti",
       "url": "https://open.spotify.com/track/73bPjp8U4lXPx5NY9IA6BJ"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "m%n",
-        "url": "https://open.spotify.com/album/6EkbZ11Pg8jQAViLSZ1o7y"
-      },
-      "artists": [
-        {
-          "name": "tha Supreme",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 174364,
-      "name": "m%n",
-      "url": "https://open.spotify.com/track/5VSmYYZYuSCSlOweGMpM1A"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "Untouchable",
-        "url": "https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 158971,
-      "name": "Mi Piace (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "DISUMANO",
-        "url": "https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        }
-      ],
-      "duration_ms": 188766,
-      "name": "MEGLIO DEL CINEMA",
-      "url": "https://open.spotify.com/track/58P3eeXDfBPfgrX2fQ1URh"
-    },
-    {
-      "added_at": "2022-01-02 11:53:15",
-      "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "IO",
-      "url": "https://open.spotify.com/track/1U4dpTSsugnH510JzzCykV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIQnj7RRhdSX"

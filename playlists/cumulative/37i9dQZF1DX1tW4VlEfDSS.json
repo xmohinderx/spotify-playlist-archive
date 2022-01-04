@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 193920,
       "name": "All For The Disco",
       "url": "https://open.spotify.com/track/5cxHKq2KRxwq8v6xQUQJq3"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 171428,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1q5XUAzuOJ6GXCFhePKu70"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 330579,
       "name": "All Love",
       "url": "https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 340000,
       "name": "As The Night Moves In",
       "url": "https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 236785,
       "name": "Demba - Demi Riqu\u00edsimo Remix - Edit",
       "url": "https://open.spotify.com/track/5h3wUqwOnkxrHRyGuEIafF"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 181500,
       "name": "Disco Hearts",
       "url": "https://open.spotify.com/track/5XZgARVFrnVsMThGk0CFTl"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 168289,
       "name": "Everybody Dance (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/2KP2670rcQA5XRZyQcVhDK"
@@ -609,7 +609,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 180918,
       "name": "For A Fool",
       "url": "https://open.spotify.com/track/2QqV8LqVK6lpw0ZXdIe3vL"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 230426,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/19yoeoiZxhtfgNNhMDDh5i"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 313283,
       "name": "Grand Hi",
       "url": "https://open.spotify.com/track/5oMYXuBnP7sPVZ0aRtCMn0"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 155750,
       "name": "I Discover",
       "url": "https://open.spotify.com/track/74oBQ9l3m1Q32dAtQ4zrlb"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 401221,
       "name": "I Feel",
       "url": "https://open.spotify.com/track/7sf8su6Hcqe07WMtDYcYt8"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 160240,
       "name": "I'm For Real",
       "url": "https://open.spotify.com/track/7L1tW1wlZ3pqjA2GKXhMC6"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 181000,
       "name": "Just a Feeling - Brackles Remix",
       "url": "https://open.spotify.com/track/43I0aadVyfpfNA77tSqcqF"
@@ -1072,6 +1072,28 @@
     },
     {
       "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/52Aj733Z1QNSshBALGbFNP"
+      },
+      "artists": [
+        {
+          "name": "Mell Hall",
+          "url": "https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ"
+        },
+        {
+          "name": "Thandi Phoenix",
+          "url": "https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241225,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/70dmZtJ2NDuFsPdlQgdnbh"
+    },
+    {
+      "album": {
         "name": "Know Each Other",
         "url": "https://open.spotify.com/album/1SlGqoYV15PW48wN4rHfBD"
       },
@@ -1109,7 +1131,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 155525,
       "name": "LIFE",
       "url": "https://open.spotify.com/track/2OOb0wDmLyyhC2ViXembbS"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 228581,
       "name": "Love Hangover - Eric Kupper Remix",
       "url": "https://open.spotify.com/track/5i0uFONyXP5dbN3VT1a8Mp"
@@ -1267,7 +1289,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 407688,
       "name": "Money",
       "url": "https://open.spotify.com/track/2owh0G4llO1sz8NsrUT4Nn"
@@ -1391,7 +1413,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 357586,
       "name": "No Misery",
       "url": "https://open.spotify.com/track/0i4ab8bJX3a0v30coiUPfR"
@@ -1453,10 +1475,36 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "On My Mind - Radio Mix",
       "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
+    },
+    {
+      "album": {
+        "name": "Overboard (feat. CHANEY) [Mousse T Remix]",
+        "url": "https://open.spotify.com/album/3pNoeL2z4VfxLG6qNMtVsF"
+      },
+      "artists": [
+        {
+          "name": "Better Lost Than Stupid",
+          "url": "https://open.spotify.com/artist/0XOcl1zHdeEJxvrbgWpcTI"
+        },
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "Mousse T.",
+          "url": "https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443982,
+      "name": "Overboard (feat. CHANEY) - Mousse T. Remix",
+      "url": "https://open.spotify.com/track/4HU0XAmnUHUbVDxSp42PEX"
     },
     {
       "album": {
@@ -1531,7 +1579,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 262893,
       "name": "Real Groove - Studio 2054 Remix",
       "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
@@ -1705,7 +1753,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 196035,
       "name": "Seventies",
       "url": "https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM"
@@ -1867,7 +1915,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 295606,
       "name": "Tanto Tiempo - Village Cuts Remix",
       "url": "https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e"
@@ -1987,7 +2035,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 268474,
       "name": "To the City",
       "url": "https://open.spotify.com/track/1m9fKwozHvJCLIr2tuVSTG"
@@ -2151,7 +2199,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 287625,
       "name": "WHITE FLAG (feat. Alex Mills) - Sandy Rivera's Extended Mix",
       "url": "https://open.spotify.com/track/7abQVPJ5J8taCRoE5TvGHt"
@@ -2257,7 +2305,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 271475,
       "name": "You Ain't Love (feat. Teni Tinks)",
       "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"

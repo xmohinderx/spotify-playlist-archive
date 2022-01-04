@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Descubre los nuevos talentos de Centroam\u00e9rica y el Caribe. ",
   "name": "RADAR Centro & Caribe",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5PgzLfMAxTbmtecaXhzrPb"
+  ],
   "tracks": [
     {
       "album": {
@@ -83,7 +85,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 167474,
       "name": "Al Rev\u00e9s",
       "url": "https://open.spotify.com/track/0ZjhDp2DAAAH5gTj8b7qBK"
@@ -707,7 +709,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 147384,
       "name": "U\u00f1a Con Diamante",
       "url": "https://open.spotify.com/track/2Yx2yin4iQDGUdQhpWA0WO"

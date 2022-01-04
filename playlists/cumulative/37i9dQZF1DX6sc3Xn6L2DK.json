@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
   "name": "Cosmic Country",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5Ymp5r0Wpvihvt8IezwUoh"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 225813,
       "name": "12 Feet High",
       "url": "https://open.spotify.com/track/0a20AtS66hP9xUj51qXtl5"
@@ -35,7 +37,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 237500,
       "name": "All American Singer",
       "url": "https://open.spotify.com/track/6zczgmAukHRE72zlbMlxB5"
@@ -71,7 +73,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 291673,
       "name": "Angels Among Us",
       "url": "https://open.spotify.com/track/5RfGLT4G5YeY5niIYc5GnI"
@@ -89,7 +91,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 253666,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/1OTB8tW3bEPoJ4LzYtOyG2"
@@ -107,7 +109,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 198120,
       "name": "Are You Listening?",
       "url": "https://open.spotify.com/track/3ulWqq1RCWMHQlX2hrAPa7"
@@ -215,7 +217,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 290972,
       "name": "Civilized Hell",
       "url": "https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW"
@@ -233,7 +235,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
@@ -287,7 +289,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 254393,
       "name": "Downtown Train",
       "url": "https://open.spotify.com/track/0aWBdWQQcMWpuSmO4GKuHw"
@@ -334,6 +336,24 @@
     },
     {
       "album": {
+        "name": "Sweet Creep",
+        "url": "https://open.spotify.com/album/2XtqHGtAAQemfTUyUOJx7M"
+      },
+      "artists": [
+        {
+          "name": "Jonny Fritz",
+          "url": "https://open.spotify.com/artist/0dfNZ0xBHU3UipMv5gn9Se"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Forever Whatever",
+      "url": "https://open.spotify.com/track/214Xr7LA7fbT9VN74raGLA"
+    },
+    {
+      "album": {
         "name": "Cuntry Covers Vol. 1",
         "url": "https://open.spotify.com/album/6z56QWKJpMuTMPF3eLA3hu"
       },
@@ -345,7 +365,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 284138,
       "name": "Fruits Of My Labour",
       "url": "https://open.spotify.com/track/1I82ICxLwXvTWHR09ReWC2"
@@ -381,7 +401,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 313296,
       "name": "Golden",
       "url": "https://open.spotify.com/track/77EOVfDhyUX5nSzzc4ZEGX"
@@ -399,7 +419,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 198453,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT"
@@ -496,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Hat Acts",
+        "url": "https://open.spotify.com/album/3BR9urTaB3eQMoTAQdKfZx"
+      },
+      "artists": [
+        {
+          "name": "Sam Outlaw",
+          "url": "https://open.spotify.com/artist/7H7Gnji0UkEt9bWGPRP55r"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Humility",
+      "url": "https://open.spotify.com/track/4AUifvBNJ67z88rrDsSxi2"
+    },
+    {
+      "album": {
         "name": "In Light Of Us",
         "url": "https://open.spotify.com/album/6taEkjTtYfIga3LdymDrV8"
       },
@@ -529,7 +567,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
@@ -673,7 +711,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 214813,
       "name": "Lonesome City",
       "url": "https://open.spotify.com/track/3GK8qlVjiLpdmcw6bvLYaF"
@@ -691,7 +729,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 180016,
       "name": "Long Game",
       "url": "https://open.spotify.com/track/0fE8J2qGiRxq2ybixfBygG"
@@ -727,7 +765,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 219182,
       "name": "Love Can Find You Anywhere",
       "url": "https://open.spotify.com/track/7fxxqxe5EAp0dQ674C6g2b"
@@ -853,7 +891,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "No Glory in the West",
       "url": "https://open.spotify.com/track/3M3A038dDopQcvGrrngcDE"
@@ -918,6 +956,24 @@
     },
     {
       "album": {
+        "name": "Lubbock (on everything)",
+        "url": "https://open.spotify.com/album/2wdTYHE5vqKXOXPoknq9A3"
+      },
+      "artists": [
+        {
+          "name": "Terry Allen",
+          "url": "https://open.spotify.com/artist/4QonkOS6ybWrJVYFWEHMZY"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165225,
+      "name": "Rendezvous USA",
+      "url": "https://open.spotify.com/track/2QYVddrs3CcYAOS7awh8JG"
+    },
+    {
+      "album": {
         "name": "Walk Through Fire",
         "url": "https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A"
       },
@@ -929,7 +985,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 195376,
       "name": "Ride Out In The Country",
       "url": "https://open.spotify.com/track/5qsODsNTX1zQ9KqvnU7DXR"
@@ -969,7 +1025,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/1vcUEZRzVuin9vrRimeJh5"
@@ -1041,7 +1097,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/78T4zsLpaocBw4d5BSkggL"
@@ -1149,7 +1205,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 246466,
       "name": "South Dakota",
       "url": "https://open.spotify.com/track/44vfk0WNEL5V8WWY3zJWU0"
@@ -1272,6 +1328,24 @@
     },
     {
       "album": {
+        "name": "The Dead Don't Die",
+        "url": "https://open.spotify.com/album/0d2OrxfHnQVwchS6OyyUZQ"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231373,
+      "name": "The Dead Don't Die",
+      "url": "https://open.spotify.com/track/4Ef1laInbBHGfn3qUMilBK"
+    },
+    {
+      "album": {
         "name": "The Forty-Ninth Parallel",
         "url": "https://open.spotify.com/album/0vybYOhRsPHsLn0JZWPxUc"
       },
@@ -1305,6 +1379,24 @@
       "duration_ms": 235206,
       "name": "The Golden Sky",
       "url": "https://open.spotify.com/track/6WvhkRzCJGtIVGnaYXbOS8"
+    },
+    {
+      "album": {
+        "name": "Skeleton at the Banquet",
+        "url": "https://open.spotify.com/album/6sbJZndXlSLENEZDP9h6yV"
+      },
+      "artists": [
+        {
+          "name": "Gill Landry",
+          "url": "https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294286,
+      "name": "The Wolf",
+      "url": "https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg"
     },
     {
       "album": {
@@ -1475,7 +1567,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 146571,
       "name": "We Shouldn't Talk About It (feat. Emily Gimble)",
       "url": "https://open.spotify.com/track/1ZN4HXmebT3dxEfpT83q25"
@@ -1569,7 +1661,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 200986,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/0blkm16pwu9wnnNLoHb3nM"
@@ -1641,7 +1733,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 243010,
       "name": "You've Got Other Girls for That",
       "url": "https://open.spotify.com/track/5YmUheNKfm5UiZ3q1mxVEF"

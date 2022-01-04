@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5WmphwNfZfk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5WmphwNfZfk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5WmphwNfZfk)
 
-### RADAR Canada
+### [RADAR Canada](https://open.spotify.com/playlist/2mXOGqlTm9OMhkLlfOpKnC)
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Idman
 

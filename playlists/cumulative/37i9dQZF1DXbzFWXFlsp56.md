@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXbzFWXFlsp56.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXbzFWXFlsp56) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXbzFWXFlsp56)
 
-### Radar Andinos
+### [Radar Andinos](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Perú y Venezuela\. En portada: Blessd
 

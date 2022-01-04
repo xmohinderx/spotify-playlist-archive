@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXadasIcsfbqh.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXadasIcsfbqh) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXadasIcsfbqh)
 
-### PopCo
+### [PopCo](https://open.spotify.com/playlist/1eoy2aa7pjLg69wzMB5JYu)
 
 > Pop country hits of today and tomorrow\. Cover: MacKenzie Porter
 

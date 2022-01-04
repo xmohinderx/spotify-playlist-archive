@@ -19,7 +19,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 342160,
       "name": "A Thousand Kisses Deep - New Recording",
       "url": "https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 273106,
       "name": "Ain't No Cure For Love",
       "url": "https://open.spotify.com/track/4F6PiM255qHEw6CKRJTjPs"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 335906,
       "name": "Ballad of a Runaway Horse",
       "url": "https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 268733,
       "name": "Bird on a Wire",
       "url": "https://open.spotify.com/track/53WJ6eGjiUvlqniOj6fsr2"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "Choices - Live at Christchurch Soundcheck, 2013",
       "url": "https://open.spotify.com/track/6E5SfanYXrXyRgeUobIeWQ"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 185053,
       "name": "Dance Me to the End of Love (Bonus) - Bonus Track",
       "url": "https://open.spotify.com/track/6tZAbv5JEsfqjTpkBOrLje"
@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "Tower Of Song - The Songs Of Leonard Cohen",
+        "url": "https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2018-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/6vqrmRZ0t2T5WLc2EIs0ar"
+    },
+    {
+      "album": {
         "name": "Leonard Cohen: I'm Your Man",
         "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
       },
@@ -545,7 +563,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 271066,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/7En4Z5ngp4wYeFkq69BXry"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 370000,
       "name": "Joan of Arc",
       "url": "https://open.spotify.com/track/5hNd5qV3duVHstuh56Diow"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 295280,
       "name": "One of Us Cannot Be Wrong",
       "url": "https://open.spotify.com/track/2fmeEE8cOgVqUDU9foMVTj"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 297866,
       "name": "Priests",
       "url": "https://open.spotify.com/track/2oSuNL0HLPFVe9VKpMVPOj"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 226106,
       "name": "Song of Bernadette",
       "url": "https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 246773,
       "name": "Story Of Isaac",
       "url": "https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 284973,
       "name": "The Traitor",
       "url": "https://open.spotify.com/track/0a3wNNd7UI9wWJvVW4lFD1"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 224746,
       "name": "Tower Of Song",
       "url": "https://open.spotify.com/track/1NpNxgzZRCPIbtXHmWX9dV"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2018-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 243546,
       "name": "You Know Who I Am",
       "url": "https://open.spotify.com/track/2XGxZZpv8pae2CY18mVK6P"

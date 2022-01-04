@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXciq74vrQmM8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXciq74vrQmM8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXciq74vrQmM8)
 
-### misfits 2.0
+### [misfits 2.0](https://open.spotify.com/playlist/7v4i1kizdUXc9HxDt7gAmG)
 
 > welcome to our universe ft\. Ashnikko
 

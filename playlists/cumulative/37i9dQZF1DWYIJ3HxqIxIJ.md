@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYIJ3HxqIxIJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYIJ3HxqIxIJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYIJ3HxqIxIJ)
 
-### RADAR AU & NZ
+### [RADAR AU & NZ](https://open.spotify.com/playlist/04ix1C8A2r6zTd5sj7E8wt)
 
 > New music from artists who are on our RADAR\. Featuring Baker Boy
 

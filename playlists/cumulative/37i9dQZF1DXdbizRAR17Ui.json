@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 155504,
       "name": "A Brand New Start",
       "url": "https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 295386,
       "name": "Acheless - Edit",
       "url": "https://open.spotify.com/track/3uSS4gKyOg9m8V2Ds2ZKTr"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 241792,
       "name": "Alien Boy 96",
       "url": "https://open.spotify.com/track/00VW2IOOsFy7QgcbrfSVrE"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 379213,
       "name": "APOLOGY",
       "url": "https://open.spotify.com/track/0mZafSubGAMuhfZotQlSkw"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 206400,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/7he3R6DA2RBIuBA4jAWMjt"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 229542,
       "name": "Cosmos (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 105333,
       "name": "Daft Puns",
       "url": "https://open.spotify.com/track/3UoLhFBp6qNY8jpSS1AO8F"
@@ -337,7 +337,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 496396,
       "name": "Dart",
       "url": "https://open.spotify.com/track/7x0Y7Ne5O0W2eqWPFqbSWt"
@@ -391,10 +391,32 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 189760,
       "name": "El Layali",
       "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "album": {
+        "name": "Equals",
+        "url": "https://open.spotify.com/album/3sfCMYCdFjoVMS4ocAyVIB"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286451,
+      "name": "Equals",
+      "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
     },
     {
       "album": {
@@ -409,7 +431,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 326129,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/4i3Y42G0Um2iDVKb7XBRT9"
@@ -463,7 +485,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 216125,
       "name": "Granular",
       "url": "https://open.spotify.com/track/0sz4Oxa12dIuLgLzotuXH1"
@@ -575,10 +597,28 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 240029,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4Am86NV3PnZ5qZt4pzIzfq"
+    },
+    {
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/6oPWwSLD5DV2Ad8agnDR65"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/2tXGIXHQZ9STfvfo5yswXk"
     },
     {
       "album": {
@@ -669,7 +709,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 263842,
       "name": "Keep Shimmering",
       "url": "https://open.spotify.com/track/4M7bnpKyvmXMuoZe10hnki"
@@ -705,7 +745,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 280895,
       "name": "Laamore",
       "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
@@ -727,6 +767,24 @@
       "duration_ms": 278386,
       "name": "Leaves Against The Sky",
       "url": "https://open.spotify.com/track/0ZVzN7tnseNSxtnAhTNK39"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Sing Let\u2019s Dance",
+        "url": "https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230765,
+      "name": "Let\u2019s Sing Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S"
     },
     {
       "album": {
@@ -759,7 +817,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 252493,
       "name": "Little Girl",
       "url": "https://open.spotify.com/track/7fycv13yuvE2c0yMy4UFls"
@@ -825,7 +883,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 201749,
       "name": "Love Spirit - Yu Su Remix",
       "url": "https://open.spotify.com/track/1ksLjsHA4AptdyIQc4DY3e"
@@ -923,7 +981,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 304486,
       "name": "New Gods - Ron Basejam Remix",
       "url": "https://open.spotify.com/track/3Pckvky9FxWNjlmHa22QuB"
@@ -941,10 +999,32 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 164572,
       "name": "No Borders",
       "url": "https://open.spotify.com/track/3Ru6v1CcBAUbIuNVKcQW4v"
+    },
+    {
+      "album": {
+        "name": "No Goodbye",
+        "url": "https://open.spotify.com/album/1w0QlUchdZEiY6NYIrmJf2"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        },
+        {
+          "name": "Fejk\u00e1",
+          "url": "https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "No Goodbye",
+      "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
     },
     {
       "album": {
@@ -1020,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Reality Refresh",
+        "url": "https://open.spotify.com/album/6GqUKRbYWhE8z6yzYu2HUM"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352566,
+      "name": "Reality Refresh",
+      "url": "https://open.spotify.com/track/7uL8DUexl0UASMEbv9saBt"
+    },
+    {
+      "album": {
         "name": "Reflect",
         "url": "https://open.spotify.com/album/5HX1I06K15jFjyYAkS445E"
       },
@@ -1085,7 +1183,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 296250,
       "name": "Resynthesis 3D (Binaural Version - Headphones Only)",
       "url": "https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg"
@@ -1179,7 +1277,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 370000,
       "name": "Skara",
       "url": "https://open.spotify.com/track/6qJT8WedIJSWoUWry7CQCS"
@@ -1204,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "Terrapin EP",
+        "url": "https://open.spotify.com/album/11jv74sZXJdVIxuyT2rtlg"
+      },
+      "artists": [
+        {
+          "name": "Parris",
+          "url": "https://open.spotify.com/artist/438TWpixWUH0KLP6ARfymt"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329602,
+      "name": "Soft Rocks With Socks",
+      "url": "https://open.spotify.com/track/7E1BhljCUF1S94qimDgpzz"
+    },
+    {
+      "album": {
         "name": "Something Else (feat. Ruby Wood)",
         "url": "https://open.spotify.com/album/5z86LgFvCwpGzF7wxPAj5j"
       },
@@ -1219,7 +1335,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 279688,
       "name": "Something Else (feat. Ruby Wood)",
       "url": "https://open.spotify.com/track/3BKghOKZUX9SjpuYNmakoa"
@@ -1303,7 +1419,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 291840,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/1RonSMfR2Ob1qzmbKG1GQV"
@@ -1321,7 +1437,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 290276,
       "name": "The Longest Night",
       "url": "https://open.spotify.com/track/6mnqGJKrRVJfyrzxnvoOeo"
@@ -1411,7 +1527,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 331624,
       "name": "Tides",
       "url": "https://open.spotify.com/track/3kE3j0x9BMdyFExd2ZOq5z"
@@ -1465,7 +1581,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 280022,
       "name": "Up and Out",
       "url": "https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K"
@@ -1541,7 +1657,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 512177,
       "name": "Wide Awake in an Open Space",
       "url": "https://open.spotify.com/track/5dOBFiuMwJJ3ID1dvGm5f9"
@@ -1577,7 +1693,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 335933,
       "name": "You",
       "url": "https://open.spotify.com/track/7ixcG6IRgrFNWc8KO6lHDY"

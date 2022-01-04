@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVn8zvR5ROMB.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVn8zvR5ROMB) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVn8zvR5ROMB)
 
-### New Music Nashville
+### [New Music Nashville](https://open.spotify.com/playlist/7JyaLQ6KVSTQOnADUg2eP0)
 
 > All of the newest country music releases in one playlist!
 

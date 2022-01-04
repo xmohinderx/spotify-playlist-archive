@@ -158,6 +158,24 @@
     },
     {
       "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Bebesita",
+      "url": "https://open.spotify.com/track/69XHHNUwwgm7I0dlfqaGJS"
+    },
+    {
+      "album": {
         "name": "Bellacoso",
         "url": "https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG"
       },
@@ -271,7 +289,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 180250,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/0GZxyos431Goi9L1BYaxTU"
@@ -363,7 +381,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 230320,
       "name": "Comerte A Besos",
       "url": "https://open.spotify.com/track/6Rh1rwJagYUEbzoAXtu1LA"
@@ -529,7 +547,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Dame Banda",
       "url": "https://open.spotify.com/track/1ASpvbgcHh1QkWjNwXRpmG"
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 172000,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/6S5TzrDnSNzHwFArQVosrU"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 167999,
       "name": "Nin\u0303a Bonita",
       "url": "https://open.spotify.com/track/3Mzo9yWZHFW6KoPXVbVyby"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 195986,
       "name": "Ramayama",
       "url": "https://open.spotify.com/track/6gokadtiVvFO0nuAoOLX98"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 233748,
       "name": "Usted",
       "url": "https://open.spotify.com/track/79HTe42PihWUUq4BDjcuCq"
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 263973,
       "name": "Zumba",
       "url": "https://open.spotify.com/track/43CL49bukqUMNxontuQtR2"

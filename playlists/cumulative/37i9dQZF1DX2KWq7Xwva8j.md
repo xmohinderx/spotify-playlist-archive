@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2KWq7Xwva8j.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2KWq7Xwva8j) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2KWq7Xwva8j)
 
-### Radar España
+### [Radar España](https://open.spotify.com/playlist/0uaQZzCtnp7y3M4o0OYD28)
 
 > Descubre hoy a los artistas de mañana\. Foto: Belén Aguilera
 

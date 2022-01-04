@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 217043,
       "name": "Another Chance - Don Diablo Chill Mix",
       "url": "https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 147514,
       "name": "Bad",
       "url": "https://open.spotify.com/track/5fiyuKLoOKKFbJBOp8gNiW"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 221998,
       "name": "Be Your Sound - Live Acoustic Version",
       "url": "https://open.spotify.com/track/5hWZSnDyQSdydBWrZnVX9Z"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 209774,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/2m3ouxt4GwarBCRCmwDJdO"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 257923,
       "name": "Don't You Worry Child - Acoustic Version",
       "url": "https://open.spotify.com/track/4BpndTKEqpLgntffipC53q"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 181240,
       "name": "Finest Hour (feat. Abir) - Acoustic Version",
       "url": "https://open.spotify.com/track/7fYJmTX4SXWfli0je1JK5h"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 206666,
       "name": "Let Me Love You - Andrew Watt Acoustic Remix",
       "url": "https://open.spotify.com/track/3D1dtHt0jajUguVbEo4iAu"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/7BRYEE8wi0gye3T5V7zro9"
@@ -1541,7 +1541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 300893,
       "name": "On A Good Day - Live At The Hollywood Bowl",
       "url": "https://open.spotify.com/track/737nSliKsqD7XmpFff8DzJ"
@@ -1621,7 +1621,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 160813,
       "name": "Overload - Acoustic Version",
       "url": "https://open.spotify.com/track/3iYdG6OoJUhby3vxlSFd4J"
@@ -1757,7 +1757,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 222275,
       "name": "Real Life - Acoustic",
       "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 160395,
       "name": "Red Lights - 3LAU's Acoustic Version",
       "url": "https://open.spotify.com/track/1DRi4qnbpeo8hPGIYVeRPP"
@@ -1917,7 +1917,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 304983,
       "name": "Satellite / Stealing Time",
       "url": "https://open.spotify.com/track/7fBKJ3CxmG1LQHexTIY7g7"
@@ -1943,6 +1943,24 @@
       "duration_ms": 257357,
       "name": "Scared to Be Lonely - Acoustic Version",
       "url": "https://open.spotify.com/track/29CjkGjZnDVdJsfbRoNOGJ"
+    },
+    {
+      "album": {
+        "name": "Vassy Unplugged",
+        "url": "https://open.spotify.com/album/0wWjhE6hIKlBTiFRnlUwuB"
+      },
+      "artists": [
+        {
+          "name": "VASSY",
+          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153620,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/1CkEAd2iSVun0kSX3p1MkL"
     },
     {
       "album": {
@@ -1983,7 +2001,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 169846,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/5kyvAU6QooIxhMEtUOcIO3"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 288026,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/3u5DJhyNjkFCeCywlEK5JO"
@@ -2209,7 +2227,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 199080,
       "name": "Surrender - Acoustic",
       "url": "https://open.spotify.com/track/6MpjJlAYJmgEGas0eiHChg"
@@ -2271,7 +2289,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 241087,
       "name": "Tears - Acoustic Piano Version; Instrumental",
       "url": "https://open.spotify.com/track/3foAHYDoyz3Xc48rbfxLLg"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 201762,
       "name": "They Don't Know Us - Piano Version",
       "url": "https://open.spotify.com/track/0f6t3131LT1No7MnJGiPVw"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 260839,
       "name": "Thing Called Love",
       "url": "https://open.spotify.com/track/6J6AUucDtx9c0cjzjBUUtS"
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 199750,
       "name": "Winterburn - Geert Huinink Orchestral Version",
       "url": "https://open.spotify.com/track/1xMCUb9iBxgjyYQF5Lfwwy"

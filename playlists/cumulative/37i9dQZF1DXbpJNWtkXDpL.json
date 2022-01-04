@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-01-02",
   "description": "Celebramos la Generaci\u00f3n 2021 de Radar M\u00e9xico con el Spotify Single de Bratty y RENEE",
   "name": "Radar M\u00e9xico",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "0fKCWW6MspqU4I86JKzsYE"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "A donde quiera que voy",
+        "url": "https://open.spotify.com/album/3YhxtcOYrZovbnxPV3f41X"
+      },
+      "artists": [
+        {
+          "name": "Priscila F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224528,
+      "name": "A donde quiera que voy",
+      "url": "https://open.spotify.com/track/1NxXpAPKjrr9sO5WdDJ2RS"
+    },
     {
       "album": {
         "name": "ADULTOS",
@@ -35,7 +55,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 244656,
       "name": "Agarr\u00e9 Monte",
       "url": "https://open.spotify.com/track/16pevCru1tA6pwRsxGwUDu"
@@ -159,7 +179,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 244500,
       "name": "Bitches and Ceviches",
       "url": "https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I"
@@ -181,6 +201,24 @@
       "duration_ms": 206093,
       "name": "C'est Pas Moi",
       "url": "https://open.spotify.com/track/4LOS1xKULiLw4y4GegBlwE"
+    },
+    {
+      "album": {
+        "name": "Calamidad",
+        "url": "https://open.spotify.com/album/6y1vBRKPKLwgKlVin1kvdO"
+      },
+      "artists": [
+        {
+          "name": "Malamala",
+          "url": "https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Calamidad",
+      "url": "https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3"
     },
     {
       "album": {
@@ -217,6 +255,24 @@
       "duration_ms": 219760,
       "name": "Cohete",
       "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "album": {
+        "name": "Alma Vac\u00eda",
+        "url": "https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223912,
+      "name": "Coraz\u00f3n Frio",
+      "url": "https://open.spotify.com/track/3a0EjZTzCLx1ztmtaZb9Cp"
     },
     {
       "album": {
@@ -304,6 +360,28 @@
     },
     {
       "album": {
+        "name": "El Traketeo",
+        "url": "https://open.spotify.com/album/4agbz0mDBK5O5c5qoAVOsj"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202368,
+      "name": "El Traketeo",
+      "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
+    },
+    {
+      "album": {
         "name": "Del Corazon",
         "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
       },
@@ -315,7 +393,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 245201,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
@@ -391,7 +469,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 213253,
       "name": "Juego",
       "url": "https://open.spotify.com/track/4L8UrMGwneCQc71x2fPZSf"
@@ -431,7 +509,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 204724,
       "name": "La Cuenta",
       "url": "https://open.spotify.com/track/6jCB8QRXVlxOVGjdhUpa7p"
@@ -453,7 +531,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "La Cura",
       "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
@@ -525,7 +603,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 181466,
       "name": "Me Vale",
       "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
@@ -565,7 +643,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 216693,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5Vt0uiNvaZNPCqeoDSTavW"
@@ -583,7 +661,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 200388,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2XPbUr8BK8hfYdTWrBWT9g"
@@ -663,7 +741,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 202391,
       "name": "Nunca me encontr\u00e9 ;(",
       "url": "https://open.spotify.com/track/1jlFpN2QVjsEGF8FcopjaQ"
@@ -823,7 +901,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 182282,
       "name": "Sin Compromiso",
       "url": "https://open.spotify.com/track/2IEuqijMtqJWrNfa5raZFc"
@@ -863,7 +941,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Sopa de Letritas",
       "url": "https://open.spotify.com/track/6s4i94Vu397TzHLjff6YHU"
@@ -881,7 +959,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 137833,
       "name": "Soy Un Bomb\u00f3n",
       "url": "https://open.spotify.com/track/1xXXDSbb411DEeiRAsmmVg"
@@ -1033,7 +1111,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 149706,
       "name": "Venus",
       "url": "https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm"

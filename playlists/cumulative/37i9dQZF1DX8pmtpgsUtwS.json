@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "Baju Band",
+        "url": "https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f"
+      },
+      "artists": [
+        {
+          "name": "Sniti Mishra",
+          "url": "https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Baju Band",
+      "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
+    },
+    {
+      "album": {
         "name": "Mrigya",
         "url": "https://open.spotify.com/album/3mkbK0NtIxKaWqU6xcJhKE"
       },

@@ -2,7 +2,7 @@
 
 ### [90s Rock Anthems](https://open.spotify.com/playlist/3ssq6CMYUOuOSUXgLz3W6D)
 
-> These songs rocked the 90s.
+> These songs rocked the 90s\. Cover: Nirvana
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

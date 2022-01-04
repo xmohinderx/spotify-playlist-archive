@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 220840,
       "name": "(no me despegues tu boca)",
       "url": "https://open.spotify.com/track/1k49BpZrn1SHHxYqsn9sXd"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 216066,
       "name": "4 AM",
       "url": "https://open.spotify.com/track/5m7Zcft0xj10S7vqWn0woX"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 207906,
       "name": "Bembetea",
       "url": "https://open.spotify.com/track/4337lc9LEoFP9qS5wUC8S7"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 295600,
       "name": "Cuando una Mujer - Balada",
       "url": "https://open.spotify.com/track/5eNnzVKC2F17eTUqh4xxIK"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 255280,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/2WbKWeITJxfaQXd08NMjfU"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "Envidia",
       "url": "https://open.spotify.com/track/4YFO7KwNAdm84Wdkd5TRZh"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 180693,
       "name": "Eres Sensacional",
       "url": "https://open.spotify.com/track/7gdajvg1SLscVP66X6Os90"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 180618,
       "name": "joda",
       "url": "https://open.spotify.com/track/5w8Q3W1vp3FvoRLIYp7kLQ"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 198746,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/4qzG6DyIO3RZLyhrZ6oq9f"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 218186,
       "name": "No Te Ment\u00eda",
       "url": "https://open.spotify.com/track/14zprmedln7kfIbcGO2yn6"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Noche y Dia",
       "url": "https://open.spotify.com/track/6TQP1kV9oD8R6dQcCfhr5S"
@@ -693,7 +693,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 169887,
       "name": "Obviamente",
       "url": "https://open.spotify.com/track/3UhsarKtHIgNy55wJxIBgZ"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 329426,
       "name": "Ojo avizor",
       "url": "https://open.spotify.com/track/7apwXKZXojQ2vOMTPEnJgl"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 191546,
       "name": "Papeles",
       "url": "https://open.spotify.com/track/6pzYd5zCJzISfUunLcm6Ke"
@@ -769,6 +769,24 @@
       "duration_ms": 291426,
       "name": "Plenas",
       "url": "https://open.spotify.com/track/15XYTe133jIje2LAQE74BM"
+    },
+    {
+      "album": {
+        "name": "Puentes",
+        "url": "https://open.spotify.com/album/2qHnjW3wuGqgU0TGiN4PCo"
+      },
+      "artists": [
+        {
+          "name": "Brenda Hopkins Miranda",
+          "url": "https://open.spotify.com/artist/1XxJg4ozRGEE82K60H5bPK"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520186,
+      "name": "Preciosa",
+      "url": "https://open.spotify.com/track/2lxKGsRzw8RDpwqGIdgecc"
     },
     {
       "album": {
@@ -863,7 +881,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 207200,
       "name": "Se Te Apago La Luz",
       "url": "https://open.spotify.com/track/01x1x08CxWHLBl6YxZMf0z"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 249853,
       "name": "Te Quiero Con Bugal\u00fa",
       "url": "https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 271853,
       "name": "T\u00fa C\u00f3mo Est\u00e1s",
       "url": "https://open.spotify.com/track/1ZEvahjbIJaNKwMv1c2Qlt"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 147384,
       "name": "U\u00f1a Con Diamante",
       "url": "https://open.spotify.com/track/2Yx2yin4iQDGUdQhpWA0WO"
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 198600,
       "name": "Yo No Me Voy Acostar",
       "url": "https://open.spotify.com/track/1Ie9lRC5qMuzigUQLIvJEu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SAJ4GmhZC1.md) - [plain]
 
 > Listen to the most streamed male artists in the US this year!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,022 likes - 25 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,023 likes - 25 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

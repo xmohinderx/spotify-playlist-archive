@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3IplhwNexYg.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3IplhwNexYg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3IplhwNexYg)
 
-### pulp
+### [pulp](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 > Raw and unfiltered rock from the underground\. Cover: Black Honey
 

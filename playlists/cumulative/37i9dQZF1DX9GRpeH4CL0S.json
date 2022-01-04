@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "The greatest Alternative Rock songs through the decades. Cover: The Killers",
   "name": "Essential Alternative",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2B4rpcPWiyrM64IWAHu8yo"
+  ],
   "tracks": [
     {
       "album": {
@@ -107,10 +109,28 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/1595LW73XBxkRk2ciQOHfr"
+    },
+    {
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137760,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/5dKBaysNJtfpyNTRa5lqDb"
     },
     {
       "album": {
@@ -2195,7 +2215,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 219760,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4EwNG7uCvLEm5a6KgerCHf"
@@ -2779,7 +2799,7 @@
     {
       "album": {
         "name": "Elephant",
-        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
+        "url": "https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS"
       },
       "artists": [
         {
@@ -2790,6 +2810,24 @@
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/7i6r9KotUPQg3ozKKgEPIN"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-04",
       "duration_ms": 231800,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
@@ -3035,7 +3073,7 @@
     {
       "album": {
         "name": "Plans",
-        "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
+        "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
       "artists": [
         {
@@ -3046,6 +3084,24 @@
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Soul Meets Body",
+      "url": "https://open.spotify.com/track/5yc59J3MR3tVDPTOgwgRI5"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-04",
       "duration_ms": 230906,
       "name": "Soul Meets Body",
       "url": "https://open.spotify.com/track/6Wuv7MrhesuDsuGv8vcrOd"
@@ -3089,7 +3145,7 @@
     {
       "album": {
         "name": "Broken Boy Soldiers",
-        "url": "https://open.spotify.com/album/54phnRxP2PmwQDuUfiNFPx"
+        "url": "https://open.spotify.com/album/4o1jHCrMnkiRMdFpyCnNaH"
       },
       "artists": [
         {
@@ -3100,6 +3156,24 @@
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 215293,
+      "name": "Steady, as She Goes",
+      "url": "https://open.spotify.com/track/2i37Y95xkPhHtoYBywVBUm"
+    },
+    {
+      "album": {
+        "name": "Broken Boy Soldiers",
+        "url": "https://open.spotify.com/album/54phnRxP2PmwQDuUfiNFPx"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-04",
       "duration_ms": 215293,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio"
@@ -3121,6 +3195,24 @@
       "duration_ms": 220626,
       "name": "Still in Love Song",
       "url": "https://open.spotify.com/track/0nHU0E1betoeYGxM4mvo8s"
+    },
+    {
+      "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Stressed Out",
+      "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
     },
     {
       "album": {

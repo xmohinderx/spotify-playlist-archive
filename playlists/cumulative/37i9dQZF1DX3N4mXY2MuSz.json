@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 207255,
       "name": "12 Days of a Pop-Punk Christmas",
       "url": "https://open.spotify.com/track/1a2mtUawZqoRyk89h651U1"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 207255,
       "name": "12 Days of a Pop-Punk Christmas",
       "url": "https://open.spotify.com/track/7fDtbufQe0MvGkkAc1i7HT"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 200800,
       "name": "All I Want For Christmas Is You",
       "url": "https://open.spotify.com/track/05w2HWpvqEmyDk882QRYpp"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 164655,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/3hAGy99BXO253ldsPpyy08"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/2owWbedyDiJaXvEbW4krLl"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 201827,
       "name": "Christmas Brings Me Down",
       "url": "https://open.spotify.com/track/1I4qVaU1b7qPwUYdOgzaP7"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 181991,
       "name": "Christmas by the Phone",
       "url": "https://open.spotify.com/track/5gFrG4xkgjLufrDgFHfuNF"
@@ -404,6 +404,24 @@
     },
     {
       "album": {
+        "name": "Punk Rawk Christmas",
+        "url": "https://open.spotify.com/album/04Bn005uXQk5oKUZZovDFq"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177666,
+      "name": "Christmas Day",
+      "url": "https://open.spotify.com/track/52fJLPcouUhbUYY8YPjPMg"
+    },
+    {
+      "album": {
         "name": "Punk Goes Christmas",
         "url": "https://open.spotify.com/album/63J37R8ysZjLGpXMsJhRh3"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 184532,
       "name": "Christmas Lullaby",
       "url": "https://open.spotify.com/track/6csB7qcfwypYTXeItvHcEq"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Christmas Song",
       "url": "https://open.spotify.com/track/5zQHYpjKOHlo86BVVh2jym"
@@ -509,7 +527,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 240846,
       "name": "Come on Christmas",
       "url": "https://open.spotify.com/track/16oE2wDyCs8v0D62wWQ9o6"
@@ -545,7 +563,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 179054,
       "name": "December's Here",
       "url": "https://open.spotify.com/track/0CdxsUc8w4yjuMLD0hB4BC"
@@ -599,10 +617,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 190744,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/7HB7slDgmDZcpYHXOl0n2V"
+    },
+    {
+      "album": {
+        "name": "Christmas Rock",
+        "url": "https://open.spotify.com/album/1aGn5HA8LqUMsGgbZNZGj2"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216609,
+      "name": "Ex-Miss",
+      "url": "https://open.spotify.com/track/1XjwY71f2bseVdodL3ak1Z"
     },
     {
       "album": {
@@ -617,10 +653,32 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 216609,
       "name": "Ex-Miss",
       "url": "https://open.spotify.com/track/5ePMKmAPkbS0TiSHbH6nGO"
+    },
+    {
+      "album": {
+        "name": "Fairytale of New York",
+        "url": "https://open.spotify.com/album/4dkhlhqXYfg5jFDHUT1nVK"
+      },
+      "artists": [
+        {
+          "name": "The Clan",
+          "url": "https://open.spotify.com/artist/7oludeeTSpiIclzw9iPjHX"
+        },
+        {
+          "name": "Francesca Tedeschi",
+          "url": "https://open.spotify.com/artist/0PMd2C4sNGiF9AsCQBsZS9"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274124,
+      "name": "Fairytale of New York",
+      "url": "https://open.spotify.com/track/2V87ilIfikyiHJ4bU46YNg"
     },
     {
       "album": {
@@ -653,10 +711,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 233019,
       "name": "Father Christmas",
       "url": "https://open.spotify.com/track/1tsH0OuklCVhp3DAEbDMC6"
+    },
+    {
+      "album": {
+        "name": "Merry Flippin' Christmas Vol 1 and 2",
+        "url": "https://open.spotify.com/album/5FinvD7N9FXLY685eghYSp"
+      },
+      "artists": [
+        {
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/4EFkiPIt2RwKK38uH8RnX5"
     },
     {
       "album": {
@@ -797,7 +873,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 182286,
       "name": "Grandma Got Run Over By A Reindeer",
       "url": "https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3"
@@ -815,7 +891,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 42506,
       "name": "Happy Holidays, You Bastard",
       "url": "https://open.spotify.com/track/6Zj6aoi8gOioPuJmQoC7bN"
@@ -887,7 +963,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 212680,
       "name": "His Favorite Christmas Story",
       "url": "https://open.spotify.com/track/0zrbISwByqUAWssIhgQwQr"
@@ -923,7 +999,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 159752,
       "name": "I Had a Heart",
       "url": "https://open.spotify.com/track/5TRyTuddHqiyP9MN2Wv7Zr"
@@ -1002,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/0G32HQiT3RCsdHNGBaP2Xq"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244932,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/4UZLSMZqP8yps8RPpd1zwR"
+    },
+    {
+      "album": {
         "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
         "url": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
       },
@@ -1031,7 +1125,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 52250,
       "name": "It's Beginning to Look a Lot Like Shitmas",
       "url": "https://open.spotify.com/track/19eHS0T2UnD8ArOUwMKN4d"
@@ -1057,6 +1151,24 @@
       "duration_ms": 161083,
       "name": "It's Christmas And I Fucking Miss You",
       "url": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz"
+    },
+    {
+      "album": {
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/29aNPKWP6qj82lg3VsR0TI"
+      },
+      "artists": [
+        {
+          "name": "Future Idiots",
+          "url": "https://open.spotify.com/artist/7oaD5pgWwQwvx4S8wmSkHD"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209812,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/5MeLTAb32ZbEyvPZ7bcnI5"
     },
     {
       "album": {
@@ -1093,7 +1205,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 199110,
       "name": "Jingle Bells - Punk Rock Version",
       "url": "https://open.spotify.com/track/7BbKJ8uPUCMnFr5bdskJyO"
@@ -1111,7 +1223,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 267493,
       "name": "Last Christmas - Studio Version",
       "url": "https://open.spotify.com/track/4XktdsM5pn4QfzfIbQmbE2"
@@ -1219,10 +1331,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 199733,
       "name": "Merry Christmas, Kiss My Ass",
       "url": "https://open.spotify.com/track/4rZ0E41vSsttJd2AzaI4Y1"
+    },
+    {
+      "album": {
+        "name": "... And A Happy New Year - EP",
+        "url": "https://open.spotify.com/album/5gp50OwT4ocLFYjY0yGKoK"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201640,
+      "name": "Mr. Winter",
+      "url": "https://open.spotify.com/track/4DhKi9aSu9cEf5HnHSAdSE"
     },
     {
       "album": {
@@ -1237,7 +1367,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 139133,
       "name": "New Year's Revolution",
       "url": "https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd"
@@ -1291,7 +1421,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 124653,
       "name": "O Come All Ye Faithful",
       "url": "https://open.spotify.com/track/7dM5NHRKrNUCDJQbn9KsGS"
@@ -1309,7 +1439,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 127733,
       "name": "O Come, O Come Emmanuel",
       "url": "https://open.spotify.com/track/16qtpiIyiTmsN2Dnl5ZPj9"
@@ -1331,6 +1461,28 @@
       "duration_ms": 160586,
       "name": "Oi To The World",
       "url": "https://open.spotify.com/track/2NHsVkNPnEnM3LldoVtsKx"
+    },
+    {
+      "album": {
+        "name": "Christmas Hymns",
+        "url": "https://open.spotify.com/album/3fBOg9CmJHMzbBBze4y711"
+      },
+      "artists": [
+        {
+          "name": "Hangnail",
+          "url": "https://open.spotify.com/artist/35cOM2spPNWjEJbp7AMeJS"
+        },
+        {
+          "name": "Josh Kemble",
+          "url": "https://open.spotify.com/artist/7fWD94ONyehf4SpLbJrGl6"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142504,
+      "name": "One Small Child",
+      "url": "https://open.spotify.com/track/48akQYp8FU7pBShupaVdo2"
     },
     {
       "album": {
@@ -1381,7 +1533,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 200573,
       "name": "Punk Rawk Christmas",
       "url": "https://open.spotify.com/track/1aWd5MkGpyhqENRiilEWxe"
@@ -1399,7 +1551,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 222653,
       "name": "Right Where You Want Me to Be",
       "url": "https://open.spotify.com/track/1pcL2LXuaO01180QkIxkSG"
@@ -1471,7 +1623,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 150136,
       "name": "Rum Nogs",
       "url": "https://open.spotify.com/track/0DGfcRKLwqAJQX4k426sJ6"
@@ -1561,7 +1713,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 192440,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/3i7yZ91aKCk5BsYwhKAZdl"
@@ -1633,7 +1785,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 131780,
       "name": "sympathy 4 the grinch",
       "url": "https://open.spotify.com/track/0jmJyRvB77PRLX8pfNQbBB"
@@ -1687,7 +1839,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "The War On Christmas Is Over (If You Buy It)",
       "url": "https://open.spotify.com/track/6F6VIAmrqiXgeAXycoHOs4"
@@ -1745,7 +1897,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 214733,
       "name": "This Holiday",
       "url": "https://open.spotify.com/track/4PQkltcPjdiFh2Uvc3Zvhv"
@@ -1763,7 +1915,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 128099,
       "name": "This Is a Christmas Match",
       "url": "https://open.spotify.com/track/2m4EHtbC543ItZjqiM7Tgg"
@@ -1817,7 +1969,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 132240,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/5XAQVsXvdN8Kk0U9b2soBm"
@@ -1857,7 +2009,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 200149,
       "name": "What Do the Lonely Do at Christmas?",
       "url": "https://open.spotify.com/track/3DRLW9bDml1uWxxD51xWHy"
@@ -1983,7 +2135,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 163933,
       "name": "X-mas Has Been X'ed",
       "url": "https://open.spotify.com/track/36xdZ8BJLBHs3dXpeSwg2x"
@@ -2001,7 +2153,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 223978,
       "name": "X-Mas in Texas",
       "url": "https://open.spotify.com/track/5UkZgMr850fF5mSzJXaGil"
@@ -2091,7 +2243,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 221013,
       "name": "Yule Shoot Your Eye Out - Bonus Track",
       "url": "https://open.spotify.com/track/24ZZV8nmMT0TD5jVdkqNhK"

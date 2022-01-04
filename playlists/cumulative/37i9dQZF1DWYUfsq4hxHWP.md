@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYUfsq4hxHWP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYUfsq4hxHWP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYUfsq4hxHWP)
 
-### Fresh Finds Country: Best of 2021
+### [Fresh Finds Country: Best of 2021](https://open.spotify.com/playlist/6rfr1vGhppgRVqZOr9Nbbe)
 
 > The top 100 tracks from Fresh Finds Country in 2021\. Cover: Maggie Baugh, Artwork: Fanélie Muselier
 

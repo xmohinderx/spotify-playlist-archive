@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ViysbCzMHO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ViysbCzMHO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ViysbCzMHO)
 
-### Nashville Stripped
+### [Nashville Stripped](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 

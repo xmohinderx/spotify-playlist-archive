@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWNlI0CRgWup.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWNlI0CRgWup) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWNlI0CRgWup)
 
-### RADAR FRANCE
+### [RADAR FRANCE](https://open.spotify.com/playlist/5n9koYIGQWOBSUyvQu30SO)
 
 > Découvrez notre sélection des artistes à suivre\. Photo : Godford
 

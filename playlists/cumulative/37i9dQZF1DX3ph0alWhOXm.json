@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-02",
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
   "name": "Drinkin' Songs",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1tMONXYD6Zd2IPC4azaPza"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 212380,
       "name": "Ain't Doing Something Right",
       "url": "https://open.spotify.com/track/5lesYQ4UDsSGGFMNf5fLVn"
@@ -223,7 +225,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
@@ -285,7 +287,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 177156,
       "name": "Beer Me Up",
       "url": "https://open.spotify.com/track/5S43ssynwmOntzVvXSluh5"
@@ -581,7 +583,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 189773,
       "name": "Drank Like Hank",
       "url": "https://open.spotify.com/track/0R3vFnJYuPSrUHypRexQzn"
@@ -689,7 +691,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 213546,
       "name": "Drunk On You",
       "url": "https://open.spotify.com/track/3b7CDTKB0SRTmQ6ytYi5vZ"
@@ -989,7 +991,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 195426,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/4vLRCGOBz4zIS8nEHk5v9j"
@@ -1466,6 +1468,24 @@
     },
     {
       "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/4yYep1aU3lXRaONTWu2X23"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2021-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Save Water, Drink Beer",
+      "url": "https://open.spotify.com/track/1mvl4McrgpDUwusRRrn7UU"
+    },
+    {
+      "album": {
         "name": "Feel That Fire",
         "url": "https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2"
       },
@@ -1589,7 +1609,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 195986,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI"

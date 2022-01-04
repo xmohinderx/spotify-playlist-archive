@@ -1729,7 +1729,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Tailgate Party](/playlists/pretty/37i9dQZF1DXdgnLr18vPvu.md)
 - [Take it Easy](/playlists/pretty/3vnx7BaCl3YmHrg3WGLedp.md)
 - [Tamil Party Time](/playlists/pretty/37i9dQZF1DX0nA91dV2ts4.md)
-- [Tamil Romance Presents Best love songs of 2021](/playlists/pretty/37i9dQZF1DWYfvJNWU1bKi.md)
+- [Tamil Romance](/playlists/pretty/37i9dQZF1DWYfvJNWU1bKi.md)
 - [Tarab](/playlists/pretty/37i9dQZF1DWZQ6UgJlQibR.md)
 - [Taste](/playlists/pretty/37i9dQZF1DWSUur0QPPsOn.md)
 - [Taylor Gang Spotify Picks](/playlists/pretty/5VvCwhF9WqXKUaJLtJfeXn.md)

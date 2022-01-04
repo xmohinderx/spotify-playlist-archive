@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYxUz0Ouugmb.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYxUz0Ouugmb) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYxUz0Ouugmb)
 
-### RADAR Indonesia
+### [RADAR Indonesia](https://open.spotify.com/playlist/37dv0S75HQ2Wer6Z25cDjS)
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Oslo Ibrahim
 

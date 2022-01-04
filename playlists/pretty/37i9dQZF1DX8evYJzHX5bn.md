@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8evYJzHX5bn.md) - [plain]
 
 > The latest and greatest\. Lo nuevo y lo esencial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,557 likes - 62 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,756 likes - 62 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

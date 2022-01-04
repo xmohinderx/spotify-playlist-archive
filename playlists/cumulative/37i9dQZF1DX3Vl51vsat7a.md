@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3Vl51vsat7a.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3Vl51vsat7a) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3Vl51vsat7a)
 
-### RADAR GSA
+### [RADAR GSA](https://open.spotify.com/playlist/7r16QFa0iXKPXTVCB31T4J)
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Schmyt, MAJAN
 

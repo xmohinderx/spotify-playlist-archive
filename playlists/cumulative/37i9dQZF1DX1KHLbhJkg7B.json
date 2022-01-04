@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(I Never Promised You A) Rose Garden",
+        "url": "https://open.spotify.com/album/7aJEXWVuoBbSkamzRmh3vt"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "(I Never Promised You A) Rose Garden",
+      "url": "https://open.spotify.com/track/3UB02E0dG5TZwEwpeXboFa"
+    },
+    {
+      "album": {
         "name": "WWII",
         "url": "https://open.spotify.com/album/33Ln8ZRvitjDtLuW88luIP"
       },
@@ -59,10 +77,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 222960,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU"
+    },
+    {
+      "album": {
+        "name": "The Ice Road",
+        "url": "https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170047,
+      "name": "All I Do Is Drive",
+      "url": "https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs"
     },
     {
       "album": {
@@ -77,10 +113,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 212666,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "album": {
+        "name": "Ultimate Ronnie Milsap",
+        "url": "https://open.spotify.com/album/6MtbZ0Hjoez0CqgfIQ6FfM"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "Am I Losing You - Remastered",
+      "url": "https://open.spotify.com/track/5UJCcSSiQRXT9ONGbgihDE"
     },
     {
       "album": {
@@ -113,7 +167,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 245000,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5"
@@ -149,7 +203,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 276413,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/7B1qzMdyg0NnqNmRCLqbRs"
@@ -189,7 +243,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 253120,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/2bBDdsNOksX2mS53aSm6tY"
@@ -283,7 +337,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 196600,
       "name": "But You Know I Love You",
       "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
@@ -326,6 +380,28 @@
     },
     {
       "album": {
+        "name": "Graffiti U",
+        "url": "https://open.spotify.com/album/52aaxT2Se2oUyijUbWwp3Z"
+      },
+      "artists": [
+        {
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213938,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq"
+    },
+    {
+      "album": {
         "name": "Country State Of Mind",
         "url": "https://open.spotify.com/album/6srulwxu8B7uv7A6olGYMH"
       },
@@ -341,7 +417,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 242022,
       "name": "Country State Of Mind",
       "url": "https://open.spotify.com/track/1vVbMOgQbT7kp3Ri0gI9KR"
@@ -395,7 +471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 141478,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0X1kKB6ZWb8DzlPFKctcE9"
@@ -431,7 +507,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 197277,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE"
@@ -561,7 +637,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 208440,
       "name": "Every Which Way but Loose - Friends and Heroes Session",
       "url": "https://open.spotify.com/track/2d94Il3qGrgAsv2m81S5u1"
@@ -586,6 +662,24 @@
     },
     {
       "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248933,
+      "name": "Farewell Party",
+      "url": "https://open.spotify.com/track/06OO9hB9riQOLRGNCsZiQl"
+    },
+    {
+      "album": {
         "name": "Past The Point Of Rescue",
         "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
@@ -597,7 +691,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 184240,
       "name": "Five O'Clock World",
       "url": "https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7"
@@ -615,7 +709,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 232666,
       "name": "Folsom Prison Blues - Spotify Singles",
       "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
@@ -779,7 +873,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 322693,
       "name": "Hard To Say I'm Sorry",
       "url": "https://open.spotify.com/track/3UUIIv6iA4fsLLgo284oN3"
@@ -815,10 +909,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 212626,
       "name": "Heads Carolina, Tails California",
       "url": "https://open.spotify.com/track/3eyYxeswyx7wmO3n8EHKuD"
+    },
+    {
+      "album": {
+        "name": "A Nashville Songbook",
+        "url": "https://open.spotify.com/album/5EuBzU4C9X3A9fWah24JgA"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg"
     },
     {
       "album": {
@@ -977,7 +1089,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 190986,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/2qmlRn3crX6OxoJuoDJMyq"
@@ -1271,7 +1383,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "Louisiana Woman, Mississippi Man (with Martina McBride)",
       "url": "https://open.spotify.com/track/1us6oZFgV57a0aPSZt69ZL"
@@ -1365,7 +1477,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 188893,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/1yOCSAjEuF3qqT9GKqoJtj"
@@ -1528,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
+    },
+    {
+      "album": {
         "name": "Rancho Fiesta Sessions",
         "url": "https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv"
       },
@@ -1539,7 +1669,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 228753,
       "name": "Prop Me Up Beside The Jukebox (If I Die)",
       "url": "https://open.spotify.com/track/6h50iRRuK4fpjtOLkWOtAl"
@@ -1723,7 +1853,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 168213,
       "name": "Streets of Bakersfield",
       "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
@@ -1741,7 +1871,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 230938,
       "name": "Suspicious Minds",
       "url": "https://open.spotify.com/track/4GodBGiUwjcXkDB8i3OAMW"
@@ -1763,6 +1893,32 @@
       "duration_ms": 213706,
       "name": "Take It Easy - 2006 Remaster",
       "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+    },
+    {
+      "album": {
+        "name": "Take Me Back to Tulsa (feat. George Strait and Willie Nelson)",
+        "url": "https://open.spotify.com/album/6eLAOiOvVLfjNGkUv0wRMl"
+      },
+      "artists": [
+        {
+          "name": "Asleep At The Wheel",
+          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+        },
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241263,
+      "name": "Take Me Back to Tulsa (feat. George Strait and Willie Nelson)",
+      "url": "https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB"
     },
     {
       "album": {
@@ -1799,6 +1955,24 @@
       "duration_ms": 182920,
       "name": "That's the Way Love Goes",
       "url": "https://open.spotify.com/track/20ZTVyGNlRnmCS1LlRMvEr"
+    },
+    {
+      "album": {
+        "name": "Rancho Fiesta Sessions",
+        "url": "https://open.spotify.com/album/01AWRFHGz9ioWiPcFgqGrv"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165705,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/7iAPw5fKsiuwaPappNUpX2"
     },
     {
       "album": {
@@ -1885,7 +2059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 154893,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
@@ -2087,7 +2261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 247693,
       "name": "Whenever I Call You \"Friend\" (feat. Phillip Sweet)",
       "url": "https://open.spotify.com/track/3hY1wEShrxHsKAwxLnFOU3"
@@ -2141,7 +2315,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 228267,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/64d57F5OPdla3P0zK4NSAY"

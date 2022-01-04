@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EKARgqYPFZ.md) - [plain]
 
 > The essential blink\-182, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,934 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,007 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

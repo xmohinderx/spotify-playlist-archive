@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 293546,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/5WTeFqk3rVakNfKSsZQYrF"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 168245,
       "name": "Chika (Scared)",
       "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 207000,
       "name": "Done It All Wrongh",
       "url": "https://open.spotify.com/track/2y3rFDdYs6AKLrUJYtiCrX"
@@ -455,6 +455,28 @@
       "duration_ms": 288946,
       "name": "Fading Youth",
       "url": "https://open.spotify.com/track/0JyNb6hPiBcy9ZYB85cXYq"
+    },
+    {
+      "album": {
+        "name": "Feel It Still (Medasin Remix)",
+        "url": "https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Medasin",
+          "url": "https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194434,
+      "name": "Feel It Still - Medasin Remix",
+      "url": "https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE"
     },
     {
       "album": {
@@ -553,7 +575,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 196162,
       "name": "Gis\u00e8le",
       "url": "https://open.spotify.com/track/2vRsa6uWv4CVbmLcYlWbOZ"
@@ -727,7 +749,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 320440,
       "name": "I Wanna Know",
       "url": "https://open.spotify.com/track/0xGTpQrQSRS2o8TMYGCyOr"
@@ -847,7 +869,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 324266,
       "name": "Kin",
       "url": "https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v"
@@ -905,7 +927,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 240500,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/2QXvZBjs59MbSQ20GxoqA2"
@@ -923,7 +945,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 220842,
       "name": "Light That Shines Through",
       "url": "https://open.spotify.com/track/4YzP1J64MRM6AWsCUNQPIL"
@@ -985,7 +1007,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 226866,
       "name": "Loom (feat. Bonobo)",
       "url": "https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i"
@@ -1029,10 +1051,36 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/7x0KPn2pVa9P2hOLnVWRjN"
+    },
+    {
+      "album": {
+        "name": "Mean",
+        "url": "https://open.spotify.com/album/7kaexmU6w343tzO0lrutvS"
+      },
+      "artists": [
+        {
+          "name": "fika",
+          "url": "https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX"
+        },
+        {
+          "name": "Fabich",
+          "url": "https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh"
+        },
+        {
+          "name": "Bambie",
+          "url": "https://open.spotify.com/artist/2K2zheLCDXiIK9j83oWNxv"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225933,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/7xrwlO7d0pINF403SwlqeK"
     },
     {
       "album": {
@@ -1069,7 +1117,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/4ZRl4vgRSJqtnJaCXWS6hg"
@@ -1221,7 +1269,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 250383,
       "name": "Outer Sunset",
       "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
@@ -1333,7 +1381,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 264269,
       "name": "Reckless Desires",
       "url": "https://open.spotify.com/track/3YOF6HtXEj91j2SRYXoSEi"
@@ -1561,7 +1609,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
@@ -1583,6 +1631,24 @@
       "duration_ms": 282545,
       "name": "The Trees",
       "url": "https://open.spotify.com/track/4q6OvSJnqxZZ3N13QRRzrX"
+    },
+    {
+      "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "album": {
@@ -1757,10 +1823,28 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 142950,
       "name": "When You Lock Eyes",
       "url": "https://open.spotify.com/track/436jz9bb0osX1lD8KUWf9U"
+    },
+    {
+      "album": {
+        "name": "Where Angels Fear To Tread",
+        "url": "https://open.spotify.com/album/0t37MK4qYK7lp7yZaMBYe0"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "Where Angels Fear To Tread",
+      "url": "https://open.spotify.com/track/4vgXDV9qcqnwMQkdyGLSpL"
     },
     {
       "album": {
@@ -1775,7 +1859,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 353523,
       "name": "WHERE'D MY EYES GO?",
       "url": "https://open.spotify.com/track/7u3kxFpkTQnXKlWH1r34G5"

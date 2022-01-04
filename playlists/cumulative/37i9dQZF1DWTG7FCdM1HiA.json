@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
+    },
+    {
+      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -129,7 +147,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
@@ -717,7 +735,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 211600,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/6Xmv7sLGU7o1BQE0SNkeEj"
@@ -771,7 +789,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 401973,
       "name": "Feeling the Blues",
       "url": "https://open.spotify.com/track/5QcFAk9QfdkBUnjTqVDj5H"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 155173,
       "name": "Gotta Dance",
       "url": "https://open.spotify.com/track/4GJ5AOmZfOqNlBhnYC8JFI"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 270106,
       "name": "Lover Man",
       "url": "https://open.spotify.com/track/62hVXYVYD1IhYBkmDPpWm6"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 476440,
       "name": "Martians Go Home",
       "url": "https://open.spotify.com/track/2B2VXFIZCuRZpSKFxjyz16"
@@ -1699,7 +1717,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 286133,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 505613,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/6rtv3AAMVK5ATrZQzQUBbO"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 241185,
       "name": "Until the Real Thing Comes Along",
       "url": "https://open.spotify.com/track/2Xtue8WVm0WPKudizC8Iik"

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 235997,
       "name": "Beside Myself",
       "url": "https://open.spotify.com/track/2kel7wmSsmV5UOYkPGacZI"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 240607,
       "name": "Can't Call It Love",
       "url": "https://open.spotify.com/track/6BNL1Hv2I6v2EXGGkJTaiq"
@@ -358,6 +358,24 @@
     },
     {
       "album": {
+        "name": "Got Your Number",
+        "url": "https://open.spotify.com/album/2SWr8jnU7sEVhslfL78x25"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190190,
+      "name": "Got Your Number",
+      "url": "https://open.spotify.com/track/1KWBzQPS07tyitA4o8V7XW"
+    },
+    {
+      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/63jJam7EmnpzGwxWY7yHOu"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 233266,
       "name": "Highway Vagabond",
       "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 209466,
       "name": "Make It out Alive",
       "url": "https://open.spotify.com/track/68oKPkgQVVzTz52yqiX09K"
@@ -859,6 +877,24 @@
       "duration_ms": 223408,
       "name": "Moonrise",
       "url": "https://open.spotify.com/track/7hv1TLfw7VGN6ssH37lKJ8"
+    },
+    {
+      "album": {
+        "name": "Springtime Carnivore",
+        "url": "https://open.spotify.com/album/4wCFY76jpnOHeQ0VAcpPoO"
+      },
+      "artists": [
+        {
+          "name": "Springtime Carnivore",
+          "url": "https://open.spotify.com/artist/0EikLJdrz7f8ocaHztUO0S"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256399,
+      "name": "Name on a Matchbook",
+      "url": "https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj"
     },
     {
       "album": {
@@ -999,7 +1035,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 253444,
       "name": "Over",
       "url": "https://open.spotify.com/track/0gnPyPBc2FcB79JGgpbstY"
@@ -1035,7 +1071,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 215268,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/6lyjY05tO3zM1neukRGQ4K"

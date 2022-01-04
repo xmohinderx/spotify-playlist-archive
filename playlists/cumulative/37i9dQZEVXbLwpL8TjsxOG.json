@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-28",
+      "date_removed": null,
       "duration_ms": 273417,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/5liLMCOcyXU45BY9LzyC6r"
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -4253,7 +4253,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 259826,
       "name": "\u6625\u79cb",
       "url": "https://open.spotify.com/track/2WVbMoHdWCspdiEa7OnG1D"
@@ -4693,7 +4693,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-05",
+      "date_removed": null,
       "duration_ms": 305666,
       "name": "\u72c2\u4eba\u65e5\u8a18",
       "url": "https://open.spotify.com/track/4AoYnU8ckSUQnO7Ek0vy38"
@@ -5291,10 +5291,28 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-04",
       "duration_ms": 232224,
       "name": "\u9280\u6cb3\u4fee\u7406\u54e1",
       "url": "https://open.spotify.com/track/0pupuSkMBGpzsqG3fWcyPe"
+    },
+    {
+      "album": {
+        "name": "\u93e1\u4e2d\u93e1",
+        "url": "https://open.spotify.com/album/3F6jDazcpKtodoMyQ3Of3V"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252525,
+      "name": "\u93e1\u4e2d\u93e1",
+      "url": "https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1"
     },
     {
       "album": {
