@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con Ovi & Gente de Zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,635 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,660 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 24 | [Positivo](https://open.spotify.com/track/2QKA0eUyRu0B5w38dc1owm) | [Simon la Letra](https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a) | [Positivo](https://open.spotify.com/album/7u9QtGYAzYFxBPGpoJxa1x) | 3:44 |
 | 25 | [La Zenaida](https://open.spotify.com/track/77dY6RzvSZ4tpt65vUW1vC) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Noche De Cumbia](https://open.spotify.com/album/6dDyHC1JCDO6JzpXRrhw3n) | 4:53 |
 | 26 | [Mamiferos](https://open.spotify.com/track/0fIDktw0aei0LNXZmwClgG) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Mamiferos](https://open.spotify.com/album/58FetmF37hsCkOePByWqaA) | 3:03 |
-| 27 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:33 |
+| 27 | [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 |
 | 28 | [IN MEMORIAM](https://open.spotify.com/track/3Fc4I7QsG0Hhe7x8yVPtEv) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [IN MEMORIAM](https://open.spotify.com/album/6weJxPVXkQvQaE0nLHG5s5) | 3:50 |
 | 29 | [Se Pico el Verano](https://open.spotify.com/track/0LIa1588TUYF1Aviavtgj3) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Se Pico el Verano](https://open.spotify.com/album/19IoRSBbB5mUTAXyHXZCwo) | 2:35 |
 | 30 | [Pide \- Remix](https://open.spotify.com/track/6dnDKVx1eLiYwc9tsy40ps) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [El Pesa 9](https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0) | [Pide \(Remix\)](https://open.spotify.com/album/5ZZ61mqxA0JlBKTX9cS7ZK) | 2:11 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 35 | [Ya No Me Mires Así](https://open.spotify.com/track/5wQRQNd4VplKBv02ypGVpp) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Ya No Me Mires Así](https://open.spotify.com/album/3TwLhgmVH4Ek3lJdl4Mku4) | 2:47 |
 | 36 | [Casi Amor De Verano](https://open.spotify.com/track/3HSVuIkPGY4rdtifvEU3xz) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Casi Amor De Verano](https://open.spotify.com/album/1wiaYWxg54mycc3A5cGRI0) | 3:30 |
 | 37 | [Fácil](https://open.spotify.com/track/4KtRZ4ZQiCObBVBatJomRn) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD) | [Fácil](https://open.spotify.com/album/6bfyGhwirrN6QAAUWXpcEw) | 3:35 |
-| 38 | [En la Nube](https://open.spotify.com/track/3Xr1y6molQWCj4GSnULrsO) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk) | [En la Nube \(Rocka0006\)](https://open.spotify.com/album/4FAc1CsHzh8uy8FWBCuBKE) | 3:54 |
+| 38 | [En la Nube](https://open.spotify.com/track/3Xr1y6molQWCj4GSnULrsO) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk) | [En la Nube](https://open.spotify.com/album/4FAc1CsHzh8uy8FWBCuBKE) | 3:54 |
 | 39 | [Mi Pobre Vida](https://open.spotify.com/track/2DnlsjNurvwV8iAkN2uv1J) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD) | [Mi Pobre Vida](https://open.spotify.com/album/564CnBoA9mXGs9FgxF0pF9) | 4:08 |
 | 40 | [Astronautas](https://open.spotify.com/track/1uNKgLGWLatvx6s4p3oNqr) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fernando Kabusacki](https://open.spotify.com/artist/2v1rArXOJ4lTA43Ibwt1OC) | [=EP8](https://open.spotify.com/album/4wdKTeePv18JZAJvaUMi0q) | 4:21 |
 | 41 | [Simulación](https://open.spotify.com/track/51pDoMRoCNJjtaN4INp3kH) | [Zeballos](https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C), [Agustin Casulo](https://open.spotify.com/artist/1MIfUzoY2n15mLL9NAfcUR), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Simulación](https://open.spotify.com/album/32ZgygyD0PiXkAZwdXhK2s) | 3:14 |

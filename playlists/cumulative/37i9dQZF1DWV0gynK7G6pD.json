@@ -846,6 +846,28 @@
     },
     {
       "album": {
+        "name": "Debussy: Suite bergamasque, L. 75: III. Clair de lune",
+        "url": "https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263826,
+      "name": "Suite bergamasque, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/26KykHLogeIep4OrurliDS"
+    },
+    {
+      "album": {
         "name": "Symphony in E Major, D. 729 (Completed by Richard D\u00fcnser)",
         "url": "https://open.spotify.com/album/1JYmgTApAUi2pzQCooKN1S"
       },

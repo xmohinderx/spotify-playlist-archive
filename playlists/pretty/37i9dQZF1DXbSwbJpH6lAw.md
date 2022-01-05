@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 
 > The most exciting new Latin artists and tracks, handpicked by our curators featuring Ivan Cornejo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,520 likes - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,528 likes - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,21 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSwbJpH6lAw.md) - [plain]
 | 12 | [Cinderella](https://open.spotify.com/track/360cQNnbD332V4eO8GOHvA) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Cinderella](https://open.spotify.com/album/3cu712semvh7WetMZ3h7d1) | 2:36 |
 | 13 | [3 Deseos](https://open.spotify.com/track/35eA7h7qXh3dgtBgTeHQrP) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [3 Deseos](https://open.spotify.com/album/1zV60L41TF19vpiml1Kfde) | 3:10 |
 | 14 | [cuando llega la noche](https://open.spotify.com/track/2TghtDAOjl0jMPzi69MRLU) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [cuando llega la noche](https://open.spotify.com/album/7sDuY9YxEf4X0eIUXnAw6K) | 3:10 |
-| 15 | [Destino](https://open.spotify.com/track/27UVFLpWhu9aLIfDNWKbjB) | [MUSAS](https://open.spotify.com/artist/1HiS2zHzXOuNgyYeZXSRJ9), [Luis Eduardo Acústico](https://open.spotify.com/artist/3sG7osrc6txjpoApiVgGdm) | [Destino](https://open.spotify.com/album/32JyYzPX0wW8H2D0Pb2hmi) | 2:37 |
-| 16 | [Mi Música](https://open.spotify.com/track/2AlHpf178cwGhoBUEyhBUv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Mi Musica](https://open.spotify.com/album/6OfEz0fEQiNmmJiKtOGWvQ) | 2:42 |
-| 17 | [Se Prendió](https://open.spotify.com/track/6G4yTebXThnes8PAXUIP3k) | [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0) | [Se Prendió](https://open.spotify.com/album/2YINCk6uLy4BkaeVuj3iSQ) | 2:11 |
-| 18 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 |
-| 19 | [Tu Weekend](https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Tu Weekend](https://open.spotify.com/album/1Er5uQwx2dA0WGZuBHOooU) | 2:28 |
-| 20 | [Dime](https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [En Mis Sentimientos](https://open.spotify.com/album/5v9xccgxf0enrvLt7XHmSK) | 3:27 |
-| 21 | [MIRAME!](https://open.spotify.com/track/351iEK6Dap9ARpwsKyfmKV) | [Dylan Golden](https://open.spotify.com/artist/1YvwJo9yD60dUMooyu2iNn), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW), [Francikario](https://open.spotify.com/artist/0aimHdTahze7KlFbNhDfCI) | [MIRAME!](https://open.spotify.com/album/4YWlOTjyj762QPtb2bxCRn) | 3:45 |
-| 22 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
-| 23 | [Te Supe Amar](https://open.spotify.com/track/2EGuSoq0VeRdczcg3KqsDz) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Agonía](https://open.spotify.com/album/029vCRAUGLv5z6IqivwXRI) | 2:57 |
-| 24 | [La Cancion](https://open.spotify.com/track/67urJt4Ufb8uH4ZaLaYZZo) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [La Cancion](https://open.spotify.com/album/0b61w5eoXMeRwL4KEmVP2r) | 4:42 |
-| 25 | [828](https://open.spotify.com/track/5FYUCl30XA4avs2aBKhKaL) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [828](https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS) | 3:24 |
-| 26 | [normal](https://open.spotify.com/track/3G2lFWq1ZefJP4IMMIYXC1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [normal](https://open.spotify.com/album/4EbGLMmQaDDVMKfO36SBBL) | 3:35 |
-| 27 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 |
-| 28 | [TU PERFUME](https://open.spotify.com/track/2OxDcvGHaLYPddRQOLFkdt) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [TU PERFUME](https://open.spotify.com/album/71R8ubidD2eDoag02skfxj) | 2:58 |
-| 29 | [Mala Tuya](https://open.spotify.com/track/4PqklU4gMvVBdTV6IspnUD) | [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Mala Tuya](https://open.spotify.com/album/0vSJKpdtQvffCM53QXDlsh) | 2:43 |
-| 30 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
+| 15 | [Mi Música](https://open.spotify.com/track/2AlHpf178cwGhoBUEyhBUv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Mi Musica](https://open.spotify.com/album/6OfEz0fEQiNmmJiKtOGWvQ) | 2:42 |
+| 16 | [Se Prendió](https://open.spotify.com/track/6G4yTebXThnes8PAXUIP3k) | [Dj Fasta](https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV), [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0) | [Se Prendió](https://open.spotify.com/album/2YINCk6uLy4BkaeVuj3iSQ) | 2:11 |
+| 17 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 |
+| 18 | [Tu Weekend](https://open.spotify.com/track/2cvXq5nN4hoUxIwIsnd9tv) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP) | [Tu Weekend](https://open.spotify.com/album/1Er5uQwx2dA0WGZuBHOooU) | 2:28 |
+| 19 | [Dime](https://open.spotify.com/track/1TQcqiEvl4ODSHC5U2c5Vv) | [Diamante Perez](https://open.spotify.com/artist/19fMyo1p52veAVamJgbbcF) | [En Mis Sentimientos](https://open.spotify.com/album/5v9xccgxf0enrvLt7XHmSK) | 3:27 |
+| 20 | [MIRAME!](https://open.spotify.com/track/351iEK6Dap9ARpwsKyfmKV) | [Dylan Golden](https://open.spotify.com/artist/1YvwJo9yD60dUMooyu2iNn), [Kenyi](https://open.spotify.com/artist/6AdFGjfHin3ow9yC5qE2TW), [Francikario](https://open.spotify.com/artist/0aimHdTahze7KlFbNhDfCI) | [MIRAME!](https://open.spotify.com/album/4YWlOTjyj762QPtb2bxCRn) | 3:45 |
+| 21 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
+| 22 | [Te Supe Amar](https://open.spotify.com/track/2EGuSoq0VeRdczcg3KqsDz) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Agonía](https://open.spotify.com/album/029vCRAUGLv5z6IqivwXRI) | 2:57 |
+| 23 | [La Cancion](https://open.spotify.com/track/67urJt4Ufb8uH4ZaLaYZZo) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [La Cancion](https://open.spotify.com/album/0b61w5eoXMeRwL4KEmVP2r) | 4:42 |
+| 24 | [828](https://open.spotify.com/track/5FYUCl30XA4avs2aBKhKaL) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [828](https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS) | 3:24 |
+| 25 | [normal](https://open.spotify.com/track/3G2lFWq1ZefJP4IMMIYXC1) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [normal](https://open.spotify.com/album/4EbGLMmQaDDVMKfO36SBBL) | 3:35 |
+| 26 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 |
+| 27 | [TU PERFUME](https://open.spotify.com/track/2OxDcvGHaLYPddRQOLFkdt) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [TU PERFUME](https://open.spotify.com/album/71R8ubidD2eDoag02skfxj) | 2:58 |
+| 28 | [Mala Tuya](https://open.spotify.com/track/4PqklU4gMvVBdTV6IspnUD) | [Izma](https://open.spotify.com/artist/0Hxv2atG2UFJAA8DC2nAVJ) | [Mala Tuya](https://open.spotify.com/album/0vSJKpdtQvffCM53QXDlsh) | 2:43 |
+| 29 | [La Cura](https://open.spotify.com/track/2M6Bh076nMWAuZPFJxFQkU) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [La Cura](https://open.spotify.com/album/7KSWQfyFDwKtplryn2J1gH) | 2:30 |
 
-Snapshot ID: `MTYzODUwNzY2MCwwMDAwMDAyYjAwMDAwMTdkN2VhYWMzNDUwMDAwMDE3ZDZjOWNiZDZj`
+Snapshot ID: `MTY0MTMxNzU0NiwwMDAwMDAyYzAwMDAwMTdlMjYyNjNhOGQwMDAwMDE3ZDZjOWNiZDZj`

@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 217777,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0Bc66CwO7NENnqW60RBDzG"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 231471,
       "name": "Ameno Amapiano - Remix",
       "url": "https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 160264,
       "name": "Baajo",
       "url": "https://open.spotify.com/track/21Dj85OlxW3ANBe5JndDfo"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 238576,
       "name": "Berna",
       "url": "https://open.spotify.com/track/6UqvKN9wgDiZ25SFAJE3Va"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 172690,
       "name": "Big Thug Boys",
       "url": "https://open.spotify.com/track/5dFSwQk7dEGgccEpyzqskS"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 207784,
       "name": "Deceive",
       "url": "https://open.spotify.com/track/6FuWagyvOErfJ7UnViYVlD"
@@ -657,10 +657,28 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 240000,
       "name": "Faster",
       "url": "https://open.spotify.com/track/74N8lnMrguCPF0TRVLYG1t"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/3SYYiw2TfVVlau3XAu5NHG"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "date_added": "2021-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/0int0g8dikLn0uhd1b1iZu"
     },
     {
       "album": {
@@ -675,7 +693,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 152941,
       "name": "Focus",
       "url": "https://open.spotify.com/track/5ba4KjrBg1k5KYZjYx0UVZ"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2019-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 187609,
       "name": "Gbona",
       "url": "https://open.spotify.com/track/0DrzsBstN5rObzTuX8DSro"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 254557,
       "name": "Getting Late",
       "url": "https://open.spotify.com/track/7iPnbJ1W7wus9QqeBtpuII"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 262736,
       "name": "Joro",
       "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 150491,
       "name": "Move",
       "url": "https://open.spotify.com/track/6g8Ztyoym7VNLEzl8alsJK"
@@ -1321,7 +1339,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 195789,
       "name": "One Leg Up",
       "url": "https://open.spotify.com/track/23WUYrTGdeVdahNXCUPSwr"
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 185769,
       "name": "Rock",
       "url": "https://open.spotify.com/track/5mcD4M6ERcFxeB2T6oe4dZ"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 179688,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/6o8QA4uKuvLV3AsSVOqeIj"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/06NG4AQXXeWnnODyUCC6ZU"
@@ -1663,7 +1681,7 @@
       ],
       "date_added": "2021-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 194400,
       "name": "Tele",
       "url": "https://open.spotify.com/track/7gdKO8t9G1qrAvrnQji5Wk"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 196033,
       "name": "Tigini - Remix",
       "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"

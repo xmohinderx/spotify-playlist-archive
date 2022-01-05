@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,764 likes - 56 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,793 likes - 56 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 55 | [Mahanati](https://open.spotify.com/track/7H9cesJp8V0d871PFQfxnH) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Mahanati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VJ6jeu9xVqQlEbhG8v52w) | 4:44 |
 | 56 | [Prema O Premaa](https://open.spotify.com/track/2oMVPX0asvUfRfap0iEmXv) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Hemambika](https://open.spotify.com/artist/6LsBNQohLraTbmkYY80G2p) | [NGK \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/67KkBoft7iHVV4hKbKCZ24) | 4:30 |
 
-Snapshot ID: `MTYzNDc5MjMyNywwMDAwMDAzNzAwMDAwMTdjYTEzNzQ4ZDAwMDAwMDE3N2RkMTQ3YjYw`
+Snapshot ID: `MTY0MTI5Njc1NSwwMDAwMDAzODAwMDAwMTdlMjRlOGZjMjIwMDAwMDE3N2RkMTQ3YjYw`

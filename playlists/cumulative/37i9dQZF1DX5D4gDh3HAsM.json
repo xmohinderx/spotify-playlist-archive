@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 196440,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 226973,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/0aMkS3yNwY1wYgvsQTj7ZB"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 292626,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4s6oQ7wdy7jOv53weBiPli"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 201000,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/5xaV3gdr0AZH2S4bWIPkUv"
@@ -323,7 +323,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 222000,
       "name": "Dech The Hall Boughs Of Holly",
       "url": "https://open.spotify.com/track/1FGO7AYk1tg2jEgfptla6O"
@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 185030,
       "name": "Diddly Squat",
       "url": "https://open.spotify.com/track/660M8KW5kBG8fFsKAuQWY2"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 168938,
       "name": "Fly Santa Fly",
       "url": "https://open.spotify.com/track/7DI1HipOBEAMSEGmfVVNgw"
@@ -431,7 +431,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "Have a Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/3DY7RPevRunOOtUEvGfMdF"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 181773,
       "name": "Here Comes Santa Claus",
       "url": "https://open.spotify.com/track/1k0Fo8boJohHlLF4n9Zhht"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 253058,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/0JY5B4TlHfWBqg72hF7KwX"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 236253,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/7nOQ6mHoT4WUqkzrks8CfI"
@@ -724,6 +724,40 @@
     },
     {
       "album": {
+        "name": "My Christmas Night",
+        "url": "https://open.spotify.com/album/5D7pny6WmrExJWAjRkF6lo"
+      },
+      "artists": [
+        {
+          "name": "Massimo Fara\u00f2",
+          "url": "https://open.spotify.com/artist/04qLma4TvriHyGJ0YlK6XI"
+        },
+        {
+          "name": "Claudia Zannoni",
+          "url": "https://open.spotify.com/artist/4eN593B6Ds22wgrTuCUg9s"
+        },
+        {
+          "name": "Davide Palladin",
+          "url": "https://open.spotify.com/artist/5NKYpROtVAHu5iudIQSs8z"
+        },
+        {
+          "name": "Nicola Barbon",
+          "url": "https://open.spotify.com/artist/2HeWIvHGcrKkN5dab3lMnL"
+        },
+        {
+          "name": "Roberto Bobo Facchinetti",
+          "url": "https://open.spotify.com/artist/5s1zZW6PDPTqwtBRXCKAIz"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248052,
+      "name": "My Christmas Night",
+      "url": "https://open.spotify.com/track/49LTYbjanIrYyKgUKA2s5R"
+    },
+    {
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/1qnpNMKpPzIC0eXrzVSh6K"
       },
@@ -735,7 +769,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 289000,
       "name": "O Lettle Town Of Bethlehem",
       "url": "https://open.spotify.com/track/1IBOildd9ZjEcuuAZJz8fB"
@@ -861,7 +895,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 147751,
       "name": "Shake Hands With Santa Claus",
       "url": "https://open.spotify.com/track/43cikuYdx521QNlJxwpOx3"
@@ -1105,7 +1139,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 249960,
       "name": "What Are You Doing New Year's Eve?",
       "url": "https://open.spotify.com/track/2pPuNt9XzSz79qnrCl5hBf"

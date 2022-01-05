@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana. Cover: The Northern Belle",
   "name": "Nordic Folk",
-  "num_followers": 154182,
+  "num_followers": 154201,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTI1Njk1NiwwMDAwMDAwMGZhNTcxOGJlZGE2NzI3MDRhNTk3MDMxYmVmN2YyMDVh",
+  "snapshot_id": "MTY0MTM0MzQ3OCwwMDAwMDAwMDFkYzc2MDg2OTgzODY2NDNlYTQ3ZGVmZmQ2MTVjZTI3",
   "tracks": [
     {
       "added_at": "2021-12-02 23:00:00",
@@ -47,58 +47,6 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Veronica & Veronika",
-        "url": "https://open.spotify.com/album/66DdGBAMdsopKPTdSYQXjv"
-      },
-      "artists": [
-        {
-          "name": "My Bubba",
-          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
-        },
-        {
-          "name": "Elsa H\u00e5kansson",
-          "url": "https://open.spotify.com/artist/4q7HtD6vr5asdQr8CJmFME"
-        }
-      ],
-      "duration_ms": 232448,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/5MulsCSWNznHXELAlB6xpe"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "The Sky Is Painted Gray Today",
-        "url": "https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 221682,
-      "name": "The Sky Is Painted Gray Today",
-      "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line of Fire",
-      "url": "https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
         "name": "The Women in Me",
         "url": "https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu"
       },
@@ -135,18 +83,34 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Set The House on Fire",
-        "url": "https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 218280,
-      "name": "House by the Sea",
-      "url": "https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0"
+      "duration_ms": 188080,
+      "name": "Line of Fire",
+      "url": "https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "The Sky Is Painted Gray Today",
+        "url": "https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 221682,
+      "name": "The Sky Is Painted Gray Today",
+      "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -167,6 +131,26 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
+        "name": "Veronica & Veronika",
+        "url": "https://open.spotify.com/album/66DdGBAMdsopKPTdSYQXjv"
+      },
+      "artists": [
+        {
+          "name": "My Bubba",
+          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
+        },
+        {
+          "name": "Elsa H\u00e5kansson",
+          "url": "https://open.spotify.com/artist/4q7HtD6vr5asdQr8CJmFME"
+        }
+      ],
+      "duration_ms": 232448,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/5MulsCSWNznHXELAlB6xpe"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
         "name": "Ain't nobody like me",
         "url": "https://open.spotify.com/album/7I7MDoKMtJdFzwQBe8LVh3"
       },
@@ -179,90 +163,6 @@
       "duration_ms": 205253,
       "name": "Ain't nobody like me",
       "url": "https://open.spotify.com/track/4MzstnWuONzS5gYlBTnVBc"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 255853,
-      "name": "Love is All",
-      "url": "https://open.spotify.com/track/3gVuz4Bhvxb2J0iGSH8bCZ"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Floating Harmonies",
-        "url": "https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Gold Laces",
-      "url": "https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Dead Of The Night",
-        "url": "https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71"
-      },
-      "artists": [
-        {
-          "name": "Sondre Lerche",
-          "url": "https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub"
-        }
-      ],
-      "duration_ms": 607299,
-      "name": "Dead Of The Night",
-      "url": "https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Morten Myklebust",
-        "url": "https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic"
-      },
-      "artists": [
-        {
-          "name": "Morten Myklebust",
-          "url": "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
-        },
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "Away",
-      "url": "https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -283,182 +183,34 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+        "name": "Dead Of The Night",
+        "url": "https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Sondre Lerche",
+          "url": "https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+      "duration_ms": 607299,
+      "name": "Dead Of The Night",
+      "url": "https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "I saw her from here/I saw here from her",
-        "url": "https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J"
       },
       "artists": [
         {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        },
-        {
-          "name": "Linnea Olsson",
-          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Flora Kuriosa",
-        "url": "https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f8kedal",
-          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
-        }
-      ],
-      "duration_ms": 183456,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Vinyl and a Heartache",
-        "url": "https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 219413,
-      "name": "The Sweetest Tune",
-      "url": "https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
-      },
-      "artists": [
-        {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
-        }
-      ],
-      "duration_ms": 133184,
-      "name": "The Devil's Tongue",
-      "url": "https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "The Lion's Roar",
-        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "100 words for fear",
-        "url": "https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D"
-      },
-      "artists": [
-        {
-          "name": "Firstnighter",
-          "url": "https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q"
-        }
-      ],
-      "duration_ms": 180546,
-      "name": "Baltic Sea",
-      "url": "https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Joni was right pt. II",
-        "url": "https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 200262,
-      "name": "Bluebelle mountain",
-      "url": "https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Big Sky Country",
-        "url": "https://open.spotify.com/album/773tK2NDvFS4uNp5v4gttg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Talvik",
-          "url": "https://open.spotify.com/artist/4Hd0rNhaixhFLrjZ2WRCCM"
-        }
-      ],
-      "duration_ms": 176706,
-      "name": "Aha-Aha",
-      "url": "https://open.spotify.com/track/3sVPDzUFOlf0B9bKDlGA03"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Lou Lou",
-        "url": "https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH"
-      },
-      "artists": [
-        {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        }
-      ],
-      "duration_ms": 124720,
-      "name": "Lou Lou",
-      "url": "https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy"
+      "duration_ms": 255853,
+      "name": "Love is All",
+      "url": "https://open.spotify.com/track/3gVuz4Bhvxb2J0iGSH8bCZ"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -483,98 +235,82 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Big Bad Good",
-        "url": "https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
       "artists": [
         {
-          "name": "My Bubba",
-          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Big Bad Good",
-      "url": "https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ"
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Joni was right",
-        "url": "https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z"
+        "name": "I saw her from here/I saw here from her",
+        "url": "https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW"
       },
       "artists": [
         {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
         }
       ],
-      "duration_ms": 197192,
-      "name": "Morgan, I might",
-      "url": "https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN"
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw"
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
       },
       "artists": [
         {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
         }
       ],
-      "duration_ms": 241120,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM"
+      "duration_ms": 133184,
+      "name": "The Devil's Tongue",
+      "url": "https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Dad Told Me",
-        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
       "artists": [
         {
-          "name": "Hello Saferide",
-          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 155213,
-      "name": "Oh God",
-      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Poetry & Airplanes",
-        "url": "https://open.spotify.com/album/34oIehPYK5k45VsV6nCM1M"
+        "name": "Set The House on Fire",
+        "url": "https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP"
       },
       "artists": [
         {
-          "name": "Teitur",
-          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 211413,
-      "name": "I Was Just Thinking",
-      "url": "https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Your Ghost",
-        "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Your Ghost",
-      "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
+      "duration_ms": 218280,
+      "name": "House by the Sea",
+      "url": "https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -599,66 +335,122 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Joni was right pt. II",
-        "url": "https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK"
+        "name": "Floating Harmonies",
+        "url": "https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD"
       },
       "artists": [
         {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Winter never lasts forever",
-      "url": "https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu"
+      "duration_ms": 220760,
+      "name": "Gold Laces",
+      "url": "https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS"
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
       },
       "artists": [
         {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 180072,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1"
+      "duration_ms": 220333,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Skisser",
-        "url": "https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j"
+        "name": "Morten Myklebust",
+        "url": "https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic"
       },
       "artists": [
         {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+          "name": "Morten Myklebust",
+          "url": "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
+        },
+        {
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
         }
       ],
-      "duration_ms": 184320,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
+      "duration_ms": 178746,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/4em9t89kgjEodZ8KHtDVYH"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Time Of The Blue",
-        "url": "https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo"
+        "name": "Flora Kuriosa",
+        "url": "https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Fr\u00f8kedal",
+          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
         }
       ],
-      "duration_ms": 226122,
-      "name": "Time Of The Blue",
-      "url": "https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR"
+      "duration_ms": 183456,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Lou Lou",
+        "url": "https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 124720,
+      "name": "Lou Lou",
+      "url": "https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Dad Told Me",
+        "url": "https://open.spotify.com/album/2mboC8ajeSsXhwG4IQMzb2"
+      },
+      "artists": [
+        {
+          "name": "Hello Saferide",
+          "url": "https://open.spotify.com/artist/4Qxe8uorrQxMoMkhv0HrK3"
+        }
+      ],
+      "duration_ms": 155213,
+      "name": "Oh God",
+      "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -679,134 +471,18 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
+        "name": "Joni was right pt. II",
+        "url": "https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK"
       },
       "artists": [
         {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
         }
       ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Love EP",
-        "url": "https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp"
-      },
-      "artists": [
-        {
-          "name": "Unnveig Aas",
-          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
-        }
-      ],
-      "duration_ms": 199840,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Jonas Alaska",
-        "url": "https://open.spotify.com/album/27tzQzthvpruYJmo2X5PcT"
-      },
-      "artists": [
-        {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
-        }
-      ],
-      "duration_ms": 224179,
-      "name": "October",
-      "url": "https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "The Ghost In Your Smile // Seventeen",
-        "url": "https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T"
-      },
-      "artists": [
-        {
-          "name": "Jarle Skavhellen",
-          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
-        }
-      ],
-      "duration_ms": 227760,
-      "name": "The Ghost In Your Smile",
-      "url": "https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Was There Nothing?",
-        "url": "https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 228950,
-      "name": "Was There Nothing?",
-      "url": "https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/3hgmDOXMqt6KQLRZNi4ZUj"
-      },
-      "artists": [
-        {
-          "name": "Inge Bremnes",
-          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
-        }
-      ],
-      "duration_ms": 283401,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/5DpTlBdTHCvdbjg9Nl9mCx"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "All My Life",
-        "url": "https://open.spotify.com/album/6J4FJ08uYXTNQ4Tfz3086J"
-      },
-      "artists": [
-        {
-          "name": "Claudia Scott",
-          "url": "https://open.spotify.com/artist/777v7gGGlGEYyqqvinQ481"
-        },
-        {
-          "name": "Casino Steel",
-          "url": "https://open.spotify.com/artist/58kOvhIZpOMFKjNND4ucuj"
-        }
-      ],
-      "duration_ms": 326314,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/1uAYzAogqtmB63DDrikfQE"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/1EmBIWpPRn6MNe311hh8VA"
-      },
-      "artists": [
-        {
-          "name": "Tina Refsnes",
-          "url": "https://open.spotify.com/artist/4k4ZCaLoprf7qfc8DSWaKL"
-        }
-      ],
-      "duration_ms": 234313,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap"
+      "duration_ms": 226666,
+      "name": "Winter never lasts forever",
+      "url": "https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -827,18 +503,290 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
+        "name": "100 words for fear",
+        "url": "https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Firstnighter",
+          "url": "https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+      "duration_ms": 180546,
+      "name": "Baltic Sea",
+      "url": "https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Joni was right",
+        "url": "https://open.spotify.com/album/65l2iPEXg8EDMUY8lUs50z"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Morgan, I might",
+      "url": "https://open.spotify.com/track/4iVOmOgUWI6tyqKvwyINXN"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/3hgmDOXMqt6KQLRZNi4ZUj"
+      },
+      "artists": [
+        {
+          "name": "Inge Bremnes",
+          "url": "https://open.spotify.com/artist/4lgiQEUzN7K9IsXDXpHkVB"
+        }
+      ],
+      "duration_ms": 283401,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/5DpTlBdTHCvdbjg9Nl9mCx"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Time Of The Blue",
+        "url": "https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 226122,
+      "name": "Time Of The Blue",
+      "url": "https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Big Sky Country",
+        "url": "https://open.spotify.com/album/773tK2NDvFS4uNp5v4gttg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Talvik",
+          "url": "https://open.spotify.com/artist/4Hd0rNhaixhFLrjZ2WRCCM"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "Aha-Aha",
+      "url": "https://open.spotify.com/track/3sVPDzUFOlf0B9bKDlGA03"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Vinyl and a Heartache",
+        "url": "https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "The Sweetest Tune",
+      "url": "https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180072,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Poetry & Airplanes",
+        "url": "https://open.spotify.com/album/34oIehPYK5k45VsV6nCM1M"
+      },
+      "artists": [
+        {
+          "name": "Teitur",
+          "url": "https://open.spotify.com/artist/1lrjRRYpYP8kVTlHLShjJM"
+        }
+      ],
+      "duration_ms": 211413,
+      "name": "I Was Just Thinking",
+      "url": "https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Big Bad Good",
+        "url": "https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu"
+      },
+      "artists": [
+        {
+          "name": "My Bubba",
+          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Big Bad Good",
+      "url": "https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Joni was right pt. II",
+        "url": "https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 200262,
+      "name": "Bluebelle mountain",
+      "url": "https://open.spotify.com/track/7dCjkIv4HK8V8QxfTVQWCa"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Was There Nothing?",
+        "url": "https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 228950,
+      "name": "Was There Nothing?",
+      "url": "https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "The Story Of A Heart's Decay",
+        "url": "https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija"
+      },
+      "artists": [
+        {
+          "name": "Kristofer \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA"
+        }
+      ],
+      "duration_ms": 266520,
+      "name": "Ghost Mess",
+      "url": "https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Live 2020",
+        "url": "https://open.spotify.com/album/3MfrdryGGjczqK1NalPSks"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 258720,
+      "name": "River - Live",
+      "url": "https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Your Ghost",
+        "url": "https://open.spotify.com/album/7JXH3FywIyJcFWN1mFVKbU"
+      },
+      "artists": [
+        {
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Your Ghost",
+      "url": "https://open.spotify.com/track/1itLAVoiQi49DTjW3dRtNS"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Love EP",
+        "url": "https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp"
+      },
+      "artists": [
+        {
+          "name": "Unnveig Aas",
+          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -879,114 +827,50 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "What Hurts the Most (Is Knowing You Want to Leave)",
-        "url": "https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI"
+        "name": "Jonas Alaska",
+        "url": "https://open.spotify.com/album/27tzQzthvpruYJmo2X5PcT"
       },
       "artists": [
         {
-          "name": "Unnveig Aas",
-          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
         }
       ],
-      "duration_ms": 271280,
-      "name": "What Hurts the Most (Is Knowing You Want to Leave)",
-      "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"
+      "duration_ms": 224179,
+      "name": "October",
+      "url": "https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "\u00d3l\u00f6f Sings - EP",
-        "url": "https://open.spotify.com/album/36k7RNKHKNGJyOnEI2C6ZU"
+        "name": "Solfager og Ormekongen",
+        "url": "https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS"
       },
       "artists": [
         {
-          "name": "\u00d3l\u00f6f Arnalds",
-          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+          "name": "G\u00e5te",
+          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
         }
       ],
-      "duration_ms": 257440,
-      "name": "With Tomorrow/I'm On Fire",
-      "url": "https://open.spotify.com/track/4fcQm79lQN2GJHRYq75sSO"
+      "duration_ms": 293640,
+      "name": "Solfager og Ormekongen",
+      "url": "https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI"
     },
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Unknown/Running",
-        "url": "https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak"
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/1EmBIWpPRn6MNe311hh8VA"
       },
       "artists": [
         {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+          "name": "Tina Refsnes",
+          "url": "https://open.spotify.com/artist/4k4ZCaLoprf7qfc8DSWaKL"
         }
       ],
-      "duration_ms": 250850,
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/3fXbUuDBRoe0PMQ3BItnAc"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "While I Was Asleep",
-      "url": "https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "The Sparks Flew Up",
-        "url": "https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm"
-      },
-      "artists": [
-        {
-          "name": "Morten Myklebust",
-          "url": "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Kaleidoscope Dream",
-        "url": "https://open.spotify.com/album/09UeNYXrcwTA0CFIx2P6c3"
-      },
-      "artists": [
-        {
-          "name": "The Northern Belle",
-          "url": "https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS"
-        }
-      ],
-      "duration_ms": 219070,
-      "name": "Kaleidoscope Dream",
-      "url": "https://open.spotify.com/track/7AA7OKI46YdQ64gXSDBQv6"
-    },
-    {
-      "added_at": "2021-12-02 23:00:00",
-      "album": {
-        "name": "Alle snakker sant",
-        "url": "https://open.spotify.com/album/22vJhT8LsQgC27izuQ7Pd3"
-      },
-      "artists": [
-        {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Alle snakker sant",
-      "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
+      "duration_ms": 234313,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap"
     },
     {
       "added_at": "2021-12-02 23:00:00",
@@ -1007,18 +891,130 @@
     {
       "added_at": "2021-12-02 23:00:00",
       "album": {
-        "name": "Nord",
-        "url": "https://open.spotify.com/album/3MOfbBRIIiDiJANV0Ko6GN"
+        "name": "I'll Be Waiting For You (In the Grey)",
+        "url": "https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f"
       },
       "artists": [
         {
-          "name": "G\u00e5te",
-          "url": "https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524"
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
         }
       ],
-      "duration_ms": 317053,
-      "name": "Sj\u00e5aren",
-      "url": "https://open.spotify.com/track/3zsLCHX1W9eyxCGvdtGnRQ"
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6EWRRqhOPsm1eAtnDwx4fu"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "I'll Be Here for You",
+        "url": "https://open.spotify.com/album/3PgiPyzy6glPCRBRsjhXpK"
+      },
+      "artists": [
+        {
+          "name": "Cocktail Slippers",
+          "url": "https://open.spotify.com/artist/6vNj2NchLaDiqBH8nBAF2g"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "I'll Be Here for You",
+      "url": "https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "What Hurts the Most (Is Knowing You Want to Leave)",
+        "url": "https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI"
+      },
+      "artists": [
+        {
+          "name": "Unnveig Aas",
+          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "What Hurts the Most (Is Knowing You Want to Leave)",
+      "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Sumie",
+        "url": "https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "duration_ms": 195741,
+      "name": "Hunting Sky",
+      "url": "https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "The Sparks Flew Up",
+        "url": "https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm"
+      },
+      "artists": [
+        {
+          "name": "Morten Myklebust",
+          "url": "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
+        }
+      ],
+      "duration_ms": 153373,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/2bZ5sNOSfy5NOOq69D1IIg"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lips",
+          "url": "https://open.spotify.com/artist/57wRcXzsm02wA9Vh0yeJkb"
+        }
+      ],
+      "duration_ms": 289924,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3Ies4YqUvwKGY8TxKmxicZ"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "Vinyl and a Heartache",
+        "url": "https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "Vinyl and a Heartache",
+      "url": "https://open.spotify.com/track/4Cvj1Q6S7FktJwwkJLaS9V"
+    },
+    {
+      "added_at": "2021-12-02 23:00:00",
+      "album": {
+        "name": "The One In The Sun",
+        "url": "https://open.spotify.com/album/4DXawyeE4kw5W7RW85Zd6v"
+      },
+      "artists": [
+        {
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
+        }
+      ],
+      "duration_ms": 324138,
+      "name": "Siren",
+      "url": "https://open.spotify.com/track/7KvtfHiJ6Egxz27DYaOO59"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4jUyNIMkj6N"

@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148610,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/3WY8hLynnpmXPzdwPl0zjH"
+    },
+    {
+      "album": {
         "name": "CAUTIOUS",
         "url": "https://open.spotify.com/album/6Hz60yvlonoL9NJxKA2u15"
       },
@@ -480,6 +498,48 @@
     },
     {
       "album": {
+        "name": "BLACK WALL STREET",
+        "url": "https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU"
+      },
+      "artists": [
+        {
+          "name": "Van Buren Records",
+          "url": "https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj"
+        },
+        {
+          "name": "AzizTheShake",
+          "url": "https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z"
+        },
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "SAINT LYOR",
+          "url": "https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU"
+        },
+        {
+          "name": "Luke Bar$",
+          "url": "https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr"
+        },
+        {
+          "name": "Invada",
+          "url": "https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X"
+        },
+        {
+          "name": "FELIX!",
+          "url": "https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280500,
+      "name": "CULT",
+      "url": "https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl"
+    },
+    {
+      "album": {
         "name": "Bigger Than Life Or Death (Deluxe)",
         "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
@@ -535,7 +595,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 114580,
       "name": "Deep Fried",
       "url": "https://open.spotify.com/track/6zeeyIMUCqg8o3yFholZJ8"
@@ -815,7 +875,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 248673,
       "name": "Got A Lil Older (with Hurricane Wisdom)",
       "url": "https://open.spotify.com/track/7MIPuDvIfH3A5Bo67efpb8"

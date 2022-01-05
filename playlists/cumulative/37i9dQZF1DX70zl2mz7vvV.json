@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 209946,
       "name": "Baby Can I Hold You Tonight",
       "url": "https://open.spotify.com/track/1UZu42Sn6pGcRPFyPh2yTo"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 182828,
       "name": "Big Big",
       "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 228166,
       "name": "Everyone Falls In Love",
       "url": "https://open.spotify.com/track/1jRVjtZnyLjE0LOS8UT78f"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 176213,
       "name": "Ganga Lee",
       "url": "https://open.spotify.com/track/7GrDTXhDzVTUKYl49Whe9e"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 232781,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
@@ -607,6 +607,24 @@
       },
       "artists": [
         {
+          "name": "Frankie Paul",
+          "url": "https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209627,
+      "name": "Kushumpeng",
+      "url": "https://open.spotify.com/track/7HBuxHsm3kslrZ0jjmaTfK"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
           "name": "Echo Minott",
           "url": "https://open.spotify.com/artist/6qT3BuvjUmrtH3OzJ18mRh"
         }
@@ -631,7 +649,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 203392,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
@@ -667,7 +685,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 212262,
       "name": "Living In Love",
       "url": "https://open.spotify.com/track/5XXd7aHObJEHYm9FpsNeKH"
@@ -689,6 +707,28 @@
       "duration_ms": 231634,
       "name": "Longing For",
       "url": "https://open.spotify.com/track/5AJrLAegpdGCK0nhEAf8Zv"
+    },
+    {
+      "album": {
+        "name": "Down In Jamaica: 40 Years of VP Records",
+        "url": "https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191265,
+      "name": "Loodi (feat. Vybz Kartel)",
+      "url": "https://open.spotify.com/track/1CIHxDDSh3DoSyeAaxpRyd"
     },
     {
       "album": {
@@ -833,7 +873,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 244412,
       "name": "Note To Self (Okay) [feat. Chronixx]",
       "url": "https://open.spotify.com/track/5FuUXAoCJoh7k9F8jJ6jkA"
@@ -1097,7 +1137,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 235533,
       "name": "Strange",
       "url": "https://open.spotify.com/track/0hBoSLU2bvScgEA8JAAiyQ"
@@ -1115,7 +1155,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 262800,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
@@ -1169,7 +1209,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 246453,
       "name": "That Day Will Come",
       "url": "https://open.spotify.com/track/6D4eMFcg3DquhNOQsNanQk"
@@ -1187,7 +1227,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
@@ -1209,7 +1249,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 227933,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
@@ -1253,7 +1293,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 265053,
       "name": "Unity We Need (feat. Chronixx)",
       "url": "https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO"

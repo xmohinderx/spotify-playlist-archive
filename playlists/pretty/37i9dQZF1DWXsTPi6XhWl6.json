@@ -1,45 +1,13 @@
 {
   "description": "Wake up with the brightest Indie.",
   "name": "Wide Awake",
-  "num_followers": 34320,
+  "num_followers": 34314,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTI1Njc4OSwwMDAwMDAwMDg3ODNmM2M4MDU4ODBlMDk5M2I4MmM0MjM4Zjk3MDM1",
+  "snapshot_id": "MTY0MTM0MzMxNCwwMDAwMDAwMDliYjg5OTVlYjJlYTUxMDc1MmI2ODQ2NjBjMGU3NTk2",
   "tracks": [
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Little Bit Sweet",
-        "url": "https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf"
-      },
-      "artists": [
-        {
-          "name": "The Wood Brothers",
-          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "Little Bit Sweet",
-      "url": "https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/4C2yMWKNf2gLgXZgdhazzu"
-    },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
@@ -55,70 +23,6 @@
       "duration_ms": 202986,
       "name": "Tell The Truth",
       "url": "https://open.spotify.com/track/49FzWoEDUNK9gm8fvg9GNv"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "People Are My Drug",
-        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
-      },
-      "artists": [
-        {
-          "name": "Phil Cook",
-          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
-        }
-      ],
-      "duration_ms": 241746,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "House Of My Soul (You Light The Rooms)",
-      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Fool for Love",
-        "url": "https://open.spotify.com/album/1J4OG63lFxJ65zzwLyF3rp"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Fool for Love",
-      "url": "https://open.spotify.com/track/3g0XVm6ZTWHbtTTfKhmMo7"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3"
-      },
-      "artists": [
-        {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Lake Michigan",
-      "url": "https://open.spotify.com/track/4Gbz1YBij1vdogaY9FyayG"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -139,8 +43,136 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Suck on Light",
-        "url": "https://open.spotify.com/album/25rb1ybijxE3mHW12iXdx3"
+        "name": "Little Bit Sweet",
+        "url": "https://open.spotify.com/album/6w5n5ZIDw2AvPuNByudKMf"
+      },
+      "artists": [
+        {
+          "name": "The Wood Brothers",
+          "url": "https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "Little Bit Sweet",
+      "url": "https://open.spotify.com/track/3xsgF2bDlvb10Dy1VA7rXE"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "People Are My Drug",
+        "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
+      },
+      "artists": [
+        {
+          "name": "Phil Cook",
+          "url": "https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E"
+        }
+      ],
+      "duration_ms": 241746,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Passwords",
+        "url": "https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 357477,
+      "name": "Feed The Fire",
+      "url": "https://open.spotify.com/track/0dq6hRNyNRXCDIfzk6UFJF"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "House Of My Soul (You Light The Rooms)",
+      "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Texas Piano Man",
+        "url": "https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9"
+      },
+      "artists": [
+        {
+          "name": "Robert Ellis",
+          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "When You're Away",
+      "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/23h1Qs3UhemYK1ekqgw1uk"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/4C2yMWKNf2gLgXZgdhazzu"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "C\u2019est La Vie",
+        "url": "https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 299685,
+      "name": "New Birth in New England",
+      "url": "https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7uFQTjB1C5Wa61owwtrYJ3"
+      },
+      "artists": [
+        {
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Lake Michigan",
+      "url": "https://open.spotify.com/track/4Gbz1YBij1vdogaY9FyayG"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Harlequin Dream",
+        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
       },
       "artists": [
         {
@@ -148,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
         }
       ],
-      "duration_ms": 215400,
-      "name": "Hold Your Nerve",
-      "url": "https://open.spotify.com/track/6EIqY6G5P3cPJ0bGNbMtAI"
+      "duration_ms": 281100,
+      "name": "Southern Sun",
+      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -167,6 +199,22 @@
       "duration_ms": 307213,
       "name": "Ragged Wood",
       "url": "https://open.spotify.com/track/5gXF3XyUkM9BVA8QW7uYUg"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "From the Hills Below the City",
+        "url": "https://open.spotify.com/album/2eaQyM7iQvIuvNlyj1QSrC"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "On the Road",
+      "url": "https://open.spotify.com/track/0Ja8hGjNaq22wMUmLYhSxm"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -191,50 +239,118 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
+        "name": "Fool for Love",
+        "url": "https://open.spotify.com/album/1J4OG63lFxJ65zzwLyF3rp"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Chateau Lobby #4 (in C for Two Virgins)",
-      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
+      "duration_ms": 274706,
+      "name": "Fool for Love",
+      "url": "https://open.spotify.com/track/3g0XVm6ZTWHbtTTfKhmMo7"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO"
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4"
       },
       "artists": [
         {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL"
+      "duration_ms": 194786,
+      "name": "Edges Run",
+      "url": "https://open.spotify.com/track/2qVSSvq7LU5jCUMnkApMQW"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Texas Piano Man",
-        "url": "https://open.spotify.com/album/5EMqbcSQgub9fRFwmcfxa9"
+        "name": "Suck on Light",
+        "url": "https://open.spotify.com/album/25rb1ybijxE3mHW12iXdx3"
       },
       "artists": [
         {
-          "name": "Robert Ellis",
-          "url": "https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE"
+          "name": "Boy & Bear",
+          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
         }
       ],
-      "duration_ms": 206933,
-      "name": "When You're Away",
-      "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"
+      "duration_ms": 215400,
+      "name": "Hold Your Nerve",
+      "url": "https://open.spotify.com/track/6EIqY6G5P3cPJ0bGNbMtAI"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "The Way We Move",
+        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        },
+        {
+          "name": "The Law",
+          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "The Way We Move",
+      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Tripper",
+        "url": "https://open.spotify.com/album/3K2sY2hmvoNszRzFCEf9fE"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 226120,
+      "name": "You're Too Weird",
+      "url": "https://open.spotify.com/track/33ezCcBwVw2SsAvOsFyJSG"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/7deW5FlwTnjalzBDAftgwf"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "The Rabbit, the Bat, & the Reindeer",
+      "url": "https://open.spotify.com/track/02hDdfBdaJhyVHQkTojXQo"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -271,134 +387,18 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Harlequin Dream",
-        "url": "https://open.spotify.com/album/3v8hOkHJAF79wbr3bVwAAf"
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2X5LfrkRtEik2jGgaDDRMO"
       },
       "artists": [
         {
-          "name": "Boy & Bear",
-          "url": "https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6"
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
         }
       ],
-      "duration_ms": 281100,
-      "name": "Southern Sun",
-      "url": "https://open.spotify.com/track/40ttk439NA9RvbLBJpJU1M"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "It's So Good",
-        "url": "https://open.spotify.com/album/41rdI7qcq10ipkknp2HiwY"
-      },
-      "artists": [
-        {
-          "name": "Railroad Earth",
-          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
-        }
-      ],
-      "duration_ms": 289152,
-      "name": "It's So Good",
-      "url": "https://open.spotify.com/track/16MkvkwXqgzDPMUuYtAiWq"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/4zHd5GGgiH73PTU8vhrMZi"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Lost in My Mind",
-      "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "The Way We Move",
-        "url": "https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "The Way We Move",
-      "url": "https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Passwords",
-        "url": "https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 357477,
-      "name": "Feed The Fire",
-      "url": "https://open.spotify.com/track/0dq6hRNyNRXCDIfzk6UFJF"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "From the Hills Below the City",
-        "url": "https://open.spotify.com/album/2eaQyM7iQvIuvNlyj1QSrC"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "On the Road",
-      "url": "https://open.spotify.com/track/0Ja8hGjNaq22wMUmLYhSxm"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Shame Shame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5gGFADEHnGcGKYMUNBNPJL"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 253093,
-      "name": "Shadow People",
-      "url": "https://open.spotify.com/track/4TOZUsvOphCMOYIAZV8bRM"
+      "duration_ms": 247506,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/6n1zT8W5EaIYvWIT2DyROL"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -419,130 +419,18 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Something Higher",
-        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
       },
       "artists": [
         {
-          "name": "Leftover Salmon",
-          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 327760,
-      "name": "Show Me Something Higher",
-      "url": "https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Magpie And The Dandelion (Deluxe)",
-        "url": "https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Morning Song",
-      "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Up From Below",
-        "url": "https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "40 Day Dream",
-      "url": "https://open.spotify.com/track/3WBWgjyg6ew1Bq2sehB4is"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Living Mirage",
-        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 252301,
-      "name": "People Need A Melody",
-      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Edges Run",
-      "url": "https://open.spotify.com/track/2qVSSvq7LU5jCUMnkApMQW"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/14xxjLlbGy8ACm4MorBjD5"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 348226,
-      "name": "Burning",
-      "url": "https://open.spotify.com/track/6pc6BNY6rFvdmf9O3PQizQ"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "North Hills",
-        "url": "https://open.spotify.com/album/58XLXjaWRukUeT2GGQkNDf"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 308373,
-      "name": "When My Time Comes",
-      "url": "https://open.spotify.com/track/0kzfqqvipRSBQchrB3xX8D"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Fate",
-        "url": "https://open.spotify.com/album/7deW5FlwTnjalzBDAftgwf"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "The Rabbit, the Bat, & the Reindeer",
-      "url": "https://open.spotify.com/track/02hDdfBdaJhyVHQkTojXQo"
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -563,130 +451,114 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/61X8msx06YFzh8cKZosD5X"
+        "name": "Up From Below",
+        "url": "https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf"
       },
       "artists": [
         {
-          "name": "Jessica Lea Mayfield",
-          "url": "https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5"
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Our Hearts Are Wrong",
-      "url": "https://open.spotify.com/track/6Wf0dbrqvBkEUSe12cRsps"
+      "duration_ms": 233586,
+      "name": "40 Day Dream",
+      "url": "https://open.spotify.com/track/3WBWgjyg6ew1Bq2sehB4is"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "All the Things That I Did and All the Things That I Didn't Do",
-        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
         }
       ],
-      "duration_ms": 229760,
-      "name": "Younger Years",
-      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/4zHd5GGgiH73PTU8vhrMZi"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "The Voyager",
-        "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
+        "name": "I Love You, Honeybear",
+        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 231826,
-      "name": "Just One of the Guys",
-      "url": "https://open.spotify.com/track/5YdrHBh16li6d7U5mdTwUb"
+      "duration_ms": 170826,
+      "name": "Chateau Lobby #4 (in C for Two Virgins)",
+      "url": "https://open.spotify.com/track/2eg2gvPXuwZ9FyrPaLgrXi"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "C\u2019est La Vie",
-        "url": "https://open.spotify.com/album/2Ex277htheVs9aDi6svcsv"
+        "name": "Shame Shame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5gGFADEHnGcGKYMUNBNPJL"
       },
       "artists": [
         {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
         }
       ],
-      "duration_ms": 299685,
-      "name": "New Birth in New England",
-      "url": "https://open.spotify.com/track/3YOv5LNRVbrmWnVVyk3Flj"
+      "duration_ms": 253093,
+      "name": "Shadow People",
+      "url": "https://open.spotify.com/track/4TOZUsvOphCMOYIAZV8bRM"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Emotionalism",
-        "url": "https://open.spotify.com/album/2ktxUTtc7FIpTH3vN70NZm"
+        "name": "North Hills",
+        "url": "https://open.spotify.com/album/58XLXjaWRukUeT2GGQkNDf"
       },
       "artists": [
         {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 170866,
-      "name": "Die Die Die",
-      "url": "https://open.spotify.com/track/1FZKxt9SOFvxKbhjzlBONc"
+      "duration_ms": 308373,
+      "name": "When My Time Comes",
+      "url": "https://open.spotify.com/track/0kzfqqvipRSBQchrB3xX8D"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Surefire",
-        "url": "https://open.spotify.com/album/1I2hGwPg0UwRN8pxBHJQLZ"
+        "name": "The Stand Ins",
+        "url": "https://open.spotify.com/album/4iyJdf6kUi1QrnluWY0GfQ"
       },
       "artists": [
         {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+          "name": "Okkervil River",
+          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
         }
       ],
-      "duration_ms": 241194,
-      "name": "Surefire",
-      "url": "https://open.spotify.com/track/2N2gukfZet8Oe4aYR5Apd6"
+      "duration_ms": 331800,
+      "name": "Lost Coastlines",
+      "url": "https://open.spotify.com/track/2016zoJ6TxYzqjwQNMh3kw"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "What A Terrible World, What A Beautiful World",
-        "url": "https://open.spotify.com/album/0K0WhguFHBracRbeSzZgvR"
+        "name": "It's So Good",
+        "url": "https://open.spotify.com/album/41rdI7qcq10ipkknp2HiwY"
       },
       "artists": [
         {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+          "name": "Railroad Earth",
+          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
         }
       ],
-      "duration_ms": 322173,
-      "name": "A Beginning Song",
-      "url": "https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG"
-    },
-    {
-      "added_at": "2020-01-14 15:07:32",
-      "album": {
-        "name": "Gimme Fiction",
-        "url": "https://open.spotify.com/album/6vyAFziqgHQcubDnUWlulS"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "I Summon You",
-      "url": "https://open.spotify.com/track/5956lnyCfA6I4qA5n8vPpT"
+      "duration_ms": 289152,
+      "name": "It's So Good",
+      "url": "https://open.spotify.com/track/16MkvkwXqgzDPMUuYtAiWq"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -707,6 +579,22 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -723,50 +611,50 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
+        "name": "There's No Leaving Now",
+        "url": "https://open.spotify.com/album/6Q0hHqrRXKkbafJcHQQ9dF"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23HxMVdUqSsWwar52dS4ZT"
+      "duration_ms": 239733,
+      "name": "1904",
+      "url": "https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Tripper",
-        "url": "https://open.spotify.com/album/3K2sY2hmvoNszRzFCEf9fE"
+        "name": "What A Terrible World, What A Beautiful World",
+        "url": "https://open.spotify.com/album/0K0WhguFHBracRbeSzZgvR"
       },
       "artists": [
         {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
         }
       ],
-      "duration_ms": 226120,
-      "name": "You're Too Weird",
-      "url": "https://open.spotify.com/track/33ezCcBwVw2SsAvOsFyJSG"
+      "duration_ms": 322173,
+      "name": "A Beginning Song",
+      "url": "https://open.spotify.com/track/02Bd8WXqxchkQFBRwo9XKG"
     },
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "Illinois",
-        "url": "https://open.spotify.com/album/7j8lfKDdL7vE8OAM4cA3W3"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/61X8msx06YFzh8cKZosD5X"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Jessica Lea Mayfield",
+          "url": "https://open.spotify.com/artist/3SmFJf7fxX3J0xXP0IlwK5"
         }
       ],
-      "duration_ms": 364613,
-      "name": "Chicago",
-      "url": "https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz"
+      "duration_ms": 186586,
+      "name": "Our Hearts Are Wrong",
+      "url": "https://open.spotify.com/track/6Wf0dbrqvBkEUSe12cRsps"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -783,6 +671,54 @@
       "duration_ms": 223933,
       "name": "Twenty Miles",
       "url": "https://open.spotify.com/track/69XEXAbJTZwFfVz7ayfg3I"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Emotionalism",
+        "url": "https://open.spotify.com/album/2ktxUTtc7FIpTH3vN70NZm"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 170866,
+      "name": "Die Die Die",
+      "url": "https://open.spotify.com/track/1FZKxt9SOFvxKbhjzlBONc"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Gimme Fiction",
+        "url": "https://open.spotify.com/album/6vyAFziqgHQcubDnUWlulS"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "I Summon You",
+      "url": "https://open.spotify.com/track/5956lnyCfA6I4qA5n8vPpT"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "I'll Be Your Girl",
+        "url": "https://open.spotify.com/album/2aCFve5jvcVkJ9JFcNeHc6"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 208960,
+      "name": "Sucker's Prayer",
+      "url": "https://open.spotify.com/track/3pxhPssdL2SJObXb5hpCRu"
     },
     {
       "added_at": "2020-01-14 15:07:32",
@@ -807,18 +743,82 @@
     {
       "added_at": "2020-01-14 15:07:32",
       "album": {
-        "name": "There's No Leaving Now",
-        "url": "https://open.spotify.com/album/6Q0hHqrRXKkbafJcHQQ9dF"
+        "name": "Something Higher",
+        "url": "https://open.spotify.com/album/5SxBT8RsPPkxVX4OWMtzFj"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Leftover Salmon",
+          "url": "https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz"
         }
       ],
-      "duration_ms": 239733,
-      "name": "1904",
-      "url": "https://open.spotify.com/track/2s3cLlYJ45K02djaHIwxUu"
+      "duration_ms": 327760,
+      "name": "Show Me Something Higher",
+      "url": "https://open.spotify.com/track/17IqqKRqItHYtUol1m0LLB"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "The Rip Tide",
+        "url": "https://open.spotify.com/album/7ri0EOAjJuuyawBbbEyU2L"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Santa Fe",
+      "url": "https://open.spotify.com/track/6c9t15M38cWxyt3uLnLfD8"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "All the Things That I Did and All the Things That I Didn't Do",
+        "url": "https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 229760,
+      "name": "Younger Years",
+      "url": "https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "God's Favorite Customer",
+        "url": "https://open.spotify.com/album/0hMPUtgjezv7gUsmhztvPv"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 183532,
+      "name": "Mr. Tillman",
+      "url": "https://open.spotify.com/track/6ZcuwgTbYQ7xz5VN9tBhCw"
+    },
+    {
+      "added_at": "2020-01-14 15:07:32",
+      "album": {
+        "name": "Magpie And The Dandelion (Deluxe)",
+        "url": "https://open.spotify.com/album/3vxPdhrgTuqqPArgXgEDdj"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Morning Song",
+      "url": "https://open.spotify.com/track/5BM4OgN8Giv7Wi5K8TN02M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXsTPi6XhWl6"

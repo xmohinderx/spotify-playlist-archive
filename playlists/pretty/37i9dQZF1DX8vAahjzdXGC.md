@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Mahalini, Nuca
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,052 likes - 78 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,057 likes - 78 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 71 | [Shotgun](https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Shotgun](https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9) | 3:13 |
 | 72 | [UGLY](https://open.spotify.com/track/2dhPuSbG7blYN5tc6VxzHq) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 6: UGLY](https://open.spotify.com/album/0L7Pn96iL4d6oSZYk1QAxa) | 1:58 |
 | 73 | [Gamang](https://open.spotify.com/track/6ExIIFVr7M6rykysFSV8BN) | [Fadhilonn](https://open.spotify.com/artist/1Dd9BdeYo1NJF7aV76ffUc), [Gearda Dewantara](https://open.spotify.com/artist/6BaLEveDzjid1uN4RpfqDV), [Oele Pattiselano](https://open.spotify.com/artist/1Yyxi1yax7rl56OyBMZtqC) | [Gamang](https://open.spotify.com/album/3jMq0UnavuzRLdMKUXUJNB) | 4:23 |
-| 74 | [Hanya Dirimu](https://open.spotify.com/track/7Gzn3VSuobbmhFbkqF8jw0) | [Aditya Bayu](https://open.spotify.com/artist/4APeDtYgpRq1bcMnEziFBg), [Kardo Arghost](https://open.spotify.com/artist/4erugZEn0Sa84FU0TBlFSC) | [Hanya Dirimu](https://open.spotify.com/album/5gLoFkPx0I8fFmxEHQ4P9H) | 2:56 |
+| 74 | [Hanya Dirimu](https://open.spotify.com/track/7Gzn3VSuobbmhFbkqF8jw0) | [Aditya Bayu](https://open.spotify.com/artist/4APeDtYgpRq1bcMnEziFBg), [Kardo Arghost](https://open.spotify.com/artist/5DZoFqBCej6LTql7JJOt12) | [Hanya Dirimu](https://open.spotify.com/album/5gLoFkPx0I8fFmxEHQ4P9H) | 2:56 |
 | 75 | [Run It Back](https://open.spotify.com/track/0b0zxFqmPjeML4hKq0fwD6) | [Cclaymoree](https://open.spotify.com/artist/7DJXE33uI0mo7J625iKkra), [Fianisya](https://open.spotify.com/artist/6zUE3ANPwxiK2DqbWpfjTA) | [Run It Back](https://open.spotify.com/album/6ihijRLPEVDVM6O7WHYWeL) | 5:25 |
 | 76 | [Kehilangan Kamu](https://open.spotify.com/track/0cYfE3WrVWSVstVdQ17ok4) | [Indah Angraini](https://open.spotify.com/artist/0a2k2lPiVUgkKEr9vOSd3B) | [Kehilangan Kamu](https://open.spotify.com/album/6ozPHIOm9Z0zDzcmJW8YPI) | 3:49 |
 | 77 | [Mannequins & Egos](https://open.spotify.com/track/4bCFw61qA3pmWIzR6ULCMY) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [DREAMLAND \(DELUXE\)](https://open.spotify.com/album/7yMUYER67OvjIuGqBgrdZO) | 3:33 |

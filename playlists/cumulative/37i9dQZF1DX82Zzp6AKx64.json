@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 280400,
       "name": "(I Just) Died In Your Arms",
       "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 247440,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0JKelsd3xhPZNRO9hLwj8f"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 203066,
       "name": "Before the Dawn",
       "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
@@ -235,10 +235,28 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 212933,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "album": {
+        "name": "Fight To Survive",
+        "url": "https://open.spotify.com/album/3KUCeF1n3PSIfhOZ9tUdlC"
+      },
+      "artists": [
+        {
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+        }
+      ],
+      "date_added": "2020-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211986,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/7FfE0EoQSsliADYgdxFChG"
     },
     {
       "album": {
@@ -253,7 +271,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 327533,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5LK19eRCqoKuRSVuUEhEKh"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 235360,
       "name": "Don't Treat Me Bad",
       "url": "https://open.spotify.com/track/4lbhQdbiTpNP7GowZG8KsM"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 257440,
       "name": "Empty Rooms",
       "url": "https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 240933,
       "name": "Home Sweet Home",
       "url": "https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 242293,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 322266,
       "name": "I Still Think About You",
       "url": "https://open.spotify.com/track/6lptBl2N4TFnMMcYlJ3os5"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 295480,
       "name": "I Want to Know What Love Is - 2008 Remaster",
       "url": "https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o"
@@ -941,7 +959,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 321266,
       "name": "I'll Cry For You",
       "url": "https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv"
@@ -1146,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Backstreet Symphony",
+        "url": "https://open.spotify.com/album/2bPj257oLDCgCyDvPRGSvG"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/3SfrwwVPGtjYTI3vwQ4hEU"
+        }
+      ],
+      "date_added": "2020-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385400,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j"
+    },
+    {
+      "album": {
         "name": "5150",
         "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
       },
@@ -1272,6 +1308,24 @@
     },
     {
       "album": {
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "date_added": "2020-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287400,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
+    },
+    {
+      "album": {
         "name": "Greatest Hits (EU Version)",
         "url": "https://open.spotify.com/album/32OnHglDZr3RRIAyDVoApX"
       },
@@ -1355,10 +1409,28 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 246733,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX"
+    },
+    {
+      "album": {
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "date_added": "2020-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298360,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/48lLr0blWNLIl6hPoF3Ex1"
     },
     {
       "album": {
@@ -1431,6 +1503,24 @@
       "duration_ms": 278693,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/28FVfrALlHSChnhD8jq8kd"
+    },
+    {
+      "album": {
+        "name": "Once Bitten",
+        "url": "https://open.spotify.com/album/7L3JfVjB7PpYEqDkWeJkAz"
+      },
+      "artists": [
+        {
+          "name": "Great White",
+          "url": "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
+        }
+      ],
+      "date_added": "2020-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346026,
+      "name": "Save Your Love",
+      "url": "https://open.spotify.com/track/1X1TonvQws8wxagWJmnUNj"
     },
     {
       "album": {
@@ -1607,7 +1697,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 291066,
       "name": "The Angel Song",
       "url": "https://open.spotify.com/track/1JxRLFVoFx2f7zumJwRDSw"
@@ -1697,7 +1787,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 326826,
       "name": "Til Death Do Us Part",
       "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
@@ -1751,7 +1841,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 240800,
       "name": "Wait",
       "url": "https://open.spotify.com/track/63IItP7504rQwYgZqmsznL"
@@ -1949,7 +2039,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 238040,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"

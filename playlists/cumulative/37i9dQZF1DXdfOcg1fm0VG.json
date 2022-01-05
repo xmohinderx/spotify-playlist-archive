@@ -316,6 +316,24 @@
     },
     {
       "album": {
+        "name": "Stardew Valley (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/0swXkrnGm7RP1BIHiqV8Jk"
+      },
+      "artists": [
+        {
+          "name": "ConcernedApe",
+          "url": "https://open.spotify.com/artist/2PqkSKtPxs112KDZdRXGO2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Dance of the Moonlight Jellies",
+      "url": "https://open.spotify.com/track/1qHX3JQefKOvy64bIWEAhS"
+    },
+    {
+      "album": {
         "name": "Dark Souls 3",
         "url": "https://open.spotify.com/album/3zSvk9thQMwQDrKMD0kJJv"
       },
@@ -985,6 +1003,32 @@
       "duration_ms": 124969,
       "name": "Main Title",
       "url": "https://open.spotify.com/track/3ynOh82NOks4d4YcKkcrnt"
+    },
+    {
+      "album": {
+        "name": "Deathloop (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2VNdSDOOqN9f1uFHrZt75y"
+      },
+      "artists": [
+        {
+          "name": "Tom Salta",
+          "url": "https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj"
+        },
+        {
+          "name": "Aeralie Brighton",
+          "url": "https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74946,
+      "name": "Menu (Protect the Loop)",
+      "url": "https://open.spotify.com/track/0HGknL22SeV3WN0hrWffhp"
     },
     {
       "album": {

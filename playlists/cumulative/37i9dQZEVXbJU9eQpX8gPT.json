@@ -290,6 +290,24 @@
     },
     {
       "album": {
+        "name": "7elmet Ado 5",
+        "url": "https://open.spotify.com/album/5NSmzSS5Yl0HKFJ9OCLZAr"
+      },
+      "artists": [
+        {
+          "name": "eArtist",
+          "url": "https://open.spotify.com/artist/18ssWsvGGmgZk07LyGYUg9"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306834,
+      "name": "7elmet Ado 5",
+      "url": "https://open.spotify.com/track/6N6VxHim4ywblJrVI1h0UW"
+    },
+    {
+      "album": {
         "name": "9lil L7ya",
         "url": "https://open.spotify.com/album/3VaV1gAZfolzxzGGcZQ0zV"
       },
@@ -2123,6 +2141,24 @@
       "duration_ms": 134582,
       "name": "Darja",
       "url": "https://open.spotify.com/track/3QqKJXiqBkgMM2prOdByeC"
+    },
+    {
+      "album": {
+        "name": "Regalo",
+        "url": "https://open.spotify.com/album/6QYA0gxCZ0mRO4XgpNPmTf"
+      },
+      "artists": [
+        {
+          "name": "Raste",
+          "url": "https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Dark Tunnel",
+      "url": "https://open.spotify.com/track/71F9PIi9jrLhfeg9CCjBq5"
     },
     {
       "album": {
@@ -4061,7 +4097,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 247690,
       "name": "KNZ",
       "url": "https://open.spotify.com/track/3YqEI4fpQFI8cYZiZzOyFj"
@@ -4645,7 +4681,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 210967,
       "name": "Lewjah Tani",
       "url": "https://open.spotify.com/track/2YwzYRcRIJLMPq4TBTBQgd"
@@ -6695,7 +6731,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -8300,6 +8336,24 @@
     },
     {
       "album": {
+        "name": "TRAP ROUMI V3",
+        "url": "https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss"
+      },
+      "artists": [
+        {
+          "name": "kouz1",
+          "url": "https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330932,
+      "name": "TRAP ROUMI V3",
+      "url": "https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861"
+    },
+    {
+      "album": {
         "name": "Weld Fatima II",
         "url": "https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF"
       },
@@ -8527,7 +8581,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 187027,
       "name": "VVS",
       "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
@@ -8705,7 +8759,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 196613,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 200400,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/6U5hUX40OWY6l0HaPUWElZ"
@@ -1499,6 +1499,24 @@
       "duration_ms": 231853,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+    },
+    {
+      "album": {
+        "name": "Music For Men",
+        "url": "https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo"
+      },
+      "artists": [
+        {
+          "name": "Gossip",
+          "url": "https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242773,
+      "name": "Heavy Cross",
+      "url": "https://open.spotify.com/track/428Dl0NOBojmUS98R2pDHr"
     },
     {
       "album": {
@@ -3155,7 +3173,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 215293,
       "name": "Steady, as She Goes",
       "url": "https://open.spotify.com/track/2i37Y95xkPhHtoYBywVBUm"
@@ -3173,7 +3191,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 215293,
       "name": "Steady, As She Goes",
       "url": "https://open.spotify.com/track/2zk1COXk7NaAaDW1KWMuio"
@@ -3209,7 +3227,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 202333,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
@@ -3433,7 +3451,7 @@
     {
       "album": {
         "name": "Everything All The Time",
-        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+        "url": "https://open.spotify.com/album/5uMfshtC2Jwqui0NUyUYIL"
       },
       "artists": [
         {
@@ -3444,6 +3462,24 @@
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 321146,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/4o0NjemqhmsYLIMwlcosvW"
+    },
+    {
+      "album": {
+        "name": "Everything All The Time",
+        "url": "https://open.spotify.com/album/4BozXZbBYOnLakhZNUv40C"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-05",
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
@@ -3623,7 +3659,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 160093,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/141UpF0ofvBWm3r5JQwZ83"
@@ -3641,7 +3677,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 160093,
       "name": "The Way We Get By",
       "url": "https://open.spotify.com/track/3PV0OEKHmr6hVJp4QOMtyW"

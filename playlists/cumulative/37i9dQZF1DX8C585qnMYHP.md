@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental: Best of 2021](https://open.spotify.com/playlist/3s62nqRUBHZZxektuC0STR)
 
-> The top 100 tracks from Fresh Finds Experimental in 2021\. Cover: Ana Roxanne, Artwork: Thami Nabil
+> The top 101 tracks from Fresh Finds Experimental in 2021\. Cover: Ana Roxanne, Artwork: Thami Nabil
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Solaris](https://open.spotify.com/track/37GGjSHtaLBNmDnp2XY8JG) | [Kevin Richard Martin](https://open.spotify.com/artist/4UmR7UaeXgqjJwweJxGyZT) | [Return to Solaris](https://open.spotify.com/album/7sgkWyvoNgOsX0VgosAhP4) | 3:42 | 2021-07-09 | 2021-08-29 |
 | [Solved Quick](https://open.spotify.com/track/30XkCWjqtb6hJKZwL2dUHg) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Solved Quick](https://open.spotify.com/album/5WRG2CEnkAaG3O7ywrsw2Q) | 3:10 | 2021-02-18 | 2021-03-09 |
 | [Somni](https://open.spotify.com/track/2oqXgGtnE6ze9Hqib8sm2U) | [Bhed](https://open.spotify.com/artist/292vJ2PVmjnLGPKq7NsFLk) | [Somni](https://open.spotify.com/album/2LPIoyjK6VR7i3kSH7f1Ff) | 6:54 | 2021-10-07 | 2021-12-02 |
+| [Song for Making Things Right](https://open.spotify.com/track/4G5iBmHIxjFsCmABeCWo99) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [Song for Making Things Right](https://open.spotify.com/album/12G34y4Wn7IP64xrQYFrMB) | 4:26 | 2022-01-04 |  |
 | [Space to Let](https://open.spotify.com/track/0FMYZk5A2xGXppWtxokVV7) | [Double Celled Organism](https://open.spotify.com/artist/4RH5NNL9RVvf78D3ubQDSo) | [Time and Other Things That Don't Exist](https://open.spotify.com/album/36Oa5QtLnbNQRcZXQBywcZ) | 5:11 | 2021-03-14 | 2021-04-07 |
 | [Space Water](https://open.spotify.com/track/511FzKk8bOa4UTkiwoqYbB) | [Walton](https://open.spotify.com/artist/542yacXt2x9eLr9g8v0X8k) | [Unknown Territories](https://open.spotify.com/album/3gdbCEyrYrSLeg7Z7tUIES) | 2:43 | 2021-03-20 | 2021-06-01 |
 | [Spirit](https://open.spotify.com/track/5ju6xqK60MEA8mxAnGQGFR) | [Tomas Nordmark](https://open.spotify.com/artist/0TBCJYEeBoQspLmeXE6Ixy) | [Spirit](https://open.spotify.com/album/6OefUdFlXkiUdNlh2QYJLG) | 6:22 | 2021-05-16 | 2021-07-22 |

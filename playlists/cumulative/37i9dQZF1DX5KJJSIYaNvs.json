@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to Indian women, at full volume. Cover:  Jasleen Royal",
+  "description": "Listen to Indian women, at full volume. Cover:   Shashaa Tirupati",
   "name": "EQUAL India",
   "published_playlist_ids": [
     "3rqRWyNJwvt55VCcOLZ5lE"
@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 215593,
       "name": "Chal Koi Na (Let it go)",
       "url": "https://open.spotify.com/track/6c3ZcsNxaJkCDkQehD5RhI"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 147822,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4QDB3SOGXUlLQrIhBHGSOw"
@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 170666,
       "name": "Deny Me",
       "url": "https://open.spotify.com/track/7y9udl44FlkXa9FpApa76N"
@@ -194,6 +194,24 @@
     },
     {
       "album": {
+        "name": "Ghalat",
+        "url": "https://open.spotify.com/album/2ZiJDH24KlNlOjFr09zd5X"
+      },
+      "artists": [
+        {
+          "name": "Himani Kapoor",
+          "url": "https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200912,
+      "name": "Ghalat",
+      "url": "https://open.spotify.com/track/3xFjNGhG2QrHmieBjHv6if"
+    },
+    {
+      "album": {
         "name": "Gumsum",
         "url": "https://open.spotify.com/album/21daR74kGnsJmxjfvKIE2r"
       },
@@ -231,6 +249,28 @@
       "duration_ms": 223244,
       "name": "Habit",
       "url": "https://open.spotify.com/track/4uZlm4ezMz6Stl9xl3YRLU"
+    },
+    {
+      "album": {
+        "name": "In My Skin",
+        "url": "https://open.spotify.com/album/2mRojYGgIJFkDsI75rIP98"
+      },
+      "artists": [
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        {
+          "name": "Keba Jeremiah",
+          "url": "https://open.spotify.com/artist/6DkjwBFBsTAzEo9M5HCI9c"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142060,
+      "name": "In My Skin",
+      "url": "https://open.spotify.com/track/3FyeaNDJhPGM8MqKvtne5T"
     },
     {
       "album": {
@@ -421,7 +461,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 170000,
       "name": "Kyun Ho Jaate Ho Door",
       "url": "https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS"
@@ -439,10 +479,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 227300,
       "name": "Laire Lallaire",
       "url": "https://open.spotify.com/track/3OZDBy9vENUlhWE5xSXa1s"
+    },
+    {
+      "album": {
+        "name": "Machhli",
+        "url": "https://open.spotify.com/album/0oFtiR6mimLJdsiUdCCRnj"
+      },
+      "artists": [
+        {
+          "name": "Pawni Pandey",
+          "url": "https://open.spotify.com/artist/3hmboaiYDw7hqBWQZ5TJQX"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Machhli",
+      "url": "https://open.spotify.com/track/6mbYKnJVdaDkZjCxV0dbIq"
     },
     {
       "album": {
@@ -520,6 +582,24 @@
     },
     {
       "album": {
+        "name": "Mood Sarkar Da",
+        "url": "https://open.spotify.com/album/1J2Q3sUybgevdLOKpff3Pg"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Mood Sarkar Da",
+      "url": "https://open.spotify.com/track/3gBPqehvkxFIMzBNzGv9yo"
+    },
+    {
+      "album": {
         "name": "Mundeya Ve",
         "url": "https://open.spotify.com/album/3ZRtTonSWwCqyOb8uXUOC7"
       },
@@ -531,7 +611,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 154639,
       "name": "Mundeya Ve",
       "url": "https://open.spotify.com/track/0qFcaACdj5bSqQZye9rSf8"
@@ -594,6 +674,24 @@
     },
     {
       "album": {
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
+      },
+      "artists": [
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223325,
+      "name": "Oo Antava Oo Oo Antava",
+      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "album": {
         "name": "Oot Patangi",
         "url": "https://open.spotify.com/album/70SKb5B68vfWO4nPrGkoNv"
       },
@@ -649,7 +747,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 248807,
       "name": "Piya Ji Ke Sanng",
       "url": "https://open.spotify.com/track/6nMYjR0GIwri9BX4vHJahE"
@@ -704,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Rehne Dena Tha",
+        "url": "https://open.spotify.com/album/2HkwDjkMnuVJ6SOgmj2SC0"
+      },
+      "artists": [
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Rehne Dena Tha",
+      "url": "https://open.spotify.com/track/2dZLTQPMdPVqX2DD252AND"
+    },
+    {
+      "album": {
         "name": "Runak Jhunak",
         "url": "https://open.spotify.com/album/2QuInCM1CRkQW2N6t8hfJT"
       },
@@ -719,6 +835,28 @@
       "duration_ms": 190539,
       "name": "Runak Jhunak",
       "url": "https://open.spotify.com/track/5Tdp1xw2qDoG14cF0DLEL0"
+    },
+    {
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/7GUNvDLNFE4jtd8ADvWmOA"
+      },
+      "artists": [
+        {
+          "name": "Bindu Anirudhan",
+          "url": "https://open.spotify.com/artist/40yIKIP4JwrsB1OL3dKau9"
+        },
+        {
+          "name": "6091",
+          "url": "https://open.spotify.com/artist/0kkM6OpHU2UkpKIvPT05WZ"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177669,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/7oiKXUoA3Lu6AkU2OaYlSu"
     },
     {
       "album": {
@@ -777,10 +915,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 202176,
       "name": "Shakti",
       "url": "https://open.spotify.com/track/6vRxVPhDAYkjBD8YFpWGIa"
+    },
+    {
+      "album": {
+        "name": "Shreaam Pagal",
+        "url": "https://open.spotify.com/album/1kPmkdxQy0l7lqZAETqZLa"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Shreaam Pagal",
+      "url": "https://open.spotify.com/track/62cpYYBQua4OCT07FItvCR"
     },
     {
       "album": {
@@ -883,7 +1039,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 248666,
       "name": "Zidd",
       "url": "https://open.spotify.com/track/5pMLKIqs9dS6675qVgZko1"

@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 202907,
       "name": "1234",
       "url": "https://open.spotify.com/track/4Mbj2NKklmBRfs0ekO6cQ5"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/58Eyr2rZWIYM19qhpals74"
@@ -412,6 +412,24 @@
     },
     {
       "album": {
+        "name": "Breaking Skin",
+        "url": "https://open.spotify.com/album/6AREv57v8nBZFdpPok7o9M"
+      },
+      "artists": [
+        {
+          "name": "Nonpoint",
+          "url": "https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174546,
+      "name": "Breaking Skin",
+      "url": "https://open.spotify.com/track/4sCvTmUx2f1FC6Qds5GKIm"
+    },
+    {
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
       },
@@ -531,7 +549,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 164670,
       "name": "Burn!",
       "url": "https://open.spotify.com/track/3PkosLobiLp6RymQ20mzq5"
@@ -585,7 +603,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 225133,
       "name": "Chaos And Earthquakes",
       "url": "https://open.spotify.com/track/2imkodSyg1hOZwZuE2fJdU"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 214536,
       "name": "Cold Light",
       "url": "https://open.spotify.com/track/6UUMfFAaxOeAIqKJdInozb"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 253445,
       "name": "Cross Off",
       "url": "https://open.spotify.com/track/1UtLHK1KdLD1haUlY5YoSg"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 197853,
       "name": "Drop Dead Cynical",
       "url": "https://open.spotify.com/track/0Ra3DxdKaqmMhUy2enFfb4"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 189746,
       "name": "Nimrod",
       "url": "https://open.spotify.com/track/5cUziBfFGOHrkXFE4qAgKe"
@@ -1741,7 +1759,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 216571,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/4x241uAmPrxKZdCZKt2r5t"
@@ -2083,7 +2101,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 240660,
       "name": "Savior",
       "url": "https://open.spotify.com/track/5PMogZN5K3HUfge2IvAecW"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 180810,
       "name": "Silence Means Nothing (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/1iG8AeszL0CUIp6ryOG1za"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 253598,
       "name": "Sun Eater",
       "url": "https://open.spotify.com/track/2UYaWPvRRxv5vdhxyjpLLR"
@@ -2589,7 +2607,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 231963,
       "name": "Waking Lions",
       "url": "https://open.spotify.com/track/7L9GgvMlQ3wcSrDoeGWAej"

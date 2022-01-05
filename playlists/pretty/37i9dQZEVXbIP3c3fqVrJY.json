@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Czech Republic.",
   "name": "Top 50 - Czech Republic",
-  "num_followers": 65794,
+  "num_followers": 65793,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk0NTIxODIyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk0NjAxNDAyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Chimera Pt. 3: Snake",
         "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/5S1aHYFgkXbYTi0vDNuzZ0"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/2RzvtemoxfrfGSbAXePP2v"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7uf6qIMpoL9ctezZgcCXnL"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Praha/V\u00edde\u0148",
         "url": "https://open.spotify.com/album/6TQwNei1gmD8YDdbf89suY"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4OV1SH5qwYImh0tm04x5LD"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -85,7 +101,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -101,23 +117,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Asgard (feat. STEIN27, Ben Cristovao & KOJO)",
         "url": "https://open.spotify.com/album/4PaxvFOOUTBZW41yTz9R4P"
@@ -145,27 +145,23 @@
       "url": "https://open.spotify.com/track/7EzxIpTTbiwXo151wxRimt"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -185,7 +181,7 @@
       "url": "https://open.spotify.com/track/7E8LK4R9gAkSG4CD1kqvsX"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -201,7 +197,27 @@
       "url": "https://open.spotify.com/track/1eNZ4QVslYy7olrihCHdAx"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -217,27 +233,7 @@
       "url": "https://open.spotify.com/track/2LuBVfML3jK93lgUVF6ZjO"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -253,39 +249,7 @@
       "url": "https://open.spotify.com/track/3AExPJ7KcjzpJWY2k8UAZO"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Jedna Dva",
         "url": "https://open.spotify.com/album/5qFSNi35OpvQiIod7SvaJZ"
@@ -301,23 +265,23 @@
       "url": "https://open.spotify.com/track/1OhoBH61cFascRCK9pWTaT"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 207853,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -337,7 +301,59 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -357,23 +373,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168020,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -389,39 +389,39 @@
       "url": "https://open.spotify.com/track/5aD3KGpboUhCQEslpuJ6vV"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Chimera Pt. 3: Snake",
+        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
         }
       ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+      "duration_ms": 222857,
+      "name": "Molotow",
+      "url": "https://open.spotify.com/track/22dhhTdPqtoZUHk1up409K"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "Jsem v pohod\u011b, sem v prdeli.",
-        "url": "https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr"
+        "name": "M\u00e1m t\u011b v p\u00ed\u010di!!",
+        "url": "https://open.spotify.com/album/4bDjAdQkjhF004ud0kWb7P"
       },
       "artists": [
         {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+          "name": "Daniel \u0160afa\u0159\u00edk",
+          "url": "https://open.spotify.com/artist/29ExTMtESUFKu4AjxDi8D9"
         }
       ],
-      "duration_ms": 166153,
-      "name": "13. komnata",
-      "url": "https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU"
+      "duration_ms": 165079,
+      "name": "M\u00e1m t\u011b v p\u00ed\u010di!!",
+      "url": "https://open.spotify.com/track/0F8D589yeTEyhJokf2Q0eh"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -437,23 +437,23 @@
       "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+        "name": "Jsem v pohod\u011b, sem v prdeli.",
+        "url": "https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
         }
       ],
-      "duration_ms": 130285,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
+      "duration_ms": 166153,
+      "name": "13. komnata",
+      "url": "https://open.spotify.com/track/302zIkWq3gT9BEorlYcgXU"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -469,7 +469,23 @@
       "url": "https://open.spotify.com/track/5kx4nxFLJpXVAjey3vy1dS"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2sNrirJx5Se5MO2tU2lJVL"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -489,71 +505,7 @@
       "url": "https://open.spotify.com/track/2SBGsZEVAa4gGFjthkq2pP"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Chimera Pt. 3: Snake",
-        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
-      },
-      "artists": [
-        {
-          "name": "Smack",
-          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Molotow",
-      "url": "https://open.spotify.com/track/22dhhTdPqtoZUHk1up409K"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "M\u00e1m t\u011b v p\u00ed\u010di!!",
-        "url": "https://open.spotify.com/album/4bDjAdQkjhF004ud0kWb7P"
-      },
-      "artists": [
-        {
-          "name": "Daniel \u0160afa\u0159\u00edk",
-          "url": "https://open.spotify.com/artist/29ExTMtESUFKu4AjxDi8D9"
-        }
-      ],
-      "duration_ms": 165079,
-      "name": "M\u00e1m t\u011b v p\u00ed\u010di!!",
-      "url": "https://open.spotify.com/track/0F8D589yeTEyhJokf2Q0eh"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -577,7 +529,107 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168020,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 139130,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/0fqyDZd8vSCURbfksLbB1Z"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
@@ -593,7 +645,7 @@
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "\u010cernob\u00edlej sv\u011bt",
         "url": "https://open.spotify.com/album/1QKupc7QPkV0aDtHOAIGdm"
@@ -621,59 +673,7 @@
       "url": "https://open.spotify.com/track/2687fXBlOk6u6fiwLJ4E1l"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 139130,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/0fqyDZd8vSCURbfksLbB1Z"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Podvod (P\u00edse\u0148 k filmu Shoky & Morthy: Posledn\u00ed velk\u00e1 akce)",
         "url": "https://open.spotify.com/album/0avK9kh3jbVZ7WVljUvoVc"
@@ -689,7 +689,135 @@
       "url": "https://open.spotify.com/track/2Mn1UQics0dmGCMtpFeyJ8"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Co lidi ud\u011blaj",
+      "url": "https://open.spotify.com/track/7oM67kpd78EE0hwc3UjcBG"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Chimera Pt. 3: Snake",
+        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        },
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
+        },
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        },
+        {
+          "name": "White Russian",
+          "url": "https://open.spotify.com/artist/6sjbnlvP9MO4AdXNKaczp2"
+        }
+      ],
+      "duration_ms": 249917,
+      "name": "V Pytli",
+      "url": "https://open.spotify.com/track/6tYGf3kEE3vg7mQBtR73uD"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        },
+        {
+          "name": "Hugo Toxxx",
+          "url": "https://open.spotify.com/artist/7uRM93dnA7EtkC70fdC2Pf"
+        }
+      ],
+      "duration_ms": 173181,
+      "name": "Vice City",
+      "url": "https://open.spotify.com/track/1AW7kIA0LuELBhyhtFub9a"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Devil\u2019s Son",
+        "url": "https://open.spotify.com/album/1Yw3Xw3qCuYyUF6ce4MhEY"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 125876,
+      "name": "Vr\u00e1t\u00edm se a\u017e vyd\u011bl\u00e1m",
+      "url": "https://open.spotify.com/track/0S6gAX0WbYWSjdNETTAIbY"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "P\u0159\u00edb\u011bhy a sny",
+        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+      },
+      "artists": [
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "pro love",
+      "url": "https://open.spotify.com/track/4KBJnURpVDPgNqEpQRFonx"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Chimera Pt. 3: Snake",
+        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
+      },
+      "artists": [
+        {
+          "name": "Smack",
+          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+        }
+      ],
+      "duration_ms": 211887,
+      "name": "Fam",
+      "url": "https://open.spotify.com/track/6FhT6T6eBbQad4xEbeKJex"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
+      "album": {
+        "name": "Jsem v pohod\u011b, sem v prdeli.",
+        "url": "https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr"
+      },
+      "artists": [
+        {
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "S.P.J.D.",
+      "url": "https://open.spotify.com/track/7wvhiIXKMCeE39WpRDnLHT"
+    },
+    {
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
@@ -721,119 +849,59 @@
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
+        "name": "Mercury - Act 1",
+        "url": "https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 244004,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
       },
       "artists": [
         {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Co lidi ud\u011blaj",
-      "url": "https://open.spotify.com/track/7oM67kpd78EE0hwc3UjcBG"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Chimera Pt. 3: Snake",
-        "url": "https://open.spotify.com/album/2gMs1AxH9RnzJ5UzgOtnQD"
-      },
-      "artists": [
-        {
-          "name": "Smack",
-          "url": "https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7"
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
         },
         {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/6A7jNA1DlUaZPTg51DOyTC"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        },
-        {
-          "name": "White Russian",
-          "url": "https://open.spotify.com/artist/6sjbnlvP9MO4AdXNKaczp2"
+          "name": "Tripp",
+          "url": "https://open.spotify.com/artist/2l7Hqp4yBl3lm1uWUkToYf"
         }
       ],
-      "duration_ms": 249917,
-      "name": "V Pytli",
-      "url": "https://open.spotify.com/track/6tYGf3kEE3vg7mQBtR73uD"
+      "duration_ms": 176000,
+      "name": "Jazero",
+      "url": "https://open.spotify.com/track/2NLTNNTLrlIunoHr8KsnUb"
     },
     {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        },
-        {
-          "name": "Hugo Toxxx",
-          "url": "https://open.spotify.com/artist/7uRM93dnA7EtkC70fdC2Pf"
-        }
-      ],
-      "duration_ms": 173181,
-      "name": "Vice City",
-      "url": "https://open.spotify.com/track/1AW7kIA0LuELBhyhtFub9a"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
+      "added_at": "2022-01-04 08:50:02",
       "album": {
         "name": "V\u010faka Ti (Acoustic Version)",
         "url": "https://open.spotify.com/album/6JIFHQVClOhGBxsmraYGGG"
@@ -851,74 +919,6 @@
       "duration_ms": 181741,
       "name": "V\u010faka Ti - Acoustic Version",
       "url": "https://open.spotify.com/track/0z7L3ZNiRZTsJv1vpiSHG0"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "Melan\u017e",
-        "url": "https://open.spotify.com/album/7rK33Ae8DE1Hb4PLItVTvo"
-      },
-      "artists": [
-        {
-          "name": "Yzomandias",
-          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
-        },
-        {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
-        }
-      ],
-      "duration_ms": 206197,
-      "name": "Rolls",
-      "url": "https://open.spotify.com/track/0E92CGQj3E7REEC9TWqYze"
-    },
-    {
-      "added_at": "2022-01-03 10:43:42",
-      "album": {
-        "name": "P\u0159\u00edb\u011bhy a sny",
-        "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
-      },
-      "artists": [
-        {
-          "name": "Viktor Sheen",
-          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "pro love",
-      "url": "https://open.spotify.com/track/4KBJnURpVDPgNqEpQRFonx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIP3c3fqVrJY"

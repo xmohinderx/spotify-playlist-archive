@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Billy Strings
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,623 likes - 111 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,902 likes - 111 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fire Line](https://open.spotify.com/track/2HMrDjNB4Qw3x28hlXVPJz) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Renewal](https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR) | 4:34 |
 | 2 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 |
-| 3 | [Things A Man Oughta Know](https://open.spotify.com/track/45Ue0F8p2OaC94Jdyoeg6u) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Neon Diamonds](https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH) | 3:23 |
-| 4 | [Write It In Red](https://open.spotify.com/track/7vO8j7ZguKfYTxIkwljal5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/5AOdiY7XlBfcv7sfexeEjc) | 4:15 |
-| 5 | [Cowpoke](https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cowpoke](https://open.spotify.com/album/5lzka2jHklC4W6hYTeoNYd) | 3:12 |
-| 6 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 |
-| 7 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
-| 8 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
-| 9 | [Hurt You](https://open.spotify.com/track/11vIZRwrFkxHIxeSxjEegy) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 2:56 |
-| 10 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
-| 11 | [Cheap Seats](https://open.spotify.com/track/5AnsnQkwnkPf2kxj05ZMlK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 4:04 |
-| 12 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 |
-| 13 | [The Highway Song](https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 1](https://open.spotify.com/album/0FqqzkczFHMqkfVPzs7Ev8) | 3:23 |
-| 14 | [Paint This Town](https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/16Hp4iMkBsGwu90l2QyYQo) | 3:57 |
+| 3 | [Write It In Red](https://open.spotify.com/track/7vO8j7ZguKfYTxIkwljal5) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Where Have You Gone](https://open.spotify.com/album/5AOdiY7XlBfcv7sfexeEjc) | 4:15 |
+| 4 | [Cowpoke](https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cowpoke](https://open.spotify.com/album/5lzka2jHklC4W6hYTeoNYd) | 3:12 |
+| 5 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 |
+| 6 | [You Should Probably Leave](https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 3:33 |
+| 7 | [Marfa Lights](https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Marfa Lights](https://open.spotify.com/album/24NOQ09OAx540cYX976EEo) | 3:42 |
+| 8 | [Hurt You](https://open.spotify.com/track/11vIZRwrFkxHIxeSxjEegy) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 2:56 |
+| 9 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 |
+| 10 | [Cheap Seats](https://open.spotify.com/track/5AnsnQkwnkPf2kxj05ZMlK) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [American Siren](https://open.spotify.com/album/5ZGhlw7RozA6DfbDeV68Bn) | 4:04 |
+| 11 | [Lyin' low](https://open.spotify.com/track/2dXGmRWNxNwSakbBPxAbiH) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:18 |
+| 12 | [The Highway Song](https://open.spotify.com/track/3vNsIsqM1MdTT1z4jNUf46) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 1](https://open.spotify.com/album/0FqqzkczFHMqkfVPzs7Ev8) | 3:23 |
+| 13 | [Paint This Town](https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/16Hp4iMkBsGwu90l2QyYQo) | 3:57 |
+| 14 | [Things A Man Oughta Know](https://open.spotify.com/track/45Ue0F8p2OaC94Jdyoeg6u) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Neon Diamonds](https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH) | 3:23 |
 | 15 | [Juanita](https://open.spotify.com/track/0Vtik6x9dLUPNoyIoJZm9I) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 3:40 |
 | 16 | [Tehachapi](https://open.spotify.com/track/7MfjR1LV7kumgLcAfpCXN2) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Tehachapi](https://open.spotify.com/album/4XxGDVn3sIpcFmdw3tGyZ3) | 3:07 |
 | 17 | [You Get It All](https://open.spotify.com/track/5OasGMgbZAHCR4BnUXNVv8) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [You Get It All](https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT) | 3:08 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 110 | [Fruits of My Labor](https://open.spotify.com/track/6qWQRmO2za1TpP0tHYLhXw) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud +3](https://open.spotify.com/album/7kIdOOz6yIvEP6Z5RjhrCw) | 5:05 |
 | 111 | [Jubilee](https://open.spotify.com/track/48fWEET1Ew40JKW9ze9wEY) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Hearts Town](https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY) | 2:22 |
 
-Snapshot ID: `MTY0MDkyNjgwMCwwMDAwMDBjMjAwMDAwMTdlMGVkYmU5MzIwMDAwMDE3ZGU4NTBhZjVm`
+Snapshot ID: `MTY0MTMxOTcwNSwwMDAwMDBjMzAwMDAwMTdlMjY0NzJhMjYwMDAwMDE3ZGU4NTBhZjVm`

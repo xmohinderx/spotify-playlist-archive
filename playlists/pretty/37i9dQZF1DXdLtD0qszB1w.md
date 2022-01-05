@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLtD0qszB1w.md) - [plain]
 
 > Come together to listen to their greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,862,039 likes - 91 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,862,744 likes - 91 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

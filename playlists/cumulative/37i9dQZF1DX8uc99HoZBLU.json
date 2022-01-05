@@ -369,7 +369,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 180138,
       "name": "Dancing in My Room",
       "url": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 153857,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1M321puDN1WBd5NF0ogOKW"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 217149,
       "name": "High",
       "url": "https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 248056,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 179680,
       "name": "Let's Hold Hands (feat. Melanie Faye)",
       "url": "https://open.spotify.com/track/2Gi5XHbTxLbzwjQQHky749"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 139623,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
@@ -1031,7 +1031,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 177479,
       "name": "Needs",
       "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
@@ -1147,6 +1147,24 @@
       "duration_ms": 145893,
       "name": "Prom Night",
       "url": "https://open.spotify.com/track/77OOBEhQnWEum2pokUnoMU"
+    },
+    {
+      "album": {
+        "name": "Right Here",
+        "url": "https://open.spotify.com/album/3Af3REIUxAwyatiisb84sF"
+      },
+      "artists": [
+        {
+          "name": "Sean McVerry",
+          "url": "https://open.spotify.com/artist/7sAXoFldVGlGtZ5LPVtAYD"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Right Here",
+      "url": "https://open.spotify.com/track/6pW1YY18FiiyI2g9Aw8zD1"
     },
     {
       "album": {
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 199020,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
@@ -1330,6 +1348,24 @@
     },
     {
       "album": {
+        "name": "Still Friends",
+        "url": "https://open.spotify.com/album/2Ft4H0g62lV5dVWcow9nKH"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131486,
+      "name": "Still Friends",
+      "url": "https://open.spotify.com/track/4QgKXgcqA5AbArVH5WfmlP"
+    },
+    {
+      "album": {
         "name": "summer depression",
         "url": "https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r"
       },
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 151693,
       "name": "summer depression",
       "url": "https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj"
@@ -1417,7 +1453,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj"
@@ -1435,7 +1471,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 133050,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/5dtgtmWdO4pOASLQdOfWSr"
@@ -1471,7 +1507,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 131657,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3u0kNxqOOC8SdoODpkmoZO"
@@ -1695,7 +1731,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 154456,
       "name": "Y U Gotta B Like That",
       "url": "https://open.spotify.com/track/45StvejYUdIsyUwqdZ7iJM"
@@ -1749,7 +1785,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 237551,
       "name": "Your Love \ub108\uc758 \uc0ac\ub791",
       "url": "https://open.spotify.com/track/5NgvQyEWxGxKcZkqIf6YQS"

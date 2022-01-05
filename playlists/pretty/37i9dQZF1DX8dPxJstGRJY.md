@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,213 likes - 44 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,516 likes - 44 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 5 | [A Thousand Years \(From "The Twilight Saga: Breaking Dawn, Pt\. 1"\)](https://open.spotify.com/track/68CGs1SYzsXs7OMHKWpw0w) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Act Two](https://open.spotify.com/album/1LF3HfqmS4DTn4cNabNKzJ) | 4:05 |
 | 6 | [With Or Without You](https://open.spotify.com/track/0TX4O1sHvHLxyQhpr0mkEU) | [Military Wives](https://open.spotify.com/artist/41j6k61g4RW0WQa2s3TUr0) | [In My Dreams](https://open.spotify.com/album/4Vmuk6V7WX9nTAFhLvs106) | 3:59 |
 | 7 | [Return To Love](https://open.spotify.com/track/09YXhYMYIHZBHVKGEQrSQF) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Return To Love](https://open.spotify.com/album/2piXcsaXhEcRXaSXVfe4aw) | 4:34 |
-| 8 | [Pure Imagination \(From "Willy Wonka and the Chocolate Factory"\)](https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN) | [Marie Oppert](https://open.spotify.com/artist/4ebnQwxGmX8eA7wumljZV7), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Nicholas Skilbeck](https://open.spotify.com/artist/7lYG7lhAySMEBEVMaBGLfg) | [Enchantée](https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO) | 4:12 |
-| 9 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 |
-| 10 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 |
-| 11 | [Regresa a Mí](https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Il Divo](https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt) | 4:40 |
+| 8 | [All I Ask of You \(from "The Phantom of the Opera"\) \[with Kelly Clarkson\]](https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stages](https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ) | 3:59 |
+| 9 | [Pure Imagination \(From "Willy Wonka and the Chocolate Factory"\)](https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN) | [Marie Oppert](https://open.spotify.com/artist/4ebnQwxGmX8eA7wumljZV7), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Nicholas Skilbeck](https://open.spotify.com/artist/7lYG7lhAySMEBEVMaBGLfg) | [Enchantée](https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO) | 4:12 |
+| 10 | [Regresa a Mí](https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf) | [Il Divo](https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl) | [Il Divo](https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt) | 4:40 |
+| 11 | [Somewhere \- From 'West Side Story'](https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7) | [Michael Ball](https://open.spotify.com/artist/2MISUlPFrBMRlIcazbEOUI), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j) | [Together](https://open.spotify.com/album/78aID7tYAQzHzN8oLZu0WV) | 3:15 |
 | 12 | [A Million Dreams](https://open.spotify.com/track/3f9MVjyYYUr1EF1FOm7dSF) | [Collabro](https://open.spotify.com/artist/0l1nmcjqNlk9dQHb6H4sLR) | [Love Like This](https://open.spotify.com/album/5qCkKRgXcY4O67RsxdoYbc) | 4:20 |
 | 13 | [Grande amore](https://open.spotify.com/track/2I9KO0T9SUEkpi2OlZkQJo) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [10 Years \- The Best Of](https://open.spotify.com/album/2Mqky90OTsnQaKXNwxvbA2) | 3:44 |
 | 14 | [Somewhere Over The Rainbow](https://open.spotify.com/track/1wgUTAbPQkblN0nykDueMI) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Because You're Mine](https://open.spotify.com/album/58fpQPkrpLYmBjkf5vLvGB) | 4:03 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dPxJstGRJY.md) - [plain]
 | 43 | [Beau Soir \- Voice](https://open.spotify.com/track/0gikrP8DY96Q6Xo08bIYWL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Claus Ogerman](https://open.spotify.com/artist/3lZyF2ZG6fZLQvxgJU0y5r) | [Classical Barbra \(Re\-Mastered\)](https://open.spotify.com/album/2oO80GRPrKiWzAiOoXg3xp) | 2:41 |
 | 44 | [Make Me a Channel of Your Peace \- Arr\. by Simon Lole](https://open.spotify.com/track/0qGEX3pbraLFW5sew7k9zV) | [Sebastian Temple](https://open.spotify.com/artist/46w8xOElBo4gXRJ1BnLmNx), [Aled Jones](https://open.spotify.com/artist/1GeaYVIXCzBwEbjAvv0NYn), [Russell Watson](https://open.spotify.com/artist/2hrfuB0LtVmFZ6MvPMIHTK), [Tom Rainey](https://open.spotify.com/artist/5yT51jYCSgGWQINhR6cGdy) | [Back in Harmony](https://open.spotify.com/album/4W9JQsHKofQ6Cya0naM8jj) | 3:41 |
 
-Snapshot ID: `MTYzMjQ1NjA2MCwwMDAwMDAxMjAwMDAwMTdjMTVmNmFjZDEwMDAwMDE3NWJkMGUxNDY3`
+Snapshot ID: `MTY0MTMwOTk5MiwwMDAwMDAxMzAwMDAwMTdlMjViMmY3MTAwMDAwMDE3NWJkMGUxNDY3`

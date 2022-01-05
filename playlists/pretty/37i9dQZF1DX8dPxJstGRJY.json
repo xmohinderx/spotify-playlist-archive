@@ -1,12 +1,12 @@
 {
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
   "name": "Classical Crossover",
-  "num_followers": 69213,
+  "num_followers": 69516,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMjQ1NjA2MCwwMDAwMDAxMjAwMDAwMTdjMTVmNmFjZDEwMDAwMDE3NWJkMGUxNDY3",
+  "snapshot_id": "MTY0MTMwOTk5MiwwMDAwMDAxMzAwMDAwMTdlMjViMmY3MTAwMDAwMDE3NWJkMGUxNDY3",
   "tracks": [
     {
       "added_at": "2021-09-24 04:01:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2021-09-24 04:01:00",
       "album": {
+        "name": "Stages",
+        "url": "https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
+      "url": "https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe"
+    },
+    {
+      "added_at": "2021-09-24 04:01:00",
+      "album": {
         "name": "Enchant\u00e9e",
         "url": "https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO"
       },
@@ -171,22 +191,18 @@
     {
       "added_at": "2021-09-24 04:01:00",
       "album": {
-        "name": "Stages",
-        "url": "https://open.spotify.com/album/0UPs87sXoeGPNiKnaWxFOZ"
+        "name": "Il Divo",
+        "url": "https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt"
       },
       "artists": [
         {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Il Divo",
+          "url": "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
         }
       ],
-      "duration_ms": 239453,
-      "name": "All I Ask of You (from \"The Phantom of the Opera\") [with Kelly Clarkson]",
-      "url": "https://open.spotify.com/track/4Qw3ib035aTuz4QLaZsDxe"
+      "duration_ms": 280680,
+      "name": "Regresa a M\u00ed",
+      "url": "https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf"
     },
     {
       "added_at": "2021-09-24 04:01:00",
@@ -207,22 +223,6 @@
       "duration_ms": 195280,
       "name": "Somewhere - From 'West Side Story'",
       "url": "https://open.spotify.com/track/6Eu5Y7S6GXPVp1W7lnlVU7"
-    },
-    {
-      "added_at": "2021-09-24 04:01:00",
-      "album": {
-        "name": "Il Divo",
-        "url": "https://open.spotify.com/album/2wHQ8jRc9zKG5tyNzopmJt"
-      },
-      "artists": [
-        {
-          "name": "Il Divo",
-          "url": "https://open.spotify.com/artist/3KNZ9AOjBajjmr6ZR2VGfl"
-        }
-      ],
-      "duration_ms": 280680,
-      "name": "Regresa a M\u00ed",
-      "url": "https://open.spotify.com/track/3p8szomcjl5ghqOKSH5vZf"
     },
     {
       "added_at": "2021-09-24 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week\.  Make sure to click the heart 💓 to follow the playlist
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 4,998 likes - 32 songs - 1 hr 56 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 5,000 likes - 33 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,5 +40,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 30 | [Molecular Express](https://open.spotify.com/track/0v36EluEKE4zQrnK9p09ZS) | [TINK](https://open.spotify.com/artist/66nP6vbedxoqgG9WUZhDXF), [Roob](https://open.spotify.com/artist/6hpFsaxuaEm3anP7Z0oLfX) | [Molecular Express](https://open.spotify.com/album/1EU2lvd7k4JfHRHi4GmZdn) | 2:45 |
 | 31 | [Windhorse](https://open.spotify.com/track/60ERpJRWMWexY91Jw67wqP) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [The Tale of Elegos](https://open.spotify.com/album/6KAma26Kpo2Ro79hLzGIuU) | 3:54 |
 | 32 | [August Star](https://open.spotify.com/track/0tbfLdtT9HonTEskKkaLuN) | [Kaipora](https://open.spotify.com/artist/3IXNmZ5mxr0M1BzOuLfFgY) | [August Star](https://open.spotify.com/album/1x4kCOTzh3E2Z8grHXfyhj) | 2:00 |
+| 33 | [Floating into Space](https://open.spotify.com/track/0rVPYHQGhcUClRyvX9FBEw) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Floating into Space](https://open.spotify.com/album/0ozK4cQ3TNWsaonW0yGgbg) | 2:51 |
 
-Snapshot ID: `MTc2MSxhNmU2ZjU5YzVlNmU5MTk3MGI1NTZhNDBlYWFjMDMzNDZjMDIwNmI0`
+Snapshot ID: `MTc2MixlOGZkYTViYzZjM2JiZTI2ODRlMDgxMzVmZmQ3OTdiNWU0N2Q3ZTA0`

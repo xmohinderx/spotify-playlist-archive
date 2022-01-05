@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Back to the golden age of emo\. Cover: The Get Up Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,444 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,537 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 18 | [Eleven to Your Seven](https://open.spotify.com/track/1hxLx1gmWfsCSpDp8cJOl0) | [Hey Mercedes](https://open.spotify.com/artist/0R8uN7rVUuKGfTXQHjvB5U) | [Everynight Fire Works](https://open.spotify.com/album/7yBqFEyyKAzCJYoEmyuyTl) | 3:54 |
 | 19 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
 | 20 | [Breakfast Of Champions](https://open.spotify.com/track/7fYabANyBAwb9TcUxvTQ0s) | [Rainer Maria](https://open.spotify.com/artist/5OUVzPFZebtoZFs85MIQpz) | [Look Now Look Again](https://open.spotify.com/album/56YkqH5Vv03PAeMzcuQzoQ) | 3:37 |
-| 21 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At The Drive In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
+| 21 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |
 | 22 | [Courage Was Confused](https://open.spotify.com/track/2kVc8s89MliCutzKkXXROb) | [Knapsack](https://open.spotify.com/artist/7kcgO0DTza7One0HqXRIH7) | [Day Three of My New Life](https://open.spotify.com/album/6xK0rYqqBtzcIiq0rY90Al) | 3:51 |
 | 23 | [This Time Next Year](https://open.spotify.com/track/3ZfoS2MfHC8aRldwqlknfS) | [The Movielife](https://open.spotify.com/artist/6WuH3nSjp98OqgwnDqYnRK) | [This Time Next Year](https://open.spotify.com/album/18KiEYIQ5jdFSpRzdNET1A) | 2:50 |
 | 24 | [See You In Hell](https://open.spotify.com/track/0cKYw9UErFhmPkOVsCU9L0) | [Small Brown Bike](https://open.spotify.com/artist/1zXtQWuMTmOYQUiP5a1c0j) | [Dead Reckoning](https://open.spotify.com/album/7eFAYhlNsXMkSApFtGUcap) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kcxLFdICLh.md) - [plain]
 
 > A gathering of essentials by the <a href="spotify:artist:5s6TJEuHTr9GR894wc6VfP">Americana icon</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,273 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,294 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

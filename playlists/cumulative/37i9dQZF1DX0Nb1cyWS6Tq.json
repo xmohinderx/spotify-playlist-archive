@@ -44,6 +44,42 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220960,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
+    },
+    {
+      "album": {
+        "name": "John Peel Session: 1982",
+        "url": "https://open.spotify.com/album/6G7TJnef3i2Yc0bj9UIwaU"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211874,
+      "name": "Alice - John Peel Session: 1982",
+      "url": "https://open.spotify.com/track/6nefKdxxJKH9dWlDqdCXmm"
+    },
+    {
+      "album": {
         "name": "The Sky's Gone Out",
         "url": "https://open.spotify.com/album/0Hh7gRebN47X3Ls1dk0ZDV"
       },
@@ -73,7 +109,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 278413,
       "name": "Allegedly, Dancefloor Tragedy",
       "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
@@ -109,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 252093,
       "name": "Asimilasyon",
       "url": "https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo"
@@ -127,7 +163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 325840,
       "name": "Be My Druidess",
       "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
@@ -145,7 +181,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Beatrix",
       "url": "https://open.spotify.com/track/5IR9k9SMKS0kuEHAVtZIhG"
@@ -181,7 +217,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 247800,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/7ELpiKwEBL3tBoGFgqnZBw"
@@ -379,7 +415,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Deathwish",
       "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
@@ -415,7 +451,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 369400,
       "name": "Do You Take This Man?",
       "url": "https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx"
@@ -523,7 +559,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 216750,
       "name": "Face Meets Glass",
       "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
@@ -541,10 +577,28 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 402800,
       "name": "Faith",
       "url": "https://open.spotify.com/track/01Vrp6Y0VGOQALAshPxeGY"
+    },
+    {
+      "album": {
+        "name": "All About Eve",
+        "url": "https://open.spotify.com/album/72KSAG3XBDNT7zBbz2l2Ki"
+      },
+      "artists": [
+        {
+          "name": "All About Eve",
+          "url": "https://open.spotify.com/artist/2KIezwdswV0DunSBLSe4pR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265573,
+      "name": "Flowers In Our Hair",
+      "url": "https://open.spotify.com/track/5epK3IsFQ8XHnDNRcKgt1S"
     },
     {
       "album": {
@@ -602,6 +656,24 @@
     },
     {
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/0p8Zy0wEzDYiFDcSt07UHe"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350413,
+      "name": "Heart and Soul",
+      "url": "https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe"
+    },
+    {
+      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
@@ -613,7 +685,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 199944,
       "name": "Helena",
       "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
@@ -631,7 +703,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 282666,
       "name": "His Box",
       "url": "https://open.spotify.com/track/4auQElRGeVu94YhwonIdek"
@@ -671,6 +743,24 @@
       "duration_ms": 219426,
       "name": "Hollow Eyes",
       "url": "https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5SDB6dlRVY9YsW4qHC4cP5"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "I Put A Spell On You - Remastered 2020",
+      "url": "https://open.spotify.com/track/7cls5t47NYg0pfP1djxGu5"
     },
     {
       "album": {
@@ -739,7 +829,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 185226,
       "name": "Jewel",
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
@@ -955,7 +1045,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 353973,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/7cWVuLuQrH3kqWeMAbIOPs"
@@ -991,7 +1081,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 303333,
       "name": "Mondlicht",
       "url": "https://open.spotify.com/track/6lOMb2emnIL0QNOrsPW4aq"
@@ -1063,7 +1153,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 289173,
       "name": "North, South, East and West",
       "url": "https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU"
@@ -1160,6 +1250,24 @@
     },
     {
       "album": {
+        "name": "Prayer from Nowhere",
+        "url": "https://open.spotify.com/album/7GKyuDirKyXIf6MEVYz6vj"
+      },
+      "artists": [
+        {
+          "name": "Cold Cave",
+          "url": "https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303120,
+      "name": "Prayer From Nowhere",
+      "url": "https://open.spotify.com/track/0NraHcNqLpGi934K0KG7vh"
+    },
+    {
+      "album": {
         "name": "Best Of...",
         "url": "https://open.spotify.com/album/6uiuucKurNcbu19yszkAaO"
       },
@@ -1189,7 +1297,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 250786,
       "name": "Psalm 23",
       "url": "https://open.spotify.com/track/27pNX6K1cysiS7V3fAMjSo"
@@ -1207,7 +1315,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 506466,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5Srq4DJy3AMtHeX4q5uTZX"
@@ -1225,7 +1333,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 211510,
       "name": "Red Drop",
       "url": "https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL"
@@ -1279,7 +1387,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 235080,
       "name": "Rumours",
       "url": "https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS"
@@ -1369,7 +1477,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 142133,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/6d81COn50kdz2P1UpdsMFV"
@@ -1513,7 +1621,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 306826,
       "name": "Sweet Lover Hangover",
       "url": "https://open.spotify.com/track/2UNKWKv1dLFPhNlQEbvC4r"
@@ -1657,7 +1765,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 232120,
       "name": "The Shadow Of Love",
       "url": "https://open.spotify.com/track/5RpauKfTbXLIbFVvYH0Z8e"
@@ -1711,7 +1819,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 486240,
       "name": "Tower Of Strength",
       "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
@@ -1772,6 +1880,24 @@
     },
     {
       "album": {
+        "name": "Gods Own Medicine",
+        "url": "https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340666,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL"
+    },
+    {
+      "album": {
         "name": "Wings Of Joy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5RzJqDl7qP2xQ2mV8CX4qq"
       },
@@ -1783,7 +1909,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 231506,
       "name": "Watersong",
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
@@ -1855,7 +1981,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 202845,
       "name": "\u0422\u0430\u043d\u0446\u0435\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/6PF9c5r8Lp0K2RiodWnAKW"

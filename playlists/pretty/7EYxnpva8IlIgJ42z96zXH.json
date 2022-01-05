@@ -1,13 +1,37 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
   "name": "Morning Workout",
-  "num_followers": 29751,
+  "num_followers": 29787,
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjE5NSwyNTBhNmMxN2MxYTdjMTJmOGFlMWQ3ZjhiNGZjYjIwMTlhMzM3YTli",
+  "snapshot_id": "MjE5NixmOGJhNTUwNDQzOTZjYTc0MTE1YTYzNDRkYWJiZjQxOGNlMzZiMmYy",
   "tracks": [
+    {
+      "added_at": "2021-12-30 22:28:15",
+      "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 201176,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
+    },
     {
       "added_at": "2021-12-30 22:28:15",
       "album": {
@@ -67,30 +91,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 201176,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
     },
     {
       "added_at": "2021-12-30 22:28:15",

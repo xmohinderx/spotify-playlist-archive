@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Thirstier",
+        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180180,
+      "name": "Big Leap",
+      "url": "https://open.spotify.com/track/1eqNt1BoMPOBPWa1IRut2r"
+    },
+    {
+      "album": {
         "name": "Big Wheel / Stellate",
         "url": "https://open.spotify.com/album/1EYHnhHes6AWnHthRn19uf"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 229513,
       "name": "Drunk Dreams",
       "url": "https://open.spotify.com/track/6XhAKOoGyApoJ7E0iNrjDT"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 249146,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7sqxbAwB1tl6MfQXHhA2R5"
@@ -1319,7 +1337,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
@@ -1413,7 +1431,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 175773,
       "name": "Rae",
       "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 190093,
       "name": "Slow Mover",
       "url": "https://open.spotify.com/track/2lTU0gr2BfZaXGi6qxojv0"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 239760,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/5Kc1BdIbe3KZSTiVeomy8d"
@@ -1681,7 +1699,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 260519,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/4Gcikn8y1cLRXki0xguC5G"

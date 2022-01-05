@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 108279,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 124373,
       "name": "Break Down the Walls",
       "url": "https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 116173,
       "name": "Burning Season",
       "url": "https://open.spotify.com/track/5wWmLdIYzxdh3mlkHwBVog"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 225960,
       "name": "Down for Life",
       "url": "https://open.spotify.com/track/5PbC9tBONAbLTDTfMvzndz"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 172426,
       "name": "Few and Far Between",
       "url": "https://open.spotify.com/track/3DNCnnOLmDRtm3WHId4Gib"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 78099,
       "name": "Glue",
       "url": "https://open.spotify.com/track/58GYzvbTEO6p012RiuYaEp"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 209160,
       "name": "Gomorrah's Season Ends",
       "url": "https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 146813,
       "name": "Gravity Wins Again",
       "url": "https://open.spotify.com/track/6BtPf07BVx4QNWvopvOyW6"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 217506,
       "name": "In The Blood",
       "url": "https://open.spotify.com/track/1xeq7bGqYQr89IH2dUwnJf"
@@ -599,6 +599,24 @@
       "duration_ms": 165680,
       "name": "Less Than Zero",
       "url": "https://open.spotify.com/track/0lvsez8oZ7WSRJcmQNj7D4"
+    },
+    {
+      "album": {
+        "name": "Ugly",
+        "url": "https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc"
+      },
+      "artists": [
+        {
+          "name": "Life Of Agony",
+          "url": "https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw"
     },
     {
       "album": {
@@ -721,7 +739,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 85800,
       "name": "Proud To Be DFL",
       "url": "https://open.spotify.com/track/4cOG1ei21V0EsLRM0lFeL0"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 114680,
       "name": "River Runs Red",
       "url": "https://open.spotify.com/track/0j9sdD1cyPToHd3bkhuMG4"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 100800,
       "name": "Take a Stand",
       "url": "https://open.spotify.com/track/2pyFrdfsP9c5ElbXv3m4OQ"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 139186,
       "name": "United Kids",
       "url": "https://open.spotify.com/track/0QT6JDL8cgndqsY0rXQwdY"

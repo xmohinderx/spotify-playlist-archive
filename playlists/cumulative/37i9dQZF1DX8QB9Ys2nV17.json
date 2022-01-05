@@ -134,6 +134,24 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/0pC44Owu9L5cki0FGk9KuG"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        }
+      ],
+      "date_added": "2021-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "Earthshaker",
+      "url": "https://open.spotify.com/track/55JA2ADUmJvPdIWpyqHTaJ"
+    },
+    {
+      "album": {
         "name": "Juice Me Up",
         "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
       },
@@ -499,7 +517,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 230400,
       "name": "Lodi",
       "url": "https://open.spotify.com/track/50rwJNt8Xnoae1me9yV0ml"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 227333,
       "name": "Nowhere Left to Go",
       "url": "https://open.spotify.com/track/66A4kKsaCLef6DM79ATTER"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 269333,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/3ZFwoOTjcVzVOcFM08NsjG"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 383133,
       "name": "The Ice Queen",
       "url": "https://open.spotify.com/track/0NyrDrdwyeRbbS85RdrPFL"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 246293,
       "name": "You Need Love",
       "url": "https://open.spotify.com/track/4I5G1RoD0LbJ8q5VG5YdIs"

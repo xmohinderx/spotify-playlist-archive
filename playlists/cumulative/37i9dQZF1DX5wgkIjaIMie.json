@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "All The Pretty Girls",
+        "url": "https://open.spotify.com/album/6tt3amOoZSv583etjVceXK"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202628,
+      "name": "All The Pretty Girls",
+      "url": "https://open.spotify.com/track/1kgw52pWfmHsXP0eAmduLg"
+    },
+    {
+      "album": {
         "name": "Sweet Talker (Deluxe Version)",
         "url": "https://open.spotify.com/album/2rDIivxBafNKpgRqlzIRSb"
       },
@@ -461,7 +479,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 227893,
       "name": "Firework",
       "url": "https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt"
@@ -515,7 +533,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 224920,
       "name": "Girl on Fire",
       "url": "https://open.spotify.com/track/4esOae7i4rqTbAu9o5Pxco"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 204773,
       "name": "I Really Like You",
       "url": "https://open.spotify.com/track/0PGLRTN0X6DrXh645WJCIY"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 230733,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/3oHNJECGN3bBoGXejlw2b1"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 227022,
       "name": "Lean On Me (feat. Robinson)",
       "url": "https://open.spotify.com/track/02c4wpeXlXxT7Cekkz3kP3"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 182666,
       "name": "Lips Are Movin",
       "url": "https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 212961,
       "name": "My Wave",
       "url": "https://open.spotify.com/track/6wEWlttx3wUooRC7ydITFL"
@@ -921,7 +939,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 192280,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
@@ -975,7 +993,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 214147,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/6fNhZRFEkBfgW39W3wKARJ"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 215746,
       "name": "Ridin' Solo",
       "url": "https://open.spotify.com/track/6OEolOOk9Gh9bqkdpfIOl0"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 214746,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
@@ -1441,7 +1459,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 170921,
       "name": "The Greatest",
       "url": "https://open.spotify.com/track/0loL8y5QkH4JWQbZVvx9Js"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 211760,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
       "url": "https://open.spotify.com/track/20ZP3Om9DvDazXrNUC7WM2"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 199693,
       "name": "TiK ToK",
       "url": "https://open.spotify.com/track/6nYoTBmGFNgfTyRC8x1Fvp"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/1Mb8WgET5ozEtG0zlibyUy"
@@ -1605,6 +1623,28 @@
       "duration_ms": 188820,
       "name": "Toto",
       "url": "https://open.spotify.com/track/5JH1NuPiHEB0Wl03rLHNq7"
+    },
+    {
+      "album": {
+        "name": "Uptown Funk (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/0tWBtc7le3TMo1gDdGyJVI"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270626,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/4rmPQGwcLQjCoFq5NrTA0D"
     },
     {
       "album": {
@@ -1709,7 +1749,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 189429,
       "name": "White Lines",
       "url": "https://open.spotify.com/track/5H2avIx356wQpgG7HnPEHM"
@@ -1811,7 +1851,7 @@
       ],
       "date_added": "2020-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 181859,
       "name": "Woke Up Late (feat. Hailee Steinfeld)",
       "url": "https://open.spotify.com/track/3k8YdriWQss396m6Q6rTzV"

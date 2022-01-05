@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 235672,
       "name": "Again",
       "url": "https://open.spotify.com/track/71si6qnqug1pf2qHgRxMDV"
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Bad Guy",
+        "url": "https://open.spotify.com/album/1ARK8ZV5u7JcZcEpUG0Ux8"
+      },
+      "artists": [
+        {
+          "name": "GrandVille",
+          "url": "https://open.spotify.com/artist/3WRCf7MHsgbJmd27kTuCsK"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313209,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/4X1hvTh0fBleqUlVkuoS5I"
+    },
+    {
+      "album": {
         "name": "Black Holes Demos",
         "url": "https://open.spotify.com/album/3joUkppKWBZqJvRnF5YGCR"
       },
@@ -261,7 +279,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 207229,
       "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
       "url": "https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 252245,
       "name": "Got Me Feeling Good",
       "url": "https://open.spotify.com/track/4RuCWaWlvXHwM39EZMYtBT"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 236333,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/2mi9QDPaqsQwqLSGWCBuLa"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 161053,
       "name": "Suffocation Blues",
       "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
@@ -1727,7 +1745,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 241733,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/5A3BUCtrD3uhS92TQikslR"

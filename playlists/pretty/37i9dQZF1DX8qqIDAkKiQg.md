@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 
 > The essential works of Wolfgang Amadeus Mozart, featuring relaxing piano, soulful strings, a few magical operas, and plenty of legendary melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 719,221 likes - 65 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,423 likes - 65 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qqIDAkKiQg.md) - [plain]
 | 64 | [Requiem in D minor, K.626: 3\. Sequentia: Dies irae](https://open.spotify.com/track/1WhpwZv7HPNt5pBNxLdhDd) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [The Monteverdi Choir](https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW), [English Baroque Soloists](https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59), [John Eliot Gardiner](https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi) | [Mozart: Requiem; Kyrie in D minor](https://open.spotify.com/album/293G46p7rLh8foiWJ0L5hg) | 1:46 |
 | 65 | [Mass In C, K.317 "Coronation": 2\. Gloria](https://open.spotify.com/track/4Qo0JK0vJfmWe8uX1PWgOe) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Barbara Bonney](https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr), [Catherine Wyn\-Rogers](https://open.spotify.com/artist/2Yx6iuxQCLQ69mfliLeLh6), [Jamie MacDougall](https://open.spotify.com/artist/5tC7xnl4AYAjxqfwwCWwCs), [Stephen Gadd](https://open.spotify.com/artist/2GnOPGjzvccVNozglEdmFz), [The English Concert](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA), [Trevor Pinnock](https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83), [The English Concert Choir](https://open.spotify.com/artist/04aMNLu6adfcRyh59eta7f) | [Mozart: Coronation Mass ; Exsultate, jubilate; Vesperae Solennes](https://open.spotify.com/album/6GamWfZCmXKRr4ftaLRR3E) | 4:29 |
 
-Snapshot ID: `MTYzNzMxNzc5MCwwMDAwMDAzNjAwMDAwMTdkMzdiZWNhMGUwMDAwMDE3MDdkMGE4MmNh`
+Snapshot ID: `MTY0MTMwNjUzOCwwMDAwMDAzNzAwMDAwMTdlMjU3ZTQxM2IwMDAwMDE3MDdkMGE4MmNh`

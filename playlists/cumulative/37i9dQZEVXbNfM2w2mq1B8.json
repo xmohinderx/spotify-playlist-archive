@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 234281,
       "name": "Anomaliya",
       "url": "https://open.spotify.com/track/6EyKgt8Ndw2aVb2x1DGjkm"
@@ -1711,7 +1711,7 @@
       ],
       "date_added": "2021-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-08",
+      "date_removed": null,
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -3667,7 +3667,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
@@ -4179,7 +4179,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -6928,6 +6928,28 @@
     },
     {
       "album": {
+        "name": "Samara",
+        "url": "https://open.spotify.com/album/368va5SbBzSD24EuHzsYhV"
+      },
+      "artists": [
+        {
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+        },
+        {
+          "name": "Azis",
+          "url": "https://open.spotify.com/artist/3zwtzjFSBvjdmuk2D0bEza"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Samara",
+      "url": "https://open.spotify.com/track/0AMzLFPOmCJWWNgmNkPbFA"
+    },
+    {
+      "album": {
         "name": "Kylie Christmas",
         "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
       },
@@ -7037,7 +7059,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 211200,
       "name": "Scandal",
       "url": "https://open.spotify.com/track/6PHB6mLa8HlK1m7I5wzmXD"

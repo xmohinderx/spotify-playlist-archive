@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8E8oqpmTDI.md) - [plain]
 
 > Get weird with the <a href="spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM">indie maestro</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,060 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,237 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

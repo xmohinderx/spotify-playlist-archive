@@ -440,6 +440,24 @@
     },
     {
       "album": {
+        "name": "Paul Kelly's Greatest Hits: Songs From The South: Volume 1 & 2",
+        "url": "https://open.spotify.com/album/2kmbLohyHyFyeIb684f6rA"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413213,
+      "name": "From Little Things Big Things Grow",
+      "url": "https://open.spotify.com/track/15Xj4bGoHoFK5jqOA5wP3R"
+    },
+    {
+      "album": {
         "name": "Peace, Love & Harmony",
         "url": "https://open.spotify.com/album/6Dvs8Sy0kCLhx0yDWvIhym"
       },
@@ -505,7 +523,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 234066,
       "name": "Hand on Your Heart",
       "url": "https://open.spotify.com/track/5goaWZQIz3HH6qJRhp2rKS"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 236066,
       "name": "Hey Jealousy",
       "url": "https://open.spotify.com/track/1ZoHRnS5U4m7V5pgvFiK1N"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 197693,
       "name": "I Think I'm in Love with You",
       "url": "https://open.spotify.com/track/34PsixEmIceg39NpaYxBsH"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 260893,
       "name": "Pash",
       "url": "https://open.spotify.com/track/03Bgy8sbBMxyQ3yYNwhTxR"
@@ -1071,7 +1089,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 214933,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1IQu8MIytsL3io4PvubwtW"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 210466,
       "name": "S Club Party",
       "url": "https://open.spotify.com/track/21ixeD8mGouF993kgb4MER"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 248466,
       "name": "Steal My Sunshine",
       "url": "https://open.spotify.com/track/2GRnDQCkcN6BoujfUgywOW"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 184533,
       "name": "Step Back in Time",
       "url": "https://open.spotify.com/track/6RWlCfEhi3FysmYhVg11y7"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 179906,
       "name": "Sweetest Thing - The Single Mix",
       "url": "https://open.spotify.com/track/5ixDTJTCjtTOMVxYtcOmrm"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 219600,
       "name": "This Is It - 7\" Version",
       "url": "https://open.spotify.com/track/3GK2EhaV9XoMmzdKkKqfMt"

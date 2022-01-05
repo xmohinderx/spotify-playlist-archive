@@ -1,12 +1,12 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Daniel Hope",
   "name": "Classical New Releases",
-  "num_followers": 621711,
+  "num_followers": 621800,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkyMzIwMCwwMDAwMDE3ZDAwMDAwMTdlMGVhNGZhNzcwMDAwMDE3ZGMzZDEyNDU4",
+  "snapshot_id": "MTY0MTMxMDA1NCwwMDAwMDE3ZjAwMDAwMTdlMjViM2U2YmYwMDAwMDE3ZGMzZDEyNDU4",
   "tracks": [
     {
       "added_at": "2021-12-31 04:00:00",
@@ -31,6 +31,26 @@
       "duration_ms": 163680,
       "name": "West Side Story Suite: I. America (Version for Solo Violin and String Orchestra)",
       "url": "https://open.spotify.com/track/0Pqq3yMtcTlryrZFkxoZKw"
+    },
+    {
+      "added_at": "2022-01-04 07:45:19",
+      "album": {
+        "name": "Debussy: Suite bergamasque, L. 75: III. Clair de lune",
+        "url": "https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "duration_ms": 263826,
+      "name": "Suite bergamasque, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/26KykHLogeIep4OrurliDS"
     },
     {
       "added_at": "2021-12-31 04:00:00",

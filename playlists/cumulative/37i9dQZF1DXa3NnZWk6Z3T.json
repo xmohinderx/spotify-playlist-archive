@@ -497,7 +497,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 202173,
       "name": "Caf\u00e9 Con Chocolate",
       "url": "https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 219477,
       "name": "Calle Cima",
       "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/3FNqMoQV2Ang18yjFRykvW"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274653,
+      "name": "Colores",
+      "url": "https://open.spotify.com/track/2COmtOUw9l3ZKgQnK9Zx1b"
+    },
+    {
+      "album": {
         "name": "Como Ayer",
         "url": "https://open.spotify.com/album/3rebn49jHNlKMocuvNGfLU"
       },
@@ -880,6 +898,24 @@
     },
     {
       "album": {
+        "name": "Diablo De Un Segundo",
+        "url": "https://open.spotify.com/album/14FFsLvG1NLDm2pK0Jc14c"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127543,
+      "name": "Diablo De Un Segundo",
+      "url": "https://open.spotify.com/track/0f2AQr7tUre0BIGxx6RxX7"
+    },
+    {
+      "album": {
         "name": "Dividido",
         "url": "https://open.spotify.com/album/2OygT6vALfqvnQD1heNxZC"
       },
@@ -953,7 +989,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 175786,
       "name": "El Solitario Amor",
       "url": "https://open.spotify.com/track/0V9V7YN8hgej8fvj9iaLoo"
@@ -1043,7 +1079,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 157120,
       "name": "Epitafio",
       "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 200280,
       "name": "Estrellitas y Duendes",
       "url": "https://open.spotify.com/track/7GC0j38KfkV70zgEzediuv"
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 160213,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 226107,
       "name": "Gameboi",
       "url": "https://open.spotify.com/track/6T1N9aCrsS2l3JjxsuQVLt"
@@ -1647,7 +1683,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 233033,
       "name": "Life Is Everything",
       "url": "https://open.spotify.com/track/13YGtUizphOZtVnpeZskTk"
@@ -1797,7 +1833,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
@@ -1903,7 +1939,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 264933,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3Y6MLd4wP8h4LlFlZTTxjO"
@@ -2125,7 +2161,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 234425,
       "name": "No S\u00e9 Decirte No",
       "url": "https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB"
@@ -2277,7 +2313,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 197346,
       "name": "Orquesta natural",
       "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
@@ -2435,7 +2471,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 226733,
       "name": "Para Qu\u00e9 Sufrir",
       "url": "https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG"
@@ -2623,7 +2659,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 210745,
       "name": "Pelo Rojo",
       "url": "https://open.spotify.com/track/0qIMvQqkARENwEmau3CnRW"
@@ -2783,7 +2819,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
@@ -2805,7 +2841,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 140975,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4UgxaVgMFnoZfAkoDqLwjE"
@@ -2845,7 +2881,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 106921,
       "name": "Reflexi\u00f3n del Pasto",
       "url": "https://open.spotify.com/track/1tzTiU8wtxHvZ3YtU0cjEM"
@@ -2911,7 +2947,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 209080,
       "name": "Salvavidas de hielo (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/70LZISLWsPXGBn1bpJuYAU"
@@ -3143,7 +3179,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 192267,
       "name": "Te Quiero y Nada M\u00e1s",
       "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
@@ -3299,7 +3335,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 157522,
       "name": "T\u00fa Me Dij\u00edste Que Ven\u00edas",
       "url": "https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm"
@@ -3321,7 +3357,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 198917,
       "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
       "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
@@ -3433,7 +3469,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 190006,
       "name": "Volver",
       "url": "https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST"

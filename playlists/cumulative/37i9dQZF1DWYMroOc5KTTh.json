@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 219848,
       "name": "All I Need (DJ-Kicks) - Edit",
       "url": "https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 367362,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 190276,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/6bgefQ0PWrnROEbLQqxitu"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 245601,
       "name": "Dark Side",
       "url": "https://open.spotify.com/track/0LUsPZLpu4gxyLxKaHAI8g"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 181160,
       "name": "Delete Forever - Channel Tres Remix",
       "url": "https://open.spotify.com/track/1ELKvt9xRUcwr8zK4LLiM7"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 238465,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 170375,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 283636,
       "name": "Give You Up",
       "url": "https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy"
@@ -681,7 +681,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 279059,
       "name": "GO (Detroit Swindle Remix)",
       "url": "https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 206500,
       "name": "I'm a Kid",
       "url": "https://open.spotify.com/track/4RkQzVNxEt6JwOXCWolXsr"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 236196,
       "name": "Inner Drum",
       "url": "https://open.spotify.com/track/6F3jrCP8aRbAQ1OUWvKurZ"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 368244,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2lM5HZRi3mlxbFnmQ2oDXe"
@@ -983,10 +983,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 294200,
       "name": "Lamb's Wool (with Poolside)",
       "url": "https://open.spotify.com/track/2Kv2ihNE3KAztq2GWassEZ"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Sing Let\u2019s Dance",
+        "url": "https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
+          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230765,
+      "name": "Let\u2019s Sing Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S"
     },
     {
       "album": {
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 249933,
       "name": "Live Like We\u2019re Dancing (with Georgia)",
       "url": "https://open.spotify.com/track/1A58KC4dEQM53muqpaZoOT"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 218046,
       "name": "Make It Better",
       "url": "https://open.spotify.com/track/13BOL5TQDF3mEZ9uRh25ud"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 223537,
       "name": "Moves",
       "url": "https://open.spotify.com/track/0o0jBWUuvn9VjpHxLky8ai"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 263878,
       "name": "Ndeko Solo",
       "url": "https://open.spotify.com/track/3fsaBPSlFoPMx3hnO0vmL9"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 304486,
       "name": "New Gods - Ron Basejam Remix",
       "url": "https://open.spotify.com/track/3Pckvky9FxWNjlmHa22QuB"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 226666,
       "name": "red leather",
       "url": "https://open.spotify.com/track/0tr7sfdHBzs9PgBWeS27ro"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 163669,
       "name": "Safe",
       "url": "https://open.spotify.com/track/26WKIQfoKE1FryKWAWm7MY"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 198523,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4ARjCGggd0yAjlXd2vmx5D"
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 240000,
       "name": "Trouble to Share",
       "url": "https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 252693,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/5sUWfe7eSoapj9d6zgjJEe"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 366121,
       "name": "Up High",
       "url": "https://open.spotify.com/track/7w5rc4pyAPMwK3RiEB8gjE"

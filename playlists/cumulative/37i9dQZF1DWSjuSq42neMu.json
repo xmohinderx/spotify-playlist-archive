@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 161748,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
@@ -299,7 +299,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 199994,
       "name": "Antes de Morirme (feat. Rosal\u00eda)",
       "url": "https://open.spotify.com/track/7aFBy1CBLGnZE1Iv6TvEZE"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 134653,
       "name": "BB",
       "url": "https://open.spotify.com/track/4OoDeRIb0xo5DfQQ9RligQ"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 189409,
       "name": "Dividimos",
       "url": "https://open.spotify.com/track/7iC5nagvypUAb8M2Ut4Mry"
@@ -976,6 +976,44 @@
     },
     {
       "album": {
+        "name": "Infiel (Remix)",
+        "url": "https://open.spotify.com/album/0WHbGKLr25jT5mXcs2nHKf"
+      },
+      "artists": [
+        {
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297760,
+      "name": "Infiel - Remix",
+      "url": "https://open.spotify.com/track/5Xe78U9cUwnWOuWbgYvAKZ"
+    },
+    {
+      "album": {
         "name": "Insuficiente",
         "url": "https://open.spotify.com/album/1RuBFy3NxzotZX7dMNLmGM"
       },
@@ -1021,7 +1059,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 221546,
       "name": "Jockey",
       "url": "https://open.spotify.com/track/01SMtfSbJlcxUdJvOofMOx"
@@ -1143,7 +1181,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "LE GUSTA QUE LA VEAN",
       "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
@@ -1161,7 +1199,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 174853,
       "name": "Limo",
       "url": "https://open.spotify.com/track/31V2GmqlWRcbaY3Up9bLYf"
@@ -1275,7 +1313,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 180173,
       "name": "Man\u0303anero",
       "url": "https://open.spotify.com/track/21U0Wbps9UZrPrjZDxPtYq"
@@ -1393,6 +1431,32 @@
       "duration_ms": 179057,
       "name": "Me Olvid\u00e9 De Los 2",
       "url": "https://open.spotify.com/track/6qKMIgWRTG5Q8Rv0SMGhBi"
+    },
+    {
+      "album": {
+        "name": "Me perdiste (Remix)",
+        "url": "https://open.spotify.com/album/1Ph5KKyTLe5zcobrgBs92F"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246039,
+      "name": "Me perdiste - Remix",
+      "url": "https://open.spotify.com/track/479fjceNVcwDiMO9h4Zkc2"
     },
     {
       "album": {
@@ -1865,7 +1929,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 232653,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
@@ -1991,7 +2055,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 199120,
       "name": "Que Locura",
       "url": "https://open.spotify.com/track/1Ho6cbsVlusCvv0grlswlj"
@@ -2229,7 +2293,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 285440,
       "name": "Tas Bota",
       "url": "https://open.spotify.com/track/0nBvR9ujYtgYfKLAFD7fDG"
@@ -2295,7 +2359,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 206372,
       "name": "Toda La Noche",
       "url": "https://open.spotify.com/track/4BTZnTwEVyPLeIN681PA8k"

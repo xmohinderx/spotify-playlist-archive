@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 252257,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/5CjYgLyRgiIGiS9fQAyWaH"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/1CMUCe5mOF0EqTKqPz5k14"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 226886,
       "name": "Faith - Radio Version",
       "url": "https://open.spotify.com/track/4HeBnOIcdTi5ZCdmpwJUuR"
@@ -1017,7 +1017,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 218133,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv"
@@ -1155,6 +1155,24 @@
       "duration_ms": 198140,
       "name": "Known",
       "url": "https://open.spotify.com/track/1hrF6s6kfXuPv14OrD9v6X"
+    },
+    {
+      "album": {
+        "name": "Let Love Lead",
+        "url": "https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "date_added": "2020-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235185,
+      "name": "Let Love Lead",
+      "url": "https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD"
     },
     {
       "album": {
@@ -1437,6 +1455,24 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "album": {
+        "name": "No One Like Our God",
+        "url": "https://open.spotify.com/album/7Fcpi2Cm9H7PoWi0y91aKR"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "date_added": "2020-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249080,
+      "name": "No One Like Our God",
+      "url": "https://open.spotify.com/track/0OVsEZ9BLf4zNa4d8OOL3a"
     },
     {
       "album": {
@@ -1905,7 +1941,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 318120,
       "name": "The Heart Of Worship",
       "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
@@ -1923,7 +1959,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 225996,
       "name": "The Same Jesus",
       "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
@@ -1941,7 +1977,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 200453,
       "name": "The Words I Would Say",
       "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
@@ -2241,7 +2277,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 217586,
       "name": "With Lifted Hands",
       "url": "https://open.spotify.com/track/68246eHScV7Ay4sl9bsxIA"
@@ -2313,7 +2349,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 251626,
       "name": "You Are My All In All - Top 50 Praise Songs Album Version",
       "url": "https://open.spotify.com/track/6Amw4fIfa7x6mQMrh2PIui"

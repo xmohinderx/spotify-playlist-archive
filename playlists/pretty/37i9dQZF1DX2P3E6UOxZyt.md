@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2021 全新陣容出列！鎖定華語樂壇的最強新聲代！大推潛力無限的亞洲聲勢力！Cover: 持修 \(Chih Siou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,694 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,715 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 43 | [虧欠](https://open.spotify.com/track/5yiJ65THPeXiZFcYwh8t1U) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [虧欠](https://open.spotify.com/album/0UvqTkCJvKAt4W20NGu4SG) | 3:39 |
 | 44 | [巴黎的十二點](https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [巴黎的十二點](https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz) | 3:41 |
 | 45 | [點燈的人](https://open.spotify.com/track/2UH12YTjx5ynDqdrNZ6OBx) | [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [點燈的人](https://open.spotify.com/album/6uvtbqW6YYCjvzpVTPjaCy) | 3:45 |
-| 46 | [Changing](https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA) | [李杰明](https://open.spotify.com/artist/7awCxeZ2CGiiXAXz85JqgI), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Changing](https://open.spotify.com/album/5tYTEcnieIhDAxikUuRCNc) | 3:15 |
+| 46 | [Changing](https://open.spotify.com/track/2mYORUFdcHe4xkXOjzLukA) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h), [Evangeline Wong](https://open.spotify.com/artist/7sEIHkZXRzGa3OBUCCxzU5) | [Changing](https://open.spotify.com/album/5tYTEcnieIhDAxikUuRCNc) | 3:15 |
 | 47 | [歡迎來到我身邊 \- 《黑喵知情》插曲](https://open.spotify.com/track/5z1TGdyVjf2hQNV8iX09uL) | [Kelly Cheng](https://open.spotify.com/artist/1z3k20gEtPm6SKPGPvokDg) | [幸福藏在哪裡](https://open.spotify.com/album/42hG3NcL7q3E451ij9KTnZ) | 3:28 |
 | 48 | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 |
 | 49 | [失重前幸褔](https://open.spotify.com/track/3SJgTyb8a7z66suw0kBZ0T) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 3:40 |

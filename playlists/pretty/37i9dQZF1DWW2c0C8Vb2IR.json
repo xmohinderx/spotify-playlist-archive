@@ -1,12 +1,12 @@
 {
   "description": "All new, all jazz. <a href=\"spotify:genre:0JQ5IMCbQBLmUyU8VyapEr\">Click here for more new jazz.</a> Cover: Anomalie",
   "name": "All New Jazz",
-  "num_followers": 42469,
+  "num_followers": 42502,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDNlMTAwMDAwMTdkZWFjZjY1MmIwMDAwMDE3ZGRkZjJjZTlm",
+  "snapshot_id": "MTY0MTMwNjE3NywwMDAwMDNlMjAwMDAwMTdlMjU3OGJmMDQwMDAwMDE3ZGRkZjJjZTlm",
   "tracks": [
     {
       "added_at": "2021-12-10 05:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "All Jazzed Up",
-        "url": "https://open.spotify.com/album/5zgmSdYB2sxlplBka3X787"
-      },
-      "artists": [
-        {
-          "name": "Blacklight",
-          "url": "https://open.spotify.com/artist/4GoCR0cSV4uOMulnVSWd5h"
-        }
-      ],
-      "duration_ms": 392067,
-      "name": "All Jazzed Up",
-      "url": "https://open.spotify.com/track/2n8C7pSfBYbvSUrSf5E9lZ"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "Coventry Carol",
         "url": "https://open.spotify.com/album/1rpE5mlMHnreq8d6IrVRY5"
       },
@@ -400,8 +384,8 @@
           "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
         },
         {
-          "name": "Alfredo Paixao",
-          "url": "https://open.spotify.com/artist/4Lh0Z8ztuWPxxymOipBr9K"
+          "name": "Alfredo Paix\u00e3o",
+          "url": "https://open.spotify.com/artist/4QEum42d0gbuydMFlzqxzo"
         },
         {
           "name": "Kevin Field",

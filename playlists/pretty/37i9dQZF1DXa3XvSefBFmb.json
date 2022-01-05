@@ -1,15 +1,159 @@
 {
-  "description": "Ouve estas extraordin\u00e1rias mulheres artistas portuguesas, como Carolina Deslandes, com o volume no m\u00e1ximo",
+  "description": "Ouve estas extraordin\u00e1rias mulheres artistas portuguesas, como Rita Vian, com o volume no m\u00e1ximo",
   "name": "EQUAL Portugal",
-  "num_followers": 4013,
+  "num_followers": 4009,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkyMTYwMCwwMDAwMDAwYzAwMDAwMTdkOTc1NmZjNTcwMDAwMDE3ZDgwZWU3Njc2",
+  "snapshot_id": "MTY0MTM0MDgwMCwwMDAwMDAwZDAwMDAwMTdlMjc4OTBjNmEwMDAwMDE3ZTFmYTFmMjlk",
   "tracks": [
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "CAOS'A",
+        "url": "https://open.spotify.com/album/4vd3ussiCrKb6XO92DOsys"
+      },
+      "artists": [
+        {
+          "name": "Rita Vian",
+          "url": "https://open.spotify.com/artist/2F6B2QaWX7cz72kKtY8LRD"
+        }
+      ],
+      "duration_ms": 223683,
+      "name": "Trago",
+      "url": "https://open.spotify.com/track/6u6H8WHjoirugriJDMZGIG"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Sleepwalker",
+        "url": "https://open.spotify.com/album/2KiHDAn4I9NZUk4Du0lLMK"
+      },
+      "artists": [
+        {
+          "name": "Libra",
+          "url": "https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm"
+        }
+      ],
+      "duration_ms": 173874,
+      "name": "Npc's",
+      "url": "https://open.spotify.com/track/4xOlVgKxl4DCbaiHucQqGz"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Nuvens",
+        "url": "https://open.spotify.com/album/4WgYGeGbpcHEuhMHsx7vfr"
+      },
+      "artists": [
+        {
+          "name": "Denise",
+          "url": "https://open.spotify.com/artist/6t9iYij561aIw8DBdos1Wr"
+        }
+      ],
+      "duration_ms": 194157,
+      "name": "Nuvens",
+      "url": "https://open.spotify.com/track/55f6Ao2n9nHpVhneCLR7Ti"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Casamento",
+        "url": "https://open.spotify.com/album/4ZMJ3b26edtLB0d8XsmSci"
+      },
+      "artists": [
+        {
+          "name": "Italiana",
+          "url": "https://open.spotify.com/artist/3TdYwGwLQbXDC9EMd9QZk3"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "Casamento",
+      "url": "https://open.spotify.com/track/6GrV0i4cimeEP4XsS9p6wi"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Pr\u00f3xima Vez",
+        "url": "https://open.spotify.com/album/6j2UwbOVixPWQkvgdirs58"
+      },
+      "artists": [
+        {
+          "name": "Irma",
+          "url": "https://open.spotify.com/artist/06bkZI3iWhUmFYWNovMkCp"
+        }
+      ],
+      "duration_ms": 199596,
+      "name": "Pr\u00f3xima Vez",
+      "url": "https://open.spotify.com/track/7xAvk49f0WgPhm7F4TYDFm"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Leva-Me a Viajar",
+        "url": "https://open.spotify.com/album/0XQdOLyu9G6UY2G6p54U8v"
+      },
+      "artists": [
+        {
+          "name": "Sara Carreira",
+          "url": "https://open.spotify.com/artist/4ZWBY6qCj0UzSZoEjdBnBH"
+        }
+      ],
+      "duration_ms": 220530,
+      "name": "Leva-Me a Viajar",
+      "url": "https://open.spotify.com/track/5Zjb9BXxEUGvLHHhCxTHj7"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Outras L\u00ednguas",
+        "url": "https://open.spotify.com/album/2JtCaTbSx1H2un16qjuZH4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Outras L\u00ednguas",
+      "url": "https://open.spotify.com/track/7nXrYKFfGW25Nqw6cRQg6m"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Away",
+        "url": "https://open.spotify.com/album/7MaVCuf0Sdjhhbnt3r3sSj"
+      },
+      "artists": [
+        {
+          "name": "J.Yen",
+          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+        }
+      ],
+      "duration_ms": 214695,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/48hag5Pw1ApmJuPyOgw3XY"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
+      "album": {
+        "name": "Resili\u00eancia",
+        "url": "https://open.spotify.com/album/5QHssDn672a9cJOsdw1HQ7"
+      },
+      "artists": [
+        {
+          "name": "Filomena Maricoa",
+          "url": "https://open.spotify.com/artist/779KPNdHtr7BoEKEAcHxjG"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "Fininho",
+      "url": "https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q"
+    },
+    {
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Eco - A COLORS SHOW",
         "url": "https://open.spotify.com/album/28P2W9MunOGmfnDetyntYx"
@@ -25,7 +169,7 @@
       "url": "https://open.spotify.com/track/3WkTWK2VCy8R9Lzb8q6AgP"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Nada Com Ele",
         "url": "https://open.spotify.com/album/1lAmd78tHxPeLzxrgf16lX"
@@ -41,7 +185,7 @@
       "url": "https://open.spotify.com/track/3DeFVvQ9jklfaXKxMGFAtW"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Estou Bem",
         "url": "https://open.spotify.com/album/2ggrWtGv3TkNR5Vokbvq7o"
@@ -57,7 +201,7 @@
       "url": "https://open.spotify.com/track/29ihF1OmKjrsiYnXFSazEo"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/0A0FV80XbVm0e88Jv2hJfe"
@@ -73,7 +217,7 @@
       "url": "https://open.spotify.com/track/1sMHfPoSmTBXhs7laomUX2"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "No Meu Canto",
         "url": "https://open.spotify.com/album/6HePkzPOyjSuqUy6f9M23x"
@@ -89,7 +233,7 @@
       "url": "https://open.spotify.com/track/4Zx3VzAoFuUjSRNleBy0y8"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0JnJVKXJymYcCwleK7zgxV"
@@ -109,7 +253,7 @@
       "url": "https://open.spotify.com/track/1R7eGMudJ1ZU6j3ZZj5lim"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Amau Mas",
         "url": "https://open.spotify.com/album/6V7hqiOTQR6QRPIBi8pFdF"
@@ -125,7 +269,7 @@
       "url": "https://open.spotify.com/track/7LE36idTpbKN36P76BATaa"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "ANASA",
         "url": "https://open.spotify.com/album/04g7goUvhYEe4hJqmP5yRJ"
@@ -149,7 +293,7 @@
       "url": "https://open.spotify.com/track/4YUplWuTC3aM0Nw5qqwe59"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Impending Doom",
         "url": "https://open.spotify.com/album/1Zi8ps8WRqTT4VS6t6pfaE"
@@ -165,7 +309,7 @@
       "url": "https://open.spotify.com/track/3Lym1T2JpY87pb4nfawRoQ"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Roma On Raza",
         "url": "https://open.spotify.com/album/4T1tVmz4IXfd00Q0yoH5f4"
@@ -181,7 +325,7 @@
       "url": "https://open.spotify.com/track/5Kw1wDjDnR8AicYwiVMIwJ"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Mudas",
         "url": "https://open.spotify.com/album/41rKewFIvCbIQRrhTIRy6x"
@@ -197,7 +341,7 @@
       "url": "https://open.spotify.com/track/2tMatUT3h10xQpRfXeyqel"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Maria Ana",
         "url": "https://open.spotify.com/album/1IYW8lKcDPvVLFUTxeETf7"
@@ -213,7 +357,7 @@
       "url": "https://open.spotify.com/track/5Z5riExFP96PSyAm1wDfYZ"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Maltratar",
         "url": "https://open.spotify.com/album/3pJeAJgFnoB1amcp4r28v2"
@@ -229,7 +373,7 @@
       "url": "https://open.spotify.com/track/6kQcSNqywXmPKBVRu8niMv"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "M\u00fasico de Escrit\u00f3rio",
         "url": "https://open.spotify.com/album/5YW91lrrVlHZ2MEDUgE6ug"
@@ -245,7 +389,7 @@
       "url": "https://open.spotify.com/track/1ZM4CnaYZlOfCJTO1pFzvE"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "I Love You, Crystal",
         "url": "https://open.spotify.com/album/7JFAsemQBAo0tY7tgvHX9k"
@@ -261,7 +405,7 @@
       "url": "https://open.spotify.com/track/3Jn6qKjyG6hB0zZaQFNVgx"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/3n0YFWjeS7e2QKUrrH2zJ0"
@@ -277,7 +421,7 @@
       "url": "https://open.spotify.com/track/2EvWlRoqD1JIgOsa3tMYNG"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Broken Apologies",
         "url": "https://open.spotify.com/album/570Fx13SR6qRJ9sv8uwxcy"
@@ -293,7 +437,7 @@
       "url": "https://open.spotify.com/track/1K79ujQqNRuxOEnJ8kJrCZ"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Solit\u00e1rio Sudoku",
         "url": "https://open.spotify.com/album/0UXOGPstvUvKXv6GdMoWWm"
@@ -309,7 +453,7 @@
       "url": "https://open.spotify.com/track/7COMRfZknV4gNC4m5gVKtB"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Dantes",
         "url": "https://open.spotify.com/album/242HUA0L6Ynz35pm1g1opB"
@@ -329,7 +473,7 @@
       "url": "https://open.spotify.com/track/3I6w8DimxdMr9ovdZUgNAS"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/3C7niCKrrO95XLqOsJtsYm"
@@ -345,7 +489,7 @@
       "url": "https://open.spotify.com/track/2M9zd4HpNIQbQCN0r65lZW"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Praia do Rosa",
         "url": "https://open.spotify.com/album/4ZNOmZG7k0Kc8PWBXMtcyQ"
@@ -361,7 +505,7 @@
       "url": "https://open.spotify.com/track/5v51LRyonhsnScW06ql0Fv"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Sleepwalker",
         "url": "https://open.spotify.com/album/2KiHDAn4I9NZUk4Du0lLMK"
@@ -381,7 +525,7 @@
       "url": "https://open.spotify.com/track/2D7f3tKYLYnLKlIliHG8Mh"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Por Um Momento",
         "url": "https://open.spotify.com/album/4Lp4DTO2uOl3jxblOfUuPq"
@@ -397,7 +541,7 @@
       "url": "https://open.spotify.com/track/5ggDnVEkUb3jLLX2iPpVaw"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Dualidades",
         "url": "https://open.spotify.com/album/1nKysYOe0Dx6evvZplH3Rr"
@@ -413,7 +557,7 @@
       "url": "https://open.spotify.com/track/7rKQuS986tFz2HVLQ9gUd9"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Amapola",
         "url": "https://open.spotify.com/album/0p6V2CZtALwwOSIvDUNz4A"
@@ -429,7 +573,7 @@
       "url": "https://open.spotify.com/track/7zhCM3b5SoeCkYL2vfTAv9"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Fica Comigo",
         "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
@@ -445,7 +589,7 @@
       "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "merc\u00fario retr\u00f3grado",
         "url": "https://open.spotify.com/album/5WZfMKEMs2o9LfYg8uWYsM"
@@ -461,7 +605,7 @@
       "url": "https://open.spotify.com/track/56AZWxNqAlq4h9sv8viO0T"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Fado Chiclete",
         "url": "https://open.spotify.com/album/4EZ43xgOc74kn9z1qkgDRl"
@@ -477,7 +621,7 @@
       "url": "https://open.spotify.com/track/7B4LT5E7nsIxDF177mzbHY"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Do You Care ?",
         "url": "https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9"
@@ -493,7 +637,7 @@
       "url": "https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "B\u00e1rbara,",
         "url": "https://open.spotify.com/album/1WTB6C3TfqiHNBr8m9tKfd"
@@ -509,7 +653,7 @@
       "url": "https://open.spotify.com/track/7EeMq3nBB4ssN3yEvHbBnz"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/0VRoBl8MpbSRNIYeewOSTi"
@@ -525,7 +669,7 @@
       "url": "https://open.spotify.com/track/6OWKb8rZP1pxKkMniNISsR"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Ao Deus Dar\u00e1",
         "url": "https://open.spotify.com/album/75kJT86YAkItf4AjC8Ac8P"
@@ -541,7 +685,7 @@
       "url": "https://open.spotify.com/track/6EwRYb57Px5Qaghwjvpi7I"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Bambu",
         "url": "https://open.spotify.com/album/5CvEvPhZcqUvcOqmjPd1z9"
@@ -557,7 +701,7 @@
       "url": "https://open.spotify.com/track/5apwA8YH5I36w9sPih18DF"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/5KGw6N2qPlVbdKV0sxMqAv"
@@ -573,7 +717,7 @@
       "url": "https://open.spotify.com/track/12P4ttiVecJZtlliNRkVe8"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Nunca Tou em Casa",
         "url": "https://open.spotify.com/album/4Ugx0BMNGPMxMNFwpks5Tw"
@@ -589,23 +733,7 @@
       "url": "https://open.spotify.com/track/5oRzAUYXgTgmbPQucFvXsk"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "Aventurina",
-        "url": "https://open.spotify.com/album/7uWxR1fQ2MfcXt7hGWop0m"
-      },
-      "artists": [
-        {
-          "name": "Constan\u00e7a Quinteiro",
-          "url": "https://open.spotify.com/artist/4BklsgbRXLBkddcA93W1DZ"
-        }
-      ],
-      "duration_ms": 218077,
-      "name": "Dan\u00e7a",
-      "url": "https://open.spotify.com/track/1vLcGFGIlnWvgaOwzvZa92"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Seguir Sem Ti",
         "url": "https://open.spotify.com/album/30JGcrXRxylz4UKdTLSrXl"
@@ -621,7 +749,7 @@
       "url": "https://open.spotify.com/track/7yPjbiCElh559jItTNcq3e"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Inevit\u00e1vel",
         "url": "https://open.spotify.com/album/2jYWPZfRWd809S0VxMCJSO"
@@ -637,7 +765,7 @@
       "url": "https://open.spotify.com/track/3NDtWqLY4JvlUWPpB63HP6"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Ter\u00e7a-feira (coisas pequeninas)",
         "url": "https://open.spotify.com/album/1TZTk6GFU6EXI0NPo4O5ri"
@@ -653,55 +781,7 @@
       "url": "https://open.spotify.com/track/0vtU4SgOGdIICBcamIWb7t"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "A\u00e7\u00facar",
-        "url": "https://open.spotify.com/album/7k8O0oz1VSInBB4AFm4Pcm"
-      },
-      "artists": [
-        {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/3mhrBt5SR0OsiRgettc3er"
-        }
-      ],
-      "duration_ms": 174947,
-      "name": "A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/3XQzVlUN2H2af1N2fzif8c"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "Romeu",
-        "url": "https://open.spotify.com/album/4jZ0sgNkqtRG91oVjJgT5f"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Pina",
-          "url": "https://open.spotify.com/artist/7sC66Y5TrR344ZOugvadXc"
-        }
-      ],
-      "duration_ms": 175684,
-      "name": "Romeu",
-      "url": "https://open.spotify.com/track/3lvMckEDxJg9DnSWraREhV"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "King of Ruining",
-        "url": "https://open.spotify.com/album/5eu0HLThrAcHGjVxT0AUEW"
-      },
-      "artists": [
-        {
-          "name": "Wendy Lucas",
-          "url": "https://open.spotify.com/artist/0QS3e81yxqcAh6izLUEa3a"
-        }
-      ],
-      "duration_ms": 196532,
-      "name": "King of Ruining",
-      "url": "https://open.spotify.com/track/5XIV2uTJ4OKleztwCqDp4T"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Cupido",
         "url": "https://open.spotify.com/album/23JnvLgTlj156SuRhL9Stu"
@@ -717,7 +797,7 @@
       "url": "https://open.spotify.com/track/2vU6EKyNKLYj0ezkT9lJ8W"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Gotote",
         "url": "https://open.spotify.com/album/2sPbDFVezuCqmQlVt9BF60"
@@ -733,95 +813,7 @@
       "url": "https://open.spotify.com/track/7qRSj3o2Yqefnn3AAIfOJV"
     },
     {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "piano, piano",
-        "url": "https://open.spotify.com/album/2cdMOE6ufkFNalicdvKp8l"
-      },
-      "artists": [
-        {
-          "name": "Mari Segura",
-          "url": "https://open.spotify.com/artist/0mwwTd1NjYKz2gRF68AwFt"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "piano, piano",
-      "url": "https://open.spotify.com/track/4lIYSsOS3tcmTzcUEhqIcz"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/4qk43yXGdSQu1Ifb9zqSjf"
-      },
-      "artists": [
-        {
-          "name": "y.azz",
-          "url": "https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U"
-        },
-        {
-          "name": "b-mywingz",
-          "url": "https://open.spotify.com/artist/6d6RqEhUtduAeWxDWy62r3"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/408ykLlqC0SqJPnmVzUxXx"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "cadeira vazia (Extended Version)",
-        "url": "https://open.spotify.com/album/23UjRUXxavEMKqPjsHONHH"
-      },
-      "artists": [
-        {
-          "name": "guida",
-          "url": "https://open.spotify.com/artist/0SyaJtWQuNKEwlI8bc8P3K"
-        }
-      ],
-      "duration_ms": 169920,
-      "name": "cadeira vazia - Extended Version",
-      "url": "https://open.spotify.com/track/6VOdN0n1lARwEUJwCUeJaI"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "Can't Move",
-        "url": "https://open.spotify.com/album/070Z4EMU9DW1RUwOuEJ0K7"
-      },
-      "artists": [
-        {
-          "name": "Diaza",
-          "url": "https://open.spotify.com/artist/1PJ9F9F3bexetwReX60ukc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Can't Move",
-      "url": "https://open.spotify.com/track/5lWEgFLmxlAtIeLTNZtjp8"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
-      "album": {
-        "name": "Pudo Ser",
-        "url": "https://open.spotify.com/album/1VjRLp79qmKsJhH2v7c7cZ"
-      },
-      "artists": [
-        {
-          "name": "Carla Cune",
-          "url": "https://open.spotify.com/artist/1eJCiBiU5FzMEXBxrsNxkd"
-        },
-        {
-          "name": "Jaque Original",
-          "url": "https://open.spotify.com/artist/0WZtkZyS5E4XYwHRkQbZ90"
-        }
-      ],
-      "duration_ms": 172912,
-      "name": "Pudo Ser",
-      "url": "https://open.spotify.com/track/6QC137qy2zPeo7DbHMN3kU"
-    },
-    {
-      "added_at": "2021-12-08 00:00:00",
+      "added_at": "2022-01-05 00:00:00",
       "album": {
         "name": "Severa",
         "url": "https://open.spotify.com/album/6KIhCflHrLD46nXuUXooKM"

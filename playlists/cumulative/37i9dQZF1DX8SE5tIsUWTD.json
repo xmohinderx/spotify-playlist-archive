@@ -247,7 +247,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 245624,
       "name": "Asef Gedan",
       "url": "https://open.spotify.com/track/67OWjdysv29UmW5H3L0HY8"
@@ -420,6 +420,28 @@
     },
     {
       "album": {
+        "name": "El Donia Risha F Hawa",
+        "url": "https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5"
+      },
+      "artists": [
+        {
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+        },
+        {
+          "name": "Sherine Abdo",
+          "url": "https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185570,
+      "name": "El Donia Risha F Hawa",
+      "url": "https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD"
+    },
+    {
+      "album": {
         "name": "Gonon El Desco",
         "url": "https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3"
       },
@@ -431,7 +453,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 561786,
       "name": "El Layla El Kebera",
       "url": "https://open.spotify.com/track/3zIrlJmUysULejWsHG0nGm"
@@ -554,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Gonon El Desco",
+        "url": "https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3"
+      },
+      "artists": [
+        {
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Gonon El Desco",
+      "url": "https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI"
+    },
+    {
+      "album": {
         "name": "Alech (Habibi Funk 004)",
         "url": "https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh"
       },
@@ -619,7 +659,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 252991,
       "name": "Jamileh",
       "url": "https://open.spotify.com/track/0F8co9bBHh5js5mxTnSMPk"
@@ -637,7 +677,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 177120,
       "name": "Kedaho",
       "url": "https://open.spotify.com/track/0DzRxhwvo1PSvkQnAEQ2Xa"
@@ -655,7 +695,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 242960,
       "name": "Ken Yama Disco",
       "url": "https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK"
@@ -673,7 +713,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 189124,
       "name": "La Coladera",
       "url": "https://open.spotify.com/track/5WHNfAOD9O6xC5s8jrzTlJ"
@@ -785,7 +825,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 170000,
       "name": "Mafatshi Leh",
       "url": "https://open.spotify.com/track/520RV8A1weQ6gQLsOyO7zw"

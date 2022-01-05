@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVMdJ6HSmTWs.md) - [plain]
 
 > A collection of myths, fairy tales, and fables from across the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,163 likes - 88 songs - 18 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,158 likes - 88 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

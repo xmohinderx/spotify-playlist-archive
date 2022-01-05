@@ -1,15 +1,139 @@
 {
-  "description": "Listen to Greek women at full volume. Cover: Despina Vandi",
+  "description": "Listen to Greek women at full volume. Cover: Eleonora Zouganeli",
   "name": "EQUAL Greece",
   "num_followers": 6488,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTY1MDExNiwwMDAwMDAxMDAwMDAwMTdkYzJjMzQ1MDAwMDAwMDE3ZDgwZmZlN2Ri",
+  "snapshot_id": "MTY0MTMzMzYwMCwwMDAwMDAxMTAwMDAwMTdlMjcxYjJmNTgwMDAwMDE3ZTFmOWVlMjc5",
   "tracks": [
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Stathero",
+        "url": "https://open.spotify.com/album/6p59dFt7fSVQeuxRMNF3sS"
+      },
+      "artists": [
+        {
+          "name": "Eleonora Zouganeli",
+          "url": "https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt"
+        }
+      ],
+      "duration_ms": 213467,
+      "name": "Stathero",
+      "url": "https://open.spotify.com/track/3tQakkOHMmqb8zhpC3sfcz"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Ukulele",
+        "url": "https://open.spotify.com/album/5M7yoN6ysO4qJijX1OUsFo"
+      },
+      "artists": [
+        {
+          "name": "Barbara Argyrou",
+          "url": "https://open.spotify.com/artist/4dKyyPIMmuepbWWTaOVRYK"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Ukulele",
+      "url": "https://open.spotify.com/track/2wbR40kPrAh02zoAx4A6J4"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "To tragoudi tou Vageli",
+        "url": "https://open.spotify.com/album/7jrugBUfEdbEA8IIpfoNst"
+      },
+      "artists": [
+        {
+          "name": "SKIADARESES",
+          "url": "https://open.spotify.com/artist/3ZUI362BbNMdNjI3GiGMPo"
+        }
+      ],
+      "duration_ms": 137624,
+      "name": "To tragoudi tou Vageli",
+      "url": "https://open.spotify.com/track/7gXHDD6FqwUVsybycAbyJB"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "ANASA",
+        "url": "https://open.spotify.com/album/04g7goUvhYEe4hJqmP5yRJ"
+      },
+      "artists": [
+        {
+          "name": "SAW",
+          "url": "https://open.spotify.com/artist/55W4Q4ZpCPpUfq1aiA1MFK"
+        },
+        {
+          "name": "Penny",
+          "url": "https://open.spotify.com/artist/3u8uY3m8nCH1UHMXULuByc"
+        },
+        {
+          "name": "Electabaz",
+          "url": "https://open.spotify.com/artist/4lXKOXNDKm0C02LtNTOrtf"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ANASA",
+      "url": "https://open.spotify.com/track/4YUplWuTC3aM0Nw5qqwe59"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Savvatovrada",
+        "url": "https://open.spotify.com/album/3SELPNptUHterDArBg1EKt"
+      },
+      "artists": [
+        {
+          "name": "Elena Tsagrinou",
+          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
+        }
+      ],
+      "duration_ms": 183164,
+      "name": "Savvatovrada",
+      "url": "https://open.spotify.com/track/3xBhplDzLDMJxxmUrIJgjb"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Gia Pia Agapi",
+        "url": "https://open.spotify.com/album/1ojT65aRHA2q8UY4xfsFbb"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        },
+        {
+          "name": "Anastasios Rammos",
+          "url": "https://open.spotify.com/artist/4IcdTv3In6GxT24aAGKSSF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Gia Pia Agapi",
+      "url": "https://open.spotify.com/track/7w0zx7VMwEMzx1I989hA46"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Palia Pligi (Original Tv Series \"Sasmos\" Soundtrack)",
+        "url": "https://open.spotify.com/album/7ALslO5cOYArHie3y7SVTY"
+      },
+      "artists": [
+        {
+          "name": "Melina Kana",
+          "url": "https://open.spotify.com/artist/77Guu62HL3rXrjqYJKhyVT"
+        }
+      ],
+      "duration_ms": 236235,
+      "name": "Palia Pligi - Original Tv Series \"Sasmos\" Soundtrack",
+      "url": "https://open.spotify.com/track/1TTbdZFPGr9HPI3bpYKPOo"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Petra",
         "url": "https://open.spotify.com/album/7LEaQPgQK1He4m1HTFQsg0"
@@ -25,7 +149,7 @@
       "url": "https://open.spotify.com/track/1FrZIMZWk9IaSYikIcD9uT"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Who Are They",
         "url": "https://open.spotify.com/album/4nsrfHKmnYyS7iUa3MqVQx"
@@ -41,7 +165,7 @@
       "url": "https://open.spotify.com/track/5R4ByJnuX8FqBEnH7zq4rD"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Foti\u00e1 (Evangelia x Eleni Foureira)",
         "url": "https://open.spotify.com/album/4jDchGBgtx772BlfW931iP"
@@ -61,23 +185,7 @@
       "url": "https://open.spotify.com/track/6s21oobR6fHbSNVViAzwBt"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Ukulele",
-        "url": "https://open.spotify.com/album/5M7yoN6ysO4qJijX1OUsFo"
-      },
-      "artists": [
-        {
-          "name": "Barbara Argyrou",
-          "url": "https://open.spotify.com/artist/4dKyyPIMmuepbWWTaOVRYK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Ukulele",
-      "url": "https://open.spotify.com/track/2wbR40kPrAh02zoAx4A6J4"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Zo Ti Zoi",
         "url": "https://open.spotify.com/album/1irjXrOMLE9E7dlozwAq1K"
@@ -93,7 +201,7 @@
       "url": "https://open.spotify.com/track/0qwTFZQJ6W1V2PeUTcNVIY"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Parto Allios",
         "url": "https://open.spotify.com/album/1t0U4f1m1msA1rYojRAvXp"
@@ -109,7 +217,7 @@
       "url": "https://open.spotify.com/track/6b9bCWsSFlTaMfhtKoCQcW"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Pasalimaniotissa",
         "url": "https://open.spotify.com/album/4Pvq28Ox9OWY37fkOHRG6b"
@@ -125,7 +233,7 @@
       "url": "https://open.spotify.com/track/1jlVPb43Pp1oaSL7J28Idi"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Ta Kalytera Paidia",
         "url": "https://open.spotify.com/album/0rEEzsaHss2A1QO1qa8qvD"
@@ -141,7 +249,7 @@
       "url": "https://open.spotify.com/track/1Pl0khFV0USrnZevOC0dDE"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Sto Lykavito - Nychtes Magikes kai Oneiremenes",
         "url": "https://open.spotify.com/album/3ImEKkbGtTLqZrpCH3BRky"
@@ -157,7 +265,39 @@
       "url": "https://open.spotify.com/track/1VRj1UXHpQRaxv7unwMqHX"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Diavastike",
+        "url": "https://open.spotify.com/album/0TmxLV1osmyrl1Jnxks4SH"
+      },
+      "artists": [
+        {
+          "name": "Katerina Naka",
+          "url": "https://open.spotify.com/artist/0yFQltPJYae9fUy6hzzIu7"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Diavastike",
+      "url": "https://open.spotify.com/track/6OFOCZZnZ29uBEh9xHCU4f"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Korniza",
         "url": "https://open.spotify.com/album/69LwXy8F7cnwyxh29F9VLp"
@@ -173,23 +313,7 @@
       "url": "https://open.spotify.com/track/3gZdHhpjrBtv3rKJ0d3zjJ"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/2ScwW2icgRfHjz3o9EPvah"
-      },
-      "artists": [
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/39zqRoITcEvxUOQQ2ylsc1"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "86",
         "url": "https://open.spotify.com/album/0FQSsbiBaegnrTS0ULEbqX"
@@ -205,7 +329,7 @@
       "url": "https://open.spotify.com/track/3hDm0iua25s6WHuED0dXWP"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Stathmos 0",
         "url": "https://open.spotify.com/album/7uUqJ1oqX5WcTUs3M65zlU"
@@ -221,7 +345,23 @@
       "url": "https://open.spotify.com/track/09k2De8JbcqhQsy1DzHHnp"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
+      "album": {
+        "name": "Grande",
+        "url": "https://open.spotify.com/album/3lr7FDjfQm9sd1lp0RtItm"
+      },
+      "artists": [
+        {
+          "name": "Katerina Stikoudi",
+          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Diafero",
+      "url": "https://open.spotify.com/track/5iMzMIurJXJpehEJMgIcIU"
+    },
+    {
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Iparho Gia Sena",
         "url": "https://open.spotify.com/album/3x0EqjvtBoChpXEWGULutf"
@@ -237,7 +377,7 @@
       "url": "https://open.spotify.com/track/1d3y2ySDEKYgD5V3tYORAX"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Ecstasy",
         "url": "https://open.spotify.com/album/3fpEf38JnAE7nZOL6N6ERn"
@@ -253,7 +393,7 @@
       "url": "https://open.spotify.com/track/6WMzt1oaZiy0RCqT6yVFhy"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "I Epochi Tou Therismou",
         "url": "https://open.spotify.com/album/0iy3DOkcC6tZrZxPs5u4Eo"
@@ -277,7 +417,7 @@
       "url": "https://open.spotify.com/track/1jk3TnVfqf4D1z6m4xIHvz"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Mia Stagona Amartia",
         "url": "https://open.spotify.com/album/74CuZrTP2YojYIbnblOqsk"
@@ -293,7 +433,7 @@
       "url": "https://open.spotify.com/track/0jz6NSScYFN9RXD0FvmGSE"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Aman",
         "url": "https://open.spotify.com/album/6AneBpg1SC7KR9uU9kVFMj"
@@ -309,7 +449,7 @@
       "url": "https://open.spotify.com/track/3mlZ1ukgGxgCoTGCqBJrSz"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Pame Ela",
         "url": "https://open.spotify.com/album/1dQO6aOu40nIQxaOHuY3AQ"
@@ -325,7 +465,7 @@
       "url": "https://open.spotify.com/track/0BK8K0UNZCME6MJGoE7i1d"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/71jEPw5AUEKRmU15vvDLNJ"
@@ -341,7 +481,7 @@
       "url": "https://open.spotify.com/track/7b1ar2smRNueYvTtluQF44"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Petalouda",
         "url": "https://open.spotify.com/album/2lXBiIwcCUNwGHdIcXg2SW"
@@ -357,23 +497,7 @@
       "url": "https://open.spotify.com/track/0zrNr0xiEkxSpfIECYMkjy"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Stathero",
-        "url": "https://open.spotify.com/album/6p59dFt7fSVQeuxRMNF3sS"
-      },
-      "artists": [
-        {
-          "name": "Eleonora Zouganeli",
-          "url": "https://open.spotify.com/artist/0vLoXqcGEpgOgmCYshRsKt"
-        }
-      ],
-      "duration_ms": 213467,
-      "name": "Stathero",
-      "url": "https://open.spotify.com/track/3tQakkOHMmqb8zhpC3sfcz"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/47NOrUHeB9XJOGR26XxamC"
@@ -389,7 +513,7 @@
       "url": "https://open.spotify.com/track/32pGx4BcNxv16Xtj2vHMsV"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Ki As Ehis Figi",
         "url": "https://open.spotify.com/album/2Cltoh1PPKsrrMHWwqSIzN"
@@ -405,7 +529,7 @@
       "url": "https://open.spotify.com/track/3wv3UGKZuJ3IziGonyG2SK"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Middle",
         "url": "https://open.spotify.com/album/7mhcUjtHuwZ9cUpUzp6Paz"
@@ -425,7 +549,7 @@
       "url": "https://open.spotify.com/track/2VsGOWPhzytBP7HIJn4mS5"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Mou To 'Pane",
         "url": "https://open.spotify.com/album/6s6xfiG8az2gaN7Uh4FbVr"
@@ -441,7 +565,7 @@
       "url": "https://open.spotify.com/track/07Ip4OtiXawg1SoBKR6ZRp"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "I Epochi Tou Therismou",
         "url": "https://open.spotify.com/album/0iy3DOkcC6tZrZxPs5u4Eo"
@@ -465,7 +589,7 @@
       "url": "https://open.spotify.com/track/4CjX0qOTvodVLdeiHIyD0Q"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Gia Pia Agapi",
         "url": "https://open.spotify.com/album/1ojT65aRHA2q8UY4xfsFbb"
@@ -481,23 +605,7 @@
       "url": "https://open.spotify.com/track/6GlFoaOI72lxrmhWBOtFu5"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Paliopaido",
-        "url": "https://open.spotify.com/album/1BfpAw6ivxHRJUJ5XrAo9u"
-      },
-      "artists": [
-        {
-          "name": "Josephine",
-          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
-        }
-      ],
-      "duration_ms": 208055,
-      "name": "Paliopaido",
-      "url": "https://open.spotify.com/track/7MlUZCvq3q6CO0YaECUbu3"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "PALI",
         "url": "https://open.spotify.com/album/1BeEkHLgF6zAtIka1HXtX6"
@@ -513,87 +621,7 @@
       "url": "https://open.spotify.com/track/1DhgTpUZUPB2wI6MaESQO8"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/3lD9TdjZ9arObEt1wtETVK"
-      },
-      "artists": [
-        {
-          "name": "Elena Tsagrinou",
-          "url": "https://open.spotify.com/artist/4TgsxeFPNtkZ5lneq9AceU"
-        }
-      ],
-      "duration_ms": 181546,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/4TAttqXwjj56xZQVKvlX0K"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Enikos",
-        "url": "https://open.spotify.com/album/3oyXITXfi6eqrH57nGHMva"
-      },
-      "artists": [
-        {
-          "name": "Pavlina Voulgaraki",
-          "url": "https://open.spotify.com/artist/1SjVtPeuTENt3NFHwAmgOK"
-        }
-      ],
-      "duration_ms": 195837,
-      "name": "Enikos",
-      "url": "https://open.spotify.com/track/45vPnVXKhpHxIpZrPWRUUP"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/1yhcTmwOGKCenGQZ7Z7yCk"
-      },
-      "artists": [
-        {
-          "name": "Stefania",
-          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/0x4GMUtMeZAbti9fhDQnhj"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Foti\u00e1",
-        "url": "https://open.spotify.com/album/4iZ4ThnqPWQoCgE3djEoER"
-      },
-      "artists": [
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        }
-      ],
-      "duration_ms": 174665,
-      "name": "Foti\u00e1",
-      "url": "https://open.spotify.com/track/2lvpx8iTGmC7MD9GaJ0ga0"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Yayo",
-        "url": "https://open.spotify.com/album/6NKS9FwnJQb36uqDgXY0Fd"
-      },
-      "artists": [
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 168226,
-      "name": "Yayo",
-      "url": "https://open.spotify.com/track/2R49jde0XRhZbTrpbiZCNV"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Souli Anatoli",
         "url": "https://open.spotify.com/album/5lXcYIpESR1jvf8nFauBcu"
@@ -609,7 +637,7 @@
       "url": "https://open.spotify.com/track/5yDKBJeLoBdRFcSClgSwiR"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Trelainomai",
         "url": "https://open.spotify.com/album/3EQB9yWzpqSn1aywsCJohU"
@@ -625,10 +653,10 @@
       "url": "https://open.spotify.com/track/3FemPq9cpQEdTgGrXjV2aU"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
-        "name": "San Ena Oniro",
-        "url": "https://open.spotify.com/album/5zrGtBFya17z0UsgGTqLtz"
+        "name": "La La Love",
+        "url": "https://open.spotify.com/album/6xJymtqqQWpwKmJzIies07"
       },
       "artists": [
         {
@@ -636,28 +664,28 @@
           "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
         }
       ],
-      "duration_ms": 182280,
+      "duration_ms": 182733,
       "name": "La La Love",
-      "url": "https://open.spotify.com/track/2FXaABOqJoxe29unQfK9zj"
+      "url": "https://open.spotify.com/track/3rhnT5RoN7bvPUpMHt1aM9"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
-        "name": "Cliche",
-        "url": "https://open.spotify.com/album/5PF18F21b6FiBhI9gppmQ9"
+        "name": "Christina Salti",
+        "url": "https://open.spotify.com/album/3mzBRbzaf8rbfurToVDFSc"
       },
       "artists": [
         {
-          "name": "Katerina Stikoudi",
-          "url": "https://open.spotify.com/artist/1Vt08HlFmHOFcUO4PCqP44"
+          "name": "Christina Salti",
+          "url": "https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr"
         }
       ],
-      "duration_ms": 209080,
-      "name": "Psila Takounia",
-      "url": "https://open.spotify.com/track/5TqmbVqjZc1fZvOXS20CES"
+      "duration_ms": 172812,
+      "name": "Siga",
+      "url": "https://open.spotify.com/track/62DTRjyInw978MmEsz2CuG"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Ores Aixmis",
         "url": "https://open.spotify.com/album/4FeHeSCjAUWqX51HckJbkD"
@@ -673,23 +701,7 @@
       "url": "https://open.spotify.com/track/7Aayw6y8HWcjhfurvPpzCN"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Nychtes Sti Mykono",
-        "url": "https://open.spotify.com/album/4w2WQKDtB3LMFQagXISayH"
-      },
-      "artists": [
-        {
-          "name": "Katerina Naka",
-          "url": "https://open.spotify.com/artist/0yFQltPJYae9fUy6hzzIu7"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Nychtes Sti Mykono",
-      "url": "https://open.spotify.com/track/6bQRqQ5VuLXv3x1RfqNFWl"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Oniro Mou",
         "url": "https://open.spotify.com/album/0Z76uqpegG7GkNNpB3YDPk"
@@ -705,7 +717,7 @@
       "url": "https://open.spotify.com/track/6mbGnGMvppXe4effSc7mQv"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Kormia Hamena",
         "url": "https://open.spotify.com/album/6kEuOVwQEdehvWxDxT9zjH"
@@ -725,23 +737,7 @@
       "url": "https://open.spotify.com/track/1JDNRquIyufTR4MaVZG27d"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
-      "album": {
-        "name": "Christina Salti",
-        "url": "https://open.spotify.com/album/3mzBRbzaf8rbfurToVDFSc"
-      },
-      "artists": [
-        {
-          "name": "Christina Salti",
-          "url": "https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr"
-        }
-      ],
-      "duration_ms": 172812,
-      "name": "Siga",
-      "url": "https://open.spotify.com/track/62DTRjyInw978MmEsz2CuG"
-    },
-    {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Twist In My Sobriety",
         "url": "https://open.spotify.com/album/4TzoPTNMb4lSaIxTs9CEOn"
@@ -757,7 +753,7 @@
       "url": "https://open.spotify.com/track/1Xbu8uVqPQvR0wI0XXXtoC"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Exapsi",
         "url": "https://open.spotify.com/album/18A5E7hggyRTaZ8TILizq7"
@@ -773,7 +769,7 @@
       "url": "https://open.spotify.com/track/6Gakwv04dz2n2zqBAdoDHI"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Ta Synaisthimata Mou",
         "url": "https://open.spotify.com/album/2qMCvL1un3gi9SjLl2rZPH"
@@ -789,7 +785,7 @@
       "url": "https://open.spotify.com/track/5OCNob609pufxncN2pNNvB"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "De Tha Pas Pio Pera",
         "url": "https://open.spotify.com/album/2BsDgAxXuJLPPs4BhBbUv7"
@@ -805,7 +801,7 @@
       "url": "https://open.spotify.com/track/4rQsanylMsG27kmTqtxSAr"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Giati",
         "url": "https://open.spotify.com/album/1Kuvx5gar8RCGI0xJ4loqU"
@@ -821,7 +817,7 @@
       "url": "https://open.spotify.com/track/22wS47L3XbVe2CxtRwz6Zv"
     },
     {
-      "added_at": "2021-12-16 10:21:56",
+      "added_at": "2022-01-04 22:00:00",
       "album": {
         "name": "Lathos Diadromi",
         "url": "https://open.spotify.com/album/3DcDLBz2Xc30vUwok7uEtm"

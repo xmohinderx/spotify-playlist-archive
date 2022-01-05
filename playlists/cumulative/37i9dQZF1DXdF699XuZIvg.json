@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 250080,
       "name": "Driving Rain (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/5Zj7ovvDDhalqPBSoC2EHI"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 193105,
       "name": "Evil - The Weathermaker Vault Series",
       "url": "https://open.spotify.com/track/2b76mwuhgTySol1s00AjqO"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 185674,
       "name": "Firewalker",
       "url": "https://open.spotify.com/track/18kaE9oYcvgEzZV4lWqfxw"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 203293,
       "name": "Girls Got Rhythm",
       "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 222214,
       "name": "Had Enough",
       "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 271240,
       "name": "I Was Made For Lovin' You",
       "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 198480,
       "name": "It\u2019s Electric",
       "url": "https://open.spotify.com/track/7mvQXgyVwWr9fYMVDoCMkY"
@@ -917,7 +917,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 172250,
       "name": "Kill the Lights",
       "url": "https://open.spotify.com/track/6dx5S8zTzRqYulcXGNy0oy"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 198552,
       "name": "Let The Chaos Reign",
       "url": "https://open.spotify.com/track/01zEyqBizEZ1MDOaJ4nL4d"
@@ -1091,6 +1091,24 @@
       "duration_ms": 234857,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3NIr4XQQPuAkDocn46dDUW"
+    },
+    {
+      "album": {
+        "name": "Mother Rebel EP",
+        "url": "https://open.spotify.com/album/29UrKqDSX8kIxrhfoQE76d"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243545,
+      "name": "Mother Rebel",
+      "url": "https://open.spotify.com/track/0u5a0mItq5095svDGAFT8g"
     },
     {
       "album": {
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 220020,
       "name": "Renegades",
       "url": "https://open.spotify.com/track/3RyH5KkHlzSC5g1Ddi30ew"
@@ -1469,7 +1487,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 208021,
       "name": "Talk To Me (feat. Lzzy Hale)",
       "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 221626,
       "name": "Too Much Is Not Enough",
       "url": "https://open.spotify.com/track/3qXKIZYG9VJaFlyTB8OsAl"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 257065,
       "name": "Trouble Is Your Middle Name",
       "url": "https://open.spotify.com/track/0toYxUoM8HP6isTJsKNKqa"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 191669,
       "name": "Viva La Victoria",
       "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
@@ -1667,7 +1685,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 265082,
       "name": "Where the Wind Blows",
       "url": "https://open.spotify.com/track/2UQWjFMCOWaENx8sf2n5SC"

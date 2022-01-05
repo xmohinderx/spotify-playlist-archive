@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 182420,
       "name": "3 Months",
       "url": "https://open.spotify.com/track/2bm7HuBe4qhsVwwbm5rbWZ"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 204600,
       "name": "30",
       "url": "https://open.spotify.com/track/2mF0a6QdJY5WDWar4THKyi"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 254866,
       "name": "After The Rain \ube44\uac00 \uadf8\uce58\uace0 \ub098\uba74",
       "url": "https://open.spotify.com/track/6e6tVmCBpFAWopWgnclcqs"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 224283,
       "name": "At the end",
       "url": "https://open.spotify.com/track/4wX8BpSzIqqVjnf1X4RohI"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 199640,
       "name": "Better",
       "url": "https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200357,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/3RiDMn7SOJMOxQAxpGV1W5"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 192484,
       "name": "Chica",
       "url": "https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 231259,
       "name": "Could You Be My Song \uc0c8\ubcbd\u2606",
       "url": "https://open.spotify.com/track/2N1m67XDI7V3OQ6alngjRl"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 199533,
       "name": "Door",
       "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 195386,
       "name": "ELEVATOR",
       "url": "https://open.spotify.com/track/1TyJ03k31YUBobtQo5g6ji"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 223288,
       "name": "End of the Story",
       "url": "https://open.spotify.com/track/6vSyVvWdfeynSlmBes22la"
@@ -581,10 +581,28 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 222454,
       "name": "Everybody Has",
       "url": "https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/5ENSVL32r7SnmOLHoLSZWQ"
+      },
+      "artists": [
+        {
+          "name": "Nana Mellie",
+          "url": "https://open.spotify.com/artist/0mEqQK9XLebClRou2o75oY"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208022,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3cs3lGvmdiksYhEn8nnslm"
     },
     {
       "album": {
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Island",
       "url": "https://open.spotify.com/track/0frFK9RPyxL8eJnMjqUm4t"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 219000,
       "name": "LOVE IS YOU",
       "url": "https://open.spotify.com/track/4GsdC4RqKvSkGn0Z3Lx65P"
@@ -1064,6 +1082,24 @@
     },
     {
       "album": {
+        "name": "my day is too long",
+        "url": "https://open.spotify.com/album/4dV8JFiIyxThVOZRS1AQ8j"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178476,
+      "name": "my day is too long",
+      "url": "https://open.spotify.com/track/7kP8vfTk0L5FyWYiOyHV23"
+    },
+    {
+      "album": {
         "name": "My Friend",
         "url": "https://open.spotify.com/album/21Rd8YU3BI7P4PVtfsf9ji"
       },
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 189677,
       "name": "Need You - solo ver.",
       "url": "https://open.spotify.com/track/4xzpDr5XZoorumaEv178Od"
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 199524,
       "name": "PLAY",
       "url": "https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk"
@@ -1270,6 +1306,24 @@
     },
     {
       "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/51q2PZwdOvmfuQzQJvgbcE"
+      },
+      "artists": [
+        {
+          "name": "Lee Aram",
+          "url": "https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1"
+        }
+      ],
+      "date_added": "2021-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215610,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/183LBqwbF66GTjGMH7fiMP"
+    },
+    {
+      "album": {
         "name": "Queendom - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
@@ -1299,7 +1353,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 216000,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1LnLlXdoJ6UYFlWKe57nOz"
@@ -1469,7 +1523,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 196453,
       "name": "Shiny Light",
       "url": "https://open.spotify.com/track/0qpfmbAzsdXiKIQWokdSYB"
@@ -1505,7 +1559,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 204277,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6gPPFsA1cM8UPQfZydxb0K"
@@ -1559,7 +1613,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 225647,
       "name": "Spring Is You",
       "url": "https://open.spotify.com/track/3Vv0IqW9jA8EDKd3iWNutD"
@@ -1635,7 +1689,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 176000,
       "name": "The Best Ending",
       "url": "https://open.spotify.com/track/2r8ndLpyDjYJo0q03AMo5s"
@@ -1979,7 +2033,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 217134,
       "name": "Wisue \ud587\ube5b\ucc98\ub7fc \ube7c\uc5b4\ub09c",
       "url": "https://open.spotify.com/track/5RvuwSjuIkAiqviPuGWWgE"
@@ -1997,7 +2051,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 255496,
       "name": "X",
       "url": "https://open.spotify.com/track/5FOnZ5yGWaKk0bxHOigYQk"
@@ -2123,7 +2177,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 190859,
       "name": "Zimzalabim",
       "url": "https://open.spotify.com/track/0GUbhhI5fRx7BlqlqlhjuB"
@@ -2217,7 +2271,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 210450,
       "name": "\uc62c\ud574 \uc81c\uc77c \uc798\ud55c \uc77c The Best Thing I Ever Did",
       "url": "https://open.spotify.com/track/1LiKPVgIQdR5Rk97o8a1fF"

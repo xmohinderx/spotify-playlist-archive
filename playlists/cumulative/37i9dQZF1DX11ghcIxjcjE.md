@@ -2,7 +2,7 @@
 
 ### [Grunge Forever](https://open.spotify.com/playlist/28qkTCnYXNzdsou4tGgtal)
 
-> Grunge will live forever\. Cover: Pearl Jam
+> Grunge will live forever\. Cover: Kurt Cobain
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

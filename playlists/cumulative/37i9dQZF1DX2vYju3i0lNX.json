@@ -1070,6 +1070,24 @@
     },
     {
       "album": {
+        "name": "In Another Universe",
+        "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
+      },
+      "artists": [
+        {
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176729,
+      "name": "In Another Universe",
+      "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
+    },
+    {
+      "album": {
         "name": "In the Blue of Evening",
         "url": "https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr"
       },
@@ -1413,6 +1431,24 @@
     {
       "album": {
         "name": "London Plane",
+        "url": "https://open.spotify.com/album/0i5kK5lQhDiuPmjhMmesXo"
+      },
+      "artists": [
+        {
+          "name": "Light Hands Trio",
+          "url": "https://open.spotify.com/artist/6knUJcKkiLfAUyLNbE5Ilf"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183420,
+      "name": "London Plane",
+      "url": "https://open.spotify.com/track/7nNFqTKI5xbtmk1iGPmz4n"
+    },
+    {
+      "album": {
+        "name": "London Plane",
         "url": "https://open.spotify.com/album/3YTNLaYxr52XxHIGAeDSIk"
       },
       "artists": [
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 285694,
       "name": "Memories Of You",
       "url": "https://open.spotify.com/track/4k8Z615BSY2DPSARJS11Se"
@@ -1751,6 +1787,24 @@
       "duration_ms": 163634,
       "name": "One of your little friends",
       "url": "https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW"
+    },
+    {
+      "album": {
+        "name": "Our Best Year Yet",
+        "url": "https://open.spotify.com/album/1T3kqQSoxwY8hjM8CkJIcL"
+      },
+      "artists": [
+        {
+          "name": "Andi Weiss Trio",
+          "url": "https://open.spotify.com/artist/7pMhB3Lo7q9XPC4pbNdRlp"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278716,
+      "name": "Our Best Year Yet",
+      "url": "https://open.spotify.com/track/628mswwaHdp8bFEKsOCwCa"
     },
     {
       "album": {
@@ -2168,6 +2222,24 @@
     },
     {
       "album": {
+        "name": "The Beauty of Everyday Things",
+        "url": "https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk"
+      },
+      "artists": [
+        {
+          "name": "Hara Noda",
+          "url": "https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203096,
+      "name": "The Beauty of Everyday Things",
+      "url": "https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb"
+    },
+    {
+      "album": {
         "name": "The Fairies",
         "url": "https://open.spotify.com/album/1OLkOGh5LyyqoYFlY0tvSL"
       },
@@ -2479,7 +2551,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 461013,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/1Vpx2po0Sbe9lKioW53Qhr"

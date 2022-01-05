@@ -2,7 +2,7 @@
 
 ### [EQUAL Africa](https://open.spotify.com/playlist/6yzD6damvxnHwo13ZRV2qK)
 
-> The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB?si=ebt0DFdHT5ufCbsE6bCfBQ"> Muthoni Drummer Queen </a>
+> The fiercest African women making waves\. Cover: <a href="https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS?si=s0zvcnIaTQapSs1oEuGkyw"> Amaarae </a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 | 2021-10-15 |  |
 | [Bloody Samaritan](https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Bloody Samaritan](https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd) | 3:07 | 2021-10-15 |  |
 | [Começa](https://open.spotify.com/track/0rd5DgptacWEgbm14VDRFO) | [Pongo](https://open.spotify.com/artist/17MjqHVqjHRfIKAKen6o34) | [Começa](https://open.spotify.com/album/2ErFd6Gb8dXM6ldHcc8E1b) | 3:00 | 2021-10-15 |  |
-| [Coming Home \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5nPKjyPthcM5gmJrMsCoSv) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Coming Home \(feat\. Tiwa Savage\)](https://open.spotify.com/album/3epfHo044EgMAJdtF0D2wR) | 2:58 | 2021-10-15 |  |
+| [Coming Home \(feat\. Tiwa Savage\)](https://open.spotify.com/track/5nPKjyPthcM5gmJrMsCoSv) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Coming Home \(feat\. Tiwa Savage\)](https://open.spotify.com/album/3epfHo044EgMAJdtF0D2wR) | 2:58 | 2021-10-15 | 2022-01-05 |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2021-10-15 |  |
 | [Dig Dig](https://open.spotify.com/track/2adtZMj7MVTG9AcV4Z0hxS) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em) | [Lagos to Jozi](https://open.spotify.com/album/2JfBHMbRioFcrq5ie7Rdwd) | 4:48 | 2021-12-02 |  |
+| [Do You Care ?](https://open.spotify.com/track/0Dbne8cZTmiWLWjubDZA5e) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Do You Care ?](https://open.spotify.com/album/4c0QOiJf5G20AdYka2geO9) | 3:23 | 2022-01-05 |  |
 | [Domitila](https://open.spotify.com/track/2hpJ40CfWqooORXtnMjYWU) | [Yin](https://open.spotify.com/artist/378jX6TxcxdHbUcdI2a9SI) | [Domitila](https://open.spotify.com/album/5Q6uM41EBgjm6skqCfTfqX) | 3:27 | 2021-10-15 |  |
 | [Dubai](https://open.spotify.com/track/6tx3PPYfrkpeJqQH2oSxhH) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Dubai](https://open.spotify.com/album/3LU9tiUoLpihL2pXPbejWO) | 6:30 | 2021-11-08 |  |
 | [E Choke](https://open.spotify.com/track/0dfhS0eJu5a3OB6TVMdYlA) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [E Choke](https://open.spotify.com/album/0bBL9agqk6xyPy88LWuS1b) | 3:03 | 2021-10-15 |  |
@@ -49,6 +50,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-10-15 |  |
 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 | 2021-10-15 |  |
 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 | 2021-10-15 |  |
+| [Stamina](https://open.spotify.com/track/6ZAkfazhYBFqvK4DtjPEdG) | [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Big Girl](https://open.spotify.com/album/4xNgVlvmGjoNZNjKUDEs90) | 3:13 | 2022-01-05 |  |
 | [Summertime With You](https://open.spotify.com/track/4UsVMpG6N5ZFhTyGZvyBuE) | [Titose](https://open.spotify.com/artist/1GqDQYv81wsGJmzM5LOyF7) | [Was It Something I Said?](https://open.spotify.com/album/3M6SVIRAGFPUmQ6ca3mFOi) | 2:16 | 2021-11-08 |  |
 | [Temptation](https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Temptation](https://open.spotify.com/album/7lkc6V0wruV3n2VO8nL71D) | 2:46 | 2021-12-02 |  |
 | [Too Late for Mama](https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Too Late for Mama](https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y) | 4:07 | 2021-10-15 |  |

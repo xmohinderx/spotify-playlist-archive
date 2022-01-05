@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 252413,
       "name": "Asa Branca",
       "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 244000,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/19ISEtEat3oefNy4yVFLFK"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 273546,
       "name": "Constant Surprises",
       "url": "https://open.spotify.com/track/1hLMDoAaoCTGi9MTYIU22W"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 284666,
       "name": "Cosmosis",
       "url": "https://open.spotify.com/track/4q2Jdr5xFZPcNVMtsxjW6v"
@@ -400,6 +400,24 @@
     },
     {
       "album": {
+        "name": "Modern Antics in a Deserted Place",
+        "url": "https://open.spotify.com/album/2yAbgYcYrEKDDVedvlH7nb"
+      },
+      "artists": [
+        {
+          "name": "LA Timpa",
+          "url": "https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201327,
+      "name": "Deaf in Three Corners",
+      "url": "https://open.spotify.com/track/4gWnXX7FXIHrXnE7vvLpRr"
+    },
+    {
+      "album": {
         "name": "Dearest Alfred (MyJoy)",
         "url": "https://open.spotify.com/album/0TqtywamjgAfAor5J7L6vo"
       },
@@ -419,6 +437,24 @@
       "duration_ms": 195604,
       "name": "Dearest Alfred (MyJoy)",
       "url": "https://open.spotify.com/track/6vzaMfWEWYJtfnoKlCY5xP"
+    },
+    {
+      "album": {
+        "name": "C\u00f3digo De Barras",
+        "url": "https://open.spotify.com/album/4mxF4Y8yB3W2gZwUqE78X5"
+      },
+      "artists": [
+        {
+          "name": "A.k.Adrix",
+          "url": "https://open.spotify.com/artist/7q1nY63lVBPXNuKJ7Igkjs"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148677,
+      "name": "Desenhos Animados",
+      "url": "https://open.spotify.com/track/5o1uOQLCBYTwyoFpUlNF6S"
     },
     {
       "album": {
@@ -513,7 +549,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 211613,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/0CarV7bYpdZomES1VtPQDh"
@@ -601,7 +637,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 532313,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
@@ -619,7 +655,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Fonction Naturelle",
       "url": "https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX"
@@ -673,7 +709,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 185929,
       "name": "Human Race",
       "url": "https://open.spotify.com/track/2pLqaNLScfyPB76HX0cnL4"
@@ -691,7 +727,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 395373,
       "name": "I Got The... - 2006 Remaster",
       "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
@@ -745,7 +781,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 160240,
       "name": "If Anything",
       "url": "https://open.spotify.com/track/05Id2KGI1qVa67tQeg2MBh"
@@ -919,7 +955,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 269360,
       "name": "L.D.R.A",
       "url": "https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx"
@@ -1071,7 +1107,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
@@ -1215,7 +1251,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 274213,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO"
@@ -1539,7 +1575,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 218226,
       "name": "Safe In My Arms",
       "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
@@ -1717,7 +1753,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 208518,
       "name": "Suffer and Swim",
       "url": "https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe"
@@ -1797,7 +1833,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 273953,
       "name": "Talia",
       "url": "https://open.spotify.com/track/49KMGrpCasQj4bP7R27nEL"
@@ -1939,7 +1975,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 287002,
       "name": "Too Soon You're Old",
       "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
@@ -2015,7 +2051,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 591706,
       "name": "Water No Get Enemy - Edit",
       "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
@@ -2145,7 +2181,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 287078,
       "name": "Yedin Beni",
       "url": "https://open.spotify.com/track/0AsLxYyfCn0Xo0UVr9Lucb"

@@ -407,10 +407,28 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 193805,
       "name": "Ar\u0131yorum",
       "url": "https://open.spotify.com/track/1jWXlhsOpwVGXtYUcI96tV"
+    },
+    {
+      "album": {
+        "name": "Ar\u0131yorum",
+        "url": "https://open.spotify.com/album/7oRC48c8HLAkGYcoBTtMwH"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193805,
+      "name": "Ar\u0131yorum",
+      "url": "https://open.spotify.com/track/6g6MHm9u0h2Em9Xuk89eqR"
     },
     {
       "album": {
@@ -537,10 +555,28 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 164690,
       "name": "A\u015fk\u0131n Mevsimi",
       "url": "https://open.spotify.com/track/15jCqbm4Fgcv6ux2lv2f1u"
+    },
+    {
+      "album": {
+        "name": "A\u015fk\u0131n Mevsimi",
+        "url": "https://open.spotify.com/album/1kGWYJoR7TE8Hr8crj9rgv"
+      },
+      "artists": [
+        {
+          "name": "O\u011fuzhan Ko\u00e7",
+          "url": "https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164690,
+      "name": "A\u015fk\u0131n Mevsimi",
+      "url": "https://open.spotify.com/track/5jDtKz2JrYTvvU6b130S7g"
     },
     {
       "album": {
@@ -885,10 +921,28 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 215488,
       "name": "Beyaz Skandal\u0131m",
       "url": "https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt"
+    },
+    {
+      "album": {
+        "name": "A\u011f\u0131r Roman",
+        "url": "https://open.spotify.com/album/5ux7MVV2OT5BOOLXETC4qL"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215488,
+      "name": "Beyaz Skandal\u0131m",
+      "url": "https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ"
     },
     {
       "album": {
@@ -2225,7 +2279,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 190909,
       "name": "G\u00f6klerde S\u00fcz\u00fcl\u00fcrken",
       "url": "https://open.spotify.com/track/1OGVpaGlCnrjrR9UtlWMeP"
@@ -2719,6 +2773,32 @@
     {
       "album": {
         "name": "\u0130\u00e7ime Ata Ata",
+        "url": "https://open.spotify.com/album/7caYzMyzWotKVnu2xmHLQj"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172276,
+      "name": "\u0130\u00e7ime Ata Ata",
+      "url": "https://open.spotify.com/track/5rCYZ1IltI5gJ9LbxEiQDk"
+    },
+    {
+      "album": {
+        "name": "\u0130\u00e7ime Ata Ata",
         "url": "https://open.spotify.com/album/3uA7KyXVZIfZh0hYc6q2qk"
       },
       "artists": [
@@ -2737,7 +2817,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 172276,
       "name": "\u0130\u00e7ime Ata Ata",
       "url": "https://open.spotify.com/track/776fVqyFVMxHbZIvbRxX92"
@@ -3011,7 +3091,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 267080,
       "name": "Kendime Yalan S\u00f6yledim",
       "url": "https://open.spotify.com/track/5hYb9RIvqvk8J6mjMNL4pc"
@@ -3137,6 +3217,24 @@
     {
       "album": {
         "name": "Kor",
+        "url": "https://open.spotify.com/album/7mqDwwIUh2yMzeR1ET5PnE"
+      },
+      "artists": [
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179054,
+      "name": "Kor",
+      "url": "https://open.spotify.com/track/0XNX9BCSWvEwsdBwUTRhMh"
+    },
+    {
+      "album": {
+        "name": "Kor",
         "url": "https://open.spotify.com/album/4Wi0MXyj8KygoHTj9EeWei"
       },
       "artists": [
@@ -3147,7 +3245,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 179054,
       "name": "Kor",
       "url": "https://open.spotify.com/track/2zmf8pmH6AJ9Nksn0xuLTX"
@@ -3187,7 +3285,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 171880,
       "name": "Krvn",
       "url": "https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9"
@@ -3419,6 +3517,24 @@
     {
       "album": {
         "name": "L\u00fctfen",
+        "url": "https://open.spotify.com/album/6lm4r6pYqyVwKmyFNobyf0"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147839,
+      "name": "L\u00fctfen",
+      "url": "https://open.spotify.com/track/0Dq0YIwYRQ75rvrao5OwKn"
+    },
+    {
+      "album": {
+        "name": "L\u00fctfen",
         "url": "https://open.spotify.com/album/7gi0OwYp8uU4WKK3L5nZBY"
       },
       "artists": [
@@ -3429,7 +3545,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 147839,
       "name": "L\u00fctfen",
       "url": "https://open.spotify.com/track/18yBnbSt7VvEVV3Hkm9xwV"
@@ -3531,7 +3647,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 156000,
       "name": "Mahvettim",
       "url": "https://open.spotify.com/track/1GWxwShcDEdSvlr0jcpYI1"
@@ -3549,7 +3665,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-11-14",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Mahvettim",
       "url": "https://open.spotify.com/track/1ji6PoTBfVXqycvsXdgZgp"
@@ -3611,6 +3727,24 @@
     {
       "album": {
         "name": "Mart\u0131lar",
+        "url": "https://open.spotify.com/album/2fF13GMzZmgqkk54JovKC6"
+      },
+      "artists": [
+        {
+          "name": "EDIS",
+          "url": "https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157439,
+      "name": "Mart\u0131lar",
+      "url": "https://open.spotify.com/track/1xEpgyKx4ZHtefFAh0SmU5"
+    },
+    {
+      "album": {
+        "name": "Mart\u0131lar",
         "url": "https://open.spotify.com/album/4wmJjtcDQLpfL4Bs0LV58v"
       },
       "artists": [
@@ -3621,7 +3755,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 157439,
       "name": "Mart\u0131lar",
       "url": "https://open.spotify.com/track/5KfEZIfXixRmVadOEMfzum"
@@ -4359,6 +4493,24 @@
     {
       "album": {
         "name": "Di\u011fer Masallar",
+        "url": "https://open.spotify.com/album/7tF0MZQNVA3pRwwcwN4obL"
+      },
+      "artists": [
+        {
+          "name": "Model",
+          "url": "https://open.spotify.com/artist/23xJQJM7peht77DF6YNEoq"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255346,
+      "name": "Pembe Mezarl\u0131k",
+      "url": "https://open.spotify.com/track/1cwth5tNynCfH2ZYCmShDc"
+    },
+    {
+      "album": {
+        "name": "Di\u011fer Masallar",
         "url": "https://open.spotify.com/album/1Z6QLsfqXdU78LQWIP9akr"
       },
       "artists": [
@@ -4369,7 +4521,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 255346,
       "name": "Pembe Mezarl\u0131k",
       "url": "https://open.spotify.com/track/2q2uKIUC8wycTQt0183M40"
@@ -4669,6 +4821,24 @@
     {
       "album": {
         "name": "Riv Riv Riv",
+        "url": "https://open.spotify.com/album/1JCR01kf4AWSyxUXfDU2n7"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121999,
+      "name": "Riv Riv Riv",
+      "url": "https://open.spotify.com/track/3HEv9gY3n9Fj2H5E2IoOKF"
+    },
+    {
+      "album": {
+        "name": "Riv Riv Riv",
         "url": "https://open.spotify.com/album/1e4961lFYN6lPIcXtyFQT2"
       },
       "artists": [
@@ -4679,7 +4849,7 @@
       ],
       "date_added": "2021-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 121999,
       "name": "Riv Riv Riv",
       "url": "https://open.spotify.com/track/6sKueU5CYJZ0xXqLyCpQB4"
@@ -5263,7 +5433,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "The Face of Vision",
       "url": "https://open.spotify.com/track/7cGoaJCRVhU3dH8M5RwrUb"

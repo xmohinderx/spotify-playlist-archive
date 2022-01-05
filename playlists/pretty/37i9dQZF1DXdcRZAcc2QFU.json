@@ -1,15 +1,91 @@
 {
   "description": "\u201890s melodies that hit the right spot! Cover: Udit Narayan",
   "name": "Gold Spot",
-  "num_followers": 76168,
+  "num_followers": 76243,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzkwNTY0NCwwMDAwMDAyYTAwMDAwMTdkNWFjOGJiZmIwMDAwMDE3ZDVhYTVkZTJj",
+  "snapshot_id": "MTY0MTMxNDc0NywwMDAwMDAyYjAwMDAwMTdlMjVmYjg1MjIwMDAwMDE3ZDVhYTVkZTJj",
   "tracks": [
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
+      "album": {
+        "name": "Vishwatma (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/363Ry4B833qCspR1gzLv3D"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "duration_ms": 397200,
+      "name": "Saat Samundar Paar, Pt. 1",
+      "url": "https://open.spotify.com/track/1IgaGBX8ZvqBBwYMJgDg4E"
+    },
+    {
+      "added_at": "2022-01-04 16:45:47",
+      "album": {
+        "name": "Judwaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5zFiPUXuvWvj01BpwH3Vi2"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Kavita Krishnamurthy",
+          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
+        }
+      ],
+      "duration_ms": 364106,
+      "name": "Duniya Mein Aaye",
+      "url": "https://open.spotify.com/track/4dmWHeb5cqJyf9djA4N8IS"
+    },
+    {
+      "added_at": "2022-01-04 16:45:47",
+      "album": {
+        "name": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK"
+      },
+      "artists": [
+        {
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        }
+      ],
+      "duration_ms": 474653,
+      "name": "Chura Ke Dil Mera",
+      "url": "https://open.spotify.com/track/4P4NsWdqLziZpEteU1uFCI"
+    },
+    {
+      "added_at": "2022-01-04 16:45:47",
+      "album": {
+        "name": "Thanedaar",
+        "url": "https://open.spotify.com/album/3DWGpKv82YXLwO6xmLamE6"
+      },
+      "artists": [
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        }
+      ],
+      "duration_ms": 474357,
+      "name": "Tamma Tamma Loge",
+      "url": "https://open.spotify.com/track/5HF9NzwuIWJqTVBjZ2Sgdg"
+    },
+    {
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Mohra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA"
@@ -29,7 +105,7 @@
       "url": "https://open.spotify.com/track/6wYKL1vzI0Vwkkz4fS7ana"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Hum",
         "url": "https://open.spotify.com/album/5zmbuk1OJjZVE5sK3QQjHV"
@@ -53,23 +129,7 @@
       "url": "https://open.spotify.com/track/0oy4Zk7CVLObwnDX8YZZ1e"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
-      "album": {
-        "name": "Vishwatma (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/363Ry4B833qCspR1gzLv3D"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 397200,
-      "name": "Saat Samundar Paar, Pt. 1",
-      "url": "https://open.spotify.com/track/1IgaGBX8ZvqBBwYMJgDg4E"
-    },
-    {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Darr (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH"
@@ -85,27 +145,7 @@
       "url": "https://open.spotify.com/track/1mAO7s2X1VfYwNDWIcvdhS"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
-      "album": {
-        "name": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 474653,
-      "name": "Chura Ke Dil Mera",
-      "url": "https://open.spotify.com/track/4P4NsWdqLziZpEteU1uFCI"
-    },
-    {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Bombay",
         "url": "https://open.spotify.com/album/2oPdRL0fDdnW9e1zoMnrDk"
@@ -121,7 +161,7 @@
       "url": "https://open.spotify.com/track/6oRFw7tkc38QToqfoF7jVR"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Rakshak",
         "url": "https://open.spotify.com/album/1WR6LNez0oAfwd0oPowVcq"
@@ -141,27 +181,7 @@
       "url": "https://open.spotify.com/track/0bWmjgT1xlNMcfq5nlc7cb"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
-      "album": {
-        "name": "Judwaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5zFiPUXuvWvj01BpwH3Vi2"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Kavita Krishnamurthy",
-          "url": "https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7"
-        }
-      ],
-      "duration_ms": 364106,
-      "name": "Duniya Mein Aaye",
-      "url": "https://open.spotify.com/track/4dmWHeb5cqJyf9djA4N8IS"
-    },
-    {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Hum Se Hai Muqabala - Kadalan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3IpHQbDLRRqd9sZQncIMD9"
@@ -181,7 +201,7 @@
       "url": "https://open.spotify.com/track/0iG83qZ0ftWr43VggRYkp3"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Dil Se (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/54NUwj7U1MOhA1ZGbnhiMz"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/5H4rKylLnO8KrmdXTRhj5s"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Khalnayak (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6ZZlnsfX7EgcNjNvl1XLnT"
@@ -225,7 +245,7 @@
       "url": "https://open.spotify.com/track/70sjgqqoz3wQ6haG7PmDck"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Raja (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4Dj8WYLlv47T0W03zDdFJI"
@@ -245,7 +265,7 @@
       "url": "https://open.spotify.com/track/735WeIIQYRfmtEdMmOgDY1"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Coolie No.1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3TyqFXIE6Yg7HmvzNlG3tj"
@@ -265,7 +285,7 @@
       "url": "https://open.spotify.com/track/2JyPZNIsrL1xIoLZaqcqr1"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Mohra (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/0VPVC9SAd50YMPhHfCz7F6"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Pyaar Kiya To Darna Kya",
         "url": "https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/7fl15uWBpbKrzrmEm48ZyP"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Main Khiladi Tu Anari (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1RS7g5vd7ohFf8dK2AFgcK"
@@ -321,7 +341,7 @@
       "url": "https://open.spotify.com/track/2e3Uzf1zknehFO4XyWyLBJ"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Dilwale Dulhania Le Jayenge",
         "url": "https://open.spotify.com/album/3Z7oFffem6DRMmaVfEvm9B"
@@ -341,7 +361,7 @@
       "url": "https://open.spotify.com/track/0trgRUeHWSFHZ0W1640dwA"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Pyaar Kiya To Darna Kya",
         "url": "https://open.spotify.com/album/1qvXEHskZGV4XZVBFd7lFP"
@@ -357,7 +377,7 @@
       "url": "https://open.spotify.com/track/025Y9d4a1rtJcfB8XInzRc"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Rakshak",
         "url": "https://open.spotify.com/album/1WR6LNez0oAfwd0oPowVcq"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/2WmGFoIng0Wdx6XXJGucBc"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Baazigar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5idbEvMrr6c2XiAZNBtkKm"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/0kGackDOW4tY8WZrUtQDHG"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Hum",
         "url": "https://open.spotify.com/album/5zmbuk1OJjZVE5sK3QQjHV"
@@ -421,7 +441,7 @@
       "url": "https://open.spotify.com/track/1AFhS5Nm9Pc96WoyTiUCaK"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Judwaa (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5zFiPUXuvWvj01BpwH3Vi2"
@@ -441,7 +461,7 @@
       "url": "https://open.spotify.com/track/5rQLRMzIHjhjD0vtsEA5Ge"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Hum Aapke Hain Koun (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/58ZItMyvKgkScYBKLGlYuZ"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/2WZwiepN5xXBzjJDBSOdUN"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Hello Brother (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0BkkwJ8uGVGTP47Sg2HXhN"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/6oHNgSch467ChjJwSMlIsw"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Rangeela (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6JVO2kPbC6Y2aQrOZwsr4h"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/624lQRTcXdmQiWcNhMWgPU"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Taal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/2fsPrE2NYiHOHPMuWbjvTj"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Saajan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/7n278iHoD21kun2OymTABC"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Taal (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3bqIzWWbArrjJ963HKeZcd"
@@ -557,7 +577,7 @@
       "url": "https://open.spotify.com/track/1s2BVgfna5AW7LCw9rf02r"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Thakshak",
         "url": "https://open.spotify.com/album/5jP0N8GkHRNjF6XrHffN6l"
@@ -573,7 +593,7 @@
       "url": "https://open.spotify.com/track/4yhdiak39r3oqvlPNys1FE"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Barsaat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/02idAQbxu0Q6teaTiong8e"
@@ -593,7 +613,7 @@
       "url": "https://open.spotify.com/track/1mGHdPZ5MBo1oR0xmPrqkk"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Suron Ki Mallika - Asha Bhosle",
         "url": "https://open.spotify.com/album/2WUQrdLpwQLDeMYZvpMGlN"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/0CmJspKqxntfxL7wx7UzVs"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Jo Jeeta Wohi Sikandar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/47Hagri5liYQTiUrjnUdLF"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/1VrheK4CdhX74nrOSNIFtH"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Deewana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5rkxSyCuiDtaAGKVndX3hL"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/54tzSEMiygXoQ6yTqUUb8L"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Saajan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/1MVjn7qcDOW4xx4tRnEiDx"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Phool Aur Kaante (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Io1WaSa7zSLlLmop0bNKL"
@@ -685,7 +705,7 @@
       "url": "https://open.spotify.com/track/34y1d4i8uru6aQSWd8ewPT"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Mr. Aashiq (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6s58QiQqyQ1XjEBmtGR0k7"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/1rWwgQziVM0zMtf3H46HYw"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Saajan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vM40ZvKzbI97anisDuMGJ"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/6yTtUUlsBXN9h9ZxTxGWMS"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Bollywood Melody Queen (Alka Yagnik)",
         "url": "https://open.spotify.com/album/0cPqV7ANsEL2kF0CDBf5Kv"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/4ePEjnKNSifPi60lYnJvoK"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Kuch Kuch Hota Hai",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
@@ -761,7 +781,7 @@
       "url": "https://open.spotify.com/track/4RixtPhUXlci9ad4qIMj23"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Vijaypath (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3OtZbFrWjC6wtwaFiJZdr8"
@@ -781,7 +801,7 @@
       "url": "https://open.spotify.com/track/1ZcluxOLEoQEZHp8qsHVe2"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Pyaar To Hona Hi Tha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6pEHb1MG9U5UZJK0rQ2OUX"
@@ -805,27 +825,7 @@
       "url": "https://open.spotify.com/track/6ttvgWnBAt72SIojbcnlKn"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
-      "album": {
-        "name": "Legendary Hits of Kumar Sanu & Alka Yagnik",
-        "url": "https://open.spotify.com/album/4SQPL01wN0WQG7wSgQSYlc"
-      },
-      "artists": [
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 474653,
-      "name": "Chura Ke Dil Mera (From \"Main Khiladi Tu Anari\")",
-      "url": "https://open.spotify.com/track/2k2wbpYLNBmaI6o06KWOgN"
-    },
-    {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Kuch Kuch Hota Hai",
         "url": "https://open.spotify.com/album/5i3NjuZceh9iqtcODFTM4Q"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/6f3C6rJo7zvmfr1h5SRvxg"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Bollywood Best Trio - Kumar Sanu, Nadeem - Shravan",
         "url": "https://open.spotify.com/album/0LVMI64BPt0IRrDd1XuWkG"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/5HJcl5wuEptCtI5CSo8eFJ"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "1942 A Love Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6fZY9X2dlswuh0nYwv0X7j"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/3bTPQ0LL3CVAnDvz1rNHVQ"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Roja (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2lORIs7BAIYVH7xxcXsUn7"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/6NmGIj2leVHRKkHEGyechJ"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Akele Hum Akele Tum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1zwT18Vm7F5zPBNvRQp71F"
@@ -921,7 +921,7 @@
       "url": "https://open.spotify.com/track/2PfTtvHJHuJhFkEvFZ7jSI"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Jurm (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1ZSGBrQOJdW0QbtwrTUIqb"
@@ -941,7 +941,7 @@
       "url": "https://open.spotify.com/track/0LT0APsnMlmcjpt2ZltCm2"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Ishq (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5kIIShUL1dcx3W9ZYoCd1H"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/4eGvkvURACcS8kFqSCf0Ip"
     },
     {
-      "added_at": "2021-11-26 05:47:24",
+      "added_at": "2022-01-04 16:45:47",
       "album": {
         "name": "Aur Pyar Ho Gaya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5HHlAYgwWtWjZbdqyBUW8S"

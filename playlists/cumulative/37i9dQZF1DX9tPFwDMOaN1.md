@@ -2,7 +2,7 @@
 
 ### [K\-Pop Daebak](https://open.spotify.com/playlist/12lAZQWLG8b3pM25Gnfv99)
 
-> Score all the hottest hits from your favourite hallyu star and check out your one true K\-Pop playlist! \#kdaebak Cover: IU
+> Score all the hottest hits from your favourite hallyu star and check out your one true K\-Pop playlist! \#kdaebak Cover: IVE
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

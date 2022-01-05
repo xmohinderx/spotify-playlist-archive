@@ -1,31 +1,15 @@
 {
   "description": "H\u00e5ll det 100.",
   "name": "100",
-  "num_followers": 240022,
+  "num_followers": 240064,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkwNTIwMCwwMDAwMDZkMzAwMDAwMTdlMGQ5MjUyMGYwMDAwMDE3ZDlmOGI5MmM5",
+  "snapshot_id": "MTY0MTMxMDE2NywwMDAwMDZkNDAwMDAwMTdlMjViNWEwZjAwMDAwMDE3ZDlmOGI5MmM5",
   "tracks": [
     {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "SOM DOM",
-        "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
-      },
-      "artists": [
-        {
-          "name": "Sarettii",
-          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
-        }
-      ],
-      "duration_ms": 141360,
-      "name": "SOM DOM",
-      "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Lotta & Sanna",
         "url": "https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "SOM DOM",
+        "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "duration_ms": 141360,
+      "name": "SOM DOM",
+      "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Trapper Of The Year (Intro)",
         "url": "https://open.spotify.com/album/65DP4VYecvLUlUVfCsXPLF"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/7zxphfIdUMOfZOAVpKFlld"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Mitt i prick",
         "url": "https://open.spotify.com/album/3U1fzI8jAwSqoHwBjOf7ys"
@@ -77,23 +77,23 @@
       "url": "https://open.spotify.com/track/1fOAy8tUHchc6OulnLBzlE"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/79kUSiYCJXGgEvqQbLBZqU"
+        "name": "2022",
+        "url": "https://open.spotify.com/album/4b50TZmLWKcvuMCr2FcxKp"
       },
       "artists": [
         {
-          "name": "Dani M",
-          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
         }
       ],
-      "duration_ms": 132104,
-      "name": "365",
-      "url": "https://open.spotify.com/track/4eg76scNMw3k8nX6ySnF51"
+      "duration_ms": 125142,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/5zgU6yN5KwEeNNobhnYZq5"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Nia Mondo",
         "url": "https://open.spotify.com/album/7DLJtZ2jt4os2dgLZxmH5P"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/1Jo3Bw7VeDV9ZbnpONK0Ca"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/79kUSiYCJXGgEvqQbLBZqU"
+      },
+      "artists": [
+        {
+          "name": "Dani M",
+          "url": "https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF"
+        }
+      ],
+      "duration_ms": 132104,
+      "name": "365",
+      "url": "https://open.spotify.com/track/4eg76scNMw3k8nX6ySnF51"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/05yJ4zGSH2HP9cSVE4pfOW"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea"
@@ -145,7 +161,39 @@
       "url": "https://open.spotify.com/track/5HfICLgQFsCltw5f9nWFtd"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "Inte som dom",
+        "url": "https://open.spotify.com/album/5hD5UxFprzY3EmcE5iBywL"
+      },
+      "artists": [
+        {
+          "name": "Bilkow",
+          "url": "https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Inte som dom",
+      "url": "https://open.spotify.com/track/6yE02mXYI0gwcYTn2zwrBa"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "BANDO",
+        "url": "https://open.spotify.com/album/4ZH73pB7dmDrpOVbbecprV"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "BANDO",
+      "url": "https://open.spotify.com/track/0kwL3jgYbCctjpTXcepzcX"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Dirty Kalle",
         "url": "https://open.spotify.com/album/6MdszrRxSJKK4yP2D1xiOU"
@@ -165,23 +213,27 @@
       "url": "https://open.spotify.com/track/2kGlp16MjSJRPbFShyTjXb"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
-        "name": "BANDO",
-        "url": "https://open.spotify.com/album/4ZH73pB7dmDrpOVbbecprV"
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/3PiDIDJdPvcTWgpvGjdzye"
       },
       "artists": [
         {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+          "name": "G1ocatore",
+          "url": "https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
         }
       ],
-      "duration_ms": 144000,
-      "name": "BANDO",
-      "url": "https://open.spotify.com/track/0kwL3jgYbCctjpTXcepzcX"
+      "duration_ms": 173793,
+      "name": "No Cap",
+      "url": "https://open.spotify.com/track/2HSq5Cx3jNOnXO5p33MeSJ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "MALI",
         "url": "https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK"
@@ -201,7 +253,7 @@
       "url": "https://open.spotify.com/track/0zl5Se9SqRZnKANVB4wpvy"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Sk\u00e5la & Fira",
         "url": "https://open.spotify.com/album/1JE5DMKObyf702T8JUDULI"
@@ -221,7 +273,7 @@
       "url": "https://open.spotify.com/track/7nKgoOfVoQTKd7swVaGLJv"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "MP3",
         "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
@@ -237,7 +289,7 @@
       "url": "https://open.spotify.com/track/1zTa8EjeV78WHp4zDKN9Qr"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Better Day (feat. Jireel, Jelassi, Ricky Rich, Mona Masrour, A36)",
         "url": "https://open.spotify.com/album/0VaDL5661g6QmDaOMbDUJJ"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/2OSc0qlU6hf6G08tvUcVgV"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/2qX5Wf692BSRABozOf5pDM"
@@ -285,75 +337,7 @@
       "url": "https://open.spotify.com/track/2zVvdOYwVkz2ownPMwsNhW"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "Skadad",
-        "url": "https://open.spotify.com/album/28Dbb1G6EgDKHINAmvXH7m"
-      },
-      "artists": [
-        {
-          "name": "1.Cuz",
-          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
-        }
-      ],
-      "duration_ms": 153428,
-      "name": "Skadad",
-      "url": "https://open.spotify.com/track/2ehpj9YvjsoVnCUGssykZD"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "\u00c5SKAN",
-        "url": "https://open.spotify.com/album/7sg6Iv0G5Xj4VjUUaSbm7t"
-      },
-      "artists": [
-        {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "\u00c5SKAN",
-      "url": "https://open.spotify.com/track/4khoHMcdF6vOB2AOHSMD5m"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "INGEN ID\u00c9",
-        "url": "https://open.spotify.com/album/3p7EmFMYPD3z6nTdcYpYPf"
-      },
-      "artists": [
-        {
-          "name": "Sickan",
-          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "INGEN ID\u00c9",
-      "url": "https://open.spotify.com/track/6cl1cSwehprTTZZu8TVBBK"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "08 ZOO",
-        "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 124195,
-      "name": "08 ZOO",
-      "url": "https://open.spotify.com/track/59cIFyq3hJRRbEX4yl7QVt"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Sista 12",
         "url": "https://open.spotify.com/album/1PSxZ7Mfbvn1yXWuoI5M2G"
@@ -377,39 +361,7 @@
       "url": "https://open.spotify.com/track/2s6Eih8He9Qs1pg4zZtBiD"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "MP3",
-        "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
-      },
-      "artists": [
-        {
-          "name": "L1NA",
-          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
-        }
-      ],
-      "duration_ms": 252190,
-      "name": "Bandet / t\u00e4ta (Interlude)",
-      "url": "https://open.spotify.com/track/608VTrAE3lXWrkTGifnrIV"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/3LgXFc6nP5eIqMvOYgMlE6"
-      },
-      "artists": [
-        {
-          "name": "Thrife",
-          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
-        }
-      ],
-      "duration_ms": 133670,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/2jPC7jcDhcPmj5vv9B2liZ"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "H\u00e4r Omkring",
         "url": "https://open.spotify.com/album/19RgG7OrPBZwjJRf5mmi0C"
@@ -425,7 +377,107 @@
       "url": "https://open.spotify.com/track/6cG7WWJkC7v2bl9So2uriE"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "Skadad",
+        "url": "https://open.spotify.com/album/28Dbb1G6EgDKHINAmvXH7m"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        }
+      ],
+      "duration_ms": 153428,
+      "name": "Skadad",
+      "url": "https://open.spotify.com/track/2ehpj9YvjsoVnCUGssykZD"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "INGEN ID\u00c9",
+        "url": "https://open.spotify.com/album/3p7EmFMYPD3z6nTdcYpYPf"
+      },
+      "artists": [
+        {
+          "name": "Sickan",
+          "url": "https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "INGEN ID\u00c9",
+      "url": "https://open.spotify.com/track/6cl1cSwehprTTZZu8TVBBK"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "08 ZOO",
+        "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "duration_ms": 124195,
+      "name": "08 ZOO",
+      "url": "https://open.spotify.com/track/59cIFyq3hJRRbEX4yl7QVt"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "MP3",
+        "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
+      },
+      "artists": [
+        {
+          "name": "L1NA",
+          "url": "https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf"
+        }
+      ],
+      "duration_ms": 252190,
+      "name": "Bandet / t\u00e4ta (Interlude)",
+      "url": "https://open.spotify.com/track/608VTrAE3lXWrkTGifnrIV"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "\u00c5SKAN",
+        "url": "https://open.spotify.com/album/7sg6Iv0G5Xj4VjUUaSbm7t"
+      },
+      "artists": [
+        {
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "\u00c5SKAN",
+      "url": "https://open.spotify.com/track/4khoHMcdF6vOB2AOHSMD5m"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
+      "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/3LgXFc6nP5eIqMvOYgMlE6"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "duration_ms": 133670,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/2jPC7jcDhcPmj5vv9B2liZ"
+    },
+    {
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Jag Ser",
         "url": "https://open.spotify.com/album/1oZPx1IthX5PdLnaRBEZma"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/4WVnmY9eSn1u12ozgKTQVZ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "TANKAR",
         "url": "https://open.spotify.com/album/2aMwW3DkqmhrdkyK5wQTp6"
@@ -457,7 +509,7 @@
       "url": "https://open.spotify.com/track/6v4p9AaVYr1TSosk4XuEX4"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "CHASE THE BABY",
         "url": "https://open.spotify.com/album/5RLd6S0wRY2YDNuLtdIR99"
@@ -473,7 +525,7 @@
       "url": "https://open.spotify.com/track/6MdwEY5zW81WABHSVoF2ru"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "FELIPE",
         "url": "https://open.spotify.com/album/50rSkiR15M7T5u517w92F2"
@@ -489,7 +541,7 @@
       "url": "https://open.spotify.com/track/3ocHxXV8fDZ1R6iMoEIYan"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "PUSH3R",
         "url": "https://open.spotify.com/album/6Md0f1UAENAmSFkcaIVp9p"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/6dR9JEZAKwKlCQ4ilCDveT"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Wow 2",
         "url": "https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/30Tt419KEJc975scikyTU0"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Beauty & The Beast",
         "url": "https://open.spotify.com/album/4PrcjntHf5OMM5F3qoQCEd"
@@ -545,7 +597,7 @@
       "url": "https://open.spotify.com/track/6ShTIRCClnPaPF0OYwAD08"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Bli n\u00e5nting",
         "url": "https://open.spotify.com/album/0s8rBLM2MMwvHSt9YDsH1u"
@@ -561,7 +613,7 @@
       "url": "https://open.spotify.com/track/23u2D3a9rcHqZOKvnuaS6J"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/4gGBV89v9lf8UxOkhqr6Ea"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/5ekq7btjnj0Wg6xMvMOtcM"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "MP3",
         "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
@@ -593,7 +645,7 @@
       "url": "https://open.spotify.com/track/1Q6ty9DMFaALbaQaKuvnLN"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
@@ -613,7 +665,7 @@
       "url": "https://open.spotify.com/track/6GJS8UQTS1UGwKXlpbmpzC"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Faller",
         "url": "https://open.spotify.com/album/6Wk0t9YDHCm6ZDv9zuywjJ"
@@ -629,7 +681,7 @@
       "url": "https://open.spotify.com/track/7DwJKdM6LtlMkJ6gcaG5fE"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "SALT TILL SOCKER",
         "url": "https://open.spotify.com/album/4jWEG47HF6fhWpY5sNwNqv"
@@ -645,7 +697,7 @@
       "url": "https://open.spotify.com/track/77rmhU3V7x6SxMnxpYt9Gh"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "GRANNAR",
         "url": "https://open.spotify.com/album/0DPUBcVY0MPalAE1nawmN5"
@@ -661,7 +713,7 @@
       "url": "https://open.spotify.com/track/1IVgj6uFQeDD7iFmgSrTp6"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "BIG CITY DREAMS",
         "url": "https://open.spotify.com/album/6GBUPkV6xLo5YLa8GyamBS"
@@ -677,7 +729,7 @@
       "url": "https://open.spotify.com/track/3mcH7dpN817aa1GZ5mPnhI"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "NEW DRILLA IN TOWN",
         "url": "https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3"
@@ -693,7 +745,7 @@
       "url": "https://open.spotify.com/track/1K5ADmHBpsaSdwBJHY6RGL"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "GANGO",
         "url": "https://open.spotify.com/album/3LOGx4AUnzfJDeK3qcpKeY"
@@ -709,7 +761,7 @@
       "url": "https://open.spotify.com/track/1fg9aRIfENbrHFRcFYoi7X"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "FAST H\u00c4R I TRAKTEN",
         "url": "https://open.spotify.com/album/61qv3izazgypgF56GmuNYO"
@@ -733,7 +785,7 @@
       "url": "https://open.spotify.com/track/3ex4xZq0oxBYBptnPLV9cy"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "08 ZOO",
         "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
@@ -749,7 +801,7 @@
       "url": "https://open.spotify.com/track/1zvjknh2u5bsN719NSBGmm"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "KILOS",
         "url": "https://open.spotify.com/album/0fHUiOAKyUnZyovkkw97tg"
@@ -773,7 +825,7 @@
       "url": "https://open.spotify.com/track/1145wCgJadxbGYeIPYuZ5W"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "AREA 36",
         "url": "https://open.spotify.com/album/5TtnZy1zAuJPcveJgGoHpP"
@@ -797,7 +849,7 @@
       "url": "https://open.spotify.com/track/6A0qeZiQc0HoKZuoiHJdnG"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Sista 12",
         "url": "https://open.spotify.com/album/1PSxZ7Mfbvn1yXWuoI5M2G"
@@ -821,7 +873,7 @@
       "url": "https://open.spotify.com/track/7llI2gidaQmDzWFtxQzWSG"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Wow 2",
         "url": "https://open.spotify.com/album/4KXjjprbUmEVaQfw0OERWW"
@@ -837,7 +889,7 @@
       "url": "https://open.spotify.com/track/69eo1z40ivxcT5oMkX5peC"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Say Oui",
         "url": "https://open.spotify.com/album/1YCtHrTMT1tv8hAzYUJDja"
@@ -857,7 +909,7 @@
       "url": "https://open.spotify.com/track/2vJ7YiM4Sc0VqGb9OWrZyr"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Dagar i regn",
         "url": "https://open.spotify.com/album/6uqLNWTSB6p3vO6v5qFRxH"
@@ -873,7 +925,7 @@
       "url": "https://open.spotify.com/track/1oURoSnXjvFqm2o4U8eKgQ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "ILLEGALA",
         "url": "https://open.spotify.com/album/0dxLk7vwbumKHQ6a6iztJe"
@@ -889,7 +941,7 @@
       "url": "https://open.spotify.com/track/0sYRsbvwuLxEU58Zo32IMA"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Ya habiba",
         "url": "https://open.spotify.com/album/6s3AsuZptEdDEvtWgNP1Ju"
@@ -905,7 +957,7 @@
       "url": "https://open.spotify.com/track/6TmJczGUH3vjgnwZ78adyb"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Guld & diamanter",
         "url": "https://open.spotify.com/album/3jQvAqLpgq8aweVk5f215z"
@@ -921,7 +973,7 @@
       "url": "https://open.spotify.com/track/08fRZ9hXUIFMjYpP6xELPb"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "CHASE THE BABY",
         "url": "https://open.spotify.com/album/5RLd6S0wRY2YDNuLtdIR99"
@@ -937,7 +989,7 @@
       "url": "https://open.spotify.com/track/6JpcgGD7n2OglghrQVXzie"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "From mars to venus",
         "url": "https://open.spotify.com/album/2r8jb34FwsryNJ2Med7Vfn"
@@ -953,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1rTGRxwEo5WWbtYhFBUSCW"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "NEW DRILLA IN TOWN",
         "url": "https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3"
@@ -969,23 +1021,7 @@
       "url": "https://open.spotify.com/track/6GIPblmWy8KKRD8BQQKWKA"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "CHIRAQ",
-        "url": "https://open.spotify.com/album/5Ib80QIraXfyVkBygUfRj2"
-      },
-      "artists": [
-        {
-          "name": "SINAN",
-          "url": "https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS"
-        }
-      ],
-      "duration_ms": 132075,
-      "name": "CHIRAQ",
-      "url": "https://open.spotify.com/track/0T4f6dxUx19Ij66XXJlYsP"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/62BatDUk0pR2ytYCNViSV1"
@@ -1001,7 +1037,7 @@
       "url": "https://open.spotify.com/track/3AJAmTxurgfdXiQ6ppZ16o"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "G\u00e4nget & Jag Del 2",
         "url": "https://open.spotify.com/album/5k93NF19yz80JnsTU1pvT7"
@@ -1017,7 +1053,7 @@
       "url": "https://open.spotify.com/track/4jLmn1hr99vDd9MlrDmltR"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Elden (feat. Dizzy & Manny Flaco)",
         "url": "https://open.spotify.com/album/4FmtP9HdfFAlmXtbpGiIax"
@@ -1041,7 +1077,7 @@
       "url": "https://open.spotify.com/track/7360iScV4BTruAJfE6TnjO"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Stanna Likadan / 456",
         "url": "https://open.spotify.com/album/5GQz1UCcw6GcgquP6LZ1Oj"
@@ -1057,7 +1093,7 @@
       "url": "https://open.spotify.com/track/47VpgMBALlZSyHoyc7BfJV"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "From mars to venus",
         "url": "https://open.spotify.com/album/2r8jb34FwsryNJ2Med7Vfn"
@@ -1073,7 +1109,7 @@
       "url": "https://open.spotify.com/track/4AHdgKCbSe5hHNUI2iUIbt"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Is Under Sol",
         "url": "https://open.spotify.com/album/2ue75wQr0uJewZCEEW9EpS"
@@ -1093,7 +1129,7 @@
       "url": "https://open.spotify.com/track/2Gftq0KGSqhrr5bVtys4aw"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "100GUMMA",
         "url": "https://open.spotify.com/album/2kvfqvkycPcvxMicn6mi2z"
@@ -1109,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3VfSujP5vV4nCsCGsIU0tt"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "MP3",
         "url": "https://open.spotify.com/album/6ebOVpxiICOiwmCY4B5qTQ"
@@ -1125,27 +1161,7 @@
       "url": "https://open.spotify.com/track/1tcSVR26p2ZqbS9iWFkDpB"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "DONDANANA",
-        "url": "https://open.spotify.com/album/5KYT1hqGTmMI3pElxEbDpF"
-      },
-      "artists": [
-        {
-          "name": "Gee Dixon",
-          "url": "https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0"
-        },
-        {
-          "name": "DJ Rschid",
-          "url": "https://open.spotify.com/artist/3FumtjxQrRtMUnMtN4PLN3"
-        }
-      ],
-      "duration_ms": 196595,
-      "name": "DONDANANA",
-      "url": "https://open.spotify.com/track/4Pt8vmYXX4PAAVMW1iGY2T"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Snoop Dogg Presents Algorithm (Global Edition)",
         "url": "https://open.spotify.com/album/7byrahgNLbCzZgp9w5WBxW"
@@ -1165,7 +1181,7 @@
       "url": "https://open.spotify.com/track/2IR1f2ewkFOJSrSMrmouX8"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Ensam Hemma",
         "url": "https://open.spotify.com/album/0XkonHCzS94dkzCPV69HkV"
@@ -1181,7 +1197,7 @@
       "url": "https://open.spotify.com/track/3Ye6TD1cgMG9oAEp5YTtiD"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "NANANA",
         "url": "https://open.spotify.com/album/3y6HYazrlBj2jA7xBq1CZU"
@@ -1197,7 +1213,7 @@
       "url": "https://open.spotify.com/track/2fVeR3EDIfgd7Z5WIhv4UB"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/52dPKGTki9GcG3qKgG9ZIN"
@@ -1213,7 +1229,7 @@
       "url": "https://open.spotify.com/track/1oUX2pkuFr4Gp5Nv3dmjMJ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "TRAPSTAR2RAPSTAR",
         "url": "https://open.spotify.com/album/1SkVQ9hBud6TJEXv2w8doq"
@@ -1233,7 +1249,7 @@
       "url": "https://open.spotify.com/track/47YtnjhdF6CTYSWWcSR8P5"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "BIG CITY DREAMS",
         "url": "https://open.spotify.com/album/6GBUPkV6xLo5YLa8GyamBS"
@@ -1249,7 +1265,7 @@
       "url": "https://open.spotify.com/track/7ClsPaYYi8mKrV8YT813gI"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "BAGS",
         "url": "https://open.spotify.com/album/5uQIVyMtZm1kjPA5acv8IC"
@@ -1265,27 +1281,7 @@
       "url": "https://open.spotify.com/track/7BrVRDCieNEotTW4FptYh3"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/2S58a2nf12RarEUAwM5gzg"
-      },
-      "artists": [
-        {
-          "name": "Tal\u00e9",
-          "url": "https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f"
-        },
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
-        }
-      ],
-      "duration_ms": 199122,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/00qyoiew5KL83ob2Leqp8F"
-    },
-    {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Preach",
         "url": "https://open.spotify.com/album/62FvyTtNzWIpyI1dk9mSX9"
@@ -1305,7 +1301,7 @@
       "url": "https://open.spotify.com/track/6eaWqe9hXtUgA604vZg5ct"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "N\u00e5nstans i skogen",
         "url": "https://open.spotify.com/album/3GeddPAXMUYLYccRIAf8bg"
@@ -1329,7 +1325,7 @@
       "url": "https://open.spotify.com/track/2bBXf2pRAMBNEfd4ii8NNZ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Sawadee Freestyle",
         "url": "https://open.spotify.com/album/3JsYluYuz8gdxBuUpGRbvl"
@@ -1345,7 +1341,7 @@
       "url": "https://open.spotify.com/track/2Xnx9XLCtQenVfKFnPnIv6"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Northernt\u00f6rpalisticarportmuzik",
         "url": "https://open.spotify.com/album/3uXQpUeiq0T1HkBG88763T"
@@ -1369,7 +1365,7 @@
       "url": "https://open.spotify.com/track/1YkRezYJi1XKYmhG1GidUd"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "POW POW",
         "url": "https://open.spotify.com/album/18d7OCTsQZrqExaFzfC8sh"
@@ -1389,7 +1385,7 @@
       "url": "https://open.spotify.com/track/7bEG8w5O4P2zDBirLYqBkc"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Going Lit - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/46LsdSRGIqiDUvNdXa0hq8"
@@ -1409,7 +1405,7 @@
       "url": "https://open.spotify.com/track/3gxAIJwFeYpba15gx9zXre"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Guitar - Spotify Studio 100 Recording",
         "url": "https://open.spotify.com/album/3ymlmZD01qezHfoQlDtUWB"
@@ -1429,7 +1425,7 @@
       "url": "https://open.spotify.com/track/3h8WBhNnafO0wzsEnGeJfX"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "fuego (feat. GABIFUEGO) [Spotify Studio 100 Recording]",
         "url": "https://open.spotify.com/album/02gT5JjdBLAkwSr2dGoyT5"
@@ -1453,7 +1449,7 @@
       "url": "https://open.spotify.com/track/2hYNimCc8MwLGMzCZI4IfR"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "En Stund (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/5rfIp18A4D6aRHMKuRJOG9"
@@ -1469,7 +1465,7 @@
       "url": "https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "OuOu (Spotify Studio 100 Recording)",
         "url": "https://open.spotify.com/album/7n9tKJ15sySDyVOJxrl4xo"
@@ -1489,7 +1485,7 @@
       "url": "https://open.spotify.com/track/44EsiFbw1i2wSvYMvC76pJ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544"
@@ -1505,7 +1501,7 @@
       "url": "https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Studio 100",
         "url": "https://open.spotify.com/album/4NwLiXienqAagaTO3B31Ej"
@@ -1529,7 +1525,7 @@
       "url": "https://open.spotify.com/track/3xPMakIXmuSEbiw0qW0waN"
     },
     {
-      "added_at": "2021-12-30 23:00:00",
+      "added_at": "2022-01-04 15:29:27",
       "album": {
         "name": "Studio 100 (feat. Linda Pira, Parham, Naod, Saliboy, Aki, SHRN, Macky, Aleks, Blen, Ismael, Elias Abbas, Masse & Mack Beats)",
         "url": "https://open.spotify.com/album/574wYm0J5Vr8PBtG030M2C"

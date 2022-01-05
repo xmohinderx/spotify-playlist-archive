@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkGQGk1ZjrI.md) - [plain]
 
 > The late, great Elliott Smith\. RIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,645 likes - 22 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,697 likes - 22 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

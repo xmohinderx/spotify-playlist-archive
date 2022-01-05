@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keep it low\-key with all of today's chill pop\. Cover: Catie Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,994 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,300,340 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [Screaming Underwater](https://open.spotify.com/track/2jYDlPVG15WCb7VfXldCNN) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Screaming Underwater](https://open.spotify.com/album/0GNG7KPpo7CWiyFn3kKHPH) | 2:26 |
 | 100 | [Altar](https://open.spotify.com/track/501mFwKeLnybf8JO3XL66O) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Altar](https://open.spotify.com/album/7aQ67hIkvYTPsXFEPL6CyI) | 4:03 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDBlZjAwMDAwMTdkZWFjZjY1MmMwMDAwMDE3ZGMwMmUxYTI1`
+Snapshot ID: `MTY0MTMzMzE1NSwwMDAwMDBmMDAwMDAwMTdlMjcxNDY4NTcwMDAwMDE3ZGMwMmUxYTI1`

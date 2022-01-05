@@ -246,6 +246,32 @@
     },
     {
       "album": {
+        "name": "Mariachi Azteca",
+        "url": "https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Fuentes",
+          "url": "https://open.spotify.com/artist/6q8g3vOMKyrhhRWLsOUC98"
+        },
+        {
+          "name": "Silvestre Vargas",
+          "url": "https://open.spotify.com/artist/4C09kjudW0ZTpef7cMpjPF"
+        },
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165186,
+      "name": "El Carrettero",
+      "url": "https://open.spotify.com/track/0yzxLJNo9gwKWWk1TJJr15"
+    },
+    {
+      "album": {
         "name": "Negra Linda",
         "url": "https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId"
       },
@@ -275,7 +301,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 134906,
       "name": "El Fandanguero",
       "url": "https://open.spotify.com/track/1QzsAt7T5aHz1K4CAzOlNW"
@@ -423,7 +449,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 186453,
       "name": "El Mezcalito",
       "url": "https://open.spotify.com/track/5W2NjVnqgsyLRzCBJA2wNj"
@@ -441,7 +467,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 174306,
       "name": "El Pajaro Carpintero",
       "url": "https://open.spotify.com/track/08fOgmsOmZyzXvly76Mp7K"
@@ -629,7 +655,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 137586,
       "name": "El Son De Los Aguacates",
       "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
@@ -755,7 +781,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 165506,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/215vR8WYgCai4ibawAVyl1"
@@ -791,7 +817,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 509538,
       "name": "Huapango",
       "url": "https://open.spotify.com/track/3e8ti8qmE5Tyuazz0jvqJM"
@@ -867,7 +893,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 165040,
       "name": "Jesucita en Chihuahua",
       "url": "https://open.spotify.com/track/2Hmt4wtmK3mJVCTj823VW7"
@@ -925,6 +951,24 @@
       "duration_ms": 178386,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Azteca",
+          "url": "https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114466,
+      "name": "La Adelita",
+      "url": "https://open.spotify.com/track/7zjzbXZYUnWbtbs6FEOJjS"
     },
     {
       "album": {
@@ -1231,7 +1275,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 154940,
       "name": "La Vaquilla (El Son De La Vaquilla)",
       "url": "https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz"
@@ -1249,7 +1293,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 190217,
       "name": "La Verdolaga (Huapango)",
       "url": "https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ"
@@ -1267,7 +1311,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 144720,
       "name": "Las Abajenas",
       "url": "https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK"
@@ -1307,7 +1351,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 122026,
       "name": "Las Alte\u00f1itas",
       "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
@@ -1415,7 +1459,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 173800,
       "name": "Mi Nombre Es M\u00e9xico",
       "url": "https://open.spotify.com/track/6jQt6ffbmwCtxCEUzBt4D4"
@@ -1469,7 +1513,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 241948,
       "name": "Popurri de Sones Jalisciences",
       "url": "https://open.spotify.com/track/2Pg0Zu7QpzYN1he0VfsN6L"
@@ -1567,7 +1611,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 153466,
       "name": "Rancho Grande",
       "url": "https://open.spotify.com/track/3fOJtfyLvJs1Xc5s5oMpIB"
@@ -1639,7 +1683,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 447400,
       "name": "Tema Y Popurri De Torros",
       "url": "https://open.spotify.com/track/6fjlbg6904C1UmEawKjUPR"
@@ -1733,7 +1777,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-05",
       "duration_ms": 137946,
       "name": "Viva Mexico (with La Rondalla Tapat\u00eda)",
       "url": "https://open.spotify.com/track/0oqFWQ2pLqpRIx6kk5SDSW"
