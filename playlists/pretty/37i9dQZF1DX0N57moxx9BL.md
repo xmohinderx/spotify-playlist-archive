@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Crank up the recent hits of Christian rock\.  Cover artist: Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,752 likes - 56 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,753 likes - 56 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

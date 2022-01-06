@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Jazz, hip\-hop and funk in one flavor\. Cover: Guru
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,181 likes - 90 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,193 likes - 90 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Be Thankful](https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [William DeVaughan](https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4) | [Best by Far](https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk) | 4:12 |
 | 90 | [Looking up to You](https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq) | [Blacknuss](https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P) | [Made in Sweden](https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y) | 3:54 |
 
-Snapshot ID: `MTY0MTQyNzY3MywwMDAwMDAwMDgwY2FjNjI4ZGJjNDExN2YyNTA4MjQ0Y2YxZTA3Y2Y1`
+Snapshot ID: `MTY0MTQyOTcxNywwMDAwMDAwMDgwY2FjNjI4ZGJjNDExN2YyNTA4MjQ0Y2YxZTA3Y2Y1`

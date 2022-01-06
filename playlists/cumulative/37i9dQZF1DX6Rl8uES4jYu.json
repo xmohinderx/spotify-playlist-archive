@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 204000,
       "name": "Again",
       "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 162062,
       "name": "All Together Now",
       "url": "https://open.spotify.com/track/1BAG6lcuJip6wd0Kd9PRoY"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 209134,
       "name": "Ally - Headnodic Remix",
       "url": "https://open.spotify.com/track/4vNh0o3gb1QbmLKtiQvYFn"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 191693,
       "name": "Bet On Me",
       "url": "https://open.spotify.com/track/1rBtX2UbcSY9jizKtmnu6C"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 208445,
       "name": "Better Now [Remix]",
       "url": "https://open.spotify.com/track/3cLA64aQAhxDRQvSp3IBiJ"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 210119,
       "name": "Bravado",
       "url": "https://open.spotify.com/track/0r7hyq2nRub3Swcodfi3pR"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 189346,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/3hVdcBGWtrrcYFYIPm3JZN"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 200843,
       "name": "Devotion - Shakur Ahmad Remix",
       "url": "https://open.spotify.com/track/6wKmElTGYNVPTJ9AE9lqxe"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 293666,
       "name": "Distracted",
       "url": "https://open.spotify.com/track/1BWPQ3okXEbZTPI3sJ0Ywi"
@@ -757,7 +757,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 166857,
       "name": "Do or Die",
       "url": "https://open.spotify.com/track/1CfTuOvVnBDEE9ox8yYDrv"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 214933,
       "name": "Final Piece",
       "url": "https://open.spotify.com/track/5uTn8XYjxNe15vRIvid1Fl"
@@ -1093,7 +1093,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 162875,
       "name": "Good Morning (Fabian Mazur Remix)",
       "url": "https://open.spotify.com/track/3ogjbq2SnZ9GNcmwtUKgcC"
@@ -1111,7 +1111,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 241253,
       "name": "Good People",
       "url": "https://open.spotify.com/track/7M7wlgmhKhfZq7UN4U8wmC"
@@ -1195,6 +1195,24 @@
       "duration_ms": 175306,
       "name": "Honesty - Cool Company Remix",
       "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
+    },
+    {
+      "album": {
+        "name": "I NEED YOU",
+        "url": "https://open.spotify.com/album/1m8ZRSrh5k7K7OiIbOwj4T"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "date_added": "2021-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157133,
+      "name": "I NEED YOU",
+      "url": "https://open.spotify.com/track/0Rz33FuYUwWW0pcw2v9gI9"
     },
     {
       "album": {
@@ -1677,7 +1695,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 248159,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/27OctETisMkxIypWYruUUG"
@@ -1769,7 +1787,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206808,
       "name": "On Repeat",
       "url": "https://open.spotify.com/track/4eGlCCZBBa5ieD6YeBB8i5"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 160096,
       "name": "Peach",
       "url": "https://open.spotify.com/track/0gM8QGo4unf0k2nSptufIz"
@@ -2187,7 +2205,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184650,
       "name": "See You",
       "url": "https://open.spotify.com/track/5GZFPLrGgPH0cG2R12aaVM"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 286453,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/7kqXN3NJIjdH844bUX1vK3"
@@ -2417,7 +2435,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 207721,
       "name": "Space",
       "url": "https://open.spotify.com/track/0nFAyUvyui8s3dfnS0iYXW"
@@ -2715,7 +2733,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 182068,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/5N2HumJKAELVA5fCzvKL0Q"
@@ -2741,7 +2759,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 304218,
       "name": "Those Days Are Gone",
       "url": "https://open.spotify.com/track/3lca4MeFGxOtgePnb168n3"
@@ -2889,7 +2907,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 264145,
       "name": "Want",
       "url": "https://open.spotify.com/track/5yCnQBVvUXg4f3GHGCuc3Y"
@@ -2935,7 +2953,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 264501,
       "name": "WE ARE",
       "url": "https://open.spotify.com/track/5rj2n6kHWczpjWce4Jsgvt"
@@ -2993,7 +3011,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "White Knuckles",
       "url": "https://open.spotify.com/track/4Oq4ZOVKOHkQdqQnR3WuH3"
@@ -3029,7 +3047,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 198792,
       "name": "Wildcard",
       "url": "https://open.spotify.com/track/7KyVAn4ID0fa8DMfujrMGY"
@@ -3087,7 +3105,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 160560,
       "name": "Ya Feelin' Good?",
       "url": "https://open.spotify.com/track/68dUug5nr1tqRvzI8wa7Yw"
@@ -3105,7 +3123,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 185716,
       "name": "You",
       "url": "https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez"

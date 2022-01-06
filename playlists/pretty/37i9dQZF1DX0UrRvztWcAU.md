@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 
 > Set the mood of your day with these awesome, happy songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,486 likes - 150 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,490 likes - 150 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0UrRvztWcAU.md) - [plain]
 | 149 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 150 | [Memorized](https://open.spotify.com/track/44T6aO6fh9MPX6CGSCCidX) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [Memorized](https://open.spotify.com/album/6aI8EAq9o8Xnoq1uw5QovE) | 3:26 |
 
-Snapshot ID: `MTY0MTQyNzc1MCwwMDAwMDAwMDI0NTQ1ZmNjYTI5MzU1MTM4MTI3ODNiMzMxZGJjOTNm`
+Snapshot ID: `MTY0MTQyOTc5MSwwMDAwMDAwMGViNDkzZmI4YzExZDM4YTAwMGZjNTY4ZWNiZTU1NDcy`

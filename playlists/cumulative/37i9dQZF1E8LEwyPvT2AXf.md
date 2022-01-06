@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/4unVIKdkTCDXOJosfpD9UD)
 
-> With Adele, Lily Allen, John Legend, Tori Kelly and more
+> With Adele, Meryl Streep, Little Mix, Mark McCabe and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

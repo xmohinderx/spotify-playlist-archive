@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 
 > Walk down memory lane with the biggest rock anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,379 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,391 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3pfwRgyQMA.md) - [plain]
 | 49 | [Accidentally In Love \- From "Shrek 2" Soundtrack](https://open.spotify.com/track/7FQSD5JjWqGtS1BaQQiT6V) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Films About Ghosts: The Best Of...](https://open.spotify.com/album/0J5rAGrSlzzROSezNoI6Ag) | 3:08 |
 | 50 | [Hemorrhage \(In My Hands\)](https://open.spotify.com/track/0M6TRIhQggFpwgaefCfnGH) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [Something Like Human](https://open.spotify.com/album/0iThXdEurWgWK12m7xgEhB) | 3:56 |
 
-Snapshot ID: `MTY0MTQyNzU3NCwwMDAwMDAwMGMwMmFiZGU4NWRmYTk1MmY3NjQyMGUyN2ZlOWUzMjky`
+Snapshot ID: `MTY0MTQyOTYyMiwwMDAwMDAwMGMwMmFiZGU4NWRmYTk1MmY3NjQyMGUyN2ZlOWUzMjky`

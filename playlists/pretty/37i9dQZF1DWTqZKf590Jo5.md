@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqZKf590Jo5.md) - [plain]
 
 > Celebrate R&amp;B crooner Maxwell's career with this essential collection of songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,294 likes - 23 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,295 likes - 23 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

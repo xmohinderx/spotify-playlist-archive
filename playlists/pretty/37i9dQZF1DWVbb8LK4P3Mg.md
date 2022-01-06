@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! Here's a collection of Korean Christmas tunes by K\-Pop artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,569 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,568 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 99 | [Merry Christmas JAM!](https://open.spotify.com/track/0XfoZVAnwtzjKWvVkzSJIW) | [SWEET SORROW](https://open.spotify.com/artist/1rwig4pRfLrj3scq9as1Mb), [Choi Joon](https://open.spotify.com/artist/2kKsTEjAE8ZOtxIvCL8bts) | [Merry Christmas JAM!](https://open.spotify.com/album/2w2k6U8hNKPrauD0PS2ZDi) | 2:55 |
 | 100 | [You Are My Christmas](https://open.spotify.com/track/4YcDY2jcAbfW647AJEcskA) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [You Are My Christmas](https://open.spotify.com/album/1H2KIeUtIl00tQVemrGaHM) | 3:50 |
 
-Snapshot ID: `MTY0MTQyNzYzMCwwMDAwMDAwMDlkNGY3MWE5ODQ3YjRhZDc2MmFiZjQ3NjNlMmE4NDQy`
+Snapshot ID: `MTY0MTQyOTY3NSwwMDAwMDAwMDlkNGY3MWE5ODQ3YjRhZDc2MmFiZjQ3NjNlMmE4NDQy`

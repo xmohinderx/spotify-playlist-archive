@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBG5kM768S1.md) - [plain]
 | 49 | [Vår Beste Dag](https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT) | [Erik Bye](https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ) | [Støv Og Stjerner](https://open.spotify.com/album/0NpGhivBGHLf1nnoLSCZ1X) | 3:01 |
 | 50 | [Tru](https://open.spotify.com/track/78OG4KeOteCs5a91xWDBHi) | [Odd Nordstoga](https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv), [Eva Weel Skram](https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3) | [Tru](https://open.spotify.com/album/24bEVRFOtWz8JgNQD07PWM) | 4:11 |
 
-Snapshot ID: `MTY0MTQyNzY3MiwwMDAwMDAwMGNjOWUyYzNkZGEwM2NlYjM1MmFiM2ZiMjdlZjI2NTc2`
+Snapshot ID: `MTY0MTQyOTcxNiwwMDAwMDAwMGNjOWUyYzNkZGEwM2NlYjM1MmFiM2ZiMjdlZjI2NTc2`

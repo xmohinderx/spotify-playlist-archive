@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Top Afro Bashment, Pop, Fusion / X\-Overs from all across the world\.  Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">WizKid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,838 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,837 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 99 | [Joro](https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Joro](https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh) | 4:22 |
 | 100 | [Enjoyment](https://open.spotify.com/track/0C1wC8uhOzENMF59dxYmnK) | [Jujuboy Star](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Enjoyment](https://open.spotify.com/album/5OCy2YLDVn8yNVwxVVW7E1) | 3:06 |
 
-Snapshot ID: `MTY0MTQyNzU3NiwwMDAwMDAwMDM1ZjMwMmFjZmY5YTExYWU4MmY1MDdlMjgyOTg2Yjc0`
+Snapshot ID: `MTY0MTQyOTYyNCwwMDAwMDAwMDM1ZjMwMmFjZmY5YTExYWU4MmY1MDdlMjgyOTg2Yjc0`

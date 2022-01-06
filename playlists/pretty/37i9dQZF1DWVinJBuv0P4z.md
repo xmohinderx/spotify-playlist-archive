@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 
 > Happy tunes from the 50s, 60s & 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,609 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,617 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVinJBuv0P4z.md) - [plain]
 | 149 | [Kissin' in the Back Row of the Movies](https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Legends](https://open.spotify.com/album/1imTGKx9Ak5kaPpZLC9DGg) | 3:31 |
 | 150 | [That's the Way \(I Like It\) \- 2004 Remaster](https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/2ogOjq2sGndRddcHXfne1l) | 3:05 |
 
-Snapshot ID: `MTY0MTQyNzYzMywwMDAwMDAwMDk1MWIwZDcyNDZmNDc5YjE5OGNjOTNjMmVkZTZmMjMz`
+Snapshot ID: `MTY0MTQyOTY3OCwwMDAwMDAwMDk1MWIwZDcyNDZmNDc5YjE5OGNjOTNjMmVkZTZmMjMz`

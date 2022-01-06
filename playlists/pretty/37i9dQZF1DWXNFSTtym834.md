@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 
 > The biggest metal songs of the 2000s\. Cover: Slipknot
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,156 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,174 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNFSTtym834.md) - [plain]
 | 59 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 |
 | 60 | [Dig](https://open.spotify.com/track/3H0ZY55seypgo0zXI6zwRk) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/1PxA0y3aRMejJGb0wJH9gS) | 2:42 |
 
-Snapshot ID: `MTY0MTQyNzY3NywwMDAwMDAwMDVlYjIxYjQ3NzNiYWM4NmM5YjMyZjU3ZTgxYzg1OGVh`
+Snapshot ID: `MTY0MTQyOTcyMSwwMDAwMDAwMDVlYjIxYjQ3NzNiYWM4NmM5YjMyZjU3ZTgxYzg1OGVh`

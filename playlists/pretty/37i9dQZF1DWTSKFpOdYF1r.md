@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Siouxsie and the Banshees
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,653 likes - 80 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,658 likes - 80 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 79 | [Love Action \(I Believe In Love\)](https://open.spotify.com/track/5RBPXlIiZVrr8hab7LpRJB) | [The Human League](https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG) | [Dare!](https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY) | 5:01 |
 | 80 | [The High Road](https://open.spotify.com/track/42qPwHyVPx26gdgXqY2LUE) | [The Feelies](https://open.spotify.com/artist/4UETUdF77BfyJ7fEFVztr3) | [The Good Earth](https://open.spotify.com/album/5pLXMKpukvYhaWW89pT0Kz) | 4:24 |
 
-Snapshot ID: `MTY0MTQyNzU4NywwMDAwMDAwMGYzYTBiYjY2MmI5YjYzOTJjMjhkMmEwMGFlMTIxMDFh`
+Snapshot ID: `MTY0MTQyOTYzNCwwMDAwMDAwMGYzYTBiYjY2MmI5YjYzOTJjMjhkMmEwMGFlMTIxMDFh`

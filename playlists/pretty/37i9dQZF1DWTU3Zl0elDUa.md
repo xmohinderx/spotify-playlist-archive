@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,925 likes - 60 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,929 likes - 60 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Positive Education](https://open.spotify.com/track/7Ges3Ph4dWhqmmTgSpJFNW) | [Slam](https://open.spotify.com/artist/0Y0Kj7BOR5DM0UevuY7IvO) | [Positive Education](https://open.spotify.com/album/467booOmOkJTW4KXK2v6Vv) | 8:39 |
 | 60 | [I'm For Real](https://open.spotify.com/track/7xkwcX1dsnpT8d1Cu8SBFH) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Aftermath](https://open.spotify.com/album/3iTzHehZgmL6H5uzkpZHKc) | 6:03 |
 
-Snapshot ID: `MTY0MTQyNzU4OSwwMDAwMDAwMDBkZWVlOWI0NWYwMmY3NzlmYTZkZjBmOGNkMWMwZWRl`
+Snapshot ID: `MTY0MTQyOTYzNiwwMDAwMDAwMDBkZWVlOWI0NWYwMmY3NzlmYTZkZjBmOGNkMWMwZWRl`

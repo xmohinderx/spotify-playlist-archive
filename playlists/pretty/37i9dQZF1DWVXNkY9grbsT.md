@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic music\. Cover: Amon Tobin
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,829 likes - 99 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,830 likes - 99 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 98 | [Saphire Waves](https://open.spotify.com/track/54NsU7IFD70hfysgZbfxl5) | [Infinity Fields](https://open.spotify.com/artist/60LC4c4Uv0UToHCkxsAUdN), [v e n n](https://open.spotify.com/artist/7K80bdPzdWRFqAHBfk1cPi) | [Saphire Waves](https://open.spotify.com/album/3uPCKUouh51cia7egBNbV5) | 2:15 |
 | 99 | [Touches Everything](https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Overflow](https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z) | 5:04 |
 
-Snapshot ID: `MTY0MTQyNzYyOCwwMDAwMDAwMDIyOGQyMmJkMmU4MGYwYzk2YzgwMjM3YzRhNTExNjc1`
+Snapshot ID: `MTY0MTQyOTY3NCwwMDAwMDAwMDIyOGQyMmJkMmU4MGYwYzk2YzgwMjM3YzRhNTExNjc1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Portico Quartet
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,250 likes - 250 songs - 20 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,251 likes - 250 songs - 20 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [City Dreams](https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Phøn](https://open.spotify.com/artist/6v2EgPbnVH1tpRh4GXAejH), [Javier Santiago](https://open.spotify.com/artist/3L3oWS9VsgTRBF7HFHdOEz), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [City Dreams](https://open.spotify.com/album/6FtVuIjXMLrskjf3xZfCMv) | 4:58 |
 | 250 | [Kintsugi](https://open.spotify.com/track/6jP5WPo0D87AGFTHwdrC10) | [Roberto Pianca](https://open.spotify.com/artist/3Qz4LxHr0RXWQqHBaNKJ75) | [Mono No Aware](https://open.spotify.com/album/1BQd8y82jz4Hv1mG103c3L) | 6:34 |
 
-Snapshot ID: `MTY0MTQyNzU4NiwwMDAwMDAwMDhlMzM5NTdiN2E0NWRlMDQ4NmE0OWIwNGY4OTU0YTdj`
+Snapshot ID: `MTY0MTQyOTYzMywwMDAwMDAwMDhlMzM5NTdiN2E0NWRlMDQ4NmE0OWIwNGY4OTU0YTdj`

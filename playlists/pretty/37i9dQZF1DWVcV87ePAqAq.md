@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Fest kan vara minst lika kul även om du bara är med dina allra närmsta!
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,389 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,390 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 99 | [Seven Nation Army](https://open.spotify.com/track/4SCbD68sf3dBfaE2X8uDSP) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Seven Nation Army](https://open.spotify.com/album/1BCTQcK8H8z7HcqtC93UvV) | 2:53 |
 | 100 | [Heaven \- David Guetta & MORTEN Remix](https://open.spotify.com/track/4QAUGy6k7c3IOAhgWz52r7) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Heaven \(David Guetta & MORTEN Remix\)](https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB) | 3:35 |
 
-Snapshot ID: `MTY0MTQyNzYzMCwwMDAwMDAwMDk5ZGUwMDBhYWZiMDRkZDdlY2MyZTkwNTRmY2UyZDky`
+Snapshot ID: `MTY0MTQyOTY3NiwwMDAwMDAwMDk5ZGUwMDBhYWZiMDRkZDdlY2MyZTkwNTRmY2UyZDky`

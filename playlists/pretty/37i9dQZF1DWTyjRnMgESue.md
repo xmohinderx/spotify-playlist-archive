@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Jensen McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,528 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,530 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 149 | [Brooklyn Bridge](https://open.spotify.com/track/7fPocdnUzvo4hdF3aKkyAV) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Brooklyn Bridge](https://open.spotify.com/album/4QPAvyC716Uf1GRW7oEVrt) | 4:18 |
 | 150 | [Edge Of The Dark](https://open.spotify.com/track/5LAgxVviiDTPQNc3cvInAU) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Edge Of The Dark](https://open.spotify.com/album/5rqAxGNdzM9wZeqWjKu2w6) | 4:20 |
 
-Snapshot ID: `MTY0MTQyNzU5OSwwMDAwMDAwMDhiYTQxZTI4MTlkOGY0MWI5NzgyOWFhMjNhOTEyYTc0`
+Snapshot ID: `MTY0MTQyOTY0NSwwMDAwMDAwMDhiYTQxZTI4MTlkOGY0MWI5NzgyOWFhMjNhOTEyYTc0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,986 likes - 121 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,994 likes - 121 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrtsSlLKzro.md) - [plain]
 | 120 | [dominique](https://open.spotify.com/track/4RYeyNZ7ZlMJqVhoJTvMgp) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 3:54 |
 | 121 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
 
-Snapshot ID: `MTY0MTQyNzYzOCwwMDAwMDAwMDhmMzVhNTkwODFlOGQwNGUxNzk5MGVlODU5YWJmNjdj`
+Snapshot ID: `MTY0MTQyOTY4NCwwMDAwMDAwMDhmMzVhNTkwODFlOGQwNGUxNzk5MGVlODU5YWJmNjdj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 
 > Songs of empowerment and pride\. Photography: <a href="https://www.instagram.com/waheedpix/">Adreinne Waheed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,810 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,807 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWAqc46ZJdZf.md) - [plain]
 | 59 | [Kapernick Effect](https://open.spotify.com/track/1fg0MTdAaXlbn9HWqQAJBQ) | [JAG](https://open.spotify.com/artist/4R6MQEkEXJSwc7kOjUqjc5) | [Kapernick Effect](https://open.spotify.com/album/7f7uHZrk5OIQsMhnHr3f44) | 1:58 |
 | 60 | [MY POWER](https://open.spotify.com/track/7ia5l12mCvbQTeAnG1oYpg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw), [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:19 |
 
-Snapshot ID: `MTY0MTQyNzY0NSwwMDAwMDAwMGE0ZTI0MDRhNWZkMjJjMDNlNjg2ZDE3MTY2MTA4ZTFk`
+Snapshot ID: `MTY0MTQyOTY5MSwwMDAwMDAwMGE0ZTI0MDRhNWZkMjJjMDNlNjg2ZDE3MTY2MTA4ZTFk`

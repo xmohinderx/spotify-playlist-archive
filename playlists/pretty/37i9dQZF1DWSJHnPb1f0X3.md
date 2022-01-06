@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,415,023 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,415,054 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/track/0GevQZGBPYjfPzK8e3jxzl) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Brandyn Burnette](https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE) | [Wish You Were Here \(feat\. Brandyn Burnette\)](https://open.spotify.com/album/56jh1XYw5wQcXmcnR46LRA) | 2:53 |
 | 100 | [Safe With Me](https://open.spotify.com/track/1DkbynNilJKbe7V57omrK7) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Safe With Me](https://open.spotify.com/album/2UIzwfd7Fzclt3YbY5MxCf) | 2:29 |
 
-Snapshot ID: `MTY0MTQyNzU1NCwwMDAwMDAwMDkzZjI1OTUwMWU4Njg1MzY0NzI4MTEzNTQxMDZkZGVm`
+Snapshot ID: `MTY0MTQyOTYwMiwwMDAwMDAwMDkzZjI1OTUwMWU4Njg1MzY0NzI4MTEzNTQxMDZkZGVm`

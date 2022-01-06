@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 161114,
       "name": "4ever",
       "url": "https://open.spotify.com/track/1UgaioSUNBZQ5xyCiAhfAU"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 246586,
       "name": "Certified Fool",
       "url": "https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 149665,
       "name": "Clay Pigeon",
       "url": "https://open.spotify.com/track/1yZyPhdJF5L60qDUeuwojc"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 173466,
       "name": "Connect 5",
       "url": "https://open.spotify.com/track/6GHXF7ip4leelmjjAFYLgE"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "dead end",
       "url": "https://open.spotify.com/track/2r6Z8DzXopRlfPfFPHSLes"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 272693,
       "name": "delicate creature",
       "url": "https://open.spotify.com/track/7BAk4jJtHKJuo4H05dKSM1"
@@ -772,6 +772,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
+    },
+    {
+      "album": {
         "name": "Easy (with Kacey Musgraves feat. Mark Ronson)",
         "url": "https://open.spotify.com/album/7FUNRteYv2Flt9Lr8JHFIR"
       },
@@ -809,7 +827,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 148650,
       "name": "Eight Years Old With An IPhone",
       "url": "https://open.spotify.com/track/3WACWYRxQgDRCirfg5W7Vh"
@@ -845,7 +863,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 177818,
       "name": "FAMOUS",
       "url": "https://open.spotify.com/track/530V51I8suvq6qTwaQZLse"
@@ -939,7 +957,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "friendship",
       "url": "https://open.spotify.com/track/3JvXtgeeIfN4MQaew28CLV"
@@ -997,6 +1015,24 @@
       "duration_ms": 199480,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN"
+    },
+    {
+      "album": {
+        "name": "glad ur gone",
+        "url": "https://open.spotify.com/album/4AaIk7kmUbdOl97epNOoSI"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245580,
+      "name": "glad ur gone",
+      "url": "https://open.spotify.com/track/2BhYza30OCp9NUF5Yavo9w"
     },
     {
       "album": {
@@ -1375,7 +1411,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 225017,
       "name": "IDC",
       "url": "https://open.spotify.com/track/43x8gg4AnsyCO5pWmWed1J"
@@ -1393,7 +1429,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 169213,
       "name": "If You Ever Leave, I'm Coming With You",
       "url": "https://open.spotify.com/track/5QLG4LB186lFqtZ28Zm7PC"
@@ -1555,7 +1591,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 233722,
       "name": "Lonely As I Ever Was",
       "url": "https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz"
@@ -1573,7 +1609,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 177908,
       "name": "Losers",
       "url": "https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC"
@@ -1707,7 +1743,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 180028,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz"
@@ -1827,7 +1863,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 271203,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/7aqqCdWDJKqDbrzXOqbBJc"
@@ -1939,7 +1975,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 133636,
       "name": "omg",
       "url": "https://open.spotify.com/track/6zIL7KsAKDARqyKKKF2vcr"
@@ -2615,7 +2651,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 285833,
       "name": "The Birthday Party",
       "url": "https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF"
@@ -2745,7 +2781,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 186500,
       "name": "VROOM VROOM",
       "url": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8"
@@ -2803,7 +2839,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 216130,
       "name": "Wayside",
       "url": "https://open.spotify.com/track/2IH2ZVes9PkTRUxlDJj0vm"
@@ -2915,7 +2951,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 168566,
       "name": "Yeah!",
       "url": "https://open.spotify.com/track/3XNWfquRRvnaCSU2low3ez"

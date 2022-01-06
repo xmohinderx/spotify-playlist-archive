@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 
 > The sound of a new era\. Discover rhythmic crossover hits from cultures around the world! Cover: Fireboy DML
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,675 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,678 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxHPh2rEiHr.md) - [plain]
 | 79 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 80 | [No Wahala](https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Original Vibe Machine](https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3) | 2:42 |
 
-Snapshot ID: `MTY0MTQyNzYxOSwwMDAwMDAwMGQ3NmY0ODc4YTNiNjA3YTM0MGMxN2FhNjNhZGZjYjg2`
+Snapshot ID: `MTY0MTQyOTY2NSwwMDAwMDAwMGQ3NmY0ODc4YTNiNjA3YTM0MGMxN2FhNjNhZGZjYjg2`

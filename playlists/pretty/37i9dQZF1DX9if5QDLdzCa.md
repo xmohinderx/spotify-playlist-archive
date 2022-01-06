@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > Relax to the sound of the ocean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,511 likes - 190 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,512 likes - 190 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

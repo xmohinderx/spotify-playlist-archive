@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,426 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,427 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Archers](https://open.spotify.com/track/0rQyr2LkdMpJqGF1pfxwJi) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [A Wolf in the Doorway](https://open.spotify.com/album/7LOHLuYtHn9VG8xDoiCKLc) | 2:36 |
 | 100 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 |
 
-Snapshot ID: `MTY0MTQyNzY3NSwwMDAwMDAwMDhlZjE3NjYzNTQ2MzEzMGIxZjM2NDJiOGU2MTE3NTE1`
+Snapshot ID: `MTY0MTQyOTcxOSwwMDAwMDAwMDhlZjE3NjYzNTQ2MzEzMGIxZjM2NDJiOGU2MTE3NTE1`

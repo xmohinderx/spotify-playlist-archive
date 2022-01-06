@@ -247,7 +247,7 @@
       ],
       "date_added": "2020-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 245624,
       "name": "Asef Gedan",
       "url": "https://open.spotify.com/track/67OWjdysv29UmW5H3L0HY8"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 221500,
       "name": "Ayonha",
       "url": "https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 374756,
       "name": "Gelty",
       "url": "https://open.spotify.com/track/0bRSz7QWA43loaosHgg5Sz"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 241133,
       "name": "Gonon El Desco",
       "url": "https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI"
@@ -623,7 +623,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 150866,
       "name": "I Love You Lina",
       "url": "https://open.spotify.com/track/4a2AUYDT9qsCKE69u4WVn4"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 170000,
       "name": "Mafatshi Leh",
       "url": "https://open.spotify.com/track/72icTQKZRXB47Q9r5t8rQO"
@@ -1125,6 +1125,24 @@
       "duration_ms": 391000,
       "name": "Taban Ahwak",
       "url": "https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh"
+    },
+    {
+      "album": {
+        "name": "Pebbles Vol. 15, International Mash up Pt. 1, Originals Artifacts from the Psychedelic Era",
+        "url": "https://open.spotify.com/album/76PGoa6W3AK6OxqMzKZCS2"
+      },
+      "artists": [
+        {
+          "name": "Dorid Laham",
+          "url": "https://open.spotify.com/artist/6xklVu4FHzqP5pIRZZs1cz"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170332,
+      "name": "Tamo Yamo",
+      "url": "https://open.spotify.com/track/5Vk095GKFUAlvzHzuRuFZT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 
 > A fun library of country hits to pass on to the next generation!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,544 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,549 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFzWmxRnRJH.md) - [plain]
 | 99 | [Angels Among Us \(Vocal Remix Version\)](https://open.spotify.com/track/1Br5k004GBBcfmQN4TZTwr) | [Alabama](https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC) | [Greatest Hits Vol\. III](https://open.spotify.com/album/1U7nSkYvppffXgcFGzqNS3) | 4:07 |
 | 100 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 
-Snapshot ID: `MTY0MTQyNzYyNCwwMDAwMDAwMDFkZWZiNjljNGM1NjNhNjRlMzdhYTg2NGZjYmM0MDBh`
+Snapshot ID: `MTY0MTQyOTY3MCwwMDAwMDAwMDFkZWZiNjljNGM1NjNhNjRlMzdhYTg2NGZjYmM0MDBh`

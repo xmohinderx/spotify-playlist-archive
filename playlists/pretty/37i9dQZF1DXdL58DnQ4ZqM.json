@@ -1,12 +1,12 @@
 {
   "description": "Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.",
   "name": "Lazy Chill Afternoon",
-  "num_followers": 169103,
+  "num_followers": 169107,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTQyODA3MCwwMDAwMDAwMDdiNjc3OTI2ZTJhNDhhNTlmYjgyOGM3ZWUyNTYzNjRm",
+  "snapshot_id": "MTY0MTQzMDEwNSwwMDAwMDAwMGRkMDI1NjM0YTQ0YWQ3OGQ2MTY0OTgyNzc5M2YzNTM0",
   "tracks": [
     {
       "added_at": "2021-08-10 13:19:01",
@@ -59,6 +59,70 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/7C36HoXyZNrXVqPYdKEanD"
+      },
+      "artists": [
+        {
+          "name": "John South",
+          "url": "https://open.spotify.com/artist/28fqMVnyMpJaJ6XGTTIW4Y"
+        }
+      ],
+      "duration_ms": 275990,
+      "name": "The Line",
+      "url": "https://open.spotify.com/track/5UnOKjyij8JKjVCmmeY5kq"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej"
+      },
+      "artists": [
+        {
+          "name": "Melwin Z",
+          "url": "https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD"
+        }
+      ],
+      "duration_ms": 234782,
+      "name": "Lifeline - Chill Out Mix",
+      "url": "https://open.spotify.com/track/2srEuJYCkgAg4RbLlFI7dl"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Hayato Falls",
+        "url": "https://open.spotify.com/album/0qFmAWPxibr6Yku14lHN0n"
+      },
+      "artists": [
+        {
+          "name": "Soul Secret",
+          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
+        }
+      ],
+      "duration_ms": 243428,
+      "name": "Periscope",
+      "url": "https://open.spotify.com/track/64NnO4fSOVP9YHEroWENeV"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Late Night Lovers (Best Of 2014-2016)",
+        "url": "https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm"
+      },
+      "artists": [
+        {
+          "name": "Gary Stand",
+          "url": "https://open.spotify.com/artist/2k0hsb0Ea3GZBquMpfeEIw"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "American Beauty",
+      "url": "https://open.spotify.com/track/2E9L2pqUerLhlxxe8P5z8m"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
         "name": "Velvet Sky",
         "url": "https://open.spotify.com/album/1LCn22ga5CfxP2s4VDoRtD"
       },
@@ -75,18 +139,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/7C36HoXyZNrXVqPYdKEanD"
+        "name": "Oh La La",
+        "url": "https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc"
       },
       "artists": [
         {
-          "name": "John South",
-          "url": "https://open.spotify.com/artist/28fqMVnyMpJaJ6XGTTIW4Y"
+          "name": "Red Hot Viper",
+          "url": "https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk"
         }
       ],
-      "duration_ms": 275990,
-      "name": "The Line",
-      "url": "https://open.spotify.com/track/5UnOKjyij8JKjVCmmeY5kq"
+      "duration_ms": 194400,
+      "name": "Oh La La",
+      "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -111,38 +175,6 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/60BHb0t1LKlwo168CcTKej"
-      },
-      "artists": [
-        {
-          "name": "Melwin Z",
-          "url": "https://open.spotify.com/artist/1bdJoMs9DTrrf9K2BZBhTD"
-        }
-      ],
-      "duration_ms": 234782,
-      "name": "Lifeline - Chill Out Mix",
-      "url": "https://open.spotify.com/track/2srEuJYCkgAg4RbLlFI7dl"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sunset Thrill",
-        "url": "https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT"
-      },
-      "artists": [
-        {
-          "name": "Sparkle",
-          "url": "https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN"
-        }
-      ],
-      "duration_ms": 240729,
-      "name": "In motion",
-      "url": "https://open.spotify.com/track/5zLSvKBXzxrkPXbjWa1c52"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
         "name": "How Long Can I Wait For You",
         "url": "https://open.spotify.com/album/5zdnYXHTvHmZvu83JWxcA2"
       },
@@ -155,22 +187,6 @@
       "duration_ms": 264000,
       "name": "How Long Can I Wait For You",
       "url": "https://open.spotify.com/track/4F8VrvlBuG3pN2YNxyZIEk"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Summer Dreams",
-        "url": "https://open.spotify.com/album/7kGk6waPUFRjBwO0dx5yjq"
-      },
-      "artists": [
-        {
-          "name": "Michael E",
-          "url": "https://open.spotify.com/artist/0n9KXYc3koLNmEc1CcK28R"
-        }
-      ],
-      "duration_ms": 343813,
-      "name": "Your Smile",
-      "url": "https://open.spotify.com/track/3UTzf4q96kTjXPWgqy06xi"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -191,18 +207,34 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Late Night Lovers (Best Of 2014-2016)",
-        "url": "https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm"
+        "name": "Sunset Thrill",
+        "url": "https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT"
       },
       "artists": [
         {
-          "name": "Gary Stand",
-          "url": "https://open.spotify.com/artist/2k0hsb0Ea3GZBquMpfeEIw"
+          "name": "Sparkle",
+          "url": "https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN"
         }
       ],
-      "duration_ms": 231933,
-      "name": "American Beauty",
-      "url": "https://open.spotify.com/track/2E9L2pqUerLhlxxe8P5z8m"
+      "duration_ms": 240729,
+      "name": "In motion",
+      "url": "https://open.spotify.com/track/5zLSvKBXzxrkPXbjWa1c52"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Flight (Vol 1)",
+        "url": "https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX"
+      },
+      "artists": [
+        {
+          "name": "Flight Club",
+          "url": "https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D"
+        }
+      ],
+      "duration_ms": 230474,
+      "name": "Rise Main",
+      "url": "https://open.spotify.com/track/0XTgHWAYCk9F1YAIzcHlgB"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -223,50 +255,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Oh La La",
-        "url": "https://open.spotify.com/album/4BNRC7NznGNmAQIa11ZKCc"
+        "name": "Beautiful Being",
+        "url": "https://open.spotify.com/album/1rYOp8CWjHtFmDUUXa2bK6"
       },
       "artists": [
         {
-          "name": "Red Hot Viper",
-          "url": "https://open.spotify.com/artist/4gFtwOVP0ozdW5asXUidtk"
+          "name": "Inner Voice",
+          "url": "https://open.spotify.com/artist/1xxf7RoHkZ4k7d6IGjrniA"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Oh La La",
-      "url": "https://open.spotify.com/track/0uFCDmv6WJdjcEul1nAAQ9"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Hayato Falls",
-        "url": "https://open.spotify.com/album/0qFmAWPxibr6Yku14lHN0n"
-      },
-      "artists": [
-        {
-          "name": "Soul Secret",
-          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
-        }
-      ],
-      "duration_ms": 243428,
-      "name": "Periscope",
-      "url": "https://open.spotify.com/track/64NnO4fSOVP9YHEroWENeV"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sunday Relax (Vol 2)",
-        "url": "https://open.spotify.com/album/0TLHlRfDRnhKSJmVT61hoo"
-      },
-      "artists": [
-        {
-          "name": "Orbital Plane",
-          "url": "https://open.spotify.com/artist/0xa7oeFmj8xllwRkLVjEED"
-        }
-      ],
-      "duration_ms": 271322,
-      "name": "I Am Love",
-      "url": "https://open.spotify.com/track/7LNcmUYZ5uUejt1dxcVj3p"
+      "duration_ms": 278048,
+      "name": "Beyond The Mind",
+      "url": "https://open.spotify.com/track/6UmunBFFUoJ4BJ791Uh8jO"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -287,8 +287,24 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Dreamer Lounge",
-        "url": "https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN"
+        "name": "Dark Lights",
+        "url": "https://open.spotify.com/album/76bTJuH3WByeFftVYBhCJu"
+      },
+      "artists": [
+        {
+          "name": "Gina Miranda",
+          "url": "https://open.spotify.com/artist/05poPo0WUc0sSmi5SFlxtl"
+        }
+      ],
+      "duration_ms": 244401,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/7k5vGYshwMZQy2jrZoWnDO"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
       },
       "artists": [
         {
@@ -296,9 +312,57 @@
           "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
         }
       ],
-      "duration_ms": 283917,
-      "name": "You Are The Sun",
-      "url": "https://open.spotify.com/track/0TKh0LH7lusCzXROSjXkKv"
+      "duration_ms": 253090,
+      "name": "Atlas",
+      "url": "https://open.spotify.com/track/1JE4xlyoPIy0qWV3pE2Cfy"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Sunday Relax (Vol 2)",
+        "url": "https://open.spotify.com/album/0TLHlRfDRnhKSJmVT61hoo"
+      },
+      "artists": [
+        {
+          "name": "Orbital Plane",
+          "url": "https://open.spotify.com/artist/0xa7oeFmj8xllwRkLVjEED"
+        }
+      ],
+      "duration_ms": 271322,
+      "name": "I Am Love",
+      "url": "https://open.spotify.com/track/7LNcmUYZ5uUejt1dxcVj3p"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Summer Dreams",
+        "url": "https://open.spotify.com/album/7kGk6waPUFRjBwO0dx5yjq"
+      },
+      "artists": [
+        {
+          "name": "Michael E",
+          "url": "https://open.spotify.com/artist/0n9KXYc3koLNmEc1CcK28R"
+        }
+      ],
+      "duration_ms": 343813,
+      "name": "Your Smile",
+      "url": "https://open.spotify.com/track/3UTzf4q96kTjXPWgqy06xi"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Born To Be Yours",
+        "url": "https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "duration_ms": 264288,
+      "name": "Born To Be Yours - Chill Out Version",
+      "url": "https://open.spotify.com/track/5n5DrY0ZIYiQ37sYnqbKPF"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -319,18 +383,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Coffeehouse Lounge Best Of 2014-2016",
-        "url": "https://open.spotify.com/album/2MoD7geq9dkPM7qW00hnLA"
+        "name": "La Lumi\u00e8re",
+        "url": "https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej"
       },
       "artists": [
         {
-          "name": "Capricorn",
-          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
+          "name": "Lounge De Reveur",
+          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
         }
       ],
-      "duration_ms": 231933,
-      "name": "Moody Caf\u00e9",
-      "url": "https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M"
+      "duration_ms": 222068,
+      "name": "La Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/4ZIhBYi1nYMn5GDritycsU"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -347,54 +411,6 @@
       "duration_ms": 220733,
       "name": "Lets Chill Tonight",
       "url": "https://open.spotify.com/track/5GC8kD0RnHtVuQf2cqGljU"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "So Far Away, But Still At Home",
-        "url": "https://open.spotify.com/album/7gGiVu6kqGTNr8Fprm34sk"
-      },
-      "artists": [
-        {
-          "name": "Soul Secret",
-          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
-        }
-      ],
-      "duration_ms": 425026,
-      "name": "Sweet Life",
-      "url": "https://open.spotify.com/track/2V2KniBSfVfrmXGqzPvHrh"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Dolphin Dreams",
-        "url": "https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5"
-      },
-      "artists": [
-        {
-          "name": "Deep Divers",
-          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Dessous la mere",
-      "url": "https://open.spotify.com/track/5hKWeX4AmRMCNNBKxrD2AF"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Beautiful Being",
-        "url": "https://open.spotify.com/album/1rYOp8CWjHtFmDUUXa2bK6"
-      },
-      "artists": [
-        {
-          "name": "Inner Voice",
-          "url": "https://open.spotify.com/artist/1xxf7RoHkZ4k7d6IGjrniA"
-        }
-      ],
-      "duration_ms": 278048,
-      "name": "Beyond The Mind",
-      "url": "https://open.spotify.com/track/6UmunBFFUoJ4BJ791Uh8jO"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -419,50 +435,114 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Dark Lights",
-        "url": "https://open.spotify.com/album/76bTJuH3WByeFftVYBhCJu"
+        "name": "I Miss You",
+        "url": "https://open.spotify.com/album/0i12x4fMK3lcsGbBZk99m6"
       },
       "artists": [
         {
-          "name": "Gina Miranda",
-          "url": "https://open.spotify.com/artist/05poPo0WUc0sSmi5SFlxtl"
+          "name": "Pablo Monte",
+          "url": "https://open.spotify.com/artist/7u5A0iJezviwan3g2BNQf8"
         }
       ],
-      "duration_ms": 244401,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/7k5vGYshwMZQy2jrZoWnDO"
+      "duration_ms": 236892,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/6FFAdW8aamHXXHcl7dmiUt"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Born To Be Yours",
-        "url": "https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm"
+        "name": "So Far Away, But Still At Home",
+        "url": "https://open.spotify.com/album/7gGiVu6kqGTNr8Fprm34sk"
       },
       "artists": [
         {
-          "name": "Sweetfire",
-          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+          "name": "Soul Secret",
+          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
         }
       ],
-      "duration_ms": 264288,
-      "name": "Born To Be Yours - Chill Out Version",
-      "url": "https://open.spotify.com/track/5n5DrY0ZIYiQ37sYnqbKPF"
+      "duration_ms": 425026,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/2V2KniBSfVfrmXGqzPvHrh"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Rock Solid",
-        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+        "name": "Coffeehouse Lounge Best Of 2014-2016",
+        "url": "https://open.spotify.com/album/2MoD7geq9dkPM7qW00hnLA"
       },
       "artists": [
         {
-          "name": "Estelle Blanca",
-          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
         }
       ],
-      "duration_ms": 253090,
-      "name": "Atlas",
-      "url": "https://open.spotify.com/track/1JE4xlyoPIy0qWV3pE2Cfy"
+      "duration_ms": 231933,
+      "name": "Moody Caf\u00e9",
+      "url": "https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Dolphin Dreams",
+        "url": "https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Dessous la mere",
+      "url": "https://open.spotify.com/track/5hKWeX4AmRMCNNBKxrD2AF"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Sunset Thrill",
+        "url": "https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT"
+      },
+      "artists": [
+        {
+          "name": "Sparkle",
+          "url": "https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN"
+        }
+      ],
+      "duration_ms": 242307,
+      "name": "Sparkle",
+      "url": "https://open.spotify.com/track/5BHxtOBsxwMN2hhxXRiYBI"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Once In A dream",
+        "url": "https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "duration_ms": 193310,
+      "name": "Stay Lo Get Go - Chill Original",
+      "url": "https://open.spotify.com/track/5JVGYVANcbXaf1AThIYlQM"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "All Passing By",
+        "url": "https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu"
+      },
+      "artists": [
+        {
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
+        }
+      ],
+      "duration_ms": 353354,
+      "name": "White Rim Road",
+      "url": "https://open.spotify.com/track/2O8QBB2QBXgIEgdVmUyT1N"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -487,34 +567,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Flight (Vol 1)",
-        "url": "https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX"
+        "name": "The Ibiza Collection 'Cafe Del Sol'",
+        "url": "https://open.spotify.com/album/6DVV5DK8Ea4tcoGVo2qHs4"
       },
       "artists": [
         {
-          "name": "Flight Club",
-          "url": "https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D"
+          "name": "Cafe Del Sol",
+          "url": "https://open.spotify.com/artist/03YpEReI6FM5Mrdp2IPUt6"
         }
       ],
-      "duration_ms": 230474,
-      "name": "Rise Main",
-      "url": "https://open.spotify.com/track/0XTgHWAYCk9F1YAIzcHlgB"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Godfather",
-        "url": "https://open.spotify.com/album/7h47d4ol6NcLd413WIssOt"
-      },
-      "artists": [
-        {
-          "name": "Luc Serra",
-          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Romeo & Juliette",
-      "url": "https://open.spotify.com/track/2FDMN3in8KIQJi0avzdPFd"
+      "duration_ms": 281360,
+      "name": "Mallorca Moods",
+      "url": "https://open.spotify.com/track/1gurDGg0Tto5KLFfBZj9hV"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -535,134 +599,6 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/1xZMoyHt8QREDrrmwMIxLO"
-      },
-      "artists": [
-        {
-          "name": "Atomi",
-          "url": "https://open.spotify.com/artist/6QMdCMfvuhc7FgXBn2vynI"
-        }
-      ],
-      "duration_ms": 248571,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/0GFVykwGpZg27JkqpOvM9z"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "La Lumi\u00e8re",
-        "url": "https://open.spotify.com/album/2raWNBdYLR0h0mXheWX0ej"
-      },
-      "artists": [
-        {
-          "name": "Lounge De Reveur",
-          "url": "https://open.spotify.com/artist/1dkoBt6NI3jMVTZfguYVO2"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "La Lumi\u00e8re",
-      "url": "https://open.spotify.com/track/4ZIhBYi1nYMn5GDritycsU"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Keep On Shining, Keep On Moving",
-        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
-      },
-      "artists": [
-        {
-          "name": "Ears Of Light",
-          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
-        }
-      ],
-      "duration_ms": 184480,
-      "name": "When We Used To Know - Chill Mix",
-      "url": "https://open.spotify.com/track/2RbfbOY1a1NutRFZTrwK6u"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sunset Thrill",
-        "url": "https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT"
-      },
-      "artists": [
-        {
-          "name": "Sparkle",
-          "url": "https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN"
-        }
-      ],
-      "duration_ms": 242307,
-      "name": "Sparkle",
-      "url": "https://open.spotify.com/track/5BHxtOBsxwMN2hhxXRiYBI"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "The Ibiza Collection 'Cafe Del Sol'",
-        "url": "https://open.spotify.com/album/6DVV5DK8Ea4tcoGVo2qHs4"
-      },
-      "artists": [
-        {
-          "name": "Cafe Del Sol",
-          "url": "https://open.spotify.com/artist/03YpEReI6FM5Mrdp2IPUt6"
-        }
-      ],
-      "duration_ms": 281360,
-      "name": "Mallorca Moods",
-      "url": "https://open.spotify.com/track/1gurDGg0Tto5KLFfBZj9hV"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Dreamer Lounge",
-        "url": "https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN"
-      },
-      "artists": [
-        {
-          "name": "Estelle Blanca",
-          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
-        }
-      ],
-      "duration_ms": 222068,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/0djoygyoZQgdHLrHuNrvfP"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sunset Sounds",
-        "url": "https://open.spotify.com/album/5X8f43K30RXxQSHson7met"
-      },
-      "artists": [
-        {
-          "name": "Tiki Lounge",
-          "url": "https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD"
-        }
-      ],
-      "duration_ms": 313636,
-      "name": "Sound of Atlantis",
-      "url": "https://open.spotify.com/track/5mkmhvQxQEfZkUsPDYn9fG"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Apps Blues",
-        "url": "https://open.spotify.com/album/5MLyCgYSPqz8kyQdwfYA71"
-      },
-      "artists": [
-        {
-          "name": "Nippon Nights",
-          "url": "https://open.spotify.com/artist/4AXl0l47abG5iXfQcrxQrY"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Apps Blues",
-      "url": "https://open.spotify.com/track/6R2uB1qjMmsak7jWdJ5Vq0"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
         "name": "Dolphin Dreams",
         "url": "https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5"
       },
@@ -679,34 +615,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "N.Y. Atmosphere",
-        "url": "https://open.spotify.com/album/7GzZ1PrE5t47Nkm05EsRwQ"
+        "name": "Godfather",
+        "url": "https://open.spotify.com/album/7h47d4ol6NcLd413WIssOt"
       },
       "artists": [
         {
-          "name": "N.Y. Atmosphere",
-          "url": "https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb"
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
         }
       ],
-      "duration_ms": 250416,
-      "name": "Times Square 6 AM",
-      "url": "https://open.spotify.com/track/0uDSrKJQSzdaYFDkh502yE"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/3uLU4PTGNXwZROx8A9RAvu"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hathaway",
-          "url": "https://open.spotify.com/artist/22yx7oCj4eUJpDEPl06hXD"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Sorry - Chill Out Version",
-      "url": "https://open.spotify.com/track/3v4ld1cFFpTCKDttI3Fro4"
+      "duration_ms": 201000,
+      "name": "Romeo & Juliette",
+      "url": "https://open.spotify.com/track/2FDMN3in8KIQJi0avzdPFd"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -727,162 +647,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Chillout Bar Lounge 2018",
-        "url": "https://open.spotify.com/album/5aWawUi1KRsV0dfdpL7dW0"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/3uLU4PTGNXwZROx8A9RAvu"
       },
       "artists": [
         {
-          "name": "Cedric Mercute",
-          "url": "https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk"
+          "name": "Anthony Hathaway",
+          "url": "https://open.spotify.com/artist/22yx7oCj4eUJpDEPl06hXD"
         }
       ],
-      "duration_ms": 168157,
-      "name": "Le Cadeau",
-      "url": "https://open.spotify.com/track/3FtvZpfxzP5ZHp3qcTMWK7"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sunset Thrill",
-        "url": "https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT"
-      },
-      "artists": [
-        {
-          "name": "Sparkle",
-          "url": "https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN"
-        }
-      ],
-      "duration_ms": 239997,
-      "name": "Face the dive",
-      "url": "https://open.spotify.com/track/6YZnJKi3jLeG78OVEyGgxv"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2AY0kNs5q2d9hiTO27Go3Z"
-      },
-      "artists": [
-        {
-          "name": "Upstairs2",
-          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
-        }
-      ],
-      "duration_ms": 242045,
-      "name": "Lonely Without You - Lounge Mix",
-      "url": "https://open.spotify.com/track/35cbjoB29mxVsLGJ72M24E"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Sunset Sounds",
-        "url": "https://open.spotify.com/album/5X8f43K30RXxQSHson7met"
-      },
-      "artists": [
-        {
-          "name": "Tiki Lounge",
-          "url": "https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD"
-        }
-      ],
-      "duration_ms": 244804,
-      "name": "Peaceful Sunset Sounds",
-      "url": "https://open.spotify.com/track/5JhX0HXEPEBpMlDajptYH9"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Dreamer Lounge",
-        "url": "https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN"
-      },
-      "artists": [
-        {
-          "name": "Estelle Blanca",
-          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
-        }
-      ],
-      "duration_ms": 300689,
-      "name": "Heaven Is All Around",
-      "url": "https://open.spotify.com/track/5HTnCJao55OjbrO2lPIOAM"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "All Passing By",
-        "url": "https://open.spotify.com/album/7KFbJVz5mRHVRhUeP9ABAu"
-      },
-      "artists": [
-        {
-          "name": "Floating Lights",
-          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
-        }
-      ],
-      "duration_ms": 353354,
-      "name": "White Rim Road",
-      "url": "https://open.spotify.com/track/2O8QBB2QBXgIEgdVmUyT1N"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Behind the surface",
-        "url": "https://open.spotify.com/album/69BbzIJSkD33NIildMqZ51"
-      },
-      "artists": [
-        {
-          "name": "Crickets",
-          "url": "https://open.spotify.com/artist/1hFcRBAzklriMv95BvgUW5"
-        }
-      ],
-      "duration_ms": 243055,
-      "name": "Crickets",
-      "url": "https://open.spotify.com/track/7CqucSHBqZxiwflzXahNzX"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Lemon Squeeze",
-        "url": "https://open.spotify.com/album/6eXXUqP1foUYjU3nwRJMw1"
-      },
-      "artists": [
-        {
-          "name": "Gridlocks",
-          "url": "https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Lemon Squeeze",
-      "url": "https://open.spotify.com/track/6FU1c4BwszLZVOxeRHUJdw"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Endless Love",
-        "url": "https://open.spotify.com/album/5hubGJvMCUiS47LS3iCkyD"
-      },
-      "artists": [
-        {
-          "name": "Willgoth Oakenfold",
-          "url": "https://open.spotify.com/artist/2vO13ONMqZR7ij3pH1MCBg"
-        }
-      ],
-      "duration_ms": 268235,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/67kUPwZHMMJiuHE0lC9B0B"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Keep On Shining, Keep On Moving",
-        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
-      },
-      "artists": [
-        {
-          "name": "Ears Of Light",
-          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
-        }
-      ],
-      "duration_ms": 179108,
-      "name": "Keep On Shining, Keep On Moving - Ambient Mix",
-      "url": "https://open.spotify.com/track/3Tvu1UD14uCvRwBkEnubdl"
+      "duration_ms": 228000,
+      "name": "Sorry - Chill Out Version",
+      "url": "https://open.spotify.com/track/3v4ld1cFFpTCKDttI3Fro4"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -903,6 +679,166 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
+        "name": "Apps Blues",
+        "url": "https://open.spotify.com/album/5MLyCgYSPqz8kyQdwfYA71"
+      },
+      "artists": [
+        {
+          "name": "Nippon Nights",
+          "url": "https://open.spotify.com/artist/4AXl0l47abG5iXfQcrxQrY"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Apps Blues",
+      "url": "https://open.spotify.com/track/6R2uB1qjMmsak7jWdJ5Vq0"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Dreamer Lounge",
+        "url": "https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "duration_ms": 283917,
+      "name": "You Are The Sun",
+      "url": "https://open.spotify.com/track/0TKh0LH7lusCzXROSjXkKv"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Don't Ever Wonder",
+        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
+      },
+      "artists": [
+        {
+          "name": "Linae",
+          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
+        }
+      ],
+      "duration_ms": 147367,
+      "name": "Don't Ever Wonder",
+      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Sunset Thrill",
+        "url": "https://open.spotify.com/album/4UZwqu9XzugDZSxG6YT4HT"
+      },
+      "artists": [
+        {
+          "name": "Sparkle",
+          "url": "https://open.spotify.com/artist/4losyGNndCEh5xO3LUV1QN"
+        }
+      ],
+      "duration_ms": 239997,
+      "name": "Face the dive",
+      "url": "https://open.spotify.com/track/6YZnJKi3jLeG78OVEyGgxv"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Sunset Sounds",
+        "url": "https://open.spotify.com/album/5X8f43K30RXxQSHson7met"
+      },
+      "artists": [
+        {
+          "name": "Tiki Lounge",
+          "url": "https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD"
+        }
+      ],
+      "duration_ms": 313636,
+      "name": "Sound of Atlantis",
+      "url": "https://open.spotify.com/track/5mkmhvQxQEfZkUsPDYn9fG"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/1xZMoyHt8QREDrrmwMIxLO"
+      },
+      "artists": [
+        {
+          "name": "Atomi",
+          "url": "https://open.spotify.com/artist/6QMdCMfvuhc7FgXBn2vynI"
+        }
+      ],
+      "duration_ms": 248571,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/0GFVykwGpZg27JkqpOvM9z"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "duration_ms": 184480,
+      "name": "When We Used To Know - Chill Mix",
+      "url": "https://open.spotify.com/track/2RbfbOY1a1NutRFZTrwK6u"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "N.Y. Atmosphere",
+        "url": "https://open.spotify.com/album/7GzZ1PrE5t47Nkm05EsRwQ"
+      },
+      "artists": [
+        {
+          "name": "N.Y. Atmosphere",
+          "url": "https://open.spotify.com/artist/46gZdK1zqsEEbwUtuXKmUb"
+        }
+      ],
+      "duration_ms": 250416,
+      "name": "Times Square 6 AM",
+      "url": "https://open.spotify.com/track/0uDSrKJQSzdaYFDkh502yE"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Bilitis",
+        "url": "https://open.spotify.com/album/3dBvTEs2VjD0qdIN3CV23S"
+      },
+      "artists": [
+        {
+          "name": "Luc Serra",
+          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
+        }
+      ],
+      "duration_ms": 263041,
+      "name": "Bilitis",
+      "url": "https://open.spotify.com/track/2oGF6uYbJedBfVFJlbOxaY"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Dreamer Lounge",
+        "url": "https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "duration_ms": 222068,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/0djoygyoZQgdHLrHuNrvfP"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
         "name": "Sunbed Chill Out (Best Of 2014-2016)",
         "url": "https://open.spotify.com/album/5i27Q6xaT7YyAoowS3IP6R"
       },
@@ -919,6 +855,182 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
+        "name": "Eternal Winds",
+        "url": "https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz"
+      },
+      "artists": [
+        {
+          "name": "Falling Flowers",
+          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/0B2AnHHSVlWSt2TWKjEV39"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Sunset Sounds",
+        "url": "https://open.spotify.com/album/5X8f43K30RXxQSHson7met"
+      },
+      "artists": [
+        {
+          "name": "Tiki Lounge",
+          "url": "https://open.spotify.com/artist/5lX5xzkPlfs4Z2MhkmoCoD"
+        }
+      ],
+      "duration_ms": 244804,
+      "name": "Peaceful Sunset Sounds",
+      "url": "https://open.spotify.com/track/5JhX0HXEPEBpMlDajptYH9"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Chillout Bar Lounge 2018",
+        "url": "https://open.spotify.com/album/5aWawUi1KRsV0dfdpL7dW0"
+      },
+      "artists": [
+        {
+          "name": "Cedric Mercute",
+          "url": "https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk"
+        }
+      ],
+      "duration_ms": 168157,
+      "name": "Le Cadeau",
+      "url": "https://open.spotify.com/track/3FtvZpfxzP5ZHp3qcTMWK7"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Springflower",
+        "url": "https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj"
+      },
+      "artists": [
+        {
+          "name": "NkisOk",
+          "url": "https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Drops Of Dreams",
+      "url": "https://open.spotify.com/track/1JNb8r32zZkhfoLPzDWfYM"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/1KdwEWy18bjwddxUdMpiiC"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "duration_ms": 236166,
+      "name": "Life - Chill Version",
+      "url": "https://open.spotify.com/track/6PLcxhyBy8niQkWB8tVPXq"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Lemon Squeeze",
+        "url": "https://open.spotify.com/album/6eXXUqP1foUYjU3nwRJMw1"
+      },
+      "artists": [
+        {
+          "name": "Gridlocks",
+          "url": "https://open.spotify.com/artist/0UdtexVQoBH5XHUwGEkCZO"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Lemon Squeeze",
+      "url": "https://open.spotify.com/track/6FU1c4BwszLZVOxeRHUJdw"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Dreamer Lounge",
+        "url": "https://open.spotify.com/album/2flZgG4ruzyz0ZjuvKeZjN"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "duration_ms": 300689,
+      "name": "Heaven Is All Around",
+      "url": "https://open.spotify.com/track/5HTnCJao55OjbrO2lPIOAM"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3wfBURWNwo0txpUwzRtE32"
+      },
+      "artists": [
+        {
+          "name": "Blue Sevilla",
+          "url": "https://open.spotify.com/artist/7edQj0emYDJjKATPOlzAAQ"
+        }
+      ],
+      "duration_ms": 286948,
+      "name": "HOME - Lounge Mix",
+      "url": "https://open.spotify.com/track/7CkXUuBt4na2C4dSdAU0T3"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Send a Wish",
+        "url": "https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS"
+      },
+      "artists": [
+        {
+          "name": "Purple Yard",
+          "url": "https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Send a Wish",
+      "url": "https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Dolphin Dreams",
+        "url": "https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5"
+      },
+      "artists": [
+        {
+          "name": "Deep Divers",
+          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Dolphin Diver",
+      "url": "https://open.spotify.com/track/30nFANb7ZagzcrJ0YUVmNG"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Keep On Shining, Keep On Moving",
+        "url": "https://open.spotify.com/album/1eLINuIs7KXUN9hR681Ujl"
+      },
+      "artists": [
+        {
+          "name": "Ears Of Light",
+          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
+        }
+      ],
+      "duration_ms": 179108,
+      "name": "Keep On Shining, Keep On Moving - Ambient Mix",
+      "url": "https://open.spotify.com/track/3Tvu1UD14uCvRwBkEnubdl"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
         "name": "Sunset Sounds",
         "url": "https://open.spotify.com/album/5X8f43K30RXxQSHson7met"
       },
@@ -931,6 +1043,54 @@
       "duration_ms": 301968,
       "name": "Tiki Lounge",
       "url": "https://open.spotify.com/track/5UpIKnqCpjohHbYKrRRIko"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Vacation",
+        "url": "https://open.spotify.com/album/3y03NPSfwXczpH777zHcI0"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 148236,
+      "name": "St. Petersburg",
+      "url": "https://open.spotify.com/track/32Tf9tvthRjnSeIdkiCvIt"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Endless Love",
+        "url": "https://open.spotify.com/album/5hubGJvMCUiS47LS3iCkyD"
+      },
+      "artists": [
+        {
+          "name": "Willgoth Oakenfold",
+          "url": "https://open.spotify.com/artist/2vO13ONMqZR7ij3pH1MCBg"
+        }
+      ],
+      "duration_ms": 268235,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/67kUPwZHMMJiuHE0lC9B0B"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2AY0kNs5q2d9hiTO27Go3Z"
+      },
+      "artists": [
+        {
+          "name": "Upstairs2",
+          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
+        }
+      ],
+      "duration_ms": 242045,
+      "name": "Lonely Without You - Lounge Mix",
+      "url": "https://open.spotify.com/track/35cbjoB29mxVsLGJ72M24E"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -967,178 +1127,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa"
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1RpTpCr3JWULDnaM9SLRW7"
       },
       "artists": [
         {
-          "name": "Blue Puppy",
-          "url": "https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS"
+          "name": "Floating Lights",
+          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
         }
       ],
-      "duration_ms": 202290,
-      "name": "You - Spa/Relax",
-      "url": "https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "I Miss You",
-        "url": "https://open.spotify.com/album/0i12x4fMK3lcsGbBZk99m6"
-      },
-      "artists": [
-        {
-          "name": "Pablo Monte",
-          "url": "https://open.spotify.com/artist/7u5A0iJezviwan3g2BNQf8"
-        }
-      ],
-      "duration_ms": 236892,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/6FFAdW8aamHXXHcl7dmiUt"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Send a Wish",
-        "url": "https://open.spotify.com/album/3hAWKSZ4pAfc6b9da47UrS"
-      },
-      "artists": [
-        {
-          "name": "Purple Yard",
-          "url": "https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Send a Wish",
-      "url": "https://open.spotify.com/track/4wbEVRqsPLbvuFMvJ35quo"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Bilitis",
-        "url": "https://open.spotify.com/album/3dBvTEs2VjD0qdIN3CV23S"
-      },
-      "artists": [
-        {
-          "name": "Luc Serra",
-          "url": "https://open.spotify.com/artist/0AnYmxtWHvxxbaOXGyiyW7"
-        }
-      ],
-      "duration_ms": 263041,
-      "name": "Bilitis",
-      "url": "https://open.spotify.com/track/2oGF6uYbJedBfVFJlbOxaY"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Once In A dream",
-        "url": "https://open.spotify.com/album/4z830KeZlnQ04eNYxv4Pai"
-      },
-      "artists": [
-        {
-          "name": "Ears Of Light",
-          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
-        }
-      ],
-      "duration_ms": 193310,
-      "name": "Stay Lo Get Go - Chill Original",
-      "url": "https://open.spotify.com/track/5JVGYVANcbXaf1AThIYlQM"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Dolphin Dreams",
-        "url": "https://open.spotify.com/album/0SPZhWzHjidjBSVzywdhp5"
-      },
-      "artists": [
-        {
-          "name": "Deep Divers",
-          "url": "https://open.spotify.com/artist/7tGdyfb73OP7XB3hZNLUZL"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "Dolphin Diver",
-      "url": "https://open.spotify.com/track/30nFANb7ZagzcrJ0YUVmNG"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "VERTIGO",
-        "url": "https://open.spotify.com/album/2uEL0rKaaX5X9G8qfQGL48"
-      },
-      "artists": [
-        {
-          "name": "Siam Roof",
-          "url": "https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8"
-        }
-      ],
-      "duration_ms": 283793,
-      "name": "Skydiving",
-      "url": "https://open.spotify.com/track/61avTFNU8w8W6I358eMhUl"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Don't Ever Wonder",
-        "url": "https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG"
-      },
-      "artists": [
-        {
-          "name": "Linae",
-          "url": "https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4"
-        }
-      ],
-      "duration_ms": 147367,
-      "name": "Don't Ever Wonder",
-      "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Winter in F Minor",
-        "url": "https://open.spotify.com/album/386WFPpPokfSmfpCSQx9sM"
-      },
-      "artists": [
-        {
-          "name": "The Upstairs",
-          "url": "https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC"
-        }
-      ],
-      "duration_ms": 299220,
-      "name": "Moments Of A Dream",
-      "url": "https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Back to Pollensa",
-        "url": "https://open.spotify.com/album/66ibgZn4IBA6NbHrvqCdSu"
-      },
-      "artists": [
-        {
-          "name": "Goloise",
-          "url": "https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Back to Pollensa",
-      "url": "https://open.spotify.com/track/6SlPpTQIa7QQk0NYrA99xF"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/1KdwEWy18bjwddxUdMpiiC"
-      },
-      "artists": [
-        {
-          "name": "Ears Of Light",
-          "url": "https://open.spotify.com/artist/2VGdcTYjel5N4YcqanN9rc"
-        }
-      ],
-      "duration_ms": 236166,
-      "name": "Life - Chill Version",
-      "url": "https://open.spotify.com/track/6PLcxhyBy8niQkWB8tVPXq"
+      "duration_ms": 285970,
+      "name": "Riding the Atmosphere",
+      "url": "https://open.spotify.com/track/47iUF2syKZAqWOAd0LvNk9"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -1159,66 +1159,34 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Springflower",
-        "url": "https://open.spotify.com/album/36GCCVLhVQ4bUlrir0Ofsj"
+        "name": "Flight (Vol 1)",
+        "url": "https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX"
       },
       "artists": [
         {
-          "name": "NkisOk",
-          "url": "https://open.spotify.com/artist/5Ro0lkhTnZMLAexfXndLRo"
+          "name": "Flight Club",
+          "url": "https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Drops Of Dreams",
-      "url": "https://open.spotify.com/track/1JNb8r32zZkhfoLPzDWfYM"
+      "duration_ms": 198240,
+      "name": "Emotional World",
+      "url": "https://open.spotify.com/track/6PxDKdFNU3yaDY1gCLjtTj"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Eternal Winds",
-        "url": "https://open.spotify.com/album/0jphDssu1GRAfyucyp9WBz"
+        "name": "You",
+        "url": "https://open.spotify.com/album/2F5NGDaK7SiGJd0h5CfvPa"
       },
       "artists": [
         {
-          "name": "Falling Flowers",
-          "url": "https://open.spotify.com/artist/2pdcuLFCOk75ZlIeRqjOlY"
+          "name": "Blue Puppy",
+          "url": "https://open.spotify.com/artist/55dD7s4frhh7qVFCvBaoBS"
         }
       ],
-      "duration_ms": 232000,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/0B2AnHHSVlWSt2TWKjEV39"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1RpTpCr3JWULDnaM9SLRW7"
-      },
-      "artists": [
-        {
-          "name": "Floating Lights",
-          "url": "https://open.spotify.com/artist/6E3cU2m1CXkoGwYsPlTeuw"
-        }
-      ],
-      "duration_ms": 285970,
-      "name": "Riding the Atmosphere",
-      "url": "https://open.spotify.com/track/47iUF2syKZAqWOAd0LvNk9"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Vacation",
-        "url": "https://open.spotify.com/album/3y03NPSfwXczpH777zHcI0"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 148236,
-      "name": "St. Petersburg",
-      "url": "https://open.spotify.com/track/32Tf9tvthRjnSeIdkiCvIt"
+      "duration_ms": 202290,
+      "name": "You - Spa/Relax",
+      "url": "https://open.spotify.com/track/5gFDZ3ICCRjVq5gtcVXzkt"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -1239,22 +1207,6 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Flight (Vol 1)",
-        "url": "https://open.spotify.com/album/2mjZgEwsdtcrbpMLU9LsbX"
-      },
-      "artists": [
-        {
-          "name": "Flight Club",
-          "url": "https://open.spotify.com/artist/0iMxy0AdVvT9kbJzBJEQ0D"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "Emotional World",
-      "url": "https://open.spotify.com/track/6PxDKdFNU3yaDY1gCLjtTj"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
         "name": "Chillout Bar Lounge 2018",
         "url": "https://open.spotify.com/album/5aWawUi1KRsV0dfdpL7dW0"
       },
@@ -1271,34 +1223,82 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Xixx",
-        "url": "https://open.spotify.com/album/3vGSksiRTc53Jofh6ZsdiU"
+        "name": "Back to Pollensa",
+        "url": "https://open.spotify.com/album/66ibgZn4IBA6NbHrvqCdSu"
       },
       "artists": [
         {
-          "name": "Twelwe",
-          "url": "https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW"
+          "name": "Goloise",
+          "url": "https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX"
         }
       ],
-      "duration_ms": 202068,
-      "name": "Eyt",
-      "url": "https://open.spotify.com/track/7gOKwHMv6qvGGydjmA76c9"
+      "duration_ms": 209230,
+      "name": "Back to Pollensa",
+      "url": "https://open.spotify.com/track/6SlPpTQIa7QQk0NYrA99xF"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "MInd Travel",
-        "url": "https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3"
+        "name": "Hayato Falls",
+        "url": "https://open.spotify.com/album/0qFmAWPxibr6Yku14lHN0n"
       },
       "artists": [
         {
-          "name": "Upstairs2",
-          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
+          "name": "Soul Secret",
+          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Hayato Falls - Seaside Chill version",
+      "url": "https://open.spotify.com/track/5PQTZDH9N3gL7By0xG5UkH"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "VERTIGO",
+        "url": "https://open.spotify.com/album/2uEL0rKaaX5X9G8qfQGL48"
+      },
+      "artists": [
+        {
+          "name": "Siam Roof",
+          "url": "https://open.spotify.com/artist/0qs9nvLBAzsebSUfX4rLc8"
         }
       ],
       "duration_ms": 283793,
-      "name": "Magnetic Metafor",
-      "url": "https://open.spotify.com/track/1O33UTG2hy1iIrKvkh5NcA"
+      "name": "Skydiving",
+      "url": "https://open.spotify.com/track/61avTFNU8w8W6I358eMhUl"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Behind the surface",
+        "url": "https://open.spotify.com/album/69BbzIJSkD33NIildMqZ51"
+      },
+      "artists": [
+        {
+          "name": "Crickets",
+          "url": "https://open.spotify.com/artist/1hFcRBAzklriMv95BvgUW5"
+        }
+      ],
+      "duration_ms": 243055,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/7CqucSHBqZxiwflzXahNzX"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Late Night Lovers (Best Of 2014-2016)",
+        "url": "https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm"
+      },
+      "artists": [
+        {
+          "name": "Mourco U.",
+          "url": "https://open.spotify.com/artist/7pfi2Lbczm9JOzZw5ag5ho"
+        }
+      ],
+      "duration_ms": 353333,
+      "name": "Midnight Mood",
+      "url": "https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -1335,114 +1335,34 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/3wfBURWNwo0txpUwzRtE32"
+        "name": "Xixx",
+        "url": "https://open.spotify.com/album/3vGSksiRTc53Jofh6ZsdiU"
       },
       "artists": [
         {
-          "name": "Blue Sevilla",
-          "url": "https://open.spotify.com/artist/7edQj0emYDJjKATPOlzAAQ"
+          "name": "Twelwe",
+          "url": "https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW"
         }
       ],
-      "duration_ms": 286948,
-      "name": "HOME - Lounge Mix",
-      "url": "https://open.spotify.com/track/7CkXUuBt4na2C4dSdAU0T3"
+      "duration_ms": 202068,
+      "name": "Eyt",
+      "url": "https://open.spotify.com/track/7gOKwHMv6qvGGydjmA76c9"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Rock Solid",
-        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+        "name": "Winter in F Minor",
+        "url": "https://open.spotify.com/album/386WFPpPokfSmfpCSQx9sM"
       },
       "artists": [
         {
-          "name": "Estelle Blanca",
-          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+          "name": "The Upstairs",
+          "url": "https://open.spotify.com/artist/0bqFiEQI5oNIuvdk4l6PYC"
         }
       ],
-      "duration_ms": 233693,
-      "name": "Patio Groove",
-      "url": "https://open.spotify.com/track/5usVzIWJyYcwYeSjfPA7T2"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Hayato Falls",
-        "url": "https://open.spotify.com/album/0qFmAWPxibr6Yku14lHN0n"
-      },
-      "artists": [
-        {
-          "name": "Soul Secret",
-          "url": "https://open.spotify.com/artist/1lrRKgENSA3wSJ4VECfrC5"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Hayato Falls - Seaside Chill version",
-      "url": "https://open.spotify.com/track/5PQTZDH9N3gL7By0xG5UkH"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Fluffy Cloud Day",
-        "url": "https://open.spotify.com/album/2fqStX1nS8UvNmN8N3wkfq"
-      },
-      "artists": [
-        {
-          "name": "Sandra Kiim",
-          "url": "https://open.spotify.com/artist/5QYlzH1gCKkSYWQS7IoCnP"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Fluffy Cloudy Day - Lounge Mix",
-      "url": "https://open.spotify.com/track/2bD6il0TMcjouS5EaaqRbi"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "W: Dinner Chill",
-        "url": "https://open.spotify.com/album/5x8Cn4kfgxC3lv1FylWcLe"
-      },
-      "artists": [
-        {
-          "name": "Tripper",
-          "url": "https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo"
-        }
-      ],
-      "duration_ms": 316403,
-      "name": "AllyCator",
-      "url": "https://open.spotify.com/track/1KSEiT9O35eLhTUZ0JidHc"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Day",
-        "url": "https://open.spotify.com/album/4CzoTrhzUU5w2THIIndXCJ"
-      },
-      "artists": [
-        {
-          "name": "Hologram",
-          "url": "https://open.spotify.com/artist/2PPhHBy697OJbDKYAxmW6c"
-        }
-      ],
-      "duration_ms": 286820,
-      "name": "Solitary Fields",
-      "url": "https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Late Night Lovers (Best Of 2014-2016)",
-        "url": "https://open.spotify.com/album/4WiPSqYvOIVO9zdZdwyypm"
-      },
-      "artists": [
-        {
-          "name": "Mourco U.",
-          "url": "https://open.spotify.com/artist/7pfi2Lbczm9JOzZw5ag5ho"
-        }
-      ],
-      "duration_ms": 353333,
-      "name": "Midnight Mood",
-      "url": "https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z"
+      "duration_ms": 299220,
+      "name": "Moments Of A Dream",
+      "url": "https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -1463,6 +1383,54 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/4CzoTrhzUU5w2THIIndXCJ"
+      },
+      "artists": [
+        {
+          "name": "Day Orchestra",
+          "url": "https://open.spotify.com/artist/1rfL0bSLIuIDI8urmVXHxq"
+        }
+      ],
+      "duration_ms": 246900,
+      "name": "I've Changed Now",
+      "url": "https://open.spotify.com/track/1lcSo7PYNPlk8oPEXX7NW1"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Day",
+        "url": "https://open.spotify.com/album/4CzoTrhzUU5w2THIIndXCJ"
+      },
+      "artists": [
+        {
+          "name": "Hologram",
+          "url": "https://open.spotify.com/artist/2PPhHBy697OJbDKYAxmW6c"
+        }
+      ],
+      "duration_ms": 286820,
+      "name": "Solitary Fields",
+      "url": "https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Rock Solid",
+        "url": "https://open.spotify.com/album/6w6FOM134mucLTtt0HQeEI"
+      },
+      "artists": [
+        {
+          "name": "Estelle Blanca",
+          "url": "https://open.spotify.com/artist/1PoodiuzhtzA3XvvjO0uoM"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Patio Groove",
+      "url": "https://open.spotify.com/track/5usVzIWJyYcwYeSjfPA7T2"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
         "name": "Purple Heart",
         "url": "https://open.spotify.com/album/3eQzl4B4D6gS5gCkaEU4vL"
       },
@@ -1475,6 +1443,54 @@
       "duration_ms": 218333,
       "name": "Purple Heart",
       "url": "https://open.spotify.com/track/41hfLPgLlHIBPaiPw2q8tV"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Fluffy Cloud Day",
+        "url": "https://open.spotify.com/album/2fqStX1nS8UvNmN8N3wkfq"
+      },
+      "artists": [
+        {
+          "name": "Sandra Kiim",
+          "url": "https://open.spotify.com/artist/5QYlzH1gCKkSYWQS7IoCnP"
+        }
+      ],
+      "duration_ms": 206511,
+      "name": "Fluffy Cloudy Day - Lounge Mix",
+      "url": "https://open.spotify.com/track/2bD6il0TMcjouS5EaaqRbi"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "MInd Travel",
+        "url": "https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3"
+      },
+      "artists": [
+        {
+          "name": "Upstairs2",
+          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
+        }
+      ],
+      "duration_ms": 283793,
+      "name": "Magnetic Metafor",
+      "url": "https://open.spotify.com/track/1O33UTG2hy1iIrKvkh5NcA"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "W: Dinner Chill",
+        "url": "https://open.spotify.com/album/5x8Cn4kfgxC3lv1FylWcLe"
+      },
+      "artists": [
+        {
+          "name": "Tripper",
+          "url": "https://open.spotify.com/artist/4zgoEfX88yyhncZ3iWXFJo"
+        }
+      ],
+      "duration_ms": 316403,
+      "name": "AllyCator",
+      "url": "https://open.spotify.com/track/1KSEiT9O35eLhTUZ0JidHc"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -1495,70 +1511,18 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Loving You (One Last Time) [Lounge Version]",
-        "url": "https://open.spotify.com/album/4Rrn0ZojUyq1Mb6r7AqhBV"
+        "name": "Caf\u00e9 Dreamer",
+        "url": "https://open.spotify.com/album/34kp6iILHhggrkYCnXg9sd"
       },
       "artists": [
         {
-          "name": "Shade",
-          "url": "https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc"
-        },
-        {
-          "name": "Thyra",
-          "url": "https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G"
+          "name": "Chill Cole",
+          "url": "https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z"
         }
       ],
-      "duration_ms": 214629,
-      "name": "Loving You (One Last Time) - Lounge Version",
-      "url": "https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Deep Inside",
-        "url": "https://open.spotify.com/album/4Xs2tPmufOdMJVungSA6bE"
-      },
-      "artists": [
-        {
-          "name": "Drama",
-          "url": "https://open.spotify.com/artist/7L0g7U9E5yf6yZeTNGhVOv"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Deep Inside - Chill Mix",
-      "url": "https://open.spotify.com/track/0r03AkMlxFV0UhQyzlzTwj"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Yin Garden",
-        "url": "https://open.spotify.com/album/1oOykGqWPNtuAygrvvCvfw"
-      },
-      "artists": [
-        {
-          "name": "SH\u00da-D\u00c0O",
-          "url": "https://open.spotify.com/artist/2pK7SnKX2ZCMVWU7ulHSWP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "B\u00f3 m\u00f9",
-      "url": "https://open.spotify.com/track/4UVPRsqHVlIebCbifU26V6"
-    },
-    {
-      "added_at": "2021-08-10 13:19:01",
-      "album": {
-        "name": "Diamond Shine",
-        "url": "https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV"
-      },
-      "artists": [
-        {
-          "name": "Swan",
-          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
-        }
-      ],
-      "duration_ms": 289979,
-      "name": "Deep Feelings",
-      "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
+      "duration_ms": 132618,
+      "name": "The Infinite Dreamer",
+      "url": "https://open.spotify.com/track/0vDSUlXrkbGuaOFrBpur2e"
     },
     {
       "added_at": "2021-08-10 13:19:01",
@@ -1579,50 +1543,86 @@
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Roma Atmosphere",
-        "url": "https://open.spotify.com/album/5j8CZ8WMJoxRfwVAdFJai0"
+        "name": "Late Night Lovers Lounge (Vol 2)",
+        "url": "https://open.spotify.com/album/6yG7GrbM9vLTTZRzshGAEj"
       },
       "artists": [
         {
-          "name": "Roma Atmosphere",
-          "url": "https://open.spotify.com/artist/3dvGzeKaKr8lkl7gdQUlM8"
+          "name": "Ambercity",
+          "url": "https://open.spotify.com/artist/4AqHrBluK1rKimWq3D2J6K"
         }
       ],
-      "duration_ms": 224615,
-      "name": "Terme di Caracalla",
-      "url": "https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb"
+      "duration_ms": 256017,
+      "name": "Late Night Kisses",
+      "url": "https://open.spotify.com/track/50HuB1rHRDT0kH3pgHjBgw"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Caf\u00e9 Dreamer",
-        "url": "https://open.spotify.com/album/34kp6iILHhggrkYCnXg9sd"
+        "name": "MInd Travel",
+        "url": "https://open.spotify.com/album/1khdB3uTK43q8TDvpA7pI3"
       },
       "artists": [
         {
-          "name": "Chill Cole",
-          "url": "https://open.spotify.com/artist/1Ns2CQv733eYFITrIHvW6Z"
+          "name": "Upstairs2",
+          "url": "https://open.spotify.com/artist/46gshtccx7HL3aBw4ZKnbA"
         }
       ],
-      "duration_ms": 132618,
-      "name": "The Infinite Dreamer",
-      "url": "https://open.spotify.com/track/0vDSUlXrkbGuaOFrBpur2e"
+      "duration_ms": 352758,
+      "name": "Gliding",
+      "url": "https://open.spotify.com/track/6IMxaXgh0Z1G2xA6iGSOJj"
     },
     {
       "added_at": "2021-08-10 13:19:01",
       "album": {
-        "name": "Trois Fois",
-        "url": "https://open.spotify.com/album/43sw0wMJ4EyqHoTLeooKF9"
+        "name": "Diamond Shine",
+        "url": "https://open.spotify.com/album/16GjOVmgFii8TdG06IKuxV"
       },
       "artists": [
         {
-          "name": "Cedric Mercute",
-          "url": "https://open.spotify.com/artist/09WaGi6h0LCbBFdKsjBMdk"
+          "name": "Swan",
+          "url": "https://open.spotify.com/artist/4s0mL7hFwXvFbN89uDjWeH"
         }
       ],
-      "duration_ms": 167237,
-      "name": "Trois Fois",
-      "url": "https://open.spotify.com/track/0bekzPhna4CgcyKvW7VRDR"
+      "duration_ms": 289979,
+      "name": "Deep Feelings",
+      "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "A Bird's Call",
+        "url": "https://open.spotify.com/album/4QUmKlw1ciSpgCHvbSVNYb"
+      },
+      "artists": [
+        {
+          "name": "Nebulae",
+          "url": "https://open.spotify.com/artist/3UKaTOMvInYrOVb2SXiO9v"
+        }
+      ],
+      "duration_ms": 185538,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/3CMwVMznjJKjWVFLayfHoW"
+    },
+    {
+      "added_at": "2021-08-10 13:19:01",
+      "album": {
+        "name": "Loving You (One Last Time) [Lounge Version]",
+        "url": "https://open.spotify.com/album/4Rrn0ZojUyq1Mb6r7AqhBV"
+      },
+      "artists": [
+        {
+          "name": "Shade",
+          "url": "https://open.spotify.com/artist/6Gxrp9HRZ43wAEbtZAhNOc"
+        },
+        {
+          "name": "Thyra",
+          "url": "https://open.spotify.com/artist/1PsB5MlTLwu3fmb0QsDH9G"
+        }
+      ],
+      "duration_ms": 214629,
+      "name": "Loving You (One Last Time) - Lounge Version",
+      "url": "https://open.spotify.com/track/2zkFPayhYuzsTnSkvLVOvx"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdL58DnQ4ZqM"

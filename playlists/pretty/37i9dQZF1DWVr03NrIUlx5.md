@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > Big music hits in tiny 8\-bit versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,361 likes - 145 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,362 likes - 145 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 144 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/1hxVVPSXOoy2REedjroKPi) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Pink Floyd](https://open.spotify.com/album/2JRn0Jkfl4kRd1UNyr9YQK) | 3:34 |
 | 145 | [Hymn for the Weekend](https://open.spotify.com/track/45S0auZgfisuHjQkZgCBl5) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Coldplay](https://open.spotify.com/album/0cmwnoLmkKQVqVVCyNdgqo) | 3:44 |
 
-Snapshot ID: `MTY0MTQyNzYzNywwMDAwMDAwMDlmMjIwM2JmNmQ0MzBkOTkyNzAwNzhhNTZjMWY2MTlk`
+Snapshot ID: `MTY0MTQyOTY4MywwMDAwMDAwMDlmMjIwM2JmNmQ0MzBkOTkyNzAwNzhhNTZjMWY2MTlk`

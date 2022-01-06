@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,100 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,104 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [Guilty](https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Yonaka Stripped Back](https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7) | 4:36 |
 | 50 | [I Will Follow You into the Dark](https://open.spotify.com/track/60D6xokLERFpsLMW6RwIKy) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Will Follow You into the Dark](https://open.spotify.com/album/51YRSuzr45Jue0ycibDLwa) | 3:08 |
 
-Snapshot ID: `MTY0MTQyNzc1OCwwMDAwMDAwMDZlYTZkYjFlYWJiOThkNWE4NDAyMTVlZWE1OWQxOTUw`
+Snapshot ID: `MTY0MTQyOTc5OSwwMDAwMDAwMDZlYTZkYjFlYWJiOThkNWE4NDAyMTVlZWE1OWQxOTUw`

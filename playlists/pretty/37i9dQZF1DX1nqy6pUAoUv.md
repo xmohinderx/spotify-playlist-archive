@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,490 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,492 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 99 | [Workin's Too Hard](https://open.spotify.com/track/6Xsh0TEobnRSRkt2UAbAxc) | [Rayna Gellert](https://open.spotify.com/artist/5hdTooIsiN2OmvS449nJNd) | [Workin's Too Hard](https://open.spotify.com/album/3XQvByuWbdN8KxETcTQPZY) | 3:36 |
 | 100 | [Cycle](https://open.spotify.com/track/4D6HO32tlBCeot00dXQxFA) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Like The River Loves The Sea](https://open.spotify.com/album/3zeMqL25WJ0yDzqNHO73DV) | 3:50 |
 
-Snapshot ID: `MTY0MTQyNzc4MiwwMDAwMDAwMGI2MjVhYWY3NjYwN2IyOWVmYTk5M2NiY2M0Yzk5YWY3`
+Snapshot ID: `MTY0MTQyOTgyMiwwMDAwMDAwMGI2MjVhYWY3NjYwN2IyOWVmYTk5M2NiY2M0Yzk5YWY3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,556,397 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,556,417 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 99 | [SUPERSTAR](https://open.spotify.com/track/2iJjs5CPZCgsAY368q23OA) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [F\*CK YOUR FEELINGS](https://open.spotify.com/album/1A5FrlktD43P50z8quqGPS) | 1:42 |
 | 100 | [Outta Time](https://open.spotify.com/track/5mFr8BsDBZ04aNiMAtjT8Y) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9), [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL) | [Outta Time](https://open.spotify.com/album/3WX59gUg76M89YfaHRt6Zd) | 2:05 |
 
-Snapshot ID: `MTY0MTQyNzU3NSwwMDAwMDAwMGQ0NzQzYjhiY2MwODFiNDI3M2ViMDg4MTE3MjcyYWY4`
+Snapshot ID: `MTY0MTQyOTYyMiwwMDAwMDAwMGQ0NzQzYjhiY2MwODFiNDI3M2ViMDg4MTE3MjcyYWY4`

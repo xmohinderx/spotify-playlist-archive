@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,277 likes - 150 songs - 10 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,286 likes - 150 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 149 | [Strength of the Mind](https://open.spotify.com/track/6AjXt5W30GHH3pZPrYK6TH) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Incarnate](https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH) | 3:46 |
 | 150 | [The Frost](https://open.spotify.com/track/1NAmER373RbdeWB0i07VO6) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Phantom Anthem](https://open.spotify.com/album/5raPbxzLIp6YJTN5jyyT2f) | 4:46 |
 
-Snapshot ID: `MTY0MTQyNzU5MSwwMDAwMDAwMDcwZTg3Y2M2NzJlZWIyZmY3MjIyODBjZTE1Zjc2MTA4`
+Snapshot ID: `MTY0MTQyOTYzOCwwMDAwMDAwMDcwZTg3Y2M2NzJlZWIyZmY3MjIyODBjZTE1Zjc2MTA4`

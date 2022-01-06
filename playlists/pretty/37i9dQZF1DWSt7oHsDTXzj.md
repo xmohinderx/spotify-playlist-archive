@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,414 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,411 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 49 | [We're The Lucky Ones](https://open.spotify.com/track/0NrucXAEaaZB48N2vIDrjT) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [We're The Lucky Ones](https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8) | 3:35 |
 | 50 | [Merry Christmas](https://open.spotify.com/track/7I53IhL7CuLvRs9g6jyliB) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Merry Christmas](https://open.spotify.com/album/6nnv2sz5aO6ckFWn1Vhxfr) | 3:18 |
 
-Snapshot ID: `MTY0MTQyNzU3MSwwMDAwMDAwMGYyYTU2YWVlMjA5MzAzY2I4Y2JkNTU0MmE0NDFjMjM0`
+Snapshot ID: `MTY0MTQyOTYxOSwwMDAwMDAwMGYyYTU2YWVlMjA5MzAzY2I4Y2JkNTU0MmE0NDFjMjM0`

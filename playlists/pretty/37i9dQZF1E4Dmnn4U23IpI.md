@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> With Kalax, FM\-84, NUTRONIC and more
+> With Absolute Valentine, John Carpenter, Charlie Simpson and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 9,991 likes - 50 songs - 3 hr 55 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4Dmnn4U23IpI.md) - [plain]
 | 49 | [Beyond Memory](https://open.spotify.com/track/7zmbtfKgZMTQ1GlqBno5T5) | [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [Beyond Memory](https://open.spotify.com/album/0KGWOAde97ZeOypR6kcLad) | 3:35 |
 | 50 | [New Cydonia \(feat\. Hayley\)](https://open.spotify.com/track/6zeAe94aC36a94QS0VhZJM) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg), [HAYLEY](https://open.spotify.com/artist/7ATbg3F34QymewYIV20RZl) | [Midnight Signals \(Original Motion Picture Score\)](https://open.spotify.com/album/1zxAn2q8xIOZAj93KVLZ1q) | 4:13 |
 
-Snapshot ID: `MTY0MTQyODA5OCwwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`
+Snapshot ID: `MTY0MTQzMDEzMywwMDAwMDAwMDJhNDJhMjllNDdhMzgyMjkyOGYyNDUzZmMzZjhiYjJi`

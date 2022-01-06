@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
 
-> With John Mayer, O.A.R., Amos Lee, Juke Ross and more
+> With John Mayer, Blake Rose, Mat Kearney, A R I Z O N A and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 248128,
       "name": "Dhol Yaara Dhol",
       "url": "https://open.spotify.com/track/4ViufFTGJb3TByFwUnOXhE"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 334162,
       "name": "Dil Ko Hazar Bar",
       "url": "https://open.spotify.com/track/1WnDMbh4JP7Dp12sy0fd3L"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 230249,
       "name": "Duniya",
       "url": "https://open.spotify.com/track/3oRUE9SiyDmZT8NX9jueiY"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 238004,
       "name": "Emosanal Attyachaar (Brass Band Version)",
       "url": "https://open.spotify.com/track/7iW9pTNgp2HtlRJinoYuiA"
@@ -913,6 +913,24 @@
       "duration_ms": 239537,
       "name": "Emotional Attyachaar (Rock Version)",
       "url": "https://open.spotify.com/track/789ypzLVZugyrUn57A6CWp"
+    },
+    {
+      "album": {
+        "name": "Paap",
+        "url": "https://open.spotify.com/album/6ZtaO3graLTvGff04zJp5k"
+      },
+      "artists": [
+        {
+          "name": "Ali Azmat",
+          "url": "https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291480,
+      "name": "Garaj Baras",
+      "url": "https://open.spotify.com/track/7J76GqRa6YWoi8cLb2kvr4"
     },
     {
       "album": {
@@ -1015,7 +1033,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 362293,
       "name": "Hamesha Tumko Chaha - Devdas / Soundtrack Version",
       "url": "https://open.spotify.com/track/0CUPccOp1WfpKCjcFgZsck"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 88373,
       "name": "Ik Onkar",
       "url": "https://open.spotify.com/track/4Ko5KYEiZ0rrFiBJKmvMQc"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 323533,
       "name": "Kaahe Chhed - Devdas / Soundtrack Version",
       "url": "https://open.spotify.com/track/7LgYx8FPuRvjSaFKw4ImIT"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 379226,
       "name": "Khalbali",
       "url": "https://open.spotify.com/track/6sXzqMagXtWvSOI9nNc4UD"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 346200,
       "name": "Koi Kahe Kehta Rahe",
       "url": "https://open.spotify.com/track/5zKRKQwLVBT1WDJE7XJrnm"
@@ -1999,7 +2017,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 362026,
       "name": "Mayya",
       "url": "https://open.spotify.com/track/0hp4qW1zgKnBBiyyAdW3Sz"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 362762,
       "name": "Nach Baliye",
       "url": "https://open.spotify.com/track/7AJtoJnHV80IMEHgQs6YvU"
@@ -2215,10 +2233,36 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 305600,
       "name": "O Meri Jaan",
       "url": "https://open.spotify.com/track/6qMB7GsJd7L8sqEvQGWQl6"
+    },
+    {
+      "album": {
+        "name": "Lagaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1emmJiAJRnSYETup4o1UsM"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318946,
+      "name": "O Paalanhaare",
+      "url": "https://open.spotify.com/track/5wPr9KuSfGBwGCi6NgJoVv"
     },
     {
       "album": {
@@ -2411,7 +2455,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 334706,
       "name": "Radha Kaise Na Jale",
       "url": "https://open.spotify.com/track/0wnLMEOQlyW3Es1ag0HMVV"
@@ -2455,7 +2499,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 282973,
       "name": "Roobaroo",
       "url": "https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr"
@@ -2633,7 +2677,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 369546,
       "name": "Tanhayee",
       "url": "https://open.spotify.com/track/5HXJV5FjXdfUk3UFBTg8Fe"
@@ -3017,7 +3061,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 313053,
       "name": "Woh Humse Khafa Hain",
       "url": "https://open.spotify.com/track/63YWDr6XUXK8yE5Woy9Bym"
@@ -3153,7 +3197,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 343066,
       "name": "Yeh Hum Aa Gaye Hain Kahaan",
       "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
@@ -3189,7 +3233,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 388106,
       "name": "Yeh Jo Des Hai Tera",
       "url": "https://open.spotify.com/track/65fbHxPPnRGPXaGN3PtpXd"

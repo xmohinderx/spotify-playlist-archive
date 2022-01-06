@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Dr\. Lonnie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,315 likes - 80 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,323 likes - 80 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 79 | [Other Way Pt\. III](https://open.spotify.com/track/0ybJLX9Kg0NRKmTGf66KOF) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Other Way Pt\. III](https://open.spotify.com/album/0MAIK4mHFehGM9U3tri0kn) | 4:02 |
 | 80 | [Kaleidoscopic Universe](https://open.spotify.com/track/5jzdsyf6pIIQHdBGFZ3eFQ) | [Mausiki Scales](https://open.spotify.com/artist/2YmibRHpqYtAHiaZodYL1N) | [Kaleidoscopic Universe](https://open.spotify.com/album/15maHD7fqNGtADY5vibczi) | 4:39 |
 
-Snapshot ID: `MTY0MTQyNzYxMywwMDAwMDAwMDJjYTllMWNjYTc2OGU1YjY3OTdjODllZmVkMDE4OWQ4`
+Snapshot ID: `MTY0MTQyOTY1OSwwMDAwMDAwMDJjYTllMWNjYTc2OGU1YjY3OTdjODllZmVkMDE4OWQ4`

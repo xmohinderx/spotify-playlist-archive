@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
-> With Kalax, FM\-84, NUTRONIC and more
+> With Absolute Valentine, John Carpenter, Charlie Simpson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

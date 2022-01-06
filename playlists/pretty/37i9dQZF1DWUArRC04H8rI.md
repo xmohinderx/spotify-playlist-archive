@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 
 > A new generation making their own rules\. Cover: riela
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,702 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,704 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUArRC04H8rI.md) - [plain]
 | 59 | [i only want you when i'm fucked up](https://open.spotify.com/track/3Nm0hvJ46o57zUDSOQmINq) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/66rUUFDt246hX2JYzZpfOK) | 3:52 |
 | 60 | [Última Canción](https://open.spotify.com/track/1whUwusZ8nocx46wn3AM1h) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [A Veces Me Acuerdo de Ti](https://open.spotify.com/album/54b9OEE0j36dQuXE2XtTpb) | 2:55 |
 
-Snapshot ID: `MTY0MTQyNzYwNCwwMDAwMDAwMDY1NTM2ZTgyNWE4ZmFmOGJhNTE2MGRkMWIwM2I1NjFm`
+Snapshot ID: `MTY0MTQyOTY1MCwwMDAwMDAwMDY1NTM2ZTgyNWE4ZmFmOGJhNTE2MGRkMWIwM2I1NjFm`

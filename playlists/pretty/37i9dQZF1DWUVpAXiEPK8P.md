@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,847,817 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,847,825 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 49 | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Life Is Good \(feat\. Drake\)](https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl) | 3:57 |
 | 50 | [F.N](https://open.spotify.com/track/0UPBidRYcgJ2mjZlk08V8x) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [F.N](https://open.spotify.com/album/6Wsv1spcNRL8SMOWie5cdA) | 3:44 |
 
-Snapshot ID: `MTY0MTQyNzYxMSwwMDAwMDAwMGZkYTJiZWI3ZjdhYjYxNjE5OTEwODQ1NGJjNzkzNDhi`
+Snapshot ID: `MTY0MTQyOTY1NywwMDAwMDAwMGZkYTJiZWI3ZjdhYjYxNjE5OTEwODQ1NGJjNzkzNDhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > ¡Que viva el amor!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,370 likes - 130 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,906,379 likes - 130 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 129 | [Por fin](https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:01 |
 | 130 | [Sabor a Mi](https://open.spotify.com/track/2xK4YHrEDPB9DmdqGz5j8b) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [Sabor a Mi](https://open.spotify.com/album/3DbBQpUcQAn6nqPI9PGrxr) | 3:03 |
 
-Snapshot ID: `MTY0MTQyNzYxNiwwMDAwMDAwMGUyYTBkNzRhYzZlZGUxNjJhNzQxMTc5NjI3Y2NhOTRj`
+Snapshot ID: `MTY0MTQyOTY2MSwwMDAwMDAwMGUyYTBkNzRhYzZlZGUxNjJhNzQxMTc5NjI3Y2NhOTRj`

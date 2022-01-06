@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: Jim Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,680 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,705 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Riddles and Fairytales](https://open.spotify.com/track/4Xs7lOyFcLlpaKU0Psu1Rw) | [Bohemian Vendetta](https://open.spotify.com/artist/73VmM9R8AtZr2yM6cTkB6c) | [Bohemian Vendetta](https://open.spotify.com/album/2fARshM3fpN5Drk6pVdveD) | 2:57 |
 | 75 | [Shapes Of Things](https://open.spotify.com/track/3xYMN0fbQkyJfofjsufO7b) | [The Yardbirds](https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX) | [Classic Yardbirds Vol.1](https://open.spotify.com/album/5vgLTfGzgr1UQq6pd3bU0U) | 2:25 |
 
-Snapshot ID: `MTY0MTQyNzU1MiwwMDAwMDAwMDVlMmRmYjI0MjQ2M2JjOGYyZGQ0N2FlMjMxZGUxOWI3`
+Snapshot ID: `MTY0MTQyOTYwMCwwMDAwMDAwMDVlMmRmYjI0MjQ2M2JjOGYyZGQ0N2FlMjMxZGUxOWI3`

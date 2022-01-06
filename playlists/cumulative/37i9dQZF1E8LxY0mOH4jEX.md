@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/1BhMYZPvWoqkovqn1vMjMs)
 
-> With Bruno Mars, DJ Snake, Rick Ross, Grandmaster Caz and more
+> With Bruno Mars, R3HAB, DJ Khaled, Cardi B and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

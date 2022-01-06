@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 
 > Rock out while you game, this is 10+ hours of the best in Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,174 likes - 150 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,177 likes - 150 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjmJmeiazwd.md) - [plain]
 | 149 | [Falling Away from Me](https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 4:30 |
 | 150 | [Show Me A Leader](https://open.spotify.com/track/6sH3bAoqJZEOqGsp6Uch3u) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [The Last Hero](https://open.spotify.com/album/3MVduTfdB4hSzMvTpspj33) | 5:05 |
 
-Snapshot ID: `MTY0MTQyNzczMCwwMDAwMDAwMGM4ZTJjODRhMjM3YWMwM2I5NDBmNzE0MWQzZDdlMDdh`
+Snapshot ID: `MTY0MTQyOTc3MSwwMDAwMDAwMGM4ZTJjODRhMjM3YWMwM2I5NDBmNzE0MWQzZDdlMDdh`

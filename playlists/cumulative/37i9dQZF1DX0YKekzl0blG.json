@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183666,
       "name": "1234",
       "url": "https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 158280,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/6vluCORdF8bV6zhXfKyKBp"
@@ -332,6 +332,24 @@
     },
     {
       "album": {
+        "name": "You Could Have It So Much Better",
+        "url": "https://open.spotify.com/album/4aJKZKk3jb1oz7wb0OKLTw"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Do You Want To",
+      "url": "https://open.spotify.com/track/09TpJe9jnom4mB2DDhZKkB"
+    },
+    {
+      "album": {
         "name": "Lungs (International Version)",
         "url": "https://open.spotify.com/album/3nr57SI49M8brif4qnXgD6"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 229640,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 208466,
       "name": "Float On",
       "url": "https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 215720,
       "name": "Flux",
       "url": "https://open.spotify.com/track/3motGmEfXRYg9uYLfeMef4"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 200200,
       "name": "Good Fortune",
       "url": "https://open.spotify.com/track/7hEnqdq7DwBCJxjDd7xMKP"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
@@ -847,7 +865,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 217040,
       "name": "Jump In The Pool",
       "url": "https://open.spotify.com/track/4anehmsEuhkXRjm6HAocaj"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 193026,
       "name": "Killamangiro",
       "url": "https://open.spotify.com/track/6hqqo5hjnPhBqNRLqXYjVm"
@@ -959,6 +977,24 @@
       "duration_ms": 191293,
       "name": "Let's Dance to Joy Division",
       "url": "https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h"
+    },
+    {
+      "album": {
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
     },
     {
       "album": {
@@ -1279,7 +1315,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 233373,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/4JMEhtQ4qQ5mwN7eTLpDpG"
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 232360,
       "name": "Rabbit Heart (Raise It Up)",
       "url": "https://open.spotify.com/track/4CqwfZVFedGhoVnYeAiaRH"
@@ -1405,7 +1441,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 221600,
       "name": "Reptilia",
       "url": "https://open.spotify.com/track/6AzQZJLLmEUFurwExaWNjd"
@@ -1477,7 +1513,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 259813,
       "name": "Sheila",
       "url": "https://open.spotify.com/track/6S8QauFt4SrZbEDD4gzlCd"
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 168533,
       "name": "So Says I",
       "url": "https://open.spotify.com/track/1ZOHZ37YIHnVn8dEpNIEhp"
@@ -1657,7 +1693,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 321133,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/6hDjYcGWihB1FxwzXgeCWr"
@@ -1675,7 +1711,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 266346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/0vD4P4669qdPvVQbNclFZR"
@@ -1765,7 +1801,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 216040,
       "name": "The Beginning Of The Twist",
       "url": "https://open.spotify.com/track/5WO4u8XmvXocAsK9rIMTwJ"
@@ -1790,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Clap Your Hands Say Yeah",
+        "url": "https://open.spotify.com/album/554HQdOkOKS1CyVIvbgUnR"
+      },
+      "artists": [
+        {
+          "name": "Clap Your Hands Say Yeah",
+          "url": "https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343773,
+      "name": "The Skin Of My Yellow Country Teeth",
+      "url": "https://open.spotify.com/track/5ZKjYGhHe7J3xJmJP6Vyag"
+    },
+    {
+      "album": {
         "name": "Ga Ga Ga Ga Ga",
         "url": "https://open.spotify.com/album/4h59Z7MmFF8RElMe3qSEU2"
       },
@@ -1801,7 +1855,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 222320,
       "name": "The Underdog",
       "url": "https://open.spotify.com/track/17DjxJJG1NHXg1VatxfFfU"
@@ -1931,6 +1985,24 @@
       "duration_ms": 158546,
       "name": "Up The Bracket",
       "url": "https://open.spotify.com/track/5j3KU7D9dxolJu0kS2WHY4"
+    },
+    {
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/7IymIe6TAiOWhAKRgFOAPw"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196346,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/0SbMdEc3vUpYyG7Od1Outj"
     },
     {
       "album": {

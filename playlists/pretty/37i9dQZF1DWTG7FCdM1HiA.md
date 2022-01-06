@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG7FCdM1HiA.md) - [plain]
 
 > The unhurried and fundamentally cool side of jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,369 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,370 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG7FCdM1HiA.md) - [plain]
 | 99 | [If You Could See Me Now](https://open.spotify.com/track/0GExhcihMVjrKsad725W62) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet \[Keepnews Collection\]](https://open.spotify.com/album/22iexSLOOt0pQ4dtbPTyA9) | 5:18 |
 | 100 | [Gotta Dance](https://open.spotify.com/track/4GJ5AOmZfOqNlBhnYC8JFI) | [Jimmy Giuffre](https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6) | [The Jimmy Giuffre 3](https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK) | 2:35 |
 
-Snapshot ID: `MTY0MTQyNzU4MCwwMDAwMDAwMDE2NDA0MjM1NDBjMjZlMjE3MjZlZTFiNDRkMjgxZTk5`
+Snapshot ID: `MTY0MTQyOTYyNywwMDAwMDAwMDE2NDA0MjM1NDBjMjZlMjE3MjZlZTFiNDRkMjgxZTk5`

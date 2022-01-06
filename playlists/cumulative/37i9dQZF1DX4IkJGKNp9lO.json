@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 138430,
       "name": "1252",
       "url": "https://open.spotify.com/track/3vz9Njox0Pm5BvPjV4DYzq"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206707,
       "name": "Allting",
       "url": "https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 251353,
       "name": "Amelia",
       "url": "https://open.spotify.com/track/68XM4VDEjPlRwGveY3XRxd"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 198691,
       "name": "Andrahandssorteringen",
       "url": "https://open.spotify.com/track/5UwgoIA4wVNZSO1Cs3dYCB"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206573,
       "name": "Apornas planet",
       "url": "https://open.spotify.com/track/6aljPke2KUxTQa8NgPHQI1"
@@ -264,6 +264,24 @@
     },
     {
       "album": {
+        "name": "Bakom ljuset",
+        "url": "https://open.spotify.com/album/0oD3URB9nBxNSI6p79HE5m"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150862,
+      "name": "Bakom ljuset",
+      "url": "https://open.spotify.com/track/498n1naFrcEivWniL6arbW"
+    },
+    {
+      "album": {
         "name": "Finito",
         "url": "https://open.spotify.com/album/1EWoTh7ROqKNI36misoH0w"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 143560,
       "name": "Balladen om lilla Elsa",
       "url": "https://open.spotify.com/track/1lGvRLWhwDUiAokWhx3Kc7"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 185454,
       "name": "Bipol\u00e4r & K\u00e4r",
       "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 162880,
       "name": "B\u00f6rja om",
       "url": "https://open.spotify.com/track/3U3G16vBDC8C21ZthEWizZ"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 176286,
       "name": "Daniel Blake",
       "url": "https://open.spotify.com/track/2qZAPSJaH1VpuWYYLexssR"
@@ -455,7 +473,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 132026,
       "name": "Den amerikanska dr\u00f6mmen",
       "url": "https://open.spotify.com/track/7jVzX2aSNJRYJV84j6F0wE"
@@ -491,7 +509,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 258733,
       "name": "Den H\u00e4r \u00c4r Till Er",
       "url": "https://open.spotify.com/track/4QihvZNdzxHc9Upqk7HFmC"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 140653,
       "name": "Dom br\u00e4nner bilar",
       "url": "https://open.spotify.com/track/29Bok2rTP80oZDAUVBdBUA"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 207160,
       "name": "Dricka sprit och h\u00e5lla k\u00e4ften",
       "url": "https://open.spotify.com/track/2YSDRT9LxVTdokXHkWXzvr"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 239893,
       "name": "Dunken",
       "url": "https://open.spotify.com/track/1kps9RcmEeFOaF9Liye8AY"
@@ -763,7 +781,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 211148,
       "name": "En Ensam Cowboy",
       "url": "https://open.spotify.com/track/3A9OvdJHkB2RnwkpoQTlhy"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 146000,
       "name": "Fabriken",
       "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 123560,
       "name": "Feta gubbar",
       "url": "https://open.spotify.com/track/1jDhCPlyVmJ68UJ85fYHLk"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 168612,
       "name": "Fr\u00e5n Slagf\u00e4ltet",
       "url": "https://open.spotify.com/track/4DoEfa6vW0LQggJ4Xo10Bc"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 186800,
       "name": "Grav\u00f6l",
       "url": "https://open.spotify.com/track/7MpxKmGzenyey44GR0aUpf"
@@ -1059,7 +1077,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205506,
       "name": "Hela hatet stormar",
       "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
@@ -1077,7 +1095,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 250866,
       "name": "Herrarna I Sandl\u00e5dan",
       "url": "https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o"
@@ -1113,7 +1131,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 248640,
       "name": "Hon F\u00e5r...",
       "url": "https://open.spotify.com/track/3Ct9pVOfBcYnGr4NJ4QnSH"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 207866,
       "name": "Jag G\u00e5r Upp Och H\u00e5ller K\u00e4ften",
       "url": "https://open.spotify.com/track/0CyGNDM8ulsItXRJyi0iPI"
@@ -1185,7 +1203,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "Jag g\u00e5r upp och h\u00e5ller k\u00e4ften",
       "url": "https://open.spotify.com/track/6gVKoclWw9yiY1qTp26OKj"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 180550,
       "name": "Kom och dansa lite",
       "url": "https://open.spotify.com/track/3ojMPfMkEHaFdMu3C2Olh6"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 68893,
       "name": "Lamotten is n\u00e5dd",
       "url": "https://open.spotify.com/track/0Ne2ltkBiEHWx2CqBj9t09"
@@ -1475,7 +1493,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 189600,
       "name": "Lilla Bj\u00f6rn Och Lilla Tiger",
       "url": "https://open.spotify.com/track/4UTTtBZGgpaNCkYH1E3lIO"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 189600,
       "name": "Lilla Bj\u00f6rn Och Lilla Tiger",
       "url": "https://open.spotify.com/track/5sgmvV6EOKw66cVmrBVlGy"
@@ -1529,7 +1547,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 195200,
       "name": "Livet \u00c4r F\u00f6r Kort F\u00f6r Sorgliga S\u00e5nger",
       "url": "https://open.spotify.com/track/4czzFVzjMmXz1KoLytN7so"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 217040,
       "name": "Luft",
       "url": "https://open.spotify.com/track/22STD4RLRuWensSPyQmoic"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 201093,
       "name": "Lyckliga land",
       "url": "https://open.spotify.com/track/2vQw6ZkLNtnN6oh78ZS0CU"
@@ -1637,7 +1655,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 177426,
       "name": "Mamma pappa barn",
       "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 136068,
       "name": "Martin I Skitlandet",
       "url": "https://open.spotify.com/track/21BF181yxyzkT8QbHvc16W"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 156656,
       "name": "Masspsykos",
       "url": "https://open.spotify.com/track/6se6MaeLqy45xsfYXXzm7Q"
@@ -1853,7 +1871,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 179850,
       "name": "Ni f\u00e5r aldrig in mig d\u00e4r",
       "url": "https://open.spotify.com/track/2U8CAKuueeE93CnbKBJupc"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 196840,
       "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
       "url": "https://open.spotify.com/track/1vB6h5iJTsJg0Z7DySHpJN"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 190026,
       "name": "Patriarkatet",
       "url": "https://open.spotify.com/track/1l55KW7G3lKMgDWaeBDE8n"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 167840,
       "name": "Psykist Instabil",
       "url": "https://open.spotify.com/track/4FcbRBNpRUVZ7zBjdNRacQ"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 128080,
       "name": "Punkrockarflicka",
       "url": "https://open.spotify.com/track/7GYUhdtGSplEH3cBzjWzBG"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 85760,
       "name": "Sibirien",
       "url": "https://open.spotify.com/track/7pbOXNGq4w4cLCgtXw7hPV"
@@ -2213,7 +2231,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 210333,
       "name": "Sibylla",
       "url": "https://open.spotify.com/track/6ooJNqBBtFy0DVTI7NFOx0"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 156800,
       "name": "Sid & Nancy",
       "url": "https://open.spotify.com/track/7feyAI2f6JtCKmucVJOgWB"
@@ -2267,7 +2285,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 279120,
       "name": "Sista dansen",
       "url": "https://open.spotify.com/track/2NJ7ZnOwK9FUs7mcF48g6g"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 240137,
       "name": "Slumra in",
       "url": "https://open.spotify.com/track/4coFp7UReaPQ98O9lQN8Gg"
@@ -2375,7 +2393,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 204132,
       "name": "St\u00e4ll Dig Upp",
       "url": "https://open.spotify.com/track/0s5ek8dVFie1ILTVSbT22s"
@@ -2393,7 +2411,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 182526,
       "name": "Svegregationen",
       "url": "https://open.spotify.com/track/7Hn1rt0TO9PXLiDAkX4Pxq"
@@ -2411,7 +2429,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Sverigev\u00e4nner",
       "url": "https://open.spotify.com/track/4X1JceRF7vvfWEE4TJSVfj"
@@ -2429,7 +2447,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 232626,
       "name": "S\u00e5 j\u00e4vla bra",
       "url": "https://open.spotify.com/track/3UA4L041EaZziqBvrjYNE8"
@@ -2465,7 +2483,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 235308,
       "name": "Tankar pa\u030a kammaren (\u00e4r det bara jag)",
       "url": "https://open.spotify.com/track/3qfYgvvsAcpIRz6re78bPV"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 137769,
       "name": "Tid att vara arg",
       "url": "https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV"
@@ -2537,7 +2555,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 180453,
       "name": "Tjyvarnas arme\u0301",
       "url": "https://open.spotify.com/track/1k7SMJdkS1Ih4hAkV2hRjo"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 130360,
       "name": "Troll och h\u00e4xor",
       "url": "https://open.spotify.com/track/0VsgAzswvCa3J7SWD9liq2"
@@ -2753,7 +2771,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 190026,
       "name": "Vem s\u00e4tter m\u00e4rket",
       "url": "https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183493,
       "name": "Vem V\u00e5gar Tro",
       "url": "https://open.spotify.com/track/5VAz683ouGZsuROud0rl44"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 156306,
       "name": "Vrid upp",
       "url": "https://open.spotify.com/track/0Xkd5AyxANGTN9ab6WCbTN"
@@ -2897,7 +2915,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 155733,
       "name": "\u00c4gander\u00e4tt?",
       "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
@@ -2933,7 +2951,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 173266,
       "name": "\u00c4r det bra?",
       "url": "https://open.spotify.com/track/5MUKNZ1vPkuLvxPT7Q3QtQ"

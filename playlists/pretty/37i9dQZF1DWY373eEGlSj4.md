@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 
 > The most unforgettable love songs from the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,021,914 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,021,920 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY373eEGlSj4.md) - [plain]
 | 49 | [You Make Me Feel Brand New](https://open.spotify.com/track/3QgsPdDBXZKrpa2iQndFnZ) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Rockin' Roll Baby](https://open.spotify.com/album/7wb65kxx7K5nEweUPiWw5N) | 5:30 |
 | 50 | [Desperado \- 2013 Remaster](https://open.spotify.com/track/2TjnCxxQRYn56Ye8gkUKiW) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Desperado \(2013 Remaster\)](https://open.spotify.com/album/09WBxbis5Sixt01FVMs8UM) | 3:33 |
 
-Snapshot ID: `MTY0MTQyNzY5MywwMDAwMDAwMGZmYjM4OTc5MmM1OTRiZmZmMWM1OTdlODEyNmQ2MjM3`
+Snapshot ID: `MTY0MTQyOTczNiwwMDAwMDAwMGZmYjM4OTc5MmM1OTRiZmZmMWM1OTdlODEyNmQ2MjM3`

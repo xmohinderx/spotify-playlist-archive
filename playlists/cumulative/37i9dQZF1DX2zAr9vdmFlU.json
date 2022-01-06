@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Samba Goal - Powered By R10 (USA Version)",
+        "url": "https://open.spotify.com/album/6OhixhDKgwVl5SxEPrPX61"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274893,
+      "name": "Deixa A Vida Me Levar",
+      "url": "https://open.spotify.com/track/3IGssOQU1XqizfaLUro3iE"
+    },
+    {
+      "album": {
         "name": "Musica para Despues de Almuerzo",
         "url": "https://open.spotify.com/album/51tTFDkrYX6v1js0jEarj9"
       },
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 232853,
       "name": "Esperando Verte",
       "url": "https://open.spotify.com/track/7xRafouoS2J7SYgaURkJjx"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 354715,
       "name": "Latin Note",
       "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
@@ -1291,7 +1309,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 229475,
       "name": "Me gustas tu",
       "url": "https://open.spotify.com/track/7tIzEqfD8SONXtdI5KE9uk"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 165056,
       "name": "Taganga",
       "url": "https://open.spotify.com/track/6suwy7Q9BdzR9aEdALuKiF"
@@ -1977,7 +1995,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 273466,
       "name": "Tiene Sabor, Tiene Saz\u00f3n",
       "url": "https://open.spotify.com/track/382x0IaQk1Nqx2f3Xzfy14"
@@ -2119,6 +2137,32 @@
       "duration_ms": 196440,
       "name": "Virgencita (Happy Colors Remix)",
       "url": "https://open.spotify.com/track/0RwP4csx5VT9jsnL8okhjX"
+    },
+    {
+      "album": {
+        "name": "Calentura: Global Bassment",
+        "url": "https://open.spotify.com/album/18ynFrrFKg1wRPU5CfmDLP"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244043,
+      "name": "Ya Llego (Captain Planet Remix)",
+      "url": "https://open.spotify.com/track/3ofJQlyeMIigLD3hSJUyME"
     },
     {
       "album": {

@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 277714,
       "name": "All You Need Is Time",
       "url": "https://open.spotify.com/track/160leq3oBHDPYyD0A6rK3n"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 196375,
       "name": "Because You Move Me",
       "url": "https://open.spotify.com/track/6ngjb2Je6gEjjVOOQpWSWG"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 464237,
       "name": "Caminando de Noche",
       "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 284800,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/303c3Z3xF0KgPJkqy7U9bK"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 218226,
       "name": "Finja",
       "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
@@ -659,7 +659,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 367564,
       "name": "Follow the Light - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I"
@@ -881,7 +881,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 462560,
       "name": "I'm Fallin'",
       "url": "https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk"
@@ -990,6 +990,28 @@
     },
     {
       "album": {
+        "name": "Drum 'N' Feels",
+        "url": "https://open.spotify.com/album/5t2hYyJ6Rf0lSTTthWW2h8"
+      },
+      "artists": [
+        {
+          "name": "Kleintierschaukel",
+          "url": "https://open.spotify.com/artist/1IaccfV9FzIR8Iax4cZ5Fn"
+        },
+        {
+          "name": "Badau",
+          "url": "https://open.spotify.com/artist/1N1rW3pjM2BnVAeuTTLjSU"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362411,
+      "name": "Kidz of Tibet",
+      "url": "https://open.spotify.com/track/6bexT12e03xTtGzBgNe0dE"
+    },
+    {
+      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/15ky0SdynBROqT4nhTwvQX"
       },
@@ -1059,7 +1081,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 446590,
       "name": "Leslie",
       "url": "https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7"
@@ -1125,7 +1147,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 241607,
       "name": "Lost - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/6m2jWjTE6CmYfWpMtp8V1u"
@@ -1249,7 +1271,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 322034,
       "name": "No Room - Johannes Klingebiel Remix",
       "url": "https://open.spotify.com/track/4i9ILIeksvaDAYnimKjCw0"
@@ -1329,7 +1351,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 196822,
       "name": "Olatu",
       "url": "https://open.spotify.com/track/6yeNK7QQ1dybAnnzIkIGDJ"
@@ -1373,7 +1395,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/0zIdKrHlJMD7C0BnrUIsvE"
@@ -1399,7 +1421,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 474000,
       "name": "Pieces of You - Ron Flatter Remix",
       "url": "https://open.spotify.com/track/5Ws9mUDnRmZ0jgjU5dIqvc"
@@ -1421,6 +1443,28 @@
       "duration_ms": 415098,
       "name": "Plastic",
       "url": "https://open.spotify.com/track/48tZBJB3xt7Shf2vqstMOn"
+    },
+    {
+      "album": {
+        "name": "Porcelain (Aparde Remix)",
+        "url": "https://open.spotify.com/album/2RJNDFjkxONBYe1LGzzQHr"
+      },
+      "artists": [
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        },
+        {
+          "name": "Aparde",
+          "url": "https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254257,
+      "name": "Porcelain - Aparde Remix",
+      "url": "https://open.spotify.com/track/5RWo9BOEdsRA2RlER6MiOd"
     },
     {
       "album": {
@@ -1457,7 +1501,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 472640,
       "name": "Rebel - Mollono.Bass Remix",
       "url": "https://open.spotify.com/track/3XMD1uMzW0UVavZshxKSss"
@@ -1587,7 +1631,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 269115,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
@@ -1681,7 +1725,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 231120,
       "name": "Sunrays",
       "url": "https://open.spotify.com/track/2V2SVDQIt2QgUENzNdVCjI"
@@ -1717,7 +1761,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
@@ -1797,7 +1841,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 512724,
       "name": "The River - Original",
       "url": "https://open.spotify.com/track/7y7zMcqnXC40wfJ5yhp2u2"
@@ -1815,7 +1859,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 508091,
       "name": "The Tribe",
       "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
@@ -1935,7 +1979,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 221479,
       "name": "Unfold",
       "url": "https://open.spotify.com/track/5UpFOpt2FnYpgKfmlw2NVf"
@@ -2059,7 +2103,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 241952,
       "name": "You - Patrice B\u00e4umel Remix",
       "url": "https://open.spotify.com/track/32Z4xpbCmDnIpHDhsPAYG7"

@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/18KhvyGVGWgFiASCWVYL67)
 
-> With Ariel Pink, Robert Smith, Chromatics and more
+> With Warpaint, HANA, Tennis and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

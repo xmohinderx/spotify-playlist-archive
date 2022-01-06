@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > Wizkid takes over Detty December with his favourite tracks right now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,013 likes - 37 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,016 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 36 | [Recap \(feat\. Don Toliver\)](https://open.spotify.com/track/67LB1vZuG114LqRN8h8bQ2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:23 |
 | 37 | [Company Pt 2](https://open.spotify.com/track/63oDfrgZRgZrTJE88GGC5I) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:31 |
 
-Snapshot ID: `MTY0MTQyNzU4MiwwMDAwMDAwMGEwYmFlNTI2OWRiYTM1ZTk2Y2VkY2Q1YzU2NjQ1MTE5`
+Snapshot ID: `MTY0MTQyOTYyOSwwMDAwMDAwMGEwYmFlNTI2OWRiYTM1ZTk2Y2VkY2Q1YzU2NjQ1MTE5`

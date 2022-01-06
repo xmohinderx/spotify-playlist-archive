@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 
 > Instant classics from yesteryear to now in one sweet mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,650,794 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,650,812 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUH2AzNQzWua.md) - [plain]
 | 49 | [Breathe](https://open.spotify.com/track/6S9G7J3EB1ZY0rrZPwsBg5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Fearless Platinum Edition](https://open.spotify.com/album/43OpbkiiIxJO8ktIB777Nn) | 4:23 |
 | 50 | [Take Me to Church](https://open.spotify.com/track/0aOluBqXYd0rFSCsgDyAWX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:01 |
 
-Snapshot ID: `MTY0MTQyNzYwNiwwMDAwMDAwMDhhZTFkYjQ2MTIyMTdjZThjY2YwYmFjNDVkMWI4YjFl`
+Snapshot ID: `MTY0MTQyOTY1MiwwMDAwMDAwMDhhZTFkYjQ2MTIyMTdjZThjY2YwYmFjNDVkMWI4YjFl`

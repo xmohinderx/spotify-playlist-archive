@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 296106,
       "name": "Alive (feat. Bing Ji Ling)",
       "url": "https://open.spotify.com/track/6hqdBOgpC58Hsq0kzQlhju"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 178775,
       "name": "Black and Blue - Pat Van Dyke Remix",
       "url": "https://open.spotify.com/track/14AAryrZE6er7tCquvotBq"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 217280,
       "name": "Duck Hunting",
       "url": "https://open.spotify.com/track/7DPWHOe9ETqjEVl2fmYHeB"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 214466,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 186013,
       "name": "Just Go",
       "url": "https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc"
@@ -1365,7 +1365,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 201866,
       "name": "Look At What The Light Did Now",
       "url": "https://open.spotify.com/track/08RaJGr2ZeVuoVCY60g1O3"
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 168345,
       "name": "Love Survive",
       "url": "https://open.spotify.com/track/34nEzGUaDhG63sgBoql2EL"
@@ -1775,7 +1775,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 253165,
       "name": "Only the Wild Ones",
       "url": "https://open.spotify.com/track/0ErpHxNt1kTyCQGlh43wr1"
@@ -2071,7 +2071,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/603iVka7FkEfoO0qi1hnf8"
@@ -2280,6 +2280,24 @@
     },
     {
       "album": {
+        "name": "Taxis",
+        "url": "https://open.spotify.com/album/0wY6bVDu2LJF98FT5TP3Qu"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Taxis",
+      "url": "https://open.spotify.com/track/5htgOWTitOzUNiVG5G0m5V"
+    },
+    {
+      "album": {
         "name": "Tenderly",
         "url": "https://open.spotify.com/album/1eIi0FCrCvxbkYTFCMGC0a"
       },
@@ -2291,7 +2309,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 136050,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/1HADYlCgI25zweeHmt4L52"

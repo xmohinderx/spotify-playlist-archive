@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/5wwUkYS2OcCkau5CdCfyc6)
 
-> With Ellie Goulding, Kesha, Selena Gomez & The Scene and more
+> With MARINA, Little Mix, Demi Lovato and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

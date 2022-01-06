@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 
 > Get the party going with these classics from across the decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,258 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,262 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IlCGIUGBsA.md) - [plain]
 | 79 | [I Want You Back](https://open.spotify.com/track/5LN9F6c1Okx7Yrwd6GO8tu) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Ultimate Collection: Jackson 5](https://open.spotify.com/album/2vC3VCReQ7aXIhuHmgc78u) | 2:59 |
 | 80 | [Oh, Pretty Woman](https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:56 |
 
-Snapshot ID: `MTY0MTQyNzc0NCwwMDAwMDAwMGU1YWNkN2MzZGU5ZTQwZTJhOWY5ZDg1Nzk4NzIwN2Ez`
+Snapshot ID: `MTY0MTQyOTc4NSwwMDAwMDAwMGU1YWNkN2MzZGU5ZTQwZTJhOWY5ZDg1Nzk4NzIwN2Ez`

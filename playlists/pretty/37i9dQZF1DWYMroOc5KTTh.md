@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,902 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,906 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Greatest Love \- Edit](https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [Greatest Love](https://open.spotify.com/album/1afYraZZkxPQTTkvVVHc4r) | 3:50 |
 | 50 | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr), [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [So High \(feat\. Maths Time Joy\)](https://open.spotify.com/album/5nel6SmpP1TrXX3Ci9XXPx) | 3:52 |
 
-Snapshot ID: `MTY0MTQyNzcwMSwwMDAwMDAwMDdhYmFkYjFiNjY4MDc5YmE0NjUwODY3NTI1MmY3YzFh`
+Snapshot ID: `MTY0MTQyOTc0MywwMDAwMDAwMDdhYmFkYjFiNjY4MDc5YmE0NjUwODY3NTI1MmY3YzFh`

@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
-> With The Night Game, Novo Amor, Hotel Apache and more
+> With sød ven, Novo Amor, The True Blue and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

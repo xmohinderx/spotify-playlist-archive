@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 東京への旅のお供に、日本を代表するインスト楽曲の特集をどうぞ！！
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,039 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,049 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8IND7NkP2W.md) - [plain]
 | 99 | [BLACK DEEP \- Instrumental](https://open.spotify.com/track/3icRbdazn6CEj6s87BAY6L) | [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Mr.PUG](https://open.spotify.com/artist/6Krff7V51mFx54e4rF9IxG), [Senninsyou](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [BEATS FOR GEMZ](https://open.spotify.com/album/5EUZe6hpLqzpilWMhK1v6J) | 5:04 |
 | 100 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 |
 
-Snapshot ID: `MTY0MTQyNzYyMSwwMDAwMDAwMDM5NmNkYjIzYjA0NzhlYjYwMTU0MDc3MDU2OTVmOGQw`
+Snapshot ID: `MTY0MTQyOTY2NywwMDAwMDAwMDM5NmNkYjIzYjA0NzhlYjYwMTU0MDc3MDU2OTVmOGQw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,156,184 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,156,196 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [Bellacoso](https://open.spotify.com/track/1kMUGCt7XLDc5Q64Vl0H8S) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Bellacoso](https://open.spotify.com/album/0un8ZRojNl6fYFRHYzQ9GG) | 4:17 |
 | 100 | [TE SUPERÉ](https://open.spotify.com/track/2y6EbYibgxMVQ0T5YjZYWN) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 4:32 |
 
-Snapshot ID: `MTY0MTQyNzY4NiwwMDAwMDAwMDJlNGU1Njc5ZTdjMzk1NWJmMzEwMzJiYWY3NzBjOTJm`
+Snapshot ID: `MTY0MTQyOTczMCwwMDAwMDAwMDJlNGU1Njc5ZTdjMzk1NWJmMzEwMzJiYWY3NzBjOTJm`

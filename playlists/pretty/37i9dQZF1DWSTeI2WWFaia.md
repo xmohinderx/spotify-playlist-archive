@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Benny The Butcher
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,021 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,024 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Cliff Hanger](https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Only For Dolphins](https://open.spotify.com/album/1ZbgQbpmCbLX2RTYSAIG6k) | 2:20 |
 | 50 | [Hollyhood \(feat\. Kent Jamz\)](https://open.spotify.com/track/5OuPKLNJjsBsyRZ9PjTRTj) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Hollyhood \(feat\. Kent Jamz\)](https://open.spotify.com/album/0A5b52A8phfjRQHEkmlAVo) | 2:51 |
 
-Snapshot ID: `MTY0MTQyNzU2MCwwMDAwMDAwMGQ0MjBjNzZiYzJmNzk2ZThlMDRiMTQxY2U1NjBjYjVl`
+Snapshot ID: `MTY0MTQyOTYwOCwwMDAwMDAwMGIzMGE3OGUyMzg2ZmRiNTg4ZjliMmZiZGE3MjRiMDg3`

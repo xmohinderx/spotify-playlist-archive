@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 294214,
       "name": "A Dog Named Fletcher",
       "url": "https://open.spotify.com/track/2SqUavFkcpnddrJL3Uqdfy"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 190606,
       "name": "Ain't Great (Reimagined)",
       "url": "https://open.spotify.com/track/0x5A9QV12kA4zbn9xwd488"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 264305,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 228000,
       "name": "Both of Us (Acoustic)",
       "url": "https://open.spotify.com/track/3f0H369QJR5DR0yzzaCnsz"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "California (Acoustic)",
       "url": "https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 185727,
       "name": "Cement",
       "url": "https://open.spotify.com/track/56BLfdi68cTPiWy0OZ7Hq6"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184991,
       "name": "Colorado - Unmasked",
       "url": "https://open.spotify.com/track/6VZj6nkop6qRj73Sot3xl4"
@@ -386,6 +386,24 @@
     },
     {
       "album": {
+        "name": "Complacent",
+        "url": "https://open.spotify.com/album/0DchN61boR6VLogutHMfHh"
+      },
+      "artists": [
+        {
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174614,
+      "name": "Complacent",
+      "url": "https://open.spotify.com/track/4W1ZwOFFHiMYf9onObwgCk"
+    },
+    {
+      "album": {
         "name": "Confident (Redux)",
         "url": "https://open.spotify.com/album/66PeJxM27UOI8R0O3qxh1t"
       },
@@ -397,7 +415,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 201230,
       "name": "Confident - Redux",
       "url": "https://open.spotify.com/track/6wmbStddsBS5vsMm99mhGq"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 220074,
       "name": "Criminal - Acoustic",
       "url": "https://open.spotify.com/track/2QDapBQWEJ0JTuZmnRUzsC"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 174947,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/70RDWC722GJncJpg5m8Veq"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 241714,
       "name": "Dammit (Acoustic)",
       "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 214944,
       "name": "Dearly Departed - Acoustic",
       "url": "https://open.spotify.com/track/24pC3mU0uKALRZGoWJphoY"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 240946,
       "name": "Downtown (Up North)",
       "url": "https://open.spotify.com/track/6Veo9O3o0lFRDqHL03AGY7"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Drop Dead (Acoustic)",
       "url": "https://open.spotify.com/track/55QnOHqLBk1YiCk7p4lKkG"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 277961,
       "name": "End Of A Good Thing",
       "url": "https://open.spotify.com/track/6F6MrtUbHqf7AASOXDMlMp"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 213600,
       "name": "End of an Era (Acoustic)",
       "url": "https://open.spotify.com/track/1MOdasYTTObANkLfUkcDtF"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 202554,
       "name": "England's Dreaming - Acoustic",
       "url": "https://open.spotify.com/track/0fayk6BY25voQ46iYRrNHn"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 244323,
       "name": "Every Little Thing, but More Chill",
       "url": "https://open.spotify.com/track/6uBlr9arbchJmmFBjDle0F"
@@ -851,7 +869,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 222840,
       "name": "Fashion Forward (Acoustic)",
       "url": "https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 243140,
       "name": "February",
       "url": "https://open.spotify.com/track/6WptWHEf06ILIIK6merGuc"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 238228,
       "name": "How I Feel",
       "url": "https://open.spotify.com/track/0RScY1H5GhufUdvb65dWoE"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 213986,
       "name": "Jasey Rae (Acoustic)",
       "url": "https://open.spotify.com/track/6BwJLmS6KC7xOADo74vL6q"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 213742,
       "name": "Long Night",
       "url": "https://open.spotify.com/track/57O3KxOf63GafUXTBelpyW"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 175198,
       "name": "Lucky People",
       "url": "https://open.spotify.com/track/3zbsdtgvFPOE4xPcvMlrtZ"
@@ -1839,7 +1857,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 202746,
       "name": "Pieces (Acoustic)",
       "url": "https://open.spotify.com/track/1bQcJc71ScYiurNEGNIaOx"
@@ -1969,7 +1987,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 209420,
       "name": "Scumbag - Acoustic",
       "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 222087,
       "name": "Swiped out - Sensitive Sessions",
       "url": "https://open.spotify.com/track/5PiCPteyRcm2apfsGd5cCX"
@@ -2247,7 +2265,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 253493,
       "name": "Take This To Heart - Acoustic",
       "url": "https://open.spotify.com/track/5v4qGjZrHIepDAsLGoYU0r"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 202920,
       "name": "Tracks",
       "url": "https://open.spotify.com/track/1WXq7yfGDqp24hK7q1oFut"
@@ -2655,7 +2673,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206557,
       "name": "Without My Ring (I Think I Want You)",
       "url": "https://open.spotify.com/track/2nIkWia8VMuHL51ipVFL3P"

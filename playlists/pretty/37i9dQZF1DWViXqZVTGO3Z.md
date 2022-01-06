@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,918 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,917 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 99 | [I Saw Three Ships](https://open.spotify.com/track/4DJGAJKzUvnoRes5aiv3Ji) | [Mark Bishop](https://open.spotify.com/artist/1rB6iNJyZrKajKrOBwTO6k) | [I Saw Three Ships](https://open.spotify.com/album/7b68CXUUCfcrygq4dkCaOh) | 2:53 |
 | 100 | [Brightest And Best](https://open.spotify.com/track/1tgOfOkljeQRpvZ1fP1X6f) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Brightest And Best](https://open.spotify.com/album/3NuC18AEUC7JWFENjWsnag) | 4:40 |
 
-Snapshot ID: `MTY0MTQyNzYzMiwwMDAwMDAwMDc3NzMzN2VmYTI2ZGQyNjQ4N2Q0NTJiYTAwYmE5ZjM0`
+Snapshot ID: `MTY0MTQyOTY3OCwwMDAwMDAwMDc3NzMzN2VmYTI2ZGQyNjQ4N2Q0NTJiYTAwYmE5ZjM0`

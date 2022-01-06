@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,441 likes - 148 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,442 likes - 148 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 147 | [Secret](https://open.spotify.com/track/5e6CQTjBMCw4jWhezQCbYH) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Taylor Moody](https://open.spotify.com/artist/5v3YOQbNImkHr0cj7biBWW) | [Secret](https://open.spotify.com/album/5pdvLom5vjCQdhyy2Lonl0) | 2:52 |
 | 148 | [Hot N Heavy](https://open.spotify.com/track/3sIPjLfkLNnm8KLxR9aInw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hot N Heavy](https://open.spotify.com/album/5mt4XIAT306Y6XdDtJbNUq) | 3:35 |
 
-Snapshot ID: `MTY0MTQyNzU1OCwwMDAwMDAwMGVhNjY4OTc1OTc3OGIxNzM5ODY4OTkzYWYzM2RjZGI5`
+Snapshot ID: `MTY0MTQyOTYwNiwwMDAwMDAwMGVhNjY4OTc1OTc3OGIxNzM5ODY4OTkzYWYzM2RjZGI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,018 likes - 150 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,031 likes - 150 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
 | 150 | [Betcha By Golly, Wow](https://open.spotify.com/track/7ngeKoHl4frhzxIA3Pvoaq) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/1nuztGp78DkG2U3m6o2tGl) | 3:18 |
 
-Snapshot ID: `MTY0MTQyNzU4OCwwMDAwMDAwMDJlNWQyMDI5NGE5Yjg5NTc0YjU2MDQ0ZGVhZTljMDMx`
+Snapshot ID: `MTY0MTQyOTYzNSwwMDAwMDAwMDJlNWQyMDI5NGE5Yjg5NTc0YjU2MDQ0ZGVhZTljMDMx`

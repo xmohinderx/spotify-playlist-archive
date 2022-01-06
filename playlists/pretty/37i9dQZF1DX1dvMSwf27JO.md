@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > welcome to your unboxing playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,013 likes - 83 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,025 likes - 83 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

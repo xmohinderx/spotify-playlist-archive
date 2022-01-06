@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 199322,
       "name": "Ahorita",
       "url": "https://open.spotify.com/track/1OzdGvZ6iSzTHVu9QF7dpT"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 234750,
       "name": "Ausente",
       "url": "https://open.spotify.com/track/5Y7TAGEM42zS5MOxkBr1nD"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 160106,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/4JFZ0ilVg7CenXhnDcJb4u"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 160213,
       "name": "Eucalipto",
       "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
@@ -1227,7 +1227,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Fin de Semana - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B"
@@ -1299,7 +1299,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 226107,
       "name": "Gameboi",
       "url": "https://open.spotify.com/track/6T1N9aCrsS2l3JjxsuQVLt"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 219477,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2JPGcMVDgOejpKvACWbRRN"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 298450,
       "name": "Juanita la Chismosa",
       "url": "https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi"
@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
@@ -2471,7 +2471,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 226733,
       "name": "Para Qu\u00e9 Sufrir",
       "url": "https://open.spotify.com/track/4nehxVflg443IcjhsqpfEG"
@@ -2641,7 +2641,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 202306,
       "name": "Pell\u00edzquenme",
       "url": "https://open.spotify.com/track/0VYWDJokuyS8K354XdaBuq"
@@ -3285,6 +3285,28 @@
       "duration_ms": 256947,
       "name": "Todo el D\u00eda en la Cama",
       "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
+    },
+    {
+      "album": {
+        "name": "Tonada de luna llena",
+        "url": "https://open.spotify.com/album/3eRhoDorqSYMnFlWlSCu3I"
+      },
+      "artists": [
+        {
+          "name": "Nacho Ma\u00f1\u00f3 y Gisela Renes",
+          "url": "https://open.spotify.com/artist/3lKNpH7ourut7q5N5ZLgUL"
+        },
+        {
+          "name": "Sweet Wasabi",
+          "url": "https://open.spotify.com/artist/4zrxrSUpEE4ynZTcB6SFhY"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192900,
+      "name": "Tonada de luna llena",
+      "url": "https://open.spotify.com/track/7EnuSJJlfEmSZGeXtbsONe"
     },
     {
       "album": {

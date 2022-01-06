@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 
 > You feel the sun on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,311 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,317 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgsG1xGbDd1.md) - [plain]
 | 59 | [Mad World](https://open.spotify.com/track/4iYwpyRtLevg1OXHARWCSn) | [Hugh Godfrey](https://open.spotify.com/artist/1z66MA7rp4Rm0tvBIjaM0r) | [Studio One Ska Fever! More Ska Sounds from Sir Coxsone's Downbeat 1962\-65](https://open.spotify.com/album/2X9XmbPk2hthOpLcZ5lHnj) | 1:48 |
 | 60 | [Love and Affection](https://open.spotify.com/track/2OGB6WhcDJ2kMl1uAPRt7j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Studio One Groups](https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo) | 2:39 |
 
-Snapshot ID: `MTY0MTQyNzY1OSwwMDAwMDAwMDA5NTQ2ZmI3NTU0NTdiZmFiNzRjNjkwMjlkOTY4ZjZj`
+Snapshot ID: `MTY0MTQyOTcwNCwwMDAwMDAwMDA5NTQ2ZmI3NTU0NTdiZmFiNzRjNjkwMjlkOTY4ZjZj`

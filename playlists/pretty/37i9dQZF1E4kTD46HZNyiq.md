@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Night Game, Novo Amor, Hotel Apache and more
+> With sød ven, Novo Amor, The True Blue and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 932 likes - 50 songs - 3 hr 32 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Fireworks](https://open.spotify.com/track/410TZTR81hzdwbjMJsW7mk) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Fireworks](https://open.spotify.com/album/1PWfTbxEiAheaFfAD9LRU1) | 4:02 |
 | 50 | [Growing Season](https://open.spotify.com/track/2I3ZOX0asVamWhZUBHxMhR) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Growing Season](https://open.spotify.com/album/6HfwnJUy15w9gslEgKZbp4) | 4:01 |
 
-Snapshot ID: `MTY0MTQyODA5OSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MTQzMDEzNCwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

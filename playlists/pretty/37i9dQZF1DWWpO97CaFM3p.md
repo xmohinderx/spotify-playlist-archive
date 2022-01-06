@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > Songs for when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,229 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,248 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 99 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 100 | [Sometimes \(Backwood\)](https://open.spotify.com/track/5ysFFsqJFcsX8Rez67j2tv) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3ERQUpVWleQpvEueo3KFgj) | 2:33 |
 
-Snapshot ID: `MTY0MTQyNzY2MywwMDAwMDAwMDUxMDIyNWYwOGY4YWExYzJjOGQxMDRlNjQ3NTkzMWRl`
+Snapshot ID: `MTY0MTQyOTcwOCwwMDAwMDAwMDUxMDIyNWYwOGY4YWExYzJjOGQxMDRlNjQ3NTkzMWRl`

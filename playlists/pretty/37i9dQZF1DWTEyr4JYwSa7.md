@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année! Photo: Alexandra Streliski
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,761 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,759 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 99 | [O Little Town of Bethlehem](https://open.spotify.com/track/1wWO2ST0HyWfEMdThb9sat) | [André Gagnon](https://open.spotify.com/artist/3dhwxSLiJOSyuQI5hSI6yV) | [Noël](https://open.spotify.com/album/1h7LjXhFLMg1AbA1cEsWoV) | 3:57 |
 | 100 | [Minuit chrétien](https://open.spotify.com/track/0O1semZ6o0wcA4B7j7L97L) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Un grand noël d'amour](https://open.spotify.com/album/4Qa4kIMWoF5GTZLoAQV5sE) | 5:08 |
 
-Snapshot ID: `MTY0MTQyNzU4MCwwMDAwMDAwMGMxN2QxZTJiODkyZTBmOWQyMDA3YjY4NGQ2YTA4NTAz`
+Snapshot ID: `MTY0MTQyOTYyNywwMDAwMDAwMGMxN2QxZTJiODkyZTBmOWQyMDA3YjY4NGQ2YTA4NTAz`

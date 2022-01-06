@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LonJ1uN97e.md) - [plain]
 
 > Chuck Berry, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,469 likes - 57 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,471 likes - 57 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Check out the nominees for The 36th Golden Disc Awards!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,274 likes - 62 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,273 likes - 62 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Brian McComas",
+        "url": "https://open.spotify.com/album/78U0H8pQuY5oDw0wM9dXUp"
+      },
+      "artists": [
+        {
+          "name": "Brian McComas",
+          "url": "https://open.spotify.com/artist/57oPg5vpE4vyip60by74tq"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193293,
+      "name": "99.9% Sure (I've Never Been Here Before)",
+      "url": "https://open.spotify.com/track/14ymPtb1n06KzSm0J9bmMZ"
+    },
+    {
+      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 246240,
       "name": "Carlene",
       "url": "https://open.spotify.com/track/339hc1FygD8oJl4kg24IjG"
@@ -779,7 +797,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 306026,
       "name": "Hicktown",
       "url": "https://open.spotify.com/track/0WYbR2GSfl4ehvmLmcpAqi"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206720,
       "name": "Mud On the Tires",
       "url": "https://open.spotify.com/track/2rQyI7A1yTvTXJ9J4qFmmN"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 266920,
       "name": "She's Everything",
       "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"

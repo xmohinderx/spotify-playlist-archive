@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,113,095 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,097 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 99 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/4anqzBjFjQENRM1LpuQUjD) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/6xElOEltTrQ9AaULllcMxI) | 2:38 |
 | 100 | [Du är en ängel](https://open.spotify.com/track/7fJ1lkpVv0DaukPoP9uUMq) | [Alex Shield](https://open.spotify.com/artist/0GjycNCtd0KpROrMYfpPjb), [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Du är en ängel](https://open.spotify.com/album/6mWZFW1QfOrQxxKaOeGZHX) | 4:20 |
 
-Snapshot ID: `MTY0MTQyNzY5NiwwMDAwMDAwMDQxZWRjYzBkYjI4OTU2OTM1MmVhMDQ5MDY1ZTM0ZjQz`
+Snapshot ID: `MTY0MTQyOTczOSwwMDAwMDAwMGQ1ZTAzNDhjZTQ0OWZiNjdlYjMwMDRlNGRmN2MyMWNj`

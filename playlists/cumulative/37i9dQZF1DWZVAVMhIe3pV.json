@@ -570,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Mable",
+        "url": "https://open.spotify.com/album/7KvNSbM3k378M5yrmb8Lqj"
+      },
+      "artists": [
+        {
+          "name": "Spraynard",
+          "url": "https://open.spotify.com/artist/7pNOV3VeNblexV97TaKM0G"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155008,
+      "name": "Buried",
+      "url": "https://open.spotify.com/track/6FktNUVmUJAkBnwgciw5Ik"
+    },
+    {
+      "album": {
         "name": "Dark Horse",
         "url": "https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC"
       },
@@ -585,6 +603,24 @@
       "duration_ms": 212346,
       "name": "Burn It to the Ground",
       "url": "https://open.spotify.com/track/1jq28NGw6wdtFKx8MBPy6C"
+    },
+    {
+      "album": {
+        "name": "Transmissions",
+        "url": "https://open.spotify.com/album/43N4RaaiL6dcmmMFL0nMdE"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226258,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/5Bf7uOGNBbikzvhcgNRHp1"
     },
     {
       "album": {
@@ -617,7 +653,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "Call Me When You're Sober",
       "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
@@ -1301,7 +1337,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 245573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
@@ -1355,7 +1391,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 192800,
       "name": "From The Inside",
       "url": "https://open.spotify.com/track/1aTWmHKzDKFfkTfbPaCY8y"
@@ -1661,7 +1697,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 198000,
       "name": "Hey",
       "url": "https://open.spotify.com/track/4aUcqr33eDZtUvOGGcx0Cv"
@@ -1841,10 +1877,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "album": {
+        "name": "Vista",
+        "url": "https://open.spotify.com/album/4SsdIckhSZ3NiehTr9hCiw"
+      },
+      "artists": [
+        {
+          "name": "Hell Or Highwater",
+          "url": "https://open.spotify.com/artist/6piuj3kJYX4Xrta28yveKM"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219426,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/7npA2JN5UNjEPUclosjxe8"
     },
     {
       "album": {
@@ -2079,7 +2133,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 238560,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ"
@@ -2259,7 +2313,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH"
@@ -4057,7 +4111,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183853,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ"
@@ -4681,6 +4735,24 @@
       "duration_ms": 245280,
       "name": "Wicked Garden",
       "url": "https://open.spotify.com/track/278jOl7gFMJ9WMnUbGxWRe"
+    },
+    {
+      "album": {
+        "name": "Wolves in the Dark",
+        "url": "https://open.spotify.com/album/3Sl6oWwQpPj8jeQNhVwEwm"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214764,
+      "name": "Wolves in the Dark",
+      "url": "https://open.spotify.com/track/1kiT87f5XRcGQEglXfnQp2"
     },
     {
       "album": {

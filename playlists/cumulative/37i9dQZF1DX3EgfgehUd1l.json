@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Timeless Voices: Max Bygraves",
+        "url": "https://open.spotify.com/album/1lxNNcuisJnvFVzlEGXZ0H"
+      },
+      "artists": [
+        {
+          "name": "Max Bygraves",
+          "url": "https://open.spotify.com/artist/7Cm4VBm1trDn5A3CWbzDVl"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167386,
+      "name": "(The Gang That Sang) Heart Of My Heart",
+      "url": "https://open.spotify.com/track/0SWoeNW610T0H2tVvgUMfE"
+    },
+    {
+      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -55,7 +73,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 178160,
       "name": "A Sweet Old-Fashioned Girl",
       "url": "https://open.spotify.com/track/2unXb33WJvFZJv8qtVLI9D"
@@ -192,6 +210,28 @@
     },
     {
       "album": {
+        "name": "The Best of Don Cherry",
+        "url": "https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4"
+      },
+      "artists": [
+        {
+          "name": "Don Cherry",
+          "url": "https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155066,
+      "name": "Band of Gold (with Ray Conniff & His Orchestra & Chorus)",
+      "url": "https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd"
+    },
+    {
+      "album": {
         "name": "Saga All Stars: Be Bop a Lula / 1956",
         "url": "https://open.spotify.com/album/7K8wRpnmIiP7VPbllLQeMs"
       },
@@ -257,7 +297,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 162106,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1XriePxA916cla1W90JBLt"
@@ -517,7 +557,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 107333,
       "name": "Dreamboat",
       "url": "https://open.spotify.com/track/0IrWAF44fR05kVifPolvP5"
@@ -967,7 +1007,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 133466,
       "name": "Kisses Sweeter Than Wine",
       "url": "https://open.spotify.com/track/617WaAaVKKOPyYbx04p74h"
@@ -1177,7 +1217,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 150253,
       "name": "Meet Me On the Corner",
       "url": "https://open.spotify.com/track/5FS0rgeFMjrhaXXtaikC14"
@@ -1303,7 +1343,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 187826,
       "name": "No One But You",
       "url": "https://open.spotify.com/track/4MjPbzry4T4JjJsNaNIe58"
@@ -1321,7 +1361,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 187640,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/57gWaXJvGcxNKKpHLSCxKv"
@@ -1537,7 +1577,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 145520,
       "name": "Somebody Stole My Gal",
       "url": "https://open.spotify.com/track/7h7Tc9jvW74WbhkvIofPO8"
@@ -1721,7 +1761,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 139133,
       "name": "The Book",
       "url": "https://open.spotify.com/track/3v66kX7wlFuh9HY5boFX2I"
@@ -1793,7 +1833,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 136906,
       "name": "The Little Shoemaker",
       "url": "https://open.spotify.com/track/4q9r0zPDLkGZHjZJX3OaUK"
@@ -1865,7 +1905,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 200826,
       "name": "Tom Dooley",
       "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
@@ -2067,7 +2107,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 136360,
       "name": "Who's Sorry Now",
       "url": "https://open.spotify.com/track/2hoEISYqDdskGxin3ObSZd"

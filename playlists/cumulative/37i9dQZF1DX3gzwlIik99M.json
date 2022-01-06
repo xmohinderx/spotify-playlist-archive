@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 227013,
       "name": "Acero Inmortal",
       "url": "https://open.spotify.com/track/3SpitFUWlOXFj50cArug4M"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 225312,
       "name": "Apatrida",
       "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 268303,
       "name": "Credo de Darwin",
       "url": "https://open.spotify.com/track/5PV44PZg4Y3YSbahFKLpjB"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 287573,
       "name": "Culto vacio radical",
       "url": "https://open.spotify.com/track/7iSaJ4LIAMNbU45Rf48PXa"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 257773,
       "name": "Darse Cuenta",
       "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
@@ -401,6 +401,24 @@
       "duration_ms": 257333,
       "name": "Desmembramiento de Tzipaktli (La Bestia de los 18 Cuerpos)",
       "url": "https://open.spotify.com/track/5ZpRwz7Pe1MI0gIqiUqTBv"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "album": {
@@ -603,7 +621,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 265720,
       "name": "El Vuelo Del Drag\u00f3n",
       "url": "https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 241333,
       "name": "Exoplanets",
       "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 275600,
       "name": "Heavy Drinker",
       "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 252342,
       "name": "Horrendo",
       "url": "https://open.spotify.com/track/03jPeLdw2Ry6ZtRZCL3VVv"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 250362,
       "name": "Las Venas Abiertas...",
       "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 235050,
       "name": "Legions of Bastards",
       "url": "https://open.spotify.com/track/5djs09h5VV3M60FkNRR9tK"
@@ -1215,7 +1233,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 235664,
       "name": "Mawiza \u00d1i Piwke",
       "url": "https://open.spotify.com/track/0CXdGgWZMDr8ze8NO2XAjd"
@@ -1312,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "No Hay Dios, No Hay Nadie",
+        "url": "https://open.spotify.com/album/3fSAZsw0tIfbFIq63TmG9B"
+      },
+      "artists": [
+        {
+          "name": "Cenizas",
+          "url": "https://open.spotify.com/artist/39F81nJERzsok1MPicL76j"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241250,
+      "name": "No Hay Dios, No Hay Nadie",
+      "url": "https://open.spotify.com/track/2oOuXVD2bE3mqeVDMmo9Px"
+    },
+    {
+      "album": {
         "name": "Nuevo Orden Mundial",
         "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
       },
@@ -1359,7 +1395,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 223588,
       "name": "Outsider God Creation (O.G.C)",
       "url": "https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ"
@@ -1377,10 +1413,28 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 309053,
       "name": "O\u00eddos Sordos",
       "url": "https://open.spotify.com/track/77LC0Gp1UA0tURs9iTF0Bk"
+    },
+    {
+      "album": {
+        "name": "Fuerza Metal",
+        "url": "https://open.spotify.com/album/00qPzHDaaXYuQohykbushK"
+      },
+      "artists": [
+        {
+          "name": "Ursus",
+          "url": "https://open.spotify.com/artist/60cpBRimjYOTTE3jnr7o9L"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Patria Grande",
+      "url": "https://open.spotify.com/track/4iLCcS2FPLARpk79K048Xd"
     },
     {
       "album": {
@@ -1435,6 +1489,24 @@
       "duration_ms": 107693,
       "name": "Policia",
       "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
+    },
+    {
+      "album": {
+        "name": "Carnage Drinking Party",
+        "url": "https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR"
+      },
+      "artists": [
+        {
+          "name": "Gore and Carnage",
+          "url": "https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170161,
+      "name": "Poseido Por Mezcal",
+      "url": "https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp"
     },
     {
       "album": {
@@ -1561,7 +1633,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
@@ -1655,7 +1727,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 263778,
       "name": "Screams from the South",
       "url": "https://open.spotify.com/track/7mNPAgUtwKRMw6IZVHwrBY"
@@ -1763,7 +1835,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 242480,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/22kU9DVCNqs61A4MO52QXq"
@@ -1781,7 +1853,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 259532,
       "name": "Strong as Hell",
       "url": "https://open.spotify.com/track/30QNaLNk7w1eOV8HeiATZr"

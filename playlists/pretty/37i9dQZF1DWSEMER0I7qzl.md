@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 
 > These songs will make you feel better\. Or maybe worse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,118 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,117 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEMER0I7qzl.md) - [plain]
 | 24 | [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 |
 | 25 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 |
 
-Snapshot ID: `MTY0MTQyNzU1MiwwMDAwMDAwMDg3ODY4NGQyYzkyYWQ3Mjg3NTI2NTI1MzEwOTU0YzJm`
+Snapshot ID: `MTY0MTQyOTYwMCwwMDAwMDAwMDg3ODY4NGQyYzkyYWQ3Mjg3NTI2NTI1MzEwOTU0YzJm`
