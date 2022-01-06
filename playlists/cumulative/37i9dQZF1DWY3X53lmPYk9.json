@@ -502,6 +502,24 @@
     },
     {
       "album": {
+        "name": "It Might As Well Be Spring",
+        "url": "https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY"
+      },
+      "artists": [
+        {
+          "name": "Simone Bergenson",
+          "url": "https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264624,
+      "name": "It Might As Well Be Spring",
+      "url": "https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL"
+    },
+    {
+      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/6e4jhbpbyodyS1CPOwpxMC"
       },

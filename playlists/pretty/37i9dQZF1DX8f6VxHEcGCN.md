@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6VxHEcGCN.md) - [plain]
 
 > The man, the myth, the legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,140 likes - 74 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,235 likes - 74 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

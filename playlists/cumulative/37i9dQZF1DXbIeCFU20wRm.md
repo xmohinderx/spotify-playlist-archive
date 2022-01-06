@@ -2,7 +2,7 @@
 
 ### [Atmospheric Sci\-fi Soundtracks](https://open.spotify.com/playlist/6Oa8CkO2ISfYH7FRf5Faa7)
 
-> <p>Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks\. Twin playlist: <a href="spotify:user:spotify:playlist:37i9dQZF1DX0i61tT0OnnK">Space\-themed Classical Music</a>.</p>
+> Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Breath Of The Wilderness",
+        "url": "https://open.spotify.com/album/4WiJ4NAttKpGAYkdT2TnTK"
+      },
+      "artists": [
+        {
+          "name": "Mhino",
+          "url": "https://open.spotify.com/artist/1DR1nFSKpiWjUZO4PpydG8"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195857,
+      "name": "Breath Of The Wilderness",
+      "url": "https://open.spotify.com/track/7lVRii95o1sRkanRZTNVOk"
+    },
+    {
+      "album": {
         "name": "Breathe Underwater",
         "url": "https://open.spotify.com/album/64NlX9C7nzKNLIa3Zw2eB5"
       },

@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 221066,
       "name": "Birds",
       "url": "https://open.spotify.com/track/5EGPgYmkYZbA4vEVVAFaOL"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 114120,
       "name": "Crater Lake",
       "url": "https://open.spotify.com/track/1lat1ihaU57L6V7s15SQXz"
@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "Ionia",
+        "url": "https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lou & the Flatbellys",
+          "url": "https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245839,
+      "name": "Everything Changed",
+      "url": "https://open.spotify.com/track/75lG0mNxn3YH7MD4qcLkA6"
+    },
+    {
+      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 229586,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/0ukHQwbkc9Tikwus91vQVM"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 205604,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 223438,
       "name": "Mr. Rodriguez",
       "url": "https://open.spotify.com/track/1EwOzBNrUVW4Llnnc5YxXI"
@@ -1641,7 +1659,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -1731,7 +1749,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 195494,
       "name": "Paula Collins",
       "url": "https://open.spotify.com/track/4bmsylpNL4dgJkEZ7nApzW"
@@ -1919,7 +1937,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 190000,
       "name": "Secret - Acoustic",
       "url": "https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P"
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 282146,
       "name": "Six Years",
       "url": "https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps"
@@ -2345,7 +2363,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 201388,
       "name": "Unraveling",
       "url": "https://open.spotify.com/track/5adFBGlU7UubGUPVUpEljl"
@@ -2493,7 +2511,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"

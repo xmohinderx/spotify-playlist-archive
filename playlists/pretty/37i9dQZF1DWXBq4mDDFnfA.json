@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sound of classical guitar. ",
   "name": "Relaxing Classical Guitar",
-  "num_followers": 125642,
+  "num_followers": 125679,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDg3MzEzMSwwMDAwMDAwYzAwMDAwMTdhNTFmYzVmMmUwMDAwMDE3YTJmNjM4YmQ3",
+  "snapshot_id": "MTY0MTM5NTQwMSwwMDAwMDAwZDAwMDAwMTdlMmFjYTM0ZWYwMDAwMDE3YTJmNjM4YmQ3",
   "tracks": [
     {
       "added_at": "2021-06-28 09:38:51",
@@ -347,26 +347,6 @@
     {
       "added_at": "2021-06-28 09:38:51",
       "album": {
-        "name": "LAGQ",
-        "url": "https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO"
-      },
-      "artists": [
-        {
-          "name": "Peter Maxwell Davies",
-          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
-        },
-        {
-          "name": "Los Angeles Guitar Quartet",
-          "url": "https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "The Yellow Cake Review, Farewell to Stromness (Excerpt)",
-      "url": "https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli"
-    },
-    {
-      "added_at": "2021-06-28 09:38:51",
-      "album": {
         "name": "Americano",
         "url": "https://open.spotify.com/album/3TVHDS4WRtLks6XC5ct7E5"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 282573,
       "name": "Cancion de cuna",
       "url": "https://open.spotify.com/track/2WfTVYdHjDvFaaVLGN1wEO"
+    },
+    {
+      "added_at": "2021-06-28 09:38:51",
+      "album": {
+        "name": "LAGQ",
+        "url": "https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO"
+      },
+      "artists": [
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "name": "Los Angeles Guitar Quartet",
+          "url": "https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "The Yellow Cake Review, Farewell to Stromness (Excerpt)",
+      "url": "https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli"
     },
     {
       "added_at": "2021-06-28 09:38:51",

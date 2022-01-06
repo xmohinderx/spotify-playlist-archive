@@ -1344,6 +1344,24 @@
     },
     {
       "album": {
+        "name": "Hesperus",
+        "url": "https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH"
+      },
+      "artists": [
+        {
+          "name": "Rosa L\u00f8vstr\u00f8m",
+          "url": "https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Hesperus",
+      "url": "https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM"
+    },
+    {
+      "album": {
         "name": "Hibernation",
         "url": "https://open.spotify.com/album/130XxDY9DAdC2uhyB9AGaT"
       },
@@ -1485,6 +1503,24 @@
       "duration_ms": 179750,
       "name": "I din n\u00e6rhet",
       "url": "https://open.spotify.com/track/04QbFy5NlBOJVvQEGlRwsm"
+    },
+    {
+      "album": {
+        "name": "I et andet liv",
+        "url": "https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG"
+      },
+      "artists": [
+        {
+          "name": "Minik Knudsen",
+          "url": "https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "I et andet liv",
+      "url": "https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ"
     },
     {
       "album": {
@@ -2669,7 +2705,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183750,
       "name": "Remembering",
       "url": "https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr"
@@ -3429,6 +3465,24 @@
       "duration_ms": 169000,
       "name": "Trust the Universe",
       "url": "https://open.spotify.com/track/4P7LF3ktiDORMF1coYTf66"
+    },
+    {
+      "album": {
+        "name": "T\u00e1rvotur",
+        "url": "https://open.spotify.com/album/4ke954jKmKZUkxcabOeQFf"
+      },
+      "artists": [
+        {
+          "name": "Atli Einarsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/213t12SUo7qH5ZsE6Uvz1a"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111111,
+      "name": "T\u00e1rvotur",
+      "url": "https://open.spotify.com/track/6T0m8sQSWphNq6gUjN8BSi"
     },
     {
       "album": {

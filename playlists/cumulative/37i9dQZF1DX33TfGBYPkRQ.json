@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 215933,
       "name": "A Lack Of Color",
       "url": "https://open.spotify.com/track/4mCF3EBgGPSqmEm205KBAV"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 216120,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 268800,
       "name": "Almost Lover",
       "url": "https://open.spotify.com/track/3GSYWQNnSdovwC2H8HpziA"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 251840,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 223773,
       "name": "Dependable People and Things That I'm Sure Of",
       "url": "https://open.spotify.com/track/4mGsec7zvqP23XGIh91AJX"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 357226,
       "name": "Devastating - Demo",
       "url": "https://open.spotify.com/track/52WVwH53Z4FgGiabokIK1p"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 181960,
       "name": "For You",
       "url": "https://open.spotify.com/track/4ztkUoiiPrsxK9llT6NWEp"
@@ -1133,7 +1133,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 192934,
       "name": "Love Is a Terrible Thing",
       "url": "https://open.spotify.com/track/3NFDsbi0QPErMddPE2A9QF"
@@ -1487,10 +1487,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 299040,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4sS89nAQUy2fRZWbyJWDQV"
+    },
+    {
+      "album": {
+        "name": "Tall Tall Shadow",
+        "url": "https://open.spotify.com/album/7oEhUCNeWxXS1nJOcc9oNL"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Paris Or Amsterdam",
+      "url": "https://open.spotify.com/track/0pF5Fa1luVMF03ZbyGubPb"
     },
     {
       "album": {
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 189240,
       "name": "Pills",
       "url": "https://open.spotify.com/track/4XYOnP0tFe8ifE3hHitQBF"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 230006,
       "name": "placeholder",
       "url": "https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 202493,
       "name": "Waltz #1",
       "url": "https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 289160,
       "name": "Without You - Alternate Version",
       "url": "https://open.spotify.com/track/66kaac3HotbZrHm0HF3Fbs"

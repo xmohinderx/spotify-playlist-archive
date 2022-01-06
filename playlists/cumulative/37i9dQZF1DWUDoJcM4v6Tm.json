@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Age of Apathy",
+        "url": "https://open.spotify.com/album/48Wth3kYQNTjOsPZ5n6a77"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238218,
+      "name": "Age of Apathy",
+      "url": "https://open.spotify.com/track/69MFthcMTOCpnGgQaa9OTj"
+    },
+    {
+      "album": {
         "name": "Ain't That The Way",
         "url": "https://open.spotify.com/album/1s1n8hW8oWLzTlj2w2nGLn"
       },
@@ -215,6 +233,28 @@
       "duration_ms": 270676,
       "name": "Bonny Light Horseman",
       "url": "https://open.spotify.com/track/5MBogTR3yEa0gQJmH7ayQd"
+    },
+    {
+      "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        },
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172324,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
     },
     {
       "album": {
@@ -428,6 +468,24 @@
     },
     {
       "album": {
+        "name": "Colorado Blues",
+        "url": "https://open.spotify.com/album/7mk5dBCDyzFHhEmg3JwtWQ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Culwell",
+          "url": "https://open.spotify.com/artist/40IqnqvUuwdqvOflDfyWZ6"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "Colorado Blues",
+      "url": "https://open.spotify.com/track/2qew8GpEiZ9ApwgWPamrj3"
+    },
+    {
+      "album": {
         "name": "Lean Year",
         "url": "https://open.spotify.com/album/4GBG1Gq0qREhpY6VSJRTrO"
       },
@@ -529,7 +587,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 324720,
       "name": "Elegy",
       "url": "https://open.spotify.com/track/5sPNttfjXoIxQ6weEX9EW9"
@@ -551,6 +609,24 @@
       "duration_ms": 206077,
       "name": "Everybody's Son",
       "url": "https://open.spotify.com/track/3lnoIG96JQAQnoZ8nyejHe"
+    },
+    {
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279186,
+      "name": "Face Down In The Moment",
+      "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
     },
     {
       "album": {
@@ -587,6 +663,24 @@
       "duration_ms": 209511,
       "name": "Flags",
       "url": "https://open.spotify.com/track/1CV6EB87upvFxfxJzFyL5T"
+    },
+    {
+      "album": {
+        "name": "Flyin' Overhead",
+        "url": "https://open.spotify.com/album/7weMOuQtaLZ5IM1FFpSv8v"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291238,
+      "name": "Flyin' Overhead",
+      "url": "https://open.spotify.com/track/67djP6VPqGDjG5jJgBEuQb"
     },
     {
       "album": {
@@ -951,7 +1045,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 215800,
       "name": "In Brooklyn",
       "url": "https://open.spotify.com/track/2Jb4nEP0w6EtFhfRp2aiDg"
@@ -1005,7 +1099,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 199233,
       "name": "Laughter",
       "url": "https://open.spotify.com/track/3Tm6srHVF3aHS2nWCRaXo0"
@@ -1236,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "No Reason / Spud Infinity",
+        "url": "https://open.spotify.com/album/13lNwYutq39VEtYK5nJ617"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227156,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/0V6whmxgRbeeJpijQXUbDN"
+    },
+    {
+      "album": {
         "name": "Narcissist - EP",
         "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
@@ -1414,6 +1526,24 @@
     },
     {
       "album": {
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242149,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
+    },
+    {
+      "album": {
         "name": "Secret (Acoustic)",
         "url": "https://open.spotify.com/album/7BHKR9opVrudKl3vxPkbHt"
       },
@@ -1479,7 +1609,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 185880,
       "name": "So Simpatico - Edit",
       "url": "https://open.spotify.com/track/4GzHrLySoKpHdsLwZDwioT"
@@ -1969,7 +2099,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 205821,
       "name": "White Frost (Acoustic)",
       "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"

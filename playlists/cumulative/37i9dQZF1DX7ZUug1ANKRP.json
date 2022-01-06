@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Peak-time bangers and emerging future hits. Cover: Armin van Buuren, The Stickmen Project",
+  "description": "Peak-time bangers and emerging future hits. Cover: Timmy Trumpet, Azteck, Darren Styles",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 162460,
       "name": "Bring It Back To Me",
       "url": "https://open.spotify.com/track/5pqm3ulg0pXHgJ53dHpP23"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 141596,
       "name": "Count to 10",
       "url": "https://open.spotify.com/track/6EKnLmVxgp2iSrRT8YPYPU"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 173858,
       "name": "Over You (feat. Lovespeake)",
       "url": "https://open.spotify.com/track/2WCInR4Z5mlpuk6qbYooQE"
@@ -885,6 +885,36 @@
       "duration_ms": 280002,
       "name": "Pepas - Robin Schulz Remix",
       "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
+    },
+    {
+      "album": {
+        "name": "Plans of Power",
+        "url": "https://open.spotify.com/album/4WE3CbiYxebVQhma5WXDbh"
+      },
+      "artists": [
+        {
+          "name": "Beachbag",
+          "url": "https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg"
+        },
+        {
+          "name": "BASTL",
+          "url": "https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB"
+        },
+        {
+          "name": "Rebecca Helena",
+          "url": "https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr"
+        },
+        {
+          "name": "JUNAR",
+          "url": "https://open.spotify.com/artist/3zgpKuFgnlyjRik8UZtYFQ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151267,
+      "name": "Plans of Power",
+      "url": "https://open.spotify.com/track/0iRoEWnP60m4Cj9z0xQucn"
     },
     {
       "album": {
@@ -1181,6 +1211,58 @@
       "duration_ms": 181384,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/1Onv3cRh9SxhddcpCiA9Cn"
+    },
+    {
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lars Martin",
+          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141312,
+      "name": "Typical (feat. Lars Martin)",
+      "url": "https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob"
+    },
+    {
+      "album": {
+        "name": "Unbreakable (Benny Benassi Remix)",
+        "url": "https://open.spotify.com/album/6Heo87c111ire6HfcqVJTo"
+      },
+      "artists": [
+        {
+          "name": "TELYKast",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152640,
+      "name": "Unbreakable - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2WOyQFzLn2C7zhQVDCiKog"
     },
     {
       "album": {

@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 198453,
       "name": "1, 3, 2 (JEONGYEON, MINA, TZUYU)",
       "url": "https://open.spotify.com/track/6bS9w12VuyaqkbNKnw5zZE"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 213293,
       "name": "A Song Written Easily",
       "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 200813,
       "name": "AH EE YAH",
       "url": "https://open.spotify.com/track/3nTmLNMMydS6NjSvS5Mqa9"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 202400,
       "name": "AYAYAYA",
       "url": "https://open.spotify.com/track/4Cuh5uqjIgUw4GRxqABUxh"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 181146,
       "name": "Better Me",
       "url": "https://open.spotify.com/track/7sikv3XMiEIDESAS7PEkBB"
@@ -528,6 +528,24 @@
     },
     {
       "album": {
+        "name": "BLUE FLAME",
+        "url": "https://open.spotify.com/album/4fjvLKlsbalQp5Z8gDpk4l"
+      },
+      "artists": [
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Blue Flame",
+      "url": "https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d"
+    },
+    {
+      "album": {
         "name": "Summer Magic - Summer Mini Album",
         "url": "https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo"
       },
@@ -539,7 +557,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 196093,
       "name": "Blue Lemonade",
       "url": "https://open.spotify.com/track/5XTQXTzEVpYq8wL6DZYgSz"
@@ -615,7 +633,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 176906,
       "name": "Break Ice",
       "url": "https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS"
@@ -695,7 +713,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206226,
       "name": "Colors",
       "url": "https://open.spotify.com/track/43THyrphAhAoeR5HEarSVn"
@@ -731,7 +749,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 147320,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/51m3W8o9IlVrdWDEyqSY4F"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 216720,
       "name": "Dear you",
       "url": "https://open.spotify.com/track/1mttCFELeKHQIs6A3WUNj5"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 187186,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/3aLwbQySjtFC963K2oEWDE"
@@ -991,7 +1009,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 204040,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/2dPETee06bbHulsABk0h7I"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 193466,
       "name": "FIREWORK",
       "url": "https://open.spotify.com/track/5NhDDt5Zy8yGOECN3PLRdE"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 237076,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/56bHclo7YNvpujMveLElQn"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 234177,
       "name": "HOME",
       "url": "https://open.spotify.com/track/7lthOBXNue2IvedLRfkod8"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 210666,
       "name": "Hug You",
       "url": "https://open.spotify.com/track/1rOJZzHKqDg8hXHrVromt2"
@@ -1327,7 +1345,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 199402,
       "name": "I'm so sick",
       "url": "https://open.spotify.com/track/6oZee3RwM7GHykYHZeb7GT"
@@ -1493,7 +1511,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206386,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/211bSRBUn8BeVFjWCd1H0o"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 194783,
       "name": "Love Is The Answer",
       "url": "https://open.spotify.com/track/1UkM6U6lbhA8rMJjwqpXfU"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 191805,
       "name": "Luce Sicut Stellae",
       "url": "https://open.spotify.com/track/6j2Tpn3qQS2BLPNwytsefO"
@@ -1801,6 +1819,24 @@
       "duration_ms": 217486,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1aDarBap4uQgOt9k4fxWd8"
+    },
+    {
+      "album": {
+        "name": "SF9 4th Mini Album [ MAMMA MIA! ]",
+        "url": "https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204594,
+      "name": "MAMMA MIA",
+      "url": "https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX"
     },
     {
       "album": {
@@ -1951,7 +1987,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 193560,
       "name": "MY WAY",
       "url": "https://open.spotify.com/track/6J0X6cmz8etKQQ6IRdWBvD"
@@ -2309,7 +2345,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 197355,
       "name": "PLAYING WITH FIRE",
       "url": "https://open.spotify.com/track/7e7VjLxO5xJINHvnRytrqi"
@@ -2447,7 +2483,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 191139,
       "name": "Red Flavor",
       "url": "https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO"
@@ -2627,7 +2663,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 173133,
       "name": "SOS",
       "url": "https://open.spotify.com/track/0HqzhHq24yCgB9gz5dVFn8"
@@ -2681,7 +2717,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 231040,
       "name": "SUGAR",
       "url": "https://open.spotify.com/track/3J33REyr0X61LC869JrocX"
@@ -2891,7 +2927,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 199946,
       "name": "WAVE",
       "url": "https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f"
@@ -3025,7 +3061,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 206560,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/05FIKEv2c1TiKGzx6uK37S"
@@ -3065,7 +3101,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 198420,
       "name": "Why Don\u2019t You Know",
       "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"

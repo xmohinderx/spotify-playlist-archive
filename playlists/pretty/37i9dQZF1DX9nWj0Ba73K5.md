@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\.  Cover: Nicolle Galyon
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,493 likes - 152 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,529 likes - 152 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

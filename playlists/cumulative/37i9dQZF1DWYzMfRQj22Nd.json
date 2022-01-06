@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 227013,
       "name": "Aura",
       "url": "https://open.spotify.com/track/538IL5DHWHdD0vRUFIfMoM"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 308940,
       "name": "Behind The Glass",
       "url": "https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 213297,
       "name": "Better Off Without You (High Contrast Remix feat. Shift K3Y)",
       "url": "https://open.spotify.com/track/4EsFXXYwZYh4GD37aff1Db"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184871,
       "name": "Chicane - Kumarion Remix",
       "url": "https://open.spotify.com/track/7gULomk5ka4EC5EapKWWBj"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 248000,
       "name": "Collide - Bensley Remix",
       "url": "https://open.spotify.com/track/2DXL4PdMgc8VtoNWQIH17k"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 249600,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/1tYc6Rem6IXwKOXrJGhuZR"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Control Me",
       "url": "https://open.spotify.com/track/6FGayqvQemkqpDhHmoJawA"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 227657,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6uL5PowSCbpgBABwfsa3ZV"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "Dollars Aren't Cheap",
       "url": "https://open.spotify.com/track/6fklNCnvO8jDAFSTRxfaOP"
@@ -1513,7 +1513,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 184941,
       "name": "Hurt Me Too",
       "url": "https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG"
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 230961,
       "name": "Instinct",
       "url": "https://open.spotify.com/track/7eaF4wiEcDvtW9I16O4vrF"
@@ -1856,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Behind Locked Doors",
+        "url": "https://open.spotify.com/album/4k6LeKbtbm3RHCK12MxiT9"
+      },
+      "artists": [
+        {
+          "name": "not sorry",
+          "url": "https://open.spotify.com/artist/2YKPgLFl19Q2wRbqERhlYb"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270517,
+      "name": "Locked Doors",
+      "url": "https://open.spotify.com/track/4JSkZ87FkKvZYCE7xlBMkH"
+    },
+    {
+      "album": {
         "name": "ASCEND (Remixes)",
         "url": "https://open.spotify.com/album/2Ds60s4LcHcb77dNQm22kA"
       },
@@ -2017,7 +2035,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 318584,
       "name": "Mindhunter",
       "url": "https://open.spotify.com/track/7oX6tAI94JsHjiNih0OTQT"
@@ -2039,7 +2057,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 204827,
       "name": "Miracle - REAPER Remix",
       "url": "https://open.spotify.com/track/41JyOI4feB5z5vK6asNeo5"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 272166,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/32e8JAt86r5IuI8rxFLv1h"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 194882,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/1QgYm6U7EX2Bhpj3BOTLHQ"
@@ -2467,7 +2485,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200930,
       "name": "People of Eve",
       "url": "https://open.spotify.com/track/4A3LjYFcuPtVc5cEK20x9t"
@@ -2485,7 +2503,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 266511,
       "name": "Preset 42",
       "url": "https://open.spotify.com/track/4JzYhbg2VcSIw7nK1IyzgW"
@@ -2749,7 +2767,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 181569,
       "name": "RELOAD",
       "url": "https://open.spotify.com/track/6zCNAB1z3QdxklS8Hpo8yA"
@@ -2811,7 +2829,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 275862,
       "name": "Run Tings",
       "url": "https://open.spotify.com/track/0pTPFRllyljfjmAXRhmmNl"
@@ -2855,7 +2873,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 230000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/0b5UJakxft9nHQ0hpVi1Sc"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 223143,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2CKvhcxC6vuommXliI7CTJ"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 260689,
       "name": "See It Thru",
       "url": "https://open.spotify.com/track/7EFrOOnUKLolvsMKlfv3zc"
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 280521,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/3mRCdhxANth4d5BJJsB4hU"
@@ -3069,7 +3087,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 303448,
       "name": "Spice Weasel (BAM)",
       "url": "https://open.spotify.com/track/1l8exxRt0Da33dfrEzqiMR"
@@ -3207,7 +3225,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 290603,
       "name": "System Burn",
       "url": "https://open.spotify.com/track/0rWIcWOeIsx1sqX65Fqnkp"
@@ -3243,7 +3261,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 259306,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/0KsjGpHgQw2kJ1YeoVggRZ"
@@ -3553,7 +3571,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 173110,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/0AZRYgE5LSRn2FQNio8sgu"

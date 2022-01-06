@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The top 100 tracks from Fresh Finds Hip\-Hop in 2021\. Cover: Mike Dimes, Artwork: Alfie Kungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,845 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,058 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 58 | [You Got It](https://open.spotify.com/track/4ds41ycY4UZaxApauzIg40) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy) | [You Got It](https://open.spotify.com/album/4nJWzgMLcYpNdrjVDO5g81) | 4:12 |
 | 59 | [Roll the Dice](https://open.spotify.com/track/2gEGG6MHS4zbXn8dByzjVa) | [Kansh](https://open.spotify.com/artist/5NhfYdxgkSTb0OIStFPR1Z) | [Roll the Dice](https://open.spotify.com/album/1Mq57P7vGDz5XD9YiSqYCj) | 2:41 |
 | 60 | [Same Shit](https://open.spotify.com/track/1MQ6wDJ2zRvjZj26n8Lbag) | [Kiid Spyro](https://open.spotify.com/artist/6PIHKMrawce8FswYQe4O2U) | [Same Shit](https://open.spotify.com/album/5iWg3IoGLVgpzBAA4x0fHQ) | 2:07 |
-| 61 | [Better Float](https://open.spotify.com/track/5IgskbcpAkfsFnokFxG9ml) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Xjay](https://open.spotify.com/artist/2Hs03iXy433nxX20f7pe9V) | [Count Fast Untitled](https://open.spotify.com/album/6pR3kiPenP5VEQK9kn2xBQ) | 2:38 |
+| 61 | [Better Float](https://open.spotify.com/track/5IgskbcpAkfsFnokFxG9ml) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej), [Xjay](https://open.spotify.com/artist/0gKZpP2LAbQjbBlcO5oG6L) | [Count Fast Untitled](https://open.spotify.com/album/6pR3kiPenP5VEQK9kn2xBQ) | 2:38 |
 | 62 | [Drop Dat](https://open.spotify.com/track/4zWT8C2JhU1rLbmFeTeYxo) | [Larry Alabi](https://open.spotify.com/artist/2sxFUmv71CURKSJCgDXGF8), [Smilez](https://open.spotify.com/artist/6a6XQx0GYcdhqqy2zskc5E), [A9Nikz](https://open.spotify.com/artist/2DLW1xMXGTtdBNwhxXP9oN) | [Drop Dat](https://open.spotify.com/album/1XvSoqy1umTOvO7lq3AOqe) | 3:58 |
 | 63 | [Too Comfortable](https://open.spotify.com/track/6o430YO7OGbZzaUcfzf40T) | [AQ](https://open.spotify.com/artist/1lXmxcmcB5YYr5Tc27uzZP) | [Too Comfortable](https://open.spotify.com/album/7nheN2HPiSKlqYIDbtJUij) | 2:24 |
 | 64 | [WADDUP BITCH](https://open.spotify.com/track/6UKKaNvgdI8nWPWYPoKITl) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [WADDUP BITCH](https://open.spotify.com/album/2Z9PYRbyzZ2fvl7h2nCAvy) | 2:16 |

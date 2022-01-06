@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain](/playlists/plain/37i9dQZF1DX4OyEPaWHBdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OyEPaWHBdk)
 
-### [2021 MAMA](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
+### [The 36th Golden Disc Awards](https://open.spotify.com/playlist/37i9dQZF1DX4OyEPaWHBdk)
 
 > Check out the nominees for The 36th Golden Disc Awards!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,279 likes - 62 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,274 likes - 62 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 | 61 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 |
 | 62 | [Ponzona](https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [INTO VIOLET](https://open.spotify.com/album/3CjwKaPAPzaHgivlGFjsp4) | 3:11 |
 
-Snapshot ID: `MTY0MTI4MzI2NywwMDAwMDAxYzAwMDAwMTdlMjQxYjJhMmYwMDAwMDE3ZTIzZWU1ZDkz`
+Snapshot ID: `MTY0MTM1MDgxNCwwMDAwMDAxZDAwMDAwMTdlMjgyMWRhMDQwMDAwMDE3ZTIzZWU1ZDkz`

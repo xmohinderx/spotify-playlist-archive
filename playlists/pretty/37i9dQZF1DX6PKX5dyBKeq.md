@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The finest in UK rap\. Cover: SwitchOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 994,114 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 994,854 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 | 60 | [OT](https://open.spotify.com/track/72Ygf54e183dVuRD3fu2as) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [OT](https://open.spotify.com/album/7bB808PXQ5X33QEqPiyEXL) | 2:15 |
 | 61 | [Lock Your Doors](https://open.spotify.com/track/25u2HgkzAmtVLBY8UZlEJI) | [Desperado](https://open.spotify.com/artist/5FYCXDLeDeWkSdO2CllN4l), [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Lock Your Doors](https://open.spotify.com/album/7Cr74qBOQGKH0BYEozFwO1) | 2:58 |
 | 62 | [Ops](https://open.spotify.com/track/1Um0ouKAafZVarvHbVKgFZ) | [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [The Drama](https://open.spotify.com/album/4NtAJs2anuTTQztS6wc8xB) | 3:12 |
-| 63 | [D Double E \(feat\. Chip\)](https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [G's Only \(feat\. Chip\)](https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J) | 3:42 |
+| 63 | [G's Only \(feat\. Chip\)](https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT) | [G's Only \(feat\. Chip\)](https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J) | 3:42 |
 | 64 | [Differences](https://open.spotify.com/track/6tFcwSh4nygzReGqAqax7c) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Differences / Innocent](https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq) | 3:25 |
 | 65 | [Innocent](https://open.spotify.com/track/4ZyFlO3nB9F7TxV5qHJNXW) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Differences / Innocent](https://open.spotify.com/album/25hqOArKlTnrVOG7yC9dmq) | 2:47 |
 

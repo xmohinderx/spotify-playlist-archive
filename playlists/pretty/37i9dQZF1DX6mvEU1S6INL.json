@@ -1,12 +1,12 @@
 {
   "description": "It's just us\u2014and this awesome alt soundtrack.",
   "name": "You & Me",
-  "num_followers": 803620,
+  "num_followers": 804539,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTA5NjE0NywwMDAwMDA1NTAwMDAwMTdkYTFiZTYwMWIwMDAwMDE2ZDAwYWY3MWFj",
+  "snapshot_id": "MTY0MTM5OTY2MywwMDAwMDA1NjAwMDAwMTdlMmIwYjNjN2QwMDAwMDE2ZDAwYWY3MWFj",
   "tracks": [
     {
       "added_at": "2021-12-10 00:29:07",
@@ -311,6 +311,26 @@
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
+    },
+    {
+      "added_at": "2022-01-05 16:21:03",
+      "album": {
+        "name": "Born To Die",
+        "url": "https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK"
+      },
+      "artists": [
+        {
+          "name": "JJ Wilde",
+          "url": "https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6"
+        },
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        }
+      ],
+      "duration_ms": 172324,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9"
     },
     {
       "added_at": "2021-12-10 00:29:07",
@@ -967,22 +987,6 @@
       "duration_ms": 252906,
       "name": "Cocoa Hooves",
       "url": "https://open.spotify.com/track/4tGQUAnrOXuM3epCM8OBYC"
-    },
-    {
-      "added_at": "2021-12-10 00:29:07",
-      "album": {
-        "name": "Equatorial Ultravox EP",
-        "url": "https://open.spotify.com/album/2vXASNgxhjWSV5cGkJc28o"
-      },
-      "artists": [
-        {
-          "name": "Chad Valley",
-          "url": "https://open.spotify.com/artist/1rzpgMqxYjRQo4UmWZimFc"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "Fast Challenges",
-      "url": "https://open.spotify.com/track/6QBcQLg558ZCIkRJv4qNNr"
     },
     {
       "added_at": "2021-12-10 00:29:07",

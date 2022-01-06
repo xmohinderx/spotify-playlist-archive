@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our universe ft. Ashnikko",
+  "description": "welcome to our universe ft. Ghostemane",
   "name": "misfits 2.0",
   "published_playlist_ids": [
     "7v4i1kizdUXc9HxDt7gAmG"
@@ -99,6 +99,24 @@
       "duration_ms": 189959,
       "name": "Arguments",
       "url": "https://open.spotify.com/track/0mTWdpD4Q88OA9KWxzgb2K"
+    },
+    {
+      "album": {
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub"
+      },
+      "artists": [
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169455,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y"
     },
     {
       "album": {
@@ -229,7 +247,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 122411,
       "name": "BORED",
       "url": "https://open.spotify.com/track/3CaCddaop8aqxQp6MRP4SF"
@@ -251,6 +269,36 @@
       "duration_ms": 138857,
       "name": "buckshot boy",
       "url": "https://open.spotify.com/track/0UDKAvVtuX8oxvpuUjsBbR"
+    },
+    {
+      "album": {
+        "name": "CORPSE$",
+        "url": "https://open.spotify.com/album/2RelSGPWsonQDrBVgLqXnA"
+      },
+      "artists": [
+        {
+          "name": "LUzA CULT",
+          "url": "https://open.spotify.com/artist/3PNeM7iJ589do6dmOP26IT"
+        },
+        {
+          "name": "Lui Surreal",
+          "url": "https://open.spotify.com/artist/1iYbQXLrNdjcndT8cyfA8m"
+        },
+        {
+          "name": "SAVE Az",
+          "url": "https://open.spotify.com/artist/41zUkY4aPJbXRPGdDH25y7"
+        },
+        {
+          "name": "triplesixdelete",
+          "url": "https://open.spotify.com/artist/1MWqzCKKuVN5wDahu2F4g2"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104779,
+      "name": "CORPSE$",
+      "url": "https://open.spotify.com/track/0J5apfOF4WspEaSzDf5CIn"
     },
     {
       "album": {
@@ -345,10 +393,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 207141,
       "name": "DiE4u",
       "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "album": {
+        "name": "DiE4u (six impala \"DiE6u\" Remix)",
+        "url": "https://open.spotify.com/album/5BPAG0wIJVwNpqSqOQ6P6H"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167604,
+      "name": "DiE4u - six impala \"DiE6u\" Remix",
+      "url": "https://open.spotify.com/track/6gKqGwrNvxaKMAq6jb8nab"
     },
     {
       "album": {
@@ -771,7 +841,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 195750,
       "name": "I'M FINE! I'M GOOD! I'M PERFECT!",
       "url": "https://open.spotify.com/track/1ES945YJBmADUuIkXr3Mv3"
@@ -1093,7 +1163,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 169590,
       "name": "Outcast Radio",
       "url": "https://open.spotify.com/track/2ZXmDl6a8yvWRTrOml2wvS"
@@ -1190,6 +1260,28 @@
     },
     {
       "album": {
+        "name": "Read My Mind",
+        "url": "https://open.spotify.com/album/74ulDfyawnDdg7r86GQH72"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+        },
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205322,
+      "name": "Read My Mind",
+      "url": "https://open.spotify.com/track/6wjaAghthtTG3EEIPCI9b7"
+    },
+    {
+      "album": {
         "name": "REJECT",
         "url": "https://open.spotify.com/album/1n4TcO2kFYP2iQY5nYmAVe"
       },
@@ -1201,7 +1293,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 134763,
       "name": "REJECT",
       "url": "https://open.spotify.com/track/3eAvQAhMnpQBggJm8GM7hc"
@@ -1295,7 +1387,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 178404,
       "name": "Slumber Party (feat. Princess Nokia)",
       "url": "https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ"

@@ -2,7 +2,7 @@
 
 ### [Classical Moments in Movies](https://open.spotify.com/playlist/1QWhIJzyTDvacbNTzsyc3s)
 
-> Chill to the familiar <a href="http://open.spotify.com/genre/classical">classical</a> pieces featured in award\-winning films.
+> Chill to the familiar classical pieces featured in award\-winning films.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -1698,6 +1698,24 @@
     },
     {
       "album": {
+        "name": "bad luck",
+        "url": "https://open.spotify.com/album/0WSPPKm1jrkvYVCDbe5qub"
+      },
+      "artists": [
+        {
+          "name": "guardin",
+          "url": "https://open.spotify.com/artist/6zqcGQ6MH6yetBUoquMnL7"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169455,
+      "name": "bad luck",
+      "url": "https://open.spotify.com/track/36vsIkYZOTxHxKPPFoE65Y"
+    },
+    {
+      "album": {
         "name": "BAFFLEdd",
         "url": "https://open.spotify.com/album/6Y884qUpvihb0XbagTrUFG"
       },
@@ -3703,6 +3721,28 @@
       "duration_ms": 103105,
       "name": "cold & hot",
       "url": "https://open.spotify.com/track/64aqyJ93QNCy5Cce086rJt"
+    },
+    {
+      "album": {
+        "name": "come thru",
+        "url": "https://open.spotify.com/album/64tGtfAUug6pBCPyn8jHyy"
+      },
+      "artists": [
+        {
+          "name": "juno",
+          "url": "https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "come thru",
+      "url": "https://open.spotify.com/track/3kZLfFEvFmuRhpVM7Nyfq0"
     },
     {
       "album": {

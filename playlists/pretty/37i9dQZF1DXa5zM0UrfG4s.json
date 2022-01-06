@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Hagle & Den BB",
   "name": "Livet p\u00e5 B\u00f8gda!",
-  "num_followers": 73036,
+  "num_followers": 73057,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTM0MzYxMiwwMDAwMDAwMGFlYTE4ZjliZDlhZDJkNjM0ZTFlZTc1MzU2MDcwMmRm",
+  "snapshot_id": "MTY0MTQyNzk5OCwwMDAwMDAwMDhmNDI0MWM1OTE4MTI5ZTM3NDdjMzIwNjEyNzNiZTE5",
   "tracks": [
     {
       "added_at": "2021-12-16 23:00:00",
@@ -107,6 +107,30 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
+        "name": "Viddas Himmelbl\u00e5",
+        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
+      },
+      "artists": [
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        },
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        },
+        {
+          "name": "Nils Mikael H\u00e6tta",
+          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
+        }
+      ],
+      "duration_ms": 192282,
+      "name": "Viddas Himmelbla\u030a",
+      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
         "name": "Aldri tilbake",
         "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
       },
@@ -119,22 +143,6 @@
       "duration_ms": 201920,
       "name": "Aldri tilbake",
       "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Wellerman",
-        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
-      },
-      "artists": [
-        {
-          "name": "Cir.Cuz",
-          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Wellerman",
-      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -163,22 +171,18 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+        "name": "\u00c6rbesk\u00e6r",
+        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
       },
       "artists": [
         {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+      "duration_ms": 135542,
+      "name": "\u00c6rbesk\u00e6r",
+      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -203,18 +207,22 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "\u00c6rbesk\u00e6r",
-        "url": "https://open.spotify.com/album/2Wq5na5n7xXDAjeybcS8Ds"
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 135542,
-      "name": "\u00c6rbesk\u00e6r",
-      "url": "https://open.spotify.com/track/1KKqiE7UtShqsjZwYvWpm8"
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -255,46 +263,6 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Viddas Himmelbl\u00e5",
-        "url": "https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        },
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        },
-        {
-          "name": "Nils Mikael H\u00e6tta",
-          "url": "https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d"
-        }
-      ],
-      "duration_ms": 192282,
-      "name": "Viddas Himmelbla\u030a",
-      "url": "https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Sju Fjell",
-        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 178171,
-      "name": "Sju Fjell",
-      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
         "name": "Jag Vill Vara Din Margareta",
         "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
       },
@@ -315,8 +283,40 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Besseggen",
-        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+        "name": "Sju Fjell",
+        "url": "https://open.spotify.com/album/6G4i1PIp6o7sFrLThlIilQ"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 178171,
+      "name": "Sju Fjell",
+      "url": "https://open.spotify.com/track/04k0QThdHEp7kg3FpXVh0Q"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Du f\u00e5r aldri se meg naken igjen",
+        "url": "https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 167991,
+      "name": "Du f\u00e5r aldri se meg naken igjen",
+      "url": "https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Gamlehjem",
+        "url": "https://open.spotify.com/album/4FZmPKmKFAabBVML03Edei"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 165612,
-      "name": "Besseggen",
-      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+      "duration_ms": 181648,
+      "name": "Gamlehjem",
+      "url": "https://open.spotify.com/track/2RXKklb8MwRhH1nWE3YAha"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -351,38 +351,82 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Bara vara med dig",
-        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+        "name": "Wellerman",
+        "url": "https://open.spotify.com/album/6yNcSpbsvKajZWEOANv9NR"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Cir.Cuz",
+          "url": "https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E"
         }
       ],
-      "duration_ms": 161267,
-      "name": "Bara vara med dig",
-      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
+      "duration_ms": 151933,
+      "name": "Wellerman",
+      "url": "https://open.spotify.com/track/4rFhv1bOt5M7rRa83KEY71"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Sv\u00e6re Pupper",
+        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 138947,
+      "name": "Sv\u00e6re Pupper",
+      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "H\u00e6ljetur",
+        "url": "https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 145666,
+      "name": "H\u00e6ljetur",
+      "url": "https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Tempo Corvette",
+        "url": "https://open.spotify.com/album/3UmqEfp8hAPCLrLParsuBn"
+      },
+      "artists": [
+        {
+          "name": "Gaute Orm\u00e5sen",
+          "url": "https://open.spotify.com/artist/3G9sihtaNxkYD1zddHXRYS"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Tempo Corvette",
+      "url": "https://open.spotify.com/track/3ucFRyoQVvYhq0M0DSPdc5"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -407,50 +451,54 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+        "name": "H\u00e5per du er lykkelig n\u00e5",
+        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "River",
+          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
+        },
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
         }
       ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+      "duration_ms": 179760,
+      "name": "H\u00e5per du er lykkelig n\u00e5",
+      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Gamlehjem",
-        "url": "https://open.spotify.com/album/4FZmPKmKFAabBVML03Edei"
+        "name": "Bygda",
+        "url": "https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5"
       },
       "artists": [
         {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+          "name": "REMO",
+          "url": "https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug"
         }
       ],
-      "duration_ms": 181648,
-      "name": "Gamlehjem",
-      "url": "https://open.spotify.com/track/2RXKklb8MwRhH1nWE3YAha"
+      "duration_ms": 166929,
+      "name": "Bygda",
+      "url": "https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Vakker og vill",
-        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+        "name": "P\u00e5'n igjen",
+        "url": "https://open.spotify.com/album/2SMqoxFDfII83BER8hvtm3"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
         }
       ],
-      "duration_ms": 226946,
-      "name": "Vakker og vill",
-      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
+      "duration_ms": 208031,
+      "name": "P\u00e5'n igjen",
+      "url": "https://open.spotify.com/track/5Msl0GQxuRnzPPYyGXT2Fa"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -487,54 +535,6 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Sv\u00e6re Pupper",
-        "url": "https://open.spotify.com/album/17bmLiibdB9L5lrwi3EY1h"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 138947,
-      "name": "Sv\u00e6re Pupper",
-      "url": "https://open.spotify.com/track/77WdMakzs7lQvUagvlz4fD"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "P\u00e5 frifot",
-        "url": "https://open.spotify.com/album/6nuhPtk6nOPveRLjrqDWer"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        }
-      ],
-      "duration_ms": 196746,
-      "name": "P\u00e5 frifot",
-      "url": "https://open.spotify.com/track/0uRNd6KKAjyTgkVIzOeOLx"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Du f\u00e5r aldri se meg naken igjen",
-        "url": "https://open.spotify.com/album/4SVHYtGKfALHqpFnBqIKsX"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 167991,
-      "name": "Du f\u00e5r aldri se meg naken igjen",
-      "url": "https://open.spotify.com/track/4GABBQMuh1RMA2VPe1Uzud"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
         "name": "\u00c6rmen i k\u00e6rmen",
         "url": "https://open.spotify.com/album/1USwG4JXrWi6NYZoiskH4S"
       },
@@ -551,24 +551,8 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "En liten plass",
-        "url": "https://open.spotify.com/album/1GZN0qJ29ZlPxnAw1Kuayh"
-      },
-      "artists": [
-        {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
-        }
-      ],
-      "duration_ms": 188483,
-      "name": "En liten plass",
-      "url": "https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
+        "name": "Bare for i kveld",
+        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
       },
       "artists": [
         {
@@ -576,9 +560,149 @@
           "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+      "duration_ms": 196080,
+      "name": "Bare for i kveld",
+      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Du kan inte f\u00e5 min \u00f6l",
+        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
+      },
+      "artists": [
+        {
+          "name": "Albatraoz",
+          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+        }
+      ],
+      "duration_ms": 136100,
+      "name": "Du kan inte f\u00e5 min \u00f6l",
+      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Besseggen",
+        "url": "https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 165612,
+      "name": "Besseggen",
+      "url": "https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Livet p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 153843,
+      "name": "Livet p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Rompa mi",
+        "url": "https://open.spotify.com/album/2AJkF1bVcZvVnZqTBFATCs"
+      },
+      "artists": [
+        {
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Linni Meister",
+          "url": "https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR"
+        }
+      ],
+      "duration_ms": 207659,
+      "name": "Rompa mi",
+      "url": "https://open.spotify.com/track/4xh1HYiuwF8B200hbKW5Ic"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "H\u00e5per du er lykkelig n\u00e5",
+        "url": "https://open.spotify.com/album/6d3FqU5T8ReEejG5a8lUFs"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "H\u00e5per du er lykkelig n\u00e5",
+      "url": "https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Supa",
+        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Vakker og vill",
+        "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 226946,
+      "name": "Vakker og vill",
+      "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -599,18 +723,50 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Rundt neste sving",
-        "url": "https://open.spotify.com/album/5kK2tt52F3j9ARRsksxOHT"
+        "name": "Hem Till Dig",
+        "url": "https://open.spotify.com/album/2oIJCQbcw2uqu4rQ7RmOv4"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 235720,
-      "name": "Rundt neste sving",
-      "url": "https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j"
+      "duration_ms": 192377,
+      "name": "Hem Till Dig",
+      "url": "https://open.spotify.com/track/0dAA6gGibdlYXiYFyzWDX7"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Hej sk\u00e5l!",
+        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+      },
+      "artists": [
+        {
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hej sk\u00e5l!",
+      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Bara vara med dig",
+        "url": "https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 161267,
+      "name": "Bara vara med dig",
+      "url": "https://open.spotify.com/track/6XyttiDC9XtzILqteIADau"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -647,44 +803,88 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "H\u00e5per du er lykkelig n\u00e5",
-        "url": "https://open.spotify.com/album/3GZGmMzsRlOjxLthv0pvd7"
+        "name": "P\u00e5 frifot",
+        "url": "https://open.spotify.com/album/6nuhPtk6nOPveRLjrqDWer"
       },
       "artists": [
         {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5"
-        },
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
         }
       ],
-      "duration_ms": 179760,
-      "name": "H\u00e5per du er lykkelig n\u00e5",
-      "url": "https://open.spotify.com/track/6JOoTX5e0TAHCTWWpC7HrH"
+      "duration_ms": 196746,
+      "name": "P\u00e5 frifot",
+      "url": "https://open.spotify.com/track/0uRNd6KKAjyTgkVIzOeOLx"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Bare for i kveld",
-        "url": "https://open.spotify.com/album/2ezcQMPJ2ko3laaOsa3Ifo"
+        "name": "En liten plass",
+        "url": "https://open.spotify.com/album/1GZN0qJ29ZlPxnAw1Kuayh"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
         }
       ],
-      "duration_ms": 196080,
-      "name": "Bare for i kveld",
-      "url": "https://open.spotify.com/track/41HlW4QfsbuWK2OD8fb4Yl"
+      "duration_ms": 188483,
+      "name": "En liten plass",
+      "url": "https://open.spotify.com/track/2vuqZNKtukufFAxw7ur0vv"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+        "name": "Skjenkestopp",
+        "url": "https://open.spotify.com/album/7LgYrxQA5yqoUp21iiOXZR"
+      },
+      "artists": [
+        {
+          "name": "KOKKOS",
+          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
+        }
+      ],
+      "duration_ms": 159170,
+      "name": "Skjenkestopp",
+      "url": "https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Oslo (Takk, jeg er ferdig)",
+        "url": "https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 144586,
+      "name": "Oslo - Takk, jeg er ferdig",
+      "url": "https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Polare",
+        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+      },
+      "artists": [
+        {
+          "name": "Prilla Generalen",
+          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Polare",
+      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Polisen",
+        "url": "https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL"
       },
       "artists": [
         {
@@ -692,25 +892,25 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
+      "duration_ms": 154433,
+      "name": "Polisen",
+      "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Bygda",
-        "url": "https://open.spotify.com/album/6c88OcxwLQ74dib50EEtw5"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "REMO",
-          "url": "https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 166929,
-      "name": "Bygda",
-      "url": "https://open.spotify.com/track/5lx7a4TppA4OLmJhcNd6hz"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -731,34 +931,18 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Du kan inte f\u00e5 min \u00f6l",
-        "url": "https://open.spotify.com/album/5mC9mcXhQFXcGUuyyuMdcN"
+        "name": "N\u00e5 Koser Vi Oss",
+        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
       },
       "artists": [
         {
-          "name": "Albatraoz",
-          "url": "https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x"
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
         }
       ],
-      "duration_ms": 136100,
-      "name": "Du kan inte f\u00e5 min \u00f6l",
-      "url": "https://open.spotify.com/track/5htxjeCzsfkps5rh8ZiCd6"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "H\u00e6ljetur",
-        "url": "https://open.spotify.com/album/2GbMwa9XGFYyrZd5fvjIy7"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "H\u00e6ljetur",
-      "url": "https://open.spotify.com/track/4Yr9mAAOu4BtQ1tGf0WjOS"
+      "duration_ms": 169466,
+      "name": "N\u00e5 Koser Vi Oss",
+      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -783,56 +967,8 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Supa",
-        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "H\u00e5per du er lykkelig n\u00e5",
-        "url": "https://open.spotify.com/album/6d3FqU5T8ReEejG5a8lUFs"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "H\u00e5per du er lykkelig n\u00e5",
-      "url": "https://open.spotify.com/track/75iyWZ7FM8t5dm1nAvFo4d"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Kentucky",
-        "url": "https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7"
-      },
-      "artists": [
-        {
-          "name": "Donkeyboy",
-          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
-        }
-      ],
-      "duration_ms": 163140,
-      "name": "Kentucky",
-      "url": "https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Hej sk\u00e5l!",
-        "url": "https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS"
+        "name": "Bjudar p\u00e5",
+        "url": "https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw"
       },
       "artists": [
         {
@@ -840,125 +976,25 @@
           "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         }
       ],
-      "duration_ms": 129375,
-      "name": "Hej sk\u00e5l!",
-      "url": "https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl"
+      "duration_ms": 163053,
+      "name": "Bjudar p\u00e5",
+      "url": "https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S"
     },
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Hem Till Dig",
-        "url": "https://open.spotify.com/album/2oIJCQbcw2uqu4rQ7RmOv4"
+        "name": "Rundt neste sving",
+        "url": "https://open.spotify.com/album/5kK2tt52F3j9ARRsksxOHT"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
         }
       ],
-      "duration_ms": 192377,
-      "name": "Hem Till Dig",
-      "url": "https://open.spotify.com/track/0dAA6gGibdlYXiYFyzWDX7"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Livet p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 153843,
-      "name": "Livet p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Oslo (Takk, jeg er ferdig)",
-        "url": "https://open.spotify.com/album/0YiF4FO522DbWOwzfCW1Fc"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 144586,
-      "name": "Oslo - Takk, jeg er ferdig",
-      "url": "https://open.spotify.com/track/1KRshP62zz9fFXfRzqHOD8"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Skjenkestopp",
-        "url": "https://open.spotify.com/album/7LgYrxQA5yqoUp21iiOXZR"
-      },
-      "artists": [
-        {
-          "name": "KOKKOS",
-          "url": "https://open.spotify.com/artist/6EnV0svWRA9J0T3ALASlkk"
-        }
-      ],
-      "duration_ms": 159170,
-      "name": "Skjenkestopp",
-      "url": "https://open.spotify.com/track/2GiiOh2U8EQwWkORJd8FNI"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
-      },
-      "artists": [
-        {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Tempo Corvette",
-        "url": "https://open.spotify.com/album/3UmqEfp8hAPCLrLParsuBn"
-      },
-      "artists": [
-        {
-          "name": "Gaute Orm\u00e5sen",
-          "url": "https://open.spotify.com/artist/3G9sihtaNxkYD1zddHXRYS"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Tempo Corvette",
-      "url": "https://open.spotify.com/track/3ucFRyoQVvYhq0M0DSPdc5"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "De Aller Beste",
-        "url": "https://open.spotify.com/album/6ex4LgCUYXmoSyOUsW8NW7"
-      },
-      "artists": [
-        {
-          "name": "Scandinavia",
-          "url": "https://open.spotify.com/artist/5N3xjxgDYbxsAqEeB3OTSm"
-        }
-      ],
-      "duration_ms": 214866,
-      "name": "En Slant Til Trikken Hjem",
-      "url": "https://open.spotify.com/track/3Ha6Sri0JqpiI8wb3vIzsY"
+      "duration_ms": 235720,
+      "name": "Rundt neste sving",
+      "url": "https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -979,8 +1015,8 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Polisen",
-        "url": "https://open.spotify.com/album/4dVz4LIb33QKCJoxQPYyNL"
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
       },
       "artists": [
         {
@@ -988,157 +1024,9 @@
           "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         }
       ],
-      "duration_ms": 154433,
-      "name": "Polisen",
-      "url": "https://open.spotify.com/track/4wr2HgyYMvJourcfOMzPCb"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Bjudar p\u00e5",
-        "url": "https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "Bjudar p\u00e5",
-      "url": "https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "P\u00e5'n igjen",
-        "url": "https://open.spotify.com/album/2SMqoxFDfII83BER8hvtm3"
-      },
-      "artists": [
-        {
-          "name": "BEIST",
-          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
-        }
-      ],
-      "duration_ms": 208031,
-      "name": "P\u00e5'n igjen",
-      "url": "https://open.spotify.com/track/5Msl0GQxuRnzPPYyGXT2Fa"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Jag Gillar Dig",
-        "url": "https://open.spotify.com/album/3GJX0NsF7t5wOgdlhYLqn2"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        },
-        {
-          "name": "MC Gr\u00fcber",
-          "url": "https://open.spotify.com/artist/0yf7wmHhxJrbmKakyPqdWH"
-        }
-      ],
-      "duration_ms": 146560,
-      "name": "Jag Gillar Dig",
-      "url": "https://open.spotify.com/track/5pl2W8X6SDrxE55gRBTFmj"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Det \u00e5rn\u00e6r s\u00e6",
-        "url": "https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 178103,
-      "name": "Det \u00e5rn\u00e6r s\u00e6",
-      "url": "https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Sykepleierinnen (Remix)",
-        "url": "https://open.spotify.com/album/1hF27RvzdmRbqHgJwaAxrt"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 215119,
-      "name": "Sykepleierinnen - Remix",
-      "url": "https://open.spotify.com/track/7ysbOWocXnU71Td0ggrrGd"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "MDG (Jada, jada, jada)",
-        "url": "https://open.spotify.com/album/79cMNOvhoUDp7JvyndUw3r"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 62722,
-      "name": "MDG (Jada, jada, jada)",
-      "url": "https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Sova n\u00e4r vi d\u00f6r",
-        "url": "https://open.spotify.com/album/4em6rNBe95z9RM1JaWB6Eo"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 205588,
-      "name": "Sova n\u00e4r vi d\u00f6r",
-      "url": "https://open.spotify.com/track/6Z0Hi1lWsMHFUbIYqzt4Zl"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
-        "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-        "url": "https://open.spotify.com/album/4wURA9nH08GrDdKEdw1pkw"
-      },
-      "artists": [
-        {
-          "name": "DJ Anton",
-          "url": "https://open.spotify.com/artist/3MPjnETEr8lNQAEk05Pxg8"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        }
-      ],
-      "duration_ms": 172272,
-      "name": "Muggene Er Megasv\u00e6re (Elsker \u00d8l)",
-      "url": "https://open.spotify.com/track/2WGnDmEVAhElhPH9WGtmGK"
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -1175,26 +1063,6 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Rompa mi",
-        "url": "https://open.spotify.com/album/2AJkF1bVcZvVnZqTBFATCs"
-      },
-      "artists": [
-        {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Linni Meister",
-          "url": "https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR"
-        }
-      ],
-      "duration_ms": 207659,
-      "name": "Rompa mi",
-      "url": "https://open.spotify.com/track/4xh1HYiuwF8B200hbKW5Ic"
-    },
-    {
-      "added_at": "2021-12-16 23:00:00",
-      "album": {
         "name": "Bare s\u00e5 du vett det",
         "url": "https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw"
       },
@@ -1207,6 +1075,74 @@
       "duration_ms": 211800,
       "name": "Bare s\u00e5 du vett det",
       "url": "https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "V\u00c4RMLAND",
+        "url": "https://open.spotify.com/album/0ekx3OiXJ0DZ68xa5eM0XR"
+      },
+      "artists": [
+        {
+          "name": "Louise Andersson Bodin",
+          "url": "https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 146268,
+      "name": "V\u00c4RMLAND",
+      "url": "https://open.spotify.com/track/2t6YJRoJu1xKIq45Nk7EX6"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "MDG (Jada, jada, jada)",
+        "url": "https://open.spotify.com/album/79cMNOvhoUDp7JvyndUw3r"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 62722,
+      "name": "MDG (Jada, jada, jada)",
+      "url": "https://open.spotify.com/track/1BjSGxczJ2e4uwvAJstkKe"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Det \u00e5rn\u00e6r s\u00e6",
+        "url": "https://open.spotify.com/album/5VUUm9IhL7migYIkyKwLe5"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 178103,
+      "name": "Det \u00e5rn\u00e6r s\u00e6",
+      "url": "https://open.spotify.com/track/5h8cq31h3tTcEJRo4uceZp"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Kentucky",
+        "url": "https://open.spotify.com/album/4eGVVt1QCfPHoGGTK3dOS7"
+      },
+      "artists": [
+        {
+          "name": "Donkeyboy",
+          "url": "https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO"
+        }
+      ],
+      "duration_ms": 163140,
+      "name": "Kentucky",
+      "url": "https://open.spotify.com/track/0yx17H9TNoUkDpRCTxjsQs"
     },
     {
       "added_at": "2021-12-16 23:00:00",
@@ -1227,18 +1163,66 @@
     {
       "added_at": "2021-12-16 23:00:00",
       "album": {
-        "name": "Polare",
-        "url": "https://open.spotify.com/album/1EwzvvhJOXIFj3czonCPMr"
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
       },
       "artists": [
         {
-          "name": "Prilla Generalen",
-          "url": "https://open.spotify.com/artist/6tTI20dSq7pg481D7Mkcak"
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
         }
       ],
-      "duration_ms": 205666,
-      "name": "Polare",
-      "url": "https://open.spotify.com/track/1KdxeZM6J9GrCKdWeFwbQM"
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Danspunk",
+        "url": "https://open.spotify.com/album/6A1xmfg6FIEavYK0mmEswK"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3jky5ngzze3qNFigQCaP8L"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "Evig Ung",
+        "url": "https://open.spotify.com/album/4qTGCjhUEuScaKYoHPq7k5"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lgen",
+          "url": "https://open.spotify.com/artist/1oG6SP2Hw5TfGeRY5923PW"
+        }
+      ],
+      "duration_ms": 177026,
+      "name": "Evig Ung",
+      "url": "https://open.spotify.com/track/1JW9yOhRC3FKfaxTBcibQF"
+    },
+    {
+      "added_at": "2021-12-16 23:00:00",
+      "album": {
+        "name": "G\u00e5rdsgutt",
+        "url": "https://open.spotify.com/album/3xA6BKhYcsHshzx51a6hbc"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 160002,
+      "name": "Ga\u030ardsgutt",
+      "url": "https://open.spotify.com/track/4PZt3HFcJnC4QZQhBgEiQC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXa5zM0UrfG4s"

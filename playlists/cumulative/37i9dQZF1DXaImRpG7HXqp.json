@@ -1792,6 +1792,24 @@
     },
     {
       "album": {
+        "name": "Larghetto",
+        "url": "https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1"
+      },
+      "artists": [
+        {
+          "name": "Jan Wanninger",
+          "url": "https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185848,
+      "name": "Larghetto",
+      "url": "https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx"
+    },
+    {
+      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G"
       },
@@ -1933,6 +1951,24 @@
       "duration_ms": 152230,
       "name": "Lonely River",
       "url": "https://open.spotify.com/track/482Y0xLWcjYHFo7BcJw0Dm"
+    },
+    {
+      "album": {
+        "name": "Low Hanging Fruit",
+        "url": "https://open.spotify.com/album/1reJ7jRbbumaDTAabKziE6"
+      },
+      "artists": [
+        {
+          "name": "Robert Lowe",
+          "url": "https://open.spotify.com/artist/4omS6iWv8SKCrZULjKfeI5"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239535,
+      "name": "Low Hanging Fruit",
+      "url": "https://open.spotify.com/track/4Cjmwt8CPG0zusrNcnavxZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > The top 100 tracks from Fresh Finds Country in 2021\. Cover: Maggie Baugh, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,172 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,249 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

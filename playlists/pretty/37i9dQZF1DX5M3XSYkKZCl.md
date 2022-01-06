@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M3XSYkKZCl.md) - [plain]
 
 ### [This Is: Pavarotti](https://open.spotify.com/playlist/37i9dQZF1DX5M3XSYkKZCl)
 
-> A 50\-track introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era\. Including highlights from the operas of Verdi, Puccini, Donizetti and many more, plus Italian folk songs and pop crossover.
+> An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,994 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,042 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5M3XSYkKZCl.md) - [plain]
 | 49 | [Core 'ngrato \- Live](https://open.spotify.com/track/6rkbpNQxtaGYQwkNRYe69U) | [Salvatore Cardillo](https://open.spotify.com/artist/3gMg7jXcjquwaOKFHfa6dL), [José Carreras](https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15), [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestre de Paris](https://open.spotify.com/artist/0iERWmMl3nIvcDxnJsKZBd), [James Levine](https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa) | [The Three Tenors \- The Best of the 3 Tenors \(Live\)](https://open.spotify.com/album/2dDikF2g2KJ97TjKGwlSue) | 3:36 |
 | 50 | [Live Like Horses \- Live Finale Version](https://open.spotify.com/track/6WqCGiMD1cfQHedbQUUPwg) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Marco Armiliato](https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV) | [Pavarotti & Friends for War Child](https://open.spotify.com/album/2xtmWgpAXaPl7gaSqNjRUQ) | 4:59 |
 
-Snapshot ID: `MTYxNDk0MDk1OCwwMDAwMDAwOTAwMDAwMTc4MDFmYjcwZjgwMDAwMDE2ZDE1MTg3NTdh`
+Snapshot ID: `MTY0MTM5MjU0OSwwMDAwMDAwYTAwMDAwMTdlMmE5ZWFlYTQwMDAwMDE2ZDE1MTg3NTdh`

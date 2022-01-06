@@ -109,7 +109,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 169213,
       "name": "Alla flickor",
       "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 173880,
       "name": "Anropar f\u00f6rsvunnen",
       "url": "https://open.spotify.com/track/1eVSgfj4JN9T5RE5seKYXN"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 185373,
       "name": "Fairytale - e-single version",
       "url": "https://open.spotify.com/track/4ijrqnZcTEs9eMA3vFsMES"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 182320,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 190613,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/4ciaNqHWA2IzHphZaVRzHI"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 182773,
       "name": "H\u00e5ll om mig",
       "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
@@ -833,7 +833,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 169226,
       "name": "H\u00f6gt \u00f6ver havet",
       "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
@@ -930,6 +930,24 @@
     },
     {
       "album": {
+        "name": "I Afton Dans 12",
+        "url": "https://open.spotify.com/album/4C5Si01tgUtnneD7qi85zx"
+      },
+      "artists": [
+        {
+          "name": "Sandra Dahlberg",
+          "url": "https://open.spotify.com/artist/4hbA0aBde8hxnZpEsu9tlE"
+        }
+      ],
+      "date_added": "2019-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "Jag tar det jag vill ha",
+      "url": "https://open.spotify.com/track/3008zf9XAUGPyg4UhDfLgA"
+    },
+    {
+      "album": {
         "name": "Jag vill om du v\u00e5gar",
         "url": "https://open.spotify.com/album/4pUxlGjGKCzGo5y6Xs1ajU"
       },
@@ -959,7 +977,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 181560,
       "name": "Jalla dansa sawa",
       "url": "https://open.spotify.com/track/6mn9gln5HdtYE11FOjQdxN"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 181200,
       "name": "Just A Minute",
       "url": "https://open.spotify.com/track/2eAgErGWqrXow47SjwTqMp"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 167440,
       "name": "Just nu",
       "url": "https://open.spotify.com/track/5O3XbSZu25WqsNpRakQd6T"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184506,
       "name": "Kizunguzungu",
       "url": "https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 173960,
       "name": "La det swinge",
       "url": "https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC"
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 177013,
       "name": "La Voix",
       "url": "https://open.spotify.com/track/4eOtl9eGcrK5asFl2S1HPZ"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 184786,
       "name": "N\u00e4r vindarna viskar mitt namn",
       "url": "https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 177400,
       "name": "Upp \u00f6ver mina \u00f6ron",
       "url": "https://open.spotify.com/track/2LeECxc9pVxuHPTxkcSU6f"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184133,
       "name": "V\u00e4rlden utanf\u00f6r",
       "url": "https://open.spotify.com/track/4yOSH4Ys4I5JTjCYqQI0zL"
@@ -1795,7 +1813,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 174720,
       "name": "V\u00e4xeln hall\u00e5",
       "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"

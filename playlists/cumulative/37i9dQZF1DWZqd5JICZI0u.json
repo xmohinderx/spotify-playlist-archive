@@ -2010,6 +2010,24 @@
     },
     {
       "album": {
+        "name": "Hesperus",
+        "url": "https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH"
+      },
+      "artists": [
+        {
+          "name": "Rosa L\u00f8vstr\u00f8m",
+          "url": "https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Hesperus",
+      "url": "https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM"
+    },
+    {
+      "album": {
         "name": "Hibernation",
         "url": "https://open.spotify.com/album/5yEAkgLUufqQRCqwAbsS1R"
       },
@@ -2097,6 +2115,24 @@
       "duration_ms": 211304,
       "name": "Hypnoticum",
       "url": "https://open.spotify.com/track/7jNMkBF2qVypzudevxrC83"
+    },
+    {
+      "album": {
+        "name": "I et andet liv",
+        "url": "https://open.spotify.com/album/0g1IbymnrPiH2sgYQX1YKG"
+      },
+      "artists": [
+        {
+          "name": "Minik Knudsen",
+          "url": "https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "I et andet liv",
+      "url": "https://open.spotify.com/track/48UNHWGzRfk4AOKrCJM7XJ"
     },
     {
       "album": {
@@ -3537,7 +3573,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 195000,
       "name": "Our Days",
       "url": "https://open.spotify.com/track/57GPIJhz0kkO8YfcGN5bBV"
@@ -5247,7 +5283,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 192000,
       "name": "Underwater Manifestations",
       "url": "https://open.spotify.com/track/7oZCirsU9Gx3ipUMWpkQKb"

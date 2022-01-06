@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "All Fall Down",
+        "url": "https://open.spotify.com/album/3I0SRk2cx5R8JVlBNIX7yg"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187126,
+      "name": "All Fall Down",
+      "url": "https://open.spotify.com/track/6cijsAY72S4JJrA4RSFn1i"
+    },
+    {
+      "album": {
         "name": "Ixnay On The Hombre",
         "url": "https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS"
       },
@@ -127,7 +145,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 226613,
       "name": "Between Wounds",
       "url": "https://open.spotify.com/track/772FnT40LPQX1j2vx9BDzh"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 220910,
       "name": "Heart Mind Body & Soul",
       "url": "https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K"
@@ -325,7 +343,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 211635,
       "name": "I Am an Animal",
       "url": "https://open.spotify.com/track/2YAusOVNsAHpsN6oZ8XzoF"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 192520,
       "name": "I Would",
       "url": "https://open.spotify.com/track/7eU3TOEqEX6rK1Y9t7vthS"
@@ -361,7 +379,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 318320,
       "name": "Israel's Son",
       "url": "https://open.spotify.com/track/5ThcogW40jVm2MDxTRa3Nd"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 220446,
       "name": "Live Outside",
       "url": "https://open.spotify.com/track/4vBs5NhKXDLDTTwxAyY0IU"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 222588,
       "name": "Silverspoon",
       "url": "https://open.spotify.com/track/6I3l3hVdt7JyfZC112hweJ"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 210893,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/5KubAwSuCHu4EEd5Q4kUsZ"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 195680,
       "name": "The River",
       "url": "https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 225731,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/0Sie4zIpI18dBZ0ptyo0SP"
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 185610,
       "name": "White Onions",
       "url": "https://open.spotify.com/track/36GhBMw1CVJpsrazHYbXQy"

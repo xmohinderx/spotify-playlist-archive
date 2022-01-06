@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/4t8Cynw1OATHYvs7BoEBpr)
 
-> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Foto: Kim Loaiza
+> Lo mejor del reggaetón y flow actual, y lo que vendrá\. Foto: Rauw Alejandro, Chencho Corleone
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

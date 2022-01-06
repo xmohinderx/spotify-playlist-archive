@@ -4734,28 +4734,6 @@
     },
     {
       "album": {
-        "name": "G's Only (feat. Chip)",
-        "url": "https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J"
-      },
-      "artists": [
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
-        },
-        {
-          "name": "Chip",
-          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
-        }
-      ],
-      "date_added": "2021-11-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 222250,
-      "name": "D Double E (feat. Chip)",
-      "url": "https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD"
-    },
-    {
-      "album": {
         "name": "The Godfather 3",
         "url": "https://open.spotify.com/album/59lh0EJ7FGeio8iP101six"
       },
@@ -7323,6 +7301,28 @@
       "duration_ms": 181786,
       "name": "Full Throttle",
       "url": "https://open.spotify.com/track/6TvIdHBRPUJtjF1tSResuq"
+    },
+    {
+      "album": {
+        "name": "G's Only (feat. Chip)",
+        "url": "https://open.spotify.com/album/5JbpiMtqWbeOh83D5MmJ8J"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222250,
+      "name": "G's Only (feat. Chip)",
+      "url": "https://open.spotify.com/track/4K0DVbWRo1qeOPexVoITyD"
     },
     {
       "album": {

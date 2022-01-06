@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pVaiZBrrqq.md) - [plain]
 
 > All the best of The Laurie Berkner Band!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,676 likes - 76 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,704 likes - 76 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The top 70 tracks from Fresh Finds Latin in 2021. Los 70 top tracks de Fresh Finds Latin en 2021. Cover: Paty B",
-  "name": "Fresh Finds Latin: Lo Mejor de 2021",
+  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Cover: ODD MAMI",
+  "name": "Fresh Finds Latin",
   "published_playlist_ids": [
     "5ZY0PW884IrmtUbFQ3mqP3"
   ],
@@ -23,6 +23,24 @@
       "duration_ms": 180000,
       "name": "1111",
       "url": "https://open.spotify.com/track/4MsZ2HwRZyyFSEhIgYxjCB"
+    },
+    {
+      "album": {
+        "name": "1312 (Portarme Mal)",
+        "url": "https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary"
+      },
+      "artists": [
+        {
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218613,
+      "name": "1312 (Portarme Mal)",
+      "url": "https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9"
     },
     {
       "album": {
@@ -55,7 +73,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 216742,
       "name": "AFTERTASTE",
       "url": "https://open.spotify.com/track/7D0gqvo0mtZQ2z2YFKliXF"
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 146938,
       "name": "Agua",
       "url": "https://open.spotify.com/track/7jotpJ37YLNWhiNiMDF9Qr"
@@ -109,7 +127,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 225413,
       "name": "Alucin\u00e1ndote",
       "url": "https://open.spotify.com/track/3HqaT1GIpGmihVLhQiceMb"
@@ -127,10 +145,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 134634,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/3Jz3zwnn36LsrMfHExiyi8"
+    },
+    {
+      "album": {
+        "name": "Ayer",
+        "url": "https://open.spotify.com/album/0i8tJxuJb5A3XFfwjt04YQ"
+      },
+      "artists": [
+        {
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/2CC7YvpvEpBbhqVfB2KUh9"
     },
     {
       "album": {
@@ -203,7 +239,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 308400,
       "name": "Caminos de Cristal",
       "url": "https://open.spotify.com/track/39URgTcuoiIKh3iCvghcYh"
@@ -221,7 +257,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 141473,
       "name": "COCA",
       "url": "https://open.spotify.com/track/5cdXGNFL9Ctv5JckoRRF7O"
@@ -261,7 +297,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 213063,
       "name": "Cumbia de Orilla",
       "url": "https://open.spotify.com/track/4aWfXYbP6LMRMhFBCMD8eB"
@@ -279,7 +315,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 188400,
       "name": "Delorean",
       "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
@@ -315,7 +351,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184761,
       "name": "Destino",
       "url": "https://open.spotify.com/track/02rEaBQX5TXkTWgvLfGlVd"
@@ -333,7 +369,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 211455,
       "name": "EGO",
       "url": "https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH"
@@ -395,7 +431,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 178450,
       "name": "En Blanco",
       "url": "https://open.spotify.com/track/08UTYuUh7GwFX3HDF8dkEa"
@@ -471,7 +507,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 180161,
       "name": "Futuro Perfecto",
       "url": "https://open.spotify.com/track/4qDeQ3x0NRbRWCBhhKr6YA"
@@ -561,7 +597,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 215845,
       "name": "Isla M\u00e1gica",
       "url": "https://open.spotify.com/track/73BxLyxOvhiLfs3WcN0p6N"
@@ -615,10 +651,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 222682,
       "name": "Lo Que No Te Cont\u00e9",
       "url": "https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf"
+    },
+    {
+      "album": {
+        "name": "Loco y salvaje",
+        "url": "https://open.spotify.com/album/5ZCRwFQCjzrFx1lrSTjYeg"
+      },
+      "artists": [
+        {
+          "name": "Falvi",
+          "url": "https://open.spotify.com/artist/15yMlPVeiG7OuZOKODccFB"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271696,
+      "name": "Loco y salvaje",
+      "url": "https://open.spotify.com/track/5DMHo6ndpVf6AscYGMv1gg"
     },
     {
       "album": {
@@ -687,7 +741,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183428,
       "name": "Mamercute",
       "url": "https://open.spotify.com/track/0GiMhHkLKNno2IqhBV9PWO"
@@ -753,7 +807,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 236500,
       "name": "me qued\u00e9 con las ganas",
       "url": "https://open.spotify.com/track/0DGYekhl5RK4HvkrbIsFQP"
@@ -865,7 +919,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 381440,
       "name": "M\u00e9xico Quer\u00e9taro",
       "url": "https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7"
@@ -887,10 +941,32 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 135238,
       "name": "Ni Modo",
       "url": "https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM"
+    },
+    {
+      "album": {
+        "name": "No Pasara",
+        "url": "https://open.spotify.com/album/1Eo4lCHBoXkL7FHwdgMckY"
+      },
+      "artists": [
+        {
+          "name": "Quatro",
+          "url": "https://open.spotify.com/artist/0buT7bfmLPu4wKFXqPAHuJ"
+        },
+        {
+          "name": "SirMarquis",
+          "url": "https://open.spotify.com/artist/26moomqnIktfPd4h3kWrVl"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "No Pasara",
+      "url": "https://open.spotify.com/track/4EB5HtpOZ71vrl6WvjeiBt"
     },
     {
       "album": {
@@ -945,7 +1021,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 159449,
       "name": "Oh la La",
       "url": "https://open.spotify.com/track/73QJQGgA0iiR8blyPfvJwH"
@@ -963,7 +1039,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 147761,
       "name": "ojitos caramelo",
       "url": "https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF"
@@ -981,7 +1057,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 190678,
       "name": "Pantera",
       "url": "https://open.spotify.com/track/5ebVp3XJZM0rru4AUGLBMf"
@@ -1003,6 +1079,24 @@
       "duration_ms": 224396,
       "name": "Petr\u00f3leo",
       "url": "https://open.spotify.com/track/1u0BULx6Y9OscncG0hmatC"
+    },
+    {
+      "album": {
+        "name": "Peque\u00f1o C\u00edrculo Azul",
+        "url": "https://open.spotify.com/album/7wfrnvnbMtrxxRodxUF9eW"
+      },
+      "artists": [
+        {
+          "name": "Los Nasdrovia",
+          "url": "https://open.spotify.com/artist/2ZWTXCUN1ZfCuS9NnpfQel"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173518,
+      "name": "Primera Vez",
+      "url": "https://open.spotify.com/track/7DDWpFdk0a70B8Hk30XmiE"
     },
     {
       "album": {
@@ -1035,7 +1129,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
@@ -1143,7 +1237,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 189561,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2ClMSatGnGtuZONBVb6U1r"
@@ -1161,7 +1255,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 160239,
       "name": "Te Pienso",
       "url": "https://open.spotify.com/track/3sun7PwoHsN8cGOQcTyIje"
@@ -1208,6 +1302,24 @@
     },
     {
       "album": {
+        "name": "tournesol",
+        "url": "https://open.spotify.com/album/60CR0x9lxB2FUadJhSeKJg"
+      },
+      "artists": [
+        {
+          "name": "White MJ",
+          "url": "https://open.spotify.com/artist/7AAFbMxbkCk1nFDMHdrdoT"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189427,
+      "name": "tournesol",
+      "url": "https://open.spotify.com/track/0qJrBdxMDcKANTRrPxMZGB"
+    },
+    {
+      "album": {
         "name": "TRAP SALSA",
         "url": "https://open.spotify.com/album/71ppda8M3GxuTJPy4CwJCc"
       },
@@ -1219,7 +1331,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 177632,
       "name": "Trap Salsa",
       "url": "https://open.spotify.com/track/736NMAWokZxwV7oLQzj8OH"
@@ -1291,7 +1403,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 143750,
       "name": "Violeta",
       "url": "https://open.spotify.com/track/0lWkJrYgYYa1vOJfvIkxr8"

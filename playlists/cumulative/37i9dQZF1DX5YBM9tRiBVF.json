@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women from Belgium, at full volume. Cover: Pommelien Thijs",
+  "description": "Listen to women from Belgium, at full volume. Cover: MEYY",
   "name": "EQUAL Belgium",
   "published_playlist_ids": [
     "3owvrGw8mQsT590xhLQpXI"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 171676,
       "name": "About Losing Control",
       "url": "https://open.spotify.com/track/2rqHQOL5jQfhxrNdfBjq6L"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 172600,
       "name": "Diarabi",
       "url": "https://open.spotify.com/track/5W6K2cQwzPtduo2Rvca97X"
@@ -167,10 +167,28 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 193602,
       "name": "Do It",
       "url": "https://open.spotify.com/track/6U9b7UuFFr6pQBq9bg8zIf"
+    },
+    {
+      "album": {
+        "name": "Et Bam",
+        "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
+      },
+      "artists": [
+        {
+          "name": "Mentissa",
+          "url": "https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219241,
+      "name": "Et Bam",
+      "url": "https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz"
     },
     {
       "album": {
@@ -546,6 +564,24 @@
     },
     {
       "album": {
+        "name": "Non Stop",
+        "url": "https://open.spotify.com/album/1z80gpGSwHGNA7HdHYp8js"
+      },
+      "artists": [
+        {
+          "name": "Ella Kasumovic",
+          "url": "https://open.spotify.com/artist/7IkMx09LG9xJ4BbB3KSZmg"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149334,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/67blacGLsVDkAkiR1DAIBb"
+    },
+    {
+      "album": {
         "name": "On Me",
         "url": "https://open.spotify.com/album/02vPXecCjOm6HbMuw5mtof"
       },
@@ -655,6 +691,28 @@
       "duration_ms": 135920,
       "name": "PRETTY",
       "url": "https://open.spotify.com/track/0EH2THNT0WdnXEPpNOg46h"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/4iA6IF2ZeaXvkF1T0KIw2o"
+      },
+      "artists": [
+        {
+          "name": "MEYY",
+          "url": "https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5"
+        },
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236151,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0n3mJYAdd8KbnWEKeTCkGg"
     },
     {
       "album": {
@@ -795,7 +853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 171232,
       "name": "The swallow",
       "url": "https://open.spotify.com/track/3AxeXiil0VoLBkuFCRMNJz"

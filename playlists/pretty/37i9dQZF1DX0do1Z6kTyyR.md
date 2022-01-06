@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0do1Z6kTyyR.md) - [plain]
 
 > In memory of the South African jazz pioneer \(1939–2018\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,205 likes - 36 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,209 likes - 36 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

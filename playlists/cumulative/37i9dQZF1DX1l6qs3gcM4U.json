@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 221136,
       "name": "Beijei",
       "url": "https://open.spotify.com/track/2vZmLR6tlYvTv8UJOtLijZ"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 256026,
       "name": "Cara Trancada",
       "url": "https://open.spotify.com/track/1U07y8ugAZcUC2SMjasLoZ"
@@ -371,7 +371,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183092,
       "name": "Chouchou",
       "url": "https://open.spotify.com/track/4FSz7bPu2Otha5yvFZk1UQ"
@@ -494,6 +494,24 @@
     },
     {
       "album": {
+        "name": "Kizomba Mix 6 \u2013 Summer 2017",
+        "url": "https://open.spotify.com/album/3t5T4skcGp873n7Uh8VlBO"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217276,
+      "name": "Dem\u00f3nio da Tarraxinha",
+      "url": "https://open.spotify.com/track/1lynGSW6MMqxWXNXJIXPSu"
+    },
+    {
+      "album": {
         "name": "Desculpa",
         "url": "https://open.spotify.com/album/3TWn2CcXySUwuQCnPLFQXH"
       },
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 222928,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 279024,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
@@ -615,7 +633,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 165203,
       "name": "Dor d'um Kriolu",
       "url": "https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo"
@@ -651,7 +669,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 174501,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/63advOBOXbhkDmNXVHlCvw"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 283398,
       "name": "Eu Fa\u00e7o Tudo",
       "url": "https://open.spotify.com/track/0kERTymm6JXyMgKGMXCygE"
@@ -775,7 +793,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 214500,
       "name": "Exagerar",
       "url": "https://open.spotify.com/track/6WZuamKbhEv7uJnSPWtzAv"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 201253,
       "name": "Fa\u00e7o Como",
       "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
@@ -855,6 +873,28 @@
       "duration_ms": 202113,
       "name": "Fica Comigo",
       "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
+    },
+    {
+      "album": {
+        "name": "Mais de Mim",
+        "url": "https://open.spotify.com/album/6evUi8BHqDJDURIBsPRPLi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rola",
+          "url": "https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Fica Parado (feat. C4 Pedro)",
+      "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
     },
     {
       "album": {
@@ -1038,6 +1078,28 @@
     },
     {
       "album": {
+        "name": "J\u00e1 N\u00e3o Sei",
+        "url": "https://open.spotify.com/album/5vPwS60vaPLCjp3L58jluO"
+      },
+      "artists": [
+        {
+          "name": "Badoxa",
+          "url": "https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW"
+        },
+        {
+          "name": "Yasmine",
+          "url": "https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261115,
+      "name": "J\u00e1 N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/2axmBwJacXBbSqvVbxtNzY"
+    },
+    {
+      "album": {
         "name": "J\u00e1 Te Conhe\u00e7o (feat. Bruna Tatiana) [Remix]",
         "url": "https://open.spotify.com/album/1655GCvhUr4AWd8ZXPj71n"
       },
@@ -1101,7 +1163,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 234971,
       "name": "Kuyuyu",
       "url": "https://open.spotify.com/track/2ieA58j9Fsuo35Gwa6oX8P"
@@ -1119,7 +1181,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 255807,
       "name": "Largam",
       "url": "https://open.spotify.com/track/6nWb98Zi1cfP70C5wdNEIk"
@@ -1185,7 +1247,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 244785,
       "name": "Malembe Malembe",
       "url": "https://open.spotify.com/track/5u2FrLHKEoKjUMguaffQ0t"
@@ -1229,7 +1291,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 208137,
       "name": "Me D\u00e3o Na Cara",
       "url": "https://open.spotify.com/track/1lvAa1i6csI91Qu8I6pRjp"
@@ -1265,7 +1327,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 219218,
       "name": "Meu Marido",
       "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
@@ -1283,10 +1345,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 211920,
       "name": "Milagre",
       "url": "https://open.spotify.com/track/1tekQ79Ve4kYKdtApLu6wX"
+    },
+    {
+      "album": {
+        "name": "Minha Sorte",
+        "url": "https://open.spotify.com/album/2vCwCyFSsSvd7I7tw0CNm2"
+      },
+      "artists": [
+        {
+          "name": "Yola Semedo",
+          "url": "https://open.spotify.com/artist/2lXUVHEPWMqeYtKXhb1tm9"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "Minha Sorte",
+      "url": "https://open.spotify.com/track/1cDHMNjpd502ILANRGov04"
     },
     {
       "album": {
@@ -1385,7 +1465,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 198479,
       "name": "Nha Mundo",
       "url": "https://open.spotify.com/track/51xWDxwBkvHSOit4VP6hYz"
@@ -1487,7 +1567,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 203138,
       "name": "N\u00e3o Custa Nada",
       "url": "https://open.spotify.com/track/1JJOK1OQcBfJ3Rmm7QlnbZ"
@@ -1509,7 +1589,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 225419,
       "name": "N\u00e3o Vai Embora",
       "url": "https://open.spotify.com/track/0jes5OAEw9JPkXmZ0zpH1d"
@@ -1625,7 +1705,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 208840,
       "name": "Planos",
       "url": "https://open.spotify.com/track/39RaXavHae4m2ltDym9lIM"
@@ -1717,7 +1797,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 273937,
       "name": "Presa",
       "url": "https://open.spotify.com/track/2pSOoP6FLJWeRBxdvhyvkJ"
@@ -1775,7 +1855,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 218666,
       "name": "Quarentena",
       "url": "https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2"
@@ -1829,7 +1909,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 249497,
       "name": "Saudades",
       "url": "https://open.spotify.com/track/0AkkOR1hyR97eqGIHvdP27"
@@ -1851,7 +1931,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 197956,
       "name": "Se Eu Pudesse",
       "url": "https://open.spotify.com/track/1Fpz7A3F56VQKfqz1KhGF5"
@@ -1887,7 +1967,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 230559,
       "name": "Segredo",
       "url": "https://open.spotify.com/track/4pZKBbkkV1PqWNGyWDE1RN"
@@ -1975,7 +2055,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184093,
       "name": "Siguim",
       "url": "https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e"
@@ -2055,7 +2135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 231529,
       "name": "Sozinha Comigo",
       "url": "https://open.spotify.com/track/0Brl3FrVHMVQQWGenhMNgX"
@@ -2099,7 +2179,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 232421,
       "name": "Super Mulher",
       "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
@@ -2280,6 +2360,24 @@
     },
     {
       "album": {
+        "name": "Tudo Pa Bo",
+        "url": "https://open.spotify.com/album/3Qtr8JQ44NWFYIgsZO1nly"
+      },
+      "artists": [
+        {
+          "name": "Denis Gra\u00e7a",
+          "url": "https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261349,
+      "name": "Tudo Pa Bo",
+      "url": "https://open.spotify.com/track/6FEpX1hurNq4JEAws8nIhe"
+    },
+    {
+      "album": {
         "name": "Tudo por Amor",
         "url": "https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa"
       },
@@ -2295,7 +2393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 206290,
       "name": "Tudo por Amor",
       "url": "https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl"
@@ -2369,7 +2467,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 256366,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/3DLt9ps9wxm2eggczXShLM"
@@ -2471,7 +2569,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 261407,
       "name": "Water",
       "url": "https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X"

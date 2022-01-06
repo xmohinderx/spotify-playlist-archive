@@ -2,7 +2,7 @@
 
 ### [This Is: Pavarotti](https://open.spotify.com/playlist/66saN2I1skkb1AhteyAPLW)
 
-> A 50\-track introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era\. Including highlights from the operas of Verdi, Puccini, Donizetti and many more, plus Italian folk songs and pop crossover.
+> An introduction to Luciano Pavarotti, whose brilliant sound set the standard for operatic singing in the modern era.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

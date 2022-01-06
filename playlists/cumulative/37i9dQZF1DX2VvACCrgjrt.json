@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 171362,
       "name": "Be Good",
       "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-22",
+      "date_removed": null,
       "duration_ms": 217500,
       "name": "Beat - Qlank Remix",
       "url": "https://open.spotify.com/track/2iE7GmLrHHiq5VOd1tyZRw"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 216960,
       "name": "Big Bass",
       "url": "https://open.spotify.com/track/0cZNioy7IGLvLrqqI2JW3z"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 176640,
       "name": "Chocolate",
       "url": "https://open.spotify.com/track/0WYJ11EFojH6SjUTi3xVXI"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 256644,
       "name": "Come Again (feat. Scrufizzer)",
       "url": "https://open.spotify.com/track/3BXkQUkKCPQzB8FitUJh4N"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 234330,
       "name": "Dancerteria",
       "url": "https://open.spotify.com/track/0LVOxIv7HB4y9llCuUUObS"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 146979,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/7p10Admejdbz7aU8Bd8nQh"
@@ -1285,7 +1285,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3nC4P5WWwg7wT9LN3wi9M1"
@@ -1434,6 +1434,24 @@
     },
     {
       "album": {
+        "name": "Four Legs",
+        "url": "https://open.spotify.com/album/1iJZOgO2mXGiKY1NUxfjb9"
+      },
+      "artists": [
+        {
+          "name": "Stafford Brothers",
+          "url": "https://open.spotify.com/artist/1dnbud9cuozLQ86MtrDPFr"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "Four Legs",
+      "url": "https://open.spotify.com/track/5j6Bpqse6MmyG0P1f1GTej"
+    },
+    {
+      "album": {
         "name": "Full of Love",
         "url": "https://open.spotify.com/album/0gvl8TSfutOQiBLKwADwyG"
       },
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 174843,
       "name": "Full of Love",
       "url": "https://open.spotify.com/track/62UaGLT1sKYQhhudWjcAjq"
@@ -1587,7 +1605,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 163200,
       "name": "Gold On My Crown (feat. Born I)",
       "url": "https://open.spotify.com/track/19T0zMPlfewq1NL7FVuxii"
@@ -1675,7 +1693,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 176770,
       "name": "Gotta Be - Bleu Clair Remix",
       "url": "https://open.spotify.com/track/4FynH1lObCJ0ILN5VgfWOD"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 142380,
       "name": "Hold Up (feat. J. Plaza)",
       "url": "https://open.spotify.com/track/6HkQZhtfy9VEl149aO3g6d"
@@ -2049,7 +2067,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 155520,
       "name": "Just Bass",
       "url": "https://open.spotify.com/track/55rnLa7szlgdVtnUXtdE3O"
@@ -2107,7 +2125,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 170476,
       "name": "Lift",
       "url": "https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 232380,
       "name": "Lit",
       "url": "https://open.spotify.com/track/5iRHH6jgRk0JLTX0lmMRwk"
@@ -2217,7 +2235,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 200000,
       "name": "Lose Control (feat. Purple Velvet Curtains)",
       "url": "https://open.spotify.com/track/3mgIfqJfJrwMwMKVyd0H4Q"
@@ -2355,7 +2373,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 209280,
       "name": "McLovin",
       "url": "https://open.spotify.com/track/1oSSriyVC0PHUNcfkoSMyK"
@@ -2453,7 +2471,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 134000,
       "name": "Move Like Dolphin",
       "url": "https://open.spotify.com/track/5npvPgwC0AuJlneOgS5Uks"
@@ -2515,7 +2533,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/5odJuVd3QpK7A96wfdf421"
@@ -2559,7 +2577,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 212584,
       "name": "No Trust",
       "url": "https://open.spotify.com/track/3aPo3XX7MglfqIZ8O7BEe4"
@@ -2581,7 +2599,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 223200,
       "name": "Old School",
       "url": "https://open.spotify.com/track/0RzusHyWJSvNh4NRjtOdOb"
@@ -2617,7 +2635,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 238080,
       "name": "Only Fans Song",
       "url": "https://open.spotify.com/track/2fY70bBq6Bz14N74M6AegY"
@@ -2813,7 +2831,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184906,
       "name": "Renegade Master (Back Once Again) [Volac Remix]",
       "url": "https://open.spotify.com/track/1cycPybSk3hzUNOGZ7l1Ya"
@@ -2871,7 +2889,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 215625,
       "name": "Ring The Alarm",
       "url": "https://open.spotify.com/track/6HeKrqik6GxcbdKsk7FRnt"
@@ -2941,7 +2959,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 144590,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6fp8ij0afP7qdZHlk7gyco"
@@ -3245,7 +3263,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 220645,
       "name": "Take It Off",
       "url": "https://open.spotify.com/track/4fA42eD8kLaTFipNqHPy7S"
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 212934,
       "name": "The Grave",
       "url": "https://open.spotify.com/track/7tPbw62QKVG3N0fPlxrvtJ"
@@ -3489,7 +3507,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 245760,
       "name": "Trippy - Kage VIP",
       "url": "https://open.spotify.com/track/7Kyy0UW9DFDbLd2dmgqjQR"
@@ -3555,7 +3573,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 161280,
       "name": "Void",
       "url": "https://open.spotify.com/track/0bP2hNFQL5GPRe9p34F13Q"
@@ -3691,7 +3709,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 263140,
       "name": "WORD - Chris Lorenzo Remix",
       "url": "https://open.spotify.com/track/2JB8ohu4iJ5MlFwHa80zQ4"
@@ -3709,7 +3727,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 215238,
       "name": "Work",
       "url": "https://open.spotify.com/track/4M18OdtsLfA8s8EUZBDT3j"

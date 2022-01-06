@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 178053,
       "name": "(I Would) Die For You",
       "url": "https://open.spotify.com/track/59wp0uf7el6E2xo0sYUQsL"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184293,
       "name": "Amazing - Eurovision 2014 - Estonia",
       "url": "https://open.spotify.com/track/7nHZygGL08cyziMy3i6wqd"
@@ -426,6 +426,24 @@
     },
     {
       "album": {
+        "name": "Is It True?",
+        "url": "https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt"
+      },
+      "artists": [
+        {
+          "name": "Yohanna",
+          "url": "https://open.spotify.com/artist/1aGU3AHmLXWR7JcAXiG3t3"
+        }
+      ],
+      "date_added": "2020-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "Is It True?",
+      "url": "https://open.spotify.com/track/4uaMcAjtOhaYYpd36DmxbI"
+    },
+    {
+      "album": {
         "name": "J'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
       },
@@ -437,7 +455,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 212280,
       "name": "J'ai cherch\u00e9",
       "url": "https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 175000,
       "name": "Lipstick - Radio Edit",
       "url": "https://open.spotify.com/track/4gDQktCvIfPqo18AdHmkR4"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 187533,
       "name": "No Goodbyes - Radio Edit",
       "url": "https://open.spotify.com/track/4OxAOffBcJqxGFn9R5KxYV"
@@ -927,7 +945,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 172152,
       "name": "Rhythm Inside",
       "url": "https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 172666,
       "name": "Runaway - Bonus Track",
       "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 183733,
       "name": "Save your Kisses for Me",
       "url": "https://open.spotify.com/track/3N2bG5Xz9LL1kge8OJV7cA"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 181186,
       "name": "Takes 2 To Tango",
       "url": "https://open.spotify.com/track/5zxDXyjuvm6EHOvypeZFEP"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 180879,
       "name": "That's How You Write A Song",
       "url": "https://open.spotify.com/track/4RgfBil6aN3o26M8t3KjGH"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 177562,
       "name": "This Is Our Night",
       "url": "https://open.spotify.com/track/3KcRTivsw7hbxSRMGDtsMS"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 165800,
       "name": "Waterloo",
       "url": "https://open.spotify.com/track/1CsuK5dlnWAkWhffeteqH3"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 151533,
       "name": "We Are the Winners - Original Version",
       "url": "https://open.spotify.com/track/2QNb0E7tUeL5fCQFY5Pf02"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 249893,
       "name": "What about my dreams? - Main",
       "url": "https://open.spotify.com/track/4coje85K8iSAup8z4G9y64"
@@ -1287,7 +1305,7 @@
       ],
       "date_added": "2020-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 182813,
       "name": "When Spirits Are Calling My Name",
       "url": "https://open.spotify.com/track/27L4okgASeyUAzZ7etleyQ"

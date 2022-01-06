@@ -3620,6 +3620,36 @@
     },
     {
       "album": {
+        "name": "ASIN9NE",
+        "url": "https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Joey Cool",
+          "url": "https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu"
+        },
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219802,
+      "name": "Face Off",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH"
+    },
+    {
+      "album": {
         "name": "Faded Heart",
         "url": "https://open.spotify.com/album/0NkHrlwQStoPlpzw7G3GK5"
       },

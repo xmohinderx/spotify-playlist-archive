@@ -1,12 +1,12 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Bad Bunny",
   "name": "Viva Latino",
-  "num_followers": 11495071,
+  "num_followers": 11496361,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMwOTM1MCwwMDAwMDVmODAwMDAwMTdlMjVhOTJiYTkwMDAwMDE3ZGQ5MmYwZTQ5",
+  "snapshot_id": "MTY0MTM5NDk1MSwwMDAwMDVmOTAwMDAwMTdlMmFjMzU0NzYwMDAwMDE3ZGQ5MmYwZTQ5",
   "tracks": [
     {
       "added_at": "2021-12-24 05:01:00",
@@ -287,6 +287,22 @@
       "duration_ms": 164705,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I"
+    },
+    {
+      "added_at": "2022-01-05 15:02:31",
+      "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 139576,
+      "name": "TE DESEO LO MEJOR",
+      "url": "https://open.spotify.com/track/23XjN1s3DZC8Q9ZwuorYY4"
     },
     {
       "added_at": "2021-12-24 05:01:00",
@@ -983,26 +999,6 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2021-12-24 05:01:00",
-      "album": {
-        "name": "NO CH\u00c3O NOVINHA",
-        "url": "https://open.spotify.com/album/6AyOkPbsH3YKjpxCLTmIgh"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        }
-      ],
-      "duration_ms": 136901,
-      "name": "NO CH\u00c3O NOVINHA",
-      "url": "https://open.spotify.com/track/7ARoqP7G8UYW8SyYPyPp7k"
     },
     {
       "added_at": "2021-12-24 05:01:00",

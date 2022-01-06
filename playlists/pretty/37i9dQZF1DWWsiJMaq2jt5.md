@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: DZIARMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,730 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,957 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 41 | [Recepta](https://open.spotify.com/track/4j4lPKlEUgkOHlt6ZwPwtE) | [Honorata Skarbek](https://open.spotify.com/artist/05Fgqq7GfWeNol1TR5H3og) | [Recepta](https://open.spotify.com/album/0bRNKC3oN1LCON0SR6YTAK) | 3:02 |
 | 42 | [Baw mnie](https://open.spotify.com/track/6TOAX3nXjlWk8KOQh7ubA9) | [Marta Bobko](https://open.spotify.com/artist/08g2JpfchsOaFhloscI3n8) | [Baw mnie](https://open.spotify.com/album/4pGUuLG1xp9lUN4iT1MtNq) | 3:13 |
 | 43 | [Szerokie serce](https://open.spotify.com/track/5j80iRZdTsgQxgWLW0Pm5d) | [MÓW](https://open.spotify.com/artist/2joNmN6YjWjB7vI2vRlXKx), [Basia Derlak](https://open.spotify.com/artist/7i8DdYbRt6S9scoBshtgLz) | [W jednym pokoju](https://open.spotify.com/album/5YlK9xCwNdDA0WkmDIxXom) | 4:48 |
-| 44 | [Miłością pijana](https://open.spotify.com/track/6Z19YUWuvtnuAca26bnjEy) | [Top Girls](https://open.spotify.com/artist/7K7rRWSKUzSH1pbOMJvlc8) | [Miłością pijana](https://open.spotify.com/album/5MmpgPZP4vf0mEV5vbR9yS) | 2:55 |
-| 45 | [Ten pierwszy raz](https://open.spotify.com/track/4WdnNonAzUxgmzv6JQvu1W) | [Jaśmin](https://open.spotify.com/artist/1bSK6IBlQyE2wLOHonkr80) | [Ten pierwszy raz](https://open.spotify.com/album/2K0omA5I2Ycf6au4dUw0KT) | 3:27 |
-| 46 | [What a Nice End](https://open.spotify.com/track/7vJBIfp0g20MmDbYKdf1qL) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [What a Nice End](https://open.spotify.com/album/43T8XjsBm7K5f6QlZSqgGh) | 3:30 |
-| 47 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
-| 48 | [Marsjański Bar](https://open.spotify.com/track/0P2MCUuicAI72RCg3riSWA) | [Nala Spark](https://open.spotify.com/artist/5ptw1niAHtHelU7Zav61sF) | [Marsjański Bar](https://open.spotify.com/album/0DBxFpYs30OPIHS9Av4TDn) | 4:14 |
-| 49 | [Patologiczna Polsko](https://open.spotify.com/track/3fBBzzh8Cfkcuwvaq7JpO7) | [Inee](https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih) | [Patologiczna Polsko](https://open.spotify.com/album/33vh2N7BkgoCCiRCT5H4F1) | 3:38 |
+| 44 | [For your safety](https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [For your safety](https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv) | 2:33 |
+| 45 | [Miłością pijana](https://open.spotify.com/track/6Z19YUWuvtnuAca26bnjEy) | [Top Girls](https://open.spotify.com/artist/7K7rRWSKUzSH1pbOMJvlc8) | [Miłością pijana](https://open.spotify.com/album/5MmpgPZP4vf0mEV5vbR9yS) | 2:55 |
+| 46 | [Ten pierwszy raz](https://open.spotify.com/track/4WdnNonAzUxgmzv6JQvu1W) | [Jaśmin](https://open.spotify.com/artist/1bSK6IBlQyE2wLOHonkr80) | [Ten pierwszy raz](https://open.spotify.com/album/2K0omA5I2Ycf6au4dUw0KT) | 3:27 |
+| 47 | [What a Nice End](https://open.spotify.com/track/7vJBIfp0g20MmDbYKdf1qL) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [What a Nice End](https://open.spotify.com/album/43T8XjsBm7K5f6QlZSqgGh) | 3:30 |
+| 48 | [Nie ma](https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Nie ma](https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M) | 3:22 |
+| 49 | [Marsjański Bar](https://open.spotify.com/track/0P2MCUuicAI72RCg3riSWA) | [Nala Spark](https://open.spotify.com/artist/5ptw1niAHtHelU7Zav61sF) | [Marsjański Bar](https://open.spotify.com/album/0DBxFpYs30OPIHS9Av4TDn) | 4:14 |
+| 50 | [Patologiczna Polsko](https://open.spotify.com/track/3fBBzzh8Cfkcuwvaq7JpO7) | [Inee](https://open.spotify.com/artist/30UBxEPvKc0CPtKeRfp6Ih) | [Patologiczna Polsko](https://open.spotify.com/album/33vh2N7BkgoCCiRCT5H4F1) | 3:38 |
 
 Snapshot ID: `MTY0MTMzNzIwMCwwMDAwMDAwZTAwMDAwMTdlMjc1MjFkZWYwMDAwMDE3ZGRjYzEwZjM3`

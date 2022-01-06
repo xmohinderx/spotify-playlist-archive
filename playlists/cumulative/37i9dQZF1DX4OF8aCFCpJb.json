@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 232586,
       "name": "12/12",
       "url": "https://open.spotify.com/track/1MLZBxByuck2C5ulgQFeEx"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 200576,
       "name": "Aina \u00e4lskar ganja",
       "url": "https://open.spotify.com/track/0ZZU7t3meUqAuBMcfjFiel"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 281500,
       "name": "Aina \u00c4lskar Reggae (med Dani M)",
       "url": "https://open.spotify.com/track/1vnON5z0YNUq6jQECJnnXe"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Allt Jag Har REMIX",
       "url": "https://open.spotify.com/track/297oQ7daTBr2k2nkkVjwMy"
@@ -244,6 +244,24 @@
     },
     {
       "album": {
+        "name": "Bad Gal",
+        "url": "https://open.spotify.com/album/5GGdqUEmIX8jRfOYe1jNi9"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211051,
+      "name": "Bad Gal",
+      "url": "https://open.spotify.com/track/1kpjqczgl3dwD2g72bpbqw"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/0hvBt2zDoWnKIzBd1voS4g"
       },
@@ -317,7 +335,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 223840,
       "name": "Bonus P\u00e5 Kortet",
       "url": "https://open.spotify.com/track/5qVcVWM8tMt7HTH8DTpdnq"
@@ -353,7 +371,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 254293,
       "name": "Bulleribock",
       "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
@@ -371,7 +389,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 276417,
       "name": "Chimurenga",
       "url": "https://open.spotify.com/track/1ptNyHtwxuJH8RBdBubzdY"
@@ -389,7 +407,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 199872,
       "name": "Come By",
       "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
@@ -407,7 +425,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 221800,
       "name": "Common Sense",
       "url": "https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt"
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 205000,
       "name": "Dancehall Unite",
       "url": "https://open.spotify.com/track/4IljEaSOUSQcGrPwRWet7i"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 205900,
       "name": "Du Oh Jah",
       "url": "https://open.spotify.com/track/5Ipo2W1JPQsPJjdqHzPPDH"
@@ -593,7 +611,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 245720,
       "name": "Du Vill S\u00e5 Du Kan",
       "url": "https://open.spotify.com/track/62diEnWPFPnfTYgspaDsBf"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 194563,
       "name": "Fet Krokodil",
       "url": "https://open.spotify.com/track/5ee0DD0aIFVdLAmiQPPwtM"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 175199,
       "name": "Fri Nu",
       "url": "https://open.spotify.com/track/5SPgbtXNW2pj0DlhYqeOx9"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 196349,
       "name": "Galenskap",
       "url": "https://open.spotify.com/track/0VGjwaW89C7funq3crFav6"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 188773,
       "name": "Gillar din vibe",
       "url": "https://open.spotify.com/track/1PZuWZTlHBkIyfSafvZ08k"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 216151,
       "name": "Hela mig sj\u00e4lv",
       "url": "https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 183260,
       "name": "Helt seri\u00f6st",
       "url": "https://open.spotify.com/track/7shcnBgfWJ6AT7jmvAw4xO"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 179251,
       "name": "In Kommer Ting",
       "url": "https://open.spotify.com/track/5M5P1RBcqx2tmzJvnpvyZE"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 192028,
       "name": "Ju Mer Dom Spottar",
       "url": "https://open.spotify.com/track/6809ESRbIU87qbXCeR80xA"
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 161098,
       "name": "Kommunikation",
       "url": "https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH"
@@ -1345,7 +1363,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 184625,
       "name": "Leva igen",
       "url": "https://open.spotify.com/track/16UFJVqJUCLCBLvnjQkLtm"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 211884,
       "name": "Lidande",
       "url": "https://open.spotify.com/track/3cmx2Iuy5idbybedfwdhyS"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 234438,
       "name": "Luftslott (feat. Nayomi)",
       "url": "https://open.spotify.com/track/6HFDca3nQ3wZ8vJflJqUJq"
@@ -1455,6 +1473,24 @@
       "duration_ms": 193000,
       "name": "L\u00e5t ingen fakka din vibe",
       "url": "https://open.spotify.com/track/0RXTRlLdb6i05iCRYdEyBv"
+    },
+    {
+      "album": {
+        "name": "Magisk",
+        "url": "https://open.spotify.com/album/77aYdUB9x06IRLxxwXAfdJ"
+      },
+      "artists": [
+        {
+          "name": "Ward",
+          "url": "https://open.spotify.com/artist/5aYrBP9Rh9J036WUb3ddyv"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214774,
+      "name": "Magisk",
+      "url": "https://open.spotify.com/track/4imhpWNj3aCl0aqLqBCQfs"
     },
     {
       "album": {
@@ -1531,7 +1567,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 289706,
       "name": "M\u00e5sten",
       "url": "https://open.spotify.com/track/3Ea996dwFzTOtxuK9Rtiv6"
@@ -1571,7 +1607,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 245530,
       "name": "No winners",
       "url": "https://open.spotify.com/track/2LiweIh9adLp0xVZBAMVK2"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 221773,
       "name": "N\u00e4r solen g\u00e5r ner - Kap10 Reggae Remix",
       "url": "https://open.spotify.com/track/3MSex4yaagzgDGtsdKZlUA"
@@ -1691,7 +1727,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 226063,
       "name": "Polisen sla\u030ar",
       "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
@@ -2083,7 +2119,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 216971,
       "name": "Tid att tro",
       "url": "https://open.spotify.com/track/0MI0zmhQHMnHYHFO5sH4rC"
@@ -2119,7 +2155,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 245041,
       "name": "Tr\u00f6st (S\u00e5 s\u00e5)",
       "url": "https://open.spotify.com/track/35Lk3rVoyoOv4VPfdDXncn"
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 185645,
       "name": "Vi Styr Saker",
       "url": "https://open.spotify.com/track/35Q8T7lva8dUAKoHf0jiwa"
@@ -2331,7 +2367,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 211352,
       "name": "Vilse",
       "url": "https://open.spotify.com/track/4STwzs8fwqVvAEngOlpZDx"
@@ -2353,7 +2389,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 227500,
       "name": "Vindarna",
       "url": "https://open.spotify.com/track/4daiQ4LFjZac9JRp7GSFdN"
@@ -2389,7 +2425,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 208057,
       "name": "V\u00e4gsj\u00e4l",
       "url": "https://open.spotify.com/track/22ehzAT8AUMGiR7eVaZqRC"
@@ -2447,7 +2483,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 208551,
       "name": "Wayback",
       "url": "https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3"
@@ -2505,7 +2541,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 208637,
       "name": "Whada Deng",
       "url": "https://open.spotify.com/track/1r6SQ5yAMl5R3gR4BHm75e"

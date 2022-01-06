@@ -1,12 +1,12 @@
 {
   "description": "Classics from the Baroque era. ",
   "name": "Baroque Classics",
-  "num_followers": 188149,
+  "num_followers": 188222,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMwNTkzNiwwMDAwMDAxZjAwMDAwMTdlMjU3NTEyYjQwMDAwMDE3YTE0ZmMyOTZj",
+  "snapshot_id": "MTY0MTM3NjYwMywwMDAwMDAyMDAwMDAwMTdlMjlhYjViZjAwMDAwMDE3YTE0ZmMyOTZj",
   "tracks": [
     {
       "added_at": "2021-06-16 13:23:28",
@@ -119,30 +119,6 @@
       "duration_ms": 198333,
       "name": "Concerto grosso in G minor, Op.6, No.8 \"fatto per la notte di Natale\": 3. Adagio - Allegro - Adagio",
       "url": "https://open.spotify.com/track/17gz8bmRy8HDUf6AZBnD5K"
-    },
-    {
-      "added_at": "2021-06-16 13:23:28",
-      "album": {
-        "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257: III. Allegro",
-        "url": "https://open.spotify.com/album/63frfMMFBlj2UO2TjXtykq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Nicola Benedetti",
-          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
-        },
-        {
-          "name": "Benedetti Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Violin Concerto in E-Flat Major, RV 257: III. Allegro",
-      "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
     },
     {
       "added_at": "2021-06-16 13:23:28",
@@ -307,30 +283,6 @@
       "duration_ms": 189426,
       "name": "Solomon, HWV 67: The Arrival Of The Queen Of Sheba",
       "url": "https://open.spotify.com/track/2SORBObY4Ag5wSPeXLmPAh"
-    },
-    {
-      "added_at": "2021-06-16 13:23:28",
-      "album": {
-        "name": "Telemann: Tafelmusik",
-        "url": "https://open.spotify.com/album/38q8lHxjzMMaH9UE2jLDif"
-      },
-      "artists": [
-        {
-          "name": "Georg Philipp Telemann",
-          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
-        },
-        {
-          "name": "Musica Antiqua K\u00f6ln",
-          "url": "https://open.spotify.com/artist/3KYehrHWNpYfNMpJe0kBML"
-        },
-        {
-          "name": "Reinhard Goebel",
-          "url": "https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E"
-        }
-      ],
-      "duration_ms": 498133,
-      "name": "Tafelmusik - Banquet Music In 3 Parts / Production 1 - 3. Concert In A Major, TWV 53:A2: 2. Allegro",
-      "url": "https://open.spotify.com/track/6oN60KFkZjs80sCHIxIDzC"
     },
     {
       "added_at": "2021-06-16 13:23:28",
@@ -635,22 +587,26 @@
     {
       "added_at": "2021-06-16 13:23:28",
       "album": {
-        "name": "Motherland",
-        "url": "https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh"
+        "name": "Vivaldi: Violin Concerto in E-Flat Major, RV 257: III. Allegro",
+        "url": "https://open.spotify.com/album/63frfMMFBlj2UO2TjXtykq"
       },
       "artists": [
         {
-          "name": "Domenico Scarlatti",
-          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
         },
         {
-          "name": "Khatia Buniatishvili",
-          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+          "name": "Nicola Benedetti",
+          "url": "https://open.spotify.com/artist/02B3Os1lCLuWR6klPJiQpW"
+        },
+        {
+          "name": "Benedetti Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/25V9BjYN1ZSSyAxh7KtxUC"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Sonata in E Major, K. 380",
-      "url": "https://open.spotify.com/track/5olY8yO9tGgPee9xNasVpN"
+      "duration_ms": 190160,
+      "name": "Violin Concerto in E-Flat Major, RV 257: III. Allegro",
+      "url": "https://open.spotify.com/track/5AW6hac4JAKu0ygmZUw7HF"
     },
     {
       "added_at": "2021-06-16 13:23:28",
@@ -723,6 +679,30 @@
     {
       "added_at": "2021-06-16 13:23:28",
       "album": {
+        "name": "Telemann: Tafelmusik",
+        "url": "https://open.spotify.com/album/38q8lHxjzMMaH9UE2jLDif"
+      },
+      "artists": [
+        {
+          "name": "Georg Philipp Telemann",
+          "url": "https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj"
+        },
+        {
+          "name": "Musica Antiqua K\u00f6ln",
+          "url": "https://open.spotify.com/artist/3KYehrHWNpYfNMpJe0kBML"
+        },
+        {
+          "name": "Reinhard Goebel",
+          "url": "https://open.spotify.com/artist/6aZcT9sJMlL0yUOrEWa74E"
+        }
+      ],
+      "duration_ms": 498133,
+      "name": "Tafelmusik - Banquet Music In 3 Parts / Production 1 - 3. Concert In A Major, TWV 53:A2: 2. Allegro",
+      "url": "https://open.spotify.com/track/6oN60KFkZjs80sCHIxIDzC"
+    },
+    {
+      "added_at": "2021-06-16 13:23:28",
+      "album": {
         "name": "The Trio Sonata in 18th-Century Germany",
         "url": "https://open.spotify.com/album/47PlVohR4uavZoER2ti8OD"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 87960,
       "name": "L'Orfeo - Prologo: Toccata",
       "url": "https://open.spotify.com/track/4Csfmh2DSCAZmTg1B4ISKA"
+    },
+    {
+      "added_at": "2021-06-16 13:23:28",
+      "album": {
+        "name": "Motherland",
+        "url": "https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Khatia Buniatishvili",
+          "url": "https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Sonata in E Major, K. 380",
+      "url": "https://open.spotify.com/track/5olY8yO9tGgPee9xNasVpN"
     },
     {
       "added_at": "2021-06-16 13:23:28",

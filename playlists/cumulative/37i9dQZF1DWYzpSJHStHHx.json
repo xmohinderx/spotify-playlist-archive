@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/3P2vcYCOMzyQThpAnmCTi2"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222408,
+      "name": "All Yours",
+      "url": "https://open.spotify.com/track/1LAzF3sa7k3QrOKtpCVgLJ"
+    },
+    {
+      "album": {
         "name": "The Double Ep: A Sea of Split Peas",
         "url": "https://open.spotify.com/album/2Tj0T4o9svdk19AjADY4lx"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 218003,
       "name": "Crystal Night",
       "url": "https://open.spotify.com/track/6A3MxyZsLIaG07chsY3L1q"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 178599,
       "name": "Full Size Render",
       "url": "https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 190413,
       "name": "I\u2019ll Be Loving You",
       "url": "https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 190845,
       "name": "My Kind of Woman",
       "url": "https://open.spotify.com/track/2OFrAsP5Vrcb0DtsPNsm54"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 261362,
       "name": "Poor Relations",
       "url": "https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl"
@@ -1531,7 +1549,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 133128,
       "name": "Warned You",
       "url": "https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 192027,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"

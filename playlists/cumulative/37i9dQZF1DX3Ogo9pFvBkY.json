@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Across The Purple Expanse",
+        "url": "https://open.spotify.com/album/4Qc09SX2XC8YlP1Hggb3Jd"
+      },
+      "artists": [
+        {
+          "name": "Richter Gravitas",
+          "url": "https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134422,
+      "name": "Across The Purple Expanse",
+      "url": "https://open.spotify.com/track/1nh7NOJDfy3oewkGM6u08b"
+    },
+    {
+      "album": {
         "name": "Adumbration",
         "url": "https://open.spotify.com/album/0ws0lcvTNJt39gO6CsHXXR"
       },
@@ -2021,6 +2039,24 @@
       "duration_ms": 175329,
       "name": "Circadian",
       "url": "https://open.spotify.com/track/5NSXFCjsmReRJzuPl6vNrQ"
+    },
+    {
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/5ik42G4E7HrnOyf3HxUUJN"
+      },
+      "artists": [
+        {
+          "name": "Zoeli",
+          "url": "https://open.spotify.com/artist/3AujDNtDjZiC9J72r13E3t"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184714,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/61JaCYZ0qRuy74Abs2VNjt"
     },
     {
       "album": {
@@ -6204,6 +6240,24 @@
     },
     {
       "album": {
+        "name": "Sonorous",
+        "url": "https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU"
+      },
+      "artists": [
+        {
+          "name": "Matt Deep",
+          "url": "https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198943,
+      "name": "Mixture",
+      "url": "https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY"
+    },
+    {
+      "album": {
         "name": "Moment of Clarity",
         "url": "https://open.spotify.com/album/2jdTmcYye9EjeUiSNScJZC"
       },
@@ -9373,6 +9427,24 @@
       "duration_ms": 204000,
       "name": "Taconic",
       "url": "https://open.spotify.com/track/5nhTqAsrl2F75Hvl7KuJxl"
+    },
+    {
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/6t5ja4OhtMyp49oY9FjN4f"
+      },
+      "artists": [
+        {
+          "name": "Gemma Casimaty",
+          "url": "https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209500,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/0ZGteveKS9XMCxDtjehnG3"
     },
     {
       "album": {

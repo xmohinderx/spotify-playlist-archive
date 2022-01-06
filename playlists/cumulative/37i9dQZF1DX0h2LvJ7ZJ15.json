@@ -234,6 +234,24 @@
     },
     {
       "album": {
+        "name": "beauty bomb (slowed + reverbed)",
+        "url": "https://open.spotify.com/album/2x3qHX6OXT0HC7WFX6MjpA"
+      },
+      "artists": [
+        {
+          "name": "blyden",
+          "url": "https://open.spotify.com/artist/12WLoG3DW0U7FXw62FZeZ9"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60099,
+      "name": "beauty bomb (slowed + reverbed)",
+      "url": "https://open.spotify.com/track/53NzMfJ0LsqG4myQp28ETk"
+    },
+    {
+      "album": {
         "name": "Big Gangsta (Slowed and Reverb TikTok Version)",
         "url": "https://open.spotify.com/album/7JFHdLPDsbNDP0eEH10erh"
       },
@@ -245,7 +263,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 270057,
       "name": "Big Gangsta - Slowed and Reverb TikTok Version",
       "url": "https://open.spotify.com/track/3LlB7M5aI065KDSY5XdNtk"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 247684,
       "name": "Desire - Slowed",
       "url": "https://open.spotify.com/track/4ZCxG8ZNlJoeAvAD6kdPuB"
@@ -721,10 +739,32 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "album": {
+        "name": "purple paradise",
+        "url": "https://open.spotify.com/album/5n2IrCB1vEhvYiufcXxXxm"
+      },
+      "artists": [
+        {
+          "name": "LOTU$",
+          "url": "https://open.spotify.com/artist/3kI4cAfrm8ij3ZEUfpXtTU"
+        },
+        {
+          "name": "Chicage",
+          "url": "https://open.spotify.com/artist/3ifSLh9XOq2zWejn95G5KR"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206976,
+      "name": "Kick Back - slowed and reverbed",
+      "url": "https://open.spotify.com/track/5hrV1NiNUBXbIpuIDizwcG"
     },
     {
       "album": {
@@ -783,7 +823,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 396921,
       "name": "Li\u1ec1u Thu\u1ed1c Cho Tr\u00e1i Tim (Slowed)",
       "url": "https://open.spotify.com/track/6IlJKmi67fUzexcD51zcag"

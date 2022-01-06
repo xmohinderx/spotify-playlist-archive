@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 172199,
       "name": "Acoustic",
       "url": "https://open.spotify.com/track/5kh7BbzXPgooAU9MB9L7yw"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 268562,
       "name": "Aegean",
       "url": "https://open.spotify.com/track/02h0lMidqogsqO4AEpyzYC"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 213560,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0AQDhFnLUd32C8y3cjje9g"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 189000,
       "name": "Back In The Water",
       "url": "https://open.spotify.com/track/2pu58Ze8wqgZDq1eQs3P8c"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 148040,
       "name": "Bitter With The Sweet",
       "url": "https://open.spotify.com/track/6bMrfP9V5s5fgL3Z02tcES"
@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/50M2Qdh5WzzhVWhIH2htx6"
+      },
+      "artists": [
+        {
+          "name": "Wilder Gray",
+          "url": "https://open.spotify.com/artist/74RlyWfSIpHWsObpkuc0KC"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156414,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/1Q9QB2I96Yj5gO3oNgfh8q"
+    },
+    {
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm"
       },
@@ -351,7 +369,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 249341,
       "name": "Born To Be Yours - Acoustic Version",
       "url": "https://open.spotify.com/track/3rgrJySBLhVrDjJ2OXRtbB"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 280066,
       "name": "Bright Eyes",
       "url": "https://open.spotify.com/track/3aEx5VvdgQsKy6vbOqpmEO"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 154229,
       "name": "Change",
       "url": "https://open.spotify.com/track/1ztB2LwqXxn0IH2jMrKvDw"
@@ -513,7 +531,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 218980,
       "name": "City Dream",
       "url": "https://open.spotify.com/track/6XGOARRSafpojbCZXKQrzn"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 173195,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6"
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 184984,
       "name": "Down",
       "url": "https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 216906,
       "name": "I Give You The Best",
       "url": "https://open.spotify.com/track/22RSxuePk8ZGWbjLFqXlwC"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/2EjR7VKpDBdC2wgS053ivc"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 276498,
       "name": "Real?",
       "url": "https://open.spotify.com/track/1r0bORzz4Ooi8EpFGC6rxe"
@@ -1953,7 +1971,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 163547,
       "name": "Slow",
       "url": "https://open.spotify.com/track/1Ia95g66IhlAJ3qVI4qI8W"
@@ -2079,7 +2097,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 174500,
       "name": "supposed to",
       "url": "https://open.spotify.com/track/1Ya1He3XsuZVzq8tl3tdE9"
@@ -2101,6 +2119,24 @@
       "duration_ms": 234240,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4"
+    },
+    {
+      "album": {
+        "name": "Take It With Me",
+        "url": "https://open.spotify.com/album/6i8Dp8VHJOawYl331h0qkl"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "date_added": "2021-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299199,
+      "name": "Take It With Me",
+      "url": "https://open.spotify.com/track/3HqWGoi8pnK0YkqYR8Owlw"
     },
     {
       "album": {
@@ -2159,7 +2195,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 194837,
       "name": "This City Remix (feat. Nea)",
       "url": "https://open.spotify.com/track/3atDBUHTgS6ogyeIfCfRMt"

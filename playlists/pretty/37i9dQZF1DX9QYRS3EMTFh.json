@@ -1,12 +1,12 @@
 {
   "description": "Les hits dancehall du moment.\nPhoto : X-Man",
   "name": "Dancehall Station",
-  "num_followers": 92523,
+  "num_followers": 92560,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDIxNDAwMCwwMDAwMDBiMTAwMDAwMTdkZTQ1ZjcxZWEwMDAwMDE3ZDk5YzQzNjg0",
+  "snapshot_id": "MTY0MTM4MTk5OSwwMDAwMDBiMjAwMDAwMTdlMjlmZGIzNDAwMDAwMDE3ZDk5YzQzNjg0",
   "tracks": [
     {
       "added_at": "2021-12-22 23:00:00",
@@ -567,30 +567,6 @@
       "duration_ms": 206413,
       "name": "Gyal",
       "url": "https://open.spotify.com/track/2odt4OCv36oktmC8wknahJ"
-    },
-    {
-      "added_at": "2021-12-22 23:00:00",
-      "album": {
-        "name": "Latina Gyal Dem",
-        "url": "https://open.spotify.com/album/3iq3KUCeo0VgyhPj818uLg"
-      },
-      "artists": [
-        {
-          "name": "Lord Kossity",
-          "url": "https://open.spotify.com/artist/5QWxhSb2qupA3pNE3X6VpM"
-        },
-        {
-          "name": "Digital Cut",
-          "url": "https://open.spotify.com/artist/1weuKGa08rOPGVUcMaPvfd"
-        },
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 187833,
-      "name": "Latina Gyal Dem",
-      "url": "https://open.spotify.com/track/0b4bFD5AHe2fT6mMQlzyd9"
     },
     {
       "added_at": "2021-12-22 23:00:00",

@@ -2,19 +2,20 @@
 
 ### [EQUAL Belgium](https://open.spotify.com/playlist/3owvrGw8mQsT590xhLQpXI)
 
-> Listen to women from Belgium, at full volume\. Cover: Pommelien Thijs
+> Listen to women from Belgium, at full volume\. Cover: MEYY
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [About Losing Control](https://open.spotify.com/track/2rqHQOL5jQfhxrNdfBjq6L) | [Elisabeth](https://open.spotify.com/artist/2JSQDXXyEdZE2EqPGTUph4) | [About Losing Control](https://open.spotify.com/album/1ZkVDWFDmRGoMG8SATnAHK) | 2:51 | 2021-12-08 |  |
+| [About Losing Control](https://open.spotify.com/track/2rqHQOL5jQfhxrNdfBjq6L) | [Elisabeth](https://open.spotify.com/artist/2JSQDXXyEdZE2EqPGTUph4) | [About Losing Control](https://open.spotify.com/album/1ZkVDWFDmRGoMG8SATnAHK) | 2:51 | 2021-12-08 | 2022-01-06 |
 | [All These Desires](https://open.spotify.com/track/4MvjfnLTjSiJyIUvvvLqWJ) | [Maris](https://open.spotify.com/artist/3ug2nlod9nxf24UvNxcukH) | [By Virtue of the Absurd](https://open.spotify.com/album/5Ks4UFdGwFkR0Zj43J52Ng) | 10:57 | 2021-12-08 |  |
 | [Baddie \(Beat by Polar Youth\)](https://open.spotify.com/track/4wHVi6FSuM4tm5VjsWUxn0) | [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [Ghetto Mami, Vol\. 2](https://open.spotify.com/album/0TgQJgu1U2ZzqUJjLvQeKb) | 2:45 | 2021-12-08 |  |
 | [Cauchemar](https://open.spotify.com/track/6N7HCibYMwnQA9IpU4OhIE) | [MIYA](https://open.spotify.com/artist/3wvHOKj1SHKL28TCoGatJT) | [Cauchemar](https://open.spotify.com/album/2lkIzM0svLBI6XyHGFveWq) | 2:56 | 2021-12-08 |  |
 | [Chill](https://open.spotify.com/track/0fIzMhNdHJsnSSgE1LyeIN) | [WAYI](https://open.spotify.com/artist/6CbMqrM714vGa77HxOKoHI) | [Chill](https://open.spotify.com/album/7CmCeDeLBtJ4GFltbhz2Xz) | 3:27 | 2021-12-08 |  |
 | [Creep](https://open.spotify.com/track/4aXPMqyQwn5658m6MpReNc) | [Tessa Dixson](https://open.spotify.com/artist/7lIzEb23X68Dbt7Ka94Prh) | [Creep](https://open.spotify.com/album/1iBSM4bEvrLj2XtYg7uAfW) | 2:41 | 2021-12-08 |  |
 | [Cruel](https://open.spotify.com/track/1TBBIjxfN2jJ40ozWsMq7I) | [Tsar B](https://open.spotify.com/artist/4iH079WFvkBukHz8JgiOp3) | [Cruel](https://open.spotify.com/album/1L62r7h2gFUQPhLpVqI7vN) | 3:10 | 2021-12-08 |  |
-| [Diarabi](https://open.spotify.com/track/5W6K2cQwzPtduo2Rvca97X) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Diarabi](https://open.spotify.com/album/7ddnD1u2XaJBFTAWeS8373) | 2:52 | 2021-12-08 |  |
-| [Do It](https://open.spotify.com/track/6U9b7UuFFr6pQBq9bg8zIf) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Do It](https://open.spotify.com/album/2fyVyew5Ri8RCCh8O1Jlx2) | 3:13 | 2021-12-08 |  |
+| [Diarabi](https://open.spotify.com/track/5W6K2cQwzPtduo2Rvca97X) | [Lubiana](https://open.spotify.com/artist/7ojiPW0PaP28Dfl8CqfQ3Q) | [Diarabi](https://open.spotify.com/album/7ddnD1u2XaJBFTAWeS8373) | 2:52 | 2021-12-08 | 2022-01-06 |
+| [Do It](https://open.spotify.com/track/6U9b7UuFFr6pQBq9bg8zIf) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Do It](https://open.spotify.com/album/2fyVyew5Ri8RCCh8O1Jlx2) | 3:13 | 2021-12-08 | 2022-01-06 |
+| [Et Bam](https://open.spotify.com/track/3qYfcGBdH6Nqe18QTGgfXz) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8) | 3:39 | 2022-01-05 |  |
 | [everything you are](https://open.spotify.com/track/3du1ZWCjmhzsUPNu8MVZQ1) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [RETROSPECT](https://open.spotify.com/album/32Ni3cNuxsKj5xiLkVc1Sf) | 3:10 | 2021-12-08 |  |
 | [Fight Me](https://open.spotify.com/track/1q3b7ClZaJJiVDuL07OAZN) | [Archie X](https://open.spotify.com/artist/7iHfb5ODaqKyprp2DBEXvU) | [Fight Me](https://open.spotify.com/album/3GDYOCQWeW0TuQmYm9Lpm5) | 3:09 | 2021-12-08 |  |
 | [Flying Leaves](https://open.spotify.com/track/3ubMPPsS9YSPDnWNhtQdHF) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Could You Lend Me Your Eyes](https://open.spotify.com/album/7cdmDIUZa6TNcSveRsxJvL) | 4:45 | 2021-12-08 |  |
@@ -35,12 +36,14 @@
 | [Meisjes Van Honing](https://open.spotify.com/track/66dGbMxzOVbhv2CwnfA3MJ) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Meisjes Van Honing](https://open.spotify.com/album/3UObXg8uHcVOWPH5nM523V) | 3:06 | 2021-12-08 |  |
 | [Métronome](https://open.spotify.com/track/637qwfWOUog9dqRIPlSlUh) | [Coralien](https://open.spotify.com/artist/4aY3SsnE1uONObJiFBhPIB) | [Métronome](https://open.spotify.com/album/33rgiulxgkg0ZqDGIaHzTQ) | 3:15 | 2021-12-08 |  |
 | [No Time](https://open.spotify.com/track/0lWsPjQGB396x06LBEaR7X) | [Ivori Moss](https://open.spotify.com/artist/7H8hCcQ68PPXq3KjWBNnTB) | [Deep Dive EP](https://open.spotify.com/album/3tY8RsKfzuwoFbCQ9eXNiM) | 3:44 | 2021-12-08 |  |
+| [Non Stop](https://open.spotify.com/track/67blacGLsVDkAkiR1DAIBb) | [Ella Kasumovic](https://open.spotify.com/artist/7IkMx09LG9xJ4BbB3KSZmg) | [Non Stop](https://open.spotify.com/album/1z80gpGSwHGNA7HdHYp8js) | 2:29 | 2022-01-05 |  |
 | [On Me](https://open.spotify.com/track/14qUFwXtS8sPYOnTLAiHRH) | [Lyna](https://open.spotify.com/artist/6T83nWN9QZR1Abip1bMcVV) | [On Me](https://open.spotify.com/album/02vPXecCjOm6HbMuw5mtof) | 3:05 | 2021-12-08 |  |
 | [Only Shadows Remain](https://open.spotify.com/track/1S3wVO6ylPVKoQOMeTGIKe) | [Wanthanee](https://open.spotify.com/artist/71dnG6HM2q8lwXFkyX9lj0) | [Wanthanee](https://open.spotify.com/album/1REKdH9kgiPHZDZ14FBSwH) | 4:01 | 2021-12-08 |  |
 | [OOPS](https://open.spotify.com/track/3AmKMAVEpH2zUtfCSi9E91) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz), [Chuki Beats](https://open.spotify.com/artist/3I2KQWCAh5aOh1YJ62LIlQ) | [OOPS](https://open.spotify.com/album/5yPn8bZ6ZswLiHQz0nGR7r) | 2:05 | 2021-12-08 |  |
 | [Paranoia](https://open.spotify.com/track/4ICewaJvl0xBrj9ZVdOcwO) | [Chibi Ichigo](https://open.spotify.com/artist/0eARdjFMVY4Z92QEzM7dgN) | [Paranoia](https://open.spotify.com/album/5aCff4J67kK3nzrQZXRCO3) | 3:33 | 2021-12-08 |  |
 | [PPYB](https://open.spotify.com/track/3Da0FuVYYxkFVMLTsGKuKb) | [ICTO](https://open.spotify.com/artist/4gk6Y8wIEssP0kHkG9pUSt) | [PPYB](https://open.spotify.com/album/3hXDkF4A4GIASGIkNVENkh) | 2:11 | 2021-12-08 |  |
 | [PRETTY](https://open.spotify.com/track/0EH2THNT0WdnXEPpNOg46h) | [Cyra Gwynth](https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp) | [CHAPTER I: SOUL](https://open.spotify.com/album/1PQ2EI0p0iyjlaouIXkqyi) | 2:15 | 2021-12-08 |  |
+| [Rain](https://open.spotify.com/track/0n3mJYAdd8KbnWEKeTCkGg) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Rain](https://open.spotify.com/album/4iA6IF2ZeaXvkF1T0KIw2o) | 3:56 | 2022-01-05 |  |
 | [Ronquières](https://open.spotify.com/track/5xEZmYsLt2UWVth2O0aPFd) | [Madou](https://open.spotify.com/artist/5LHkXGZndRebUjbJqvMQyN) | [Is er iets?](https://open.spotify.com/album/3CNXgUf786KbgCqq42BIXT) | 4:42 | 2021-12-08 |  |
 | [Si tu m'aimes demain](https://open.spotify.com/track/14UoUyJ5opQScau6Iw6G0e) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Si tu m'aimes demain](https://open.spotify.com/album/2LjSr9COs39I342Ho6nwtp) | 2:57 | 2021-12-08 |  |
 | [Sororité](https://open.spotify.com/track/0bUnCB45lvyq3UftO0mJax) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC) | [Bleu](https://open.spotify.com/album/6fpbdcvp2uiG3K28AaweQN) | 2:57 | 2021-12-08 |  |
@@ -48,7 +51,7 @@
 | [Sur ma tombe](https://open.spotify.com/track/4jyXJHh1OxZmj6J9V9Ol5A) | [Doria D](https://open.spotify.com/artist/3o3EvvWqx9JYkPCWM3C15w) | [Dépendance](https://open.spotify.com/album/4Oi4GIrQU5zW7OGiWQQ3Mg) | 3:17 | 2021-12-08 |  |
 | [Sweatshirt](https://open.spotify.com/track/678kM9kkPOzm5Rb5CUQteU) | [April Maey](https://open.spotify.com/artist/0CyVkXQydhAi8gPILbXb99) | [Sweatshirt](https://open.spotify.com/album/0FfoWqrowrw9kFCckLyiRn) | 1:57 | 2021-12-08 |  |
 | [The Four Horsemen](https://open.spotify.com/track/4VEfZjfudT54sYo4QnfOgB) | [Isolde](https://open.spotify.com/artist/7C9Zdf0nRAeD6sf6YlGypB) | [The Four Horsemen](https://open.spotify.com/album/39P20GwSLYTe6gW9iBHg4E) | 4:45 | 2021-12-08 |  |
-| [The swallow](https://open.spotify.com/track/3AxeXiil0VoLBkuFCRMNJz) | [Naragonia](https://open.spotify.com/artist/5EIwsc7Yjljcg47idONrAg) | [The Guesthouse Sessions](https://open.spotify.com/album/34fnPnLHYG2dA9cfzPSLkN) | 2:51 | 2021-12-08 |  |
+| [The swallow](https://open.spotify.com/track/3AxeXiil0VoLBkuFCRMNJz) | [Naragonia](https://open.spotify.com/artist/5EIwsc7Yjljcg47idONrAg) | [The Guesthouse Sessions](https://open.spotify.com/album/34fnPnLHYG2dA9cfzPSLkN) | 2:51 | 2021-12-08 | 2022-01-06 |
 | [True Colors \- Uit Liefde Voor Muziek](https://open.spotify.com/track/3estBhZsfEQX6KOSNgkJyN) | [Karen Damen](https://open.spotify.com/artist/4WXQNfOny7YzVMZnVd7WrE) | [True Colors \(Uit Liefde Voor Muziek\)](https://open.spotify.com/album/5BCNytilPzZ3SrwtYoxVjd) | 3:03 | 2021-12-08 |  |
 | [Unforgettable Nights](https://open.spotify.com/track/2JhW85osTaJfFyUiyUU6Qc) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Unforgettable Nights](https://open.spotify.com/album/3CFSxBdH5PlORkYgQEt4uG) | 3:01 | 2021-12-08 |  |
 | [untitled](https://open.spotify.com/track/4D6ABVd9lAohznKcYXVbi6) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [Untitled](https://open.spotify.com/album/27vvHX4ThNYdhoSjNPS2km) | 4:04 | 2021-12-08 |  |

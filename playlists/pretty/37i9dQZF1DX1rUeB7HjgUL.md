@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUeB7HjgUL.md) - [plain]
 
 > The essential Arcade Fire featuring their new album "Everything Now".
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,678 likes - 30 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,708 likes - 30 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

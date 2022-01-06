@@ -1,13 +1,41 @@
 {
   "description": "The latest in gaming music.",
   "name": "Now Loading",
-  "num_followers": 592064,
+  "num_followers": 592137,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDAxMjc2MiwwMDAwMDA0YjAwMDAwMTdkZDg2MGNmMmEwMDAwMDE3Yjg4MGY3MmI3",
+  "snapshot_id": "MTY0MTQxODA5NCwwMDAwMDA0YzAwMDAwMTdlMmMyNDc4YzkwMDAwMDE3Yjg4MGY3MmI3",
   "tracks": [
+    {
+      "added_at": "2022-01-05 21:28:14",
+      "album": {
+        "name": "ASIN9NE",
+        "url": "https://open.spotify.com/album/0g81USzuFuid3QkYfxeMXM"
+      },
+      "artists": [
+        {
+          "name": "Tech N9ne",
+          "url": "https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos"
+        },
+        {
+          "name": "Joey Cool",
+          "url": "https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu"
+        },
+        {
+          "name": "King Iso",
+          "url": "https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle"
+        },
+        {
+          "name": "Dwayne Johnson",
+          "url": "https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn"
+        }
+      ],
+      "duration_ms": 219802,
+      "name": "Face Off",
+      "url": "https://open.spotify.com/track/6M47gaKejso9772SKTa3yH"
+    },
     {
       "added_at": "2021-10-28 13:12:36",
       "album": {

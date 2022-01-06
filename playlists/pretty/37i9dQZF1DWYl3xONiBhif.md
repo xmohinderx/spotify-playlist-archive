@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYl3xONiBhif.md) - [plain]
 
 > Todo lo nuevo y lo esencial de El Alfa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,540 likes - 103 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,737 likes - 103 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

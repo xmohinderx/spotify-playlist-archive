@@ -2,7 +2,7 @@
 
 ### [La Lista Pop](https://open.spotify.com/playlist/4iUOCOgAGj98pc9KE7qNhs)
 
-> Los éxitos del pop latino featuring Camilo
+> Los éxitos del pop latino featuring zzoilo y Aitana
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

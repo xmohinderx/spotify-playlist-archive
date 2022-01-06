@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13kFuGnInkY.md) - [plain]
 
 > A complete playlist of all the winners & nominees\. Tune in to the ACM Awards LIVE on CBS & Paramount + on April 18th 8/7c!
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,829 likes - 102 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,918 likes - 102 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

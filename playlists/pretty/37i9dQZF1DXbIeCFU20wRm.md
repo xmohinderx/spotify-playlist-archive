@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 
 ### [Atmospheric Sci\-fi Soundtracks](https://open.spotify.com/playlist/37i9dQZF1DXbIeCFU20wRm)
 
-> <p>Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks\. Twin playlist: <a href="spotify:user:spotify:playlist:37i9dQZF1DX0i61tT0OnnK">Space\-themed Classical Music</a>.</p>
+> Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,428 likes - 41 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,658 likes - 41 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 | 40 | [Benno](https://open.spotify.com/track/3XiRUEgCkrXI42GqHaUkZw) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7), [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Cosmopolis \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ZODeTWdmP8gtOKt4j7oOB) | 6:52 |
 | 41 | [Main Title](https://open.spotify.com/track/06lV8j761EK8DtGi0m6bmJ) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq), [Alan Howarth](https://open.spotify.com/artist/3Ia5S5H9yoQpc9Hqy0cqAU) | [Escape From New York](https://open.spotify.com/album/3vRFag7W8G9SY1sbeEMU90) | 3:53 |
 
-Snapshot ID: `MTYzOTY3Mjg5NSwwMDAwMDAwZDAwMDAwMTdkYzQxZWQ2N2UwMDAwMDE3MGM0YzBjOWRh`
+Snapshot ID: `MTY0MTM5MDMwNCwwMDAwMDAwZTAwMDAwMTdlMmE3YzZlZGEwMDAwMDE3MGM0YzBjOWRh`

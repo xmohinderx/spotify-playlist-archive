@@ -1,13 +1,41 @@
 {
   "description": "The soundtrack to the Internet. Cover: yvngxchris",
   "name": "Internet People",
-  "num_followers": 1036252,
+  "num_followers": 1036754,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMzMzI3MiwwMDAwMDI4ZTAwMDAwMTdlMjcxNjJmOTEwMDAwMDE3ZGEwOWQ4NWM2",
+  "snapshot_id": "MTY0MTQxNzg5MiwwMDAwMDI5MDAwMDAwMTdlMmMyMTYyYzUwMDAwMDE3ZGEwOWQ4NWM2",
   "tracks": [
+    {
+      "added_at": "2022-01-05 17:21:06",
+      "album": {
+        "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+        "url": "https://open.spotify.com/album/5aSofcF0U90UxJaDr62r6X"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 279853,
+      "name": "Who Want Smoke?? (feat. G Herbo, Lil Durk & 21 Savage)",
+      "url": "https://open.spotify.com/track/4yNoUQkYf1QF8iYlEzNynH"
+    },
     {
       "added_at": "2022-01-04 15:20:47",
       "album": {
@@ -99,6 +127,26 @@
       "duration_ms": 75751,
       "name": "EXTRAVAGANT",
       "url": "https://open.spotify.com/track/1OqRZUOy9RlJ4688w6m8rd"
+    },
+    {
+      "added_at": "2022-01-05 21:24:52",
+      "album": {
+        "name": "Jesus Is The One (I Got Depression)",
+        "url": "https://open.spotify.com/album/4M8vfAVCrE4H0Qg25TyYyz"
+      },
+      "artists": [
+        {
+          "name": "Zack Fox",
+          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
+        },
+        {
+          "name": "Kenny Beats",
+          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+        }
+      ],
+      "duration_ms": 112800,
+      "name": "Jesus Is The One (I Got Depression)",
+      "url": "https://open.spotify.com/track/1YR9iNGXtsbrd8deR9ULDD"
     },
     {
       "added_at": "2021-10-07 15:52:41",
@@ -311,6 +359,22 @@
       "duration_ms": 108441,
       "name": "bitch im joe biden",
       "url": "https://open.spotify.com/track/14hW7QNB7jEQYQVcdN79Xu"
+    },
+    {
+      "added_at": "2022-01-05 21:24:52",
+      "album": {
+        "name": "One Way!",
+        "url": "https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "One Way!",
+      "url": "https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi"
     },
     {
       "added_at": "2021-12-22 21:25:04",

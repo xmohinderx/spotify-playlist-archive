@@ -1,12 +1,12 @@
 {
   "description": "Here's your cheat sheet for everything on the rise in the rock/alt world. Cover: The Mysterines",
   "name": "New Noise",
-  "num_followers": 376848,
+  "num_followers": 376911,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDcwOTAwMDAwMTdlMGVkYmU5NTEwMDAwMDE3ZDdjODc1OWY0",
+  "snapshot_id": "MTY0MTQwNTg4NCwwMDAwMDcwYTAwMDAwMTdlMmI2YTI3OTEwMDAwMDE3ZDdjODc1OWY0",
   "tracks": [
     {
       "added_at": "2021-12-31 05:00:00",
@@ -451,6 +451,58 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "Pushin' Thru It",
+        "url": "https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg"
+      },
+      "artists": [
+        {
+          "name": "James Ivy",
+          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
+        }
+      ],
+      "duration_ms": 258661,
+      "name": "Pushin' Thru It",
+      "url": "https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo"
+    },
+    {
+      "added_at": "2022-01-05 18:04:44",
+      "album": {
+        "name": "Raise a Glass",
+        "url": "https://open.spotify.com/album/37HQhgUUwSX0eqxQ1E54jD"
+      },
+      "artists": [
+        {
+          "name": "LJ Benet",
+          "url": "https://open.spotify.com/artist/3OeEbpqTZS3lzSdqWcNYhb"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "Raise a Glass",
+      "url": "https://open.spotify.com/track/1UwpZNg32X1fTcCFBrmNpp"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Parasocial (feat. Mark Hoppus)",
+        "url": "https://open.spotify.com/album/6o9Z4lpxjIylszd1wn3B5p"
+      },
+      "artists": [
+        {
+          "name": "Ricky Himself",
+          "url": "https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Parasocial (feat. Mark Hoppus)",
+      "url": "https://open.spotify.com/track/02ZcHMPCRSV7u5SMkN8XO2"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "Heroine",
         "url": "https://open.spotify.com/album/6e9LHebjWrj6qfxwHIMXZS"
       },
@@ -467,6 +519,102 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "Just For Love",
+        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Just For Love",
+      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 172495,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "duration_ms": 197200,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/21kvruyJddCLQguDk9oklX"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "The Judge",
+        "url": "https://open.spotify.com/album/4DHfgt3fAXkfuMpcG8VNLS"
+      },
+      "artists": [
+        {
+          "name": "Daphne's Couch",
+          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+        }
+      ],
+      "duration_ms": 193623,
+      "name": "The Judge",
+      "url": "https://open.spotify.com/track/1DhSnC3oRPavDZjOK8aD0X"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "The Hardest Cut",
+        "url": "https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 193369,
+      "name": "The Hardest Cut",
+      "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Observe The Time & Fly From Evil",
+        "url": "https://open.spotify.com/album/7G2gZojOag5ejFudQATxsy"
+      },
+      "artists": [
+        {
+          "name": "Wet Bandits",
+          "url": "https://open.spotify.com/artist/5kTUCytvCuMBh7LG1xZHFc"
+        }
+      ],
+      "duration_ms": 359150,
+      "name": "Modern Recipes",
+      "url": "https://open.spotify.com/track/3h06Z9m520eahicuGjxJvw"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "Fever Dreams Pt. 2",
         "url": "https://open.spotify.com/album/0ILtAeS79hO8hBfdMVcCVj"
       },
@@ -479,22 +627,6 @@
       "duration_ms": 205120,
       "name": "Hideaway Girl",
       "url": "https://open.spotify.com/track/5LsZQhyNjRMbgbsOQimOrx"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Pushin' Thru It",
-        "url": "https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg"
-      },
-      "artists": [
-        {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
-        }
-      ],
-      "duration_ms": 258661,
-      "name": "Pushin' Thru It",
-      "url": "https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -531,106 +663,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Memory",
-        "url": "https://open.spotify.com/album/32yZcwzjlxC3mY9rWciv8P"
-      },
-      "artists": [
-        {
-          "name": "Windser",
-          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
-        }
-      ],
-      "duration_ms": 197200,
-      "name": "Memory",
-      "url": "https://open.spotify.com/track/21kvruyJddCLQguDk9oklX"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Just For Love",
-        "url": "https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js"
-      },
-      "artists": [
-        {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Just For Love",
-      "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Observe The Time & Fly From Evil",
-        "url": "https://open.spotify.com/album/7G2gZojOag5ejFudQATxsy"
-      },
-      "artists": [
-        {
-          "name": "Wet Bandits",
-          "url": "https://open.spotify.com/artist/5kTUCytvCuMBh7LG1xZHFc"
-        }
-      ],
-      "duration_ms": 359150,
-      "name": "Modern Recipes",
-      "url": "https://open.spotify.com/track/3h06Z9m520eahicuGjxJvw"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Parasocial (feat. Mark Hoppus)",
-        "url": "https://open.spotify.com/album/6o9Z4lpxjIylszd1wn3B5p"
-      },
-      "artists": [
-        {
-          "name": "Ricky Himself",
-          "url": "https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS"
-        },
-        {
-          "name": "Mark Hoppus",
-          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Parasocial (feat. Mark Hoppus)",
-      "url": "https://open.spotify.com/track/02ZcHMPCRSV7u5SMkN8XO2"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/0tZ0bKvTQvvmE7ZeEkxVuk"
-      },
-      "artists": [
-        {
-          "name": "Caspr",
-          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
-        }
-      ],
-      "duration_ms": 210821,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/3lBU0ZIFVzvAC9TUcYtEAV"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Losing Feeling",
-        "url": "https://open.spotify.com/album/6pbcjAX0BperuVELuSMALw"
-      },
-      "artists": [
-        {
-          "name": "No Love For The Middle Child",
-          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
-        }
-      ],
-      "duration_ms": 130774,
-      "name": "Secondhand Heartbreak",
-      "url": "https://open.spotify.com/track/5I8FtRwyoO8Uxw6gVzbM8k"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "INBETWEEN",
         "url": "https://open.spotify.com/album/6hR6RmrvpAdAJjA2LJmDLz"
       },
@@ -643,22 +675,6 @@
       "duration_ms": 114845,
       "name": "INBETWEEN",
       "url": "https://open.spotify.com/track/2Bx7iFM88NmuTKnvaiMH3i"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Never Enough",
-        "url": "https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz"
-      },
-      "artists": [
-        {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
-        }
-      ],
-      "duration_ms": 172495,
-      "name": "Never Enough",
-      "url": "https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -679,34 +695,18 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "The Judge",
-        "url": "https://open.spotify.com/album/4DHfgt3fAXkfuMpcG8VNLS"
+        "name": "Do It Over",
+        "url": "https://open.spotify.com/album/1gtGLWjoZG824QeK0pSp54"
       },
       "artists": [
         {
-          "name": "Daphne's Couch",
-          "url": "https://open.spotify.com/artist/43eTFAcU2TFqZGJWjOyqCq"
+          "name": "The Districts",
+          "url": "https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD"
         }
       ],
-      "duration_ms": 193623,
-      "name": "The Judge",
-      "url": "https://open.spotify.com/track/1DhSnC3oRPavDZjOK8aD0X"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "The Hardest Cut",
-        "url": "https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 193369,
-      "name": "The Hardest Cut",
-      "url": "https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM"
+      "duration_ms": 230986,
+      "name": "Do It Over",
+      "url": "https://open.spotify.com/track/4BqKXZhbl6paNvkzk2YTa0"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "silly putty",
+        "url": "https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "silly putty",
+      "url": "https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "sober",
         "url": "https://open.spotify.com/album/1EicEDUEVlEAYYWPIL8Oxf"
       },
@@ -819,6 +835,38 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/0tZ0bKvTQvvmE7ZeEkxVuk"
+      },
+      "artists": [
+        {
+          "name": "Caspr",
+          "url": "https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ"
+        }
+      ],
+      "duration_ms": 210821,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/3lBU0ZIFVzvAC9TUcYtEAV"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Losing Feeling",
+        "url": "https://open.spotify.com/album/6pbcjAX0BperuVELuSMALw"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Secondhand Heartbreak",
+      "url": "https://open.spotify.com/track/5I8FtRwyoO8Uxw6gVzbM8k"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "Light Stream",
         "url": "https://open.spotify.com/album/3dsbXwunUgzqCygSaFdyYh"
       },
@@ -831,6 +879,22 @@
       "duration_ms": 217266,
       "name": "Light Stream",
       "url": "https://open.spotify.com/track/12MCVDBiqeSA4iqHurkEC3"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "IM NOT SORRY",
+        "url": "https://open.spotify.com/album/1fzAlBGccCu9IWM8eCM4DC"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 161346,
+      "name": "IM NOT SORRY",
+      "url": "https://open.spotify.com/track/1p7CC1v247IBsIGplONX2c"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -871,18 +935,18 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "IM NOT SORRY",
-        "url": "https://open.spotify.com/album/1fzAlBGccCu9IWM8eCM4DC"
+        "name": "Million Miles of Fun",
+        "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
         }
       ],
-      "duration_ms": 161346,
-      "name": "IM NOT SORRY",
-      "url": "https://open.spotify.com/track/1p7CC1v247IBsIGplONX2c"
+      "duration_ms": 130399,
+      "name": "Million Miles of Fun",
+      "url": "https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -951,22 +1015,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "silly putty",
-        "url": "https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1"
-      },
-      "artists": [
-        {
-          "name": "phem",
-          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "silly putty",
-      "url": "https://open.spotify.com/track/3AG923oYOUn7ESzHTkthKL"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "Bike Ride",
         "url": "https://open.spotify.com/album/1nDQaNNs7tCs3fZHiZU2GE"
       },
@@ -999,22 +1047,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Million Miles of Fun",
-        "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Million Miles of Fun",
-      "url": "https://open.spotify.com/track/7DSMyHPif7HO6qJCVGDw4n"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "Nino",
         "url": "https://open.spotify.com/album/1SHFgXR5Lw4T2vGWXrL8NR"
       },
@@ -1027,22 +1059,6 @@
       "duration_ms": 109601,
       "name": "Nino",
       "url": "https://open.spotify.com/track/0vRhAqPvF2yFCcRHWWTeJf"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Do It Over",
-        "url": "https://open.spotify.com/album/1gtGLWjoZG824QeK0pSp54"
-      },
-      "artists": [
-        {
-          "name": "The Districts",
-          "url": "https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD"
-        }
-      ],
-      "duration_ms": 230986,
-      "name": "Do It Over",
-      "url": "https://open.spotify.com/track/4BqKXZhbl6paNvkzk2YTa0"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -1183,26 +1199,6 @@
       "duration_ms": 193000,
       "name": "It's Depression (feat. Middle Part)",
       "url": "https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "LUCID DREAMS",
-        "url": "https://open.spotify.com/album/4mcweAHG1kEJ3o5LTBhEYs"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        },
-        {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
-        }
-      ],
-      "duration_ms": 170310,
-      "name": "LUCID DREAMS",
-      "url": "https://open.spotify.com/track/1H0XfvZWmlvc0QICpv4pwE"
     },
     {
       "added_at": "2021-12-31 05:00:00",

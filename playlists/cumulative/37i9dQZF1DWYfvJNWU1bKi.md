@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYfvJNWU1bKi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYfvJNWU1bKi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYfvJNWU1bKi)
 
-### [Tamil Romance](https://open.spotify.com/playlist/5yCpNVWWzmfpvZv0vpaJE1)
+### [Tamil Romance](https://open.spotify.com/playlist/1TNQk9AULP0cVDpyMKbqiM)
 
 > The best in romantic tunes from Tamil cinema.
 

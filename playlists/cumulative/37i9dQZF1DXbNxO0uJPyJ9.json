@@ -343,7 +343,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 246960,
       "name": "Don't Go (Remix) [2008 - Remaster]",
       "url": "https://open.spotify.com/track/5lRik7QOEX2Fda2ZOEzZmP"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 451280,
       "name": "Don't You Want Me - Extended Dance Mix / 2012 Remaster",
       "url": "https://open.spotify.com/track/1UXYBgzn0vmDAG6NimtPLY"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 388533,
       "name": "Dr. Beat - Original 12\" Mix",
       "url": "https://open.spotify.com/track/6b5EOGzDflaKu6Pt6Csb4R"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 434773,
       "name": "Happy Station - Original 12''",
       "url": "https://open.spotify.com/track/52IqKAPRF1R5EvwHucCrU7"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 341893,
       "name": "I Can't Stand the Rain - Extended 12\" Remix; 2015 Remaster",
       "url": "https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 479160,
       "name": "I'm Not Scared - Disco Mix",
       "url": "https://open.spotify.com/track/2oFfNhQSR912YuzeGn24GQ"
@@ -903,7 +903,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 525493,
       "name": "I.O.U. (12\" Version)",
       "url": "https://open.spotify.com/track/0lwWEgpK7JtvvrulDhOOb4"
@@ -1011,7 +1011,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 408026,
       "name": "Just Can't Get Enough - Schizo Mix",
       "url": "https://open.spotify.com/track/3AGWJIHSuWQnVkcfwCJxo5"
@@ -1207,7 +1207,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 488146,
       "name": "Loverboy - Extended Mix",
       "url": "https://open.spotify.com/track/0z6oL4uRpjmnr3kyXMtqhC"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 385000,
       "name": "Only When You Leave - 12\" Version",
       "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
@@ -1477,7 +1477,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 229973,
       "name": "Pulstar",
       "url": "https://open.spotify.com/track/1vuON4Kz4tQW1icz92PVGK"
@@ -1549,7 +1549,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 316133,
       "name": "Rhythm Is A Dancer - 12'' Version",
       "url": "https://open.spotify.com/track/0RVW7ifzZWqxfNWequ5CfJ"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 536706,
       "name": "Say Hello, Wave Goodbye - Extended Version",
       "url": "https://open.spotify.com/track/65VecWWPnXspZRuy7Bafz3"
@@ -1654,6 +1654,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4VrPUFRGte445pKszlac10"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462168,
+      "name": "Shout - UK Version / Extended Version",
+      "url": "https://open.spotify.com/track/5vLvvZJoH3tpbAQESjpqde"
+    },
+    {
+      "album": {
         "name": "Only Yazoo - The Best of Yazoo",
         "url": "https://open.spotify.com/album/4Vxu0Y9hYrveIxzUrhxOae"
       },
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 494466,
       "name": "So Many Men, So Little Time",
       "url": "https://open.spotify.com/track/3LyetI45on2w6hV1H3agi9"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 265013,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/3MgkCOLLBFvWjUr2fQ16jq"
@@ -1863,7 +1881,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 486840,
       "name": "Take Me Home - Extended Remix",
       "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
@@ -1917,7 +1935,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 394306,
       "name": "The Reflex - Dance Mix",
       "url": "https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 322026,
       "name": "Thought You Were On My Side - Extended Remix/European",
       "url": "https://open.spotify.com/track/2Ke6mshSdHeJ0AedHF0jmm"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 327066,
       "name": "Too Shy - Extended Version",
       "url": "https://open.spotify.com/track/3ePc9YMjz2xPMpHosrG9t5"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 298160,
       "name": "Vienna - 2008 Remastered Version",
       "url": "https://open.spotify.com/track/4a8FQmchPNHwrVTSRQVXtw"
@@ -2155,7 +2173,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 501333,
       "name": "Vogue - 12\" Version",
       "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 396093,
       "name": "What Is Love? [Extended Mix]",
       "url": "https://open.spotify.com/track/76ubLHclAKDHQUwcuQRrkj"
@@ -2321,7 +2339,7 @@
       ],
       "date_added": "2020-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 321840,
       "name": "You're a Woman",
       "url": "https://open.spotify.com/track/7J5B4k0AT8KIoV5KiUa4o7"

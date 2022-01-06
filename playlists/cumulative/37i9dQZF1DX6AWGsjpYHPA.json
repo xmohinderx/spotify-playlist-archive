@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 252413,
       "name": "Asa Branca",
       "url": "https://open.spotify.com/track/6p5QJBr5iE2xvHatGebTbR"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 238533,
       "name": "Baba Ayoola",
       "url": "https://open.spotify.com/track/5HkJXcRA2gPA7QNP9ozXgK"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 299821,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/6WX84e2SacFICy3HoWjYaH"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 201327,
       "name": "Deaf in Three Corners",
       "url": "https://open.spotify.com/track/4gWnXX7FXIHrXnE7vvLpRr"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 324271,
       "name": "Desert Mule",
       "url": "https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 180500,
       "name": "Fonction Naturelle",
       "url": "https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 213960,
       "name": "Jimtastic Blues",
       "url": "https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp"
@@ -907,7 +907,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 155634,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 327096,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4pNlEl7y5pT9f9zFy0oxXb"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 193401,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/5fzUKYfATEqxDmRWfbikAm"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 277245,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4Bigp1M2cas5ocOo0nO8kn"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 157043,
       "name": "Raise It Up",
       "url": "https://open.spotify.com/track/5mS0JXt10eEjAeC7wVhEzU"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 341432,
       "name": "Raw Chef",
       "url": "https://open.spotify.com/track/3KfNOSIKV6kBpx6yesYEkC"
@@ -1920,6 +1920,24 @@
     },
     {
       "album": {
+        "name": "Beyond High Demand",
+        "url": "https://open.spotify.com/album/3Oh8jr7QdDq476EtSggH2S"
+      },
+      "artists": [
+        {
+          "name": "Love Letters",
+          "url": "https://open.spotify.com/artist/1ALDJWUSGEnfpul5JCtjbD"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311496,
+      "name": "The Look of Accessibility",
+      "url": "https://open.spotify.com/track/3mg8dRdGN5jg0KqWqKh9pj"
+    },
+    {
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB"
       },
@@ -1957,7 +1975,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 362481,
       "name": "Tjomme - DJ Koze Remix",
       "url": "https://open.spotify.com/track/01EWHtr2PejHSQMwh3Z4G9"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 287002,
       "name": "Too Soon You're Old",
       "url": "https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS"
@@ -2141,7 +2159,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"
@@ -2181,7 +2199,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-06",
       "duration_ms": 287078,
       "name": "Yedin Beni",
       "url": "https://open.spotify.com/track/0AsLxYyfCn0Xo0UVr9Lucb"
