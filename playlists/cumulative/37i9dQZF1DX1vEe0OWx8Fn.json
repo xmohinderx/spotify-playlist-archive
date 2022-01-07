@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "3000MPH",
+        "url": "https://open.spotify.com/album/0Vj6IQNFHVmvQ19qnWTTSm"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF\u00d8NE",
+          "url": "https://open.spotify.com/artist/3bb8SEudKsfPJOU3PMBXut"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169927,
+      "name": "3000MPH",
+      "url": "https://open.spotify.com/track/5C4m2Oy5FJn8eiGeiAKWkB"
+    },
+    {
+      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/1MDN5NQ57OPN6xlpBCS1Ej"
       },
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 187808,
       "name": "Another Kill For The Highlight Reel",
       "url": "https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE"
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 166509,
       "name": "BWBB",
       "url": "https://open.spotify.com/track/1t9TGGopVWBYQX8Jfecrae"
@@ -189,7 +207,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 129339,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/64bFcGOGHhAtNtYzneEDJV"
@@ -417,7 +435,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 202666,
       "name": "Fade Like You",
       "url": "https://open.spotify.com/track/2yXoRYmBSAbC9d3CR0bcO6"
@@ -497,7 +515,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 251906,
       "name": "Freakin' Out On the Interstate",
       "url": "https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX"
@@ -573,7 +591,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 165539,
       "name": "hangar",
       "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
@@ -645,7 +663,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 128983,
       "name": "Her",
       "url": "https://open.spotify.com/track/7AKWV3l6tVrhLj9nstvdHg"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 174964,
       "name": "i think you're really cool (with Ray Toro)",
       "url": "https://open.spotify.com/track/6YC8qD1PrVvQI7BzdX6URM"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 187571,
       "name": "idk why i try",
       "url": "https://open.spotify.com/track/3wNJ2XMvz1DznBf5CVZbsj"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 190239,
       "name": "Imprint",
       "url": "https://open.spotify.com/track/1qlUw3ZejypRGcpdQcX3ix"
@@ -967,7 +985,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 159212,
       "name": "Meant to be",
       "url": "https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 226853,
       "name": "Million Dollar Song",
       "url": "https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 171429,
       "name": "monday",
       "url": "https://open.spotify.com/track/0sAHHpXdFBarjfTsntW1ZP"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 205723,
       "name": "NO VANITY",
       "url": "https://open.spotify.com/track/0tQPcLmwvAnS5eXSuAUokD"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 126033,
       "name": "Party At The Cemetery",
       "url": "https://open.spotify.com/track/4O3hlqw3P2SA0SvsyKuYCu"
@@ -1289,7 +1307,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 168653,
       "name": "problems",
       "url": "https://open.spotify.com/track/0YcJfsr91XXLiSapSQbtJf"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "These Days R Mine",
       "url": "https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 194751,
       "name": "together",
       "url": "https://open.spotify.com/track/5kWxexqLsP9izjOxZre9iD"

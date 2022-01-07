@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXdFC1xcOhJZ9.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXdFC1xcOhJZ9) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXdFC1xcOhJZ9)
 
-### Chillout Room Classics
+### [Chillout Room Classics](https://open.spotify.com/playlist/5OS47xesWcizzSceuREH3m)
 
 > Ambient's most enduring tracks from the 90's chillout room scene\. Cover: 808 State
 

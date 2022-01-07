@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 178355,
       "name": "A Storm On A Summers Day",
       "url": "https://open.spotify.com/track/2scANFae26sIF97RtQFb7h"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 272191,
       "name": "Afta'h Albab",
       "url": "https://open.spotify.com/track/0GE8ZWfe1ohvn1Rf5FbxLC"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 307500,
       "name": "Agricultural Revolution",
       "url": "https://open.spotify.com/track/5eoW1Ke2adtl6zuEc6hbjy"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 404066,
       "name": "Ahla Eyyoun",
       "url": "https://open.spotify.com/track/3t6mDLyrhHgRfcZErr5N9G"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 181224,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/3OYwEiG78BJ61FeQcrZyKA"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 278000,
       "name": "Argos Farfish",
       "url": "https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 166838,
       "name": "Blue - COLORS Sudan",
       "url": "https://open.spotify.com/track/4pAXmdDXQCBjX8aA8ZuyYm"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Grow Fast",
       "url": "https://open.spotify.com/track/3wYf4mh8p3U1XmBDxmy7vr"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 273521,
       "name": "Ia Sudan Ma'alesh",
       "url": "https://open.spotify.com/track/33U53mkczIUGC8kmaIZ0A0"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 256533,
       "name": "Labis Toubo",
       "url": "https://open.spotify.com/track/0WCI3M50oW3caK58gB4uZf"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 195343,
       "name": "Malaia",
       "url": "https://open.spotify.com/track/2lNXc86nUMT82Qe3AahIsI"
@@ -734,6 +734,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9pays\u00e9",
+        "url": "https://open.spotify.com/album/3TCAGitdvxPinzCDSrP0uv"
+      },
+      "artists": [
+        {
+          "name": "Sinkane",
+          "url": "https://open.spotify.com/artist/0ip3L7jX2aq8T1VTJRFZ9w"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242274,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/3KjHzQBWVP8ZoLvAunNBnF"
+    },
+    {
+      "album": {
         "name": "Matalib",
         "url": "https://open.spotify.com/album/4kyeAYBNCYeGHEa2CktKDx"
       },
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 198269,
       "name": "Mook II (Rerelease) [feat. Bas]",
       "url": "https://open.spotify.com/track/0h9YYF4MsA9k76Gfpu9Wmk"
@@ -883,7 +901,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 370666,
       "name": "Noora",
       "url": "https://open.spotify.com/track/28QZMziRHzyxHet8LKkv7R"
@@ -955,7 +973,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 182493,
       "name": "Sabbinaha",
       "url": "https://open.spotify.com/track/6UGE712uTwR6rg7yB8vjph"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 202031,
       "name": "Salimmik",
       "url": "https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Soukura - Boddhi Satva Ancestral Soul Remix",
       "url": "https://open.spotify.com/track/3hXjEjCujOecf0X0yxUdx2"
@@ -1331,7 +1349,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 212468,
       "name": "\u0645\u0643\u0627\u0646\u064a",
       "url": "https://open.spotify.com/track/5fCPssqX4KCPXclpq08BU0"

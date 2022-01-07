@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-05",
   "description": "Genre-defying artists pushing boundaries in electronic music. Cover: Amon Tobin",
   "name": "Electronic X",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7yZuMWSP3DmPnpKPoOfSdU"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 367304,
       "name": "22.8.15",
       "url": "https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo"
@@ -53,7 +55,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 174162,
       "name": "A Sonic Womb Pt. 5",
       "url": "https://open.spotify.com/track/2x9RGyqDyptzddFiRUQ7ao"
@@ -155,7 +157,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 341805,
       "name": "All Things Burn",
       "url": "https://open.spotify.com/track/1RC35S8rOlc4cMAhC8IOVQ"
@@ -195,7 +197,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 192584,
       "name": "Arrival (T2 Mix)",
       "url": "https://open.spotify.com/track/590kHXmcGehl4CWYY04w2G"
@@ -239,6 +241,24 @@
       "duration_ms": 251560,
       "name": "Beethoven 250",
       "url": "https://open.spotify.com/track/4F4XbR8oZKp4iNj1WAq11d"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
+      },
+      "artists": [
+        {
+          "name": "Tentacle",
+          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447034,
+      "name": "Breakdown (The End of Chemical Romance)",
+      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
     },
     {
       "album": {
@@ -337,7 +357,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 376400,
       "name": "Chrome Dreams",
       "url": "https://open.spotify.com/track/6Z4YT5Qz3FAjURIhAlacsF"
@@ -395,7 +415,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 508000,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/27rSyoeSLyXDSqBYqRx2Ws"
@@ -457,7 +477,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 310135,
       "name": "Crypt",
       "url": "https://open.spotify.com/track/3aRW4dPpIzTOVoLm9aIT2A"
@@ -526,6 +546,24 @@
     },
     {
       "album": {
+        "name": "Subversive Territory",
+        "url": "https://open.spotify.com/album/00ZN0VoWXZJKRALpMTg0vB"
+      },
+      "artists": [
+        {
+          "name": "Umwelt",
+          "url": "https://open.spotify.com/artist/7FbwfcufReYcTNj2ut58gu"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265133,
+      "name": "Disobedient Planet",
+      "url": "https://open.spotify.com/track/76w3RDV7A272ddlPpnZ3cg"
+    },
+    {
+      "album": {
         "name": "No era s\u00f3lida",
         "url": "https://open.spotify.com/album/4geSagGdLzudTyR6SW2mTo"
       },
@@ -577,7 +615,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 182883,
       "name": "Emanation",
       "url": "https://open.spotify.com/track/5s8sPfoY0ynQDgwrWv3Rk6"
@@ -617,7 +655,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 327474,
       "name": "Evensong",
       "url": "https://open.spotify.com/track/4TS7ZKYI9duQujtVglF2Cb"
@@ -657,10 +695,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 190179,
       "name": "Faro",
       "url": "https://open.spotify.com/track/475P7uJAThYszeB5c5uN9g"
+    },
+    {
+      "album": {
+        "name": "Departing Like Rivers",
+        "url": "https://open.spotify.com/album/3rwFk3UFJlRJtTcsnOnlZa"
+      },
+      "artists": [
+        {
+          "name": "Shackleton",
+          "url": "https://open.spotify.com/artist/5Mq3CTRRgLcPkMnUue75a3"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195913,
+      "name": "Few Are Chosen",
+      "url": "https://open.spotify.com/track/4ELyYxJHrds4szqryojrrb"
     },
     {
       "album": {
@@ -675,7 +731,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 142000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/5ktpSEIJoMmz5AtfzVeqBb"
@@ -812,6 +868,24 @@
     },
     {
       "album": {
+        "name": "Quinto Relat\u00f3rio Anual",
+        "url": "https://open.spotify.com/album/4IGXJbxhGZz6Qf8ksTrjrd"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217428,
+      "name": "Indonesia Print",
+      "url": "https://open.spotify.com/track/5pRYAk9jj0KhEnFY38s3WL"
+    },
+    {
+      "album": {
         "name": "New Decade",
         "url": "https://open.spotify.com/album/5QyGZDAjwsjfPrTP0aUEMi"
       },
@@ -823,7 +897,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 434935,
       "name": "Into the Stream",
       "url": "https://open.spotify.com/track/4gkBVr0w48wES2fsfKD41r"
@@ -841,7 +915,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 390850,
       "name": "Kistvaen",
       "url": "https://open.spotify.com/track/6zqgYUrJL0vo2dpA7RQREm"
@@ -918,6 +992,24 @@
     },
     {
       "album": {
+        "name": "I Hope This Finds You Well",
+        "url": "https://open.spotify.com/album/1DlvHp9Mqgo3Vx8KSUVXJi"
+      },
+      "artists": [
+        {
+          "name": "The Microgram",
+          "url": "https://open.spotify.com/artist/6nqx8IxAeyqJEuJh9oCgOG"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329274,
+      "name": "Louche",
+      "url": "https://open.spotify.com/track/4EhUPzPXfWS08IlhwYVr7Z"
+    },
+    {
+      "album": {
         "name": "Machine Disappearing (Eye Measure Remix)",
         "url": "https://open.spotify.com/album/03mZdNFFRVeTYtdFWhUhgd"
       },
@@ -933,7 +1025,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 210343,
       "name": "Machine Disappearing - Eye Measure Remix",
       "url": "https://open.spotify.com/track/2VwtJgiqNvMws0Bn9Sp9QV"
@@ -1013,7 +1105,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 126259,
       "name": "Meet Me At Sachas",
       "url": "https://open.spotify.com/track/6yI4LxYfqXY09ukPhbogkm"
@@ -1183,7 +1275,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 255210,
       "name": "November",
       "url": "https://open.spotify.com/track/09C2ySaLqjHLak0oscWpkE"
@@ -1201,7 +1293,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 299870,
       "name": "Open plain",
       "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
@@ -1339,7 +1431,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 280000,
       "name": "Pulse of the Underdrive",
       "url": "https://open.spotify.com/track/4jRV4brshwypOxfLsyJbY6"
@@ -1405,7 +1497,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 202285,
       "name": "Relacional",
       "url": "https://open.spotify.com/track/0LXnwxKWZ21A2bmKe7Qm0m"
@@ -1529,7 +1621,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 135384,
       "name": "Saphire Waves",
       "url": "https://open.spotify.com/track/54NsU7IFD70hfysgZbfxl5"
@@ -1643,7 +1735,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 371066,
       "name": "Simulacrum II - Roly Porter Remix",
       "url": "https://open.spotify.com/track/0qfAe2NZhRf5y958UrK4HH"
@@ -1661,7 +1753,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/2A2KhiDjc7NXsqhuMyKXp9"
@@ -1679,7 +1771,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 221874,
       "name": "Stapler",
       "url": "https://open.spotify.com/track/54ZttkOfyEW4JVZblFopLt"
@@ -1745,6 +1837,24 @@
       "duration_ms": 183000,
       "name": "Stuck in Pause",
       "url": "https://open.spotify.com/track/0hJbyiQ4R8yqyAMdkmyFJD"
+    },
+    {
+      "album": {
+        "name": "Swam",
+        "url": "https://open.spotify.com/album/3ySwNrkNcJPDT1GmwfCUOc"
+      },
+      "artists": [
+        {
+          "name": "Lomond Campbell",
+          "url": "https://open.spotify.com/artist/0dWs32CWUbYmMFC9TBKzAb"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255613,
+      "name": "Swam",
+      "url": "https://open.spotify.com/track/1HY1dI66ADkJfmAnVCZ6Dq"
     },
     {
       "album": {
@@ -1850,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "Our Hands Against the Dusk",
+        "url": "https://open.spotify.com/album/0m89bXpdmBFJzyIA4j6ZWH"
+      },
+      "artists": [
+        {
+          "name": "Rachika Nayar",
+          "url": "https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307080,
+      "name": "The Edges",
+      "url": "https://open.spotify.com/track/2x4K92FhxeJAmTiptxMijO"
+    },
+    {
+      "album": {
         "name": "Sub Rosa",
         "url": "https://open.spotify.com/album/3ytpF5fIboDCwEAZUjGeDs"
       },
@@ -1861,7 +1989,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "The Gulf of Valencia",
       "url": "https://open.spotify.com/track/4LVANIDqdIe0HzoVg816OG"
@@ -2087,7 +2215,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 177682,
       "name": "Valley Candle",
       "url": "https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb"
@@ -2141,7 +2269,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 322948,
       "name": "Walking Through Still Air",
       "url": "https://open.spotify.com/track/2PEeHAgoF0K6e3cFiMeWMl"
@@ -2181,7 +2309,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 301550,
       "name": "Wing Pinger 02",
       "url": "https://open.spotify.com/track/1Qlk7bOGlvqtncjCZf8bJE"

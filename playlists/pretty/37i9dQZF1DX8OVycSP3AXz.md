@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OVycSP3AXz.md) - [plain]
 
 > Replongez dans les plus grands tubes de la période yéyé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,908 likes - 40 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,916 likes - 40 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

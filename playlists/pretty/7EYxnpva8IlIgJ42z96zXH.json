@@ -1,15 +1,35 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly!",
   "name": "Morning Workout",
-  "num_followers": 29792,
+  "num_followers": 29786,
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "MjE5NixmOGJhNTUwNDQzOTZjYTc0MTE1YTYzNDRkYWJiZjQxOGNlMzZiMmYy",
+  "snapshot_id": "MjE5OCxhYTM5YjUzNWZmZjI4MTAwNzNhNzZjYzQ2MWQ2MDMwMjc0ZjBmNGM5",
   "tracks": [
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/2pNtsyHd2CL7XM6PtwoOyG"
@@ -33,27 +53,7 @@
       "url": "https://open.spotify.com/track/50YQaQXog18lS11wGCl77u"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Signals",
         "url": "https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE"
@@ -113,103 +113,7 @@
       "url": "https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "I Don't Want You",
-        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 190240,
-      "name": "I Don't Want You",
-      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "By Your Side (feat. Tom Grennan)",
-        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 189671,
-      "name": "By Your Side (feat. Tom Grennan)",
-      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/0AXEZvL5CvHgIbChzCmBVy"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Lil Xan",
-          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
-        },
-        {
-          "name": "KDDK",
-          "url": "https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk"
-        }
-      ],
-      "duration_ms": 160639,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/16xwg9hnjqaKGmOSiE5JFV"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Catch My Love",
         "url": "https://open.spotify.com/album/3cRcAAVLPSyu1cEt95aDHs"
@@ -233,7 +137,103 @@
       "url": "https://open.spotify.com/track/0C0LsZeUyAG50xJKEIpBgY"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "By Your Side (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "By Your Side (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "I Don't Want You",
+        "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 190240,
+      "name": "I Don't Want You",
+      "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "You for Me",
+        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 175435,
+      "name": "You for Me",
+      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Tricky (feat. Autumn Rowe)",
+        "url": "https://open.spotify.com/album/4AeKrfj4BNOyu4SvIjrdb3"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Autumn Rowe",
+          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Tricky (feat. Autumn Rowe)",
+      "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
         "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
@@ -265,23 +265,47 @@
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Money On My Mind",
-        "url": "https://open.spotify.com/album/0RhMHX5LDrs97f0jt4qmKn"
+        "name": "Roses (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
       },
       "artists": [
         {
-          "name": "HVME",
-          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 126763,
-      "name": "Money On My Mind",
-      "url": "https://open.spotify.com/track/0SCZoOyU9qkPZXIk7YmENI"
+      "duration_ms": 176840,
+      "name": "Roses - Imanbek Remix",
+      "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Undeniable (feat. X Ambassadors)",
+        "url": "https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 180596,
+      "name": "Undeniable (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/2wvHFdSUM3Q6Dtu7dowYpf"
@@ -297,7 +321,7 @@
       "url": "https://open.spotify.com/track/2J3TcdKkdU42R9zWqWi6LJ"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
@@ -321,27 +345,7 @@
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Roses (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/3GqSdhWjmMypMwPLtzoFYs"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Roses - Imanbek Remix",
-      "url": "https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Goosebumps (Remix)",
         "url": "https://open.spotify.com/album/7N0XWQzj92gqmS5OmzX2YH"
@@ -361,87 +365,63 @@
       "url": "https://open.spotify.com/track/3xiVh7Be0tcpU8MBap62nm"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Operator",
-        "url": "https://open.spotify.com/album/6JW76FVhsFIumHVdH5RiXV"
+        "name": "Money On My Mind",
+        "url": "https://open.spotify.com/album/0RhMHX5LDrs97f0jt4qmKn"
       },
       "artists": [
         {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+          "name": "HVME",
+          "url": "https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9"
         }
       ],
-      "duration_ms": 148739,
-      "name": "Operator",
-      "url": "https://open.spotify.com/track/1HCrPghkZvOrnIrAfppDeo"
+      "duration_ms": 126763,
+      "name": "Money On My Mind",
+      "url": "https://open.spotify.com/track/0SCZoOyU9qkPZXIk7YmENI"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Daddy Cool",
-        "url": "https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
       "artists": [
         {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         }
       ],
-      "duration_ms": 154858,
-      "name": "Daddy Cool",
-      "url": "https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG"
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+        "name": "People Happy",
+        "url": "https://open.spotify.com/album/0bjC4rvDNRzbMYSgaB5zBG"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "KLP",
+          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
         },
         {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+          "name": "Stace Cadet",
+          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
         }
       ],
-      "duration_ms": 186209,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+      "duration_ms": 158582,
+      "name": "People Happy",
+      "url": "https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Won\u2019t Let You Go",
-        "url": "https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 217261,
-      "name": "Won\u2019t Let You Go",
-      "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Rollercoaster",
         "url": "https://open.spotify.com/album/4lC9pLz0vfNZQe7xcpqjKg"
@@ -465,7 +445,27 @@
       "url": "https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 186209,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "You Know",
         "url": "https://open.spotify.com/album/3JAqA9zs599PiWAhcL2ffU"
@@ -481,47 +481,51 @@
       "url": "https://open.spotify.com/track/0o20fRrUReE9wccushpwEZ"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "People Happy",
-        "url": "https://open.spotify.com/album/0bjC4rvDNRzbMYSgaB5zBG"
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
       },
       "artists": [
         {
-          "name": "KLP",
-          "url": "https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "name": "Stace Cadet",
-          "url": "https://open.spotify.com/artist/4C825UjHAWCMvdZwbtpwDT"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 158582,
-      "name": "People Happy",
-      "url": "https://open.spotify.com/track/7afcFEV1xMYlzeE4kyrYCH"
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "You for Me",
-        "url": "https://open.spotify.com/album/2iylTVQEMYGQ9CUgn9MAAT"
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/0AXEZvL5CvHgIbChzCmBVy"
       },
       "artists": [
         {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Lil Xan",
+          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
+        },
+        {
+          "name": "KDDK",
+          "url": "https://open.spotify.com/artist/1793RNBnWXkl6iRbT196Nk"
         }
       ],
-      "duration_ms": 175435,
-      "name": "You for Me",
-      "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
+      "duration_ms": 160639,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/16xwg9hnjqaKGmOSiE5JFV"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Pick Me Up",
         "url": "https://open.spotify.com/album/3T9hIEz1oe5vAOy4nU8Vk0"
@@ -541,47 +545,23 @@
       "url": "https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "What You Say (feat. Indiiana)",
-        "url": "https://open.spotify.com/album/1qb33KZHmQTI2f3q84XdnT"
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
       },
       "artists": [
         {
-          "name": "Drenchill",
-          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
-        },
-        {
-          "name": "Indiiana",
-          "url": "https://open.spotify.com/artist/6oHCxanXnGoT4ntOtXwsWX"
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
         }
       ],
-      "duration_ms": 137000,
-      "name": "What You Say (feat. Indiiana)",
-      "url": "https://open.spotify.com/track/7mJPU3dM2dlEbNXjQa73D2"
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Undeniable (feat. X Ambassadors)",
-        "url": "https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 180596,
-      "name": "Undeniable (feat. X Ambassadors)",
-      "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Looking for Me",
         "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
@@ -605,27 +585,23 @@
       "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+        "name": "Operator",
+        "url": "https://open.spotify.com/album/6JW76FVhsFIumHVdH5RiXV"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
         }
       ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+      "duration_ms": 148739,
+      "name": "Operator",
+      "url": "https://open.spotify.com/track/1HCrPghkZvOrnIrAfppDeo"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
@@ -645,27 +621,27 @@
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+        "name": "Daddy Cool",
+        "url": "https://open.spotify.com/album/7fXtm0TpLRIJhxobKDjxRp"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
         }
       ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+      "duration_ms": 154858,
+      "name": "Daddy Cool",
+      "url": "https://open.spotify.com/track/50rcUhHimavzT1qq6QrgMG"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/5jCXJQBJ5mZyS2pSAEqDtP"
@@ -685,27 +661,23 @@
       "url": "https://open.spotify.com/track/0WNjZebEUjiPEdVqfYjlcZ"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF"
+        "name": "Lauren",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
       "artists": [
         {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         }
       ],
-      "duration_ms": 170022,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
+      "duration_ms": 200550,
+      "name": "Lauren",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Freedom (You Bring Me)",
         "url": "https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP"
@@ -725,39 +697,27 @@
       "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Lauren",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/4VZHXgN7AtOJAmUysU6SxF"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Swimming In Your Eyes",
-        "url": "https://open.spotify.com/album/3s00JsMokTyY89ZERHP2QL"
-      },
-      "artists": [
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
         }
       ],
-      "duration_ms": 196135,
-      "name": "Swimming In Your Eyes",
-      "url": "https://open.spotify.com/track/1clNueVAJ6a3orfLksJ1Sk"
+      "duration_ms": 170022,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/6G3t9WroSJiK5S66umOfIA"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Lasting Lover",
         "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
@@ -777,67 +737,23 @@
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "(Just Can't) Hate U (feat. Dotter)",
-        "url": "https://open.spotify.com/album/3DxbGEY9rHz9vpfByBiC0V"
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B"
       },
       "artists": [
         {
-          "name": "Ryan Riback",
-          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
-        },
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
         }
       ],
-      "duration_ms": 173702,
-      "name": "(Just Can't) Hate U (feat. Dotter)",
-      "url": "https://open.spotify.com/track/72LSEmD8m9eVVF9j2cmUaz"
+      "duration_ms": 162318,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Love Me Now (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 195880,
-      "name": "Love Me Now (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Pressure (feat. Tove Lo)",
-        "url": "https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "Pressure (feat. Tove Lo)",
-      "url": "https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Alright (feat. 24kGoldn & Quavo)",
         "url": "https://open.spotify.com/album/5UT5cy2zj70DQrV4jlENIu"
@@ -861,7 +777,103 @@
       "url": "https://open.spotify.com/track/5T0ahhwM0f4YYExfIGEHVw"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "(Just Can't) Hate U (feat. Dotter)",
+        "url": "https://open.spotify.com/album/3DxbGEY9rHz9vpfByBiC0V"
+      },
+      "artists": [
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        },
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 173702,
+      "name": "(Just Can't) Hate U (feat. Dotter)",
+      "url": "https://open.spotify.com/track/72LSEmD8m9eVVF9j2cmUaz"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Love Me Now (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 195880,
+      "name": "Love Me Now (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/3K2K785SdN3wozTA3krazb"
+      },
+      "artists": [
+        {
+          "name": "Paul Woolford",
+          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+        },
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 187277,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Pressure (feat. Tove Lo)",
+        "url": "https://open.spotify.com/album/5s55A56E4N7390TTEUzwKN"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "Pressure (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/4ga4WvRNhMsIL38pkBbnIN"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/7EYNbpq4dQNjSmZUPElNU3"
+      },
+      "artists": [
+        {
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        }
+      ],
+      "duration_ms": 173251,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2CNQXaZCnqxYXehrSUzHTa"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "New Love (feat. Ellie Goulding)",
         "url": "https://open.spotify.com/album/6DFajhqhakGIy5A8gy0LcZ"
@@ -889,23 +901,47 @@
       "url": "https://open.spotify.com/track/3qcse1HvDQ1vGQo6Egtkom"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B"
+        "name": "Where Are You Now (Remix Pack)",
+        "url": "https://open.spotify.com/album/6lEVcSBDsn0YgGjUxGO1dX"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
         }
       ],
-      "duration_ms": 162318,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
+      "duration_ms": 192877,
+      "name": "Where Are You Now - Kungs Remix",
+      "url": "https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Swimming In Your Eyes",
+        "url": "https://open.spotify.com/album/3s00JsMokTyY89ZERHP2QL"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Swimming In Your Eyes",
+      "url": "https://open.spotify.com/track/1clNueVAJ6a3orfLksJ1Sk"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Price Tags (feat. Anderson .Paak) [kryptogram Remix]",
         "url": "https://open.spotify.com/album/3DXHEA8WETwFkHTlptI9Z7"
@@ -929,7 +965,7 @@
       "url": "https://open.spotify.com/track/417n6UbUWOdel5iXcROCd0"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Too Much (feat. Usher)",
         "url": "https://open.spotify.com/album/6lObxQq82f6xitLI8xZQyz"
@@ -953,23 +989,7 @@
       "url": "https://open.spotify.com/track/39umHdGKfpnjY4TFtnoQ51"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Summer 91 (Looking Back)",
-        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Summer 91 (Looking Back)",
-      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "We Can Come Together",
         "url": "https://open.spotify.com/album/2fQHFbvrb4zGAVXTR7DN4q"
@@ -993,107 +1013,63 @@
       "url": "https://open.spotify.com/track/0YG1fyqSZpuIfNlkOeN3eD"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Solid Gold (feat. bshp)",
-        "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
+        "name": "Summer 91 (Looking Back)",
+        "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
       "artists": [
         {
-          "name": "Disciples",
-          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
-        },
-        {
-          "name": "bshp",
-          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
         }
       ],
-      "duration_ms": 198039,
-      "name": "Solid Gold (feat. bshp)",
-      "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
+      "duration_ms": 180000,
+      "name": "Summer 91 (Looking Back)",
+      "url": "https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/3K2K785SdN3wozTA3krazb"
+        "name": "What You Say (feat. Indiiana)",
+        "url": "https://open.spotify.com/album/1qb33KZHmQTI2f3q84XdnT"
       },
       "artists": [
         {
-          "name": "Paul Woolford",
-          "url": "https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV"
+          "name": "Drenchill",
+          "url": "https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH"
         },
         {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+          "name": "Indiiana",
+          "url": "https://open.spotify.com/artist/6oHCxanXnGoT4ntOtXwsWX"
         }
       ],
-      "duration_ms": 187277,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/4x0yfBUpGWpovUxJqj20p0"
+      "duration_ms": 137000,
+      "name": "What You Say (feat. Indiiana)",
+      "url": "https://open.spotify.com/track/7mJPU3dM2dlEbNXjQa73D2"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/2fJdAGjBEbv7tagp6tfBsn"
+        "name": "Monsters (feat. 24kGoldn)",
+        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
       },
       "artists": [
         {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
         },
         {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
         }
       ],
-      "duration_ms": 153172,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/74fKiP8rXuzBVrPG37i3xs"
+      "duration_ms": 174643,
+      "name": "Monsters (feat. 24kGoldn)",
+      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/7EYNbpq4dQNjSmZUPElNU3"
-      },
-      "artists": [
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        }
-      ],
-      "duration_ms": 173251,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/2CNQXaZCnqxYXehrSUzHTa"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "How To Save A Life (feat. loafers & The High)",
-        "url": "https://open.spotify.com/album/7uuHadEOX65HwVIpnPdaUF"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "loafers",
-          "url": "https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc"
-        },
-        {
-          "name": "The High",
-          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "How To Save A Life (feat. loafers & The High)",
-      "url": "https://open.spotify.com/track/63gWjcGKmpz90e8AHxF680"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Hopeless Romantic (Luca Schreiner Remix)",
         "url": "https://open.spotify.com/album/31dmd8qkvZF9YM6ea66Jey"
@@ -1113,7 +1089,7 @@
       "url": "https://open.spotify.com/track/6kfEvSksLjcjoBoMSBCCHa"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Torn (feat. Ryan Riback & Ed Colman)",
         "url": "https://open.spotify.com/album/6b8B2gjnHBNmWttqWCPjDw"
@@ -1137,51 +1113,31 @@
       "url": "https://open.spotify.com/track/1bNuWn8t6f83oD7Nz0kVNx"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
-        "name": "Monsters (feat. 24kGoldn)",
-        "url": "https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK"
+        "name": "How To Save A Life (feat. loafers & The High)",
+        "url": "https://open.spotify.com/album/7uuHadEOX65HwVIpnPdaUF"
       },
       "artists": [
         {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          "name": "loafers",
+          "url": "https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
         }
       ],
-      "duration_ms": 174643,
-      "name": "Monsters (feat. 24kGoldn)",
-      "url": "https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ"
+      "duration_ms": 197746,
+      "name": "How To Save A Life (feat. loafers & The High)",
+      "url": "https://open.spotify.com/track/63gWjcGKmpz90e8AHxF680"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
-      "album": {
-        "name": "Equal in the Darkness",
-        "url": "https://open.spotify.com/album/5tKBgRU0UldDs3CbfZQwIS"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 210782,
-      "name": "Equal in the Darkness",
-      "url": "https://open.spotify.com/track/5QQnZy5qLl2qIiu9aYp20Z"
-    },
-    {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "In My Mind (Joel Corry Remix)",
         "url": "https://open.spotify.com/album/4zTMTbR4bPLatyRRSjJEQT"
@@ -1205,7 +1161,7 @@
       "url": "https://open.spotify.com/track/2Eq5AMlqaeqg4sunGbHtV2"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Way Back Home",
         "url": "https://open.spotify.com/album/0uzdr4Q8ftYWdrAeej6M5F"
@@ -1225,7 +1181,47 @@
       "url": "https://open.spotify.com/track/6GWRcf3yBx3Y7pSScXoxGk"
     },
     {
-      "added_at": "2021-12-30 22:28:15",
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Solid Gold (feat. bshp)",
+        "url": "https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        },
+        {
+          "name": "bshp",
+          "url": "https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ"
+        }
+      ],
+      "duration_ms": 198039,
+      "name": "Solid Gold (feat. bshp)",
+      "url": "https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
+      "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/2fJdAGjBEbv7tagp6tfBsn"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "duration_ms": 153172,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/74fKiP8rXuzBVrPG37i3xs"
+    },
+    {
+      "added_at": "2022-01-06 23:01:24",
       "album": {
         "name": "Love Runs Out (feat. G-Eazy & Sasha Alex Sloan)",
         "url": "https://open.spotify.com/album/0Lwms3Z89fmqqyVWPkZUCY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: <a href="https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC?si=d5Y\-\_SEKQH2m0R1ErOcMNw"> Afro B</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,765 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -70,6 +70,28 @@
     },
     {
       "album": {
+        "name": "Jersey Shore Soundtrack",
+        "url": "https://open.spotify.com/album/4tDWS8dQ6CZWysamjY9eDX"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266413,
+      "name": "Break Your Heart - Mixin Marc And Tony Svejda Radio Edit",
+      "url": "https://open.spotify.com/track/4mVtx1WO9DmJDrYoTC17Nf"
+    },
+    {
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },

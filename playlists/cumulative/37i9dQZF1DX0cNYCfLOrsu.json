@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Ay Dios Mio",
       "url": "https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 150869,
       "name": "Banana",
       "url": "https://open.spotify.com/track/7nF0TnQV9RIzn1mIlr5qxC"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 152656,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2BcL1wkyjPn8JGiDtSU5pD"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 165480,
       "name": "Budum",
       "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 193365,
       "name": "Climbing",
       "url": "https://open.spotify.com/track/4NWJK8W8M4ZHjhD25wIgtR"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 210285,
       "name": "Designer",
       "url": "https://open.spotify.com/track/3x1MtkFUatkrMWvs0vyR7r"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 167966,
       "name": "Dumpling - dEVOLVE Remix",
       "url": "https://open.spotify.com/track/7weMVtvIvwNK6mqJd8BvNX"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 175445,
       "name": "Execution",
       "url": "https://open.spotify.com/track/4MhSHzlW1y0Q6e60lwwZS5"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4C1Smq2t3MVOPzsUPWW0oX"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 166504,
       "name": "Gal a Get More",
       "url": "https://open.spotify.com/track/3gPRyYL4h3E0VUkstlTLSK"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 145671,
       "name": "Green Dreams",
       "url": "https://open.spotify.com/track/0fDkjehk7tnIvkjDwka5Fv"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 160388,
       "name": "Hard & Done",
       "url": "https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n"
@@ -866,6 +866,32 @@
     },
     {
       "album": {
+        "name": "Heavy! (Vybz Kartel Remix)",
+        "url": "https://open.spotify.com/album/3pjBdUQ3B9zLWc4y7GmDSE"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Dj Papis",
+          "url": "https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165717,
+      "name": "Heavy! (Vybz Kartel Remix)",
+      "url": "https://open.spotify.com/track/07XcuVPoyMogdiV4nBeCPt"
+    },
+    {
+      "album": {
         "name": "Hydraulics Wine",
         "url": "https://open.spotify.com/album/6wZGXOuIvrCZAJlHc0fFPo"
       },
@@ -877,7 +903,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 190641,
       "name": "Hydraulics Wine",
       "url": "https://open.spotify.com/track/49KfUKEaWAaYDkOkeztx3c"
@@ -895,7 +921,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 156765,
       "name": "Inches",
       "url": "https://open.spotify.com/track/249LE3CJaJqTL6IKzX0Gn8"
@@ -1059,7 +1085,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 127346,
       "name": "Mad Out",
       "url": "https://open.spotify.com/track/0e5lrtbJiVGRVTRU2wFgXo"
@@ -1215,7 +1241,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 226285,
       "name": "Potential Man",
       "url": "https://open.spotify.com/track/2yEEzp8hcsuykTheAUYYMh"
@@ -1273,7 +1299,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 150279,
       "name": "Pull Up to Mi Bumper",
       "url": "https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J"
@@ -1421,7 +1447,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 217533,
       "name": "Sin Sex",
       "url": "https://open.spotify.com/track/4vYQ5wrzzYIkc2tYUVH0jh"
@@ -1609,7 +1635,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 140388,
       "name": "TIP (The Party)",
       "url": "https://open.spotify.com/track/7JN94B0MwRWK4GuX7n7dhM"
@@ -1627,7 +1653,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/3VEpRXloN4rbzNRPSQzZFW"
@@ -1645,7 +1671,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
@@ -1851,7 +1877,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 190497,
       "name": "Walk Out",
       "url": "https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ"
@@ -1869,7 +1895,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 215327,
       "name": "Walking Trophy",
       "url": "https://open.spotify.com/track/6Gmysz04cSlQNhWHvBEO4a"
@@ -1891,7 +1917,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 209333,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/2qPSLoOyCXZyGB70Qf5H7K"
@@ -1931,7 +1957,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 217200,
       "name": "Whine & Kotch - Raw",
       "url": "https://open.spotify.com/track/4MfOIakexlZ7kIvMQOlCwm"

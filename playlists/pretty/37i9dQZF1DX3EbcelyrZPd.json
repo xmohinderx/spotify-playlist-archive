@@ -1,12 +1,12 @@
 {
   "description": "Get your fill of vibes straight out of Tanzania.",
   "name": "Bongo Flava",
-  "num_followers": 34974,
+  "num_followers": 35017,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTY4ODM0MCwwMDAwMDAzODAwMDAwMTdkYzUwYTgyNzUwMDAwMDE3MGM0Y2ZiMjNi",
+  "snapshot_id": "MTY0MTUwMjc0MCwwMDAwMDAzOTAwMDAwMTdlMzEzMDBlNmYwMDAwMDE3MGM0Y2ZiMjNi",
   "tracks": [
     {
       "added_at": "2021-12-16 20:59:00",
@@ -39,6 +39,26 @@
       "duration_ms": 223373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4"
+    },
+    {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/5jaJcKXR7oFsaA4gNYFmwN"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "duration_ms": 266408,
+      "name": "Teamo",
+      "url": "https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp"
     },
     {
       "added_at": "2021-11-11 20:59:00",
@@ -75,6 +95,22 @@
       "duration_ms": 199308,
       "name": "Naanzaje",
       "url": "https://open.spotify.com/track/0ryJsVr3xjiaZdnCPrk9zK"
+    },
+    {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "V the Album",
+        "url": "https://open.spotify.com/album/6bTnVI9B98ircUnv8UYXuy"
+      },
+      "artists": [
+        {
+          "name": "Brown Mauzo",
+          "url": "https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf"
+        }
+      ],
+      "duration_ms": 200130,
+      "name": "Naoa",
+      "url": "https://open.spotify.com/track/5mqvQK9sfEM9oVV4FCipjs"
     },
     {
       "added_at": "2021-11-18 20:59:00",
@@ -157,6 +193,26 @@
       "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
     },
     {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm"
+      },
+      "artists": [
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        },
+        {
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
+        }
+      ],
+      "duration_ms": 185242,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
+    },
+    {
       "added_at": "2021-11-25 20:59:00",
       "album": {
         "name": "Party",
@@ -217,6 +273,22 @@
       "url": "https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1"
     },
     {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/2cLFk3vyXGbEsg20dDXcZF"
+      },
+      "artists": [
+        {
+          "name": "Lulu Diva",
+          "url": "https://open.spotify.com/artist/351HQU1PawDtAmXb2DBHhr"
+        }
+      ],
+      "duration_ms": 188903,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0pUlYfkpF0uUP3vu7tSe3B"
+    },
+    {
       "added_at": "2021-11-11 20:59:00",
       "album": {
         "name": "New Chui",
@@ -231,6 +303,30 @@
       "duration_ms": 162499,
       "name": "Baila",
       "url": "https://open.spotify.com/track/1PVPgtJGaVtl3kjetobL9U"
+    },
+    {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "Kitu (feat. Bontle Smith & Tyler ICU)",
+        "url": "https://open.spotify.com/album/3rlcakt6Svb3HU2oXWKNkA"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Bontle Smith",
+          "url": "https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        }
+      ],
+      "duration_ms": 356836,
+      "name": "Kitu (feat. Bontle Smith & Tyler ICU)",
+      "url": "https://open.spotify.com/track/0GyrZ0OTQ7XEEhNtxumVzq"
     },
     {
       "added_at": "2021-09-16 20:59:00",
@@ -447,26 +543,6 @@
     {
       "added_at": "2021-10-21 20:59:00",
       "album": {
-        "name": "Upendo (feat. Zuchu)",
-        "url": "https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra"
-      },
-      "artists": [
-        {
-          "name": "Spice Diana",
-          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
-        },
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Upendo (feat. Zuchu)",
-      "url": "https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP"
-    },
-    {
-      "added_at": "2021-10-21 20:59:00",
-      "album": {
         "name": "ONLY ONE KING",
         "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
       },
@@ -553,6 +629,26 @@
       "url": "https://open.spotify.com/track/4cK0vktmHhHnz8m5ZlJnEk"
     },
     {
+      "added_at": "2021-10-14 20:59:00",
+      "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 213791,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV"
+    },
+    {
       "added_at": "2021-09-02 20:59:00",
       "album": {
         "name": "Sweet (feat. Guchi)",
@@ -573,6 +669,26 @@
       "url": "https://open.spotify.com/track/0Gh9xbOUSSxN9ufKazx4JZ"
     },
     {
+      "added_at": "2021-10-21 20:59:00",
+      "album": {
+        "name": "Upendo (feat. Zuchu)",
+        "url": "https://open.spotify.com/album/3MpkiAuVgRLKdHZdm7Pjra"
+      },
+      "artists": [
+        {
+          "name": "Spice Diana",
+          "url": "https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM"
+        },
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Upendo (feat. Zuchu)",
+      "url": "https://open.spotify.com/track/4rET38eDNmdCHOgIoH4RzP"
+    },
+    {
       "added_at": "2021-09-02 20:59:00",
       "album": {
         "name": "Fall",
@@ -587,26 +703,6 @@
       "duration_ms": 206400,
       "name": "Fall",
       "url": "https://open.spotify.com/track/2Nj3AvhTidY0PJhyYL8YSe"
-    },
-    {
-      "added_at": "2021-10-14 20:59:00",
-      "album": {
-        "name": "Number One",
-        "url": "https://open.spotify.com/album/3kwC2ffwJioEFnxnFkWO1X"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 213791,
-      "name": "Number One",
-      "url": "https://open.spotify.com/track/78upcYKwMTCZ7XjT1LeCuV"
     },
     {
       "added_at": "2021-09-16 20:59:00",
@@ -1099,22 +1195,6 @@
     {
       "added_at": "2021-06-25 05:29:59",
       "album": {
-        "name": "Inatosha",
-        "url": "https://open.spotify.com/album/4hELRfBy1Q0FKtxZdvDo2e"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        }
-      ],
-      "duration_ms": 219506,
-      "name": "Inatosha",
-      "url": "https://open.spotify.com/track/1ns7CtYIza9oPK5u7GUMoI"
-    },
-    {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
         "name": "Karata 3",
         "url": "https://open.spotify.com/album/0eJGPJNelIGnxeFMsbIlS4"
       },
@@ -1167,22 +1247,6 @@
       "duration_ms": 187680,
       "name": "Leo Leo",
       "url": "https://open.spotify.com/track/2wetsVvxCvDu5NDXo7v7Wb"
-    },
-    {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
-        "name": "Jeje",
-        "url": "https://open.spotify.com/album/7tm5kVryJsTzodluu5FY9o"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 199373,
-      "name": "Jeje",
-      "url": "https://open.spotify.com/track/1Hkzl9LeZIrKAUMTz6JEJO"
     },
     {
       "added_at": "2021-06-25 05:29:59",
@@ -1241,26 +1305,6 @@
       "url": "https://open.spotify.com/track/3WU4mcgDNDwvOh5yvvUkiR"
     },
     {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
-        "name": "Sound",
-        "url": "https://open.spotify.com/album/3zNEpOsqOGYGCYserRZRZn"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "Sound",
-      "url": "https://open.spotify.com/track/48vHI0EsMshwdDoKDux4nu"
-    },
-    {
       "added_at": "2021-08-26 20:59:00",
       "album": {
         "name": "Promise",
@@ -1275,22 +1319,6 @@
       "duration_ms": 187560,
       "name": "Komesha",
       "url": "https://open.spotify.com/track/2dkVYJdwNJJ3XHxLwbcfaG"
-    },
-    {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
-        "name": "Dodo",
-        "url": "https://open.spotify.com/album/29laMqyXW8THPpNK3tTsNj"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 239177,
-      "name": "Dodo",
-      "url": "https://open.spotify.com/track/2iMxlpiSajGwrkSqWn7RIh"
     },
     {
       "added_at": "2021-08-26 20:59:00",

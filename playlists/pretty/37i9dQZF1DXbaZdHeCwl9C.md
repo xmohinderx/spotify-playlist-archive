@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaZdHeCwl9C.md) - [plain]
 
 > 50 splendid recordings of historically informed performance, which uses both period instruments and performance practice, in order to present music works faithfully, in the style of the era when the piece was originally conceived.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,577 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,585 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 257266,
       "name": "Africa Boogie",
       "url": "https://open.spotify.com/track/0vN7mFkONrm4lRXNHSyimn"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 164386,
       "name": "Afro-Soul",
       "url": "https://open.spotify.com/track/3gwtxoxNMMfeo48G42kkHB"
@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 385466,
       "name": "Happy Feeling",
       "url": "https://open.spotify.com/track/74mdlIZEVBZn8AXbpOOcIe"
@@ -619,6 +619,28 @@
       "duration_ms": 341866,
       "name": "Hi-life",
       "url": "https://open.spotify.com/track/7r7Z9MGaJ6ask6WgGEaxWP"
+    },
+    {
+      "album": {
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Ray Lema",
+          "url": "https://open.spotify.com/artist/3oB3hVEizagt6r6W7HEcbD"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Homeless (feat. Ray Lema)",
+      "url": "https://open.spotify.com/track/1dZwuG11VrX4Kn0uaRWBfo"
     },
     {
       "album": {
@@ -735,7 +757,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 293266,
       "name": "Mboa",
       "url": "https://open.spotify.com/track/2RCNYsMZoiX14c3TNCGw46"
@@ -771,7 +793,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 472200,
       "name": "Mouvement Ewondo",
       "url": "https://open.spotify.com/track/0mcH1StoiW1ww6CbrfCnoW"
@@ -793,7 +815,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 274626,
       "name": "Musica",
       "url": "https://open.spotify.com/track/5quLDM7ds2qugQmzT6Qwaa"
@@ -865,7 +887,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 291760,
       "name": "Paris je t'aime d'amour",
       "url": "https://open.spotify.com/track/7oZFAuYYr3xunpjhphC5sl"
@@ -1033,7 +1055,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 397573,
       "name": "Reggae Makossa",
       "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
@@ -1225,7 +1247,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
@@ -1243,7 +1265,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 149346,
       "name": "The Panther",
       "url": "https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv"
@@ -1377,7 +1399,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 236663,
       "name": "Zoom 2000",
       "url": "https://open.spotify.com/track/6p31t8hrrtH6yB5XBkyT2u"

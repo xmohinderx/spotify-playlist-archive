@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: Kay Flock
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,586,860 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587,024 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 67 | [Migo Shit \(feat\. Quavo\)](https://open.spotify.com/track/769gsFXEqrcWbnkrQT8sz9) | [Lil Migo](https://open.spotify.com/artist/4weldYkJEu7VzU1lLUQPBF), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [King Of The Trap 2](https://open.spotify.com/album/6PRq1ESUGYPQxwZ5gpSE0n) | 2:12 |
 | 68 | [Champagne Fights](https://open.spotify.com/track/2jDNxarXYJ33wnVNWpinL7) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Emotions Running High](https://open.spotify.com/album/5Za6bPaih2yat0OZgvns7X) | 2:28 |
 | 69 | [Tweet Bird \(Never Broke Again feat\. YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae\)](https://open.spotify.com/track/6UZWeRythuGsvnqrwgcj2v) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rojay MLP](https://open.spotify.com/artist/555MqZGSQCqBmLLLFUjsPl), [Meechy Baby](https://open.spotify.com/artist/6QtIrsfiHbIToOfsCllNxv), [P Yungin](https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN), [Rjae](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Tweet Bird \(Never Broke Again feat.YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae\)](https://open.spotify.com/album/4YdoHez1RJ5NPlSgRraKfz) | 3:20 |
-| 70 | [For The Record \(with Ron Suno\)](https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [For The Record \(with Ron Suno\)](https://open.spotify.com/album/50D9YMxG2uRgCabduAeNOG) | 3:11 |
+| 70 | [For The Record](https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [For The Record](https://open.spotify.com/album/50D9YMxG2uRgCabduAeNOG) | 3:11 |
 | 71 | [OUTTAMYMIND! \(feat\. Lil Yachty\)](https://open.spotify.com/track/3vs733LJpo6r1lxMBsMYal) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [LIVE.EVIL](https://open.spotify.com/album/2BAS4qtHxRitgAaHF4mLLR) | 3:05 |
 | 72 | [Can't Contain \(feat\. Young Nudy\)](https://open.spotify.com/track/3ErjMuP1DQSb5t7Cgw2skD) | [2FeetBino](https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Can't Contain \(feat\. Young Nudy\)](https://open.spotify.com/album/6MvTQRabVe8qICh8LDnEuC) | 4:12 |
 | 73 | [Bounce Out](https://open.spotify.com/track/0sGZ7fSjf9FwXwUMBMlD1W) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4) | [Bounce Out](https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d) | 2:34 |

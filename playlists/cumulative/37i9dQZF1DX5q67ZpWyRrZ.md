@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5q67ZpWyRrZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5q67ZpWyRrZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5q67ZpWyRrZ)
 
-### [Indie India ](https://open.spotify.com/playlist/0s5qf5tZzCsWtR2JuhZtq7)
+### [Indie India ](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
 > The best of the country's independent artists\. Cover: Anuv Jain
 

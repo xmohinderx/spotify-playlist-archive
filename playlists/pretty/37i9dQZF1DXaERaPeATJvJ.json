@@ -1,15 +1,31 @@
 {
-  "description": "Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia. Cover: Sieve",
+  "description": "Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia. Cover: Holy City Rollers",
   "name": "Memorindie",
-  "num_followers": 81772,
+  "num_followers": 81812,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzg4MzEyMSwwMDAwMDAzYjAwMDAwMTdkNTk3MTEwZDYwMDAwMDE3ZDU3N2JhMDQ2",
+  "snapshot_id": "MTY0MTQ4ODQwMCwwMDAwMDAzYzAwMDAwMTdlMzA1NTNlZmEwMDAwMDE3ZTJlYjdlZTkz",
   "tracks": [
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
+      "album": {
+        "name": "First Chapter of Allordia",
+        "url": "https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff"
+      },
+      "artists": [
+        {
+          "name": "Holy City Rollers",
+          "url": "https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v"
+        }
+      ],
+      "duration_ms": 260278,
+      "name": "Hook Up",
+      "url": "https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e"
+    },
+    {
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Kelopak Angsa (Remastered)",
         "url": "https://open.spotify.com/album/4LLtGY51tbEFAxAT82dAjb"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/0YyNk502FhwF3KjTbyAMsb"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
-      "album": {
-        "name": "Pada Awalnya",
-        "url": "https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq"
-      },
-      "artists": [
-        {
-          "name": "VOX",
-          "url": "https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Pada Awalnya",
-      "url": "https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q"
-    },
-    {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Love and Turbo Action",
         "url": "https://open.spotify.com/album/1ecP2zCsQt5tnXQjtT3Snd"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4t3xYJuEtE62BnjpkIlzdz"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Galih & Ratna (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0KBEON1Bmw2aQBAjNU2IFn"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0iVAkXQiLOb20NIfwLdTBe"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "rumahsakit",
         "url": "https://open.spotify.com/album/6UGe4giZjoyqAku6wQaxdw"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/59be0zIdpIlGnpGBq17JB2"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Time for a Change / Time to Move On",
         "url": "https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/0bwy5RyhiWUVMXRt4MOVFA"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "V2.05",
         "url": "https://open.spotify.com/album/72g5NvgwUJDA45iqYPltFG"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/3UfR1fCPSLK4AXyl5QtKqN"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "No-Dream Land",
         "url": "https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Starlit Carousel",
         "url": "https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Djakarta Goodbye",
         "url": "https://open.spotify.com/album/1yBGzjyYGCLkPs9VwQh1qo"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/7oEEo9d9ajxiwOyMnWnE67"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "The Osaka Journals",
         "url": "https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/3e88hGhAYY2aBh3YAhlyCz"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Fable",
         "url": "https://open.spotify.com/album/3ItOraUy3QuOtiiWHAVFO9"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/0csrfbjfJcRxCDcp4KzhDO"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Together Whatever Sessions (Live Version)",
         "url": "https://open.spotify.com/album/0eXX7sZMrUItp9FT6FTWdl"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/20qm0yBgr7ylY91vKp7SpY"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Pieces Of The World",
         "url": "https://open.spotify.com/album/6tDKVE1hkmrXUD87JJe0F7"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7EBjzSq8dyhwZvNsDtdOjY"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Di Sayidan",
         "url": "https://open.spotify.com/album/1UYpybR1fl9rAxK89RbCEH"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/5lTnUb4IgWgsEiJseldpkM"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Pada Awalnya",
         "url": "https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0GesyQ4yRafkQoXuA1VMcT"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "The Rest of Planet Bumi",
         "url": "https://open.spotify.com/album/4nsL12Cl2TIugB7O9RAZjk"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/3bgzKtiWqtUkzTQvvX7QQf"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Rrradarrr",
         "url": "https://open.spotify.com/album/53HlDsygw2WROw5dc4vzt8"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3O8aGQKFWHyq0UwJyzFtGG"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Biara",
         "url": "https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "La Peste",
         "url": "https://open.spotify.com/album/2ymuB5HHTqFqKDN6y2ADwa"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Propaganda",
         "url": "https://open.spotify.com/album/6qTGWkGYvVv3Y5HtJ10cpi"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/4xbWESPCXzpARtbmb5hqp5"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Matraman",
         "url": "https://open.spotify.com/album/04W8ZfHK51vMEqT1Pjg32p"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/6mvnlHczAMdRctsgfbA4tY"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Unrescued World",
         "url": "https://open.spotify.com/album/0knRYnWDxaU96s6cOEu8BF"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/6fKHg8pucl8ZFj07NVEBvk"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Let Me Begin",
         "url": "https://open.spotify.com/album/0tqaPIvkArC3EZ8sYmkLAy"
@@ -393,7 +393,23 @@
       "url": "https://open.spotify.com/track/3LBoldNcoz7ALLUGEieC6O"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
+      "album": {
+        "name": "First Chapter of Allordia",
+        "url": "https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff"
+      },
+      "artists": [
+        {
+          "name": "Holy City Rollers",
+          "url": "https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Another Song for Her",
+      "url": "https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7"
+    },
+    {
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Electroduce Yourself",
         "url": "https://open.spotify.com/album/2BhBRPic40xAcJMKMt8Fzk"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/69xEITRbwTnRYEBGTdy3Kp"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/73X5FjXQtQHPCnZGc8UJxd"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Bandempo 20th Anniversary",
         "url": "https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/43YNype2Bng8TrSkWD3htz"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Time for a Change / Time to Move On",
         "url": "https://open.spotify.com/album/7lbJEFQEGUs1pBQfOcbdKV"
@@ -457,7 +473,7 @@
       "url": "https://open.spotify.com/track/208KDxFGSAbH5ZYA1ktBuk"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Von Stufe Zu Stufe",
         "url": "https://open.spotify.com/album/3xBAgVZ2bjZeUbRmO4CMUH"
@@ -473,7 +489,7 @@
       "url": "https://open.spotify.com/track/1QVHsfLzOrsoKJTbRnbWZS"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Weah Weah of the Blah Blah",
         "url": "https://open.spotify.com/album/5W6e1kRTkcmSQPNPiEeYCI"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/7hyVSfiu8VEKYh2l8eAiIb"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Monkey to Millionaire",
         "url": "https://open.spotify.com/album/4pNR7Opym7bbZdBcDgf8DY"
@@ -505,7 +521,7 @@
       "url": "https://open.spotify.com/track/0pJAkqb1ZHCdxohhD7M5w8"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Ode Buat Kota",
         "url": "https://open.spotify.com/album/00c4Anc1uWsQCVijdCTJwB"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/2jkubtUODXk1fbYFx4z9US"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Hypnagogic",
         "url": "https://open.spotify.com/album/2feY3htG1EXcmCBTfyLE5F"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/24unKxTtjxhMSIJ64XbFCS"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Nol Derajat",
         "url": "https://open.spotify.com/album/79HenduAxtzqwIznxHKJ8F"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/5vIXRsAZwa8uvXBhTNWTiK"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3fw17ulJYKEQkDbWV3LTE0"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/53osj6QMqLcS0hri9bcrsz"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Salacca Zalacca (10TH Anniversary Edition)",
         "url": "https://open.spotify.com/album/37vmU4bxRfyjWokSMH5rWW"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/4ynxHnSWd8VGoocpWpSvTT"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Love And Turbo Action",
         "url": "https://open.spotify.com/album/10Mz59hmubT7MRukNG29OA"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/5ctYnyGG80tnqygzIAAVhD"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Chapter 01: The Beginning",
         "url": "https://open.spotify.com/album/34GK92dwjZYXYPza1Uettt"
@@ -621,7 +637,7 @@
       "url": "https://open.spotify.com/track/1KJDoezH79kJuyYIjOaD4J"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Epic Symphony",
         "url": "https://open.spotify.com/album/75CIJQq7AocsTVcnYdEERz"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/1h3HK2bwZ5TEgBB3A06L6i"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Bandempo 20th Anniversary",
         "url": "https://open.spotify.com/album/2XO48VaowaWFOvY48Sia4y"
@@ -653,7 +669,7 @@
       "url": "https://open.spotify.com/track/2vGdIDuFo0EKPxywKCyWpu"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "The Osaka Journals",
         "url": "https://open.spotify.com/album/43Prz8VTzCcSjELmqhoLUZ"
@@ -669,7 +685,7 @@
       "url": "https://open.spotify.com/track/2b5zeSMZrwA9ygkrG5Kc5E"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "A Spy in the House of Love",
         "url": "https://open.spotify.com/album/2GvKZUcqklr89phbizRh7M"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/6Um6kOVCAV2LdFUAEWXgyS"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Starlit Carousel",
         "url": "https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/7pXbfo5RqiKu8ojg6qJCpX"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "The Adams",
         "url": "https://open.spotify.com/album/78DE7OzE8yFEcfkGQ7L024"
@@ -721,7 +737,7 @@
       "url": "https://open.spotify.com/track/7qUkZhXym0LCTdcmwhGO3b"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/4UktwuqbTJJFnsuDhkf7kb"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/4bT1XPdIz61IdDUXUwIXvj"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "My Little Story",
         "url": "https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG"
@@ -753,7 +769,7 @@
       "url": "https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "The Very First Thing You Must Learn About Flying Is Gravity",
         "url": "https://open.spotify.com/album/3AlH5nivhVfwEQxrZeAmS7"
@@ -769,7 +785,7 @@
       "url": "https://open.spotify.com/track/4h1V3EVBYFin06loiFlWfK"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Sweaters (Live)",
         "url": "https://open.spotify.com/album/45QGhx0C4sVXp60VoRhkIE"
@@ -785,7 +801,7 @@
       "url": "https://open.spotify.com/track/2s9kJ7sZHgozm1cXqqtCTN"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "ABC On Tv",
         "url": "https://open.spotify.com/album/712iSMC4r6ANdkzBCkqAz3"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/2YsfSIc88U6nIqWqDTxiDG"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "The Brandals",
         "url": "https://open.spotify.com/album/7umiNnEcvqhsCLFGmc1QDO"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/42NbG3uuS0tz4jkSL5onlL"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Volume 1 - Ep",
         "url": "https://open.spotify.com/album/6cHlFXEzCz5A4zIIy0hdNX"
@@ -833,7 +849,7 @@
       "url": "https://open.spotify.com/track/71x7IYQXrCv8Pd2CX39oQm"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Everything Happens for a Reason",
         "url": "https://open.spotify.com/album/4sCtz1eFV9MKR1TeDf0fIX"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/4W9qZ9HziEYeBkBGExW7e9"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/73hSLzBNglYCR8TvyXJans"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/6hGV9A3qjB3nBzLCXM4sPV"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "1+2",
         "url": "https://open.spotify.com/album/5XepVOJPD8w4yF9SaKduLG"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/5g2V3uYWkLJJYFDPsny0La"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Efek Rumah Kaca",
         "url": "https://open.spotify.com/album/5PENwZWWNzHhPfYcvvv2Kf"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/0IrujRv0WMILH3wlFKndh6"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Centralismo",
         "url": "https://open.spotify.com/album/4cgfCWFWpaUsbNouFsKdsr"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/0ffIV3en4DBNZUlPXQQrRH"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Blacklight",
         "url": "https://open.spotify.com/album/6EaWZ06yNvOjeaCY0aSz15"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/3kBV8olpppGCIbhrh8TV6o"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Longway to Nowhere",
         "url": "https://open.spotify.com/album/49y6mQksPVUliQNHhULU8n"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/5QPa0rmNEhWGjOChRu5EYS"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Tragicomedy",
         "url": "https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN"
@@ -961,7 +977,7 @@
       "url": "https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M"
     },
     {
-      "added_at": "2021-11-25 23:32:01",
+      "added_at": "2022-01-06 17:00:00",
       "album": {
         "name": "Klarinet",
         "url": "https://open.spotify.com/album/4ui8LbRdGOFtZu0T7NHbQM"

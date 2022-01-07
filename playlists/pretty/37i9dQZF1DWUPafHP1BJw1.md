@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 
 > Your favorite pop songs, <a href="spotify:genre:classical">classically</a>&nbsp;reimagined.
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,651 likes - 97 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,338 likes - 97 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPafHP1BJw1.md) - [plain]
 | 96 | [Don't Wanna Know](https://open.spotify.com/track/7ICe7aEcO7GaVGWwUc0edv) | [Costantino Carrara](https://open.spotify.com/artist/7eVJh60tcshbgbm26TWISX) | [Don't Wanna Know](https://open.spotify.com/album/4vMI0fAQpkjuqSmB2fjn2E) | 2:57 |
 | 97 | [Drop the Game \(Piano Arrangement\)](https://open.spotify.com/track/74XiL7qOPpqY1jOItswAWr) | [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [Piano Covers, Vol\. 1](https://open.spotify.com/album/2QvgQR5we5RgiEkFKpwfB1) | 4:10 |
 
-Snapshot ID: `MTY0MTMxMDk0OSwwMDAwMDA3MTAwMDAwMTdlMjVjMTkwM2QwMDAwMDE3MGM0OTg2NmUz`
+Snapshot ID: `MTY0MTUwNTc2OSwwMDAwMDA3MjAwMDAwMTdlMzE1ZTQ3N2QwMDAwMDE3MGM0OTg2NmUz`

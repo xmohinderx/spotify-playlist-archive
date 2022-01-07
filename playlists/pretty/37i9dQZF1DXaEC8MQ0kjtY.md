@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEC8MQ0kjtY.md) - [plain]
 
 > Take a look at Australia's future king of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,246 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,411 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

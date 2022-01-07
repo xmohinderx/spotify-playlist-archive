@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 267091,
       "name": "Adar\u00e1",
       "url": "https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs"
@@ -97,7 +97,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 239397,
       "name": "Afro Golden Line (feat. Sefi Zisling, Uzi Ramirez & Rejoicer)",
       "url": "https://open.spotify.com/track/1ijV5N3fvoaTO1BXqKH9Kq"
@@ -137,7 +137,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 150927,
       "name": "Aguanc\u00f3",
       "url": "https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN"
@@ -346,6 +346,24 @@
     },
     {
       "album": {
+        "name": "Baixada",
+        "url": "https://open.spotify.com/album/76AlDMHVPDI9ao1r5lppHU"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141859,
+      "name": "Baixada",
+      "url": "https://open.spotify.com/track/4zzMUiu5slOh0lI7QL2yNd"
+    },
+    {
+      "album": {
         "name": "Bayne Lay Yihedal",
         "url": "https://open.spotify.com/album/59oXTvqVLMfbexfncNivia"
       },
@@ -357,7 +375,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 309543,
       "name": "Bayne Lay Yihedal",
       "url": "https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 288569,
       "name": "Ben Bene La",
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
@@ -463,7 +481,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 373515,
       "name": "Canette - Bosq remix",
       "url": "https://open.spotify.com/track/1lon4oPNClhPdQfPUui0SM"
@@ -499,7 +517,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 478562,
       "name": "Chasin",
       "url": "https://open.spotify.com/track/7c0hcOEQSi62Jdd98q59aI"
@@ -517,10 +535,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 267426,
       "name": "Circular Movimento",
       "url": "https://open.spotify.com/track/0JQM8wWBFFjgy2iLCA0llY"
+    },
+    {
+      "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5KlvWHbWKpmUHI8YiF5fZV"
+      },
+      "artists": [
+        {
+          "name": "Junglelyd",
+          "url": "https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215493,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/6LqOYg4N0usYg21XdkaJeE"
     },
     {
       "album": {
@@ -575,7 +611,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 196858,
       "name": "Cosmica Italiana",
       "url": "https://open.spotify.com/track/2MnoxB4cB4ahqYxVHiIPxV"
@@ -655,7 +691,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 295733,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/2nJTbCUSqva9qCjLFFQJhu"
@@ -803,7 +839,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
@@ -875,7 +911,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/17bOaBhRJUI7kobIhukvdC"
@@ -1017,7 +1053,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 322819,
       "name": "Fighting Slowly",
       "url": "https://open.spotify.com/track/4BPmWt2dEIP0ygttCwLBq6"
@@ -1057,7 +1093,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 209349,
       "name": "Find My Way",
       "url": "https://open.spotify.com/track/7Dz6iAmPkfyDVgc0Y2MCy2"
@@ -1119,7 +1155,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 141834,
       "name": "Flexi with the Disco-tech",
       "url": "https://open.spotify.com/track/3ICCWHzcZcP8fwEBW5Kj9J"
@@ -1218,6 +1254,28 @@
     },
     {
       "album": {
+        "name": "Robson Jorge e Lincoln Olivetti",
+        "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
+      },
+      "artists": [
+        {
+          "name": "Robson Jorge",
+          "url": "https://open.spotify.com/artist/59giNkLqQNTZs8MnlrkUhM"
+        },
+        {
+          "name": "Lincoln Olivetti",
+          "url": "https://open.spotify.com/artist/2Pky4QuIXrFq6ZERGi4m1E"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Ginga",
+      "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
+      "album": {
         "name": "Midnight Voyage",
         "url": "https://open.spotify.com/album/6FN8NNSvWUnFhJISSfJZta"
       },
@@ -1229,7 +1287,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 357500,
       "name": "Gobi",
       "url": "https://open.spotify.com/track/5wxnKA9URyQmtdlnEIHj5z"
@@ -1291,7 +1349,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 459686,
       "name": "Gwadloup",
       "url": "https://open.spotify.com/track/7ikYwcWf1gwqJiMCAPg7NS"
@@ -1367,7 +1425,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 340828,
       "name": "Hayeelin",
       "url": "https://open.spotify.com/track/7qBmYbJW3AKHGxbRXlOpWQ"
@@ -1523,7 +1581,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 245693,
       "name": "Hymne \u00e0 la vie",
       "url": "https://open.spotify.com/track/7JPcKTrV5SJWzs0nFX67KR"
@@ -1603,6 +1661,28 @@
       "duration_ms": 369160,
       "name": "If I Know",
       "url": "https://open.spotify.com/track/7EKgrGZqebKLFiNaLbvb7X"
+    },
+    {
+      "album": {
+        "name": "Jaiyede Afro",
+        "url": "https://open.spotify.com/album/5kyKyhn7lTjuVWfe6PirAk"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292400,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/7HrJQRJ7qGxUGgrSmnlDOs"
     },
     {
       "album": {
@@ -1763,7 +1843,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 227000,
       "name": "Keep It Movin' - feat. Smashish",
       "url": "https://open.spotify.com/track/7cdwo90qsgRjD6q3sg7izZ"
@@ -1803,7 +1883,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 467018,
       "name": "Kulun Mankwaleshi",
       "url": "https://open.spotify.com/track/1IcJMglWLxYd9JGAJ9Kqvf"
@@ -1951,7 +2031,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 204333,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6o8TnSHigKVdqxXDVtmbIx"
@@ -2005,7 +2085,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 235250,
       "name": "Mam Yinne Wa",
       "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
@@ -2071,7 +2151,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 228229,
       "name": "Matamba",
       "url": "https://open.spotify.com/track/4IXkPFYdg21ZYJMOsbgHfr"
@@ -2089,7 +2169,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 240013,
       "name": "Me Di3 Ne Wo (You Belong To Me)",
       "url": "https://open.spotify.com/track/721hXvm3ObltRlNlCUaf6T"
@@ -2165,7 +2245,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 162815,
       "name": "Milestones (Miles Davis Tribute)",
       "url": "https://open.spotify.com/track/27R37oVRDrwGQaZRxJM4A5"
@@ -2183,7 +2263,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 290448,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9"
@@ -2227,7 +2307,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
@@ -2285,7 +2365,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 284070,
       "name": "Musa Paradisa",
       "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
@@ -2365,7 +2445,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 267874,
       "name": "Netseweth Sifassan Nagh",
       "url": "https://open.spotify.com/track/2SWXWkmpjPsZDYeOhbmjdO"
@@ -2423,7 +2503,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 291145,
       "name": "Nuda Sorgente",
       "url": "https://open.spotify.com/track/23pDTmgAmsHoLfYDHDAowF"
@@ -2485,7 +2565,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 250813,
       "name": "One Woman Man",
       "url": "https://open.spotify.com/track/24WvIL9vk5fI5GmacZbtf4"
@@ -2593,7 +2673,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 252397,
       "name": "Pelear",
       "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
@@ -2663,6 +2743,24 @@
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
+    },
+    {
+      "album": {
+        "name": "Liquid Saloon",
+        "url": "https://open.spotify.com/album/1wTshZlAEBoiMjxb4tWN5W"
+      },
+      "artists": [
+        {
+          "name": "Liquid Saloon",
+          "url": "https://open.spotify.com/artist/3BNFABSmkMPrS0H2oKZm2G"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355094,
+      "name": "Polaroid Banana",
+      "url": "https://open.spotify.com/track/7px3JpqWmEluCvhkhnfBLL"
     },
     {
       "album": {
@@ -2739,7 +2837,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 266500,
       "name": "Reet (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/4OjZmd2lJiwiUw1dSV93kj"
@@ -2837,7 +2935,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 303777,
       "name": "Saluf",
       "url": "https://open.spotify.com/track/1ULE8R1kexScRh253uXXpp"
@@ -3007,7 +3105,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
@@ -3073,7 +3171,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 237666,
       "name": "Spiritual Ideation",
       "url": "https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy"
@@ -3091,7 +3189,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 224882,
       "name": "Sunset Sound",
       "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
@@ -3243,7 +3341,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 217174,
       "name": "Theme From Beverly Hills Cop (Axel F) - Live at Jam PDM",
       "url": "https://open.spotify.com/track/6L2p6X0gxm7VOpnnmbNFGf"
@@ -3301,7 +3399,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 230539,
       "name": "Tune Rider",
       "url": "https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu"
@@ -3363,7 +3461,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 256523,
       "name": "Vazante de Ver\u00e3o",
       "url": "https://open.spotify.com/track/3zLCE3q1mcUF9ZTjXLumHx"
@@ -3487,10 +3585,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 214750,
       "name": "Ya Aen Daly (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/1WfRCBqkSWqXF7rPKBJ0dr"
+    },
+    {
+      "album": {
+        "name": "Dur Dur of Somalia - Vol. 1, Vol. 2 (Analog Africa No. 27)",
+        "url": "https://open.spotify.com/album/2ZWaF8JdYy0T8wJdVDW8az"
+      },
+      "artists": [
+        {
+          "name": "Dur-Dur Band",
+          "url": "https://open.spotify.com/artist/4KDUfOJRuihzpcwO7jx9DF"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357480,
+      "name": "Yabaal",
+      "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
     },
     {
       "album": {
@@ -3541,7 +3657,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 527308,
       "name": "YOGA IN KARACHI",
       "url": "https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET"
@@ -3559,7 +3675,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 234772,
       "name": "Zorromi",
       "url": "https://open.spotify.com/track/6POQFiHPuoSsjRwDoEin2I"

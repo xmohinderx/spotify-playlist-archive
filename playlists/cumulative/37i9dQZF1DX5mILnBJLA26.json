@@ -56,6 +56,28 @@
     },
     {
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/7xag2RyD28T58tTf5GtKYU"
+      },
+      "artists": [
+        {
+          "name": "Mxrcus",
+          "url": "https://open.spotify.com/artist/7z73kDwAN2PkZOU4SLvA9o"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361581,
+      "name": "31",
+      "url": "https://open.spotify.com/track/4KQYVaMor4SqqYR0yEPDeI"
+    },
+    {
+      "album": {
         "name": "66",
         "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
       },
@@ -145,10 +167,32 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 368613,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/2t2RhuBxMfhjzeLPsBfPAy"
+    },
+    {
+      "album": {
+        "name": "AK Love",
+        "url": "https://open.spotify.com/album/3PTWbalX3YlYSgdqMtlTeL"
+      },
+      "artists": [
+        {
+          "name": "Teno Afrika",
+          "url": "https://open.spotify.com/artist/535j8kTYlICpOJWAQ3uQrp"
+        },
+        {
+          "name": "Don Diego",
+          "url": "https://open.spotify.com/artist/4xsPF3eWcrzcFYtZnyuVtY"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320063,
+      "name": "AK Love",
+      "url": "https://open.spotify.com/track/2Lb3yKY5heNeHHzSNpmDvs"
     },
     {
       "album": {
@@ -223,7 +267,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 231471,
       "name": "Ameno Amapiano - Remix",
       "url": "https://open.spotify.com/track/3JIWSOzzlJfyf2Y1i54QeX"
@@ -305,7 +349,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 420039,
       "name": "Ayi Ringi (feat. Simmy & Kabza De Small)",
       "url": "https://open.spotify.com/track/6KMsiShDJrospawhS74nzw"
@@ -473,7 +517,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 447773,
       "name": "Bolaya (feat. Mellow & Sleazy, Djy Ma'Ten & M.J)",
       "url": "https://open.spotify.com/track/6pabdymRZElwBaCqLIVt1q"
@@ -611,10 +655,44 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 196649,
       "name": "Customer Care",
       "url": "https://open.spotify.com/track/1cfgCgccxcCy1giJEoOb1x"
+    },
+    {
+      "album": {
+        "name": "Dali Nguwe",
+        "url": "https://open.spotify.com/album/6w3XlF1P2YhVhag275CZHH"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Basetsana",
+          "url": "https://open.spotify.com/artist/5tOlDzzo2n5dhYJDG6GFbe"
+        },
+        {
+          "name": "Obeey Amor",
+          "url": "https://open.spotify.com/artist/1J33KW1wp9oQvxHKEC2OGJ"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325876,
+      "name": "Dali Nguwe",
+      "url": "https://open.spotify.com/track/584B5N5x0phtVVpBtSNcPt"
     },
     {
       "album": {
@@ -774,6 +852,36 @@
     },
     {
       "album": {
+        "name": "Black Is Brown Compilation Vol 1",
+        "url": "https://open.spotify.com/album/4wcOY7j43CYQY92C2LB2vm"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Kay Invictus",
+          "url": "https://open.spotify.com/artist/032XWTfikybkuikEsBqLRc"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498108,
+      "name": "Halala (feat. Mellow & Sleazy)",
+      "url": "https://open.spotify.com/track/2P22nuGMf26qeoX7P0oOuT"
+    },
+    {
+      "album": {
         "name": "Mpumalanga",
         "url": "https://open.spotify.com/album/60ggaOopXApXj9qV58Oytc"
       },
@@ -913,6 +1021,40 @@
       "duration_ms": 996089,
       "name": "Ivy League",
       "url": "https://open.spotify.com/track/1YAi1uIjqSVMWdvsuK4oUQ"
+    },
+    {
+      "album": {
+        "name": "Iy\u2019ntsimbi zase envy (Vol.2 Kwaaito Edition)",
+        "url": "https://open.spotify.com/album/44xgWfSQ1RVzt04tkGRF2W"
+      },
+      "artists": [
+        {
+          "name": "Reece Madlisa",
+          "url": "https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2"
+        },
+        {
+          "name": "Zuma",
+          "url": "https://open.spotify.com/artist/7ewc3ni3IAtqLygEnDi66K"
+        },
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Beast Rsa",
+          "url": "https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH"
+        },
+        {
+          "name": "Dladla Mshunqisi",
+          "url": "https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374000,
+      "name": "Iy\u2019ntsimbi zase envy - Vol.2 Kwaaito Edition",
+      "url": "https://open.spotify.com/track/7prBXsKsF494LBElVDGmSb"
     },
     {
       "album": {
@@ -1133,7 +1275,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 174580,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n"
@@ -1267,7 +1409,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 368616,
       "name": "Msholokazi (feat. Bassie)",
       "url": "https://open.spotify.com/track/2C0bk3oTIapEsPm0hZEGgh"
@@ -1382,6 +1524,36 @@
     },
     {
       "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/30abU8JfitXclHINTdT7xE"
+      },
+      "artists": [
+        {
+          "name": "Q-Mark",
+          "url": "https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj"
+        },
+        {
+          "name": "TpZee",
+          "url": "https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ"
+        },
+        {
+          "name": "Afriikan Papi",
+          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+        },
+        {
+          "name": "Cloud9ne",
+          "url": "https://open.spotify.com/artist/4US1sAYad203m0GNVxgJUi"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415714,
+      "name": "Paris (feat. Afriikan Papi)",
+      "url": "https://open.spotify.com/track/6yCfjMCxxqrMTwGTOfnkoa"
+    },
+    {
+      "album": {
         "name": "Piki Piki",
         "url": "https://open.spotify.com/album/4qKDmwzAQoUmxo9Aw3sdUl"
       },
@@ -1413,7 +1585,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 274109,
       "name": "Piki Piki",
       "url": "https://open.spotify.com/track/75156iFsjZcOGMCvZDiLkv"
@@ -1477,6 +1649,36 @@
       "duration_ms": 410066,
       "name": "Possible",
       "url": "https://open.spotify.com/track/6ARmMd93cqRGYDP0XC6JH7"
+    },
+    {
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) [Vigro Deep Amapiano Remix]",
+        "url": "https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336842,
+      "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) - Vigro Deep Amapiano Remix",
+      "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
     },
     {
       "album": {
@@ -1666,6 +1868,28 @@
     },
     {
       "album": {
+        "name": "Ivy League",
+        "url": "https://open.spotify.com/album/3H2eycTSwpPa0mGpacbyn6"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Mhaw Keys",
+          "url": "https://open.spotify.com/artist/653Y1k21jYNqD7XY4lszrK"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411468,
+      "name": "Song Cry",
+      "url": "https://open.spotify.com/track/4TqVIgEPZ8ObQXSYPbXvZj"
+    },
+    {
+      "album": {
         "name": "Piano To The World",
         "url": "https://open.spotify.com/album/4vpxr2JoZ49QU2giFdoUgP"
       },
@@ -1781,7 +2005,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 322936,
       "name": "Swenka",
       "url": "https://open.spotify.com/track/62FZQpxvMCzzGH9lccJaEe"
@@ -1933,7 +2157,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 269035,
       "name": "Tse Nnyane (feat. Kosha Za)",
       "url": "https://open.spotify.com/track/3cLYhJp7pe8r5fvwUA368f"
@@ -2023,6 +2247,28 @@
       "duration_ms": 381086,
       "name": "Umsebenzi Wethu",
       "url": "https://open.spotify.com/track/2H1hYPeKgIQAp439cx7GsX"
+    },
+    {
+      "album": {
+        "name": "uMSHINI",
+        "url": "https://open.spotify.com/album/0N8S5HbWURBO8e93XHjyTG"
+      },
+      "artists": [
+        {
+          "name": "Dlala Regal",
+          "url": "https://open.spotify.com/artist/1lObn1kSUclO890fytRlIk"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375327,
+      "name": "uMSHINI",
+      "url": "https://open.spotify.com/track/7kzzhtZ8df8wQi9n3BnM1d"
     },
     {
       "album": {
@@ -2165,6 +2411,28 @@
       "duration_ms": 365027,
       "name": "Yini Sdakwa",
       "url": "https://open.spotify.com/track/6RXF8afghRd2Ha6npUg8jk"
+    },
+    {
+      "album": {
+        "name": "African Queen",
+        "url": "https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Jon Delinger",
+          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275408,
+      "name": "Zwivhuya",
+      "url": "https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: WOOZI",
   "name": "K-Pop Rising",
-  "num_followers": 627464,
+  "num_followers": 628013,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTI4NjA0MCwwMDAwMDIzMTAwMDAwMTdlMjQ0NTdiNzkwMDAwMDE3ZTI0NDRhYWMz",
+  "snapshot_id": "MTY0MTQ0MDA1MCwwMDAwMDIzMjAwMDAwMTdlMmQ3MzdlYWIwMDAwMDE3ZTI0NDRhYWMz",
   "tracks": [
+    {
+      "added_at": "2022-01-06 03:34:10",
+      "album": {
+        "name": "Street Dance Girls Fighter(SGF) Special",
+        "url": "https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "Weapon (With Newnion, FLOOR) (Prod.Czaer)",
+      "url": "https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4"
+    },
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "added_at": "2022-01-06 03:34:10",
+      "album": {
+        "name": "DISHARMONY : FIND OUT",
+        "url": "https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz"
+      },
+      "artists": [
+        {
+          "name": "P1Harmony",
+          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Do It Like This",
+      "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -91,6 +123,26 @@
       "duration_ms": 203400,
       "name": "Shark",
       "url": "https://open.spotify.com/track/76XT86YEJq9vGQljItY6gw"
+    },
+    {
+      "added_at": "2022-01-06 03:34:10",
+      "album": {
+        "name": "Shutdown (Feat. Seori)",
+        "url": "https://open.spotify.com/album/3qGgRGX3KHbwph4AzWVko1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Shutdown (Feat.Seori)",
+      "url": "https://open.spotify.com/track/69790X4RDQIKwcxltIMHvU"
     },
     {
       "added_at": "2022-01-04 08:47:20",

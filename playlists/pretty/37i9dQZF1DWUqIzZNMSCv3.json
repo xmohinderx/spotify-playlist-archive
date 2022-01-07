@@ -1,12 +1,12 @@
 {
   "description": "Relaxing classical piano.",
   "name": "Classical Piano",
-  "num_followers": 4090,
+  "num_followers": 4427,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxMjQ2MCwwMDAwMDAxMTAwMDAwMTdlMjVkODllYTgwMDAwMDE3ZDhmZmM0M2Ix",
+  "snapshot_id": "MTY0MTQ4NzU2NiwwMDAwMDAxMjAwMDAwMTdlMzA0ODg1MjEwMDAwMDE3ZDhmZmM0M2Ix",
   "tracks": [
     {
       "added_at": "2021-12-06 13:45:26",
@@ -511,30 +511,6 @@
     {
       "added_at": "2021-12-06 13:45:26",
       "album": {
-        "name": "Le Piano Roi",
-        "url": "https://open.spotify.com/album/2fh24IMVfrS3p6pfUNvWrr"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Piotr Anderszewski",
-          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
-        }
-      ],
-      "duration_ms": 282360,
-      "name": "Mozart / Arr. Grieg for Two Pianos: Piano Sonata No. 16 in C Major, K. 545 \"Semplice\": I. Allegro (Live)",
-      "url": "https://open.spotify.com/track/2PyqTgz2ua9PTukuaX4qeK"
-    },
-    {
-      "added_at": "2021-12-06 13:45:26",
-      "album": {
         "name": "The American Virtuoso",
         "url": "https://open.spotify.com/album/0vdIwOj00vVbRNxi70rurD"
       },
@@ -683,26 +659,6 @@
     {
       "added_at": "2021-12-06 13:45:26",
       "album": {
-        "name": "Chopin: 24 Pr\u00e9ludes - Brahms: Intermezzo, Op. 117 No. 1 - Schumann: Ghost Variations - Chopin: 24 Pr\u00e9ludes, Op. 28: No. 4 in E Minor",
-        "url": "https://open.spotify.com/album/1WISxpHk0vSwyCPbF6hmVQ"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Eric Lu",
-          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
-        }
-      ],
-      "duration_ms": 143546,
-      "name": "Chopin: 24 Pr\u00e9ludes, Op. 28: No. 4 in E Minor",
-      "url": "https://open.spotify.com/track/3rsSbXnJF9qoasZYWbM4tz"
-    },
-    {
-      "added_at": "2021-12-06 13:45:26",
-      "album": {
         "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
         "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
       },
@@ -767,6 +723,26 @@
     {
       "added_at": "2021-12-06 13:45:26",
       "album": {
+        "name": "Tchaikovsky: The Seasons, Op. 37b, Balakirev: Islamey",
+        "url": "https://open.spotify.com/album/0falRTDjRo6qFsfBwUk1Qb"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Yefim Bronfman",
+          "url": "https://open.spotify.com/artist/1LMUcg4F3Uv0qeeJXw56uT"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "The Seasons, Op. 37b: VI. June, \"Barcarolle\"",
+      "url": "https://open.spotify.com/track/675uoOAtz3TzuigX3Doe4h"
+    },
+    {
+      "added_at": "2021-12-06 13:45:26",
+      "album": {
         "name": "Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",
         "url": "https://open.spotify.com/album/11ihQmE1Jr4ehePrkwabZx"
       },
@@ -787,22 +763,46 @@
     {
       "added_at": "2021-12-06 13:45:26",
       "album": {
-        "name": "Tchaikovsky: The Seasons, Op. 37b, Balakirev: Islamey",
-        "url": "https://open.spotify.com/album/0falRTDjRo6qFsfBwUk1Qb"
+        "name": "Chopin: 24 Pr\u00e9ludes - Brahms: Intermezzo, Op. 117 No. 1 - Schumann: Ghost Variations - Chopin: 24 Pr\u00e9ludes, Op. 28: No. 4 in E Minor",
+        "url": "https://open.spotify.com/album/1WISxpHk0vSwyCPbF6hmVQ"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
         },
         {
-          "name": "Yefim Bronfman",
-          "url": "https://open.spotify.com/artist/1LMUcg4F3Uv0qeeJXw56uT"
+          "name": "Eric Lu",
+          "url": "https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC"
         }
       ],
-      "duration_ms": 271200,
-      "name": "The Seasons, Op. 37b: VI. June, \"Barcarolle\"",
-      "url": "https://open.spotify.com/track/675uoOAtz3TzuigX3Doe4h"
+      "duration_ms": 143546,
+      "name": "Chopin: 24 Pr\u00e9ludes, Op. 28: No. 4 in E Minor",
+      "url": "https://open.spotify.com/track/3rsSbXnJF9qoasZYWbM4tz"
+    },
+    {
+      "added_at": "2021-12-06 13:45:26",
+      "album": {
+        "name": "Le Piano Roi",
+        "url": "https://open.spotify.com/album/2fh24IMVfrS3p6pfUNvWrr"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
+        }
+      ],
+      "duration_ms": 282360,
+      "name": "Mozart / Arr. Grieg for Two Pianos: Piano Sonata No. 16 in C Major, K. 545 \"Semplice\": I. Allegro (Live)",
+      "url": "https://open.spotify.com/track/2PyqTgz2ua9PTukuaX4qeK"
     },
     {
       "added_at": "2021-12-06 13:45:26",

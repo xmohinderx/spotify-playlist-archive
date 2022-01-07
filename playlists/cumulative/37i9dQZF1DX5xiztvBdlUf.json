@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 399219,
       "name": "Acceptance",
       "url": "https://open.spotify.com/track/2lXdClPLTHf6feWj03uEKH"
@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 470243,
       "name": "Alkebulan - David Mayer Remix",
       "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 426686,
       "name": "Auriol - Bondi Remix",
       "url": "https://open.spotify.com/track/5otyAwp1rylIyQOFjkPFnZ"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 341419,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj"
@@ -491,7 +491,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 226224,
       "name": "Come To Me (feat. Lucie)",
       "url": "https://open.spotify.com/track/6BSbkh0Q2f272ZjCWLz7Nf"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Cool Air",
       "url": "https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 414000,
       "name": "De\u00eda - AVEM Remix",
       "url": "https://open.spotify.com/track/4pgBB90REWf829lym8RE6N"
@@ -817,7 +817,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 184860,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2E78HhgMhRAYONtMktDgg7"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 520012,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/2g7BwK58fPL8xOnMGVYz0K"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 483276,
       "name": "I hear you",
       "url": "https://open.spotify.com/track/3c7hLN3vJlB8lGP3b4qMGo"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 284896,
       "name": "Lamiz\u00e8 Pa Dous - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/3txAnW0hspM1X6D3trUxku"
@@ -1680,6 +1680,28 @@
     },
     {
       "album": {
+        "name": "Mila",
+        "url": "https://open.spotify.com/album/1SsFWKcmVMxS9FiIiTYs7D"
+      },
+      "artists": [
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        },
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456698,
+      "name": "Mila - Bedouin Remix",
+      "url": "https://open.spotify.com/track/41vBIiPh0qapY08t4QiN8Q"
+    },
+    {
+      "album": {
         "name": "Merin EP Vol.2",
         "url": "https://open.spotify.com/album/7JotLJs4IZfbPFEBPsaBVw"
       },
@@ -1767,7 +1789,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 273719,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/74ihDIAsUwAsYPYdWZH32P"
@@ -1789,7 +1811,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 455915,
       "name": "Morning Routine",
       "url": "https://open.spotify.com/track/1kaTtElKK0jIKTdwg9ASLp"
@@ -1829,7 +1851,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 286717,
       "name": "No Silence",
       "url": "https://open.spotify.com/track/2UDEISJu7yrAyh2JrvS7fO"
@@ -1935,7 +1957,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 387730,
       "name": "Novella",
       "url": "https://open.spotify.com/track/5e39g1T0asZ7IsEFZcMqpC"
@@ -1957,7 +1979,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 259200,
       "name": "O Pato",
       "url": "https://open.spotify.com/track/7rHGItEV9gsJhjbZB06n5j"
@@ -2041,7 +2063,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 274754,
       "name": "Opals - Andhim Remix",
       "url": "https://open.spotify.com/track/0DYcIUuFTEA6Eh7YaUZaIS"
@@ -2171,7 +2193,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 321995,
       "name": "Reminiscence",
       "url": "https://open.spotify.com/track/1uyOpyskQrpOUR5FW0kt3E"
@@ -2295,7 +2317,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 197076,
       "name": "Sequoia",
       "url": "https://open.spotify.com/track/23FvcB0j0HRa2YUWkzVmWi"
@@ -2313,7 +2335,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 483962,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/54H6bHNXRVxBuLmZADtRkV"
@@ -2331,7 +2353,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 423520,
       "name": "Signs Of A Swarm",
       "url": "https://open.spotify.com/track/4PJ1fHvANi7GC7JLsQNPmo"
@@ -2353,7 +2375,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 271274,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4RrMjTMEkksPxC4zVhQKAO"
@@ -2447,7 +2469,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 484645,
       "name": "Sun Salutations",
       "url": "https://open.spotify.com/track/75ZMW4hqyXQ2TgF6pL1Giz"
@@ -2469,7 +2491,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 296585,
       "name": "Svanur (feat. R\u00f6kkurr\u00f3)",
       "url": "https://open.spotify.com/track/2rnONdiE5CpLdmtNspVnTx"
@@ -2571,7 +2593,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 172809,
       "name": "Torn - Mat.Joe Remix",
       "url": "https://open.spotify.com/track/5faV7DcMghEwYC0rp6HHEG"
@@ -2753,7 +2775,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 336212,
       "name": "What Did You Do?",
       "url": "https://open.spotify.com/track/4GCjjTHiH5QEYnmxkX837H"
@@ -2789,7 +2811,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 154605,
       "name": "Wired",
       "url": "https://open.spotify.com/track/7bmxbmer7iYIvla8exrgnv"
@@ -2851,7 +2873,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 418985,
       "name": "You",
       "url": "https://open.spotify.com/track/6hFgrBH45e3SljvIHNLRq8"

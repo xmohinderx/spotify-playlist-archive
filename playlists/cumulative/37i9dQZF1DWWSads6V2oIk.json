@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Healing Rain",
+        "url": "https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Healing Rain",
+      "url": "https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5"
+    },
+    {
+      "album": {
         "name": "Sounds of Rainforests",
         "url": "https://open.spotify.com/album/2eJJu5XufieNWuvONkP6rg"
       },

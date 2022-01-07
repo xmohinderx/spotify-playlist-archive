@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados, con Ovi & Gente de Zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 874,694 likes - 46 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 874,722 likes - 46 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Discoteca](https://open.spotify.com/track/7hmebsI3sCMzANWFcNiCMh) | [IAmChino](https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Discoteca](https://open.spotify.com/album/7r6a9NnWydms4uIjf9bH5C) | 3:45 |
 | 2 | [Lo Estoy Pagando](https://open.spotify.com/track/76PiO53LB0HlJZWJ8Gk6p5) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [José\-Luis Garcia](https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS) | [Lo Estoy Pagando](https://open.spotify.com/album/1Wjvnceb4dwl7cYyUi5Jly) | 3:57 |
 | 3 | [Barrio Prendido \- Versión Christian Music](https://open.spotify.com/track/06z57Is3n6OfdgsZTNfrOJ) | [El Resonante](https://open.spotify.com/artist/11Z1jocutnLciF7eA57guJ), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Barrio Prendido \(Versión Christian Music\)](https://open.spotify.com/album/1830IUZDGnLTor36ik8Gcr) | 3:09 |
-| 4 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
+| 4 | [Yendo No, Llegando](https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [DJ Plaga](https://open.spotify.com/artist/08u4ziTkV9VIYmKqRcbdFK), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Yendo No, Llegando](https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP) | 3:31 |
 | 5 | [I Wanna Give My Heart \- Remix](https://open.spotify.com/track/1rxYixO6rm4FD2Plow1liH) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [I Wanna Give My Heart \(Remix\)](https://open.spotify.com/album/6aHY50nPJtv2y4Osgp9gFg) | 3:27 |
 | 6 | [Si Te Vas Conmigo](https://open.spotify.com/track/29SvpI7Lr9kkonPbLcTOeo) | [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Agrupación Marilyn](https://open.spotify.com/artist/1cSxtipVYZBD2z6IPPkV7N) | [Si Te Vas Conmigo](https://open.spotify.com/album/4fJ69iQsyyS49Fud2oTfbe) | 3:38 |
 | 7 | [Endaño](https://open.spotify.com/track/0oBFs4wmzUvoNUEMv7Ddfv) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Endaño](https://open.spotify.com/album/5UCXLsPlqbNtj1ngMSkxE7) | 2:42 |

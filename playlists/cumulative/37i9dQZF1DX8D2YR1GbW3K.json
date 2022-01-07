@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-05",
   "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favourites from the 2010s.",
   "name": "Headliners",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "32yWo5rps1QJ3QtObrBl8L"
+  ],
   "tracks": [
     {
       "album": {
@@ -243,7 +245,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/4qPnE8jBZN3wmgGxspsOcP"
@@ -269,7 +271,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S"
@@ -383,10 +385,36 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 348890,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/3Ag5jQdL5iSKYc4WDGSBWg"
+    },
+    {
+      "album": {
+        "name": "Cannonball (Earthquake)",
+        "url": "https://open.spotify.com/album/4lmaksRskap9DpCgvqSQXO"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Justin Prime",
+          "url": "https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212151,
+      "name": "Cannonball (Earthquake)",
+      "url": "https://open.spotify.com/track/2y5lOo1TNIQJIDBc1EDtPX"
     },
     {
       "album": {
@@ -614,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Dum Dee Dum",
+        "url": "https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Dum Dee Dum",
+      "url": "https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT"
+    },
+    {
+      "album": {
         "name": "Eat Sleep Rave Repeat (feat. Beardyman)",
         "url": "https://open.spotify.com/album/0aUExTA64dIbHjW8Ezg9iT"
       },
@@ -721,7 +767,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 183760,
       "name": "Feed The Dada",
       "url": "https://open.spotify.com/track/6lc6S1eIoJhi6YJn6lCnHB"
@@ -1727,7 +1773,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 361941,
       "name": "No Beef (feat. Miss Palmer) - Vocal Mix",
       "url": "https://open.spotify.com/track/1CZyEpQeKPWp9Eeq4ppzyR"
@@ -1811,7 +1857,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs"
@@ -2537,7 +2583,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 203306,
       "name": "This Is What It Feels Like (feat. Trevor Guthrie)",
       "url": "https://open.spotify.com/track/6AHlbY79uUGvQx9xzoR9oy"
@@ -2709,7 +2755,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/4h8VwCb1MTGoLKueQ1WgbD"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMS5dxv72g0.md) - [plain]
 
 > Get to know <a href="spotify:artist:4M5nCE77Qaxayuhp3fVn4V">Sam Beam</a> with a collection featuring his latest album, <a href="spotify:album:2Ha1FUPZ0RDMjLZFu1iVO1">Beast Epic</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,270 likes - 59 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,298 likes - 59 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

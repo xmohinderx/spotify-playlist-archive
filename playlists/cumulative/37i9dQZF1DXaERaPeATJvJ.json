@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia. Cover: Sieve",
+  "description": "Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia. Cover: Holy City Rollers",
   "name": "Memorindie",
   "published_playlist_ids": [
     "5N2buI7pPNVlHhACwo8R0D"
@@ -131,6 +131,24 @@
       "duration_ms": 151904,
       "name": "Amerika",
       "url": "https://open.spotify.com/track/4brj3kqJtL7DIiA7vxAbyy"
+    },
+    {
+      "album": {
+        "name": "First Chapter of Allordia",
+        "url": "https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff"
+      },
+      "artists": [
+        {
+          "name": "Holy City Rollers",
+          "url": "https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250840,
+      "name": "Another Song for Her",
+      "url": "https://open.spotify.com/track/5wR3uyU7yPCQaDp2cSq9c7"
     },
     {
       "album": {
@@ -279,6 +297,24 @@
       "duration_ms": 236973,
       "name": "Hilang",
       "url": "https://open.spotify.com/track/59be0zIdpIlGnpGBq17JB2"
+    },
+    {
+      "album": {
+        "name": "First Chapter of Allordia",
+        "url": "https://open.spotify.com/album/7DVn7xIvYUsPGFjLwTeJff"
+      },
+      "artists": [
+        {
+          "name": "Holy City Rollers",
+          "url": "https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260278,
+      "name": "Hook Up",
+      "url": "https://open.spotify.com/track/7MiiJTXScerKHs4TkqXX1e"
     },
     {
       "album": {
@@ -743,7 +779,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 223120,
       "name": "Pada Awalnya",
       "url": "https://open.spotify.com/track/41m65kJO5iZ4S42AqOSD0Q"

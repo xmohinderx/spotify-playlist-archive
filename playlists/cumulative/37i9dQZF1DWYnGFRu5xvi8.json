@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 406693,
       "name": "\"FFXI Opening Theme\"",
       "url": "https://open.spotify.com/track/0niJom4d7zqQctQAtuUl0k"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 254600,
       "name": "APOCALYPSIS NOCTIS",
       "url": "https://open.spotify.com/track/21Bvy2KqGLO0f3QVgvruru"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 209266,
       "name": "Balamb GARDEN",
       "url": "https://open.spotify.com/track/1GCJGhtticxBvH9PP7Qko0"
@@ -361,10 +361,46 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 352960,
       "name": "Battle on the Big Bridge - EPISODE GLADIOLUS Version",
       "url": "https://open.spotify.com/track/1jsARBM5L7H5aqLnehtVy3"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XII Original Soundtrack",
+        "url": "https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166013,
+      "name": "Battle on the Big Bridge - FFXII Version",
+      "url": "https://open.spotify.com/track/7JLx8QqGJ9Flep0MVUgzhD"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY IV Original Soundtrack",
+        "url": "https://open.spotify.com/album/55779J248b7xDIJd3iExEn"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99173,
+      "name": "Battle With the Four Fiends",
+      "url": "https://open.spotify.com/track/1Il5XNBcHYAWqX8ecd7nqF"
     },
     {
       "album": {
@@ -397,7 +433,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 284240,
       "name": "Besaid",
       "url": "https://open.spotify.com/track/6Q4nNB7exf30TTt2SdhPAb"
@@ -415,7 +451,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 216840,
       "name": "Beyond the Wall",
       "url": "https://open.spotify.com/track/1qZCtJkPmBh5wxMndwChGJ"
@@ -523,7 +559,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 189360,
       "name": "Bros on the Road II",
       "url": "https://open.spotify.com/track/6Tzo017FDWfyb2PB22b90J"
@@ -535,8 +571,8 @@
       },
       "artists": [
         {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
       "date_added": "2021-03-04",
@@ -719,8 +755,8 @@
       },
       "artists": [
         {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
       "date_added": "2021-03-04",
@@ -743,7 +779,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 43826,
       "name": "CRISIS CORE Theme - Succession",
       "url": "https://open.spotify.com/track/4Bt4WrRN6VWwoIkJP1l4vL"
@@ -755,8 +791,8 @@
       },
       "artists": [
         {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
       "date_added": "2021-03-04",
@@ -765,6 +801,24 @@
       "duration_ms": 242800,
       "name": "CRISIS CORE Theme - Under the Apple Tree",
       "url": "https://open.spotify.com/track/3LHo1P0OTS3u9INCq42xnr"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY IX Original Soundtrack",
+        "url": "https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148626,
+      "name": "Danger in the Forest",
+      "url": "https://open.spotify.com/track/6GvelNvMi8EwGNKzeXxMWi"
     },
     {
       "album": {
@@ -833,7 +887,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 106120,
       "name": "Departure",
       "url": "https://open.spotify.com/track/589UHl4VkCGaYGub9VOQPY"
@@ -1031,7 +1085,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 277092,
       "name": "Eruyt Village - Zodiac Age Version",
       "url": "https://open.spotify.com/track/586IWB2wK5cdN5lP9nIr2L"
@@ -1049,7 +1103,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 159308,
       "name": "Eternal Wind",
       "url": "https://open.spotify.com/track/2jQ20WnfWVj9RpHByx2PxU"
@@ -1067,7 +1121,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 136000,
       "name": "Etro's Champion",
       "url": "https://open.spotify.com/track/0UnLSoBCuWmXispMXLORUk"
@@ -1677,7 +1731,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 234893,
       "name": "Full Speed Ahead",
       "url": "https://open.spotify.com/track/5wPrzT7xRJ0RPw5Hlje4b1"
@@ -1695,7 +1749,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 257466,
       "name": "Galdin Quay",
       "url": "https://open.spotify.com/track/5DQ1U7d4m1g1zU4KkxF6vL"
@@ -1713,7 +1767,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 300546,
       "name": "Gates of the Moon",
       "url": "https://open.spotify.com/track/5fN6ZPaVC4tARnd36e2rXj"
@@ -1821,7 +1875,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 229440,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1mlQndL6Ug3XxrpNKqdQBy"
@@ -1929,7 +1983,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 382413,
       "name": "Kimi ga Irukara - Long Version",
       "url": "https://open.spotify.com/track/1imcmfDpv4X4MO2tbYxMaY"
@@ -2001,7 +2055,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 146053,
       "name": "Lightning's Theme",
       "url": "https://open.spotify.com/track/2yR1KxI9rCl28RsUjL5iJT"
@@ -2013,8 +2067,8 @@
       },
       "artists": [
         {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
       "date_added": "2021-03-04",
@@ -2109,7 +2163,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 381626,
       "name": "Luxerion",
       "url": "https://open.spotify.com/track/79GKh2NonU3NoXXlAbVVl4"
@@ -2217,7 +2271,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 151133,
       "name": "March of the Dreadnoughts",
       "url": "https://open.spotify.com/track/0zDpUOOyUSINl39LBi11ah"
@@ -2253,7 +2307,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 165360,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/71L9iIpxbawMaetgN2HbKt"
@@ -2289,7 +2343,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 260990,
       "name": "Moebius",
       "url": "https://open.spotify.com/track/13DXzwP8980CEMhnJIr0M1"
@@ -2343,7 +2397,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 196466,
       "name": "Movement In Green",
       "url": "https://open.spotify.com/track/7BeOzMA5ym5UgFHHclLNhe"
@@ -2397,7 +2451,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "NOCTIS",
       "url": "https://open.spotify.com/track/0Vl4A8SZrxO40zJk63NuZh"
@@ -2541,7 +2595,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 271466,
       "name": "OMNIS LACRIMA",
       "url": "https://open.spotify.com/track/4Vy8J8AAM5vzhCQnsxIqjg"
@@ -2595,7 +2649,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 158493,
       "name": "Over the Hill",
       "url": "https://open.spotify.com/track/6JJ4bNUb6UQjXW5MYTw2b9"
@@ -2667,7 +2721,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 176800,
       "name": "Penelo's Theme",
       "url": "https://open.spotify.com/track/3JOMe1Euw73kqH2qb4dRJX"
@@ -2775,7 +2829,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 175480,
       "name": "Prelude to FINAL FANTASY XIII",
       "url": "https://open.spotify.com/track/0h3WRzY4IIklgsFBBKhbwW"
@@ -2955,7 +3009,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 130066,
       "name": "Respite",
       "url": "https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4"
@@ -2991,7 +3045,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 309653,
       "name": "Revenge Twofold",
       "url": "https://open.spotify.com/track/4V2tRqQ9lUeIQxLNwO3ucC"
@@ -3045,7 +3099,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 297200,
       "name": "Ronfaure",
       "url": "https://open.spotify.com/track/1EUGo3QcDXQSv0XKF8GIZK"
@@ -3063,7 +3117,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 154093,
       "name": "Roses of May",
       "url": "https://open.spotify.com/track/35sb7fb28uy8r3GX4btTrb"
@@ -3153,7 +3207,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 89786,
       "name": "Serah's Theme",
       "url": "https://open.spotify.com/track/7oeHulqNl79O06ZtDI5snk"
@@ -3207,7 +3261,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 282266,
       "name": "Servants of the Mountain",
       "url": "https://open.spotify.com/track/0d3mX4cZEucXC2TNYtGpix"
@@ -3261,7 +3315,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 124400,
       "name": "Shuffle or Boogie",
       "url": "https://open.spotify.com/track/3z37xbAZOnBf9mupKIk0jx"
@@ -3315,7 +3369,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 120400,
       "name": "Somnus Ultima",
       "url": "https://open.spotify.com/track/5GVSSTv4TzOI8N2slN26Jw"
@@ -3376,6 +3430,24 @@
     },
     {
       "album": {
+        "name": "FINAL FANTASY X Original Soundtrack",
+        "url": "https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169026,
+      "name": "Spira Unplugged",
+      "url": "https://open.spotify.com/track/1ZpFAnggGRjqXbDynGp7AL"
+    },
+    {
+      "album": {
         "name": "FINAL FANTASY XV Original Soundtrack",
         "url": "https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v"
       },
@@ -3387,7 +3459,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 209466,
       "name": "Stand Your Ground",
       "url": "https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o"
@@ -3405,7 +3477,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 321080,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/2v7T65sRJlhytPQSqrnQ6L"
@@ -3423,7 +3495,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 238346,
       "name": "Storm of Blood",
       "url": "https://open.spotify.com/track/6iIw2205q4fKP210AH87gL"
@@ -3441,7 +3513,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 356624,
       "name": "Streets of Rabanastre - Zodiac Age Version",
       "url": "https://open.spotify.com/track/5h6X58YJWSm4VQIDDq5OHA"
@@ -3459,7 +3531,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 425387,
       "name": "Sultana Dreaming",
       "url": "https://open.spotify.com/track/72XCIYkEtLwUYU911iGduu"
@@ -3513,7 +3585,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 232733,
       "name": "Terra's Theme",
       "url": "https://open.spotify.com/track/5vkzFLlswC4stmL1aKfAPD"
@@ -3567,7 +3639,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "The Beginning of the End",
       "url": "https://open.spotify.com/track/1GhottKACE62L2Sq24LFmW"
@@ -3711,7 +3783,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 187980,
       "name": "The Hand that Gives the Rose",
       "url": "https://open.spotify.com/track/34Ez7O85ESRHet1lhPMBcK"
@@ -3759,8 +3831,8 @@
       },
       "artists": [
         {
-          "name": "Takeharu Ishimoto",
-          "url": "https://open.spotify.com/artist/04LEJd8eE8sDCre2pUpoW9"
+          "name": "\u77f3\u5143 \u4e08\u6674",
+          "url": "https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf"
         }
       ],
       "date_added": "2021-03-04",
@@ -3819,7 +3891,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 226493,
       "name": "The Sunleth Waterscape",
       "url": "https://open.spotify.com/track/4sEVHFujmS8Rzp6RHEooEA"
@@ -3837,7 +3909,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 298426,
       "name": "The Worm's Tail",
       "url": "https://open.spotify.com/track/0gpp8dE6vnlLszg4uh207H"
@@ -3855,10 +3927,28 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 130546,
       "name": "The Yaschas Massif",
       "url": "https://open.spotify.com/track/7hy0u26of4i9hcsLu6cbqa"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY III Original Soundtrack",
+        "url": "https://open.spotify.com/album/0iprVXbUq6snKAsA8rs9Nd"
+      },
+      "artists": [
+        {
+          "name": "Nobuo Uematsu",
+          "url": "https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142160,
+      "name": "This is the Last Battle",
+      "url": "https://open.spotify.com/track/6CQ6D9YVPQ9aC8rUABB3iv"
     },
     {
       "album": {
@@ -3877,6 +3967,24 @@
       "duration_ms": 449165,
       "name": "Through the Maelstrom - Female Vocals",
       "url": "https://open.spotify.com/track/6EnXT7nkuZS8tsBRSSvVYM"
+    },
+    {
+      "album": {
+        "name": "Before the Fall: FINAL FANTASY XIV Original Soundtrack",
+        "url": "https://open.spotify.com/album/49PRWA2vUs2zT6jlq8RC4Q"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Soken",
+          "url": "https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637856,
+      "name": "Thunder Rolls",
+      "url": "https://open.spotify.com/track/1Qw2cJY1WmtHXZggiQR9Lw"
     },
     {
       "album": {
@@ -3927,7 +4035,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 157400,
       "name": "Trisection",
       "url": "https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec"
@@ -3981,7 +4089,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 251521,
       "name": "Twilight over Thanalan",
       "url": "https://open.spotify.com/track/04ItXlaYmMEy0TVoqmqZBc"
@@ -4017,7 +4125,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 430299,
       "name": "Ultima",
       "url": "https://open.spotify.com/track/55JTlu8Uzc3v0hi2iqThiu"
@@ -4089,7 +4197,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 382666,
       "name": "UTAKATA",
       "url": "https://open.spotify.com/track/6KBhmo3rW6tgIpKanqFpYw"
@@ -4251,7 +4359,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "Vivi's Theme",
       "url": "https://open.spotify.com/track/7xhawRJwDY5oqDwDOQHbLR"
@@ -4359,6 +4467,24 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100466,
+      "name": "Welcome to the Leville",
+      "url": "https://open.spotify.com/track/1dfXLOMjg9Vp4UOVn0Ay3k"
+    },
+    {
+      "album": {
+        "name": "FINAL FANTASY XV Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v"
+      },
+      "artists": [
+        {
+          "name": "Yoko Shimomura",
+          "url": "https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH"
+        }
+      ],
+      "date_added": "2021-03-04",
+      "date_added_asterisk": false,
       "date_removed": "2022-01-05",
       "duration_ms": 327733,
       "name": "What Lies Within",
@@ -4397,7 +4523,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135186,
-      "name": "Why - CCFFVII Mix",
+      "name": "Why (CCFFVII Mix)",
       "url": "https://open.spotify.com/track/0rKap0HkMA9bZ3BqHUb5UT"
     },
     {
@@ -4449,7 +4575,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 210760,
       "name": "Yuna's Theme",
       "url": "https://open.spotify.com/track/4JkoAb2h5M8gSi7HLWaD34"

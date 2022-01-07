@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 204761,
       "name": "ABrandNewDay",
       "url": "https://open.spotify.com/track/6zJH70ln2n4JgSm4WApXHO"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 193773,
       "name": "Dudley Stage -YOU BLOW MY MIND-",
       "url": "https://open.spotify.com/track/2k1B29kBE3UCYbKk5v68vB"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 154293,
       "name": "Free From Fear",
       "url": "https://open.spotify.com/track/1IZRDWWDyVmfmpenjaLzLB"
@@ -499,7 +499,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 122493,
       "name": "OPENING STAGE X",
       "url": "https://open.spotify.com/track/4Y9GXg4Pb12oyhWcyVL67w"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 53800,
       "name": "OPENING(\u30d5\u30a1\u30a4\u30ca\u30eb\u30d5\u30a1\u30a4\u30c8\u3088\u308a)",
       "url": "https://open.spotify.com/track/39eWUUEAZcv6T02LIlUy3N"
@@ -752,6 +752,24 @@
     },
     {
       "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c94 \u30b5\u30a6\u30f3\u30c9\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/1J7UrlOUQT7ugrdPNFxRfN"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81426,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/3yJWJiofNlTzZkUSqcRzDO"
+    },
+    {
+      "album": {
         "name": "\u30c7\u30d3\u30eb \u30e1\u30a4 \u30af\u30e9\u30a4 4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/0b7BchpS8RT54kTgZVe9Xo"
       },
@@ -799,7 +817,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 93226,
       "name": "SNAKE MAN STAGE",
       "url": "https://open.spotify.com/track/7AMjlGoq4RVYxntp8I7VKE"
@@ -821,6 +839,24 @@
       "duration_ms": 76946,
       "name": "SPARK MAN STAGE",
       "url": "https://open.spotify.com/track/7dxOZpYoM12OmJD1Oi6gWV"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5BfJWzKHKG5UrRPsPEgWYs"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "SPARK MANDRILLER STAGE",
+      "url": "https://open.spotify.com/track/4vGhjzXArH20zAY3FcpSFj"
     },
     {
       "album": {
@@ -997,10 +1033,32 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 201133,
       "name": "ULTRA VIOLET(\u30cd\u30ed \u30a2\u30f3\u30b8\u30a7\u30ed\u6226)",
       "url": "https://open.spotify.com/track/5MgmtxsgI28xyRedapKYBI"
+    },
+    {
+      "album": {
+        "name": "\u30ed\u30c3\u30af\u30de\u30f3X8 \u30b5\u30a6\u30f3\u30c9 \u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6xLS6m4VKzxuXkU2DR6pb0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        },
+        {
+          "name": "Value Wave",
+          "url": "https://open.spotify.com/artist/4jt2AZqUeSdf3rRYt6Opm0"
+        }
+      ],
+      "date_added": "2021-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "VS 8Boss",
+      "url": "https://open.spotify.com/track/3kaWVbWp2nZlBgyqF3b0hs"
     },
     {
       "album": {
@@ -1015,7 +1073,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 84906,
       "name": "WOODMAN STAGE",
       "url": "https://open.spotify.com/track/1nP64RBhdx7UjDVkdC8Iwv"
@@ -1275,7 +1333,7 @@
       ],
       "date_added": "2021-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 189760,
       "name": "\u751f\u547d\u3042\u308b\u8005\u3078",
       "url": "https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxwmBaMqxsl.md) - [plain]
 
 > Blue jazz when you're feeling blue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,143 likes - 87 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,188 likes - 87 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

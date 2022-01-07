@@ -2,7 +2,7 @@
 
 ### [Indie Shuffle](https://open.spotify.com/playlist/20Eh596su19VARcgGsKVKl)
 
-> Current indie tunes from Asia and around the world\. Cover: lilong
+> Current indie tunes from Asia and around the world\. Cover: Crispy & Dinosaur's Skin
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Let's Stay Out](https://open.spotify.com/track/2GNj2D1F6fRBYnurxFyPMA) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Loco](https://open.spotify.com/album/4zbDWqbmHnnLluJeTGpfQ7) | 4:29 | 2021-12-23 |  |
 | [Lonely Winter](https://open.spotify.com/track/7c8rXgRsYlpV2EJUwCNTFG) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM) | [Lonely Winter](https://open.spotify.com/album/2a0n42rbPAz0JgQqoLUnpc) | 3:12 | 2021-12-30 |  |
 | [Love](https://open.spotify.com/track/2S21tvV0jigedzU9tbQksd) | [Merry Lamb Lamb](https://open.spotify.com/artist/6wLVho9ZDD140wQ9laOlhx) | [Love](https://open.spotify.com/album/6Hs4hl7bsGLefnPMY31cng) | 4:54 | 2021-12-16 |  |
+| [Luminous](https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2) | [Youthlim](https://open.spotify.com/artist/0rHYAz4lrtdEHOXNZA7XzC) | [Luminous](https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd) | 6:08 | 2022-01-06 |  |
 | [Made for Mermaid](https://open.spotify.com/track/2kLTL9QiAF0PDCuSKFAYYI) | [Orange Ocean](https://open.spotify.com/artist/3xcaXZYFSV0iRmgu9defBW), [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Made for Mermaid](https://open.spotify.com/album/7rH5xf3APNtGGUZz6bMr16) | 4:42 | 2021-12-23 |  |
 | [Madeleine](https://open.spotify.com/track/65YXY9hqvvsvfT5xHb44lF) | [LUAMEL](https://open.spotify.com/artist/0GP1FM3P7XrmSNz1Nr29Yy) | [Madeleine](https://open.spotify.com/album/7mKN1i8ZgERfSeMnM23IWd) | 3:44 | 2021-12-30 |  |
 | [MAGAZINE](https://open.spotify.com/track/6FwYZxdc4xJxEdIQjZtGvP) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [MAGAZINE](https://open.spotify.com/album/5GOW52attS62W49TYwNQwa) | 2:48 | 2021-12-23 | 2021-12-31 |
@@ -72,6 +73,7 @@
 | [R.I.P.](https://open.spotify.com/track/1GyscxE7G8aAuR9FSFLkYI) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [I'M MORE SOBER WHEN I'M DRUNK](https://open.spotify.com/album/2Am9K7TWhCBvYPM8cSTUNO) | 3:04 | 2021-12-23 | 2021-12-31 |
 | [Reason](https://open.spotify.com/track/0REGWAoURfSLQe5hQhlsKK) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [to hell with it](https://open.spotify.com/album/65YAjLCn7Jp33nJpOxIPMe) | 2:11 | 2021-12-16 | 2021-12-31 |
 | [right back](https://open.spotify.com/track/6HJwsnp0MrGg3oqdEB6cS9) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [hi](https://open.spotify.com/album/6TGVTRNzLtxpD7RxvWaCfT) | 3:32 | 2021-12-16 |  |
+| [run away](https://open.spotify.com/track/0HWEriyFnKofjQDYNQwiBo) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [run away](https://open.spotify.com/album/38vueCDuspel1zTJFGT20w) | 3:01 | 2022-01-06 |  |
 | [Run to you \- Christmas Special](https://open.spotify.com/track/2LeNMdCRoqrLue1lsCMW5i) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Run to you \(Christmas Special\)](https://open.spotify.com/album/590gdVrqvyYCcbPcbXsPZf) | 3:06 | 2021-12-23 |  |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-12-16 |  |
 | [sandcastles](https://open.spotify.com/track/5hNKmPWC97RxTXpgy3kf6x) | [TALA](https://open.spotify.com/artist/2VL6HPPI1raa3qKW6NUNBR) | [call me when you wake up](https://open.spotify.com/album/5lAIULp9wE4dQnmgJsHzAt) | 3:26 | 2021-12-16 |  |
@@ -87,6 +89,7 @@
 | [Summer](https://open.spotify.com/track/2QxFBxaaGZFTsUkQVrLq92) | [Feby Bachtiar](https://open.spotify.com/artist/79Qrl5DlQ2pFXKfXrVi4MM) | [Summer](https://open.spotify.com/album/5lYjcBPjkbv5IyhTnCUjXL) | 4:45 | 2021-12-23 |  |
 | [Superstition](https://open.spotify.com/track/2rFAJEY10ySzFWpGfguu2E) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z), [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o) | [Superstition](https://open.spotify.com/album/2y0cEUOHiz7nnnIMIzVKfb) | 2:46 | 2021-12-23 |  |
 | [Swallow Me Whole](https://open.spotify.com/track/6cDblsYegeQhNCZWwNoGuC) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [Void](https://open.spotify.com/album/6pKSNr896tN3M8iVATAvy7) | 3:05 | 2021-12-16 |  |
+| [Take It Slow](https://open.spotify.com/track/6DffoPe45lbiNxdCkfoFYd) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Take It Slow](https://open.spotify.com/album/4OX3swXsgAIbZ5xep0nhqc) | 5:26 | 2022-01-06 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2021-12-16 | 2021-12-31 |
 | [The One Who Wins](https://open.spotify.com/track/6PNBcD4FpmSnoBhcM10uwv) | [Thomas Glaop](https://open.spotify.com/artist/2MITGoVOpjWT1dLM9xAfdG) | [The One Who Wins](https://open.spotify.com/album/109Suo0HQEOaKF7nvXfL8Z) | 3:38 | 2021-12-23 |  |
 | [Theworstthing](https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Theworstthing](https://open.spotify.com/album/3W88I4fwX6EqtR7qJ6I5fU) | 3:03 | 2021-12-16 | 2021-12-31 |
@@ -97,6 +100,7 @@
 | [Walker](https://open.spotify.com/track/1iu83btfdAEbMH4K2tRo71) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Walker](https://open.spotify.com/album/4q2AM3cwp8l8UhutZAFA1p) | 3:47 | 2021-12-16 |  |
 | [What Were You Hoping to Find?](https://open.spotify.com/track/18q3MaOdhbwYq4j2RswgN7) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [What Were You Hoping to Find?](https://open.spotify.com/album/3Q5bDksRVfWytZluEMWajp) | 3:45 | 2021-12-16 |  |
 | [When I'm Alone](https://open.spotify.com/track/1Ls0bZ0slPNAxuFMQPeBp6) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [When I'm Alone / How Does It Feel?](https://open.spotify.com/album/6oMoymBPqwsFLsimWYCckQ) | 3:05 | 2021-12-16 |  |
+| [While My Waves Wonder \- Slow Magic Remix](https://open.spotify.com/track/5D6DcNe4mRDejrA68zyXTH) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [While My Waves Wonder \(Slow Magic Remix\)](https://open.spotify.com/album/2SRBOc1uiyQKVOrWesetuH) | 4:17 | 2022-01-06 |  |
 | [Won't You Stay](https://open.spotify.com/track/1bgchbkTDEsWjdzena7Ng2) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Won't You Stay](https://open.spotify.com/album/5BkNt41Og9fImlDKiq7uMY) | 2:51 | 2021-12-16 | 2021-12-31 |
 | [Years](https://open.spotify.com/track/2CRCLqCSRPPAudN3MjHoPI) | [EJ Marais](https://open.spotify.com/artist/1sgiPS5ieDRh7HbFUgfs7S) | [Dream Cafe](https://open.spotify.com/album/2z3mJYwr4VoMEVktD3TShn) | 2:59 | 2021-12-16 |  |
 | [Your Love Is My Morning Sun](https://open.spotify.com/track/2NUkNwQ0mueTBvjk2B8qO5) | [Chucheewa](https://open.spotify.com/artist/3CGdklrdSj2in8Kjc43hQU), [Casinotone](https://open.spotify.com/artist/3k9FRWf2JzOTyJFWNwhTvA) | [Your Love Is My Morning Sun](https://open.spotify.com/album/2Mf8sJl6JHdep4HXFvfeMH) | 4:53 | 2021-12-16 |  |

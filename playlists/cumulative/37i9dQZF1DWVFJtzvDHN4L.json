@@ -878,6 +878,24 @@
     },
     {
       "album": {
+        "name": "A Discovery of Witches (Music from Series Two of the Television Series)",
+        "url": "https://open.spotify.com/album/0CeAJgYranIQO6BFYqC1hO"
+      },
+      "artists": [
+        {
+          "name": "Rob Lane",
+          "url": "https://open.spotify.com/artist/7nlwfEaz3EFAq4rJBvLy5k"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146730,
+      "name": "The Wedding",
+      "url": "https://open.spotify.com/track/1YshKvKR8iinJwlo7M1VgU"
+    },
+    {
+      "album": {
         "name": "The Wife (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0RrX75zsLkwGfGsdDLGxtS"
       },

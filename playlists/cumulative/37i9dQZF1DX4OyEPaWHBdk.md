@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4OyEPaWHBdk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4OyEPaWHBdk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4OyEPaWHBdk)
 
-### [The 36th Golden Disc Awards](https://open.spotify.com/playlist/3jbMs9e43URW6h6a6HfT7p)
+### [The 36th Golden Disc Awards](https://open.spotify.com/playlist/0cxNRmrMEwvw4NKZo4I8ql)
 
 > Check out the nominees for The 36th Golden Disc Awards!
 

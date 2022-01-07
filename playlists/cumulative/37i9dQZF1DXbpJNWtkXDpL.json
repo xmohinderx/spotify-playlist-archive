@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 224528,
       "name": "A donde quiera que voy",
       "url": "https://open.spotify.com/track/1NxXpAPKjrr9sO5WdDJ2RS"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 195000,
       "name": "Calamidad",
       "url": "https://open.spotify.com/track/6053PBltVrWgwkTZAS0FF3"
@@ -400,6 +400,28 @@
     },
     {
       "album": {
+        "name": "Tiempos (Re-Issue)",
+        "url": "https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        },
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "Ella En Mi Cama",
+      "url": "https://open.spotify.com/track/7xFTTeiNmK0vxRk4m0w1Tx"
+    },
+    {
+      "album": {
         "name": "Del Corazon",
         "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
       },
@@ -527,7 +549,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 204724,
       "name": "La Cuenta",
       "url": "https://open.spotify.com/track/6jCB8QRXVlxOVGjdhUpa7p"
@@ -661,7 +683,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 181466,
       "name": "Me Vale",
       "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
@@ -719,7 +741,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 200388,
       "name": "Miel",
       "url": "https://open.spotify.com/track/2XPbUr8BK8hfYdTWrBWT9g"
@@ -770,6 +792,28 @@
     },
     {
       "album": {
+        "name": "No Se Da",
+        "url": "https://open.spotify.com/album/5ZLdaoqUAzavTeIuRS1Mt8"
+      },
+      "artists": [
+        {
+          "name": "Ely Blancarte",
+          "url": "https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2"
+        },
+        {
+          "name": "Fran Zata",
+          "url": "https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "No Se Da",
+      "url": "https://open.spotify.com/track/6TU0aXrBCJRerU3D5m10zL"
+    },
+    {
+      "album": {
         "name": "No Voy A Llorar",
         "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
@@ -781,7 +825,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 197253,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
@@ -1187,7 +1231,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 149706,
       "name": "Venus",
       "url": "https://open.spotify.com/track/6WiiqABNefc4RZTVmjHZQm"

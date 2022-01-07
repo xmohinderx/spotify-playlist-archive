@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 280266,
       "name": "50",
       "url": "https://open.spotify.com/track/1Z5hcvhbyTdEQ2NuAJFtDk"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 143332,
       "name": "Adrian, Ali and Gregory",
       "url": "https://open.spotify.com/track/1nATM2if0c7XcpkpFYeMsq"
@@ -141,7 +141,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 53922,
       "name": "Afrobeat Renaissance",
       "url": "https://open.spotify.com/track/2Qm9Xq4wMsNCX9wjpwBPBT"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 410060,
       "name": "Arrival of the new elders",
       "url": "https://open.spotify.com/track/7ceZz0qPciS2RHS2a1x61F"
@@ -334,6 +334,40 @@
     },
     {
       "album": {
+        "name": "A Song of Hope",
+        "url": "https://open.spotify.com/album/67aD0E6WbTkEgOM6GmPDF0"
+      },
+      "artists": [
+        {
+          "name": "Eric Wyatt",
+          "url": "https://open.spotify.com/artist/4OS3gKhTZvKoRX5a7SnebC"
+        },
+        {
+          "name": "Donald Vega",
+          "url": "https://open.spotify.com/artist/53TF3kbZNckRWF9IGnGQU0"
+        },
+        {
+          "name": "Eric Wheeler",
+          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
+        },
+        {
+          "name": "Jeff \"Tain\" Watts",
+          "url": "https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422960,
+      "name": "Blues for RH",
+      "url": "https://open.spotify.com/track/1RYZHeLsfhj08PL0JDnUEc"
+    },
+    {
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/4Rz0m7yeCbed8jJaMHAVLL"
       },
@@ -367,7 +401,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 365061,
       "name": "Bump",
       "url": "https://open.spotify.com/track/6Y44ILfrWTrNmTiACK9AN0"
@@ -433,7 +467,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 298067,
       "name": "City Dreams",
       "url": "https://open.spotify.com/track/1npn7uPiSxUr5oKJIkGq04"
@@ -455,7 +489,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 279618,
       "name": "Collision feat. Regina Carter",
       "url": "https://open.spotify.com/track/3pqPrAZrdh9Nm9WJZHM91S"
@@ -485,6 +519,24 @@
       "duration_ms": 325899,
       "name": "Conception",
       "url": "https://open.spotify.com/track/6KEvzpIWASLeth3AkG5uNg"
+    },
+    {
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/7o5IIz8owZgw0EDf7MDPO2"
+      },
+      "artists": [
+        {
+          "name": "Louis Hayes",
+          "url": "https://open.spotify.com/artist/5Ouogjg668pTmPkpgI8z0L"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347466,
+      "name": "Crisis",
+      "url": "https://open.spotify.com/track/56r7qwEjOZeZCzaN0g4v1S"
     },
     {
       "album": {
@@ -533,10 +585,48 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 453453,
       "name": "Daisy Mae",
       "url": "https://open.spotify.com/track/7lZ45fWsjAWZPpKoE9gSCN"
+    },
+    {
+      "album": {
+        "name": "The New Young Lions of Jazz",
+        "url": "https://open.spotify.com/album/2gMautvaUrYZrKkGHD43jK"
+      },
+      "artists": [
+        {
+          "name": "Arkadia Jazz All-Stars",
+          "url": "https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc"
+        },
+        {
+          "name": "T.K. Blue",
+          "url": "https://open.spotify.com/artist/15v2xkHenbZ9l2dURXSnPn"
+        },
+        {
+          "name": "Stefon Harris",
+          "url": "https://open.spotify.com/artist/4FDlrSZ3mEv5Jvn482sCbZ"
+        },
+        {
+          "name": "Jeff \"Tain\" Watts",
+          "url": "https://open.spotify.com/artist/0hZXvDnljkma4aThiBMQ6h"
+        },
+        {
+          "name": "Lonnie Plaxico",
+          "url": "https://open.spotify.com/artist/0spbTiThbYmwEMscsGzuoh"
+        },
+        {
+          "name": "James Weidman",
+          "url": "https://open.spotify.com/artist/5d6aXYjjVza872kwWoGXFv"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343040,
+      "name": "Dance of the Nile - New Young Lions",
+      "url": "https://open.spotify.com/track/6YWRBLWUADcq25nQmroCsb"
     },
     {
       "album": {
@@ -638,6 +728,24 @@
     },
     {
       "album": {
+        "name": "More Music",
+        "url": "https://open.spotify.com/album/291DRYQKtqeZGHfSPabB01"
+      },
+      "artists": [
+        {
+          "name": "Joey DeFrancesco",
+          "url": "https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219697,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/28tJl5mO1aTM7UPzNPXYnd"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/0zaeRVFq0RIwaD4zmovIfK"
       },
@@ -649,7 +757,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 219697,
       "name": "Free",
       "url": "https://open.spotify.com/track/5Z3ZCuQXmqZRVT0MAm74AP"
@@ -703,7 +811,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 463346,
       "name": "Hangin' in and Jivin'",
       "url": "https://open.spotify.com/track/2NYY7htTMZT3bxSu9cniKD"
@@ -1067,7 +1175,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 399083,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/4OmPhOJXv9ZDh6QygkdzR5"
@@ -1213,7 +1321,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 212026,
       "name": "Not So Modern Times",
       "url": "https://open.spotify.com/track/4AiRfllz5Lx7A6gy9H0ezT"
@@ -1239,7 +1347,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 190800,
       "name": "N\u00e3o Negue Seu Corac\u00e3o",
       "url": "https://open.spotify.com/track/1899p78p447mV5sreY6dbW"
@@ -1269,6 +1377,24 @@
       "duration_ms": 198000,
       "name": "On the Fly",
       "url": "https://open.spotify.com/track/6x0b0IJW47OZPkEr166zib"
+    },
+    {
+      "album": {
+        "name": "Smoke Sessions",
+        "url": "https://open.spotify.com/album/4octfv2cmlarwJYR8aRIGr"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275253,
+      "name": "Q for Quincy Jones",
+      "url": "https://open.spotify.com/track/3EaQpzei9TE8XNBhYiRiZg"
     },
     {
       "album": {
@@ -1345,7 +1471,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 292200,
       "name": "Run Outs",
       "url": "https://open.spotify.com/track/5eTvrED91AN0WORZDslNEr"
@@ -1720,6 +1846,24 @@
     },
     {
       "album": {
+        "name": "Songs of Joy",
+        "url": "https://open.spotify.com/album/67HHmtUndI5iedtQ2A3oeM"
+      },
+      "artists": [
+        {
+          "name": "Yoko Miwa Trio",
+          "url": "https://open.spotify.com/artist/4xfIFGU467tYdyF6thGbLP"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483025,
+      "name": "Think of One",
+      "url": "https://open.spotify.com/track/5SwV92BaLtH0j1CEW8nfFE"
+    },
+    {
+      "album": {
         "name": "Tickled Pink",
         "url": "https://open.spotify.com/album/6grMAcl5o9URTqjjC7SRGp"
       },
@@ -1827,7 +1971,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 455306,
       "name": "Yardeville (feat. Alex Hitchcock, Ant Law, Tom Hewson & Marc Michel)",
       "url": "https://open.spotify.com/track/15mPzx0AdfAuLllGeEuQfg"
@@ -1845,7 +1989,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 252000,
       "name": "\u98a8\u5f85\u6708",
       "url": "https://open.spotify.com/track/6QqvYc9nU9JeZF8PPyoW1F"

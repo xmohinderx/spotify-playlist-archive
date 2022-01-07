@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-05",
   "description": "The Latin soundtrack of the 90s! Cover: Selena",
   "name": "90s Latino",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "16bzmiNJN2B7CeLU7dd3R4"
+  ],
   "tracks": [
     {
       "album": {
@@ -197,7 +199,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 231640,
       "name": "Cerca De Ti",
       "url": "https://open.spotify.com/track/2NVcJgPcBsY2jQczl9y74L"
@@ -291,7 +293,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 269613,
       "name": "C\u00f3mo Te Deseo",
       "url": "https://open.spotify.com/track/6kdupfq3aldz65urrIjsyp"
@@ -475,6 +477,24 @@
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/4xzcXQrlMKwvv3kDpvBKWm"
+    },
+    {
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274466,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/2IAtnd4UG52HQP9Rwart5h"
     },
     {
       "album": {
@@ -817,7 +837,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 251440,
       "name": "No Llores Por Mi",
       "url": "https://open.spotify.com/track/4lXn55tuRpIkdKDGcvJdqs"
@@ -893,7 +913,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 235733,
       "name": "Ojos As\u00ed",
       "url": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO"
@@ -1311,7 +1331,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 274160,
       "name": "Tu Sonrisa",
       "url": "https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh"
@@ -1329,7 +1349,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 214133,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3"
@@ -1347,7 +1367,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 206253,
       "name": "Vida",
       "url": "https://open.spotify.com/track/41fPYZa2fOSHLEG1gvtian"

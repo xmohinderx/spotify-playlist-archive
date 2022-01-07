@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Thundercat
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,531 likes - 115 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,766 likes - 115 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 44 | [My Brother \- Frank Booker & Nathan Haines Remix](https://open.spotify.com/track/5BzqDmHDbC8OFOiSiSf3mr) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Michal Martyniuk](https://open.spotify.com/artist/4pkzD9szYtQ8bBbUqTD0BC), [Frank Booker](https://open.spotify.com/artist/4YRVEzWxX3wUH29czw0IiU), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [My Brother](https://open.spotify.com/album/1muD8cnFzYX594Irtz0aBh) | 6:54 |
 | 45 | [Pocket](https://open.spotify.com/track/7a4uiLnvLP33EPvGDn5YXA) | [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [Pocket](https://open.spotify.com/album/4wwpEMqsM5iiNcvAi3kVZi) | 3:20 |
 | 46 | [Moonlight](https://open.spotify.com/track/43XQxLhbUFqqCtRYiKCdCx) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Moonlight](https://open.spotify.com/album/4peKAwsBT7Tct2QcZqAXtG) | 3:25 |
-| 47 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Serena Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 |
+| 47 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 |
 | 48 | [Pursuit of Happiness](https://open.spotify.com/track/0Kbf68ffqkVcoZXPqVpD9j) | [The Philharmonik](https://open.spotify.com/artist/3A7OTJpEsOObdTqn1ANNhi) | [Pursuit of Happiness](https://open.spotify.com/album/5Sz85muMZBfGGF07GzQkAn) | 4:17 |
 | 49 | [Them Changes](https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:08 |
 | 50 | [Good Love](https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [Good Love](https://open.spotify.com/album/6644XhPFkGMwMcXeRsj8QL) | 3:09 |

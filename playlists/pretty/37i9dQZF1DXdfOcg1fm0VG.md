@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favourites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,065 likes - 92 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 513,233 likes - 92 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 91 | [The Orb Of Dreamers](https://open.spotify.com/track/17A0HiJjuQwZuTAzLekMeP) | [The Daniel Pemberton TV Orchestra](https://open.spotify.com/artist/545GoPyuY6bF37QY9BXDZc) | [Little BIG Music: Musical Oddities From And Inspired By Little Big Planet](https://open.spotify.com/album/63XHHwjqDPhXrDlbRMvGjc) | 2:31 |
 | 92 | [The Gapra Whitewood](https://open.spotify.com/track/3b74h1zdaACqenzjNoe87z) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY XIII Original Soundtrack](https://open.spotify.com/album/5GkUPRHDvq179CmE9zXh4g) | 2:44 |
 
-Snapshot ID: `MTY0MTMwNzI4NiwwMDAwMDA0MzAwMDAwMTdlMjU4OWFiYjkwMDAwMDE3MWM5YzhhNzAy`
+Snapshot ID: `MTY0MTUwNTcwMSwwMDAwMDA0NDAwMDAwMTdlMzE1ZDNlZjQwMDAwMDE3MWM5YzhhNzAy`

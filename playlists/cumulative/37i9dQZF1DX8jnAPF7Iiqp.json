@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-06",
   "description": "Running or raving? We've got a load of drum & bass to help with that!",
   "name": "Run 'N' Bass 170-175 BPM",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5m1bjYNR2pVMWBRWkLrWBe"
+  ],
   "tracks": [
     {
       "album": {
@@ -72,6 +74,28 @@
     },
     {
       "album": {
+        "name": "Anaesthetist",
+        "url": "https://open.spotify.com/album/7fulQxtwnbpPRd3Q26DvmA"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272763,
+      "name": "Anaesthetist",
+      "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
+    },
+    {
+      "album": {
         "name": "Apeldoorn Jamming / Atmosphere",
         "url": "https://open.spotify.com/album/3apOCV4CTRnxkVQi6Fmsoj"
       },
@@ -127,7 +151,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -149,10 +173,58 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 308940,
       "name": "Behind The Glass",
       "url": "https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v"
+    },
+    {
+      "album": {
+        "name": "Boom (feat. Tonn Piper)",
+        "url": "https://open.spotify.com/album/3wyb69Ob1i59qg6O2DVK3g"
+      },
+      "artists": [
+        {
+          "name": "Andy C",
+          "url": "https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N"
+        },
+        {
+          "name": "Tonn Piper",
+          "url": "https://open.spotify.com/artist/7pS4GeVpAnMx1ZMUdPSLLQ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242758,
+      "name": "Boom (feat. Tonn Piper)",
+      "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/0U6HqrSni7kSKOj6qAfs0n"
+      },
+      "artists": [
+        {
+          "name": "Brookes Brothers",
+          "url": "https://open.spotify.com/artist/2FPeVdIIXD9Wb9Kbn1Hyz6"
+        },
+        {
+          "name": "Kove",
+          "url": "https://open.spotify.com/artist/4cxzGdmQtUZJL1WYOdFQ5F"
+        },
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268225,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1Rb7olpOry6c65F00zCteY"
     },
     {
       "album": {
@@ -222,6 +294,24 @@
     },
     {
       "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/1CgUcT8GZ7mn7a5X8u0jYJ"
+      },
+      "artists": [
+        {
+          "name": "High Contrast",
+          "url": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255606,
+      "name": "Days Go By - 2019 Mix",
+      "url": "https://open.spotify.com/track/7krY6FgUUGwTdvhD6kKBf7"
+    },
+    {
+      "album": {
         "name": "Delirium",
         "url": "https://open.spotify.com/album/508OOtbQ4VMuzsmhnpblMM"
       },
@@ -237,10 +327,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
+    },
+    {
+      "album": {
+        "name": "Do U?",
+        "url": "https://open.spotify.com/album/6chkcjpptWhXEqjhl0ZtAK"
+      },
+      "artists": [
+        {
+          "name": "Ownglow",
+          "url": "https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282742,
+      "name": "Do U?",
+      "url": "https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs"
     },
     {
       "album": {
@@ -259,7 +367,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 252744,
       "name": "Dominoes",
       "url": "https://open.spotify.com/track/2XTVCQI1LwJOiwKGA14co2"
@@ -373,7 +481,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 297964,
       "name": "First To Go - Edlan Remix",
       "url": "https://open.spotify.com/track/4YDgz9iDzgs8FC47XwSyjP"
@@ -391,7 +499,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 375753,
       "name": "Fumes",
       "url": "https://open.spotify.com/track/6FDR1CyaZbw79iAUThlK4k"
@@ -449,7 +557,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -533,10 +641,68 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 249600,
       "name": "I Won't Change",
       "url": "https://open.spotify.com/track/5GIZdytede95DfART5fJdA"
+    },
+    {
+      "album": {
+        "name": "Infinite (Freedom)",
+        "url": "https://open.spotify.com/album/3EzpNsSk1ZUWc0vAoM2zp0"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225847,
+      "name": "Infinite (Freedom)",
+      "url": "https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi"
+    },
+    {
+      "album": {
+        "name": "Is Anybody out There? (S.P.Y VIP)",
+        "url": "https://open.spotify.com/album/3bBQC4Bmi8Letng5G2Gnuo"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301395,
+      "name": "Is Anybody out There? - S.P.Y. VIP",
+      "url": "https://open.spotify.com/track/2qGhRZ2qGak5bWSXQ5Loh2"
+    },
+    {
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/3NZAZ01r9Lg2J35gWVEnCC"
+      },
+      "artists": [
+        {
+          "name": "Genetics",
+          "url": "https://open.spotify.com/artist/2TtirRFdqoWG9avOqFKGWI"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318171,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/5arVVJKESEOMXqJ41QUcVl"
     },
     {
       "album": {
@@ -555,7 +721,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -709,7 +875,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
@@ -878,6 +1044,28 @@
     },
     {
       "album": {
+        "name": "Out of Time",
+        "url": "https://open.spotify.com/album/5j1LFq1ZzTBfwPyYWWNjAf"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        },
+        {
+          "name": "Zara Kershaw",
+          "url": "https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231605,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
+    },
+    {
+      "album": {
         "name": "Ten Thousand Feet & Rising",
         "url": "https://open.spotify.com/album/6gvdS5xw5tIgyOdj37AmzP"
       },
@@ -893,7 +1081,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 244151,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8"
@@ -1028,6 +1216,28 @@
     },
     {
       "album": {
+        "name": "Sientelo",
+        "url": "https://open.spotify.com/album/1zQUO6hBifM8jrnu0OcWPV"
+      },
+      "artists": [
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290742,
+      "name": "Sientelo",
+      "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
+    },
+    {
+      "album": {
         "name": "Mac 19 - EP",
         "url": "https://open.spotify.com/album/2WSWXuihumHxdmviKKqqmo"
       },
@@ -1039,7 +1249,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 220689,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/5sPntn8ccDJdR5yUZ7rLiY"
@@ -1083,7 +1293,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 295172,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/5DYRbPE5eUiW3I3bakPmo0"
@@ -1113,10 +1323,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 167223,
       "name": "This World - CLIPZ Remix Edit",
       "url": "https://open.spotify.com/track/3WlpeGOzziWPpzNwSpiaCl"
+    },
+    {
+      "album": {
+        "name": "Ex Machina",
+        "url": "https://open.spotify.com/album/7ojYx4vW64prZ1bZy4r0cB"
+      },
+      "artists": [
+        {
+          "name": "Metrik",
+          "url": "https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325517,
+      "name": "Time To Let Go",
+      "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
     },
     {
       "album": {
@@ -1135,7 +1363,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 212591,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/0kuYcrNwT08HZTpmxvgDb2"
@@ -1197,7 +1425,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 261381,
       "name": "Way Back When",
       "url": "https://open.spotify.com/track/5OF83s2Dls5ezu0arkOFir"
@@ -1219,7 +1447,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 245525,
       "name": "What We Gonna Do",
       "url": "https://open.spotify.com/track/1q6LkUxNGPscKFZLaCRS7y"

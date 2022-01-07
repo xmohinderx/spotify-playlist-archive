@@ -340,6 +340,24 @@
     },
     {
       "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305506,
+      "name": "Ephemera",
+      "url": "https://open.spotify.com/track/1GkS209qUwcBt04MJ1RDca"
+    },
+    {
+      "album": {
         "name": "Native American Flute",
         "url": "https://open.spotify.com/album/3x85CC8LnFVKgpbLYp1bYz"
       },
@@ -439,6 +457,24 @@
       "duration_ms": 198773,
       "name": "Hidatsa Garden Song",
       "url": "https://open.spotify.com/track/3T0mXm3Y7wqdivJURhCQMG"
+    },
+    {
+      "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/4R6ioJh3mvtJrE7PS9wmnw"
+      },
+      "artists": [
+        {
+          "name": "Sherry Finzer",
+          "url": "https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283910,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/01nlOO3lmi4nHsNy0inZec"
     },
     {
       "album": {

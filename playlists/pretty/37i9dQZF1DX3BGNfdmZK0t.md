@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BGNfdmZK0t.md) - [plain]
 
 > Your essential collection of music by the visionary <a href="spotify:artist:1EI0NtLHoh9KBziYCeN1vM">artist</a>, all in a single playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,710 likes - 87 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,717 likes - 87 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

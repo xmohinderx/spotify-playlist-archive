@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTWhA27mtRFK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTWhA27mtRFK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTWhA27mtRFK)
 
-### New Age Classics
+### [New Age Classics](https://open.spotify.com/playlist/4tyuUu7ygG1hC5zYxQAnHv)
 
 > Open your mind to these classics from the golden era of New Age music.
 

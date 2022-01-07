@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 203973,
       "name": "If I Love Again",
       "url": "https://open.spotify.com/track/4XcLH3IOkmdqFriZJW2HEU"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 254746,
       "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/0RGMEpSB5iF6uD0ojXIiWz"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 372600,
       "name": "Stolen Sweets",
       "url": "https://open.spotify.com/track/377ALnPexo1VGmD8dqHRXl"
@@ -913,6 +913,32 @@
       "duration_ms": 243127,
       "name": "The Call",
       "url": "https://open.spotify.com/track/6dr3C76wvbQJty7WvNG7tG"
+    },
+    {
+      "album": {
+        "name": "Sonny Side Up",
+        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 850493,
+      "name": "The Eternal Triangle",
+      "url": "https://open.spotify.com/track/7mV4LigxLh80JjZlSxEd9M"
     },
     {
       "album": {

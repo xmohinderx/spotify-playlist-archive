@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 218003,
       "name": "Crystal Night",
       "url": "https://open.spotify.com/track/6A3MxyZsLIaG07chsY3L1q"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 178599,
       "name": "Full Size Render",
       "url": "https://open.spotify.com/track/13YkIo5DIQwpJvPjEzgY3D"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 241861,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0o9aEkfuFqYgcVqXSNSxjL"
@@ -775,7 +775,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 190413,
       "name": "I\u2019ll Be Loving You",
       "url": "https://open.spotify.com/track/00XrSeoUJusUuWvqd08lyF"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 327544,
       "name": "Mushroom Man",
       "url": "https://open.spotify.com/track/0Rp0O14KUjmH0CgWL9leIk"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 236666,
       "name": "Never Going Home",
       "url": "https://open.spotify.com/track/4iq4RFWmQc3zFgBgyrpahF"
@@ -977,6 +977,24 @@
       "duration_ms": 166213,
       "name": "One Another",
       "url": "https://open.spotify.com/track/4xF9zRaPdnrLU7QmVMKOzR"
+    },
+    {
+      "album": {
+        "name": "Orchestration",
+        "url": "https://open.spotify.com/album/4g6zb75CpvvUmnqNQPsswt"
+      },
+      "artists": [
+        {
+          "name": "Cape Weather",
+          "url": "https://open.spotify.com/artist/7J1pOyIKObwsdVRzu4scnI"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185191,
+      "name": "Orchestration",
+      "url": "https://open.spotify.com/track/0dt7HhWCKFlQgQuvVLVumN"
     },
     {
       "album": {
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 222769,
       "name": "Petty Crime",
       "url": "https://open.spotify.com/track/4FMyAa7jAyWgiGUpRE5Ef8"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 187733,
       "name": "Talking Backwards",
       "url": "https://open.spotify.com/track/0ZwlxoHAnvkCRjsOrHAleU"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 188093,
       "name": "That Thing",
       "url": "https://open.spotify.com/track/6IDcZXJXQzIfhkjlvVB3Gp"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 133128,
       "name": "Warned You",
       "url": "https://open.spotify.com/track/67LKZcv1J2Yj4pk5UIuFQW"
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 192027,
       "name": "Windows",
       "url": "https://open.spotify.com/track/6jvqaaUtBmcnxQnf5XKzFo"

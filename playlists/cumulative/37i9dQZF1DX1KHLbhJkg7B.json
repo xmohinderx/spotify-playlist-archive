@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 222960,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 170047,
       "name": "All I Do Is Drive",
       "url": "https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
@@ -207,6 +207,24 @@
       "duration_ms": 276413,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/7B1qzMdyg0NnqNmRCLqbRs"
+    },
+    {
+      "album": {
+        "name": "JT",
+        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Bartender's Blues",
+      "url": "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q"
     },
     {
       "album": {
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 233684,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
@@ -525,7 +543,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 197277,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE"
@@ -655,7 +673,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 192818,
       "name": "Eighteen Wheels And A Dozen Roses",
       "url": "https://open.spotify.com/track/62q6KjbWuCZitSsWve9NNq"
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 184240,
       "name": "Five O'Clock World",
       "url": "https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 232006,
       "name": "I Won't Back Down - Live from Saturday Night Live",
       "url": "https://open.spotify.com/track/0bci2nasZ4bDE0EgZJ7frg"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 88001,
       "name": "I'll Be Seeing You",
       "url": "https://open.spotify.com/track/3QVRs5pzioADVwn7v8NGC1"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 269506,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/6j7MXYyyMQXHStKzBFAUez"
@@ -1317,7 +1335,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 191056,
       "name": "I\u2019m Movin\u2019 On",
       "url": "https://open.spotify.com/track/51WjLctyJeBXjLQNF7D0nu"
@@ -1429,7 +1447,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 227453,
       "name": "Lips Of An Angel",
       "url": "https://open.spotify.com/track/2tcHsNBkF0GYQKyFI2y3gE"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 180600,
       "name": "Louisiana Woman, Mississippi Man (with Martina McBride)",
       "url": "https://open.spotify.com/track/1us6oZFgV57a0aPSZt69ZL"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 176610,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/1wIZmRtB9eVWMdQ10oIkX1"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 172626,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/2nBKv02cKXHbdtOgqru73d"
@@ -1817,7 +1835,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 257142,
       "name": "Pride (In The Name Of Love) - Live",
       "url": "https://open.spotify.com/track/3A6OkjyymF5n9XxXgjh51X"
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 173426,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
@@ -2189,7 +2207,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 295880,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg"
@@ -2243,7 +2261,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 154893,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
@@ -2373,7 +2391,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 206906,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/26YCF5XU80CJ93UJZBR6W6"
@@ -2575,7 +2593,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 235946,
       "name": "With or Without You",
       "url": "https://open.spotify.com/track/4I8YTVomTVUbUgTQ4JeQal"

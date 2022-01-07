@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 271826,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/3VvYX8EBy0MkoCTDTT0VwX"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 243500,
       "name": "Bellas",
       "url": "https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 225386,
       "name": "Canalla",
       "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS"
@@ -683,7 +683,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 237541,
       "name": "El Placer Del Sexo",
       "url": "https://open.spotify.com/track/1sWKWpwaw1eBZxZjRctU7e"
@@ -867,7 +867,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 234480,
       "name": "La Demanda",
       "url": "https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX"
@@ -1153,6 +1153,24 @@
       "duration_ms": 282853,
       "name": "Los \u00daltimos",
       "url": "https://open.spotify.com/track/6Y9P646HsmJtZEE2zmgHeF"
+    },
+    {
+      "album": {
+        "name": "Maestra",
+        "url": "https://open.spotify.com/album/5oTBkhFGfjSNTLYcZEiDCy"
+      },
+      "artists": [
+        {
+          "name": "Elvis Martinez",
+          "url": "https://open.spotify.com/artist/2Nbb9tYqcZvINNMbUsQn26"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234031,
+      "name": "Maestra",
+      "url": "https://open.spotify.com/track/4uQf92w1IjsdnKZevVANAt"
     },
     {
       "album": {
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 215874,
       "name": "Perdoname",
       "url": "https://open.spotify.com/track/2Zav4mkT3UcXlE69LFijHs"

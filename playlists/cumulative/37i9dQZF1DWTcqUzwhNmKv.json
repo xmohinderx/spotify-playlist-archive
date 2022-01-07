@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Slipknot on top of the biggest Metal playlist!",
+  "description": "Falling In Reverse on top of the biggest Metal playlist!",
   "name": "Kickass Metal",
   "published_playlist_ids": [
     "4mdOdh141kr7vCeHVDE6oL"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 210639,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
@@ -134,6 +134,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB"
+      },
+      "artists": [
+        {
+          "name": "Breathe Atlantis",
+          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
+        },
+        {
+          "name": "Nico Sallach",
+          "url": "https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227026,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT"
+    },
+    {
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9"
       },
@@ -163,7 +185,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 201800,
       "name": "Coma Blue - Remastered 2022",
       "url": "https://open.spotify.com/track/1WLWMfnnFiXYLujTlkMiou"
@@ -319,7 +341,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 266338,
       "name": "Eye of the Storm",
       "url": "https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg"
@@ -377,7 +399,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 140228,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/6VrgzSdbqpA9cAvUbd1Rwx"
@@ -399,6 +421,24 @@
       "duration_ms": 244911,
       "name": "Give Up The Ghost",
       "url": "https://open.spotify.com/track/579m9YJsOMXEukNFvESTQ8"
+    },
+    {
+      "album": {
+        "name": "Good Stories",
+        "url": "https://open.spotify.com/album/1wlLLvMwxLbVJK5o11syD2"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259213,
+      "name": "Good Stories - Remastered 2022",
+      "url": "https://open.spotify.com/track/1uVyA0eUK86gElgjnvaxio"
     },
     {
       "album": {
@@ -525,6 +565,24 @@
       "duration_ms": 213345,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/5xp2T1ghPN6uNOfeoqD0uY"
+    },
+    {
+      "album": {
+        "name": "Intergalactic Casanova",
+        "url": "https://open.spotify.com/album/2vOfczZPhxfUiTydB6hyQr"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243874,
+      "name": "Intergalactic Casanova",
+      "url": "https://open.spotify.com/track/6lte7l161HTKi4ZLFFGj6x"
     },
     {
       "album": {
@@ -665,7 +723,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 233406,
       "name": "No Way Back Just Through",
       "url": "https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK"
@@ -852,6 +910,24 @@
     },
     {
       "album": {
+        "name": "Soldier Of Heaven",
+        "url": "https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Soldier of Heaven",
+      "url": "https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG"
+    },
+    {
+      "album": {
         "name": "Start The Healing",
         "url": "https://open.spotify.com/album/0u1tbNPEpP0a6it8o6KeOH"
       },
@@ -975,7 +1051,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 213255,
       "name": "Turning 23",
       "url": "https://open.spotify.com/track/7djUbBYcFHXuTf3psVNBnQ"
@@ -1072,6 +1148,24 @@
     },
     {
       "album": {
+        "name": "Where Angels Fear to Fly",
+        "url": "https://open.spotify.com/album/38t4KgvHehPZhi9X55tZ8O"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236326,
+      "name": "Where Angels Fear to Fly",
+      "url": "https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I"
+    },
+    {
+      "album": {
         "name": "Radical",
         "url": "https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO"
       },
@@ -1105,6 +1199,24 @@
       "duration_ms": 271025,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
+    },
+    {
+      "album": {
+        "name": "Zombified",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "Zombified",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv"

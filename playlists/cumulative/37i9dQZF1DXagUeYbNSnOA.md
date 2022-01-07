@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXagUeYbNSnOA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXagUeYbNSnOA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXagUeYbNSnOA)
 
-### [Fresh Finds Latin](https://open.spotify.com/playlist/5ZY0PW884IrmtUbFQ3mqP3)
+### [Fresh Finds Latin](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Cover: ODD MAMI
 

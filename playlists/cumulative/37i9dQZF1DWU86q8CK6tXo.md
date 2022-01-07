@@ -2,7 +2,7 @@
 
 ### [EQUAL US](https://open.spotify.com/playlist/1mPo8vNycnaROyFxw5QfNv)
 
-> Listen to female\-identifying only R&B grooves alongside <a href="spotify:artist:0PpiNNCSKFjchmyHuCe0Pj">Nnena's</a> personal picks Cover: Nnena
+> Listen to female\-identifying only grooves alongside <a href="spotify:artist:0PpiNNCSKFjchmyHuCe0Pj">Nnena's</a> personal picks Cover: Nnena
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Stupid Boy \(feat\. Big Freedia\)](https://open.spotify.com/track/56P7blUafQK9P8LKda9Y6P) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Stupid Boy \(feat\. Big Freedia\)](https://open.spotify.com/album/759tt2Z0PhIjKDEmbEVswM) | 3:52 | 2021-11-16 | 2022-01-06 |
 | [SUPERFINE](https://open.spotify.com/track/7BBdodDRaP6waS34503kCd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 4:22 | 2022-01-05 |  |
 | [telly](https://open.spotify.com/track/0k6LRpP1C0XH7kOBEoiKtH) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 2:14 | 2022-01-05 |  |
+| [The Good](https://open.spotify.com/track/7sPW54QvTCMlWQEB0tyhJ3) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [Ch\. 1 Vs\. 1](https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De) | 3:29 | 2022-01-06 |  |
 | [There She Goes Again](https://open.spotify.com/track/6sh6642AV8sSVc0SeQ9HEh) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [There She Goes Again](https://open.spotify.com/album/02mp1bdUCmzcHfH4lHFaf0) | 3:28 | 2021-12-01 | 2022-01-06 |
 | [Thriving](https://open.spotify.com/track/05iLS2VOLss6mnHYDV0Lfd) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lady Jesus](https://open.spotify.com/album/3INiPPjvwK4RGIV4Qed2Qu) | 2:15 | 2021-12-01 | 2022-01-06 |
 | [TOO LITTLE TOO LATE](https://open.spotify.com/track/0MwSfAZoYz6xNDwsRovPkr) | [LUNA AURA](https://open.spotify.com/artist/18UrIT17pqz5fG7J85iwSh) | [TOO LITTLE TOO LATE](https://open.spotify.com/album/2sDEfTzMHcVjVnB9RGXMUw) | 2:30 | 2021-12-01 | 2022-01-06 |
@@ -98,7 +99,7 @@
 | [Unfair](https://open.spotify.com/track/7880kQRPye3cc9ZExlssbn) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Unfair](https://open.spotify.com/album/30P7uijkdF3ldKDKMGV4Gf) | 3:29 | 2022-01-05 |  |
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-12-01 | 2022-01-06 |
 | [Weirdo](https://open.spotify.com/track/0wJyNSjuL5KU2HHjwwH1Kb) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Outside Voices](https://open.spotify.com/album/5tqZLKfkECxhy2LJKoviuD) | 3:45 | 2021-12-01 | 2022-01-06 |
-| [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2022-01-05 |  |
+| [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2022-01-05 | 2022-01-07 |
 | [what it means to be a girl](https://open.spotify.com/track/6H6M3RdPVYAURu9oCimO2z) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [what it means to be a girl / this is how i learn to say no](https://open.spotify.com/album/5Ty9rTy9cD0NEJVJsDRTiA) | 2:48 | 2022-01-05 |  |
 | [What You Deserve](https://open.spotify.com/track/1y5G5QFWuUmEF7O2CSck9v) | [Femme It Forward](https://open.spotify.com/artist/3rw1MKkbLTZw46AqC7gRpH), [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [Big Femme Energy Volume 1](https://open.spotify.com/album/7mRnNfdDMiu6xuLNzXgcHB) | 2:55 | 2022-01-05 |  |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 | 2022-01-05 |  |

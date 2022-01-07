@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdLqwKCcDiy.md) - [plain]
 
 > Relive the year in roots, with some of the best songs in folk & Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,210 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,209 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

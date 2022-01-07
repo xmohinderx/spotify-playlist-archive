@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 183931,
       "name": "A.M. 180",
       "url": "https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 187404,
       "name": "Dreaming",
       "url": "https://open.spotify.com/track/2c5y2QB5qY6S84MoJTJYzE"
@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 234996,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/05WChnnXDHLtXKpjyCFBeB"
@@ -489,7 +489,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 249152,
       "name": "Every Teardrop Is a Waterfall",
       "url": "https://open.spotify.com/track/5m0YCRCIg3FYjGgA8gGKXv"
@@ -587,10 +587,28 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 181598,
       "name": "Forget Me Too",
       "url": "https://open.spotify.com/track/6E9Q1nAdi7S0LrogwfpKdZ"
+    },
+    {
+      "album": {
+        "name": "Russian Spider Dump",
+        "url": "https://open.spotify.com/album/72wRkTRG1BRTcp8HfhkwRg"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119318,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/6rGOLNFHb6dUDOM6cf0VlV"
     },
     {
       "album": {
@@ -681,7 +699,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 205127,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6alKqAc4Pcutwk0Lo9xVBu"
@@ -699,7 +717,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 173601,
       "name": "Good As Hell",
       "url": "https://open.spotify.com/track/6Pyqwi4DuNmOi6zUg7QypL"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 213293,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2Qh8OIdZRutBo4lbipZvoY"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3Hq5MiNfNTk2YNSVN2onBp"
@@ -1341,7 +1359,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 175067,
       "name": "Positions",
       "url": "https://open.spotify.com/track/00FqpBjGsgoXcJg438ARjj"
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 211279,
       "name": "Reality Is a Ride on the Bus",
       "url": "https://open.spotify.com/track/325dEBL9MWkSl4xymaTckx"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/7EIbw4i6zFYA2kuDYWgRly"
@@ -1471,7 +1489,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 71214,
       "name": "Say Anything - Skate-Aid Charity",
       "url": "https://open.spotify.com/track/2M5me6foO4D3AiIrGuzXoC"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 337946,
       "name": "Shape of my Heart",
       "url": "https://open.spotify.com/track/2TCJJKuEV1VkVi5D5Y3RKK"
@@ -1651,7 +1669,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 165857,
       "name": "Substitute",
       "url": "https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 187750,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/5Ve2oJUFYFpqkYiOB9LODB"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 196000,
       "name": "Wake Me Up When September Ends",
       "url": "https://open.spotify.com/track/32fMYulgmRX6IxScMwQsdW"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 123900,
       "name": "We Are 138",
       "url": "https://open.spotify.com/track/0tT3nwP43bKnhIfK6aVIoA"
@@ -2113,7 +2131,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 285506,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/41kUupAzNt7hy1BEbPkp0P"
@@ -2265,7 +2283,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 180645,
       "name": "You Know What They Do to Guys Like Us in Prison?",
       "url": "https://open.spotify.com/track/5uMzJjtKDfjdlLFk1o3LJA"
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-07",
       "duration_ms": 149893,
       "name": "You're Dead / Vampire Ska",
       "url": "https://open.spotify.com/track/71ikNNbcGUjcid5nD5Q2rZ"
