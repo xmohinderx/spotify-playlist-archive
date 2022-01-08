@@ -1104,6 +1104,28 @@
     },
     {
       "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214648,
+      "name": "Promised Land (Collab New) (with Sheryl Crow)",
+      "url": "https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf"
+    },
+    {
+      "album": {
         "name": "Michael Ray",
         "url": "https://open.spotify.com/album/1JBo2GmY1NskygCzWzGqHF"
       },

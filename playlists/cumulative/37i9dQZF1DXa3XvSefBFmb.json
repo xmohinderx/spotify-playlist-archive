@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 233305,
       "name": "Amor Perfeito",
       "url": "https://open.spotify.com/track/6OWKb8rZP1pxKkMniNISsR"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 195282,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/2vU6EKyNKLYj0ezkT9lJ8W"
@@ -874,6 +874,24 @@
     },
     {
       "album": {
+        "name": "Quero \u00c9 Viver",
+        "url": "https://open.spotify.com/album/3LjJhK8mF3PH3jcP7Q0nXe"
+      },
+      "artists": [
+        {
+          "name": "Sara Correia",
+          "url": "https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "Quero \u00c9 Viver",
+      "url": "https://open.spotify.com/track/3fhhJeMqw7uVlIx97MxHAM"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/0JnJVKXJymYcCwleK7zgxV"
       },
@@ -1059,6 +1077,24 @@
       "duration_ms": 191447,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2M9zd4HpNIQbQCN0r65lZW"
+    },
+    {
+      "album": {
+        "name": "tanto faz",
+        "url": "https://open.spotify.com/album/7Bvd1ydKZc5wkbnU50ZZNI"
+      },
+      "artists": [
+        {
+          "name": "MARIANA",
+          "url": "https://open.spotify.com/artist/3DchlZTozYrn0EwFiUhNgr"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "tanto faz",
+      "url": "https://open.spotify.com/track/62IYV4jfpoMSzlTjNnRNqD"
     },
     {
       "album": {

@@ -623,7 +623,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 288960,
       "name": "Cinematic",
       "url": "https://open.spotify.com/track/47ywdBjVysnPv8ag3P5Ojt"
@@ -1350,6 +1350,32 @@
     },
     {
       "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3O0vQgXbfj9krf3mh5cope"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/71ubEHUyawsJZ6wJPPLEtL"
+    },
+    {
+      "album": {
         "name": "Get Down Saturday Night",
         "url": "https://open.spotify.com/album/6U20fA3e0M2bW85LTdgcW6"
       },
@@ -1805,7 +1831,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 168000,
       "name": "How to Love",
       "url": "https://open.spotify.com/track/48tx5sEtRjT7MRL9XTZLVf"
@@ -4581,6 +4607,28 @@
       "duration_ms": 320000,
       "name": "Those Days",
       "url": "https://open.spotify.com/track/2CylUcZGI81nhek3kJQkJ3"
+    },
+    {
+      "album": {
+        "name": "Tigers & Celines",
+        "url": "https://open.spotify.com/album/2HPCiMEPzuqMQeyTvcjLoy"
+      },
+      "artists": [
+        {
+          "name": "LissA",
+          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
+        },
+        {
+          "name": "nowifi",
+          "url": "https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Tigers & Celines",
+      "url": "https://open.spotify.com/track/2UTROxDu41AUDa9gNo94l8"
     },
     {
       "album": {

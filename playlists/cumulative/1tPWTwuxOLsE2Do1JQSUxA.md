@@ -2,7 +2,7 @@
 
 ### [2010s Hits](https://open.spotify.com/playlist/264HfkxDeFmtHLZxn2MnGv)
 
-> See in new year's eve with the biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more.
+> The biggest 2010s throwback anthems of the decade from Beyoncé, Alicia Keys, John Legend and many more.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

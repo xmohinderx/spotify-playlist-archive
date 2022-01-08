@@ -1000,6 +1000,24 @@
     },
     {
       "album": {
+        "name": "Gone Crazy",
+        "url": "https://open.spotify.com/album/0GU0DY6qSQzcSndJdRvsAk"
+      },
+      "artists": [
+        {
+          "name": "Jay R Neutron",
+          "url": "https://open.spotify.com/artist/5vU33oQSK9YGIF60NySECr"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178177,
+      "name": "Gone Crazy",
+      "url": "https://open.spotify.com/track/0nFWkJE6AnANyYuLOfJGqb"
+    },
+    {
+      "album": {
         "name": "Soul on Ice EP PT1",
         "url": "https://open.spotify.com/album/0EyIginK61lxZJEkODvC9w"
       },

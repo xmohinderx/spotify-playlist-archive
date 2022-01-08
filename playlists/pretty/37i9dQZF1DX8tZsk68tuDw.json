@@ -1,33 +1,13 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with Joshwa.",
+  "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with J. Worra",
   "name": "Dance Rising",
-  "num_followers": 1962619,
+  "num_followers": 1962707,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDNjNzAwMDAwMTdlMGVkYmU5MjYwMDAwMDE3ZDkxNTRmOGRj",
+  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDNjODAwMDAwMTdlMzJlOTU3NTkwMDAwMDE3ZTMwYTk1Yjg0",
   "tracks": [
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Off Limits",
-        "url": "https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        },
-        {
-          "name": "Martin Badder",
-          "url": "https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8"
-        }
-      ],
-      "duration_ms": 157968,
-      "name": "Off Limits",
-      "url": "https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77"
-    },
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
@@ -49,60 +29,80 @@
       "url": "https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2021-12-17 05:00:00",
       "album": {
-        "name": "All Over U",
-        "url": "https://open.spotify.com/album/02D8opkfiKNVET7BVsMFCV"
+        "name": "You Should Already Know",
+        "url": "https://open.spotify.com/album/3j3wrTkB29l68Ebi2bDfTy"
       },
       "artists": [
         {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
         }
       ],
-      "duration_ms": 188882,
-      "name": "All Over U",
-      "url": "https://open.spotify.com/track/0IVi2eh3bjsKAX4orriJsi"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "On My Mind (with JC Stewart)",
-        "url": "https://open.spotify.com/album/2n2AO8yhagI3Rj3hwvfnIC"
-      },
-      "artists": [
-        {
-          "name": "Jonasu",
-          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
-        },
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 179068,
-      "name": "On My Mind (with JC Stewart)",
-      "url": "https://open.spotify.com/track/3MVrUfY3fYjR1kIK1wvbHN"
+      "duration_ms": 193333,
+      "name": "You Should Already Know",
+      "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
     },
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx"
+        "name": "ISOLAT003",
+        "url": "https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Meg Myers",
-          "url": "https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 385436,
-      "name": "Running (feat. Meg Myers) [Extended Mix]",
-      "url": "https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo"
+      "duration_ms": 223384,
+      "name": "Soul System",
+      "url": "https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Gassed Up",
+        "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 238285,
+      "name": "Gassed Up",
+      "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Down Under (feat. Colin Hay)",
+        "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Colin Hay",
+          "url": "https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Down Under (feat. Colin Hay)",
+      "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -129,52 +129,148 @@
       "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
+      "added_at": "2021-12-10 05:01:00",
       "album": {
-        "name": "You Should Already Know",
-        "url": "https://open.spotify.com/album/3j3wrTkB29l68Ebi2bDfTy"
+        "name": "Coming Home (feat. Anabel Englund)",
+        "url": "https://open.spotify.com/album/3uOhFuyYOALAPA8Phtpqkw"
       },
       "artists": [
         {
-          "name": "Croatia Squad",
-          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
         }
       ],
-      "duration_ms": 193333,
-      "name": "You Should Already Know",
-      "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
+      "duration_ms": 196440,
+      "name": "Coming Home (feat. Anabel Englund)",
+      "url": "https://open.spotify.com/track/6V59f06aj9W103sjzIwIGE"
     },
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Isolator",
-        "url": "https://open.spotify.com/album/0RPjh1hbGALd6XhUa8E4NA"
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+        },
+        {
+          "name": "OMEM",
+          "url": "https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Isolator",
-      "url": "https://open.spotify.com/track/1gsE1eNiDb5CghKgbMgWJx"
+      "duration_ms": 174677,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "ISOLAT003",
-        "url": "https://open.spotify.com/album/1dQUrrp5pAkTvCcfzY2Mvh"
+        "name": "Really Really Hot",
+        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
       "artists": [
         {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+          "name": "Eddy M",
+          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
         }
       ],
-      "duration_ms": 223384,
-      "name": "Soul System",
-      "url": "https://open.spotify.com/track/5LBALrbr55bXfJNb8dsWb1"
+      "duration_ms": 232133,
+      "name": "Really Really Hot",
+      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "On My Mind (with JC Stewart)",
+        "url": "https://open.spotify.com/album/2n2AO8yhagI3Rj3hwvfnIC"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 179068,
+      "name": "On My Mind (with JC Stewart)",
+      "url": "https://open.spotify.com/track/3MVrUfY3fYjR1kIK1wvbHN"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Tricky (feat. Autumn Rowe)",
+        "url": "https://open.spotify.com/album/4AeKrfj4BNOyu4SvIjrdb3"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Autumn Rowe",
+          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Tricky (feat. Autumn Rowe)",
+      "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "Off Limits",
+        "url": "https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Martin Badder",
+          "url": "https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8"
+        }
+      ],
+      "duration_ms": 157968,
+      "name": "Off Limits",
+      "url": "https://open.spotify.com/track/4rbprhajs0YAoGNKefuS77"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -251,6 +347,22 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
+        "name": "Isolator",
+        "url": "https://open.spotify.com/album/0RPjh1hbGALd6XhUa8E4NA"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 243809,
+      "name": "Isolator",
+      "url": "https://open.spotify.com/track/1gsE1eNiDb5CghKgbMgWJx"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT"
       },
@@ -263,6 +375,38 @@
       "duration_ms": 249984,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "All Over U",
+        "url": "https://open.spotify.com/album/02D8opkfiKNVET7BVsMFCV"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        }
+      ],
+      "duration_ms": 188882,
+      "name": "All Over U",
+      "url": "https://open.spotify.com/track/0IVi2eh3bjsKAX4orriJsi"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Pressurized",
+        "url": "https://open.spotify.com/album/1PiYQn2LWd1S5EFZhCNqOe"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Pressurized",
+      "url": "https://open.spotify.com/track/1SmlpzSJLpt3puZ9Zv3zTo"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -313,10 +457,30 @@
       "url": "https://open.spotify.com/track/5TaVGEfQ9jzxE4Itai3hLW"
     },
     {
-      "added_at": "2021-12-03 05:01:00",
+      "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Friday",
-        "url": "https://open.spotify.com/album/4ZW6WBOX3bmgCZUwXAtTLB"
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "WATTS",
+          "url": "https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Dance Tonight",
+        "url": "https://open.spotify.com/album/18gPaM10W8ih7qQp4mhdxV"
       },
       "artists": [
         {
@@ -324,17 +488,37 @@
           "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Blinkie",
-          "url": "https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
         },
         {
-          "name": "Bright Sparks",
-          "url": "https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz"
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
         }
       ],
-      "duration_ms": 146983,
-      "name": "Friday",
-      "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
+      "duration_ms": 177000,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/1dN8YYO1s6an0mb3MIWrox"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "God Is a DJ",
+        "url": "https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "God is A DJ",
+      "url": "https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -359,46 +543,6 @@
       "duration_ms": 175309,
       "name": "edamame (feat. Rich Brian) - Diplo Remix",
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Really Really Hot",
-        "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
-      },
-      "artists": [
-        {
-          "name": "Eddy M",
-          "url": "https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Really Really Hot",
-      "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Coming Home (feat. Anabel Englund)",
-        "url": "https://open.spotify.com/album/3uOhFuyYOALAPA8Phtpqkw"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Leftwing : Kody",
-          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
-        },
-        {
-          "name": "Anabel Englund",
-          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Coming Home (feat. Anabel Englund)",
-      "url": "https://open.spotify.com/track/6V59f06aj9W103sjzIwIGE"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -445,26 +589,6 @@
       "url": "https://open.spotify.com/track/5TD67ukVHXuP8Cxp4MxhYb"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "God Is a DJ",
-        "url": "https://open.spotify.com/album/5hoygc74uvTK3cNAK7DAkE"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "God is A DJ",
-      "url": "https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Searching",
@@ -499,38 +623,6 @@
       "duration_ms": 163945,
       "name": "Still Dancing",
       "url": "https://open.spotify.com/track/5dz5wG17HqqvUtDyvRymye"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Welcome To The People",
-        "url": "https://open.spotify.com/album/7HZzmPZE3gKxhzVaIJ11KF"
-      },
-      "artists": [
-        {
-          "name": "Jaded",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
-        }
-      ],
-      "duration_ms": 160669,
-      "name": "Welcome To The People",
-      "url": "https://open.spotify.com/track/4O3APpGNhOldqDsPF8IaS5"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -569,6 +661,26 @@
       "url": "https://open.spotify.com/track/199FzFzuEyAyqBE9caL3l6"
     },
     {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "TALKIN",
+        "url": "https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V"
+      },
+      "artists": [
+        {
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
+        },
+        {
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
+        }
+      ],
+      "duration_ms": 230078,
+      "name": "TALKIN",
+      "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
+    },
+    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "All I Do",
@@ -599,30 +711,6 @@
       "duration_ms": 182880,
       "name": "Stimulate",
       "url": "https://open.spotify.com/track/6GKyjW8BA1BUMX1BwUyabt"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb"
-      },
-      "artists": [
-        {
-          "name": "HoneyLuv",
-          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
-        },
-        {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
-        },
-        {
-          "name": "OMEM",
-          "url": "https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN"
-        }
-      ],
-      "duration_ms": 174677,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -665,6 +753,22 @@
       "url": "https://open.spotify.com/track/3XXcVXZ2KEWd9JBChFz5fb"
     },
     {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Desperados",
+        "url": "https://open.spotify.com/album/2K41k37NSarKQrpqj6LKeJ"
+      },
+      "artists": [
+        {
+          "name": "Max Kaluza",
+          "url": "https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi"
+        }
+      ],
+      "duration_ms": 244047,
+      "name": "Desperados",
+      "url": "https://open.spotify.com/track/6v7wy05Si42wz9cUXAHnzP"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Breathe Me In",
@@ -699,30 +803,6 @@
       "duration_ms": 286186,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
-    },
-    {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Inner Light (Barry Can\u2019t Swim Remix)",
-        "url": "https://open.spotify.com/album/13PAZ1oGOAKdd6nEQB7PD9"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        },
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 244525,
-      "name": "Inner Light - Barry Can\u2019t Swim Remix",
-      "url": "https://open.spotify.com/track/0luVePRe2Z1wnYxULh5LGh"
     },
     {
       "added_at": "2021-12-10 05:01:00",
@@ -1047,26 +1127,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Jack Machine",
-        "url": "https://open.spotify.com/album/3kVnyuakYWhlGwZHrmIBn3"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 187086,
-      "name": "Jack Machine",
-      "url": "https://open.spotify.com/track/1239Sq2SqVR55dY3jrDMQx"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
@@ -1117,6 +1177,38 @@
       "url": "https://open.spotify.com/track/57VQj52iiux5K70g9DJD8F"
     },
     {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Feelwitchu",
+        "url": "https://open.spotify.com/album/1nVbkkqBv9jD0C7eEG5eDf"
+      },
+      "artists": [
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "Feelwitchu",
+      "url": "https://open.spotify.com/track/4bLjPoP25YBKGei1CfBgE2"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Wishing You Well",
+        "url": "https://open.spotify.com/album/55ntFfC45EacYBLio8pIn0"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Wishing You Well",
+      "url": "https://open.spotify.com/track/3AMuesulUPLaZQWYS8AC2C"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Better Off Alone",
@@ -1155,22 +1247,6 @@
       "duration_ms": 193294,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Watch That Tongue",
-        "url": "https://open.spotify.com/album/3CQWlc3iNFGxUb2kXP7mwe"
-      },
-      "artists": [
-        {
-          "name": "Cloverdale",
-          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
-        }
-      ],
-      "duration_ms": 235476,
-      "name": "Watch That Tongue",
-      "url": "https://open.spotify.com/track/6o2XzOSxZTZwup8tqX0PXW"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1291,30 +1367,6 @@
       "duration_ms": 239843,
       "name": "Want U",
       "url": "https://open.spotify.com/track/5CS9dAVLZ3EVFtw84mI1Bo"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Only Love (LP Giobbi Remix)",
-        "url": "https://open.spotify.com/album/45T3b0b3GdAGrg0AKVCUFB"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        },
-        {
-          "name": "Benjamin Gibbard",
-          "url": "https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 351500,
-      "name": "Only Love (LP Giobbi Remix)",
-      "url": "https://open.spotify.com/track/2cXbrpn30LnJyjO0BaO6rs"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1571,22 +1623,6 @@
       "duration_ms": 228021,
       "name": "Siento Mi Destino",
       "url": "https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "Iron",
-        "url": "https://open.spotify.com/album/0T3nvlxrpgewPFhQqnvJaD"
-      },
-      "artists": [
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Iron",
-      "url": "https://open.spotify.com/track/2oVI4RJpbUIHU61q6Gf4pw"
     },
     {
       "added_at": "2021-12-03 05:01:00",

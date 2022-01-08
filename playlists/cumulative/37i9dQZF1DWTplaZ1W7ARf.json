@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Neighborhood Storytellers. Cover: Rod Wave",
+  "description": "Neighborhood Storytellers. Cover: Lil Durk",
   "name": "Street Soul",
   "published_playlist_ids": [
     "5n5KtY8h4kAoEatkpfvbQd"
@@ -93,6 +93,24 @@
       "duration_ms": 253121,
       "name": "Angels Never Cry (feat. MoneyBagg Yo & Kodak Black)",
       "url": "https://open.spotify.com/track/1NGEkrPq8SaBWXSx3Re839"
+    },
+    {
+      "album": {
+        "name": "Buzz",
+        "url": "https://open.spotify.com/album/4PG7NHDf5vmrTtkUXkqJrh"
+      },
+      "artists": [
+        {
+          "name": "Lil PJ",
+          "url": "https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196292,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/0V3mdaIPmadVbYujq3nfSd"
     },
     {
       "album": {
@@ -834,6 +852,28 @@
     },
     {
       "album": {
+        "name": "Sing For Real",
+        "url": "https://open.spotify.com/album/5dpIM6j42GJiZctZmHcZ8T"
+      },
+      "artists": [
+        {
+          "name": "True Story Gee",
+          "url": "https://open.spotify.com/artist/6fMLt27jSiBVuciQOYZGwm"
+        },
+        {
+          "name": "Majornine",
+          "url": "https://open.spotify.com/artist/2Hkr2U742ustoFcSW378ZE"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205432,
+      "name": "Sing For Real",
+      "url": "https://open.spotify.com/track/5ezqQbvb0Pj1yVbVJWBLyn"
+    },
+    {
+      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/1wCT2MKHKzJ1ODjvoYR4Mn"
       },
@@ -943,7 +983,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 198342,
       "name": "Time Spent",
       "url": "https://open.spotify.com/track/3y4gYGiMFRssbyqbTNWbpZ"
@@ -1057,7 +1097,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 210989,
       "name": "We Slide (feat. Young Thug)",
       "url": "https://open.spotify.com/track/43JY1IBWONa8J8FqlbNOZ1"

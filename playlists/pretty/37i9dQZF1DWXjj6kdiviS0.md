@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,283 likes - 37 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,377 likes - 38 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,6 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 34 | [Sonata D major](https://open.spotify.com/track/48QIVLW6MoDjMhAUzFnZci) | [Georg Muffat](https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR), [John Holloway](https://open.spotify.com/artist/6pOkgFusj8zIOfRZemKGah), [Aloysia Assenbaum\-Holloway](https://open.spotify.com/artist/3bcKG66EQaA6mwJ07JBkOL), [Lars Ulrik Mortensen](https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5) | [Biber, Muffat: Der Türken Anmarsch](https://open.spotify.com/album/3MfMhVmLlETisNDGhYOHlM) | 12:52 |
 | 35 | [Water Music, Suite No\. 2, HWV 349: Water Music, Suite No\. 2, HWV 349: XII\. \[Alla Hornpipe\]](https://open.spotify.com/track/6x1xxlk6Dw1IdzvrzsL7B3) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Akademie für Alte Musik Berlin](https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ) | [Handel: Water Music](https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3) | 3:43 |
 | 36 | [Air on a G String](https://open.spotify.com/track/0mD1a7haZKdX9I0oPywrMb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 4:49 |
-| 37 | [Largo from Xerxes](https://open.spotify.com/track/5FNxBADhe8SM9Aejtw1AfR) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Handel: Greatest Hits](https://open.spotify.com/album/1riYSn3MpBFWUF8b7adRvO) | 5:50 |
+| 37 | [Sonata III: V\. Rondeau](https://open.spotify.com/track/2dhVYaegGwyXb03FOAK3ZN) | [Georg Muffat](https://open.spotify.com/artist/2qOmGTOq3DzslJlvx77kMR), [Lars Ulrik Mortensen](https://open.spotify.com/artist/60V1cu478C4wll4ctBKkY5), [Concerto Copenhagen](https://open.spotify.com/artist/3bAYWBSC170iRoa7KEJu5p) | [Muffat: Rondeau from Sonata III \(Armonico Tributo\)](https://open.spotify.com/album/7nhWxqqvlqwCJBd4wCRFd8) | 1:17 |
+| 38 | [Largo from Xerxes](https://open.spotify.com/track/5FNxBADhe8SM9Aejtw1AfR) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Handel: Greatest Hits](https://open.spotify.com/album/1riYSn3MpBFWUF8b7adRvO) | 5:50 |
 
-Snapshot ID: `MTY0MTM3NjYwMywwMDAwMDAyMDAwMDAwMTdlMjlhYjViZjAwMDAwMDE3YTE0ZmMyOTZj`
+Snapshot ID: `MTY0MTUyODAwMCwwMDAwMDAyMTAwMDAwMTdlMzJiMTdlNzkwMDAwMDE3YTE0ZmMyOTZj`

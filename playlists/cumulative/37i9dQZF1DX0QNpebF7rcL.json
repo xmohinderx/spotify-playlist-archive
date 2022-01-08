@@ -942,6 +942,28 @@
     },
     {
       "album": {
+        "name": "Lonely Avenue",
+        "url": "https://open.spotify.com/album/5Od0yKVTCCqgVGRl3EDA0M"
+      },
+      "artists": [
+        {
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
+        },
+        {
+          "name": "Charlie Hunter",
+          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295946,
+      "name": "Lonely Avenue",
+      "url": "https://open.spotify.com/track/5jRgIkHMRIMlBs2lACAW3X"
+    },
+    {
+      "album": {
         "name": "Lucky Guy!",
         "url": "https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3"
       },

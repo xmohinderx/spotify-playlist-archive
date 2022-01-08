@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 203826,
       "name": "A Handful Of Stars",
       "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 349600,
       "name": "Angel Eyes - Studio",
       "url": "https://open.spotify.com/track/4d3XHYFFuYYzxWr2cJ6yQl"
@@ -503,7 +503,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 211840,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/1LQnx5pOrPcpUYJxpiDukK"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 434346,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6pdbqNexjUgQYk5w14Y1MG"
@@ -1186,6 +1186,24 @@
     },
     {
       "album": {
+        "name": "The Original Quartet With Chet Baker",
+        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
+    },
+    {
+      "album": {
         "name": "Best Of Gerry Mulligan & Chet Baker",
         "url": "https://open.spotify.com/album/6iupSn6UfS0YMw9XVTiXiC"
       },
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 698360,
       "name": "Sarah - Instrumental",
       "url": "https://open.spotify.com/track/1RbFkdnut0gI6iS40t529I"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 193133,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/6BavxfUuSOBIhMaEJ6rjNs"
@@ -2147,7 +2165,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 202400,
       "name": "Wow",
       "url": "https://open.spotify.com/track/29yGSQtgC3W9WAHm45S5Oc"

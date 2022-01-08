@@ -620,6 +620,24 @@
     },
     {
       "album": {
+        "name": "Larghetto",
+        "url": "https://open.spotify.com/album/03t88DnqTMUehsrndDhDf1"
+      },
+      "artists": [
+        {
+          "name": "Jan Wanninger",
+          "url": "https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185848,
+      "name": "Larghetto",
+      "url": "https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx"
+    },
+    {
+      "album": {
         "name": "Dyens: Guitar Music",
         "url": "https://open.spotify.com/album/6gNJf8Eb2dGtKWWkmjJdGq"
       },
@@ -1089,6 +1107,24 @@
       "duration_ms": 188813,
       "name": "Tree Circle",
       "url": "https://open.spotify.com/track/03CLghlf8FCjjjhvZg3OjC"
+    },
+    {
+      "album": {
+        "name": "Unsung Heroes",
+        "url": "https://open.spotify.com/album/7htqaGMhM1r263JYtSEgiQ"
+      },
+      "artists": [
+        {
+          "name": "Dawa Sherpa",
+          "url": "https://open.spotify.com/artist/16QnPlBSrFOGlH44k9L7nN"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149310,
+      "name": "Unsung Heroes",
+      "url": "https://open.spotify.com/track/79J4D5bHUepJ7MS7Tz3RH5"
     },
     {
       "album": {

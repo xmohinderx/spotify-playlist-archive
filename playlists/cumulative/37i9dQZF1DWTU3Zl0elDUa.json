@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 289826,
       "name": "Anthem - The Mafia Mix",
       "url": "https://open.spotify.com/track/2FGRiUB2H6umLZSBHHj35y"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 246091,
       "name": "Closer Than Close - Mentor UK Mix",
       "url": "https://open.spotify.com/track/3QXB6skc1Qjad5J5yPLlCJ"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 390560,
       "name": "Deep Inside",
       "url": "https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 226666,
       "name": "Doctorin' the House (feat. Yazz & The Plastic Population)",
       "url": "https://open.spotify.com/track/3w9fto7To0gKvUzYWxthP8"
@@ -259,7 +259,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 215226,
       "name": "Don't Stop Movin' - Radio Mix",
       "url": "https://open.spotify.com/track/5cIU5GZBbyMfgfXGcoQVYc"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 223535,
       "name": "Dreamer - Janice Robinson Vocal",
       "url": "https://open.spotify.com/track/6wetvpPWooBdmAEOKnDhpo"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 341986,
       "name": "Forever Together",
       "url": "https://open.spotify.com/track/6rGT97YcnLQnrDRsx3OgY6"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 369066,
       "name": "Free - Mood II Swing Remix",
       "url": "https://open.spotify.com/track/2FrCwt008k0xqtCFH1VaTZ"
@@ -534,6 +534,24 @@
     },
     {
       "album": {
+        "name": "My Feeling",
+        "url": "https://open.spotify.com/album/7p9RQMPqPj5LssdXAQ1v18"
+      },
+      "artists": [
+        {
+          "name": "Junior Jack",
+          "url": "https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292133,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/6bffIIXobbLTKnGyJZwCNL"
+    },
+    {
+      "album": {
         "name": "Original Soundtrack",
         "url": "https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc"
       },
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 368013,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/4vtjZsfq7ULBgSHmOxREMs"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 456911,
       "name": "I'll Be Your Friend - Original Mix (2011 Remastered Version)",
       "url": "https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 319986,
       "name": "I'm Gonna Get You",
       "url": "https://open.spotify.com/track/09CsnyDCKkeTYopxheyDcd"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 306231,
       "name": "Jack Your Body - 1986 Club Mix",
       "url": "https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 370733,
       "name": "Jealousy And Lies",
       "url": "https://open.spotify.com/track/5ReVGmd0h7E9fuVy9EZ9pR"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
@@ -801,7 +819,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 431760,
       "name": "Let's Get Brutal - Brutal House",
       "url": "https://open.spotify.com/track/5mOn7oJdEBmG43elhWGfXo"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 406826,
       "name": "London Xpress",
       "url": "https://open.spotify.com/track/7qE89I8Xw5WPykWtzPvqoD"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 516533,
       "name": "Love Come Down - Club Vocal Mix",
       "url": "https://open.spotify.com/track/3U6w4KTpZm7jhqmGJEzRW5"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 228960,
       "name": "My Feeling (Daddy'S Prime Time Edit)",
       "url": "https://open.spotify.com/track/3nUOnATHktg7VW5TtWeJnd"
@@ -1087,7 +1105,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 395609,
       "name": "Nothing Better - Tmvs Club Mix",
       "url": "https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2"
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 407213,
       "name": "Playing With Knives [Quadrant Mix}",
       "url": "https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh"
@@ -1213,7 +1231,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 519360,
       "name": "Positive Education",
       "url": "https://open.spotify.com/track/7Ges3Ph4dWhqmmTgSpJFNW"
@@ -1271,7 +1289,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 202640,
       "name": "Respectable",
       "url": "https://open.spotify.com/track/1q8yOvrVNiZtMuEujDuSPP"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 233666,
       "name": "Salsa House - Edit",
       "url": "https://open.spotify.com/track/0lYftlVimwk7bTZ1LzeBuV"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 302333,
       "name": "Sound Of Eden",
       "url": "https://open.spotify.com/track/06OpZKNfGIC0hHFIz03SCA"
@@ -1491,7 +1509,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 427566,
       "name": "The Hunter - Club Mix",
       "url": "https://open.spotify.com/track/4lZVJEAGRVWRkSmN7KKVi8"
@@ -1545,7 +1563,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 387835,
       "name": "The Shelter - Vocal",
       "url": "https://open.spotify.com/track/3QP0Ar3iRtS6GJMRcQryaf"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 792657,
       "name": "The Theme - Love from San Francisco Remix (2021 Remaster)",
       "url": "https://open.spotify.com/track/5gbdmN4VMSyZSh33lILpGw"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 210280,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/4cqMkEjIeYDlsbHS8KjbNi"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 486266,
       "name": "U Don't Know Me",
       "url": "https://open.spotify.com/track/4xKSVV3RjBs9vPyrHpuslU"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 484533,
       "name": "U Don't Know Me (feat. Duane Harden)",
       "url": "https://open.spotify.com/track/0TN9m8rp3ZuNi4JwCKSans"
@@ -1803,7 +1821,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 339146,
       "name": "Was That All It Was - Def Mix Edit 2",
       "url": "https://open.spotify.com/track/0dPA0IEjHKMKDlHTS4tY9g"

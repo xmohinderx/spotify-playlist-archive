@@ -924,6 +924,28 @@
     },
     {
       "album": {
+        "name": "Fallen (Jazzed)",
+        "url": "https://open.spotify.com/album/3LYATsYqAozUUuBbwn4D0l"
+      },
+      "artists": [
+        {
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
+        },
+        {
+          "name": "Julian & Roman Wasserfuhr",
+          "url": "https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Fallen - Jazzed",
+      "url": "https://open.spotify.com/track/2EPZnVX8kSv2L2CxEXhkDw"
+    },
+    {
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/2FwUA6eYCekmmkLvPK7Im7"
       },

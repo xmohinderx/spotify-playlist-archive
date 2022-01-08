@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
   "name": "EDM Top 100",
-  "num_followers": 48551,
+  "num_followers": 48552,
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA2MSxkNzFjNDBiMmExY2ViMDdlNzFhOWJmMGY0ZjBhMmIyZTJkMjVkYzkx",
+  "snapshot_id": "MTA2MiwxZTQ3NDU4ODU0ZDIxNWRmYjZkNGYzNzEzYzk4OWFmYjg5MGU3NjEy",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -677,6 +677,34 @@
       "url": "https://open.spotify.com/track/3lDax71SDuJGcFrCyw9qak"
     },
     {
+      "added_at": "2021-08-16 15:42:05",
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
       "added_at": "2021-11-08 15:41:02",
       "album": {
         "name": "Bad Trip (feat. \u00d8ZMA)",
@@ -701,22 +729,6 @@
       "url": "https://open.spotify.com/track/5cVy2DttzbtldeYPPmsUr6"
     },
     {
-      "added_at": "2021-07-14 08:40:04",
-      "album": {
-        "name": "This Is House",
-        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
-      },
-      "artists": [
-        {
-          "name": "Kriss Reeve",
-          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
-        }
-      ],
-      "duration_ms": 144796,
-      "name": "This Is House",
-      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
-    },
-    {
       "added_at": "2021-05-13 23:01:06",
       "album": {
         "name": "Start Over",
@@ -731,6 +743,22 @@
       "duration_ms": 162096,
       "name": "Start Over",
       "url": "https://open.spotify.com/track/23vD5mlKfFiHR4bZAvvWC3"
+    },
+    {
+      "added_at": "2021-07-14 08:40:04",
+      "album": {
+        "name": "This Is House",
+        "url": "https://open.spotify.com/album/3RzBM4bbF4eTZpeW45kHaQ"
+      },
+      "artists": [
+        {
+          "name": "Kriss Reeve",
+          "url": "https://open.spotify.com/artist/5oS267l8pGKqJmh9ZhCYGS"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "This Is House",
+      "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
       "added_at": "2021-12-01 15:42:03",
@@ -857,34 +885,6 @@
       "url": "https://open.spotify.com/track/6ZDGcLFDewEV6c9xOgpFGS"
     },
     {
-      "added_at": "2021-08-16 15:42:05",
-      "album": {
-        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162603,
-      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
-      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
       "added_at": "2021-05-20 23:01:05",
       "album": {
         "name": "Music Is My Suicide",
@@ -1001,6 +1001,26 @@
       "url": "https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf"
     },
     {
+      "added_at": "2021-12-23 15:42:02",
+      "album": {
+        "name": "Wicked Games",
+        "url": "https://open.spotify.com/album/3pDN7sji9XyM27Xtc7Z7qd"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "Anna Naklab",
+          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
+        }
+      ],
+      "duration_ms": 195210,
+      "name": "Wicked Games - Radio Edit",
+      "url": "https://open.spotify.com/track/5MN68joMsXEr6ss8gwHqCU"
+    },
+    {
       "added_at": "2022-01-01 15:41:02",
       "album": {
         "name": "Feeling Good (Joel Corry Remix)",
@@ -1061,26 +1081,6 @@
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
     },
     {
-      "added_at": "2021-11-24 15:41:02",
-      "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
       "added_at": "2021-06-10 23:01:05",
       "album": {
         "name": "Unforgettable",
@@ -1099,6 +1099,26 @@
       "duration_ms": 152245,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
+    },
+    {
+      "added_at": "2021-11-24 15:41:02",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2021-12-28 15:41:02",
@@ -1205,26 +1225,6 @@
       "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
     },
     {
-      "added_at": "2021-12-23 15:42:02",
-      "album": {
-        "name": "Wicked Games",
-        "url": "https://open.spotify.com/album/3pDN7sji9XyM27Xtc7Z7qd"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        },
-        {
-          "name": "Anna Naklab",
-          "url": "https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA"
-        }
-      ],
-      "duration_ms": 195210,
-      "name": "Wicked Games - Radio Edit",
-      "url": "https://open.spotify.com/track/5MN68joMsXEr6ss8gwHqCU"
-    },
-    {
       "added_at": "2021-12-16 15:46:02",
       "album": {
         "name": "Call Of The Unicorn",
@@ -1305,26 +1305,6 @@
       "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
     },
     {
-      "added_at": "2021-12-21 15:45:02",
-      "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "MOELLE",
-          "url": "https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V"
-    },
-    {
       "added_at": "2021-12-31 15:47:02",
       "album": {
         "name": "I Feel Good (R3HAB Remix)",
@@ -1351,6 +1331,26 @@
       "duration_ms": 156000,
       "name": "I Feel Good (R3HAB Remix)",
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
+    },
+    {
+      "added_at": "2021-12-21 15:45:02",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "MOELLE",
+          "url": "https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V"
     },
     {
       "added_at": "2021-12-22 15:41:02",
@@ -1429,26 +1429,6 @@
       "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
     },
     {
-      "added_at": "2021-11-08 15:41:02",
-      "album": {
-        "name": "The Motto",
-        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 164818,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
       "added_at": "2021-12-03 15:46:02",
       "album": {
         "name": "Lasting Lover",
@@ -1467,6 +1447,26 @@
       "duration_ms": 218358,
       "name": "Lasting Lover",
       "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2021-11-08 15:41:02",
+      "album": {
+        "name": "The Motto",
+        "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 164818,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
       "added_at": "2021-04-22 23:01:06",
@@ -1513,6 +1513,42 @@
       "url": "https://open.spotify.com/track/1YKp8PG1DEQJ0hLc2CJGO8"
     },
     {
+      "added_at": "2021-12-13 15:41:03",
+      "album": {
+        "name": "Pepas (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 280002,
+      "name": "Pepas - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
+    },
+    {
+      "added_at": "2021-03-05 23:01:05",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
+      },
+      "artists": [
+        {
+          "name": "Xan Castel",
+          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
+        }
+      ],
+      "duration_ms": 160586,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
+    },
+    {
       "added_at": "2021-12-22 15:41:02",
       "album": {
         "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
@@ -1543,42 +1579,6 @@
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
-    {
-      "added_at": "2021-03-05 23:01:05",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
-      },
-      "artists": [
-        {
-          "name": "Xan Castel",
-          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
-    },
-    {
-      "added_at": "2021-12-13 15:41:03",
-      "album": {
-        "name": "Pepas (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 280002,
-      "name": "Pepas - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
     },
     {
       "added_at": "2021-12-28 15:41:02",
@@ -1829,24 +1829,20 @@
       "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
     },
     {
-      "added_at": "2021-11-13 15:46:02",
+      "added_at": "2022-01-04 15:41:02",
       "album": {
-        "name": "A Drug From God",
-        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
+        "name": "Isolator",
+        "url": "https://open.spotify.com/album/0RPjh1hbGALd6XhUa8E4NA"
       },
       "artists": [
         {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "NPC",
-          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         }
       ],
-      "duration_ms": 192455,
-      "name": "A Drug From God",
-      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
+      "duration_ms": 243809,
+      "name": "Isolator",
+      "url": "https://open.spotify.com/track/1gsE1eNiDb5CghKgbMgWJx"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1869,20 +1865,24 @@
       "url": "https://open.spotify.com/track/0FHKZ1sDMl3p51DP4jjwm6"
     },
     {
-      "added_at": "2022-01-04 15:41:02",
+      "added_at": "2021-11-13 15:46:02",
       "album": {
-        "name": "Isolator",
-        "url": "https://open.spotify.com/album/0RPjh1hbGALd6XhUa8E4NA"
+        "name": "A Drug From God",
+        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
       },
       "artists": [
         {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
         }
       ],
-      "duration_ms": 243809,
-      "name": "Isolator",
-      "url": "https://open.spotify.com/track/1gsE1eNiDb5CghKgbMgWJx"
+      "duration_ms": 192455,
+      "name": "A Drug From God",
+      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
     },
     {
       "added_at": "2022-01-04 15:41:02",

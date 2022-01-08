@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 421481,
       "name": "All\u00e9enoire - Rauschhaus Remix",
       "url": "https://open.spotify.com/track/3FRXRr2NcDjsRgze79RjBg"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 183226,
       "name": "Always Afternoon",
       "url": "https://open.spotify.com/track/6GMaQmdpwGolGyuW6ZJ9X9"
@@ -2587,7 +2587,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 271487,
       "name": "Breathe - CamelPhat Just Chill Mix",
       "url": "https://open.spotify.com/track/6omsLkEQDeDHtILgj3Vkmn"
@@ -2791,7 +2791,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 370779,
       "name": "Brotherhood",
       "url": "https://open.spotify.com/track/035qofHWoDag0pg1e8gY73"
@@ -3195,7 +3195,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 240083,
       "name": "Chateau - Holmsey Remix",
       "url": "https://open.spotify.com/track/1J2IGKsTJZDRy1MO3DJPsG"
@@ -4731,7 +4731,7 @@
       ],
       "date_added": "2020-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 247000,
       "name": "don't forget to breathe today",
       "url": "https://open.spotify.com/track/1mjWyzZeXGkxyVoc81sRWP"
@@ -5504,6 +5504,24 @@
     },
     {
       "album": {
+        "name": "Entangled",
+        "url": "https://open.spotify.com/album/486tS5n7xwZb4NpnT2tEqp"
+      },
+      "artists": [
+        {
+          "name": "Klur",
+          "url": "https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207052,
+      "name": "Entangled",
+      "url": "https://open.spotify.com/track/2OISrK95L88giQdFHurbfY"
+    },
+    {
+      "album": {
         "name": "eons away",
         "url": "https://open.spotify.com/album/6dVltlMV1WFe0BcU9m8ZnE"
       },
@@ -5755,7 +5773,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 256874,
       "name": "Explorers (Instrumental)",
       "url": "https://open.spotify.com/track/3pCXg1LVxAQVPFKQrMJ66W"
@@ -6293,7 +6311,7 @@
       ],
       "date_added": "2020-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 310133,
       "name": "Feel Your Weight - Poolside Remix",
       "url": "https://open.spotify.com/track/5heenx8v6qCOumRI9jpRBS"
@@ -9133,7 +9151,7 @@
       ],
       "date_added": "2020-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 324530,
       "name": "I Need Space",
       "url": "https://open.spotify.com/track/2y6krW4iylDWiKVxTzUJcE"
@@ -11577,7 +11595,7 @@
       ],
       "date_added": "2020-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 332156,
       "name": "Lotion Motion",
       "url": "https://open.spotify.com/track/33rZdJwtVLRrsRJDdakMHy"
@@ -12075,7 +12093,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 251428,
       "name": "Maker",
       "url": "https://open.spotify.com/track/6w32mXhIaosDV03bo216QI"
@@ -12111,7 +12129,7 @@
       ],
       "date_added": "2020-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 212054,
       "name": "Mana",
       "url": "https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v"
@@ -12561,7 +12579,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 236000,
       "name": "Mistaken (feat. Alex Aris) - DRAMA Remix",
       "url": "https://open.spotify.com/track/5OWrngLj7uTcicHivhY7jA"
@@ -14911,7 +14929,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 255030,
       "name": "Palms",
       "url": "https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG"
@@ -15947,7 +15965,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 187439,
       "name": "Riverwards Stream",
       "url": "https://open.spotify.com/track/4HunXDbm6cFDmsH3pFOg7h"
@@ -16475,7 +16493,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 210000,
       "name": "Say The Word",
       "url": "https://open.spotify.com/track/1CPfcxZSA4scOgRq8hVBW4"
@@ -19711,7 +19729,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 190528,
       "name": "Time Capsule",
       "url": "https://open.spotify.com/track/02ht7aTttJ0zbbHQh6jKlL"
@@ -20051,7 +20069,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 273640,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3B8Tx2eKzZ1u6bPnozOL1h"
@@ -20639,7 +20657,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4x9nVGF0fDaffc1LkBmgNP"

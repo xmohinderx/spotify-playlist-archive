@@ -980,6 +980,28 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/2slGdJqZbiCstg2fNNbNtC"
+      },
+      "artists": [
+        {
+          "name": "DJ AK",
+          "url": "https://open.spotify.com/artist/1rnovQohVJH2iw8vJn0BTt"
+        },
+        {
+          "name": "Sally Green",
+          "url": "https://open.spotify.com/artist/5BHrTlWKFtM97PTs1Avpqs"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246504,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/1sDuoXz1FxkzA9o6IHJLK8"
+    },
+    {
+      "album": {
         "name": "Highly Compatible",
         "url": "https://open.spotify.com/album/2JD2i0URkUYRzaO1zMVKAK"
       },
@@ -1741,6 +1763,24 @@
       "duration_ms": 257291,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2m0fbba1YFzmXebHImHaNy"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
       "album": {

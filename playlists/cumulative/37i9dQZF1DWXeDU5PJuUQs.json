@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "En Vivo En La Quinta Vergara",
+        "url": "https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224806,
+      "name": "Ahora Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs"
+    },
+    {
+      "album": {
         "name": "Alg\u00fan D\u00eda Volver\u00e1s (Santaferia en la Quinta Vergara)",
         "url": "https://open.spotify.com/album/19ZR23YJSCMdAoj6IJknbK"
       },
@@ -117,7 +135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 139800,
       "name": "Amor de Papel - En Vivo",
       "url": "https://open.spotify.com/track/1FFFfPx7oO3909DZm51yOS"
@@ -301,7 +319,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 212266,
       "name": "Dime Si Eres Feliz - Vivo",
       "url": "https://open.spotify.com/track/2GZs2PsaucrkL1pBpA7Ym7"
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 117653,
       "name": "El Tano Pastita",
       "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 199435,
       "name": "Ella Dijo / Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
@@ -395,7 +413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 297351,
       "name": "Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame - En Vivo",
       "url": "https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5"
@@ -471,7 +489,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 218827,
       "name": "Hacela de Noche / Nacido para Geder - En Vivo en Tropitango",
       "url": "https://open.spotify.com/track/2iNKr6J2h2iE0wOPbOqQEK"
@@ -507,7 +525,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 312032,
       "name": "Hoy Te Vi / El Paredon - En Vivo",
       "url": "https://open.spotify.com/track/37G1wAESGKGK5BaoFlqnGy"
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 1189152,
       "name": "La Huella / Aprovechadora / Has Vuelto Mi Amor / Vengo a Pedirte / Amor de Adolescente / Una Noche Mas / Regresa por Favor / La Que Me Pudo Enamorar / Te Extra\u00f1o a Ti / Pensando en Ti / Desesperado - En Vivo",
       "url": "https://open.spotify.com/track/6K4dgYClJiJvHmlxHGKY4X"
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 92020,
       "name": "Labios Compartidos - En Vivo",
       "url": "https://open.spotify.com/track/4mbZ7lM957Ljb3grkhrs2q"
@@ -807,7 +825,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 95400,
       "name": "Maldita Cazafortuna - En Vivo",
       "url": "https://open.spotify.com/track/4xkwbDPG8vtks0zkmdOUYv"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 474505,
       "name": "Mentiras / Es Mi Culpa / Lo Intentamos - En Vivo",
       "url": "https://open.spotify.com/track/6T3rr3WFTuwQ35v178QIyk"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 183583,
       "name": "No Me Vuelvo a Enamorar - En Vivo",
       "url": "https://open.spotify.com/track/4AuHFUhynAOLJ7GHufKpyo"
@@ -1082,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Paisaje (En Vivo)",
+        "url": "https://open.spotify.com/album/1JgFPt2VdpuaMNRFtJ9N65"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156969,
+      "name": "Paisaje - En Vivo",
+      "url": "https://open.spotify.com/track/6eoyDlYshTp0L8t6qPodeN"
+    },
+    {
+      "album": {
         "name": "20 Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3"
       },
@@ -1111,7 +1147,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 269848,
       "name": "Perdoname / Te Quiero a Ti - En Vivo",
       "url": "https://open.spotify.com/track/7cGu8dFYxocYccdAR9mOGL"
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 1189088,
       "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
       "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
@@ -1205,7 +1241,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 71981,
       "name": "Pupilas Lejanas - En Vivo",
       "url": "https://open.spotify.com/track/7aQN2YfQGTPZGc2LDo5VCR"
@@ -1433,7 +1469,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 158958,
       "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
       "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
@@ -1451,7 +1487,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 184032,
       "name": "Te Voy a Perder",
       "url": "https://open.spotify.com/track/1zpZws099ymKYMQsQNZJ8n"

@@ -1,13 +1,85 @@
 {
   "description": "hyperpop is a simulation. Cover: midwxst",
   "name": "hyperpop",
-  "num_followers": 262970,
+  "num_followers": 263556,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTM5NzE4MiwwMDAwMDExMDAwMDAwMTdlMmFlNTYwYTgwMDAwMDE3ZGEwYTk4YmYz",
+  "snapshot_id": "MTY0MTU0MjE2MCwwMDAwMDExMTAwMDAwMTdlMzM4OThlZjAwMDAwMDE3ZGEwYTk4YmYz",
   "tracks": [
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "ed hardy",
+        "url": "https://open.spotify.com/album/7H8vAbI81ihxVdPEPPouMW"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        },
+        {
+          "name": "Vaeo",
+          "url": "https://open.spotify.com/artist/2ahbiJn3gxyByrDXIMaACV"
+        }
+      ],
+      "duration_ms": 153375,
+      "name": "ed hardy",
+      "url": "https://open.spotify.com/track/5texEDBxbbPZA9sfc1Xj5j"
+    },
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "selfdestruct",
+        "url": "https://open.spotify.com/album/38MgHK12c40SSoNDvMrtlK"
+      },
+      "artists": [
+        {
+          "name": "torr",
+          "url": "https://open.spotify.com/artist/6fq8lpmabNBMPao92rMw3m"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "selfdestruct",
+      "url": "https://open.spotify.com/track/0JEViMA9EhoTE501kxvJMU"
+    },
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "Heartbeats/Heartbreaks Remixes",
+        "url": "https://open.spotify.com/album/56SSgjwx2wWcuZn8SnWB9R"
+      },
+      "artists": [
+        {
+          "name": "caro\u2661",
+          "url": "https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8"
+        },
+        {
+          "name": "D'eon",
+          "url": "https://open.spotify.com/artist/0o676KGzaWTfyZWyhcjaXE"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "heart in 2 - D\u2019Eon Remix",
+      "url": "https://open.spotify.com/track/3qrDQYeVsdNwUM3eoqdNwH"
+    },
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "love me",
+        "url": "https://open.spotify.com/album/6R2tK2Kz7LsGZPswqfDpGd"
+      },
+      "artists": [
+        {
+          "name": "yung van",
+          "url": "https://open.spotify.com/artist/3gat7IO3Dlae8AFZZrQX5b"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "love me",
+      "url": "https://open.spotify.com/track/1GpjEseBMUiJNx8PfABTuM"
+    },
     {
       "added_at": "2022-01-05 15:39:42",
       "album": {
@@ -115,6 +187,22 @@
       "duration_ms": 166003,
       "name": "mememe",
       "url": "https://open.spotify.com/track/2Tdkz4mLxN8szqcMeNWcI8"
+    },
+    {
+      "added_at": "2022-01-07 07:56:00",
+      "album": {
+        "name": "go crazy",
+        "url": "https://open.spotify.com/album/1P1wNKHNwQyMvVZWB3gylx"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 122839,
+      "name": "go crazy",
+      "url": "https://open.spotify.com/track/4wLYecT7RTTt0834qrqNqL"
     },
     {
       "added_at": "2021-12-03 06:44:00",

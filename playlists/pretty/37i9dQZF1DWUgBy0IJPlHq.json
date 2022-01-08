@@ -1,13 +1,29 @@
 {
-  "description": "A new shade of Country. Cover: Billy Strings",
+  "description": "A new shade of Country. Cover: Morgan Wade",
   "name": "Indigo",
-  "num_followers": 354239,
+  "num_followers": 354499,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxOTcwNSwwMDAwMDBjMzAwMDAwMTdlMjY0NzJhMjYwMDAwMDE3ZGU4NTBhZjVm",
+  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDBjNDAwMDAwMTdlMzJlOTU3ODYwMDAwMDE3ZTMwNDlkNmI4",
   "tracks": [
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz"
+    },
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
@@ -203,22 +219,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Paint This Town",
-        "url": "https://open.spotify.com/album/16Hp4iMkBsGwu90l2QyYQo"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "Paint This Town",
-      "url": "https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "Neon Diamonds",
         "url": "https://open.spotify.com/album/65LXcpHPc6gJ9sFaKJbNsH"
       },
@@ -231,6 +231,90 @@
       "duration_ms": 203373,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/45Ue0F8p2OaC94Jdyoeg6u"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Doin' This",
+        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 254181,
+      "name": "Doin' This",
+      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Circles Around This Town",
+        "url": "https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 195760,
+      "name": "Circles Around This Town",
+      "url": "https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Sunrise Tells The Story",
+        "url": "https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Sunrise Tells The Story",
+      "url": "https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Never Wanted To Be That Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5MNdQpKMxTRTjQbJ14qtQC"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 211848,
+      "name": "Never Wanted To Be That Girl - Acoustic Version",
+      "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "You Get It All",
+        "url": "https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT"
+      },
+      "artists": [
+        {
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "You Get It All",
+      "url": "https://open.spotify.com/track/5OasGMgbZAHCR4BnUXNVv8"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -271,18 +355,18 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "You Get It All",
-        "url": "https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT"
+        "name": "Jackson Dean",
+        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 188266,
-      "name": "You Get It All",
-      "url": "https://open.spotify.com/track/5OasGMgbZAHCR4BnUXNVv8"
+      "duration_ms": 264161,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/3J75eyKzON6jJFlBhmTW32"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -311,6 +395,74 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "Shenandoah Shakedown",
+        "url": "https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79"
+      },
+      "artists": [
+        {
+          "name": "John R. Miller",
+          "url": "https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Shenandoah Shakedown",
+      "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Some Things Never Change",
+        "url": "https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "The Card You Gamble (Main Theme From Monarch)",
+        "url": "https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o"
+      },
+      "artists": [
+        {
+          "name": "Monarch Cast",
+          "url": "https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX"
+        },
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 176053,
+      "name": "The Card You Gamble (Main Theme From Monarch)",
+      "url": "https://open.spotify.com/track/7iOS7vJd0JfJkUkauMfQY1"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Wishing I Was Wrong",
+        "url": "https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY"
+      },
+      "artists": [
+        {
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+        }
+      ],
+      "duration_ms": 188680,
+      "name": "Wishing I Was Wrong",
+      "url": "https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "Music City USA",
         "url": "https://open.spotify.com/album/4vMGuocZFMQUaI9eiUjyiG"
       },
@@ -327,66 +479,18 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Sunrise Tells The Story",
-        "url": "https://open.spotify.com/album/3w8FJ89OOiMOoKUzzbfvB0"
+        "name": "Non-Typical Find",
+        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Tylor & the Train Robbers",
+          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Sunrise Tells The Story",
-      "url": "https://open.spotify.com/track/35FM98S1TXVK85kLzGnRlH"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
-        }
-      ],
-      "duration_ms": 251293,
-      "name": "Wilder Days",
-      "url": "https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Doin' This",
-        "url": "https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 254181,
-      "name": "Doin' This",
-      "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Jackson Dean",
-        "url": "https://open.spotify.com/album/1azIpNHDqoiGEI3diDqvJp"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 264161,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/3J75eyKzON6jJFlBhmTW32"
+      "duration_ms": 289960,
+      "name": "Staring Down the North",
+      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -511,6 +615,22 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "Paint This Town",
+        "url": "https://open.spotify.com/album/16Hp4iMkBsGwu90l2QyYQo"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Paint This Town",
+      "url": "https://open.spotify.com/track/7vSdW9hmGF0YPbqYcaOnYS"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -527,22 +647,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Non-Typical Find",
-        "url": "https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7"
-      },
-      "artists": [
-        {
-          "name": "Tylor & the Train Robbers",
-          "url": "https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F"
-        }
-      ],
-      "duration_ms": 289960,
-      "name": "Staring Down the North",
-      "url": "https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
@@ -555,22 +659,6 @@
       "duration_ms": 244626,
       "name": "Where I Wanna Be",
       "url": "https://open.spotify.com/track/6SDAyY4qCtrsTbXGklYJB4"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Some Things Never Change",
-        "url": "https://open.spotify.com/album/27P6tqUt8wakV6N9UP8RBW"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 200672,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/0lGav1fK5Yv0N9dWhUpmKJ"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -627,22 +715,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Shenandoah Shakedown",
-        "url": "https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79"
-      },
-      "artists": [
-        {
-          "name": "John R. Miller",
-          "url": "https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Shenandoah Shakedown",
-      "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -679,6 +751,22 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
+        "name": "Just Like Leaving",
+        "url": "https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Just Like Leaving",
+      "url": "https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
         "name": "You Hear Georgia",
         "url": "https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g"
       },
@@ -691,6 +779,26 @@
       "duration_ms": 208856,
       "name": "Old Enough to Know",
       "url": "https://open.spotify.com/track/1vpiutisvVInbnpeVDkALo"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        },
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 273538,
+      "name": "Glad To Be Here (feat. Brent Cobb)",
+      "url": "https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -711,18 +819,22 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Slappers, Bangers & Certified Twangers, Vol. 2",
-        "url": "https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7"
       },
       "artists": [
         {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
+          "name": "Sophie & The Broken Things",
+          "url": "https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0"
+        },
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
         }
       ],
-      "duration_ms": 188120,
-      "name": "Bubba Shot the Jukebox",
-      "url": "https://open.spotify.com/track/7I2GxY2DVhw63KjUBg0WvZ"
+      "duration_ms": 227135,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -775,18 +887,18 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Just Like Leaving",
-        "url": "https://open.spotify.com/album/0Opbhs5LBTdPR63ndzzsNw"
+        "name": "Slappers, Bangers & Certified Twangers, Vol. 2",
+        "url": "https://open.spotify.com/album/6JIvjLVu35EUL1tGaxfHIJ"
       },
       "artists": [
         {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+          "name": "American Aquarium",
+          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
         }
       ],
-      "duration_ms": 206960,
-      "name": "Just Like Leaving",
-      "url": "https://open.spotify.com/track/63C5SO2zyoWvMS6JL6mv8Y"
+      "duration_ms": 188120,
+      "name": "Bubba Shot the Jukebox",
+      "url": "https://open.spotify.com/track/7I2GxY2DVhw63KjUBg0WvZ"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -923,26 +1035,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        },
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 273538,
-      "name": "Glad To Be Here (feat. Brent Cobb)",
-      "url": "https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -971,6 +1063,38 @@
       "duration_ms": 223400,
       "name": "Call It A Day",
       "url": "https://open.spotify.com/track/0hh4pibsHO1yohthuJu8aF"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "duration_ms": 251293,
+      "name": "Wilder Days",
+      "url": "https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT"
+    },
+    {
+      "added_at": "2021-12-31 05:00:00",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -1075,26 +1199,6 @@
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7"
-      },
-      "artists": [
-        {
-          "name": "Sophie & The Broken Things",
-          "url": "https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0"
-        },
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 227135,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
         "name": "Leave Those Memories Alone",
         "url": "https://open.spotify.com/album/7msXVoRJVs6hDHlPXqfurp"
       },
@@ -1107,22 +1211,6 @@
       "duration_ms": 232226,
       "name": "Leave Those Memories Alone",
       "url": "https://open.spotify.com/track/04K7wZAM3YVDyFJORi1yDg"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/6ld4TV5oyaBUkxolyDE8UX"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Young Man",
-      "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
     },
     {
       "added_at": "2021-12-31 05:00:00",
@@ -1679,26 +1767,6 @@
       "duration_ms": 255440,
       "name": "Bells Of Every Chapel [Feat. Billy Strings]",
       "url": "https://open.spotify.com/track/2EYi3YBfBWhZZGCvf6J2tT"
-    },
-    {
-      "added_at": "2021-12-31 05:00:00",
-      "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 221434,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/5SMb9DajcX67GuiL4urSjp"
     },
     {
       "added_at": "2021-12-31 05:00:00",

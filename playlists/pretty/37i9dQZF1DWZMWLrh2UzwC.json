@@ -1,13 +1,29 @@
 {
-  "description": "The best newly released songs of the week. ",
+  "description": "The best newly released songs of the week. Cover: The Weeknd",
   "name": "New Music Friday Malaysia",
-  "num_followers": 58426,
+  "num_followers": 58427,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTQ4NDgwMCwwMDAwMDQ0YTAwMDAwMTdlMzAxZTUwODAwMDAwMDE3ZTJmMTZmYjM4",
+  "snapshot_id": "MTY0MTUzMTYwMCwwMDAwMDQ0YjAwMDAwMTdlMzJlODZkMjkwMDAwMDE3ZTMyNzdhNGNk",
   "tracks": [
+    {
+      "added_at": "2022-01-06 16:00:00",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
     {
       "added_at": "2022-01-06 16:00:00",
       "album": {
@@ -269,6 +285,30 @@
       "url": "https://open.spotify.com/track/2qIKUnR3TSQG4LHxtsMPAA"
     },
     {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
+    },
+    {
       "added_at": "2022-01-06 16:00:00",
       "album": {
         "name": "Champagne Problems #DQH1",
@@ -283,6 +323,26 @@
       "duration_ms": 164434,
       "name": "Always On My Mind",
       "url": "https://open.spotify.com/track/4sWH0Fhl1a6yBCXnYm73Jp"
+    },
+    {
+      "added_at": "2022-01-06 16:00:00",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 263641,
+      "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
     },
     {
       "added_at": "2022-01-06 16:00:00",
@@ -415,6 +475,22 @@
     {
       "added_at": "2022-01-06 16:00:00",
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 212165,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "added_at": "2022-01-06 16:00:00",
+      "album": {
         "name": "Face To Face",
         "url": "https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg"
       },
@@ -515,6 +591,22 @@
       "duration_ms": 210520,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/55YsU62Y12E5hU0gXvn5mT"
+    },
+    {
+      "added_at": "2022-01-06 16:00:00",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Lost On Me",
+      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
     },
     {
       "added_at": "2022-01-06 16:00:00",
@@ -767,7 +859,7 @@
     {
       "added_at": "2022-01-06 16:00:00",
       "album": {
-        "name": "Athletic Girl",
+        "name": "ATHLETIC GIRL",
         "url": "https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ"
       },
       "artists": [
@@ -777,7 +869,7 @@
         }
       ],
       "duration_ms": 212613,
-      "name": "Athletic Girl",
+      "name": "ATHLETIC GIRL",
       "url": "https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL"
     },
     {
@@ -891,6 +983,22 @@
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
+    },
+    {
+      "added_at": "2022-01-06 16:00:00",
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 112625,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
     },
     {
       "added_at": "2022-01-06 16:00:00",

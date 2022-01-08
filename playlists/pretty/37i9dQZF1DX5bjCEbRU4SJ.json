@@ -1,13 +1,29 @@
 {
   "description": "Calm Down with this chilled out playlist. For when it's time to just sit and bask in the afterglow.",
   "name": "Calm Down",
-  "num_followers": 565098,
+  "num_followers": 565071,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUxNjM4MywwMDAwMDAwMDljZTUxNzMyMTdiNTk4YjdiM2I2ZjFmMmMxYzBiYTE4",
+  "snapshot_id": "MTY0MTYzNTYyMywwMDAwMDAwMGExYzgyODYwMTJlYmMyNTkxNGI2OTdjOTJmZDBmMzE1",
   "tracks": [
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Break Mirrors",
+        "url": "https://open.spotify.com/album/6Y0CRNcsCCyj2lNehrZp1v"
+      },
+      "artists": [
+        {
+          "name": "Blake Mills",
+          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
+        }
+      ],
+      "duration_ms": 256442,
+      "name": "Wintersong",
+      "url": "https://open.spotify.com/track/3o3xMz8HYKGsC9IOTVkJIo"
+    },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
@@ -43,38 +59,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "A Treasury",
-        "url": "https://open.spotify.com/album/1D5FYlYISuZXWBeVut4879"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "Northern Sky",
-      "url": "https://open.spotify.com/track/185WVQvIuyv2FF0mAFbRvI"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Imperial Recordings Best Of",
-        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "This Must Be The Place",
         "url": "https://open.spotify.com/album/36GkOSZ11diC92mBGJBRrQ"
       },
@@ -95,70 +79,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "The Velvet Underground",
-        "url": "https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        }
-      ],
-      "duration_ms": 341466,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Break Mirrors",
-        "url": "https://open.spotify.com/album/6Y0CRNcsCCyj2lNehrZp1v"
-      },
-      "artists": [
-        {
-          "name": "Blake Mills",
-          "url": "https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR"
-        }
-      ],
-      "duration_ms": 256442,
-      "name": "Wintersong",
-      "url": "https://open.spotify.com/track/3o3xMz8HYKGsC9IOTVkJIo"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Pink Moon",
-        "url": "https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 123173,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "The Essential Paul Simon",
         "url": "https://open.spotify.com/album/4kdOH3s9cRL9YykvHFpSlD"
       },
@@ -175,50 +95,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Pink Strat",
-        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
+        "name": "A Treasury",
+        "url": "https://open.spotify.com/album/1D5FYlYISuZXWBeVut4879"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 155240,
-      "name": "Whole Wide World",
-      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Blood from a Stone",
-        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
-      },
-      "artists": [
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 266804,
-      "name": "When the Day Comes",
-      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Dusty Trails",
-      "url": "https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w"
+      "duration_ms": 225386,
+      "name": "Northern Sky",
+      "url": "https://open.spotify.com/track/185WVQvIuyv2FF0mAFbRvI"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -239,24 +127,8 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Sometimes I Wish We Were An Eagle",
-        "url": "https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 327146,
-      "name": "Too Many Birds",
-      "url": "https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Bahamas is Afie",
-        "url": "https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv"
+        "name": "Pink Strat",
+        "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
       "artists": [
         {
@@ -264,9 +136,73 @@
           "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
         }
       ],
-      "duration_ms": 190826,
-      "name": "Can't Take You With Me",
-      "url": "https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI"
+      "duration_ms": 155240,
+      "name": "Whole Wide World",
+      "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Imperial Recordings Best Of",
+        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/14bgLAop7Lgpk2U4VuDFDl"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Dusty Trails",
+      "url": "https://open.spotify.com/track/1J8XsaDbekfEP0vmyLcu7w"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 230226,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Velvet Underground",
+        "url": "https://open.spotify.com/album/1aERiG8Qvs5LgxplWi3fkL"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        }
+      ],
+      "duration_ms": 341466,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/3xjaiUvS1ilQFVR5WtzxX5"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -287,6 +223,38 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Bahamas is Afie",
+        "url": "https://open.spotify.com/album/5UXWs03dk4KTJioTAqQKWv"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 190826,
+      "name": "Can't Take You With Me",
+      "url": "https://open.spotify.com/track/4nRW6NCV3eKlqI1B7oUgxI"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Sometimes I Wish We Were An Eagle",
+        "url": "https://open.spotify.com/album/2jalkvKIskN3GecqZAuqam"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "Too Many Birds",
+      "url": "https://open.spotify.com/track/3tH2AWcU1XTpV4BwirC819"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Coming From Reality",
         "url": "https://open.spotify.com/album/4Aa53iJ3EuGEkrna4nhAHn"
       },
@@ -299,6 +267,106 @@
       "duration_ms": 205666,
       "name": "I Think of You",
       "url": "https://open.spotify.com/track/5Y27DvOTSUWqZNKNGUzM3o"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Blood from a Stone",
+        "url": "https://open.spotify.com/album/2OMMQdI71h7sWqkhis2ZkT"
+      },
+      "artists": [
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 266804,
+      "name": "When the Day Comes",
+      "url": "https://open.spotify.com/track/1KXwXf9Cr9tixpqXWBMcMu"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/6LoD5uGEynY4eqstWDFKhg"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 123173,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/1CbPLR6Xjo2nc0Pf13N0RS"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Fear Fun",
+        "url": "https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 234160,
+      "name": "Nancy From Now On",
+      "url": "https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/0ipi3dQXxde567orrSLq50"
+      },
+      "artists": [
+        {
+          "name": "Rogue Wave",
+          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+        }
+      ],
+      "duration_ms": 148866,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Life Is People [Spotify Exclusive]",
+        "url": "https://open.spotify.com/album/1W9WpSBCm665dwflnP7dSt"
+      },
+      "artists": [
+        {
+          "name": "Bill Fay",
+          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "The Healing Day",
+      "url": "https://open.spotify.com/track/6L8XgwcRqIZGWvvyEEPtui"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -335,70 +403,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Life Is People [Spotify Exclusive]",
-        "url": "https://open.spotify.com/album/1W9WpSBCm665dwflnP7dSt"
-      },
-      "artists": [
-        {
-          "name": "Bill Fay",
-          "url": "https://open.spotify.com/artist/3Wok7FweiLrlia97LMCJh1"
-        }
-      ],
-      "duration_ms": 314200,
-      "name": "The Healing Day",
-      "url": "https://open.spotify.com/track/6L8XgwcRqIZGWvvyEEPtui"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "In The Ever",
-        "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
-      },
-      "artists": [
-        {
-          "name": "Mason Jennings",
-          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Something About Your Love",
-      "url": "https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
-      },
-      "artists": [
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Golden Moments",
-        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "Hello Starling",
         "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
@@ -415,50 +419,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Knock Knock",
-        "url": "https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi"
+        "name": "Golden Moments",
+        "url": "https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR"
       },
       "artists": [
         {
-          "name": "Smog",
-          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 185800,
-      "name": "Let's Move To The Country",
-      "url": "https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Closing Time",
-        "url": "https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87"
-      },
-      "artists": [
-        {
-          "name": "Tom Waits",
-          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
-        }
-      ],
-      "duration_ms": 234533,
-      "name": "I Hope That I Don't Fall In Love With You",
-      "url": "https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF"
-    },
-    {
-      "added_at": "2018-12-11 21:49:11",
-      "album": {
-        "name": "Seven Swans",
-        "url": "https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "To Be Alone With You",
-      "url": "https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F"
+      "duration_ms": 243106,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -495,150 +467,82 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Incorruptible Heart",
-        "url": "https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa"
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
       },
       "artists": [
         {
-          "name": "Lavender Diamond",
-          "url": "https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw"
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 180906,
-      "name": "I Don't Recall",
-      "url": "https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw"
+      "duration_ms": 140960,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/1rIxqd83G5QIj3A7McdaYv"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/0ipi3dQXxde567orrSLq50"
+        "name": "In The Ever",
+        "url": "https://open.spotify.com/album/1yb3U8bjeyWWhpZBP3eka2"
       },
       "artists": [
         {
-          "name": "Rogue Wave",
-          "url": "https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG"
+          "name": "Mason Jennings",
+          "url": "https://open.spotify.com/artist/6CQrZZn0g2ZNfIcXbi4pdo"
         }
       ],
-      "duration_ms": 148866,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/7fArBkBSsaUF5mOcpTL56I"
+      "duration_ms": 270546,
+      "name": "Something About Your Love",
+      "url": "https://open.spotify.com/track/1ZVaf194CeE7eBItAVEUCj"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l"
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/60i9U1oYiGHVmt7wkwzybi"
       },
       "artists": [
         {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
         }
       ],
-      "duration_ms": 175813,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G"
+      "duration_ms": 185800,
+      "name": "Let's Move To The Country",
+      "url": "https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 185293,
+      "name": "Blue Spotted Tail",
+      "url": "https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Fear Fun",
-        "url": "https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867"
+        "name": "The Magician",
+        "url": "https://open.spotify.com/album/3HMfETBoNhyuPPoVEtdmbm"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
         }
       ],
-      "duration_ms": 234160,
-      "name": "Nancy From Now On",
-      "url": "https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "North Americana",
-        "url": "https://open.spotify.com/album/4s9YcRjOOV0m22xeSGIRGl"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 224892,
-      "name": "Off the Main Drag",
-      "url": "https://open.spotify.com/track/3jdlFiVKRNpLQboArLidxn"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Gulag Orkestar",
-        "url": "https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 257480,
-      "name": "Postcards From Italy",
-      "url": "https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y"
+      "duration_ms": 231838,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/0pNA2zQRy93duN1zqbcL3T"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -663,70 +567,6 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Music From The Comedy, A Film By Rick Alverson",
-        "url": "https://open.spotify.com/album/1OUqf3GK9Na23MLxrShbZU"
-      },
-      "artists": [
-        {
-          "name": "Here We Go Magic",
-          "url": "https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f"
-        }
-      ],
-      "duration_ms": 270306,
-      "name": "Over the Ocean",
-      "url": "https://open.spotify.com/track/5Jyq5eUPFFvaKlEGkXQwc1"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "The Magician",
-        "url": "https://open.spotify.com/album/3HMfETBoNhyuPPoVEtdmbm"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 231838,
-      "name": "The Magician",
-      "url": "https://open.spotify.com/track/0pNA2zQRy93duN1zqbcL3T"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Swing Lo Magellan",
-        "url": "https://open.spotify.com/album/1WhF5ZiI5V5laq2nGLoF99"
-      },
-      "artists": [
-        {
-          "name": "Dirty Projectors",
-          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Swing Lo Magellan",
-      "url": "https://open.spotify.com/track/1cMNPktEzTYFNxkrOa1sH0"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Up In The Air [Music From The Motion Picture]",
-        "url": "https://open.spotify.com/album/5bif3MPGjOxCM4Sw1Nvh1d"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 293986,
-      "name": "Goin' Home",
-      "url": "https://open.spotify.com/track/6smJr4cmKlPE7EQrN8XItq"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
         "name": "The Best Of Leonard Cohen",
         "url": "https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt"
       },
@@ -739,6 +579,22 @@
       "duration_ms": 227200,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Incorruptible Heart",
+        "url": "https://open.spotify.com/album/6hsjNIJ0QJJvUzMjzU4TGa"
+      },
+      "artists": [
+        {
+          "name": "Lavender Diamond",
+          "url": "https://open.spotify.com/artist/2Z1N9zMrbKe6emt3mhc6Kw"
+        }
+      ],
+      "duration_ms": 180906,
+      "name": "I Don't Recall",
+      "url": "https://open.spotify.com/track/1BlvDzR1MwebVS7f5uw5dw"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -759,34 +615,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Good Mood Fool",
-        "url": "https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss"
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/4ENah6iWByAVrxQS7uiF87"
       },
       "artists": [
         {
-          "name": "Luke Temple",
-          "url": "https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85"
+          "name": "Tom Waits",
+          "url": "https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM"
         }
       ],
-      "duration_ms": 265266,
-      "name": "Florida",
-      "url": "https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/3l7iMXJ0jqFnIYZRyCUewC"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 185293,
-      "name": "Blue Spotted Tail",
-      "url": "https://open.spotify.com/track/2dFEB7VbBPZzhb2LqIBZbH"
+      "duration_ms": 234533,
+      "name": "I Hope That I Don't Fall In Love With You",
+      "url": "https://open.spotify.com/track/0oYo06FRCBtrE3kWrDcsDF"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -807,18 +647,34 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Live at St. Ann's Warehouse",
-        "url": "https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu"
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/3Wk7Z5ZUufzA163eaf8qZG"
       },
       "artists": [
         {
-          "name": "Aimee Mann",
-          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
         }
       ],
-      "duration_ms": 201840,
-      "name": "Wise Up",
-      "url": "https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg"
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/5Szn0p3DlnawyuhX8ULCg4"
+    },
+    {
+      "added_at": "2018-12-11 21:49:11",
+      "album": {
+        "name": "Seven Swans",
+        "url": "https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "To Be Alone With You",
+      "url": "https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -839,6 +695,38 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Swing Lo Magellan",
+        "url": "https://open.spotify.com/album/1WhF5ZiI5V5laq2nGLoF99"
+      },
+      "artists": [
+        {
+          "name": "Dirty Projectors",
+          "url": "https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Swing Lo Magellan",
+      "url": "https://open.spotify.com/track/1cMNPktEzTYFNxkrOa1sH0"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Music From The Comedy, A Film By Rick Alverson",
+        "url": "https://open.spotify.com/album/1OUqf3GK9Na23MLxrShbZU"
+      },
+      "artists": [
+        {
+          "name": "Here We Go Magic",
+          "url": "https://open.spotify.com/artist/4WxjrOJGIngO2hJnlCeK7f"
+        }
+      ],
+      "duration_ms": 270306,
+      "name": "Over the Ocean",
+      "url": "https://open.spotify.com/track/5Jyq5eUPFFvaKlEGkXQwc1"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Harlem River",
         "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
       },
@@ -855,194 +743,66 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Odelay",
-        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
+        "name": "North Americana",
+        "url": "https://open.spotify.com/album/4s9YcRjOOV0m22xeSGIRGl"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
-      "duration_ms": 286533,
-      "name": "Ramshackle",
-      "url": "https://open.spotify.com/track/0E2aZMFFpUexu3Tv3JWDsw"
+      "duration_ms": 224892,
+      "name": "Off the Main Drag",
+      "url": "https://open.spotify.com/track/3jdlFiVKRNpLQboArLidxn"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Transformer",
-        "url": "https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1"
+        "name": "Up In The Air [Music From The Motion Picture]",
+        "url": "https://open.spotify.com/album/5bif3MPGjOxCM4Sw1Nvh1d"
       },
       "artists": [
         {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 253960,
-      "name": "Walk on the Wild Side",
-      "url": "https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk"
+      "duration_ms": 293986,
+      "name": "Goin' Home",
+      "url": "https://open.spotify.com/track/6smJr4cmKlPE7EQrN8XItq"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
       "artists": [
         {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Five Leaves Left",
-        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+        "name": "Good Mood Fool",
+        "url": "https://open.spotify.com/album/6N0O0Smt0qOTTJYmcGQ4ss"
       },
       "artists": [
         {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+          "name": "Luke Temple",
+          "url": "https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85"
         }
       ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Fleet Foxes (2CD Version)",
-        "url": "https://open.spotify.com/album/4DWAxGoe1aKJhBitz5xx7t"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Oliver James",
-      "url": "https://open.spotify.com/track/31o2GMNAZMpvEmEBNO68IE"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "City Music",
-        "url": "https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF"
-    },
-    {
-      "added_at": "2018-12-11 21:49:11",
-      "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Time Without Consequence",
-        "url": "https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 297120,
-      "name": "All My Days",
-      "url": "https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "The Year Of The Leopard",
-        "url": "https://open.spotify.com/album/4yeY5ZJS5I8NA4L9Q9p6Xx"
-      },
-      "artists": [
-        {
-          "name": "James Yorkston",
-          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Hot Dreams",
-        "url": "https://open.spotify.com/album/5zMLibunkb38opKmNGcJnz"
-      },
-      "artists": [
-        {
-          "name": "Timber Timbre",
-          "url": "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
-        }
-      ],
-      "duration_ms": 293213,
-      "name": "Hot Dreams",
-      "url": "https://open.spotify.com/track/2ygk6zFffVpUdUzUfYXzQa"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "Monsters Of Folk",
-        "url": "https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL"
-      },
-      "artists": [
-        {
-          "name": "Monsters Of Folk",
-          "url": "https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Dear God (Sincerely M.O.F.)",
-      "url": "https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W"
-    },
-    {
-      "added_at": "2018-12-11 21:48:39",
-      "album": {
-        "name": "I And Love And You",
-        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "I And Love And You",
-      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+      "duration_ms": 265266,
+      "name": "Florida",
+      "url": "https://open.spotify.com/track/2ThHGTlfGw9uzQwgTFk2nK"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1063,6 +823,214 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
+        "name": "Gulag Orkestar",
+        "url": "https://open.spotify.com/album/3WNU7rbYexFHj9DPOZMdLR"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 257480,
+      "name": "Postcards From Italy",
+      "url": "https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "City Music",
+        "url": "https://open.spotify.com/album/2vBwQxoey9MJ7CApSpGya9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/3wfyXleQB8piYZimuVLazF"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 253960,
+      "name": "Walk on the Wild Side",
+      "url": "https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Fleet Foxes (2CD Version)",
+        "url": "https://open.spotify.com/album/4DWAxGoe1aKJhBitz5xx7t"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Oliver James",
+      "url": "https://open.spotify.com/track/31o2GMNAZMpvEmEBNO68IE"
+    },
+    {
+      "added_at": "2018-12-11 21:49:11",
+      "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Five Leaves Left",
+        "url": "https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Hot Dreams",
+        "url": "https://open.spotify.com/album/5zMLibunkb38opKmNGcJnz"
+      },
+      "artists": [
+        {
+          "name": "Timber Timbre",
+          "url": "https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ"
+        }
+      ],
+      "duration_ms": 293213,
+      "name": "Hot Dreams",
+      "url": "https://open.spotify.com/track/2ygk6zFffVpUdUzUfYXzQa"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Live at St. Ann's Warehouse",
+        "url": "https://open.spotify.com/album/5bNYT2lytZ65zLGHUkB8Hu"
+      },
+      "artists": [
+        {
+          "name": "Aimee Mann",
+          "url": "https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk"
+        }
+      ],
+      "duration_ms": 201840,
+      "name": "Wise Up",
+      "url": "https://open.spotify.com/track/5hUWvHrxArc3IbbF2UIpjg"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "I And Love And You",
+        "url": "https://open.spotify.com/album/2PPFtYUnnqMYflIEn3b7ON"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "I And Love And You",
+      "url": "https://open.spotify.com/track/7CEV9VwA8XO9wwxTXgYKvY"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Odelay",
+        "url": "https://open.spotify.com/album/3PpTsdpZmaLUh6RvViu9G7"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 286533,
+      "name": "Ramshackle",
+      "url": "https://open.spotify.com/track/0E2aZMFFpUexu3Tv3JWDsw"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Where Will We Go, Pt. 2",
+        "url": "https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 299839,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
         "name": "Things Are Really Great Here, Sort Of...",
         "url": "https://open.spotify.com/album/1nXNVxTKqOzvy7zYAmddR0"
       },
@@ -1079,18 +1047,50 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "Fires In Distant Buildings",
-        "url": "https://open.spotify.com/album/1erl73PdaM7Liy07kBZZmN"
+        "name": "Boxer (Standard Version)",
+        "url": "https://open.spotify.com/album/3hvjTC9OSOrf6SFQmfqLNX"
       },
       "artists": [
         {
-          "name": "Gravenhurst",
-          "url": "https://open.spotify.com/artist/1nqfBsX1oJ0jTDTyA18xH9"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 313826,
-      "name": "Nicole",
-      "url": "https://open.spotify.com/track/4N9OaYVfmzxcOOPNFyAUjV"
+      "duration_ms": 269200,
+      "name": "Gospel",
+      "url": "https://open.spotify.com/track/4q8AGDL52LwEQMjq1k9d5F"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Swimming Away",
+        "url": "https://open.spotify.com/album/6VMH3MMEp2SJmc6UArvzVD"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 188480,
+      "name": "Swimming Away",
+      "url": "https://open.spotify.com/track/2zkPpyPeD9CS3KCuBTm1XA"
+    },
+    {
+      "added_at": "2018-12-11 21:48:39",
+      "album": {
+        "name": "Complete B Sides",
+        "url": "https://open.spotify.com/album/58LxhP0wtQiFzXPV5uSlaU"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 180133,
+      "name": "Wave of Mutilation (UK Surf)",
+      "url": "https://open.spotify.com/track/3uUWbdV7zvDnZc9IwdUc5T"
     },
     {
       "added_at": "2018-12-11 21:48:39",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2018-12-11 21:48:39",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
+        "name": "The Year Of The Leopard",
+        "url": "https://open.spotify.com/album/4yeY5ZJS5I8NA4L9Q9p6Xx"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "James Yorkston",
+          "url": "https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw"
         }
       ],
-      "duration_ms": 322040,
-      "name": "The Wolves (Act I and II)",
-      "url": "https://open.spotify.com/track/0Tps1iVuFudov2alVP3bUF"
+      "duration_ms": 265160,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/0BnmlQwwBhffGlPtN0dNuT"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5bjCEbRU4SJ"

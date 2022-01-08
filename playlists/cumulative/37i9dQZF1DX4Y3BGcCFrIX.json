@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 238266,
       "name": "Aaj Phir Jeene Ki Tamanna Hai",
       "url": "https://open.spotify.com/track/5SOz11mekUwr7kQm8dpHqs"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 265743,
       "name": "Aaja Sanam Madhur Chandni Men",
       "url": "https://open.spotify.com/track/5K0YR5W8FNgzjceUwgNlPv"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 225626,
       "name": "Aap Mujhe Achhe Lagne Lage",
       "url": "https://open.spotify.com/track/7zwWqaYBkzy4k7GbqF636o"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 346520,
       "name": "Aayegi Zaroor Chitthi - Dulhan / Soundtrack Version",
       "url": "https://open.spotify.com/track/4GDhR7LNoSzkk1Ksp8b5fg"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 329274,
       "name": "Chup Gaye Sare Nazare",
       "url": "https://open.spotify.com/track/6DuEwqeZzkPJlczCKPq1VD"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 355733,
       "name": "Dekha Ek Khwab (with Dialogues)",
       "url": "https://open.spotify.com/track/4OvDkKNj49Zecu365xMAQN"
@@ -731,7 +731,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 217280,
       "name": "Dil Ka Diya Jalake Gaya Yeh Koi",
       "url": "https://open.spotify.com/track/6IWWSUMj29z64UAFCeDXdW"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 287893,
       "name": "Ek Pyar Ka Naghma Hai",
       "url": "https://open.spotify.com/track/6RELGnjAoxtO1IRYUcEcta"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 270733,
       "name": "Hum Dono Do Premi",
       "url": "https://open.spotify.com/track/3Cx7kRThxe9AYG0u68ldK3"
@@ -1503,7 +1503,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 282389,
       "name": "Kajra Lagake Gajra Sajake",
       "url": "https://open.spotify.com/track/07MjVCKuc4RMRKP3cK5nco"
@@ -1815,7 +1815,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 213066,
       "name": "Main To Tum Sang Nain Milake",
       "url": "https://open.spotify.com/track/1PsFblxEaNuT75rCZkMJob"
@@ -1867,7 +1867,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 388760,
       "name": "Megha Re Megha Re",
       "url": "https://open.spotify.com/track/0y8GqdhKlBhiG7rAdQ7Jg7"
@@ -2017,7 +2017,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 346149,
       "name": "Na Koi Umang Hai And Dialogue",
       "url": "https://open.spotify.com/track/3ohntZcBS0TNS8iXQG92qx"
@@ -2300,6 +2300,28 @@
     },
     {
       "album": {
+        "name": "Rajnigandha",
+        "url": "https://open.spotify.com/album/7sTbS05cVMgZ3gp3nAS9Kc"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Salil Chowdhury",
+          "url": "https://open.spotify.com/artist/0Ck0U5EF4b0VBMmpZPuUmv"
+        }
+      ],
+      "date_added": "2021-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Rajnigandha Phool Tumhare",
+      "url": "https://open.spotify.com/track/3OGaepo31Q3d427kHHpdx6"
+    },
+    {
+      "album": {
         "name": "Manzil",
         "url": "https://open.spotify.com/album/4Yu8JS9w6TBXwI0JX45e7p"
       },
@@ -2341,7 +2363,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Saagar Kinare - From \"Saagar\"",
       "url": "https://open.spotify.com/track/1L1yPuBSIY5kqYZtgA7tss"
@@ -2411,7 +2433,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 304813,
       "name": "Shokhiyon Mein Ghola Jaye",
       "url": "https://open.spotify.com/track/5ebdGvBpzZl1PKiedwm6AP"
@@ -2547,7 +2569,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 354013,
       "name": "Tere Bina Zindagi Se",
       "url": "https://open.spotify.com/track/57l24qsMzRsvecxRM0tfC6"
@@ -2569,7 +2591,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 302400,
       "name": "Tere Chehre Se Nazar Nahin",
       "url": "https://open.spotify.com/track/3z7jy3126KF930xKvLCD94"
@@ -2813,7 +2835,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 489090,
       "name": "Tum Jo Mil Gaye Ho (From \"Hanste Zakhm\")",
       "url": "https://open.spotify.com/track/2fUpfW6NKGbpVO4oSgpX38"
@@ -2853,7 +2875,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 412337,
       "name": "Tumse Milkar Na Jane",
       "url": "https://open.spotify.com/track/1CljcFs9C5K3V7esJYGTTu"
@@ -2875,7 +2897,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 307040,
       "name": "Vada Karo Jaanam",
       "url": "https://open.spotify.com/track/5xkUKF8bx9lon72L0k7q6t"
@@ -2923,7 +2945,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 314706,
       "name": "Wada Karo - From \"Aa Gale Lag Jaa\"",
       "url": "https://open.spotify.com/track/6PTn66QzyMC8qVV7vNMRXE"
@@ -2945,7 +2967,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 254466,
       "name": "Yaad Kiya Dil Ne",
       "url": "https://open.spotify.com/track/7rqueVeYViqGpH6EGFljBO"
@@ -2993,7 +3015,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 351506,
       "name": "Ye Dil Tum Bin Lagta Nahin",
       "url": "https://open.spotify.com/track/1vi4SYpDhUVf4R247VpzMv"
@@ -3011,7 +3033,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 277373,
       "name": "Ye Mulaqat Ek Bahana Hai - From \"Khandaan\"",
       "url": "https://open.spotify.com/track/4ujcTL9uKGjfirfkSfPi4z"
@@ -3029,7 +3051,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 375760,
       "name": "Yeh Dil Aur Unki Nigahon Ke Saye",
       "url": "https://open.spotify.com/track/7hNPEn92S5nYct8UGilQN8"
@@ -3055,7 +3077,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 269873,
       "name": "Yeh Dil Diwana Hai",
       "url": "https://open.spotify.com/track/7bTsObCsyCIFa5Z1frZmxA"
@@ -3165,7 +3187,7 @@
       ],
       "date_added": "2021-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 332120,
       "name": "Zindagi Pyar Ka Geet Hai",
       "url": "https://open.spotify.com/track/5he6mJa7T7DiS8Pjx6djcV"

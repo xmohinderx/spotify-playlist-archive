@@ -1056,6 +1056,28 @@
     },
     {
       "album": {
+        "name": "Darkness Falls",
+        "url": "https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL"
+      },
+      "artists": [
+        {
+          "name": "Ben Dust",
+          "url": "https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo"
+        },
+        {
+          "name": "Markus Weigelt",
+          "url": "https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389774,
+      "name": "Darkness Falls",
+      "url": "https://open.spotify.com/track/3ba0mZUI7Hg1B7G2qUy9eJ"
+    },
+    {
+      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/2dHRu0SrIEYL7CloW13urr"
       },
@@ -1585,7 +1607,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 427558,
       "name": "Experimental Evidence",
       "url": "https://open.spotify.com/track/4gneAAeKWfJVfYv3qXdGXY"
@@ -1933,7 +1955,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 269559,
       "name": "Harder Now",
       "url": "https://open.spotify.com/track/2X8XhkI3gPI710ah4KDqKs"
@@ -3211,6 +3233,24 @@
       "duration_ms": 376615,
       "name": "Nova",
       "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
+    },
+    {
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382045,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
     },
     {
       "album": {

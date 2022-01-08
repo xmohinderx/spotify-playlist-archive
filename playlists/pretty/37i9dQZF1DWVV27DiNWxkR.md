@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,997 likes - 99 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,628 likes - 99 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

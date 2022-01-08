@@ -2,7 +2,7 @@
 
 ### [B.A.E.](https://open.spotify.com/playlist/4mX7G5RGhbP5eelSWBD353)
 
-> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Wale
+> Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Moneybagg Yo
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Wockesha \(with Lil Wayne & Ashanti\) \- Remix](https://open.spotify.com/track/3mLx5JNbIi12thSZ4ExWHg) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Wockesha \(with Lil Wayne & Ashanti\) \[Remix\]](https://open.spotify.com/album/13TVZ98zVHDrUkX9hSElAk) | 3:37 | 2021-09-24 |  |
 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 | 2021-07-16 |  |
 | [Worth It \(feat\. DDG\)](https://open.spotify.com/track/0MqqxjoRiDt3TCMMveEldb) | [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Worth It \(feat\. DDG\)](https://open.spotify.com/album/0pj6cCwELC17fMKygFIhOM) | 3:25 | 2021-10-15 |  |
+| [you & me](https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:24 | 2022-01-07 |  |
 | [You Got Me](https://open.spotify.com/track/1T095p75wC8BqEYlk0ld56) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 1:51 | 2021-12-10 |  |
 | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [You know My body \(feat\. Capella Grey\)](https://open.spotify.com/album/2TJan1yGyJ1Rq6IissY9Gu) | 2:35 | 2021-10-15 |  |
 

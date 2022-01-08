@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg">Zakes Bantwini</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,440 likes - 80 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,472 likes - 80 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 69 | [Amor](https://open.spotify.com/track/2eRYnzb3ySxgmzFlJKV0Re) | [Jazzuelle](https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu), [Tebza De Soul](https://open.spotify.com/artist/3FlsxL6Dd6rMlnhBkij9kg) | [Virtuoso](https://open.spotify.com/album/1OOZE1qHZBXcsk5fkXyrWF) | 7:07 |
 | 70 | [Closer](https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS) | [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Closer / Ma Vie Celeste](https://open.spotify.com/album/3mRuix6vGc5tDkZCao3LiJ) | 6:32 |
 | 71 | [uNomjubane](https://open.spotify.com/track/2YGELdILY913UgGw3pNlzJ) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [uNomjubane](https://open.spotify.com/album/5OlyT9XXUvFzVwc1lasoPP) | 7:45 |
-| 72 | [Inertia \- Mixed](https://open.spotify.com/track/31x43QOPhrtieoJt1FgKQS) | [Vhyce](https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa) | [Inertia](https://open.spotify.com/album/0cGjXdx4NxDuGSwRmrhkwf) | 6:00 |
+| 72 | [Inertia \- Andre Lodemann Remix \- Mixed](https://open.spotify.com/track/31x43QOPhrtieoJt1FgKQS) | [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp), [Jonny Miller](https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV), [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Andre Lodemann](https://open.spotify.com/artist/1Em6QNi57qzKBsy0r4ZPXN) | [Inertia](https://open.spotify.com/album/0cGjXdx4NxDuGSwRmrhkwf) | 6:00 |
 | 73 | [Nqonqoza](https://open.spotify.com/track/1wUwAWGICTkkZyOmFzTugX) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [Phelo Bala](https://open.spotify.com/artist/7LJ0fa8LyKOjMobFCSFvt3) | [When House Was House](https://open.spotify.com/album/7cnm0aGp0FTbaXFd9JBAr7) | 5:59 |
 | 74 | [Bozzo](https://open.spotify.com/track/4d7WKzOJGJWVoxu10qCyyz) | [Shizzo](https://open.spotify.com/artist/25Z0hJqld8QF6Du6HiIPhq), [Shona SA](https://open.spotify.com/artist/2JrL1KzeVKLTNLSzxBtfvk) | [Bozzo](https://open.spotify.com/album/79NV6Hi8fOnDjkAmsl6B5C) | 6:29 |
 | 75 | [Jungle](https://open.spotify.com/track/0dAMik8RRJHMKkwnWpgnJ5) | [Kenza](https://open.spotify.com/artist/3UJzA9qzl9gaEf41cT0ETi), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Fly Away](https://open.spotify.com/album/7pAqAONGCGownZVqQ4N7IT) | 7:17 |

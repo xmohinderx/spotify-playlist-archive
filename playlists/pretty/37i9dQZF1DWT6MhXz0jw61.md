@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 ### [Mellow Bars](https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61)
 
-> Chillout hip\-hop vibes\. Cover: Rick Ross
+> Chillout hip\-hop vibes\. Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,011,556 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,011,999 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 |
-| 2 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 |
-| 3 | [RIP Young](https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:38 |
-| 4 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 |
-| 5 | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY) | 4:49 |
+| 1 | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Outlawz \(feat\. Jazmine Sullivan & 21 Savage\)](https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY) | 4:49 |
+| 2 | [RIP Young](https://open.spotify.com/track/6BiCjPFN5rM9JPy5eP5mCs) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [The House Is Burning](https://open.spotify.com/album/6TQ8nqw43uUOWu7Yqp58ko) | 2:38 |
+| 3 | [Champagne Poetry](https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 5:36 |
+| 4 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 |
+| 5 | [I Deserve \(w/ NOS.\)](https://open.spotify.com/track/4SqPtAd2irUOyLoLcOFtkl) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [NOS.](https://open.spotify.com/artist/7iRauMPdOJBF3RiDHKrXTB) | [I Deserve \(w/ NOS.\)](https://open.spotify.com/album/1jCHZ0ggPkFnm5b1r5ZY8V) | 2:42 |
 | 6 | [Friday Activities](https://open.spotify.com/track/4QxTfL8i7rAou5zZqyOWVE) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Cardo](https://open.spotify.com/artist/73VD4oKkK1toOdTYILLPQx) | [Friday Activities](https://open.spotify.com/album/6g5Ztk1usaEbRPNoW4kGDO) | 3:11 |
 | 7 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX) | 2:28 |
 | 8 | [Blacc Tarantino](https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Cardo](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p), [Sledgren](https://open.spotify.com/artist/4BU9oJUTOxoPchpcPSlUvR) | [Wiz Got Wings](https://open.spotify.com/album/4kLvbwlPQyp6nSCh2Zavsq) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [TV Boy](https://open.spotify.com/track/3JRFhq8N3N8sBlm6Y8upPm) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [TV Boy](https://open.spotify.com/album/13qSQpWNff7wrA9oghJkJo) | 2:26 |
 | 100 | [State of the Union](https://open.spotify.com/track/6AsqnQBAB2OsieFEOg4WuZ) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [State of the Union](https://open.spotify.com/album/0qyZlfEixAKU8WMl1GCNwr) | 4:41 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDE4ZDAwMDAwMTdkZWFjZjY1NDQwMDAwMDE3ZDdkMWY0NDU5`
+Snapshot ID: `MTY0MTUzMTYwMCwwMDAwMDE4ZTAwMDAwMTdlMzJlODZkNDkwMDAwMDE3ZTMxNTZlODY4`

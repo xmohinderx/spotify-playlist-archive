@@ -1,13 +1,29 @@
 {
-  "description": "For those who like the newest songs loud. Very loud. Cover: Three Days Grace",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Falling In Reverse",
   "name": "Rock Hard",
-  "num_followers": 805381,
+  "num_followers": 805674,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDY5MjAwMDAwMTdkYzZjM2NiN2QwMDAwMDE3ZGExNjllOGYw",
+  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDY5MzAwMDAwMTdlMzJlOTU3ODQwMDAwMDE3ZTMxNGJlOGU0",
   "tracks": [
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Zombified",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Zombified",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
+    },
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
@@ -173,6 +189,38 @@
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
     },
     {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Judged",
+        "url": "https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 99090,
+      "name": "Judged",
+      "url": "https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu"
+    },
+    {
+      "added_at": "2021-09-17 04:01:00",
+      "album": {
+        "name": "Surviving The Game",
+        "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb"
+    },
+    {
       "added_at": "2021-09-10 04:01:00",
       "album": {
         "name": "Lifeline",
@@ -187,6 +235,22 @@
       "duration_ms": 193103,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/7ALsy4QJ5BdzWiHbJPglf6"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -221,24 +285,20 @@
       "url": "https://open.spotify.com/track/4hf97gkuBELlhaXAyANra9"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2021-10-08 04:00:00",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ"
+        "name": "EARTHRISE",
+        "url": "https://open.spotify.com/album/5sfygFN1lAjCNwbeFwwNDL"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        },
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
         }
       ],
-      "duration_ms": 183016,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
+      "duration_ms": 296906,
+      "name": "EARTHRISE",
+      "url": "https://open.spotify.com/track/56v5UfviHZFpZ0lghilvOI"
     },
     {
       "added_at": "2021-07-02 04:00:00",
@@ -255,6 +315,38 @@
       "duration_ms": 242424,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "NIRATIAS",
+        "url": "https://open.spotify.com/album/3OFNdoIt29176cAfAoSUfH"
+      },
+      "artists": [
+        {
+          "name": "Chevelle",
+          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "Mars Simula",
+      "url": "https://open.spotify.com/track/1winmqK6HKElJ7q01kxDwj"
+    },
+    {
+      "added_at": "2021-08-06 04:01:00",
+      "album": {
+        "name": "Don't Hate Me",
+        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
+      },
+      "artists": [
+        {
+          "name": "Badflower",
+          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
+        }
+      ],
+      "duration_ms": 251010,
+      "name": "Don't Hate Me",
+      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -289,6 +381,22 @@
       "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
     },
     {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 181520,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg"
+    },
+    {
       "added_at": "2021-05-28 04:01:00",
       "album": {
         "name": "Sane",
@@ -319,6 +427,66 @@
       "duration_ms": 199250,
       "name": "Echo",
       "url": "https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Feast Of Fire",
+        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 258837,
+      "name": "Feast Of Fire",
+      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "IN THREES",
+        "url": "https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA"
+      },
+      "artists": [
+        {
+          "name": "AS IT IS",
+          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
+        },
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        },
+        {
+          "name": "JordyPurp",
+          "url": "https://open.spotify.com/artist/7uEPTaEXCsV396Tt2OalLy"
+        }
+      ],
+      "duration_ms": 185205,
+      "name": "IN THREES",
+      "url": "https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r"
+    },
+    {
+      "added_at": "2021-12-03 05:02:00",
+      "album": {
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        },
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "duration_ms": 183016,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -441,6 +609,70 @@
       "url": "https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F"
     },
     {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/065xNC7HTTcXd7lK2cpkKh"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "The Shower Scene",
+      "url": "https://open.spotify.com/track/4Mjuu75T7tGsCSlagk6Kdj"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "Quarantine Chronicles Vol. 2",
+        "url": "https://open.spotify.com/album/1bCdN53Iv0E5euHixjKQdZ"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Light Up The Sky",
+      "url": "https://open.spotify.com/track/4LlGoVOEmGQtskdfAN415G"
+    },
+    {
       "added_at": "2021-12-03 05:02:00",
       "album": {
         "name": "Kids Against the Monsters",
@@ -503,54 +735,6 @@
       "duration_ms": 214250,
       "name": "All I Really Know",
       "url": "https://open.spotify.com/track/5JjTtaOLyq48joyhVX3ksj"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "Standing in the Storm / Surviving The Game",
-        "url": "https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 257467,
-      "name": "Standing in the Storm",
-      "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Quarantine Chronicles Vol. 2",
-        "url": "https://open.spotify.com/album/1bCdN53Iv0E5euHixjKQdZ"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Light Up The Sky",
-      "url": "https://open.spotify.com/track/4LlGoVOEmGQtskdfAN415G"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Welcome To Horrorwood: The Silver Scream 2",
-        "url": "https://open.spotify.com/album/065xNC7HTTcXd7lK2cpkKh"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 191693,
-      "name": "The Shower Scene",
-      "url": "https://open.spotify.com/track/4Mjuu75T7tGsCSlagk6Kdj"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -653,28 +837,20 @@
       "url": "https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "IN THREES",
-        "url": "https://open.spotify.com/album/7eCCtzR9Vx8Rupmlo1O8eA"
+        "name": "Unsaid",
+        "url": "https://open.spotify.com/album/3vjslnHAw36HG80YWAhos1"
       },
       "artists": [
         {
-          "name": "AS IT IS",
-          "url": "https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y"
-        },
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        },
-        {
-          "name": "JordyPurp",
-          "url": "https://open.spotify.com/artist/7uEPTaEXCsV396Tt2OalLy"
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
         }
       ],
-      "duration_ms": 185205,
-      "name": "IN THREES",
-      "url": "https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r"
+      "duration_ms": 223746,
+      "name": "Unsaid",
+      "url": "https://open.spotify.com/track/5IE22PXeE1MvycfdOGX9dG"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -739,6 +915,38 @@
       "duration_ms": 267426,
       "name": "Awaken Love",
       "url": "https://open.spotify.com/track/3lUljv8dQ66rCPw8Z5G5Ms"
+    },
+    {
+      "added_at": "2021-09-17 04:01:00",
+      "album": {
+        "name": "DiE4u",
+        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "DiE4u",
+      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
+    },
+    {
+      "added_at": "2020-12-14 16:51:03",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV"
     },
     {
       "added_at": "2021-11-26 05:00:00",
@@ -821,22 +1029,6 @@
       "url": "https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
-      "album": {
-        "name": "Dirty Honey",
-        "url": "https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0"
-      },
-      "artists": [
-        {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
-        }
-      ],
-      "duration_ms": 185120,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v"
-    },
-    {
       "added_at": "2021-10-22 04:01:00",
       "album": {
         "name": "The River Is Rising (feat. Myles Kennedy and The Conspirators)",
@@ -873,20 +1065,20 @@
       "url": "https://open.spotify.com/track/5MbVHsjrMrLJkK2GUERvdi"
     },
     {
-      "added_at": "2020-12-14 16:51:03",
+      "added_at": "2021-07-30 04:01:00",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/75pgJat1FOBpDBBNPwaCW8"
+        "name": "Dirty Honey",
+        "url": "https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
         }
       ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/1Td7TGT1XtK2ojUjz1mGUV"
+      "duration_ms": 185120,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/2jDgvn31FTHSYgTMavDv3v"
     },
     {
       "added_at": "2021-10-29 04:01:00",
@@ -923,22 +1115,6 @@
       "duration_ms": 223131,
       "name": "Victory (Feat. Matt B. of From Ashes To New)",
       "url": "https://open.spotify.com/track/7BF2ldGXrlGf9hRQWPeSc6"
-    },
-    {
-      "added_at": "2021-10-08 04:00:00",
-      "album": {
-        "name": "EARTHRISE",
-        "url": "https://open.spotify.com/album/5sfygFN1lAjCNwbeFwwNDL"
-      },
-      "artists": [
-        {
-          "name": "STARSET",
-          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
-        }
-      ],
-      "duration_ms": 296906,
-      "name": "EARTHRISE",
-      "url": "https://open.spotify.com/track/56v5UfviHZFpZ0lghilvOI"
     },
     {
       "added_at": "2021-09-17 04:01:00",
@@ -1077,22 +1253,6 @@
       "url": "https://open.spotify.com/track/45kxQnnDYbzlJ6ZSnaDBEH"
     },
     {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "DiE4u",
-        "url": "https://open.spotify.com/album/4L4TlrXB94790rqWBprweP"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "DiE4u",
-      "url": "https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ"
-    },
-    {
       "added_at": "2021-10-22 04:01:00",
       "album": {
         "name": "Fighting Gravity",
@@ -1107,22 +1267,6 @@
       "duration_ms": 296000,
       "name": "Fighting Gravity",
       "url": "https://open.spotify.com/track/4g0mCLGfAuDATAfmTggACN"
-    },
-    {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Feast Of Fire",
-        "url": "https://open.spotify.com/album/0Wv1dffJbn76Vsh4CWeoOq"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 258837,
-      "name": "Feast Of Fire",
-      "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
     },
     {
       "added_at": "2021-03-05 05:00:00",
@@ -1349,22 +1493,6 @@
       "url": "https://open.spotify.com/track/5Gq2lezOCHN5rIqIlUkvJ7"
     },
     {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "Surviving The Game",
-        "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 238870,
-      "name": "Surviving The Game",
-      "url": "https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb"
-    },
-    {
       "added_at": "2021-10-08 04:00:00",
       "album": {
         "name": "Party At The Cemetery",
@@ -1567,22 +1695,6 @@
     {
       "added_at": "2021-10-15 04:01:00",
       "album": {
-        "name": "Quarantine Chronicles Vol. 3",
-        "url": "https://open.spotify.com/album/6IYKwZgZd6FhTpnbnWZJ3C"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 189054,
-      "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
-      "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
         "name": "Cemetery",
         "url": "https://open.spotify.com/album/5pklsNbfylZ8O9ZDJ9XAdL"
       },
@@ -1703,26 +1815,6 @@
       "duration_ms": 204160,
       "name": "Talking To Ourselves",
       "url": "https://open.spotify.com/track/6glcMk6zo6lPifFJOMueLw"
-    },
-    {
-      "added_at": "2021-07-09 04:00:00",
-      "album": {
-        "name": "Hip To Be Scared [Feat. Jacoby Shaddix]",
-        "url": "https://open.spotify.com/album/1bsb9ahGcfcU1hj6sM61EM"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
-        }
-      ],
-      "duration_ms": 205276,
-      "name": "Hip To Be Scared [Feat. Jacoby Shaddix]",
-      "url": "https://open.spotify.com/track/0w0WukpQaZqC8x1ZzpEcOD"
     },
     {
       "added_at": "2021-08-02 20:32:24",
@@ -1949,22 +2041,6 @@
       "url": "https://open.spotify.com/track/7BQd7bXMRvyXyoLFpxz0hb"
     },
     {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Don't Hate Me",
-        "url": "https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4"
-      },
-      "artists": [
-        {
-          "name": "Badflower",
-          "url": "https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye"
-        }
-      ],
-      "duration_ms": 251010,
-      "name": "Don't Hate Me",
-      "url": "https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW"
-    },
-    {
       "added_at": "2021-08-27 04:00:00",
       "album": {
         "name": "A New Horizon",
@@ -2101,22 +2177,6 @@
       "url": "https://open.spotify.com/track/6PyLzAka8YA6f2g4tZl6ZO"
     },
     {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "NIRATIAS",
-        "url": "https://open.spotify.com/album/3OFNdoIt29176cAfAoSUfH"
-      },
-      "artists": [
-        {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Mars Simula",
-      "url": "https://open.spotify.com/track/1winmqK6HKElJ7q01kxDwj"
-    },
-    {
       "added_at": "2021-07-16 04:01:00",
       "album": {
         "name": "Everybody Sins (Radio Edit)",
@@ -2204,8 +2264,8 @@
       },
       "artists": [
         {
-          "name": "Savage After Midnight",
-          "url": "https://open.spotify.com/artist/6cyx0gB4sqYWHEOhQwOY3y"
+          "name": "S.A.M.",
+          "url": "https://open.spotify.com/artist/4434osAFvB28p0YBv6jREZ"
         }
       ],
       "duration_ms": 216840,
@@ -2291,38 +2351,6 @@
       "duration_ms": 228325,
       "name": "Change the Waters",
       "url": "https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "Rise, Naianasha (Cut The Cord)",
-        "url": "https://open.spotify.com/album/2zGZlGvfC5yrZO6YXhIF8p"
-      },
-      "artists": [
-        {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
-        }
-      ],
-      "duration_ms": 319086,
-      "name": "Rise, Naianasha (Cut The Cord)",
-      "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
-    },
-    {
-      "added_at": "2021-04-16 04:00:00",
-      "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/6jCTUPS3peZzWgpXVMnvsJ"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 233092,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
     },
     {
       "added_at": "2021-09-03 04:00:00",
@@ -2505,26 +2533,6 @@
       "url": "https://open.spotify.com/track/0v1QET6Q1YD7HQK4FBT8on"
     },
     {
-      "added_at": "2021-05-28 04:01:00",
-      "album": {
-        "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
-        "url": "https://open.spotify.com/album/3pSmwSKb6XLN4WtYI5knKB"
-      },
-      "artists": [
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        },
-        {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
-        }
-      ],
-      "duration_ms": 194307,
-      "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
-      "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
-    },
-    {
       "added_at": "2021-06-11 04:00:00",
       "album": {
         "name": "GlitchGang",
@@ -2619,22 +2627,6 @@
       "duration_ms": 302440,
       "name": "Cells",
       "url": "https://open.spotify.com/track/5ZGalIimr1Z2KNLGzeYV7G"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "Strength",
-        "url": "https://open.spotify.com/album/03By4D4AeAw1KPlfFt76yA"
-      },
-      "artists": [
-        {
-          "name": "Unto Others",
-          "url": "https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI"
-        }
-      ],
-      "duration_ms": 293463,
-      "name": "Hell Is For Children",
-      "url": "https://open.spotify.com/track/2Gu034eU66d5MFRKkxWEY1"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C"

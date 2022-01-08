@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Ay, Ay",
+        "url": "https://open.spotify.com/album/6GeJiKXFpthhsp4lefVGpu"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194981,
+      "name": "Ay, Ay",
+      "url": "https://open.spotify.com/track/7KwQb3KXH18ZUSM68Fpa4a"
+    },
+    {
+      "album": {
         "name": "Basyer",
         "url": "https://open.spotify.com/album/6wUDb1VSlXl8cKulCmZfhx"
       },
@@ -207,7 +225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 209341,
       "name": "Besos de Lim\u00f3n",
       "url": "https://open.spotify.com/track/6OFLfh8JGk19XO7w0bnVio"
@@ -349,7 +367,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 306866,
       "name": "Carnival (feat. Solis & Randy Valentine)",
       "url": "https://open.spotify.com/track/3FEN1Usl4Z4IceFbBZ1rmI"
@@ -407,7 +425,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 280653,
       "name": "Colores",
       "url": "https://open.spotify.com/track/4I8gb9fya6GgNCh5Bdm2pA"
@@ -461,7 +479,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 212533,
       "name": "Conexi\u00f3n",
       "url": "https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 217827,
       "name": "Fishaman (feat. Elkin Robinson)",
       "url": "https://open.spotify.com/track/3rMqitYF1U4IHqEQjWhmJP"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 307856,
       "name": "Hasta la Noche (Ilegal) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BzncqR8TyG5Jzy7NNk9pm"
@@ -919,7 +937,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 351573,
       "name": "Jah Live",
       "url": "https://open.spotify.com/track/15gJmbM0pjL1yjIASTyW0x"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 254058,
       "name": "La Naturaleza",
       "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "Las Ganas de Vivir",
       "url": "https://open.spotify.com/track/5JKsY1CEoZhfg5KAqu7eML"
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 217717,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
@@ -1221,7 +1239,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 227099,
       "name": "Lo Quiero Todo",
       "url": "https://open.spotify.com/track/6gpLTvmHWj12Z03hFgixkH"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 485426,
       "name": "Los Ni\u00f1os del Jah",
       "url": "https://open.spotify.com/track/5HLejuMi8DNmFU8Brh9mf2"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 260307,
       "name": "Mi Bendicion",
       "url": "https://open.spotify.com/track/1PSSezrGFOtnnd0j3AG9QU"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 243226,
       "name": "Mi Ni\u00f1a",
       "url": "https://open.spotify.com/track/32dbDZjc45fBUUFaSU3DMg"
@@ -1623,7 +1641,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 309213,
       "name": "Por Cultivar Marihuana",
       "url": "https://open.spotify.com/track/3hcGo9ePUX6CFqB1NpZE9L"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 296666,
       "name": "Reggae Para Los Amigos",
       "url": "https://open.spotify.com/track/3rLMwqrvbr38wcud6FxB8i"
@@ -1827,7 +1845,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 252253,
       "name": "Revolucionario",
       "url": "https://open.spotify.com/track/5XYDJ2lnwf712Ojud1TLHE"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 211680,
       "name": "Sin Ti (feat. Quique Neira)",
       "url": "https://open.spotify.com/track/6209QxIqPJxYsO64iVYRpi"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 278626,
       "name": "Tan Distante",
       "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
@@ -2255,7 +2273,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 258687,
       "name": "Vendedores da F\u00e9",
       "url": "https://open.spotify.com/track/0WtKKoo9qwV1Q2z8THLGRd"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 236368,
       "name": "Yo Tampoco",
       "url": "https://open.spotify.com/track/5lIjO0wVA98cQLBvuz2kqI"

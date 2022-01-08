@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 133720,
       "name": "All\u00e1 en el rancho grande (remastered)",
       "url": "https://open.spotify.com/track/3a9QpnHcG3KeLgv7Lhc6yy"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 166373,
       "name": "Cancion Mexicana",
       "url": "https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5"
@@ -228,6 +228,24 @@
     },
     {
       "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120600,
+      "name": "El Caballito",
+      "url": "https://open.spotify.com/track/3eiOUlAZSK8DQ9IIqrg8r3"
+    },
+    {
+      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
@@ -265,7 +283,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 165186,
       "name": "El Carrettero",
       "url": "https://open.spotify.com/track/0yzxLJNo9gwKWWk1TJJr15"
@@ -355,7 +373,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 197626,
       "name": "El Hidalguense",
       "url": "https://open.spotify.com/track/0hPhkx33UhHLy0cx4HcPsJ"
@@ -373,7 +391,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 262933,
       "name": "El Jarabe Jalisciense",
       "url": "https://open.spotify.com/track/3UU2ya43dA5iRePqIs6ZMf"
@@ -391,7 +409,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 191133,
       "name": "El mariachi",
       "url": "https://open.spotify.com/track/6lBalxphK1ccXVwlxYng9H"
@@ -449,7 +467,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 186453,
       "name": "El Mezcalito",
       "url": "https://open.spotify.com/track/5W2NjVnqgsyLRzCBJA2wNj"
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 174306,
       "name": "El Pajaro Carpintero",
       "url": "https://open.spotify.com/track/08fOgmsOmZyzXvly76Mp7K"
@@ -655,7 +673,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 137586,
       "name": "El Son De Los Aguacates",
       "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
@@ -673,7 +691,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 176844,
       "name": "El Son de Mi Tierra",
       "url": "https://open.spotify.com/track/3UjLx3Hx0TM0Z8gkCqQ6wa"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 509538,
       "name": "Huapango",
       "url": "https://open.spotify.com/track/3e8ti8qmE5Tyuazz0jvqJM"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 165040,
       "name": "Jesucita en Chihuahua",
       "url": "https://open.spotify.com/track/2Hmt4wtmK3mJVCTj823VW7"
@@ -987,7 +1005,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 224880,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/5X73yzsOCpeyCzQMcCK37B"
@@ -1041,7 +1059,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 148000,
       "name": "La cigarra (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/2WGca11c057gzsEfSJGB68"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 228454,
       "name": "La Macarena",
       "url": "https://open.spotify.com/track/2liC3JMadw3s7cTTZqcel3"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 190217,
       "name": "La Verdolaga (Huapango)",
       "url": "https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 144720,
       "name": "Las Abajenas",
       "url": "https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 173800,
       "name": "Mi Nombre Es M\u00e9xico",
       "url": "https://open.spotify.com/track/6jQt6ffbmwCtxCEUzBt4D4"
@@ -1549,7 +1567,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 206946,
       "name": "Popurri Jarocho",
       "url": "https://open.spotify.com/track/78SHvCcwpWBehX2YzaF5UJ"
@@ -1589,7 +1607,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 214120,
       "name": "Que Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/450De2xJInnSzKGgFucBqP"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 153466,
       "name": "Rancho Grande",
       "url": "https://open.spotify.com/track/3fOJtfyLvJs1Xc5s5oMpIB"

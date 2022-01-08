@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSjoMyJoVXv.md) - [plain]
 
 > The Bollywood songwriting team's best work.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,068 likes - 30 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,116 likes - 30 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best recent metal tracks. Cover: System Of A Down",
+  "description": "The best recent metal tracks. Cover: Arch Enemy",
   "name": "Metal Rewind",
   "published_playlist_ids": [
     "60nXJ45agAFWh0gM8e58vr"
@@ -134,6 +134,28 @@
     },
     {
       "album": {
+        "name": "Bloodmoon: I",
+        "url": "https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY"
+      },
+      "artists": [
+        {
+          "name": "Converge",
+          "url": "https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1"
+        },
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470666,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/1e6vaSlam2MX9jsp4Rzzhe"
+    },
+    {
+      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
       },
@@ -221,6 +243,24 @@
       "duration_ms": 228272,
       "name": "Darkbloom",
       "url": "https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9"
+    },
+    {
+      "album": {
+        "name": "Deceiver, Deceiver",
+        "url": "https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231773,
+      "name": "Deceiver, Deceiver",
+      "url": "https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql"
     },
     {
       "album": {
@@ -877,7 +917,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 162965,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/38yfG6JHTZ98yDcuOu1f1l"
@@ -913,7 +953,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 140053,
       "name": "Wait A Minute My Girl",
       "url": "https://open.spotify.com/track/3klr703oglZwVMiugDTDm7"

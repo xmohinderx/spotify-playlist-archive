@@ -62,6 +62,32 @@
     },
     {
       "album": {
+        "name": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
+        "url": "https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy"
+      },
+      "artists": [
+        {
+          "name": "Shy Carter",
+          "url": "https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V"
+        },
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        {
+          "name": "David Lee Murphy",
+          "url": "https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176533,
+      "name": "Beer With My Friends (feat. Cole Swindell and David Lee Murphy)",
+      "url": "https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5"
+    },
+    {
+      "album": {
         "name": "Better Than You're Used To",
         "url": "https://open.spotify.com/album/37GJGzAddc4qHBq4UySNLS"
       },
@@ -834,6 +860,24 @@
     },
     {
       "album": {
+        "name": "County Line",
+        "url": "https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w"
+    },
+    {
+      "album": {
         "name": "Same Boat",
         "url": "https://open.spotify.com/album/3R96aUhMwOqTpQ1EbQvQUl"
       },
@@ -1181,6 +1225,24 @@
       "duration_ms": 192026,
       "name": "You Time",
       "url": "https://open.spotify.com/track/3yFsyy1hw7v31NBrRJX2QM"
+    },
+    {
+      "album": {
+        "name": "Zero Trucks",
+        "url": "https://open.spotify.com/album/1zVnFzjzIPZzijLT6ibqKi"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162695,
+      "name": "Zero Trucks",
+      "url": "https://open.spotify.com/track/3bF0cfm6aZ7rQlZAyklEeb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6rVyqO2FaN8"

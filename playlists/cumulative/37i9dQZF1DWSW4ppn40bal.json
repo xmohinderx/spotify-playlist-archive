@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Deep Brown Noise",
+        "url": "https://open.spotify.com/album/7lh4bkGQuYliAX27V3xKZa"
+      },
+      "artists": [
+        {
+          "name": "Deepnoum",
+          "url": "https://open.spotify.com/artist/6BF4rM6yrQ3SkKP8rcEdBi"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219939,
+      "name": "Brown Noise Rain",
+      "url": "https://open.spotify.com/track/2nmjkByTFJrfaqkkAvL0qN"
+    },
+    {
+      "album": {
         "name": "Brown Noise Deep Sleep",
         "url": "https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj"
       },

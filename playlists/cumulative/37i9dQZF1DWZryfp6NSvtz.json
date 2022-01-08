@@ -1246,6 +1246,24 @@
     },
     {
       "album": {
+        "name": "Shame On You",
+        "url": "https://open.spotify.com/album/7rAfGUGoGPQNYM9RK0musY"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200209,
+      "name": "Shame On You",
+      "url": "https://open.spotify.com/track/6sVs6TJapaC9piCpAgZyZc"
+    },
+    {
+      "album": {
         "name": "She\u2019s So Precious",
         "url": "https://open.spotify.com/album/224T0FX77GpuQah5b49Yya"
       },

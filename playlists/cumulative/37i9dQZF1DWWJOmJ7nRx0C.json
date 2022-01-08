@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "For those who like the newest songs loud. Very loud. Cover: Three Days Grace",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Falling In Reverse",
   "name": "Rock Hard",
   "published_playlist_ids": [
     "2UlZpIm54Pz4o9EirPo1mN"
@@ -604,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215346,
+      "name": "Circle The Drain",
+      "url": "https://open.spotify.com/track/37LTDJrNmWco1qHO1AuZ1r"
+    },
+    {
+      "album": {
         "name": "Comatose (feat. Jonathan D\u00f6rr of Ego Kill Talent)",
         "url": "https://open.spotify.com/album/4y3GxLOfzWRP4DWbaF7ALO"
       },
@@ -637,7 +655,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 233092,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4ZtYo7EHWYsTvqsLL153r4"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 194307,
       "name": "FU2 (feat. AJ Channer of Fire From The Gods)",
       "url": "https://open.spotify.com/track/5yLQ9epAVnt9Tx19izzDI5"
@@ -1251,7 +1269,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 293463,
       "name": "Hell Is For Children",
       "url": "https://open.spotify.com/track/2Gu034eU66d5MFRKkxWEY1"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 205276,
       "name": "Hip To Be Scared [Feat. Jacoby Shaddix]",
       "url": "https://open.spotify.com/track/0w0WukpQaZqC8x1ZzpEcOD"
@@ -1473,6 +1491,24 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "album": {
+        "name": "Judged",
+        "url": "https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99090,
+      "name": "Judged",
+      "url": "https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu"
     },
     {
       "album": {
@@ -1798,6 +1834,24 @@
     },
     {
       "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220026,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
+    },
+    {
+      "album": {
         "name": "Quarantine Collaborations",
         "url": "https://open.spotify.com/album/0C2DCVriqRYCWhancrKQBv"
       },
@@ -1910,6 +1964,24 @@
     },
     {
       "album": {
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg"
+    },
+    {
+      "album": {
         "name": "Ramon Ayala",
         "url": "https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI"
       },
@@ -1979,7 +2051,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 319086,
       "name": "Rise, Naianasha (Cut The Cord)",
       "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
@@ -2055,6 +2127,24 @@
       "duration_ms": 162985,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7pTRGbXC1DLFJblKPmd2o7"
+    },
+    {
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G"
     },
     {
       "album": {
@@ -2269,8 +2359,8 @@
       },
       "artists": [
         {
-          "name": "Savage After Midnight",
-          "url": "https://open.spotify.com/artist/6cyx0gB4sqYWHEOhQwOY3y"
+          "name": "S.A.M.",
+          "url": "https://open.spotify.com/artist/4434osAFvB28p0YBv6jREZ"
         }
       ],
       "date_added": "2021-06-25",
@@ -2311,7 +2401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 257467,
       "name": "Standing in the Storm",
       "url": "https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq"
@@ -2652,6 +2742,24 @@
     },
     {
       "album": {
+        "name": "Unsaid",
+        "url": "https://open.spotify.com/album/3vjslnHAw36HG80YWAhos1"
+      },
+      "artists": [
+        {
+          "name": "Citizen Soldier",
+          "url": "https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223746,
+      "name": "Unsaid",
+      "url": "https://open.spotify.com/track/5IE22PXeE1MvycfdOGX9dG"
+    },
+    {
+      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/5KQP4GU3vUJvcqDDnsxcGC"
       },
@@ -2783,7 +2891,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 189054,
       "name": "Wait For Me (feat. Trevor McNevan of Thousand Foot Krutch)",
       "url": "https://open.spotify.com/track/5CGfdX7fVUbDVHZSIk7loe"
@@ -2925,6 +3033,24 @@
       "duration_ms": 271025,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88"
+    },
+    {
+      "album": {
+        "name": "Zombified",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "Zombified",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
     },
     {
       "album": {

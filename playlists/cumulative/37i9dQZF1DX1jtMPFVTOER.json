@@ -1330,6 +1330,24 @@
     },
     {
       "album": {
+        "name": "Love & Justice",
+        "url": "https://open.spotify.com/album/3sDIdiwV7fdKWnp7TeMJ7J"
+      },
+      "artists": [
+        {
+          "name": "Grace Victoria",
+          "url": "https://open.spotify.com/artist/0cKCQAmUMmD05Nc2sZwOta"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219179,
+      "name": "Let Me Tell You",
+      "url": "https://open.spotify.com/track/6mvNXpr2TruQixVp4VjEQR"
+    },
+    {
+      "album": {
         "name": "Swagism",
         "url": "https://open.spotify.com/album/1nbt7NWLOOyx5uLo2j6Pwu"
       },
@@ -2213,6 +2231,28 @@
       "duration_ms": 304838,
       "name": "Tango",
       "url": "https://open.spotify.com/track/36H4R9Ai9UD9oPE5bb7p2m"
+    },
+    {
+      "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1QuizmDDKmJctBcHL931aG"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234386,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/3pSL8LoyWexY7vgq84baOA"
     },
     {
       "album": {

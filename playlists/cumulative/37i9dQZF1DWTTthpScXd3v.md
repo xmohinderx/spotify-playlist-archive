@@ -2,12 +2,13 @@
 
 ### [This Is David Bowie](https://open.spotify.com/playlist/6EfM0KWUN0kxvY1aziB4Fv)
 
-> One of the greatest of all time, in 72 songs.
+> One of the greatest of all time\. 75 years\. Celebrate his legacy here.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A New Career in a New Town \- 1999 Remaster](https://open.spotify.com/track/6aMMrtgcmI1K26zMzPk5L4) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [All Saints](https://open.spotify.com/album/1TavCukHKgRsOx8nXcmY2c) | 2:53 | 2020-04-15 |  |
 | [Absolute Beginners \- 2002 Remaster](https://open.spotify.com/track/1F6WOrW9vtrE5v1XWl08k4) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Platinum Collection](https://open.spotify.com/album/40pUoRK9pOn3tMoXY02fUB) | 5:37 | 2020-04-15 |  |
+| [Absolute Beginners \- 2002 Remaster](https://open.spotify.com/track/5PBFhuXB9tgBaP31nfbkS5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Absolute Beginners](https://open.spotify.com/album/4YfMtOTb3PcIbv5VI6zibX) | 5:37 | 2022-01-07 |  |
 | [All the Young Dudes](https://open.spotify.com/track/5vzaqidXgCFsPdso7BvGT5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Legacy \(The Very Best Of David Bowie, Deluxe\)](https://open.spotify.com/album/4JEgSaokMH5mMRClx9wp3S) | 3:08 | 2020-04-15 |  |
 | [Always Crashing in the Same Car \- 2017 Remaster](https://open.spotify.com/track/398zRjOCFejcNpoXxrgEfc) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [A New Career in a New Town \(1977 \- 1982\)](https://open.spotify.com/album/6DcvIymXDe8sCD1u0fzi8J) | 3:35 | 2020-04-15 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/1JHUxxd77M4ViaqJZfBdl0) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters](https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe) | 4:23 | 2020-04-15 |  |
@@ -20,6 +21,7 @@
 | [Cat People \(Putting out Fire\) \- 1999 Remaster](https://open.spotify.com/track/2uki1VRt9gZs2za2VUoBIC) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 5:09 | 2020-04-15 |  |
 | [Changes \- 2015 Remaster](https://open.spotify.com/track/3HlOk3Iy7vkOfROwBbJqfx) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [ChangesOneBowie](https://open.spotify.com/album/3aGkjugjzDWaETRbbRafoF) | 3:37 | 2020-04-15 |  |
 | [China Girl \- 2002 Remaster](https://open.spotify.com/track/7Dy1LOaEeuYOEe5k17T3Rh) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [China Girl](https://open.spotify.com/album/6VchS51lY0ox0b6YMYaoNs) | 4:17 | 2020-04-15 |  |
+| [Dancing in the Street \- 2002 Remaster](https://open.spotify.com/track/6FnuMo55jNECTDdS1nD5H0) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Dancing In The Street E.P.](https://open.spotify.com/album/25vNR2X4RTa0UJ9aKqaXqz) | 3:24 | 2022-01-07 |  |
 | [Dancing in the Street \- 2014 Remaster](https://open.spotify.com/track/03TgsqfeJDuAUCjIkomnV5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO) | [Nothing Has Changed \(The Best of David Bowie\) \[Deluxe Edition\]](https://open.spotify.com/album/5CeaUy7mAbMw3nMI3ezmie) | 3:10 | 2020-04-15 |  |
 | [Diamond Dogs \- 1999 Remaster](https://open.spotify.com/track/3MrxdpIOiuI9ahr3MfcYqA) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs](https://open.spotify.com/album/2DmRgCxxL9Assv82PAWkDJ) | 6:05 | 2020-04-15 |  |
 | [Everyone Says 'Hi'](https://open.spotify.com/track/06b2GMtBeNV7IODxVM34fi) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Heathen](https://open.spotify.com/album/6cideQBTEM8b6pQ40OHQ2P) | 3:57 | 2020-04-15 |  |
@@ -52,6 +54,7 @@
 | [Rock 'n' Roll Suicide \- 2012 Remaster](https://open.spotify.com/track/1k5iH4KDKi56MFvlnrALNV) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 2:58 | 2020-04-15 |  |
 | [Scary Monsters \(And Super Creeps\) \- 1999 Remaster](https://open.spotify.com/track/4UrRkV1HqJkp4MCjB8RgM1) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Scary Monsters](https://open.spotify.com/album/53YfKqwV8lphizo06QSxEe) | 5:12 | 2020-04-15 |  |
 | [Seven](https://open.spotify.com/track/6TtoDxmnJfBRgW8FlZViDz) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hours..\. \(Expanded Edition\)](https://open.spotify.com/album/79EPGP6VA65fDFs4fgFpel) | 4:04 | 2020-04-15 |  |
+| [Shadow Man \- Unplugged & Somewhat Slightly Electric Mix](https://open.spotify.com/track/18wwNNbXchWt4jowT65YyY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Toy \(Toy:Box\)](https://open.spotify.com/album/0NFcvZO9xMAnYhPn3sfhBp) | 4:18 | 2022-01-07 |  |
 | [She's Got Medals](https://open.spotify.com/track/0Jw3NxM4v0h5gEnIksVISg) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [David Bowie](https://open.spotify.com/album/0RlVSyFuyxXbZBrXRDLr3q) | 2:26 | 2020-04-15 |  |
 | [Sorrow \- 2015 Remaster](https://open.spotify.com/track/21FFj5GqlujABc0H06uN8j) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Pinups \(2015 Remaster\)](https://open.spotify.com/album/71nxmbr3tHAVyvdHXc0ltd) | 2:53 | 2020-04-15 |  |
 | [Sound and Vision \- 1999 Remaster](https://open.spotify.com/track/2JzZ8UTEb1GGvR8Ra0Nfy2) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(1999 Remaster\)](https://open.spotify.com/album/0Oqi3Mm316FRX5H9mHjF0b) | 3:04 | 2020-04-15 |  |

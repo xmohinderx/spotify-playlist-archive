@@ -1,28 +1,240 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2021% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
   "name": "New Music Friday: The Popjustice Edit",
-  "num_followers": 10227,
+  "num_followers": 10229,
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjE5MiwwOGEyNWIxMDUwZjZjYWFmODEyNzQwMTNiZjU3MTdiMzA4ZGQxZGI5",
+  "snapshot_id": "MjE5NCwwNjg3NTMwYTY4ZTQ2OTljMWQxMTcwMmJmNTM2ODdjMDA2ZTRiZDgz",
   "tracks": [
     {
-      "added_at": "2021-12-24 07:10:45",
+      "added_at": "2022-01-07 08:49:39",
       "album": {
-        "name": "Save Christmas!",
-        "url": "https://open.spotify.com/album/2zrPxLmYvTLuguOmHFLD94"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
-          "name": "The Lancashire Hotpots",
-          "url": "https://open.spotify.com/artist/5ac41g3jUH9rBoe6zawiaB"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 101266,
-      "name": "Santa Claus Is COVID Secure",
-      "url": "https://open.spotify.com/track/2p0HdtkewRvETe1OFCO4wU"
+      "duration_ms": 211814,
+      "name": "Less Than Zero",
+      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Happy New Year",
+        "url": "https://open.spotify.com/album/27akBDSoCa34vZlfyl2KrC"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 279240,
+      "name": "Happy New Year",
+      "url": "https://open.spotify.com/track/6PbirqXeIG94tn0lXcrnYu"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "PHUCKBOI REJECTS",
+        "url": "https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 126279,
+      "name": "PHUCKBOI REJECTS",
+      "url": "https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Tricky (feat. Autumn Rowe)",
+        "url": "https://open.spotify.com/album/4AeKrfj4BNOyu4SvIjrdb3"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Autumn Rowe",
+          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Tricky (feat. Autumn Rowe)",
+      "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/36NunO7DcnCicrouHOWx3k"
+      },
+      "artists": [
+        {
+          "name": "Foxes",
+          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+        }
+      ],
+      "duration_ms": 190493,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/70kXZrr725uByBF2ozE5Xa"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Already Mine",
+        "url": "https://open.spotify.com/album/7nkeRsDWy0FqTPyXMp0yxO"
+      },
+      "artists": [
+        {
+          "name": "Sam Short",
+          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Already Mine",
+      "url": "https://open.spotify.com/track/1KKMr0ZDhEdbaB7YfI61Te"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "drunk text me",
+        "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Worth Keeping",
+        "url": "https://open.spotify.com/album/7zLX5yYnAHDRYN2qSeGKmW"
+      },
+      "artists": [
+        {
+          "name": "Greta Jaime",
+          "url": "https://open.spotify.com/artist/2L5LSUhkLo20iqPTNA5aC5"
+        }
+      ],
+      "duration_ms": 156724,
+      "name": "Worth Keeping",
+      "url": "https://open.spotify.com/track/4DFA5r7wA63gHbVISE1fBL"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Finally Alone",
+        "url": "https://open.spotify.com/album/1qJKJr5UD3B0uZRDyyl1oK"
+      },
+      "artists": [
+        {
+          "name": "Matilda",
+          "url": "https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp"
+        }
+      ],
+      "duration_ms": 190583,
+      "name": "Finally Alone",
+      "url": "https://open.spotify.com/track/5Gzli4qb5uo2evQUni5pnc"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Let Them (It's All Love)",
+        "url": "https://open.spotify.com/album/4YF87wW7YFhdQBg3FZxagR"
+      },
+      "artists": [
+        {
+          "name": "Tom Aspaul",
+          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+        }
+      ],
+      "duration_ms": 183256,
+      "name": "Let Them (It's All Love)",
+      "url": "https://open.spotify.com/track/0BCdgJr5KgYGpsZYIEMLdj"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Purple Sun",
+        "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "Purple Sun",
+      "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221120,
+      "name": "Pink Convertible",
+      "url": "https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1"
+    },
+    {
+      "added_at": "2022-01-07 08:49:39",
+      "album": {
+        "name": "Fear Of Dying",
+        "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Fear Of Dying",
+      "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
     }
   ],
   "url": "https://open.spotify.com/playlist/5s7cNVeGfehrRfCatNN43P"

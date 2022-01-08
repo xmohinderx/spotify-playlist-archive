@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Three Days Grace",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Billy Talent",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "Always on the Edge",
+        "url": "https://open.spotify.com/album/6kzLlWSMzUaFQRkPn4Ai7d"
+      },
+      "artists": [
+        {
+          "name": "Darling Congress",
+          "url": "https://open.spotify.com/artist/3jdCFBGkuOaIWgPFzcwxk7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187422,
+      "name": "Always on the Edge",
+      "url": "https://open.spotify.com/track/1PzG9uwuM6da6T2tCNlYfz"
+    },
     {
       "album": {
         "name": "Blink Once",
@@ -504,6 +522,24 @@
     },
     {
       "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173314,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf"
+    },
+    {
+      "album": {
         "name": "Nostalgia Kills",
         "url": "https://open.spotify.com/album/73CL5UnRoxj4J5qjR5PF94"
       },
@@ -519,6 +555,24 @@
       "duration_ms": 126973,
       "name": "Gear",
       "url": "https://open.spotify.com/track/5M1RoWJQGBR4PVxzFdhD8M"
+    },
+    {
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0EqWNzN38t0gTqgsxf1sRh"
+      },
+      "artists": [
+        {
+          "name": "The Riot Police",
+          "url": "https://open.spotify.com/artist/0friBnrKTzdtdl8S2hb55x"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195814,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/5R8SxUYD9W4rXuak7DH1nh"
     },
     {
       "album": {
@@ -577,6 +631,24 @@
       "duration_ms": 169977,
       "name": "Head Up",
       "url": "https://open.spotify.com/track/4gewBWXN96LS6K71Cvr3oa"
+    },
+    {
+      "album": {
+        "name": "Hellbound",
+        "url": "https://open.spotify.com/album/1kfFVkWbq62lKHWtW2yPj8"
+      },
+      "artists": [
+        {
+          "name": "DYLYN",
+          "url": "https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165186,
+      "name": "Hellbound",
+      "url": "https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V"
     },
     {
       "album": {
@@ -786,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Judged",
+        "url": "https://open.spotify.com/album/1auMaxs0lMueYI8YQktVkG"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99090,
+      "name": "Judged",
+      "url": "https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu"
+    },
+    {
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/62YEeyuU5wGyMRPy6OWUVJ"
       },
@@ -797,7 +887,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 151080,
       "name": "Julia",
       "url": "https://open.spotify.com/track/2YDE0tqWm0fR1Hpv1tdefZ"
@@ -913,7 +1003,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 142760,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U"
@@ -1273,7 +1363,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 190186,
       "name": "Ouch",
       "url": "https://open.spotify.com/track/1X7m1zd25Xx2y8yt0FOOii"
@@ -1334,6 +1424,24 @@
     },
     {
       "album": {
+        "name": "If I Can\u2019t Have Love, I Want Power (Extended)",
+        "url": "https://open.spotify.com/album/0yMLTRxwcDN5XHjP5w8jAH"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247680,
+      "name": "People disappear here",
+      "url": "https://open.spotify.com/track/7h5CR4nRDXUwuTKw66T5Nx"
+    },
+    {
+      "album": {
         "name": "Perfect Blue",
         "url": "https://open.spotify.com/album/5460Bl2lDmmkDvVS8YitfQ"
       },
@@ -1345,7 +1453,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 205222,
       "name": "Perfect Blue",
       "url": "https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4"
@@ -1627,7 +1735,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 250293,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/0RuEq9d9PghUx1R4u1fenW"
@@ -1833,7 +1941,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 190973,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2TfZoYnsj6V0GAKytmNidf"
@@ -1905,10 +2013,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 180080,
       "name": "Your Heart's My Home",
       "url": "https://open.spotify.com/track/62BZ84o01M2xtvjk7uMVsw"
+    },
+    {
+      "album": {
+        "name": "Zombified",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218520,
+      "name": "Zombified",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41"

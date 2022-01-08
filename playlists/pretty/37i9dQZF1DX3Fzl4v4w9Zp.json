@@ -1,13 +1,33 @@
 {
-  "description": "Keep your finger on the pulse of Americana. Cover: Molly Tuttle\n",
+  "description": "Keep your finger on the pulse of Americana. Cover: Brandi Carlile",
   "name": "The Pulse of Americana",
-  "num_followers": 578321,
+  "num_followers": 578415,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTc2NjQ2OCwwMDAwMDEwNTAwMDAwMTdkYzliMmE3OWYwMDAwMDE3ZDNhMGQ2NWMx",
+  "snapshot_id": "MTY0MTUzMTYwMCwwMDAwMDEwNjAwMDAwMTdlMzJlODZkNGMwMDAwMDE3ZTMxYmMwZDZi",
   "tracks": [
+    {
+      "added_at": "2021-12-17 18:41:08",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
     {
       "added_at": "2021-12-17 18:41:08",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD"
+    },
+    {
+      "added_at": "2021-12-17 18:41:08",
+      "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "Stand For Myself",
+      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
     },
     {
       "added_at": "2021-12-17 18:41:08",
@@ -143,42 +179,6 @@
       "duration_ms": 204548,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02"
-    },
-    {
-      "added_at": "2021-12-17 18:41:08",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 253253,
-      "name": "Stand For Myself",
-      "url": "https://open.spotify.com/track/6Oxs28sGtuS3RYlOmIu5K7"
-    },
-    {
-      "added_at": "2021-12-17 18:41:08",
-      "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": "2021-12-17 18:41:08",
@@ -309,6 +309,42 @@
       "url": "https://open.spotify.com/track/5ihYhdTD821QxrVkb4OSAh"
     },
     {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Everybody (feat. Jenny Lewis)",
+        "url": "https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        },
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Everybody (feat. Jenny Lewis)",
+      "url": "https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "El Deafo (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 163760,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW"
+    },
+    {
       "added_at": "2021-12-17 18:41:08",
       "album": {
         "name": "Modern Man",
@@ -379,6 +415,22 @@
     {
       "added_at": "2021-12-17 18:41:08",
       "album": {
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP"
+    },
+    {
+      "added_at": "2021-12-17 18:41:08",
+      "album": {
         "name": "A Few Stars Apart",
         "url": "https://open.spotify.com/album/3n8WHHm1XYXFsGMjY6v84D"
       },
@@ -391,6 +443,26 @@
       "duration_ms": 169813,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/5YmEX0jmnkxNNg8vJsvbPN"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Rock and Roll Doctor",
+        "url": "https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930"
+      },
+      "artists": [
+        {
+          "name": "The Band Of Heathens",
+          "url": "https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7"
+        },
+        {
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+        }
+      ],
+      "duration_ms": 182226,
+      "name": "Rock and Roll Doctor",
+      "url": "https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C"
     },
     {
       "added_at": "2021-12-17 18:41:08",
@@ -467,22 +539,6 @@
     {
       "added_at": "2021-12-17 18:41:08",
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2hQB96fVsBj6D0uoy2Hbs8"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/2DtkXqhFKskzSz1Y2xGepP"
-    },
-    {
-      "added_at": "2021-12-17 18:41:08",
-      "album": {
         "name": "Fire Line",
         "url": "https://open.spotify.com/album/0BdclIcrznTE1jZPb8BbT4"
       },
@@ -497,20 +553,20 @@
       "url": "https://open.spotify.com/track/53DleDiH6Vaj0Vx8Opp6Kc"
     },
     {
-      "added_at": "2021-12-17 18:41:08",
+      "added_at": "2022-01-07 05:00:00",
       "album": {
-        "name": "Hey Baby",
-        "url": "https://open.spotify.com/album/7x1T2pgVdYrtVfLt1fd3cT"
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
       },
       "artists": [
         {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 170915,
-      "name": "Hey Baby",
-      "url": "https://open.spotify.com/track/6lJ6Tbyfhd4mKMSQOIxzJV"
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
     },
     {
       "added_at": "2021-12-17 18:41:08",

@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 261399,
       "name": "Hit Me Off",
       "url": "https://open.spotify.com/track/0yNCFwihschpOwSgK31f2O"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 299506,
       "name": "Let's Get Down",
       "url": "https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7"
@@ -785,7 +785,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 232733,
       "name": "Nobody Else",
       "url": "https://open.spotify.com/track/2ZmUMKX5cJQfQj12SmGYtg"
@@ -904,6 +904,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/50q6yYmQ9Mzk4L95sxGXib"
+      },
+      "artists": [
+        {
+          "name": "Hi-Five",
+          "url": "https://open.spotify.com/artist/0EVUivUkugMtNF09L4QBMH"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276573,
+      "name": "She's Playing Hard To Get",
+      "url": "https://open.spotify.com/track/3xRbymJj98leHL7K8Y94WS"
+    },
+    {
+      "album": {
         "name": "No Doubt",
         "url": "https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO"
       },
@@ -995,7 +1013,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 293600,
       "name": "What About Your Friends",
       "url": "https://open.spotify.com/track/63PIgPkDf3rswlU4ZWCYAM"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 219120,
       "name": "You Make Me Wanna...",
       "url": "https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq"

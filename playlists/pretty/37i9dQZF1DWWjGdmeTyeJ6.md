@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > We will be back in 2022 with more of the best new music by independent artists and independent labels\. Cover: EMMY, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,497 likes - 82 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,359 likes - 82 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

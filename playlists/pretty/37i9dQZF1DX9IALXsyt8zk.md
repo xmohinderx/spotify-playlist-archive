@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > Unearthing up\-and\-coming Korean acts\. Cover: Billlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,741 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,827 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 | 13 | [ICONS](https://open.spotify.com/track/0eYUPGR0tB6pP5YvE3zXaU) | [HOT ISSUE](https://open.spotify.com/artist/16C7FRln711ggylepawmpq) | [ICONS](https://open.spotify.com/album/4BuL7zE1QTDoSlij13X4XI) | 3:08 |
 | 14 | [Universe\_](https://open.spotify.com/track/6zVDBEprS3mo8p0WV9MtLr) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : VOYAGER](https://open.spotify.com/album/2mM97mU3Xh4IvV51Dwq8Ky) | 3:36 |
 | 15 | [Call me](https://open.spotify.com/track/5vWxHje3VHomfrnuHnw424) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Call me](https://open.spotify.com/album/5mHmn4iGuzbi81R6SLqftE) | 3:55 |
-| 16 | [Athletic Girl](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [Athletic Girl](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 |
+| 16 | [ATHLETIC GIRL](https://open.spotify.com/track/0qu54GVbhmBFjpsgiG32PL) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [ATHLETIC GIRL](https://open.spotify.com/album/3Weg79SFmoXNRUSn08QSPZ) | 3:32 |
 | 17 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 |
 | 18 | [The Good Days Boys](https://open.spotify.com/track/4pF4jl2H1m5UVlKT8rE7vE) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Rovv](https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Playlist 1](https://open.spotify.com/album/5qQ6xIXc6aVePk5GcAV92Z) | 2:42 |
 | 19 | [TICK TOCK](https://open.spotify.com/track/2UtgHEn85322ynZ9j2po4l) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEAT](https://open.spotify.com/album/6u0NFCxacI8efvHKY9xwfz) | 3:10 |

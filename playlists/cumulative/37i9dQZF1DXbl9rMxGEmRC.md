@@ -2,13 +2,13 @@
 
 ### [Black & Dark Metal](https://open.spotify.com/playlist/64Dcl2uRhYdNKoQxcWR2Lx)
 
-> A collection of recent tracks from the world of black and dark metal\. Cover: Wolves In The Throne Room
+> A collection of recent tracks from the world of black and dark metal\. Cover: Dark Funeral
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Am Rande der Dunkelheit](https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F) | [Der Weg einer Freiheit](https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD) | [Noktvrn](https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A) | 8:17 | 2021-12-17 |  |
 | [Anadem Gyre](https://open.spotify.com/track/1eBUzrOlsY9OMmiaSolhox) | [Antiqva](https://open.spotify.com/artist/6ahZhWLiImspvawPYn6FVd) | [Anadem Gyre](https://open.spotify.com/album/7ykuG0RJkSqhPWCi6kplm5) | 4:04 | 2021-12-17 |  |
-| [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 |  |
+| [Ancient Death](https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co) | [Asagrimmr](https://open.spotify.com/artist/41V31Mbn9X3RX7GyWrKSQj) | [Ancient Death](https://open.spotify.com/album/0OS5vfWnkTqYz1dBnktFbW) | 6:56 | 2021-12-17 | 2022-01-08 |
 | [Apostle](https://open.spotify.com/track/1HI10LWV2JuIhTrl1WUVeu) | [Immolation](https://open.spotify.com/artist/3rt16vhD1OuULlsyxUUWIt) | [Apostle](https://open.spotify.com/album/2zuqFATCXyRlhU50M1uYvA) | 4:16 | 2021-12-17 |  |
 | [Beheading of the Circus Director](https://open.spotify.com/track/5jMXAsU5zf0JwRk521rI71) | [Sarke](https://open.spotify.com/artist/3sJXLmH6J5IDiJpxJt8NSN) | [Beheading of the Circus Director](https://open.spotify.com/album/6jluDbYTif6ZoEQSLkkM1j) | 4:34 | 2021-12-17 |  |
 | [Black Fog and Poison Wind](https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG) | [Darkwoods My Betrothed](https://open.spotify.com/artist/63f4uHAHuzSuzgd8SnoFwn) | [Black Fog and Poison Wind](https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl) | 4:42 | 2021-12-17 |  |
@@ -45,6 +45,7 @@
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
 | [Hvítir Sandar](https://open.spotify.com/track/7vM3m6Uk70Qml5amBShtMF) | [Kælan Mikla](https://open.spotify.com/artist/28meEMqGpDrolyQ9OVoDAH), [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Hvítir Sandar](https://open.spotify.com/album/456LMV2LbrV7LnuIUd6Anl) | 4:37 | 2021-12-17 |  |
 | [Iò Pan!](https://open.spotify.com/track/1RSMkPnTZDK5OUEXYnV31Y) | [Selvans](https://open.spotify.com/artist/2HpWGadw2hmtDMTfbfaqkj) | [Dark Italian Art](https://open.spotify.com/album/7JvLKSi8zktCdBXVM7Hhnr) | 5:45 | 2021-12-17 |  |
+| [Let the Devil In](https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Let the Devil In](https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B) | 4:40 | 2022-01-07 |  |
 | [March of the Antichrist](https://open.spotify.com/track/6Dy0BJpWP1FqqffGVldz1u) | [Path of Destiny](https://open.spotify.com/artist/1iydHn2q6TisTwNxU0yc2K) | [The Seed of All Evil](https://open.spotify.com/album/76y3jhORzJxEJnNfkjHKYj) | 6:39 | 2021-12-17 |  |
 | [Mellonta Tauta](https://open.spotify.com/track/71gPwccCGNsMnsWCjKfSs1) | [Hegemon](https://open.spotify.com/artist/5KloIT5bV4mnTXMNYetENE) | [Sidereus Nuncius](https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ) | 5:46 | 2021-12-17 |  |
 | [Momentary Trails](https://open.spotify.com/track/2KAnVNkix64ZZwDQSQ6Xuy) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [Solitarian](https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5) | 5:14 | 2021-12-17 |  |
@@ -56,6 +57,7 @@
 | [Reckoning](https://open.spotify.com/track/2hBKZG4x9Wjed6T2oAFAwm) | [Omnium Gatherum](https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu) | [Reckoning](https://open.spotify.com/album/6WfPQTk5dUOKIgHIsl03MU) | 5:15 | 2021-12-17 |  |
 | [Reflection in Slow Time](https://open.spotify.com/track/0qS90byEur2fejdteseTO3) | [Shape Of Despair](https://open.spotify.com/artist/7Dw0RaAayqoGd0z2oHT4R6) | [Reflection in Slow Time](https://open.spotify.com/album/6KWTVQKwzvVcmcg1BPpUN4) | 8:08 | 2021-12-17 |  |
 | [Resurgence](https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22) | [Hate](https://open.spotify.com/artist/13XggX75z0Hk0VNvOuTJoB) | [Resurgence](https://open.spotify.com/album/7JIec3VUIGOhcZnyffsgXE) | 3:40 | 2021-12-17 |  |
+| [Riitti](https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u) | [Verikalpa](https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3) | [Riitti](https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK) | 4:53 | 2022-01-07 |  |
 | [Ruun II \- The Epitaph](https://open.spotify.com/track/2MSPBBEgmtqE7bUu8Kos6T) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Caravans to the Outer Worlds](https://open.spotify.com/album/4SQD8QqIgZKYEGraVPzxgo) | 5:37 | 2021-12-17 |  |
 | [Sadist](https://open.spotify.com/track/3Ne8ghFiincs3REg5M2Ygf) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Sadist](https://open.spotify.com/album/5ckNNJmh051xpFqHzPstQM) | 2:58 | 2021-12-17 |  |
 | [Seance](https://open.spotify.com/track/71lFE7VKJwpeV7YhqgbATO) | [Black Royal](https://open.spotify.com/artist/33lkAv8r2X0dsr8AWzZ6MY) | [Seance](https://open.spotify.com/album/1aXSQVKyOk4gYUZPnC3eqN) | 4:46 | 2021-12-17 |  |
@@ -69,13 +71,14 @@
 | [The Fall Of Jotunheim](https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg) | [Unfound Reliance](https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq) | [The Fall Of Jotunheim](https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL) | 4:02 | 2021-12-17 |  |
 | [The Head of the Snake](https://open.spotify.com/track/4WX5bprRQGTlZaxEcBICqZ) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [Head of the Snake](https://open.spotify.com/album/1OhiUVjIVR8dr5Itzpfyzv) | 4:05 | 2021-12-17 |  |
 | [The Intertwined](https://open.spotify.com/track/1uUB0yPKZolbq3ryoLDOlY) | [Skepticism](https://open.spotify.com/artist/2mZuhQebSc9U63QjaADtzF) | [Companion](https://open.spotify.com/album/4kQyk8NpLezupFyYnK9q8n) | 8:19 | 2021-12-17 |  |
-| [The Last Dance](https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Last Dance](https://open.spotify.com/album/4G4RKJjmLnZBsvalhWFOSH) | 4:40 | 2021-12-17 |  |
+| [The Last Dance](https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Last Dance](https://open.spotify.com/album/4G4RKJjmLnZBsvalhWFOSH) | 4:40 | 2021-12-17 | 2022-01-08 |
 | [The Purest Black](https://open.spotify.com/track/6En6JSC3qRPv9XnoGQZ7F0) | [LIVLØS](https://open.spotify.com/artist/3upLnjEfkXlcb8IddTLQUA) | [The Purest Black](https://open.spotify.com/album/0yARYnhJy9u9HLq3RfgI97) | 5:51 | 2021-12-17 |  |
 | [The Wanderer](https://open.spotify.com/track/6u8c9F8vSZoUp15oFFqc7V) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Argent Moon \- EP](https://open.spotify.com/album/1Sz8A4Jnbqf84G9gypTOpz) | 6:11 | 2021-12-17 |  |
 | [The Wolves of Ossory](https://open.spotify.com/track/5ubwQNPVeyNVqJcszYiozP) | [Wormwitch](https://open.spotify.com/artist/5eTTS3YDf54li8yguyoP14) | [The Wolves of Ossory](https://open.spotify.com/album/0BKqlnTtMCPehA59EuEm0o) | 3:53 | 2021-12-17 |  |
 | [Through Eternal Fields](https://open.spotify.com/track/2lN893qNt07OkH3E1rv1AN) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Primordial Arcana](https://open.spotify.com/album/0M1M4SydzXhogLTGa2ERWG) | 5:54 | 2021-12-17 |  |
 | [Till Valhall \- Svitjod Edition](https://open.spotify.com/track/0nn0RZJ2HIigg38UrRXka0) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Till Valhall](https://open.spotify.com/album/6xgmB5t5CUzD47ppBQg2CY) | 3:43 | 2021-12-17 |  |
 | [Trance IV: Nemesis](https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn) | [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Tranceformation](https://open.spotify.com/album/360FLVwXFB7wBVFHDW9qNf) | 7:18 | 2021-12-17 |  |
+| [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 | 2022-01-07 |  |
 | [Vargtimman](https://open.spotify.com/track/5bMmrsetYnEO89tBG05ljx) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/2TQ3R02Fi7ZgFEzegs4QsK) | 5:07 | 2021-12-17 |  |
 | [Vestige](https://open.spotify.com/track/7jLhFXdVjjGzKvsWyGravP) | [MØL](https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo) | [Vestige](https://open.spotify.com/album/4MOWsVTLtxMOgztD0lRM7o) | 5:38 | 2021-12-17 |  |
 | [Veter](https://open.spotify.com/track/1YuB9VNoHmGVtVxyZQ6dLB) | [Second To Sun](https://open.spotify.com/artist/2Rs3MsF2y8VfkjmOVHkT5N) | [Veter](https://open.spotify.com/album/1VYgM86x2AFTqHxZmOWv3l) | 5:29 | 2021-12-17 |  |
@@ -84,7 +87,7 @@
 | [When Will Gods Work Be Done](https://open.spotify.com/track/4SiJRQ6EoFM6d1YgmAejiD) | [Unto Others](https://open.spotify.com/artist/1W5khHrkcznsyChxwIBfAI) | [When Will Gods Work Be Done](https://open.spotify.com/album/2VMLsnzs3Bg9jI939LcTZk) | 4:06 | 2021-12-17 |  |
 | [Whisperer in Darkness](https://open.spotify.com/track/48twjqtSzqYxq3gY7fVZdh) | [Massacre](https://open.spotify.com/artist/10tKMKG6F95zDrJOxqtjhA) | [Whisperer in Darkness](https://open.spotify.com/album/4YjBL5IeWMQTzh9NXja0Hg) | 3:57 | 2021-12-17 |  |
 | [Worship](https://open.spotify.com/track/5TSwCc8HVZ9T7fRdx1ffXQ) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [Worship](https://open.spotify.com/album/5t9JybZLnRj5xMp9bWsMP9) | 4:42 | 2021-12-17 |  |
-| [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 |  |
+| [Worship the Eternal Darkness](https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1) | [Archgoat](https://open.spotify.com/artist/3n2bgWmlyHgwnd9aPmnTM4) | [Worship the Eternal Darkness](https://open.spotify.com/album/7kPe4J6zhne6R5lHmFU9iT) | 3:38 | 2021-12-17 | 2022-01-08 |
 | [Ymir](https://open.spotify.com/track/1FCOfEzh2LpfhSYMKY95Me) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Ymir](https://open.spotify.com/album/7rRdCtu9eHLWrxCMSeOSMT) | 5:04 | 2021-12-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

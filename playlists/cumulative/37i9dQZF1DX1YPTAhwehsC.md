@@ -2,15 +2,17 @@
 
 ### [State of Mind](https://open.spotify.com/playlist/5nDkSNAemcz9OTqltErkCS)
 
-> Up and down I\-95\. Cover: Joyner Lucas
+> Up and down I\-95\. Cover: A Boogie Wit Da Hoodie
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 |  |
+| [Bag Season \(feat\. Lil Tjay\)](https://open.spotify.com/track/28nUmOSSJQNIj7KJ9ux2QV) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Got Amnesia](https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl) | 2:41 | 2021-11-19 | 2022-01-08 |
 | [Be Free](https://open.spotify.com/track/35uYYHfPcA5zcl8IeVXxOb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:08 | 2021-12-10 |  |
 | [Being Honest](https://open.spotify.com/track/0fiHDOKTOFnAPekgXYGErK) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Being Honest](https://open.spotify.com/album/6Mp175aGm3sE5zMxyG6KID) | 2:33 | 2021-10-22 |  |
 | [Bet It \- from the "Bruised" Soundtrack](https://open.spotify.com/track/2qHaFxrDldxWUtIy9qaTM9) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W) | [Bruised \(Soundtrack From and Inspired by the Netflix Film\)](https://open.spotify.com/album/02VIrw8ckjQhmHNVaX0icA) | 2:40 | 2021-11-26 |  |
 | [Brotherly Love \(feat\. Dougie B & B\-Lovee\)](https://open.spotify.com/track/34YnZOLkvAxH6K7ZXutHOo) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [Dougie B](https://open.spotify.com/artist/2A3x9LVRj0ZVFARllp3su5) | [The D.O.A\. Tape](https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD) | 3:54 | 2021-11-12 |  |
+| [Chitty Bang](https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Chitty Bang](https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW) | 2:26 | 2022-01-07 |  |
+| [Dear Fear](https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Dear Fear](https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6) | 3:19 | 2022-01-07 |  |
 | [Die Young](https://open.spotify.com/track/4F7lBgkFp0BbO5ClrKrTXU) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Die Young](https://open.spotify.com/album/2v8xo2F7T94dvqFXnaI96O) | 2:14 | 2021-12-17 |  |
 | [Dinner Date \(feat\. Trippie Redd\) \- bonus](https://open.spotify.com/track/41KtwBtTPPlh77GPz01SDa) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [USEE4YOURSELF \(Deluxe\)](https://open.spotify.com/album/34go0JAfH5nB2Ks15oek6e) | 2:46 | 2021-10-29 |  |
 | [Duck Duck Goose](https://open.spotify.com/track/3pnSl76sUiuy1kEBiftn36) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Duck Duck Goose](https://open.spotify.com/album/63hKh0W6ASqIYDAxd2FTN1) | 3:00 | 2021-10-29 |  |
@@ -45,7 +47,7 @@
 | [Play My Part](https://open.spotify.com/track/5JSxZLQcD7WzmZjgD53UM5) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [Play My Part](https://open.spotify.com/album/7n5kmlDvoPYR7sAZfNvMq0) | 3:36 | 2021-11-05 |  |
 | [PROTOCOL](https://open.spotify.com/track/1yzxdkYR3hcw1fAENGQPAG) | [KAS](https://open.spotify.com/artist/4AUPalZalhZyyd6kwhBiL5), [Barii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [NO FAVORS](https://open.spotify.com/album/3NgUunvnoTlKgaTDwXrbGr) | 2:29 | 2021-11-19 |  |
 | [Rambo](https://open.spotify.com/track/0lihymBRdQmqdUFDTMyLRU) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Rambo](https://open.spotify.com/album/1Igno8iFQcVi2jWe94h4Lr) | 3:31 | 2021-12-03 |  |
-| [Retaliation](https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Retaliation](https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2) | 2:28 | 2021-10-01 |  |
+| [Retaliation](https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz) | [Retaliation](https://open.spotify.com/album/5xb0FVh2rlQatP2IsagLN2) | 2:28 | 2021-10-01 | 2022-01-08 |
 | [Robert Horry Freestyle](https://open.spotify.com/track/1YqWbETAgGG8sKS5yEFDHB) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [Robert Horry Freestyle](https://open.spotify.com/album/1ZukfkXHBBLpQenz6MiWJC) | 1:31 | 2021-12-17 |  |
 | [ROLLIN N CONTROLLIN, Pt.2 \(PICTURE ME\)](https://open.spotify.com/track/5phjnA00QqNdF7oo8a6yu0) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [ROLLIN N CONTROLLIN, Pt.2 \(PICTURE ME\)](https://open.spotify.com/album/06do6YAfoBee0ULhdt4qe5) | 2:01 | 2021-12-03 |  |
 | [Sandman](https://open.spotify.com/track/0qkA0NU7cDKWkFXNGRcNaB) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 3:20 | 2021-10-29 |  |

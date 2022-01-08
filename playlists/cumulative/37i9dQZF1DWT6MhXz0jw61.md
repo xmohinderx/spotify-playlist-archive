@@ -2,7 +2,7 @@
 
 ### [Mellow Bars](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
-> Chillout hip\-hop vibes\. Cover: Rick Ross
+> Chillout hip\-hop vibes\. Cover: Nas
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

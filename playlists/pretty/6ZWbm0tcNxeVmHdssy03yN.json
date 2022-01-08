@@ -1,12 +1,12 @@
 {
   "description": "The best independent music in a post-genre world",
   "name": "HEADPHONES",
-  "num_followers": 30103,
+  "num_followers": 30114,
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "NDgyOCw2MjlmMzlkYTE0YjIwYjc3YjJmN2UzYzQxNzgzYzJmNmFlMDM1ZmM0",
+  "snapshot_id": "NDgzMyw5YTFlNDNiMTE1MDgxOGE2NTE3NTc1NTY2ZmRhMGY0NzZkZTg2MzY2",
   "tracks": [
     {
       "added_at": "2021-12-31 16:40:43",
@@ -23,6 +23,22 @@
       "duration_ms": 150917,
       "name": "hail mary",
       "url": "https://open.spotify.com/track/0EePy0Tts3VKrHaxIHbJir"
+    },
+    {
+      "added_at": "2022-01-07 01:19:54",
+      "album": {
+        "name": "Still Something",
+        "url": "https://open.spotify.com/album/010yX6iIbqs59x29SwwUaG"
+      },
+      "artists": [
+        {
+          "name": "Suriel Hess",
+          "url": "https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G"
+        }
+      ],
+      "duration_ms": 188950,
+      "name": "Still Something",
+      "url": "https://open.spotify.com/track/1ZpcmirRaGcNWhvhkg3nYX"
     },
     {
       "added_at": "2021-12-31 16:40:43",
@@ -285,6 +301,46 @@
       "url": "https://open.spotify.com/track/2M1KNTaSa6fMbHbPkDtMOs"
     },
     {
+      "added_at": "2022-01-07 01:19:54",
+      "album": {
+        "name": "Back Some More",
+        "url": "https://open.spotify.com/album/4BG1GDqo6MCZviz4VIUNDC"
+      },
+      "artists": [
+        {
+          "name": "Deniro5ive",
+          "url": "https://open.spotify.com/artist/1nrh1AkIoCrDIWVfseRKvB"
+        },
+        {
+          "name": "Taifunds",
+          "url": "https://open.spotify.com/artist/1C76b7OjUUW3Jqqk4PMkMr"
+        }
+      ],
+      "duration_ms": 151550,
+      "name": "Back Some More",
+      "url": "https://open.spotify.com/track/7tRHL2K5UfF7cvX36aGXAP"
+    },
+    {
+      "added_at": "2022-01-07 01:19:54",
+      "album": {
+        "name": "Deliveroo",
+        "url": "https://open.spotify.com/album/7baBs8m0cRS7DrMB7tvfPY"
+      },
+      "artists": [
+        {
+          "name": "Swarmz",
+          "url": "https://open.spotify.com/artist/2yPprAQlrIQWu60g09B9MZ"
+        },
+        {
+          "name": "Kwengface",
+          "url": "https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Deliveroo",
+      "url": "https://open.spotify.com/track/4BRxNwqRlLulTkQXaIKFiu"
+    },
+    {
       "added_at": "2021-12-24 16:48:17",
       "album": {
         "name": "the highs.",
@@ -371,6 +427,22 @@
       "duration_ms": 219933,
       "name": "Amigos con derechos",
       "url": "https://open.spotify.com/track/58ySh8QZ67IDkD2s9pj8mg"
+    },
+    {
+      "added_at": "2022-01-07 01:19:54",
+      "album": {
+        "name": "in love with the city",
+        "url": "https://open.spotify.com/album/6TiFqnah7vUVpg2tlBlW9r"
+      },
+      "artists": [
+        {
+          "name": "Serif",
+          "url": "https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1"
+        }
+      ],
+      "duration_ms": 211285,
+      "name": "in love with the city",
+      "url": "https://open.spotify.com/track/5UsOLMPeAKi0Fbgzj4gqC0"
     },
     {
       "added_at": "2021-12-24 16:48:17",

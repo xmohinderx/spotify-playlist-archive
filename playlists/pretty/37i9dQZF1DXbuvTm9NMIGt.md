@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuvTm9NMIGt.md) - [plain]
 
 > The best of RHCP, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,582,622 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,235 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

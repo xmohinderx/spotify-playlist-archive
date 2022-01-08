@@ -70,6 +70,24 @@
     },
     {
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/4qAZS4OJjzLZ7M7epC2SRk"
+      },
+      "artists": [
+        {
+          "name": "Dreamers Delight",
+          "url": "https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251257,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/0tIBpcrapaemsTHXMrmeQY"
+    },
+    {
+      "album": {
         "name": "FINNA",
         "url": "https://open.spotify.com/album/3ogZpKktoz3UhsNYaoousR"
       },
@@ -213,6 +231,28 @@
       "duration_ms": 159455,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1ChbqCVFMk8OvaYXuiPCK0"
+    },
+    {
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "album": {
@@ -406,6 +446,28 @@
     },
     {
       "album": {
+        "name": "The Family Reunion",
+        "url": "https://open.spotify.com/album/1vf2u5g26jNlCt1krJgbM1"
+      },
+      "artists": [
+        {
+          "name": "Bemah",
+          "url": "https://open.spotify.com/artist/5wYDagjHjJRgNlu5W6D4hK"
+        },
+        {
+          "name": "AfterShock Fam",
+          "url": "https://open.spotify.com/artist/73knz0sBKwC2qCk5pEpe2g"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "ILL",
+      "url": "https://open.spotify.com/track/1K3u242m5zHFNLRp7Th6hd"
+    },
+    {
+      "album": {
         "name": "Maybe This is It",
         "url": "https://open.spotify.com/album/6pWW9h61nbbreHBnKv5aWs"
       },
@@ -421,6 +483,28 @@
       "duration_ms": 228046,
       "name": "Kindness Mistaken For Weakness",
       "url": "https://open.spotify.com/track/5de6yMWZWQo6jk3G1ZvsYv"
+    },
+    {
+      "album": {
+        "name": "Lotus Flower / with Dimond Saints",
+        "url": "https://open.spotify.com/album/2ZMc6j04fiWOKP2Vkm43DI"
+      },
+      "artists": [
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        },
+        {
+          "name": "Dimond Saints",
+          "url": "https://open.spotify.com/artist/38LWle0ChG6k0UHsOnoO75"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212016,
+      "name": "Lotus Flower (Special Edition)",
+      "url": "https://open.spotify.com/track/4KtJs4bQl9Sq5ZiOEBD7Ro"
     },
     {
       "album": {

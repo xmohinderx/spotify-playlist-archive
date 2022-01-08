@@ -2,7 +2,7 @@
 
 ### [Funk Hits](https://open.spotify.com/playlist/2m2xgH6abY0Jl6lg6L64lU)
 
-> Calma Bb, são os funks mais 🔑 do Brasil\. Foto: Mc Th, DJ Tacinho, Dj Terrorista
+> Set dos Casados e os funks mais 🔑 do Brasil\. Foto: Mc Davi, MC Marks, MC Ryan SP, Mc Kevin, Mc Don Juan, MC Hariel, MC G15, Mc Phe Cachorrera, Gaab, MC Menor da VG, MC Kapela, Perera DJ, Veiga no Beat
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

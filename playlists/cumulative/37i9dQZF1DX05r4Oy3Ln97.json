@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 166906,
       "name": "'Til I Found You - Montmartre Remix",
       "url": "https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 211931,
       "name": "7 AM",
       "url": "https://open.spotify.com/track/5FFKnBx45in04E98mqtfaN"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 159152,
       "name": "Drive",
       "url": "https://open.spotify.com/track/6fpvMHuOB3C9SCrtMGzJaO"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 188579,
       "name": "Drunk Talk",
       "url": "https://open.spotify.com/track/6RsD5yjmpKekn3nBsv8ZyO"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 194288,
       "name": "Feels Like Paradise",
       "url": "https://open.spotify.com/track/1kUoZXVgTMT9TakkZY6DZf"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 158416,
       "name": "Halfway (feat. Twan Ray)",
       "url": "https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 182559,
       "name": "Hey There Delilah",
       "url": "https://open.spotify.com/track/791KAnfU7LweoRARjI5mTd"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 247102,
       "name": "I See Blue",
       "url": "https://open.spotify.com/track/7McmRLT362Fss7WAUk670c"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 175624,
       "name": "I Should Go Home (feat. Philip Rustad)",
       "url": "https://open.spotify.com/track/2IH2C9uhbhvfMnUbfvdHlL"
@@ -893,7 +893,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 145833,
       "name": "Ibiza",
       "url": "https://open.spotify.com/track/0FDOviIZNbcgIQ5Djypzwv"
@@ -977,7 +977,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 160174,
       "name": "Knew That Second",
       "url": "https://open.spotify.com/track/0m6unz6uP458oqXaPWyIgt"
@@ -1105,10 +1105,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 151101,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/2LWFPBG7hlEpMy2b2LUu5A"
+    },
+    {
+      "album": {
+        "name": "Communion",
+        "url": "https://open.spotify.com/album/230UdUGhv4EIyXMuygaOUK"
+      },
+      "artists": [
+        {
+          "name": "Brendon Moeller",
+          "url": "https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400500,
+      "name": "Lost a Little",
+      "url": "https://open.spotify.com/track/0jLVrPpkmHpnqaPj6yzSyK"
     },
     {
       "album": {
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 156900,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2hJzh7MhYDQxP33adTYPGZ"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 164754,
       "name": "Me Up (feat. Chateau)",
       "url": "https://open.spotify.com/track/4FYiIggovSUI7BIjXraA20"
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 289463,
       "name": "Midnight Waves",
       "url": "https://open.spotify.com/track/6C9ZOJVzjZAQ9Hk7URLRqO"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 228250,
       "name": "Nightingale",
       "url": "https://open.spotify.com/track/4z9obgtFzinZXBpwG8Flik"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 166080,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/2eU50HdqsZPXNBzKOdiwkV"
@@ -1625,7 +1643,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 158241,
       "name": "Seesaw",
       "url": "https://open.spotify.com/track/1uAj4hDjBtWly8NmC4zZoX"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 123348,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4tL8PWUGzqtUbPROYVcAqg"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 243750,
       "name": "Teenage Heart",
       "url": "https://open.spotify.com/track/5lDYTWicLTLTBoQn2WvcXD"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 145161,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/4ypvGTFFUV8yJasEl7toew"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 166271,
       "name": "Venus",
       "url": "https://open.spotify.com/track/24BpEMuWCSCgXvdXcEVm4b"
@@ -1949,10 +1967,28 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 202501,
       "name": "Waves (feat. Grace Tither)",
       "url": "https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu"
+    },
+    {
+      "album": {
+        "name": "We Are Young",
+        "url": "https://open.spotify.com/album/5HbQMhEIK7J8IDE4swfmJC"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Maria",
+          "url": "https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170309,
+      "name": "We Are Young",
+      "url": "https://open.spotify.com/track/2aGMjEXsOXmRSbXld2AyJ9"
     },
     {
       "album": {
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 167875,
       "name": "What They Call Love",
       "url": "https://open.spotify.com/track/3G954hH4NT5HmtGInACyi9"

@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 272763,
       "name": "Anaesthetist",
       "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
@@ -151,7 +151,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 231568,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 308940,
       "name": "Behind The Glass",
       "url": "https://open.spotify.com/track/3Dd0R86fWYsKSk70EhBZ8v"
@@ -195,7 +195,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 249589,
       "name": "Dayfall",
       "url": "https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 255606,
       "name": "Days Go By - 2019 Mix",
       "url": "https://open.spotify.com/track/7krY6FgUUGwTdvhD6kKBf7"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 281379,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH"
@@ -488,6 +488,32 @@
     },
     {
       "album": {
+        "name": "Freak (Used Remix)",
+        "url": "https://open.spotify.com/album/1MCWIGoES5nxFBS2inrKRn"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252342,
+      "name": "Freak - Used Remix",
+      "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
+    },
+    {
+      "album": {
         "name": "Fumes EP",
         "url": "https://open.spotify.com/album/57rb97Vkbxq2qKz1C7Oweb"
       },
@@ -499,7 +525,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 375753,
       "name": "Fumes",
       "url": "https://open.spotify.com/track/6FDR1CyaZbw79iAUThlK4k"
@@ -579,7 +605,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 158620,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/5yZ0qWaaLroWRwM7f1YZ3W"
@@ -699,7 +725,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 318171,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5arVVJKESEOMXqJ41QUcVl"
@@ -948,6 +974,28 @@
     },
     {
       "album": {
+        "name": "Never Let Me Go / Hall Of Fame",
+        "url": "https://open.spotify.com/album/4wpwsPqMBHzhaDMBQy3pZS"
+      },
+      "artists": [
+        {
+          "name": "Artino",
+          "url": "https://open.spotify.com/artist/6W0lKsGxmXkou02Srd3eC9"
+        },
+        {
+          "name": "Ruth Royall",
+          "url": "https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248720,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9"
+    },
+    {
+      "album": {
         "name": "New Beginning",
         "url": "https://open.spotify.com/album/0D7sxVgZTL9DerUPMp96t6"
       },
@@ -993,7 +1041,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 271542,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO"
@@ -1059,7 +1107,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 231605,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
@@ -1231,7 +1279,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 290742,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
@@ -1293,7 +1341,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 295172,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/5DYRbPE5eUiW3I3bakPmo0"
@@ -1341,7 +1389,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 325517,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
@@ -1410,6 +1458,24 @@
     },
     {
       "album": {
+        "name": "Warsaw - EP",
+        "url": "https://open.spotify.com/album/3tNJsepLlHMTuu2NKsBZ51"
+      },
+      "artists": [
+        {
+          "name": "Monrroe",
+          "url": "https://open.spotify.com/artist/6SZvMOzWVSx6cWYGRrZh6d"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286996,
+      "name": "Warsaw",
+      "url": "https://open.spotify.com/track/7CbJcPYjmH4Gs8An5sPvJM"
+    },
+    {
+      "album": {
         "name": "Way Back When",
         "url": "https://open.spotify.com/album/4FSgJfttxtgZImu5VJqY9m"
       },
@@ -1473,6 +1539,28 @@
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"
+    },
+    {
+      "album": {
+        "name": "You Keep Me High",
+        "url": "https://open.spotify.com/album/0LJ1oNdN2ExZXqDoWFv4BT"
+      },
+      "artists": [
+        {
+          "name": "Fred V",
+          "url": "https://open.spotify.com/artist/0k3dnuEr9LghUE4jxS0PT4"
+        },
+        {
+          "name": "Logistics",
+          "url": "https://open.spotify.com/artist/01K8GEMGGxtrQ4xjDmNLPs"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286896,
+      "name": "You Keep Me High",
+      "url": "https://open.spotify.com/track/3OW0tpzhvp6QUS4UyyUOLi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8jnAPF7Iiqp"

@@ -1,13 +1,37 @@
 {
-  "description": "Tech house technicians. Cover: Joshwa",
+  "description": "Tech house technicians. Cover: Martin Ikin",
   "name": "Operator",
-  "num_followers": 535155,
+  "num_followers": 535308,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTQxMzk2NiwwMDAwMDBmMjAwMDAwMTdlMmJlNTc5OTUwMDAwMDE3ZDkxNTY2YmY2",
+  "snapshot_id": "MTY0MTU3MDg0NSwwMDAwMDBmMzAwMDAwMTdlMzUzZjQzNGUwMDAwMDE3ZTM1M2VlOTRm",
   "tracks": [
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/4jsHIqSscZmgLYIet5ikbm"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Astrotrax",
+          "url": "https://open.spotify.com/artist/0a2I09UQdWzcaUNwdjSjuc"
+        },
+        {
+          "name": "Shola Phillips",
+          "url": "https://open.spotify.com/artist/28sPI1wCY2agHaLPz2Y5O3"
+        }
+      ],
+      "duration_ms": 185193,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE"
+    },
     {
       "added_at": "2022-01-05 20:19:26",
       "album": {
@@ -53,10 +77,10 @@
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
     },
     {
-      "added_at": "2021-12-17 15:36:01",
+      "added_at": "2022-01-07 15:54:05",
       "album": {
-        "name": "Want To Love",
-        "url": "https://open.spotify.com/album/74yfold8G3wvVYm1pyxS0T"
+        "name": "Play By My Rules",
+        "url": "https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p"
       },
       "artists": [
         {
@@ -64,9 +88,69 @@
           "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Want To Love",
-      "url": "https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj"
+      "duration_ms": 217142,
+      "name": "Play By My Rules",
+      "url": "https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd"
+    },
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "Shake That Ass",
+        "url": "https://open.spotify.com/album/1QWeKCtVO8WY91aNSkKYG6"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 126720,
+      "name": "Shake That Ass",
+      "url": "https://open.spotify.com/track/1QZpBJPl53VZwsykILZltr"
+    },
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "I Wish (feat. Mabel) [Westend Remix]",
+        "url": "https://open.spotify.com/album/6zyG4GoEYzHkJ5YJku3LmX"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/7mM2sm7CppI1adkdG5nURJ"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 178559,
+      "name": "I Wish (feat. Mabel) - Westend Remix",
+      "url": "https://open.spotify.com/track/6TtdxUdNNLg0hel7xZ1kGT"
+    },
+    {
+      "added_at": "2021-11-26 14:57:55",
+      "album": {
+        "name": "My Humps",
+        "url": "https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        },
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        }
+      ],
+      "duration_ms": 186046,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
     },
     {
       "added_at": "2022-01-05 15:42:52",
@@ -109,24 +193,24 @@
       "url": "https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t"
     },
     {
-      "added_at": "2021-11-26 14:57:55",
+      "added_at": "2022-01-07 15:54:05",
       "album": {
-        "name": "My Humps",
-        "url": "https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb"
+        "name": "TALKIN",
+        "url": "https://open.spotify.com/album/6ouZexiJDA9fkh9pEvqX9V"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Cloverdale",
+          "url": "https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB"
         },
         {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+          "name": "DJ Susan",
+          "url": "https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm"
         }
       ],
-      "duration_ms": 186046,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
+      "duration_ms": 230078,
+      "name": "TALKIN",
+      "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
     },
     {
       "added_at": "2021-11-26 14:57:55",
@@ -149,6 +233,26 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/6DrWFEGlG6lAceLqqAv8st"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BEYGE",
+          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/74svMcorgPABViSTZka4yw"
+    },
+    {
       "added_at": "2021-11-26 14:57:55",
       "album": {
         "name": "Duro",
@@ -163,6 +267,54 @@
       "duration_ms": 188709,
       "name": "Duro",
       "url": "https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV"
+    },
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "Bass Club",
+        "url": "https://open.spotify.com/album/2pebS8n2XSGF3QLRl2BpH3"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Bass Club",
+      "url": "https://open.spotify.com/track/08ZXJG3HB3NwmNIx9fVCY1"
+    },
+    {
+      "added_at": "2021-12-17 15:36:01",
+      "album": {
+        "name": "Want To Love",
+        "url": "https://open.spotify.com/album/74yfold8G3wvVYm1pyxS0T"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Want To Love",
+      "url": "https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj"
+    },
+    {
+      "added_at": "2022-01-07 15:54:05",
+      "album": {
+        "name": "Come Get It",
+        "url": "https://open.spotify.com/album/47c58jhddUNepNOMFsIr4b"
+      },
+      "artists": [
+        {
+          "name": "Sonickraft",
+          "url": "https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Come Get it",
+      "url": "https://open.spotify.com/track/6jmIzibtPrsbjEWypEtoXB"
     },
     {
       "added_at": "2021-12-10 19:01:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYsleI0H271.md) - [plain]
 
 > The best of Incubus, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,806 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,864 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

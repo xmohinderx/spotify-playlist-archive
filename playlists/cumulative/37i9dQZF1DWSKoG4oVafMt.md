@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
-> Catch the most\-streamed romantic tracks in 2021\. Cover: Harnoor
+> The very best of Punjabi romance featuring "Akhil".
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Grewal](https://open.spotify.com/artist/6Wg3YW7eun3woBKYL8jJT6), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2021-12-02 |  |
 | [Dooja Pyaar](https://open.spotify.com/track/4MqRN7DQQXxxU4eZdC0zcb) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Dooja Pyaar](https://open.spotify.com/album/0afQrKmoC6O3Pm8kTWgs7E) | 3:08 | 2021-12-02 |  |
 | [Faraar](https://open.spotify.com/track/3QDL9HK2SdbQK600Uoz6St) | [Akull](https://open.spotify.com/artist/1dqPqXbxxYtCtLbKeAN2Ss) | [Faraar](https://open.spotify.com/album/2nz8h9fxrMfl5ZLtWBLFzF) | 3:12 | 2021-12-02 |  |
+| [Gallan Baatan](https://open.spotify.com/track/1GS3cGSTsGOIkPh8WvgCm4) | [Ravneet](https://open.spotify.com/artist/6HkQAVfiEMIx0yWyWOnVfq), [Jaya](https://open.spotify.com/artist/3Z3RmuFa0nCgwCQfjAmFUb) | [Gallan Baatan](https://open.spotify.com/album/0PxRLUKODqDGCLB9aJBDbX) | 2:50 | 2022-01-08 |  |
 | [Gucci](https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Gucci](https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf) | 2:36 | 2021-12-02 |  |
 | [Insane](https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [Insane](https://open.spotify.com/album/6EaHaUoczRLrDl5uqxSFW3) | 3:26 | 2021-12-02 |  |
 | [Kangana](https://open.spotify.com/track/2hQ9Vp3f9eOU2ynadCssjW) | [Abeer Arora](https://open.spotify.com/artist/03OyUdw7Xh6XC249YPXWUR) | [Kangana](https://open.spotify.com/album/7di7ujp5QZBz8ugDAMk9qN) | 3:42 | 2021-12-02 |  |
@@ -38,6 +39,7 @@
 | [Parshawan](https://open.spotify.com/track/6IaHIJYxIG8xbosaRr25AC) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Parshawan](https://open.spotify.com/album/6w6MwWpj1oR3lKpQPc8caY) | 2:48 | 2021-12-02 |  |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2021-12-02 |  |
 | [Perfect](https://open.spotify.com/track/31XW6duAPURc4PBLFD3hUu) | [Akhil](https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1) | [Perfect](https://open.spotify.com/album/3azqNOHGjcHr3ONccmxHDO) | 2:46 | 2021-12-02 |  |
+| [Photo Kar Zoom](https://open.spotify.com/track/6OHA7Niyq6lbhne5s2B5lK) | [Kay Vee Singh](https://open.spotify.com/artist/52sAo4U0x2dfde5UYFDU2n), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Photo Kar Zoom](https://open.spotify.com/album/4LJS4VAdTGZTXlrUFvnOHG) | 3:12 | 2022-01-08 |  |
 | [Praise](https://open.spotify.com/track/1GYP7zyrNGJi8pEZt91vnL) | [Armaan Bedil](https://open.spotify.com/artist/1wVbdx5kuHQgBfjiq4bwh3) | [Praise](https://open.spotify.com/album/4jr7TFjvNTgjuh74o4JV1l) | 3:12 | 2021-12-02 |  |
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-12-02 |  |
 | [Raule](https://open.spotify.com/track/7HNlOqClNtvQxwC4JENKvn) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Raule](https://open.spotify.com/album/5dcstuQwgiMe0z2tQ7uNy0) | 3:15 | 2021-12-02 |  |
@@ -56,5 +58,6 @@
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2021-12-02 |  |
 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 | 2021-12-02 |  |
 | [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 | 2021-12-02 |  |
+| [Your Smile](https://open.spotify.com/track/7oFAuczMTH37F3mYTEXcOh) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Your Smile](https://open.spotify.com/album/1H86338CdPmXfkWtXieGMY) | 3:16 | 2022-01-08 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

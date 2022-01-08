@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 182828,
       "name": "Big Big",
       "url": "https://open.spotify.com/track/1HqUqFlKX7tGbK68AztT5Y"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 244200,
       "name": "Budy Bye",
       "url": "https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Come Over [Missing You]",
       "url": "https://open.spotify.com/track/4MAo6tvIRCEjUZLOrC9Z4q"
@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Strictly The Best Vol. 41",
+        "url": "https://open.spotify.com/album/20fAOHdcb20tgKFjoV7sEO"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Dollar Sign",
+      "url": "https://open.spotify.com/track/7wGEsU6lPs4SmvJkMXtyQG"
+    },
+    {
+      "album": {
         "name": "Don't Haffi Dread",
         "url": "https://open.spotify.com/album/2KPOFn7eBNabkW1c6RayIb"
       },
@@ -199,7 +217,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 238550,
       "name": "Don't Haffi Dread",
       "url": "https://open.spotify.com/track/2pEo8f55UreXarnZCfjr5s"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 227960,
       "name": "Earth A Run Red",
       "url": "https://open.spotify.com/track/0MYZaB4hSiHVdHuUf4F6nQ"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 211077,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6LjGQGrhPUtHLECjlWVTaa"
@@ -307,7 +325,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 176213,
       "name": "Ganga Lee",
       "url": "https://open.spotify.com/track/7GrDTXhDzVTUKYl49Whe9e"
@@ -379,7 +397,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 219960,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
@@ -469,7 +487,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 232781,
       "name": "Hold You",
       "url": "https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT"
@@ -559,7 +577,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 202622,
       "name": "Ice Cream Love",
       "url": "https://open.spotify.com/track/48iLhlIRqVb2jZuUfZCdqr"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 212262,
       "name": "Living In Love",
       "url": "https://open.spotify.com/track/5XXd7aHObJEHYm9FpsNeKH"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 230573,
       "name": "Man Is The Least",
       "url": "https://open.spotify.com/track/18pRR6GRcbh4NOiNekLvXV"
@@ -1011,7 +1029,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 233167,
       "name": "Serious Time",
       "url": "https://open.spotify.com/track/6AbvzOk3kg6wANbJ7hiuTo"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 262800,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4E6TkulZSnor5RzOkkW32U"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 214160,
       "name": "Tight Up Skirt",
       "url": "https://open.spotify.com/track/1uNIWPKOnJw92GPDcvaJY9"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 227933,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn"
@@ -1293,7 +1311,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 265053,
       "name": "Unity We Need (feat. Chronixx)",
       "url": "https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO"

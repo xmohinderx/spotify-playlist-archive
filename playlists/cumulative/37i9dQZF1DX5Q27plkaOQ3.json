@@ -140,6 +140,24 @@
     },
     {
       "album": {
+        "name": "BACKSTAGE",
+        "url": "https://open.spotify.com/album/0dmcbJT11xpcu8Ditmc22F"
+      },
+      "artists": [
+        {
+          "name": "Carbin",
+          "url": "https://open.spotify.com/artist/3tS6ulfeDf1F3hqxFYud5d"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195310,
+      "name": "BACKSTAGE",
+      "url": "https://open.spotify.com/track/14Ej4RnUsCPFyTxyTBiVmz"
+    },
+    {
+      "album": {
         "name": "Bakin'",
         "url": "https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9"
       },
@@ -646,6 +664,28 @@
     },
     {
       "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod"
+      },
+      "artists": [
+        {
+          "name": "Zannen",
+          "url": "https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI"
+    },
+    {
+      "album": {
         "name": "Fight Milk",
         "url": "https://open.spotify.com/album/4N5p7PYUZXwJcghs3rcFpS"
       },
@@ -961,6 +1001,28 @@
       "duration_ms": 183204,
       "name": "Killing Machine",
       "url": "https://open.spotify.com/track/2vp3HUzMnyaI3hLZKW5d2k"
+    },
+    {
+      "album": {
+        "name": "Lasers",
+        "url": "https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Ruvlo",
+          "url": "https://open.spotify.com/artist/3nqbWR5FC0RSkS9kK1aalW"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "Lasers",
+      "url": "https://open.spotify.com/track/5wEq97Dc7x5k2tJz3DlJFO"
     },
     {
       "album": {
@@ -1921,6 +1983,24 @@
       "duration_ms": 233142,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/2RrgPY4yRUewW4pHmudoyl"
+    },
+    {
+      "album": {
+        "name": "Wraith",
+        "url": "https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa"
+      },
+      "artists": [
+        {
+          "name": "Kenzi Sway",
+          "url": "https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155588,
+      "name": "Wraith",
+      "url": "https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3"

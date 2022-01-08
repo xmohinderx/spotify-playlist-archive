@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "i hate rollercoasters",
+        "url": "https://open.spotify.com/album/0mOtflw3cAMTvFlAjn94A9"
+      },
+      "artists": [
+        {
+          "name": "dempsey hope",
+          "url": "https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147933,
+      "name": "feather",
+      "url": "https://open.spotify.com/track/3nUc4j3R64TGkuJ8s7WVuB"
+    },
+    {
+      "album": {
         "name": "Blue Neighbourhood (Deluxe)",
         "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
       },

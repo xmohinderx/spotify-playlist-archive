@@ -1,13 +1,85 @@
 {
-  "description": "The official voice of generation next. Cover: Kay Flock",
+  "description": "The official voice of generation next. Cover: SoFaygo",
   "name": "Most Necessary",
-  "num_followers": 2587024,
+  "num_followers": 2587120,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMyMDkxOCwwMDAwMDNiNjAwMDAwMTdlMjY1OWFkNTMwMDAwMDE3ZDcxY2I2OGNi",
+  "snapshot_id": "MTY0MTUzMTYyNiwwMDAwMDNiNzAwMDAwMTdlMzJlOGQ0M2QwMDAwMDE3ZTMxNDMzZjM1",
   "tracks": [
+    {
+      "added_at": "2021-11-29 23:29:54",
+      "album": {
+        "name": "Me or Sum (feat. Future & Lil Baby)",
+        "url": "https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 225664,
+      "name": "Me or Sum (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
+    },
+    {
+      "added_at": "2021-10-29 04:08:48",
+      "album": {
+        "name": "Street Poet 2",
+        "url": "https://open.spotify.com/album/0tQhdnBXqKclkBXubhu2kv"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "duration_ms": 173423,
+      "name": "Let's Get It",
+      "url": "https://open.spotify.com/track/4XfkvrC5rmOYqeTP2ft7lj"
+    },
+    {
+      "added_at": "2021-10-29 04:08:48",
+      "album": {
+        "name": "Being Honest",
+        "url": "https://open.spotify.com/album/6Mp175aGm3sE5zMxyG6KID"
+      },
+      "artists": [
+        {
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+        }
+      ],
+      "duration_ms": 153964,
+      "name": "Being Honest",
+      "url": "https://open.spotify.com/track/0fiHDOKTOFnAPekgXYGErK"
+    },
+    {
+      "added_at": "2022-01-07 05:00:26",
+      "album": {
+        "name": "Let's Lose Our Minds",
+        "url": "https://open.spotify.com/album/6BODuVfqopl3cNRSNdb6Ld"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Let's Lose Our Minds",
+      "url": "https://open.spotify.com/track/1IlsLwNnkCL8QnkNexDZ4O"
+    },
     {
       "added_at": "2021-12-10 05:00:00",
       "album": {
@@ -77,38 +149,6 @@
       "url": "https://open.spotify.com/track/7oAN2D1k9Qz8qh2JaNcZrj"
     },
     {
-      "added_at": "2021-10-29 04:08:48",
-      "album": {
-        "name": "Street Poet 2",
-        "url": "https://open.spotify.com/album/0tQhdnBXqKclkBXubhu2kv"
-      },
-      "artists": [
-        {
-          "name": "Hunxho",
-          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
-        }
-      ],
-      "duration_ms": 173423,
-      "name": "Let's Get It",
-      "url": "https://open.spotify.com/track/4XfkvrC5rmOYqeTP2ft7lj"
-    },
-    {
-      "added_at": "2021-10-29 04:08:48",
-      "album": {
-        "name": "Being Honest",
-        "url": "https://open.spotify.com/album/6Mp175aGm3sE5zMxyG6KID"
-      },
-      "artists": [
-        {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
-        }
-      ],
-      "duration_ms": 153964,
-      "name": "Being Honest",
-      "url": "https://open.spotify.com/track/0fiHDOKTOFnAPekgXYGErK"
-    },
-    {
       "added_at": "2021-12-10 05:00:00",
       "album": {
         "name": "Man Down",
@@ -155,6 +195,22 @@
       "duration_ms": 134120,
       "name": "Wickman",
       "url": "https://open.spotify.com/track/2v2j25recIr66jLFS1ELuQ"
+    },
+    {
+      "added_at": "2022-01-07 05:00:26",
+      "album": {
+        "name": "Know Better",
+        "url": "https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu"
+      },
+      "artists": [
+        {
+          "name": "KillBunk",
+          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
+        }
+      ],
+      "duration_ms": 199436,
+      "name": "Know Better",
+      "url": "https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -259,6 +315,22 @@
       "duration_ms": 210009,
       "name": "Ain't My Fault (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/30An28ovHzHONcqysPKIIs"
+    },
+    {
+      "added_at": "2022-01-07 05:00:26",
+      "album": {
+        "name": "IN THE MIDDLE",
+        "url": "https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u2019S REVENGE",
+          "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        }
+      ],
+      "duration_ms": 203662,
+      "name": "IN THE MIDDLE",
+      "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -377,6 +449,22 @@
       "url": "https://open.spotify.com/track/2LvbYwfsRvGYnRytG573iW"
     },
     {
+      "added_at": "2022-01-07 05:00:26",
+      "album": {
+        "name": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
+        "url": "https://open.spotify.com/album/5YvxEnP5o1gFq3tynqsPBf"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "WOKEUPTHINKINBOUT",
+      "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
+    },
+    {
       "added_at": "2021-12-10 05:00:00",
       "album": {
         "name": "FINDERS KEEPERS (feat. Scorey & Internet Money)",
@@ -431,30 +519,6 @@
       "duration_ms": 162580,
       "name": "Postman",
       "url": "https://open.spotify.com/track/2w7SwOJdM3hchtwuirdZmb"
-    },
-    {
-      "added_at": "2021-11-29 23:29:54",
-      "album": {
-        "name": "Me or Sum (feat. Future & Lil Baby)",
-        "url": "https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 225664,
-      "name": "Me or Sum (feat. Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -1613,22 +1677,6 @@
       "url": "https://open.spotify.com/track/4PnR4x0pn4Wc6NBMKAyx8O"
     },
     {
-      "added_at": "2021-12-25 16:52:34",
-      "album": {
-        "name": "shut the fuck up talking to me",
-        "url": "https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv"
-      },
-      "artists": [
-        {
-          "name": "Zack Fox",
-          "url": "https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "fafo",
-      "url": "https://open.spotify.com/track/0tgFHDNf2ZNeY1J90oGbUW"
-    },
-    {
       "added_at": "2021-11-05 04:00:00",
       "album": {
         "name": "Draft Kings",
@@ -1743,26 +1791,6 @@
     {
       "added_at": "2021-12-25 16:52:34",
       "album": {
-        "name": "Private Phones",
-        "url": "https://open.spotify.com/album/69WSH1VDMGXIDCZIGANJNh"
-      },
-      "artists": [
-        {
-          "name": "FBG GOAT",
-          "url": "https://open.spotify.com/artist/5hq1b1Dgo4pPwbZV6iobbr"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 182311,
-      "name": "Private Phones",
-      "url": "https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2"
-    },
-    {
-      "added_at": "2021-12-25 16:52:34",
-      "album": {
         "name": "Missing Something",
         "url": "https://open.spotify.com/album/0joh96R5NbQ8U4Seyw6F6b"
       },
@@ -1811,22 +1839,6 @@
     {
       "added_at": "2021-12-25 16:52:34",
       "album": {
-        "name": "Catch It",
-        "url": "https://open.spotify.com/album/6Oc457CfvLinbQ0RrhUmSM"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        }
-      ],
-      "duration_ms": 136353,
-      "name": "Catch It",
-      "url": "https://open.spotify.com/track/6yo5XRZObYpo8mtm4SXRXE"
-    },
-    {
-      "added_at": "2021-12-25 16:52:34",
-      "album": {
         "name": "Started This",
         "url": "https://open.spotify.com/album/1ihXaJ1k65mNfkIEPaAxM2"
       },
@@ -1839,22 +1851,6 @@
       "duration_ms": 142470,
       "name": "Started This",
       "url": "https://open.spotify.com/track/1k3HvGrMl6oCCLPocfhnmB"
-    },
-    {
-      "added_at": "2022-01-04 18:28:38",
-      "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
-      },
-      "artists": [
-        {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
-        }
-      ],
-      "duration_ms": 148610,
-      "name": "Catch Me If You Can",
-      "url": "https://open.spotify.com/track/3WY8hLynnpmXPzdwPl0zjH"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ"

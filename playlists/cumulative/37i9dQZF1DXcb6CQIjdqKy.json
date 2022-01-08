@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music worldwide.  Cover: Anne Wilson",
+  "description": "The best mix of today's Christian music worldwide.  Cover: Martin Smith",
   "name": "Top Christian",
   "published_playlist_ids": [
     "08KuTqxhXigwBAuqdjqnNV"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 162312,
       "name": "Find You",
       "url": "https://open.spotify.com/track/3YziXpvMKC74a9bVF7EDsY"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 232376,
       "name": "Fire In Your Eyes",
       "url": "https://open.spotify.com/track/14EAVGyJ21b8oxoLgpjbcY"
@@ -1136,6 +1136,28 @@
     },
     {
       "album": {
+        "name": "Our Eyes Are On You",
+        "url": "https://open.spotify.com/album/6kvDlhfUy3TmrtrNPTurmw"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/7ISMNhe95QNLqHgsCHAVeu"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264115,
+      "name": "Our Eyes Are On You - Radio Edit",
+      "url": "https://open.spotify.com/track/6Kg6BHRQAd0xKDGGJ7LJoK"
+    },
+    {
+      "album": {
         "name": "Over And Over Again",
         "url": "https://open.spotify.com/album/0nlx1ckdpFqsEg2Zi0Pu4Z"
       },
@@ -1259,10 +1281,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 209965,
       "name": "Promised Land",
       "url": "https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy"
+    },
+    {
+      "album": {
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214648,
+      "name": "Promised Land (Collab New) (with Sheryl Crow)",
+      "url": "https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf"
     },
     {
       "album": {
@@ -1425,7 +1469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 169426,
       "name": "River Of Life",
       "url": "https://open.spotify.com/track/3K0JbVAbnkVTfxlShlREjc"
@@ -1899,6 +1943,24 @@
       "duration_ms": 191517,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
+    },
+    {
+      "album": {
+        "name": "Without Your Love",
+        "url": "https://open.spotify.com/album/66mhmcFBDn1DCxPOJd2wRI"
+      },
+      "artists": [
+        {
+          "name": "Abby Robertson",
+          "url": "https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162332,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0fZrPbrELvooERHd4r6ZQj"
     },
     {
       "album": {

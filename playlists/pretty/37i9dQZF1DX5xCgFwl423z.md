@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xCgFwl423z.md) - [plain]
 
 > Sylvester, Klaus Nomi, Judy Garland, and a slew of his own songs—peek into the singer\-songwriter’s timeless world, in celebration of Pride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,929 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

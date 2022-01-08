@@ -2,7 +2,7 @@
 
 ### [Metal Rewind](https://open.spotify.com/playlist/60nXJ45agAFWh0gM8e58vr)
 
-> The best recent metal tracks\. Cover: System Of A Down
+> The best recent metal tracks\. Cover: Arch Enemy
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,11 +13,13 @@
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2021-12-11 |  |
 | [Beast of Gévaudan](https://open.spotify.com/track/0jLyykA9QqdJbwgsVL9YVh) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Call of the Wild \(Deluxe Version\)](https://open.spotify.com/album/6JhuNA7potIMg6r29IVULP) | 3:31 | 2021-12-11 |  |
 | [Blood & Water](https://open.spotify.com/track/0UBJWXKAZT0wsfruzUVYbY) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Somebody](https://open.spotify.com/album/6N4OzD2tICZHchjciqtOQs) | 3:50 | 2021-12-11 |  |
+| [Blood Moon](https://open.spotify.com/track/1e6vaSlam2MX9jsp4Rzzhe) | [Converge](https://open.spotify.com/artist/7kHzfxMLtVHHb523s43rY1), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Bloodmoon: I](https://open.spotify.com/album/4rEDzWnp2RoNzSx8DjO7gY) | 7:50 | 2022-01-07 |  |
 | [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2021-12-11 |  |
 | [Choke](https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Cannibal](https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja) | 3:47 | 2021-12-11 |  |
 | [Crawling King Chaos](https://open.spotify.com/track/7IZ6UmMHDDTjIMAWPCSs58) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 5:27 | 2021-12-11 | 2022-01-01 |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2021-12-11 |  |
 | [Darkbloom](https://open.spotify.com/track/3flxPmOcA1rm7rKsZLfnD9) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/3wJZuEnCzcyFbRM2Q5tZw3) | 3:48 | 2021-12-11 |  |
+| [Deceiver, Deceiver](https://open.spotify.com/track/3jpGc7gcoTyQsrlfQ332Ql) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceiver, Deceiver](https://open.spotify.com/album/66LMLbz48jA8tbc561zxOO) | 3:51 | 2022-01-07 |  |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2021-12-11 |  |
 | [Do you really wanna know?](https://open.spotify.com/track/0dlKqhMDG7z87ZQsPMqZ5J) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Do you really wanna know?](https://open.spotify.com/album/09KfdEpKfLl5BVd2oz9Yl4) | 3:55 | 2021-12-11 |  |
 | [Dying to Live](https://open.spotify.com/track/0W6SPZVgUEtM34xR0Ap4LI) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Blood & Stone](https://open.spotify.com/album/1IIqfOuXvkV4idBpMQPQQx) | 3:09 | 2021-12-11 |  |
@@ -53,9 +55,9 @@
 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5bgKzG2enDERTaOUWNT5Dv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Lunar Injection Kool Aid Eclipse Conspiracy](https://open.spotify.com/album/1IaJD3LbEBdVMBSS8UH07e) | 4:07 | 2021-12-11 |  |
 | [The Writing On The Wall](https://open.spotify.com/track/20sXcaJkWP0DdzA58Colw3) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Senjutsu](https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU) | 6:13 | 2021-12-11 |  |
 | [Too Mean to Die](https://open.spotify.com/track/2qxqY65LHkd4UbZtRAZKIN) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Too Mean to Die](https://open.spotify.com/album/1Ua7bczSzWunvSHJQ44tQD) | 4:21 | 2021-12-11 |  |
-| [Vengeance](https://open.spotify.com/track/38yfG6JHTZ98yDcuOu1f1l) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Vengeance](https://open.spotify.com/album/0cIypI8oDDBfA2NFjqiXCL) | 2:42 | 2021-12-11 |  |
+| [Vengeance](https://open.spotify.com/track/38yfG6JHTZ98yDcuOu1f1l) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Vengeance](https://open.spotify.com/album/0cIypI8oDDBfA2NFjqiXCL) | 2:42 | 2021-12-11 | 2022-01-08 |
 | [Vortex](https://open.spotify.com/track/7Cm0DG5Cdtuo1ZaypMrDfx) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Wallflowers](https://open.spotify.com/album/3LEftQAmoSdbX1hXvA7rMT) | 4:02 | 2021-12-11 |  |
-| [Wait A Minute My Girl](https://open.spotify.com/track/3klr703oglZwVMiugDTDm7) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Wait A Minute My Girl / Dagen Før](https://open.spotify.com/album/1u6LJwzliFnMSe5tobgD4O) | 2:20 | 2021-12-11 |  |
+| [Wait A Minute My Girl](https://open.spotify.com/track/3klr703oglZwVMiugDTDm7) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Wait A Minute My Girl / Dagen Før](https://open.spotify.com/album/1u6LJwzliFnMSe5tobgD4O) | 2:20 | 2021-12-11 | 2022-01-08 |
 | [Warrior \(feat\. Travis Barker\)](https://open.spotify.com/track/11zEEKMORg4bIyGZ9HpkKz) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Warrior / Underrated](https://open.spotify.com/album/1hBDgB1L6iCtV8i5p1Mhq4) | 2:45 | 2021-12-11 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

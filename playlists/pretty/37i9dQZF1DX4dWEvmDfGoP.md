@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dWEvmDfGoP.md) - [plain]
 
 > An essential introduction to Raffi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,586 likes - 52 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,653 likes - 52 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

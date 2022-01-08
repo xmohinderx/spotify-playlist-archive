@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Ballroom Thieves",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: The Cactus Blossoms",
   "name": "Fresh Folk",
   "published_playlist_ids": [
     "7yU452WcXvKlp2CXhHrD6N"
@@ -788,6 +788,46 @@
     },
     {
       "album": {
+        "name": "Everybody (feat. Jenny Lewis)",
+        "url": "https://open.spotify.com/album/2UJQBQGLVhmnt8qVIVZshO"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        },
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178168,
+      "name": "Everybody (feat. Jenny Lewis)",
+      "url": "https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL"
+    },
+    {
+      "album": {
+        "name": "Everything Is Simple",
+        "url": "https://open.spotify.com/album/7na0XY52XbzkAhIvTygfxt"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259181,
+      "name": "Everything Is Simple",
+      "url": "https://open.spotify.com/track/3W9LUDqaup6AK5uoozN7Wh"
+    },
+    {
+      "album": {
         "name": "Eyes Wide Open (From \"North Star\")",
         "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
       },
@@ -853,7 +893,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 197906,
       "name": "Favorite Part",
       "url": "https://open.spotify.com/track/5RjiNm4c0itCWYQQd3br2U"
@@ -961,7 +1001,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 231190,
       "name": "From the Jordan",
       "url": "https://open.spotify.com/track/1NhYiszZHN2w3F1bqN6O24"
@@ -1055,7 +1095,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
@@ -1171,6 +1211,24 @@
       "duration_ms": 159189,
       "name": "House on the Ocean",
       "url": "https://open.spotify.com/track/5ziZzHGapmPwI9oxrUBjbg"
+    },
+    {
+      "album": {
+        "name": "How Bad I Wanna Live",
+        "url": "https://open.spotify.com/album/2kuPelS6p4hK1oAnKCvZKy"
+      },
+      "artists": [
+        {
+          "name": "Maya De Vitry",
+          "url": "https://open.spotify.com/artist/183NiypM74rwjSbeava1pq"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173077,
+      "name": "How Bad I Wanna Live",
+      "url": "https://open.spotify.com/track/4No2hBtuIufwb3w28Y0XZt"
     },
     {
       "album": {
@@ -1416,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "album": {
         "name": "Just a Closer Walk with Thee",
         "url": "https://open.spotify.com/album/5CyR9w2KXUln4DjH00qo4g"
       },
@@ -1445,7 +1521,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 227760,
       "name": "Lasso In",
       "url": "https://open.spotify.com/track/4sidm9ETaRkUYdqcqGfMNr"
@@ -1499,7 +1575,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 307358,
       "name": "Lissa's Song",
       "url": "https://open.spotify.com/track/1zwnTZVdOd85R5XFpV6vqf"
@@ -1539,7 +1615,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5uAtnvrLOUDcTp9sfpxaQt"
@@ -1575,7 +1651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 241681,
       "name": "Love Without Possession",
       "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
@@ -1605,6 +1681,24 @@
       "duration_ms": 161239,
       "name": "Lover, I",
       "url": "https://open.spotify.com/track/01mIMINaQNlKX8m02pj1ti"
+    },
+    {
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/0aCKhX3jfaKLQFPXhothRw"
+      },
+      "artists": [
+        {
+          "name": "Quiet Arrows",
+          "url": "https://open.spotify.com/artist/7KRnRH8bRvoX4ebQwHw2EI"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/5FYWABPvU7EqbzHrJkPyKV"
     },
     {
       "album": {
@@ -1767,7 +1861,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 204346,
       "name": "New Auburn (feat. Ana\u00efs Mitchell)",
       "url": "https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX"
@@ -1843,7 +1937,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 258812,
       "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
@@ -1905,7 +1999,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 247339,
       "name": "On The Edge",
       "url": "https://open.spotify.com/track/1i6nmLAlOL2DUYEHS0Udch"
@@ -2024,6 +2118,24 @@
     },
     {
       "album": {
+        "name": "Please Don't Be Perfect",
+        "url": "https://open.spotify.com/album/5mr70C7b6MNR3GlIArfRNK"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Please Don't Be Perfect",
+      "url": "https://open.spotify.com/track/6V0fnKGp1j2dqJqnfXFuP6"
+    },
+    {
+      "album": {
         "name": "Puppy and a Truck",
         "url": "https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl"
       },
@@ -2115,6 +2227,24 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY"
+    },
+    {
+      "album": {
+        "name": "Rolling Mills Are Burning Down",
+        "url": "https://open.spotify.com/album/1gN6ExODtGdw9vqVfIzwOO"
+      },
+      "artists": [
+        {
+          "name": "Jake Xerxes Fussell",
+          "url": "https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318533,
+      "name": "Rolling Mills Are Burning Down",
+      "url": "https://open.spotify.com/track/0J5ysgVjdeRFKjrqTEjI8a"
     },
     {
       "album": {
@@ -2212,6 +2342,24 @@
     },
     {
       "album": {
+        "name": "Matin\u00e9e",
+        "url": "https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252640,
+      "name": "So Are We",
+      "url": "https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U"
+    },
+    {
+      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -2227,7 +2375,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 303428,
       "name": "Somebody Was Watching Over Me",
       "url": "https://open.spotify.com/track/1TTXXmRgq2f0AkN99iw1f9"
@@ -2253,6 +2401,42 @@
       "duration_ms": 364384,
       "name": "Song Of The Seasons",
       "url": "https://open.spotify.com/track/3gpBqSisvVunnognY1GRuP"
+    },
+    {
+      "album": {
+        "name": "Soul to Blessed Soul",
+        "url": "https://open.spotify.com/album/3dvnfWPlGdwbq82bwuefwf"
+      },
+      "artists": [
+        {
+          "name": "Swamp Dogg",
+          "url": "https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335853,
+      "name": "Soul to Blessed Soul",
+      "url": "https://open.spotify.com/track/4UKQcBQ4JFZgsTkRMQzHT4"
+    },
+    {
+      "album": {
+        "name": "Soundings",
+        "url": "https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC"
+      },
+      "artists": [
+        {
+          "name": "Elanor Moss",
+          "url": "https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "Soundings",
+      "url": "https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp"
     },
     {
       "album": {
@@ -2285,7 +2469,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 168897,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/0JmSm5QqrdHEUDOG1k0D4h"
@@ -2339,7 +2523,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 219492,
       "name": "Sunbathers",
       "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
@@ -2411,7 +2595,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 182012,
       "name": "That's Life Honey",
       "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
@@ -2491,7 +2675,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 260303,
       "name": "The Lonely Persistence of Time",
       "url": "https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p"
@@ -2664,6 +2848,24 @@
     },
     {
       "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/2UiXq4ZRGg9WtjsiyHdCik"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173941,
+      "name": "Time Machine",
+      "url": "https://open.spotify.com/track/3iLjA1DD3Z7FDCNnMsKSz3"
+    },
+    {
+      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX"
       },
@@ -2718,6 +2920,24 @@
     },
     {
       "album": {
+        "name": "El Deafo (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123680,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/7nFrk76TTg9FJQ8CAoQMWt"
+    },
+    {
+      "album": {
         "name": "Use Me Up",
         "url": "https://open.spotify.com/album/1TTSz4e98JDTQ5ZWXxJsqh"
       },
@@ -2747,7 +2967,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 273733,
       "name": "Valium",
       "url": "https://open.spotify.com/track/59OMPI6d9LDo6BSMdroQJG"
@@ -2783,7 +3003,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 183626,
       "name": "We Can't Be Tamed",
       "url": "https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq"
@@ -2805,6 +3025,24 @@
       "duration_ms": 245546,
       "name": "What Then Cried Jo Soap",
       "url": "https://open.spotify.com/track/2mJmHq00bqo5hpsF5sEB4K"
+    },
+    {
+      "album": {
+        "name": "When I Was a Girl in Colorado",
+        "url": "https://open.spotify.com/album/75sA20SoPvoZCsXdg0NKMx"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300206,
+      "name": "When I Was a Girl in Colorado",
+      "url": "https://open.spotify.com/track/7fEXK4nlHRU4WyGDCwx9AT"
     },
     {
       "album": {
@@ -2859,6 +3097,24 @@
       "duration_ms": 188680,
       "name": "Wishing I Was Wrong",
       "url": "https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks"
+    },
+    {
+      "album": {
+        "name": "Within You (Moon And Stars / Acoustic)",
+        "url": "https://open.spotify.com/album/5IKTiqVLoaNkakL46ly3DJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "Within You - Moon And Stars / Acoustic",
+      "url": "https://open.spotify.com/track/65IO46j3lEL8bsreyXJqNs"
     },
     {
       "album": {
@@ -2925,7 +3181,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/4jSCSnMnIXnRbMPM0qLRVX"

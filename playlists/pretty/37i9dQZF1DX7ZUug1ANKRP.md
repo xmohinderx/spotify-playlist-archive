@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > Peak\-time bangers and emerging future hits\. Cover: Timmy Trumpet, Azteck, Darren Styles
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,578,785 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,578,871 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 8 | [Love U So](https://open.spotify.com/track/70uMBmsS1R4JEIENfW84re) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR) | [Love U So](https://open.spotify.com/album/2vuYtPzauu2A6F7AqUPouJ) | 2:35 |
 | 9 | [Sailor's Melody](https://open.spotify.com/track/22yqJ337zbB2u9mB7igNWm) | [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [Sula](https://open.spotify.com/artist/5eZVJzX99tmM2goIPe5rCq) | [Sailor's Melody](https://open.spotify.com/album/4tOpYbxSSHryjfh2q39kvG) | 2:10 |
 | 10 | [Survivors](https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Survivors](https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H) | 2:44 |
-| 11 | [Plans of Power](https://open.spotify.com/track/0iRoEWnP60m4Cj9z0xQucn) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB), [Rebecca Helena](https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr), [JUNAR](https://open.spotify.com/artist/3zgpKuFgnlyjRik8UZtYFQ) | [Plans of Power](https://open.spotify.com/album/4WE3CbiYxebVQhma5WXDbh) | 2:31 |
+| 11 | [Plans of Power](https://open.spotify.com/track/0iRoEWnP60m4Cj9z0xQucn) | [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg), [Rebecca Helena](https://open.spotify.com/artist/76i2ylWmcnDTx38Va7Mwzr), [JUNAR](https://open.spotify.com/artist/3zgpKuFgnlyjRik8UZtYFQ), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB) | [Plans of Power](https://open.spotify.com/album/4WE3CbiYxebVQhma5WXDbh) | 2:31 |
 | 12 | [For You \- Deeperlove Remix](https://open.spotify.com/track/547LWbvqDFeNS6xuK3XjLH) | [The Disco Boys](https://open.spotify.com/artist/0suokA0Exjok9HBfB0Oc3X), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm), [Manfred Mann's Earth Band](https://open.spotify.com/artist/2utNxkLhreF1oIfO8kQT3q) | [For You \(Deeperlove Remix\)](https://open.spotify.com/album/4S7mFciWbBmkMAk5gOKMec) | 2:26 |
 | 13 | [Aloha Hey](https://open.spotify.com/track/5puSdpASkBcy4MI4EpLYbg) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q), [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc) | [Aloha Hey](https://open.spotify.com/album/7ELEr0qyuFuYvSgvf4lq8u) | 2:34 |
 | 14 | [Unbreakable \- Benny Benassi Remix](https://open.spotify.com/track/2WOyQFzLn2C7zhQVDCiKog) | [TELYKast](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Unbreakable \(Benny Benassi Remix\)](https://open.spotify.com/album/6Heo87c111ire6HfcqVJTo) | 2:32 |

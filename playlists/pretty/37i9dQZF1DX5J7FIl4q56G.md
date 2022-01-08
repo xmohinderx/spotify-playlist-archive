@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Fit For An Autopsy
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,329 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,578 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 13 | [Vertigo](https://open.spotify.com/track/4sEzO3UhMRg2DTYsC05BU8) | [Valiant Hearts](https://open.spotify.com/artist/23JfHao7GdCfsGkXw4jJl8), [Marvin Bruckwilder](https://open.spotify.com/artist/7lv6PfjpMO4LNBP4fG8dOK) | [Vertigo](https://open.spotify.com/album/0mqOucOjNP3rOcDuzzchTT) | 5:28 |
 | 14 | [Valley of Sacrifice, Pt\. 1 \- Re\-Recorded 2022](https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih) | [Mors Principium Est](https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi) | [Valley of Sacrifice, Pt\. 1 \(Re\-Recorded 2022\)](https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL) | 6:09 |
 | 15 | [This Is It](https://open.spotify.com/track/0VWtdJyiJyA4TasrWcIG6F) | [Nekrogoblikon](https://open.spotify.com/artist/3FILKvtNoiEfCJO9qVNCNF) | [This Is It](https://open.spotify.com/album/0lJoJXVEwaPAdGzP3pzQAc) | 4:00 |
-| 16 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 |
+| 16 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 |
 | 17 | [Misguided](https://open.spotify.com/track/3XzHz4DaqxbsjDEoEyW0RX) | [AVIIRA](https://open.spotify.com/artist/5jrO7JLjq5hKKKENDwrun4) | [Avalanche](https://open.spotify.com/album/2Z0dWUt45um1flzsxi6Nd3) | 3:48 |
 | 18 | [Blood Red Night](https://open.spotify.com/track/2TNJL0sIvXx2nqcI0EOhP1) | [Tokyo Blade](https://open.spotify.com/artist/6F9tjDKhGtXlm9M4s30KD5) | [Blood Red Night](https://open.spotify.com/album/2vt1A1l52X5cVGLu3cVu89) | 5:35 |
 | 19 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 |

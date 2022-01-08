@@ -1,13 +1,29 @@
 {
   "description": "All new, all blues. Cover: Jackie Venson",
   "name": "Nu-Blue",
-  "num_followers": 108616,
+  "num_followers": 108680,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDBiMTAwMDAwMTdkYzZjM2NiNmQwMDAwMDE3ZDk1ZWViOWIz",
+  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDBiMjAwMDAwMTdlMzJlOTU3NzMwMDAwMDE3ZDk1ZWViOWIz",
   "tracks": [
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "Black Leaves",
+        "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 104280,
+      "name": "Black Leaves",
+      "url": "https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV"
+    },
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {

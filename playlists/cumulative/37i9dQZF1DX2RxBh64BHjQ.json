@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The official voice of generation next. Cover: Kay Flock",
+  "description": "The official voice of generation next. Cover: SoFaygo",
   "name": "Most Necessary",
   "published_playlist_ids": [
     "2WbWeZomiAM8yIPIZZMDJK"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 136353,
       "name": "Catch It",
       "url": "https://open.spotify.com/track/6yo5XRZObYpo8mtm4SXRXE"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 148610,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/3WY8hLynnpmXPzdwPl0zjH"
@@ -747,7 +747,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 158466,
       "name": "fafo",
       "url": "https://open.spotify.com/track/0tgFHDNf2ZNeY1J90oGbUW"
@@ -1072,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "IN THE MIDDLE",
+        "url": "https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u2019S REVENGE",
+          "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203662,
+      "name": "IN THE MIDDLE",
+      "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
+    },
+    {
+      "album": {
         "name": "The D.O.A. Tape",
         "url": "https://open.spotify.com/album/5DMfgmlbRD0HeUi5QQgOAD"
       },
@@ -1152,6 +1170,24 @@
     },
     {
       "album": {
+        "name": "Know Better",
+        "url": "https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu"
+      },
+      "artists": [
+        {
+          "name": "KillBunk",
+          "url": "https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199436,
+      "name": "Know Better",
+      "url": "https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2"
+    },
+    {
+      "album": {
         "name": "Lamborghini Geeski",
         "url": "https://open.spotify.com/album/1VLwpYslYyCkYprCaPJyEU"
       },
@@ -1185,6 +1221,24 @@
       "duration_ms": 173423,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/4XfkvrC5rmOYqeTP2ft7lj"
+    },
+    {
+      "album": {
+        "name": "Let's Lose Our Minds",
+        "url": "https://open.spotify.com/album/6BODuVfqopl3cNRSNdb6Ld"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195789,
+      "name": "Let's Lose Our Minds",
+      "url": "https://open.spotify.com/track/1IlsLwNnkCL8QnkNexDZ4O"
     },
     {
       "album": {
@@ -1703,7 +1757,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 182311,
       "name": "Private Phones",
       "url": "https://open.spotify.com/track/5ub5nP1gGGVgt0J14Gqpf2"
@@ -2315,6 +2369,24 @@
       "duration_ms": 159312,
       "name": "Wocky My Lover",
       "url": "https://open.spotify.com/track/0Cj4WjZVyrLeSJwOsJ80bB"
+    },
+    {
+      "album": {
+        "name": "WOKEUPTHINKINBOUT / HIDDEN VOICES",
+        "url": "https://open.spotify.com/album/5YvxEnP5o1gFq3tynqsPBf"
+      },
+      "artists": [
+        {
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154291,
+      "name": "WOKEUPTHINKINBOUT",
+      "url": "https://open.spotify.com/track/3HpRwCE2XIB9u1VXj5R6T9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2RxBh64BHjQ"

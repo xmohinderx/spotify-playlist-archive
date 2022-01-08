@@ -1,12 +1,12 @@
 {
   "description": "Fresh takes on that high lonesome sound. Cover: <a href=\"spotify:artist:4LX0KCPnH7gvxEbVXqXmAE\">Molly Tuttle</a>",
   "name": "Indie Bluegrass",
-  "num_followers": 230909,
+  "num_followers": 230975,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkyNjkyMCwwMDAwMDAzMDAwMDAwMTdlMGVkZGJkODkwMDAwMDE2ZDE1MjM1Zjkw",
+  "snapshot_id": "MTY0MTUzMTg0MCwwMDAwMDAzMTAwMDAwMTdlMzJlYzE3NTIwMDAwMDE2ZDE1MjM1Zjkw",
   "tracks": [
     {
       "added_at": "2021-10-01 04:01:00",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/702VulzPRsk5vlGWNqwmXm"
     },
     {
+      "added_at": "2022-01-07 05:04:00",
+      "album": {
+        "name": "I'll Be Lost",
+        "url": "https://open.spotify.com/album/47YEllnKpleAJfm9PZ78uy"
+      },
+      "artists": [
+        {
+          "name": "Heather Sarona",
+          "url": "https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0"
+        }
+      ],
+      "duration_ms": 202028,
+      "name": "I'll Be Lost",
+      "url": "https://open.spotify.com/track/5QR7BtYDsTKReZJNrqZ3Rn"
+    },
+    {
       "added_at": "2021-10-01 04:01:00",
       "album": {
         "name": "Montana",
@@ -87,6 +103,22 @@
       "duration_ms": 197013,
       "name": "Real World",
       "url": "https://open.spotify.com/track/3bimtjFTf1f44qp2dH9m5F"
+    },
+    {
+      "added_at": "2022-01-07 05:04:00",
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 185553,
+      "name": "Good Intentions",
+      "url": "https://open.spotify.com/track/6586Yb57Ussd4h1A7brBsU"
     },
     {
       "added_at": "2021-10-15 04:30:51",
@@ -135,6 +167,22 @@
       "duration_ms": 239586,
       "name": "Johnny",
       "url": "https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug"
+    },
+    {
+      "added_at": "2022-01-07 05:04:00",
+      "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/2eKgpWDXS5n259CsN2PlRx"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 481641,
+      "name": "Stress Dreams",
+      "url": "https://open.spotify.com/track/3ww5HAGF6KoQB9g2yiohMP"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -505,10 +553,10 @@
       "url": "https://open.spotify.com/track/4sWnVeKwH6Aftzk5HZi4d1"
     },
     {
-      "added_at": "2021-10-15 04:30:51",
+      "added_at": "2022-01-07 05:04:00",
       "album": {
         "name": "You Are My Sunshine",
-        "url": "https://open.spotify.com/album/1ce4TJnN4Hn9km24yisiep"
+        "url": "https://open.spotify.com/album/7hyMzALTKSgT2XN2qc9lvD"
       },
       "artists": [
         {
@@ -518,7 +566,7 @@
       ],
       "duration_ms": 200106,
       "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/036wosWhY0P3ibCFRQLgbw"
+      "url": "https://open.spotify.com/track/3gg5FHI5j0FjXrEk6jO71Y"
     },
     {
       "added_at": "2021-10-01 04:01:00",

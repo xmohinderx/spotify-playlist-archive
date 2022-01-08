@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "(I Never Promised You A) Rose Garden",
       "url": "https://open.spotify.com/track/3UB02E0dG5TZwEwpeXboFa"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 222960,
       "name": "7 Years",
       "url": "https://open.spotify.com/track/57IKN5kmhY7bUmiGgqNeLU"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 170047,
       "name": "All I Do Is Drive",
       "url": "https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 276413,
       "name": "Banana Pancakes",
       "url": "https://open.spotify.com/track/7B1qzMdyg0NnqNmRCLqbRs"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 251960,
       "name": "Bartender's Blues",
       "url": "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 196600,
       "name": "But You Know I Love You",
       "url": "https://open.spotify.com/track/5DnMZlZpDSQxoYhW9e7XFu"
@@ -497,6 +497,24 @@
     {
       "album": {
         "name": "Crazy",
+        "url": "https://open.spotify.com/album/1WOdDui5YNJyJnNsqQGEhG"
+      },
+      "artists": [
+        {
+          "name": "Home Free",
+          "url": "https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166894,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/5dUIFih8gZDXRz6OHpIpwz"
+    },
+    {
+      "album": {
+        "name": "Crazy",
         "url": "https://open.spotify.com/album/33RsjtkuBbz8JyoK8OjzQ3"
       },
       "artists": [
@@ -543,7 +561,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 197277,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/3nkxbitSWz9zZrE7WDvNzE"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 208440,
       "name": "Every Which Way but Loose - Friends and Heroes Session",
       "url": "https://open.spotify.com/track/2d94Il3qGrgAsv2m81S5u1"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 227453,
       "name": "Lips Of An Angel",
       "url": "https://open.spotify.com/track/2tcHsNBkF0GYQKyFI2y3gE"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 188893,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/1yOCSAjEuF3qqT9GKqoJtj"
@@ -1647,7 +1665,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 232173,
       "name": "Not Over You (feat. Gavin DeGraw) (feat. Gavin DeGraw)",
       "url": "https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM"
@@ -1777,7 +1795,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 257142,
       "name": "Pride (In The Name Of Love) - Live",
       "url": "https://open.spotify.com/track/3A6OkjyymF5n9XxXgjh51X"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 182920,
       "name": "That's the Way Love Goes",
       "url": "https://open.spotify.com/track/20ZTVyGNlRnmCS1LlRMvEr"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 295880,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg"
@@ -2319,7 +2337,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 224583,
       "name": "To All the Girls I've Loved Before",
       "url": "https://open.spotify.com/track/1vyAuZmklumKjd5Udd6Zmb"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 247693,
       "name": "Whenever I Call You \"Friend\" (feat. Phillip Sweet)",
       "url": "https://open.spotify.com/track/3hY1wEShrxHsKAwxLnFOU3"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of recent tracks from the world of black and dark metal. Cover: Wolves In The Throne Room",
+  "description": "A collection of recent tracks from the world of black and dark metal. Cover: Dark Funeral",
   "name": "Black & Dark Metal",
   "published_playlist_ids": [
     "64Dcl2uRhYdNKoQxcWR2Lx"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 416963,
       "name": "Ancient Death",
       "url": "https://open.spotify.com/track/08k0tIpeDbMWUR3iI6e8Co"
@@ -722,6 +722,24 @@
     },
     {
       "album": {
+        "name": "Let the Devil In",
+        "url": "https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280334,
+      "name": "Let the Devil In",
+      "url": "https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6"
+    },
+    {
+      "album": {
         "name": "The Seed of All Evil",
         "url": "https://open.spotify.com/album/76y3jhORzJxEJnNfkjHKYj"
       },
@@ -917,6 +935,24 @@
       "duration_ms": 220204,
       "name": "Resurgence",
       "url": "https://open.spotify.com/track/00KhJRzikpiLzCXMQMvF22"
+    },
+    {
+      "album": {
+        "name": "Riitti",
+        "url": "https://open.spotify.com/album/59VTx7tGkZgqWFqyK9HQDK"
+      },
+      "artists": [
+        {
+          "name": "Verikalpa",
+          "url": "https://open.spotify.com/artist/5tqZo146ewkPULPWNGPdq3"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293664,
+      "name": "Riitti",
+      "url": "https://open.spotify.com/track/4Hd6i2Gsz8oteMoaz1NJ9u"
     },
     {
       "album": {
@@ -1165,7 +1201,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 280800,
       "name": "The Last Dance",
       "url": "https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP"
@@ -1277,6 +1313,24 @@
       "duration_ms": 438640,
       "name": "Trance IV: Nemesis",
       "url": "https://open.spotify.com/track/1ntRngCCMm5TpY9w6Pkhgn"
+    },
+    {
+      "album": {
+        "name": "Valley of Sacrifice, Pt. 1 (Re-Recorded 2022)",
+        "url": "https://open.spotify.com/album/1K2swvwHtTu41RtcVHxevL"
+      },
+      "artists": [
+        {
+          "name": "Mors Principium Est",
+          "url": "https://open.spotify.com/artist/1k0jnWb55QS6FjTU9LzMhi"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369946,
+      "name": "Valley of Sacrifice, Pt. 1 - Re-Recorded 2022",
+      "url": "https://open.spotify.com/track/4QlVvuOvnk2W51tsSUfnih"
     },
     {
       "album": {
@@ -1435,7 +1489,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 218910,
       "name": "Worship the Eternal Darkness",
       "url": "https://open.spotify.com/track/5FwQeW8Z8ky47RqqPk0hi1"

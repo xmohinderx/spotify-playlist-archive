@@ -1,13 +1,69 @@
 {
-  "description": "The hottest new pop with the all the drops. Cover: Alesso & Katy Perry",
+  "description": "The hottest new pop with the all the drops. Cover: Jonas Blue & Why Don't We",
   "name": "Fresh Dance Pop",
-  "num_followers": 72364,
+  "num_followers": 72450,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDA2MzAwMDAwMTdlMGVkYmU5MzYwMDAwMDE3ZTBkYTI2ODFj",
+  "snapshot_id": "MTY0MTUzMTYwMCwwMDAwMDA2NDAwMDAwMTdlMzJlODZkMjkwMDAwMDE3ZTJjOTIyMDQw",
   "tracks": [
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Don\u2019t Wake Me Up",
+        "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
+        }
+      ],
+      "duration_ms": 188894,
+      "name": "Don\u2019t Wake Me Up",
+      "url": "https://open.spotify.com/track/3LEgGAl9zLcQWGTp7ptqtQ"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Crazy in Love (feat. The High)",
+        "url": "https://open.spotify.com/album/0GXtJEJGkdi6xos24sAF1f"
+      },
+      "artists": [
+        {
+          "name": "Raaban",
+          "url": "https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc"
+        },
+        {
+          "name": "The High",
+          "url": "https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z"
+        }
+      ],
+      "duration_ms": 146776,
+      "name": "Crazy in Love (feat. The High)",
+      "url": "https://open.spotify.com/track/1qSYUYroOTrH7Vr5qBb52H"
+    },
     {
       "added_at": "2021-12-31 05:00:00",
       "album": {
@@ -1043,26 +1099,6 @@
     {
       "added_at": "2021-12-24 22:13:33",
       "album": {
-        "name": "You Are For Me",
-        "url": "https://open.spotify.com/album/7yDgjZm6KcWL7VBtq6sIrk"
-      },
-      "artists": [
-        {
-          "name": "Tiggi Hawke",
-          "url": "https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l"
-        },
-        {
-          "name": "Joel Adams",
-          "url": "https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD"
-        }
-      ],
-      "duration_ms": 206065,
-      "name": "You Are For Me",
-      "url": "https://open.spotify.com/track/3yJoI2Jcg5YAQd6ajWwTbi"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
         "name": "Young Right Now",
         "url": "https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw"
       },
@@ -1479,22 +1515,6 @@
     {
       "added_at": "2021-12-24 22:13:33",
       "album": {
-        "name": "Fever Dream",
-        "url": "https://open.spotify.com/album/4jyOxBxbP619pfXx6EI6lI"
-      },
-      "artists": [
-        {
-          "name": "The Orion Experience",
-          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Roll With Me",
-      "url": "https://open.spotify.com/track/1jK80sJkcTJWZhq7nrRRKs"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
         "name": "Magic Still Exists",
         "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
@@ -1559,22 +1579,6 @@
       "duration_ms": 224569,
       "name": "After You (feat. Calle Lehmann)",
       "url": "https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV"
-    },
-    {
-      "added_at": "2021-12-24 22:13:33",
-      "album": {
-        "name": "Telepath",
-        "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE"
     },
     {
       "added_at": "2021-12-24 22:13:33",

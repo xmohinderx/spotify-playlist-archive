@@ -1,13 +1,29 @@
 {
-  "description": "The soundtrack to the Internet. Cover: yvngxchris",
+  "description": "The soundtrack to the Internet. Cover: Yeat",
   "name": "Internet People",
-  "num_followers": 1037306,
+  "num_followers": 1037995,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTQ4NDUxNiwwMDAwMDI5MjAwMDAwMTdlMzAxOWZjOWMwMDAwMDE3ZGEwOWQ4NWM2",
+  "snapshot_id": "MTY0MTUzNjI5NCwwMDAwMDI5NDAwMDAwMTdlMzMzMDBmNmYwMDAwMDE3ZTMxYTk2Mzc5",
   "tracks": [
+    {
+      "added_at": "2022-01-07 06:18:14",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
     {
       "added_at": "2022-01-05 17:21:06",
       "album": {
@@ -53,6 +69,30 @@
       "url": "https://open.spotify.com/track/6nQ1B216Liiydhgn2gar0o"
     },
     {
+      "added_at": "2022-01-07 06:12:47",
+      "album": {
+        "name": "off the leash!",
+        "url": "https://open.spotify.com/album/2KkDQOnRGyK0oh0sSenizj"
+      },
+      "artists": [
+        {
+          "name": "BabySantana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        },
+        {
+          "name": "yvngxchris",
+          "url": "https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr"
+        },
+        {
+          "name": "Luisss",
+          "url": "https://open.spotify.com/artist/1QQITM74vtuxr0JbguPWNI"
+        }
+      ],
+      "duration_ms": 192114,
+      "name": "off the leash! (feat. yvngxchris and Luisss)",
+      "url": "https://open.spotify.com/track/5HSsOCyML8FFIviP9ByHCF"
+    },
+    {
       "added_at": "2021-12-14 15:29:17",
       "album": {
         "name": "22 (Remix)",
@@ -73,20 +113,36 @@
       "url": "https://open.spotify.com/track/1Tfl1OLWRg2l2gmrLudDEL"
     },
     {
-      "added_at": "2021-10-07 15:52:41",
+      "added_at": "2022-01-04 15:20:47",
       "album": {
-        "name": "4L",
-        "url": "https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann"
+        "name": "Arc'teryx",
+        "url": "https://open.spotify.com/album/2R0KBvv8cpP70AGriaw7mV"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "YT",
+          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
         }
       ],
-      "duration_ms": 186017,
-      "name": "Sorry Bout That",
-      "url": "https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ"
+      "duration_ms": 155730,
+      "name": "Arc'teryx",
+      "url": "https://open.spotify.com/track/1chxfk33LoVOznJiJ0WWPD"
+    },
+    {
+      "added_at": "2022-01-07 06:12:47",
+      "album": {
+        "name": "Been Himma",
+        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Been Himma",
+      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
     },
     {
       "added_at": "2022-01-06 04:10:47",
@@ -105,20 +161,36 @@
       "url": "https://open.spotify.com/track/4DCSx7XCBxYWuc71WL02j2"
     },
     {
-      "added_at": "2022-01-04 15:20:47",
+      "added_at": "2022-01-07 06:12:47",
       "album": {
-        "name": "Arc'teryx",
-        "url": "https://open.spotify.com/album/2R0KBvv8cpP70AGriaw7mV"
+        "name": "Vito / Bad Boy",
+        "url": "https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy"
       },
       "artists": [
         {
-          "name": "YT",
-          "url": "https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C"
+          "name": "Headband Andy",
+          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
         }
       ],
-      "duration_ms": 155730,
-      "name": "Arc'teryx",
-      "url": "https://open.spotify.com/track/1chxfk33LoVOznJiJ0WWPD"
+      "duration_ms": 152762,
+      "name": "Vito / Bad Boy",
+      "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
+    },
+    {
+      "added_at": "2021-10-07 15:52:41",
+      "album": {
+        "name": "4L",
+        "url": "https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 186017,
+      "name": "Sorry Bout That",
+      "url": "https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -195,6 +267,42 @@
       "duration_ms": 112800,
       "name": "Jesus Is The One (I Got Depression)",
       "url": "https://open.spotify.com/track/1YR9iNGXtsbrd8deR9ULDD"
+    },
+    {
+      "added_at": "2022-01-07 06:12:47",
+      "album": {
+        "name": "IN THE MIDDLE",
+        "url": "https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD"
+      },
+      "artists": [
+        {
+          "name": "TOKYO\u2019S REVENGE",
+          "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        }
+      ],
+      "duration_ms": 203662,
+      "name": "IN THE MIDDLE",
+      "url": "https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb"
+    },
+    {
+      "added_at": "2022-01-07 06:12:47",
+      "album": {
+        "name": "We Good (From The TV Show \"DAVE\")",
+        "url": "https://open.spotify.com/album/7r12oLHbuBAhYcEFAklRYE"
+      },
+      "artists": [
+        {
+          "name": "Lil Dicky",
+          "url": "https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr"
+        },
+        {
+          "name": "GaTa",
+          "url": "https://open.spotify.com/artist/5eJwzR2zzh5zkXcUjZAvDL"
+        }
+      ],
+      "duration_ms": 167676,
+      "name": "We Good (From The TV Show \"DAVE\")",
+      "url": "https://open.spotify.com/track/2rKPqxCmMQ68wYV1ArFvNy"
     },
     {
       "added_at": "2022-01-06 15:55:16",
@@ -407,6 +515,22 @@
       "duration_ms": 150263,
       "name": "My Everything (Part III) (feat. G Herbo)",
       "url": "https://open.spotify.com/track/4aGZWvZ5L2MLWC2GjZBps8"
+    },
+    {
+      "added_at": "2022-01-07 06:12:47",
+      "album": {
+        "name": "Swiper Of The Year",
+        "url": "https://open.spotify.com/album/4O7rwsxAeJE4jjNIoEIFYI"
+      },
+      "artists": [
+        {
+          "name": "Teejayx6",
+          "url": "https://open.spotify.com/artist/5jGqKmL1iBtlEb3LZovw8Y"
+        }
+      ],
+      "duration_ms": 88653,
+      "name": "Swiper Of The Year",
+      "url": "https://open.spotify.com/track/4zQY1lPJv072WQI9gy5dt7"
     },
     {
       "added_at": "2021-10-22 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [Perreo City](https://open.spotify.com/playlist/7slpjtiTF4amPLODArmLYt)
 
-> Esto es un perreo a lo..\. Feid & Karol G.
+> Esto es un perreo a lo..\. Blessd, Justin Quiles & Lenny Tavárez.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [M3](https://open.spotify.com/track/1xT5mH6OOZK214SoI6E9sa) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [M3](https://open.spotify.com/album/0mRMg1nqDJsiYBgTDJOE5i) | 3:40 | 2021-12-24 |  |
 | [Madrugada](https://open.spotify.com/track/5xQaovKfAD3o4NuHpCfOSL) | [Dielo](https://open.spotify.com/artist/0rzDXstZA6ldNJaSgrxjvB) | [Madrugada](https://open.spotify.com/album/4GdsShGA3VRA8tXcxM5EFe) | 2:24 | 2021-12-24 |  |
 | [Me Fije](https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Me Fije](https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC) | 3:22 | 2021-12-24 |  |
+| [Medallo](https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [Hecho En Medellín](https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh) | 3:53 | 2022-01-07 |  |
 | [Mi Gata](https://open.spotify.com/track/0Z46SPLJZUC2aKDAggsMvr) | [Standly / El Barto](https://open.spotify.com/artist/5qLs2jxwhB5HrAKSCYYkZZ) | [Mi Gata](https://open.spotify.com/album/1kLNKbt06XNjaELUhtKhab) | 3:22 | 2021-12-24 |  |
 | [MMC](https://open.spotify.com/track/5CZWyXBHImqHNquAk4coKb) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [MMC](https://open.spotify.com/album/6PFzOuphApnB6DBJT6Tw8M) | 4:14 | 2021-12-24 |  |
 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 | 2021-12-24 |  |

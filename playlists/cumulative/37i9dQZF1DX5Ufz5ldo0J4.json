@@ -4166,6 +4166,24 @@
     },
     {
       "album": {
+        "name": "So Serene",
+        "url": "https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6"
+      },
+      "artists": [
+        {
+          "name": "Gentle Leap",
+          "url": "https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142063,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV"
+    },
+    {
+      "album": {
         "name": "Whenever You're With Me",
         "url": "https://open.spotify.com/album/6Zi81juw9l7a13KmNMJjQb"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Real hip-hop. Cover: Mick Jenkins",
+  "description": "The Real hip-hop. Cover: Kota The Friend",
   "name": "Mind Right",
   "published_playlist_ids": [
     "3aBEPaCmxnNZhkIPP42r3z"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 163000,
       "name": "Can't Do This Alone",
       "url": "https://open.spotify.com/track/1vqf2TUALAihS8vM7lTuEf"
@@ -329,6 +329,24 @@
       "duration_ms": 179255,
       "name": "D.U.I.",
       "url": "https://open.spotify.com/track/3tZKhSQdmW8FCRzPmhQgDM"
+    },
+    {
+      "album": {
+        "name": "Dear Fear",
+        "url": "https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199339,
+      "name": "Dear Fear",
+      "url": "https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT"
     },
     {
       "album": {
@@ -907,7 +925,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 191250,
       "name": "PACE",
       "url": "https://open.spotify.com/track/2rJyOoWu1ESAVzxKK3vD4e"
@@ -1071,6 +1089,24 @@
       "duration_ms": 117226,
       "name": "THE LOOP",
       "url": "https://open.spotify.com/track/1dSQTFRuAAQSGbFlLukmD5"
+    },
+    {
+      "album": {
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112625,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
     },
     {
       "album": {

@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "A Hand, A Heart (2021)",
+        "url": "https://open.spotify.com/album/64FRBimcWLupwj5WBrzjm9"
+      },
+      "artists": [
+        {
+          "name": "Katie Buchanan",
+          "url": "https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268642,
+      "name": "A Hand, A Heart - 2021",
+      "url": "https://open.spotify.com/track/2MylFBKIQH5ogcBbeMDYiR"
+    },
+    {
+      "album": {
         "name": "The Dip Delivers",
         "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
       },
@@ -95,7 +113,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 111710,
       "name": "Baby",
       "url": "https://open.spotify.com/track/1CoEu5QifQZUhFYrLIjgFx"
@@ -113,7 +131,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
@@ -211,7 +229,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 205656,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0suTkdTp0b4TJ74WXBavVq"
@@ -247,7 +265,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 242921,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5nwDAjkr2u2iVvjdeLockj"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 201093,
       "name": "Fresh Roses",
       "url": "https://open.spotify.com/track/05RmevbSKDvHHKpYBoXYfR"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 231654,
       "name": "Hold Tight",
       "url": "https://open.spotify.com/track/5ufN0FRT3UQXRSq0Ibhbv6"
@@ -749,6 +767,24 @@
       "duration_ms": 198679,
       "name": "I Love You More",
       "url": "https://open.spotify.com/track/37kIyAeNHhcDoLaNiGvmDO"
+    },
+    {
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     },
     {
       "album": {
@@ -1125,7 +1161,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 252853,
       "name": "My Life",
       "url": "https://open.spotify.com/track/2hPY2x0M6k8pQiBxeCzD5T"
@@ -1143,7 +1179,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 220773,
       "name": "Never Be Ourselves",
       "url": "https://open.spotify.com/track/4HsypsmwrhfF1hFj9xKh4o"
@@ -1233,7 +1269,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 205769,
       "name": "Old Love (Bonus)",
       "url": "https://open.spotify.com/track/6saFywPB1ofkLwuy95UQXc"
@@ -1287,10 +1323,28 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 223602,
       "name": "Patty & Lucy",
       "url": "https://open.spotify.com/track/0tlTKEoa103da2FrJyBXcl"
+    },
+    {
+      "album": {
+        "name": "Penny Pincher",
+        "url": "https://open.spotify.com/album/0hGZmEGPkeicNmcZKuaQbC"
+      },
+      "artists": [
+        {
+          "name": "Kendra Morris",
+          "url": "https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220599,
+      "name": "Penny Pincher",
+      "url": "https://open.spotify.com/track/6EHv2BQ8wbDsGJnPSdo1Vb"
     },
     {
       "album": {
@@ -1533,7 +1587,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 300295,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
@@ -1775,7 +1829,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 201053,
       "name": "We Were Never Friends",
       "url": "https://open.spotify.com/track/0txG3MJ2CO3031axdnyyTD"

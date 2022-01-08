@@ -168,6 +168,24 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/6CTPTBtlV9CjZvWT9zdF3B"
+      },
+      "artists": [
+        {
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175353,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/1uEx04wo96LJzR1A6nzgCi"
+    },
+    {
+      "album": {
         "name": "Bad Storm Coming Tonight",
         "url": "https://open.spotify.com/album/0QghGTf6Kmjb9KuZhxk7Gt"
       },

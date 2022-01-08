@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/2EClhJEKmxxPX9cMOfMXnq"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/6SYgBTp6KuQ2ZQ91bATYl0"
+    },
+    {
+      "album": {
         "name": "Kidz Bop 26",
         "url": "https://open.spotify.com/album/0glgQAdemitAFAPEidey2p"
       },

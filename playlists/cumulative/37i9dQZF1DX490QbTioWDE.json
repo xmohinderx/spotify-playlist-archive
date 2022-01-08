@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 218826,
       "name": "200 Copas - En Vivo",
       "url": "https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 256812,
       "name": "Amada Mia - En Vivo",
       "url": "https://open.spotify.com/track/6YIewAPGakyaxTNrivlYXs"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 262040,
       "name": "Amor De Adolescentes",
       "url": "https://open.spotify.com/track/3E28mvtogjuESSENFw1mLV"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 192453,
       "name": "Amor De Madrugada",
       "url": "https://open.spotify.com/track/010A0oe6YYm0ng35rAG7tV"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 320373,
       "name": "Amor secreto",
       "url": "https://open.spotify.com/track/2weCRoOw9dVUiTQI9gUjVx"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 256560,
       "name": "Atrevida - En Vivo",
       "url": "https://open.spotify.com/track/7JkQzAl2Yr6VvEkDV3aqdP"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 255680,
       "name": "Atr\u00e9vete",
       "url": "https://open.spotify.com/track/44K0HP3qHqxDZP4P6z9Hwk"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 178816,
       "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
       "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
@@ -400,6 +400,24 @@
     },
     {
       "album": {
+        "name": "Como Si No Importara",
+        "url": "https://open.spotify.com/album/5ilKp0xsoj8VCSdmxTyPNu"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107442,
+      "name": "Como Si No Importara",
+      "url": "https://open.spotify.com/track/4CNaLnuEqQK9YPzy74HBcA"
+    },
+    {
+      "album": {
         "name": "Conv\u00e9nceme",
         "url": "https://open.spotify.com/album/1aFdSCUgwTm0VGtR1nSaWO"
       },
@@ -429,7 +447,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 264426,
       "name": "Cuando Grita la Piel / Amiga del Alma",
       "url": "https://open.spotify.com/track/3Fm7HsAtL7YD0Ecjsj980C"
@@ -451,6 +469,24 @@
       "duration_ms": 177493,
       "name": "Cuando Me Enamoro",
       "url": "https://open.spotify.com/track/7IUFDlflcQjHNxg8H0us34"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Conoc\u00ed (en vivo)",
+        "url": "https://open.spotify.com/album/6D5BktudJt2JZfbRW08C4Y"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182429,
+      "name": "Cuando te conoc\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/0jRxyj5xjSrFx2vfeefNnU"
     },
     {
       "album": {
@@ -519,7 +555,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 204008,
       "name": "Dame el Aire",
       "url": "https://open.spotify.com/track/7kcvu6EbKIOD2VefjNKGGD"
@@ -537,7 +573,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 227866,
       "name": "Dame un Poco Mas",
       "url": "https://open.spotify.com/track/118nYRgA9iNCv5aiUO5B8K"
@@ -591,7 +627,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 204601,
       "name": "Desordenada",
       "url": "https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ"
@@ -609,7 +645,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 239726,
       "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
       "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
@@ -631,6 +667,46 @@
       "duration_ms": 228048,
       "name": "D\u00f3nde",
       "url": "https://open.spotify.com/track/695KiRLxI1e49JKP5WCh22"
+    },
+    {
+      "album": {
+        "name": "El Amor No Es un Juego",
+        "url": "https://open.spotify.com/album/4R4PuQAw5OX5vaMTAkVLRd"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187454,
+      "name": "El Amor No Es un Juego",
+      "url": "https://open.spotify.com/track/2bHDPfEA3d2WfdJ7L2CsGz"
+    },
+    {
+      "album": {
+        "name": "Bien Ah\u00ed !",
+        "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Sergio Oliva and Freddy Zavaley",
+          "url": "https://open.spotify.com/artist/3NJ2rCIzLmZpmB4RF1MbHC"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302186,
+      "name": "El bohemio",
+      "url": "https://open.spotify.com/track/6SbDsZ7cv06KYxSHkBWmkS"
     },
     {
       "album": {
@@ -667,7 +743,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 408133,
       "name": "El le\u00f3n",
       "url": "https://open.spotify.com/track/0nMjVZividTXl469Nltcc7"
@@ -685,7 +761,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 264853,
       "name": "El Marginal",
       "url": "https://open.spotify.com/track/3E78p8FVQQDktDJbdYjiju"
@@ -757,7 +833,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 200320,
       "name": "Eres Mia",
       "url": "https://open.spotify.com/track/45i9Tr7JfW4f9Et0o2UiqI"
@@ -1036,6 +1112,28 @@
     },
     {
       "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/6yatQdjakC2F3cQm6359CG"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200362,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/71BayRBmRYO3UPK2PxoMvy"
+    },
+    {
+      "album": {
         "name": "20 Grandes Exitos",
         "url": "https://open.spotify.com/album/5sODoADgphMzZfAuOC5sGk"
       },
@@ -1087,6 +1185,42 @@
       "duration_ms": 245000,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+    },
+    {
+      "album": {
+        "name": "La Condena",
+        "url": "https://open.spotify.com/album/3g9GpZFCZgK3gHWq5a45Cz"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210965,
+      "name": "La Condena",
+      "url": "https://open.spotify.com/track/7Mahe67Pb0Zyl32f9NioMt"
+    },
+    {
+      "album": {
+        "name": "La Culpa Es Tuya",
+        "url": "https://open.spotify.com/album/43tFTP3Unhf3zWKNTYRImI"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223168,
+      "name": "La Culpa Es Tuya",
+      "url": "https://open.spotify.com/track/6byYGGnQpfNuOcEx1M9e6c"
     },
     {
       "album": {
@@ -1177,7 +1311,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 148797,
       "name": "La Pupera",
       "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
@@ -1253,7 +1387,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 281880,
       "name": "Lo Mejor del Amor",
       "url": "https://open.spotify.com/track/7g8FwoWCD7MzMOVN5ZgNkz"
@@ -1329,7 +1463,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 209746,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij"
@@ -1471,6 +1605,28 @@
       "duration_ms": 209040,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/7mYr1AckRMJGRIjXipJ7yW"
+    },
+    {
+      "album": {
+        "name": "A Pleno",
+        "url": "https://open.spotify.com/album/3ym8AntZiGMg6lP2UDZ0qL"
+      },
+      "artists": [
+        {
+          "name": "Mauri Monasterio",
+          "url": "https://open.spotify.com/artist/2hwkCUHxNoO6vIAU5Wv4lo"
+        },
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223179,
+      "name": "Mi Cama Huele A Ti",
+      "url": "https://open.spotify.com/track/0M8Fzjbx1Ia5zcd3MzIKVB"
     },
     {
       "album": {
@@ -1633,7 +1789,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 227306,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/61SuldN9cUeac7RCtxgxAz"
@@ -1731,7 +1887,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 275958,
       "name": "Olvidala",
       "url": "https://open.spotify.com/track/4Qgl3aQu4sHlt6HFsIsKlr"
@@ -1904,6 +2060,32 @@
     },
     {
       "album": {
+        "name": "Que Te Olvide",
+        "url": "https://open.spotify.com/album/7v89rqv4mitRs99q08Fa4M"
+      },
+      "artists": [
+        {
+          "name": "El Ramy",
+          "url": "https://open.spotify.com/artist/71GI3crYM00yVUTgsyfcgt"
+        },
+        {
+          "name": "El Turco Julio",
+          "url": "https://open.spotify.com/artist/4EMjageaWU23LtyVfVjVW1"
+        },
+        {
+          "name": "Cuarteto del Bueno",
+          "url": "https://open.spotify.com/artist/7H74awb9SCsCk8RqQOwPor"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251850,
+      "name": "Que Te Olvide",
+      "url": "https://open.spotify.com/track/7gOtGWLuClM1P9L2tXq9BG"
+    },
+    {
+      "album": {
         "name": "Nominado",
         "url": "https://open.spotify.com/album/0plUTXDPuD3mDlDPhQGZY7"
       },
@@ -1955,7 +2137,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 199666,
       "name": "Recreo",
       "url": "https://open.spotify.com/track/6eZqovhe0LPyiphM1fU0uk"
@@ -2020,6 +2202,24 @@
     },
     {
       "album": {
+        "name": "Si Te Vas de M\u00ed (Live)",
+        "url": "https://open.spotify.com/album/7HLwOoPCfutbsgxruJ0Bmc"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180256,
+      "name": "Si Te Vas de M\u00ed - Live",
+      "url": "https://open.spotify.com/track/2gmLkti9beAsOfdX1mKF92"
+    },
+    {
+      "album": {
         "name": "Cuarteteando",
         "url": "https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN"
       },
@@ -2067,7 +2267,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 302800,
       "name": "Soy Cordobes",
       "url": "https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS"
@@ -2215,7 +2415,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 177254,
       "name": "Tengo que calmarme",
       "url": "https://open.spotify.com/track/6WAwZasg23YWWloNJ24e2S"
@@ -2233,7 +2433,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 200173,
       "name": "Tinta China - En Vivo",
       "url": "https://open.spotify.com/track/3ykGF7ztZ1Ij37QQluEwb5"
@@ -2277,7 +2477,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 480888,
       "name": "Todo Me Recuerda a Ti / Despu\u00e9s de Ti / Dale Mami",
       "url": "https://open.spotify.com/track/2XVMf704n9W0hoagag4HCB"
@@ -2295,10 +2495,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 198320,
       "name": "Tu amor me duele",
       "url": "https://open.spotify.com/track/3HWYzGshvwUxDZyMX5KuVY"
+    },
+    {
+      "album": {
+        "name": "Obsesi\u00f3n",
+        "url": "https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207870,
+      "name": "Tu maldito amor",
+      "url": "https://open.spotify.com/track/1AtIb5oZBXHLKzyoM6POtc"
     },
     {
       "album": {
@@ -2353,7 +2571,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 242950,
       "name": "Un Perfecto Idiota",
       "url": "https://open.spotify.com/track/0VaT0YEN3tFeEGqleYLpsq"
@@ -2396,6 +2614,28 @@
     },
     {
       "album": {
+        "name": "Volver\u00e1s a mi cama",
+        "url": "https://open.spotify.com/album/2iXgt6xMsk1NWyZxiAbBTV"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes del Cuarteto",
+          "url": "https://open.spotify.com/artist/7xEiX76imldiwL3joKgoAm"
+        },
+        {
+          "name": "Fabi\u00e1n Show",
+          "url": "https://open.spotify.com/artist/0RKPB7jsjhvfa18hkcOGjH"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192997,
+      "name": "Volver\u00e1s a mi cama",
+      "url": "https://open.spotify.com/track/6NEl37ROj5xTnbFDvPvh4N"
+    },
+    {
+      "album": {
         "name": "La Fiesta Es De Primera",
         "url": "https://open.spotify.com/album/72KFF6mZjbIlnO05xpT4tu"
       },
@@ -2407,7 +2647,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 319280,
       "name": "Vuela",
       "url": "https://open.spotify.com/track/49nLdGkkDKFP86DGSCPfna"
@@ -2479,7 +2719,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-08",
       "duration_ms": 242055,
       "name": "Ya no volver\u00e1",
       "url": "https://open.spotify.com/track/2CjunqLdUix6YPoXcm68bT"

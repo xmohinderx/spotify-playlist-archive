@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > All new, all rock\. Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,672 likes - 49 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,840 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,24 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 28 | [Excited Ones](https://open.spotify.com/track/0g7SEOa5ilYJJt6lxTHDOH) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Excited Ones](https://open.spotify.com/album/1MK5aON4B1J0SWqaMH1drU) | 3:04 |
 | 29 | [Farewell, OK](https://open.spotify.com/track/2pyAHKUpYql5trGzQ8f8dS) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn), [The Imposters](https://open.spotify.com/artist/0mtzATzl6kfYHMWZskqH21) | [Farewell, OK](https://open.spotify.com/album/2pluvy9chgvW0H1QZAEXpA) | 2:54 |
 | 30 | [Amateur Hour](https://open.spotify.com/track/65dxn39IzanS0bSAFkGPaR) | [Eels](https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl) | [Amateur Hour](https://open.spotify.com/album/33lxH0QYAQgAaB0oLGR2Lu) | 2:32 |
-| 31 | [It's Only Dancin'](https://open.spotify.com/track/1UnVOZ5qPBWXaVLuguUWr2) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [It's Only Dancin'](https://open.spotify.com/album/3dqcSMMwH2LDYP9TVFIZwE) | 2:17 |
-| 32 | [Rock and Roll Doctor](https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Rock and Roll Doctor](https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930) | 3:02 |
-| 33 | [Outlaw Love](https://open.spotify.com/track/0cfWKN9jyNERP4iN4ayHeS) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Outlaw Love](https://open.spotify.com/album/5LZTboCb3mKXhVG9wxAJpF) | 4:03 |
-| 34 | [Break Free](https://open.spotify.com/track/3LRJ9Khra5LcgAt17GHafR) | [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly) | [Break Free](https://open.spotify.com/album/5z3SSmmqXwpNiUQkWzXBHp) | 2:48 |
-| 35 | [Small World](https://open.spotify.com/track/6QZXGQXA2rJbL0rkAxwNqE) | [Summer Years](https://open.spotify.com/artist/5I1VI1fW0OYtrhc0sn7ly3) | [You Can't Live There Forever](https://open.spotify.com/album/1rq9n8fgJjR8oyv8l0yxi2) | 3:55 |
-| 36 | [Velvet Room](https://open.spotify.com/track/3P0iQ4tVYJcXbi7AdskWxd) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [Velvet Room](https://open.spotify.com/album/2jamyvHM12CbDmHWopRnjY) | 3:49 |
-| 37 | [Six Feet Down](https://open.spotify.com/track/15qXtT3ThH0c680RWxTccZ) | [Led by Lanterns](https://open.spotify.com/artist/5kp3UOrrlc3GP5b5bymA07), [Waved](https://open.spotify.com/artist/4VYgiugN8Mh2OMFOwGGRPT) | [Six Feet Down](https://open.spotify.com/album/5N1vSyLz4IcNR0tnSYJULC) | 3:55 |
-| 38 | [Diadem](https://open.spotify.com/track/0TL198yHBqh7JiSZvh3FJt) | [Salvation Jayne](https://open.spotify.com/artist/4GZd8KIM8w0Wg3ILoof1fA) | [Diadem](https://open.spotify.com/album/0pHsa35vcuGPD40cpGFsYr) | 5:16 |
-| 39 | [All Out](https://open.spotify.com/track/1HrK59DtTgREhUdjsArhK4) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [All Out](https://open.spotify.com/album/77dmD25osRDQiyRS9si08Z) | 3:22 |
-| 40 | [Living Ghost](https://open.spotify.com/track/3HOpb9fVJHYlyvs8tMiSJf) | [Band of Silver](https://open.spotify.com/artist/4AnulnIsdMeFSGN8FauJ8v) | [Living Ghost](https://open.spotify.com/album/6fFRejop14Lajcg1nOuDUg) | 3:14 |
-| 41 | [Hate You](https://open.spotify.com/track/12Dvs5RlQBXKkGVj69BUOp) | [Dark Sun](https://open.spotify.com/artist/28Ps4MXmGKNVn1NVlSwvs8) | [Hate You](https://open.spotify.com/album/1Ny45zEWIVhbscfj6tRAeV) | 3:56 |
-| 42 | [Tourists and Terrorists](https://open.spotify.com/track/5CN6N8Py02Qt4Cc3WSJZt5) | [Earthset](https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t) | [Tourists and Terrorists](https://open.spotify.com/album/1LSqbpfU8nufLVBXeKYN9P) | 4:29 |
-| 43 | [Rich](https://open.spotify.com/track/6MfBEdXN588DVvN3B2P1PU) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Rich](https://open.spotify.com/album/5iM5HcVvVmh82yc0bEo7D1) | 3:42 |
-| 44 | [Take Care](https://open.spotify.com/track/5o9nbtXxh9fZA1poDIAUUQ) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [Take Care](https://open.spotify.com/album/2sSdRAK1iqkEHju1RXi1Au) | 3:22 |
-| 45 | [Heart Stained](https://open.spotify.com/track/3Buhirif8Bm2R5VE1gpoMg) | [The Junkyard](https://open.spotify.com/artist/27eZ6tgjCclVaCfKCB95pC) | [Middlemist Red](https://open.spotify.com/album/5bkl0YRKYwAhVjq58IZN84) | 5:23 |
-| 46 | [Meta Metta](https://open.spotify.com/track/5ReqLYlT6MIae7MSXjPYsy) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [Meta Metta](https://open.spotify.com/album/0yxFxTJ9UKtFjSPhCHbiwa) | 5:42 |
-| 47 | [The World I Remember](https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [The World I Remember](https://open.spotify.com/album/4dc7dwhwBEpDajRO1PetWG) | 5:31 |
-| 48 | [El Odio\. Parte III](https://open.spotify.com/track/5WXhX0mJex1EQ4hGrv0mBo) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [El Odio\. Parte III](https://open.spotify.com/album/5vVgMzdcDu7AnyWxfTo33X) | 6:53 |
-| 49 | [Fatso](https://open.spotify.com/track/0IvQIjrZT6orErdAwAJSij) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Fatso](https://open.spotify.com/album/5Sej5PBWsSj9PPCGmE5SzL) | 3:30 |
+| 31 | [Shame On You](https://open.spotify.com/track/6sVs6TJapaC9piCpAgZyZc) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Shame On You](https://open.spotify.com/album/7rAfGUGoGPQNYM9RK0musY) | 3:20 |
+| 32 | [It's Only Dancin'](https://open.spotify.com/track/1UnVOZ5qPBWXaVLuguUWr2) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [It's Only Dancin'](https://open.spotify.com/album/3dqcSMMwH2LDYP9TVFIZwE) | 2:17 |
+| 33 | [Rock and Roll Doctor](https://open.spotify.com/track/1OTjwWjqNM2QFLdGGKit1C) | [The Band Of Heathens](https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7), [White Denim](https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp) | [Rock and Roll Doctor](https://open.spotify.com/album/185A6DCKTFGUj6zvUkx930) | 3:02 |
+| 34 | [Outlaw Love](https://open.spotify.com/track/0cfWKN9jyNERP4iN4ayHeS) | [The Districts](https://open.spotify.com/artist/3HZgaiR960RFqx9d4LPraD) | [Outlaw Love](https://open.spotify.com/album/5LZTboCb3mKXhVG9wxAJpF) | 4:03 |
+| 35 | [Break Free](https://open.spotify.com/track/3LRJ9Khra5LcgAt17GHafR) | [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly) | [Break Free](https://open.spotify.com/album/5z3SSmmqXwpNiUQkWzXBHp) | 2:48 |
+| 36 | [Small World](https://open.spotify.com/track/6QZXGQXA2rJbL0rkAxwNqE) | [Summer Years](https://open.spotify.com/artist/5I1VI1fW0OYtrhc0sn7ly3) | [You Can't Live There Forever](https://open.spotify.com/album/1rq9n8fgJjR8oyv8l0yxi2) | 3:55 |
+| 37 | [Velvet Room](https://open.spotify.com/track/3P0iQ4tVYJcXbi7AdskWxd) | [Notions](https://open.spotify.com/artist/6fN3ZJDwsMKEInS1STuotC) | [Velvet Room](https://open.spotify.com/album/2jamyvHM12CbDmHWopRnjY) | 3:49 |
+| 38 | [Six Feet Down](https://open.spotify.com/track/15qXtT3ThH0c680RWxTccZ) | [Led by Lanterns](https://open.spotify.com/artist/5kp3UOrrlc3GP5b5bymA07), [Waved](https://open.spotify.com/artist/4VYgiugN8Mh2OMFOwGGRPT) | [Six Feet Down](https://open.spotify.com/album/5N1vSyLz4IcNR0tnSYJULC) | 3:55 |
+| 39 | [Diadem](https://open.spotify.com/track/0TL198yHBqh7JiSZvh3FJt) | [Salvation Jayne](https://open.spotify.com/artist/4GZd8KIM8w0Wg3ILoof1fA) | [Diadem](https://open.spotify.com/album/0pHsa35vcuGPD40cpGFsYr) | 5:16 |
+| 40 | [All Out](https://open.spotify.com/track/1HrK59DtTgREhUdjsArhK4) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [All Out](https://open.spotify.com/album/77dmD25osRDQiyRS9si08Z) | 3:22 |
+| 41 | [Living Ghost](https://open.spotify.com/track/3HOpb9fVJHYlyvs8tMiSJf) | [Band of Silver](https://open.spotify.com/artist/4AnulnIsdMeFSGN8FauJ8v) | [Living Ghost](https://open.spotify.com/album/6fFRejop14Lajcg1nOuDUg) | 3:14 |
+| 42 | [Hate You](https://open.spotify.com/track/12Dvs5RlQBXKkGVj69BUOp) | [Dark Sun](https://open.spotify.com/artist/28Ps4MXmGKNVn1NVlSwvs8) | [Hate You](https://open.spotify.com/album/1Ny45zEWIVhbscfj6tRAeV) | 3:56 |
+| 43 | [Tourists and Terrorists](https://open.spotify.com/track/5CN6N8Py02Qt4Cc3WSJZt5) | [Earthset](https://open.spotify.com/artist/27FihPbgJOaSdAyq9kgb9t) | [Tourists and Terrorists](https://open.spotify.com/album/1LSqbpfU8nufLVBXeKYN9P) | 4:29 |
+| 44 | [Rich](https://open.spotify.com/track/6MfBEdXN588DVvN3B2P1PU) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Rich](https://open.spotify.com/album/5iM5HcVvVmh82yc0bEo7D1) | 3:42 |
+| 45 | [Take Care](https://open.spotify.com/track/5o9nbtXxh9fZA1poDIAUUQ) | [FRAGILE](https://open.spotify.com/artist/1IBYroia1iA5nw0h8RCOeu) | [Take Care](https://open.spotify.com/album/2sSdRAK1iqkEHju1RXi1Au) | 3:22 |
+| 46 | [Heart Stained](https://open.spotify.com/track/3Buhirif8Bm2R5VE1gpoMg) | [The Junkyard](https://open.spotify.com/artist/27eZ6tgjCclVaCfKCB95pC) | [Middlemist Red](https://open.spotify.com/album/5bkl0YRKYwAhVjq58IZN84) | 5:23 |
+| 47 | [Meta Metta](https://open.spotify.com/track/5ReqLYlT6MIae7MSXjPYsy) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [Meta Metta](https://open.spotify.com/album/0yxFxTJ9UKtFjSPhCHbiwa) | 5:42 |
+| 48 | [The World I Remember](https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [The World I Remember](https://open.spotify.com/album/4dc7dwhwBEpDajRO1PetWG) | 5:31 |
+| 49 | [El Odio\. Parte III](https://open.spotify.com/track/5WXhX0mJex1EQ4hGrv0mBo) | [Toundra](https://open.spotify.com/artist/3cgIU3hh7Y4pUsPgHB8aYT) | [El Odio\. Parte III](https://open.spotify.com/album/5vVgMzdcDu7AnyWxfTo33X) | 6:53 |
+| 50 | [Fatso](https://open.spotify.com/track/0IvQIjrZT6orErdAwAJSij) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR) | [Fatso](https://open.spotify.com/album/5Sej5PBWsSj9PPCGmE5SzL) | 3:30 |
 
-Snapshot ID: `MTY0MTUxMDAwMCwwMDAwMDJmMjAwMDAwMTdlMzE5ZWQ2NGMwMDAwMDE3ZTI1MTg4ODEz`
+Snapshot ID: `MTY0MTU1MDI4NCwwMDAwMDJmMzAwMDAwMTdlMzQwNTg2Y2MwMDAwMDE3ZTI1MTg4ODEz`
