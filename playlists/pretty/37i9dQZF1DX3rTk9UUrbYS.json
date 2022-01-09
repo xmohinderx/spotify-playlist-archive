@@ -6,8 +6,24 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTY4OTA0MCwwMDAwMDAwMDdhYjA4NDZkYzU4MWY2OTU5ZWRmYjQzNDdhMzZmYjA3",
+  "snapshot_id": "MTY0MTY5MTk5MCwwMDAwMDAwMDdhYjA4NDZkYzU4MWY2OTU5ZWRmYjQzNDdhMzZmYjA3",
   "tracks": [
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Correspondence",
+        "url": "https://open.spotify.com/album/2qCbbojLoVTrzIUCDIDCWj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Burnett",
+          "url": "https://open.spotify.com/artist/5j7DKIqTzeP8owzlPDwNLJ"
+        }
+      ],
+      "duration_ms": 532640,
+      "name": "New Age (Matrix) - Instrumental",
+      "url": "https://open.spotify.com/track/0Gp5tGBCzRCXQyyKeXmWoq"
+    },
     {
       "added_at": "2021-06-11 04:01:00",
       "album": {
@@ -31,6 +47,26 @@
       "duration_ms": 519041,
       "name": "Zero Tolerance",
       "url": "https://open.spotify.com/track/4aDlzHLLJPFGQxCyQkfkTu"
+    },
+    {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
     },
     {
       "added_at": "2020-09-18 04:02:00",
@@ -951,46 +987,6 @@
       "duration_ms": 375173,
       "name": "Cinema: entr'acte symphonique de Relache (arr. for chamber ensemble)",
       "url": "https://open.spotify.com/track/0dixluAn0piS3iY1JsoQI0"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Circle Down",
-        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
-      },
-      "artists": [
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Angelica Sanchez",
-          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
-        },
-        {
-          "name": "Chris Lightcap",
-          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
-        }
-      ],
-      "duration_ms": 359466,
-      "name": "Box Step",
-      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "New York Is Now",
-        "url": "https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 378666,
-      "name": "Round Trip",
-      "url": "https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rTk9UUrbYS"

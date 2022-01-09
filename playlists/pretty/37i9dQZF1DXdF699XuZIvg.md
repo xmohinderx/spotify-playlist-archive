@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 
 > Hit the road and scream your heart out!
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,139 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,141 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF699XuZIvg.md) - [plain]
 | 74 | [In the Eye of the Beast \(You'll Be Found\)](https://open.spotify.com/track/4rhOGSi9e87aYBzZ4dMwNh) | [Water Wolf](https://open.spotify.com/artist/5dqppjxWugNaHJyRCEDpLe) | [When You Hear the Howl at 3 A.M.](https://open.spotify.com/album/2KeAO7FIMK57d80dyxAMUP) | 5:12 |
 | 75 | [Sin on Skin](https://open.spotify.com/track/4SzxBp2OeQ7DTlCPwVSnYk) | [Those Damn Crows](https://open.spotify.com/artist/3VdnwWd3i9OOT0CzbzRZj7) | [Sin on Skin](https://open.spotify.com/album/7m5D1cM9LQH1wHXBsDWe3O) | 3:55 |
 
-Snapshot ID: `MTY0MTY4OTI2NiwwMDAwMDAwMDIzZDRhODNjYjQ1MzJiZDRlMTUzZDVkNDQyOTg0Y2Ux`
+Snapshot ID: `MTY0MTY5MjIyMCwwMDAwMDAwMDIzZDRhODNjYjQ1MzJiZDRlMTUzZDVkNDQyOTg0Y2Ux`

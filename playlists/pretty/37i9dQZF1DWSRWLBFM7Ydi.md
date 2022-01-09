@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRWLBFM7Ydi.md) - [plain]
 
 > A roundup of essential tracks from the English <a href="spotify:artist:0gadJ2b9A4SKsB1RFkBb66">singer\-songwriter</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,368 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,375 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

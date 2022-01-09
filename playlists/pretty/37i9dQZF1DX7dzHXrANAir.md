@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,424 likes - 80 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,430 likes - 80 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [Home](https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2) | [Home](https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu) | 3:19 |
 | 80 | [Wave](https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU) | [David Allred](https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm) | [Driving Through the Aftermath of a Storm on a Clear Day](https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y) | 2:31 |
 
-Snapshot ID: `MTY0MTY4OTE0MywwMDAwMDAwMDgwMjhlZDgxN2Y0NTA1MmQzZmE2MThhODNiYTFjMjIx`
+Snapshot ID: `MTY0MTY5MjA5MywwMDAwMDAwMDgwMjhlZDgxN2Y0NTA1MmQzZmE2MThhODNiYTFjMjIx`

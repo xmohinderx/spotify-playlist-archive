@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 69 | [Frosty The Snowman \- Remastered 2006](https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:13 |
 | 70 | [Christmas Eve](https://open.spotify.com/track/7gXjaS8KmxBtsoyv6XNogg) | [Billy Eckstine](https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt) | [Let It Swing: A Jazz Christmas With Verve](https://open.spotify.com/album/2OVtgimkNWYBek4ue7gdL2) | 3:02 |
 
-Snapshot ID: `MTY0MTY4OTA0NiwwMDAwMDAwMDQ3Mjg5NDAzMzhiNmE2YjM1N2I5NTdjOTE5Y2I4OWY3`
+Snapshot ID: `MTY0MTY5MTk5NywwMDAwMDAwMDQ3Mjg5NDAzMzhiNmE2YjM1N2I5NTdjOTE5Y2I4OWY3`

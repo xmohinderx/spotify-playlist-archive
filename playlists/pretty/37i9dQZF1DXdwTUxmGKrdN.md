@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,374 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,383 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 49 | [Eye Contact](https://open.spotify.com/track/37bPydtyElNj0AERSVzGMM) | [Jay Beckenstein](https://open.spotify.com/artist/6eA7CikksulcpTewVtS8Ok) | [Eye Contact](https://open.spotify.com/album/1MUDLRtMxjsbAByQ8tNQTD) | 4:54 |
 | 50 | [Soul Vibration](https://open.spotify.com/track/5KaSTemL2bEHw5HDFFIZyB) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Ten](https://open.spotify.com/album/6vw1IOlxgQy2otoKPOng7e) | 4:26 |
 
-Snapshot ID: `MTY0MTY4OTI4MiwwMDAwMDAwMDY5NzE0ZWMxNDNiYzRiNjY3OWUzZWQwMzg1M2FmYjI0`
+Snapshot ID: `MTY0MTY5MjIzNywwMDAwMDAwMDY5NzE0ZWMxNDNiYzRiNjY3OWUzZWQwMzg1M2FmYjI0`

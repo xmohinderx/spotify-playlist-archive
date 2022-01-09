@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3ayfz12wpQs.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3ayfz12wpQs) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3ayfz12wpQs)
 
-### Sand Between My Toes
+### [Sand Between My Toes](https://open.spotify.com/playlist/7i1mJBg1w2RzqaCw3sjEqF)
 
 > Sunny chill songs and that beach vibe.
 

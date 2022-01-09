@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > Lay back\. Chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,829 likes - 49 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,837 likes - 49 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 48 | [Balance In All](https://open.spotify.com/track/7u3J2oavkIdg5JqkVsyz55) | [Anna Wise](https://open.spotify.com/artist/0N41KJ4H6bkPAm2tx7VS8C) | [The Feminine: Act II](https://open.spotify.com/album/37vNxGqVuUBQfdhMDEy4Ro) | 3:30 |
 | 49 | [Think About You \- Acoustic](https://open.spotify.com/track/6e0n5SzuhpqqVLcHSvt7kZ) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [good to know \(Acoustic\)](https://open.spotify.com/album/6Nn09BzoctbIVRVQxL2Mg1) | 4:00 |
 
-Snapshot ID: `MTY0MTY4OTI2NSwwMDAwMDAwMDQ5Nzg1NWY4NTc2NDk0MmU5NmNjN2ExZTEzNzQ0NjZl`
+Snapshot ID: `MTY0MTY5MjIyMCwwMDAwMDAwMDQ5Nzg1NWY4NTc2NDk0MmU5NmNjN2ExZTEzNzQ0NjZl`

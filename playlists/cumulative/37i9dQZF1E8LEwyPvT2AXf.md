@@ -2,7 +2,7 @@
 
 ### [When We Were Young Radio](https://open.spotify.com/playlist/4unVIKdkTCDXOJosfpD9UD)
 
-> With Adele, John Legend, Alicia Keys, Jason Mraz and more
+> With Adele, Meryl Streep, ZAYN, Christina Perri and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

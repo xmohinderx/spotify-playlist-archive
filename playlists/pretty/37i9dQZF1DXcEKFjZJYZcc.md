@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 
 > Positive piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,925 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,929 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEKFjZJYZcc.md) - [plain]
 | 99 | [Speicherstadt](https://open.spotify.com/track/59crmJpzPW64edZAmXNOn5) | [Stephan Neudorf](https://open.spotify.com/artist/3LTEyjfC2BYp3WdJhPJjm1) | [Speicherstadt](https://open.spotify.com/album/6Ecw3xAVbA82muBpmMLOKU) | 2:23 |
 | 100 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 |
 
-Snapshot ID: `MTY0MTY4OTI0NiwwMDAwMDAwMGMwODMwMmNkOTQzZTRhMmE0MjdhNjU2NTJhZGEwMzc1`
+Snapshot ID: `MTY0MTY5MjIwMCwwMDAwMDAwMGMwODMwMmNkOTQzZTRhMmE0MjdhNjU2NTJhZGEwMzc1`

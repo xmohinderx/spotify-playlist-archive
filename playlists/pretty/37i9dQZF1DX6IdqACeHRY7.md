@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,892 likes - 114 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,891 likes - 114 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Chemicals](https://open.spotify.com/track/77M6K5cvQvLW0yxsbbAZsI) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different](https://open.spotify.com/album/75Hvy9ou42WBVTNNSWxzJG) | 3:41 |
 | 114 | [Carry You Home](https://open.spotify.com/track/5cZ3QCfLRVBxMptA6HswII) | [Jamie Scott](https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr) | [Carry You Home](https://open.spotify.com/album/0pNYOy3vQH4yg3H8vN2VIz) | 4:01 |
 
-Snapshot ID: `MTY0MTY4OTEwOCwwMDAwMDAwMDg5NGE0Yjk0YTk5YjY1MmRlODYwMmVkMDgwNjNhODI1`
+Snapshot ID: `MTY0MTY5MjA1OSwwMDAwMDAwMDg5NGE0Yjk0YTk5YjY1MmRlODYwMmVkMDgwNjNhODI1`

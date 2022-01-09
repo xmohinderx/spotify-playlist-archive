@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the new tunes in the Thrash world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,974 likes - 120 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,976 likes - 120 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 119 | [Marionette](https://open.spotify.com/track/098gOGegzGnjMi3bZVLUeN) | [Born Of Ire](https://open.spotify.com/artist/6PewtGR1UteSAtMhineAxx) | [Born of Ire](https://open.spotify.com/album/3HBNbDf4SxIED8tBzBcxRN) | 5:00 |
 | 120 | [Tiki](https://open.spotify.com/track/6uF3DKH4OM0p0Ycg4MOGTx) | [Die Apokalyptischen Reiter](https://open.spotify.com/artist/04L8hbMJRQ5vFnLeDgA8xn) | [Tiki](https://open.spotify.com/album/3O8kZ8ghIvzMwDRRdxo7ci) | 2:32 |
 
-Snapshot ID: `MTY0MTY4ODkzMiwwMDAwMDAwMDgzNDhlNTgzZTc1Nzc0M2VjZDEyMDNmYjRhODI5YmY2`
+Snapshot ID: `MTY0MTY5MTg4MCwwMDAwMDAwMDgzNDhlNTgzZTc1Nzc0M2VjZDEyMDNmYjRhODI5YmY2`

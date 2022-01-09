@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,321,820 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,321,810 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 99 | [I Want You Back](https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:59 |
 | 100 | [Lady \(You Bring Me Up\)](https://open.spotify.com/track/7l3QyhptrvjiNS5dOcUQvr) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Commodores: The Definitive Collection](https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR) | 4:50 |
 
-Snapshot ID: `MTY0MTY4OTE4NSwwMDAwMDAwMGFmNzI1YmJjNGZhM2JkYWNlOTIzMWFhYTNmZTQ0MTcx`
+Snapshot ID: `MTY0MTY5MjEzNywwMDAwMDAwMGFmNzI1YmJjNGZhM2JkYWNlOTIzMWFhYTNmZTQ0MTcx`

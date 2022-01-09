@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Moore Kismet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,675 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,679 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 79 | [Smile](https://open.spotify.com/track/2bwIvnMw0XQ1tzZhrM4mLA) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/0a2shuL3OZFJ8SzWPz7Egh) | 2:37 |
 | 80 | [Myztic Stage: Frost & Fire](https://open.spotify.com/track/5HZK5gSFHb0WBxKS6rsNH3) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Digimaiden](https://open.spotify.com/album/3HU9kKXZaaUK69KpAwZKvO) | 3:08 |
 
-Snapshot ID: `MTY0MTY4OTE5NywwMDAwMDAwMDZmMjU0NDdlZWY4M2MxN2U1YTY5NTk1NTQyMjgxMmU3`
+Snapshot ID: `MTY0MTY5MjE0OSwwMDAwMDAwMDZmMjU0NDdlZWY4M2MxN2U1YTY5NTk1NTQyMjgxMmU3`

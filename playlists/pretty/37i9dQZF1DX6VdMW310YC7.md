@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,224,102 likes - 303 songs - 20 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,224,149 likes - 303 songs - 20 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -312,4 +312,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 302 | [don't forget to breathe today](https://open.spotify.com/track/1mjWyzZeXGkxyVoc81sRWP) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/7g5WAl4SPgBZrLI1heU4Jt) | 4:07 |
 | 303 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 |
 
-Snapshot ID: `MTY0MTY4OTExNCwwMDAwMDAwMDQ0MjA1ZTJhZDZjOGEyYmFkNzRlZTM1MTIzMTYxNTY1`
+Snapshot ID: `MTY0MTY5MjA2NiwwMDAwMDAwMDQ0MjA1ZTJhZDZjOGEyYmFkNzRlZTM1MTIzMTYxNTY1`

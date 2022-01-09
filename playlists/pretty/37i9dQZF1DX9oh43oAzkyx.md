@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,016,829 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,016,914 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 75 | [Isis](https://open.spotify.com/track/36TO60sxDduIsO3xH8IcUh) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Isis](https://open.spotify.com/album/361T1uXWyuak02E2W6tBs8) | 3:56 |
 | 76 | [The Box](https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:16 |
 
-Snapshot ID: `MTY0MTY4OTE5MCwwMDAwMDAwMDU5MzA1ZjA1ZjZmZGI2OGVlN2EwYTc4MTFmMTFlYzNj`
+Snapshot ID: `MTY0MTY5MjE0MiwwMDAwMDAwMDU5MzA1ZjA1ZjZmZGI2OGVlN2EwYTc4MTFmMTFlYzNj`

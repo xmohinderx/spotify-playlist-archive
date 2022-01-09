@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 
 > That feeling of being punched in the gut by a song.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,226 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,229 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33TfGBYPkRQ.md) - [plain]
 | 99 | [Keep On Breaking My Heart](https://open.spotify.com/track/4IdV6Dun39jOadZ6kRheQ5) | [Seramic](https://open.spotify.com/artist/0pu9LAsUMg8nhMK1hmiM5b) | [Keep On Breaking My Heart](https://open.spotify.com/album/3LbocNpMnmWcRcsyQJqpZw) | 3:30 |
 | 100 | [In Your Keeping](https://open.spotify.com/track/1BplkTXCBLm56kUe6tLQBt) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Blood Red Cherry](https://open.spotify.com/album/0De97pEIGTmd1hSQeCVOYP) | 3:59 |
 
-Snapshot ID: `MTY0MTY4OTAxOSwwMDAwMDAwMDM5MWZjMjkxZDc0MzM2M2U3OWFmMzMzOWY0N2M0OTY3`
+Snapshot ID: `MTY0MTY5MTk2OSwwMDAwMDAwMDM5MWZjMjkxZDc0MzM2M2U3OWFmMzMzOWY0N2M0OTY3`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Patternist, Jet Black Alley Cat, Lowswimmer and more
+> With Ollie Wride, Hardcastle, Kalax and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 936 likes - 50 songs - 3 hr 15 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [carry me home](https://open.spotify.com/track/32iCUAAgF1AqshcB3Tqhyt) | [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [carry me home](https://open.spotify.com/album/4ke8K2swZPB7RpIIhDV5Hi) | 4:26 |
 | 50 | [pLAyed Out](https://open.spotify.com/track/4PUAuPFSIAbyQiXpPbfoOT) | [The True Blue](https://open.spotify.com/artist/1mVhWJe3qmfTXM7ByuoryV) | [pLAyed Out](https://open.spotify.com/album/50W579OvxH4kPFZ3X4pd87) | 3:24 |
 
-Snapshot ID: `MTY0MTY4OTI5NiwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`
+Snapshot ID: `MTY0MTY5MjI1MSwwMDAwMDAwMGY4YzcxNjdkNzcwODQwNDdjOWI5MDk4OTgxODAwYjZj`

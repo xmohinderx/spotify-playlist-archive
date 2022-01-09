@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,359 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,358 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 49 | [The United States Of Amnesiacs](https://open.spotify.com/track/3e3yoJojwM7oTNMRn92pyN) | [Death of a Nation](https://open.spotify.com/artist/0qv0TWMDQa7k4EE96OWEvS) | [Death of a Nation](https://open.spotify.com/album/0r0nQvRduisuCKpcs7eRwC) | 3:50 |
 | 50 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 
-Snapshot ID: `MTY0MTY4ODk5MiwwMDAwMDAwMDAyYzljODk3YTAwNTBlZThmNGEzNzlhZWVhNWRjOTcx`
+Snapshot ID: `MTY0MTY5MTk0MiwwMDAwMDAwMDAyYzljODk3YTAwNTBlZThmNGEzNzlhZWVhNWRjOTcx`

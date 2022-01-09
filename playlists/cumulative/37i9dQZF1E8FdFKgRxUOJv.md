@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/3X9pREhPT1sgh0QMNyY8S7)
 
-> With John Mayer, Adam Melchor, Amos Lee, Blake Rose and more
+> With John Mayer, Parachute, A R I Z O N A, Wrabel and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

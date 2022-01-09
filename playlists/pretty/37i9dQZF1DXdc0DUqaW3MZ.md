@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Bonobo and Jordan Rakei
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,870 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,879 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 69 | [Femme Fatale](https://open.spotify.com/track/6NV1oF6zZ5VoVpICTsOLYD) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Femme Fatale](https://open.spotify.com/album/6mvHMvvSzosyx1lI18oIK0) | 4:33 |
 | 70 | [Aquaself](https://open.spotify.com/track/48ZxMdmUA9CK7i31wn7bbx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Stars](https://open.spotify.com/album/6tZqo8dAjOS8Nb0XWSqMDJ) | 6:16 |
 
-Snapshot ID: `MTY0MTY4OTI3NiwwMDAwMDAwMDA1Y2ZjNWI3MzRhMGI5NTg2ODBmYmMzZmM2MjJhZmYx`
+Snapshot ID: `MTY0MTY5MjIzMSwwMDAwMDAwMDA1Y2ZjNWI3MzRhMGI5NTg2ODBmYmMzZmM2MjJhZmYx`

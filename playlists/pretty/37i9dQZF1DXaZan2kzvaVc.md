@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaZan2kzvaVc.md) - [plain]
 
 > The Beach Boys, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,610 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,616 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

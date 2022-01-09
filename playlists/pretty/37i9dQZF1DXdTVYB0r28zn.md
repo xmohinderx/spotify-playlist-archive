@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVYB0r28zn.md) - [plain]
 
 > The sound of jazz today\. Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,205 likes - 500 songs - 2 day 0 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,206 likes - 500 songs - 2 day 0 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTVYB0r28zn.md) - [plain]
 | 499 | [Vashkar](https://open.spotify.com/track/4BrUsPqSBh7wswJnVBLEe7) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Vashkar](https://open.spotify.com/album/4cZxxL03s6Kr86QtobGhMP) | 4:50 |
 | 500 | [For the O.G.](https://open.spotify.com/track/1rhmfiH1e1gD744BuSol9F) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [For the O.G.](https://open.spotify.com/album/1UmQXRfGIfEcc5R0AGrubP) | 6:48 |
 
-Snapshot ID: `MTY0MTY4OTI3MiwwMDAwMDAwMDMwNjZjOTY2NDczNDg4NDkwODk2MDczYWI3YjllMjNi`
+Snapshot ID: `MTY0MTY5MjIyNywwMDAwMDAwMDMwNjZjOTY2NDczNDg4NDkwODk2MDczYWI3YjllMjNi`

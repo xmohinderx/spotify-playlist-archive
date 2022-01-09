@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 
 > Listen to all the tracks you've been missing\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,648,665 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,648,722 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 | 74 | [Firework](https://open.spotify.com/track/0kUMtZVaYb7EETkBdrEXXA) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/32Uy0GLddTw4559CWja1f1) | 3:47 |
 | 75 | [breathin](https://open.spotify.com/track/4OafepJy2teCjYJbvFE60J) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:18 |
 
-Snapshot ID: `MTY0MTY4ODk2NCwwMDAwMDAwMGY2ZmJkYTM4ODk5M2JhNjQ0NjYyNTljYzk1MTNkODk1`
+Snapshot ID: `MTY0MTY5MTkxMiwwMDAwMDAwMGY2ZmJkYTM4ODk5M2JhNjQ0NjYyNTljYzk1MTNkODk1`

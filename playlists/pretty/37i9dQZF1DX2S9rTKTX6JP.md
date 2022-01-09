@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Tom Morello, Eddie Vedder, & Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,251 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,258 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 99 | [House of the rising sun](https://open.spotify.com/track/4rfYDrmdzFb9Saf4lCxQTP) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [The end of the world](https://open.spotify.com/album/1QsqQMps2AenCaWyddg3TX) | 4:50 |
 | 100 | [Like a Virgin](https://open.spotify.com/track/5y1QAwcpZ6cDSAQDYgw9dX) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Like a Virgin](https://open.spotify.com/album/77eoArzqUsV6nffTcaND6B) | 3:08 |
 
-Snapshot ID: `MTY0MTY4OTAwNCwwMDAwMDAwMDQzZDBmMmVjYWFiYzI3MGQyY2VlZDhhYjMzMzFjOWM0`
+Snapshot ID: `MTY0MTY5MTk1MywwMDAwMDAwMDQzZDBmMmVjYWFiYzI3MGQyY2VlZDhhYjMzMzFjOWM0`

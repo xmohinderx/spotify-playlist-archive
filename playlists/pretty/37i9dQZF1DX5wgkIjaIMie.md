@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 10s
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,552 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,556 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgkIjaIMie.md) - [plain]
 | 69 | [Moves Like Jagger](https://open.spotify.com/track/1r299qCKBLgUS9XJ9m1kEx) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Singles](https://open.spotify.com/album/5NdkVAsSvgUfe3cD8LwSTD) | 3:22 |
 | 70 | [Toto](https://open.spotify.com/track/5JH1NuPiHEB0Wl03rLHNq7) | [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [NOON](https://open.spotify.com/album/6wHH35NKu2WuLWfmm1MHm7) | 3:08 |
 
-Snapshot ID: `MTY0MTY4OTA5OCwwMDAwMDAwMDczNDE5ODhhOGRkNDFiMTEzNTMzNWUyOTRhMjI5ZTc1`
+Snapshot ID: `MTY0MTY5MjA0OSwwMDAwMDAwMDczNDE5ODhhOGRkNDFiMTEzNTMzNWUyOTRhMjI5ZTc1`

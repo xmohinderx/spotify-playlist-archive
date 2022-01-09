@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,967 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,971 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 48 | [Circle Song](https://open.spotify.com/track/0A1Mc9xBNpbOV5JPWVSxzd) | [Roger McGuinn](https://open.spotify.com/artist/3ExrAwcOqgGjt9kFRwdM76) | [Roger McGuinn & Band \(Bonus Track Version\)](https://open.spotify.com/album/4B18e2isBj5VRpU4kEhDpc) | 3:03 |
 | 49 | [Make A Little Magic](https://open.spotify.com/track/728MAA4aiTVtTxn0Z2k1cu) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Make A Little Magic](https://open.spotify.com/album/7hd0MbxF0wWBjiOdxEmrmu) | 3:57 |
 
-Snapshot ID: `MTY0MTY4OTA1OCwwMDAwMDAwMDg1ZTEyYTBlMzFkOWYxYTk1NGU0MGRkNjhhYmFkZjlh`
+Snapshot ID: `MTY0MTY5MjAwOCwwMDAwMDAwMDg1ZTEyYTBlMzFkOWYxYTk1NGU0MGRkNjhhYmFkZjlh`

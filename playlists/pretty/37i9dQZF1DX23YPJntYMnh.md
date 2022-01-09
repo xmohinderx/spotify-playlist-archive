@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,926 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,923 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 59 | [Truth'll Set You Free](https://open.spotify.com/track/1U3jCQJNm86HQh04TWqdFD) | [Mother's Finest](https://open.spotify.com/artist/3csSQdDVhJlP3BUOoZ2N2H) | [Another Mother Further](https://open.spotify.com/album/6OQBoCdyg4yk67bIVgZqnF) | 4:22 |
 | 60 | [Got It Goin' On](https://open.spotify.com/track/0bsHXFE0GGn2HonbA8G0yf) | [24\-7 Spyz](https://open.spotify.com/artist/5EvYDcSvmVxZuMe4faStNq) | [Strength In Numbers](https://open.spotify.com/album/4cIsAEkxSuMadGd9B3KbXX) | 4:57 |
 
-Snapshot ID: `MTY0MTY4ODk5NSwwMDAwMDAwMGIyMTBhYThiNjUwM2Q0NDVjOGI3MzdhMjljY2JmNTQz`
+Snapshot ID: `MTY0MTY5MTk0NSwwMDAwMDAwMGIyMTBhYThiNjUwM2Q0NDVjOGI3MzdhMjljY2JmNTQz`

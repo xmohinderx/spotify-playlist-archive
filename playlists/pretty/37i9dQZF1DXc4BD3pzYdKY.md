@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The pulse of the best music and sounds in Christian Hip Hop\.  Cover: Lecrae and 1K Phew
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,260 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,261 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 79 | [Sometimes](https://open.spotify.com/track/1cmqxqiWgwqtsYxvoUn0Fp) | [Legin](https://open.spotify.com/artist/6aetHrwSHtxqMXRT8rp0BV) | [Sometimes](https://open.spotify.com/album/1AAi03LpzSCM7qGEvimhHw) | 3:13 |
 | 80 | [LAY UP \- Remix](https://open.spotify.com/track/38pbS8owf1QHYBxtyuQhZa) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt), [GodFearin](https://open.spotify.com/artist/2ivrSM5ZHAZj1tip28DlWR) | [LAY UP \(Remix\)](https://open.spotify.com/album/5OooU4zvqkLbWk2luLyOOi) | 2:16 |
 
-Snapshot ID: `MTY0MTY4OTI0MSwwMDAwMDAwMDI2MTM0MTU0MjFhODcyYzdiM2MzNmFjMDE1Njg3OTlk`
+Snapshot ID: `MTY0MTY5MjE5NSwwMDAwMDAwMDI2MTM0MTU0MjFhODcyYzdiM2MzNmFjMDE1Njg3OTlk`

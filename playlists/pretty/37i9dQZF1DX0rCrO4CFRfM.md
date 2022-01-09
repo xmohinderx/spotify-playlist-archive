@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 
 > Relax to acoustic versions of your favorite rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,827 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,803 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rCrO4CFRfM.md) - [plain]
 | 49 | [7 \- Acoustic](https://open.spotify.com/track/0ZObDSV7QWyu0Zdinf61Mq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [7 \(Acoustic\)](https://open.spotify.com/album/3918b6TP7PXvhRrJj0SevW) | 4:12 |
 | 50 | [When You're Gone \- Acoustic Version](https://open.spotify.com/track/2fYq0QnkfHuNSlZqc8qgv7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing](https://open.spotify.com/album/25fgjE5rdkaAcj2ZLbcEk8) | 3:57 |
 
-Snapshot ID: `MTY0MTY4ODk2MywwMDAwMDAwMDZlMmE2MWVjOGRhY2VmNTU2Yjk0NDdjZGExMDNmOTJk`
+Snapshot ID: `MTY0MTY5MTkxMSwwMDAwMDAwMDZlMmE2MWVjOGRhY2VmNTU2Yjk0NDdjZGExMDNmOTJk`

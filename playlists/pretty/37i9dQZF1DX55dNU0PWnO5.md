@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Where jazz meets electronic music\. Cover: Mark de Clive\-Lowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,547 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,548 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 | 79 | [Panspermia](https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Panspermia](https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D) | 3:08 |
 | 80 | [Pace \- Moses Boyd Remix](https://open.spotify.com/track/4AscXCE8UnyE13Q5ZyqPb9) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Pace \(Moses Boyd Remix\)](https://open.spotify.com/album/0QAyWwWqPWrhObhsrjVFGE) | 5:12 |
 
-Snapshot ID: `MTY0MTY4OTA3MSwwMDAwMDAwMDhjNWRmNGU5NTFjMGQxYTFkYTc4MGIwNDUzNDlkNmRh`
+Snapshot ID: `MTY0MTY5MjAyMiwwMDAwMDAwMDhjNWRmNGU5NTFjMGQxYTFkYTc4MGIwNDUzNDlkNmRh`

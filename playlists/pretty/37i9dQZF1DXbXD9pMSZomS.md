@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,256 likes - 60 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,258 likes - 60 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 59 | [The Sayers](https://open.spotify.com/track/66Z74fi8endVTx4TBsqucZ) | [Klein Zage](https://open.spotify.com/artist/56UaOgKvX2hUSLz7eugd0T) | [The Sayers](https://open.spotify.com/album/68xZqClzXImxguG14MkDjk) | 4:53 |
 | 60 | [Matano Trumpet Jam](https://open.spotify.com/track/0FXRcUaFhMIUGJ3oVkDB3e) | [Jad & The](https://open.spotify.com/artist/2TIVoSbNoE1A9ihHlRRfpP) | [Bells Creek Road](https://open.spotify.com/album/6FihE91MUfN7iwUsAs3t76) | 7:36 |
 
-Snapshot ID: `MTY0MTY4OTIzMCwwMDAwMDAwMGQ4ZTE5NWY3NmMzYTVkMTFiOTNmMGE5NzUzOGI0Mjhj`
+Snapshot ID: `MTY0MTY5MjE4NCwwMDAwMDAwMGQ4ZTE5NWY3NmMzYTVkMTFiOTNmMGE5NzUzOGI0Mjhj`

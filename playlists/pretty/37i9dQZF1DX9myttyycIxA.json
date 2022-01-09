@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: Hana Vu",
   "name": "undercurrents",
-  "num_followers": 240295,
+  "num_followers": 240297,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTY4OTE4OSwwMDAwMDAwMGYyMmI1NjU2YjEzOWE5ZWVjZjczY2NmNGY1MGVkMDhi",
+  "snapshot_id": "MTY0MTY5MjE0MSwwMDAwMDAwMGYyMmI1NjU2YjEzOWE5ZWVjZjczY2NmNGY1MGVkMDhi",
   "tracks": [
     {
       "added_at": "2021-09-03 00:50:49",
@@ -65,6 +65,22 @@
       "url": "https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK"
     },
     {
+      "added_at": "2021-11-12 17:04:13",
+      "album": {
+        "name": "Public Storage",
+        "url": "https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Aubade",
+      "url": "https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs"
+    },
+    {
       "added_at": "2021-07-02 04:00:00",
       "album": {
         "name": "Bodies Lie",
@@ -79,6 +95,38 @@
       "duration_ms": 218718,
       "name": "Bodies Lie",
       "url": "https://open.spotify.com/track/3EmPt5Hsx40X5xKsZF0sOP"
+    },
+    {
+      "added_at": "2021-12-08 15:28:41",
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/3aAnkbiwqbBQheUtgBix3u"
+      },
+      "artists": [
+        {
+          "name": "Lily Kaplan",
+          "url": "https://open.spotify.com/artist/0BjpXkCYIqkI36g3gc6xJ4"
+        }
+      ],
+      "duration_ms": 191483,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/53pzEfktTBZ43ch0Osk7wV"
+    },
+    {
+      "added_at": "2021-12-10 16:30:30",
+      "album": {
+        "name": "Radiohead",
+        "url": "https://open.spotify.com/album/24B22VTnbGYjUh4eIRO2eR"
+      },
+      "artists": [
+        {
+          "name": "Alix Page",
+          "url": "https://open.spotify.com/artist/7hp6PmppZj6iiolLVT4iEZ"
+        }
+      ],
+      "duration_ms": 197755,
+      "name": "Radiohead",
+      "url": "https://open.spotify.com/track/07Br10W8gRXrf0hE3PtJPX"
     },
     {
       "added_at": "2021-03-05 16:37:45",
@@ -97,6 +145,22 @@
       "url": "https://open.spotify.com/track/75Ss2YNZCqlEPk6iH1cm8U"
     },
     {
+      "added_at": "2021-11-12 17:04:13",
+      "album": {
+        "name": "once the edge has worn off",
+        "url": "https://open.spotify.com/album/1HzHGZQVUwJeBBExUQuhPg"
+      },
+      "artists": [
+        {
+          "name": "gglum",
+          "url": "https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO"
+        }
+      ],
+      "duration_ms": 162800,
+      "name": "end of my street",
+      "url": "https://open.spotify.com/track/2MtvVsQcdNvTIFKicaOwLr"
+    },
+    {
       "added_at": "2021-10-02 18:31:47",
       "album": {
         "name": "True Love",
@@ -111,6 +175,22 @@
       "duration_ms": 251493,
       "name": "True Love",
       "url": "https://open.spotify.com/track/67qECmW0iXpWA7tnClskbH"
+    },
+    {
+      "added_at": "2021-10-02 18:31:47",
+      "album": {
+        "name": "the second ep",
+        "url": "https://open.spotify.com/album/4MFtzUINsQ7UaPQLKo3501"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "boundary issues",
+      "url": "https://open.spotify.com/track/67dPtaJRVciLNPYs0FmlmB"
     },
     {
       "added_at": "2021-03-05 16:37:45",
@@ -387,22 +467,6 @@
     {
       "added_at": "2021-03-05 16:37:45",
       "album": {
-        "name": "Idaho",
-        "url": "https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 245843,
-      "name": "Idaho",
-      "url": "https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb"
-    },
-    {
-      "added_at": "2021-03-05 16:37:45",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6Dc4zmrfn6OKOWVCwALF7S"
       },
@@ -431,6 +495,22 @@
       "duration_ms": 226678,
       "name": "Flying",
       "url": "https://open.spotify.com/track/4i2s69U5vRLS0KQtNMAWbb"
+    },
+    {
+      "added_at": "2021-03-05 16:37:45",
+      "album": {
+        "name": "Idaho",
+        "url": "https://open.spotify.com/album/0XiDbkIWIq8e7K6Ro02QSd"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 245843,
+      "name": "Idaho",
+      "url": "https://open.spotify.com/track/5BKUgBEpybXolrVOezijIb"
     },
     {
       "added_at": "2021-03-05 16:37:45",
@@ -589,30 +669,6 @@
       "url": "https://open.spotify.com/track/4NH4uwPks7iwmmylbgAE25"
     },
     {
-      "added_at": "2021-09-10 19:45:19",
-      "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/5g2lYbfSbAmCHu3pAoDast"
-      },
-      "artists": [
-        {
-          "name": "Bachelor",
-          "url": "https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E"
-        },
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        },
-        {
-          "name": "Palehound",
-          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
-        }
-      ],
-      "duration_ms": 173142,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6v3NSHCeFxhz6cE6yKiUio"
-    },
-    {
       "added_at": "2021-07-16 04:00:00",
       "album": {
         "name": "DIVER",
@@ -691,6 +747,30 @@
       "duration_ms": 229195,
       "name": "Must Be a Cop",
       "url": "https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y"
+    },
+    {
+      "added_at": "2021-09-10 19:45:19",
+      "album": {
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/5g2lYbfSbAmCHu3pAoDast"
+      },
+      "artists": [
+        {
+          "name": "Bachelor",
+          "url": "https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E"
+        },
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        },
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "duration_ms": 173142,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6v3NSHCeFxhz6cE6yKiUio"
     },
     {
       "added_at": "2021-03-05 16:37:45",
@@ -1201,22 +1281,6 @@
       "url": "https://open.spotify.com/track/6ZvDUOnzju0hEVfhj4cTdS"
     },
     {
-      "added_at": "2021-04-30 17:03:58",
-      "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 195626,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6"
-    },
-    {
       "added_at": "2021-03-05 16:37:45",
       "album": {
         "name": "out 4 a breather",
@@ -1231,6 +1295,22 @@
       "duration_ms": 201857,
       "name": "out 4 a breather",
       "url": "https://open.spotify.com/track/73aXl4EIbQsY8ufuopTAaZ"
+    },
+    {
+      "added_at": "2021-04-30 17:03:58",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/1SZyOSR32ufm1Gdx6guwZR"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 195626,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/1o6AAprhFq448i4PVPKoZ6"
     },
     {
       "added_at": "2021-08-27 02:39:05",
@@ -1391,22 +1471,6 @@
       "duration_ms": 174857,
       "name": "Cherry Plum",
       "url": "https://open.spotify.com/track/2xdg9F0iwnupD9LMowLl8I"
-    },
-    {
-      "added_at": "2021-11-12 17:04:13",
-      "album": {
-        "name": "Public Storage",
-        "url": "https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Aubade",
-      "url": "https://open.spotify.com/track/21yFr0OLxjieHKyrxg1Rvs"
     },
     {
       "added_at": "2021-03-05 16:37:45",
@@ -1583,70 +1647,6 @@
       "duration_ms": 254721,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/1j8hpxvE9IfjR2Vk9ihjrK"
-    },
-    {
-      "added_at": "2021-04-30 17:03:10",
-      "album": {
-        "name": "Hats Off",
-        "url": "https://open.spotify.com/album/5xsUExmsWh1AB0eSCDkiqz"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 134780,
-      "name": "Face Again",
-      "url": "https://open.spotify.com/track/5jTfAzJUjjQAw6UDhozqHc"
-    },
-    {
-      "added_at": "2021-09-10 19:45:19",
-      "album": {
-        "name": "If Only",
-        "url": "https://open.spotify.com/album/7nG2z6GRTqbDefzf7ATFPy"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 202873,
-      "name": "If Only",
-      "url": "https://open.spotify.com/track/3t1tuXZHj49DsFXb8vQP2k"
-    },
-    {
-      "added_at": "2021-08-13 04:50:04",
-      "album": {
-        "name": "Deep Divine",
-        "url": "https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 220767,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5wIYMYa6syn9xxL3i0mVx9"
-    },
-    {
-      "added_at": "2021-10-08 16:01:53",
-      "album": {
-        "name": "Sorry's Not Enough",
-        "url": "https://open.spotify.com/album/6hWqBLAzPVl9GBYXs36ISC"
-      },
-      "artists": [
-        {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
-        }
-      ],
-      "duration_ms": 291481,
-      "name": "Sorry\u2019s Not Enough",
-      "url": "https://open.spotify.com/track/7zXERMvGbaqcZmdXo7ebw8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9myttyycIxA"

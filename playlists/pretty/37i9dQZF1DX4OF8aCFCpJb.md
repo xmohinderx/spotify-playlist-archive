@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,807 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,809 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 49 | [Under samma himmel](https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Under samma himmel](https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA) | 4:13 |
 | 50 | [Dunya](https://open.spotify.com/track/0QPrzAzMYzhofyx5ScZMmZ) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Dunya](https://open.spotify.com/album/6e2kXN0pnA4fl8UkH5b35V) | 3:43 |
 
-Snapshot ID: `MTY0MTY4OTA1MCwwMDAwMDAwMGUyYjc4YTIxMmUzZDg4ZDFjYjFkYTI5Y2EwOWE4NThk`
+Snapshot ID: `MTY0MTY5MjAwMSwwMDAwMDAwMGUyYjc4YTIxMmUzZDg4ZDFjYjFkYTI5Y2EwOWE4NThk`

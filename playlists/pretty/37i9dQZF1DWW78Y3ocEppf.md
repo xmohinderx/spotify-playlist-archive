@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > The feelings you can't put into words...only songs\. Cover: Mariah The Scientist
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,860 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,861 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 49 | [Stuck On You](https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Stuck On You](https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX) | 3:25 |
 | 50 | [Let You Go](https://open.spotify.com/track/4EMi40PsBg8uwJcEyNhdPJ) | [Jayla Darden](https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU) | [Let You Go](https://open.spotify.com/album/76hyS0MpstCRbSqt46w7Th) | 2:53 |
 
-Snapshot ID: `MTY0MTY4ODg1NSwwMDAwMDAwMDE1OTMwY2UyYTBkYmFjNzYyMmFlOWEyOGNmYjE2MGY4`
+Snapshot ID: `MTY0MTY5MTgwMCwwMDAwMDAwMDE1OTMwY2UyYTBkYmFjNzYyMmFlOWEyOGNmYjE2MGY4`

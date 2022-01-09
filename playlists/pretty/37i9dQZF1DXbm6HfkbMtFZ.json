@@ -1,12 +1,12 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
   "name": "Feel Good Dinner",
-  "num_followers": 533745,
+  "num_followers": 533757,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU3ODkwMywwMDAwMDEyZTAwMDAwMTdlMzViYTM5ODIwMDAwMDE3MTc0ODcyNzli",
+  "snapshot_id": "MTY0MTY5MjE4OCwwMDAwMDAwMDcwYmI3YjNhZWFiNjc0NDk1M2VhNDFmODk0MzllMDMz",
   "tracks": [
     {
       "added_at": "2022-01-07 18:08:23",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-01-07 18:08:23",
       "album": {
-        "name": "Rose Pink Cadillac",
-        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
-      },
-      "artists": [
-        {
-          "name": "DOPE LEMON",
-          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
-        }
-      ],
-      "duration_ms": 261911,
-      "name": "Rose Pink Cadillac",
-      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
-    },
-    {
-      "added_at": "2022-01-07 18:08:23",
-      "album": {
         "name": "Get a Room",
         "url": "https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 221000,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8"
+    },
+    {
+      "added_at": "2022-01-07 18:08:23",
+      "album": {
+        "name": "Rose Pink Cadillac",
+        "url": "https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv"
+      },
+      "artists": [
+        {
+          "name": "DOPE LEMON",
+          "url": "https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8"
+        }
+      ],
+      "duration_ms": 261911,
+      "name": "Rose Pink Cadillac",
+      "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
     },
     {
       "added_at": "2022-01-07 18:08:23",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-01-07 18:08:23",
       "album": {
-        "name": "This Is My Story",
-        "url": "https://open.spotify.com/album/7FuvTyHDnLDuGWaVCWsjMx"
-      },
-      "artists": [
-        {
-          "name": "Holy Hive",
-          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
-        }
-      ],
-      "duration_ms": 132750,
-      "name": "This Is My Story",
-      "url": "https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc"
-    },
-    {
-      "added_at": "2022-01-07 18:08:23",
-      "album": {
         "name": "Talk It Out",
         "url": "https://open.spotify.com/album/6NYqCTdy9xH6p1n4wSR98x"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 190726,
       "name": "Talk It Out",
       "url": "https://open.spotify.com/track/5sDxIlinyY5NL7HIt1XJ1j"
+    },
+    {
+      "added_at": "2022-01-07 18:08:23",
+      "album": {
+        "name": "This Is My Story",
+        "url": "https://open.spotify.com/album/7FuvTyHDnLDuGWaVCWsjMx"
+      },
+      "artists": [
+        {
+          "name": "Holy Hive",
+          "url": "https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "This Is My Story",
+      "url": "https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc"
     },
     {
       "added_at": "2022-01-07 18:08:23",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-01-07 18:08:23",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l"
-      },
-      "artists": [
-        {
-          "name": "Girl Ray",
-          "url": "https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn"
-    },
-    {
-      "added_at": "2022-01-07 18:08:23",
-      "album": {
         "name": "Guess I'm Jaded",
         "url": "https://open.spotify.com/album/7kn5KwlDX7hBmN8JWb11rI"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 240026,
       "name": "More Of This",
       "url": "https://open.spotify.com/track/7IzTg6LQ9Lkm1zpziKifIq"
+    },
+    {
+      "added_at": "2022-01-07 18:08:23",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l"
+      },
+      "artists": [
+        {
+          "name": "Girl Ray",
+          "url": "https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn"
     },
     {
       "added_at": "2022-01-07 18:08:23",

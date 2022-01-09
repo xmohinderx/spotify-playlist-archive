@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXddGd6mP5X2a.md) - [plain]
 
 > 100 of the greatest orchestral works\. From early Handel to contemporary Ligeti and Górecki\. Monumental and romantic with Bruckner and Strauss\. Classical symphonies by Beethoven and Mozart\. Elegant orchestration by Mahler and Ravel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,288 likes - 100 songs - 20 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,289 likes - 100 songs - 20 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

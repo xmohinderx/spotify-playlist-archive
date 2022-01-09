@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,520 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,523 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Gelty](https://open.spotify.com/track/0bRSz7QWA43loaosHgg5Sz) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Mots D'amour](https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC) | 6:14 |
 | 50 | [Lambada Leblada](https://open.spotify.com/track/4u81tPM2hFKSiJDIpbjdah) | [Joseph Salame](https://open.spotify.com/artist/25iUqZaI4uuuHzHPbWta1C) | [Arabic Disco](https://open.spotify.com/album/7n9ARsKEq5ZlMiiMVgEXJT) | 6:35 |
 
-Snapshot ID: `MTY0MTY4OTE2MSwwMDAwMDAwMGI1MWNkMGI2MGI5NzFmMWNlY2VhNTUwMDE2YTg0Y2Yz`
+Snapshot ID: `MTY0MTY5MjExMiwwMDAwMDAwMGI1MWNkMGI2MGI5NzFmMWNlY2VhNTUwMDE2YTg0Y2Yz`

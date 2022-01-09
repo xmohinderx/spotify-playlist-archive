@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,769 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,816 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Mil Demonios \- En Vivo](https://open.spotify.com/track/5qfgMHgkZBw6EmISVu7MoU) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Hoy Y Siempre \(En Vivo\)](https://open.spotify.com/album/5czuwrgUE6ecGrdPE3NoCI) | 3:29 |
 | 100 | [Tinta China \- En Vivo](https://open.spotify.com/track/3ykGF7ztZ1Ij37QQluEwb5) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [La Magia de La Mona \(En Vivo '92\)](https://open.spotify.com/album/0ZfDwnnPHU8GHUZ7GhVcY2) | 3:20 |
 
-Snapshot ID: `MTY0MTY4OTA0NSwwMDAwMDAwMDEwZGZjYWQwNmM0ZTQ0NjIxYjhhMGE5NjJmYmUzN2Fj`
+Snapshot ID: `MTY0MTY5MTk5NiwwMDAwMDAwMDEwZGZjYWQwNmM0ZTQ0NjIxYjhhMGE5NjJmYmUzN2Fj`

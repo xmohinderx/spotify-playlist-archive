@@ -2,7 +2,7 @@
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/5wwUkYS2OcCkau5CdCfyc6)
 
-> With Bradley Cooper, JAY\-Z, Banx & Ranx and more
+> With Akon, Beyoncé, Miley Cyrus and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

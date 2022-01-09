@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade so far\. Cover: HAIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,332 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,352 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 79 | [Press Enter To Exit](https://open.spotify.com/track/79TbiUxFgg5HBkeXbVrwQl) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [V](https://open.spotify.com/album/5F7t2oVAxnazEU21nbUZGc) | 5:55 |
 | 80 | [Life Itself](https://open.spotify.com/track/32zkKx35Et6A515oZKxDkD) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:41 |
 
-Snapshot ID: `MTY0MTY4OTE1MiwwMDAwMDAwMGE5NzY3Mzc1MGU3MjEyZjEwMzQ0NjgyMmM2YmJkMTY3`
+Snapshot ID: `MTY0MTY5MjEwMywwMDAwMDAwMGE5NzY3Mzc1MGU3MjEyZjEwMzQ0NjgyMmM2YmJkMTY3`

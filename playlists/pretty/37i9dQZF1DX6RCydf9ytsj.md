@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,682 likes - 150 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,651 likes - 150 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [Lady](https://open.spotify.com/track/1K0D6h6dONn8PYlF1pphQy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Country Classics](https://open.spotify.com/album/1DZy6ZKfdYtrr7Al9eoo1R) | 3:55 |
 | 150 | [Let's Fall To Pieces Together](https://open.spotify.com/track/0Sr1buYAIXIHaYGIGKmfoN) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Right Or Wrong](https://open.spotify.com/album/4tNMkO2t6XfbA9BC8ZcgT2) | 2:55 |
 
-Snapshot ID: `MTY0MTY4OTExMiwwMDAwMDAwMDk4NGJiYzczOTUyZmRhNmMxMjE5Y2FlYjU0NWM5MDFk`
+Snapshot ID: `MTY0MTY5MjA2NCwwMDAwMDAwMDk4NGJiYzczOTUyZmRhNmMxMjE5Y2FlYjU0NWM5MDFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 
 > A playlist to get you through your whole workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,329 likes - 145 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,326 likes - 145 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcsT4WKI8W8r.md) - [plain]
 | 144 | [Back To You](https://open.spotify.com/track/4ywfuHVfB8wvm8tHWHK5QI) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Back To You](https://open.spotify.com/album/5Szrc3CbquJtaLIgobRpMt) | 2:40 |
 | 145 | [How Can I Forget](https://open.spotify.com/track/0ibG3XCJ32Qq9maUY4AViR) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [How Can I Forget](https://open.spotify.com/album/4CzC68DHIUlP0Hc6UGczhx) | 2:57 |
 
-Snapshot ID: `MTY0MTY4OTI1OSwwMDAwMDAwMGQyMDAwYmRlYTljMmY4N2M4MjkzZTIzNWNjNDAwMWYx`
+Snapshot ID: `MTY0MTY5MjIxMywwMDAwMDAwMGQyMDAwYmRlYTljMmY4N2M4MjkzZTIzNWNjNDAwMWYx`

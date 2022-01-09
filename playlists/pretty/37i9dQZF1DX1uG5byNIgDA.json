@@ -1,13 +1,101 @@
 {
   "description": "Everyday should be a happy day when you listen to this fun K-Pop playlist.",
   "name": "Morning K-Pop!",
-  "num_followers": 211315,
+  "num_followers": 211320,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTY4ODk4OSwwMDAwMDAwMDk0NmI0ZmM3ZjJlYzAzZGVlZGU4MGE3NTYyM2NjNmQ3",
+  "snapshot_id": "MTY0MTY5MTkzOCwwMDAwMDAwMGZiYTNmYWQ5ZDJjNDYxNmYwNTAzYjUwYzg3ZDI1M2Zj",
   "tracks": [
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "Universe (Let's Play Ball)",
+        "url": "https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        }
+      ],
+      "duration_ms": 231466,
+      "name": "Universe (Let's Play Ball)",
+      "url": "https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "ZERO : FEVER EPILOGUE",
+        "url": "https://open.spotify.com/album/3R2frjpElpzeh46AC7rK7v"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 199586,
+      "name": "Turbulence",
+      "url": "https://open.spotify.com/track/2wj2Mh7Zmp036eH1aY6nAW"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "We Don't Have To Cry",
+        "url": "https://open.spotify.com/album/4JuHBqEHQJpjKA3cHXj0rW"
+      },
+      "artists": [
+        {
+          "name": "DOF2D",
+          "url": "https://open.spotify.com/artist/43K46m9kGWG6LH1gjGa1it"
+        }
+      ],
+      "duration_ms": 196760,
+      "name": "meanings!",
+      "url": "https://open.spotify.com/track/4VHsZqeNb9I9bIq5wgfDb6"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "If we were friends",
+        "url": "https://open.spotify.com/album/1CPm4sLbf1jpOlLZyVeru5"
+      },
+      "artists": [
+        {
+          "name": "SHUUU",
+          "url": "https://open.spotify.com/artist/2WyFDTobi8Be5brYQS5aSf"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "If we were friends",
+      "url": "https://open.spotify.com/track/7K0LIfdIZXGVjqgeDgCwyC"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "Seoul Vibes, Musk",
+        "url": "https://open.spotify.com/album/3v05ZJ0R0RWlSbeMd3chSb"
+      },
+      "artists": [
+        {
+          "name": "KozyPop",
+          "url": "https://open.spotify.com/artist/3pj8yUKN5sRyQS1xkRCTFi"
+        },
+        {
+          "name": "SIM2",
+          "url": "https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR"
+        },
+        {
+          "name": "Saebyuk",
+          "url": "https://open.spotify.com/artist/3bwmvr8GLrXXyxFtbLTyuV"
+        }
+      ],
+      "duration_ms": 218677,
+      "name": "The Last (feat. Saebyuk, SIM2)",
+      "url": "https://open.spotify.com/track/66LFL6uaTT78pbRQvHXqDd"
+    },
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
@@ -91,22 +179,6 @@
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 228615,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/3p6hnejEQYXkiTO1lAzVc0"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
         "name": "It's Okay to Not Be Okay",
         "url": "https://open.spotify.com/album/7GOUuqfkBJYK47pqea8jAt"
       },
@@ -119,6 +191,22 @@
       "duration_ms": 181000,
       "name": "It's Okay to Not Be Okay",
       "url": "https://open.spotify.com/track/0TmFsWTadkiSy6A7fjvqbB"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/2lATw9ZAVp7ILQcOKPCPqp"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228615,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/3p6hnejEQYXkiTO1lAzVc0"
     },
     {
       "added_at": "2021-12-28 13:42:53",
@@ -235,22 +323,6 @@
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
-        "name": "Christmas EveL",
-        "url": "https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 235386,
-      "name": "Winter Falls",
-      "url": "https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy"
       },
@@ -283,6 +355,22 @@
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
+        "name": "Christmas EveL",
+        "url": "https://open.spotify.com/album/2zr4ZyuHVj2rL0Gw2zoNgL"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 235386,
+      "name": "Winter Falls",
+      "url": "https://open.spotify.com/track/0uQIb3EOcrw5tnRLXIAqbD"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
         "name": "WE:TH",
         "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
       },
@@ -311,22 +399,6 @@
       "duration_ms": 209618,
       "name": "Eternal Sunshine",
       "url": "https://open.spotify.com/track/76mWY4B10RpcuxsA4nfqp3"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 201746,
-      "name": "The View",
-      "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
     },
     {
       "added_at": "2021-12-28 13:42:53",
@@ -399,22 +471,6 @@
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 222284,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
         "name": "Je T'aime",
         "url": "https://open.spotify.com/album/1RzqZoXe1bf1f48PK20EeH"
       },
@@ -431,6 +487,22 @@
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 201746,
+      "name": "The View",
+      "url": "https://open.spotify.com/track/78k3g85Ud3Xo5NeX6VimHD"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
         "name": "The Book of Us : Negentropy - Chaos swallowed up in love",
         "url": "https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG"
       },
@@ -443,22 +515,6 @@
       "duration_ms": 218984,
       "name": "You make Me",
       "url": "https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
-        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Rock with you",
-      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2021-12-28 13:42:53",
@@ -483,18 +539,18 @@
     {
       "added_at": "2021-12-28 13:42:53",
       "album": {
-        "name": "Your Light (From The Original TV Show \"Live On\")",
-        "url": "https://open.spotify.com/album/5xHrhwZ4ufLSUVXUcW05yX"
+        "name": "SEVENTEEN 9th Mini Album 'Attacca'",
+        "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 217893,
-      "name": "Your Light",
-      "url": "https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA"
+      "duration_ms": 180360,
+      "name": "Rock with you",
+      "url": "https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy"
     },
     {
       "added_at": "2021-12-28 13:42:53",
@@ -547,6 +603,38 @@
       "duration_ms": 229066,
       "name": "be",
       "url": "https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 222284,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2wpiWR4tTz4ewnYV1v4KQC"
+    },
+    {
+      "added_at": "2021-12-28 13:42:53",
+      "album": {
+        "name": "Your Light (From The Original TV Show \"Live On\")",
+        "url": "https://open.spotify.com/album/5xHrhwZ4ufLSUVXUcW05yX"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 217893,
+      "name": "Your Light",
+      "url": "https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA"
     },
     {
       "added_at": "2021-12-28 13:42:53",
@@ -743,90 +831,6 @@
       "duration_ms": 251279,
       "name": "Answer : Love Myself",
       "url": "https://open.spotify.com/track/4eVkn18rN4GguUWOsR6Use"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "THE FIRST STEP : TREASURE EFFECT",
-        "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 195982,
-      "name": "MY TREASURE",
-      "url": "https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 181196,
-      "name": "Not For Sale",
-      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 159749,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "How You Been",
-      "url": "https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB"
-    },
-    {
-      "added_at": "2021-12-28 13:42:53",
-      "album": {
-        "name": "Hard to Start",
-        "url": "https://open.spotify.com/album/1qm43euNyI3RvYbphvbMNn"
-      },
-      "artists": [
-        {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Nayul",
-          "url": "https://open.spotify.com/artist/17zkr2CrPmMUmKofLqPPCF"
-        }
-      ],
-      "duration_ms": 205859,
-      "name": "Hard to Start",
-      "url": "https://open.spotify.com/track/2MxlULOEyapHB4RBRd344M"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1uG5byNIgDA"

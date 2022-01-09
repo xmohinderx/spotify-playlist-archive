@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,834 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,833 likes - 99 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 98 | [Take Me Home \(feat\. Bebe Rexha\) \- Acoustic](https://open.spotify.com/track/4s8kxu7ipl6uAFyncBX4RR) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Take Me Home \(feat\. Bebe Rexha\) \[Acoustic Version\]](https://open.spotify.com/album/3rEfGKsqfrfZ7ZWV4BBF8b) | 3:04 |
 | 99 | [Tears \- Acoustic Piano Version; Instrumental](https://open.spotify.com/track/3foAHYDoyz3Xc48rbfxLLg) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM) | [Tears \(Acoustic Piano Version; Instrumental\)](https://open.spotify.com/album/1TlJZxzlQ9bzIO0XgZ4jrd) | 4:01 |
 
-Snapshot ID: `MTY0MTY4OTA3OCwwMDAwMDAwMDJjZmNmNWQyN2QzMzlmMWYwZjI4NTE0OWU5YTlhNzBk`
+Snapshot ID: `MTY0MTY5MjAyOSwwMDAwMDAwMDJjZmNmNWQyN2QzMzlmMWYwZjI4NTE0OWU5YTlhNzBk`

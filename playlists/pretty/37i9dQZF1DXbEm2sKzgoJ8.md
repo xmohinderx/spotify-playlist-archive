@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 
 > Set the mood just right...
 
-[Spotify](https://open.spotify.com/user/spotify) - 971,075 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 971,099 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEm2sKzgoJ8.md) - [plain]
 | 74 | [Falling \(Summer Walker Remix\)](https://open.spotify.com/track/3doHXO2n8mAW8XkIFeapTZ) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Falling \(Summer Walker Remix\)](https://open.spotify.com/album/3AbYioF6OiwhcMXZDdR394) | 2:53 |
 | 75 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 |
 
-Snapshot ID: `MTY0MTY4OTIyNCwwMDAwMDAwMGYxNTlhOWZjZDg2MjUyOWZmOTdhOGM3MzQ5MGVlNmFh`
+Snapshot ID: `MTY0MTY5MjE3NywwMDAwMDAwMGYxNTlhOWZjZDg2MjUyOWZmOTdhOGM3MzQ5MGVlNmFh`

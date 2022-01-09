@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Claim your space with the newest songs from LGBTQIA+ artists\. Cover: Sarah Proctor
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,798 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,790 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 74 | [With You](https://open.spotify.com/track/60OOrdAxlAwamsHAhoJwBa) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Satellites](https://open.spotify.com/album/2wNEyDCJp051ozAuYkIH1w) | 3:44 |
 | 75 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
 
-Snapshot ID: `MTY0MTY4OTAyOCwwMDAwMDAwMGU2N2Q1MDBiNmViZGQyMDE3ZTM0MjdiYTcwMTc2ZWM0`
+Snapshot ID: `MTY0MTY5MTk3OSwwMDAwMDAwMGU2N2Q1MDBiNmViZGQyMDE3ZTM0MjdiYTcwMTc2ZWM0`

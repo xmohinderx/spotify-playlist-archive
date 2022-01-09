@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,267 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,256 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 49 | [A Weary Silent Night](https://open.spotify.com/track/4dTtPAvbgYLd0iPYgofx27) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn) | [Earl's Pearls \- The Very Best Of Earl King 1955 \- 1960](https://open.spotify.com/album/63mfRSZUpP5vQMidpOwUee) | 2:37 |
 | 50 | [Still Got the Blues for Christmas](https://open.spotify.com/track/1Nsb2FTjHiNXVQjgMRia8Y) | [Gary Hoey](https://open.spotify.com/artist/1so07AHiowjXxc3KVUqp76) | [Still Got the Blues for Christmas](https://open.spotify.com/album/1GV65A6nDyaWbKBQceJZIc) | 4:54 |
 
-Snapshot ID: `MTY0MTY4ODk4NiwwMDAwMDAwMGE5MGY0OWMwZGFhNzM1OTE2MDRmZGMxNTIxZTk5MDAz`
+Snapshot ID: `MTY0MTY5MTkzNSwwMDAwMDAwMGE5MGY0OWMwZGFhNzM1OTE2MDRmZGMxNTIxZTk5MDAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>\. Featuring new music by Tails.
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,927 likes - 125 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,933 likes - 125 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Home](https://open.spotify.com/track/42NB7w0tDCag0mQpCtZe7Y) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:14 |
 | 125 | [only way out](https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [only way out](https://open.spotify.com/album/76WZMVMTs8HmJgNVYmFUWm) | 3:52 |
 
-Snapshot ID: `MTY0MTY4OTI4MCwwMDAwMDAwMDFiOWY1NWQwMzNjNTEwNGY5ZjNhY2YzNjZlN2U0MmNj`
+Snapshot ID: `MTY0MTY5MjIzNSwwMDAwMDAwMDFiOWY1NWQwMzNjNTEwNGY5ZjNhY2YzNjZlN2U0MmNj`

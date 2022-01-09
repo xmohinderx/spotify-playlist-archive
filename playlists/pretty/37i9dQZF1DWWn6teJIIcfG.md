@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,783 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,780 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 59 | [Symphony in G Major, Bryan G6: II\. Andante molto grazioso](https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4) | [Johann Baptist Vanhal](https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6), [Toronto Chamber Orchestra](https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC), [Kevin Mallon](https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s) | [Vanhal: Symphonies, Vol\. 3](https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2) | 5:04 |
 | 60 | [Soli](https://open.spotify.com/track/54UyP0Ap9OYjlFrkgmStVH) | [Nicola Piovani](https://open.spotify.com/artist/11XlNd1KqePugYImzM1ZKJ) | [La stanza del figlio un film di Nanni Moretti](https://open.spotify.com/album/6AkKScoXJYtwz1tY9jNZtj) | 2:32 |
 
-Snapshot ID: `MTY0MTY4ODg3MSwwMDAwMDAwMDBkMDcyNDUzMGIxNDM3NzMxN2UzYjk0ODRlNGEwMDM3`
+Snapshot ID: `MTY0MTY5MTgxNywwMDAwMDAwMDBkMDcyNDUzMGIxNDM3NzMxN2UzYjk0ODRlNGEwMDM3`

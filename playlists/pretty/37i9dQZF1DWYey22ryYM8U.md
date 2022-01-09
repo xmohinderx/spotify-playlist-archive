@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Éxitos con sabor\. Cover: Olga Tañon
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,427 likes - 120 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,432 likes - 120 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 119 | [Te Quiero a Morir](https://open.spotify.com/track/3f0O8XWSxYA2zxLCpq95Wl) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Te Quiero a Morir](https://open.spotify.com/album/6acunivZ3ixjKEDZkoWXXL) | 3:24 |
 | 120 | [No Hay Cama Pa' Tanta Gente](https://open.spotify.com/track/40vpI6DtJU1EwFpnCrpWcb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tañón Pal' Combo Es Lo Que Hay](https://open.spotify.com/album/0VSHWr0Nz2qMRIOFQ2qwHa) | 3:10 |
 
-Snapshot ID: `MTY0MTY4ODkxMywwMDAwMDAwMDVmNzhkMWNjNTNlNzljNmY3MWJiYTk2ZWVkYjk2N2Rh`
+Snapshot ID: `MTY0MTY5MTg2MSwwMDAwMDAwMDVmNzhkMWNjNTNlNzljNmY3MWJiYTk2ZWVkYjk2N2Rh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 
 > no thoughts, just non\-stop alt bops
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,143 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,146 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Tjn540kLxZ.md) - [plain]
 | 99 | [Crowd Surf](https://open.spotify.com/track/4kg0eZZJDc6Fp2KHEbYcXg) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr) | 3:04 |
 | 100 | [All Eyes On Me \- Song Only](https://open.spotify.com/track/5RXycwlyNdmAYB5srQ4lk2) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/35qVMfUfBN6q2xzm9rZn5a) | 3:32 |
 
-Snapshot ID: `MTY0MTY4OTAzMSwwMDAwMDAwMDQzMjdkNDliMDY1MzczZDFiYTE3ZWI4MDdhMmZmZjYy`
+Snapshot ID: `MTY0MTY5MTk4MiwwMDAwMDAwMDQzMjdkNDliMDY1MzczZDFiYTE3ZWI4MDdhMmZmZjYy`

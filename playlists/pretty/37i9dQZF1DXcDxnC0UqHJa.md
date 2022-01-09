@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,252 likes - 115 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,257 likes - 115 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Walking on Sunshine](https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine](https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B) | 3:07 |
 | 115 | [Re: Stacks](https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ) | [Charlie Simpson](https://open.spotify.com/artist/3CGzpCMqpqHnafmn2PFQd9) | [Little Hands](https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv) | 6:07 |
 
-Snapshot ID: `MTY0MTY4OTI0NiwwMDAwMDAwMDA4NTYxMDM0ZGQ0MTM3MzYxYjczYzEzYTAxNDNiNTgw`
+Snapshot ID: `MTY0MTY5MjIwMCwwMDAwMDAwMDA4NTYxMDM0ZGQ0MTM3MzYxYjczYzEzYTAxNDNiNTgw`

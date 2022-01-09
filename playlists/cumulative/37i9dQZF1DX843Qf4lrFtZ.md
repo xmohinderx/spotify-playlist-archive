@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX843Qf4lrFtZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX843Qf4lrFtZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX843Qf4lrFtZ)
 
-### [young, wild & free](https://open.spotify.com/playlist/4W2PtnqLZT37eLsxgNxg4L)
+### [young, wild & free](https://open.spotify.com/playlist/5uAU0FSX58fPShZRv61M9L)
 
 > that’s how it's supposed to be\. living young, wild and free!!!!!
 

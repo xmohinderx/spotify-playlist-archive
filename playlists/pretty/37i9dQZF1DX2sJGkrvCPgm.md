@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,286 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,287 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sJGkrvCPgm.md) - [plain]
 | 99 | [All I Need For Christmas](https://open.spotify.com/track/4meVKX0ubgfnqeucwixAt4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [All I Need For Christmas](https://open.spotify.com/album/1Ks288qIuyt8sSvFLdlyqU) | 3:01 |
 | 100 | [Go Tell It on the Mountain](https://open.spotify.com/track/28w1ZQX25tnDIaHdMR9kbu) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq), [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Go Tell It on the Mountain](https://open.spotify.com/album/2WCkmIbCNpo4ulg7BeyfvU) | 3:13 |
 
-Snapshot ID: `MTY0MTY4OTAxNCwwMDAwMDAwMDYwMmQ4MDExM2UxYzNkNzQ4NjI0OGE4Nzg0MzM5N2U5`
+Snapshot ID: `MTY0MTY5MTk2NCwwMDAwMDAwMDYwMmQ4MDExM2UxYzNkNzQ4NjI0OGE4Nzg0MzM5N2U5`

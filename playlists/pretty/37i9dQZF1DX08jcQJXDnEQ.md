@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > A collection of the biggest Metal classics of the 90s\. Cover : Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,134 likes - 145 songs - 11 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,152 likes - 145 songs - 11 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 144 | [Fall from Grace](https://open.spotify.com/track/3d1rZ0Trsucp8EAstQ5AK4) | [Morbid Angel](https://open.spotify.com/artist/35jmO5o3AhUV70kiR7u4Nw) | [Blessed Are the Sick \(Full Dynamic Range Edition\)](https://open.spotify.com/album/0Psnh8qaNVwK7hDN2p92xu) | 5:13 |
 | 145 | [More Than Meets The Eye](https://open.spotify.com/track/7pVVRLCmLi97GdOs6PmOTo) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Fear Emptiness Depair](https://open.spotify.com/album/0ZVDEcb8RupifWBPbjP7kT) | 3:55 |
 
-Snapshot ID: `MTY0MTY4ODk0NCwwMDAwMDAwMGQ4MDRkY2MxYjhiYjY4YzE2MDFlYmZlNjZhMGNlN2Zi`
+Snapshot ID: `MTY0MTY5MTg5MSwwMDAwMDAwMGQ4MDRkY2MxYjhiYjY4YzE2MDFlYmZlNjZhMGNlN2Zi`

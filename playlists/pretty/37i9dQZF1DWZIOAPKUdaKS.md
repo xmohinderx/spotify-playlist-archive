@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Piano music to hone your thought process.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,444 likes - 400 songs - 17 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,442 likes - 400 songs - 17 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 | 399 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 |
 | 400 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 |
 
-Snapshot ID: `MTY0MTY4ODkyNSwwMDAwMDAwMGU4YmIyM2M1NzliNmZkOTdlY2ZhNGUzY2E4ZGE4ODZh`
+Snapshot ID: `MTY0MTY5MTg3MywwMDAwMDAwMGU4YmIyM2M1NzliNmZkOTdlY2ZhNGUzY2E4ZGE4ODZh`

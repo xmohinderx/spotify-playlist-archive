@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > The great masterpieces of the genre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,209,958 likes - 150 songs - 11 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,209,935 likes - 150 songs - 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 149 | [Strong Enough](https://open.spotify.com/track/0IiG5LCOkbUTyXoylZ3spP) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Hits And Rarities](https://open.spotify.com/album/6T3hWDRvhh2iLcgnGdnXUU) | 3:10 |
 | 150 | [I'm Not In Love](https://open.spotify.com/track/5Ws2EQtBiwpAcBYYSB14ns) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Tenology](https://open.spotify.com/album/37Iqxhq5QHYHhLn9kcAkHu) | 6:07 |
 
-Snapshot ID: `MTY0MTY4OTEyNSwwMDAwMDAwMGJmZDAwMTVjNjc2ODYwNjczNjlhNDgwZWFiYjRiNGNk`
+Snapshot ID: `MTY0MTY5MjA3NiwwMDAwMDAwMGJmZDAwMTVjNjc2ODYwNjczNjlhNDgwZWFiYjRiNGNk`

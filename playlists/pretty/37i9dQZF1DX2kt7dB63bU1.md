@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Cécile McLorin Salvant
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,601 likes - 116 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,600 likes - 116 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 115 | [Let's Do It](https://open.spotify.com/track/45czwhpmoLfzTJDmu2NKsM) | [Jaimee Paul](https://open.spotify.com/artist/09VxnBvEC5lDFLmMkEYOmr), [Andre Reiss](https://open.spotify.com/artist/1O4RYTCy8m5JgaPpxytDDE), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503) | [Let's Do It](https://open.spotify.com/album/1saHQW8pTxZJRntJQah8iY) | 3:44 |
 | 116 | [Wild Is The Wind](https://open.spotify.com/track/4MKfsaaYbB78ibU0kNGxMu) | [Anna Kolchina](https://open.spotify.com/artist/2vP3HFkAxomZGmfq8NG390) | [Wild Is The Wind](https://open.spotify.com/album/6PWm7iGTcvrmI9Vx7lMisb) | 4:50 |
 
-Snapshot ID: `MTY0MTY4OTAwOSwwMDAwMDAwMDY4YWJhMTdlYTIzMGI3MGNhMGY3ZmNmOGFlMGRkMWQ5`
+Snapshot ID: `MTY0MTY5MTk1OSwwMDAwMDAwMDY4YWJhMTdlYTIzMGI3MGNhMGY3ZmNmOGFlMGRkMWQ5`

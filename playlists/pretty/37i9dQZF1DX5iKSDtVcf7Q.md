@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,113 likes - 104 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,112 likes - 104 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 103 | [American Ride](https://open.spotify.com/track/1vD4DN56ued7pQklJBDesw) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/4bTpO7buGrpu5Vx6K8cKDc) | 2:45 |
 | 104 | [You and the Radio](https://open.spotify.com/track/3A5XNlTgvAnJXgFpl1fsSh) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [Heartbreak Tour + You and the Radio](https://open.spotify.com/album/6cReHCMwEQndsiAmNH9cd6) | 3:01 |
 
-Snapshot ID: `MTY0MTY4OTA5MSwwMDAwMDAwMDhiYTViNzY3MTQ4MTcxZmFkNGJmYTY1OGNjYmE3NDIw`
+Snapshot ID: `MTY0MTY5MjA0MiwwMDAwMDAwMDhiYTViNzY3MTQ4MTcxZmFkNGJmYTY1OGNjYmE3NDIw`

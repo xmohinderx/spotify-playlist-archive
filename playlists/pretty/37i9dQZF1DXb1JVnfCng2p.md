@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 
 > Get in mood for dinner with some cooking jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,174 likes - 75 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,181 likes - 75 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1JVnfCng2p.md) - [plain]
 | 74 | [Young Bean](https://open.spotify.com/track/0jLNrHoBVaOm8V37QRRXEf) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster and Associates](https://open.spotify.com/album/4Iorh0xvUvOWcVpbFHiGTR) | 6:03 |
 | 75 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 |
 
-Snapshot ID: `MTY0MTY4OTIxOSwwMDAwMDAwMDZlNWM0ZDU5OWZlYThhYzNiZTBhMjFhYWZjYjlkMjcw`
+Snapshot ID: `MTY0MTY5MjE3MiwwMDAwMDAwMDZlNWM0ZDU5OWZlYThhYzNiZTBhMjFhYWZjYjlkMjcw`

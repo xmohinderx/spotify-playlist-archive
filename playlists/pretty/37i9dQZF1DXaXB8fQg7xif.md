@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 
 > Bid 2021 farewell and <a href="spotify:genre:edm\_dance">move</a> your feet!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,770,588 likes - 125 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,770,530 likes - 125 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXB8fQg7xif.md) - [plain]
 | 124 | [Drinkee \- Vintage Culture & John Summit Remix](https://open.spotify.com/track/68raS6F0ad2Iilql3yYeCt) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Drinkee \(Vintage Culture & John Summit Remix\)](https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F) | 3:25 |
 | 125 | [Body Pump \- Lady Bee Remix](https://open.spotify.com/track/3mC9L7eDVsaAqnLbOya3U4) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN) | [Body Pump \(Lady Bee Remix\)](https://open.spotify.com/album/3bk3p9RSvYg3o7823tFSB7) | 2:56 |
 
-Snapshot ID: `MTY0MTY4OTIwOCwwMDAwMDAwMGNjYmZlNmE5ZGZmNTMxOGQzNTAxMGE3NDM1NTM4NDg4`
+Snapshot ID: `MTY0MTY5MjE2MSwwMDAwMDAwMGNjYmZlNmE5ZGZmNTMxOGQzNTAxMGE3NDM1NTM4NDg4`

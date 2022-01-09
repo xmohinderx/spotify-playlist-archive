@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 80s
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,967 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,976 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdTzLVot2nl.md) - [plain]
 | 59 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 |
 | 60 | [Slice of Heaven](https://open.spotify.com/track/1shSAteQfBSAl7CBw4yeSm) | [Dave Dobbyn](https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc) | [Overnight Success](https://open.spotify.com/album/0PniRr1Rq9wO4eWcA90LmO) | 4:36 |
 
-Snapshot ID: `MTY0MTY4OTIzMywwMDAwMDAwMGM1MjI4ZGRhMzBiMDk5NGY0MzczNTAxYmI1YWZhNTI4`
+Snapshot ID: `MTY0MTY5MjE4NiwwMDAwMDAwMGM1MjI4ZGRhMzBiMDk5NGY0MzczNTAxYmI1YWZhNTI4`

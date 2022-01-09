@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 
 > Embrace those happy vibes with these feel\-good hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,142 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,147 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1H4LbvY4OJi.md) - [plain]
 | 79 | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Undeniable \(feat\. X Ambassadors\)](https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm) | 3:00 |
 | 80 | [Can’t Help Myself](https://open.spotify.com/track/6zvvWWxsMIhEYLMTRcWHfc) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Can’t Help Myself](https://open.spotify.com/album/2eA02NTgjx7GKkU5yhgRIV) | 3:37 |
 
-Snapshot ID: `MTY0MTY4ODk3MywwMDAwMDAwMDA0NWRjYjg5OTQ3MjcwYjM3Y2NkM2E0ZmI5MDZlNzEz`
+Snapshot ID: `MTY0MTY5MTkyMiwwMDAwMDAwMDA0NWRjYjg5OTQ3MjcwYjM3Y2NkM2E0ZmI5MDZlNzEz`

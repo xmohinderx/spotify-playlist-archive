@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kJGZhtnOIh.md) - [plain]
 | 77 | [Terror In The Canyons \(The Wounded Master\)](https://open.spotify.com/track/7C9qM17pJCJi1hiFERWjm6) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/2he3CA9Gg1XLCsBiMAaXiz) | 4:05 |
 | 78 | [Tuck the Darkness In](https://open.spotify.com/track/0FrCdLSwmmmu3iUxfj2VbZ) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [The Clearing](https://open.spotify.com/album/6CgvV6nP1ilCqVSfsgTWX8) | 4:50 |
 
-Snapshot ID: `MTY0MTY4OTA2MiwwMDAwMDAwMDkyYjBmOTBiYTRjNjgxYTc3ZmYxOTg5NmIyMjJkYWI3`
+Snapshot ID: `MTY0MTY5MjAxMywwMDAwMDAwMDkyYjBmOTBiYTRjNjgxYTc3ZmYxOTg5NmIyMjJkYWI3`

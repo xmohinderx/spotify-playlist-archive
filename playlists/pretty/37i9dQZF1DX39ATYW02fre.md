@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,246 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,249 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 49 | [Simple Dreams of Simple Days](https://open.spotify.com/track/6xtonRve2UXZnrFC0dcVAu) | [Mike Slott](https://open.spotify.com/artist/1Ujy7P4HcSHRDxMhyr2Zfo) | [Simple Dreams Of Simple Days](https://open.spotify.com/album/0WDfCykL9v3Cv4oOJ8FBMX) | 2:47 |
 | 50 | [Sunday Song](https://open.spotify.com/track/2P4wRFA7ftewX1JdN3On2K) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Sunday Song](https://open.spotify.com/album/74R8jlQqkBESah1EvRHjPy) | 4:29 |
 
-Snapshot ID: `MTY0MTY4OTAyMiwwMDAwMDAwMGVjNGYxNmMxZTJkMGNjMTQ0NmZjNTM4OGE4OTI0MDQ3`
+Snapshot ID: `MTY0MTY5MTk3MywwMDAwMDAwMGVjNGYxNmMxZTJkMGNjMTQ0NmZjNTM4OGE4OTI0MDQ3`

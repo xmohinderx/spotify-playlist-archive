@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > The most memorable country hits from the 2010's\. Cover: Miranda Lambert, Luke Bryan and Jason Aldean.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,308 likes - 200 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,317 likes - 200 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Caught Up In The Country](https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [The Fisk Jubilee Singers](https://open.spotify.com/artist/0UGSKGxAJfltNONQ4AtETL) | [Caught Up In The Country](https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh) | 2:40 |
 | 200 | [A Guy Walks Into a Bar](https://open.spotify.com/track/16PNN9wK1LbedzcTp7y8y0) | [Tyler Farr](https://open.spotify.com/artist/3vHV92ecrylnUHDM4d2MtC) | [Suffer in Peace](https://open.spotify.com/album/2aUyGuWWZhUTBoBb3l2ym5) | 3:16 |
 
-Snapshot ID: `MTYzMjQwOTQ1MCwwMDAwMDAwZDAwMDAwMTdjMTMyZjc4MGIwMDAwMDE3OGYyNjQ0NDY4`
+Snapshot ID: `MTY0MTY5MTgzOCwwMDAwMDAwMGNmMjVlNDQ0MmIxNjczZWM4OGNhNmUxZGY1NDA1MTZi`

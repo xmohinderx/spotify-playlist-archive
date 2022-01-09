@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,950 likes - 60 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,965 likes - 60 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Circles](https://open.spotify.com/track/7FhS0WDdcyWPQYzfagOp6n) | [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Amari](https://open.spotify.com/album/6G4twjs5fOchNFfIOtDair) | 6:37 |
 | 60 | [Protection](https://open.spotify.com/track/6gR1tZQ9cs1I6Ln7soMYLL) | [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo), [Wennink](https://open.spotify.com/artist/5ABv9Z75CGfgyALYFpB6Qk) | [Protection](https://open.spotify.com/album/6OKyLjichDzXZrbQF5TyTc) | 4:17 |
 
-Snapshot ID: `MTY0MTY4ODk2MywwMDAwMDAwMDlmZGExM2M1MTVlNTFjMzAxN2NkZGZjYzBjYmUxOWM5`
+Snapshot ID: `MTY0MTY5MTkxMSwwMDAwMDAwMDlmZGExM2M1MTVlNTFjMzAxN2NkZGZjYzBjYmUxOWM5`

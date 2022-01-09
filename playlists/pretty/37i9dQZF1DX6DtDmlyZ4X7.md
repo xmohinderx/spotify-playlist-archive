@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,802 likes - 400 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,801 likes - 400 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 399 | [A Winged Time](https://open.spotify.com/track/26RTd4wqzRGUAAC2XoOAa4) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Out Of The Blue](https://open.spotify.com/album/7wl0ULSaII6WDHhVUMvmAc) | 2:00 |
 | 400 | [Lanes Mill](https://open.spotify.com/track/7oebNRU2rprgGdRg8nVo9a) | [Camille Laurent](https://open.spotify.com/artist/7abyHm5fBQV0OD8QJn2NOd) | [Kerala](https://open.spotify.com/album/5DQv0vgau8rwyWqioTZAaX) | 3:04 |
 
-Snapshot ID: `MTY0MTY4OTEwNSwwMDAwMDAwMDM3MTBhMzRhOWQ3YmFlOGI5ZWYyYTk2MjcxNGFkNDU2`
+Snapshot ID: `MTY0MTY5MjA1NiwwMDAwMDAwMDM3MTBhMzRhOWQ3YmFlOGI5ZWYyYTk2MjcxNGFkNDU2`

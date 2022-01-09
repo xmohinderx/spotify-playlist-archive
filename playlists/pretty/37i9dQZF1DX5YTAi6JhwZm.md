@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Happy and swinging jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,192 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,199 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 49 | [Iron Square Serenade](https://open.spotify.com/track/1kBr4cPekM3UoW77JOzXm0) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [What´S A Good Boss Anyway](https://open.spotify.com/album/4gPw3yOKIitK4eeOMfE5qW) | 3:42 |
 | 50 | [Perhaps](https://open.spotify.com/track/1L4JlMb7e6bV20nHjxuVg9) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/6EcJ7bR7B5JWBxbl70eOo4) | 5:17 |
 
-Snapshot ID: `MTY0MTY4OTA4OCwwMDAwMDAwMDQxMmU1MjQ0YjQ2Y2I5NWIyZTdlMTVmMDk0MzI4MDhm`
+Snapshot ID: `MTY0MTY5MjAzOSwwMDAwMDAwMDQxMmU1MjQ0YjQ2Y2I5NWIyZTdlMTVmMDk0MzI4MDhm`

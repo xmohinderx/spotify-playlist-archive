@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,690 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,699 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [Simple](https://open.spotify.com/track/0aHwWRN3Nd1ul6rxmHLhca) | [Vitami](https://open.spotify.com/artist/31UlQ2ue3AUFaSlAzo94Gv), [Mamma Soul](https://open.spotify.com/artist/6v6v20hL82eZfIRpGeocjj) | [Simple](https://open.spotify.com/album/0ctcjfhMTJboU0jen5mgA3) | 3:22 |
 | 100 | [These Days](https://open.spotify.com/track/1g5d90XIFHNllQ1Vq1rjMs) | [Ezy](https://open.spotify.com/artist/0l2bNB6pslXlkccCthuqzf), [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw), [Aaron Day](https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp) | [These Days](https://open.spotify.com/album/3gPsrwtiHSBJrnvdNCMrsk) | 4:11 |
 
-Snapshot ID: `MTY0MTY4OTE1NiwwMDAwMDAwMDllN2M5Y2YzZjJkOTNlMjJmYzk2ZDE1ZDZlNmZmMjEz`
+Snapshot ID: `MTY0MTY5MjEwNywwMDAwMDAwMDc1MDE1ZjQyMjEzOGMxZWIxNTMxNDU4NTUwZjg4MGRm`

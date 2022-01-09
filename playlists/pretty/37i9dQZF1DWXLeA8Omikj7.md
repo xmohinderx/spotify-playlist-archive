@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,559,963 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,559,935 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Together In Static](https://open.spotify.com/track/7xDIbH1rKZQKp0Wr6l4NVd) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Together In Static](https://open.spotify.com/album/2UEzaEym36kNtiNDi7b1mR) | 2:35 |
 | 100 | [Bondade](https://open.spotify.com/track/2KmiFXR0oK5WWwukNm8CSb) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Bondade](https://open.spotify.com/album/6HKujCNne4yFHm5ek2aY11) | 2:34 |
 
-Snapshot ID: `MTY0MTY4ODg4NCwwMDAwMDAwMDJkMTQ0ODcwMmJkMDg3ZTZjNjhlNjFiN2VhNjE4N2Q3`
+Snapshot ID: `MTY0MTY5MTgzMSwwMDAwMDAwMDJkMTQ0ODcwMmJkMDg3ZTZjNjhlNjFiN2VhNjE4N2Q3`

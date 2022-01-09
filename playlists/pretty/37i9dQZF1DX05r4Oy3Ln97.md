@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 
 > Dip your feet in the pool and enjoy this perfect summer house mix!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,815 likes - 60 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,814 likes - 60 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05r4Oy3Ln97.md) - [plain]
 | 59 | [High in a Paradise](https://open.spotify.com/track/4qLtFVZCwFxLJOv63O4FgA) | [Thunder](https://open.spotify.com/artist/0LnP8n2mREw2UvRL00TJqt) | [High in a Paradise](https://open.spotify.com/album/2sQuXWAR6craEdwLw17LO5) | 2:24 |
 | 60 | [One More Night](https://open.spotify.com/track/5uIXRf0nKHHWbJ2jVGlRoU) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [One More Night](https://open.spotify.com/album/437pHGBe6cnnxyEdZrbMvo) | 2:37 |
 
-Snapshot ID: `MTY0MTY4ODk0MywwMDAwMDAwMDQ0OGU5NzE0Mzc2OGUyZjI0MjMxMTY5MzE0ZTIyNWEy`
+Snapshot ID: `MTY0MTY5MTg5MCwwMDAwMDAwMDQ0OGU5NzE0Mzc2OGUyZjI0MjMxMTY5MzE0ZTIyNWEy`

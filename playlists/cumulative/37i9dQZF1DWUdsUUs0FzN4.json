@@ -58,6 +58,36 @@
     },
     {
       "album": {
+        "name": "Ay Mami",
+        "url": "https://open.spotify.com/album/4Yff9cmMTW14wfecnxonsn"
+      },
+      "artists": [
+        {
+          "name": "GS",
+          "url": "https://open.spotify.com/artist/2H94tx4gKrhBhunHQsH7xs"
+        },
+        {
+          "name": "Kyke",
+          "url": "https://open.spotify.com/artist/5odRCov6cjg4And5i28wlA"
+        },
+        {
+          "name": "Dj Young Mty",
+          "url": "https://open.spotify.com/artist/2HCGmdpckXTE4WNTAFEzA8"
+        },
+        {
+          "name": "Diego Vela",
+          "url": "https://open.spotify.com/artist/3T7Q7B1ozi2NOI1ClulTnI"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188368,
+      "name": "Ay Mami",
+      "url": "https://open.spotify.com/track/2biqXOyhcD2U0EqycTdqhk"
+    },
+    {
+      "album": {
         "name": "Baja",
         "url": "https://open.spotify.com/album/77vo9DDNZ9uYym1opTF8yE"
       },
@@ -103,6 +133,28 @@
       "duration_ms": 134638,
       "name": "Bellaqueo",
       "url": "https://open.spotify.com/track/3JGq5tQ2w9L9uoogNjc1VI"
+    },
+    {
+      "album": {
+        "name": "Briyyo",
+        "url": "https://open.spotify.com/album/4XW84mAfsxxU8VhyePSGkn"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Briyyo",
+      "url": "https://open.spotify.com/track/0QkHlOTxQTPbOO3EuBK76V"
     },
     {
       "album": {
@@ -203,7 +255,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 220242,
       "name": "Chezinay",
       "url": "https://open.spotify.com/track/2pkq3FmWxjuX968lMImvhn"
@@ -408,6 +460,32 @@
     },
     {
       "album": {
+        "name": "Kilate",
+        "url": "https://open.spotify.com/album/4hrf674ixi2LoLcxzTWqfh"
+      },
+      "artists": [
+        {
+          "name": "La Santa Mar\u00eda",
+          "url": "https://open.spotify.com/artist/39ez5l9yGO86b4gZbT7j8B"
+        },
+        {
+          "name": "Dj Krizis",
+          "url": "https://open.spotify.com/artist/0GKDsjgAKse6nzW9icaHri"
+        },
+        {
+          "name": "Mcfly Beatz",
+          "url": "https://open.spotify.com/artist/3krBRCYZOlmE4Xs8ALedOI"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Kilate",
+      "url": "https://open.spotify.com/track/5dndTlMRXyvejjR05OkI3K"
+    },
+    {
+      "album": {
         "name": "L-Gante: Bzrp Music Sessions, Vol. 38",
         "url": "https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH"
       },
@@ -449,6 +527,52 @@
       "duration_ms": 181928,
       "name": "L-Gante: RKT SESSIONS #1",
       "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "album": {
+        "name": "La Buchona (feat. El Habano, Daniel Martinez, Chino El Gorila, Jose Dolche, B.OG, DJ Esli & DJ Jester)",
+        "url": "https://open.spotify.com/album/0V3fCFSUKyppBMQN23O7tX"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "B.OG",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Chino El Gorila",
+          "url": "https://open.spotify.com/artist/3F1DM59crNsFkIY0ydIlO6"
+        },
+        {
+          "name": "Dj Esli",
+          "url": "https://open.spotify.com/artist/10qjZu7jW6R0cuqwY40SVd"
+        },
+        {
+          "name": "Dj Jester",
+          "url": "https://open.spotify.com/artist/3acXvaPqSOwM7EabXX0225"
+        },
+        {
+          "name": "Daniel Martinez",
+          "url": "https://open.spotify.com/artist/0rtjia73NEeeTl4McsHU34"
+        },
+        {
+          "name": "El Habano",
+          "url": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+        },
+        {
+          "name": "Jose Dolche",
+          "url": "https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "La Buchona (feat. El Habano, Daniel Martinez, Chino El Gorila, Jose Dolche, B.OG, DJ Esli & DJ Jester)",
+      "url": "https://open.spotify.com/track/2wxZO05ebZls99A68NnmGE"
     },
     {
       "album": {
@@ -698,6 +822,24 @@
     },
     {
       "album": {
+        "name": "Pasito Chacalon",
+        "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Pasito Chacalon",
+      "url": "https://open.spotify.com/track/66OXBVfGaka7L38l50OMOW"
+    },
+    {
+      "album": {
         "name": "Perra",
         "url": "https://open.spotify.com/album/1kec7f2wOhyUOsPbbfQgou"
       },
@@ -709,7 +851,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 170400,
       "name": "Perra",
       "url": "https://open.spotify.com/track/53GuGDwZqQUA9kATFaV7sS"
@@ -731,7 +873,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 146666,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
@@ -761,7 +903,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 147586,
       "name": "Perreo Chakalon",
       "url": "https://open.spotify.com/track/7z7SALpfsx48bsq8t1oOTB"
@@ -779,7 +921,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 212802,
       "name": "Perreo Como Antes",
       "url": "https://open.spotify.com/track/5InIuRBCKBEiSboJnliVQo"
@@ -919,7 +1061,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 181625,
       "name": "Safari",
       "url": "https://open.spotify.com/track/5tb2NwccYRm4HoKXBCrcBT"
@@ -978,6 +1120,32 @@
     },
     {
       "album": {
+        "name": "Se Prepar\u00f3",
+        "url": "https://open.spotify.com/album/3TvmbijUTm1bg8Gmi9i4uv"
+      },
+      "artists": [
+        {
+          "name": "Kid Moonsta",
+          "url": "https://open.spotify.com/artist/2rislViYWTnnJnNQHJ41Dy"
+        },
+        {
+          "name": "Mao Skaay",
+          "url": "https://open.spotify.com/artist/743t33bqMFr3IdHIMcaUF1"
+        },
+        {
+          "name": "Yhan Malek",
+          "url": "https://open.spotify.com/artist/1uLcL0EwsauxLNrfQtrYF2"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168308,
+      "name": "Se Prepar\u00f3",
+      "url": "https://open.spotify.com/track/50QKzgxB4Xxvltj3z4cEV5"
+    },
+    {
+      "album": {
         "name": "Si Baja",
         "url": "https://open.spotify.com/album/4oua4IPbtlQVIsUNLaGvmK"
       },
@@ -993,7 +1161,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 138823,
       "name": "Si Baja",
       "url": "https://open.spotify.com/track/7gM8yNTLCYRJQ7IyhMxt7z"
@@ -1129,6 +1297,32 @@
       "duration_ms": 146945,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/6fatMybX8VmHUpaxVcXzrz"
+    },
+    {
+      "album": {
+        "name": "Vasito Rojo (feat. Jose Dolche & Paulina Fuego)",
+        "url": "https://open.spotify.com/album/3FprduKLlWaTGdIB7MMxRQ"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Jose Dolche",
+          "url": "https://open.spotify.com/artist/52wmMMnrrpKH0caPjpTiUy"
+        },
+        {
+          "name": "Paulina Fuego",
+          "url": "https://open.spotify.com/artist/08ISOfeZVfZ3SdGtTyYKM0"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Vasito Rojo (feat. Jose Dolche & Paulina Fuego)",
+      "url": "https://open.spotify.com/track/29WGTtAAeQgyFEh95FqqgL"
     },
     {
       "album": {

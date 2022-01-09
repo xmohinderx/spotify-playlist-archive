@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 
 > Big hits from the world of acoustics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983,237 likes - 300 songs - 17 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983,239 likes - 300 songs - 17 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TvdyVZSYFY.md) - [plain]
 | 299 | [Omen \- Acoustic](https://open.spotify.com/track/0G7zUWU575zYyHCrOy14yz) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:25 |
 | 300 | [Over My Head \(Cable Car\) \- Live at Sirius Radio, NYC, NY \- May 2006](https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Over My Head \(Cable Car\)](https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz) | 3:50 |
 
-Snapshot ID: `MTY0MTY4OTE2MiwwMDAwMDAwMDJlZjEyYzAwNmFjMzY1ZjllYjMzYjNkZTdmNTRmNTY5`
+Snapshot ID: `MTY0MTY5MjExMywwMDAwMDAwMDJlZjEyYzAwNmFjMzY1ZjllYjMzYjNkZTdmNTRmNTY5`

@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Blue Day](https://open.spotify.com/track/7B9N6NLrTrGTeYIAfq4hag) | [Darker My Love](https://open.spotify.com/artist/6lNdjatBO3aCJfYYPDKCm6) | [2](https://open.spotify.com/album/577wvZla1iAWnbn9Y3JDBQ) | 4:10 |
 | 60 | [Cochise](https://open.spotify.com/track/1TDk2Jmi4dVZhm2dum3Jim) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 3:42 |
 
-Snapshot ID: `MTY0MTY4OTExNiwwMDAwMDAwMGVkYWY2MWQ3NzYwMzY2ZWMxY2JiM2JkNTY4NjMxNmVj`
+Snapshot ID: `MTY0MTY5MjA2OCwwMDAwMDAwMGVkYWY2MWQ3NzYwMzY2ZWMxY2JiM2JkNTY4NjMxNmVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 
 > The most interesting tracks in the current world of pop music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 947,364 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 947,360 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlLVXKTOAYa.md) - [plain]
 | 99 | [aftermath](https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [aftermath](https://open.spotify.com/album/1fwElcYJZ9su3GXu627HNs) | 2:46 |
 | 100 | [Love Like This](https://open.spotify.com/track/5YcTAWLjb2M9BRB2tAcCYO) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Love Like This](https://open.spotify.com/album/6uORfmslCiljDMCz22R6rW) | 2:47 |
 
-Snapshot ID: `MTY0MTY4ODg0NSwwMDAwMDAwMGJmYTZiNTI0MmFmNDFkNGIyMjU0NWVlNjYwMzljOWQ2`
+Snapshot ID: `MTY0MTY5MTc5MCwwMDAwMDAwMGJmYTZiNTI0MmFmNDFkNGIyMjU0NWVlNjYwMzljOWQ2`

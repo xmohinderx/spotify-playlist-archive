@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,863 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,879 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 | 99 | [Antes](https://open.spotify.com/track/73O30uMI7n6DuzBmbtO7kC) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Los Dioses](https://open.spotify.com/album/28adqly9V7wm5DFr7hlqtK) | 3:26 |
 | 100 | [Amantes y Amigos](https://open.spotify.com/track/1UHcnP31sAKOJFrEnyRNUz) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Amantes y Amigos](https://open.spotify.com/album/1ymAOPs0Z1p78Me8UbddOK) | 3:02 |
 
-Snapshot ID: `MTY0MTY4OTIyNiwwMDAwMDAwMGJjM2ZlOGUxMzMyNDkxMzllMjUwNDE0NTAzODE1ZDg2`
+Snapshot ID: `MTY0MTY5MjE4MCwwMDAwMDAwMGJjM2ZlOGUxMzMyNDkxMzllMjUwNDE0NTAzODE1ZDg2`

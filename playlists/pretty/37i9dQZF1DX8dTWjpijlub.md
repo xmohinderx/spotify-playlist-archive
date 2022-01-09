@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 
 > The champs are here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,726 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,730 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8dTWjpijlub.md) - [plain]
 | 49 | [We Paid \(feat\. 42 Dugg\)](https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [My Turn \(Deluxe\)](https://open.spotify.com/album/6uhEg4ASZYLIilZFCBFy1r) | 3:01 |
 | 50 | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/track/4wmZtoif8SGm7PDqgKrEXr) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [4 Thangs \(feat\. Big Sean & Hit\-Boy\)](https://open.spotify.com/album/7DaO2NczGej6crL0eTAXcS) | 1:44 |
 
-Snapshot ID: `MTY0MTY4OTE2NSwwMDAwMDAwMDM5MTdlN2ZjZTAxOGFkM2Y5ZDEzZTY0NzcyYjc2ZDhh`
+Snapshot ID: `MTY0MTY5MjExNywwMDAwMDAwMDM5MTdlN2ZjZTAxOGFkM2Y5ZDEzZTY0NzcyYjc2ZDhh`

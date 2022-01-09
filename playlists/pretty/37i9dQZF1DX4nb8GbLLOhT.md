@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Omar Apollo, Brandi Carlile, and Black Pumas
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,667 likes - 115 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,665 likes - 115 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [In The Name Of Love \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Spotify Singles](https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk) | 3:25 |
 | 115 | [Wish I Had Not Said That \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1bGI72eDvePBpHHUkydeCK) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Spotify Singles](https://open.spotify.com/album/26f6iHa9lvKe4T2VqvFyzo) | 3:20 |
 
-Snapshot ID: `MTY0MTY4OTA2NCwwMDAwMDAwMDU0ZmQ5ZGNjMGIyMzUxM2ZjMzE4YjgzNzk4ZjQxYzEy`
+Snapshot ID: `MTY0MTY5MjAxNCwwMDAwMDAwMDU0ZmQ5ZGNjMGIyMzUxM2ZjMzE4YjgzNzk4ZjQxYzEy`

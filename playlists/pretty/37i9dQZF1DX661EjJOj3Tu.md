@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,373 likes - 100 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,378 likes - 100 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Bucle](https://open.spotify.com/track/1DQDsPGGlQgVOlY1TKZ32B) | [Proyecto Satélite](https://open.spotify.com/artist/5VVGEvfzNZmwRlESotN5S3), [Alejandro Pino](https://open.spotify.com/artist/4Sw7wUNUMgGqsEVanogEx3), [Cristian Gallardo](https://open.spotify.com/artist/2uojJ3LeIqmhhXkoKWpJiL), [Juan Villarroel](https://open.spotify.com/artist/5vOibUNn1ICPgFqlU8KA7o), [Cristóbal Massis](https://open.spotify.com/artist/0ejqfVn5LDYQt1dwoZkwvt), [Tomás Gubbins](https://open.spotify.com/artist/4ZMKJ0qDl9hdPXhsnZk8jM) | [Proyecto Satélite](https://open.spotify.com/album/77Tb6SEL8rpGI8U0gW4l9x) | 7:02 |
 | 100 | [Reza](https://open.spotify.com/track/4EpucAOoGXgSW5HScC8V1F) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 4:04 |
 
-Snapshot ID: `MTY0MTY4OTEwMSwwMDAwMDAwMGJjZWFiNGExN2NlMzg4OTRiZDI1YTU1ZmU2YzE4ZmVi`
+Snapshot ID: `MTY0MTY5MjA1MywwMDAwMDAwMGJjZWFiNGExN2NlMzg4OTRiZDI1YTU1ZmU2YzE4ZmVi`

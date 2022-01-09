@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Burial on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,926 likes - 100 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,935 likes - 100 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9c7yCloFHHL.md) - [plain]
 | 99 | [Tympanum \(feat\. Nala Sinephro\)](https://open.spotify.com/track/7hOn0zGFIZoLk8a5pUOtYU) | [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q), [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Change Ringing](https://open.spotify.com/album/5CWB9LCVNNmbqQtkbGmyXj) | 4:18 |
 | 100 | [Inspirit \- Takuya's Ryūteki Dragons](https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Inspirit \(Takuya's Ryūteki Dragons\)](https://open.spotify.com/album/35G1TshqzBnZAvicYfH2qw) | 4:15 |
 
-Snapshot ID: `MTY0MTY4OTE4NiwwMDAwMDAwMGVkNmY1MjJmMDc2NjY0OTRiYTcyNjU1MDM3OTk3YjVh`
+Snapshot ID: `MTY0MTY5MjEzOCwwMDAwMDAwMGVkNmY1MjJmMDc2NjY0OTRiYTcyNjU1MDM3OTk3YjVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 
 > Dream your way through the day to these blissful indie tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,175 likes - 80 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,179 likes - 80 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6uhsAfngvaD.md) - [plain]
 | 79 | [The Heart](https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [The Heart](https://open.spotify.com/album/6SrHImPQRscEaGsNdaIHbD) | 4:37 |
 | 80 | [You'd Be Mine](https://open.spotify.com/track/3bcrlAFw712dO397aCAmle) | [Boshe](https://open.spotify.com/artist/2qFtSSi6zc8jGg8P1CXyAl), [Sam Shaw](https://open.spotify.com/artist/0BmKEHacAbCKmzCGvwZ2sw) | [You'd Be Mine](https://open.spotify.com/album/2vrqOyI5qUVebBhVhiajE0) | 2:59 |
 
-Snapshot ID: `MTY0MTY4OTEyNCwwMDAwMDAwMDQxZTdmM2JjOWVmNGVlNDlkNDJhYjE0NDIyMzM0ZGI2`
+Snapshot ID: `MTY0MTY5MjA3NSwwMDAwMDAwMDQxZTdmM2JjOWVmNGVlNDlkNDJhYjE0NDIyMzM0ZGI2`

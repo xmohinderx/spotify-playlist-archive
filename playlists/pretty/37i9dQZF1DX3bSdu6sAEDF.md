@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,389 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,388 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 49 | [Old Fashioned](https://open.spotify.com/track/2N0rHlYG5N4fN9HnVis9yj) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Old Fashioned](https://open.spotify.com/album/4hS6YtCIkN95pOeGLDsGI0) | 3:19 |
 | 50 | [Loved by You](https://open.spotify.com/track/0Peh9vSnImMMTznniOJcsj) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Loved by You](https://open.spotify.com/album/5LGyz3M8d6DagYhVCv2xzj) | 4:16 |
 
-Snapshot ID: `MTY0MTY4OTAzNiwwMDAwMDAwMDM2NmRhMzQxODVmODk1ZWY0YzBiOTY2OWE0MmVlZGNk`
+Snapshot ID: `MTY0MTY5MTk4NywwMDAwMDAwMDM2NmRhMzQxODVmODk1ZWY0YzBiOTY2OWE0MmVlZGNk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Frank Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,162 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,174 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [Como Seras Tu](https://open.spotify.com/track/3cwn39x2cQ3UCYnpTvVRGN) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/7BHBDN6dsMr4OwaMNhu1Mb) | 3:50 |
 | 100 | [Pegao](https://open.spotify.com/track/2PixLCKBzTx4AkhAK30ckW) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Pegao](https://open.spotify.com/album/6st9SD6DENdeLSBiqMxWOO) | 2:44 |
 
-Snapshot ID: `MTY0MTY4OTA0MywwMDAwMDAwMDMxM2FjYmY2OThiODAwYjJmOGQwMzQyOWMyMGRkOWU5`
+Snapshot ID: `MTY0MTY5MTk5NCwwMDAwMDAwMDMxM2FjYmY2OThiODAwYjJmOGQwMzQyOWMyMGRkOWU5`

@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "ASSA",
+        "url": "https://open.spotify.com/album/7EwGbejnlFJdnqbXPG0EOx"
+      },
+      "artists": [
+        {
+          "name": "cignature",
+          "url": "https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201573,
+      "name": "ASSA",
+      "url": "https://open.spotify.com/track/2VJpcZ7FnA1JAJaBYhY0ui"
+    },
+    {
+      "album": {
         "name": "BABYBABY",
         "url": "https://open.spotify.com/album/1xbVi5T6nMgrfmjHhjjVIu"
       },
@@ -217,7 +235,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 230377,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/46TStqCoE5i72Tt9KKwKfc"
@@ -253,7 +271,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 173520,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/2yeUTELaBRpyY0e43F6skB"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 199747,
       "name": "Cameo",
       "url": "https://open.spotify.com/track/7x9AO2pEWZTbKIek7RAecH"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 216720,
       "name": "Come to me",
       "url": "https://open.spotify.com/track/4CHmF2PI3RANWv15qkyKdB"
@@ -541,7 +559,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 202426,
       "name": "Crossroads",
       "url": "https://open.spotify.com/track/3ZWCWArPYr1v0iF763oSOz"
@@ -631,7 +649,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 213325,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/4SCRUC5lDUwbdZHQuGp2Z2"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 207928,
       "name": "frozen",
       "url": "https://open.spotify.com/track/5zNzvVBEuk8EEQslNTe42B"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 196866,
       "name": "Hwi hwi",
       "url": "https://open.spotify.com/track/3pPbm1d9G0jAHIoLa4ls9H"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 224160,
       "name": "I don't Know",
       "url": "https://open.spotify.com/track/5DM5iNhImOgjBW3c5OgYLn"
@@ -1157,6 +1175,24 @@
       "duration_ms": 185720,
       "name": "In the Same Place",
       "url": "https://open.spotify.com/track/5Fkxps5UUaYg2jANR5SlOl"
+    },
+    {
+      "album": {
+        "name": "JACKPOT",
+        "url": "https://open.spotify.com/album/4zMss13uNw7D8cYEALWXEe"
+      },
+      "artists": [
+        {
+          "name": "ELRIS",
+          "url": "https://open.spotify.com/artist/1mgzY8CsK8lyJy96tT8bV5"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "JACKPOT",
+      "url": "https://open.spotify.com/track/1n5cGoShTaChH3yQyNQIY5"
     },
     {
       "album": {
@@ -1585,7 +1621,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 214750,
       "name": "Mr. Chu",
       "url": "https://open.spotify.com/track/61NMqZzdUmRHw1KdS1honh"
@@ -1830,6 +1866,24 @@
     },
     {
       "album": {
+        "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
+        "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
+      },
+      "artists": [
+        {
+          "name": "Weki Meki",
+          "url": "https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "OOPSY",
+      "url": "https://open.spotify.com/track/7wujrLH728xxtvLRejTdV8"
+    },
+    {
+      "album": {
         "name": "One-reeler / Act IV",
         "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
       },
@@ -2003,7 +2057,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 221473,
       "name": "Renaissance",
       "url": "https://open.spotify.com/track/73tK3X9QfFjSjby77aeKye"
@@ -2093,7 +2147,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 244022,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/1yXJ8tsOEXXEVWhYKVf191"
@@ -2255,7 +2309,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 200213,
       "name": "SUNNY",
       "url": "https://open.spotify.com/track/1ZKj8dOHp1gaOE9BGvyWWU"
@@ -2291,7 +2345,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 216488,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L"
@@ -2489,7 +2543,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 204817,
       "name": "TING",
       "url": "https://open.spotify.com/track/4upYRHohKbofLMdaVLA429"
@@ -2907,7 +2961,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 249682,
       "name": "WINDY DAY",
       "url": "https://open.spotify.com/track/4c0P6s4blpNIldqJ5a6oKr"
@@ -2997,7 +3051,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199060,
       "name": "You&I",
       "url": "https://open.spotify.com/track/2QiWUA1Jk1QZ2aYH87dfrC"

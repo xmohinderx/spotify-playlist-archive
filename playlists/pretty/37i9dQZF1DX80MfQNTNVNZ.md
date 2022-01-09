@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 
 > Groove\-heavy, soothing tunes for the soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,021 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,034 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80MfQNTNVNZ.md) - [plain]
 | 59 | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lights Up \(feat\. Channel Tres\)](https://open.spotify.com/album/6j5rt47tD2qb4PzsvZKL1K) | 3:11 |
 | 60 | [Kumbaya](https://open.spotify.com/track/2LiAbVThDjRxRWz8SQaWuw) | [Nick Dorian](https://open.spotify.com/artist/60tZRF2LOOUONoZXo2ATtd), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Kumbaya](https://open.spotify.com/album/57LuWIUr292QLP9xJhBzgp) | 3:21 |
 
-Snapshot ID: `MTY0MTY4OTE0OCwwMDAwMDAwMDEwMjk4NDQzODFlNDgzMmY4ZTUzMTgwZTM1M2IwYzM5`
+Snapshot ID: `MTY0MTY5MjA5OCwwMDAwMDAwMDEwMjk4NDQzODFlNDgzMmY4ZTUzMTgwZTM1M2IwYzM5`

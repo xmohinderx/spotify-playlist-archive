@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986,292 likes - 300 songs - 11 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,986,288 likes - 300 songs - 11 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [On & On](https://open.spotify.com/track/5STMWcvgi6UiswwZyeWdTG) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [On & On](https://open.spotify.com/album/6g0UYlxUmtnuF5b8ClgdFS) | 3:17 |
 | 300 | [Flash Freeze](https://open.spotify.com/track/18N3kf8Bfmmz57fI8Ai1uz) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Mercurial](https://open.spotify.com/album/20CViYTx2LLUW8azuVKx0f) | 2:32 |
 
-Snapshot ID: `MTY0MTY4ODk1NCwwMDAwMDAwMDdlMDIwY2IwMDRiZjkzMDNmMDZlYWNhZDYyYTM4YTE0`
+Snapshot ID: `MTY0MTY5MTkwMSwwMDAwMDAwMDdlMDIwY2IwMDRiZjkzMDNmMDZlYWNhZDYyYTM4YTE0`

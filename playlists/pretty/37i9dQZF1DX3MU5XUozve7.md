@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,548 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,542 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 99 | [Lie to Me](https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Silver Linings](https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O) | 3:38 |
 | 100 | [All For Sale](https://open.spotify.com/track/619Vvrmjnx9JX1D8IfOK1k) | [Fake Names](https://open.spotify.com/artist/4NfSqwWc96WkRxN1LeFXGx) | [Fake Names](https://open.spotify.com/album/09ZGSPkYpKjfKsop6MDFmf) | 2:46 |
 
-Snapshot ID: `MTY0MTY4OTAyOSwwMDAwMDAwMDNlZjk4MmQ2YjhkY2JkMWM1OGY5MmZkMGExMGFhMTdk`
+Snapshot ID: `MTY0MTY5MTk3OSwwMDAwMDAwMDNlZjk4MmQ2YjhkY2JkMWM1OGY5MmZkMGExMGFhMTdk`

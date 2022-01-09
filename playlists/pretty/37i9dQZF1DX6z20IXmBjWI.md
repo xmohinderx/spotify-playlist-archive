@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 
 > Hours of your favorite acoustic and roots music gems\. Cover: Madi Diaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,137,145 likes - 160 songs - 10 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,137,136 likes - 160 songs - 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6z20IXmBjWI.md) - [plain]
 | 159 | [Sorrow \- Acoustic](https://open.spotify.com/track/0c5jwdFCYNXujjK785yYrI) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sorrow \(Acoustic\)](https://open.spotify.com/album/3T70FnpPiuMgle8JKzpzJk) | 3:00 |
 | 160 | [Emmylou \- Spotify Sessions](https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Spotify Sessions](https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv) | 5:04 |
 
-Snapshot ID: `MTY0MTY4OTEyNiwwMDAwMDAwMGFhZGRiZDAwY2NlZDVkNDBjNjgzZmEyNWIzMThmZTdh`
+Snapshot ID: `MTY0MTY5MjA3NywwMDAwMDAwMGFhZGRiZDAwY2NlZDVkNDBjNjgzZmEyNWIzMThmZTdh`

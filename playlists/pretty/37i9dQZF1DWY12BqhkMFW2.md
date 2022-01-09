@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,527 likes - 35 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,528 likes - 35 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [What's Going On \- Live At Spotify, NY/2012](https://open.spotify.com/track/0lgnI9taHYt4AJlISFD5wv) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Spotify Sessions \(Live At Spotify, NY/2012\)](https://open.spotify.com/album/6ZqZWyc8jm3G7Ub2cmYtY8) | 4:41 |
 | 35 | [You And I](https://open.spotify.com/track/2QptbtUWMta6rpuoXeO0ap) | [O'Bryan](https://open.spotify.com/artist/7ynDETvwFfaLOGPz143R31) | [The Best Of O'Bryan](https://open.spotify.com/album/1UXHujdClgEK6DdAUlzLH1) | 3:58 |
 
-Snapshot ID: `MTY0MTY4ODg5OSwwMDAwMDAwMDAwZGMxODkxYTA1NDUyNDU0YTNjNjUwYjZmODBhODc4`
+Snapshot ID: `MTY0MTY5MTg0NiwwMDAwMDAwMDAwZGMxODkxYTA1NDUyNDU0YTNjNjUwYjZmODBhODc4`

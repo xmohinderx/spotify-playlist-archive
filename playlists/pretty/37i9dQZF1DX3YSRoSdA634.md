@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 
 > Does school, your love life or work suck? Or are you just having a bad day?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,268,577 likes - 200 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,268,601 likes - 200 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YSRoSdA634.md) - [plain]
 | 199 | [I'll Never Love Again \- Film Version](https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bradley Cooper](https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 4:41 |
 | 200 | [BRAVE](https://open.spotify.com/track/1LiEAia09qw722mpzqfROY) | [K E M A L](https://open.spotify.com/artist/5Fd7uQWqAWTmcOidyOUhDo) | [BRAVE](https://open.spotify.com/album/05LkMk4sbSJ1GewU2FHI1t) | 4:37 |
 
-Snapshot ID: `MTY0MTY4OTAzNCwwMDAwMDAwMDFhZGUxYzNkYmQ1YmVmMDE2YjU3Mzk2YmY2NDkyOTk5`
+Snapshot ID: `MTY0MTY5MTk4NCwwMDAwMDAwMDFhZGUxYzNkYmQ1YmVmMDE2YjU3Mzk2YmY2NDkyOTk5`

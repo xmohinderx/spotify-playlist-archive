@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 
 > Put a spring in your step with these mood boosting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304,407 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,304,415 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadOVCgGhS7j.md) - [plain]
 | 49 | [Brother \(feat\. Gavin DeGraw\)](https://open.spotify.com/track/62M9yafZsSRzlsphzeJPGo) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Brother](https://open.spotify.com/album/55Fm920hiqUcGhKuv8hjgV) | 3:28 |
 | 50 | [Say What You Want To](https://open.spotify.com/track/3XNqmhYrChOyqSZOy3flg7) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Twenty+](https://open.spotify.com/album/7gbLEiqEDwB8o5Jbl9X3GE) | 3:29 |
 
-Snapshot ID: `MTY0MTY4OTIxMSwwMDAwMDAwMDE3MjRlNTAxMzE5YzI4YzhlOWMwMjg0Y2RmNGMwNzY1`
+Snapshot ID: `MTY0MTY5MjE2NCwwMDAwMDAwMDE3MjRlNTAxMzE5YzI4YzhlOWMwMjg0Y2RmNGMwNzY1`

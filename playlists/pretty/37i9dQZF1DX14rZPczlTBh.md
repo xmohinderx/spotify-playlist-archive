@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > The perfect uptempo tracks for the function.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,928 likes - 65 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,931 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 64 | [Tring Tring](https://open.spotify.com/track/6e6JTOc1GbdRWCirQ3OBRq) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Jai Lava Kusa](https://open.spotify.com/album/03mXh5a8E8aRfgtKTyy3EL) | 4:20 |
 | 65 | [MCA](https://open.spotify.com/track/5MhnpBzKRDQpeAJgR7vmHV) | [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [MCA \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4q7TQdPkWFRzo3CkhqQe4Q) | 3:17 |
 
-Snapshot ID: `MTY0MTY4ODk3MCwwMDAwMDAwMGExMjM4Y2M3N2FmODc2ZTg3MDkxZTU3YzIwNjdkY2Zi`
+Snapshot ID: `MTY0MTY5MTkxOCwwMDAwMDAwMGExMjM4Y2M3N2FmODc2ZTg3MDkxZTU3YzIwNjdkY2Zi`

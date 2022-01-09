@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > A cocktail of <a href="spotify:genre:edm\_dance">electronic</a> trap and trap\-influenced tracks\. Cover: Just A Gent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,319 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,317 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 99 | [TIDES](https://open.spotify.com/track/6h0o08bDtg1DpSkMTfwaEP) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [TIDES](https://open.spotify.com/album/1FVxlg8xl2ir77wIG2hjVf) | 1:45 |
 | 100 | [Magic](https://open.spotify.com/track/0UU98KhDayXXXaP7y9ud7M) | [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Magic](https://open.spotify.com/album/08pD8uL8UL0LrBD6ceqZ5w) | 3:38 |
 
-Snapshot ID: `MTY0MTY4ODk3NSwwMDAwMDAwMDhlODQwYTk2OGZhNjJjZmVhODg3M2JmM2NjYTZjN2Vi`
+Snapshot ID: `MTY0MTY5MTkyNCwwMDAwMDAwMDhlODQwYTk2OGZhNjJjZmVhODg3M2JmM2NjYTZjN2Vi`

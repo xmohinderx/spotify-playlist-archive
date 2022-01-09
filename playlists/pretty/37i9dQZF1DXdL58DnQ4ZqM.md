@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 
 > Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,280 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,285 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdL58DnQ4ZqM.md) - [plain]
 | 99 | [Urban Grooves \- The Cute Ones](https://open.spotify.com/track/0Ifhx5fDB0bPBNxU3YLDbR) | [The Cute Ones](https://open.spotify.com/artist/1BGBsygG6ShApQpPq5fkZ6) | [Urban Grooves](https://open.spotify.com/album/6XUolHbQUS7C8ZcYIbQbrq) | 3:35 |
 | 100 | [Raindrops](https://open.spotify.com/track/33iouj5bpuoi0tQBgpm3EP) | [Jaque Di Palma](https://open.spotify.com/artist/79s3DecSnPM2nyQQcQGkzI) | [Go To Nerja / Raindrops](https://open.spotify.com/album/4s7zt0DmnFD62qZuNuvEEf) | 3:17 |
 
-Snapshot ID: `MTY0MTY4OTI2NywwMDAwMDAwMDRjYmM5NzUyN2E2ODdiZTFhMzExOTAxNjdjYjdkZTBk`
+Snapshot ID: `MTY0MTY5MjIyMiwwMDAwMDAwMDRjYmM5NzUyN2E2ODdiZTFhMzExOTAxNjdjYjdkZTBk`

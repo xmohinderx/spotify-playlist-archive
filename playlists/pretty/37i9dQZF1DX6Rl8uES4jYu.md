@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,635 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,644 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Rl8uES4jYu.md) - [plain]
 | 79 | [On Repeat](https://open.spotify.com/track/4eGlCCZBBa5ieD6YeBB8i5) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5), [Miette Hope](https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw) | [Why Am I](https://open.spotify.com/album/0zU6Vof3zI7Kh5cpBvEEq8) | 3:26 |
 | 80 | [Cauliflower](https://open.spotify.com/track/4Vp0zrHb37MuYWmzsbXQWa) | [Jak Lizard](https://open.spotify.com/artist/1fSVQsyT52lNgeTUza3oH5) | [Shine to Rise](https://open.spotify.com/album/4PfHfTymdIj9G24SO75wQI) | 2:18 |
 
-Snapshot ID: `MTY0MTY4OTExMywwMDAwMDAwMDg5ZjI5NjE1MGQwZmU4NTdjNDhmZDJkNWY3NzBiMTky`
+Snapshot ID: `MTY0MTY5MjA2NCwwMDAwMDAwMDg5ZjI5NjE1MGQwZmU4NTdjNDhmZDJkNWY3NzBiMTky`

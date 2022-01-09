@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,396 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,395 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 99 | [Closer To The Sun](https://open.spotify.com/track/17xbKoCF5iDcSb9usFt2yO) | [Slightly Stoopid](https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb) | [Closer To The Sun](https://open.spotify.com/album/2ie5b9gQwHM40WM27VCV0b) | 2:25 |
 | 100 | [Work That We Do](https://open.spotify.com/track/16yxo4Dq5hMohINfjX7DGz) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Work That We Do](https://open.spotify.com/album/3C1lw128oB4uQjuFcEQlaj) | 2:46 |
 
-Snapshot ID: `MTY0MTY4OTE1MCwwMDAwMDAwMGFlMDk4YTNmM2IyMzE1ZjQ2ZjViNmNlYTEyOGNlZTRm`
+Snapshot ID: `MTY0MTY5MjEwMSwwMDAwMDAwMGFlMDk4YTNmM2IyMzE1ZjQ2ZjViNmNlYTEyOGNlZTRm`

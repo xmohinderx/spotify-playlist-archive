@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Cover: my bloody valentine
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,818 likes - 141 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,827 likes - 141 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 140 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
 | 141 | [Fall Back](https://open.spotify.com/track/5xWnVYACxl4VyRePi9oXd7) | [Hoops](https://open.spotify.com/artist/12qS7lypMdpvASeNnFXtmN) | [Fall Back](https://open.spotify.com/album/4GJ89sMg9Yk8yNZo5sHahX) | 4:35 |
 
-Snapshot ID: `MTY0MTY4OTEyNCwwMDAwMDAwMDc4MTQyMjFhNmE0ZmU4YWQxZDA1MDhkMWVhOTdiZTE1`
+Snapshot ID: `MTY0MTY5MjA3NiwwMDAwMDAwMDc4MTQyMjFhNmE0ZmU4YWQxZDA1MDhkMWVhOTdiZTE1`

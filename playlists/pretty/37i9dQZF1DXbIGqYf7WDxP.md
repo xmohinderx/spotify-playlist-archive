@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain]
 
 > The best music for just chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,239 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,914 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIGqYf7WDxP.md) - [plain]
 | 99 | [dirt](https://open.spotify.com/track/5BB3UvbXDoR3nKC7ujTkcc) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [dirt](https://open.spotify.com/album/66MliMDybKTvjeRpgt9UxW) | 2:06 |
 | 100 | [Suburbia](https://open.spotify.com/track/48S4mJNtmuC16ptPecFGIh) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Suburbia](https://open.spotify.com/album/4vtjAjsM8U6fW1yX08zpPB) | 2:59 |
 
-Snapshot ID: `MTY0MTY4OTIyNSwwMDAwMDAwMGZlMTA0ZWU2MGM2MWFiZDY0YjBlN2E0ZmFhYTQ5NTdh`
+Snapshot ID: `MTY0MTY5MjE3OCwwMDAwMDAwMGZlMTA0ZWU2MGM2MWFiZDY0YjBlN2E0ZmFhYTQ5NTdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Happy 75th birthday Bowie! Celebrate the <a href="spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy">Starman's</a> work, collaborations, and disciples on \#SpotifyTBT Cover: David Bowie
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,046,596 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046,600 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

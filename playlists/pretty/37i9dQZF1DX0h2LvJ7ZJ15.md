@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,066 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,103 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 49 | [Feel Like \(Slowed\)](https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo) | [AREZRA](https://open.spotify.com/artist/6CgedJ2dk5GP40gS1OmGgE) | [Feel Like \(Slowed\)](https://open.spotify.com/album/2NT2KC0E0YiiC6YHiuGoNJ) | 3:37 |
 | 50 | [Eulogy](https://open.spotify.com/track/5oxY3CGJAsNv8fWS9ctFYi) | [Fairwthr](https://open.spotify.com/artist/6PkVRSCn3Axh0mgg3qEWIK) | [Eulogy](https://open.spotify.com/album/38uy7pAWnhV1N6il0QQAzF) | 2:58 |
 
-Snapshot ID: `MTY0MTY4ODk2MCwwMDAwMDAwMDk5NjQyMmRlMzQwMzEyZWYwYzI3ODA4NTZhODljYTE1`
+Snapshot ID: `MTY0MTY5MTkwOCwwMDAwMDAwMDk5NjQyMmRlMzQwMzEyZWYwYzI3ODA4NTZhODljYTE1`

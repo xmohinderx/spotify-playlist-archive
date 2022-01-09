@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,825 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,829 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 99 | [Good Good Father \- Live](https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [A Live Worship Experience](https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq) | 6:19 |
 | 100 | [Great Is Thy Faithfulness \(Beginning to End\) \[feat\. Mike Weaver\] \(feat\. Mike Weaver\)](https://open.spotify.com/track/1W5mifA8dmXAkeich4GPFK) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Mike Weaver](https://open.spotify.com/artist/33j78Z72E74iBDS7e2dFiV) | [Great Is Thy Faithfulness \(Beginning to End\) \[feat\. Mike Weaver\] \(feat\. Mike Weaver\)](https://open.spotify.com/album/4cmrl2U9KdiH2Cz458B8QS) | 4:10 |
 
-Snapshot ID: `MTY0MTY4OTIyOCwwMDAwMDAwMGYwYjUxN2NjZWE2MzkwNTVlYmRkYzE2MzQ2YWU5ZmU0`
+Snapshot ID: `MTY0MTY5MjE4MSwwMDAwMDAwMGYwYjUxN2NjZWE2MzkwNTVlYmRkYzE2MzQ2YWU5ZmU0`

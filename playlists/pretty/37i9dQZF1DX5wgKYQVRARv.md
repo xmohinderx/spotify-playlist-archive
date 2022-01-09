@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Dream Theater
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,228 likes - 130 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,225 likes - 130 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 129 | [Tyrant](https://open.spotify.com/track/4mmI2beTmMfBnegoggG9qP) | [Daniel Tompkins](https://open.spotify.com/artist/5n5iBDC9dOljWGwj7BrdZt) | [Ruins](https://open.spotify.com/album/4Owqli40kcZiHP1svqtUAX) | 4:56 |
 | 130 | [Movement](https://open.spotify.com/track/7oZD4faDzsFjH9I6pdaB8M) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Movement](https://open.spotify.com/album/3rCaV1WaUmjV8HHbV8eTRb) | 4:24 |
 
-Snapshot ID: `MTY0MTY4OTA5NywwMDAwMDAwMDM4YWJiYmZkMTQ1NGNkNGUwMGFhMDlkNGFiMzZkMmIx`
+Snapshot ID: `MTY0MTY5MjA0OCwwMDAwMDAwMDM4YWJiYmZkMTQ1NGNkNGUwMGFhMDlkNGFiMzZkMmIx`

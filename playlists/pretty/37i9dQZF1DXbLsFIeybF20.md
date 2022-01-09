@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,522 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,521 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 49 | [Everybody's Talking About Sammy](https://open.spotify.com/track/0woTQyH6ECqlWzeR48tUUX) | [Sam Morgan's Jazz Band](https://open.spotify.com/artist/33blhBVeWDbTWOLWkKbrxH) | [1920s: The Jazz Age In New Orleans](https://open.spotify.com/album/3ABkDvfwJiHsCxKabCQ9Nl) | 2:43 |
 | 50 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 
-Snapshot ID: `MTY0MTY4OTIyNywwMDAwMDAwMDlmODAwYzliNTE2MTUyZjM1ZmU2YTA5Y2Q4NDM2ZmNl`
+Snapshot ID: `MTY0MTY5MjE4MCwwMDAwMDAwMDlmODAwYzliNTE2MTUyZjM1ZmU2YTA5Y2Q4NDM2ZmNl`

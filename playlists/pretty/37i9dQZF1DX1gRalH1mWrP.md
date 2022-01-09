@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 
 > All the hits you'll need to make your summer sizzle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,655 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,654 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gRalH1mWrP.md) - [plain]
 | 99 | [Back To Me](https://open.spotify.com/track/2qe9Jaoe7fNZhNHOUlmtH7) | [Dan Talevski](https://open.spotify.com/artist/0Vu4A064M7J86SoMA0nrJH), [RadioClub](https://open.spotify.com/artist/55VEENeFJiaUCpKJQkHarb) | [Back To Me](https://open.spotify.com/album/1YmFilXxerYUKK68rBd7c1) | 2:58 |
 | 100 | [Demeanor \(feat\. Dua Lipa\)](https://open.spotify.com/track/3DMs7bahbQTnoxCjgP7qoK) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:04 |
 
-Snapshot ID: `MTY0MTY4ODk4MSwwMDAwMDAwMDMyZDBmMjYwMzIwYTI0OGNlMWE0ZTZjNWE3NzVlZDQ4`
+Snapshot ID: `MTY0MTY5MTkzMSwwMDAwMDAwMDMyZDBmMjYwMzIwYTI0OGNlMWE0ZTZjNWE3NzVlZDQ4`

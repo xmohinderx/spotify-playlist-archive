@@ -1,13 +1,29 @@
 {
   "description": "The pop leaning side of 2000s indie. Cover: Phoenix",
   "name": "Indie Pop 2000s",
-  "num_followers": 252583,
+  "num_followers": 252584,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDQ3ODU4NCwwMDAwMDAwOTAwMDAwMTc2ZjgwMTAwZTgwMDAwMDE2ZjExNjgxZDI1",
+  "snapshot_id": "MTY0MTY5MjEzNCwwMDAwMDAwMDIyOWM1MzQ3NDcwY2M5NGNmNzQ2ZGI4ZTQwYTBlYjM5",
   "tracks": [
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
     {
       "added_at": "2021-01-12 19:09:44",
       "album": {
@@ -23,6 +39,70 @@
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Wolfgang Amadeus Phoenix",
+        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Miike Snow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2cOCunrzyHVpTrTwSIKRbt"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
+        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 232690,
+      "name": "40 Day Dream - 2019 - Remaster",
+      "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -55,6 +135,22 @@
       "duration_ms": 173693,
       "name": "Rawnald Gregory Erickson the Second",
       "url": "https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -139,22 +235,6 @@
     {
       "added_at": "2021-01-12 19:09:44",
       "album": {
-        "name": "Oh, Inverted World",
-        "url": "https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 231173,
-      "name": "New Slang",
-      "url": "https://open.spotify.com/track/2cP37n7TZEe0oBxCbZu0KA"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
         "name": "Up from Below",
         "url": "https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32"
       },
@@ -183,6 +263,22 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/3FM33HqRlV7J1QJoPOnd2u"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Oh, Inverted World",
+        "url": "https://open.spotify.com/album/6tMeipxbqiKnp7F368cwsi"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 231173,
+      "name": "New Slang",
+      "url": "https://open.spotify.com/track/2cP37n7TZEe0oBxCbZu0KA"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -247,22 +343,6 @@
       "duration_ms": 179360,
       "name": "People Say",
       "url": "https://open.spotify.com/track/1Hle8Xb0v0CE4xJR8Ezr89"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
-        "name": "Up From Below (10th Anniversary Edition) [2019 - Remaster]",
-        "url": "https://open.spotify.com/album/71eRIPUemoGlRpNryhlZjU"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 232690,
-      "name": "40 Day Dream - 2019 - Remaster",
-      "url": "https://open.spotify.com/track/4ek3pPdfvIbPxynmlisI0k"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -395,22 +475,6 @@
     {
       "added_at": "2021-01-12 19:09:44",
       "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -487,22 +551,6 @@
       "duration_ms": 364613,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/7Bo0xLcXWx3pdhqwthqGaz"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
-        "name": "Wolfgang Amadeus Phoenix",
-        "url": "https://open.spotify.com/album/0IQbQC6V4UuHLcgO9Yt3uu"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Lisztomania",
-      "url": "https://open.spotify.com/track/7hwcojGiRqYm100tSmpZE3"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -603,38 +651,6 @@
     {
       "added_at": "2021-01-12 19:09:44",
       "album": {
-        "name": "Miike Snow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/60qoUhwjHanuH4uO7ik4r5"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2cOCunrzyHVpTrTwSIKRbt"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
-        "name": "Transatlanticism",
-        "url": "https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "The New Year",
-      "url": "https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -711,6 +727,22 @@
       "duration_ms": 234106,
       "name": "Smile Like You Mean It",
       "url": "https://open.spotify.com/track/4kAgnAL4WKx7YqnlL2fvMh"
+    },
+    {
+      "added_at": "2021-01-12 19:09:44",
+      "album": {
+        "name": "Transatlanticism",
+        "url": "https://open.spotify.com/album/2sfLsbSsDm780Llr9NWHQz"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "The New Year",
+      "url": "https://open.spotify.com/track/6Glv3rhKQ5Lo8wBzSC4IGA"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -807,22 +839,6 @@
       "duration_ms": 285920,
       "name": "Help I'm Alive",
       "url": "https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
-      },
-      "artists": [
-        {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
     },
     {
       "added_at": "2021-01-12 19:09:44",
@@ -1195,22 +1211,6 @@
       "duration_ms": 312280,
       "name": "Young Liars",
       "url": "https://open.spotify.com/track/2x24uEfWPzORC6r7FdjBFz"
-    },
-    {
-      "added_at": "2021-01-12 19:09:44",
-      "album": {
-        "name": "Sigh No More",
-        "url": "https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "Little Lion Man",
-      "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9LbdoYID5v7"

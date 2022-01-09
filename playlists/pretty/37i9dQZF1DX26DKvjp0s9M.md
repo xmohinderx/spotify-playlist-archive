@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 
 > All your indie favorites\. Cover: Mac DeMarco
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,531 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,544 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26DKvjp0s9M.md) - [plain]
 | 99 | [The Book of Love](https://open.spotify.com/track/6UGpcXcENaUqQKPc6oqOe4) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2js3lkzAjWpD656NK7ZaJX) | 2:42 |
 | 100 | [The Barrel](https://open.spotify.com/track/04XeEuHyG4Z3NKY1zgAYEO) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/0QNJa03XQeMOuQhi9izThh) | 4:59 |
 
-Snapshot ID: `MTY0MTY4ODk5NiwwMDAwMDAwMDI1N2ZhNjFhN2JjYmVkNDFlM2I3MDJlZGE2ZWIyNTQw`
+Snapshot ID: `MTY0MTY5MTk0NSwwMDAwMDAwMDI1N2ZhNjFhN2JjYmVkNDFlM2I3MDJlZGE2ZWIyNTQw`

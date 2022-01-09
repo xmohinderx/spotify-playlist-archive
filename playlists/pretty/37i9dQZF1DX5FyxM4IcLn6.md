@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 63rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,495 likes - 299 songs - 21 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,496 likes - 299 songs - 21 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,4 +308,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 298 | [Bathroom Dance](https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Joker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ) | 2:08 |
 | 299 | [Trust](https://open.spotify.com/track/0zoyXl2r0bMc425cS4f1Zd) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:06 |
 
-Snapshot ID: `MTY0MTY4OTA3OCwwMDAwMDAwMGIyYjM1ZDdjMGRkNjdmYWEwYWFiYmFjMzVmNzY0Mzgz`
+Snapshot ID: `MTY0MTY5MjAyOCwwMDAwMDAwMGIyYjM1ZDdjMGRkNjdmYWEwYWFiYmFjMzVmNzY0Mzgz`

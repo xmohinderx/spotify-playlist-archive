@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 107 | [club](https://open.spotify.com/track/0SzOCqaLfsLODI4blj7cbx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [kelsea](https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ) | 3:01 |
 | 108 | [So Far So Good](https://open.spotify.com/track/3cIiJErQHF9NUcp6DwEOGB) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [So Far So Good](https://open.spotify.com/album/5wx6ZdqqOrQSUUIh6tYRTh) | 2:41 |
 
-Snapshot ID: `MTY0MTY4OTIxMSwwMDAwMDAwMGJlNDVmZmQ4YTcwZDYxMGQwNWVkNWFmNzJmNTA2NDQ4`
+Snapshot ID: `MTY0MTY5MjE2NCwwMDAwMDAwMGJlNDVmZmQ4YTcwZDYxMGQwNWVkNWFmNzJmNTA2NDQ4`

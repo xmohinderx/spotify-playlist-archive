@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,280,057 likes - 100 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,280,087 likes - 100 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [Give Into You](https://open.spotify.com/track/5GvdWteb7cK1tKP1GsNWZI) | [Marcus Santoro](https://open.spotify.com/artist/0cIOMm0D5wSyXMTcvnElUz), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [A New Day EP](https://open.spotify.com/album/6RTewADm1CSSTMzp3MnpfD) | 3:13 |
 | 100 | [Afterglow \- CYA Remix](https://open.spotify.com/track/06GETobdVrLdRpzoc2AnKW) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ), [CYA](https://open.spotify.com/artist/2HFWySRmIs8TiKMMfcLN1g) | [Afterglow \(The Remixes\)](https://open.spotify.com/album/53NNYJLHlAWooYQ2wVFLsm) | 4:38 |
 
-Snapshot ID: `MTY0MTY4OTEwNiwwMDAwMDAwMGY2M2U5ZWFhNWVmYTY0NmI5N2UxZGExMWY4ODk2M2E1`
+Snapshot ID: `MTY0MTY5MjA1OCwwMDAwMDAwMGY2M2U5ZWFhNWVmYTY0NmI5N2UxZGExMWY4ODk2M2E1`

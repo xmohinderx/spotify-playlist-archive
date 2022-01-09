@@ -1,13 +1,49 @@
 {
   "description": "The perfect soundtrack to the holiday season!",
   "name": "Christmas in Canada",
-  "num_followers": 120146,
+  "num_followers": 120144,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTMxODI5MiwwMDAwMDA2MjAwMDAwMTdlMjYzMTljZDIwMDAwMDE3ZDAxNmI1Nzhm",
+  "snapshot_id": "MTY0MTY5MjAzNiwwMDAwMDAwMDc1OGJiZTdhZmYzODZlOTYwYTkxZmExYjE2NGRkOGYy",
   "tracks": [
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 159629,
+      "name": "Let It Snow! - 10th Anniversary",
+      "url": "https://open.spotify.com/track/2EmEXCi8ue7p5Xqmqz10kW"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "O Holy Night (feat. The Tenors)",
+        "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        },
+        {
+          "name": "The Tenors",
+          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
+        }
+      ],
+      "duration_ms": 259397,
+      "name": "O Holy Night (feat. The Tenors)",
+      "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
+    },
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
@@ -23,6 +59,22 @@
       "duration_ms": 179160,
       "name": "Please Come Home For Christmas",
       "url": "https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/2GaVIPbClrBg756B7NZret"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Ell",
+          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
+        }
+      ],
+      "duration_ms": 186820,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -47,6 +99,42 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Joy to the World",
+        "url": "https://open.spotify.com/album/61i2xsCv4xblemUmhtRnGh"
+      },
+      "artists": [
+        {
+          "name": "Hunter Brothers",
+          "url": "https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "What I See",
+      "url": "https://open.spotify.com/track/3vdKhieD57HDrBx0wyMyYh"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        },
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z"
       },
@@ -59,6 +147,22 @@
       "duration_ms": 207720,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Snow Place Like Home",
+        "url": "https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8"
+      },
+      "artists": [
+        {
+          "name": "Jojo Mason",
+          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
+        }
+      ],
+      "duration_ms": 200998,
+      "name": "Snow Place Like Home",
+      "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -95,6 +199,22 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
+        "name": "Christmas Is Hittin' Me Different",
+        "url": "https://open.spotify.com/album/4dU3Oj6Z49rIyJzEpU5O80"
+      },
+      "artists": [
+        {
+          "name": "Steven Lee Olsen",
+          "url": "https://open.spotify.com/artist/5MW08rvyz59mdceF4urxXO"
+        }
+      ],
+      "duration_ms": 200070,
+      "name": "Christmas Is Hittin' Me Different",
+      "url": "https://open.spotify.com/track/1MjT5Ye12aNXQDyJB4aBHX"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
         "name": "Little Drummer Boy",
         "url": "https://open.spotify.com/album/1PnogosIABFgWFOVRwv6Aj"
       },
@@ -123,6 +243,22 @@
       "duration_ms": 148317,
       "name": "Santa Claus Is Coming to Town",
       "url": "https://open.spotify.com/track/7eyKJEA8BQLxT5VEY93Gdb"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Amero Little Christmas",
+        "url": "https://open.spotify.com/album/0jXf1Ua0zJdfKgOo4dLGCy"
+      },
+      "artists": [
+        {
+          "name": "Don Amero",
+          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
+        }
+      ],
+      "duration_ms": 221733,
+      "name": "Sometimes A Whisper",
+      "url": "https://open.spotify.com/track/1KHenB2fugJ57aKecUw0fZ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -319,22 +455,6 @@
       "duration_ms": 196253,
       "name": "The Christmas Song",
       "url": "https://open.spotify.com/track/2EowIji0K5nyZv3PLt2q3F"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "It's Beginning To Look A Lot Like Christmas",
-        "url": "https://open.spotify.com/album/2GaVIPbClrBg756B7NZret"
-      },
-      "artists": [
-        {
-          "name": "Lindsay Ell",
-          "url": "https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q"
-        }
-      ],
-      "duration_ms": 186820,
-      "name": "It's Beginning To Look A Lot Like Christmas",
-      "url": "https://open.spotify.com/track/3hrl7X2gSOJtTrK8qFpPHF"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -711,26 +831,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "O Holy Night (feat. The Tenors)",
-        "url": "https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l"
-      },
-      "artists": [
-        {
-          "name": "Tyler Shaw",
-          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
-        },
-        {
-          "name": "The Tenors",
-          "url": "https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a"
-        }
-      ],
-      "duration_ms": 259397,
-      "name": "O Holy Night (feat. The Tenors)",
-      "url": "https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Jolly Old Saint Nicholas",
         "url": "https://open.spotify.com/album/2WvlljI2jFK7CuyXUpSghq"
       },
@@ -839,22 +939,6 @@
       "duration_ms": 228133,
       "name": "It's A Marshmallow World",
       "url": "https://open.spotify.com/track/5Ifp9kgVhBFjiw5HKt4OLn"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Amero Little Christmas",
-        "url": "https://open.spotify.com/album/0jXf1Ua0zJdfKgOo4dLGCy"
-      },
-      "artists": [
-        {
-          "name": "Don Amero",
-          "url": "https://open.spotify.com/artist/6vHn9yt7XU0dwlw0677xxs"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "Sometimes A Whisper",
-      "url": "https://open.spotify.com/track/1KHenB2fugJ57aKecUw0fZ"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1031,26 +1115,6 @@
       "duration_ms": 147134,
       "name": "Rise Up Shepherd",
       "url": "https://open.spotify.com/track/4wgOnJQFLmSv6rIdErrJmp"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        },
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -1383,22 +1447,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Snow Place Like Home",
-        "url": "https://open.spotify.com/album/7dhOMOFSDR1kNvknQCbhJ8"
-      },
-      "artists": [
-        {
-          "name": "Jojo Mason",
-          "url": "https://open.spotify.com/artist/4IXAxCHuarvDtv7K0NS6x6"
-        }
-      ],
-      "duration_ms": 200998,
-      "name": "Snow Place Like Home",
-      "url": "https://open.spotify.com/track/2MMoRePvDXAP1BAEF2TV3s"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "Hangover For Christmas",
         "url": "https://open.spotify.com/album/5BvP4OjFYbqwRGdInh5aZC"
       },
@@ -1623,54 +1671,6 @@
       "duration_ms": 224026,
       "name": "It Snowed - Remastered",
       "url": "https://open.spotify.com/track/7eRH77hH1hT3jMZxfaYT38"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Downtown Christmas Eve",
-        "url": "https://open.spotify.com/album/0rn6jxkZobVPhpeyXhEYtJ"
-      },
-      "artists": [
-        {
-          "name": "Jenn Grant",
-          "url": "https://open.spotify.com/artist/4ll7UpFe9fDtA0g16Vgf5L"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Downtown Christmas Eve",
-      "url": "https://open.spotify.com/track/47rFim9XdQwbseI60niP25"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "They Don't Make Them Like That Anymore",
-        "url": "https://open.spotify.com/album/74NvTQVNn1fjstEbLfp654"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "It Came Upon a Midnight Clear",
-      "url": "https://open.spotify.com/track/337C5bXvnP66TfAWUNANDz"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Holding off Christmas",
-        "url": "https://open.spotify.com/album/4C4WqyXFyP5uTrGACUx9cG"
-      },
-      "artists": [
-        {
-          "name": "Paper Lions",
-          "url": "https://open.spotify.com/artist/3cxTadiWXDzuRXsRXHx6YI"
-        }
-      ],
-      "duration_ms": 165141,
-      "name": "Holding off Christmas",
-      "url": "https://open.spotify.com/track/1HTOtuAOrl9bdFl9SOEo6e"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5T5XRP5VmUL"

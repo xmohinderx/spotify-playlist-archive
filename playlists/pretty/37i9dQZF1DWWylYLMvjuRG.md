@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 
 > The biggest party hits of the 2010s\. Cover: Pitbull.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,269 likes - 150 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,341 likes - 150 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWylYLMvjuRG.md) - [plain]
 | 149 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW) | 3:31 |
 | 150 | [Ocean \(feat\. Khalid\) \- David Guetta Remix](https://open.spotify.com/track/2Ceq5Ty6rJqazoZIWyS0Vc) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ocean \(feat\. Khalid\) \[David Guetta Remix\]](https://open.spotify.com/album/2lYxgMaJP2bGy4dhIToqzS) | 3:15 |
 
-Snapshot ID: `MTY0MTY4ODg3NywwMDAwMDAwMDAyYzI2M2M2NTIzODI3ODc1YjQ5MWY3YTE5MDAzNjJj`
+Snapshot ID: `MTY0MTY5MTgyMywwMDAwMDAwMDAyYzI2M2M2NTIzODI3ODc1YjQ5MWY3YTE5MDAzNjJj`

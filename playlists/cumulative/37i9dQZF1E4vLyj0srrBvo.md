@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/18KhvyGVGWgFiASCWVYL67)
 
-> With Allie X, Washed Out, HANA and more
+> With Alice Glass, Crystal Castles, Purity Ring and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

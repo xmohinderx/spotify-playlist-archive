@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/7516uBfjNbecLTG6tnzPU5)
 
-> With Patternist, Jet Black Alley Cat, Lowswimmer and more
+> With Ollie Wride, Hardcastle, Kalax and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

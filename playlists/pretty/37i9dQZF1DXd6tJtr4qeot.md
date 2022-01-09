@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > Punk rock from the 90s and 00s that you need in your life\. Cover: Rancid
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,304 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,303 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 49 | [I Won't Lie Down](https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Face to Face \(Remastered\)](https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY) | 3:17 |
 | 50 | [Wild World](https://open.spotify.com/track/66jV8hWqB055htIgQ2j7Ni) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Blow In The Wind](https://open.spotify.com/album/3PqM9z7i2KWX7ZXfuSMvGG) | 2:30 |
 
-Snapshot ID: `MTYzMzQ2NjQxMywwMDAwMDAyYjAwMDAwMTdjNTIyZjcwZWUwMDAwMDE3YzAzMTRmY2Jm`
+Snapshot ID: `MTY0MTY5MjIxNywwMDAwMDAwMGE5YTBkMWEyMjZiMDM2YjZiZWJlYWVlMDQwNzBiYmRi`

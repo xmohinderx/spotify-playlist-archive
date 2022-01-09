@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: María Cristina Plata
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,380 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,383 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Verde Nocturno](https://open.spotify.com/track/5jf5mhtgQ3uaLE8wv3Xg0K) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Verde Nocturno](https://open.spotify.com/album/7zFM5PeNi4RbgiVcuDjxO0) | 3:14 |
 | 100 | [Toca](https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Toca](https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs) | 3:30 |
 
-Snapshot ID: `MTY0MTY4OTI1MSwwMDAwMDAwMDI3NjU2ZTY5Njg3ZWY0MDI2YjAxNWJhNzY2YzNlZTQy`
+Snapshot ID: `MTY0MTY5MjIwNSwwMDAwMDAwMDI3NjU2ZTY5Njg3ZWY0MDI2YjAxNWJhNzY2YzNlZTQy`

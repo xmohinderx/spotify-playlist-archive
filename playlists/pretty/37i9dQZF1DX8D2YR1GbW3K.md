@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,956 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,966 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Thunder \- Original Mix](https://open.spotify.com/track/092dz2yORKaJpC05ZlN9ME) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Thunder](https://open.spotify.com/album/5rUoj6gJCE7aLq562hyIKd) | 4:58 |
 | 125 | [This Is What It Feels Like \(feat\. Trevor Guthrie\)](https://open.spotify.com/track/6AHlbY79uUGvQx9xzoR9oy) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Intense](https://open.spotify.com/album/5DJDZhELvThjMhhEUJjSR3) | 3:23 |
 
-Snapshot ID: `MTY0MTY4OTE1NCwwMDAwMDAwMDdhNDJlMTIwNTc0MTk4ZjQwOGM0YTk0YTBlODZjODdi`
+Snapshot ID: `MTY0MTY5MjEwNSwwMDAwMDAwMDdhNDJlMTIwNTc0MTk4ZjQwOGM0YTk0YTBlODZjODdi`

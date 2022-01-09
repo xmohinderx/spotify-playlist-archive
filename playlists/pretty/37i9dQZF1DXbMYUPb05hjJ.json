@@ -1,12 +1,12 @@
 {
   "description": "Classic tracks with roots in post-punk, garage rock, and new wave. Cover: The Strokes",
   "name": "Garage Rock Revival",
-  "num_followers": 574041,
+  "num_followers": 574058,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTY4OTIyNywwMDAwMDAwMDNjZWMwMmQ0MDY3N2QyYjhiNWQwMzMwODkyZTk5M2Yw",
+  "snapshot_id": "MTY0MTY5MjE4MSwwMDAwMDAwMDNjZWMwMmQ0MDY3N2QyYjhiNWQwMzMwODkyZTk5M2Yw",
   "tracks": [
     {
       "added_at": "2020-08-12 16:45:28",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
         "name": "Broken Boy Soldiers",
         "url": "https://open.spotify.com/album/4o1jHCrMnkiRMdFpyCnNaH"
       },
@@ -139,6 +123,22 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6YYhMNDgi37WNGtCDis6PT"
       },
@@ -167,38 +167,6 @@
       "duration_ms": 220426,
       "name": "When You Were Young",
       "url": "https://open.spotify.com/track/70wYA8oYHoMzhRRkARoMhU"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 193506,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
-        "name": "Our Love To Admire",
-        "url": "https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "Rest My Chemistry",
-      "url": "https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -247,6 +215,38 @@
       "duration_ms": 153160,
       "name": "Main Offender",
       "url": "https://open.spotify.com/track/4N9NC8JCz2hSimtbspc6Ng"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193506,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "Our Love To Admire",
+        "url": "https://open.spotify.com/album/49agqemJmnDfTA8nqod1qy"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "Rest My Chemistry",
+      "url": "https://open.spotify.com/track/4iLG33TT4HaVILLC0q4rEn"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
-        "name": "Show Your Bones",
-        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Gold Lion",
-      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
         "name": "A Certain Trigger",
         "url": "https://open.spotify.com/album/5AMY7GZtT4hz0h4O7OBUz4"
       },
@@ -535,22 +519,6 @@
       "duration_ms": 200346,
       "name": "Apply Some Pressure",
       "url": "https://open.spotify.com/track/19503qDaxgCdPL2BhJngij"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
-        "name": "Best Of The Vines",
-        "url": "https://open.spotify.com/album/1SyhRsDAEiQSc4en7Ljh40"
-      },
-      "artists": [
-        {
-          "name": "The Vines",
-          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
-        }
-      ],
-      "duration_ms": 155093,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0NsUvQVaWzxu1Sb8ou6sLv"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -583,6 +551,38 @@
       "duration_ms": 178266,
       "name": "Don't Look Back into the Sun",
       "url": "https://open.spotify.com/track/3M0YwlWNPX8cfWQjYsXTpu"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "Show Your Bones",
+        "url": "https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Gold Lion",
+      "url": "https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "Best Of The Vines",
+        "url": "https://open.spotify.com/album/1SyhRsDAEiQSc4en7Ljh40"
+      },
+      "artists": [
+        {
+          "name": "The Vines",
+          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
+        }
+      ],
+      "duration_ms": 155093,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0NsUvQVaWzxu1Sb8ou6sLv"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -715,22 +715,6 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
-        "name": "Holy Fire",
-        "url": "https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad"
-      },
-      "artists": [
-        {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "My Number",
-      "url": "https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
         "name": "Make Up The Breakdown",
         "url": "https://open.spotify.com/album/6xmjx0G7hJ3r2erSAON4cu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 192311,
       "name": "Nobody Move, Nobody Get Hurt",
       "url": "https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "Holy Fire",
+        "url": "https://open.spotify.com/album/0PIR7PK8DMB4pgoxq7F9Ad"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "My Number",
+      "url": "https://open.spotify.com/track/4c9WmjVlQMr0s1IjbYO52Z"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -1083,38 +1083,6 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
-        "name": "Retreat EP",
-        "url": "https://open.spotify.com/album/5otNUBLfvV71oI51badu4u"
-      },
-      "artists": [
-        {
-          "name": "The Rakes",
-          "url": "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
-        }
-      ],
-      "duration_ms": 107360,
-      "name": "22 Grand Job - Original Mix",
-      "url": "https://open.spotify.com/track/1HWtRDjI59TZSbpFmAKSKG"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
-        "name": "The Physical World",
-        "url": "https://open.spotify.com/album/1XNG5bdaBXMKskiPM6xBRO"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Virgins",
-      "url": "https://open.spotify.com/track/40iBAAY8MupPblwUUL6AiJ"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
         "name": "Our Earthly Pleasures",
         "url": "https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ"
       },
@@ -1143,6 +1111,38 @@
       "duration_ms": 225760,
       "name": "Beat the Devil's Tattoo",
       "url": "https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "Retreat EP",
+        "url": "https://open.spotify.com/album/5otNUBLfvV71oI51badu4u"
+      },
+      "artists": [
+        {
+          "name": "The Rakes",
+          "url": "https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1"
+        }
+      ],
+      "duration_ms": 107360,
+      "name": "22 Grand Job - Original Mix",
+      "url": "https://open.spotify.com/track/1HWtRDjI59TZSbpFmAKSKG"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "The Physical World",
+        "url": "https://open.spotify.com/album/1XNG5bdaBXMKskiPM6xBRO"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Virgins",
+      "url": "https://open.spotify.com/track/40iBAAY8MupPblwUUL6AiJ"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
-        "name": "Near To The Wild Heart Of Life",
-        "url": "https://open.spotify.com/album/26ZXAfEXcFBGqK7rLbCraB"
-      },
-      "artists": [
-        {
-          "name": "Japandroids",
-          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
-        }
-      ],
-      "duration_ms": 297120,
-      "name": "Near To The Wild Heart Of Life",
-      "url": "https://open.spotify.com/track/6YT8qUjo2HeiGTnns4uJX0"
-    },
-    {
-      "added_at": "2020-08-12 16:45:28",
-      "album": {
         "name": "Static Delusions And Stone-Still Days",
         "url": "https://open.spotify.com/album/4BuL0d1ZIf8ZWrFDlFxdw7"
       },
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2020-08-12 16:45:28",
       "album": {
-        "name": "The Woods",
-        "url": "https://open.spotify.com/album/0U6Z6EVDwVMqwmr2zEcH4L"
+        "name": "Near To The Wild Heart Of Life",
+        "url": "https://open.spotify.com/album/26ZXAfEXcFBGqK7rLbCraB"
       },
       "artists": [
         {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+          "name": "Japandroids",
+          "url": "https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30"
         }
       ],
-      "duration_ms": 181493,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/2TV1CEAFvQiiLhqxUOCQnC"
+      "duration_ms": 297120,
+      "name": "Near To The Wild Heart Of Life",
+      "url": "https://open.spotify.com/track/6YT8qUjo2HeiGTnns4uJX0"
     },
     {
       "added_at": "2020-08-12 16:45:28",
@@ -1383,6 +1367,22 @@
       "duration_ms": 255880,
       "name": "Human Performance",
       "url": "https://open.spotify.com/track/3iyYmoZMI4o0xW0nCLwAT3"
+    },
+    {
+      "added_at": "2020-08-12 16:45:28",
+      "album": {
+        "name": "The Woods",
+        "url": "https://open.spotify.com/album/0U6Z6EVDwVMqwmr2zEcH4L"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/2TV1CEAFvQiiLhqxUOCQnC"
     },
     {
       "added_at": "2020-08-12 16:45:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 
 > Easy listening soft pop hits for a pleasant day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,428 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,424 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BzILRveYHb.md) - [plain]
 | 59 | [You and I Both](https://open.spotify.com/track/2mKjs6s0Z1imKKb6gOk628) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come](https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1) | 3:40 |
 | 60 | [Hanging By A Moment](https://open.spotify.com/track/0wqOReZDnrefefEsrIGeR4) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/1VKNHcrUppE8i5oAhg4o6k) | 3:36 |
 
-Snapshot ID: `MTY0MTY4ODk3MiwwMDAwMDAwMDVhYTBiOTI4Yjc1NTVjY2ZjYTdjN2FkN2MwMDJjOTBm`
+Snapshot ID: `MTY0MTY5MTkyMSwwMDAwMDAwMDVhYTBiOTI4Yjc1NTVjY2ZjYTdjN2FkN2MwMDJjOTBm`

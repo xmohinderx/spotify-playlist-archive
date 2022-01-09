@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,528 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,529 likes - 100 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 99 | [So](https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [So](https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS) | 4:39 |
 | 100 | [Junkyard](https://open.spotify.com/track/0e6DNQUhI8lQKxmpY3sgA3) | [Madd3e](https://open.spotify.com/artist/6QnSsfZW8okVlHBenG0Nu2) | [Junkyard](https://open.spotify.com/album/1kcSDURv7MX0D939GVGbNE) | 3:33 |
 
-Snapshot ID: `MTY0MTY4ODgyOCwwMDAwMDAwMGM4NDI0YjZiMGYxZmNhOGZkMTViZDFmYjBhNzFiMTk5`
+Snapshot ID: `MTY0MTY5MTc3MywwMDAwMDAwMGM4NDI0YjZiMGYxZmNhOGZkMTViZDFmYjBhNzFiMTk5`

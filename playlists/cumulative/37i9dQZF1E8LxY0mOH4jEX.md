@@ -2,7 +2,7 @@
 
 ### [24K Magic Radio](https://open.spotify.com/playlist/1BhMYZPvWoqkovqn1vMjMs)
 
-> With Bruno Mars, DNCE, Bryson Tiller, Young Thug and more
+> With Bruno Mars, James Hype, Shawn Mendes, Michael Jackson and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,603 likes - 250 songs - 15 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,608 likes - 250 songs - 15 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 249 | [The Chocolate Cake Song](https://open.spotify.com/track/6HixN5KQdFqqPwbIgT9yXh) | [Wes Fowler](https://open.spotify.com/artist/5ybg4SrLDI6OjxoQztI7aS) | [The Chocolate Cake Song](https://open.spotify.com/album/4sShHWJ8Z7hMAtoBKJIWs8) | 2:38 |
 | 250 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 |
 
-Snapshot ID: `MTY0MTY4OTI1NiwwMDAwMDAwMDE1NTk1MGVjOTM1ZGE5YjM0ZjRkMjI1ZTIzMTYxZjk3`
+Snapshot ID: `MTY0MTY5MjIxMCwwMDAwMDAwMDE1NTk1MGVjOTM1ZGE5YjM0ZjRkMjI1ZTIzMTYxZjk3`

@@ -2,7 +2,7 @@
 
 ### [The Midnight Radio](https://open.spotify.com/playlist/2T4bEFEfvvK4qvB1iHmD1n)
 
-> With Kazukii, September 87, Lucy In Disguise and more
+> With Billy Mays Band, Ollie Wride, The Bad Dreamers and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Endless Summer](https://open.spotify.com/track/2jq5avJCdvIzelo7PiZNjW) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer](https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8) | 6:45 | 2021-12-03 | 2022-01-07 |
 | [Enigma](https://open.spotify.com/track/1i3F8GA8NrSkvUi7LSkacK) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Solai](https://open.spotify.com/album/1bYzU5vcNDHjnsJIpBtPvf) | 3:18 | 2021-12-01\* | 2022-01-04 |
 | [Enjoy the Silence](https://open.spotify.com/track/51tWcK9KRc2WyleZ82AGT4) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Enjoy the Silence](https://open.spotify.com/album/0D6Oz5XRlX5HXYigC9FPTT) | 4:49 | 2021-12-10 | 2021-12-18 |
-| [Erased](https://open.spotify.com/track/200Cyt2C6ZNPtiivdz4Dhr) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [Erased](https://open.spotify.com/album/704GpfscSr5sue1aG9KFhV) | 3:02 | 2022-01-01 |  |
+| [Erased](https://open.spotify.com/track/200Cyt2C6ZNPtiivdz4Dhr) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Kazukii](https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga) | [Erased](https://open.spotify.com/album/704GpfscSr5sue1aG9KFhV) | 3:02 | 2022-01-01 | 2022-01-09 |
 | [Everything](https://open.spotify.com/track/24hghyOlo1dTQ9sv2wufpk) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk) | [Atlas](https://open.spotify.com/album/30JbhlAXrxQH4hfjdFnhSR) | 4:20 | 2021-12-20 | 2021-12-25 |
 | [Explorers](https://open.spotify.com/track/5fZ3BmBaq29MYI2Xsb5FBR) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Kids](https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy) | 4:16 | 2021-12-16 | 2022-01-08 |
 | [Faces](https://open.spotify.com/track/27Ti4lEygnfKWu04qwVCG3) | [Electric Youth](https://open.spotify.com/artist/45YbCFM0an4hsEXMdQ4k3b) | [Faces](https://open.spotify.com/album/2BdwswnQyakzm7ggsXyx1g) | 4:13 | 2021-12-01\* | 2022-01-05 |
@@ -145,7 +145,7 @@
 | [Omega](https://open.spotify.com/track/1ijUZ5EjQWJcAPtF1ovyDT) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Omega](https://open.spotify.com/album/0HICKdrXYmwdqvfcK5GtoH) | 3:11 | 2021-12-01\* |  |
 | [On the Run](https://open.spotify.com/track/6COsFwxCkIpXBYw4iiVWH4) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r) | [Night Drive](https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i) | 5:00 | 2021-12-01\* | 2022-01-08 |
 | [One Night](https://open.spotify.com/track/0jKQVfz5Gor1oQCE7LbNKa) | [Timecop1983](https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r), [Josh Dally](https://open.spotify.com/artist/1rTWoB7Gxm4YbWfrDc4EBt) | [Faded Touch](https://open.spotify.com/album/5uTcE7JmytCntalYsfwFff) | 3:12 | 2021-12-02 |  |
-| [Out of Luck](https://open.spotify.com/track/7hm2AT479TFp2EYtvhLXxs) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Out of Luck](https://open.spotify.com/album/1jpQrGA71uihj9FfHn4BWI) | 3:08 | 2022-01-06 | 2022-01-09 |
+| [Out of Luck](https://open.spotify.com/track/7hm2AT479TFp2EYtvhLXxs) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Out of Luck](https://open.spotify.com/album/1jpQrGA71uihj9FfHn4BWI) | 3:08 | 2022-01-06 |  |
 | [Out of Time](https://open.spotify.com/track/4O6pSwn4xxx8FdBBdqeEin) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY), [PYXIS](https://open.spotify.com/artist/4ckOxQj4C9eMY3SP39ixaS), [Jay Diggs](https://open.spotify.com/artist/5jN1nNCfLoju9G0QHnxlG1) | [III](https://open.spotify.com/album/4tteTazT567N7srYWOwTG2) | 4:55 | 2021-12-04 | 2022-01-01 |
 | [Outlands](https://open.spotify.com/track/7sma3rc5a8q7hVsoFjp24L) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Outlands](https://open.spotify.com/album/7HUgBPyMHGsRjjTUAOacF0) | 4:37 | 2021-12-09 | 2022-01-09 |
 | [Outrun This!](https://open.spotify.com/track/02fSxVKwfRglhkXt03wVJg) | [Arcade High](https://open.spotify.com/artist/7fVPo8qWQK1quywHw9kMdI) | [Pixel Passion](https://open.spotify.com/album/3uDYSThuKWpeqb61ozIU3G) | 4:09 | 2021-12-01\* | 2022-01-09 |

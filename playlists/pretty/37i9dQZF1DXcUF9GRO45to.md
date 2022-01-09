@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French rock scene makes some noise! Cover: Chunk! No, Captain Chunk!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,430 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,431 likes - 70 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 69 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 |
 | 70 | [Isolation](https://open.spotify.com/track/49Mg47fyRNRHP1pt8EIw9B) | [Bryan's Magic Tears](https://open.spotify.com/artist/4HgpwARKKErmILpXm5YcST) | [Vacuum Sealed](https://open.spotify.com/album/1h6Mngi160e472DTepN8qD) | 3:54 |
 
-Snapshot ID: `MTY0MTY4OTI1MCwwMDAwMDAwMDkwNzNkY2M2ODA2MTdlNDU1Y2ZiY2Y4OGVjNGQ2Mjk4`
+Snapshot ID: `MTY0MTY5MjIwNCwwMDAwMDAwMDkwNzNkY2M2ODA2MTdlNDU1Y2ZiY2Y4OGVjNGQ2Mjk4`

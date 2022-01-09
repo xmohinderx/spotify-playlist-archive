@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 
 > The greatest female voices in blues today\. Cover: Bettye LaVette
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,348 likes - 55 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,347 likes - 55 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QB9Ys2nV17.md) - [plain]
 | 54 | [Geechee Woman](https://open.spotify.com/track/7KC0ebVIUOAlmCw83iWOYY) | [Shakura S'Aida](https://open.spotify.com/artist/1k7Twp5a4e1lULiRJy6BXw) | [Time...](https://open.spotify.com/album/66RPa84dHj7eHBG0f5MLsQ) | 4:37 |
 | 55 | [Let The Tears Roll Down](https://open.spotify.com/track/5jGTsMUMWHXrgcTHyJrLho) | [Marcia Ball](https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18) | [Presumed Innocent](https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn) | 5:43 |
 
-Snapshot ID: `MTY0MTY4OTE1OSwwMDAwMDAwMGNmNzFiYzQwMzNiNmM0NzhkNThlY2Q2MzAzZTQwY2Yz`
+Snapshot ID: `MTY0MTY5MjExMSwwMDAwMDAwMGNmNzFiYzQwMzNiNmM0NzhkNThlY2Q2MzAzZTQwY2Yz`

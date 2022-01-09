@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Paleface
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,042 likes - 120 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,051 likes - 120 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cJWWyylDuw.md) - [plain]
 | 119 | [Borderline Existence](https://open.spotify.com/track/5o7pMG40vXYImxaQGOGK5O) | [Drown This City](https://open.spotify.com/artist/0miE6U5IB1KocKNfn8Cxt7) | [Borderline Existence](https://open.spotify.com/album/7t2LxAFsO0hzvPSUFsk7XY) | 3:07 |
 | 120 | [For Whom the Banshee Cries](https://open.spotify.com/track/3JYvX4mZunGih0vQupHdX3) | [Sold Soul](https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6), [Brittney Slayes](https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0) | [For Whom the Banshee Cries](https://open.spotify.com/album/1ADZJmflFSYHCTznoAjZH5) | 6:24 |
 
-Snapshot ID: `MTY0MTY4ODk4MCwwMDAwMDAwMDM3MGEyY2M0ODk1ZTI4NzUxZGFjMGE5N2IwMTdkMzVj`
+Snapshot ID: `MTY0MTY5MTkyOSwwMDAwMDAwMDM3MGEyY2M0ODk1ZTI4NzUxZGFjMGE5N2IwMTdkMzVj`

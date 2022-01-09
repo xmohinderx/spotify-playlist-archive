@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, MPB e indie para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,848 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,849 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 59 | [Nossa Dança](https://open.spotify.com/track/6OpsskOwFTW8S2j0di6bRX) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Nossa Dança](https://open.spotify.com/album/5bYjxHTmTQbGQYzP2ddb4M) | 3:09 |
 | 60 | [Desisti do Amor](https://open.spotify.com/track/6kC160PCddAMBZkEJjqEqr) | [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Desisti do Amor](https://open.spotify.com/album/75cu8tJbb9ltoVQxucxuit) | 3:16 |
 
-Snapshot ID: `MTY0MTY4OTEzMSwwMDAwMDAwMDgzZTJjY2YwM2MzZDI0NTdmMzM1ZGI5YTI3NTdiMTU4`
+Snapshot ID: `MTY0MTY5MjA4MiwwMDAwMDAwMDgzZTJjY2YwM2MzZDI0NTdmMzM1ZGI5YTI3NTdiMTU4`

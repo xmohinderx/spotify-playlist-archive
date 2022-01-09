@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Sael.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,454 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,453 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 39 | [Me Equivoqué](https://open.spotify.com/track/7kVD4QYvh1ZnSQX8qs6Fpi) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Me Equivoqué](https://open.spotify.com/album/2gKytyP2six2Y2r0oaUsuB) | 2:46 |
 | 40 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 |
 
-Snapshot ID: `MTY0MTY4OTEyMSwwMDAwMDAwMDc0ZWIxYjFlZjY2YmMxMTc2YjE5NGU0N2EzNjE4NTAz`
+Snapshot ID: `MTY0MTY5MjA3MiwwMDAwMDAwMDc0ZWIxYjFlZjY2YmMxMTc2YjE5NGU0N2EzNjE4NTAz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > Celebrating the biggest UK house bangers\. Updated regularly\. Cover: Crazy Cousinz & Mila Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,050 likes - 79 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,053 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

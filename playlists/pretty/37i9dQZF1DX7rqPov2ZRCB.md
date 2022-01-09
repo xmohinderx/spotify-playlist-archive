@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,101 likes - 51 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,102 likes - 51 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 50 | [Yo Vivo la Vida](https://open.spotify.com/track/5JrDySmzLiwUJ4Ok4nxWif) | [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Súper Tipicazo, Vol\. 2 \(éxitos Latinos 2015\)](https://open.spotify.com/album/07TgXdw0y0gZI0wQW47Lqv) | 5:00 |
 | 51 | [Juanita Morel](https://open.spotify.com/track/2rrR9S2MVwsUpR3CvveaQH) | [Trio Reynoso](https://open.spotify.com/artist/5BvDnehJeowGzgoBbRQc3q), [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus), [Miguel Santana](https://open.spotify.com/artist/16bVKtB9DxvHGKSCgtdWnZ) | [Merengues Con el Alma](https://open.spotify.com/album/08GBA2MMo7W9p1ehpZdS7f) | 2:31 |
 
-Snapshot ID: `MTY0MTY4OTE0NiwwMDAwMDAwMGM3MTVmNGZhZGYzNDllNDNlZTNjNzI3NGNiMzZjZDli`
+Snapshot ID: `MTY0MTY5MjA5NiwwMDAwMDAwMGM3MTVmNGZhZGYzNDllNDNlZTNjNzI3NGNiMzZjZDli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > اكتشف الأغاني المصرية الجديدة! الغلاف: تامر عاشور
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,800 likes - 61 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,804 likes - 61 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

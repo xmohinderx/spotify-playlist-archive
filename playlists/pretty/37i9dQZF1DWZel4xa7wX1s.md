@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Sonali](https://open.spotify.com/track/4X00ADY8fKBjOZxfwRQeIF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Sonali](https://open.spotify.com/album/3ZZUm7c3lOzRtmWxFf59tX) | 3:30 |
 | 60 | [Shame](https://open.spotify.com/track/6pvVzR8VcSQol4EbaUrN0e) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Shake The Spirit](https://open.spotify.com/album/0YYboPBsKcVDrXiNfNIi7o) | 2:39 |
 
-Snapshot ID: `MTY0MTY4ODkzMywwMDAwMDAwMDRmYTJkNWI3ZTE5ZGQ4ZmM0NDQ1NGNlOGJiNDIxMzYw`
+Snapshot ID: `MTY0MTY5MTg4MSwwMDAwMDAwMDRmYTJkNWI3ZTE5ZGQ4ZmM0NDQ1NGNlOGJiNDIxMzYw`

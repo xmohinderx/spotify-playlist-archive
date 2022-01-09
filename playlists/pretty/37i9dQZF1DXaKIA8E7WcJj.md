@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 
 > The biggest songs of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577,321 likes - 150 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,577,342 likes - 150 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKIA8E7WcJj.md) - [plain]
 | 149 | [No Particular Place To Go \- Stereo Remix](https://open.spotify.com/track/4rS1hDNLOvY8knrYS8nySn) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Steve Hoffman](https://open.spotify.com/artist/3peHHUCiLlK224kgtFKWnK) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:44 |
 | 150 | [Build Me Up Buttercup \- Mono](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 |
 
-Snapshot ID: `MTY0MTY4OTIwMywwMDAwMDAwMDYxMDkwMzlkNmE3N2U3ZDIxMzhhMTY0ODYwYWRkNjJl`
+Snapshot ID: `MTY0MTY5MjE1NSwwMDAwMDAwMDYxMDkwMzlkNmE3N2U3ZDIxMzhhMTY0ODYwYWRkNjJl`

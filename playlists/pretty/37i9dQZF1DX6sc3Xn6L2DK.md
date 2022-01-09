@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sc3Xn6L2DK.md) - [plain]
 | 74 | [Forever Whatever](https://open.spotify.com/track/214Xr7LA7fbT9VN74raGLA) | [Jonny Fritz](https://open.spotify.com/artist/0dfNZ0xBHU3UipMv5gn9Se) | [Sweet Creep](https://open.spotify.com/album/2XtqHGtAAQemfTUyUOJx7M) | 3:25 |
 | 75 | [Let it Roll](https://open.spotify.com/track/78CNAJZ7Cx1nUjyPoOPU03) | [Sam Doores](https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj) | [Sam Doores](https://open.spotify.com/album/1SrA1hRiA8P3eKcsE5daLt) | 3:58 |
 
-Snapshot ID: `MTY0MTY4OTEyMywwMDAwMDAwMDc5ZGI4OTlhMzNmMThmOGU1M2M4N2QzYzRmMGI5Mjk3`
+Snapshot ID: `MTY0MTY5MjA3NCwwMDAwMDAwMDc5ZGI4OTlhMzNmMThmOGU1M2M4N2QzYzRmMGI5Mjk3`

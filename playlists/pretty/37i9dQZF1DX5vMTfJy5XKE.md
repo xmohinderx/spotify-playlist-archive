@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Elton John & Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,277 likes - 130 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,267 likes - 130 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 129 | [Santa Visits Everyone](https://open.spotify.com/track/2ScrK8ptkddDk998DLu9sr) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Snowman Deluxe Edition\)](https://open.spotify.com/album/2gfErXBICi3AIaEPBrideo) | 3:08 |
 | 130 | [Christmas Feels Like Home](https://open.spotify.com/track/1VqBqC0hLpNGvX60Ykhh9i) | [JiLL MARiE COOPER](https://open.spotify.com/artist/6zmm05oJvdK6XZBYYy07kF) | [Christmas Feels Like Home](https://open.spotify.com/album/6Nz6wJjdo39R7VyPYlK9jv) | 3:28 |
 
-Snapshot ID: `MTY0MTY4OTA5NywwMDAwMDAwMDg4YTQ4OTU3MGM3ODZjZmU2YjY2ZTVhYjFlMDU4OTcy`
+Snapshot ID: `MTY0MTY5MjA0OCwwMDAwMDAwMDg4YTQ4OTU3MGM3ODZjZmU2YjY2ZTVhYjFlMDU4OTcy`

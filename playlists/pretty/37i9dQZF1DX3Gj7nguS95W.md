@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 
 > New wave took the 70s punk blueprint and ran wild! Cover: Blondie
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,533 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,546 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Gj7nguS95W.md) - [plain]
 | 49 | [Oliver's Army](https://open.spotify.com/track/1GIV1YzfuFzYAoUjwx3r7W) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Armed Forces](https://open.spotify.com/album/3ZAHIjLdPoEmHGMCHtoMpq) | 2:59 |
 | 50 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 
-Snapshot ID: `MTY0MTY4OTAyNSwwMDAwMDAwMDAyOWNiYzdjZDE5NmVmYzU3Nzk1YWM0Y2QwZGJjN2Mw`
+Snapshot ID: `MTY0MTY5MTk3NiwwMDAwMDAwMDAyOWNiYzdjZDE5NmVmYzU3Nzk1YWM0Y2QwZGJjN2Mw`

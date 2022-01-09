@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Judas Priest
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,804 likes - 140 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,806 likes - 140 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,4 +149,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 | 139 | [Not the End of the Road](https://open.spotify.com/track/3h4udOQrLfWBBzB2TxFBaJ) | [Kissin' Dynamite](https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx) | [Not the End of the Road](https://open.spotify.com/album/144eh6LJbWRmUKvINbT6qg) | 3:59 |
 | 140 | [My Dystopia](https://open.spotify.com/track/2nPs2kLCJQFwx62PrYcjts) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO) | [Wall of Skulls](https://open.spotify.com/album/6iDBykFuBbSaHhnPzVH1y9) | 4:30 |
 
-Snapshot ID: `MTY0MTY4OTE5MSwwMDAwMDAwMDY2YTkwMTc5ZmMxYmNmNThmODM0OTkwYjU5NDQzOWU4`
+Snapshot ID: `MTY0MTY5MjE0MywwMDAwMDAwMDY2YTkwMTc5ZmMxYmNmNThmODM0OTkwYjU5NDQzOWU4`

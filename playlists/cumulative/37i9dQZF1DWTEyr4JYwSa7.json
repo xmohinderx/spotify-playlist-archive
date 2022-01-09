@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 136013,
       "name": "Ave maria",
       "url": "https://open.spotify.com/track/0SnM2ceBc70ktED1Og5ywY"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 206226,
       "name": "Bonjour, No\u00ebl!",
       "url": "https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 191600,
       "name": "Bons baisers de Fort de France",
       "url": "https://open.spotify.com/track/1qWbqrU5pC9gsPcxtn3ZMw"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 210898,
       "name": "Boom boom (version fran\u00e7aise)",
       "url": "https://open.spotify.com/track/06uWk75nWt4bF0Wzyq4ySn"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 173333,
       "name": "C'est fort, c'est No\u00ebl",
       "url": "https://open.spotify.com/track/3TOYD8TolVZYsifa0IjnnG"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 140466,
       "name": "C'est No\u00ebl",
       "url": "https://open.spotify.com/track/5oTgKFs81J7g2UUiFZg0bw"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 151386,
       "name": "C'est No\u00ebl (Naughty Christmas)",
       "url": "https://open.spotify.com/track/1HQk86kw92fQOcli1sxZCJ"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 196979,
       "name": "C'est No\u00ebl, je m'en fous",
       "url": "https://open.spotify.com/track/7kqTx49wL7kTBRHG5Z85dR"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 165013,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/0277i1AiYItpCxOyxOT7gg"
@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 229987,
       "name": "Christmas Alone",
       "url": "https://open.spotify.com/track/5bTnCvXkxrVuYa0yclJk5k"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 207720,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz"
@@ -668,6 +668,24 @@
     },
     {
       "album": {
+        "name": "Dear Christmas - Single",
+        "url": "https://open.spotify.com/album/6qmKVcB8zYGCSNQmXTXvSO"
+      },
+      "artists": [
+        {
+          "name": "Ryan Kennedy",
+          "url": "https://open.spotify.com/artist/25jAO2QiZae4aSLA9LBXHS"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205813,
+      "name": "Dear Christmas - V.F",
+      "url": "https://open.spotify.com/track/4J2ZoKddzvOYvsFr3gZbia"
+    },
+    {
+      "album": {
         "name": "Les plus grands tubes No\u00ebl",
         "url": "https://open.spotify.com/album/3C96pK5SKEyw5NSxyHqRiw"
       },
@@ -697,7 +715,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 248000,
       "name": "Doux No\u00ebl",
       "url": "https://open.spotify.com/track/77YWf8hm0teYjhoL5S8bLV"
@@ -715,7 +733,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 132622,
       "name": "Enfin d\u00e9cembre",
       "url": "https://open.spotify.com/track/6pT4PZ9utLne3wMJT2DjYE"
@@ -751,7 +769,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 144600,
       "name": "Falalalala",
       "url": "https://open.spotify.com/track/78B6bSEWXuQtxUF32eSSVM"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 213880,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/3zJw3rugfpVrmBeDDnUYzy"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199760,
       "name": "I Met an Angel (on Christmas Day)",
       "url": "https://open.spotify.com/track/6PiOlFSX06npr0YXexWkrg"
@@ -981,7 +999,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 220513,
       "name": "Illumination",
       "url": "https://open.spotify.com/track/2Q3DRxV379oJNfRSpk97Fb"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 193413,
       "name": "J'ai vu maman",
       "url": "https://open.spotify.com/track/7C2rBix360wLA61Al61APh"
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 196080,
       "name": "Je t'offre mon c\u0153ur",
       "url": "https://open.spotify.com/track/68CPOCS5H1BJc4DTiwuOGY"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 218925,
       "name": "Joyeux No\u00ebl",
       "url": "https://open.spotify.com/track/6mrIW41E8OGpFpgvDDsROH"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 180041,
       "name": "Joyeux No\u00ebl \u00e0 toi mon coeur",
       "url": "https://open.spotify.com/track/7hXETOkibmEro2iXlmaIhg"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 197752,
       "name": "La magie de No\u00ebl",
       "url": "https://open.spotify.com/track/56UhK97Yf2wJlC700Uu2xk"
@@ -1281,6 +1299,24 @@
       "duration_ms": 265111,
       "name": "La marche des Rois",
       "url": "https://open.spotify.com/track/4wYRPOrZX1DcCHeFjdjdaC"
+    },
+    {
+      "album": {
+        "name": "Mon No\u00ebl country",
+        "url": "https://open.spotify.com/album/3XUQrvVGUqdC0xJi5Hmjqt"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Labb\u00e9",
+          "url": "https://open.spotify.com/artist/5n2DEamuK1JpqzZDuGAYVQ"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162613,
+      "name": "La neige tombe",
+      "url": "https://open.spotify.com/track/4LFPXxCJKckapzRBHrfjLa"
     },
     {
       "album": {
@@ -1313,7 +1349,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 240082,
       "name": "La parade",
       "url": "https://open.spotify.com/track/15VnTTNsbsVtMP64sUT6ix"
@@ -1437,7 +1473,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 146352,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/1DdsobptSORrDDWiHi5Qcw"
@@ -1509,7 +1545,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 247120,
       "name": "Le joyeux No\u00ebl",
       "url": "https://open.spotify.com/track/17ZmGZ49xOGKwsgkSKq5R8"
@@ -1535,7 +1571,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 204997,
       "name": "Le Noe\u0308l d'Armand",
       "url": "https://open.spotify.com/track/2Apn1JSzVhYDU34KgUxFd0"
@@ -1571,7 +1607,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 264800,
       "name": "Le premier No\u00ebl",
       "url": "https://open.spotify.com/track/1H2B7doSIS30yj9Xr53KOB"
@@ -1607,7 +1643,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 176106,
       "name": "Le P\u00e8re No\u00ebl C't'un Qu\u00e9b\u00e9cois",
       "url": "https://open.spotify.com/track/7adJp4379R1irkezIA3zjd"
@@ -1643,7 +1679,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 162160,
       "name": "Le sentier de neige",
       "url": "https://open.spotify.com/track/2Nlz01n71uROXKWJy85gHF"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 239287,
       "name": "Lettre \u00e0 Papa No\u00ebl",
       "url": "https://open.spotify.com/track/7iShfGuLfzObfU7hcXeXZ6"
@@ -1831,7 +1867,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 212653,
       "name": "Maman embrasse le P\u00e8re No\u00ebl",
       "url": "https://open.spotify.com/track/40czHpX9BPYNh6T5M4fJYN"
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 126015,
       "name": "Marie-No\u00ebl",
       "url": "https://open.spotify.com/track/5QJzkt7Jfbl1qVfzcnEDhy"
@@ -1929,10 +1965,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 208546,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/2LQNGs6tdjJJS7fxopcaFW"
+    },
+    {
+      "album": {
+        "name": "Mes jours d'hiver - Single",
+        "url": "https://open.spotify.com/album/3hKIQJUK4o2UvlNNxNsLT5"
+      },
+      "artists": [
+        {
+          "name": "Sophie Pelletier",
+          "url": "https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Mes jours d'hiver",
+      "url": "https://open.spotify.com/track/6AxO1tlVIdnV8ng4rq6UYE"
     },
     {
       "album": {
@@ -1947,7 +2001,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 171960,
       "name": "Minuit",
       "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
@@ -1965,7 +2019,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 308026,
       "name": "Minuit chr\u00e9tien",
       "url": "https://open.spotify.com/track/0O1semZ6o0wcA4B7j7L97L"
@@ -2163,7 +2217,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 146426,
       "name": "No\u00ebl blanc",
       "url": "https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW"
@@ -2203,7 +2257,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 253533,
       "name": "No\u00ebl blanc",
       "url": "https://open.spotify.com/track/7K5akEyakiYVbijvPOxkQZ"
@@ -2279,7 +2333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 255327,
       "name": "No\u00ebl brun",
       "url": "https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj"
@@ -2315,7 +2369,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 397400,
       "name": "No\u00ebl C'est L'amour",
       "url": "https://open.spotify.com/track/4vfW9FJV4RBEYpfyyTy0JW"
@@ -2441,7 +2495,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 217454,
       "name": "No\u00ebl dans la t\u00eate - Version intime",
       "url": "https://open.spotify.com/track/5Xb8MXHwaZWSyV8IwBAfhC"
@@ -2609,7 +2663,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 182884,
       "name": "No\u00ebl New York",
       "url": "https://open.spotify.com/track/1MAFXESfROAHuxUWdpDIFT"
@@ -2663,7 +2717,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 241880,
       "name": "No\u00ebl sans faim",
       "url": "https://open.spotify.com/track/2W70sfUzxo1gsogZcL8Ccf"
@@ -2707,7 +2761,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-29",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "No\u00ebl Sous Les *Cocottiers - Radio Edit",
       "url": "https://open.spotify.com/track/0xsl0XCKxGkGf36nqRYptQ"
@@ -2725,7 +2779,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 196680,
       "name": "No\u00ebl sous les tropiques",
       "url": "https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB"
@@ -2777,7 +2831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
@@ -2857,7 +2911,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "No\u00ebl, toi et moi",
       "url": "https://open.spotify.com/track/6OWR8MklCbwvKAxX82jgxW"
@@ -2911,7 +2965,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 237360,
       "name": "O Little Town of Bethlehem",
       "url": "https://open.spotify.com/track/1wWO2ST0HyWfEMdThb9sat"
@@ -3055,7 +3109,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 174000,
       "name": "Promenade en tra\u00eeneau",
       "url": "https://open.spotify.com/track/2ki6KKT9xdW8ipd7o1jWRc"
@@ -3091,7 +3145,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 144826,
       "name": "P\u00e8re No\u00ebl arrive ce soir",
       "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
@@ -3163,7 +3217,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 275373,
       "name": "Sainte Nuit",
       "url": "https://open.spotify.com/track/04iRY9jDir3zzfR8maVhW6"
@@ -3279,7 +3333,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 175986,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/79a2ejVzj2SpXkpWdfv1Co"
@@ -3297,7 +3351,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199413,
       "name": "Sous le gui",
       "url": "https://open.spotify.com/track/1qjet0tHYYYKlI0Ya8YcsA"
@@ -3355,7 +3409,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 164400,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/25X1hTpfK2faJKuTeFi6Cj"
@@ -3551,7 +3605,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 225840,
       "name": "Wonderful Christmastime (Edited Version) [Remastered]",
       "url": "https://open.spotify.com/track/1F8tXdM8cz9bH5PiK1SuAB"
@@ -3641,7 +3695,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 203266,
       "name": "\u00c9coutez Le Chant Des Anges",
       "url": "https://open.spotify.com/track/7aFE0125T9VaJpKODz4425"

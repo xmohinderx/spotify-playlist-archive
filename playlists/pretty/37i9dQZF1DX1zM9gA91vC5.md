@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,934 likes - 300 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,935 likes - 300 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 299 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 |
 | 300 | [The Beginning](https://open.spotify.com/track/3y2v4q1x9MyPQ4O12IpMUL) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [The Beginning](https://open.spotify.com/album/1su3KOYInrFNm0jFL5hoH0) | 1:59 |
 
-Snapshot ID: `MTY0MTY4ODk5MywwMDAwMDAwMDQ1NjE2ZmM5ZWVlYmQ4NjJhYjdkYTgyZDRjODczMjg3`
+Snapshot ID: `MTY0MTY5MTk0MiwwMDAwMDAwMDQ1NjE2ZmM5ZWVlYmQ4NjJhYjdkYTgyZDRjODczMjg3`

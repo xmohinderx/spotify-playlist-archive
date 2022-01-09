@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover: Canon
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,841 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,840 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 79 | [Leave This Place](https://open.spotify.com/track/55Ch8PlRjVmenIaEaPdxql) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Leave This Place](https://open.spotify.com/album/5jm7BFfl4LAz0JePKY9lLm) | 4:40 |
 | 80 | [1994 \(feat\. Aaron Cole\)](https://open.spotify.com/track/2pYpNUlU1wjyZyQpHUhtPT) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Not for Sale](https://open.spotify.com/album/0FXpVJAKnaiMJ6wLs2Ij2w) | 3:42 |
 
-Snapshot ID: `MTY0MTY4OTEzMSwwMDAwMDAwMDQ0MWM3YmVmN2Y2NzZkMjYyMDgxNTE0YzE5NTMxZjYz`
+Snapshot ID: `MTY0MTY5MjA4MiwwMDAwMDAwMDQ0MWM3YmVmN2Y2NzZkMjYyMDgxNTE0YzE5NTMxZjYz`

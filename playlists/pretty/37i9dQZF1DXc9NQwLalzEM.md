@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 
 > Vintage soul gems from the archives.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,324 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,328 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9NQwLalzEM.md) - [plain]
 | 133 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 |
 | 134 | [Baby Hit And Run \- Alternate Vocal](https://open.spotify.com/track/1kr3IIOavK40nLgoylfj4T) | [The Contours](https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1) | [A Cellarful Of Motown!](https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks) | 3:02 |
 
-Snapshot ID: `MTY0MTY4OTI0NCwwMDAwMDAwMGE5MDBjYTM5MTM2NjVkMjdjNGU4NTMxNzMzNDZiNjI4`
+Snapshot ID: `MTY0MTY5MjE5OCwwMDAwMDAwMGE5MDBjYTM5MTM2NjVkMjdjNGU4NTMxNzMzNDZiNjI4`

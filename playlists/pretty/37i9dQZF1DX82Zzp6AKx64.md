@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > A collection of rock's best power ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,264 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,277 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 99 | [Forever Free](https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Headless Children](https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq) | 5:08 |
 | 100 | [I Want to Know What Love Is \- 2008 Remaster](https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [No End in Sight: The Very Best of Foreigner](https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO) | 4:55 |
 
-Snapshot ID: `MTY0MTY4OTE0OSwwMDAwMDAwMDQ5MTkzMzMzZjYxZjY2NjEzZDU1MjJjYjA3NDVjYTE2`
+Snapshot ID: `MTY0MTY5MjEwMCwwMDAwMDAwMDQ5MTkzMzMzZjYxZjY2NjEzZDU1MjJjYjA3NDVjYTE2`

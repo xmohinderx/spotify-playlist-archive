@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,838 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,840 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 74 | [Tennessee Song](https://open.spotify.com/track/1FEVjTvRUuDJn2HKtSrz1U) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1ltdOb1CJGjzMW52gq2U9t) | 4:40 |
 | 75 | [Thirteen Sad Farewells](https://open.spotify.com/track/03RFScByLwJTxTme6n4BpP) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Vagabond](https://open.spotify.com/album/0wnmzxrNPbDrffxcDs2yII) | 2:45 |
 
-Snapshot ID: `MTY0MTY4OTE5MCwwMDAwMDAwMDJiMWU5YTMzNmU4ZTBlOGFkMjMwODk4OGE3OGE2OTcz`
+Snapshot ID: `MTY0MTY5MjE0MywwMDAwMDAwMDJiMWU5YTMzNmU4ZTBlOGFkMjMwODk4OGE3OGE2OTcz`

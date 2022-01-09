@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Indie, pop, and everything in between to bring you good energy and good vibes\. Cover: chloe moriondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,634 likes - 150 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,374,643 likes - 150 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [Blank Me](https://open.spotify.com/track/4GykOaWBJPS647ewLtyrCh) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Blank Me](https://open.spotify.com/album/7na6EPTI7sIHutOQfJNXev) | 3:58 |
 | 150 | [LEMON SWAYZE \- Miami Horror Lemonade Remix](https://open.spotify.com/track/0ZqvqklMVDxbyaIsNIdO4c) | [KUNZITE](https://open.spotify.com/artist/3rMDCvvekRMD0WON14PwqO), [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37) | [LEMON SWAYZE \(Miami Horror Lemonade Remix\)](https://open.spotify.com/album/6Zxd8PJUYva6YRvDxrmo4z) | 4:29 |
 
-Snapshot ID: `MTY0MTY4OTI1MiwwMDAwMDAwMDQ1YWM1YTRjMGJiYWUzMjAxOGQxYTg5ZTgxZDNkN2Nk`
+Snapshot ID: `MTY0MTY5MjIwNywwMDAwMDAwMDQ1YWM1YTRjMGJiYWUzMjAxOGQxYTg5ZTgxZDNkN2Nk`

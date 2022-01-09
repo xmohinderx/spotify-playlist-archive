@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,654 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,661 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Crawling](https://open.spotify.com/track/4Z7rxBIhhMBa8NcntQju0P) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Songs That Saved My Life](https://open.spotify.com/album/5XkUTL5Ccl5krryba7M7JI) | 3:32 |
 | 100 | [Boss D.J.](https://open.spotify.com/track/7nT67qoRgqd5PxnlY9yjc7) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks), [Jim Lindberg](https://open.spotify.com/artist/3a6waCdlpb0EwJi1PHP5vg) | [Boss D.J.](https://open.spotify.com/album/2S2O2TcIJ1olkWuoqd33VX) | 2:25 |
 
-Snapshot ID: `MTY0MTY4OTIwMCwwMDAwMDAwMDY0MDE0ZDZlMmUxNjk0NDE0NmU0N2Q5ZjY5YWRiMjFk`
+Snapshot ID: `MTY0MTY5MjE1MiwwMDAwMDAwMDY0MDE0ZDZlMmUxNjk0NDE0NmU0N2Q5ZjY5YWRiMjFk`

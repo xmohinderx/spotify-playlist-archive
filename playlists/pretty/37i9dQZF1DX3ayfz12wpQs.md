@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ayfz12wpQs.md) - [plain]
 | 67 | [Kaya](https://open.spotify.com/track/1rAAub2bS5jlu1FBwROU3K) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya \- Deluxe Edition](https://open.spotify.com/album/2MnN6FfnhDf4Zk5g0dIAJv) | 3:15 |
 | 68 | [Easy Skanking](https://open.spotify.com/track/6yrwZaQ8hxQM7plYMn3sNn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \(Deluxe Edition\)](https://open.spotify.com/album/04VRfesff9bgDA2Q8J2oDo) | 2:56 |
 
-Snapshot ID: `MTY0MTY4OTAzNSwwMDAwMDAwMDk2OWY0MWU1YzNjYmI2NjA0MjM1ZDk5ZGE5ZTMyMjYy`
+Snapshot ID: `MTY0MTY5MTk4NiwwMDAwMDAwMDk2OWY0MWU1YzNjYmI2NjA0MjM1ZDk5ZGE5ZTMyMjYy`

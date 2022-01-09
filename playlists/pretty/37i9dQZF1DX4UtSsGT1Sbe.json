@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1980s.",
   "name": "All Out 80s",
-  "num_followers": 9134407,
+  "num_followers": 9134521,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI2MjIzOSwwMDAwMDBkYTAwMDAwMTdjYmQzOTkxOGMwMDAwMDE3Y2JjMDE2MTE4",
+  "snapshot_id": "MTY0MTY5MjAwNCwwMDAwMDAwMGYwZmUyYzA5ZjM3MmYyMjYyOTVhMjcwYTY5MjcyYTlh",
   "tracks": [
     {
       "added_at": "2021-04-28 06:48:41",
@@ -1651,6 +1651,50 @@
     {
       "added_at": "2021-04-28 06:48:41",
       "album": {
+        "name": "80 Totally 80s Hits",
+        "url": "https://open.spotify.com/album/3C20zCOVCXIb9xr0Z6wcCG"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/1cx2NcSnJYdr3kvHWmX7fF"
+    },
+    {
+      "added_at": "2021-04-28 06:48:41",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/5Pr1sAQ9i2unvVaEHnKIB5"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 248586,
+      "name": "Let's Dance - Single Version [Remastered]",
+      "url": "https://open.spotify.com/track/0F1O42piteiHP3dRvKUz6p"
+    },
+    {
+      "added_at": "2021-04-28 06:48:41",
+      "album": {
         "name": "Crowded House (Deluxe)",
         "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
       },
@@ -1731,22 +1775,6 @@
     {
       "added_at": "2021-04-28 06:48:41",
       "album": {
-        "name": "Kick (Remastered)",
-        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
-    },
-    {
-      "added_at": "2021-04-28 06:48:41",
-      "album": {
         "name": "Pop Music: The Modern Era 1976-1999",
         "url": "https://open.spotify.com/album/6mXNQ3PpYvYG1glwFsN8IO"
       },
@@ -1779,6 +1807,22 @@
       "duration_ms": 247800,
       "name": "I Can Dream About You",
       "url": "https://open.spotify.com/track/2TSVJz7sJIUInkzWVJIsCf"
+    },
+    {
+      "added_at": "2021-04-28 06:48:41",
+      "album": {
+        "name": "Kick (Remastered)",
+        "url": "https://open.spotify.com/album/6p6RTnoHCJMnMx2jcK4oGu"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/1GjbTNFImFrjFsNdleDe78"
     },
     {
       "added_at": "2021-04-28 06:48:41",
@@ -2387,22 +2431,6 @@
     {
       "added_at": "2021-04-28 06:48:41",
       "album": {
-        "name": "Another Page",
-        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "All Right",
-      "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
-    },
-    {
-      "added_at": "2021-04-28 06:48:41",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/4Y9YbN2tBHlK5Uch6WKv2k"
       },
@@ -2435,34 +2463,18 @@
     {
       "added_at": "2021-04-28 06:48:41",
       "album": {
-        "name": "Zenyatta Mondatta (Remastered 2003)",
-        "url": "https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ"
+        "name": "Another Page",
+        "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
         }
       ],
-      "duration_ms": 247293,
-      "name": "De Do Do Do, De Da Da Da",
-      "url": "https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG"
-    },
-    {
-      "added_at": "2021-04-28 06:48:41",
-      "album": {
-        "name": "Dance Hits - 80s & 90s",
-        "url": "https://open.spotify.com/album/0LvOMujcrO1z87O3vAOsJL"
-      },
-      "artists": [
-        {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-        }
-      ],
-      "duration_ms": 211533,
-      "name": "It's Raining Men - Single Version",
-      "url": "https://open.spotify.com/track/4caiYv89C9GZdDD1RzshWd"
+      "duration_ms": 253653,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/5tE2kEW1Jom3Qc93UPBT79"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4UtSsGT1Sbe"

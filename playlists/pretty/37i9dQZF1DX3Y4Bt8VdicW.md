@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 
 > Get into the inspired sounds of <a href="spotify:artist:2kGBy2WHvF0VdZyqiVCkDT">Father John Misty</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,732 likes - 27 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,735 likes - 27 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Y4Bt8VdicW.md) - [plain]
 | 26 | [Smoochie](https://open.spotify.com/track/3CsOi6jgUhdKvQdWX98seR) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Pure Comedy](https://open.spotify.com/album/2QgZA6t1oFOjiJ59x7jrEI) | 3:45 |
 | 27 | [Disappointing Diamonds Are the Rarest of Them All](https://open.spotify.com/track/6KE79I3kBS6ci5ioDhSi6U) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Disappointing Diamonds Are the Rarest of Them All / Just Dumb Enough to Try](https://open.spotify.com/album/1djJva9yAucJBNCaAthjbq) | 2:23 |
 
-Snapshot ID: `MTY0MTY4OTAzMywwMDAwMDAwMDNmZjcxNTI0Mzk4YzgxYmVkOGU4Zjc3NjhiYmNlMmE3`
+Snapshot ID: `MTY0MTY5MTk4NCwwMDAwMDAwMDNmZjcxNTI0Mzk4YzgxYmVkOGU4Zjc3NjhiYmNlMmE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,084 likes - 250 songs - 15 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,158 likes - 250 songs - 15 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [Number](https://open.spotify.com/track/3PzNjV3A8cRiQBUuFmtkQ7) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Number](https://open.spotify.com/album/2rLJNubDftbENIxmFTHljz) | 2:59 |
 | 250 | [Throwaway \(with Clairo\)](https://open.spotify.com/track/2MnEG4htbbdfoUsyzxZ4BM) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Dawn](https://open.spotify.com/album/57TxOlFzG9yvAKEdjjm2yB) | 3:00 |
 
-Snapshot ID: `MTY0MTY4ODk4OSwwMDAwMDAwMDdlNWU2N2U0MGZhNDAwZTM3ZWFkNGI5YjAzYWQzMWUx`
+Snapshot ID: `MTY0MTY5MTkzOSwwMDAwMDAwMDdlNWU2N2U0MGZhNDAwZTM3ZWFkNGI5YjAzYWQzMWUx`

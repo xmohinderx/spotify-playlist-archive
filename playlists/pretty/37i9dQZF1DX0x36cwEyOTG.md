@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this Peaceful Indie Ambient mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,408 likes - 110 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,412 likes - 110 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 109 | [The Choir](https://open.spotify.com/track/40qg0fkDONxEDrAPfxccHc) | [Morly](https://open.spotify.com/artist/25IpNXDRxJS38E2rLJeCF3) | [The Choir](https://open.spotify.com/album/6U8fFn2bUPLC3yWsG5tiy6) | 3:21 |
 | 110 | [Heading Home](https://open.spotify.com/track/4Nj7jHfEE44ppiAmVex7yJ) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/5TQGEWrZpq2O5TdRbLID3q) | 3:57 |
 
-Snapshot ID: `MTY0MTY4ODk2NiwwMDAwMDAwMDQxZGViMTA5MTc5YWQ3N2ZhN2VhMzZjYmQxNmIwMzQ2`
+Snapshot ID: `MTY0MTY5MTkxNCwwMDAwMDAwMDQxZGViMTA5MTc5YWQ3N2ZhN2VhMzZjYmQxNmIwMzQ2`

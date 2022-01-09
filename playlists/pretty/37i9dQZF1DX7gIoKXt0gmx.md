@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,297,732 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,297,740 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Alone](https://open.spotify.com/track/3p0Y1C5jhaqyKW7d9oskXA) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Alone](https://open.spotify.com/album/1y0ZiIIVOVdpg5lXkAJ36c) | 2:58 |
 | 100 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 |
 
-Snapshot ID: `MTY0MTY4OTE0NCwwMDAwMDAwMDk4NWU5MDZmYTE2NDdjZGE0Njc1ZjY4N2Y0MmY0NmU4`
+Snapshot ID: `MTY0MTY5MjA5NCwwMDAwMDAwMDk4NWU5MDZmYTE2NDdjZGE0Njc1ZjY4N2Y0MmY0NmU4`

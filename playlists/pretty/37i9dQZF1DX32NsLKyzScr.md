@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,132,430 likes - 149 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,132,432 likes - 149 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 148 | [Without You \(feat\. Linney\)](https://open.spotify.com/track/1n1co3IQaEBLbouzf3BesL) | [Kastra](https://open.spotify.com/artist/6sQYSV8XvcA9CQZb6OBHHC), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Without You \(feat\. Linney\)](https://open.spotify.com/album/0DIxlkwPTV3fJie4uvRwsk) | 3:09 |
 | 149 | [Diamonds](https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [Diamonds](https://open.spotify.com/album/3P5KroUlTCQ6ZGViQpCixc) | 3:25 |
 
-Snapshot ID: `MTY0MTY4OTAxOCwwMDAwMDAwMGM1ZWQ4YWFmMWEwZGM4ZWE2NTAxNDI2MDA0MTZmZjAy`
+Snapshot ID: `MTY0MTY5MTk2OCwwMDAwMDAwMGM1ZWQ4YWFmMWEwZGM4ZWE2NTAxNDI2MDA0MTZmZjAy`

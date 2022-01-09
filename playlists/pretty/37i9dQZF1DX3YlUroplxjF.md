@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Ice Nine Kills
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,718 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,719 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 99 | [Sudden Sky](https://open.spotify.com/track/0mlYrw8qQT7wnRnfJ4hxoQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Sudden Sky](https://open.spotify.com/album/2L6KNKYHaXNPj4lXHSp5vb) | 4:20 |
 | 100 | [Distance](https://open.spotify.com/track/5rW2epXG3Hh9htDz3jURRx) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/7fpmkZLtIePdNA4jiYZKIn) | 2:59 |
 
-Snapshot ID: `MTY0MTY4OTAzNCwwMDAwMDAwMDdjMzA2Mzg2YmVjODE5NmQ5ZGVhMzVkY2M3ODIzOThk`
+Snapshot ID: `MTY0MTY5MTk4NSwwMDAwMDAwMDdjMzA2Mzg2YmVjODE5NmQ5ZGVhMzVkY2M3ODIzOThk`

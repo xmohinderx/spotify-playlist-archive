@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 
 > Kick back with the queens of pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,263,599 likes - 70 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,263,514 likes - 70 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WvGXE8FqYX.md) - [plain]
 | 69 | [Might Not Like Me](https://open.spotify.com/track/2xRViWc1s1vEguSrtHbdun) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Might Not Like Me](https://open.spotify.com/album/0lvq07hUML50I2zHp1zrua) | 3:52 |
 | 70 | [Super Bass](https://open.spotify.com/track/7gKIt3rDGIMJDFVSPBnGmj) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/2RfF6dGpYIN5u1mNkfG8Pb) | 3:20 |
 
-Snapshot ID: `MTY0MTY4OTAzMywwMDAwMDAwMGRlZTEyMzBhOTNhYzYwMDFiODY4ZTBkNTkyMTExY2Y1`
+Snapshot ID: `MTY0MTY5MTk4MywwMDAwMDAwMGRlZTEyMzBhOTNhYzYwMDFiODY4ZTBkNTkyMTExY2Y1`

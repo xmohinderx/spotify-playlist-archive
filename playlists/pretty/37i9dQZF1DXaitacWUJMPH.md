@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 
 > 24 songs dedicated to the Mamba & Mambacita\. R.I.P\. Kobe & Gianna Bryant.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,470 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,486 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaitacWUJMPH.md) - [plain]
 | 23 | [Forever Set In Stone](https://open.spotify.com/track/4heYgxcr1byQWoiFFG3Kvr) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Forever Set In Stone](https://open.spotify.com/album/42yk2Caf5N7T7jTbvrURqL) | 2:56 |
 | 24 | [Dre Grant](https://open.spotify.com/track/1YBo2pYIAlkfPLrIoucRLl) | [Dame D.O.L.L.A](https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ), [Brookfield Duece](https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv) | [Big D.O.L.L.A\. \(Deluxe\)](https://open.spotify.com/album/6MLBUpgZNhex56PQVMnbFX) | 3:04 |
 
-Snapshot ID: `MTY0MTY4OTIxMywwMDAwMDAwMDExNDExZTM4NjE3M2E3YzkxODNkNjM2NDY1YjQwMzc2`
+Snapshot ID: `MTY0MTY5MjE2NiwwMDAwMDAwMDExNDExZTM4NjE3M2E3YzkxODNkNjM2NDY1YjQwMzc2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 
 > Home is where the heart is.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,773 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,771 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3P56PKzFc9f.md) - [plain]
 | 74 | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/track/6Qs4SXO9dwPj5GKvVOv8Ki) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Dancing With A Stranger \(with Normani\)](https://open.spotify.com/album/1V9oE8bVilClrk5naqyyvL) | 2:51 |
 | 75 | [Rough Rider](https://open.spotify.com/track/2bKu0zF7OAccQv0ZTkZ0hH) | [Dana Vaughns](https://open.spotify.com/artist/6t6MMOVuuyIWNUypPUkHdo) | [Rough Rider](https://open.spotify.com/album/3yJYscVkZLYio5cKSlUQhm) | 2:58 |
 
-Snapshot ID: `MTY0MTY4OTAzMCwwMDAwMDAwMDg5Mzk5ZTg1OGI1MjNmYjU0MzhiMDA0OWY0M2IzZWY4`
+Snapshot ID: `MTY0MTY5MTk4MSwwMDAwMDAwMDg5Mzk5ZTg1OGI1MjNmYjU0MzhiMDA0OWY0M2IzZWY4`

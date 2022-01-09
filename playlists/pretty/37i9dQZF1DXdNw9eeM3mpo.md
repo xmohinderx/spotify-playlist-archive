@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100 % ska latinoamericano\. Foto: Inspector
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,435 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,444 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Ya No Me Importa](https://open.spotify.com/track/0ZKiXrSO18ktQosUNRLHTr) | [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY), [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [Ya No Me Importa](https://open.spotify.com/album/1UVdN4bb9wPgrNetUhGUEO) | 3:20 |
 | 100 | [Temerario](https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH) | [Itaca Band](https://open.spotify.com/artist/1tQtaouRCs37gaJVi7HTYR) | [Temerario](https://open.spotify.com/album/5NqehJUIpQ3epkcNrNogxI) | 3:21 |
 
-Snapshot ID: `MTY0MTY4OTI2OSwwMDAwMDAwMGI3MWNiNWQ4MWRjOWJiMjRhZTVhMDQ2MjhhNjBlYWQ1`
+Snapshot ID: `MTY0MTY5MjIyNCwwMDAwMDAwMGI3MWNiNWQ4MWRjOWJiMjRhZTVhMDQ2MjhhNjBlYWQ1`

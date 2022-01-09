@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz music to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,151 likes - 75 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,155 likes - 75 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 74 | [Triceratops / The Caller](https://open.spotify.com/track/2k5d3V0BVehNIXYUBWTaaD) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Ironside](https://open.spotify.com/album/6zmUoCKw6UvkLGjaVEZsin) | 5:15 |
 | 75 | [Sometimes I Cry](https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:22 |
 
-Snapshot ID: `MTY0MTU2MzE1MywwMDAwMDA2NTAwMDAwMTdlMzRjOWU0MzIwMDAwMDE2ZDE1M2M1OWU1`
+Snapshot ID: `MTY0MTY5MjA3OSwwMDAwMDAwMGNiMjQ3NDY4MGVmYWE4YmY1NWYzOTIyNjRkMjQ4MDJh`

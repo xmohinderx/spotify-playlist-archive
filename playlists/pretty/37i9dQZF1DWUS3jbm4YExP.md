@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,279 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,287 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Otemoyan \- Reggae](https://open.spotify.com/track/4DIkIKQ3LgaI9bs0JX2qgN) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG) | [Echoes of Japan \(エコーズ・オブ・ジャパン\)](https://open.spotify.com/album/2K8BqrVspd3v1MX7pmrbIO) | 5:46 |
 | 100 | [Mirage](https://open.spotify.com/track/2oSurc3FKyPDaoVpdbb1N9) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mirage](https://open.spotify.com/album/2QBoYsuINGsfFvp4BGk0SK) | 4:50 |
 
-Snapshot ID: `MTY0MTY4ODgyMSwwMDAwMDAwMDlmZGRiNzM1NmUwZGE2YTA1OTI0M2U1ZjRhNmQwZDhm`
+Snapshot ID: `MTY0MTY5MTc2NiwwMDAwMDAwMDlmZGRiNzM1NmUwZGE2YTA1OTI0M2U1ZjRhNmQwZDhm`

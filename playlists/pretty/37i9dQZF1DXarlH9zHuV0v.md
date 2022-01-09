@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,091 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,086 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Jack the Ripper](https://open.spotify.com/track/0r7DoETSotkN7yln8GW6ei) | [Rob Kelly](https://open.spotify.com/artist/6RkG8owckWkmNWkMlzNujI) | [Kel Terriblé](https://open.spotify.com/album/2LQ5Eam9TaEdPmwttVxLQv) | 3:55 |
 | 60 | [Dracula's Wedding](https://open.spotify.com/track/1HS1yIO8uhNoQylBg9boFU) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/4FZRhzEtEDk05L6Z2OT9UB) | 2:32 |
 
-Snapshot ID: `MTY0MTY4OTIxNiwwMDAwMDAwMGE1NDY1YmFiNjM0MzFhYmI3NjczMDliOGFmMjkwOGQz`
+Snapshot ID: `MTY0MTY5MjE2OSwwMDAwMDAwMGE1NDY1YmFiNjM0MzFhYmI3NjczMDliOGFmMjkwOGQz`

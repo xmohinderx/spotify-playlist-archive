@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,400 likes - 80 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,399 likes - 80 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [N.E.G.U](https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb), [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 5:57 |
 | 80 | [We Need Love](https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [We Need Love](https://open.spotify.com/album/3XbT6tlyYKnWYbNLAG6kYp) | 3:00 |
 
-Snapshot ID: `MTY0MTY4OTE2NiwwMDAwMDAwMDZiZDk1NjY1NTMxMzRhODU4MGMxYTRiOTk5NGYxOWIw`
+Snapshot ID: `MTY0MTY5MjExOCwwMDAwMDAwMDZiZDk1NjY1NTMxMzRhODU4MGMxYTRiOTk5NGYxOWIw`

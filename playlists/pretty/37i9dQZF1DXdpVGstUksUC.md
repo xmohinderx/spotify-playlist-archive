@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > You can practically taste the desert dirt in your mouth while listening to these dark blues and rough rock numbers\. Cover: Josh Homme
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,026 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,033 likes - 100 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 99 | [My Everything](https://open.spotify.com/track/7fa5wGIhTt9VTOVUID8aqs) | [John Garcia](https://open.spotify.com/artist/5Hr53UjzhLt2qU7XL7OFh8) | [My Everything](https://open.spotify.com/album/7BhnTcuoW88fqT1ePpvTYe) | 3:36 |
 | 100 | [Desert God](https://open.spotify.com/track/61zZe6nTfoyRsuIwMg3DR8) | [Sleepy Sun](https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0) | [Fever](https://open.spotify.com/album/4p0VY8aORNcSS8i7sXZUkE) | 5:16 |
 
-Snapshot ID: `MTY0MTY4OTI4MSwwMDAwMDAwMDA0ZGMxZWQ0ZTZlNDc0NTlhYWFlODkyMTI4MjliMzFm`
+Snapshot ID: `MTY0MTY5MjIzNiwwMDAwMDAwMDA0ZGMxZWQ0ZTZlNDc0NTlhYWFlODkyMTI4MjliMzFm`

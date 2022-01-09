@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Enola Gay
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,107 likes - 55 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,105 likes - 55 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 54 | [Saturn](https://open.spotify.com/track/31FslokX6FqQWVHIaVy4hY) | [Ghum](https://open.spotify.com/artist/41yzFXg6iuyDfw0PYviMHs) | [The Coldest Fire](https://open.spotify.com/album/7jZmxRxG89gyfb5W0beTdW) | 3:52 |
 | 55 | [Unsmart Lady](https://open.spotify.com/track/1D9OstlmYwAZx1PwJaxEkD) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Unsmart Lady](https://open.spotify.com/album/7n7PakgHzZGYxBLdB05cTw) | 3:02 |
 
-Snapshot ID: `MTY0MTY4ODkyMCwwMDAwMDAwMDg5Mzk1NmVjMmEwODE3NjdmN2ZlZDM5ZTg0YjI5M2M0`
+Snapshot ID: `MTY0MTY5MTg2OSwwMDAwMDAwMDg5Mzk1NmVjMmEwODE3NjdmN2ZlZDM5ZTg0YjI5M2M0`

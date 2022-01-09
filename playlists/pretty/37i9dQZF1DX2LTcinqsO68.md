@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,121,797 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,121,811 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,30 +108,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 98 | [Breaking the Chains](https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Breaking the Chains](https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq) | 3:51 |
 | 99 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 100 | [Angel Witch](https://open.spotify.com/track/4G3Nnoae2XF1cdbdgATKKq) | [Angel Witch](https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS) | [Angel Witch \(30th Anniversary Edition\)](https://open.spotify.com/album/1a3pru3t4DuZoGHBpCNM66) | 3:23 |
-| 101 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 |
-| 102 | [Metal Heart](https://open.spotify.com/track/3ZGajFLn8uAIpNxMxBwfGY) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Metal Heart](https://open.spotify.com/album/3NULy5W5GdvykvujxuNPll) | 5:24 |
-| 103 | [Under Jolly Roger](https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Under Jolly Roger](https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P) | 4:42 |
-| 104 | [Swords and Tequila](https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Fire Down Under](https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO) | 3:20 |
+| 101 | [Under Jolly Roger](https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Under Jolly Roger](https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P) | 4:42 |
+| 102 | [Swords and Tequila](https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Fire Down Under](https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO) | 3:20 |
+| 103 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 |
+| 104 | [Metal Heart](https://open.spotify.com/track/3ZGajFLn8uAIpNxMxBwfGY) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Metal Heart](https://open.spotify.com/album/3NULy5W5GdvykvujxuNPll) | 5:24 |
 | 105 | [Mexican Radio](https://open.spotify.com/track/2ksadH0rmJCMAQ8r3Najnt) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Bonus Track Edition\)](https://open.spotify.com/album/5QkTU95FB9uqGrRea5j3LR) | 3:29 |
 | 106 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
 | 107 | [Only the Brave](https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Tygers of Pan Tang](https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO) | 5:03 |
 | 108 | [A Dangerous Meeting](https://open.spotify.com/track/0XazvXRtIb75Ljr6OjQGmX) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Don't Break the Oath](https://open.spotify.com/album/1eFnw0MBAp0jOS07tp5gRF) | 5:12 |
 | 109 | [The Toxic Waltz](https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Fabulous Disaster](https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy) | 4:50 |
 | 110 | [Riding the Storm](https://open.spotify.com/track/4hfpMRkHOW3xGt8zE8ogFk) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Death or Glory](https://open.spotify.com/album/7aGuNftb3fFRvmmDY5aahZ) | 6:27 |
-| 111 | [I'm A Rebel](https://open.spotify.com/track/6RsNd0M7jqbjIhj4qIbwip) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Best Of Accept](https://open.spotify.com/album/5AnzLJC8isnH1ZAqRRVBkK) | 3:58 |
-| 112 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 |
-| 113 | [Evil](https://open.spotify.com/track/6LGoJAyN1xAqF3VJZt0MKx) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/2csZMxSEbMiDhiaZuEeuuv) | 4:44 |
-| 114 | [Can U Deliver](https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [March Of The Saint](https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1) | 3:35 |
-| 115 | [Armed and Ready \- 2009 Remaster](https://open.spotify.com/track/21CvmkU9C4GXrl1KZBl0FF) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group \(2009 Remaster\)](https://open.spotify.com/album/2l1Bqqee08MbNjeGkInlWE) | 4:11 |
-| 116 | [Caught In A Mosh](https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Among The Living \(Deluxe Edition\)](https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm) | 5:00 |
+| 111 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 |
+| 112 | [Can U Deliver](https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [March Of The Saint](https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1) | 3:35 |
+| 113 | [Armed and Ready \- 2009 Remaster](https://open.spotify.com/track/21CvmkU9C4GXrl1KZBl0FF) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group \(2009 Remaster\)](https://open.spotify.com/album/2l1Bqqee08MbNjeGkInlWE) | 4:11 |
+| 114 | [I'm A Rebel](https://open.spotify.com/track/6RsNd0M7jqbjIhj4qIbwip) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Best Of Accept](https://open.spotify.com/album/5AnzLJC8isnH1ZAqRRVBkK) | 3:58 |
+| 115 | [Caught In A Mosh](https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Among The Living \(Deluxe Edition\)](https://open.spotify.com/album/37io57O2XOMcchxYVsyhHm) | 5:00 |
+| 116 | [Evil](https://open.spotify.com/track/6LGoJAyN1xAqF3VJZt0MKx) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/2csZMxSEbMiDhiaZuEeuuv) | 4:44 |
 | 117 | [Agent Orange](https://open.spotify.com/track/3lMVtX2zN22nm30jGVoOpT) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Agent Orange](https://open.spotify.com/album/6lg87gGVKeXKei65FnE8JN) | 6:05 |
-| 118 | [Curse of the Pharaohs](https://open.spotify.com/track/2H4Uh7c159cJBmrbekZFFe) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/2csZMxSEbMiDhiaZuEeuuv) | 3:57 |
-| 119 | [Children of the Earth](https://open.spotify.com/track/0un0EK8Qvd3eNYh7BJz2OF) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Time Tells No Lies](https://open.spotify.com/album/4LXymJcEmn1Hw9GmfEqmem) | 5:37 |
-| 120 | [Thundersteel](https://open.spotify.com/track/3PtoySboyS2gTmvFPy6iDi) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thundersteel](https://open.spotify.com/album/0zmiGhL8QcuAY5cbet7XbM) | 3:49 |
-| 121 | [Tomorrow's Dream \- 2021 Remaster](https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Tomorrow's Dream \(2021 Remaster\)](https://open.spotify.com/album/6Zzss0gwhwdizR2JIoSUa7) | 3:08 |
-| 122 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
-| 123 | [Let Them Eat Metal](https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb) | [The Rods](https://open.spotify.com/artist/3W6mkWRUQjmny6bSsEcJf3) | [Let Them Eat Metal](https://open.spotify.com/album/1wbX59VoMx72e3N9P3NhLZ) | 3:57 |
-| 124 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
+| 118 | [Children of the Earth](https://open.spotify.com/track/0un0EK8Qvd3eNYh7BJz2OF) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Time Tells No Lies](https://open.spotify.com/album/4LXymJcEmn1Hw9GmfEqmem) | 5:37 |
+| 119 | [Thundersteel](https://open.spotify.com/track/3PtoySboyS2gTmvFPy6iDi) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Thundersteel](https://open.spotify.com/album/0zmiGhL8QcuAY5cbet7XbM) | 3:49 |
+| 120 | [Tomorrow's Dream \- 2021 Remaster](https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Tomorrow's Dream \(2021 Remaster\)](https://open.spotify.com/album/6Zzss0gwhwdizR2JIoSUa7) | 3:08 |
+| 121 | [Seventeen](https://open.spotify.com/track/2ZS0wDcdfrJPC86u5aJGo9) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [Winger](https://open.spotify.com/album/4aMtQDeDMAHBfh7cE87PWo) | 4:05 |
+| 122 | [Let Them Eat Metal](https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb) | [The Rods](https://open.spotify.com/artist/3W6mkWRUQjmny6bSsEcJf3) | [Let Them Eat Metal](https://open.spotify.com/album/1wbX59VoMx72e3N9P3NhLZ) | 3:57 |
+| 123 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
+| 124 | [Curse of the Pharaohs](https://open.spotify.com/track/2H4Uh7c159cJBmrbekZFFe) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/2csZMxSEbMiDhiaZuEeuuv) | 3:57 |
 | 125 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
 
-Snapshot ID: `MTYzODA5MTE1NSwwMDAwMDA2MjAwMDAwMTdkNjVkNzY3ZjMwMDAwMDE3YmExZDU3NGY2`
+Snapshot ID: `MTY0MTY5MTk1MSwwMDAwMDAwMDdhMjJmMzM4OTFhYWYxMzc5M2I3YWVmYmFmZWNmYTBm`

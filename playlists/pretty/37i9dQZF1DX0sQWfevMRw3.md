@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Gå loss till Spotifys fetaste festlåtar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,190 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,191 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 79 | [Fun](https://open.spotify.com/track/47OBrHsoyIXwnLAT55oRCq) | [Little Sis Nora](https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9) | [Fun](https://open.spotify.com/album/0tLw6l374Kc8Mm574NUeFI) | 2:41 |
 | 80 | [Hashish de blaa](https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK) | [Frej Larsson](https://open.spotify.com/artist/3B2Q6VDxVx3WMP620Nk4GH) | [Hashish de blaa](https://open.spotify.com/album/4g0gyRRsgt83I5myozjjeM) | 3:28 |
 
-Snapshot ID: `MTY0MTY4ODk2NCwwMDAwMDAwMDk5N2I2NjllNTcxZTQ2NTY5MDdkOTM2OTY5MTgxNzBi`
+Snapshot ID: `MTY0MTY5MTkxMiwwMDAwMDAwMDk5N2I2NjllNTcxZTQ2NTY5MDdkOTM2OTY5MTgxNzBi`

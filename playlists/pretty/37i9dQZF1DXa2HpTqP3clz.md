@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Greensky Bluegrass
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,942 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,946 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Don't Make Me Get up and Go](https://open.spotify.com/track/4jaalJMyXvPcvYVI3VoKtu) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Don't Make Me Get up and Go](https://open.spotify.com/album/7o4ZRAw9dSwk3jsFBaDLRH) | 3:11 |
 | 100 | [Red Rocking Chair](https://open.spotify.com/track/50KR2ahTgBpg5JjsTuz0ZC) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building / Red Rocking Chair](https://open.spotify.com/album/2lc0guu7J0z5pHxALnVZOL) | 3:06 |
 
-Snapshot ID: `MTY0MTUzMjI2MCwwMDAwMDA2NDAwMDAwMTdlMzJmMjgxMTkwMDAwMDE3Y2VkZDYxZDMz`
+Snapshot ID: `MTY0MTY5MjE0OCwwMDAwMDAwMDhmMTM2NGIzODEzNzgyNTBlYWUwNTYyZWE0NzcxN2Ni`

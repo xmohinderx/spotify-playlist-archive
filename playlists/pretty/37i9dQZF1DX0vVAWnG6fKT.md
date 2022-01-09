@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Maybelle Carter, Gene Autry, Merle Travis
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,998 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,000 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [My Window Faces the South](https://open.spotify.com/track/4SAvq8Fem0hqUlkP0dxXQ1) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Classic Western Swing](https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX) | 2:08 |
 | 70 | [Columbus Stockade Blues](https://open.spotify.com/track/5oRdNW0yxEfrX2bqkcsFNn) | [Jimmie Davis](https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy) | [Nobody's Darlin' but Mine](https://open.spotify.com/album/7B2laG1q8xu5H0V6whC3nb) | 2:45 |
 
-Snapshot ID: `MTY0MTY4ODk2NSwwMDAwMDAwMDJiMzlkN2JjZTNmMWFhOWM4YWJmZjlkMmMxMTI3Yjgx`
+Snapshot ID: `MTY0MTY5MTkxMywwMDAwMDAwMDJiMzlkN2JjZTNmMWFhOWM4YWJmZjlkMmMxMTI3Yjgx`

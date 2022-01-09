@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: State Champs
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,339 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,340 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBkxDaAQX0a.md) - [plain]
 | 74 | [Something Wonderful \- Alternate Version](https://open.spotify.com/track/1vu42HClZIiqLgRzTU2jUc) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/4WWoHnK6aJKPPUiVrS9cnk) | 3:17 |
 | 75 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
 
-Snapshot ID: `MTY0MTY4OTI0NSwwMDAwMDAwMDgyY2U0OGQ1MGNmYWJhZDNhY2I2MzY0YzVjZjkwZTQ0`
+Snapshot ID: `MTY0MTY5MjE5OSwwMDAwMDAwMDgyY2U0OGQ1MGNmYWJhZDNhY2I2MzY0YzVjZjkwZTQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 
 > You're on top of the world\. Don't forget it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,584,072 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,584,055 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fpCWaHOned.md) - [plain]
 | 74 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
 | 75 | [Without You](https://open.spotify.com/track/7tM5EjeyfAj2JaEF65Xdoe) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Wonderful Misery](https://open.spotify.com/album/6EJEERSwihTBo55O5MzgM2) | 3:46 |
 
-Snapshot ID: `MTY0MTY4OTA2MCwwMDAwMDAwMGNkMzA2YmExN2IzOGZjNzA0ZmE5NTQxMWU5MjFhZjFj`
+Snapshot ID: `MTY0MTY5MjAxMCwwMDAwMDAwMGNkMzA2YmExN2IzOGZjNzA0ZmE5NTQxMWU5MjFhZjFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 
 > Latin tunes to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,341 likes - 115 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,352 likes - 115 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc2CX1rMGAc.md) - [plain]
 | 114 | [Wow \- Remix](https://open.spotify.com/track/23eecknvvR5iFTcuS9Dkfd) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Wow \(Remix\)](https://open.spotify.com/album/3in0Uyt6xI16F9MNtOBoxV) | 5:16 |
 | 115 | [PAPA JOHNS](https://open.spotify.com/track/78priJC6WYdAjjH9CoaXMA) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:28 |
 
-Snapshot ID: `MTY0MTY4OTI3NiwwMDAwMDAwMGZhNTAzNzQ2NjFiYTM4YjVkYzk1OGMyMzAwM2RiNmY4`
+Snapshot ID: `MTY0MTY5MjIzMSwwMDAwMDAwMGZhNTAzNzQ2NjFiYTM4YjVkYzk1OGMyMzAwM2RiNmY4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 
 > Uplifting and energetic music that helps you stay motivated.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,079,704 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,079,774 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxcBWuJkbcy.md) - [plain]
 | 99 | [Tightrope](https://open.spotify.com/track/7hdy8UqbRmEyOcsF1DcfhJ) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Tightrope](https://open.spotify.com/album/4HlZSSP04t6PPG2ifhltr5) | 2:24 |
 | 100 | [Tough Love \- Tiësto Remix / Radio Edit](https://open.spotify.com/track/7bF6tCO3gFb8INrEDcjNT5) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Tough Love \(Tiësto Remix\)](https://open.spotify.com/album/7CvAfGvq4RlIwEbT9o8Iav) | 3:13 |
 
-Snapshot ID: `MTY0MTY4OTI4NCwwMDAwMDAwMDk5YTcxYjE2Nzg0NmU2NjFjMzJhODgxZGYxMDhiNzZk`
+Snapshot ID: `MTY0MTY5MjIzOSwwMDAwMDAwMDk5YTcxYjE2Nzg0NmU2NjFjMzJhODgxZGYxMDhiNzZk`

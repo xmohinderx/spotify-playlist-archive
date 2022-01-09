@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner ta journée\.  Photo: Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,820 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,824 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 99 | [Lettre à un cowboy](https://open.spotify.com/track/20lTQxwyKRLUzycbzIl8kA) | [Rougemont](https://open.spotify.com/artist/1Q0JLPdGdwNf2gDJwTVQWY), [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji), [L'indice](https://open.spotify.com/artist/2QGS6aI5UYUqorMVfo1MDm), [Le Husky](https://open.spotify.com/artist/5UKoCmzADSRKmREG2vUK8L) | [Lettre à un cowboy](https://open.spotify.com/album/0QVdiXqMe2QcVpuF8WZq2Y) | 3:49 |
 | 100 | [Bloc appartement](https://open.spotify.com/track/7cHDCbp1I6oZVwox0fEFcG) | [Olivier Lessard](https://open.spotify.com/artist/475de0iJKSQa7PebOU27Lk) | [En attendant les normales de saison \- EP](https://open.spotify.com/album/4kbWX80pZW3PzuGC7wk679) | 3:36 |
 
-Snapshot ID: `MTY0MTY4OTI1NSwwMDAwMDAwMDZjYWZiNzRlOTU5NDhlNDZiZWI2YzY4ZjEyOGNjMDQ5`
+Snapshot ID: `MTY0MTY5MjIxMCwwMDAwMDAwMDZjYWZiNzRlOTU5NDhlNDZiZWI2YzY4ZjEyOGNjMDQ5`

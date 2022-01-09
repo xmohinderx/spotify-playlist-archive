@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: Joni Mitchell
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,333,552 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,333,577 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 99 | [Love the One You're With](https://open.spotify.com/track/6kXGGyEPSRS1g9Ltm70jo9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Replay](https://open.spotify.com/album/1ZMa2C7vUFFCqX8xcFuFX3) | 3:04 |
 | 100 | [2000 Man](https://open.spotify.com/track/7jGg2uNzVLmkzL79X8Ysz9) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Their Satanic Majesties Request](https://open.spotify.com/album/0Wx26DAb2cm79j5ofIKKFZ) | 3:07 |
 
-Snapshot ID: `MTY0MTY4OTA2OSwwMDAwMDAwMDVlODUzYjRmMmZmYzA0NGE5ZTQwMzc1MmQ3ZmU0MGE1`
+Snapshot ID: `MTY0MTY5MjAyMCwwMDAwMDAwMDVlODUzYjRmMmZmYzA0NGE5ZTQwMzc1MmQ3ZmU0MGE1`

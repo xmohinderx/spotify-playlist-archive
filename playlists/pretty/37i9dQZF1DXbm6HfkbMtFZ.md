@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,745 likes - 115 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,757 likes - 115 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 24 | [Why I Came To California](https://open.spotify.com/track/3UevP4SvSdMJULZZr5ZBkA) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Why I Came To California](https://open.spotify.com/album/4OM02rEXhwCm8dfTUFGIHO) | 4:39 |
 | 25 | [Dark Days \[Feat\. Sylvan Esso\]](https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Dark Days \[Feat\. Sylvan Esso\]](https://open.spotify.com/album/4DZlJSUZnQUFMv4nW6Ijgv) | 3:01 |
 | 26 | [Freedom For a Change](https://open.spotify.com/track/2C0uAETVUpvW1DjMsu8xcb) | [Gizmo Varillas](https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj) | [Freedom For a Change](https://open.spotify.com/album/0zpPgSOoLfGB6IOtFsLuXo) | 2:38 |
-| 27 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
-| 28 | [Runway Gurl \- Original Mix](https://open.spotify.com/track/4qEt7wJkdViaMNi2EP0SDk) | [Chuggin Edits](https://open.spotify.com/artist/765A5emJkUUu04hkQaN3Op) | [Get a Room](https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ) | 5:34 |
-| 29 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 |
-| 30 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
+| 27 | [Runway Gurl \- Original Mix](https://open.spotify.com/track/4qEt7wJkdViaMNi2EP0SDk) | [Chuggin Edits](https://open.spotify.com/artist/765A5emJkUUu04hkQaN3Op) | [Get a Room](https://open.spotify.com/album/5GpVL1Hn8CFb2vhhLCQacJ) | 5:34 |
+| 28 | [You Don’t Want Me](https://open.spotify.com/track/7uQQG43MouzO3JmZfnchoc) | [Wesley Bright and the Honeytones](https://open.spotify.com/artist/6MW5yx2dPhGcNizd0Y4L9l) | [Happiness / You Don't Want Me](https://open.spotify.com/album/1NQYKIeybp3YoB8hecwbJu) | 4:25 |
+| 29 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
+| 30 | [Rose Pink Cadillac](https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Rose Pink Cadillac](https://open.spotify.com/album/0JUuId9ZVeNiCk9KGtAUuv) | 4:21 |
 | 31 | [Lucy](https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW) | [Yenkee](https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd) | [Lucy](https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz) | 3:46 |
 | 32 | [Si je pleure](https://open.spotify.com/track/419r09nkiuWfGSoLNLpB2P) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Soleil '96](https://open.spotify.com/album/4xP2CYijUf78h9WZVqdilE) | 3:45 |
 | 33 | [The Rain Song](https://open.spotify.com/track/4cpEjk1FaYNiv5jrUMQuaH) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [Midnight Movement / The Rain Song](https://open.spotify.com/album/7BG7bh5EW2SwKOyBkKd7ho) | 3:52 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 86 | [Feel Better Now](https://open.spotify.com/track/5F5tU7gE94Kmzi7lHPCgUp) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Feel Better Now](https://open.spotify.com/album/33d0GIhGtH6VL2cLx05yIk) | 3:45 |
 | 87 | [ギター](https://open.spotify.com/track/0bwwuOZT6pUeSbmep11qjx) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [曽我部恵一](https://open.spotify.com/album/7ImJZrXzZ0iHf7BoUDw2Xk) | 2:55 |
 | 88 | [Say You Love Me](https://open.spotify.com/track/6lrQo6KAYvb92MGk6ZuZlt) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:09 |
-| 89 | [This Is My Story](https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [This Is My Story](https://open.spotify.com/album/7FuvTyHDnLDuGWaVCWsjMx) | 2:12 |
-| 90 | [Talk It Out](https://open.spotify.com/track/5sDxIlinyY5NL7HIt1XJ1j) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/6NYqCTdy9xH6p1n4wSR98x) | 3:10 |
+| 89 | [Talk It Out](https://open.spotify.com/track/5sDxIlinyY5NL7HIt1XJ1j) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/6NYqCTdy9xH6p1n4wSR98x) | 3:10 |
+| 90 | [This Is My Story](https://open.spotify.com/track/0VjwGDxuJc2rSOZKHjPiTc) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [This Is My Story](https://open.spotify.com/album/7FuvTyHDnLDuGWaVCWsjMx) | 2:12 |
 | 91 | [Passion](https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk) | [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [BOY](https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1) | 2:12 |
 | 92 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 |
 | 93 | [Live On](https://open.spotify.com/track/69AKIOHQKkvr70BxFS6FA2) | [The Flying Stars Of Brooklyn NY](https://open.spotify.com/artist/1Q33Sd9px79c7lWMbQXwxm) | [My God Has a Telephone](https://open.spotify.com/album/1mUZg3cuUcwifewwTCewbM) | 4:09 |
@@ -111,10 +111,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 101 | [wyd](https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/2CH2VAYcNjvq5xA6zeudTt) | 2:54 |
 | 102 | [Corners](https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Wildflower](https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0) | 3:39 |
 | 103 | [Didn't I \(Florent F Rework\)](https://open.spotify.com/track/5dO9U61RjDdPONjwchImNh) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc), [Florent F](https://open.spotify.com/artist/4XnXWl1WsBVbDvkEG9jZij) | [Didn't I \- EP](https://open.spotify.com/album/4ne0arqARv5yfiytCDE2TF) | 3:45 |
-| 104 | [Girl](https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l) | 3:34 |
-| 105 | [Guess I'm Jaded](https://open.spotify.com/track/2m5H5ixFhNzJ8cm0bReT7R) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Moontower](https://open.spotify.com/artist/56y2IdpRthuW4pDZbqwjlz) | [Guess I'm Jaded](https://open.spotify.com/album/7kn5KwlDX7hBmN8JWb11rI) | 3:11 |
-| 106 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
-| 107 | [More Of This](https://open.spotify.com/track/7IzTg6LQ9Lkm1zpziKifIq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/2wUNVVsJ1rgX6kKL3QP3MN) | 4:00 |
+| 104 | [Guess I'm Jaded](https://open.spotify.com/track/2m5H5ixFhNzJ8cm0bReT7R) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl), [Moontower](https://open.spotify.com/artist/56y2IdpRthuW4pDZbqwjlz) | [Guess I'm Jaded](https://open.spotify.com/album/7kn5KwlDX7hBmN8JWb11rI) | 3:11 |
+| 105 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
+| 106 | [More Of This](https://open.spotify.com/track/7IzTg6LQ9Lkm1zpziKifIq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/2wUNVVsJ1rgX6kKL3QP3MN) | 4:00 |
+| 107 | [Girl](https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn) | [Girl Ray](https://open.spotify.com/artist/0MoDfakkeeD4FwftxAXwEd) | [Girl](https://open.spotify.com/album/5uToqdsQXa0200HXDFZE9l) | 3:34 |
 | 108 | [Canta](https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN) | [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Canta](https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik) | 4:35 |
 | 109 | [Undone](https://open.spotify.com/track/4BcaNB0eyndTwYosTvkV5H) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [You](https://open.spotify.com/album/7qBrrDS8inczS103oA3pln) | 3:25 |
 | 110 | [Spread Lurve \- Original Mix](https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt) | [Pools](https://open.spotify.com/artist/4CVKH0jR8E2EjMGYN2Wi21) | [Innertubes](https://open.spotify.com/album/3ESWPoVJbo3tj9feBOhLD2) | 5:06 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 |
 | 115 | [Beatin’ tha Breaks \- Freddie Joachim Remix](https://open.spotify.com/track/4pL8MP37x4cMmXk6Tcn1dS) | [Magic In Threes](https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay) | [Future Disco: Beach Life](https://open.spotify.com/album/7BQpUHRGyTvl6q5gOj0vAz) | 4:08 |
 
-Snapshot ID: `MTY0MTU3ODkwMywwMDAwMDEyZTAwMDAwMTdlMzViYTM5ODIwMDAwMDE3MTc0ODcyNzli`
+Snapshot ID: `MTY0MTY5MjE4OCwwMDAwMDAwMDcwYmI3YjNhZWFiNjc0NDk1M2VhNDFmODk0MzllMDMz`

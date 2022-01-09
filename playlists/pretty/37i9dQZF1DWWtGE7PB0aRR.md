@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 64 | [I Don't Care](https://open.spotify.com/track/6WIaTMyMrZSbM2Zlz3fTY6) | [Duffy Power](https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN) | [The Marquis Sessions](https://open.spotify.com/album/0MdqEk7d89aIZn1WgkHfbk) | 2:42 |
 | 65 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 |
 
-Snapshot ID: `MTY0MTY4ODg3NCwwMDAwMDAwMDY2MGMzYTM2MTEyMTAzY2JkOTIzNDJhYjdjMjExZTQx`
+Snapshot ID: `MTY0MTY5MTgyMCwwMDAwMDAwMDY2MGMzYTM2MTEyMTAzY2JkOTIzNDJhYjdjMjExZTQx`

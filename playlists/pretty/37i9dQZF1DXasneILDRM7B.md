@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 
 > Please stand for your personal anthems.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,780 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,792 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXasneILDRM7B.md) - [plain]
 | 99 | [MakeDamnSure](https://open.spotify.com/track/48O6kz322Dzu1R6Al5147q) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(U.S\. Version\)](https://open.spotify.com/album/5MkvE4fgTdjQMEyVYZCdCk) | 3:28 |
 | 100 | [Medicine](https://open.spotify.com/track/77QGAIwpx3P0HRBpypNl4H) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Medicine](https://open.spotify.com/album/3FwCsc5BM8WXQnJv3nbTOw) | 3:11 |
 
-Snapshot ID: `MTY0MTY4OTIxNiwwMDAwMDAwMDk5ODk4NTM3NmE1MGM2NTdlZTE4YmQyZGY3NTA4NDU0`
+Snapshot ID: `MTY0MTY5MjE2OSwwMDAwMDAwMDk5ODk4NTM3NmE1MGM2NTdlZTE4YmQyZGY3NTA4NDU0`

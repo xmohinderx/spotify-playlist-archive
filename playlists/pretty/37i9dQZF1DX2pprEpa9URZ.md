@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,373 likes - 60 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,388 likes - 60 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Monday Prayers](https://open.spotify.com/track/6G4JWB0ddvIa5NyXDS8EjU) | [Yöurr](https://open.spotify.com/artist/1Zt82Ejt6v5R7zzySu8A1n) | [The Healer](https://open.spotify.com/album/56k8RCEIgpstCxRkHmg3kJ) | 6:40 |
 | 60 | [Mahe \- Original Mix](https://open.spotify.com/track/1FcjPH0eyBwrCV4JVjizQV) | [Fulltone](https://open.spotify.com/artist/56SDkyON4gWd6NmWoWx8HT) | [C'est Bon EP](https://open.spotify.com/album/1axe1SjMSKq0DVjGwAEHCt) | 6:46 |
 
-Snapshot ID: `MTY0MTY4OTAxMywwMDAwMDAwMDJlY2I0YTUzZDRhZDYyOGIwNWZmMGE5ZjZmOTk5ZWQx`
+Snapshot ID: `MTY0MTY5MTk2MywwMDAwMDAwMDJlY2I0YTUzZDRhZDYyOGIwNWZmMGE5ZjZmOTk5ZWQx`

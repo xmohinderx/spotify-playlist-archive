@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,751,614 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,751,641 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 149 | [You Say](https://open.spotify.com/track/3ngc7rGlfeFaskU90EWl4R) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/7dnYwtDQNa3xzaCoekrjL1) | 4:34 |
 | 150 | [Set Fire to the Rain](https://open.spotify.com/track/5PKWUDfQFtc5qqo8cs1gQp) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:02 |
 
-Snapshot ID: `MTY0MTY4ODkwOCwwMDAwMDAwMGM2ZDI4MTgwYzUzOTk4MDU0MTk4ZTBlMGVjMDU4ZTJm`
+Snapshot ID: `MTY0MTY5MTg1NiwwMDAwMDAwMGM2ZDI4MTgwYzUzOTk4MDU0MTk4ZTBlMGVjMDU4ZTJm`

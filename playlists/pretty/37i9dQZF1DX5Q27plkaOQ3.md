@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,664 likes - 98 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,660 likes - 98 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 97 | [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 |
 | 98 | [POP DAT](https://open.spotify.com/track/0QlBuSVxXyYw7HGNC2PAtd) | [Gawm](https://open.spotify.com/artist/3bce1zPmITQ2MGdCxGaSvL), [MATT DOE](https://open.spotify.com/artist/5p2AgyBv3S7CkWelQWBZ0R) | [POP DAT](https://open.spotify.com/album/1rPYKy7MvAeEPOmNc2OZvF) | 2:14 |
 
-Snapshot ID: `MTY0MTY4OTA4NCwwMDAwMDAwMGU2NGRiMWM3NGE3ODJlNzRiYzFkMjdhNzcyNWRmMGE3`
+Snapshot ID: `MTY0MTY5MjAzNSwwMDAwMDAwMGU2NGRiMWM3NGE3ODJlNzRiYzFkMjdhNzcyNWRmMGE3`

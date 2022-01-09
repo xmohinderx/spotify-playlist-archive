@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321,582 likes - 40 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,321,589 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 39 | [One I Got](https://open.spotify.com/track/6coM4ER26az6RA3lQDy2jv) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [One I Got](https://open.spotify.com/album/2XrdfV1FVczB3GYuBeetB3) | 3:05 |
 | 40 | [Close the Door](https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 5:25 |
 
-Snapshot ID: `MTYzNjU4NTA5NiwwMDAwMDA0ZDAwMDAwMTdkMGMxMmMzODgwMDAwMDE3YjUyODQyNWEz`
+Snapshot ID: `MTY0MTY5MTk1MSwwMDAwMDAwMDVkMWUwNTNlZDJjNTU0ZDFjZjZlMzkwMTU1ZDVmMTdi`

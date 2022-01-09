@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,647,787 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,647,786 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 99 | [Nace Un Borracho](https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY! \(Deluxe\)](https://open.spotify.com/album/6JsZWQ0iaOn0GbirYWqwCi) | 2:56 |
 | 100 | [Nadie ha dicho](https://open.spotify.com/track/7hSLEk0h67Q5NO1TfLHgLf) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Nadie ha dicho](https://open.spotify.com/album/2hp0naP4otrsfhw1xlXdvy) | 3:27 |
 
-Snapshot ID: `MTY0MTY4OTA2OSwwMDAwMDAwMGVlNzliMDM2ODJlYmRhZTQyN2Q0OTEyYWUxZjNjYzhm`
+Snapshot ID: `MTY0MTY5MjAxOSwwMDAwMDAwMGVlNzliMDM2ODJlYmRhZTQyN2Q0OTEyYWUxZjNjYzhm`

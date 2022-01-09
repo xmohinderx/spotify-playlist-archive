@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psych\. Cover: St\. Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,752 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,770 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 149 | [Vacation](https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Vacation](https://open.spotify.com/album/2yyJyMbVCggJxBxTguQdza) | 1:59 |
 | 150 | [Glo Ride](https://open.spotify.com/track/207ELWK7KG6KDoF3iZrMyf) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Glo Ride](https://open.spotify.com/album/3w3DqXdNacXfz44MtEEm3l) | 3:26 |
 
-Snapshot ID: `MTY0MTY4OTE2NywwMDAwMDAwMGM4YTI4MWZjOThiZGM5MzZkZjFiZTQ0YzNkYzU0MTU2`
+Snapshot ID: `MTY0MTY5MjExOCwwMDAwMDAwMGM4YTI4MWZjOThiZGM5MzZkZjFiZTQ0YzNkYzU0MTU2`

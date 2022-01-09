@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,226 likes - 60 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,231 likes - 60 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [Come Together](https://open.spotify.com/track/0aITsSU1pXt3Tt3noutwzM) | [Swales](https://open.spotify.com/artist/6XK8QXfi1PLT60pBkFeBy7) | [Come Together](https://open.spotify.com/album/2tYibtINwIiW3kyX8XToVY) | 6:49 |
 | 60 | [All I Need](https://open.spotify.com/track/7HtFDgrDfV9R8wlBaCLuXk) | [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO), [Jane](https://open.spotify.com/artist/1tWhAShzHHzPwgr9vPsgdR) | [All I Need](https://open.spotify.com/album/4C1fvHgY4EwE5xPF3BlCfB) | 3:40 |
 
-Snapshot ID: `MTY0MTY4ODk4OCwwMDAwMDAwMDY2NTJjN2RjMzM3OGVjMjE0MjFmZDQ4NGM2YTc5NTY5`
+Snapshot ID: `MTY0MTY5MTkzNywwMDAwMDAwMDY2NTJjN2RjMzM3OGVjMjE0MjFmZDQ4NGM2YTc5NTY5`

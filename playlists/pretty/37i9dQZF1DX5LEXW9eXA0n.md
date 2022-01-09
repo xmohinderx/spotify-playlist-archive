@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover: KangHyeWon\(강혜원\)\) \(당신의 감성에 발라드, 려요\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,597 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,617 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 49 | [Alone](https://open.spotify.com/track/133kp8Z4SADHKea8OYyzgt) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [The Witch's Diner \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/6Wi68SCcA5SfVOrNHkMyDL) | 3:46 |
 | 50 | [Rose](https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:33 |
 
-Snapshot ID: `MTY0MTY4OTA4MSwwMDAwMDAwMDk3Y2I3NTZjYTVhYjg4MzIyMTdkZTA4NmJmOTVjODA5`
+Snapshot ID: `MTY0MTY5MjAzMSwwMDAwMDAwMDk3Y2I3NTZjYTVhYjg4MzIyMTdkZTA4NmJmOTVjODA5`

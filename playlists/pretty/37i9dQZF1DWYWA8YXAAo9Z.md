@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,708 likes - 75 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,711 likes - 75 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Garlands](https://open.spotify.com/track/2OU3aFpcNqVEZ7tvZ0013P) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Let Night Come On Bells End The Day](https://open.spotify.com/album/2HGLGnjsMnsGfnoSyGzFnO) | 2:53 |
 | 75 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 |
 
-Snapshot ID: `MTY0MTY4ODkxMSwwMDAwMDAwMDljNTYzMzM4MGU3NGUwMGJlMDIyYmQzOGY4OWM2MThj`
+Snapshot ID: `MTY0MTY5MTg1OSwwMDAwMDAwMDljNTYzMzM4MGU3NGUwMGJlMDIyYmQzOGY4OWM2MThj`

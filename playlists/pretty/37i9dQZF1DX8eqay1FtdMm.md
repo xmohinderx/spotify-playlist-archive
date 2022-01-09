@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: KIM JAE HWAN \(김재환\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,696 likes - 58 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,697 likes - 58 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 57 | [Love should not be harsh on you](https://open.spotify.com/track/03TdLY0nav9sQ3kyjbyJ9t) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Love should not be harsh on you](https://open.spotify.com/album/6jHa0QNqdyT3w2jGIpR2z5) | 4:28 |
 | 58 | [빌려줄게](https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [EMPATHY](https://open.spotify.com/album/0qZUGtDGH0QjnqXD1zvQym) | 3:32 |
 
-Snapshot ID: `MTY0MTY4OTE2NiwwMDAwMDAwMDBhNTdjNTgwMDgxNzk5MmNlNTNiYjlmNzI0YTMxY2Vh`
+Snapshot ID: `MTY0MTY5MjExNywwMDAwMDAwMDBhNTdjNTgwMDgxNzk5MmNlNTNiYjlmNzI0YTMxY2Vh`

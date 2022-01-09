@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,292,885 likes - 68 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,292,884 likes - 68 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 67 | [RACKS](https://open.spotify.com/track/5xLtwPMec1Mx2haACjN3Tm) | [INF1N1TE](https://open.spotify.com/artist/3TbFfHyWvQdppfL0TpWufG), [Empty Stomach](https://open.spotify.com/artist/5VqEkhYn9XMiLfRfiFa2Vu) | [RACKS](https://open.spotify.com/album/3lZBbIZtdU2H5owmWNF701) | 3:44 |
 | 68 | [Replay The Night \(feat\. Nytrix\)](https://open.spotify.com/track/0NNHOCC22cpLt3fDF6t88l) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [Staysick](https://open.spotify.com/artist/45uC5ia7f1oj4TGlOSbtC4), [Nytrix](https://open.spotify.com/artist/1s8cu0X2A5YDwCLRN8AjFa) | [Replay The Night \(feat\. Nytrix\)](https://open.spotify.com/album/35FKDZS3YiNXkzuDXHOohv) | 3:51 |
 
-Snapshot ID: `MTY0MTY4OTA1OSwwMDAwMDAwMDE5YjdlZmI5ZjY5ZGJmMTk3NGUzNWY4Y2FlMmUxZWFm`
+Snapshot ID: `MTY0MTY5MjAxMCwwMDAwMDAwMDE5YjdlZmI5ZjY5ZGJmMTk3NGUzNWY4Y2FlMmUxZWFm`

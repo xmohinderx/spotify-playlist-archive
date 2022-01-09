@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 
 > Instrumental only\. For the maniacs out there\. Cover: pg.lost
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,974 likes - 130 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,981 likes - 130 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUk47CLxI4Uo.md) - [plain]
 | 129 | [Heavy Feather \- Instrumental](https://open.spotify.com/track/76x5nwldCeYU31phA3LkUB) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Epicenter \(Instrumental\)](https://open.spotify.com/album/0TJAjBZ7U52aZvfeyPMl4W) | 4:31 |
 | 130 | [Waterslide](https://open.spotify.com/track/114wOQBCwLpUxeDjTjZ4XT) | [Chon](https://open.spotify.com/artist/2JFljHPanIjYy2QqfNYvC0) | [Waterslide](https://open.spotify.com/album/4vexvyG2HYgvXK2PKz6JgY) | 3:26 |
 
-Snapshot ID: `MTY0MTY4ODgyNSwwMDAwMDAwMDMxNmQ2NGQ5Njk4ZjM2ZWEwMzhiYTY4ZDBkOTg3Mjg0`
+Snapshot ID: `MTY0MTY5MTc3MCwwMDAwMDAwMDMxNmQ2NGQ5Njk4ZjM2ZWEwMzhiYTY4ZDBkOTg3Mjg0`

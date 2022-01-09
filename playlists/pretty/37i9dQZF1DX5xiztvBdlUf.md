@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 469,452 likes - 80 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 469,460 likes - 80 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Inner Child \- Patrice Bäumel Remix](https://open.spotify.com/track/7clZJsHItM2ehnyyaEv94h) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Inner Child \(Patrice Bäumel Remix\)](https://open.spotify.com/album/0vsbf3Tnkl5IZx2ZVA0Eyj) | 4:13 |
 | 80 | [Kamenka](https://open.spotify.com/track/4abrxVPM6VkY010z7HAsBY) | [Stephan Zovsky](https://open.spotify.com/artist/7311LpGBvRgQVXyxBl2PzP) | [Kamenka](https://open.spotify.com/album/4TkIQjZcW3fEYmInBDbPav) | 9:35 |
 
-Snapshot ID: `MTYzNzkzNTYxMSwwMDAwMDA5ODAwMDAwMTdkNWM5MWZjYTQwMDAwMDE2ZDE1NDJiNTZh`
+Snapshot ID: `MTY0MTY5MjA1MCwwMDAwMDAwMDFhNWZiZTM5Yzg4YjkzNjRkZDJjNTI4MzJlNTJlYjhj`

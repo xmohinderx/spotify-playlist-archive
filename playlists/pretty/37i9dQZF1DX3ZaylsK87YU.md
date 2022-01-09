@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 99 | [O Praise the Name \(Anástasis\)](https://open.spotify.com/track/0uOFh6gGbvNdWZ20YZ9oAn) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:58 |
 | 100 | [Sooner Count the Stars](https://open.spotify.com/track/3Eao8XJ5auwZRSIMjL6oHq) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Sooner Count the Stars: Worshiping the Triune God](https://open.spotify.com/album/4nnETGFb2jOnogd5TUc4bw) | 4:31 |
 
-Snapshot ID: `MTY0MTY4OTAzNSwwMDAwMDAwMDNlMmNhZTY4MjRjYmEzZDI1NGQzYjBkYmYzMWMxZjc0`
+Snapshot ID: `MTY0MTY5MTk4NSwwMDAwMDAwMDNlMmNhZTY4MjRjYmEzZDI1NGQzYjBkYmYzMWMxZjc0`

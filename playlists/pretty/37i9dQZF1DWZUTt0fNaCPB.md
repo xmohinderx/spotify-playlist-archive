@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,933 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,945 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 74 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
 | 75 | [Gunpowder](https://open.spotify.com/track/1VsD2j8Zt6zCNpQlNYxiPq) | [Righteous Vendetta](https://open.spotify.com/artist/0H9lbVkJq2aj6SbqJKBVy5) | [Gunpowder](https://open.spotify.com/album/4ZX1nPgiTZOHZSRSHBKe2s) | 3:37 |
 
-Snapshot ID: `MTY0MTY4ODkyOCwwMDAwMDAwMDQ4YzIyN2QzNGMzMjBhOTMzMTdiMmRhOGJiMGRlNjZj`
+Snapshot ID: `MTY0MTY5MTg3NiwwMDAwMDAwMDQ4YzIyN2QzNGMzMjBhOTMzMTdiMmRhOGJiMGRlNjZj`

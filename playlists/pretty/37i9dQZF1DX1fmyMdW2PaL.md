@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,094 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,100 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 99 | [From the Grave](https://open.spotify.com/track/1SQIjUdXT3N0dZ4dwhRJ6V) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg), [Phil Campbell](https://open.spotify.com/artist/3CME5Ab1e9jd6I3abr26sN) | [From the Grave](https://open.spotify.com/album/064mgL489EPWpE1HDBh7zZ) | 2:18 |
 | 100 | [Profit Over People](https://open.spotify.com/track/5o0nmK4tQyGn3gXgP2KE3c) | [Chokehold](https://open.spotify.com/artist/10ZSIiveIdI41LlO6HVZS1) | [With This Thread I Hold On](https://open.spotify.com/album/4WEuyvGwL5zJ9Hd9xSTuvU) | 3:28 |
 
-Snapshot ID: `MTY0MTY4ODk4MSwwMDAwMDAwMGI3MmY0OTFkMTBlZTQxODlmYTIzNjZlOTM2MjE4NDU5`
+Snapshot ID: `MTY0MTY5MTkzMCwwMDAwMDAwMGI3MmY0OTFkMTBlZTQxODlmYTIzNjZlOTM2MjE4NDU5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX377iwEnODkR.md) - [plain]
 
 > The new sound of jazz\. Cover: Brian Blade
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,383 likes - 150 songs - 16 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,382 likes - 150 songs - 16 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX377iwEnODkR.md) - [plain]
 | 149 | [Ixwele \- Live](https://open.spotify.com/track/4ZzP0JkJbVY8pt5WHYTQub) | [Warped Dreamer](https://open.spotify.com/artist/3tJDdC0VEOrINxx05EgR46), [Stian Westerhus](https://open.spotify.com/artist/5ZXFBZdkFmb4aDmmvytDgJ), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd) | [Live at Bimhuis](https://open.spotify.com/album/4ty44bZLF9dq5Rh5dqfroV) | 5:58 |
 | 150 | [Smoking Gun \- Live](https://open.spotify.com/track/1FlIvBLYq0iQxCw8r3XM0W) | [Dayna Stephens](https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin) | [Right Now! Live at the Village Vanguard](https://open.spotify.com/album/2mKrRGza6jOCcfg0L3vL63) | 6:29 |
 
-Snapshot ID: `MTY0MTY4OTAyMCwwMDAwMDAwMGJiZDNiNDk4MzM4MTk0Njk2MjUxNzNiNDEzNTJlYjMw`
+Snapshot ID: `MTY0MTY5MTk3MSwwMDAwMDAwMGJiZDNiNDk4MzM4MTk0Njk2MjUxNzNiNDEzNTJlYjMw`

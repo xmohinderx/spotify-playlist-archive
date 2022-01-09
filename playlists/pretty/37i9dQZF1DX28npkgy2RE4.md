@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Allison Ponthier
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,367 likes - 150 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,368 likes - 150 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 149 | [Dreamer](https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Dreamer](https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb) | 4:54 |
 | 150 | [Rock Me Gently](https://open.spotify.com/track/3HmcLVLOp2AsKbNBM0utBr) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire](https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A) | 3:30 |
 
-Snapshot ID: `MTY0MTY4ODk5NywwMDAwMDAwMDljMWI1ZDUxZWNlOTQwZmI4NjE0ODQ1MGNmMjI4NjY5`
+Snapshot ID: `MTY0MTY5MTk0NywwMDAwMDAwMDljMWI1ZDUxZWNlOTQwZmI4NjE0ODQ1MGNmMjI4NjY5`

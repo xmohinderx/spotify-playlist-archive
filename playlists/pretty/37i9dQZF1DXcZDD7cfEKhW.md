@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: Dua Lipa & Elton John.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,267,605 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,609 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 99 | [Still Dancing \- Kito Remix](https://open.spotify.com/track/1eXBUdg633i0wXocYOeMjJ) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Still Dancing \(Kito Remix\)](https://open.spotify.com/album/18sq99cjUnBbIrezH2gJf2) | 3:08 |
 | 100 | [If The World Just Danced \- MOTi Remix](https://open.spotify.com/track/7kEh6jNlJOAhC0lv6XV3iw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [If The World Just Danced \(MOTi Remix\)](https://open.spotify.com/album/3z5pt1H2x64IxipkGh9pjy) | 3:29 |
 
-Snapshot ID: `MTY0MTY4OTI1MiwwMDAwMDAwMDAwM2FjMDdlZjc3ZDBkNzdjYzE5NTgwNjhmMGM1ZDJi`
+Snapshot ID: `MTY0MTY5MjIwNiwwMDAwMDAwMDAwM2FjMDdlZjc3ZDBkNzdjYzE5NTgwNjhmMGM1ZDJi`
