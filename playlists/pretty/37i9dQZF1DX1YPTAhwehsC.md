@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: A Boogie Wit Da Hoodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,541 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,586 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 5 | [My Escape](https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [My Escape](https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3) | 3:43 |
 | 6 | [Man Down](https://open.spotify.com/track/2XR0Ou0pDaQ2bmVMsG90qe) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Man Down](https://open.spotify.com/album/09m8euGboz6XzRCjsf9ezz) | 2:57 |
 | 7 | [Dear Fear](https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Dear Fear](https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6) | 3:19 |
-| 8 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:50 |
+| 8 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 |
 | 9 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 |
 | 10 | [Talk Nice](https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Talk Nice](https://open.spotify.com/album/4oPuSNNJzdQWn7Qf6UdlmE) | 1:51 |
 | 11 | [Oh Shhh](https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk) | [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to) | [Oh Shhh](https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S) | 1:33 |

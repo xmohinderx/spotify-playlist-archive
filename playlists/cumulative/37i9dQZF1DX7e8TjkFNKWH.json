@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 312986,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0lqYRbRiGc5oiCUW51JH5s"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 206000,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/64mbx7QFi24Hm9GDUXhUMB"
@@ -1531,7 +1531,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 238560,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5hmRhU6fWzH0NjYmfhHjhp"
@@ -1728,6 +1728,32 @@
     },
     {
       "album": {
+        "name": "The Cookbook",
+        "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Fatman Scoop",
+          "url": "https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226863,
+      "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
+      "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
+      "album": {
         "name": "Destiny Fulfilled",
         "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
       },
@@ -1899,7 +1925,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 223773,
       "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
       "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
@@ -1975,7 +2001,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
@@ -2029,7 +2055,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 190000,
       "name": "My My My - Radio Edit",
       "url": "https://open.spotify.com/track/4a2R36HOxSh9qdyLDrkMzK"
@@ -2141,7 +2167,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 211493,
       "name": "Play",
       "url": "https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14"
@@ -2253,7 +2279,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 150533,
       "name": "Put Your Hands Up for Detroit - Radio Edit",
       "url": "https://open.spotify.com/track/59tociwbFnfTnR6K8rpjuF"
@@ -2421,7 +2447,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 195973,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/03N0ZpS5QaC9ga9i2xO9Vp"
@@ -2519,7 +2545,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 214819,
       "name": "Shalala Lala",
       "url": "https://open.spotify.com/track/6iiaDMXr1eqnSEH9W4DLYC"
@@ -2559,6 +2585,28 @@
       "duration_ms": 188866,
       "name": "She Wolf",
       "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
+    },
+    {
+      "album": {
+        "name": "Party Rock",
+        "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222133,
+      "name": "Shots",
+      "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
     },
     {
       "album": {
@@ -2643,6 +2691,24 @@
       "duration_ms": 212360,
       "name": "Smack That",
       "url": "https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA"
+    },
+    {
+      "album": {
+        "name": "So What (Bimbo Jones Radio Mix)",
+        "url": "https://open.spotify.com/album/5unrePMkDVYaoNU77GhNXp"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216320,
+      "name": "So What - Bimbo Jones Radio Mix",
+      "url": "https://open.spotify.com/track/0NO5dy7nf2fldwQwdTWNja"
     },
     {
       "album": {
@@ -2765,7 +2831,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 208386,
       "name": "Sweet Dreams My LA Ex - Radio Edit",
       "url": "https://open.spotify.com/track/4D0Vgh0c6zZas2yEN9ENuE"

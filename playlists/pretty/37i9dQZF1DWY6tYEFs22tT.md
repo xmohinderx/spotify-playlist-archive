@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > The names you know and the names you need to know in hip\-hop\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 800,647 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 800,710 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 11 | [300 Raccs](https://open.spotify.com/track/2UVepLC3mt7HQERVtzky3K) | [Drakeo the Ruler](https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf) | [So Cold I Do Em 2](https://open.spotify.com/album/3z4iTffseZwME9sW422cuf) | 2:49 |
 | 12 | [Feline \(with Polo G & Trippie Redd\)](https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:32 |
 | 13 | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/track/6RfhBNU1FPWTG7VESlfgOl) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Bad Man \(Smooth Criminal\)](https://open.spotify.com/album/7riCJFypFAOsAHy4MTcNp5) | 1:46 |
-| 14 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:50 |
+| 14 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 |
 | 15 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe) | 3:17 |
 | 16 | [My Escape](https://open.spotify.com/track/5joeIfncVcIwkrOqyXvKCx) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [My Escape](https://open.spotify.com/album/1OM4rOFBBHRbN588TxCrD3) | 3:43 |
 | 17 | [Faith](https://open.spotify.com/track/122br9dGnrQQgo5j19qeif) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [CHOMP 2](https://open.spotify.com/album/6a1EFm7L9Nl1wTm7JsrYBK) | 3:39 |

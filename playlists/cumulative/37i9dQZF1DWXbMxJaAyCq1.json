@@ -35,7 +35,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 237588,
       "name": "+Linda - Remix",
       "url": "https://open.spotify.com/track/3fjGgq6FEwGcIZfWx9W6ez"
@@ -81,7 +81,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 464200,
       "name": "105 F Remix",
       "url": "https://open.spotify.com/track/1aUGxXCz9QimNkKeiJtzZ7"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 327466,
       "name": "Asesina - Remix",
       "url": "https://open.spotify.com/track/59PYgzOiOjGDzjDT5N5oOX"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 275217,
       "name": "Extra\u00f1andote - Remix",
       "url": "https://open.spotify.com/track/0sNRkMXnwgJgGWEb1ntpHj"
@@ -1227,10 +1227,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 214880,
       "name": "FUMETEO - Remix",
       "url": "https://open.spotify.com/track/4sIVl8rmGPDemhnod4JID3"
+    },
+    {
+      "album": {
+        "name": "Haw\u00e1i (Remix)",
+        "url": "https://open.spotify.com/album/1Ag9EPbzibwzz0S0WpgX3v"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200481,
+      "name": "Haw\u00e1i - Remix",
+      "url": "https://open.spotify.com/track/0GzuHFG4Ql6DoyxFRnIk3F"
     },
     {
       "album": {
@@ -1265,6 +1287,32 @@
       "duration_ms": 249520,
       "name": "Hola - Remix",
       "url": "https://open.spotify.com/track/5stPVcRqb4qixbafP9e8lt"
+    },
+    {
+      "album": {
+        "name": "Illuminati (Remix)",
+        "url": "https://open.spotify.com/album/1hYkac7PNbTZlOOXwZJSam"
+      },
+      "artists": [
+        {
+          "name": "Kiddtetoon",
+          "url": "https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290666,
+      "name": "Illuminati - Remix",
+      "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
     },
     {
       "album": {
@@ -1579,7 +1627,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 370418,
       "name": "La Mitad de los Chavos - Remix",
       "url": "https://open.spotify.com/track/3d0Jcw0WCewp9pV9aTIKTX"
@@ -1605,7 +1653,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "La Playa - Remix",
       "url": "https://open.spotify.com/track/70zg99pT51vB4wlMS7e4q7"
@@ -1639,6 +1687,40 @@
       "duration_ms": 280178,
       "name": "La Suite (feat. Kevin Roldan) - Remix",
       "url": "https://open.spotify.com/track/0fUmYcDMwGnT2aRSgxjijW"
+    },
+    {
+      "album": {
+        "name": "La T\u00f3xica (feat. Jay Wheeler & Tempo) [Remix]",
+        "url": "https://open.spotify.com/album/1km4pyoUYWxuu1WQJzpxXc"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Tempo",
+          "url": "https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294240,
+      "name": "La T\u00f3xica (feat. Jay Wheeler & Tempo) - Remix",
+      "url": "https://open.spotify.com/track/4gChz67rTHfVzKCZAHsifM"
     },
     {
       "album": {
@@ -1771,7 +1853,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 370466,
       "name": "Manantial - Remix",
       "url": "https://open.spotify.com/track/3s2pqCMbWnocIzhKJF55Ls"
@@ -2023,7 +2105,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 245400,
       "name": "Nada - Remix",
       "url": "https://open.spotify.com/track/4pmsYmLA5xefLsXeaJqCbU"
@@ -2313,7 +2395,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 287773,
       "name": "Otro Trago - Remix",
       "url": "https://open.spotify.com/track/4bTZeO72FwMa6wKOiqoynL"
@@ -2347,7 +2429,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 318600,
       "name": "Pa Los Gustos Los Colores - Remix",
       "url": "https://open.spotify.com/track/0VPN27Nd8gQPe3tT16nsyG"
@@ -2423,6 +2505,40 @@
       "duration_ms": 256417,
       "name": "Pa Olvidarte (feat. Manuel Turizo) - Remix",
       "url": "https://open.spotify.com/track/2ktoFujjJtantyMoVdBJlX"
+    },
+    {
+      "album": {
+        "name": "Pasame la Botella (Remix)",
+        "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
+      },
+      "artists": [
+        {
+          "name": "Balbi El Chamako",
+          "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Malito Malozo",
+          "url": "https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD"
+        },
+        {
+          "name": "El Maniako The Boost",
+          "url": "https://open.spotify.com/artist/5lwU7m62FDvwm2hnNxfStO"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348013,
+      "name": "Pasame la Botella - Remix",
+      "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
     },
     {
       "album": {
@@ -2621,7 +2737,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 212629,
       "name": "Prende la C\u00e1mara RMX",
       "url": "https://open.spotify.com/track/5A1vGSsqw0UQCBxHOyPOjG"
@@ -2693,7 +2809,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 256081,
       "name": "Qui\u00e9reme (feat. Abraham Mateo & Lary Over) - Remix",
       "url": "https://open.spotify.com/track/782JmkLy6uVD8MW0EJrih9"
@@ -2951,7 +3067,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 202546,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"

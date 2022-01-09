@@ -1,12 +1,12 @@
 {
   "description": "What's happening in R&B, right now. Cover: The Weeknd",
   "name": "R&B Right Now",
-  "num_followers": 345248,
+  "num_followers": 345282,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMjI4MCwwMDAwMDMxZjAwMDAwMTdlMzJmMmQwODAwMDAwMDE3ZTMwZjZmNTZk",
+  "snapshot_id": "MTY0MTY3MjYxNSwwMDAwMDMyMDAwMDAwMTdlM2I1MDI3YzkwMDAwMDE3ZTMwZjZmNTZk",
   "tracks": [
     {
       "added_at": "2022-01-07 05:01:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs and Hrs",
+      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
         "name": "Scenic Drive (The Tape)",
         "url": "https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE"
       },
@@ -341,7 +357,7 @@
         }
       ],
       "duration_ms": 196760,
-      "name": "Tears In The Club (feat. The Weeknd)",
+      "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P"
     },
     {
@@ -659,22 +675,6 @@
       "duration_ms": 174728,
       "name": "Good Morning Gorgeous",
       "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
     },
     {
       "added_at": "2022-01-07 05:01:00",

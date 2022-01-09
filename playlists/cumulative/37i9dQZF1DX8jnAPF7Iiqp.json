@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 249589,
       "name": "Dayfall",
       "url": "https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 282742,
       "name": "Do U?",
       "url": "https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 281379,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH"
@@ -488,6 +488,24 @@
     },
     {
       "album": {
+        "name": "Flip the Narrative",
+        "url": "https://open.spotify.com/album/3mhsiCN7eYCaCZoabi3zjW"
+      },
+      "artists": [
+        {
+          "name": "LTJ Bukem",
+          "url": "https://open.spotify.com/artist/5Wfn5sc1w3DhMTpU7oPJZL"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327002,
+      "name": "Flip the Narrative",
+      "url": "https://open.spotify.com/track/4MofxvuNdf1MTSi33NBDUw"
+    },
+    {
+      "album": {
         "name": "Freak (Used Remix)",
         "url": "https://open.spotify.com/album/1MCWIGoES5nxFBS2inrKRn"
       },
@@ -507,7 +525,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 187857,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/515OfuSUlr2igB70C83M13"
@@ -583,7 +601,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -627,6 +645,28 @@
       "duration_ms": 198620,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "album": {
+        "name": "House Of The Rising Sun",
+        "url": "https://open.spotify.com/album/2dYZFEkF2SeUp9X3XDX3BV"
+      },
+      "artists": [
+        {
+          "name": "Peshay",
+          "url": "https://open.spotify.com/artist/07ogfrunSUmnsEsPQdRQUB"
+        },
+        {
+          "name": "Steppa",
+          "url": "https://open.spotify.com/artist/2tNkGhVcQFvG9hP43HTTsL"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506633,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/6gm9XQMuhgLvxG8RDGcwVb"
     },
     {
       "album": {
@@ -685,7 +725,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 225847,
       "name": "Infinite (Freedom)",
       "url": "https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi"
@@ -747,7 +787,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -901,7 +941,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
@@ -923,7 +963,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 177931,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7iSUYpEq065PlyuWxzQWdf"
@@ -989,7 +1029,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 248720,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9"
@@ -1041,7 +1081,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 271542,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO"
@@ -1129,7 +1169,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 244151,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8"
@@ -1341,7 +1381,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 295172,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/5DYRbPE5eUiW3I3bakPmo0"
@@ -1371,7 +1411,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 167223,
       "name": "This World - CLIPZ Remix Edit",
       "url": "https://open.spotify.com/track/3WlpeGOzziWPpzNwSpiaCl"
@@ -1389,7 +1429,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 325517,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
@@ -1411,7 +1451,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 212591,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/0kuYcrNwT08HZTpmxvgDb2"

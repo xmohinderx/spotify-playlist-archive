@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Boneless",
       "url": "https://open.spotify.com/track/5PZI5xTcMq8FsCcEroth7S"
@@ -319,7 +319,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 174398,
       "name": "Boy Oh Boy",
       "url": "https://open.spotify.com/track/20c8kwM60klIrU9LIYNv0X"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 235024,
       "name": "Concrete Angel (Radio Edit) (feat. Christina Novelli)",
       "url": "https://open.spotify.com/track/0emkFigRCrQnsaOOnhtoFY"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 473282,
       "name": "Drowning - Avicii Extended Remix",
       "url": "https://open.spotify.com/track/7dUWdjffkQ3jEece01s2gg"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 277546,
       "name": "Express Yourself (feat. Nicky Da B)",
       "url": "https://open.spotify.com/track/7s5a2gLa9Ip1LDKeAaHJRr"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 183760,
       "name": "Feed The Dada",
       "url": "https://open.spotify.com/track/6lc6S1eIoJhi6YJn6lCnHB"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 166099,
       "name": "Gecko",
       "url": "https://open.spotify.com/track/5ilkrJ2rvP1mZXchgkIEGP"
@@ -2199,7 +2199,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 451042,
       "name": "Running Out",
       "url": "https://open.spotify.com/track/4tvnMCFnbjJngcYJB1kzPs"
@@ -2925,10 +2925,32 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 195466,
       "name": "Years",
       "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
+    },
+    {
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/5McL4QMcdi5XmBQBAonR1D"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "date_added": "2021-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/2KrHwwnKAfSDdOStftigJm"
     },
     {
       "album": {

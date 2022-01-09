@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Germany.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069,499 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069,620 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJiZcmkrIHGU.md) - [plain]
 | 2 | [10von10 \- Remix](https://open.spotify.com/track/5aoj3AXkJ7K2h5r8mmD6FS) | [Pajel](https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [10von10 \(Remix\)](https://open.spotify.com/album/0l9JaG4c0PwyPsBfVN03lq) | 3:10 |
 | 3 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
 | 4 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
-| 5 | [Molly \(feat\. Bausa\)](https://open.spotify.com/track/0BtIXZTbb0cczvMEvZILDJ) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Molly \(feat\. Bausa\)](https://open.spotify.com/album/3jag5n0erRM7pI85DCers3) | 2:38 |
+| 5 | [Molly \(feat\. Bausa\)](https://open.spotify.com/track/0BtIXZTbb0cczvMEvZILDJ) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Molly \(feat\. Bausa\)](https://open.spotify.com/album/3jag5n0erRM7pI85DCers3) | 2:39 |
 | 6 | [Mit Dir](https://open.spotify.com/track/2xFMvrqk99biaLQavjufta) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Mit Dir](https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo) | 2:49 |
 | 7 | [LOYALTY OVER LOVE](https://open.spotify.com/track/0iW7kcRCbGZrgHeCENon1x) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [LOYALTY OVER LOVE](https://open.spotify.com/album/7rIaWEhgDe2UgpWb5sqir0) | 3:16 |
 | 8 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 |

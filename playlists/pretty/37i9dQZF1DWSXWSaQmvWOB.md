@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,053 likes - 114 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,184 likes - 114 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

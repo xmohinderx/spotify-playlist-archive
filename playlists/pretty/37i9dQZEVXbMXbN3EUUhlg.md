@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,922,855 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,924,060 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 | 30 | [Você Beberia Ou Não Beberia?](https://open.spotify.com/track/2ixi9HWJw5lnLDmRMsiCS5) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Chaaama](https://open.spotify.com/album/7c3OrNevQnYSjGRFAjz5C1) | 2:34 |
 | 31 | [Bala Love](https://open.spotify.com/track/48Ll1C6qAnP2UjnopQDh4a) | [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Dj Lv Mdp](https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW), [DJ PH DA SERRA](https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI) | [Bala Love](https://open.spotify.com/album/1Hr2BJE35v4OYirOAe0hA3) | 3:41 |
 | 32 | [Dar uma Namorada \- Ao Vivo](https://open.spotify.com/track/2PZmUFZGlUqkYJL0s0Cl6C) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Israel & Rodolffo: Ao Vivo Em Brasília, Vol\. 1](https://open.spotify.com/album/1nttpPXU88Llqwed7qJ19a) | 2:09 |
-| 33 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Ws On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 |
+| 33 | [Eu Já Tava Bem \- Ao Vivo](https://open.spotify.com/track/5lCAtKxkZL6tFDyGX9t87j) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [WS On Board \(Ao Vivo\)](https://open.spotify.com/album/3jk9qHtMT4eVvVwvUVD11z) | 2:15 |
 | 34 | [Água Nos Zói \- Ao Vivo](https://open.spotify.com/track/77rIMl1WIrLf4ZDKFYZ4ji) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Água Nos Zói \(Ao Vivo\)](https://open.spotify.com/album/055iSHIEhSre9fapRUBcRP) | 3:08 |
 | 35 | [Vestido Coladinho](https://open.spotify.com/track/1d7AtPeraWVsvI4U1YTHt1) | [Max e Luan](https://open.spotify.com/artist/5M1ILxS67JEzWguvzNakgE) | [Vestido Coladinho / Mete o Pé](https://open.spotify.com/album/1tC5NEn1dOizQjd42aA1RA) | 2:24 |
 | 36 | [Rolê](https://open.spotify.com/track/50gPsfGHy5OnPauA9455DM) | [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC), [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Rolê](https://open.spotify.com/album/29KnTFADlqksb1ol2HMhwK) | 2:54 |

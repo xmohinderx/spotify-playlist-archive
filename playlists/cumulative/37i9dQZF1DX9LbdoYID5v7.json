@@ -224,6 +224,28 @@
     },
     {
       "album": {
+        "name": "The Garden",
+        "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405013,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/5d5vSYY4mek3bHv0rwHA5o"
+    },
+    {
+      "album": {
         "name": "This Is Happening",
         "url": "https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz"
       },
@@ -577,7 +599,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 179813,
       "name": "Here It Goes Again",
       "url": "https://open.spotify.com/track/1pHP4JeQV9wDx87D6qH9hD"
@@ -631,7 +653,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 165613,
       "name": "I Was Born (A Unicorn)",
       "url": "https://open.spotify.com/track/6YOOsFMPWUG2gGZNVr1qYG"
@@ -667,7 +689,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
@@ -757,7 +779,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 246973,
       "name": "Little Lion Man",
       "url": "https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI"
@@ -818,6 +840,24 @@
     },
     {
       "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
+    },
+    {
+      "album": {
         "name": "Merriweather Post Pavilion",
         "url": "https://open.spotify.com/album/5O9OXl9zAWMJTzawofxuan"
       },
@@ -847,7 +887,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 203506,
       "name": "Naive",
       "url": "https://open.spotify.com/track/2RUhtNBh43RtSg0WBPPq3m"
@@ -1250,6 +1290,24 @@
     },
     {
       "album": {
+        "name": "Soviet Kitsch",
+        "url": "https://open.spotify.com/album/0HeAK5QnrTRrksc2WuTYgy"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "date_added": "2021-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292400,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/6zJms3MX11Qu1IKF44LoRW"
+    },
+    {
+      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -1423,7 +1481,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 405693,
       "name": "You! Me! Dancing! - Remastered",
       "url": "https://open.spotify.com/track/0BiYKvf5gJ9bGNJnngyDkU"
@@ -1441,7 +1499,7 @@
       ],
       "date_added": "2021-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 279026,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/6TfWHHxBSPhfszuwEuNdwX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEb535ZGeRC.md) - [plain]
 
 > An essential list of classics from one of the great singer\-songwriters of our time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,306 likes - 42 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,367 likes - 42 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

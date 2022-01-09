@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKAbrMR8uuf7.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,606 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,619 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,574,836 likes - 77 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,575,147 likes - 77 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 | 16 | [Alive \(It Feels Like\)](https://open.spotify.com/track/4zzHe0vVVQwLwn1mAoKFJq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Alive \(It Feels Like\)](https://open.spotify.com/album/1jU9kFRQP9Vf7R5ncpkcCh) | 2:22 |
 | 17 | [Astronaut In The Ocean \- Alok Remix](https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Astronaut In The Ocean \(Alok Remix\)](https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo) | 2:08 |
 | 18 | [Right Here \- Alok Remix](https://open.spotify.com/track/4hmhWjYjHszUdYzeUpYCUs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Right Here \(Alok Remix\)](https://open.spotify.com/album/6bGugWyc58M7pv8VUEV3yV) | 2:35 |
-| 19 | [Wherever You Go \(Alle Farben Remix\)](https://open.spotify.com/track/4r6ndOoKApeKBXx9BB4VVA) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Wherever You Go \(Alle Farben Remix\)](https://open.spotify.com/album/2FuG2kQ25n1AEbSTAH8cBq) | 3:24 |
+| 19 | [Wherever You Go \(feat\. John Martin\) \[Alle Farben Remix\]](https://open.spotify.com/track/4r6ndOoKApeKBXx9BB4VVA) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Wherever You Go \(feat\. John Martin\) \[Alle Farben Remix\]](https://open.spotify.com/album/2FuG2kQ25n1AEbSTAH8cBq) | 3:24 |
 | 20 | [Sunglasses At Night](https://open.spotify.com/track/3mcazXNhaAdymoRqJvAai6) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Sunglasses At Night](https://open.spotify.com/album/2RjNrAtCnOrtBYgVBtOTHY) | 2:35 |
 | 21 | [OUT OUT \(feat\. Charli XCX & Saweetie\) \- Alok Remix](https://open.spotify.com/track/467dsBV8ZGP7Lz1GMZjoaF) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [OUT OUT \(feat\. Charli XCX & Saweetie\) \[Alok Remix\]](https://open.spotify.com/album/4FoMXPUZRhvuriRNTwyDwI) | 2:39 |
 | 22 | [In My Mind](https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In My Mind](https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG) | 2:55 |

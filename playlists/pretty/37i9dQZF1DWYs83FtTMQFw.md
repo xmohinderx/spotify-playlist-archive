@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring The Weeknd, Juice WRLD, and Gunna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,062,233 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,062,443 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 21 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 |
 | 22 | [Drop Shit](https://open.spotify.com/track/416XBAqBQECEjtMS8dlPQM) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Drop Shit](https://open.spotify.com/album/56WJxTl9A4F6Sr5ibUsW0g) | 3:19 |
 | 23 | [Megan's Piano](https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:53 |
-| 24 | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Tears In The Club \(feat\. The Weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 |
+| 24 | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [tears in the club \(feat\. the weeknd\)](https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA) | 3:16 |
 | 25 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 |
 | 26 | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Prada \(feat\. Lil Tecca\)](https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ) | 2:31 |
 | 27 | [After Hours](https://open.spotify.com/track/7jWW25q41F2P7Opfn3boIF) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [After Hours](https://open.spotify.com/album/1Afc7X2x5kxfkbDz2KXjlv) | 2:37 |

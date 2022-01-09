@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month\.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,543 likes - 16 songs - 55 min 52 sec
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,541 likes - 16 songs - 55 min 52 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

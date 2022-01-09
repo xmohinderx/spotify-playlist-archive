@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 325975,
       "name": "An Ordinary Life",
       "url": "https://open.spotify.com/track/4aisUpHLCjQXjrv2ceJm5v"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 242373,
       "name": "Around the Clouds",
       "url": "https://open.spotify.com/track/6ufdYhE5rmqxv4vzKTwSKJ"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2020-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 214466,
       "name": "Aterrizar",
       "url": "https://open.spotify.com/track/768tLXx4VDWno6kHx8zD2x"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2019-11-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 265333,
       "name": "Cave Vaults on the Moon in New Mexico",
       "url": "https://open.spotify.com/track/5j375wUE1V53HpkKtiDKT2"
@@ -607,7 +607,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 211038,
       "name": "Ceiling",
       "url": "https://open.spotify.com/track/6o8aUf92DuQJCPgLAKx6UB"
@@ -932,6 +932,24 @@
     },
     {
       "album": {
+        "name": "Damn I'm Tired",
+        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "date_added": "2021-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225732,
+      "name": "Damn I'm Tired",
+      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
+    },
+    {
+      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz"
       },
@@ -1019,7 +1037,7 @@
       ],
       "date_added": "2021-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 182000,
       "name": "Diamond Brand",
       "url": "https://open.spotify.com/track/5tOH5FgEC8CS2ukdSwwy93"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 208991,
       "name": "Electric Dream",
       "url": "https://open.spotify.com/track/5uijMApAj15FDccuaziRKS"
@@ -1567,7 +1585,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 186410,
       "name": "Gloomy Girl",
       "url": "https://open.spotify.com/track/62Zgaht9Dx6HReIOamFMdN"
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 184433,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/21gawnch3zw2cpWyHGTT9h"
@@ -1805,7 +1823,7 @@
       ],
       "date_added": "2021-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2020-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 173476,
       "name": "In Manchester",
       "url": "https://open.spotify.com/track/1IRObyMKeA49hz1Ty3GNHH"
@@ -2151,7 +2169,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 240736,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/6uFXA44CcLLWbNY5kYSOK6"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 206134,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3iDJgLUiMqMdk1UOLG4VWf"
@@ -2869,7 +2887,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 190840,
       "name": "Only One Man (with Melody's Echo Chamber)",
       "url": "https://open.spotify.com/track/2bBrRe20ZB7pJMQaNJ4nwk"
@@ -4141,7 +4159,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 154533,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
@@ -4231,7 +4249,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 228522,
       "name": "what if love isn't enough",
       "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
@@ -4495,7 +4513,7 @@
       ],
       "date_added": "2020-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 239804,
       "name": "Yoyogi Park",
       "url": "https://open.spotify.com/track/5ge2tZAWyFynv0Bd5gZ1QR"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 273293,
       "name": "A Donde Vayas",
       "url": "https://open.spotify.com/track/64UoPaVdLy0lOc2bJOMVrt"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 243213,
       "name": "A Tatito Henriquez",
       "url": "https://open.spotify.com/track/3o79tbQLWOE2p89DzKtIfn"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 257893,
       "name": "A Usted Lo Botan",
       "url": "https://open.spotify.com/track/4cNifPGHLoNzJCMXZAF2g7"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 322066,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 220316,
       "name": "Alza Tu Copa",
       "url": "https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 270666,
       "name": "Amor Magico",
       "url": "https://open.spotify.com/track/2VtzepnoI82CSMoVkbopcu"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 236146,
       "name": "Borron y Cuenta Nueva",
       "url": "https://open.spotify.com/track/1ZCorCTva79hxDM4v7BzHH"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 234335,
       "name": "Buscando Tus Besos",
       "url": "https://open.spotify.com/track/3BWQ6QDeVXi8MOssxs1IiN"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 289973,
       "name": "Carolina",
       "url": "https://open.spotify.com/track/1haZNySpzQtVzEE2TA4Kgg"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 313808,
       "name": "Cobarde Cobarde",
       "url": "https://open.spotify.com/track/03h1JG4Xj6anvmqhiBaiXg"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 298360,
       "name": "Colegiada",
       "url": "https://open.spotify.com/track/1RNUX0wEVVWDtg5X1nyTMG"
@@ -602,6 +602,24 @@
     },
     {
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/6evkVnhtDySToFkrJX6V56"
+      },
+      "artists": [
+        {
+          "name": "Manny Manuel",
+          "url": "https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273066,
+      "name": "Como Duele - En Vivo",
+      "url": "https://open.spotify.com/track/0j34Cv1AvvRNG03DO08OCx"
+    },
+    {
+      "album": {
         "name": "20 A\u00f1os Despues",
         "url": "https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp"
       },
@@ -613,7 +631,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 277866,
       "name": "Como Te Extra\u00f1o Mi Amor",
       "url": "https://open.spotify.com/track/4oSI0AAcCt4YlLnAwGkuEt"
@@ -703,7 +721,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 252734,
       "name": "Cuando Llegara",
       "url": "https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb"
@@ -739,7 +757,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 298106,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/14O3hLuJMDRC8800QjuILq"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 300280,
       "name": "Cuarto de Hotel",
       "url": "https://open.spotify.com/track/2OAtnmvc8oGGLElCFitxKy"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 227186,
       "name": "Dame Tu Querer",
       "url": "https://open.spotify.com/track/3gZOxgMa4dCGarjI0DxEhI"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 317490,
       "name": "De Que Manera Te Olvido",
       "url": "https://open.spotify.com/track/4rW9g43B7spMkANX9ydJRB"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 281760,
       "name": "Desnudate Mujer",
       "url": "https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 241786,
       "name": "El Diente de Oro",
       "url": "https://open.spotify.com/track/1MnOxAzGxdcrTpjoujH2o7"
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 242400,
       "name": "El Herido",
       "url": "https://open.spotify.com/track/4YIAKGaCkfQv8hBayKLiyH"
@@ -1117,7 +1135,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 221640,
       "name": "El Lapiz",
       "url": "https://open.spotify.com/track/0EMagXNeh6grgZZRpWwDtO"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 198826,
       "name": "El Negrito Del Batey",
       "url": "https://open.spotify.com/track/7fzn2U8JQoRzMvnqpdOh1T"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 263280,
       "name": "El Perro Ajeno",
       "url": "https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 272520,
       "name": "Enamorado de Ella",
       "url": "https://open.spotify.com/track/2C9UWCuysy7CdAAkhqKjNa"
@@ -1340,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "16 Exitos de Sandy Reyes",
+        "url": "https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi"
+      },
+      "artists": [
+        {
+          "name": "Sandy Reyes",
+          "url": "https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245933,
+      "name": "Enamorar",
+      "url": "https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl"
       },
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 298333,
       "name": "Entre Tu Cuerpo y el Mio",
       "url": "https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae"
@@ -1391,7 +1427,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "Entre Tu Y Yo",
       "url": "https://open.spotify.com/track/2mInd0Utcfprbtb1k2U3ez"
@@ -1445,7 +1481,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 241506,
       "name": "Esa Loca",
       "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
@@ -1481,7 +1517,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 267335,
       "name": "Faltaste a la Cita",
       "url": "https://open.spotify.com/track/0fSPowPB3nRUr0sY0asVIR"
@@ -1543,7 +1579,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 271706,
       "name": "Gotas De Pena",
       "url": "https://open.spotify.com/track/5KrEQ87uKvRMdUohfl9ACg"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 315800,
       "name": "Hipocres\u00eda",
       "url": "https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv"
@@ -1633,7 +1669,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 241960,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/0M72uHdSxJeBFulYmXmIeR"
@@ -1687,7 +1723,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 284421,
       "name": "La Asesina",
       "url": "https://open.spotify.com/track/6hvsoQUupq8r1JdNdwpbdU"
@@ -1741,7 +1777,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 230906,
       "name": "La Faldita",
       "url": "https://open.spotify.com/track/6vdT2tWueaglX1g7yfa5yg"
@@ -1795,7 +1831,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 247379,
       "name": "La Fotografia",
       "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
@@ -1813,7 +1849,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 259519,
       "name": "La Loba",
       "url": "https://open.spotify.com/track/3wVkSqFV273UbwCfSRETYk"
@@ -1957,7 +1993,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "La Travesia",
       "url": "https://open.spotify.com/track/7BL1WTerk9Upwd5Xj4LGLi"
@@ -2285,7 +2321,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 197797,
       "name": "Me Aleje Llorando",
       "url": "https://open.spotify.com/track/0lhRxdjg7xrk3eXa5jBBnK"
@@ -2321,7 +2357,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 247813,
       "name": "Me Mata La Pena",
       "url": "https://open.spotify.com/track/5PcCjMn4lzglO9snfB4d46"
@@ -2429,7 +2465,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 379053,
       "name": "Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon",
       "url": "https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV"
@@ -2591,7 +2627,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 281760,
       "name": "Morena Ven",
       "url": "https://open.spotify.com/track/6Y8KiDjw73vlyoeaAwg26K"
@@ -2699,7 +2735,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 279786,
       "name": "No Hay Nadie Mas",
       "url": "https://open.spotify.com/track/587IZMRMDXL3EJuFrahPFU"
@@ -2861,7 +2897,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 298760,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/2qZq7rvnpSjkqNixLsF0SC"
@@ -3031,7 +3067,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 272324,
       "name": "Por Que Hemos Cambiado",
       "url": "https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw"
@@ -3219,7 +3255,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 284426,
       "name": "Quien Te Riza El Pelo",
       "url": "https://open.spotify.com/track/2a1YsVTT73sMg64KEDBPxK"
@@ -3345,7 +3381,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 266400,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME"
@@ -3363,7 +3399,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 269906,
       "name": "Si Tu Eres Mi Hombre y Yo Tu Mujer",
       "url": "https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW"
@@ -3389,7 +3425,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 283200,
       "name": "Si Tu Me Dices",
       "url": "https://open.spotify.com/track/23ZMJ8wr0bd8O98JGn70Pn"
@@ -3425,7 +3461,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 288280,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf"
@@ -3443,7 +3479,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 288906,
       "name": "Si Una Vez",
       "url": "https://open.spotify.com/track/20FcKeDZBAClUtEZVU1OVe"
@@ -3569,7 +3605,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 305933,
       "name": "Tabaco Y Ron",
       "url": "https://open.spotify.com/track/2xO37ku7ZNTDRaPx33a8dl"
@@ -3623,7 +3659,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 259360,
       "name": "Te Buscare",
       "url": "https://open.spotify.com/track/3aJmmroC0mLNEoB8oYWjkI"
@@ -3695,7 +3731,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 234600,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/5Tk8DkD7gyfOaEkbd6DoRW"
@@ -3839,7 +3875,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 241320,
       "name": "Tu Mujer",
       "url": "https://open.spotify.com/track/5EnIWx9kzujE6uCdmqpIod"
@@ -3857,7 +3893,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 296093,
       "name": "Tu Vas a Volar",
       "url": "https://open.spotify.com/track/5P16dV6qkVUzL5uB1ytmDg"
@@ -3875,7 +3911,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 294026,
       "name": "Tu Vas a Volar",
       "url": "https://open.spotify.com/track/63UMjW3BogcZsHsRO9EcDo"
@@ -3987,7 +4023,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 247200,
       "name": "Una Fotografia",
       "url": "https://open.spotify.com/track/77uhiyzPjrQy8jA10PLcIB"
@@ -4005,7 +4041,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 291619,
       "name": "Vete y Dile",
       "url": "https://open.spotify.com/track/2qlsW9JoDmXNyM7odbFxmn"

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 187126,
       "name": "All Fall Down",
       "url": "https://open.spotify.com/track/6cijsAY72S4JJrA4RSFn1i"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 146133,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 211635,
       "name": "I Am an Animal",
       "url": "https://open.spotify.com/track/2YAusOVNsAHpsN6oZ8XzoF"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 220446,
       "name": "Live Outside",
       "url": "https://open.spotify.com/track/4vBs5NhKXDLDTTwxAyY0IU"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 159816,
       "name": "Marchin' On",
       "url": "https://open.spotify.com/track/6Xz5BZFSSj2LOFWQnpaRgr"
@@ -541,7 +541,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 235400,
       "name": "My God Is The Sun",
       "url": "https://open.spotify.com/track/1Pc3gTtQG4Cq1x81NcXtCN"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 205960,
       "name": "Na Na Na (Na Na Na Na Na Na Na Na Na)",
       "url": "https://open.spotify.com/track/5BB0Jzw60KyfSTyjJqtely"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 314573,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL"
@@ -725,7 +725,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199453,
       "name": "Saturday Superhouse",
       "url": "https://open.spotify.com/track/1WRG8FZVdM1lhizxoXRPr3"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 332413,
       "name": "The Borders",
       "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
@@ -959,7 +959,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 227264,
       "name": "These Four Walls",
       "url": "https://open.spotify.com/track/4lIADYns7onzNNl0RIewFp"
@@ -981,6 +981,24 @@
       "duration_ms": 120506,
       "name": "Two-Timing Touch and Broken Bones",
       "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
+    },
+    {
+      "album": {
+        "name": "Hold Me Down",
+        "url": "https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU"
+      },
+      "artists": [
+        {
+          "name": "You Me At Six",
+          "url": "https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143080,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW"
     },
     {
       "album": {

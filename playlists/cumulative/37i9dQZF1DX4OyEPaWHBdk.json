@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Check out the nominees for The 36th Golden Disc Awards!",
+  "description": "Check out the winners for The 36th Golden Disc Awards!",
   "name": "The 36th Golden Disc Awards",
   "published_playlist_ids": [
     "0cxNRmrMEwvw4NKZo4I8ql"
@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 213666,
       "name": "90's Love",
       "url": "https://open.spotify.com/track/0B36SbjfDv15ji1bQEEeTN"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 210573,
       "name": "Alcohol-Free",
       "url": "https://open.spotify.com/track/0BTaaKT4RMbs5M73tOHX5Y"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 205893,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0BgPkpBejARlh9gPPeCXME"
@@ -181,10 +181,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 195546,
       "name": "Celebrity",
       "url": "https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4"
+    },
+    {
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195546,
+      "name": "Celebrity",
+      "url": "https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os"
     },
     {
       "album": {
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 169389,
       "name": "Convenience store",
       "url": "https://open.spotify.com/track/6isqtJN5IckTIABWdyOgc4"
@@ -235,7 +253,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 196670,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 220173,
       "name": "Don't Call Me",
       "url": "https://open.spotify.com/track/462OPOKW0VMbvW9H7HIb0U"
@@ -289,7 +307,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199533,
       "name": "Door",
       "url": "https://open.spotify.com/track/3FxEYn2E7dT5A5DT4luQGK"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 213026,
       "name": "GAMBLER",
       "url": "https://open.spotify.com/track/1Zsy7gMUcHDhxC0bbyZmC2"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 189933,
       "name": "GLASSY",
       "url": "https://open.spotify.com/track/6PFfx4sEBWPuFqFB0mgX1D"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 218880,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3cGp1jXxLReLKz7QgVbWZR"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 241453,
       "name": "House Party",
       "url": "https://open.spotify.com/track/0awQIOFGtg18LCJ0WhFf8s"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 232373,
       "name": "How did we",
       "url": "https://open.spotify.com/track/5MstaTKdwp6gVpaEFfvZrP"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 197320,
       "name": "HWAA",
       "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 265133,
       "name": "I Still Love You",
       "url": "https://open.spotify.com/track/44AbcJTKmV3hipk9gKgUbA"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 221920,
       "name": "I will be your shining star",
       "url": "https://open.spotify.com/track/7hSxOrxogaR7YGpg4l8wmd"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 151733,
       "name": "I'm Gonna Love You",
       "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
@@ -635,7 +653,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 174173,
       "name": "I'm Not Cool",
       "url": "https://open.spotify.com/track/5iIpbD34k4wnuRMZDNnuWf"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 231338,
       "name": "If you lovingly call my name",
       "url": "https://open.spotify.com/track/0tgxvf4rqBBeEB54h0nnRD"
@@ -675,7 +693,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 204786,
       "name": "If You Were Still Here",
       "url": "https://open.spotify.com/track/63w41hGHMcWbhuK0FxjMKe"
@@ -693,7 +711,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 172358,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
@@ -711,7 +729,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 197306,
       "name": "INSIDE OUT",
       "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 202893,
       "name": "Just hug me",
       "url": "https://open.spotify.com/track/2H3Hl20eU9cpzQUz43GtEc"
@@ -747,7 +765,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 212746,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/7MyF8hoeUbpv6ZIEVlsTY8"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 222119,
       "name": "LAST PIECE",
       "url": "https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn"
@@ -819,7 +837,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 207546,
       "name": "Lock Down",
       "url": "https://open.spotify.com/track/3SCxTtLDtZ6HsQrytAoyLV"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 191462,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
@@ -855,7 +873,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 215693,
       "name": "Lonely night",
       "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199893,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/5L2uuQUMiub01LRhTKRCFj"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 179706,
       "name": "Make it",
       "url": "https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG"
@@ -909,7 +927,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 180423,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU"
@@ -963,7 +981,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 213680,
       "name": "My Turn",
       "url": "https://open.spotify.com/track/3uO9uv6y5eAJrkQzkHqVnM"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 194480,
       "name": "Nessun Dorma",
       "url": "https://open.spotify.com/track/0cqygCf0zSgyDvG4ZDyPlJ"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 219506,
       "name": "On That Day",
       "url": "https://open.spotify.com/track/4fx2P5JDZ7hszBkTxzftQL"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 168085,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/2xgACMNtJ5YktyvOC83SPO"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 247986,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 191973,
       "name": "Ponzona",
       "url": "https://open.spotify.com/track/597wvQ0bqfJgszRg4eDVy1"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 201120,
       "name": "PTT (Paint The Town)",
       "url": "https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 181760,
       "name": "Queendom",
       "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 211160,
       "name": "Ra Pam Pam",
       "url": "https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7"
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 190973,
       "name": "Thank U",
       "url": "https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i"
@@ -1461,7 +1479,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 210133,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 233413,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f"

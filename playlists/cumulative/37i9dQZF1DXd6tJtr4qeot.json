@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 176346,
       "name": "American Idiot",
       "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "City Of Angels",
       "url": "https://open.spotify.com/track/4D7sweC53ikn2HrABdrvdm"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 130933,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/2sj6shokFZofFW0VaygHAA"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 241908,
       "name": "Diamonds And Guns",
       "url": "https://open.spotify.com/track/78oeeGkqmsr6r6AlW0x69d"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 206080,
       "name": "Kemp",
       "url": "https://open.spotify.com/track/6hhXVmXQBECK7Z0DXrFb2U"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 200786,
       "name": "Lean On Sheena",
       "url": "https://open.spotify.com/track/7IR7GUO0dUyUsBp7BfQ3vJ"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 176960,
       "name": "May 16",
       "url": "https://open.spotify.com/track/2C4ARHS1GUDDdaIpl7tAay"
@@ -703,7 +703,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 173493,
       "name": "Mexican Radio",
       "url": "https://open.spotify.com/track/6mFRfprP5OTvr82GzGhHXJ"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 149506,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/2gAJ6xYuJ2N6DdtDOhsL3y"
@@ -815,6 +815,24 @@
       "duration_ms": 163226,
       "name": "No Cigar",
       "url": "https://open.spotify.com/track/22klU94r0NFtx4cPO8KqHk"
+    },
+    {
+      "album": {
+        "name": "From Chaos to Order",
+        "url": "https://open.spotify.com/album/7zJGBwON2dUo2k4YZlsEdc"
+      },
+      "artists": [
+        {
+          "name": "The Implants",
+          "url": "https://open.spotify.com/artist/71eaEMe0KF9EUJUvIINsAY"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248200,
+      "name": "Once Was I",
+      "url": "https://open.spotify.com/track/1jm8g4xRZ4cLCopSze6TSc"
     },
     {
       "album": {
@@ -1009,7 +1027,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "She's Got The Look",
       "url": "https://open.spotify.com/track/0IPpDL2ZVlARtmACSzsXlc"
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 110826,
       "name": "Skate Or Die",
       "url": "https://open.spotify.com/track/174t68Pnn9wb1UgM7fCRmY"
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 318013,
       "name": "The Three of Us",
       "url": "https://open.spotify.com/track/2xrRBqEanoBaA0tOgYy18V"

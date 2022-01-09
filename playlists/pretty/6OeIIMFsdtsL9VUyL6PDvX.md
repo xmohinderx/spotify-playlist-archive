@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/6OeIIMFsdtsL9VUyL6PDvX.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Party Line](https://open.spotify.com/track/57Z6ewsDdS8nsAUu0ROERc) | [Belle & Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Party Line](https://open.spotify.com/album/48FQvrw0DS0BOzLGwvkRnu) | 4:14 |
+| 1 | [The Party Line](https://open.spotify.com/track/57Z6ewsDdS8nsAUu0ROERc) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Party Line](https://open.spotify.com/album/48FQvrw0DS0BOzLGwvkRnu) | 4:14 |
 | 2 | [Shot At The Night](https://open.spotify.com/track/6HXaYcCPj5ALJwgtkWOgaJ) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Direct Hits](https://open.spotify.com/album/5ewSL66uUdCdAdWvUmbfTd) | 4:02 |
 | 3 | [Lampshades on Fire](https://open.spotify.com/track/30J50x380IFf1P1H0DOtW4) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Lampshades on Fire](https://open.spotify.com/album/0i2JrxJ2bs1kgx8KlVaQE2) | 3:07 |
 | 4 | [Do I Wanna Know?](https://open.spotify.com/track/49h0RYK3yzWkfbVyNJjJ01) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Do I Wanna Know?](https://open.spotify.com/album/3ttygSi8PC7paH1m7TsmbB) | 4:33 |

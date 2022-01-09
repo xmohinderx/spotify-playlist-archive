@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\.  Artist: Wrabel and Cam
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,318 likes - 127 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,358 likes - 127 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

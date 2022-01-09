@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaERaPeATJvJ.md) - [plain]
 
 > Mengenang kisah lama melalui kilasan lagu dari kancah musik independen Indonesia\. Cover: Holy City Rollers
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,822 likes - 61 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,829 likes - 61 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9l01QzlK1Yo.md) - [plain]
 
 > 50 highlights from 50 symphonic masterpieces, including favourites selected by the <a href="spotify:artist:5yxyJsFanEAuwSM5kOuZKc">orchestra</a> themselves, from collaborations with principal and guest conductors across <a href="http://lso.co.uk/">LSO</a>'s century\-long history, captured in state\-of\-the\-art recording technology.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,017 likes - 50 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,032 likes - 50 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

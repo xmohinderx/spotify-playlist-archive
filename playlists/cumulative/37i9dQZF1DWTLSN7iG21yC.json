@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 169956,
       "name": "Adorable",
       "url": "https://open.spotify.com/track/576cGYBC1nWuQwLhLfurmw"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 179152,
       "name": "Almost Maybes",
       "url": "https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 153267,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/3EglIzKtf6hgUcPRuITBzK"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 228507,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 205159,
       "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
       "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
@@ -650,6 +650,24 @@
     },
     {
       "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/0mPhbDbLpPeCnjm35rSkql"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Brave",
+      "url": "https://open.spotify.com/track/5SfQhaZTGL7IewCIvMifFJ"
+    },
+    {
+      "album": {
         "name": "Breakdown (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/4YnR0XuOXV58gmNx0P82fo"
       },
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 165686,
       "name": "Breakdown (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6g478D6h32WUmvtlhcpbNE"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 178384,
       "name": "I Still Need You",
       "url": "https://open.spotify.com/track/3WM935x8fQpvSskUP1LHPB"
@@ -1631,7 +1649,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 210510,
       "name": "I'm Still Breathing",
       "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 181182,
       "name": "Know It All",
       "url": "https://open.spotify.com/track/1p4WB0tCCYcoJKFNwMVUZ4"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 189720,
       "name": "Lay It On Me",
       "url": "https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m"
@@ -1889,7 +1907,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 242096,
       "name": "Leave The Door Open",
       "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
@@ -2339,7 +2357,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 193989,
       "name": "Odds",
       "url": "https://open.spotify.com/track/3PODaKOPvABUlVOA98ekqv"
@@ -2991,7 +3009,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 176557,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6TMXLsuPMArdRn5q0EGWPg"
@@ -3027,7 +3045,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 234888,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Y2rXSgFiWO7xYRYzd3F6D"
@@ -3319,7 +3337,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 227885,
       "name": "We Cry",
       "url": "https://open.spotify.com/track/2gXbtADykoLc8IiA3NBLt3"
@@ -3627,7 +3645,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 226706,
       "name": "Years",
       "url": "https://open.spotify.com/track/0X2cr7dIICfHDM7odECFhr"

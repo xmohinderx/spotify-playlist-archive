@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100 Store 90'er Hits",
+        "url": "https://open.spotify.com/album/7JSrqAeYDMscGw3hHQUnPB"
+      },
+      "artists": [
+        {
+          "name": "Shaft",
+          "url": "https://open.spotify.com/artist/3XToFwD4zzZA8fhjlkt5Qi"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207153,
+      "name": "(Mucho Mambo) Sway - Radio Edit",
+      "url": "https://open.spotify.com/track/6Y3XLelLdxt3YdvQbdIG8t"
+    },
+    {
+      "album": {
         "name": "Gorgeous George",
         "url": "https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 257186,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/3GpdNg7Krt9vjc6tgDoKe1"
@@ -745,9 +763,9 @@
           "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "date_added": "2021-11-18",
+      "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 262746,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh"
@@ -765,7 +783,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
@@ -1143,7 +1161,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 272640,
       "name": "Gett Off",
       "url": "https://open.spotify.com/track/0cfn5OBGafl32fEsc3z4GE"
@@ -1565,10 +1583,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 255120,
       "name": "If You Ever (feat. Gabrielle) - Smoove Mix 7\"",
       "url": "https://open.spotify.com/track/6fj5hbo327dvmHth4fAs5R"
+    },
+    {
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Independent Women, Pt. 1",
+      "url": "https://open.spotify.com/track/5EDUIiDf1Sp6nVnmCMRxa2"
     },
     {
       "album": {
@@ -1945,7 +1981,7 @@
           "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "date_added": "2021-11-18",
+      "date_added": "2021-04-29",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267760,
@@ -2125,9 +2161,9 @@
           "url": "https://open.spotify.com/artist/1YEGETLT2p8k97LIo3deHL"
         }
       ],
-      "date_added": "2021-11-18",
+      "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 235173,
       "name": "Mmm Mmm Mmm Mmm",
       "url": "https://open.spotify.com/track/76nvqWPFucUra1xCkN1tnD"
@@ -2617,7 +2653,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 213093,
       "name": "Return of the Mack",
       "url": "https://open.spotify.com/track/3jDdpx9PMlfMBS5tOBHFm9"
@@ -2751,7 +2787,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 236040,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/7v02Sn9vYRQ6pc1lqhnkWY"
@@ -3115,7 +3151,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 180586,
       "name": "Strangers Like Me",
       "url": "https://open.spotify.com/track/5BqGMUyu0zALViFPQ460CK"
@@ -3281,7 +3317,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 240893,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/2NFTEx9YLvWs4fWgKD0mZ9"

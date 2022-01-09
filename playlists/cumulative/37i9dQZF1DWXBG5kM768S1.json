@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 275253,
       "name": "2020",
       "url": "https://open.spotify.com/track/2JCskibhK5KQk8v8An371h"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 250403,
       "name": "Alt det som skinner",
       "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 253100,
       "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
       "url": "https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 288078,
       "name": "God Natt Oslo",
       "url": "https://open.spotify.com/track/03DAM7GVONIxrPlxD2nUbp"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 260425,
       "name": "Heim igjen",
       "url": "https://open.spotify.com/track/1fbdwwnIq1J1dfySdyJqAK"
@@ -997,7 +997,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 223706,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
@@ -1015,7 +1015,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 339546,
       "name": "Julinetter",
       "url": "https://open.spotify.com/track/3i6Rpq73XBlzSwFtltygLm"
@@ -1098,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Kommer du snart hjem",
+        "url": "https://open.spotify.com/album/01TKLXHh77apQPHag1FgAZ"
+      },
+      "artists": [
+        {
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256239,
+      "name": "Kommer du snart hjem",
+      "url": "https://open.spotify.com/track/5H3qr0j1gHk6VOyFwqtbfn"
+    },
+    {
+      "album": {
         "name": "Kom ut kom fram",
         "url": "https://open.spotify.com/album/211PaS9J8AAPWXCVkyIVkF"
       },
@@ -1109,7 +1127,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 226760,
       "name": "Lilla vackra Anna",
       "url": "https://open.spotify.com/track/6fAsL3cjB7fMGrMlXwYFIg"
@@ -1181,7 +1199,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 221866,
       "name": "Miriams sang",
       "url": "https://open.spotify.com/track/2dlxb5AyIThRLQwhh9tXml"
@@ -1431,7 +1449,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 285653,
       "name": "S\u00f8tten \u00e5r",
       "url": "https://open.spotify.com/track/4gYmhjHmokTmLfBO13wIg3"
@@ -1557,7 +1575,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 386333,
       "name": "Tapt Paradis",
       "url": "https://open.spotify.com/track/5nxWnKvhtGxvPl7tkR9jvi"
@@ -1575,7 +1593,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 217453,
       "name": "Tar du i mot meg? - en flyktning synger H\u00e4ndel",
       "url": "https://open.spotify.com/track/67O3bDK9Euq9EuqEDSIuFM"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 270693,
       "name": "Tir n'a Noir",
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 230973,
       "name": "Trondheimsnatt",
       "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 238000,
       "name": "Varmere vind i vente - rett og slett en sommersang",
       "url": "https://open.spotify.com/track/0c1JadNYdOyD7jV5MUce8x"
@@ -1801,7 +1819,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 194506,
       "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
       "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 194376,
       "name": "Vit at det g\u00e5r \u00f8ve",
       "url": "https://open.spotify.com/track/3eCQqf58kxhCSvTr3XCZFC"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 202588,
       "name": "V\u00e5r beste dag",
       "url": "https://open.spotify.com/track/2RssYUkYzmEtvxmUX0C19A"

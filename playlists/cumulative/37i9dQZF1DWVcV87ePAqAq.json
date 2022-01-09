@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 289680,
       "name": "(I've Had) The Time of My Life",
       "url": "https://open.spotify.com/track/5UqqOfFa9DYXALpCCF8VwB"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 233573,
       "name": "Dancing in the Moonlight - 2001 Remix",
       "url": "https://open.spotify.com/track/1OzY7RRZh3EcIKn7VKZUTx"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 285853,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 157945,
       "name": "Dolly Song (Devil's Cup)",
       "url": "https://open.spotify.com/track/530sGWWlefN6YmGtBOPPME"
@@ -1145,7 +1145,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 226773,
       "name": "Dom andra",
       "url": "https://open.spotify.com/track/1yU51sZHtxvZHlni32lgxM"
@@ -1517,7 +1517,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 225733,
       "name": "Footloose",
       "url": "https://open.spotify.com/track/0TFp6nGwhfY1ratCI91yO2"
@@ -1707,7 +1707,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 289160,
       "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
       "url": "https://open.spotify.com/track/1DSfSCGnvhEP8XA2oKkcCq"
@@ -1949,7 +1949,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 206279,
       "name": "Higher Ground (feat. John Martin)",
       "url": "https://open.spotify.com/track/0rohJsT6NWsThpukt0Xxdc"
@@ -2146,6 +2146,24 @@
     },
     {
       "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "url": "https://open.spotify.com/album/36fdxiOzdlmsrHgGcfvqUJ"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4vp2J1l5RD4gMZwGFLfRAu"
+    },
+    {
+      "album": {
         "name": "I Will Always Love You: The Best Of Whitney Houston",
         "url": "https://open.spotify.com/album/2No9DisAfser7YCYQcYpj3"
       },
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 188437,
       "name": "Impossible (feat. John Martin)",
       "url": "https://open.spotify.com/track/7nvaEKdCDWbnQK7uJsCS5y"
@@ -2737,7 +2755,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 187320,
       "name": "Mister Cool",
       "url": "https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe"
@@ -2799,7 +2817,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 217906,
       "name": "Move Your Body - Alan Walker Remix",
       "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
@@ -3285,7 +3303,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 177586,
       "name": "Pokerkv\u00e4ll i V\u00e5rby G\u00e5rd",
       "url": "https://open.spotify.com/track/40i1Lt5HjtIvTsd0t1GCoy"
@@ -3417,7 +3435,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
@@ -3435,7 +3453,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
@@ -3523,7 +3541,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 198995,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
@@ -3629,7 +3647,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
@@ -4125,7 +4143,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
@@ -4231,7 +4249,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 189960,
       "name": "They're Bulding Walls Around Us",
       "url": "https://open.spotify.com/track/1x4grz0E1xPaABuYttYnwY"
@@ -4499,7 +4517,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 179586,
       "name": "Vi kommer att d\u00f6 samtidigt",
       "url": "https://open.spotify.com/track/1sQxrKrojCSuBk6XuaT8vm"
@@ -4629,7 +4647,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "We Are Family",
       "url": "https://open.spotify.com/track/0x3VuSP9TB6yHSpkHB2nPv"
@@ -4695,7 +4713,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 255706,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
@@ -4713,7 +4731,7 @@
       ],
       "date_added": "2020-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 191000,
       "name": "When Love Takes Over (feat. Kelly Rowland)",
       "url": "https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The finest in UK rap\. Cover: Jay1
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,851 likes - 54 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 997,535 likes - 54 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

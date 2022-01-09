@@ -294,6 +294,28 @@
     },
     {
       "album": {
+        "name": "Tumsa Nahin Dekha A Love Story",
+        "url": "https://open.spotify.com/album/0bxz6oakePyBITlK19LK2F"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359906,
+      "name": "Bheed Mein",
+      "url": "https://open.spotify.com/track/5qihkhcLqQ7EqqyNKj7n0a"
+    },
+    {
+      "album": {
         "name": "Murder",
         "url": "https://open.spotify.com/album/0zbHtkLhsqvsleYs5JFWu4"
       },
@@ -431,7 +453,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 383066,
       "name": "Chand Sitare",
       "url": "https://open.spotify.com/track/4v0R1ielTVsWmn1mVb5j63"
@@ -487,7 +509,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 433920,
       "name": "Chup Chup Ke",
       "url": "https://open.spotify.com/track/2C6l8EGcbfcLXu0mWfAadB"
@@ -517,7 +539,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 268712,
       "name": "Dard - E - Disco",
       "url": "https://open.spotify.com/track/2GTasAZimpxzNgE7aXFifI"
@@ -641,7 +663,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 248128,
       "name": "Dhol Yaara Dhol",
       "url": "https://open.spotify.com/track/4ViufFTGJb3TByFwUnOXhE"
@@ -699,7 +721,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 334162,
       "name": "Dil Ko Hazar Bar",
       "url": "https://open.spotify.com/track/1WnDMbh4JP7Dp12sy0fd3L"
@@ -851,7 +873,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 486173,
       "name": "Ek Pal Ka Jeena",
       "url": "https://open.spotify.com/track/7gl2i0Ag73bVLXLNr25XBJ"
@@ -1199,7 +1221,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 333093,
       "name": "It's the Time to Disco",
       "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
@@ -1301,7 +1323,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 313440,
       "name": "Janeman Janeman",
       "url": "https://open.spotify.com/track/3O6lQwwMHDKnLALmO8VP4M"
@@ -1441,7 +1463,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 431493,
       "name": "Kaho Naa Pyaar Hai",
       "url": "https://open.spotify.com/track/76PSewQzOUpGw1kflnS6qF"
@@ -1539,7 +1561,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 328066,
       "name": "Kaisi Hai Ye Rut",
       "url": "https://open.spotify.com/track/4x6hxkEuw1XLIwUkUJcDbf"
@@ -1577,7 +1599,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 482586,
       "name": "Kajra Re",
       "url": "https://open.spotify.com/track/72HdutlIHBZJ7WT1xVAAZT"
@@ -1599,7 +1621,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 321240,
       "name": "Kal Ho Naa Ho",
       "url": "https://open.spotify.com/track/251PNRmJU9KcUnFQAB5t6I"
@@ -1753,7 +1775,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 324586,
       "name": "Lamha Lamha",
       "url": "https://open.spotify.com/track/6a9Rp2NthjmNU52TcCEQQ7"
@@ -1903,7 +1925,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 219853,
       "name": "Masti Ki Paathshala",
       "url": "https://open.spotify.com/track/2cZ2Q33G9mkS8fIVKM591T"
@@ -2043,7 +2065,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 402727,
       "name": "Mera Jahan",
       "url": "https://open.spotify.com/track/5OHWqBhWn4jxVzrULFFhDV"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 351400,
       "name": "Mujhe Tumse Mohabbat Hai",
       "url": "https://open.spotify.com/track/0kfAR4X0jQfyXcUSieDmz7"
@@ -2193,7 +2215,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 362762,
       "name": "Nach Baliye",
       "url": "https://open.spotify.com/track/7AJtoJnHV80IMEHgQs6YvU"
@@ -2233,7 +2255,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 305600,
       "name": "O Meri Jaan",
       "url": "https://open.spotify.com/track/6qMB7GsJd7L8sqEvQGWQl6"
@@ -2299,7 +2321,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 352896,
       "name": "Paayaliya",
       "url": "https://open.spotify.com/track/4REr6h0i1I7LSR8pfJee8G"
@@ -2403,7 +2425,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 303306,
       "name": "Pyaar Ki Kasthi Mein",
       "url": "https://open.spotify.com/track/7ohZeDIIW8Ot3JErOs6Gn9"
@@ -2499,7 +2521,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 282973,
       "name": "Roobaroo",
       "url": "https://open.spotify.com/track/3vqJY3pVELLIxqXXyI08yr"
@@ -2633,7 +2655,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 427546,
       "name": "Suraj Hua Maddham",
       "url": "https://open.spotify.com/track/0mWtcNIAL9jITVHl3F2SQF"
@@ -2999,7 +3021,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 347453,
       "name": "Tumhi Dekho Naa",
       "url": "https://open.spotify.com/track/2ILhVeTkbDAYEvesCCBsNo"
@@ -3197,7 +3219,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 343066,
       "name": "Yeh Hum Aa Gaye Hain Kahaan",
       "url": "https://open.spotify.com/track/7sSYkaAXRgnzoQYrGgrvlX"
@@ -3233,7 +3255,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 388106,
       "name": "Yeh Jo Des Hai Tera",
       "url": "https://open.spotify.com/track/65fbHxPPnRGPXaGN3PtpXd"

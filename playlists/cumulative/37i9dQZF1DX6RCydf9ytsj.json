@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 199680,
       "name": "(There's) No Gettin' Over Me",
       "url": "https://open.spotify.com/track/2bRnP6FjtlASGsDtcgRVuI"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 162466,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 205733,
       "name": "Crazy For Your Love",
       "url": "https://open.spotify.com/track/13p0TeLG8v8x11RUIInwAL"
@@ -732,6 +732,24 @@
     },
     {
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu"
+      },
+      "artists": [
+        {
+          "name": "T.G. Sheppard",
+          "url": "https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh"
+        }
+      ],
+      "date_added": "2021-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/3PXQ2eDbT2yvMLZERfZT6a"
+    },
+    {
+      "album": {
         "name": "Rhino Hi-Five: Nitty Gritty Dirt Band",
         "url": "https://open.spotify.com/album/61ggveeRZyNIyaOsXhWLxm"
       },
@@ -869,7 +887,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 168666,
       "name": "Give Me One More Chance",
       "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 189933,
       "name": "If Drinkin' Don't Kill Me (Her Memory Will)",
       "url": "https://open.spotify.com/track/1Eu8T7TxbcrlZ1oE8Eccxd"
@@ -1595,7 +1613,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 235400,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1K0D6h6dONn8PYlF1pphQy"
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 233693,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk"

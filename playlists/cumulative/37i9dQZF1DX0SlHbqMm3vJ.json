@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 149031,
       "name": "Be Gone",
       "url": "https://open.spotify.com/track/4dWQPivfUCTOp5ihmq8Yxc"
@@ -233,10 +233,32 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 174500,
       "name": "Before You Wake Up",
       "url": "https://open.spotify.com/track/2PKRz9DR6lUX6zAJgW5aRV"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1b5LtjGZwqzkehBIuXMc3h"
+      },
+      "artists": [
+        {
+          "name": "Offei",
+          "url": "https://open.spotify.com/artist/53lrU0w5zDWd58f5hDsftr"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207611,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/1AXdI9rJDWmiiIBlcV5Ifo"
     },
     {
       "album": {
@@ -273,7 +295,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 196000,
       "name": "Cameras",
       "url": "https://open.spotify.com/track/3GKP5FZ3p29o082QOwIEiu"
@@ -611,7 +633,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 153402,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/4vHIN4313pVSEf7D2ylO3C"
@@ -743,7 +765,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 198472,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/6i6wVdyqlRmFCTkNxSzxQz"
@@ -841,7 +863,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 218823,
       "name": "In My Dreams Last Night",
       "url": "https://open.spotify.com/track/0Tupq0XA3sxGgbqMHsqVM7"
@@ -939,7 +961,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 204000,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/1Jbiy0iXnwl7JurpSZnAVy"
@@ -957,7 +979,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 131224,
       "name": "Level",
       "url": "https://open.spotify.com/track/2M1AQbbjjibL6JqWwTHJBC"
@@ -1187,7 +1209,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
@@ -1231,7 +1253,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 176583,
       "name": "Minor Notes",
       "url": "https://open.spotify.com/track/0k94cHa9Zr8dLw6iCVw6d4"
@@ -1293,7 +1315,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 206032,
       "name": "Odo (Love)",
       "url": "https://open.spotify.com/track/0qLvPreK4QLCyiTx5wt65P"
@@ -1355,7 +1377,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 206333,
       "name": "One Time",
       "url": "https://open.spotify.com/track/7J4dbVmwZs7MoZD8A8EkFb"
@@ -1439,7 +1461,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 122020,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/6NtOTnvDhbzaxpxkjBEx8x"
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 206775,
       "name": "Snapchat",
       "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
@@ -1781,7 +1803,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 167584,
       "name": "STONES",
       "url": "https://open.spotify.com/track/00ti8nTfpzn8rGt9tqBfTI"
@@ -1875,7 +1897,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 166470,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/1DxQFCBRYmnL9P2SJfHCml"
@@ -1923,7 +1945,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 180800,
       "name": "The Tree",
       "url": "https://open.spotify.com/track/6c2umqQ4F1T25KnEmMHdH2"
@@ -1959,7 +1981,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 149482,
       "name": "THINKING",
       "url": "https://open.spotify.com/track/41XqpDcepbryNYVyLzpVMa"
@@ -1981,7 +2003,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 183499,
       "name": "Tinkerbell (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
@@ -2029,7 +2051,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
@@ -2131,7 +2153,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 143484,
       "name": "Up",
       "url": "https://open.spotify.com/track/5GTXa4WXtncHY5Ztbb8yX2"
@@ -2201,7 +2223,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 168461,
       "name": "Woman",
       "url": "https://open.spotify.com/track/1ODftV7ocihBwY9CJcCvD1"
@@ -2241,7 +2263,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 179191,
       "name": "You",
       "url": "https://open.spotify.com/track/3mPNiVNsCpGFjV4y7IaOrX"

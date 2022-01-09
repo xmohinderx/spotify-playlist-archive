@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 208649,
       "name": "A Mermaid in Lisbon",
       "url": "https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 273533,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/62oCnK99vT8HOgwPsvXuiM"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 247433,
       "name": "Fear of the Water - Recorded at St. Mark\u2019s Cathedral",
       "url": "https://open.spotify.com/track/6JMqqFoUPdKKiC0dosoaP0"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 210421,
       "name": "Hypochondriac - acoustic",
       "url": "https://open.spotify.com/track/1voad61aPwZdcwGy4UV3dl"
@@ -759,7 +759,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 304880,
       "name": "I Don't Want to Go",
       "url": "https://open.spotify.com/track/6v72fV6Nao5E4MOoQ8ZvzD"
@@ -1037,7 +1037,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 210629,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/2I5Yb8UmvmRBA1XB8Boicy"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 199333,
       "name": "Pel\u00e9 Pel\u00e9",
       "url": "https://open.spotify.com/track/2k7eqTkF1xicjj1yLEEdGA"
@@ -1660,6 +1660,24 @@
     },
     {
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/7lqGzEhPHDWg3B24gDavWd"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211940,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/00r8JL55INeWH0qQfiEhsl"
+    },
+    {
+      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 210040,
       "name": "Sleep On The Wing",
       "url": "https://open.spotify.com/track/6A6ELFKSmU4Sgnfem0SyRd"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 250182,
       "name": "Somewhere Forever",
       "url": "https://open.spotify.com/track/0LEYYOcwGSTd38kRUB8iXO"

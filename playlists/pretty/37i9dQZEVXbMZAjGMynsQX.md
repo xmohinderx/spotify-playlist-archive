@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMZAjGMynsQX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Costa Rica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,615 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,660 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

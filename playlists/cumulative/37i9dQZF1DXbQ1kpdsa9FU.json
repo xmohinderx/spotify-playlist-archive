@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Double Take - Chris Tomlin",
+        "url": "https://open.spotify.com/album/71Rt2QTgfrUpz9Tamsw14d"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "date_added": "2020-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267066,
+      "name": "Amazing Grace (My Chains Are Gone)",
+      "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
+    },
+    {
+      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
       },
@@ -167,7 +185,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 202943,
       "name": "Believer",
       "url": "https://open.spotify.com/track/6n01vQklESLKTMry9VcEFV"
@@ -203,7 +221,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 281866,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 250426,
       "name": "Great Is Thy Faithfulness (Beginning to End) [feat. Mike Weaver] (feat. Mike Weaver)",
       "url": "https://open.spotify.com/track/1W5mifA8dmXAkeich4GPFK"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 289893,
       "name": "How Great Thou Art",
       "url": "https://open.spotify.com/track/3jxzbVpCegxDaWXufQWYOd"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 333053,
       "name": "I Am Not Alone - Live",
       "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 218133,
       "name": "In Awe",
       "url": "https://open.spotify.com/track/053yoApAqzVFYZQUcf60Zv"
@@ -1325,7 +1343,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 229946,
       "name": "Mighty to Save",
       "url": "https://open.spotify.com/track/5l4kTQShA5kAOvjbGBTxBm"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 318120,
       "name": "The Heart Of Worship",
       "url": "https://open.spotify.com/track/5N23UhzMfAuCYjwhSbTQwH"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 225996,
       "name": "The Same Jesus",
       "url": "https://open.spotify.com/track/6tEPe1D8X4gkHUfcUsiNTL"
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 200453,
       "name": "The Words I Would Say",
       "url": "https://open.spotify.com/track/0HxKVc6xb4WFhWRDzlj7sS"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 347461,
       "name": "World Needs Jesus",
       "url": "https://open.spotify.com/track/2v0uCwITNiWwuA8KdNUWL3"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,318 likes - 101 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,539 likes - 101 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 79 | [Betrayed](https://open.spotify.com/track/4J6tmJ6ZtadOV6YJMjoPJi) | [CAIRO!](https://open.spotify.com/artist/4aIhnBtdjW3G0IkQayhIIK) | [Betrayed](https://open.spotify.com/album/6tG9LHUyYXmHWaAohJjTFs) | 2:26 |
 | 80 | [EXPIRATION DATE](https://open.spotify.com/track/6BMAOOrAC6LxdYjVbkk7h9) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [EXPIRATION DATE](https://open.spotify.com/album/7eDx4ejqsr5RcTmPaM7Hfs) | 2:41 |
 | 81 | [Bad Influence](https://open.spotify.com/track/5I8rD0Y3zF9av3dyxhBsd2) | [Tinywiings](https://open.spotify.com/artist/1VUJORAhVbWM59xRLR8DY3), [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Bad Influence](https://open.spotify.com/album/1eXHr7Yd4cyMxrx1jSOXGs) | 2:28 |
-| 82 | [Lost Soul](https://open.spotify.com/track/2yF4djJtpqB91yMGiraVBU) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Lost Soul](https://open.spotify.com/album/0RdIsUwhawBH47qjDRSx6L) | 1:19 |
+| 82 | [Lost Soul](https://open.spotify.com/track/2yF4djJtpqB91yMGiraVBU) | [Kofi](https://open.spotify.com/artist/4wwF63jiDeeC5kRfPh35B7) | [Lost Soul](https://open.spotify.com/album/0RdIsUwhawBH47qjDRSx6L) | 1:19 |
 | 83 | [Shame On You](https://open.spotify.com/track/6sVs6TJapaC9piCpAgZyZc) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Shame On You](https://open.spotify.com/album/7rAfGUGoGPQNYM9RK0musY) | 3:20 |
 | 84 | [Lost On Me](https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:54 |
 | 85 | [Grandfather](https://open.spotify.com/track/6xkbPOTh9RZ3AMr7CATJ7s) | [Joey Stylez](https://open.spotify.com/artist/5SEUHl3YJL3a5aQGuMDETE) | [Grandfather](https://open.spotify.com/album/1sP2mck6iEzf3hTpNrudpU) | 3:01 |

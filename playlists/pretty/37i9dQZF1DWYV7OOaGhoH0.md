@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV7OOaGhoH0.md) - [plain]
 
 > Explore the ever\-evolving roots & folk scene\. Cover: Aoife O'Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,827,350 likes - 110 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,827,357 likes - 110 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

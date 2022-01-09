@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music worldwide\.  Cover: Martin Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,388,921 likes - 99 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,133 likes - 99 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

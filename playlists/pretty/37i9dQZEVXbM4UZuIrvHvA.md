@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM4UZuIrvHvA.md) - [plain]
 
 > Your daily update of the most played tracks right now \- UAE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,524 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,528 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

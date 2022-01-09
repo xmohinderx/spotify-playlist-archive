@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/052JsWmQlm2x415X7glETB"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/5rWjy4ys7LdinaFKZQBlZh"
+    },
+    {
+      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/0488X5veBK6t3vSmIiTDJY"
       },
@@ -283,6 +301,24 @@
       "duration_ms": 215106,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
+    },
+    {
+      "album": {
+        "name": "Better Half of Me",
+        "url": "https://open.spotify.com/album/3qMdA1s9e4FiWOlVFViq20"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195451,
+      "name": "Better Half of Me",
+      "url": "https://open.spotify.com/track/114xcQz8sZ6fxRBTZmgmNE"
     },
     {
       "album": {
@@ -315,7 +351,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 272800,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/5UkAKOxSAIa9GVgXbJKz7T"
@@ -351,7 +387,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 200706,
       "name": "Better Together",
       "url": "https://open.spotify.com/track/6huS9u0BDfeQHq0lObNLPl"
@@ -621,7 +657,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 277600,
       "name": "Burn Away",
       "url": "https://open.spotify.com/track/1BWwluLoq3kM4jZkZy4ee7"
@@ -715,7 +751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 183209,
       "name": "Change of Mind - Acoustic",
       "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
@@ -733,7 +769,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 160186,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3vUc9WQpoca15404jNdzf9"
@@ -845,7 +881,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 272174,
       "name": "Come on Love",
       "url": "https://open.spotify.com/track/5ve7ClWCO0nQjjL11j3Icr"
@@ -899,7 +935,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 185357,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/1wtrJ0dcTjqP8PMRTczdSi"
@@ -1467,7 +1503,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 235292,
       "name": "Fine",
       "url": "https://open.spotify.com/track/5sZEXPUEOp0pp5yeS4HeCz"
@@ -1593,7 +1629,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 203546,
       "name": "For You",
       "url": "https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ"
@@ -1759,7 +1795,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
@@ -1781,6 +1817,24 @@
       "duration_ms": 178000,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3lQXz1n5etCVVrazQLEPGt"
+    },
+    {
+      "album": {
+        "name": "Great American Novel",
+        "url": "https://open.spotify.com/album/5EJkQ3cn2Wripdg8dYyDCu"
+      },
+      "artists": [
+        {
+          "name": "Max Jury",
+          "url": "https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234450,
+      "name": "Great American Novel",
+      "url": "https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA"
     },
     {
       "album": {
@@ -2178,6 +2232,24 @@
     },
     {
       "album": {
+        "name": "I Believe in Us",
+        "url": "https://open.spotify.com/album/1ilm51Vj9GmHghmlYQANOf"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202146,
+      "name": "I Believe in Us",
+      "url": "https://open.spotify.com/track/5ZT5UB1SNVMkfYiTvnliz4"
+    },
+    {
+      "album": {
         "name": "Raw",
         "url": "https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP"
       },
@@ -2243,7 +2315,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 233053,
       "name": "I Just Wanna Love You",
       "url": "https://open.spotify.com/track/6SJ1qt2W5A4AEdxjqajMWU"
@@ -2371,6 +2443,28 @@
       "duration_ms": 227252,
       "name": "I'm In Love with You",
       "url": "https://open.spotify.com/track/6CAJfBlMsYUtkI7fBAXE6Y"
+    },
+    {
+      "album": {
+        "name": "The War Inside",
+        "url": "https://open.spotify.com/album/6gkVU0EDZmUJkGww1487z7"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Seth Avett",
+          "url": "https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226966,
+      "name": "I'm so in Love with You (feat. Seth Avett)",
+      "url": "https://open.spotify.com/track/4aVE92z0drZzYHKTk4ToVD"
     },
     {
       "album": {
@@ -2623,7 +2717,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 280853,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/0Tel1fmuCxEFV6wBLXsEdk"
@@ -2891,6 +2985,24 @@
       "duration_ms": 180640,
       "name": "Losing Me",
       "url": "https://open.spotify.com/track/4P6g8wuXeR3wznFk7WnI4w"
+    },
+    {
+      "album": {
+        "name": "Lost Without You",
+        "url": "https://open.spotify.com/album/4wvckIYLIsYQQ5ES3H9Pzn"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225076,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/26z6V1SijQq6J3gPIu1H7t"
     },
     {
       "album": {
@@ -3183,7 +3295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 179299,
       "name": "Must Have Been The Wind",
       "url": "https://open.spotify.com/track/1PsMieVYFXrSeXMxuE2SbG"
@@ -3262,6 +3374,24 @@
     },
     {
       "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/5HYPXY6FQXg2pQkOY2Tygw"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236525,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/1LxlsAn1gECKoqLtOslshm"
+    },
+    {
+      "album": {
         "name": "No Right To Love You (Acoustic)",
         "url": "https://open.spotify.com/album/2lt7XcZlOjyu6tEtrKs24z"
       },
@@ -3291,10 +3421,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 211253,
       "name": "Nobody's Love",
       "url": "https://open.spotify.com/track/3kwgqoBqTwoAH4nT29TYrq"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/3IwLTQrRCxsAp9ZPFLJLAZ"
+      },
+      "artists": [
+        {
+          "name": "WIINSTON",
+          "url": "https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178408,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/0pcSo7xZdaLoomE3INVlvw"
     },
     {
       "album": {
@@ -3309,7 +3457,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 242748,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/4dREWGEtK7MckUgydA2gTh"
@@ -3573,7 +3721,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW"
@@ -3735,7 +3883,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 231748,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY"
@@ -3775,6 +3923,24 @@
       "duration_ms": 234080,
       "name": "Repeat Until Death",
       "url": "https://open.spotify.com/track/5PzWVmfzu7rePAuFkxPQf0"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
+      },
+      "artists": [
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239178,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
     },
     {
       "album": {
@@ -4309,10 +4475,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
+    },
+    {
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/3TKvUsHoRI6haq2QbHZsdK"
+      },
+      "artists": [
+        {
+          "name": "eliza elliott",
+          "url": "https://open.spotify.com/artist/0HLxtYwwRy4qx1r8utJRAq"
+        },
+        {
+          "name": "Leuca",
+          "url": "https://open.spotify.com/artist/3wCg2Idgypg6OjA0uDYctR"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/3q2T2qecCAnj7XlpUnLbBW"
     },
     {
       "album": {
@@ -4500,6 +4688,28 @@
     },
     {
       "album": {
+        "name": "The Few Things",
+        "url": "https://open.spotify.com/album/2G54TgvdPgeLZ8uRFYZNTk"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211567,
+      "name": "The Few Things",
+      "url": "https://open.spotify.com/track/7GajeLvMksa794ZEQXwRSy"
+    },
+    {
+      "album": {
         "name": "EGO (super/trip/maniac)",
         "url": "https://open.spotify.com/album/2pPQfg4D54rDN1bQ5Ibm75"
       },
@@ -4529,7 +4739,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 172400,
       "name": "The Time Has Come",
       "url": "https://open.spotify.com/track/688PTE0V0ccAzjjul4tSA0"
@@ -4547,7 +4757,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 165586,
       "name": "The Valley",
       "url": "https://open.spotify.com/track/0YBApL73BbXpxEJKREFOUF"
@@ -4587,7 +4797,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 152149,
       "name": "There For You",
       "url": "https://open.spotify.com/track/0nr17JLngPjJI66XdvjydV"
@@ -4663,7 +4873,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 202720,
       "name": "Thousand - Acoustic",
       "url": "https://open.spotify.com/track/0NSqOUjf55rgVEqN7e9fhb"
@@ -4739,7 +4949,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 223043,
       "name": "Too Much To Ask",
       "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
@@ -4891,7 +5101,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 235386,
       "name": "Velvet Rope",
       "url": "https://open.spotify.com/track/2u6dedaqZJeVFvqCTA0Qdm"
@@ -5241,7 +5451,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 154650,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"
@@ -5321,7 +5531,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 210459,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3ko2GsgvCSvblmrc5zpMT2"

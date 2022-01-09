@@ -1,7 +1,7 @@
 {
   "description": "Your daily update of the most played tracks right now - Argentina.",
   "name": "Top 50 - Argentina",
-  "num_followers": 1104484,
+  "num_followers": 1105423,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -786,6 +786,10 @@
         {
           "name": "Homer El Mero Mero",
           "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
       "duration_ms": 212608,

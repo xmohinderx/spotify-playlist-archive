@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 231502,
       "name": "Again",
       "url": "https://open.spotify.com/track/6TxXpZ17qTxOVDleRQ3aM9"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 212426,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/0gEl3OkfuBT0GpNbRitxgo"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 203640,
       "name": "Come on Mess Me Up",
       "url": "https://open.spotify.com/track/6lOHJvk1ss3cH42PlxyLvo"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 251436,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/3x5VSETP4fRjK2MoZfyVlE"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 208906,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 247613,
       "name": "Just Like A Movie",
       "url": "https://open.spotify.com/track/0Jgbauc8Nv2OOjR5ERW28B"
@@ -953,6 +953,24 @@
       "duration_ms": 282205,
       "name": "Kilby Girl",
       "url": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH"
+    },
+    {
+      "album": {
+        "name": "king of the nosebleeds",
+        "url": "https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH"
+      },
+      "artists": [
+        {
+          "name": "gabriel black",
+          "url": "https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162997,
+      "name": "king of the nosebleeds",
+      "url": "https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7"
     },
     {
       "album": {
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 267692,
       "name": "the fatalist",
       "url": "https://open.spotify.com/track/4tjU3FbweegHC4T3taQ7RI"
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 255067,
       "name": "What Once Was",
       "url": "https://open.spotify.com/track/1XrSjpNe49IiygZfzb74pk"

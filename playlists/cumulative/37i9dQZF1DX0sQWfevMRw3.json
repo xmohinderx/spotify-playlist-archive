@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 140952,
       "name": "Alright",
       "url": "https://open.spotify.com/track/2dlJ5e6yoKl1fXEQ3779p0"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 145941,
       "name": "Another Level (ft. Lovespeake)",
       "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 160877,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/7ak6KbxwwaGfkJ5B8SF6V2"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 146718,
       "name": "Burning Love",
       "url": "https://open.spotify.com/track/1wPMVh1p5p2se27BJbL1ge"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 170693,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2Cm2RXqtcJtiWpSJrxuYwA"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 157741,
       "name": "Deep",
       "url": "https://open.spotify.com/track/5LwUuEmBh8iLjHTe1iusix"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 150468,
       "name": "Distant Memory (with Timmy Trumpet x W&W)",
       "url": "https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao"
@@ -1064,6 +1064,24 @@
     },
     {
       "album": {
+        "name": "Fun",
+        "url": "https://open.spotify.com/album/0tLw6l374Kc8Mm574NUeFI"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161428,
+      "name": "Fun",
+      "url": "https://open.spotify.com/track/47OBrHsoyIXwnLAT55oRCq"
+    },
+    {
+      "album": {
         "name": "Gaz",
         "url": "https://open.spotify.com/album/2BHNIahI6BbaDblKM71cNZ"
       },
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 186080,
       "name": "Gaz",
       "url": "https://open.spotify.com/track/0Lg5AjgoXg3HchcYypa86h"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 161000,
       "name": "Hardcore Vibes - Radio Edit",
       "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 208840,
       "name": "Hashish de blaa",
       "url": "https://open.spotify.com/track/3xBwIEVxgGCjDSKMpUnwTK"
@@ -1285,7 +1303,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 128000,
       "name": "Heathens",
       "url": "https://open.spotify.com/track/4il7cillEo8yKHdlBOP0Qy"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 144079,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/6knzUvATyUqJWpRCm1Znka"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 168387,
       "name": "Losing My Religion (feat. MKLA)",
       "url": "https://open.spotify.com/track/7u6EvUNJUmycM4IHEiHasm"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 137213,
       "name": "Lovers Say Goodbye",
       "url": "https://open.spotify.com/track/7aVvHrB8hLb7421u4sp7S8"
@@ -1837,7 +1855,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 214501,
       "name": "Midnight Runners",
       "url": "https://open.spotify.com/track/6SOzKLfNIPUFCbhYQ5vCF3"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 158000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2ImJRXPtx4meYZ4DkhSU89"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 156013,
       "name": "Mon fr\u00e9re",
       "url": "https://open.spotify.com/track/1TzDpGGfnd5MfoFQCnySZF"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 219000,
       "name": "My Feelings",
       "url": "https://open.spotify.com/track/7DIXoZRRwog4KbDTIN7fgN"
@@ -1987,7 +2005,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 159088,
       "name": "No Super League",
       "url": "https://open.spotify.com/track/0IrS6f8lDKMEcwOf2FcCHQ"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 220082,
       "name": "Patience (feat. Kayla Rose)",
       "url": "https://open.spotify.com/track/4SiaZNahXQ9oTzPPTxZaox"
@@ -2193,7 +2211,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 219310,
       "name": "PCP",
       "url": "https://open.spotify.com/track/72H8hxvjqEzfsb3uB4gzvo"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 154761,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/5vD09qPYPhATeEF4GvGHVw"
@@ -2437,7 +2455,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 155096,
       "name": "Rosa Helikopter",
       "url": "https://open.spotify.com/track/3gFZAe1VQ5GRApXr3xmGMN"
@@ -2533,7 +2551,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 144924,
       "name": "Saint Tropez (feat. Irma)",
       "url": "https://open.spotify.com/track/5vJNNukmV73WwAnGmsPht8"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 150720,
       "name": "Say Too Much",
       "url": "https://open.spotify.com/track/2ULc68AwJcOUHwOydtsFII"
@@ -2857,7 +2875,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 180151,
       "name": "Space Melody (Edward Artemyev) (feat. Leony)",
       "url": "https://open.spotify.com/track/0FRavXSn6XmeItbuJR3VrR"
@@ -2919,7 +2937,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 221647,
       "name": "Stars Don't Shine (feat. Global Dan)",
       "url": "https://open.spotify.com/track/0Bz4zF649klc9hMb9xtj16"
@@ -2973,7 +2991,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 160685,
       "name": "Step-Grandma",
       "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
@@ -3065,7 +3083,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 136774,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4gdp8cuXyhkr0bgtL9kCkZ"
@@ -3203,7 +3221,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 184888,
       "name": "Technodad",
       "url": "https://open.spotify.com/track/7HLGPZ6zE4Ooxy0eMVtzfe"
@@ -3265,7 +3283,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 194571,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/00JoqMc5KZFLpdrtymo6f0"
@@ -3673,7 +3691,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 194676,
       "name": "What Was in That Glass",
       "url": "https://open.spotify.com/track/1r9ecngPLiwB5J06DWH4Ts"
@@ -3702,6 +3720,24 @@
     },
     {
       "album": {
+        "name": "When I'm Scared",
+        "url": "https://open.spotify.com/album/5C550JKXsYHtfub1MGilcJ"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "When I'm Scared",
+      "url": "https://open.spotify.com/track/4JCr05lmMKreEAx6z6JzuC"
+    },
+    {
+      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/6N3kk3LU2L3KweZh6vTq0a"
       },
@@ -3717,7 +3753,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 183588,
       "name": "White Lies",
       "url": "https://open.spotify.com/track/2QuQkdLLzgktXwruPAz6f4"
@@ -3775,7 +3811,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Work That Body",
       "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
@@ -3855,7 +3891,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 126532,
       "name": "You Know",
       "url": "https://open.spotify.com/track/0upmhqjGvyv5E3kmcFls4q"

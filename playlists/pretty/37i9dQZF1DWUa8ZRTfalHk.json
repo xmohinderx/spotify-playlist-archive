@@ -1,12 +1,12 @@
 {
   "description": "The hits of tomorrow are on Spotify today. Cover: Montell Fish",
   "name": "Pop Rising",
-  "num_followers": 2393758,
+  "num_followers": 2394048,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTYwMCwwMDAwMDU5NzAwMDAwMTdlMzJlODZkMmEwMDAwMDE3ZTMxYzdjNTFk",
+  "snapshot_id": "MTY0MTY1NjcyNywwMDAwMDU5ODAwMDAwMTdlM2E1ZGI3MTcwMDAwMDE3ZTMxYzdjNTFk",
   "tracks": [
     {
       "added_at": "2022-01-07 05:00:00",
@@ -403,42 +403,18 @@
     {
       "added_at": "2022-01-07 05:00:00",
       "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+        "name": "drunk text me",
+        "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
       },
       "artists": [
         {
-          "name": "Carolina Gait\u00e1n - La Gaita",
-          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
-        },
-        {
-          "name": "Mauro Castillo",
-          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
-        },
-        {
-          "name": "Adassa",
-          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
-        },
-        {
-          "name": "Rhenzy Feliz",
-          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
-        },
-        {
-          "name": "Diane Guerrero",
-          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
-        },
-        {
-          "name": "Stephanie Beatriz",
-          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
-        },
-        {
-          "name": "Encanto - Cast",
-          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
         }
       ],
-      "duration_ms": 216120,
-      "name": "We Don't Talk About Bruno",
-      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
     },
     {
       "added_at": "2022-01-07 05:00:00",
@@ -531,7 +507,7 @@
     {
       "added_at": "2022-01-07 05:00:00",
       "album": {
-        "name": "Tears In The Club (feat. The Weeknd)",
+        "name": "tears in the club (feat. the weeknd)",
         "url": "https://open.spotify.com/album/633MrZ9lAeFFydmcMENiuA"
       },
       "artists": [
@@ -545,7 +521,7 @@
         }
       ],
       "duration_ms": 196760,
-      "name": "Tears In The Club (feat. The Weeknd)",
+      "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/60wMNCIWYZwbOywZXgfQ9P"
     },
     {
@@ -603,6 +579,46 @@
     {
       "added_at": "2022-01-07 05:00:00",
       "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Gait\u00e1n - La Gaita",
+          "url": "https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv"
+        },
+        {
+          "name": "Mauro Castillo",
+          "url": "https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I"
+        },
+        {
+          "name": "Adassa",
+          "url": "https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh"
+        },
+        {
+          "name": "Rhenzy Feliz",
+          "url": "https://open.spotify.com/artist/2as15AH2BTrPk8v4gyElmr"
+        },
+        {
+          "name": "Diane Guerrero",
+          "url": "https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1"
+        },
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "We Don't Talk About Bruno",
+      "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "drunk text me",
-        "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
     },
     {
       "added_at": "2022-01-07 05:00:00",

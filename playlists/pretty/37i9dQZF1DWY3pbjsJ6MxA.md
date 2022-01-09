@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3pbjsJ6MxA.md) - [plain]
 
 > Celebrate legendary DJ/BBC Radio 1 host John Peel's legacy in this collection of highlights from 5 decades of <a href="https://en.wikipedia.org/wiki/List\_of\_Peel\_sessions">Peel Sessions</a>\. Hear Pavement covering <a href="spotify:user:spotify:playlist:37i9dQZF1DX7mMRxgkst0Y">The Fall</a>, acoustic Morrissey, Nirvana before Nevermind, Bowie debuting Hunky Dory outtake, and many more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,709 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,742 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3pbjsJ6MxA.md) - [plain]
 | 41 | [Lush 3 \(Euro Tunnel Disaster '94\)/ Walk About \(John Peel Sessions\)](https://open.spotify.com/track/6507HGYoLs1BqEaujg7CMj) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Diversions \(US DMD\)](https://open.spotify.com/album/0c7UhPglNvSLJ1Gg3h8ABY) | 14:35 |
 | 42 | [The Saints Are Coming \- BBC John Peel Session](https://open.spotify.com/track/5V8LUrnKcxUT5921pTiJX6) | [Skids](https://open.spotify.com/artist/2vwI9jlKSgJbne3dlTzaLO) | [John Peel Session 29th August 1978](https://open.spotify.com/album/4Rgsib7o5EPRWGjh2bfOsi) | 4:01 |
 | 43 | [Two Of A Kind](https://open.spotify.com/track/4Qmymqf5TcTk1Ckhaotpmp) | [Syd Barrett](https://open.spotify.com/artist/6Lt3HS8R2v8Q4G7ZkUWa8R) | [Original John Peel Session: 24th February 1970](https://open.spotify.com/album/0plmlEeglw33ZA4lvrFeg9) | 2:34 |
-| 44 | [\(My Girl's Got\) Miraculous Technique \- Radio Session](https://open.spotify.com/track/2VbBO8PdgyHwp2sWvB9Vx9) | [Belle & Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The BBC Sessions](https://open.spotify.com/album/3kvB6yYJrJsBa5KiK0EIhi) | 4:28 |
+| 44 | [\(My Girl's Got\) Miraculous Technique \- Radio Session](https://open.spotify.com/track/2VbBO8PdgyHwp2sWvB9Vx9) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The BBC Sessions](https://open.spotify.com/album/3kvB6yYJrJsBa5KiK0EIhi) | 4:28 |
 | 45 | [Art\-I\-Ficial \- BBC Radio One "John Peel" Session 20/02/1978](https://open.spotify.com/track/1v3B39tF8FabWLQpv9qTaO) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents \(Extended Version\)](https://open.spotify.com/album/0B9F4PVtJGSaQSQRs044Dl) | 3:27 |
 | 46 | [Hunted By A Freak](https://open.spotify.com/track/41VZ0TAbebnmk2Y2mkypas) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Government Commissions \(BBC Sessions 1996\-2003\)](https://open.spotify.com/album/42YHIL8OuNkND1WfgFy8l4) | 4:09 |
 | 47 | [Wave Of Mutilation \(Peel Session\)](https://open.spotify.com/track/0FGdcjipBbY2AblSRnfN36) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Doolittle 25: B\-Sides, Peel Sessions And Demos](https://open.spotify.com/album/349EJQCTjxHWW0PuZ2OWKj) | 2:25 |

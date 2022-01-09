@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 273933,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 179120,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 160933,
       "name": "A Glass of Champagne",
       "url": "https://open.spotify.com/track/6P8vZyZnBo1dqycL08w93w"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 217320,
       "name": "Ain't No Stoppin' Us Now - Single Version",
       "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
@@ -459,10 +459,28 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 177800,
       "name": "Chirpy Chirpy Cheep Cheep",
       "url": "https://open.spotify.com/track/703RBHUEEi5c4o4YUXAM9Q"
+    },
+    {
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "album": {
@@ -639,7 +657,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 213840,
       "name": "Disco Inferno",
       "url": "https://open.spotify.com/track/3GXo1eWlT2flv4x01l5OTu"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 225666,
       "name": "Hot Stuff - Single Version",
       "url": "https://open.spotify.com/track/2KNCPZQDalFIK3zZXlp6fd"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 211720,
       "name": "Kissin' in the Back Row of the Movies",
       "url": "https://open.spotify.com/track/3XPX8bOozgShCrhWbLC0ZL"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 250520,
       "name": "Knock On Wood",
       "url": "https://open.spotify.com/track/6120uJUyg6QDzaAJUosTx5"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
@@ -2163,6 +2181,24 @@
       "duration_ms": 190413,
       "name": "Never Ending Song Of Love",
       "url": "https://open.spotify.com/track/6rbetlu2qWoxKi5c0u70Dq"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Fever [The Original Movie Soundtrack]",
+        "url": "https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "Night Fever - 2007 Remastered Version Saturday Night Fever",
+      "url": "https://open.spotify.com/track/66wpCqkkM6MrxXSbfgmsrh"
     },
     {
       "album": {
@@ -2321,7 +2357,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 162093,
       "name": "Reet Petite",
       "url": "https://open.spotify.com/track/533NW3XHuW3MjO4vLqY2iV"
@@ -2339,7 +2375,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 169240,
       "name": "Reet Petite",
       "url": "https://open.spotify.com/track/3h4udS0WeWbsur3yfjvnm4"
@@ -2393,7 +2429,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
@@ -2411,7 +2447,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 200866,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/1lmfsSEuxU4PpT739Kihno"
@@ -2429,7 +2465,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 182139,
       "name": "Save Your Kisses For Me",
       "url": "https://open.spotify.com/track/3Egto4BiPhrim1EdRERwht"
@@ -2483,7 +2519,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 180000,
       "name": "Sexy Eyes - Single Version",
       "url": "https://open.spotify.com/track/2iZ4OR1aZTINYlyk2hwTnB"
@@ -2670,6 +2706,24 @@
     },
     {
       "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5B9weDFlXPPdoxM5HRyreL"
+      },
+      "artists": [
+        {
+          "name": "Connie Francis",
+          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        }
+      ],
+      "date_added": "2021-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134560,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/0KM3fzzUBVW0vW7RmFh28v"
+    },
+    {
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/122LCDrUADWvBil3bOkGgn"
       },
@@ -2681,7 +2735,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 208693,
       "name": "Sugar Baby Love",
       "url": "https://open.spotify.com/track/1WZ7nC1GSk8rCF3X4cRiOv"
@@ -2753,7 +2807,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 163715,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/6l5D1WC6kR5cxaUOEyCGvs"
@@ -2771,7 +2825,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 167186,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
@@ -2977,7 +3031,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 185106,
       "name": "That's the Way (I Like It) - 2004 Remaster",
       "url": "https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3"
@@ -3031,7 +3085,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 146239,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/6tdnDoWo1FXA687BBUZmVx"
@@ -3211,7 +3265,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 149733,
       "name": "Walkin' Back to Happiness",
       "url": "https://open.spotify.com/track/4YTYhsTsvNanQQI5PvKmNW"
@@ -3301,7 +3355,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 286800,
       "name": "YMCA - Original Version 1978",
       "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
@@ -3409,7 +3463,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 256493,
       "name": "You Should Be Dancing - Edit / From \"Saturday Night Fever\" Soundtrack",
       "url": "https://open.spotify.com/track/2xiOdusRnZezQok1RgLNeS"
@@ -3427,7 +3481,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 208840,
       "name": "You To Me Are Everything",
       "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
@@ -3445,7 +3499,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 209733,
       "name": "You To Me Are Everything",
       "url": "https://open.spotify.com/track/0klZpFX0a84jdkqzPNrLQs"
@@ -3499,7 +3553,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 212906,
       "name": "You're The First, The Last, My Everything - Single Version",
       "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"

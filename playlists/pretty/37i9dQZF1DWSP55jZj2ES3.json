@@ -1,12 +1,12 @@
 {
   "description": "grab a blanket and get the good vibes going",
   "name": "park hangs",
-  "num_followers": 359265,
+  "num_followers": 359467,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTYzNTMyNywwMDAwMDAwMDU4MzRiY2ExMTZlODE4Y2FlYTRiY2U2NmFlZThkNzA0",
+  "snapshot_id": "MTY0MTY4ODc3MCwwMDAwMDAwMDExODNjZDE0YjYyY2YzZGZmN2EwYmIxZjU4ZGI5M2Uw",
   "tracks": [
     {
       "added_at": "2021-10-26 05:56:16",
@@ -67,70 +67,6 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "1st Time",
-        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 181746,
-      "name": "1st Time",
-      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Love Is Only a Feeling",
-        "url": "https://open.spotify.com/album/5tP9JwZnsJmahQgwzlQPdc"
-      },
-      "artists": [
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        }
-      ],
-      "duration_ms": 152041,
-      "name": "Love Is Only a Feeling",
-      "url": "https://open.spotify.com/track/2ZVRyUFQTI5K99wpJElGrD"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Live on Ice",
-        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
-      },
-      "artists": [
-        {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "I Was Sad Last Night I'm OK Now",
-      "url": "https://open.spotify.com/track/0gEcmyKlIUoi3sHTFVO1bE"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
         "name": "Jaime (Reimagined)",
         "url": "https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0"
       },
@@ -151,18 +87,50 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Sundress",
-        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
+        "name": "Love Is Only a Feeling",
+        "url": "https://open.spotify.com/album/5tP9JwZnsJmahQgwzlQPdc"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 158205,
-      "name": "Sundress",
-      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+      "duration_ms": 152041,
+      "name": "Love Is Only a Feeling",
+      "url": "https://open.spotify.com/track/2ZVRyUFQTI5K99wpJElGrD"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "1st Time",
+        "url": "https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 181746,
+      "name": "1st Time",
+      "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -183,50 +151,18 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Stella Brown",
-        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
       },
       "artists": [
         {
-          "name": "Jelani Aryeh",
-          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 187415,
-      "name": "Stella Brown",
-      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "1000 Summers",
-        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
-      },
-      "artists": [
-        {
-          "name": "Public Library Commute",
-          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "25MPH",
-      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
+      "duration_ms": 158205,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -251,6 +187,70 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
+        "name": "Stella Brown",
+        "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "duration_ms": 187415,
+      "name": "Stella Brown",
+      "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Live on Ice",
+        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "I Was Sad Last Night I'm OK Now",
+      "url": "https://open.spotify.com/track/0gEcmyKlIUoi3sHTFVO1bE"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Morning Sex",
+        "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 175312,
+      "name": "Morning Sex",
+      "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
         "name": "HIT EM WHERE IT HURTS",
         "url": "https://open.spotify.com/album/4GqNYTtGw3kX9uq4o4tNep"
       },
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Talk Words",
-        "url": "https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ"
+        "name": "Movie Screen",
+        "url": "https://open.spotify.com/album/6pizYmRdu5MCZioq6EKQ1O"
       },
       "artists": [
         {
-          "name": "Bickle",
-          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
+          "name": "Tommy Newport",
+          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
         }
       ],
-      "duration_ms": 213025,
-      "name": "Talk Words",
-      "url": "https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb"
+      "duration_ms": 183907,
+      "name": "Movie Screen",
+      "url": "https://open.spotify.com/track/13qu2DwEao5caQ0dPAwhN5"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -307,26 +307,18 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+        "name": "Child",
+        "url": "https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e"
       },
       "artists": [
         {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Sam Truth",
+          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
         }
       ],
-      "duration_ms": 440013,
-      "name": "Palace/Curse (feat. Steve Lacy, feat. Tyler, The Creator, feat. Tyler, The Creator & Steve Lacy)",
-      "url": "https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA"
+      "duration_ms": 172295,
+      "name": "All My Dogs",
+      "url": "https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -355,18 +347,18 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Morning Sex",
-        "url": "https://open.spotify.com/album/6nPjdP4pjRIItNMnu9DSLQ"
+        "name": "Songs of Her's",
+        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
       "artists": [
         {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+          "name": "Her's",
+          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
         }
       ],
-      "duration_ms": 175312,
-      "name": "Morning Sex",
-      "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
+      "duration_ms": 187571,
+      "name": "Marcel",
+      "url": "https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -387,70 +379,6 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "peppermint",
-        "url": "https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC"
-      },
-      "artists": [
-        {
-          "name": "lavender",
-          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
-        }
-      ],
-      "duration_ms": 132915,
-      "name": "peppermint",
-      "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Child",
-        "url": "https://open.spotify.com/album/4U3r16iwNXWJfPjt43Aw9e"
-      },
-      "artists": [
-        {
-          "name": "Sam Truth",
-          "url": "https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa"
-        }
-      ],
-      "duration_ms": 172295,
-      "name": "All My Dogs",
-      "url": "https://open.spotify.com/track/48U1hydvN4WPGnYvwZ0lqK"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Lucky Rainbow",
-        "url": "https://open.spotify.com/album/7xuc387nlJfCm4sxjiMi0Y"
-      },
-      "artists": [
-        {
-          "name": "Apricot Ink",
-          "url": "https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ"
-        }
-      ],
-      "duration_ms": 129347,
-      "name": "Carmelyzed Crusade",
-      "url": "https://open.spotify.com/track/3tImDQPxlfiyxl26gvgUeY"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Songs of Her's",
-        "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
-      },
-      "artists": [
-        {
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "duration_ms": 187571,
-      "name": "Marcel",
-      "url": "https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -463,166 +391,6 @@
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "be cool",
-        "url": "https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 143647,
-      "name": "be cool",
-      "url": "https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Apocalypse Wow",
-        "url": "https://open.spotify.com/album/24n0t3wZV2NWGp0gZhdygu"
-      },
-      "artists": [
-        {
-          "name": "Huron John",
-          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
-        }
-      ],
-      "duration_ms": 193401,
-      "name": "Maple Syrup Tears",
-      "url": "https://open.spotify.com/track/1yfkJLkJuhVxZf7d4OqARc"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Movie Screen",
-        "url": "https://open.spotify.com/album/6pizYmRdu5MCZioq6EKQ1O"
-      },
-      "artists": [
-        {
-          "name": "Tommy Newport",
-          "url": "https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv"
-        }
-      ],
-      "duration_ms": 183907,
-      "name": "Movie Screen",
-      "url": "https://open.spotify.com/track/13qu2DwEao5caQ0dPAwhN5"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Booyah",
-        "url": "https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR"
-      },
-      "artists": [
-        {
-          "name": "the booyah! kids",
-          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Don't Trust Me",
-      "url": "https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "channel ORANGE (Explicit Version)",
-        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 199505,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Spark It Up",
-        "url": "https://open.spotify.com/album/68gnCjMYPp2bb68Jlt4HiK"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 271773,
-      "name": "Spark It Up",
-      "url": "https://open.spotify.com/track/6n3FVLR4lkLiwqRAbtRnGD"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "CALL ME IF YOU GET LOST",
-        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 515865,
-      "name": "WILSHIRE",
-      "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "SATURATION",
-        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
-      },
-      "artists": [
-        {
-          "name": "BROCKHAMPTON",
-          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "FACE",
-      "url": "https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -643,6 +411,62 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
+        "name": "Talk Words",
+        "url": "https://open.spotify.com/album/34rTpkluJXJnTmFojki6lQ"
+      },
+      "artists": [
+        {
+          "name": "Bickle",
+          "url": "https://open.spotify.com/artist/1xFMeZFEf4ZUfuKwrfs5lB"
+        }
+      ],
+      "duration_ms": 213025,
+      "name": "Talk Words",
+      "url": "https://open.spotify.com/track/1QloOO4c5p6DkvnjcHDSSb"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 440013,
+      "name": "Palace/Curse (feat. Steve Lacy, feat. Tyler, The Creator, feat. Tyler, The Creator & Steve Lacy)",
+      "url": "https://open.spotify.com/track/300DUx4tdtCdGEUXR032jA"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "be cool",
+        "url": "https://open.spotify.com/album/3aDhMq947HZuufg7tsJCPo"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 143647,
+      "name": "be cool",
+      "url": "https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
         "name": "2 Be & In Your Mind",
         "url": "https://open.spotify.com/album/57mzzgh3cM00tUcFH8xeVe"
       },
@@ -655,6 +479,42 @@
       "duration_ms": 155000,
       "name": "In Your Mind",
       "url": "https://open.spotify.com/track/1pb3GpXukIdPvhwSEDLclz"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "freetime",
+        "url": "https://open.spotify.com/album/2T7CS8WXGuTJ6aZx56xPSN"
+      },
+      "artists": [
+        {
+          "name": "Schwey",
+          "url": "https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ"
+        },
+        {
+          "name": "Satchy",
+          "url": "https://open.spotify.com/artist/5WU8v5r46LwBAwXGGCQygh"
+        }
+      ],
+      "duration_ms": 149944,
+      "name": "freetime",
+      "url": "https://open.spotify.com/track/5jwZ3lqPkYBYECY9v08fsl"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "peppermint",
+        "url": "https://open.spotify.com/album/556QP5oHeJuE4iuF8noifC"
+      },
+      "artists": [
+        {
+          "name": "lavender",
+          "url": "https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY"
+        }
+      ],
+      "duration_ms": 132915,
+      "name": "peppermint",
+      "url": "https://open.spotify.com/track/1YjEwY8FrctMA4MX0RkdRx"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -683,38 +543,50 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Only Child",
-        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
+        "name": "Lucky Rainbow",
+        "url": "https://open.spotify.com/album/7xuc387nlJfCm4sxjiMi0Y"
       },
       "artists": [
         {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+          "name": "Apricot Ink",
+          "url": "https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ"
         }
       ],
-      "duration_ms": 239324,
-      "name": "Only Child",
-      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
+      "duration_ms": 129347,
+      "name": "Carmelyzed Crusade",
+      "url": "https://open.spotify.com/track/3tImDQPxlfiyxl26gvgUeY"
     },
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Phone Numbers",
-        "url": "https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT"
+        "name": "Apocalypse Wow",
+        "url": "https://open.spotify.com/album/24n0t3wZV2NWGp0gZhdygu"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Kenny Beats",
-          "url": "https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC"
+          "name": "Huron John",
+          "url": "https://open.spotify.com/artist/3CfbFUXY5EE7NmKE4n1Q3v"
         }
       ],
-      "duration_ms": 146826,
-      "name": "Phone Numbers",
-      "url": "https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z"
+      "duration_ms": 193401,
+      "name": "Maple Syrup Tears",
+      "url": "https://open.spotify.com/track/1yfkJLkJuhVxZf7d4OqARc"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "FACE",
+      "url": "https://open.spotify.com/track/5bknBRjKJZ643DAN2w8Yoy"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -735,6 +607,22 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
+        "name": "CALL ME IF YOU GET LOST",
+        "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 515865,
+      "name": "WILSHIRE",
+      "url": "https://open.spotify.com/track/1pbbsI2KGPOMu0HmuGccBu"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
         "name": "Head Down",
         "url": "https://open.spotify.com/album/2Ef9XULg6bu9Avri3kWUsn"
       },
@@ -751,22 +639,34 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "freetime",
-        "url": "https://open.spotify.com/album/2T7CS8WXGuTJ6aZx56xPSN"
+        "name": "channel ORANGE (Explicit Version)",
+        "url": "https://open.spotify.com/album/623Ef2ZEB3Njklix4PC0Rs"
       },
       "artists": [
         {
-          "name": "Schwey",
-          "url": "https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ"
-        },
-        {
-          "name": "Satchy",
-          "url": "https://open.spotify.com/artist/5WU8v5r46LwBAwXGGCQygh"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 149944,
-      "name": "freetime",
-      "url": "https://open.spotify.com/track/5jwZ3lqPkYBYECY9v08fsl"
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4L7jMAP8UcIe309yQmkdcO"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Spark It Up",
+        "url": "https://open.spotify.com/album/68gnCjMYPp2bb68Jlt4HiK"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 271773,
+      "name": "Spark It Up",
+      "url": "https://open.spotify.com/track/6n3FVLR4lkLiwqRAbtRnGD"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -787,6 +687,118 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
+        "name": "Only Child",
+        "url": "https://open.spotify.com/album/0vioXPjQ9v9dSkzw5xHrTQ"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 239324,
+      "name": "Only Child",
+      "url": "https://open.spotify.com/track/4zMmqb0pYwX6b0qc0slCoT"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "upside down",
+        "url": "https://open.spotify.com/album/7L5hYe5cJOppfwmR7qmBcR"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 122925,
+      "name": "upside down",
+      "url": "https://open.spotify.com/track/27dLE8w9LrbjMNU88kUv0G"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Heybb!",
+        "url": "https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8"
+      },
+      "artists": [
+        {
+          "name": "binki",
+          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+        }
+      ],
+      "duration_ms": 148607,
+      "name": "Heybb!",
+      "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "1000 Summers",
+        "url": "https://open.spotify.com/album/2OyMqlLzU0ZVguQeCnN2Nw"
+      },
+      "artists": [
+        {
+          "name": "Public Library Commute",
+          "url": "https://open.spotify.com/artist/2FEdyVgGMSclOsYJ4wAQUY"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "25MPH",
+      "url": "https://open.spotify.com/track/6BeEg9qR8jDuEpH3YtMJHd"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3RWu6OftP02gYbA5k0ixM0"
+      },
+      "artists": [
+        {
+          "name": "dexter",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 159490,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 199505,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z"
       },
@@ -799,42 +811,6 @@
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 160236,
-      "name": "Can\u2019t Decide",
-      "url": "https://open.spotify.com/track/7xEVy3xCkmRSbYavgefnsI"
-    },
-    {
-      "added_at": "2021-10-26 05:56:16",
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 305350,
-      "name": "Dang! (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
     },
     {
       "added_at": "2021-10-26 05:56:16",
@@ -863,18 +839,34 @@
     {
       "added_at": "2021-10-26 05:56:16",
       "album": {
-        "name": "Heybb!",
-        "url": "https://open.spotify.com/album/5CfgvNG8Y0ZGXAx3rNvjC8"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/7JNKAh8Cnao2VCKk33ilWB"
       },
       "artists": [
         {
-          "name": "binki",
-          "url": "https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW"
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         }
       ],
-      "duration_ms": 148607,
-      "name": "Heybb!",
-      "url": "https://open.spotify.com/track/3sN85u5M7FoMmHa8E2aViO"
+      "duration_ms": 269142,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg"
+    },
+    {
+      "added_at": "2021-10-26 05:56:16",
+      "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/35vTE3hx3AAXtM6okpJIIt"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/0hNhlwnzMLzZSlKGDCuHOo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSP55jZj2ES3"

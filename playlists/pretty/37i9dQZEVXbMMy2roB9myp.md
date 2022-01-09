@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMMy2roB9myp.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,104,484 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,105,423 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMMy2roB9myp.md) - [plain]
 | 36 | [TRUCHO](https://open.spotify.com/track/4AKK4j6sYhOO1r6My2qqWO) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [TRUCHO](https://open.spotify.com/album/3xxoXer7UeWMVEMvV7wyuK) | 2:24 |
 | 37 | [Cosas Malas \- Remix](https://open.spotify.com/track/7hiAGGyiLaLBTVroaE08hx) | [Jona Mix](https://open.spotify.com/artist/766vvKS4M2b7XuaEzfkCs8) | [Cosas Malas \(Remix\)](https://open.spotify.com/album/7EDSu2ktxKYf8ZMm0NQFPP) | 2:59 |
 | 38 | [Yonaguni](https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Yonaguni](https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5) | 3:26 |
-| 39 | [Que a Pasao \- Remix](https://open.spotify.com/track/5saUoeceT2zau6ScmU77e6) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Que a Pasao \(Remix\)](https://open.spotify.com/album/2V8rhM3I4tjA94MLqt42cr) | 3:32 |
+| 39 | [Que a Pasao \- Remix](https://open.spotify.com/track/5saUoeceT2zau6ScmU77e6) | [Big Apple](https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE), [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Que a Pasao \(Remix\)](https://open.spotify.com/album/2V8rhM3I4tjA94MLqt42cr) | 3:32 |
 | 40 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 |
 | 41 | [Los Tragos](https://open.spotify.com/track/7iXJg4IUyrWont5YSQrbKP) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Los Tragos](https://open.spotify.com/album/74ubg9xT4sJ4FmNxcGHIK0) | 2:51 |
 | 42 | [Mi Debilidad](https://open.spotify.com/track/4it6vaFbkGRUaQlwWUMg3v) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Animal](https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Score all the hottest hits from your favourite hallyu star and check out your one true K\-Pop playlist! \#kdaebak Cover: IVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,412,767 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,414,072 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 49 | [Drunk\-Dazed](https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : CARNIVAL](https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv) | 3:13 |
 | 50 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 |
 
-Snapshot ID: `MTY0MTYzNTcxOCwwMDAwMDAwMGQ3ZDdlY2MzYjJkNDU1ZDQyY2RlM2JkYTVhZDhkY2I1`
+Snapshot ID: `MTY0MTY4OTE5MiwwMDAwMDAwMGQ3ZDdlY2MzYjJkNDU1ZDQyY2RlM2JkYTVhZDhkY2I1`

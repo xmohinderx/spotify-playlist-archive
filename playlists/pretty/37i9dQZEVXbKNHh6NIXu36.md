@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKNHh6NIXu36.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,934 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,941 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKNHh6NIXu36.md) - [plain]
 | 20 | [Blaues Licht](https://open.spotify.com/track/2Oi1IJ6JEUX1aya9VUAA1Z) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6) | [Zukunft 1 & 2](https://open.spotify.com/album/6npdmy45COickvaNIV5obJ) | 2:24 |
 | 21 | [Infinity](https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Feel Something](https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z) | 3:57 |
 | 22 | [DER LETZTE SONG \(ALLES WIRD GUT\) \(feat\. Fred Rabe\)](https://open.spotify.com/track/2FQRZLR31e3423Nmrgv0Pv) | [KUMMER](https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7), [Fred Rabe](https://open.spotify.com/artist/4MYiI4xv9otdG9iB3d4Q25) | [DER LETZTE SONG \(ALLES WIRD GUT\) \(feat\. Fred Rabe\)](https://open.spotify.com/album/2uZ1heDjBsSvxnANhH8EmD) | 2:51 |
-| 23 | [Molly \(feat\. Bausa\)](https://open.spotify.com/track/0BtIXZTbb0cczvMEvZILDJ) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Molly \(feat\. Bausa\)](https://open.spotify.com/album/3jag5n0erRM7pI85DCers3) | 2:38 |
+| 23 | [Molly \(feat\. Bausa\)](https://open.spotify.com/track/0BtIXZTbb0cczvMEvZILDJ) | [Selmon](https://open.spotify.com/artist/0hKUUP3J5Dc69cQur3U2nV), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV) | [Molly \(feat\. Bausa\)](https://open.spotify.com/album/3jag5n0erRM7pI85DCers3) | 2:39 |
 | 24 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 |
 | 25 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
 | 26 | [allein allein](https://open.spotify.com/track/0pA0BVXTONNqSldC9FdiaU) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [allein allein](https://open.spotify.com/album/6iXjICPffE7hHceHshw4oc) | 2:34 |

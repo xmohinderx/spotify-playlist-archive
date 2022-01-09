@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 
 > Mode: Turnt
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,122,317 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,122,676 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4xHQp97fN6.md) - [plain]
 | 12 | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [too easy \(Remix\) \[feat\. Future & Roddy Ricch\]](https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe) | 3:17 |
 | 13 | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Me or Sum \(feat\. Future & Lil Baby\)](https://open.spotify.com/album/6SEeNB2xGW1kmysKSvWYqC) | 3:45 |
 | 14 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 |
-| 15 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:50 |
+| 15 | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/track/10TaZTWBzpWwDTVlsfXzMf) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Shmoney \(feat\. Quavo & Rowdy Rebel\)](https://open.spotify.com/album/5npQCHNuLe3ydFr1bx4sib) | 2:49 |
 | 16 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 |
 | 17 | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/album/1qY5LCrtZDIsh6A86N2Yo2) | 3:12 |
 | 18 | [Rose Gold Stripper Pole \(feat\. 2 Chainz\)](https://open.spotify.com/track/41xbRAC6Vv2cu3o5HSh4tE) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Rose Gold Stripper Pole \(feat\. 2 Chainz\)](https://open.spotify.com/album/14eXE65nvhQnfzBwLIR4Td) | 2:50 |

@@ -885,7 +885,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 238320,
       "name": "Is This Love? - 2009 Remastered",
       "url": "https://open.spotify.com/track/4EY7mLPnM7PlpPRHAyNRyR"
@@ -1209,10 +1209,28 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
+    },
+    {
+      "album": {
+        "name": "No Jacket Required (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7avlHipAwnKsxcXwC9Wpin"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291253,
+      "name": "One More Night - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2RVSPTqyoMg4giwMHc6L0e"
     },
     {
       "album": {
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 305760,
       "name": "Sacrifice",
       "url": "https://open.spotify.com/track/0yhDca7Z4TOiEejtAx6R3g"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 244666,
       "name": "Song For Whoever - Single Version",
       "url": "https://open.spotify.com/track/1zb6cUXJ1RtnOrtn3dgo6h"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 149026,
       "name": "Theme from Harry's Game - Remastered",
       "url": "https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 296013,
       "name": "Victims - 2002 Mix",
       "url": "https://open.spotify.com/track/7Fvd99niN50w4auw0MOTqK"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 323866,
       "name": "Zoom",
       "url": "https://open.spotify.com/track/6HuugFQZzdTYrHluRMUkzH"

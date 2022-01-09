@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to female\-identifying only grooves alongside <a href="spotify:artist:0PpiNNCSKFjchmyHuCe0Pj">Nnena's</a> personal picks Cover: Nnena
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,117 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,109 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

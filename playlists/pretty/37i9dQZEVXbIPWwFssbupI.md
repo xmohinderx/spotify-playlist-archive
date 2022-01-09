@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIPWwFssbupI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 781,376 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 781,534 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 |
-| 2 | [Annunaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Annunaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 |
+| 2 | [Anunnaki](https://open.spotify.com/track/5dfgX2GxEMQsGycPvjxhdP) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Anunnaki](https://open.spotify.com/album/3sBYDqg8lIbOOC3WQTXk8d) | 3:22 |
 | 3 | [VVS](https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:07 |
 | 4 | [Jour meilleur](https://open.spotify.com/track/6VOUfCrjmxH62oijWgbC6O) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [Civilisation](https://open.spotify.com/album/2o2GBOfy2GG9oKYZgfZkur) | 3:01 |
 | 5 | [Best life](https://open.spotify.com/track/46vfSYsDJZaNQcD4YvT8GD) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 3:09 |

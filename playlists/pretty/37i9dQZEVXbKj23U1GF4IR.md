@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKj23U1GF4IR.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Canada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,936 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,925 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

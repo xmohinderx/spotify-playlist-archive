@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 > Descubre los nuevos talentos de Colombia, Ecuador, Perú y Venezuela\. En portada: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,896 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,898 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 464453,
       "name": "Flying Whales",
       "url": "https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4"
@@ -455,6 +455,24 @@
       "duration_ms": 216426,
       "name": "Happy?",
       "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ"
+    },
+    {
+      "album": {
+        "name": "Crimson Thunder",
+        "url": "https://open.spotify.com/album/2uehY2zRsh0h6ZmJt8LLQi"
+      },
+      "artists": [
+        {
+          "name": "HammerFall",
+          "url": "https://open.spotify.com/artist/2o18h28enlHxj887tATc58"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231386,
+      "name": "Hearts on Fire",
+      "url": "https://open.spotify.com/track/0eV3PB3T0OxW4feG1DlOjQ"
     },
     {
       "album": {
@@ -624,6 +642,24 @@
     },
     {
       "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "album": {
         "name": "Clayman (Reissue 2014)",
         "url": "https://open.spotify.com/album/1aK0ZfM3mY983J4cKoTHfy"
       },
@@ -725,7 +761,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 212840,
       "name": "Redneck Stomp",
       "url": "https://open.spotify.com/track/3wiT4tcjKk4jAqrfDahS6W"
@@ -959,7 +995,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-09",
       "duration_ms": 594213,
       "name": "The art of dying",
       "url": "https://open.spotify.com/track/7iMQChXFK33TS49QWhE4tt"

@@ -434,6 +434,24 @@
     },
     {
       "album": {
+        "name": "L3achrane",
+        "url": "https://open.spotify.com/album/0EiCPSG40eNfA4DHZDN3nl"
+      },
+      "artists": [
+        {
+          "name": "Zakaria Ghafouli",
+          "url": "https://open.spotify.com/artist/5m3exVDqKodrTlc3jECMTD"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212389,
+      "name": "L3achrane",
+      "url": "https://open.spotify.com/track/6KIFae9YNanPnknAvvvBeC"
+    },
+    {
+      "album": {
         "name": "Lahdat Wadaa",
         "url": "https://open.spotify.com/album/14CTUjJ4BKavEEKW8myoi3"
       },
