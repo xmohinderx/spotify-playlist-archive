@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Cookiee Kawaii",
   "name": "BBE",
-  "num_followers": 435266,
+  "num_followers": 436305,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDBhNDAwMDAwMTdlMzJlOTU3NGQwMDAwMDE3ZTJkZDYxN2Ex",
+  "snapshot_id": "MTY0MTc2ODM1NCwwMDAwMDBhNjAwMDAwMTdlNDEwNTAxMjAwMDAwMDE3ZTJkZDYxN2Ex",
   "tracks": [
     {
       "added_at": "2021-10-29 20:40:04",
@@ -89,20 +89,24 @@
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
-      "added_at": "2021-12-03 05:02:07",
+      "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+        "name": "Vanice",
+        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Cookiee Kawaii",
+          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
+        },
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
         }
       ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+      "duration_ms": 109714,
+      "name": "Violin (feat. Dear Silas)",
+      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -125,24 +129,20 @@
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
-      "added_at": "2021-10-15 04:00:00",
+      "added_at": "2021-12-03 05:02:07",
       "album": {
-        "name": "Vanice",
-        "url": "https://open.spotify.com/album/2FAzRCz0eQhFMUhDPTxIUb"
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
       },
       "artists": [
         {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        },
-        {
-          "name": "Dear Silas",
-          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 109714,
-      "name": "Violin (feat. Dear Silas)",
-      "url": "https://open.spotify.com/track/4se25yP3bMpaMAlcxvyJ5Q"
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -181,30 +181,6 @@
       "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
-    },
-    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "Have Mercy",
@@ -239,6 +215,30 @@
       "duration_ms": 155883,
       "name": "Best Friend (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
+    },
+    {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
     },
     {
       "added_at": "2021-12-03 05:02:07",
@@ -339,6 +339,22 @@
     {
       "added_at": "2021-10-15 04:00:00",
       "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 154749,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
         "name": "The Assignment",
         "url": "https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5"
       },
@@ -351,6 +367,22 @@
       "duration_ms": 113327,
       "name": "The Assignment",
       "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
+    },
+    {
+      "added_at": "2022-01-09 22:42:39",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -385,6 +417,22 @@
       "url": "https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix"
     },
     {
+      "added_at": "2022-01-09 22:45:54",
+      "album": {
+        "name": "Your Highness",
+        "url": "https://open.spotify.com/album/70CYyqTKk7NDwx2Y5kwkcH"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 159196,
+      "name": "Hit A Lic",
+      "url": "https://open.spotify.com/track/2SZEyd9wrT7bEq1LHquJEM"
+    },
+    {
       "added_at": "2021-10-22 04:01:00",
       "album": {
         "name": "FOR CERTAIN (Deluxe)",
@@ -403,18 +451,18 @@
     {
       "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "Venom",
-        "url": "https://open.spotify.com/album/3h7qY0r0PNgNUS838NqgGv"
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 154749,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2021-12-03 05:02:07",
@@ -455,22 +503,6 @@
       "duration_ms": 156944,
       "name": "Up",
       "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2021-10-15 04:00:00",

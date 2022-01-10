@@ -223,7 +223,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 312986,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0lqYRbRiGc5oiCUW51JH5s"
@@ -281,7 +281,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/64mbx7QFi24Hm9GDUXhUMB"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 228140,
       "name": "Don't Call Me Baby",
       "url": "https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD"
@@ -1721,7 +1721,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 207066,
       "name": "Lola's Theme - Radio Edit",
       "url": "https://open.spotify.com/track/5mAh5J4w6BEZkajB1M7XrB"
@@ -1747,7 +1747,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
@@ -1925,7 +1925,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 223773,
       "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
       "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 211493,
       "name": "Play",
       "url": "https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14"
@@ -2279,7 +2279,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 150533,
       "name": "Put Your Hands Up for Detroit - Radio Edit",
       "url": "https://open.spotify.com/track/59tociwbFnfTnR6K8rpjuF"
@@ -2301,7 +2301,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
@@ -2447,7 +2447,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 195973,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/03N0ZpS5QaC9ga9i2xO9Vp"
@@ -2603,7 +2603,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 222133,
       "name": "Shots",
       "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
@@ -2629,7 +2629,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi"
@@ -2705,7 +2705,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 216320,
       "name": "So What - Bimbo Jones Radio Mix",
       "url": "https://open.spotify.com/track/0NO5dy7nf2fldwQwdTWNja"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 281880,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
@@ -2831,7 +2831,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 208386,
       "name": "Sweet Dreams My LA Ex - Radio Edit",
       "url": "https://open.spotify.com/track/4D0Vgh0c6zZas2yEN9ENuE"
@@ -3016,6 +3016,24 @@
     },
     {
       "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
+    },
+    {
+      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -3063,7 +3081,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 177160,
       "name": "Truly Madly Deeply - Radio Edit",
       "url": "https://open.spotify.com/track/3QZP4gk266rH0AHWkCqbnM"
@@ -3169,6 +3187,24 @@
       "duration_ms": 186440,
       "name": "Uptown Girl - Radio Edit",
       "url": "https://open.spotify.com/track/2sFp6E7lNBbblJGmUtCfFH"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2021-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
     },
     {
       "album": {

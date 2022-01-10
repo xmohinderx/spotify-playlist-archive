@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 96232,
       "name": "A Tale By Quincy",
       "url": "https://open.spotify.com/track/759ndr57jb0URg4j9YSWml"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2021-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "Checks",
       "url": "https://open.spotify.com/track/4x4io9GDTPPetji4i06L6c"
@@ -2401,10 +2401,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96240,
+      "name": "Dawn FM",
+      "url": "https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4"
     },
     {
       "album": {
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 205469,
       "name": "Don\u2019t Break My Heart",
       "url": "https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY"
@@ -3331,7 +3349,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 167255,
       "name": "Every Angel is Terrifying",
       "url": "https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU"
@@ -5385,7 +5403,7 @@
       ],
       "date_added": "2021-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 150918,
       "name": "Kokaina",
       "url": "https://open.spotify.com/track/0mBpzm8OfmBouihZ54biML"
@@ -9165,10 +9183,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 148000,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
     },
     {
       "album": {
@@ -9383,10 +9419,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339023,
+      "name": "Take My Breath",
+      "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
     },
     {
       "album": {
@@ -9773,6 +9827,24 @@
       "duration_ms": 226437,
       "name": "Tipota",
       "url": "https://open.spotify.com/track/7xCer4RU565CQ9FrtxDAq8"
+    },
+    {
+      "album": {
+        "name": "Tipota Esi",
+        "url": "https://open.spotify.com/album/1YAZbRQ4gwzf3QAeaOAhYq"
+      },
+      "artists": [
+        {
+          "name": "Konstantinos Argiros",
+          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Tipota Esi",
+      "url": "https://open.spotify.com/track/3ZpaqJNpd9ejcW6IGdJZmp"
     },
     {
       "album": {

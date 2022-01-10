@@ -1558,6 +1558,24 @@
     },
     {
       "album": {
+        "name": "The Voice 2022: Blind Auditions 1 (Live)",
+        "url": "https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Dahl Moe",
+          "url": "https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153719,
+      "name": "Dancing In The Dark - Live",
+      "url": "https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb"
+    },
+    {
+      "album": {
         "name": "DANSA",
         "url": "https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw"
       },
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"

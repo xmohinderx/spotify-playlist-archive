@@ -1,12 +1,12 @@
 {
   "description": "Global crossovers by/with Arab artists. Cover: Hajaj.",
   "name": "Arab X",
-  "num_followers": 111363,
+  "num_followers": 111377,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDg2NDEwMSwwMDAwMDI2NjAwMDAwMTdlMGIxZjM2MzMwMDAwMDE3Y2YwNGFjOThl",
+  "snapshot_id": "MTY0MTcxNDc1MiwwMDAwMDI2NzAwMDAwMTdlM2RkMzFhYjEwMDAwMDE3Y2YwNGFjOThl",
   "tracks": [
     {
       "added_at": "2021-12-30 11:13:30",
@@ -65,20 +65,20 @@
       "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
     },
     {
-      "added_at": "2021-12-30 11:13:30",
+      "added_at": "2022-01-09 07:52:32",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5o6vVz0YWB9d6ywjttH6XZ"
+        "name": "Haifa in a Tesla",
+        "url": "https://open.spotify.com/album/2lsDApvI0m7LYcwsaNTfZ4"
       },
       "artists": [
         {
-          "name": "Faydee",
-          "url": "https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 179417,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2AvO9mnoHTP8HYWlhdr5lZ"
+      "duration_ms": 165591,
+      "name": "Haifa in a Tesla",
+      "url": "https://open.spotify.com/track/7v7bIFnCNg3lS7Lp1yTHig"
     },
     {
       "added_at": "2021-12-30 11:13:30",
@@ -95,6 +95,26 @@
       "duration_ms": 116571,
       "name": "Flip It",
       "url": "https://open.spotify.com/track/0J2rCP89iP2AZYfJNGp26E"
+    },
+    {
+      "added_at": "2021-12-30 11:13:30",
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Stars Align (with Drake)",
+      "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
     },
     {
       "added_at": "2021-12-30 11:13:30",
@@ -179,22 +199,18 @@
     {
       "added_at": "2021-12-30 11:13:30",
       "album": {
-        "name": "Wildest Dreams",
-        "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5o6vVz0YWB9d6ywjttH6XZ"
       },
       "artists": [
         {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Faydee",
+          "url": "https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g"
         }
       ],
-      "duration_ms": 260519,
-      "name": "Stars Align (with Drake)",
-      "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
+      "duration_ms": 179417,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2AvO9mnoHTP8HYWlhdr5lZ"
     },
     {
       "added_at": "2021-12-30 11:35:01",
@@ -1807,22 +1823,6 @@
       "duration_ms": 187000,
       "name": "Hair Up",
       "url": "https://open.spotify.com/track/588UOjXO2vpmEOKT5IL62o"
-    },
-    {
-      "added_at": "2021-12-30 11:13:30",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/6LCLAYG6WcClrd3t1f39gw"
-      },
-      "artists": [
-        {
-          "name": "Sammy Shiblaq",
-          "url": "https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG"
-        }
-      ],
-      "duration_ms": 147697,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/39pxdsIduDagORLDxf7sUI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl"

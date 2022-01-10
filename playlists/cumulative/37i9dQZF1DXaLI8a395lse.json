@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 257640,
       "name": "A Design for Life - Remastered",
       "url": "https://open.spotify.com/track/0uJyE3M3ecGZgzltsQKs3a"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 180880,
       "name": "Alright",
       "url": "https://open.spotify.com/track/5xC8uOesnn0udeXAYlAnoY"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/6b2oQwSGFkzsMtQruIWm2p"
@@ -733,7 +733,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 345066,
       "name": "Good to Be on the Road Back Home Again",
       "url": "https://open.spotify.com/track/6est1Q03Q4hJLkrFilZ9gk"
@@ -812,6 +812,24 @@
     },
     {
       "album": {
+        "name": "Deserter's Songs",
+        "url": "https://open.spotify.com/album/7djamhNmvVLPDg9FbO149d"
+      },
+      "artists": [
+        {
+          "name": "Mercury Rev",
+          "url": "https://open.spotify.com/artist/77oD8X9qLXZhpbCjv53l5n"
+        }
+      ],
+      "date_added": "2021-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356853,
+      "name": "Holes - Remastered",
+      "url": "https://open.spotify.com/track/55mEIzlNXYiUXoYgx9S4PI"
+    },
+    {
+      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/2Fb37JsRMVPASJcl3wwDOa"
       },
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/6Kz3o55LxMA11GbvFXHFtX"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 239493,
       "name": "Kinky Afro",
       "url": "https://open.spotify.com/track/5PBMj0trVEBwaHpg0kz0Jz"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 207066,
       "name": "Last Stop: This Town",
       "url": "https://open.spotify.com/track/5tqDIPhoNziW5ew3u4gwdS"
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 325173,
       "name": "Olympian",
       "url": "https://open.spotify.com/track/0w3xM9vQtoAn05Iqf7MyGb"
@@ -1439,7 +1457,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 250440,
       "name": "On & On",
       "url": "https://open.spotify.com/track/2AVRiqNBp1cMVL7PQNzLc4"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 227866,
       "name": "Pure",
       "url": "https://open.spotify.com/track/7FzT7oEYwxLrRscgDUwzuk"
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 258333,
       "name": "Race For The Prize",
       "url": "https://open.spotify.com/track/0XczuPchMUnMpsLvHOsg9Y"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 308386,
       "name": "Road Rage",
       "url": "https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo"
@@ -1673,7 +1691,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 322946,
       "name": "Rock \u2018n\u2019 Roll Star - Remastered",
       "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 244866,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/3idthQ24V2aPRcthv7Aq5o"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 195800,
       "name": "Sparky's Dream",
       "url": "https://open.spotify.com/track/1yRvKs56kf5QzWelHfKAS8"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 218586,
       "name": "The First Of The Gang To Die",
       "url": "https://open.spotify.com/track/5zflsn7VI8qyvzrowMoTgF"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 220333,
       "name": "Velouria",
       "url": "https://open.spotify.com/track/74zx7Xg9U6e5zE1titeKU5"

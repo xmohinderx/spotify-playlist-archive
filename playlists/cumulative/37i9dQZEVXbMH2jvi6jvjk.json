@@ -75,7 +75,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 432851,
       "name": "10111 (feat. M.J, Djy Ma'Ten & Matute Boy)",
       "url": "https://open.spotify.com/track/21pRTkAdSPCP3tAn7ECYzs"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 120000,
       "name": "25k jacket (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/0boodYr1uIpSVmGSP65Fmk"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 96232,
       "name": "A Tale By Quincy",
       "url": "https://open.spotify.com/track/759ndr57jb0URg4j9YSWml"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 193986,
       "name": "alotta cake",
       "url": "https://open.spotify.com/track/2iCDO8ePNuCvMiMFc0FQdA"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1555,7 +1555,7 @@
       ],
       "date_added": "2021-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 480000,
       "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
@@ -2449,7 +2449,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 344372,
       "name": "Danko",
       "url": "https://open.spotify.com/track/0GL7uWv0R3NVJ584jjzTBX"
@@ -2485,10 +2485,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96240,
+      "name": "Dawn FM",
+      "url": "https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4"
     },
     {
       "album": {
@@ -2735,7 +2753,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 157890,
       "name": "Do It To It",
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
@@ -2829,7 +2847,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 205469,
       "name": "Don\u2019t Break My Heart",
       "url": "https://open.spotify.com/track/0iZ7MgaUedNHqlqg9PMqsY"
@@ -3251,7 +3269,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 167255,
       "name": "Every Angel is Terrifying",
       "url": "https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU"
@@ -4677,7 +4695,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 160266,
       "name": "how you did that (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/49W1ZqawgaAwbIY3Hlrp0K"
@@ -5001,7 +5019,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 210586,
       "name": "idk that bitch (feat. G Herbo)",
       "url": "https://open.spotify.com/track/5ts6i8uvQcihNqmUcxRMFk"
@@ -5635,7 +5653,7 @@
       ],
       "date_added": "2021-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 373500,
       "name": "Iy\u2019ntsimbi zase envy",
       "url": "https://open.spotify.com/track/1EI3kxTD1xp8afUUnWc6tS"
@@ -5673,7 +5691,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 445714,
       "name": "Izolo",
       "url": "https://open.spotify.com/track/1ix1dhMZI8cYXiyzHgun42"
@@ -6757,7 +6775,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 142226,
       "name": "livin wild",
       "url": "https://open.spotify.com/track/2Ep9xSNftebXZkSQp1yM25"
@@ -6993,7 +7011,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -7589,7 +7607,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 378958,
       "name": "Mmapula",
       "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
@@ -7789,7 +7807,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 185213,
       "name": "mop (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP"
@@ -7899,7 +7917,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
@@ -9167,7 +9185,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 141346,
       "name": "poochie gown",
       "url": "https://open.spotify.com/track/5UwA4sYMyaLALd3F2hUgjR"
@@ -9321,7 +9339,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 132173,
       "name": "private island",
       "url": "https://open.spotify.com/track/0syVTyo71ordJjSd8cuElB"
@@ -11039,7 +11057,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 122693,
       "name": "south to west",
       "url": "https://open.spotify.com/track/6hP9uvjkqnt8u2i9u2xhJC"
@@ -11075,10 +11093,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 148000,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
     },
     {
       "album": {
@@ -11497,10 +11533,28 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/0XvDZGVqGYM7P4rgzRnWhq"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339023,
+      "name": "Take My Breath",
+      "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
     },
     {
       "album": {
@@ -11709,7 +11763,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -11819,7 +11873,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 167840,
       "name": "thought i was playing",
       "url": "https://open.spotify.com/track/3XLbDUB5BX2WqL2qoAsvtb"
@@ -11895,7 +11949,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 138453,
       "name": "too easy",
       "url": "https://open.spotify.com/track/2Hph3X77ySNgBCIak5CMc6"
@@ -12049,6 +12103,36 @@
       "duration_ms": 514365,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/5YdfgsUNNZUbRZ4fF8o7ZR"
+    },
+    {
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/1anApd1l1HVFWry0hCmYsP"
+      },
+      "artists": [
+        {
+          "name": "Dj Karri",
+          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
+        },
+        {
+          "name": "Lebzito",
+          "url": "https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q"
+        },
+        {
+          "name": "BL Zero",
+          "url": "https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl"
+        },
+        {
+          "name": "Prime De 1st",
+          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393743,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/5UQPyDQmSLM9fb6d6nuD3s"
     },
     {
       "album": {
@@ -12219,7 +12303,7 @@
       ],
       "date_added": "2021-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 415223,
       "name": "Umama Akekho (feat. Nkosazana Daughter & Mas Musiq)",
       "url": "https://open.spotify.com/track/2b7o3fhD77D7vIPk5EZa6v"
@@ -12559,7 +12643,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 420039,
       "name": "Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",
       "url": "https://open.spotify.com/track/1juCUMeUqFP7oId0SR2Yfg"
@@ -13383,7 +13467,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
@@ -13679,7 +13763,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 144373,
       "name": "you & me",
       "url": "https://open.spotify.com/track/4xTRiW8KxQjf6JxeyozXkZ"

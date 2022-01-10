@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 195946,
       "name": "Ca\u00f1ita Ca\u00f1averal",
       "url": "https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 324504,
       "name": "Cuando Volveras",
       "url": "https://open.spotify.com/track/0dUtnWQkXrv3ufAYrmWDhk"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 326426,
       "name": "Cumbia en la Playa",
       "url": "https://open.spotify.com/track/1CVEnTYdDbuIoiPqSIMObW"
@@ -1187,7 +1187,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 236360,
       "name": "Mi Corazon Es un Vagabundo",
       "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
@@ -1249,7 +1249,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 354520,
       "name": "Mix Juguito De Pina",
       "url": "https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG"
@@ -1445,7 +1445,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 199120,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX"
@@ -1824,6 +1824,24 @@
     },
     {
       "album": {
+        "name": "Las Cl\u00e1sicas Olvidadas Con Los YES YES (Edici\u00f3n Especial Del 22 Aniversario)",
+        "url": "https://open.spotify.com/album/3ySeNdaMF3RCEBMmhYvmv7"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186801,
+      "name": "Un Poblano en NY",
+      "url": "https://open.spotify.com/track/7jNnWvAwYZQWfenuEBv7M9"
+    },
+    {
+      "album": {
         "name": "Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
@@ -1875,6 +1893,24 @@
       "duration_ms": 227573,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/6D7uV4Pv0IyOxBs138SRyf"
+    },
+    {
+      "album": {
+        "name": "Lagrimas Negras",
+        "url": "https://open.spotify.com/album/7gsbRZplaJxm9hZVcozbxX"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238240,
+      "name": "Vuela Mariposa",
+      "url": "https://open.spotify.com/track/76BwZ1oz4HNvcL7ju4gwuG"
     },
     {
       "album": {

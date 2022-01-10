@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 197626,
       "name": "El Hidalguense",
       "url": "https://open.spotify.com/track/0hPhkx33UhHLy0cx4HcPsJ"
@@ -395,6 +395,24 @@
       "duration_ms": 262933,
       "name": "El Jarabe Jalisciense",
       "url": "https://open.spotify.com/track/3UU2ya43dA5iRePqIs6ZMf"
+    },
+    {
+      "album": {
+        "name": "Mariachi Sol: Viva Mexico",
+        "url": "https://open.spotify.com/album/6Gzq7vAbIoNkTAuYKzUpsR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Sol",
+          "url": "https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC"
+        }
+      ],
+      "date_added": "2021-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "El Jarabe Tapatio",
+      "url": "https://open.spotify.com/track/7lrLdHpvgwc0uAhiccbVPf"
     },
     {
       "album": {
@@ -467,7 +485,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 186453,
       "name": "El Mezcalito",
       "url": "https://open.spotify.com/track/5W2NjVnqgsyLRzCBJA2wNj"
@@ -745,7 +763,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 159280,
       "name": "Esos Altos de Jalisco - Remastered",
       "url": "https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 166400,
       "name": "La espiga (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/40LeyzfJWpC9564x1SmiyX"
@@ -1347,7 +1365,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 124333,
       "name": "Las Alazanas",
       "url": "https://open.spotify.com/track/7Gk2XiFsPv7w4kGY4VU5qI"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 122026,
       "name": "Las Alte\u00f1itas",
       "url": "https://open.spotify.com/track/2D2mjiZy0Zpu5CGecrNSi1"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 173800,
       "name": "Mi Nombre Es M\u00e9xico",
       "url": "https://open.spotify.com/track/6jQt6ffbmwCtxCEUzBt4D4"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 214120,
       "name": "Que Bonita Es Mi Tierra",
       "url": "https://open.spotify.com/track/450De2xJInnSzKGgFucBqP"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 447400,
       "name": "Tema Y Popurri De Torros",
       "url": "https://open.spotify.com/track/6fjlbg6904C1UmEawKjUPR"
@@ -1719,7 +1737,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 149289,
       "name": "Toro Relajo",
       "url": "https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR"
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 193133,
       "name": "Zopilote Mojado",
       "url": "https://open.spotify.com/track/266tI89XpbXj8V7ZJH8P57"

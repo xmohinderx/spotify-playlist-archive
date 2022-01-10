@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5zmILo1UjGp.md) - [plain]
 
 > Escucha todos los éxitos de Reik en un sólo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,648 likes - 73 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,825 likes - 73 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

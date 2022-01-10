@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > welcome back, lorem\. cover: MICHELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,226 likes - 116 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,371 likes - 116 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

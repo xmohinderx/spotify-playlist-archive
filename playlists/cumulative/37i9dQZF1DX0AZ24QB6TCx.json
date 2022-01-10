@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 381189,
       "name": "5am",
       "url": "https://open.spotify.com/track/35yLoqEcetVZVH1EII1wBD"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 277714,
       "name": "All You Need Is Time",
       "url": "https://open.spotify.com/track/160leq3oBHDPYyD0A6rK3n"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 329095,
       "name": "Balearic Sea",
       "url": "https://open.spotify.com/track/7o0ahnxkovZvbwvg7YdMzi"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 319915,
       "name": "Birth",
       "url": "https://open.spotify.com/track/1rLy27e43WOwySy7U8JaRb"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 284207,
       "name": "Burning Out",
       "url": "https://open.spotify.com/track/4G3pmmd9wvdU526OfIRZ0t"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 381965,
       "name": "Eolian",
       "url": "https://open.spotify.com/track/5HTHygByKpqhVYIFLXBx0D"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 291147,
       "name": "Fall into My Ocean - Edit",
       "url": "https://open.spotify.com/track/36bxazxRTPwTsd5k7LcJUf"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 394834,
       "name": "Feeling Down",
       "url": "https://open.spotify.com/track/2oy7IzuyTJqIG1OvUsmMsz"
@@ -633,6 +633,28 @@
       "duration_ms": 218226,
       "name": "Finja",
       "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/6littGm4Q5kOOsirkJf21S"
+      },
+      "artists": [
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Vaarwell",
+          "url": "https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330337,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0bnNVbXfCqJHjoJZ4r5dOD"
     },
     {
       "album": {
@@ -677,7 +699,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 367564,
       "name": "Follow the Light - Monkey Safari Remix",
       "url": "https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I"
@@ -699,7 +721,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 288880,
       "name": "Forget You",
       "url": "https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD"
@@ -717,7 +739,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 437188,
       "name": "Forrest Glade",
       "url": "https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7"
@@ -855,7 +877,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "High Spirits",
       "url": "https://open.spotify.com/track/7zODCTu7UCXtGAMBChfBvp"
@@ -917,7 +939,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 462560,
       "name": "I'm Fallin'",
       "url": "https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk"
@@ -1001,7 +1023,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 236180,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/4bg2cMVdrlI4y4ZXjnReSm"
@@ -1117,7 +1139,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 446590,
       "name": "Leslie",
       "url": "https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7"
@@ -1263,7 +1285,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 261639,
       "name": "Neunivai - Original Mix",
       "url": "https://open.spotify.com/track/3jCB8uRUxUjownKn5xaQzE"
@@ -1351,7 +1373,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
@@ -1369,7 +1391,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 450149,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/55nvfQUAzLMVtRqcMLAv6w"
@@ -1431,7 +1453,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/0zIdKrHlJMD7C0BnrUIsvE"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 474000,
       "name": "Pieces of You - Ron Flatter Remix",
       "url": "https://open.spotify.com/track/5Ws9mUDnRmZ0jgjU5dIqvc"
@@ -1595,7 +1617,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 260280,
       "name": "Roller Coaster - Jan Blomqvist Remix",
       "url": "https://open.spotify.com/track/4hZys9awWLo6Fc3N8dL8K7"
@@ -1667,7 +1689,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 269115,
       "name": "Silence & Secrets",
       "url": "https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e"
@@ -1689,7 +1711,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 223873,
       "name": "Sky Is the Limit - Edit",
       "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
@@ -1707,7 +1729,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 340856,
       "name": "Spinnerei",
       "url": "https://open.spotify.com/track/3RPzB3zrl0WOaxfneOn1rH"
@@ -1797,7 +1819,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
@@ -1921,7 +1943,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 508091,
       "name": "The Tribe",
       "url": "https://open.spotify.com/track/7LiOGey9rkzEndaZ0nSIvs"
@@ -2187,7 +2209,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 227176,
       "name": "Yuregine Deprem",
       "url": "https://open.spotify.com/track/0Kavkt38dZ0P4G2zSYHb6E"

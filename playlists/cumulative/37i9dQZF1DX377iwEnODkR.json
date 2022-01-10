@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 325640,
       "name": "Balloons",
       "url": "https://open.spotify.com/track/2pdulgTSVNLaZkwCi32Jk3"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Bess, You Is My Woman Now",
       "url": "https://open.spotify.com/track/4xKnHOH5tgGWa5Bh01tMjC"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 514186,
       "name": "Credo",
       "url": "https://open.spotify.com/track/5XRXIhr3IniPQWbWO8nzvn"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 425482,
       "name": "Eulogy (Goodbye Old Chap)",
       "url": "https://open.spotify.com/track/1mgorKdk2RHqZhWc8i6Iha"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 362480,
       "name": "Giorgiantics",
       "url": "https://open.spotify.com/track/3oa8Rh3JGkQBxntQq92Gc5"
@@ -1343,7 +1343,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 446800,
       "name": "Hilltop Dancer",
       "url": "https://open.spotify.com/track/7uJRB3tL0nZv89pM8Arx3T"
@@ -1471,7 +1471,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 265000,
       "name": "In Our Time",
       "url": "https://open.spotify.com/track/2wTB1uX6A223d7VkA7vmnE"
@@ -1543,7 +1543,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 251613,
       "name": "Is It Love That Inspires You?",
       "url": "https://open.spotify.com/track/429Z3l2QMGo2J47T7HWUSD"
@@ -1591,7 +1591,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 378429,
       "name": "Jersey",
       "url": "https://open.spotify.com/track/1nHKsXSKmpBBES8sSJ9obO"
@@ -1719,7 +1719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 425880,
       "name": "Laura's Playing",
       "url": "https://open.spotify.com/track/1FG4eBZWttF7zCdDpaPcR3"
@@ -1891,7 +1891,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 373389,
       "name": "Lunde",
       "url": "https://open.spotify.com/track/2SAoOO5rWJdMOr4Dcta1JD"
@@ -1909,7 +1909,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 386779,
       "name": "Mahini",
       "url": "https://open.spotify.com/track/3TdHNNA5LZbT8YAfMJLJ1S"
@@ -2122,6 +2122,44 @@
     },
     {
       "album": {
+        "name": "Destinations Unknown",
+        "url": "https://open.spotify.com/album/37FbhdBABWEheH8jzmuZuK"
+      },
+      "artists": [
+        {
+          "name": "Alex Sipiagin",
+          "url": "https://open.spotify.com/artist/7q46e1hkWTUN1IWHzYb40p"
+        },
+        {
+          "name": "Craig Taborn",
+          "url": "https://open.spotify.com/artist/2RjYqvCG5Zt1DpQUPhgw77"
+        },
+        {
+          "name": "Boris Kozlov",
+          "url": "https://open.spotify.com/artist/3oPzcffnTlaWQILnSzNNh5"
+        },
+        {
+          "name": "David Binney",
+          "url": "https://open.spotify.com/artist/35fZivtiaWTLzphTDaWnrf"
+        },
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        },
+        {
+          "name": "Eric Harland",
+          "url": "https://open.spotify.com/artist/0wTdAqanDZiEonTBUmBSQh"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515813,
+      "name": "Next Stop - Tsukiji",
+      "url": "https://open.spotify.com/track/1RH6mwfA6KwhP1HoKoBp2e"
+    },
+    {
+      "album": {
         "name": "Angel Song",
         "url": "https://open.spotify.com/album/3ERPpOw6PkjPpHxKvscBOB"
       },
@@ -2145,7 +2183,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 516333,
       "name": "Nicolette",
       "url": "https://open.spotify.com/track/4SVUC4ejKHsQd3k5eWjKlE"
@@ -2325,7 +2363,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 570786,
       "name": "Ocd Blues",
       "url": "https://open.spotify.com/track/4mF5WTnijVgJw6aSK6hGB4"
@@ -2443,7 +2481,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 499783,
       "name": "Pathmaker",
       "url": "https://open.spotify.com/track/48B6om9G4wTxDRsNZjuiKO"
@@ -2505,7 +2543,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 961960,
       "name": "Personal Mountains",
       "url": "https://open.spotify.com/track/5FgiiUBl9xQSQONRvWEisy"
@@ -3293,7 +3331,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 508592,
       "name": "Swirlaround",
       "url": "https://open.spotify.com/track/0Tf5VBmeYnKVCI7TEeKBcz"
@@ -3311,7 +3349,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 468400,
       "name": "Talbot",
       "url": "https://open.spotify.com/track/6tLTRfGqpbmvoQamy8hwgl"
@@ -3625,7 +3663,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 334880,
       "name": "Travelers",
       "url": "https://open.spotify.com/track/5vRHlju25fl2hY0IPwTLbS"
@@ -3643,7 +3681,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 345920,
       "name": "Truth",
       "url": "https://open.spotify.com/track/6eFtVaQgpIu02MOBmm2K7o"
@@ -3669,7 +3707,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 494226,
       "name": "Two Jimmys",
       "url": "https://open.spotify.com/track/2885VcgZkAHG4Ocv6g1MTC"
@@ -3743,7 +3781,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 429773,
       "name": "Vaporbabe",
       "url": "https://open.spotify.com/track/7eRBpbZYc4HIsK2ZZy0dyK"
@@ -3901,7 +3939,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 556972,
       "name": "Wave Upon Wave",
       "url": "https://open.spotify.com/track/2vxEFo9MnXcK6NqXsRtQwu"

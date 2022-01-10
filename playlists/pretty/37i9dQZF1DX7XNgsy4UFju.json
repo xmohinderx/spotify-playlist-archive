@@ -1,12 +1,12 @@
 {
   "description": "Home to all the latest indie jams. Cover: Father John Misty",
   "name": "Indie All Stars",
-  "num_followers": 147043,
+  "num_followers": 147067,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDZhNTAwMDAwMTdlMzJlOTU3NWIwMDAwMDE3ZTMwNWQ1MzZl",
+  "snapshot_id": "MTY0MTc3MjQ1MCwwMDAwMDZhNjAwMDAwMTdlNDE0MzgxODkwMDAwMDE3ZTMwNWQ1MzZl",
   "tracks": [
     {
       "added_at": "2022-01-07 05:01:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Knee Deep at ATP",
-        "url": "https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr"
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
       "artists": [
         {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 187812,
-      "name": "Knee Deep at ATP",
-      "url": "https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W"
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -227,18 +227,38 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+        "name": "Knee Deep at ATP",
+        "url": "https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+      "duration_ms": 187812,
+      "name": "Knee Deep at ATP",
+      "url": "https://open.spotify.com/track/7GdIvzFCC3ZGS4sGsCuR9W"
+    },
+    {
+      "added_at": "2022-01-09 23:54:10",
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -1819,26 +1839,6 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Stay High (Childish Gambino Version)",
-        "url": "https://open.spotify.com/album/3xCcyKRPqKMFMwXYfLSYLD"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "Brittany Howard",
-          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "Stay High - Childish Gambino Version",
-      "url": "https://open.spotify.com/track/6Rrehwtm21J7E6r5b2kEHq"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
         "name": "Make Peace with That",
         "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
       },
@@ -1915,26 +1915,6 @@
       "duration_ms": 157759,
       "name": "Back3School",
       "url": "https://open.spotify.com/track/5bO7xNramHw1hrwhuLvUAL"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "You've Got a Woman",
-        "url": "https://open.spotify.com/album/3DbIkUH1sh5HTPD8n65A3S"
-      },
-      "artists": [
-        {
-          "name": "Natalie Bergman",
-          "url": "https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 205220,
-      "name": "You've Got a Woman",
-      "url": "https://open.spotify.com/track/55tF86yLmOiGwoFgollNC6"
     },
     {
       "added_at": "2022-01-07 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92T9KVmPAYW.md) - [plain]
 
 > Classic Ambient and Environmental music made in Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,876 likes - 48 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,982 likes - 48 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

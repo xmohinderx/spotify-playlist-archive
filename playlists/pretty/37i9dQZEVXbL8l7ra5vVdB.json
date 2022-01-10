@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Russia.",
   "name": "Top 50 - Russia",
-  "num_followers": 109607,
+  "num_followers": 109734,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk0OTQ5Nzk2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1MDM3Mjc0LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "BACKGROUND",
         "url": "https://open.spotify.com/album/2JoaHoCGIfFErAD74QjsOT"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/1OeGvzNcGC2s6F41lmCdjA"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI"
+      },
+      "artists": [
+        {
+          "name": "\u041a\u041e\u0421\u041c\u041e\u041d\u0410\u0412\u0422\u041e\u0412 \u041d\u0415\u0422",
+          "url": "https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ"
+        }
+      ],
+      "duration_ms": 162809,
+      "name": "\u0431\u0430\u043d\u043e\u0447\u043a\u0430 \u0441 \u043e\u043a\u0443\u0440\u043a\u0430\u043c\u0438",
+      "url": "https://open.spotify.com/track/7j6eSKC2Hv3lcElPyR1bP3"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "BANDANA I",
         "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/0r9fpWPI6z3V3YZXIiVaNC"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "astral step",
         "url": "https://open.spotify.com/album/2Ctdcl5QkFWiHH1XdnQiA5"
@@ -61,7 +77,23 @@
       "url": "https://open.spotify.com/track/47iHvzU9Po0e6raFlgLBOF"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "\u0411\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a",
+        "url": "https://open.spotify.com/album/1mJMd5Kci7qLX8Q0prF5pf"
+      },
+      "artists": [
+        {
+          "name": "Miyagi & Andy Panda",
+          "url": "https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3"
+        }
+      ],
+      "duration_ms": 246545,
+      "name": "\u0411\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a",
+      "url": "https://open.spotify.com/track/0YMRW5mlu9bUCWeRMZfB32"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u0411\u0430\u0440\u0431\u0438\u0441\u0430\u0439\u0437",
         "url": "https://open.spotify.com/album/3ONBhOKlsQ6MTyaWlM7EJE"
@@ -81,7 +113,7 @@
       "url": "https://open.spotify.com/track/1AMf9lmFOmLmb0e57QB78e"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "BANDANA I",
         "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
@@ -101,43 +133,7 @@
       "url": "https://open.spotify.com/track/4umjgYILQbHyV41ZmaemQm"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI"
-      },
-      "artists": [
-        {
-          "name": "\u041a\u041e\u0421\u041c\u041e\u041d\u0410\u0412\u0422\u041e\u0412 \u041d\u0415\u0422",
-          "url": "https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ"
-        }
-      ],
-      "duration_ms": 162809,
-      "name": "\u0431\u0430\u043d\u043e\u0447\u043a\u0430 \u0441 \u043e\u043a\u0443\u0440\u043a\u0430\u043c\u0438",
-      "url": "https://open.spotify.com/track/7j6eSKC2Hv3lcElPyR1bP3"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "BANDANA I",
-        "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
-      },
-      "artists": [
-        {
-          "name": "Big Baby Tape",
-          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
-        },
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 151456,
-      "name": "Bandana",
-      "url": "https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "Marmalade",
         "url": "https://open.spotify.com/album/19xHdM1hOWc0bkGG4eIxHE"
@@ -157,7 +153,27 @@
       "url": "https://open.spotify.com/track/7rvEwAILTqxBpdIyUifkE8"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "BANDANA I",
+        "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        },
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "duration_ms": 151456,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/16AzcbKli3UQsxj491hJLQ"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u0412\u0438\u043d\u0430 (feat. 17 SEVENTEEN)",
         "url": "https://open.spotify.com/album/48lVuuPvgKZlT9dTiDkl9D"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/1Kp2TF4fFYjJPqEMf1U0RK"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u041b\u0451\u0434",
         "url": "https://open.spotify.com/album/3MHgUaAo7Gjdzhn3Obmbit"
@@ -201,27 +217,7 @@
       "url": "https://open.spotify.com/track/7D8k995g6jdie4NF1E7Tpu"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "\u0412\u041b\u042e\u0411\u0418\u041b\u0410\u0421\u042c",
-        "url": "https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ"
-      },
-      "artists": [
-        {
-          "name": "Big Baby Tape",
-          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
-        },
-        {
-          "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u041f\u043b\u0430\u0442\u043e\u043d",
-          "url": "https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u0412\u041b\u042e\u0411\u0418\u041b\u0410\u0421\u042c",
-      "url": "https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u043f\u043b\u0430\u0447\u044c",
         "url": "https://open.spotify.com/album/5mmGfb74RHeHg2042MXq5A"
@@ -241,43 +237,27 @@
       "url": "https://open.spotify.com/track/3yCKABoZU3FVFuyVBc5VlM"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "\u0411\u0430\u0448\u043d\u044f",
-        "url": "https://open.spotify.com/album/1tGmsxVyVK1yLmWTHqTyO7"
+        "name": "\u0412\u041b\u042e\u0411\u0418\u041b\u0410\u0421\u042c",
+        "url": "https://open.spotify.com/album/3dwpDc8PXNfohyFhYU1xzQ"
       },
       "artists": [
         {
-          "name": "\u0414\u0430\u043d\u044f \u041c\u0438\u043b\u043e\u0445\u0438\u043d",
-          "url": "https://open.spotify.com/artist/5E8WmPx3HcFqAA2PLVFk3R"
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
         },
         {
-          "name": "Mumiy Troll",
-          "url": "https://open.spotify.com/artist/6rY1h3kpqbTquyR3qYWo08"
+          "name": "\u041c\u043e\u043b\u043e\u0434\u043e\u0439 \u041f\u043b\u0430\u0442\u043e\u043d",
+          "url": "https://open.spotify.com/artist/3yUI9YVLxfPiQHOv07gwAi"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u0411\u0430\u0448\u043d\u044f",
-      "url": "https://open.spotify.com/track/7gPyGGhy2cVVVOq5V5jUt4"
+      "duration_ms": 216000,
+      "name": "\u0412\u041b\u042e\u0411\u0418\u041b\u0410\u0421\u042c",
+      "url": "https://open.spotify.com/track/3bbkkPpf8AdRU6DurnvoC4"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/2kpQdTViWoif00s7H353ri"
-      },
-      "artists": [
-        {
-          "name": "Lusia Chebotina",
-          "url": "https://open.spotify.com/artist/6HaPN2wOlwvk2sJvJrF0a5"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "\u0421\u041e\u041b\u041d\u0426\u0415 \u041c\u041e\u041d\u0410\u041a\u041e",
-      "url": "https://open.spotify.com/track/5YDBHDEIgWkfairCJgGApW"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -305,23 +285,43 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "DIGITAL FANTAZY",
-        "url": "https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj"
+        "name": "\u0411\u0430\u0448\u043d\u044f",
+        "url": "https://open.spotify.com/album/1tGmsxVyVK1yLmWTHqTyO7"
       },
       "artists": [
         {
-          "name": "GONE.Fludd",
-          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
+          "name": "\u0414\u0430\u043d\u044f \u041c\u0438\u043b\u043e\u0445\u0438\u043d",
+          "url": "https://open.spotify.com/artist/5E8WmPx3HcFqAA2PLVFk3R"
+        },
+        {
+          "name": "Mumiy Troll",
+          "url": "https://open.spotify.com/artist/6rY1h3kpqbTquyR3qYWo08"
         }
       ],
-      "duration_ms": 116250,
-      "name": "TRAXXXMANIA",
-      "url": "https://open.spotify.com/track/2rowi7dF3AqhugMtAnvQmP"
+      "duration_ms": 200000,
+      "name": "\u0411\u0430\u0448\u043d\u044f",
+      "url": "https://open.spotify.com/track/7gPyGGhy2cVVVOq5V5jUt4"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/2kpQdTViWoif00s7H353ri"
+      },
+      "artists": [
+        {
+          "name": "Lusia Chebotina",
+          "url": "https://open.spotify.com/artist/6HaPN2wOlwvk2sJvJrF0a5"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u0421\u041e\u041b\u041d\u0426\u0415 \u041c\u041e\u041d\u0410\u041a\u041e",
+      "url": "https://open.spotify.com/track/5YDBHDEIgWkfairCJgGApW"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u0422\u041e\u041b\u041f\u042b \u041a\u0420\u0418\u0427\u0410\u0422",
         "url": "https://open.spotify.com/album/3RcaQ8cYOVRS1PkjUZYtSI"
@@ -345,39 +345,23 @@
       "url": "https://open.spotify.com/track/3mcw4dkjfzj5B4Ago9NSmN"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Close Eyes",
-        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+        "name": "DIGITAL FANTAZY",
+        "url": "https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj"
       },
       "artists": [
         {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+          "name": "GONE.Fludd",
+          "url": "https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi"
         }
       ],
-      "duration_ms": 132346,
-      "name": "Close Eyes",
-      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+      "duration_ms": 116250,
+      "name": "TRAXXXMANIA",
+      "url": "https://open.spotify.com/track/2rowi7dF3AqhugMtAnvQmP"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "\u0411\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a",
-        "url": "https://open.spotify.com/album/1mJMd5Kci7qLX8Q0prF5pf"
-      },
-      "artists": [
-        {
-          "name": "Miyagi & Andy Panda",
-          "url": "https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3"
-        }
-      ],
-      "duration_ms": 246545,
-      "name": "\u0411\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a",
-      "url": "https://open.spotify.com/track/0YMRW5mlu9bUCWeRMZfB32"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u0424\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0440\u0443\u044e \u0437\u0430\u043a\u0430\u0442",
         "url": "https://open.spotify.com/album/5OzKIR3zeecYNu7smV3cjg"
@@ -393,7 +377,23 @@
       "url": "https://open.spotify.com/track/1ghdJUMhmLEpUitNwyNMWH"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "Close Eyes",
+        "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 132346,
+      "name": "Close Eyes",
+      "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u041b\u0438\u0444\u043e\u043d",
         "url": "https://open.spotify.com/album/1hplJZonvRSXIJxlN4jc7P"
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/1vLBDj2hhzAVskV5OUQ5d2"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u0421\u0430\u043d \u041b\u0430\u0440\u0430\u043d",
         "url": "https://open.spotify.com/album/1y2MhUt42DWBSvILa23KV6"
@@ -441,23 +441,7 @@
       "url": "https://open.spotify.com/track/07OqyOeHz7LOGVuXUx4pr3"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "Jungle (Radio Edit)",
         "url": "https://open.spotify.com/album/4Nm8yihvHXmJprYGLKl8ip"
@@ -473,27 +457,7 @@
       "url": "https://open.spotify.com/track/7CIcArZw3IdxTBWuXY484Q"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "Music Of The Spheres",
-        "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 226198,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
         "url": "https://open.spotify.com/album/2BzlnRShyxnyPh5Dp9uEeT"
@@ -513,7 +477,23 @@
       "url": "https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "MONEYDEALER",
         "url": "https://open.spotify.com/album/4n9BQVu07XjxoncNbAusUR"
@@ -529,23 +509,7 @@
       "url": "https://open.spotify.com/track/54ZhPL5soHKDxg9a5wizPv"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/3rGjw1sNt6am8kCvrRxNu1"
-      },
-      "artists": [
-        {
-          "name": "Sqwore",
-          "url": "https://open.spotify.com/artist/2IGZnq5Ot1NquCpks3zO4o"
-        }
-      ],
-      "duration_ms": 95533,
-      "name": "\u0417\u0432\u0435\u0437\u0434\u0430 \u0443\u043f\u0430\u043b\u0430",
-      "url": "https://open.spotify.com/track/2398GSLbctyjLClJrqskt2"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u041f\u0440\u0438\u0432\u0435\u0442",
         "url": "https://open.spotify.com/album/4vcaafBWTLAcw0ZkSdzKT6"
@@ -561,23 +525,7 @@
       "url": "https://open.spotify.com/track/2INWHGzw5qTbdeLDARChfe"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "\u0414\u043e\u043c\u043e\u0439",
-        "url": "https://open.spotify.com/album/57NDWrCgxTDXI0RNYN9uQs"
-      },
-      "artists": [
-        {
-          "name": "MORGENSHTERN",
-          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "\u0414\u043e\u043c\u043e\u0439",
-      "url": "https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -597,23 +545,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "shadowfiend",
-        "url": "https://open.spotify.com/album/7q6ObnVvpAv2oSe7905OGJ"
-      },
-      "artists": [
-        {
-          "name": "shadowraze",
-          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
-        }
-      ],
-      "duration_ms": 143708,
-      "name": "shadowfiend",
-      "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -629,43 +561,55 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Baby mama",
-        "url": "https://open.spotify.com/album/7o0T8sLI46zoWURcX0NFdT"
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/3rGjw1sNt6am8kCvrRxNu1"
       },
       "artists": [
         {
-          "name": "Skryptonite",
-          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
-        },
-        {
-          "name": "\u0420\u0430\u0439\u0434\u0430",
-          "url": "https://open.spotify.com/artist/06j0PdOWS31kMCmfxsCwg9"
+          "name": "Sqwore",
+          "url": "https://open.spotify.com/artist/2IGZnq5Ot1NquCpks3zO4o"
         }
       ],
-      "duration_ms": 231507,
-      "name": "Baby mama",
-      "url": "https://open.spotify.com/track/5X33A2X2OuQXUOKhawWCMm"
+      "duration_ms": 95533,
+      "name": "\u0417\u0432\u0435\u0437\u0434\u0430 \u0443\u043f\u0430\u043b\u0430",
+      "url": "https://open.spotify.com/track/2398GSLbctyjLClJrqskt2"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "shadowfiend",
+        "url": "https://open.spotify.com/album/7q6ObnVvpAv2oSe7905OGJ"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "shadowraze",
+          "url": "https://open.spotify.com/artist/0TO6y1x0LQodwBnxGtQu9o"
         }
       ],
-      "duration_ms": 212165,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+      "duration_ms": 143708,
+      "name": "shadowfiend",
+      "url": "https://open.spotify.com/track/0xEET0hVtwAEI5iVMWmD5C"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "\u0414\u043e\u043c\u043e\u0439",
+        "url": "https://open.spotify.com/album/57NDWrCgxTDXI0RNYN9uQs"
+      },
+      "artists": [
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "\u0414\u043e\u043c\u043e\u0439",
+      "url": "https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -685,23 +629,27 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Aomine Daiki",
-        "url": "https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz"
+        "name": "Baby mama",
+        "url": "https://open.spotify.com/album/7o0T8sLI46zoWURcX0NFdT"
       },
       "artists": [
         {
-          "name": "quiizzzmeow",
-          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+          "name": "Skryptonite",
+          "url": "https://open.spotify.com/artist/3vvLuXEEf7sl3izJcw0GIn"
+        },
+        {
+          "name": "\u0420\u0430\u0439\u0434\u0430",
+          "url": "https://open.spotify.com/artist/06j0PdOWS31kMCmfxsCwg9"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Aomine Daiki",
-      "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
+      "duration_ms": 231507,
+      "name": "Baby mama",
+      "url": "https://open.spotify.com/track/5X33A2X2OuQXUOKhawWCMm"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "juggernaut (Prod. by PLVSTIC)",
         "url": "https://open.spotify.com/album/0VvyEZ46jEtwX9VWhkQZJC"
@@ -717,55 +665,23 @@
       "url": "https://open.spotify.com/track/57V0VhEg1CAkPXeaCLikNW"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "Aomine Daiki",
+        "url": "https://open.spotify.com/album/47JA7w64AWwtd38x8hvCJz"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "quiizzzmeow",
+          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
         }
       ],
-      "duration_ms": 214214,
-      "name": "How Do I Make You Love Me?",
-      "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
+      "duration_ms": 167272,
+      "name": "Aomine Daiki",
+      "url": "https://open.spotify.com/track/5X1FYw7MXEgnPmQAYwAa0q"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "Karmageddon",
-        "url": "https://open.spotify.com/album/5ForRoVEwhqUlu6jcbgdaa"
-      },
-      "artists": [
-        {
-          "name": "kizaru",
-          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
-        }
-      ],
-      "duration_ms": 173725,
-      "name": "\u0414\u0435\u0436\u0430\u0432\u044e",
-      "url": "https://open.spotify.com/track/1GOiMxQXZUzjzH0Sxpck0B"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
-        "url": "https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ"
-      },
-      "artists": [
-        {
-          "name": "DSPRITE",
-          "url": "https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw"
-        }
-      ],
-      "duration_ms": 112682,
-      "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
-      "url": "https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "psiblades",
         "url": "https://open.spotify.com/album/2NUSLnsIWcBYyDy7POwCYR"
@@ -785,55 +701,23 @@
       "url": "https://open.spotify.com/track/3auzaPW4fXa8oI4KbTalAU"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/2MjE1xXSjJQVbqOusXdRQI"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "\u041a\u041e\u0421\u041c\u041e\u041d\u0410\u0412\u0422\u041e\u0412 \u041d\u0415\u0422",
+          "url": "https://open.spotify.com/artist/2rRyviUwWAHYmzyVzmXWpZ"
         }
       ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+      "duration_ms": 184623,
+      "name": "\u041c\u042f\u0422\u041e\u0419 - remix 2010",
+      "url": "https://open.spotify.com/track/0ZGHCIFlJWqwB4TpG8LFbe"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "1000-7",
-        "url": "https://open.spotify.com/album/6rvwpnXPVYdeHuUJ995Tqe"
-      },
-      "artists": [
-        {
-          "name": "fem.love",
-          "url": "https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr"
-        }
-      ],
-      "duration_ms": 117356,
-      "name": "1000-7",
-      "url": "https://open.spotify.com/track/2L2iWhBsyosVcxx36iurfa"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/5qqdTrplpohKzAIlWiaGsN"
-      },
-      "artists": [
-        {
-          "name": "MACAN",
-          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
-        }
-      ],
-      "duration_ms": 164137,
-      "name": "20",
-      "url": "https://open.spotify.com/track/57XjYBaK1qTwO7SG46gfGm"
-    },
-    {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "\u041f\u0430\u0442\u0440\u043e\u043d",
         "url": "https://open.spotify.com/album/0OsTkx8LstoMvRkHGaarkj"
@@ -849,55 +733,71 @@
       "url": "https://open.spotify.com/track/3uCth4TIWyeQDnj3YbAVQB"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "\u0441\u0435\u0442\u0438",
-        "url": "https://open.spotify.com/album/6oBf10h9vqPnaA3GXuxgrZ"
+        "name": "Karmageddon",
+        "url": "https://open.spotify.com/album/5ForRoVEwhqUlu6jcbgdaa"
       },
       "artists": [
         {
-          "name": "quiizzzmeow",
-          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
         }
       ],
-      "duration_ms": 131333,
-      "name": "\u0441\u0435\u0442\u0438",
-      "url": "https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8"
+      "duration_ms": 173725,
+      "name": "\u0414\u0435\u0436\u0430\u0432\u044e",
+      "url": "https://open.spotify.com/track/1GOiMxQXZUzjzH0Sxpck0B"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
         }
       ],
-      "duration_ms": 96240,
-      "name": "Dawn FM",
-      "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
       "album": {
-        "name": "\u0422\u0440\u0430\u0445\u0430\u0446\u0430",
-        "url": "https://open.spotify.com/album/3WtrvoUzZLBkMDBfGFB63M"
+        "name": "1000-7",
+        "url": "https://open.spotify.com/album/6rvwpnXPVYdeHuUJ995Tqe"
       },
       "artists": [
         {
-          "name": "\u041b\u042f\u041b\u042c\u041a\u0410",
-          "url": "https://open.spotify.com/artist/0W6YzWeMAORHYzwdGsU1Y2"
+          "name": "fem.love",
+          "url": "https://open.spotify.com/artist/6PzEFDyksWekGikJc8M6Cr"
         }
       ],
-      "duration_ms": 147693,
-      "name": "\u0422\u0440\u0430\u0445\u0430\u0446\u0430",
-      "url": "https://open.spotify.com/track/46676b6dbunL2OgPGQw5sv"
+      "duration_ms": 117356,
+      "name": "1000-7",
+      "url": "https://open.spotify.com/track/2L2iWhBsyosVcxx36iurfa"
     },
     {
-      "added_at": "2022-01-08 09:36:36",
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
+        "url": "https://open.spotify.com/album/4yNMRTBvOZvRDLGSNLMOtQ"
+      },
+      "artists": [
+        {
+          "name": "DSPRITE",
+          "url": "https://open.spotify.com/artist/69PhufCTrndjECAUsBPFtw"
+        }
+      ],
+      "duration_ms": 112682,
+      "name": "\u041f\u043e\u0433\u043e\u0434\u0438",
+      "url": "https://open.spotify.com/track/5sJt5rmSaKTQyAymKx6e1W"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
       "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
@@ -919,6 +819,106 @@
       "duration_ms": 143551,
       "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "\u0441\u0435\u0442\u0438",
+        "url": "https://open.spotify.com/album/6oBf10h9vqPnaA3GXuxgrZ"
+      },
+      "artists": [
+        {
+          "name": "quiizzzmeow",
+          "url": "https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "\u0441\u0435\u0442\u0438",
+      "url": "https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "\u041c\u043b\u0430\u0434\u0448\u0430\u044f \u0441\u0435\u0441\u0442\u0440\u0430",
+        "url": "https://open.spotify.com/album/6VGOayoZVPmoySlmKiybdP"
+      },
+      "artists": [
+        {
+          "name": "\u0434\u043e\u0440\u0430",
+          "url": "https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL"
+        }
+      ],
+      "duration_ms": 133984,
+      "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
+      "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/5qqdTrplpohKzAIlWiaGsN"
+      },
+      "artists": [
+        {
+          "name": "MACAN",
+          "url": "https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU"
+        }
+      ],
+      "duration_ms": 164137,
+      "name": "20",
+      "url": "https://open.spotify.com/track/57XjYBaK1qTwO7SG46gfGm"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "BANDANA I",
+        "url": "https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu"
+      },
+      "artists": [
+        {
+          "name": "Big Baby Tape",
+          "url": "https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT"
+        },
+        {
+          "name": "kizaru",
+          "url": "https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz"
+        }
+      ],
+      "duration_ms": 172787,
+      "name": "Mama Makusa",
+      "url": "https://open.spotify.com/track/6h2f5GrfpXo6eZCxUdzvF2"
+    },
+    {
+      "added_at": "2022-01-09 09:54:34",
+      "album": {
+        "name": "\u0422\u0440\u0430\u0445\u0430\u0446\u0430",
+        "url": "https://open.spotify.com/album/3WtrvoUzZLBkMDBfGFB63M"
+      },
+      "artists": [
+        {
+          "name": "\u041b\u042f\u041b\u042c\u041a\u0410",
+          "url": "https://open.spotify.com/artist/0W6YzWeMAORHYzwdGsU1Y2"
+        }
+      ],
+      "duration_ms": 147693,
+      "name": "\u0422\u0440\u0430\u0445\u0430\u0446\u0430",
+      "url": "https://open.spotify.com/track/46676b6dbunL2OgPGQw5sv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbL8l7ra5vVdB"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Just cool music you need to hear\. / Cover: Royal & the Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,595 likes - 110 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,799 likes - 110 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

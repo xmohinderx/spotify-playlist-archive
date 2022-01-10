@@ -44,6 +44,24 @@
     },
     {
       "album": {
+        "name": "Be Free",
+        "url": "https://open.spotify.com/album/0ltUWiR0iNHoxJeLHG1qJ8"
+      },
+      "artists": [
+        {
+          "name": "Paper Dragon",
+          "url": "https://open.spotify.com/artist/2n6DgOnNnybz75HSSdM7Ai"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231568,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/4sGCBGyyNPVv3ZExd9RJ8a"
+    },
+    {
+      "album": {
         "name": "Be Patient",
         "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-26",
+      "date_removed": null,
       "duration_ms": 372976,
       "name": "Both Of Us - Jayda G Sunset Bliss Mix",
       "url": "https://open.spotify.com/track/4yzN4R8n4esAGQgRBlACH8"
@@ -145,7 +163,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Close",
       "url": "https://open.spotify.com/track/7AfdVEahsy8xQDrtJ28Z28"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 276506,
       "name": "Feels Like This",
       "url": "https://open.spotify.com/track/35Tg9pIOjlr5P5ze87COLT"
@@ -553,7 +571,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 299534,
       "name": "Idle",
       "url": "https://open.spotify.com/track/4nV7NfTgDupppPZf5ARmLY"
@@ -785,7 +803,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 277503,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/71aAjtAtvLgTdmLOt5syln"
@@ -891,7 +909,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 304666,
       "name": "M\u00eame Langue (feat. MUNYA)",
       "url": "https://open.spotify.com/track/1cbzgAaPgE3iL3diqC2zzh"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 389178,
       "name": "Nervous Tics (feat. Holly Walker) - DJ Tennis Remix",
       "url": "https://open.spotify.com/track/6FEDMxhIewYQdzxFuB5640"
@@ -953,7 +971,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 198946,
       "name": "Nite Glo",
       "url": "https://open.spotify.com/track/7kuW6Ho3HAoYzE1qkDkDRv"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 314566,
       "name": "Not Long Now",
       "url": "https://open.spotify.com/track/1OXRsNCso4znIoOrFGfJN5"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 136666,
       "name": "Ocean Drift",
       "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
@@ -1101,7 +1119,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 390796,
       "name": "Rainchecks In Montreal",
       "url": "https://open.spotify.com/track/0KkLtsiQKvJs1Sz7uka72J"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 246065,
       "name": "The Message",
       "url": "https://open.spotify.com/track/3HszkoBsOy2VLTcznQ64qR"
@@ -1485,7 +1503,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 177534,
       "name": "Unearth",
       "url": "https://open.spotify.com/track/1WOT5mxOjnf2HBKQN4Zmop"

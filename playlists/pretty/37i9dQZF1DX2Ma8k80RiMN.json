@@ -1,12 +1,12 @@
 {
   "description": "Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.",
   "name": "The Sweet Suite",
-  "num_followers": 1321589,
+  "num_followers": 1321728,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTY5MTk1MSwwMDAwMDAwMDVkMWUwNTNlZDJjNTU0ZDFjZjZlMzkwMTU1ZDVmMTdi",
+  "snapshot_id": "MTY0MTc3NTMzNiwwMDAwMDAwMDA0MDRhNTg4ODJiYWQ0NGQyMWRmMTlhOGNjMDZhYjRh",
   "tracks": [
     {
       "added_at": "2021-11-10 22:58:16",
@@ -31,18 +31,38 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/2QVLpiJGckXDQAssDGPWdC"
+        "name": "Anything For You",
+        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
       },
       "artists": [
         {
-          "name": "Shawn Stockman",
-          "url": "https://open.spotify.com/artist/19dyJWLCu4CSuTgZN1l9Zn"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 217040,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/0ZUF8IsGwFVBTMKi32BpjJ"
+      "duration_ms": 256542,
+      "name": "Anything For You",
+      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -63,22 +83,6 @@
       "duration_ms": 212973,
       "name": "Say So",
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "My Life",
-        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "My Life",
-      "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -111,38 +115,6 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Anything For You",
-        "url": "https://open.spotify.com/album/4lqRBrPHyGCFw8SuQPEwBI"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 256542,
-      "name": "Anything For You",
-      "url": "https://open.spotify.com/track/3buWaZh2ajXTWsdp8XTBKk"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
         "name": "Easy Jazz Classics",
         "url": "https://open.spotify.com/album/5VMaILtZ8uxldsF6p9Z0Ap"
       },
@@ -159,18 +131,50 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Tony Terry",
+        "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Tony Terry",
+          "url": "https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1"
         }
       ],
-      "duration_ms": 277240,
-      "name": "You Give Good Love",
-      "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+      "duration_ms": 305826,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Let Me Touch You",
+        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 318253,
+      "name": "Lovin' You",
+      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -195,6 +199,38 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 277240,
+      "name": "You Give Good Love",
+      "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
         "name": "Live Out Your Love",
         "url": "https://open.spotify.com/album/5lqQfNpQlWYjwxGbz64nCj"
       },
@@ -215,62 +251,18 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Harlem Romance: The Love Collection",
-        "url": "https://open.spotify.com/album/5M0gJ3vHt8yCiMnjWn13xn"
+        "name": "Gumbo",
+        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
       },
       "artists": [
         {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        },
-        {
-          "name": "Jacci McGhee",
-          "url": "https://open.spotify.com/artist/2iAAXHZCgL2E1zqj204GEh"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         }
       ],
-      "duration_ms": 297400,
-      "name": "Make It Last Forever (with Jacci McGhee)",
-      "url": "https://open.spotify.com/track/2hNmHqQzmM2eBhHjzX8Mdk"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Dur&",
-        "url": "https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Stuck.",
-      "url": "https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc"
+      "duration_ms": 233056,
+      "name": "First Began",
+      "url": "https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -295,18 +287,186 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 324280,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+      "duration_ms": 296880,
+      "name": "When Somebody Loves You Back",
+      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Harlem Romance: The Love Collection",
+        "url": "https://open.spotify.com/album/5M0gJ3vHt8yCiMnjWn13xn"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        },
+        {
+          "name": "Jacci McGhee",
+          "url": "https://open.spotify.com/artist/2iAAXHZCgL2E1zqj204GEh"
+        }
+      ],
+      "duration_ms": 297400,
+      "name": "Make It Last Forever (with Jacci McGhee)",
+      "url": "https://open.spotify.com/track/2hNmHqQzmM2eBhHjzX8Mdk"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/1OQ5l5rHKqUumPpn559zJC"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/7ytES33eLYS9WaZLKqWfYM"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "onmyradio",
+        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 291133,
+      "name": "sobeautiful",
+      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Janet",
+        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 428200,
+      "name": "Any Time, Any Place",
+      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/2QVLpiJGckXDQAssDGPWdC"
+      },
+      "artists": [
+        {
+          "name": "Shawn Stockman",
+          "url": "https://open.spotify.com/artist/19dyJWLCu4CSuTgZN1l9Zn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/0ZUF8IsGwFVBTMKi32BpjJ"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "The Lady in My Life",
+      "url": "https://open.spotify.com/track/4OpwADjlTmeRSWHkUrGXpz"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Auntie & Unc",
+        "url": "https://open.spotify.com/album/7osANJWN0FWGRP5Epvmnd9"
+      },
+      "artists": [
+        {
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+        }
+      ],
+      "duration_ms": 190166,
+      "name": "Break It Down",
+      "url": "https://open.spotify.com/track/4OQwIQjC5PIiosSjnDgg6q"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Dur&",
+        "url": "https://open.spotify.com/album/6pW1am4w3SRnL7l6lpOHPR"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 259493,
+      "name": "Stuck.",
+      "url": "https://open.spotify.com/track/7JeCUUnOpoz4JoV84fliOc"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Where I Wanna Be",
+        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        }
+      ],
+      "duration_ms": 253626,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/00veEy3Rm9cUZOZOdmtUK3"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "duration_ms": 231516,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/154gJ2VnkwB39v3GdnbRnv"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -331,18 +491,22 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "The Wild Card",
-        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
+        "name": "The Transition of Mali",
+        "url": "https://open.spotify.com/album/00kU4HzJ0Uvr3PGBxrqt14"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 274706,
-      "name": "Same Love",
-      "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
+      "duration_ms": 258933,
+      "name": "Loved By You (feat. Jazmine Sullivan)",
+      "url": "https://open.spotify.com/track/4S3FRqrM3VyuajD7jFZcLm"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -367,242 +531,66 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!",
-        "url": "https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz"
+        "name": "The Wild Card",
+        "url": "https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai"
       },
       "artists": [
         {
-          "name": "Tony! Toni! Ton\u00e9!",
-          "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
         }
       ],
-      "duration_ms": 291200,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/4chxiKYwSBoE0pvO4Ea0uv"
+      "duration_ms": 274706,
+      "name": "Same Love",
+      "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "Michel'le",
+        "url": "https://open.spotify.com/album/2PngFAB0v6216314TZRcGb"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
         }
       ],
-      "duration_ms": 296880,
-      "name": "When Somebody Loves You Back",
-      "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+      "duration_ms": 353000,
+      "name": "Something in My Heart",
+      "url": "https://open.spotify.com/track/1CrWoWuxupYY1vi1XRdpBX"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "onmyradio",
-        "url": "https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp"
+        "name": "Street Called Desire ... And More",
+        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
       },
       "artists": [
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "Rene & Angela",
+          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
         }
       ],
-      "duration_ms": 291133,
-      "name": "sobeautiful",
-      "url": "https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu"
+      "duration_ms": 255973,
+      "name": "Your Smile",
+      "url": "https://open.spotify.com/track/15SNslBn9n3jutwxlJGpMd"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Lie To Me",
-        "url": "https://open.spotify.com/album/00veEy3Rm9cUZOZOdmtUK3"
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/3c8AcVx9AezodLAvrNSouu"
       },
       "artists": [
         {
-          "name": "Kem",
-          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+          "name": "Kenny Lattimore",
+          "url": "https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP"
         }
       ],
-      "duration_ms": 231516,
-      "name": "Lie To Me",
-      "url": "https://open.spotify.com/track/154gJ2VnkwB39v3GdnbRnv"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Janet",
-        "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 428200,
-      "name": "Any Time, Any Place",
-      "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Tony Terry",
-        "url": "https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM"
-      },
-      "artists": [
-        {
-          "name": "Tony Terry",
-          "url": "https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1"
-        }
-      ],
-      "duration_ms": 305826,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Closer Than Close",
-        "url": "https://open.spotify.com/album/22nMe2qIFJb85ac51jkn0P"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 356266,
-      "name": "Closer Than Close",
-      "url": "https://open.spotify.com/track/1l96x4p9UmYJSLBiyhMsAI"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Love's Greatest Hits",
-        "url": "https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 322693,
-      "name": "You're My Latest, Greatest Inspiration",
-      "url": "https://open.spotify.com/track/24Uu2LvYtrQucgUL69WzMx"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Auntie & Unc",
-        "url": "https://open.spotify.com/album/7osANJWN0FWGRP5Epvmnd9"
-      },
-      "artists": [
-        {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
-        }
-      ],
-      "duration_ms": 190166,
-      "name": "Break It Down",
-      "url": "https://open.spotify.com/track/4OQwIQjC5PIiosSjnDgg6q"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Back On The Block",
-        "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        },
-        {
-          "name": "Al B. Sure!",
-          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
-        },
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "El DeBarge",
-          "url": "https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD"
-        }
-      ],
-      "duration_ms": 401066,
-      "name": "The Secret Garden (Sweet Seduction Suite)",
-      "url": "https://open.spotify.com/track/3PZW66625MiyEmZaat7tce"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Let Me Touch You",
-        "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 318253,
-      "name": "Lovin' You",
-      "url": "https://open.spotify.com/track/01teVPgKyIFdbqo65UahOX"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Gumbo",
-        "url": "https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 233056,
-      "name": "First Began",
-      "url": "https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "After 7",
-        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
-      },
-      "artists": [
-        {
-          "name": "After 7",
-          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
-        }
-      ],
-      "duration_ms": 275826,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "The Lady in My Life",
-      "url": "https://open.spotify.com/track/4OpwADjlTmeRSWHkUrGXpz"
+      "duration_ms": 217054,
+      "name": "Stay on Your Mind",
+      "url": "https://open.spotify.com/track/7M2Y6k2KSpH28HUAFamMg5"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -623,38 +611,18 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+        "name": "Stuck With Me",
+        "url": "https://open.spotify.com/album/2HE6MsmAiSF4OFysODjyfI"
       },
       "artists": [
         {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Hope That We Can Be Together Soon (feat. Sharon Paige)",
-      "url": "https://open.spotify.com/track/1nJUvlF4nwEKVHF1UNEOua"
-    },
-    {
-      "added_at": "2021-11-10 22:58:16",
-      "album": {
-        "name": "Where I Wanna Be",
-        "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
-      },
-      "artists": [
-        {
-          "name": "Donell Jones",
-          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
-        }
-      ],
-      "duration_ms": 253626,
-      "name": "Where I Wanna Be",
-      "url": "https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel"
+      "duration_ms": 243252,
+      "name": "Stuck With Me",
+      "url": "https://open.spotify.com/track/79krSKwLin119oRNcyfnRY"
     },
     {
       "added_at": "2021-11-10 22:58:16",
@@ -675,34 +643,50 @@
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "Stuck With Me",
-        "url": "https://open.spotify.com/album/2HE6MsmAiSF4OFysODjyfI"
+        "name": "Identify Yourself",
+        "url": "https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd"
       },
       "artists": [
         {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 243252,
-      "name": "Stuck With Me",
-      "url": "https://open.spotify.com/track/79krSKwLin119oRNcyfnRY"
+      "duration_ms": 366226,
+      "name": "Forever Mine",
+      "url": "https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF"
     },
     {
       "added_at": "2021-11-10 22:58:16",
       "album": {
-        "name": "One I Got",
-        "url": "https://open.spotify.com/album/2XrdfV1FVczB3GYuBeetB3"
+        "name": "After 7",
+        "url": "https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W"
       },
       "artists": [
         {
-          "name": "Charlie Wilson",
-          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+          "name": "After 7",
+          "url": "https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E"
         }
       ],
-      "duration_ms": 185627,
-      "name": "One I Got",
-      "url": "https://open.spotify.com/track/6coM4ER26az6RA3lQDy2jv"
+      "duration_ms": 275826,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT"
+    },
+    {
+      "added_at": "2021-11-10 22:58:16",
+      "album": {
+        "name": "Blackstreet",
+        "url": "https://open.spotify.com/album/26yshjRCAGf1mLJtfTrlsb"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "duration_ms": 299800,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/2rkVoKVEMuct8SmEIGKzBw"
     },
     {
       "added_at": "2021-11-10 22:58:16",

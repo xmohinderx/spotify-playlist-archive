@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians\. Cover: Martin Ikin
 
-[Spotify](https://open.spotify.com/user/spotify) - 535,408 likes - 109 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 535,502 likes - 109 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

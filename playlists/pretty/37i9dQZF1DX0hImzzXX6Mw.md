@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hImzzXX6Mw.md) - [plain]
 
 > Check out the latest album, Snow, as well as the best moments from Sydney's brother\-and\-sister <a href="spotify:artist:4tvKz56Tr39bkhcQUTO0Xr">duo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,863 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,889 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

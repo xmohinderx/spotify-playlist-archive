@@ -140,6 +140,28 @@
     },
     {
       "album": {
+        "name": "Be Careful",
+        "url": "https://open.spotify.com/album/6ctsFCaxfMITACzuu9mWVV"
+      },
+      "artists": [
+        {
+          "name": "Tantrum Desire",
+          "url": "https://open.spotify.com/artist/7HBMCyflAmijk08T1si9wS"
+        },
+        {
+          "name": "Marianna Ray",
+          "url": "https://open.spotify.com/artist/0PyV4VBxPsxRmInWJWxqkm"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287360,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/3wdc5uaqzlG6BMINgk76io"
+    },
+    {
+      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/0ltUWiR0iNHoxJeLHG1qJ8"
       },
@@ -195,7 +217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -221,7 +243,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 268225,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1Rb7olpOry6c65F00zCteY"
@@ -327,10 +349,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
+    },
+    {
+      "album": {
+        "name": "It's A Gee Thing",
+        "url": "https://open.spotify.com/album/0uCac9P7pvodxnQaaaIzB2"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227657,
+      "name": "Demand",
+      "url": "https://open.spotify.com/track/6yeoDFvlXg8Gp50qZXP2Sk"
     },
     {
       "album": {
@@ -345,7 +385,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 282742,
       "name": "Do U?",
       "url": "https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs"
@@ -389,7 +429,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 319620,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/474XwXdXLuQRxXxLRVr1YP"
@@ -499,7 +539,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 327002,
       "name": "Flip the Narrative",
       "url": "https://open.spotify.com/track/4MofxvuNdf1MTSi33NBDUw"
@@ -543,7 +583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 375753,
       "name": "Fumes",
       "url": "https://open.spotify.com/track/6FDR1CyaZbw79iAUThlK4k"
@@ -583,7 +623,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 187857,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/515OfuSUlr2igB70C83M13"
@@ -623,7 +663,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 158620,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/5yZ0qWaaLroWRwM7f1YZ3W"
@@ -725,7 +765,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 225847,
       "name": "Infinite (Freedom)",
       "url": "https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi"
@@ -941,7 +981,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 209655,
       "name": "Mac 19",
       "url": "https://open.spotify.com/track/0cfzsbbOnqe8Ly6quaBKDk"
@@ -963,7 +1003,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 177931,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/7iSUYpEq065PlyuWxzQWdf"
@@ -985,7 +1025,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 205116,
       "name": "Make or Break",
       "url": "https://open.spotify.com/track/65X3Eszqv0tfOIeXfTuPbr"
@@ -1029,7 +1069,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 248720,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/6ZPpy9nlOq2xDw054bjoS9"
@@ -1125,7 +1165,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 281516,
       "name": "Our Love Will Grow",
       "url": "https://open.spotify.com/track/4m9IUdUUbnXrnvWvnOcNU8"
@@ -1147,7 +1187,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 231605,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
@@ -1355,7 +1395,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -1411,7 +1451,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 167223,
       "name": "This World - CLIPZ Remix Edit",
       "url": "https://open.spotify.com/track/3WlpeGOzziWPpzNwSpiaCl"
@@ -1433,6 +1473,24 @@
       "duration_ms": 325517,
       "name": "Time To Let Go",
       "url": "https://open.spotify.com/track/2LnOH8dOY6kmQRrOZsnUpA"
+    },
+    {
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1nGsVkeLts9tWfx0g10sAC"
+      },
+      "artists": [
+        {
+          "name": "S\u00d8L",
+          "url": "https://open.spotify.com/artist/0RucIteHws7AKHnSGh7CtC"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213942,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/3ZLQMBYxrdLIYw0HW00BVm"
     },
     {
       "album": {
@@ -1509,7 +1567,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 286996,
       "name": "Warsaw",
       "url": "https://open.spotify.com/track/7CbJcPYjmH4Gs8An5sPvJM"

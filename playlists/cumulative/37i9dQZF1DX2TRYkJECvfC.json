@@ -723,7 +723,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 231600,
       "name": "Celtic Girl - Andrew Meller Remix",
       "url": "https://open.spotify.com/track/4MLlxPNKp25tgIxU09cYXA"
@@ -741,7 +741,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 437760,
       "name": "Change The Line",
       "url": "https://open.spotify.com/track/4uSXZyqR4NCZ86BHcO5vIR"
@@ -1123,7 +1123,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 363680,
       "name": "Fade - Fatima & Jerome Interpretation",
       "url": "https://open.spotify.com/track/2s2Cgh3uwaMpCnIXavUSHt"
@@ -1371,7 +1371,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 418657,
       "name": "Free - HOSH Edit",
       "url": "https://open.spotify.com/track/2Of6ELgB41N4REAnQvbpwD"
@@ -1755,7 +1755,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 425084,
       "name": "Juli",
       "url": "https://open.spotify.com/track/5Fps0MTzLWDEdkrEzjefWt"
@@ -1853,7 +1853,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 324000,
       "name": "Keep On Reachin - Main Mix",
       "url": "https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG"
@@ -2115,7 +2115,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 333442,
       "name": "Magnetic Generation",
       "url": "https://open.spotify.com/track/12jqiScAZkKCnkHMfrDVlM"
@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 420495,
       "name": "Make a Wish",
       "url": "https://open.spotify.com/track/3sUV3UODz1JL2Bv4kkz6u1"
@@ -2209,6 +2209,24 @@
       "duration_ms": 466451,
       "name": "Mas",
       "url": "https://open.spotify.com/track/3i1zwjMO1fmW4uI9r7iiJW"
+    },
+    {
+      "album": {
+        "name": "Mellow",
+        "url": "https://open.spotify.com/album/4uZzlvqWYyF8erhXX85QmB"
+      },
+      "artists": [
+        {
+          "name": "Andrea Oliva",
+          "url": "https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476097,
+      "name": "Mellow",
+      "url": "https://open.spotify.com/track/5dhQJgHeU8xa1OtEbPebVr"
     },
     {
       "album": {
@@ -2351,7 +2369,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 469995,
       "name": "Muy\u00e8",
       "url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c"
@@ -3057,7 +3075,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 479000,
       "name": "Robots With Soul Part 1 - Original Mix",
       "url": "https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6"
@@ -3493,7 +3511,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 415238,
       "name": "Spectrum - Original",
       "url": "https://open.spotify.com/track/3XHORygIaZ3k7EKNnbZEUV"
@@ -3511,7 +3529,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 170181,
       "name": "Stop That Man",
       "url": "https://open.spotify.com/track/4uQulCB1pHX0i3dppzZ1PQ"
@@ -3807,7 +3825,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 461680,
       "name": "The Melody - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/5k1S9YYZUlxD8R57KFjh8p"
@@ -3937,7 +3955,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 211119,
       "name": "Trace",
       "url": "https://open.spotify.com/track/6GiNEkzxsD0IQARCc6eHjE"
@@ -4107,7 +4125,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 430374,
       "name": "Vince Montana Tribute - LV & Rick Wilhite ReWork",
       "url": "https://open.spotify.com/track/2yMFXtHHJTMTv2ynWl6avF"
@@ -4347,7 +4365,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 428023,
       "name": "When You Focus On The Good The Good Gets Better",
       "url": "https://open.spotify.com/track/2yYTqo2wnc2PssYogT57MG"
@@ -4365,7 +4383,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 135982,
       "name": "White Sky",
       "url": "https://open.spotify.com/track/0MuOQWH4N9C9jK44bzRTBQ"

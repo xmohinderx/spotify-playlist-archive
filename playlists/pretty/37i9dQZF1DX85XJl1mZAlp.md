@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX85XJl1mZAlp.md) - [plain]
 
 > The best new releases from swinging bop to free jazz\. Cover: Kit Downes, Petter Eldh & James Maddren
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,800 likes - 50 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,849 likes - 50 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The best of Bon Iver, and a bit more of founder Justin Vernon's other projects.",
   "name": "This Is Bon Iver",
-  "num_followers": 211757,
+  "num_followers": 211830,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTY5MjE1OSwwMDAwMDAwMGRlYjI2ZTU1MzA0MDk5Y2Y5OGQxMmZmM2Y4YmFhNTAz",
+  "snapshot_id": "MTY0MTc3NTU0NSwwMDAwMDAwMDNkYWVjYWYxOThjZGM4YTM2MjZhNzczNzYzMWM2Yjhl",
   "tracks": [
     {
       "added_at": "2019-08-08 15:43:21",
@@ -125,10 +125,10 @@
       "url": "https://open.spotify.com/track/0YcAWPUwih5MrIlD90oiNu"
     },
     {
-      "added_at": "2019-08-08 15:43:21",
+      "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Hey, Ma",
-        "url": "https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL"
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/3g9mw4A8vdljOKgwrit88g"
     },
     {
       "added_at": "2020-07-27 14:22:49",
@@ -183,8 +183,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Unmap",
-        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
+        "name": "Repave",
+        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 415920,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/7o28R0XuIjvD3cdepj3cjL"
+      "duration_ms": 274506,
+      "name": "Comrade",
+      "url": "https://open.spotify.com/track/6UQQX0VsSDCBe2r3wh3hVN"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -239,8 +239,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 298586,
-      "name": "Wash.",
-      "url": "https://open.spotify.com/track/3g9mw4A8vdljOKgwrit88g"
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Husks And Shells",
-      "url": "https://open.spotify.com/track/05PxNZJfr9OTpCo2JjH0xe"
+      "duration_ms": 415920,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/7o28R0XuIjvD3cdepj3cjL"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 160093,
-      "name": "Beach Baby",
-      "url": "https://open.spotify.com/track/7oRNU7Tmek0nm2lqyDojoG"
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -307,8 +307,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Repave",
-        "url": "https://open.spotify.com/album/589MwkeuVyR5wMAMP07ARA"
+        "name": "Unmap",
+        "url": "https://open.spotify.com/album/03RN67Pc5FEWgZnqKgncS6"
       },
       "artists": [
         {
@@ -316,15 +316,15 @@
           "url": "https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO"
         }
       ],
-      "duration_ms": 274506,
-      "name": "Comrade",
-      "url": "https://open.spotify.com/track/6UQQX0VsSDCBe2r3wh3hVN"
+      "duration_ms": 223746,
+      "name": "Husks And Shells",
+      "url": "https://open.spotify.com/track/05PxNZJfr9OTpCo2JjH0xe"
     },
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "Blood Bank",
-        "url": "https://open.spotify.com/album/5MjC805qLtwgqXH1c0kpjK"
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 285160,
-      "name": "Blood Bank",
-      "url": "https://open.spotify.com/track/7qUoDTmVj07qUf6ZBDhWKl"
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -353,10 +353,10 @@
       "url": "https://open.spotify.com/track/6MMojjMFcyv3btdSXFGeYc"
     },
     {
-      "added_at": "2016-10-20 14:29:54",
+      "added_at": "2019-08-08 15:43:21",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+        "name": "Hey, Ma",
+        "url": "https://open.spotify.com/album/3uvIbuVDxN1FmzhQtZHgYL"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/6YEyNkfWYAFTib8j1eXg1A"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -451,22 +451,6 @@
     {
       "added_at": "2019-08-08 15:43:21",
       "album": {
-        "name": "Marion",
-        "url": "https://open.spotify.com/album/1hYANxqSqTLYjaeHdD2TfC"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Marion",
-      "url": "https://open.spotify.com/track/7bcsnVCS4rCicgaLGlO371"
-    },
-    {
-      "added_at": "2019-08-08 15:43:21",
-      "album": {
         "name": "iMi",
         "url": "https://open.spotify.com/album/3bPUex8ZN4NWUqsJPGO57f"
       },
@@ -479,70 +463,6 @@
       "duration_ms": 196360,
       "name": "iMi",
       "url": "https://open.spotify.com/track/7xcaurF9h0C7cRmybuVUES"
-    },
-    {
-      "added_at": "2016-10-20 14:29:54",
-      "album": {
-        "name": "33 \u201cGOD\u201d",
-        "url": "https://open.spotify.com/album/358KWP6KjgXI9JbViBTzqT"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "33 \u201cGOD\u201d",
-      "url": "https://open.spotify.com/track/1gil9V4XyCurI6DIwN0xrM"
-    },
-    {
-      "added_at": "2016-10-20 14:29:54",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Flume",
-      "url": "https://open.spotify.com/track/15WS5DLuxA4zBF0tH1sOR9"
-    },
-    {
-      "added_at": "2016-10-20 14:29:54",
-      "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "715 - CR\u2211\u2211KS",
-      "url": "https://open.spotify.com/track/0H2MmFtJgoeywCIbAN3sid"
-    },
-    {
-      "added_at": "2019-08-08 15:43:21",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/6udb0IhmEdSQvWwjfnh6UA"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/3mZHmZahGKJwP0GDtWaOq8"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -579,6 +499,54 @@
     {
       "added_at": "2019-08-08 15:43:21",
       "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/6udb0IhmEdSQvWwjfnh6UA"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3mZHmZahGKJwP0GDtWaOq8"
+    },
+    {
+      "added_at": "2016-10-20 14:29:54",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/15WS5DLuxA4zBF0tH1sOR9"
+    },
+    {
+      "added_at": "2019-08-08 15:43:21",
+      "album": {
+        "name": "Marion",
+        "url": "https://open.spotify.com/album/1hYANxqSqTLYjaeHdD2TfC"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/7bcsnVCS4rCicgaLGlO371"
+    },
+    {
+      "added_at": "2019-08-08 15:43:21",
+      "album": {
         "name": "Sh'Diah",
         "url": "https://open.spotify.com/album/0OI5Gfd2whDpr89gf7ygmK"
       },
@@ -595,6 +563,22 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
+        "name": "33 \u201cGOD\u201d",
+        "url": "https://open.spotify.com/album/358KWP6KjgXI9JbViBTzqT"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/1gil9V4XyCurI6DIwN0xrM"
+    },
+    {
+      "added_at": "2016-10-20 14:29:54",
+      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs"
       },
@@ -607,6 +591,38 @@
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2DsCJbMZVnhejenFWrO6My"
+    },
+    {
+      "added_at": "2016-10-20 14:29:54",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "715 - CR\u2211\u2211KS",
+      "url": "https://open.spotify.com/track/0H2MmFtJgoeywCIbAN3sid"
+    },
+    {
+      "added_at": "2016-10-20 14:29:54",
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "666 \u0287",
+      "url": "https://open.spotify.com/track/7eRU0RltchvgOTSbX6vmdv"
     },
     {
       "added_at": "2019-08-08 15:43:21",
@@ -627,8 +643,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "22, A Million",
-        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
+        "name": "22/10",
+        "url": "https://open.spotify.com/album/1hz6PP58vVLFpbfufj5c2z"
       },
       "artists": [
         {
@@ -636,25 +652,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 252000,
-      "name": "666 \u0287",
-      "url": "https://open.spotify.com/track/7eRU0RltchvgOTSbX6vmdv"
-    },
-    {
-      "added_at": "2016-10-20 14:29:54",
-      "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 198013,
-      "name": "Lump Sum",
-      "url": "https://open.spotify.com/track/2PHjonbOla16RwCUqkgCtI"
+      "duration_ms": 202603,
+      "name": "22 (OVER S\u221e\u221eN) - Bob Moose Extended Cab Version",
+      "url": "https://open.spotify.com/track/4HEqM4RSvXQAXqSdqqD8qE"
     },
     {
       "added_at": "2019-08-08 15:43:21",
@@ -675,8 +675,8 @@
     {
       "added_at": "2016-10-20 14:29:54",
       "album": {
-        "name": "22/10",
-        "url": "https://open.spotify.com/album/1hz6PP58vVLFpbfufj5c2z"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/10HuTnFqkhym6gXmIDxBsm"
       },
       "artists": [
         {
@@ -684,25 +684,9 @@
           "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 202603,
-      "name": "22 (OVER S\u221e\u221eN) - Bob Moose Extended Cab Version",
-      "url": "https://open.spotify.com/track/4HEqM4RSvXQAXqSdqqD8qE"
-    },
-    {
-      "added_at": "2016-10-20 14:29:54",
-      "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 316800,
-      "name": "Beth/Rest",
-      "url": "https://open.spotify.com/track/0BWaLzdLiiDEhYfw9Of3Gr"
+      "duration_ms": 198013,
+      "name": "Lump Sum",
+      "url": "https://open.spotify.com/track/2PHjonbOla16RwCUqkgCtI"
     },
     {
       "added_at": "2016-10-20 14:29:54",
@@ -719,6 +703,22 @@
       "duration_ms": 322040,
       "name": "The Wolves (Act I and II)",
       "url": "https://open.spotify.com/track/0Tps1iVuFudov2alVP3bUF"
+    },
+    {
+      "added_at": "2016-10-20 14:29:54",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/0XOyEsl3kgwwVpYcLV5rRs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 316800,
+      "name": "Beth/Rest",
+      "url": "https://open.spotify.com/track/0BWaLzdLiiDEhYfw9Of3Gr"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaSQZr9c1SpZ"

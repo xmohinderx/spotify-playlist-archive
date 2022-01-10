@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 224120,
       "name": "All the Time in the World",
       "url": "https://open.spotify.com/track/480SRGJA3IAzyoamrpnkOX"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 233760,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/5wfSsLHzl4WcgkGmvOpYai"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 191693,
       "name": "Burning Earth",
       "url": "https://open.spotify.com/track/3Tx2cWkwWRbQdnf45a2YLm"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
@@ -495,7 +495,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 229426,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7s8slcfStICYWbPUwf983B"
@@ -661,7 +661,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 207069,
       "name": "Easy, Love",
       "url": "https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud"
@@ -805,7 +805,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 236791,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/0vud1aGRNlwzuVGE3AfWzs"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 142453,
       "name": "Get Born, Grow up and Move Away",
       "url": "https://open.spotify.com/track/6kzo6FPHeAiJ9Fu0ep6Vyh"
@@ -975,7 +975,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 189026,
       "name": "Greatest Enemy",
       "url": "https://open.spotify.com/track/1BV4MeZYdrGpmhUS9amaNj"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 243853,
       "name": "I Don't Really Care For You",
       "url": "https://open.spotify.com/track/5heU7rc2joRWgV7zz9N0Ll"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 201875,
       "name": "I Know the Way Home",
       "url": "https://open.spotify.com/track/2TkbdIwr5UmOMqUcQmD5sE"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 163893,
       "name": "In This Life",
       "url": "https://open.spotify.com/track/7oOHmn71o7XjdeHJkfGNj2"
@@ -1335,7 +1335,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 191986,
       "name": "Kick Out the Windows - Radio Edit",
       "url": "https://open.spotify.com/track/6Q04NQKyB5x3Ge5TRyfZT1"
@@ -1509,6 +1509,24 @@
       "duration_ms": 217408,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ"
+    },
+    {
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/5f06ywJzKO1RLnojyQ1Vij"
+      },
+      "artists": [
+        {
+          "name": "Blake Ruby",
+          "url": "https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222568,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/5EatYjkKnohEHke2G5VKhL"
     },
     {
       "album": {
@@ -1747,7 +1765,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 243776,
       "name": "River",
       "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 207400,
       "name": "Ten Steps Back",
       "url": "https://open.spotify.com/track/2lBi4wDhV3TQZOWIcHfq62"
@@ -2095,7 +2113,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 171800,
       "name": "The Worth Of The Wait",
       "url": "https://open.spotify.com/track/4ngv7whSPSAwD8ZP3zMHsd"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxkZk4wnQ5T.md) - [plain]
 
 > From brooding skepticism and ardent romance to utter whimsy and nonsense, explore the Victorian sensibility, as displayed in some of the era's best poetry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,554 likes - 289 songs - 12 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,552 likes - 289 songs - 12 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

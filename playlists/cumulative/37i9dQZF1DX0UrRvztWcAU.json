@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 203395,
       "name": "All Around The World (feat. Bryn Christopher)",
       "url": "https://open.spotify.com/track/1oW9LQ9KyFZ6rihgDbn14z"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 205267,
       "name": "Chasing Fire",
       "url": "https://open.spotify.com/track/1xy4apMFecGGkgBeaHFZ2M"
@@ -1221,7 +1221,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 246520,
       "name": "Heaven Is a Place on Earth",
       "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 225920,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/1H33wNKihn8zcTexnwUoJ6"
@@ -1311,7 +1311,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 188050,
       "name": "Higher Ground",
       "url": "https://open.spotify.com/track/3DjTPYpKXu20hmrmnT4iqd"
@@ -1619,7 +1619,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 188359,
       "name": "I'll Be There for You - Theme From \"Friends\"",
       "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 230746,
       "name": "Last Friday Night (T.G.I.F.)",
       "url": "https://open.spotify.com/track/455AfCsOhhLPRc68sE01D8"
@@ -2273,7 +2273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 215336,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/0wGxHftiB6j0SDzrFkF2G7"
@@ -2309,7 +2309,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 206040,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/2AlVWg58iy4Cx6KqD0XYu2"
@@ -3237,7 +3237,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 178560,
       "name": "What We Live For",
       "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
@@ -3331,7 +3331,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 165066,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/7bDxiHrazDoD3sOt9JjSDD"
@@ -3357,6 +3357,24 @@
       "duration_ms": 191254,
       "name": "You Come First (feat. Saweetie)",
       "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
+    },
+    {
+      "album": {
+        "name": "Real Thing",
+        "url": "https://open.spotify.com/album/4ghtWm6b0INsOAdFPbv5b5"
+      },
+      "artists": [
+        {
+          "name": "The Real Thing",
+          "url": "https://open.spotify.com/artist/1NUD5By34MFynmuUynCfSj"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "You To Me Are Everything",
+      "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"
     },
     {
       "album": {

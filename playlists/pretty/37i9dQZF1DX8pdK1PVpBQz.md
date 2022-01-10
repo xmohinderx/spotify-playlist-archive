@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The top 100 tracks from Fresh Finds AU & NZ in 2021 Cover: The Buoys\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,704 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,712 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

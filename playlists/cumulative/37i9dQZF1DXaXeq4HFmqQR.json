@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 118722,
       "name": "Amo Como Soy (Radio Edit)",
       "url": "https://open.spotify.com/track/5Bday62dzG0vwEkUQ4u8eP"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 236899,
       "name": "Amores",
       "url": "https://open.spotify.com/track/6izw3BxH0D0KUKIe9G0B4z"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 174673,
       "name": "Anular y Medio",
       "url": "https://open.spotify.com/track/0N6iwaQHvUr3RBgog9C8LZ"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 169772,
       "name": "Arrebato",
       "url": "https://open.spotify.com/track/4FxUwGHnlz61qw1AABhfla"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 177024,
       "name": "Chocolatte",
       "url": "https://open.spotify.com/track/79ZDOlCcTUHqon8ndN8Imk"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 219413,
       "name": "El C\u00f3digo del Ritmo",
       "url": "https://open.spotify.com/track/6Q1eVsA6J5C1A3ff8I8p78"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 202528,
       "name": "El Impostor",
       "url": "https://open.spotify.com/track/7KE2rfRPF2Tlxho9I9V9To"
@@ -580,6 +580,32 @@
     },
     {
       "album": {
+        "name": "Scorpia",
+        "url": "https://open.spotify.com/album/1Fin1C7zk8eB5jphpzsfxo"
+      },
+      "artists": [
+        {
+          "name": "Sadika",
+          "url": "https://open.spotify.com/artist/1A9IMolQsjvQpR5FrmimHn"
+        },
+        {
+          "name": "Dj Bome",
+          "url": "https://open.spotify.com/artist/6FWNnypdNVCaie7OiUmzMC"
+        },
+        {
+          "name": "OrvarlaBeats",
+          "url": "https://open.spotify.com/artist/1HHQ37mU16fNXHD8GZMrx4"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187418,
+      "name": "Escena Uno",
+      "url": "https://open.spotify.com/track/0aXgyrhSVxYOjUXDb9YEt7"
+    },
+    {
+      "album": {
         "name": "Eso Ta Perfecto",
         "url": "https://open.spotify.com/album/3rkeqmoFs3k8SmnZwZwnA9"
       },
@@ -591,7 +617,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 137777,
       "name": "Eso Ta Perfecto",
       "url": "https://open.spotify.com/track/2sC0GlXccYYlRfian9JVsY"
@@ -617,7 +643,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 213913,
       "name": "Espiritu Libre",
       "url": "https://open.spotify.com/track/2vIdVOiPqulgL2pvo41ELy"
@@ -669,7 +695,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 266186,
       "name": "Fluye",
       "url": "https://open.spotify.com/track/0XITZlFiyOXFwJBCdAprq9"
@@ -741,7 +767,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 188076,
       "name": "Hielo",
       "url": "https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc"
@@ -771,7 +797,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 164210,
       "name": "Independiente",
       "url": "https://open.spotify.com/track/6S8ijUUzKeSbdWnebV3Xv2"
@@ -789,7 +815,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 198475,
       "name": "Javivi",
       "url": "https://open.spotify.com/track/2UHWgqrB21T3H36f1lhyHA"
@@ -807,7 +833,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 215583,
       "name": "Karnet",
       "url": "https://open.spotify.com/track/1DMA6EydvPE4QeEey57sTA"
@@ -847,7 +873,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 272143,
       "name": "La Cuerpa",
       "url": "https://open.spotify.com/track/3AQ7hoQxbiF7ZOwq2149KK"
@@ -865,7 +891,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 235710,
       "name": "La Monta\u00f1a",
       "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
@@ -923,7 +949,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 175286,
       "name": "Like Pi\u00f1a",
       "url": "https://open.spotify.com/track/267yOzYfVQZTjgLNGtDrmL"
@@ -941,7 +967,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 205500,
       "name": "Llegar al Ser",
       "url": "https://open.spotify.com/track/3V87kjiGlKSxYeUNnsQoH3"
@@ -981,6 +1007,32 @@
       "duration_ms": 196967,
       "name": "Loba",
       "url": "https://open.spotify.com/track/6wBy92YdrLQA9dkZJmWK7b"
+    },
+    {
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6"
+      },
+      "artists": [
+        {
+          "name": "AKACATS",
+          "url": "https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X"
+        },
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206649,
+      "name": "Lucha",
+      "url": "https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6"
     },
     {
       "album": {
@@ -1031,7 +1083,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 250539,
       "name": "Maga",
       "url": "https://open.spotify.com/track/1KnfnR7IkQR7NGNIVkrKNJ"
@@ -1075,6 +1127,24 @@
       "duration_ms": 183003,
       "name": "malo",
       "url": "https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz"
+    },
+    {
+      "album": {
+        "name": "Mar",
+        "url": "https://open.spotify.com/album/4lCUnj1U0NFoInmQD4csQj"
+      },
+      "artists": [
+        {
+          "name": "Dania Neko",
+          "url": "https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Mar",
+      "url": "https://open.spotify.com/track/2WpUH9wPIVjIebXsACGdlU"
     },
     {
       "album": {
@@ -1147,7 +1217,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 236657,
       "name": "Ment\u00ed",
       "url": "https://open.spotify.com/track/0glda0r8vkzT6c5utbDAJX"
@@ -1253,10 +1323,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 247653,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/43obEvBKQz14FjoM90fdxX"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/3iO5IdZr2ZYXhjnKXqnPj4"
+      },
+      "artists": [
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193474,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0wrN0o5Me16yFGY2o3G4m4"
     },
     {
       "album": {
@@ -1271,7 +1359,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 153626,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/0w06ga5tjG8vQIFtpfYk0Q"
@@ -1369,7 +1457,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 122666,
       "name": "No Make Up",
       "url": "https://open.spotify.com/track/6bvr1FoiUbkXqoTJQG3iUb"
@@ -1423,7 +1511,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 190678,
       "name": "pantera",
       "url": "https://open.spotify.com/track/3tMdgJnbbLcFBi0vEDkSxs"
@@ -1459,7 +1547,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 229289,
       "name": "Papi No Me Hagas Llorar",
       "url": "https://open.spotify.com/track/04S43sYjrLmZXjxqcU8BxJ"
@@ -1571,7 +1659,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 243500,
       "name": "PussyQueen",
       "url": "https://open.spotify.com/track/47dObX6TocFKnJWWn9TGcl"
@@ -1665,7 +1753,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 212540,
       "name": "Rara",
       "url": "https://open.spotify.com/track/2J2lHkGnOE4uFV3GyjmTNC"
@@ -1691,6 +1779,24 @@
       "duration_ms": 186352,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6O6iyBXZyenDSZPwZg5RLI"
+    },
+    {
+      "album": {
+        "name": "Recordar",
+        "url": "https://open.spotify.com/album/55D2FSzwilKg5t6wntfCDq"
+      },
+      "artists": [
+        {
+          "name": "Dania Neko",
+          "url": "https://open.spotify.com/artist/6ehVh5kPMBixAL8VovNYeE"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241955,
+      "name": "Recordar",
+      "url": "https://open.spotify.com/track/537kqGrymt7W0WZgSzqgj7"
     },
     {
       "album": {
@@ -1723,7 +1829,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 231186,
       "name": "Rey",
       "url": "https://open.spotify.com/track/1D3FF8btq4bHzmDpU04fwH"
@@ -1763,7 +1869,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 194757,
       "name": "Sal\u00ed",
       "url": "https://open.spotify.com/track/6Uv5nL5XuEfuWbj9Ql2nDH"
@@ -1781,7 +1887,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 200963,
       "name": "SAMURAI",
       "url": "https://open.spotify.com/track/619Z3dym1A8DCe2Nj6I0Vg"
@@ -1799,7 +1905,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 169427,
       "name": "Show Show",
       "url": "https://open.spotify.com/track/1BWV5TwrdJlaushWq8fL6O"
@@ -1839,10 +1945,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 178736,
       "name": "Sin Intenciones",
       "url": "https://open.spotify.com/track/78NCRUfNgMqSR36XAfum2l"
+    },
+    {
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/6p60H1VjVbAR9dF2sGdJDg"
+      },
+      "artists": [
+        {
+          "name": "Piamar\u00eda",
+          "url": "https://open.spotify.com/artist/7jWMDdxQITAIGXoPintrAP"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197125,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3IPqlkNAqnJMTobgCVgY70"
     },
     {
       "album": {
@@ -1875,7 +1999,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 202919,
       "name": "Tan Cerca",
       "url": "https://open.spotify.com/track/3jJTbl6K4xBZGozCIqam4i"
@@ -2001,7 +2125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 209425,
       "name": "Una \u00daltima Vez",
       "url": "https://open.spotify.com/track/0rGe6nfNe59LUYvjHSDX78"
@@ -2045,7 +2169,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 182876,
       "name": "Ven Aqu\u00ed",
       "url": "https://open.spotify.com/track/6QKRM2G7YCPBLHRrfdSw0B"
@@ -2107,7 +2231,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 160033,
       "name": "XEKERAU",
       "url": "https://open.spotify.com/track/7IFAcogCR9VuFR4sIRGk5f"
@@ -2143,7 +2267,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 184623,
       "name": "Yapas\u00f3",
       "url": "https://open.spotify.com/track/7F7Am47a8FrTMZh3EyA8le"
@@ -2165,7 +2289,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 237720,
       "name": "Your Girl",
       "url": "https://open.spotify.com/track/0NEMXp6o0tP4VlPnxpeyqK"

@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 210440,
       "name": "A Tiny Ripple That Becomes A Giant Wave",
       "url": "https://open.spotify.com/track/7iyHlkSodnReI1yq3U858h"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 280920,
       "name": "Abide",
       "url": "https://open.spotify.com/track/3sxGCOWEmIjANsv1xvynN7"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 127865,
       "name": "Above - composed as the score to a Matthias Koenigswieser photograph",
       "url": "https://open.spotify.com/track/6nwOd5erhIqafAW6koIocm"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 123656,
       "name": "Arabesque",
       "url": "https://open.spotify.com/track/4u1fQ9pvtLh1XDlivrHrPJ"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "Bl\u00e5 Berget",
       "url": "https://open.spotify.com/track/3fSmUQD1lsm09lvLUwtIoJ"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 175178,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM"
@@ -1334,6 +1334,28 @@
     },
     {
       "album": {
+        "name": "Night: Music for Sleep",
+        "url": "https://open.spotify.com/album/3bYDulJBIeZkqxE1sQZB0u"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        },
+        {
+          "name": "Adam Bokesch",
+          "url": "https://open.spotify.com/artist/2p01X9u8SiKbMseuTkgdoI"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Creek",
+      "url": "https://open.spotify.com/track/1c01mV4QTj3L6ovgnEYvyL"
+    },
+    {
+      "album": {
         "name": "Current",
         "url": "https://open.spotify.com/album/4pPrnPAjNULq5aca8tJA0U"
       },
@@ -1403,7 +1425,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 221960,
       "name": "Dear, Utopia - Jameson Nathan Jones Rework",
       "url": "https://open.spotify.com/track/4DDtvtAqHwTchhBthZIPcO"
@@ -1515,7 +1537,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 278435,
       "name": "Don\u2019t Walk Alone",
       "url": "https://open.spotify.com/track/1h91XWq9tdjGGPZLUX0sss"
@@ -1749,7 +1771,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 228855,
       "name": "Elusive Scent",
       "url": "https://open.spotify.com/track/2Xo1zM2lm9wfuaRL9vHOzk"
@@ -2053,7 +2075,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 342400,
       "name": "Fight to Make It Up",
       "url": "https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe"
@@ -2205,7 +2227,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 229000,
       "name": "Flow State Vestida 4",
       "url": "https://open.spotify.com/track/5hJrBqOLUnMXNjDlAX67aP"
@@ -2545,7 +2567,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 290000,
       "name": "HABU (Hunting Hunters)",
       "url": "https://open.spotify.com/track/036lUCkO84OSIZuS7tvzby"
@@ -2759,7 +2781,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "H\u00e5ll Mig - Reimagined by Tim Linghaus",
       "url": "https://open.spotify.com/track/7l79uIzvPbeD7tagjdCwAE"
@@ -2777,7 +2799,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "I'll see you in 21 days",
       "url": "https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl"
@@ -3149,7 +3171,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 198584,
       "name": "Late",
       "url": "https://open.spotify.com/track/7nbupE7oWrRG33GgnIbF7C"
@@ -3381,7 +3403,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 193267,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/5b6rOFv35qB3NUWAzHzX6s"
@@ -3417,7 +3439,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 247120,
       "name": "Modern Driveway",
       "url": "https://open.spotify.com/track/2XgqIg1xo9bvzyK0DEnqxN"
@@ -4131,7 +4153,7 @@
       ],
       "date_added": "2021-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 220445,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/7x5lx6DFjWH8aOWSSoIjlI"
@@ -4153,7 +4175,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 228904,
       "name": "Refrost",
       "url": "https://open.spotify.com/track/05MRIEoiBKTtnTT70KkDdX"
@@ -4225,7 +4247,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 245493,
       "name": "Rjo\u0301\u00f0ur",
       "url": "https://open.spotify.com/track/4YqW8DorMNHqsEus1Vgtju"
@@ -4261,7 +4283,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 278007,
       "name": "R\u00fcckenfigur",
       "url": "https://open.spotify.com/track/3Pb1B51RXr8DnmGpR14GXl"
@@ -4337,7 +4359,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 159594,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
@@ -4957,7 +4979,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 320000,
       "name": "Surges (variation)",
       "url": "https://open.spotify.com/track/7mWOySuZCM1exU4WVdBdDe"
@@ -4975,7 +4997,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 193991,
       "name": "S\u00f8ndag",
       "url": "https://open.spotify.com/track/6grFQLBBBDRgDV8l18S7Zo"
@@ -5383,7 +5405,7 @@
       ],
       "date_added": "2021-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 195019,
       "name": "The Young Weaver",
       "url": "https://open.spotify.com/track/7hcHSv7pAIW6T9qOIaPMDW"
@@ -5445,7 +5467,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"
@@ -5521,7 +5543,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 226669,
       "name": "Tramlines",
       "url": "https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB"

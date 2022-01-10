@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > not not pop\. featuring new music by <a href="spotify:artist:7vNNmjV14SKQzlQAEg0BXP">Jean Dawson</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,475 likes - 153 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,682 likes - 153 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

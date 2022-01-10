@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 182040,
       "name": "All Of The Time",
       "url": "https://open.spotify.com/track/5z5vzI255pLytft2I6gb8M"
@@ -111,7 +111,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 174230,
       "name": "ALLSTAR",
       "url": "https://open.spotify.com/track/2jzNzQibsiVIBPTeJsifby"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 206060,
       "name": "bayridge",
       "url": "https://open.spotify.com/track/6GijrCnVsghoXzLOt2elDw"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 279240,
       "name": "Can't Believe It",
       "url": "https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG"
@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Fdf",
+        "url": "https://open.spotify.com/album/5CptywID2O1kmpNw3m2MOc"
+      },
+      "artists": [
+        {
+          "name": "cero",
+          "url": "https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Fdf",
+      "url": "https://open.spotify.com/track/0Mdo5gCXq9u7EgsZHzYoLj"
+    },
+    {
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/1v2pDxzUUFyTAemRpaiKwe"
       },
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 184314,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/5lmgkKIkmyVH5DofULJ0YM"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
@@ -961,7 +979,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 191537,
       "name": "Lights Up (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/0M4GK1taHqdIOuvXnEJFiw"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/6q3qQZ5TU2UwatDd42YwZ8"
@@ -1253,7 +1271,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 177725,
       "name": "Recap (with VanJess & Channel Tres)",
       "url": "https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe"
@@ -1351,7 +1369,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 141584,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6lcVAexfyal10RpKsM6SmQ"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 141374,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2fQo9apVAYggTBzaFPUh9B"
@@ -1449,7 +1467,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 294445,
       "name": "Tangerine - Channel Tres Remix",
       "url": "https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8"
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 192458,
       "name": "The Thrill",
       "url": "https://open.spotify.com/track/5n4Y77CWqkzoncUhSPBAlW"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 208660,
       "name": "Under The Moon - Pastel Remix",
       "url": "https://open.spotify.com/track/7BKrieYlpF9jhi0eP8m24K"
@@ -1689,7 +1707,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 254120,
       "name": "Unguarded",
       "url": "https://open.spotify.com/track/6k6uRwezixEQx90AGTNFWQ"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
@@ -1791,7 +1809,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij"
@@ -1857,7 +1875,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 236000,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/2cia8oELcnvpyIpbCDBCr1"

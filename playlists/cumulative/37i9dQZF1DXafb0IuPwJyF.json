@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: King Gnu",
+  "description": "\u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: YOASOBI",
   "name": "Tokyo Super Hits!",
   "published_playlist_ids": [
     "2sQ5Fh8iNKxcYtrG1CztwE"
@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Anarchy",
+        "url": "https://open.spotify.com/album/0aHdIJjwSWIKPKgZcU097P"
+      },
+      "artists": [
+        {
+          "name": "Official HIGE DANdism",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268431,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP"
+    },
+    {
+      "album": {
         "name": "ATTRACTION (Japanese Remix)",
         "url": "https://open.spotify.com/album/6w1bjcnTn4lTjRLUKA6ySI"
       },
@@ -49,6 +67,24 @@
       "duration_ms": 210694,
       "name": "ATTRACTION [Japanese Remix]",
       "url": "https://open.spotify.com/track/5NJiQOeqz2WWGBZVKcP1oO"
+    },
+    {
+      "album": {
+        "name": "AURORA TOKIO",
+        "url": "https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R"
+      },
+      "artists": [
+        {
+          "name": "Aile The Shota",
+          "url": "https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215913,
+      "name": "AURORA TOKIO",
+      "url": "https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4"
     },
     {
       "album": {
@@ -117,7 +153,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 241680,
       "name": "Cry Baby",
       "url": "https://open.spotify.com/track/6wDntdm888mDo458RaYjGl"
@@ -501,10 +537,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 226259,
       "name": "VIRTUAL LOVE",
       "url": "https://open.spotify.com/track/75v0yVRMQDXTq027uy3xWF"
+    },
+    {
+      "album": {
+        "name": "What's Your Favorite?",
+        "url": "https://open.spotify.com/album/3gvfcgveerTEsEpzoGv9nq"
+      },
+      "artists": [
+        {
+          "name": "ONE N' ONLY",
+          "url": "https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200562,
+      "name": "What's Your Favorite?",
+      "url": "https://open.spotify.com/track/2NQCOI5dNK5hTJI24tA1gb"
     },
     {
       "album": {
@@ -585,6 +639,24 @@
       "duration_ms": 230746,
       "name": "\u3053\u305f\u3048\u3042\u308f\u305b",
       "url": "https://open.spotify.com/track/46AAVTHrvm4Dt9Kwk2uGKo"
+    },
+    {
+      "album": {
+        "name": "\u3064\u307e\u3089\u306a\u3044\u591c",
+        "url": "https://open.spotify.com/album/4rwHmmlqeg8K2JseloLizx"
+      },
+      "artists": [
+        {
+          "name": "ZOOKARADERU",
+          "url": "https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206380,
+      "name": "\u3064\u307e\u3089\u306a\u3044\u591c",
+      "url": "https://open.spotify.com/track/4mAeZfLSMlBB8QLkbRSna7"
     },
     {
       "album": {
@@ -769,7 +841,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 198709,
       "name": "\u30cf\u30ec\u30f3\u30c1",
       "url": "https://open.spotify.com/track/0e1k2ptLJEtnlM4Fy8QVo6"
@@ -805,7 +877,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 172359,
       "name": "\u30d5\u30ec\u30f3\u30c5",
       "url": "https://open.spotify.com/track/2YdtxfndCrtPfIgxEOtRjJ"
@@ -1154,6 +1226,24 @@
     },
     {
       "album": {
+        "name": "\u88f8\u306e\u52c7\u8005",
+        "url": "https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201973,
+      "name": "\u88f8\u306e\u52c7\u8005",
+      "url": "https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o"
+    },
+    {
+      "album": {
         "name": "\u8e0a\u308a\u5b50",
         "url": "https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM"
       },
@@ -1201,7 +1291,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 217280,
       "name": "\u904b\u547d\u3001\u3068\u3044\u3046\u304bUFO\u306b(\u30c9\u30a5\u30a4\u3001\u30c9\u30a5\u30a4)",
       "url": "https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B"

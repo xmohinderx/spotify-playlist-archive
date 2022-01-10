@@ -597,7 +597,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 329719,
       "name": "Danza de Vision",
       "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
@@ -669,7 +669,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 224826,
       "name": "Donde Est\u00e1",
       "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
@@ -932,6 +932,36 @@
     },
     {
       "album": {
+        "name": "Mambo!",
+        "url": "https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL"
+      },
+      "artists": [
+        {
+          "name": "Gozzo",
+          "url": "https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0"
+        },
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        },
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        },
+        {
+          "name": "Billy May's Rico Billy May's Rico Mambo OrchestraMambo Orchestra",
+          "url": "https://open.spotify.com/artist/37clSqgC3rfNpZIY0mHDbW"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137240,
+      "name": "Gopher Mambo - Remastered 2009",
+      "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
+    },
+    {
+      "album": {
         "name": "Guajira",
         "url": "https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V"
       },
@@ -1059,7 +1089,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 154378,
       "name": "La del bar",
       "url": "https://open.spotify.com/track/5nLL2zJVhkPMpGVQapZ6Eg"
@@ -1113,7 +1143,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 354715,
       "name": "Latin Note",
       "url": "https://open.spotify.com/track/7fUr8EpRc0AC4MCPMVPIgI"
@@ -1189,7 +1219,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 340946,
       "name": "Mambo 1000",
       "url": "https://open.spotify.com/track/3uXX1oen9kKJyRcDnuM97R"
@@ -1429,7 +1459,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 247320,
       "name": "Nain",
       "url": "https://open.spotify.com/track/3cc2P5CaHJdjIb9hYNZdyK"
@@ -1755,7 +1785,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 235600,
       "name": "Si No Pueden Quererte (with Miguel Bos\u00e9)",
       "url": "https://open.spotify.com/track/446rQWVFWcido9fHuW981s"
@@ -2189,7 +2219,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 248008,
       "name": "Yo La Vi",
       "url": "https://open.spotify.com/track/3Gc1LdChaPOVxFbGUuW8sq"

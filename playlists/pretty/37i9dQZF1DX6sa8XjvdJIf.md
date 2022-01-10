@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sa8XjvdJIf.md) - [plain]
 
 > All the classics in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,723 likes - 54 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,733 likes - 54 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

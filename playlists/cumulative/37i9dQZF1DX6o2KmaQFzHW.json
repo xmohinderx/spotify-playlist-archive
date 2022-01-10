@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 206693,
       "name": "Adonde Est\u00e1n los P\u00e1jaros Que Mueren",
       "url": "https://open.spotify.com/track/01Cmz4ZEG6PQdSKBrAdf8m"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "Agitando Pa\u00f1uelos",
       "url": "https://open.spotify.com/track/1Q24A8F0cKTGhDHaBaCM0t"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 279413,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/7aQUylpLZdnsSBDNFPXPyY"
@@ -269,7 +269,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 255680,
       "name": "Balderrama",
       "url": "https://open.spotify.com/track/6ZEgO9PIlq8DGw2tVFHq2E"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 148493,
       "name": "Chacarera Enamorada",
       "url": "https://open.spotify.com/track/61gzzMZGzScNEzuUnehGUv"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 160357,
       "name": "Cuando Llora Mi Guitarra",
       "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 178693,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 207320,
       "name": "Del Chucaro",
       "url": "https://open.spotify.com/track/2WHKDp4K8OXB6zsmZ7yIGu"
@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "Sus 60 Mejores Zambas, Milongas, Canciones...",
+        "url": "https://open.spotify.com/album/1do8NEPEUpdeHZSGSeuyTs"
+      },
+      "artists": [
+        {
+          "name": "Atahualpa Yupanqui",
+          "url": "https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229264,
+      "name": "El Alazan",
+      "url": "https://open.spotify.com/track/6BUxDhJHSAZsLdqsMb51WQ"
+    },
+    {
+      "album": {
         "name": "From Argentina To The World",
         "url": "https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR"
       },
@@ -939,7 +957,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 210400,
       "name": "El Arriero",
       "url": "https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 229877,
       "name": "El Pastor",
       "url": "https://open.spotify.com/track/2rx096DLTOIwU5WcE3oIKn"
@@ -1119,7 +1137,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 179722,
       "name": "Entre A Mi Pago Sin Golpear",
       "url": "https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 196773,
       "name": "Guitarra de Medianoche",
       "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
@@ -1267,7 +1285,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 231400,
       "name": "La atardecida",
       "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 170160,
       "name": "La Descre\u00edda",
       "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 162093,
       "name": "La Flor Azul",
       "url": "https://open.spotify.com/track/0ETzFaHMsT2MdaEgOQzn4J"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 145453,
       "name": "La Telesita",
       "url": "https://open.spotify.com/track/12trwJSceWl2bec01AHu4T"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 293186,
       "name": "La Tempranera",
       "url": "https://open.spotify.com/track/0znYHtilgBJqNwtiB5oOqc"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 188066,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/7x22SRygRje0FD7A3jiYmz"
@@ -1841,7 +1859,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "No Te Puedo Olvidar",
       "url": "https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 214480,
       "name": "Piensa En M\u00ed",
       "url": "https://open.spotify.com/track/2v7aIHpPiLEaZE7Yarx0XQ"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 161773,
       "name": "Recuerdo Salte\u00f1o",
       "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 181386,
       "name": "Romance de Plumas Verdes",
       "url": "https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag"
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 279933,
       "name": "S\u00f3lo Le Pido A Dios",
       "url": "https://open.spotify.com/track/6R6xjvqFWRPoSf6fu5Bh6G"
@@ -2349,7 +2367,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 236813,
       "name": "Viejo Pescador del Paran\u00e1 (with Teresa Parodi & Chango Spasiuk)",
       "url": "https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6"

@@ -121,7 +121,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 250666,
       "name": "Azan Nan Kpe",
       "url": "https://open.spotify.com/track/4ddVa6ZSL8uMuJfGAOdote"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 348840,
       "name": "Idje Idje",
       "url": "https://open.spotify.com/track/0DghtnUvSyAB0oLPu2rcYt"
@@ -759,6 +759,32 @@
       "duration_ms": 179226,
       "name": "Mother Nature",
       "url": "https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6"
+    },
+    {
+      "album": {
+        "name": "\u00d5\u0178\u00d6",
+        "url": "https://open.spotify.com/album/27hOMywrRzMaTW45HRzUXX"
+      },
+      "artists": [
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Bono",
+          "url": "https://open.spotify.com/artist/0m2Wc2gfNUWaAuBK7URPIJ"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193013,
+      "name": "Move On Up",
+      "url": "https://open.spotify.com/track/58zamIGFUxfTBboAaSlnXt"
     },
     {
       "album": {
@@ -1203,7 +1229,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 205773,
       "name": "Wanyinyin",
       "url": "https://open.spotify.com/track/2W4wIPZrpl4gjhz4KgjOc0"

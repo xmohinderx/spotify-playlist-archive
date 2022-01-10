@@ -95,7 +95,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 265760,
       "name": "A Voice",
       "url": "https://open.spotify.com/track/5U8kmTXhhO0vGX3fRcXLJj"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 136185,
       "name": "Ain't We Got Fun?",
       "url": "https://open.spotify.com/track/10OGGFenmKHtfpMs4FOmq1"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 224016,
       "name": "All Or Nothing At All",
       "url": "https://open.spotify.com/track/0j6BoHPikfrtJFYZdVnIT8"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 354594,
       "name": "Alone With My Faith",
       "url": "https://open.spotify.com/track/2NQzmkHk9K6aKwWIdhyo3J"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 217240,
       "name": "Anything Goes",
       "url": "https://open.spotify.com/track/33oz5ZJIsrqLn7FG6WpGYu"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Better Than Anything",
       "url": "https://open.spotify.com/track/4tgTwBJaSBtoqUnI2cEVL4"
@@ -567,10 +567,32 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Come Fly With Me",
       "url": "https://open.spotify.com/track/49YWNbeuLCWIov2BZQ0Q6d"
+    },
+    {
+      "album": {
+        "name": "Classic Jazz - Divas & Crooners (Edited)",
+        "url": "https://open.spotify.com/album/1atP4hfVKAF0d07D4HjpbR"
+      },
+      "artists": [
+        {
+          "name": "Brice Davoli",
+          "url": "https://open.spotify.com/artist/27kwwOnjG09lmLHv3zle84"
+        },
+        {
+          "name": "Valerie Deniz",
+          "url": "https://open.spotify.com/artist/3xODAav1Ryy8BspJHjbHcL"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197826,
+      "name": "Come on Little Bird",
+      "url": "https://open.spotify.com/track/3xPzobpvhizPZSR7If1Zcx"
     },
     {
       "album": {
@@ -637,7 +659,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 346481,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/2qe7O9lFVGJDeOSz9VBn0T"
@@ -733,7 +755,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 211408,
       "name": "Devil May Care",
       "url": "https://open.spotify.com/track/5ImWPpPTnxTsVUiuQ6RVKu"
@@ -791,7 +813,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 320640,
       "name": "Don't Go To Strangers",
       "url": "https://open.spotify.com/track/7eiaz0FB3nJMfauMtGukfO"
@@ -839,7 +861,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 292288,
       "name": "Don't Take Your Love from Me",
       "url": "https://open.spotify.com/track/0yU5Oa00MqxV6GvVQ0CQu6"
@@ -861,6 +883,24 @@
       "duration_ms": 354522,
       "name": "Don\u2019t Be Denied - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5t3ZGxzqyS79oP7rpFfPio"
+    },
+    {
+      "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/4vHFlhP6Lc6bW9xDjN8hxe"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271960,
+      "name": "Double Rainbow",
+      "url": "https://open.spotify.com/track/2XL317luBaRSE49D5JzeSq"
     },
     {
       "album": {
@@ -999,7 +1039,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 241071,
       "name": "Fly (For Mike) feat. Brittany Howard",
       "url": "https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K"
@@ -1069,7 +1109,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 261648,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/1jd4ocgBWkiOT7NESoTBME"
@@ -1087,7 +1127,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 286640,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/7C6zXzKu70gtiIoPC1OgIQ"
@@ -1177,7 +1217,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 169546,
       "name": "Girl from New York City",
       "url": "https://open.spotify.com/track/5wlJErAxiEXXRZRtnr24Jk"
@@ -1221,7 +1261,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 270440,
       "name": "Greenbacks",
       "url": "https://open.spotify.com/track/36d2jH3x50KvPE0ng15O6f"
@@ -1275,7 +1315,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 345480,
       "name": "I Can't Give You Anything But Love",
       "url": "https://open.spotify.com/track/5AdRursK0T21JEBHcZ92Vh"
@@ -1479,7 +1519,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 118004,
       "name": "I Won't Dance",
       "url": "https://open.spotify.com/track/0Xs9Ye5qtHNcYT64UCyNd6"
@@ -1541,7 +1581,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 185947,
       "name": "I'm Beginning To See The Light",
       "url": "https://open.spotify.com/track/2h8fuaU74A3qydi0h6M8D1"
@@ -1631,7 +1671,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 251066,
       "name": "If This Was",
       "url": "https://open.spotify.com/track/2SFjIjgQzFMjlL2ONkmstB"
@@ -1667,7 +1707,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 180903,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/6dLMJre4euytKiy4llaKw4"
@@ -1685,7 +1725,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 268146,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7nFt2sGfKWO0pRMrx44c1t"
@@ -1989,7 +2029,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 172158,
       "name": "Learnin' the Blues / Ju\u017c wiesz, co to blues",
       "url": "https://open.spotify.com/track/27PTYw4GXEbY08C8pui11I"
@@ -2051,7 +2091,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 269066,
       "name": "Let You Break My Heart Again",
       "url": "https://open.spotify.com/track/41H96KDENmbR7d9NzMgojt"
@@ -2161,7 +2201,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 241588,
       "name": "Like A Star",
       "url": "https://open.spotify.com/track/7hVIz6qBhDXFqSj2cI7OlM"
@@ -2259,6 +2299,24 @@
       "duration_ms": 220786,
       "name": "Love For Sale",
       "url": "https://open.spotify.com/track/3iaTig1JxHZF73Ozg8awNl"
+    },
+    {
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
     },
     {
       "album": {
@@ -2375,7 +2433,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 259851,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH"
@@ -2447,7 +2505,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 295560,
       "name": "Move Me No Mountain",
       "url": "https://open.spotify.com/track/4obdTojML5jR0RzMOmJEJa"
@@ -2523,7 +2581,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 199830,
       "name": "Necessity",
       "url": "https://open.spotify.com/track/2MZTALOk4f0D2RkzKP2vOj"
@@ -2559,7 +2617,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 308733,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/0zGKCcCnkIuNBYyROYYahX"
@@ -2631,7 +2689,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 242120,
       "name": "Nouveau",
       "url": "https://open.spotify.com/track/64ATXKjCqixhvfA2NsdByl"
@@ -2649,7 +2707,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 355587,
       "name": "Nuit Blanche (Live)",
       "url": "https://open.spotify.com/track/1GoyNvRJycBHfiHPJvRgwz"
@@ -2867,7 +2925,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 272693,
       "name": "S Wonderful",
       "url": "https://open.spotify.com/track/7CVsH4KfcIeWkDRdzUBvsr"
@@ -2977,7 +3035,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 261226,
       "name": "Social Call",
       "url": "https://open.spotify.com/track/5FRQElyjOYVd6a0rcaIuu0"
@@ -3017,7 +3075,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 292719,
       "name": "Someone Brought Me Wine",
       "url": "https://open.spotify.com/track/5VNh2b5DLiHOoBpVEryi82"
@@ -3035,7 +3093,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 182333,
       "name": "Spinning Round",
       "url": "https://open.spotify.com/track/7MQMlrJnYXM7zH7fbqTmPZ"
@@ -3057,7 +3115,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 206680,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM"
@@ -3093,7 +3151,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 170574,
       "name": "Steppin' Out With My Baby",
       "url": "https://open.spotify.com/track/7umb7Pna2hNvbeMpYAzrit"
@@ -3151,7 +3209,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 201822,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/70MA6VYfLYs1vSnXU3jmma"
@@ -3263,7 +3321,7 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 266213,
       "name": "The Art of Conversation",
       "url": "https://open.spotify.com/track/2sFdFdSACqUlbZVKgcRkdE"
@@ -3303,7 +3361,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 272573,
       "name": "The Cool School",
       "url": "https://open.spotify.com/track/2EQRwli4Q2QWYiB1J5i9gf"
@@ -3321,7 +3379,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 248096,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/3iecbrvM2CjuYp10yZkQFK"
@@ -3339,7 +3397,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 375186,
       "name": "The Heather On The Hill",
       "url": "https://open.spotify.com/track/1tUOl5diNv5MnZEiE16Wcj"
@@ -3393,7 +3451,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 381389,
       "name": "The Sports Page",
       "url": "https://open.spotify.com/track/6WdBdrrrg6mDQ7Ya0iQCWT"
@@ -3469,7 +3527,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 263106,
       "name": "These Things You Are To Me",
       "url": "https://open.spotify.com/track/22rek75QknVrI85tEIUF7a"
@@ -3487,7 +3545,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 187040,
       "name": "Three Cigarettes in an Ashtray",
       "url": "https://open.spotify.com/track/6nlynVbgwm6bavyuQw39Yo"
@@ -3549,7 +3607,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 233957,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/55f6EReAsgNQOFvQaa31yH"
@@ -3597,7 +3655,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 176495,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3hMtwMsTU2H3iD5mu0cpiE"
@@ -3623,7 +3681,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 292986,
       "name": "Until The Real Thing Comes Along",
       "url": "https://open.spotify.com/track/51k8Qj17I5yuIE6fM759U7"
@@ -3663,7 +3721,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 311002,
       "name": "Visions",
       "url": "https://open.spotify.com/track/5N3rW3s7zDsbSxLV3ERubK"
@@ -3867,7 +3925,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 302106,
       "name": "Wichita Lineman",
       "url": "https://open.spotify.com/track/0KPTszBVmdgytj4KSfeGL5"
@@ -3885,7 +3943,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 290053,
       "name": "Wild Is The Wind",
       "url": "https://open.spotify.com/track/4MKfsaaYbB78ibU0kNGxMu"
@@ -3921,7 +3979,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 369613,
       "name": "You and the Music",
       "url": "https://open.spotify.com/track/1gc4RsVcGuTtHHeMIBFbB7"
@@ -3979,7 +4037,7 @@
       ],
       "date_added": "2021-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 172586,
       "name": "You Make Me Feel So Young",
       "url": "https://open.spotify.com/track/4iIUslCIa1rSDX2vYq2lsk"

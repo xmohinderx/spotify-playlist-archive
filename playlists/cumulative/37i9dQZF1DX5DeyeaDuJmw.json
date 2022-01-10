@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 202746,
       "name": "BABY DRIP",
       "url": "https://open.spotify.com/track/5rsR3HabI5cDfztvbFvUJr"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 189506,
       "name": "Billetes Azules (with J Balvin)",
       "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 212210,
       "name": "Booty Call",
       "url": "https://open.spotify.com/track/21SA3m9Lgs1Ch9leBdYrfz"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 240306,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/4pN7yDeBmmAud5lBtuCsVs"
@@ -363,7 +363,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 200645,
       "name": "Como Batman",
       "url": "https://open.spotify.com/track/5WnX9eV92t5XTtFa8fRlAD"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 281379,
       "name": "Desakata",
       "url": "https://open.spotify.com/track/246GKWn36D8IG0MLQAxwyN"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 164813,
       "name": "El Que Se Enamora Pierde (feat. Darell)",
       "url": "https://open.spotify.com/track/5Ik2TPCpwDNnBmkIf4GhBM"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 132685,
       "name": "ESE BOO",
       "url": "https://open.spotify.com/track/3xUKKV1A2XXl7j1QBioIQ3"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 217467,
       "name": "Espionaje",
       "url": "https://open.spotify.com/track/2A91CVAdthfxTrzIACAe08"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 263478,
       "name": "Estamos Bien",
       "url": "https://open.spotify.com/track/2V4Vz4m9V6ldtTiIu6AR88"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 222301,
       "name": "Guayo",
       "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 221333,
       "name": "Pantysito",
       "url": "https://open.spotify.com/track/4VuyGqy7ghC9BDM8vdQnv4"
@@ -2047,7 +2047,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 133331,
       "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
       "url": "https://open.spotify.com/track/3pJbrgZ3rmVFw1huQNQQUZ"
@@ -2194,6 +2194,24 @@
     },
     {
       "album": {
+        "name": "Prende",
+        "url": "https://open.spotify.com/album/3O2kaVuT2ZOHZDGIprXsMf"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/0CbiWTt6jf5CqzqvYH4CPn"
+    },
+    {
+      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -2227,7 +2245,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 210520,
       "name": "Que Tire Pa Lante",
       "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 165215,
       "name": "Reggaeton Sessions #3",
       "url": "https://open.spotify.com/track/4u6zSS8VVCMXwVlwKPZUa6"
@@ -2361,7 +2379,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 149080,
       "name": "Rompe Rodillas",
       "url": "https://open.spotify.com/track/3DlM7Wmirw96FVBMPLeaSD"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 184547,
       "name": "Sencilla",
       "url": "https://open.spotify.com/track/3KVWJAtI1RiPsoUQJsFWao"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 166719,
       "name": "Sin Censura",
       "url": "https://open.spotify.com/track/4LYiS0pzPGMMKmbheAPng9"
@@ -2505,7 +2523,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 244771,
       "name": "Sin Culpa (feat. DrefQuila)",
       "url": "https://open.spotify.com/track/3dLiBBKbeUIhzGNeuo5JGS"

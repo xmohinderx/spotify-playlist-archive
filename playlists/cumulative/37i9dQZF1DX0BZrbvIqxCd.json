@@ -239,7 +239,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 107440,
       "name": "Bland Is The New Black",
       "url": "https://open.spotify.com/track/2L74jTvqQv8vJJesWuwft3"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 181453,
       "name": "Broken Bones",
       "url": "https://open.spotify.com/track/6DCQ5i1MY0UiZSCZlcaaMi"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 187371,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/64kDGEpOWlkv2l6x4TVNOs"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 164333,
       "name": "Christian Nationalist",
       "url": "https://open.spotify.com/track/65CdHKGQBBkktAKgciMcCX"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 191253,
       "name": "Criminal Energy",
       "url": "https://open.spotify.com/track/1sqEf1JGRZlxQBpSbvLcC0"
@@ -700,6 +700,24 @@
     },
     {
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/6Ssjfu521rsdo7d4IemiPo"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "Deadweight",
+      "url": "https://open.spotify.com/track/1inFvJOvNr4ENKYRBn3YhK"
+    },
+    {
+      "album": {
         "name": "So Wrong, It's Right (Deluxe Version)",
         "url": "https://open.spotify.com/album/2e8m3glGL3xIuSrGGXzcIc"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 160682,
       "name": "Don't Overdose and Drive",
       "url": "https://open.spotify.com/track/2t2WL5SXmnjA9UPSeiUOGn"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 196464,
       "name": "Down To Hell",
       "url": "https://open.spotify.com/track/0bjBFEzs0cbvqNLfDMUSjH"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 210880,
       "name": "Everything Is Ordinary",
       "url": "https://open.spotify.com/track/1jZQKtmTYJS5P5Im07Yhce"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 176531,
       "name": "Everything to Me",
       "url": "https://open.spotify.com/track/5e3Zy2KYr34wbE450xQxcI"
@@ -1054,6 +1072,24 @@
     },
     {
       "album": {
+        "name": "Frontier Glitch",
+        "url": "https://open.spotify.com/album/79Mra2R8KLO1In0MjGVW61"
+      },
+      "artists": [
+        {
+          "name": "Strike Anywhere",
+          "url": "https://open.spotify.com/artist/5rWh48V4824rLBdMja6sO8"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96576,
+      "name": "Frontier Glitch",
+      "url": "https://open.spotify.com/track/0W34bI7SxjxnoMN7AozW12"
+    },
+    {
+      "album": {
         "name": "Land Of The Free?",
         "url": "https://open.spotify.com/album/17s6WD0fjRtOzg0RrG7nSQ"
       },
@@ -1155,7 +1191,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 219762,
       "name": "Go Down in History",
       "url": "https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM"
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 227493,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5g4ENWdp43q5ZLH5Pre7s0"
@@ -1299,7 +1335,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 206752,
       "name": "Here's To Us",
       "url": "https://open.spotify.com/track/5FPqsuveLITGgSFzJft2wn"
@@ -1353,7 +1389,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 172020,
       "name": "HOLIDAY",
       "url": "https://open.spotify.com/track/4kdJNsV5OrEkSJ1hfDKeKS"
@@ -1371,7 +1407,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 199621,
       "name": "Home",
       "url": "https://open.spotify.com/track/5gy1YIqLHga0NlBz9ngrFX"
@@ -1443,7 +1479,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 184642,
       "name": "I Forgot You",
       "url": "https://open.spotify.com/track/65fGvQYBCx3MxRf3xInWQQ"
@@ -1461,7 +1497,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 193560,
       "name": "I Just Died In Your Arms",
       "url": "https://open.spotify.com/track/34pzs6syywbpcdBBCcLvKK"
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 204253,
       "name": "Lavender Bones",
       "url": "https://open.spotify.com/track/27wvnSTpsyS9k06aDtXvt8"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 208186,
       "name": "Lights And Sounds",
       "url": "https://open.spotify.com/track/4XOZaPYeMn9hcbpyS90NnD"
@@ -1749,7 +1785,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 193280,
       "name": "Me First",
       "url": "https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp"
@@ -1919,7 +1955,7 @@
       ],
       "date_added": "2021-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 228831,
       "name": "Never Fight A Man With A Perm",
       "url": "https://open.spotify.com/track/4B4CQ84BBpHK5d02cWKUb0"
@@ -1955,7 +1991,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/473gsXF8axYSsplgUfnbXf"
@@ -1973,7 +2009,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 206160,
       "name": "Nothing Changes",
       "url": "https://open.spotify.com/track/0Eucj02XTx0Ir10BpMgJdD"
@@ -2171,7 +2207,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 195386,
       "name": "Plus Ultra",
       "url": "https://open.spotify.com/track/5WLvGmjfyAEYCvFNsLon0i"
@@ -2189,7 +2225,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 199386,
       "name": "Prayer Of The Refugee",
       "url": "https://open.spotify.com/track/3wTyLh0vhP3dN5yv0Mti17"
@@ -2549,7 +2585,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/0jqK7sGTLsHPkQrrcrGuKD"
@@ -2877,7 +2913,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 179349,
       "name": "Underground",
       "url": "https://open.spotify.com/track/5dXvUNCTKEgAHW9c1y7fAN"
@@ -2985,7 +3021,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "When Your Heart Stops Beating",
       "url": "https://open.spotify.com/track/1VpTwecl7EbQiGyVsvwFQE"
@@ -3003,7 +3039,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 192468,
       "name": "Without Me (P\u00e2querette)",
       "url": "https://open.spotify.com/track/2YZhnf9AUQ4HBTfDjgIfnq"

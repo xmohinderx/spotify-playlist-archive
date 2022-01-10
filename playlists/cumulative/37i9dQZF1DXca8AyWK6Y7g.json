@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 155862,
       "name": "2 The Weekend",
       "url": "https://open.spotify.com/track/4CLQ440AxCJfft2pwjDR8x"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 183096,
       "name": "all ur fault",
       "url": "https://open.spotify.com/track/3lPXQDaJ0juw8zunPkhse5"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 194380,
       "name": "Anywhere In The World",
       "url": "https://open.spotify.com/track/3zYcPw7isSk0h1o1FPNsIf"
@@ -3256,6 +3256,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0qEK84neLV6xCIpDoSL3HL"
+      },
+      "artists": [
+        {
+          "name": "una schram",
+          "url": "https://open.spotify.com/artist/1DaQk055DIMxcZKWNQ90Ts"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193280,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6clxhuhuVlPCQXzeOe36yE"
+    },
+    {
+      "album": {
         "name": "crydancing",
         "url": "https://open.spotify.com/album/5ih8vejY3A4nHGlsd2M1xD"
       },
@@ -3869,7 +3887,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 283403,
       "name": "Doing Really Well Thanks",
       "url": "https://open.spotify.com/track/5RKsUNisanWVAvmg1BO7f5"
@@ -4689,7 +4707,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "Fall in Love with You.",
       "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
@@ -5431,7 +5449,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "GAMEBOY",
       "url": "https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f"
@@ -5731,7 +5749,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 186275,
       "name": "golden retriever boy",
       "url": "https://open.spotify.com/track/20M00steJbkD9bCIUCuHPI"
@@ -6423,7 +6441,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-20",
+      "date_removed": null,
       "duration_ms": 135853,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/54ZgNagtKQ2XHIVkVqC2AN"
@@ -8495,7 +8513,7 @@
       ],
       "date_added": "2021-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 269464,
       "name": "LEMON SWAYZE - Miami Horror Lemonade Remix",
       "url": "https://open.spotify.com/track/0ZqvqklMVDxbyaIsNIdO4c"
@@ -9707,7 +9725,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 146474,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/0VGRtiYYW4ch4SrkFkLlYJ"
@@ -10347,7 +10365,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 243520,
       "name": "No More Virgos",
       "url": "https://open.spotify.com/track/5ThW0Lcmgy5bmV6eI9cSuq"
@@ -11343,7 +11361,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 164999,
       "name": "Pedazos",
       "url": "https://open.spotify.com/track/0l1Tm2iXjJVXtHYFCdxpAK"
@@ -13473,7 +13491,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-21",
+      "date_removed": null,
       "duration_ms": 209099,
       "name": "Somethinggreater - Single Version",
       "url": "https://open.spotify.com/track/5ec2yrxKI6EhOdYS2XMbUP"
@@ -14509,7 +14527,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 216216,
       "name": "T-Shirt",
       "url": "https://open.spotify.com/track/5XIG5wfxOZ4p3OrQYZPuGI"
@@ -14811,7 +14829,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 190000,
       "name": "That's What Everybody Said",
       "url": "https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR"
@@ -15517,7 +15535,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 152515,
       "name": "Typical Lover",
       "url": "https://open.spotify.com/track/5ONMDfX8Ad6TirjLeoqD7j"
@@ -15651,7 +15669,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 201093,
       "name": "Unfazed",
       "url": "https://open.spotify.com/track/78RA0KtI3ZTzbK52oJH28b"
@@ -15825,7 +15843,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 176521,
       "name": "Vice Versa",
       "url": "https://open.spotify.com/track/69Hc0ZGMFjOhxnFPOpYc29"
@@ -16007,7 +16025,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 153250,
       "name": "Wanna Be In Love",
       "url": "https://open.spotify.com/track/73atTltNTy37ZdHOfFcRWv"
@@ -16185,7 +16203,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 205161,
       "name": "Way It Was",
       "url": "https://open.spotify.com/track/3BUmKJc9IWZvpwVY6YYwky"
@@ -16247,7 +16265,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 235128,
       "name": "We Don't Have To Die",
       "url": "https://open.spotify.com/track/1QuZqUUSGzfWmeriWQ9t0p"

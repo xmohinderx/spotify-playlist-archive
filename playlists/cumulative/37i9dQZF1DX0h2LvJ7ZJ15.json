@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 167369,
       "name": "dirty laundry (slowed)",
       "url": "https://open.spotify.com/track/4hgn8VbLCTXFGJnHFIMHas"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 167369,
       "name": "dirty laundry - slowed",
       "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
@@ -549,10 +549,28 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 178144,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/5oxY3CGJAsNv8fWS9ctFYi"
+    },
+    {
+      "album": {
+        "name": "Everything's (Not) Good",
+        "url": "https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz"
+      },
+      "artists": [
+        {
+          "name": "Phil Good",
+          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227106,
+      "name": "Everything's Good - slowed + reverb",
+      "url": "https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf"
     },
     {
       "album": {
@@ -1093,7 +1111,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 222338,
       "name": "SEQUEL - slowed + reverbed",
       "url": "https://open.spotify.com/track/4S2TY8hfkkIwE12UG8PpjH"
@@ -1129,10 +1147,32 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 134013,
       "name": "Shhh (Pew Pew) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"
+    },
+    {
+      "album": {
+        "name": "slippin' to you (slowed + reverb remix)",
+        "url": "https://open.spotify.com/album/46g04hw7U0OITcgNmD4XjX"
+      },
+      "artists": [
+        {
+          "name": "penelope Q",
+          "url": "https://open.spotify.com/artist/70ovkdfy4QSPHKJQ0Qy9zR"
+        },
+        {
+          "name": "Rahmell Green",
+          "url": "https://open.spotify.com/artist/3tFG00pCjaywJ4dahNomzM"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250403,
+      "name": "slippin' to you - slowed + reverb remix",
+      "url": "https://open.spotify.com/track/74JS01N6tg8CbpJaKztwSS"
     },
     {
       "album": {
@@ -1177,7 +1217,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 116842,
       "name": "Soul (Slowed Down)",
       "url": "https://open.spotify.com/track/18M3uYhVXQVPsKw88stW30"

@@ -131,7 +131,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 143893,
       "name": "Ain't That A Shame",
       "url": "https://open.spotify.com/track/6pTybvSMcw5spOS7d656rn"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 142906,
       "name": "Bye Bye Love",
       "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 160467,
       "name": "Come Go With Me",
       "url": "https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5"
@@ -571,7 +571,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
@@ -794,6 +794,24 @@
     },
     {
       "album": {
+        "name": "Jerry Lee's Greatest",
+        "url": "https://open.spotify.com/album/1EpJ6FtwpTrITdh1yfZhYI"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "date_added": "2020-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111535,
+      "name": "Great Balls of Fire",
+      "url": "https://open.spotify.com/track/7ugeFdykRDPMMy6XPMdIdz"
+    },
+    {
+      "album": {
         "name": "Groovin' (Mono)",
         "url": "https://open.spotify.com/album/5aQE05ji4wayN65QCZkl0U"
       },
@@ -949,7 +967,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 252879,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/5WElvv9RgXsbxIYwfY9mPk"
@@ -1115,7 +1133,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 119266,
       "name": "It's Not Unusual",
       "url": "https://open.spotify.com/track/5Fwif6oyL2EjXAFTGL909U"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 173533,
       "name": "Leader Of The Pack",
       "url": "https://open.spotify.com/track/6wzLLGFlWQ5jqTL13MU069"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 130892,
       "name": "Mama Said",
       "url": "https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 136800,
       "name": "My Boyfriend's Back",
       "url": "https://open.spotify.com/track/5NiFSI8iIDtVm1NCwdYrHS"
@@ -1655,7 +1673,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 130093,
       "name": "Shout Shout (Knock Yourself Out)",
       "url": "https://open.spotify.com/track/5x6EGByCHCfGtVCwg1Z1PG"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 180055,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
@@ -1835,7 +1853,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 121066,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/44XGMLszaOWD7k4LsJMcWa"
@@ -1907,7 +1925,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 150866,
       "name": "Take Good Care Of My Baby - 1990 Remastered",
       "url": "https://open.spotify.com/track/1MR7XamWS0XH6vZxeeRdE0"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 180720,
       "name": "Till I Waltz Again With You",
       "url": "https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 150840,
       "name": "Tweedle Dee",
       "url": "https://open.spotify.com/track/2TRt55mhsEEC7tuwE5dQdd"
@@ -2325,7 +2343,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 157760,
       "name": "Wipe Out - Hit Version / Extended Ending",
       "url": "https://open.spotify.com/track/4anUinKv803lyDD1vaSXhU"
@@ -2455,7 +2473,7 @@
       ],
       "date_added": "2020-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 175612,
       "name": "You, You, You",
       "url": "https://open.spotify.com/track/7iv8br1y5Hv63QX5Z2HFjv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8QVh1ew4PD.md) - [plain]
 
 > For your listening pleasure: relax with classic literature and the best of Hollywood and Broadway on the air\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,990 likes - 30 songs - 19 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,991 likes - 30 songs - 19 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

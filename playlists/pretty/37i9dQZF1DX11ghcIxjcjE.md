@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Kurt Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,626 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,325 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 59 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 | 60 | [Highway Of Souls](https://open.spotify.com/track/0XU4TZ7eOrDoLpJRNyCRhu) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Between The Eyes](https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc) | 5:25 |
 
-Snapshot ID: `MTY0MTI5NDQyNCwwMDAwMDA0ZTAwMDAwMTdlMjRjNTY5YWUwMDAwMDE3ZTI0YzRmZDcy`
+Snapshot ID: `MTY0MTc0MTQwOSwwMDAwMDA0ZjAwMDAwMTdlM2Y2OWRjMzAwMDAwMDE3ZTI0YzRmZDcy`

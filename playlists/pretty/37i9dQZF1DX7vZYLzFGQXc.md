@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > The top 50 tracks from Fresh Finds Korea in 2021\(Cover: YongYong\(용용\)\) \(2021년을 빛낸 Top 50 트랙들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,758 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,811 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

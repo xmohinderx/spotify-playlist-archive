@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,598 likes - 97 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,642 likes - 97 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

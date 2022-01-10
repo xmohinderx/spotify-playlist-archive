@@ -62,6 +62,28 @@
     },
     {
       "album": {
+        "name": "A Blowing Session",
+        "url": "https://open.spotify.com/album/0G0HYSDx02OthwWPCDU7xR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491013,
+      "name": "Ball Bearing - Remastered",
+      "url": "https://open.spotify.com/track/5AC0W8ke0k69WTwPGS7VB9"
+    },
+    {
+      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -1505,7 +1527,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 493293,
       "name": "Sortie",
       "url": "https://open.spotify.com/track/1kryDv1GqAAWhILphihOmb"
@@ -1827,7 +1849,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 367266,
       "name": "The Outlaw - Remastered",
       "url": "https://open.spotify.com/track/0AVsLKbGvkZTN3728YE44l"
@@ -1863,7 +1885,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 495866,
       "name": "The Turnaround - Remastered 2000/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/1TOx29jMSHZAJcqdHQRMXk"
@@ -1965,7 +1987,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 372080,
       "name": "Tippin' - Rudy Van Gelder Edition/2000 Digital Remaster/24-Bit Mastering",
       "url": "https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k"
@@ -2095,7 +2117,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-10",
       "duration_ms": 345400,
       "name": "Why Don't I - Rudy Van Gelder Edition/1999 Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/2IYmbJbzZjdKrs4xtVd2Mr"
