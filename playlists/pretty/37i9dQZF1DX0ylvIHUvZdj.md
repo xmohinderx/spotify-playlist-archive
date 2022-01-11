@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ylvIHUvZdj.md) - [plain]
 
 > The essential Joan Baez, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,910 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,949 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ylvIHUvZdj.md) - [plain]
 | 59 | [The Moon Is A Harsh Mistress](https://open.spotify.com/track/5UQ8amy5ifba2JkYnAW6XK) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv) | 3:08 |
 | 60 | [James & The Gang](https://open.spotify.com/track/0oVbP6H6Erf8eg03F33MbF) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/0l8cToBNMTOfSjdvxqEAwv) | 4:31 |
 
-Snapshot ID: `MTYwMTkyNTgxMSwwMDAwMDAwNTAwMDAwMTc0ZmEzODBiZWQwMDAwMDE3NGZhMzdkODQ2`
+Snapshot ID: `MTY0MTg2MDU4MywwMDAwMDAwNzAwMDAwMTdlNDY4NDUxOTcwMDAwMDE3NGZhMzdkODQ2`

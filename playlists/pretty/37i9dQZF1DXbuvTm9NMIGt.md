@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuvTm9NMIGt.md) - [plain]
 
 > The best of RHCP, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,584,047 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,584,104 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuvTm9NMIGt.md) - [plain]
 | 49 | [Warped](https://open.spotify.com/track/1eLAEzLXUu6SFHS5rSCrx1) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [One Hot Minute \(Deluxe Edition\)](https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi) | 5:04 |
 | 50 | [Me And My Friends](https://open.spotify.com/track/4xqNzk4pINoCZ2gUGbEQW7) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Uplift Mofo Party Plan](https://open.spotify.com/album/6hBlJsSIz4bgjEHjwcLlZ3) | 3:09 |
 
-Snapshot ID: `MTYxODM1MzE4NiwwMDAwMDAzYzAwMDAwMTc4Y2Q1ZGU2MWQwMDAwMDE2ZjhhMDg1MTc0`
+Snapshot ID: `MTY0MTg2MTMxOSwwMDAwMDAzZTAwMDAwMTdlNDY4ZjhhNDQwMDAwMDE2ZjhhMDg1MTc0`

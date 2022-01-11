@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,320 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,353 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEHBVWXZn8H.md) - [plain]
 | 64 | [Loverman](https://open.spotify.com/track/7i4ZsMyfr9wYHJJP2xHrUR) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Let Love In](https://open.spotify.com/album/7CR3tuhXFsntLZs680B5rL) | 6:21 |
 | 65 | [Release the Bats](https://open.spotify.com/track/3TLjvoo96RxZlg9iBOi8Jb) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1oiC3mdgLddL5kHZsf4DK7) | 2:31 |
 
-Snapshot ID: `MTYxNDIwNDY0MCwwMDAwMDAwYjAwMDAwMTc3ZDYxODFkODgwMDAwMDE2ZTgzNDMyOWYw`
+Snapshot ID: `MTY0MTg2MTA5NywwMDAwMDAwZDAwMDAwMTdlNDY4YzI5Y2UwMDAwMDE2ZTgzNDMyOWYw`

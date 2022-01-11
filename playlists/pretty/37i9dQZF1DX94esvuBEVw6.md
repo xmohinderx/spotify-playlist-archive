@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94esvuBEVw6.md) - [plain]
 
 > Celebrate 50 years of her iconic album, "Blue," alongside the very best songs of this songwriting icon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,727 likes - 63 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,752 likes - 63 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94esvuBEVw6.md) - [plain]
 | 62 | [Sex Kills](https://open.spotify.com/track/7t5K5BG9Z7wIDVHKihrYAX) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Travelogue](https://open.spotify.com/album/6vxU4GMNZCktb79R76abGb) | 3:57 |
 | 63 | [I Had a King](https://open.spotify.com/track/6rj2z2taVIxPRnzx5LJkGm) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 3:37 |
 
-Snapshot ID: `MTYyNDMzNDQ2MCwwMDAwMDAxNDAwMDAwMTdhMzFlMGU0YjcwMDAwMDE3YTJmOGUzN2Vm`
+Snapshot ID: `MTY0MTg2MDYwOSwwMDAwMDAxNjAwMDAwMTdlNDY4NGI1ZjEwMDAwMDE3YTJmOGUzN2Vm`

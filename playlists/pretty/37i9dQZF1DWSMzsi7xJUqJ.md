@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMzsi7xJUqJ.md) - [plain]
 
 > First Aid Kit\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,003 likes - 53 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,002 likes - 53 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMzsi7xJUqJ.md) - [plain]
 | 52 | [Godnatt](https://open.spotify.com/track/2ewIdjS9awuCVrtWAxNEcs) | [Bröderna Lindgren](https://open.spotify.com/artist/6O8LVdLFSAwvmKP80QUQZb), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [I Tiden](https://open.spotify.com/album/5Kb5cBrEHKzriayjjCuoJ2) | 3:44 |
 | 53 | [Elbow in Your Face \(feat\. First Aid Kit\)](https://open.spotify.com/track/3TLcZQUrr2CR1NUiRj7soP) | [Blood Music](https://open.spotify.com/artist/2skSP4pjVsOwUv1aX4O42C), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [The Fire and the Flame \(feat\. First Aid Kit\)](https://open.spotify.com/album/7cEecj8f1MfxMDtmMbea7M) | 4:49 |
 
-Snapshot ID: `MTYxNzIyMjg3OSwwMDAwMDAxMzAwMDAwMTc4ODlmZWM4ZWMwMDAwMDE3MGFmM2RlNjgx`
+Snapshot ID: `MTY0MTg2MDMzMCwwMDAwMDAxNTAwMDAwMTdlNDY4MDc0ZGEwMDAwMDE3MGFmM2RlNjgx`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVhn3qoy98w6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVhn3qoy98w6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVhn3qoy98w6)
 
-### Fresh Finds España
+### [Fresh Finds España](https://open.spotify.com/playlist/7MpPM792xGwpKouYtEsju9)
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Cosmic Wacho
 
@@ -12,7 +12,7 @@
 | [Arde Madrid \- Remix](https://open.spotify.com/track/0a6UI7Mthqy6dzif3p8ZDf) | [Julia de Castro](https://open.spotify.com/artist/2LshxksS43zLzIpiyP8zgG), [Amit Kewalramani](https://open.spotify.com/artist/08EpW1TyPZjNBfZ0TNaZK3), [GRETA CH'ASKA](https://open.spotify.com/artist/4n1sa8DtFCm0AZ67GBfxoh) | [Arde Madrid \(Remix\)](https://open.spotify.com/album/6gCp9oxg17UjA1SwVrcPgi) | 2:31 | 2022-01-04 |  |
 | [Buena Suerte](https://open.spotify.com/track/71iaqPqdztdnNjOtbp7cd6) | [Borja Mompó](https://open.spotify.com/artist/2PWJ25ZIEw45wC8VHW6g4l) | [Buena Suerte](https://open.spotify.com/album/03AcOq36bBDcytuBfI3QWp) | 3:47 | 2022-01-04 |  |
 | [Canción triste para decir adiós](https://open.spotify.com/track/5useSbPRtX0VpzaCtC6mai) | [Quirkyoddgirl](https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo) | [Canción triste para decir adiós](https://open.spotify.com/album/4UhTzN8KfbKkexpFxOQzJW) | 3:21 | 2022-01-04 |  |
-| [Ciudad de las Mentiras](https://open.spotify.com/track/4TMUKLW53GlhS65rzmYWXh) | [Alicia por favor](https://open.spotify.com/artist/5HqyC1QWpUufR7zc6H0n7B) | [Ciudad de las Mentiras](https://open.spotify.com/album/71HVZEhmuMUGL4I0fwmIsU) | 3:23 | 2022-01-04 |  |
+| [Ciudad de las Mentiras](https://open.spotify.com/track/4TMUKLW53GlhS65rzmYWXh) | [Alicia por favor](https://open.spotify.com/artist/5HqyC1QWpUufR7zc6H0n7B), [Matias Malagardis](https://open.spotify.com/artist/7srUPR19693NEJOPtQyME7) | [Ciudad de las Mentiras](https://open.spotify.com/album/71HVZEhmuMUGL4I0fwmIsU) | 3:23 | 2022-01-04 |  |
 | [Di Que No](https://open.spotify.com/track/4aUiw5iu3lqaUEEoyJP0oi) | [Naer](https://open.spotify.com/artist/3dXTgjqRlZ3oQWfGUC9EAH) | [Di Que No](https://open.spotify.com/album/5yWlOjSN61lOxiqSBMv2YZ) | 3:15 | 2022-01-04 |  |
 | [déjate ver](https://open.spotify.com/track/3b1wXbarUltEx3TTkHFo3f) | [Bonitx](https://open.spotify.com/artist/1vOraMiUidDbglIiIQROSX) | [déjate ver](https://open.spotify.com/album/3hm1X3bUbMjYLHV2tfwij5) | 4:03 | 2022-01-04 |  |
 | [En Blanco](https://open.spotify.com/track/08UTYuUh7GwFX3HDF8dkEa) | [Diego 900](https://open.spotify.com/artist/6PMkeaQ3DLnaBuhjfmSefK) | [Gas Platino](https://open.spotify.com/album/3NyNkchZx6dPgI64w0cpbd) | 2:58 | 2022-01-04 |  |

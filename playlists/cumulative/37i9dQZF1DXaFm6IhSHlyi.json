@@ -309,7 +309,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 276380,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/16BGhwv8wYXkv2mMJF7ryv"
@@ -425,7 +425,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 268486,
       "name": "Binalewala - Original Version",
       "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
@@ -515,7 +515,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 241093,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/6umBmcMxeC2kRbwCMNgElC"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "Church",
       "url": "https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
@@ -1411,7 +1411,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 346400,
       "name": "Lily\u306e\u7948\u308a",
       "url": "https://open.spotify.com/track/2UM4ucGnzbD1bp0G67xkj7"
@@ -1719,6 +1719,24 @@
       "duration_ms": 239972,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd"
+    },
+    {
+      "album": {
+        "name": "MOONTALK",
+        "url": "https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu"
+      },
+      "artists": [
+        {
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209351,
+      "name": "MOONTALK",
+      "url": "https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu"
     },
     {
       "album": {
@@ -2211,7 +2229,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b"
@@ -2301,7 +2319,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 230386,
       "name": "Te quiero - Versi\u00f3n 2019",
       "url": "https://open.spotify.com/track/4tHfu14rSYrdODVeJIGJ4r"
@@ -2747,7 +2765,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 148085,
       "name": "Zina",
       "url": "https://open.spotify.com/track/2eSAXnpJSYIJ7QyTErLvOb"
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 155294,
       "name": "\u041c\u043e\u044f \u0434\u0443\u0448\u0430",
       "url": "https://open.spotify.com/track/4QtIr8eU5jvKTmM1T44rnJ"
@@ -2913,7 +2931,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 237632,
       "name": "\u0421\u0442\u0438\u0445\u043d\u0435\u0442 \u043c\u043e\u0442\u043e\u0440",
       "url": "https://open.spotify.com/track/5Yq80azEjRwPaisXpwoFrk"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 223410,
       "name": "\u304a\u3084\u3059\u307f\u3001\u304b\u307f\u3055\u307e",
       "url": "https://open.spotify.com/track/5GU75hIL1riqY1DtP9gf1Q"
@@ -2949,7 +2967,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 290773,
       "name": "\u3084\u3055\u3057\u3055\u3067\u6ea2\u308c\u308b\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/05OHGzibvNF0oPyQ2zbyYd"
@@ -3079,7 +3097,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 324626,
       "name": "\u6953",
       "url": "https://open.spotify.com/track/73xYYths9kvmFvYsd9gC9Z"
@@ -3115,7 +3133,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 284360,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"

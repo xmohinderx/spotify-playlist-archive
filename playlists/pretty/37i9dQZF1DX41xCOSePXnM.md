@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41xCOSePXnM.md) - [plain]
 
 > Sit there, all by yourself, and listen to the <a href="spotify:artist:2wkz8hACugzAvF0voupg3H">folk legend</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,908 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,916 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41xCOSePXnM.md) - [plain]
 | 49 | [Dink's Blues](https://open.spotify.com/track/4s0cuxBZ27APCkCyyBOYjq) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Blues Everywhere I Go](https://open.spotify.com/album/1RCIYEHfEyczAFFQvDUk4y) | 4:48 |
 | 50 | [Fare Thee Well](https://open.spotify.com/track/2iofLCv9KObYys8PnyaZhG) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Livin' With The Blues](https://open.spotify.com/album/2AQL35PMV6dI6s3TJeTn0x) | 4:22 |
 
-Snapshot ID: `MTU4MzQ4OTIwOSwwMDAwMDAwNTAwMDAwMTYxZTM0ZTdmNDgwMDAwMDE3MGFmNGZkNWIx`
+Snapshot ID: `MTY0MTg2MTE0NSwwMDAwMDAwNzAwMDAwMTdlNDY4Y2U1ODYwMDAwMDE3MGFmNGZkNWIx`

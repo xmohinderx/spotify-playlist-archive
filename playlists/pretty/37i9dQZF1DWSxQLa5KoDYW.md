@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxQLa5KoDYW.md) - [plain]
 
 > The best of Gorillaz, in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,924 likes - 58 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,992 likes - 58 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxQLa5KoDYW.md) - [plain]
 | 57 | [Latin Simone \(Que Pasa Contigo\)](https://open.spotify.com/track/5A0FQhWDBk2YSPiMjSZxe5) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:38 |
 | 58 | [Ticker Tape \(feat\. Carly Simon & Kali Uchis\)](https://open.spotify.com/track/46LDfGrOIJF85wfRZLrfbM) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 4:28 |
 
-Snapshot ID: `MTYwMzQ3OTcyMCwwMDAwMDE2MzAwMDAwMTc1NTZkNmQxYzUwMDAwMDE3MDhiNDAwYTk5`
+Snapshot ID: `MTY0MTg2MDQyMSwwMDAwMDE2NTAwMDAwMTdlNDY4MWQ3MzQwMDAwMDE3MDhiNDAwYTk5`

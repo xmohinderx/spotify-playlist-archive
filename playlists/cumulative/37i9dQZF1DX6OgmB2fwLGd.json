@@ -2330,6 +2330,24 @@
     },
     {
       "album": {
+        "name": "Wokeup",
+        "url": "https://open.spotify.com/album/1n9NQI2R10g4jQHmLdWKSl"
+      },
+      "artists": [
+        {
+          "name": "KANKAN",
+          "url": "https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115343,
+      "name": "Wokeup",
+      "url": "https://open.spotify.com/track/7elpLTR2QnjyL6gtsj2I7R"
+    },
+    {
+      "album": {
         "name": "WTF!",
         "url": "https://open.spotify.com/album/2hU6gJKJnZYqK9sX2pqd2n"
       },

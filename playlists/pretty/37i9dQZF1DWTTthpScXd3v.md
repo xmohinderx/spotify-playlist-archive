@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTthpScXd3v.md) - [plain]
 
 > One of the greatest of all time\. 75 years\. Celebrate his legacy here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,075 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,666 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTthpScXd3v.md) - [plain]
 | 74 | [Magic Dance](https://open.spotify.com/track/2ZqsoBMqp7ho5t0OEqfU2r) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Labyrinth \(From The Original Soundtrack Of The Jim Henson Film\)](https://open.spotify.com/album/2w3FKVaH3aaVVIAn6KFKKS) | 4:12 |
 | 75 | [I Can't Give Everything Away](https://open.spotify.com/track/42bQZnfDGmejgB5elWY3QA) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/2w1YJXWMIco6EBf0CovvVN) | 5:47 |
 
-Snapshot ID: `MTY0MTc3NTEyNiwwMDAwMDAwMDQ0Mzg5YWJmZGRkNzc0YzhmOTYxMDQ5MmY2MzBkNDcy`
+Snapshot ID: `MTY0MTg2MTYxNSwwMDAwMDAwMDQ0Mzg5YWJmZGRkNzc0YzhmOTYxMDQ5MmY2MzBkNDcy`

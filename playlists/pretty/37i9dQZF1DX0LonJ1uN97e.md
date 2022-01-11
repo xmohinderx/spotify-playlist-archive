@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LonJ1uN97e.md) - [plain]
 
 > Chuck Berry, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,678 likes - 57 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,716 likes - 57 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LonJ1uN97e.md) - [plain]
 | 56 | [Darlin'](https://open.spotify.com/track/4yGYG9Md4QOkr8mIGGEbWn) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Chuck](https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi) | 3:20 |
 | 57 | [Wonderful Woman](https://open.spotify.com/track/5C7cYOlblj9G0YQhKMG47n) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Wonderful Woman](https://open.spotify.com/album/3ybOkYFPByDRpMNTgXnRLK) | 5:19 |
 
-Snapshot ID: `MTU2ODAyMDIyOCwwMDAwMDAwZDAwMDAwMTY1NWIzMmViMjUwMDAwMDE2ZDE1NDllOGVm`
+Snapshot ID: `MTY0MTg2MDA2MywwMDAwMDAwZjAwMDAwMTdlNDY3YzYwODkwMDAwMDE2ZDE1NDllOGVm`

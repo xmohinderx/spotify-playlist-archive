@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 166320,
       "name": "9-5 (love me)//",
       "url": "https://open.spotify.com/track/6uoJn76oWv1aJVj4473zyY"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 149124,
       "name": "Angel",
       "url": "https://open.spotify.com/track/74Fdji9Eqzbyg6WCAxT0VB"
@@ -185,7 +185,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 152389,
       "name": "Children of The Dark",
       "url": "https://open.spotify.com/track/17bqduRY9LL8WWXtsSE1Kp"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 165358,
       "name": "Chokecherry",
       "url": "https://open.spotify.com/track/6hoZSx85bdN44Y3BJrZHLY"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 143597,
       "name": "Crybaby (On the Phone)",
       "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 165539,
       "name": "hangar",
       "url": "https://open.spotify.com/track/1nXiUKuAu4mHte6Gt2HRdJ"
@@ -699,7 +699,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 128983,
       "name": "Her",
       "url": "https://open.spotify.com/track/7AKWV3l6tVrhLj9nstvdHg"
@@ -793,7 +793,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 221573,
       "name": "i luv that u hate me",
       "url": "https://open.spotify.com/track/4yqasUJVWKsy3sUr3fDFzx"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 161062,
       "name": "i'm gonna tell my therapist on you",
       "url": "https://open.spotify.com/track/1iUBNLLmZnBAjgkHysEv37"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 161037,
       "name": "phuck u",
       "url": "https://open.spotify.com/track/6TCHh0VTnbXq5iAKK4JBjG"
@@ -1288,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Pissed in the Morning",
+        "url": "https://open.spotify.com/album/0Pprw9uYAGNPm9Y1Wh6Q1F"
+      },
+      "artists": [
+        {
+          "name": "Ricky James",
+          "url": "https://open.spotify.com/artist/2mddthoxlzJ8mx06iAENrC"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149818,
+      "name": "Pissed in the Morning",
+      "url": "https://open.spotify.com/track/3cKgffGir3V6y0iGR75KHT"
+    },
+    {
+      "album": {
         "name": "Play Pretend (feat. Travis Barker)",
         "url": "https://open.spotify.com/album/0pePhzWZn37dt3aEcu1WSe"
       },
@@ -1303,7 +1321,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 162559,
       "name": "Play Pretend (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/2Dn2KgWEzKdmQEyDsOS1GU"
@@ -1397,7 +1415,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 103846,
       "name": "relax and float downstream",
       "url": "https://open.spotify.com/track/4yk8K9Mkjxxwv16sjzEGfs"
@@ -1473,7 +1491,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 216422,
       "name": "Stained",
       "url": "https://open.spotify.com/track/28Fhh3sLYSeqXij1PM9wHW"
@@ -1581,7 +1599,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
@@ -1617,7 +1635,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 208695,
       "name": "These Days R Mine",
       "url": "https://open.spotify.com/track/42WeNaMfqmoMW5BZR43v1z"

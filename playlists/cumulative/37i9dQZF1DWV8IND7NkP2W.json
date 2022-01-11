@@ -146,6 +146,32 @@
     },
     {
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/2HLb7alHJmqkOWgmwMO67C"
+      },
+      "artists": [
+        {
+          "name": "Idyllic",
+          "url": "https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K"
+        },
+        {
+          "name": "Komorebi",
+          "url": "https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb"
+        },
+        {
+          "name": "Shou",
+          "url": "https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/1LqzGzXbbACe015fKzCsax"
+    },
+    {
+      "album": {
         "name": "Afternoon Rain",
         "url": "https://open.spotify.com/album/45ZDGJk840ObsQ4DnKiW3f"
       },
@@ -169,7 +195,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 173011,
       "name": "Afternoon Rain",
       "url": "https://open.spotify.com/track/5mpUj2p05omEr65a7DIJLS"
@@ -213,7 +239,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 222056,
       "name": "AIRPLANE",
       "url": "https://open.spotify.com/track/4sbyEn8z6ZInVFHG9dMX2H"
@@ -231,7 +257,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 291000,
       "name": "ame",
       "url": "https://open.spotify.com/track/3Aof4M4zDeX2KPORAHfKFH"
@@ -517,7 +543,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 192831,
       "name": "Berlin Tsukin",
       "url": "https://open.spotify.com/track/0MHOzZBDrPjBocW11I2Ht6"
@@ -553,7 +579,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 166392,
       "name": "BIG BLUE",
       "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
@@ -867,7 +893,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 130421,
       "name": "CHOP SUMMER",
       "url": "https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds"
@@ -907,7 +933,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 90666,
       "name": "Cigar",
       "url": "https://open.spotify.com/track/1gT7lLqbEvYTtfYLjyKrPi"
@@ -1071,7 +1097,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 103366,
       "name": "Consciousness - Instrumental",
       "url": "https://open.spotify.com/track/3DTrG2Jw4UhKUwGNH5mfZn"
@@ -1271,7 +1297,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 170666,
       "name": "Dedicated To J Dilla",
       "url": "https://open.spotify.com/track/0yZUH9ygRa0uWz6IsiAz6T"
@@ -1351,6 +1377,24 @@
       "duration_ms": 216857,
       "name": "dialogue",
       "url": "https://open.spotify.com/track/0qKlKYrqonxvIFse1gjR0N"
+    },
+    {
+      "album": {
+        "name": "Pulchra Ondo",
+        "url": "https://open.spotify.com/album/3T6NjKer6Y8obnNywZrJzq"
+      },
+      "artists": [
+        {
+          "name": "Oh Shu",
+          "url": "https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122548,
+      "name": "Disco A",
+      "url": "https://open.spotify.com/track/3w6HHJ3eWazjQoaDYDzpn3"
     },
     {
       "album": {
@@ -1799,7 +1843,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 113846,
       "name": "Game Master",
       "url": "https://open.spotify.com/track/4Oo2LsLop0vSbHeO1TPLj0"
@@ -1853,7 +1897,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 110958,
       "name": "go",
       "url": "https://open.spotify.com/track/6AnnJQNeDbWQmg44wzXCqh"
@@ -1929,7 +1973,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 224000,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/615Os9s5deQT7fOQku5grC"
@@ -2019,7 +2063,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 180330,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/13GUhuKkw9e12Nwj54p0l3"
@@ -2095,7 +2139,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
@@ -2269,7 +2313,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 76800,
       "name": "Keemel",
       "url": "https://open.spotify.com/track/7kc96tpLbfO5IP3Vg1aaQT"
@@ -2749,7 +2793,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 132038,
       "name": "Mark Calaway",
       "url": "https://open.spotify.com/track/0kU9nVxyWSvOQGo51p1PFX"
@@ -3089,7 +3133,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 181744,
       "name": "Morning Steps",
       "url": "https://open.spotify.com/track/5z9YljuHcRfG76Pb5Yclb1"
@@ -3147,7 +3191,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189562,
       "name": "My Holiday",
       "url": "https://open.spotify.com/track/2SoUXBqoOo1R0QnDQSnB58"
@@ -3245,7 +3289,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 205500,
       "name": "negative lover",
       "url": "https://open.spotify.com/track/0DxCumE8RyTNkoOx7KEDOo"
@@ -3441,7 +3485,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 165666,
       "name": "One Summer Day",
       "url": "https://open.spotify.com/track/2HgUWneKOGyF0L0to0vQfc"
@@ -3769,7 +3813,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 138666,
       "name": "probably",
       "url": "https://open.spotify.com/track/4KOsQOfzWxNGvVUliLLUzg"
@@ -3943,7 +3987,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 155963,
       "name": "Rivers and Stars",
       "url": "https://open.spotify.com/track/45LcTxCzjRMK6gNXHPwmoV"
@@ -4099,7 +4143,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 201810,
       "name": "Saudade Ouchi Jikan",
       "url": "https://open.spotify.com/track/652GwT3h3p21uW8VROFBGp"
@@ -4197,7 +4241,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 120000,
       "name": "Sequences",
       "url": "https://open.spotify.com/track/4qw2ivY0IecySstEiS9I32"
@@ -4663,7 +4707,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 184615,
       "name": "The Train Ride Home",
       "url": "https://open.spotify.com/track/0I9Sb0yl3ygzcmcW6sDl16"
@@ -4699,7 +4743,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 190285,
       "name": "The Way of the Rain",
       "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
@@ -4797,7 +4841,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 230778,
       "name": "Tokyo Lounge",
       "url": "https://open.spotify.com/track/5zGVjMpbSAdMLgvYewOup5"
@@ -5029,7 +5073,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 124285,
       "name": "Ukiyo",
       "url": "https://open.spotify.com/track/4YlDeQaaGoiY3aH2QaNEyK"
@@ -5051,7 +5095,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 151800,
       "name": "Umbrella For Two",
       "url": "https://open.spotify.com/track/5YuVeFoaiD1q8b9RuZRKAE"
@@ -5217,7 +5261,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 112901,
       "name": "Why - Instrumental",
       "url": "https://open.spotify.com/track/4lrBgixwA1IgY7sjAHl3pm"
@@ -5351,7 +5395,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 184329,
       "name": "you",
       "url": "https://open.spotify.com/track/63yCJE29TKKsyKA7KGyC6W"
@@ -5427,7 +5471,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 118356,
       "name": "\u5915\u6620 03",
       "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-09",
   "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: Cosmic Wacho",
   "name": "Fresh Finds Espa\u00f1a",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7MpPM792xGwpKouYtEsju9"
+  ],
   "tracks": [
     {
       "album": {
@@ -133,6 +135,10 @@
         {
           "name": "Alicia por favor",
           "url": "https://open.spotify.com/artist/5HqyC1QWpUufR7zc6H0n7B"
+        },
+        {
+          "name": "Matias Malagardis",
+          "url": "https://open.spotify.com/artist/7srUPR19693NEJOPtQyME7"
         }
       ],
       "date_added": "2022-01-04",

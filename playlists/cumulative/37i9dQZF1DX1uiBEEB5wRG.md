@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1uiBEEB5wRG.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1uiBEEB5wRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1uiBEEB5wRG)
 
-### [Piano Transcriptions 50: Spotify Picks](https://open.spotify.com/playlist/1cmh7GpaY8aypKS2z7OwiL)
+### [Piano Transcriptions](https://open.spotify.com/playlist/1cmh7GpaY8aypKS2z7OwiL)
 
-> Piano arrangements that help you to discover new nuances and sonorities in orchestral and chamber music masterpieces\. Similar playlists: <a href="spotify:user:spotify:playlist:37i9dQZF1DWT5I7N7jmTai">Liszt Transcriptions</a> & <a href="spotify:user:spotify:playlist:37i9dQZF1DWWQxllNWdnsR">Orchestral Transcriptions</a>.
+> Piano arrangements of classical masterpieces.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

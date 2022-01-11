@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2ddCYH6QIK5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2ddCYH6QIK5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2ddCYH6QIK5)
 
-### Fresh Finds GSA
+### [Fresh Finds GSA](https://open.spotify.com/playlist/769sf2A9Kk835wCxbodHwy)
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: SCHATZI, Artwork: Isu Kim.
 

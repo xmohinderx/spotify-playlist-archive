@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R9e00hBCQT.md) - [plain]
 
 > The Harlem Renaissance comes alive once more as the <a href="spotify:artist:1mNcebzTg5QlHEY4WYhLSm">innovative poet</a> and his cohorts read and discuss his work.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,291 likes - 57 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,300 likes - 57 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7R9e00hBCQT.md) - [plain]
 | 56 | [There Are Certain Disadvantages \(Commentary\)](https://open.spotify.com/track/6TWdaWD7umuN3m6jz6VNQ2) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [Langston Hughes Reads Langston Hughes](https://open.spotify.com/album/2kvceUOWyOUKt61Mcdq87v) | 1:17 |
 | 57 | [I'm Gonna Testify](https://open.spotify.com/track/06Ot0rBWQEoJxn0YHr5Czf) | [Langston Hughes](https://open.spotify.com/artist/1mNcebzTg5QlHEY4WYhLSm) | [The Voice of Langston Hughes](https://open.spotify.com/album/47svgVhdLaB00HOKFc4Bo8) | 2:37 |
 
-Snapshot ID: `MTU2ODAxNjMwOCwwMDAwMDAwODAwMDAwMTYxZTNlNWVkNDUwMDAwMDE2ZDE1MGUxODc4`
+Snapshot ID: `MTY0MTg2MDc3NSwwMDAwMDAwYTAwMDAwMTdlNDY4NzNkY2YwMDAwMDE2ZDE1MGUxODc4`

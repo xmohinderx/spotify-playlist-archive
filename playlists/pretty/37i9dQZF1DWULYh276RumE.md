@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULYh276RumE.md) - [plain]
 
 > This is Miranda Lambert\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,758 likes - 62 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,780 likes - 62 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULYh276RumE.md) - [plain]
 | 61 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 |
 | 62 | [Ordinary World \(feat\. Miranda Lambert\)](https://open.spotify.com/track/3cASDwoemZJdsqLq11eD1n) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Greatest Hits: God's Favorite Band](https://open.spotify.com/album/3id4t9IqRoB1f1smOERtrY) | 3:01 |
 
-Snapshot ID: `MTY0MDk2NjUxNSwwMDAwMDAxODAwMDAwMTdlMTEzOWVjYjIwMDAwMDE3Y2JkMmQ5YWRh`
+Snapshot ID: `MTY0MTg2MTAxMCwwMDAwMDAxYTAwMDAwMTdlNDY4YWQ0ZjkwMDAwMDE3Y2JkMmQ5YWRh`

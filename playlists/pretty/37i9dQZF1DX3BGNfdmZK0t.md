@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BGNfdmZK0t.md) - [plain]
 
 > Your essential collection of music by the visionary <a href="spotify:artist:1EI0NtLHoh9KBziYCeN1vM">artist</a>, all in a single playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,755 likes - 87 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,757 likes - 87 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BGNfdmZK0t.md) - [plain]
 | 86 | [Hidee Hidee Ho \#11](https://open.spotify.com/track/72WUk3Kx7BvGtCXsc6SnjQ) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 4:44 |
 | 87 | [The Vanishing Race](https://open.spotify.com/track/3HdJsIKm0jE8XS5oFWrlfX) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Look Again to the Wind: Johnny Cash's Bitter Tears Revisited](https://open.spotify.com/album/3Fdn9X7bYegjL6UNzXZdCs) | 6:14 |
 
-Snapshot ID: `MTYxNzk0MDg2MCwwMDAwMDAwYTAwMDAwMTc4YjRjYTRjYjQwMDAwMDE3OGIyODE2MjBh`
+Snapshot ID: `MTY0MTg2MTMzOCwwMDAwMDAwYzAwMDAwMTdlNDY4ZmQ2ZDgwMDAwMDE3OGIyODE2MjBh`

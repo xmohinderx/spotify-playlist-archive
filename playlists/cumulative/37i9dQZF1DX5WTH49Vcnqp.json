@@ -610,6 +610,24 @@
     },
     {
       "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212165,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "album": {
         "name": "LuckyMe Advent Calendar 21",
         "url": "https://open.spotify.com/album/6vFVVgCoPzP6YggRI7lPnO"
       },
@@ -1787,7 +1805,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8"

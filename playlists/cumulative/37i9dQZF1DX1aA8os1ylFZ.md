@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1aA8os1ylFZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1aA8os1ylFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1aA8os1ylFZ)
 
-### BAE
+### [BAE](https://open.spotify.com/playlist/3Xg0jVGrdYnxgXe1kDmXxV)
 
 > Me and bae = love
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sa8XjvdJIf.md) - [plain]
 
 > All the classics in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,733 likes - 54 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,746 likes - 54 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sa8XjvdJIf.md) - [plain]
 | 53 | [Short and Sweet](https://open.spotify.com/track/3t3UxpRzyUO1C8dQUnf0Zt) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/6EOdIHWk1U9Mr1uHR2OU61) | 3:29 |
 | 54 | [Call Me Anti\-Social](https://open.spotify.com/track/4i9smHubqWFWVusTktEwYo) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/6EOdIHWk1U9Mr1uHR2OU61) | 3:28 |
 
-Snapshot ID: `MTU5MjU0MTY0MCwwMDAwMDAxNDAwMDAwMTcyY2FlMGY4ZjcwMDAwMDE2Y2Y2ODkxNDMx`
+Snapshot ID: `MTY0MTg2MTA4NywwMDAwMDAxNjAwMDAwMTdlNDY4YzAwNjUwMDAwMDE2Y2Y2ODkxNDMx`

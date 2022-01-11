@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 180511,
       "name": "25 Rosas",
       "url": "https://open.spotify.com/track/3w08iUjYVTFdpaUKDdek0U"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 271000,
       "name": "Canci\u00f3n de oto\u00f1o",
       "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
@@ -776,6 +776,24 @@
     },
     {
       "album": {
+        "name": "Decidete",
+        "url": "https://open.spotify.com/album/3mO9TKGfnyfWGionNCwYvq"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183223,
+      "name": "Decidete",
+      "url": "https://open.spotify.com/track/0t4Z131i0IVcWfSvCxSeZd"
+    },
+    {
+      "album": {
         "name": "Antologia (Volumen 2)",
         "url": "https://open.spotify.com/album/3CwmmU7lkxHxEOdynw1nLy"
       },
@@ -787,7 +805,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 181906,
       "name": "Dejenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/2CrwFR9V6mAbDhVr3co4uT"
@@ -859,7 +877,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 215013,
       "name": "Ding Dong Ding Dong Esas Cosas del Amor",
       "url": "https://open.spotify.com/track/02wzG2b4X8VjaxaOZYMZYR"
@@ -1151,7 +1169,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 210573,
       "name": "Enamorada y Herida",
       "url": "https://open.spotify.com/track/6jpNvKy9tt6muQvg2tkRfL"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 242693,
       "name": "Enamorandonos (Just Like Starting Over)",
       "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 250693,
       "name": "Es Por T\u00ed",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
@@ -1313,7 +1331,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
@@ -1565,7 +1583,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 237653,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
@@ -1734,6 +1752,24 @@
     },
     {
       "album": {
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/7ya06WGSGQUGdtBjAKxpgg"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY"
+    },
+    {
+      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -1889,7 +1925,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 292573,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
@@ -1965,7 +2001,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 211093,
       "name": "Mi Arbol y Yo",
       "url": "https://open.spotify.com/track/1HlSiJ4frEFKfAAPciGUoH"
@@ -2109,7 +2145,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 189720,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/67vAIQROidQxOUeqkSPmVo"
@@ -2127,7 +2163,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 199306,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/200dRWmnkqi8SCfwgLXkII"
@@ -2253,7 +2289,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 190413,
       "name": "Orgullosa Nena",
       "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
@@ -2545,7 +2581,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 257733,
       "name": "Quien Eres Tu?",
       "url": "https://open.spotify.com/track/1g8LiofugZTeOSitfw8KLU"
@@ -2891,7 +2927,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 193593,
       "name": "S\u00e9 Como Duele",
       "url": "https://open.spotify.com/track/3d3tM44AOGsluNFGvpaFPu"
@@ -2981,7 +3017,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 231666,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/0mdbrGj4IrGwZeAUwUJLPl"
@@ -3053,7 +3089,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 313333,
       "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/0h8x0YALmyeZHW8lug8eki"
@@ -3071,7 +3107,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 211653,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6BLcw3JqEqxhwmCiZYShXy"
@@ -3179,7 +3215,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 233120,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/2wy8ziIphoK4LvIiLEMLf1"
@@ -3251,7 +3287,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 240053,
       "name": "Y Volver\u00e9",
       "url": "https://open.spotify.com/track/7wx1WRcxLovFDlhNe5leeX"
@@ -3323,7 +3359,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 225533,
       "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
       "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"

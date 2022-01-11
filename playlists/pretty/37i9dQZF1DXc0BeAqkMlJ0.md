@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0BeAqkMlJ0.md) - [plain]
 
 > The Bollywood singer’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,468 likes - 33 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,513 likes - 33 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0BeAqkMlJ0.md) - [plain]
 | 32 | [Pookkalae Sattru Oyivedungal](https://open.spotify.com/track/5Nuv6312XkkZd82AnnSc9g) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [I \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fYpftlxL5gVVKIz8kZ8lr) | 5:08 |
 | 33 | [Beautiful Soul / Khabar Nahi \- Remastered](https://open.spotify.com/track/4pQaT0aihR7eE43MyEqVHR) | [Chai\-Town](https://open.spotify.com/artist/0Z1SZZHQ6c6aqSuqm5fKNK) | [Spectrum](https://open.spotify.com/album/3LKKxQHGVuNJQOzKgHZf3t) | 3:42 |
 
-Snapshot ID: `MTYzMjM4MTIyNSwwMDAwMDAwNjAwMDAwMTdjMTE4MGNhZWUwMDAwMDE3MGM0ODAyMmI3`
+Snapshot ID: `MTY0MTg2MTQ3OSwwMDAwMDAwODAwMDAwMTdlNDY5MWZkOWYwMDAwMDE3MGM0ODAyMmI3`

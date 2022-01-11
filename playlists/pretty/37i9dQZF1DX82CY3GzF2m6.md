@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82CY3GzF2m6.md) - [plain]
 
 > The best of Nirvana, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,279 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,059,413 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82CY3GzF2m6.md) - [plain]
 | 44 | [Tourette's](https://open.spotify.com/track/2S2NiCF7sa1tQkCZB9FvzX) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Super Deluxe](https://open.spotify.com/album/14VVqBoDw1SxoNLW3Cj3mN) | 1:35 |
 | 45 | [Radio Friendly Unit Shifter](https://open.spotify.com/track/0W0s27FypnkXjJTJKUAnx0) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 4:51 |
 
-Snapshot ID: `MTU5ODI4OTA4NywwMDAwMDAyMzAwMDAwMTc0MjE3NDBkZDMwMDAwMDE2ZDAwYjc1MmIw`
+Snapshot ID: `MTY0MTg2MTExNywwMDAwMDAyNTAwMDAwMTdlNDY4Yzc1YTYwMDAwMDE2ZDAwYjc1MmIw`

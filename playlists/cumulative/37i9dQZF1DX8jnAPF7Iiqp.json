@@ -89,7 +89,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 272763,
       "name": "Anaesthetist",
       "url": "https://open.spotify.com/track/5Izi5lL265u2iPulLHOG8i"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 287360,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/3wdc5uaqzlG6BMINgk76io"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -349,7 +349,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 254339,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/0gagDJrA1Kdm1xmwOzNoSN"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 282742,
       "name": "Do U?",
       "url": "https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 319620,
       "name": "Don't Need You",
       "url": "https://open.spotify.com/track/474XwXdXLuQRxXxLRVr1YP"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 281379,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/5Lsr7AauyHMlMNjQzWb0uH"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 375753,
       "name": "Fumes",
       "url": "https://open.spotify.com/track/6FDR1CyaZbw79iAUThlK4k"
@@ -608,6 +608,24 @@
     },
     {
       "album": {
+        "name": "Gone Sleep",
+        "url": "https://open.spotify.com/album/588Obmczl7A6h9SZnPjQ9a"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Gone Sleep",
+      "url": "https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j"
+    },
+    {
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/6vBL5UAlbOy0jFnJk6Dnbc"
       },
@@ -623,7 +641,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 187857,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/515OfuSUlr2igB70C83M13"
@@ -648,6 +666,32 @@
     },
     {
       "album": {
+        "name": "Smile & Wave",
+        "url": "https://open.spotify.com/album/2RgBhzyPXj9n1ocwkO0UdF"
+      },
+      "artists": [
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
+        },
+        {
+          "name": "Fox",
+          "url": "https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS"
+        },
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Hands, Lights, Flames, Phones",
+      "url": "https://open.spotify.com/track/2sBCHHilijXQtJCZ9igvt4"
+    },
+    {
+      "album": {
         "name": "Harmony",
         "url": "https://open.spotify.com/album/2u43nsUaZpyORECJsKt5fm"
       },
@@ -663,7 +707,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 158620,
       "name": "Harmony",
       "url": "https://open.spotify.com/track/5yZ0qWaaLroWRwM7f1YZ3W"
@@ -703,7 +747,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 506633,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/6gm9XQMuhgLvxG8RDGcwVb"
@@ -827,7 +871,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -1121,7 +1165,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 271542,
       "name": "No Tomorrow",
       "url": "https://open.spotify.com/track/4KaYnQBP5CUorQKKuKmRUO"
@@ -1165,7 +1209,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 281516,
       "name": "Our Love Will Grow",
       "url": "https://open.spotify.com/track/4m9IUdUUbnXrnvWvnOcNU8"
@@ -1187,7 +1231,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 231605,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
@@ -1384,6 +1428,28 @@
     },
     {
       "album": {
+        "name": "Streetside",
+        "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Streetside",
+      "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
+    },
+    {
+      "album": {
         "name": "Sweeter / Do It Right",
         "url": "https://open.spotify.com/album/5rvjAb7aB99PUfE8hhdjce"
       },
@@ -1395,7 +1461,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -1487,7 +1553,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 213942,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/3ZLQMBYxrdLIYw0HW00BVm"
@@ -1596,6 +1662,28 @@
     },
     {
       "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/1gua9GDPu75QZLy9bOUSuF"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/5asj11vQ6VWmTJP8kQ2Lig"
+    },
+    {
+      "album": {
         "name": "What We Gonna Do",
         "url": "https://open.spotify.com/album/6pacKtUcN1mwRu4DFtK4Q4"
       },
@@ -1637,6 +1725,24 @@
       "duration_ms": 216637,
       "name": "Where\u2019s Your Head At - 1991 Remix",
       "url": "https://open.spotify.com/track/3MX0TGUzniV9GiEVEcjNqB"
+    },
+    {
+      "album": {
+        "name": "Why Should I",
+        "url": "https://open.spotify.com/album/42mrulMTfykMsbsNeQuPdL"
+      },
+      "artists": [
+        {
+          "name": "Phibes",
+          "url": "https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286896,
+      "name": "Why Should I",
+      "url": "https://open.spotify.com/track/29Yt9cDIOqlVmdvoYizSb4"
     },
     {
       "album": {

@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 182058,
       "name": "3 da Manh\u00e3",
       "url": "https://open.spotify.com/track/3NCpBBT9G5eIDQxTRMacBm"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 219735,
       "name": "A Voz de um Amigo",
       "url": "https://open.spotify.com/track/3F5cEFAYSXyfiBZn7IeQuq"
@@ -305,7 +305,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 230590,
       "name": "Amanhe\u00e7o",
       "url": "https://open.spotify.com/track/7LB5qUFWa5kOjFyLTIreYc"
@@ -327,7 +327,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 218923,
       "name": "Ameno",
       "url": "https://open.spotify.com/track/5xOceLdXjI6xdDiN0z33QU"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 159720,
       "name": "amores de ver\u00e3o",
       "url": "https://open.spotify.com/track/2DQmQrqo19ZG0fRdOqI9Hr"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 143498,
       "name": "At\u00e9 Aprender",
       "url": "https://open.spotify.com/track/1xHkiApXo80f6mFx5m1j0R"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 185867,
       "name": "Bones",
       "url": "https://open.spotify.com/track/4Twrw5ITmINc8akSEe979c"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 194066,
       "name": "Brigadeiro",
       "url": "https://open.spotify.com/track/7gyyV6gDCX2ORt8jCcTlvi"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 122970,
       "name": "Cafun\u00e9",
       "url": "https://open.spotify.com/track/7zjKBYb0C2NxGWLBmrveQl"
@@ -569,7 +569,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 172616,
       "name": "Calma",
       "url": "https://open.spotify.com/track/5zMHggqhl3ZMiQ9VbbNsbx"
@@ -635,7 +635,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 284693,
       "name": "Casca do Ovo",
       "url": "https://open.spotify.com/track/21UV3qUvsDenzdvTbXg4Nc"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 199019,
       "name": "Dama da Noite",
       "url": "https://open.spotify.com/track/4NnsR2Rw7iip84mtRlh7a7"
@@ -877,7 +877,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 207550,
       "name": "De Pouquinho em Pouquinho",
       "url": "https://open.spotify.com/track/7mK3JJcyPBfD1nR9D5Au45"
@@ -899,6 +899,24 @@
       "duration_ms": 216538,
       "name": "Del\u00edrio No.1",
       "url": "https://open.spotify.com/track/3qglS0QT8mOAID6ZCDFayP"
+    },
+    {
+      "album": {
+        "name": "Desacelera",
+        "url": "https://open.spotify.com/album/7CA2uIsvIv3vbq10ek35kl"
+      },
+      "artists": [
+        {
+          "name": "Pagan John",
+          "url": "https://open.spotify.com/artist/2Jon9epfVoNNgRcifk0d1S"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199914,
+      "name": "Desacelera",
+      "url": "https://open.spotify.com/track/70RXINNUEgoQeEhCSH4nzi"
     },
     {
       "album": {
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 187928,
       "name": "DOIS",
       "url": "https://open.spotify.com/track/5tQmsgA4JxLZHxxmCp49wc"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 154875,
       "name": "Estrada",
       "url": "https://open.spotify.com/track/6BbtZyTCkYL81wEETzM3B4"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 177665,
       "name": "Eu Sou Sentimental",
       "url": "https://open.spotify.com/track/2ZnG4Lt6TlOKxJn9mq9KXD"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 175500,
       "name": "Fantasia - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4nnKcnDaW7iqkNNgVn5DVM"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 180242,
       "name": "Fortuna e Paz",
       "url": "https://open.spotify.com/track/76QfrFK7OiK82C51iqWNu7"
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 141492,
       "name": "Haja Vista",
       "url": "https://open.spotify.com/track/2kIimz88xipoDtZsMhSlBp"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 152811,
       "name": "itaja\u00ed",
       "url": "https://open.spotify.com/track/1YORvtFKmOyLdDkr3BE1w8"
@@ -1532,6 +1550,24 @@
     },
     {
       "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/6kRSgZALUlqIKnISQC6L7F"
+      },
+      "artists": [
+        {
+          "name": "Felipe C\u00e2mara",
+          "url": "https://open.spotify.com/artist/7nMcdHn8XjZDOzCn1x83f0"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231559,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/08tHtVcWkD5rcxkguScfUY"
+    },
+    {
+      "album": {
         "name": "Meu Ver\u00e3o (Vers\u00e3o K7)",
         "url": "https://open.spotify.com/album/0phTuahRIPaaEP6tquAFsr"
       },
@@ -1645,7 +1681,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 233765,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1tN3ZjFP7UP2fIn6J5X8Wr"
@@ -1859,7 +1895,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 202290,
       "name": "O Que Mere\u00e7o",
       "url": "https://open.spotify.com/track/3ph0RQLxj1iGwHj2q56h3p"
@@ -1939,7 +1975,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 264106,
       "name": "Olhar pra Fora",
       "url": "https://open.spotify.com/track/593t6WxkGzRatsav9nL8y0"
@@ -2045,7 +2081,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 206547,
       "name": "Partir Tamb\u00e9m \u00c9 Chegar",
       "url": "https://open.spotify.com/track/6Mo1CszOMxtXuncoYOU8iS"
@@ -2147,7 +2183,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 151428,
       "name": "Poeta Eu, Poema Ela",
       "url": "https://open.spotify.com/track/6p9C1JwOdFsdb1sAv76wQ5"
@@ -2245,7 +2281,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 394706,
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU"
@@ -2407,7 +2443,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 192698,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7FEbkkKqbYhzRwi4OeaQcH"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189519,
       "name": "Se Perder: Som das Estradas - Sul",
       "url": "https://open.spotify.com/track/2wPaBZBh6zcJsxPFyGV2gm"
@@ -2467,7 +2503,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 194768,
       "name": "Sei o Que Sou",
       "url": "https://open.spotify.com/track/308C4MSUPmE5iMTIzahguG"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 219320,
       "name": "Seja Como For",
       "url": "https://open.spotify.com/track/15Ii7uBNwsXEGza3umIZBH"
@@ -2521,7 +2557,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 262000,
       "name": "Sem Voc\u00ea",
       "url": "https://open.spotify.com/track/6dyL1ErTImdCjh5ZHAzlX1"
@@ -2651,7 +2687,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 192682,
       "name": "Ter\u00e7a Feira",
       "url": "https://open.spotify.com/track/755qyi0rqDzMsF9tfWMxLG"
@@ -2705,7 +2741,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 223192,
       "name": "Todas As Cores - Vers\u00e3o Ac\u00fastica",
       "url": "https://open.spotify.com/track/4xiAj5nbQAcQhcqXiqNAg3"
@@ -2763,7 +2799,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 180319,
       "name": "Trem-Bala",
       "url": "https://open.spotify.com/track/05QeyKGAn4TZrv41tMiD1A"
@@ -2839,7 +2875,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 276870,
       "name": "Vai Atr\u00e1s Da Vida Que Ela Te Espera",
       "url": "https://open.spotify.com/track/0QVpFZo7en9BEos1TQlwz1"
@@ -2857,7 +2893,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 233919,
       "name": "Vapor",
       "url": "https://open.spotify.com/track/0kteOf15gjOAWtyOwLFBL8"
@@ -2933,10 +2969,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 193265,
       "name": "V\u00edrgula",
       "url": "https://open.spotify.com/track/3hfSi8c18dgL3lO0u1HRDw"
+    },
+    {
+      "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4DtZEvhgFPtboz4fox2R5h"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217284,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5Ba2ASYfis5drreEoHKfLY"
     },
     {
       "album": {
@@ -2994,6 +3048,24 @@
     },
     {
       "album": {
+        "name": "\u00c9ramos N\u00f3s",
+        "url": "https://open.spotify.com/album/23w9TRvLeK6E2QUQt7KjZH"
+      },
+      "artists": [
+        {
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217783,
+      "name": "\u00c9ramos N\u00f3s",
+      "url": "https://open.spotify.com/track/73YSZS3cTpaa3PwD01vmdA"
+    },
+    {
+      "album": {
         "name": "Amores E Flores",
         "url": "https://open.spotify.com/album/6rqpxYPwbgn348n8b5j7ne"
       },
@@ -3005,7 +3077,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 210323,
       "name": "\u00cdmpar",
       "url": "https://open.spotify.com/track/3vXKSy1vWDvl6DeKUxxpaG"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkGQGk1ZjrI.md) - [plain]
 
 > The late, great Elliott Smith\. RIP
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,891 likes - 22 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,916 likes - 22 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkGQGk1ZjrI.md) - [plain]
 | 21 | [Alphabet Town](https://open.spotify.com/track/4YH700BzqKrMQKzp3oy814) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/4oufB2AssQXU8hHMeAYLxh) | 4:11 |
 | 22 | [Everything Reminds Me Of Her](https://open.spotify.com/track/3nkdVXnH4xC6f3YZS0C8pC) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 2:37 |
 
-Snapshot ID: `MTU2ODAxNjk1NywwMDAwMDAwYjAwMDAwMTYzZDBkMTViMzkwMDAwMDE2ZDE1MTgwMTQ1`
+Snapshot ID: `MTY0MTg2MDI2NCwwMDAwMDAwZDAwMDAwMTdlNDY3ZjcwYmIwMDAwMDE2ZDE1MTgwMTQ1`

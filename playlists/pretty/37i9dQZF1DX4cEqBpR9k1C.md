@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cEqBpR9k1C.md) - [plain]
 
 > Immerse yourself in the dark and beautiful sound of Trentemøller.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,923 likes - 35 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,938 likes - 35 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cEqBpR9k1C.md) - [plain]
 | 34 | [Midnight City \- Trentemoller Remix](https://open.spotify.com/track/5kKZkGVLQOvcMKxGSqajaw) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Midnight City \(Remix EP\)](https://open.spotify.com/album/3gvqlGUjtnFzHAnAQ8gyrc) | 7:29 |
 | 35 | [Springsteen \- Trentemøller Remix](https://open.spotify.com/track/7bTKMYPBA3TsqQ1gjgvEg2) | [I Got You On Tape](https://open.spotify.com/artist/3HR5AnPFqtwPA8XvCw7VL5), [Anders Trentemøller](https://open.spotify.com/artist/3XxgESVjgBg5yYoQbFpAKg) | [Church of the Real](https://open.spotify.com/album/240XdI8LgR2B14hTIgTmf1) | 6:29 |
 
-Snapshot ID: `MTU2ODAxODcxNSwwMDAwMDAxMDAwMDAwMTZiNTQ1OTgwMWMwMDAwMDE2ZDE1MzJkMzA4`
+Snapshot ID: `MTY0MTg2MTc5MiwwMDAwMDAxMjAwMDAwMTdlNDY5NmM0YjEwMDAwMDE2ZDE1MzJkMzA4`

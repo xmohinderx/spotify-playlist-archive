@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWi0hHcPHnic.md) - [plain]
 
 > Your favorite KIDZ BOP hits, all in one place!
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,596 likes - 230 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,658 likes - 230 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWi0hHcPHnic.md) - [plain]
 | 229 | [Best Song Ever](https://open.spotify.com/track/2bWrXd5h6KsC5Mto1f8bGf) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 25](https://open.spotify.com/album/2HWxwuGylBWL1RymwjQorI) | 3:19 |
 | 230 | [Waves](https://open.spotify.com/track/5pSAbHhJFKhrxcoeyfJFmj) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 28](https://open.spotify.com/album/21BOMSlYp2czN91z9HaTI2) | 2:55 |
 
-Snapshot ID: `MTY0MTU3MjEwNywwMDAwMDA0ZDAwMDAwMTdlMzU1Mjg0YzEwMDAwMDE3NzA3MzJlNmI5`
+Snapshot ID: `MTY0MTg2MDY1OCwwMDAwMDA0ZjAwMDAwMTdlNDY4NTc2ZjQwMDAwMDE3NzA3MzJlNmI5`

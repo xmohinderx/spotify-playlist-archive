@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIPSKePHmRn.md) - [plain]
 
 > Remembering the amazing <a href="spotify:artist:6LufpoVlIYKQCu9Gjpk8B7">artist</a> \(1956–2016\)\. You will be missed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,448 likes - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,454 likes - 30 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIPSKePHmRn.md) - [plain]
 | 29 | [Be Easy](https://open.spotify.com/track/7mg4x8Bm8WYb0N2z1qSKnf) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/47P2sPC5375ThPdCL4Dn6I) | 3:03 |
 | 30 | [The Sky Is Crying – Live at Spotify NYC](https://open.spotify.com/track/4WDplhb9BtvR4XGLN09rNx) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7), [Doyle Bramhall II](https://open.spotify.com/artist/7Chzu4eSaqDHFXFvjaycAV) | [Live from Spotify NYC](https://open.spotify.com/album/1xQfkhLFq2UGARqyz8Ajbm) | 5:17 |
 
-Snapshot ID: `MTU3NTQ4NjA3NSwwMDAwMDAwYjAwMDAwMTZlZDI0OWIyNDQwMDAwMDE2ZDE1MmY4NDVk`
+Snapshot ID: `MTY0MTg2MTQ2NiwwMDAwMDAwZDAwMDAwMTdlNDY5MWM4NGQwMDAwMDE2ZDE1MmY4NDVk`

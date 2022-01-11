@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189106,
       "name": "Anybody",
       "url": "https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 209590,
       "name": "Bad & Wicked (feat. Ir Sais & KDDO)",
       "url": "https://open.spotify.com/track/7FOqaLMa7WYCwFHfZPmgqh"
@@ -483,7 +483,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 216557,
       "name": "Blem",
       "url": "https://open.spotify.com/track/2XlHu0HcujBCkWMdIAvrqt"
@@ -821,7 +821,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 133000,
       "name": "Coco",
       "url": "https://open.spotify.com/track/2cyt4htgCuEKXnUDPbnEm5"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 211293,
       "name": "Come Closer (feat. Drake)",
       "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
@@ -1041,7 +1041,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 171720,
       "name": "Copines",
       "url": "https://open.spotify.com/track/65PsPkMG2QiFM8N5qnuv4B"
@@ -1161,7 +1161,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 139776,
       "name": "Dem Say Mi Selfish",
       "url": "https://open.spotify.com/track/5X224Y088NVd1h01nbiKFq"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 183099,
       "name": "Distance",
       "url": "https://open.spotify.com/track/69f1steoIMhN1skPkBR6rB"
@@ -1847,7 +1847,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 198857,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV"
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 233253,
       "name": "Hold You - Hold Yuh",
       "url": "https://open.spotify.com/track/0j55p8YRAPG8yajtNyjt6A"
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 149643,
       "name": "Hot Topicz",
       "url": "https://open.spotify.com/track/2pyLZLboSKOLKII3uacUsP"
@@ -2133,7 +2133,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 164135,
       "name": "Karma Riddim",
       "url": "https://open.spotify.com/track/3ilMKDKPxTeboM0BpXPyjk"
@@ -2327,7 +2327,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 197972,
       "name": "Leg Over",
       "url": "https://open.spotify.com/track/0K3ESegCtpUnQ2XB2d3bHt"
@@ -2543,7 +2543,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
@@ -2630,6 +2630,28 @@
     },
     {
       "album": {
+        "name": "Magic (with Amartey)",
+        "url": "https://open.spotify.com/album/5FBCdiSwNLrokFxpiR7c3C"
+      },
+      "artists": [
+        {
+          "name": "Wiz Ofuasia",
+          "url": "https://open.spotify.com/artist/0sRlnqmmepk0FBxtULhUrn"
+        },
+        {
+          "name": "Amartey",
+          "url": "https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206685,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7HJG4B32llcqQgqHzLhof5"
+    },
+    {
+      "album": {
         "name": "Higher Place (Anniversary Edition)",
         "url": "https://open.spotify.com/album/6Ls6U4y9I6We3tXuilyEHX"
       },
@@ -2649,7 +2671,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 218089,
       "name": "Make Me Feel (feat. Ari Lennox) - IzyBeats Dub Mix",
       "url": "https://open.spotify.com/track/60H3vKDbEFREGqEmUdMWGu"
@@ -2873,7 +2895,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 172248,
       "name": "Move It",
       "url": "https://open.spotify.com/track/4zjA6RlphwqfTkZgtNif92"
@@ -2947,7 +2969,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 188000,
       "name": "My Touch - Dutch Remix",
       "url": "https://open.spotify.com/track/5SBy2tOnecAyebZwPD21YP"
@@ -3041,7 +3063,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 202013,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
@@ -3143,7 +3165,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Occuper",
       "url": "https://open.spotify.com/track/4V8y5OWqDxnoDIJ291i95B"
@@ -3197,7 +3219,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 216242,
       "name": "Ojuelegba",
       "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
@@ -3393,7 +3415,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 178864,
       "name": "Pandemia",
       "url": "https://open.spotify.com/track/0RVqLLQE5EdCL3xIQc0DWK"
@@ -3485,7 +3507,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 141030,
       "name": "Ram Pam",
       "url": "https://open.spotify.com/track/4bro6XcuTPaPM61tCCdto8"
@@ -3719,7 +3741,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 165776,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/1fiXFwKNKcTRFBeR9wlKhB"
@@ -3781,7 +3803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189596,
       "name": "Shaku Shaku",
       "url": "https://open.spotify.com/track/1TCMIBKmQGJ27Rm04bs7dI"
@@ -3803,7 +3825,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 170103,
       "name": "She Got It (with Rafa Pab\u00f6n)",
       "url": "https://open.spotify.com/track/59MMi0CiK66DVzFo1aRRby"
@@ -3967,7 +3989,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 195951,
       "name": "Str3a",
       "url": "https://open.spotify.com/track/4Ytdb0MtQht8jcSnL4B0d5"
@@ -4051,7 +4073,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
@@ -4211,7 +4233,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 232853,
       "name": "To The Ceiling",
       "url": "https://open.spotify.com/track/0anWACWSzSASwJAlCPoe5W"
@@ -4251,7 +4273,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 190400,
       "name": "Todo Pa' Ti",
       "url": "https://open.spotify.com/track/1KeQQmdN8gNmvMvw5yeU8A"
@@ -4541,7 +4563,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 194586,
       "name": "We Can (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/7LRJmZ6G5qHQEG2CGeTCji"
@@ -4751,7 +4773,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 199200,
       "name": "Yuh Know",
       "url": "https://open.spotify.com/track/5Ymzzusy4IzDkh9an3nOxW"

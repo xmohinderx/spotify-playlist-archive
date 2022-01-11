@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vYEZez2Jm.md) - [plain]
 
 > Essential music from the singular artist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,423 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,446 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vYEZez2Jm.md) - [plain]
 | 37 | [Beast Infection](https://open.spotify.com/track/5Xt4hnBaC74sl0jG4wPoDv) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Geidi Primes](https://open.spotify.com/album/3M5v4kVIOcncI9O8KpINc1) | 2:21 |
 | 38 | [Pynk \(feat\. Grimes\) \- King Topher Remix](https://open.spotify.com/track/2u0FKOdm4sTcnB5JwsEyty) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2) | [Pynk \(feat\. Grimes\) \[King Topher Remix\]](https://open.spotify.com/album/22snh4CaxLlqDOVoxBRuMa) | 3:58 |
 
-Snapshot ID: `MTU4MzQ4Nzg3OCwwMDAwMDAwNzAwMDAwMTcwOWQyMmQwNjcwMDAwMDE3MGFmM2I4NDE4`
+Snapshot ID: `MTY0MTg2MDQyOSwwMDAwMDAwOTAwMDAwMTdlNDY4MWY2MmUwMDAwMDE3MGFmM2I4NDE4`

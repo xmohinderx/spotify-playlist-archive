@@ -45,7 +45,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 257033,
       "name": "A bite of papaya",
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
@@ -179,7 +179,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 222447,
       "name": "Better Days - Laurence Guy Remix",
       "url": "https://open.spotify.com/track/5quMnZCNREtng2OBwd4onY"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 179293,
       "name": "Body",
       "url": "https://open.spotify.com/track/0eh14ZZmEHKKOdZvYbFUxF"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 200088,
       "name": "Disco Kitchen",
       "url": "https://open.spotify.com/track/00eHtpRr74BgWQN7u6vEHT"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 300000,
       "name": "Do This Forever",
       "url": "https://open.spotify.com/track/7rGxWoUyNno5ztljshnN7o"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 126700,
       "name": "Duo",
       "url": "https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn"
@@ -695,10 +695,40 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 245579,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs"
+    },
+    {
+      "album": {
+        "name": "Empower",
+        "url": "https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8"
+      },
+      "artists": [
+        {
+          "name": "Steam Down",
+          "url": "https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        },
+        {
+          "name": "TINYMAN",
+          "url": "https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9"
+        },
+        {
+          "name": "Ahnans\u00e9",
+          "url": "https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285040,
+      "name": "Empower",
+      "url": "https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY"
     },
     {
       "album": {
@@ -911,7 +941,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 170375,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
@@ -969,7 +999,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 279059,
       "name": "GO (Detroit Swindle Remix)",
       "url": "https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm"
@@ -1005,7 +1035,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 230551,
       "name": "Greatest Love - Edit",
       "url": "https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy"
@@ -1096,6 +1126,32 @@
     },
     {
       "album": {
+        "name": "Impact (feat. Robyn & Channel Tres)",
+        "url": "https://open.spotify.com/album/72eG3tj9uEdokGIngiYDqy"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283406,
+      "name": "Impact (feat. Robyn & Channel Tres)",
+      "url": "https://open.spotify.com/track/0Gv33C5DRmJueolmdFjfU7"
+    },
+    {
+      "album": {
         "name": "Inner Drum",
         "url": "https://open.spotify.com/album/6BHLogHzPzrGMlcbgFmVdF"
       },
@@ -1115,7 +1171,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 236196,
       "name": "Inner Drum",
       "url": "https://open.spotify.com/track/6F3jrCP8aRbAQ1OUWvKurZ"
@@ -1217,7 +1273,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 181000,
       "name": "Just a Feeling - Brackles Remix",
       "url": "https://open.spotify.com/track/43I0aadVyfpfNA77tSqcqF"
@@ -1239,7 +1295,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
@@ -1635,7 +1691,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 240000,
       "name": "On My Mind - Radio Mix",
       "url": "https://open.spotify.com/track/14K2ewiWrVf9qTRoT804Xm"
@@ -1911,7 +1967,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 204500,
       "name": "September",
       "url": "https://open.spotify.com/track/0vO9JzWoVdo7T9BKDvTGvY"
@@ -2075,7 +2131,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 198523,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4ARjCGggd0yAjlXd2vmx5D"
@@ -2307,7 +2363,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 400866,
       "name": "We Found It (feat. Bakar)",
       "url": "https://open.spotify.com/track/0tksfbNUnGKvpGI9FtHmKO"
@@ -2347,7 +2403,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"

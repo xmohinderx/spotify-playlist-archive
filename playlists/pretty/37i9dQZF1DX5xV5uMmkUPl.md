@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xV5uMmkUPl.md) - [plain]
 
 > Lo nuevo y lo esencial de René.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,098 likes - 19 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,109 likes - 19 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xV5uMmkUPl.md) - [plain]
 | 18 | [Apocalíptico](https://open.spotify.com/track/37OFCWYE5wClugGKaSDdM2) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 6:12 |
 | 19 | [Dagombas en Tamale](https://open.spotify.com/track/6dABTmyCBksFEW76oTOr5q) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 3:55 |
 
-Snapshot ID: `MTU5MTkxNTU1MSwwMDAwMDAwODAwMDAwMTcyYTU4ZjlhYjAwMDAwMDE3MGM0YTI2MjVm`
+Snapshot ID: `MTY0MTg2MTMzMCwwMDAwMDAwYTAwMDAwMTdlNDY4ZmI4MDIwMDAwMDE3MGM0YTI2MjVm`

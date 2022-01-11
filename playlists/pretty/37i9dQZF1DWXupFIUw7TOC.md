@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXupFIUw7TOC.md) - [plain]
 
 > The best of Oasis, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,369 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,405 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXupFIUw7TOC.md) - [plain]
 | 49 | [Fuckin' in the Bushes](https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Standing On The Shoulder Of Giants](https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3) | 3:18 |
 | 50 | [Don't Stop… \- Demo](https://open.spotify.com/track/2wDOBCr9j0SgUmhNOmqKSk) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Don't Stop… \(Demo\)](https://open.spotify.com/album/7iwoECKWkbazHHOyDXMCCo) | 4:56 |
 
-Snapshot ID: `MTYzNzg4MTMyMCwwMDAwMDAyYzAwMDAwMTdkNTk1NTkyZjIwMDAwMDE3NGI2ODkzZmZm`
+Snapshot ID: `MTY0MTg2MTE0NCwwMDAwMDAyZTAwMDAwMTdlNDY4Y2RkZTcwMDAwMDE3NGI2ODkzZmZm`

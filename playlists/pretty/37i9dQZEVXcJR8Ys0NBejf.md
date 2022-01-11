@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcJR8Ys0NBejf.md) - [plain]
 | 29 | [Maniac](https://open.spotify.com/track/2qyMaP8ZYckW6tEY7GS1CL) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Maniac](https://open.spotify.com/album/4YWP92E6TOaLArPUaQT6tH) | 2:45 |
 | 30 | [High Enough](https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Every Where Is Some Where](https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr) | 3:51 |
 
-Snapshot ID: `MCwwMDAwMDAwMDcwMzMwNGEwNDEzMjEzODFhNTgxYWI2YjUzODY4ODhi`
+Snapshot ID: `MCwwMDAwMDAwMDk2ZGZiOTIzNDg1NTJlNTViYWVhMzZlZDJiZDRkZmE5`

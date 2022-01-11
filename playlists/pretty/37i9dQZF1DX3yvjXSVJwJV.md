@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yvjXSVJwJV.md) - [plain]
 
 > Can't hide our love for the <a href="spotify:artist:4QQgXkCYTt3BlENzhyNETg">funk\-soul outfit</a>\. Hear all their pivotal tracks now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,707 likes - 24 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,762 likes - 24 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yvjXSVJwJV.md) - [plain]
 | 23 | [System of Survival](https://open.spotify.com/track/0PWpenS4tZEHeOlS5Rt67L) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Touch The World](https://open.spotify.com/album/1num92a5GVrzsjg9mcALXO) | 5:00 |
 | 24 | [Show Me The Way](https://open.spotify.com/track/2zgtfQFcayCqRXOYPXp33D) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [Illumination](https://open.spotify.com/album/3h8pxPJ3RIremB9B1oiLwM) | 7:47 |
 
-Snapshot ID: `MTU5OTE1Mzk3OSwwMDAwMDAwYjAwMDAwMTc0NTUwMTQwNjgwMDAwMDE2ZDE1NDdlNjgy`
+Snapshot ID: `MTY0MTg2MDIzMCwwMDAwMDAwZDAwMDAwMTdlNDY3ZWVkMTQwMDAwMDE2ZDE1NDdlNjgy`

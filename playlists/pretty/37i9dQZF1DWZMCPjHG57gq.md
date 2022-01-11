@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMCPjHG57gq.md) - [plain]
 
 > Hear all the best songs by the monumental <a href="spotify:artist:3dkbV4qihUeMsqN4vBGg93">soul singer</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,695 likes - 26 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,735 likes - 26 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMCPjHG57gq.md) - [plain]
 | 25 | [So You're Leaving](https://open.spotify.com/track/1UvPQPEyVZdNCeCEGGuTzd) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi) | 2:55 |
 | 26 | [You've Got A Friend](https://open.spotify.com/track/0fb8yW05S7hPXrOf5Il2hR) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Testify: The Best Of The A&M Years](https://open.spotify.com/album/5Lv1rpF90q8cq8jcEmehRk) | 5:36 |
 
-Snapshot ID: `MTU2ODAxODM0MiwwMDAwMDAwZjAwMDAwMTYxZTNlYmU2OGEwMDAwMDE2ZDE1MmQyMTVm`
+Snapshot ID: `MTY0MTg1OTczNCwwMDAwMDAxMTAwMDAwMTdlNDY3NzVkODQwMDAwMDE2ZDE1MmQyMTVm`

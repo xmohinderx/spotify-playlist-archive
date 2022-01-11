@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1000 REASONS](https://open.spotify.com/track/3KHoQ9Cty04ZcRTlQM1YVF) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [1000 REASONS](https://open.spotify.com/album/0tTfIrm3XUuUt7YshqNALo) | 3:38 | 2021-12-16 |  |
+| [1000 REASONS](https://open.spotify.com/track/3KHoQ9Cty04ZcRTlQM1YVF) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [1000 REASONS](https://open.spotify.com/album/0tTfIrm3XUuUt7YshqNALo) | 3:38 | 2021-12-16 | 2022-01-11 |
 | [111](https://open.spotify.com/track/3awqYya8UX0SwGL6bnuLdL) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Red Farrow](https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [111](https://open.spotify.com/album/2hntq8BeyRXcd87uEmxaqD) | 3:50 | 2021-12-16 |  |
 | [2 Faced](https://open.spotify.com/track/6rj686UWAoxLaJuGznEUpP) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [2 Faced](https://open.spotify.com/album/3ZKdHHXi35uUwr7wrUjQXc) | 2:58 | 2021-12-16 |  |
 | [Amazing](https://open.spotify.com/track/79jaXPnfIMOQj5Qj6j8D1p) | [EZOW](https://open.spotify.com/artist/1N5zqw72Cj2hnUD3MbZ6Cr), [IQ](https://open.spotify.com/artist/5TblKpRNNIvsQoYPAQDVoB) | [Amazing](https://open.spotify.com/album/1F7f8nnfVVFTcEZbV4XRYJ) | 3:17 | 2021-12-16 |  |
@@ -69,6 +69,7 @@
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 |  |
 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 |  |
 | [Mirror A Dream](https://open.spotify.com/track/1dggnsaeC1YvX8njTczWPc) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [Bedside](https://open.spotify.com/album/70NtCjv3g5kGSDohd1rqJC) | 3:27 | 2021-12-16 |  |
+| [MOONTALK](https://open.spotify.com/track/5NPFaYopu3sV98Rx1LmkKu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI) | [MOONTALK](https://open.spotify.com/album/7rLRs1lMhJfYUJsdPPYwuu) | 3:29 | 2022-01-10 |  |
 | [Move Slow](https://open.spotify.com/track/5IQoMOmJ8sfNi4Fjw9WRKF) | [Isadora](https://open.spotify.com/artist/61Br6Weriwjaa2MMeIVx9v) | [Move Slow](https://open.spotify.com/album/55BafVNwGsmsXHnWn5EEsP) | 2:54 | 2021-12-16 |  |
 | [Nobody](https://open.spotify.com/track/6XjENN2LsFNLOsAOpDv7ze) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Nobody](https://open.spotify.com/album/0hEo7Gh3anOoce9xCMLDNn) | 3:27 | 2021-12-16 |  |
 | [Now or Never](https://open.spotify.com/track/08R90Edtb2dNC0CN60vQSe) | [Lea Makhoul](https://open.spotify.com/artist/6YpQu3OBXeC8XE4HQ77bVG), [Skyral](https://open.spotify.com/artist/1xVVcdJpBS4LjdYZRTdZx3) | [Now or Never](https://open.spotify.com/album/6VMxOr3e73NvXTbWbznvAu) | 3:12 | 2021-12-16 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BSwupE5hR7.md) - [plain]
 
 > Depeche Mode, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,774 likes - 51 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,912 likes - 51 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3BSwupE5hR7.md) - [plain]
 | 50 | [I Feel Loved](https://open.spotify.com/track/2ZXp4sf9j6MSXqUnkANb8l) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Exciter \(Deluxe\)](https://open.spotify.com/album/3mHVSPCgGuVlK3pDqbtso9) | 4:20 |
 | 51 | [Sweetest Perfection \- 2006 Remaster](https://open.spotify.com/track/2YGFDRqaOnejsnTkKe4VKE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:42 |
 
-Snapshot ID: `MTU4MTk1OTcwNSwwMDAwMDAxNTAwMDAwMTcwNTQyNTc1ODkwMDAwMDE2ZDAwYmRiODg1`
+Snapshot ID: `MTY0MTg2MDE4NywwMDAwMDAxNzAwMDAwMTdlNDY3ZTQ0ODUwMDAwMDE2ZDAwYmRiODg1`

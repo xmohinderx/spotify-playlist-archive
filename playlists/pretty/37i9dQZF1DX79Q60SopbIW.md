@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Q60SopbIW.md) - [plain]
 
 > Get deep into The Flaming Lips with this career\-spanning playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,060 likes - 49 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,065 likes - 49 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Q60SopbIW.md) - [plain]
 | 48 | [Riding to Work in the Year 2025 \(Your Invisible Now\) \- Disc 1 Version](https://open.spotify.com/track/5XpasyKpvsoHBgaqGkGq38) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Race for the Prize](https://open.spotify.com/album/6yP9i38JmMx9yP8mUOEb4y) | 7:02 |
 | 49 | [Drive](https://open.spotify.com/track/6ViV4Gt8n3G1g22lnsX3Gu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Hollywood Forever Cemetery Sing / Drive](https://open.spotify.com/album/2BQDQh6K8KLMls0eOUeE7u) | 4:23 |
 
-Snapshot ID: `MTU2ODAxODYyNywwMDAwMDAwNzAwMDAwMTY0ODBjOWY2YjkwMDAwMDE2ZDE1MzE3YjMw`
+Snapshot ID: `MTY0MTg2MTY3MSwwMDAwMDAwOTAwMDAwMTdlNDY5NGVjMzQwMDAwMDE2ZDE1MzE3YjMw`

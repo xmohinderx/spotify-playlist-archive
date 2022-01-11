@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95gx8SY6DLX.md) - [plain]
 
 > All of their essential songs, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 525,147 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,213 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95gx8SY6DLX.md) - [plain]
 | 49 | [Runnin' Blue](https://open.spotify.com/track/1FqmRC0JrT7WDEBVgSqUXJ) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Complete Studio Albums](https://open.spotify.com/album/0I4qWmnLr665zzPdIhRIB5) | 2:27 |
 | 50 | [An American Prayer](https://open.spotify.com/track/2VDkE9sdVpQAgEqH5fvTMV) | [Jim Morrison](https://open.spotify.com/artist/1QB4oo4JbSRdxNyidIuD0W), [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [An American Prayer](https://open.spotify.com/album/7qj6lZyChZxDGAqzTArHHQ) | 3:04 |
 
-Snapshot ID: `MTU4Njc3OTcwMCwwMDAwMDAwZTAwMDAwMTcxNzM3MGJlNTYwMDAwMDE2ZDE1MWM3YjIz`
+Snapshot ID: `MTY0MTg2MTY2MiwwMDAwMDAxMDAwMDAwMTdlNDY5NGM1YmYwMDAwMDE2ZDE1MWM3YjIz`

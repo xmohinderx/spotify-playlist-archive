@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUeB7HjgUL.md) - [plain]
 
 > The essential Arcade Fire featuring their new album "Everything Now".
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,873 likes - 30 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,906 likes - 30 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUeB7HjgUL.md) - [plain]
 | 29 | [We Exist](https://open.spotify.com/track/3hDpkvXDbmcrKya8CUS6lN) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Reflektor](https://open.spotify.com/album/4E0m7AIVc2d2QZMrMNXdMZ) | 5:43 |
 | 30 | [My Body Is A Cage](https://open.spotify.com/track/66z0olTFJXbrBvbrsOGEsu) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Neon Bible](https://open.spotify.com/album/7rncXz7PjaXTxyUfIcLaMT) | 4:47 |
 
-Snapshot ID: `MTU2ODAxODQ0MSwwMDAwMDAxMTAwMDAwMTYyNDljY2RiNTQwMDAwMDE2ZDE1MmVhNmFj`
+Snapshot ID: `MTY0MTg1OTgwNywwMDAwMDAxMzAwMDAwMTdlNDY3ODc5NzkwMDAwMDE2ZDE1MmVhNmFj`

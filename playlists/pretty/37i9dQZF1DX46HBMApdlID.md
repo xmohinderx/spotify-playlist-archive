@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46HBMApdlID.md) - [plain]
 
 > The essential originals and remixes from Alex & Drew.
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,654 likes - 48 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,684 likes - 48 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX46HBMApdlID.md) - [plain]
 | 47 | [Good Intentions \(feat\. BullySongs\)](https://open.spotify.com/track/0UJ6g9ok6yDphPqJvY1YRo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:27 |
 | 48 | [The Rookie](https://open.spotify.com/track/7D7tu1NS4f9jvDkb5xcUSj) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [The Rookie](https://open.spotify.com/album/1ErJ765G82jWZc2ZvB3BaC) | 4:22 |
 
-Snapshot ID: `MTU3NTY0Mzc1OSwwMDAwMDAzNjAwMDAwMTZlZGJhZmMzZDQwMDAwMDE2ZDE1MThlZWNh`
+Snapshot ID: `MTY0MTg2MTY1MiwwMDAwMDAzODAwMDAwMTdlNDY5NDlmOWQwMDAwMDE2ZDE1MThlZWNh`

@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg\">Zakes Bantwini</a>",
   "name": "mint South Africa",
-  "num_followers": 46516,
+  "num_followers": 46541,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwNjM0MCwwMDAwMDMyYjAwMDAwMTdlMzE2NmZjZmYwMDAwMDE3ZDdiZDdjMWY0",
+  "snapshot_id": "MTY0MTgyNDg3NywwMDAwMDMyYzAwMDAwMTdlNDQ2MzdjNmEwMDAwMDE3ZDdiZDdjMWY0",
   "tracks": [
     {
       "added_at": "2022-01-06 21:59:00",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
+      "added_at": "2022-01-10 14:27:57",
+      "album": {
+        "name": "Afro Brotherz (Gezi Man)",
+        "url": "https://open.spotify.com/album/2wS3siHKB3T2C1jE6AxIf5"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        }
+      ],
+      "duration_ms": 375048,
+      "name": "Afro Brotherz (Gezi Man)",
+      "url": "https://open.spotify.com/track/6F3wFKPhuTKYBsR4UOh8NW"
+    },
+    {
       "added_at": "2021-10-28 21:59:00",
       "album": {
         "name": "African Electronic Dance Music",
@@ -865,28 +881,24 @@
       "url": "https://open.spotify.com/track/6qMV3JtBkDK0hCcHpcUCf2"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
+      "added_at": "2022-01-10 14:27:57",
       "album": {
-        "name": "Broken Melodies",
-        "url": "https://open.spotify.com/album/4gVwXsnw078UWLv9n8KmJ8"
+        "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
+        "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
       },
       "artists": [
         {
-          "name": "Jabzz Dimitri",
-          "url": "https://open.spotify.com/artist/4Eo18qlyb76spnDFlSc78c"
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
         },
         {
-          "name": "Leo Guardo",
-          "url": "https://open.spotify.com/artist/2TpIgakorrUFzS3pOUgCzD"
-        },
-        {
-          "name": "Priscilla",
-          "url": "https://open.spotify.com/artist/03KtpYZ5GKaLokhnDZfcHO"
+          "name": "Mr.Joz",
+          "url": "https://open.spotify.com/artist/0VEeBfURySOzmpWKCdFGtU"
         }
       ],
-      "duration_ms": 231982,
-      "name": "Broken Melodies - Radio Edit",
-      "url": "https://open.spotify.com/track/5z6Ix0BSqfpd9WJzNxbMDW"
+      "duration_ms": 410847,
+      "name": "Horn of Africa",
+      "url": "https://open.spotify.com/track/43Ix0CzBrJrcx7XXj68O74"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -1057,42 +1069,6 @@
       "url": "https://open.spotify.com/track/6ZmAyjPb2R318kKMdSm2yy"
     },
     {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "The God's Have Spoken",
-        "url": "https://open.spotify.com/album/50OlABz32NmPkOtcm0RyQ6"
-      },
-      "artists": [
-        {
-          "name": "Tar Ntsei",
-          "url": "https://open.spotify.com/artist/4H5fsTvkLrm6GwbOTZMNyc"
-        }
-      ],
-      "duration_ms": 320783,
-      "name": "God's Have Spoken - Radical Touch",
-      "url": "https://open.spotify.com/track/7bcLzQ81KBAwKXmMCNAufA"
-    },
-    {
-      "added_at": "2021-11-25 21:59:00",
-      "album": {
-        "name": "The Lands, Pt. 2",
-        "url": "https://open.spotify.com/album/0k1iai1zN0id193FscCo70"
-      },
-      "artists": [
-        {
-          "name": "Afro Brotherz",
-          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
-        },
-        {
-          "name": "Lucky keyz",
-          "url": "https://open.spotify.com/artist/7xB7L7GRz2b8Ee60VdCVNq"
-        }
-      ],
-      "duration_ms": 399098,
-      "name": "Mohamed Day 2021",
-      "url": "https://open.spotify.com/track/0UWbZFQ0gUSbwsjU0axEys"
-    },
-    {
       "added_at": "2021-12-09 21:59:00",
       "album": {
         "name": "Ingonyama",
@@ -1139,6 +1115,22 @@
       "duration_ms": 217382,
       "name": "I.C.U - Radio Edit",
       "url": "https://open.spotify.com/track/2J7sU8z8wlrWWsjm2WE8k7"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
+        "name": "The God's Have Spoken",
+        "url": "https://open.spotify.com/album/50OlABz32NmPkOtcm0RyQ6"
+      },
+      "artists": [
+        {
+          "name": "Tar Ntsei",
+          "url": "https://open.spotify.com/artist/4H5fsTvkLrm6GwbOTZMNyc"
+        }
+      ],
+      "duration_ms": 320783,
+      "name": "God's Have Spoken - Radical Touch",
+      "url": "https://open.spotify.com/track/7bcLzQ81KBAwKXmMCNAufA"
     },
     {
       "added_at": "2021-12-29 15:21:38",
@@ -1321,28 +1313,20 @@
       "url": "https://open.spotify.com/track/4XfAXQ37FZqOcXYuFpLkJn"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
+      "added_at": "2022-01-10 14:27:57",
       "album": {
-        "name": "The Third",
-        "url": "https://open.spotify.com/album/3zvun5QyXRLt5N2iteMnIM"
+        "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
+        "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
       },
       "artists": [
         {
-          "name": "China Charmeleon",
-          "url": "https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ"
-        },
-        {
-          "name": "El Payo",
-          "url": "https://open.spotify.com/artist/4Exebvi8UCoxfdApC9vVKU"
-        },
-        {
-          "name": "Dindy",
-          "url": "https://open.spotify.com/artist/2DsSparloHxaLebaT40KER"
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
         }
       ],
-      "duration_ms": 306270,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5Qi2sURem58AvCPGOsRADn"
+      "duration_ms": 499770,
+      "name": "Zebula",
+      "url": "https://open.spotify.com/track/2B1T1vPOYmO75WNGoqdke5"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 392067,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS"
+    },
+    {
+      "added_at": "2022-01-10 14:27:57",
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
+        "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
+      },
+      "artists": [
+        {
+          "name": "Suka",
+          "url": "https://open.spotify.com/artist/79qZepk55iUAx80VFlG8EJ"
+        }
+      ],
+      "duration_ms": 402494,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/1H77Pvcnlk1KzJKzbX0geM"
     },
     {
       "added_at": "2021-11-11 21:59:00",
@@ -1525,6 +1525,30 @@
       "url": "https://open.spotify.com/track/2sJUzx4utOjz2tPFtZ18yt"
     },
     {
+      "added_at": "2022-01-10 14:27:57",
+      "album": {
+        "name": "The Adrenaline EP",
+        "url": "https://open.spotify.com/album/6vKmE2KUOON1HmcBSDQptv"
+      },
+      "artists": [
+        {
+          "name": "DJ IC",
+          "url": "https://open.spotify.com/artist/1zBcHGyliScTwOQlFIc7Xk"
+        },
+        {
+          "name": "Dj Jim Mastershine",
+          "url": "https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u"
+        },
+        {
+          "name": "G Boy SA",
+          "url": "https://open.spotify.com/artist/4iKJOyceuUxs79uRJmjn7u"
+        }
+      ],
+      "duration_ms": 344737,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5sq9AVT10zwS3qeosRUtLK"
+    },
+    {
       "added_at": "2021-11-18 21:59:00",
       "album": {
         "name": "When House Was House",
@@ -1549,64 +1573,20 @@
       "url": "https://open.spotify.com/track/4VJTcyQ46B0qSX6oF2IFLW"
     },
     {
-      "added_at": "2021-11-18 21:59:00",
+      "added_at": "2022-01-10 14:27:57",
       "album": {
-        "name": "Redemption",
-        "url": "https://open.spotify.com/album/5utmLdyucpUMcJtUJ8WGNO"
+        "name": "Far We Go EP",
+        "url": "https://open.spotify.com/album/7cIb6ImdX8dLMb1QqY54Tc"
       },
       "artists": [
         {
-          "name": "AWEN",
-          "url": "https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl"
-        },
-        {
-          "name": "Enoo Napa",
-          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+          "name": "Dj PaPPa",
+          "url": "https://open.spotify.com/artist/6WUG0SNEaHMpdSMjaaSpwW"
         }
       ],
-      "duration_ms": 453766,
-      "name": "Redemption",
-      "url": "https://open.spotify.com/track/1N2q5BW9USnkKs5oDD8DiF"
-    },
-    {
-      "added_at": "2021-11-25 21:59:00",
-      "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/5XLgEZ15S3MLWsebU6WMQm"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Euphonik",
-          "url": "https://open.spotify.com/artist/0UdSjb6EeZYK8LGxHcgkkP"
-        },
-        {
-          "name": "Denitia",
-          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
-        }
-      ],
-      "duration_ms": 197447,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/5ReKjq82vp8mqnY4eZFYg8"
-    },
-    {
-      "added_at": "2021-11-18 21:59:00",
-      "album": {
-        "name": "Olere",
-        "url": "https://open.spotify.com/album/6MeRc1VizJ8BzzF4aoEOMC"
-      },
-      "artists": [
-        {
-          "name": "Dr Feel",
-          "url": "https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq"
-        }
-      ],
-      "duration_ms": 434128,
-      "name": "Olere",
-      "url": "https://open.spotify.com/track/7hIg7T2tpQMhy7VWCOU3eX"
+      "duration_ms": 414490,
+      "name": "Gordon Road - Original Mix",
+      "url": "https://open.spotify.com/track/6Sjk27IqeYBBPVkNMKWmDa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY"

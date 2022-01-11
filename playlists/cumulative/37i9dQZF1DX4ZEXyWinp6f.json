@@ -27,7 +27,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 454774,
       "name": "(flake)",
       "url": "https://open.spotify.com/track/2SyJFcJ3sPOzUxL8Ci8YEI"
@@ -45,7 +45,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 524020,
       "name": "-- \u30fb -\u30fb\u30fb \u30fb \u30fb-\u30fb\u30fb \u30fb-",
       "url": "https://open.spotify.com/track/4akqPnWyCOWL0QNxQsXsNk"
@@ -142,6 +142,24 @@
     },
     {
       "album": {
+        "name": "The Loss of Wilderness",
+        "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
+      },
+      "artists": [
+        {
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391237,
+      "name": "A Possible Tomorrow",
+      "url": "https://open.spotify.com/track/0Wg1ezw01TCSpgOcv7fzKP"
+    },
+    {
+      "album": {
         "name": "Earth's Answer",
         "url": "https://open.spotify.com/album/5QYUZ04RI4hNsnvUu21apI"
       },
@@ -207,7 +225,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 300000,
       "name": "Argon",
       "url": "https://open.spotify.com/track/5l4LtxYMrEwPeqELZ8KeKc"
@@ -243,7 +261,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 287826,
       "name": "Avanti",
       "url": "https://open.spotify.com/track/5b6Na8oqRxzzACWuS3LsMo"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 229773,
       "name": "Bright Curse - Edit",
       "url": "https://open.spotify.com/track/0kVNpc8MOTj8ZPFKePVfm5"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 354000,
       "name": "Calypso",
       "url": "https://open.spotify.com/track/16P1sZQR8E3Fd6yvHJLYXs"
@@ -503,7 +521,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 299413,
       "name": "Canone Infinito",
       "url": "https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR"
@@ -543,7 +561,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 476689,
       "name": "CHIAROSCURO",
       "url": "https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 293200,
       "name": "CREEK",
       "url": "https://open.spotify.com/track/6UYWctsd0e6g2m9JvXzErv"
@@ -813,7 +831,7 @@
       ],
       "date_added": "2020-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 349666,
       "name": "Deep Distance",
       "url": "https://open.spotify.com/track/2cRQA17KKBy0pklGxGZ699"
@@ -885,7 +903,7 @@
       ],
       "date_added": "2021-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 393066,
       "name": "Detroit Snackbar Dreamer",
       "url": "https://open.spotify.com/track/7tNeVOpu0hYTJKNxWKbFq7"
@@ -1051,7 +1069,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 551066,
       "name": "Escape Pod",
       "url": "https://open.spotify.com/track/2u5SDqMeGdaij0DT5nGrz5"
@@ -1145,7 +1163,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 242285,
       "name": "Far out",
       "url": "https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2021-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 250426,
       "name": "For Whom the Bell Tolls",
       "url": "https://open.spotify.com/track/6fO9mQPYKWZmhgvoMnZcLE"
@@ -1391,7 +1409,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 207656,
       "name": "God's Country",
       "url": "https://open.spotify.com/track/7pa7G9qszdLfdkrFIdhgIw"
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 464043,
       "name": "Hum",
       "url": "https://open.spotify.com/track/1EoNcqSjklMV54lit84QJJ"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 197614,
       "name": "Ichneumonidae",
       "url": "https://open.spotify.com/track/1ZMD7KBROBCUtym3Tmn1PY"
@@ -1735,7 +1753,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 342395,
       "name": "Iniziare",
       "url": "https://open.spotify.com/track/6539RqDlPkwIPXrsmi4u1D"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 187190,
       "name": "Kagen Sound",
       "url": "https://open.spotify.com/track/65CcRPKQEQcT3bGHNfk2v9"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 356666,
       "name": "Kreuzung",
       "url": "https://open.spotify.com/track/7zJe81f6l3pHwpUGSQj3HY"
@@ -1995,7 +2013,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 221322,
       "name": "Let Me See",
       "url": "https://open.spotify.com/track/5c8A84d753jlBaLnsVnYR5"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 241866,
       "name": "Liptones",
       "url": "https://open.spotify.com/track/2cxH8WTPErfw2OWnzYmIu1"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
@@ -2263,7 +2281,7 @@
       ],
       "date_added": "2021-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
@@ -2371,7 +2389,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 78125,
       "name": "May 25th",
       "url": "https://open.spotify.com/track/7noEjW0QVPo6kcxvCDT241"
@@ -2447,7 +2465,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 339954,
       "name": "Mono No Aware 1.1",
       "url": "https://open.spotify.com/track/2Sd2YWMCCJUrYHRDlioiXO"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 91706,
       "name": "Olson",
       "url": "https://open.spotify.com/track/0aPrTlWUf2nmDkC9gcP5kZ"
@@ -2833,7 +2851,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 1059351,
       "name": "Phaedra - Remastered 2018",
       "url": "https://open.spotify.com/track/6Qx7IRv8VmRTppmnks6fDm"
@@ -2869,7 +2887,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 148146,
       "name": "Pluto's First Popstar (Outro)",
       "url": "https://open.spotify.com/track/5MeaFcLEcsSkcud6tQ2q9L"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 576000,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1m4VTEIOiIMEeidzm9z4Zt"
@@ -2963,7 +2981,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 264866,
       "name": "Prophecy Theme - From \"Dune\"",
       "url": "https://open.spotify.com/track/5NRcywSHie5or0S5lSuYFH"
@@ -3421,7 +3439,7 @@
       ],
       "date_added": "2021-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 737040,
       "name": "Spangle - Autechre Remix",
       "url": "https://open.spotify.com/track/0rHnnaxK2XcY4HSkSnQmOF"
@@ -3565,7 +3583,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 168026,
       "name": "Teufelsberg",
       "url": "https://open.spotify.com/track/6WQOeaJBUTXNAMmeTxYvZ9"
@@ -3637,7 +3655,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 304026,
       "name": "The First Wave - Birth Of Venus",
       "url": "https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk"
@@ -3731,7 +3749,7 @@
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 311493,
       "name": "The Spine Is Quiet In The Center",
       "url": "https://open.spotify.com/track/2J2ZwrTby2o3QeVNSBv1l8"
@@ -3771,7 +3789,7 @@
       ],
       "date_added": "2020-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 251847,
       "name": "Theme Number Five",
       "url": "https://open.spotify.com/track/6UvnVbZrhTOYdNCvh7VbsW"
@@ -3973,7 +3991,7 @@
       ],
       "date_added": "2021-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 232564,
       "name": "Two Heads in a Frame Looking at Something Beautiful",
       "url": "https://open.spotify.com/track/6D4oXT9CNYfzdCZg8mYUZf"
@@ -4045,7 +4063,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 227626,
       "name": "Utopian Facade",
       "url": "https://open.spotify.com/track/2v6NosEeFeXZxeW5GF3yHH"
@@ -4081,7 +4099,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 1045533,
       "name": "Veteranissimo - Live",
       "url": "https://open.spotify.com/track/7DpYj9ZxQ9FTRhDdN18e2E"
@@ -4247,7 +4265,7 @@
       ],
       "date_added": "2021-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 132834,
       "name": "Yesterday's Entertainment",
       "url": "https://open.spotify.com/track/0C2aF4G83wcMUuxE7nuMC9"
@@ -4265,7 +4283,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 219093,
       "name": "\u706f",
       "url": "https://open.spotify.com/track/29839YUB0VApXoRhyGw4X0"

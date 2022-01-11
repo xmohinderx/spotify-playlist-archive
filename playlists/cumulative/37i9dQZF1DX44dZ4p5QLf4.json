@@ -2278,6 +2278,28 @@
     },
     {
       "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1QuizmDDKmJctBcHL931aG"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234386,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/3pSL8LoyWexY7vgq84baOA"
+    },
+    {
+      "album": {
         "name": "That Secret Sauce",
         "url": "https://open.spotify.com/album/3FnQBFrLpBTl0LwIhdAEUZ"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Fit For An Autopsy\n",
   "name": "New Metal Tracks",
-  "num_followers": 563832,
+  "num_followers": 563989,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUxMzY2MCwwMDAwMDRkNTAwMDAwMTdlMzFkNmFlYzAwMDAwMDE3ZTJhNjJhMzY4",
+  "snapshot_id": "MTY0MTgwMDY0MiwwMDAwMDRkNjAwMDAwMTdlNDJmMWFlODMwMDAwMDE3ZTJhNjJhMzY4",
   "tracks": [
     {
       "added_at": "2022-01-07 00:01:00",
@@ -43,6 +43,42 @@
     {
       "added_at": "2022-01-07 00:01:00",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB"
+      },
+      "artists": [
+        {
+          "name": "Breathe Atlantis",
+          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
+        },
+        {
+          "name": "Nico Sallach",
+          "url": "https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT"
+    },
+    {
+      "added_at": "2022-01-07 00:01:00",
+      "album": {
+        "name": "Let the Devil In",
+        "url": "https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B"
+      },
+      "artists": [
+        {
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
+        }
+      ],
+      "duration_ms": 280334,
+      "name": "Let the Devil In",
+      "url": "https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6"
+    },
+    {
+      "added_at": "2022-01-07 00:01:00",
+      "album": {
         "name": "Soldier Of Heaven",
         "url": "https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C"
       },
@@ -71,42 +107,6 @@
       "duration_ms": 236326,
       "name": "Where Angels Fear to Fly",
       "url": "https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I"
-    },
-    {
-      "added_at": "2022-01-07 00:01:00",
-      "album": {
-        "name": "Let the Devil In",
-        "url": "https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B"
-      },
-      "artists": [
-        {
-          "name": "Dark Funeral",
-          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
-        }
-      ],
-      "duration_ms": 280334,
-      "name": "Let the Devil In",
-      "url": "https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6"
-    },
-    {
-      "added_at": "2022-01-07 00:01:00",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB"
-      },
-      "artists": [
-        {
-          "name": "Breathe Atlantis",
-          "url": "https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN"
-        },
-        {
-          "name": "Nico Sallach",
-          "url": "https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT"
     },
     {
       "added_at": "2022-01-07 00:01:00",

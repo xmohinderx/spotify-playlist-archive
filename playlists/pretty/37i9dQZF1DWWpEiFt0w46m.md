@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpEiFt0w46m.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,263 likes - 40 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,265 likes - 40 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpEiFt0w46m.md) - [plain]
 | 39 | [Drops In The River](https://open.spotify.com/track/1R5Y01vTKH96Y7XMmmcF9q) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Sun Giant](https://open.spotify.com/album/2CBfjDdstyhyfOaNqLPOwg) | 4:13 |
 | 40 | [Sun It Rises](https://open.spotify.com/track/7ejNRmaEYpXVbdWEulQbb4) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 3:11 |
 
-Snapshot ID: `MTYwMDg4OTIwMCwwMDAwMDAwYTAwMDAwMTc0YmM2ZTlmNWQwMDAwMDE3NGJjNjZiZjdk`
+Snapshot ID: `MTY0MTg2MDM0MCwwMDAwMDAwYzAwMDAwMTdlNDY4MDliMjgwMDAwMDE3NGJjNjZiZjdk`

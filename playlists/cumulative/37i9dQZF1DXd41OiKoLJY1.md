@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXd41OiKoLJY1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXd41OiKoLJY1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXd41OiKoLJY1)
 
-### Fresh Finds Philippines
+### [Fresh Finds Philippines](https://open.spotify.com/playlist/19D7ttJ9yoRDUaIqZ2rt1y)
 
 > Fresh releases from your future favorite artists\. Cover: VXON, Artwork: Isu Kim
 

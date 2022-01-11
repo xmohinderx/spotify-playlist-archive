@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX024QaIPhrkq.md) - [plain]
 
 > The essential Soundgarden, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,308 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,332 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX024QaIPhrkq.md) - [plain]
 | 49 | [Beyond The Wheel \- \[NONE\]](https://open.spotify.com/track/3PVZPFC3V35C0wHJpHuXGI) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Telephantasm \(Deluxe Edition\)](https://open.spotify.com/album/0hMEh0PFv93ziVTc9ADXwX) | 4:22 |
 | 50 | [Get On The Snake](https://open.spotify.com/track/6bUF1XOYynZ0DPcvDcXGYL) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Louder Than Love](https://open.spotify.com/album/4Q1HXCFg84PfQRZlPCA4SH) | 3:43 |
 
-Snapshot ID: `MTU3ODg2MzQ4NywwMDAwMDAxMDAwMDAwMTZmOWI5OGViMjgwMDAwMDE2ZDE1MzYyNDYy`
+Snapshot ID: `MTY0MTg2MTUzNCwwMDAwMDAxMjAwMDAwMTdlNDY5MmQzNTYwMDAwMDE2ZDE1MzYyNDYy`

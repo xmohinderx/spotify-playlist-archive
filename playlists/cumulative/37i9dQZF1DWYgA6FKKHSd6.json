@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 307493,
       "name": "All Jazzed Up (And Nowhere To Go)",
       "url": "https://open.spotify.com/track/62UvwY9URklShrC79EU8GJ"
@@ -169,7 +169,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 310480,
       "name": "Another Part of Me",
       "url": "https://open.spotify.com/track/2uroSt9vhH1KFV9g4s0MOS"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 254642,
       "name": "Around the World",
       "url": "https://open.spotify.com/track/4KgBh87uOAEKc7Qff1uL2q"
@@ -205,7 +205,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 309827,
       "name": "As the Days Go by...",
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
@@ -263,7 +263,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 294946,
       "name": "Before I Let Go",
       "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 304360,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 243146,
       "name": "Cachaca",
       "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 263083,
       "name": "Carnival Fever",
       "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
@@ -831,7 +831,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 246586,
       "name": "futuresoul",
       "url": "https://open.spotify.com/track/12Cv4QNglk8m6vLEi8NHEr"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 197489,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/4vNMy68DUVib0AtOrUNbba"
@@ -885,7 +885,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 300240,
       "name": "Givin' In",
       "url": "https://open.spotify.com/track/6VCestCaLejnlqdw8Pan9k"
@@ -1143,7 +1143,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 281920,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/3Zwphwi81qVI7ucNusDSRq"
@@ -1389,7 +1389,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 233920,
       "name": "Limitless - Radio Edit",
       "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
@@ -1407,10 +1407,28 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 271533,
       "name": "Livin' Large",
       "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
+    },
+    {
+      "album": {
+        "name": "Sophistication",
+        "url": "https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN"
+      },
+      "artists": [
+        {
+          "name": "Grady Nichols",
+          "url": "https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA"
+        }
+      ],
+      "date_added": "2021-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227920,
+      "name": "Livin' The Life",
+      "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
     },
     {
       "album": {
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 275801,
       "name": "Mr. Sexy Saxy",
       "url": "https://open.spotify.com/track/53iMwltgvGle3hdcsdrXqE"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
@@ -1775,7 +1793,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 255034,
       "name": "Room 143",
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
@@ -1905,7 +1923,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 273653,
       "name": "She's Ready",
       "url": "https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 304600,
       "name": "Side by Side",
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 285506,
       "name": "Stone Groove",
       "url": "https://open.spotify.com/track/2yrXGvn1lnySUjrniThAWS"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 260040,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5d7Ma0QYFGk5WDGAN1wXUE"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 255773,
       "name": "Tale of Two Cities",
       "url": "https://open.spotify.com/track/4VJSwqmyH1g3TSOhUC2iKS"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 185340,
       "name": "Today",
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
@@ -2495,7 +2513,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
@@ -2571,7 +2589,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 291386,
       "name": "When Will I Know For Sure",
       "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
@@ -2647,7 +2665,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 255266,
       "name": "Work Wit' It",
       "url": "https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yNDQ30MDO6.md) - [plain]
 
 > The best of Biffy Clyro, all in one place\. Mon the Biff!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,351 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,347 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yNDQ30MDO6.md) - [plain]
 | 49 | [The Champ](https://open.spotify.com/track/5uEnSz3GJbQeI1bEhvzKyb) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:37 |
 | 50 | [Questions and Answers](https://open.spotify.com/track/0hH1onXZkT4HiHeYtAN7LH) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [The Vertigo of Bliss](https://open.spotify.com/album/2pcww0Katmc63TDbyS0JB3) | 4:02 |
 
-Snapshot ID: `MTYzNDg5Njc2NSwwMDAwMDA0NzAwMDAwMTdjYTc3MGUwNzIwMDAwMDE3MGEwZDMyN2Fm`
+Snapshot ID: `MTY0MTg1OTg5NiwwMDAwMDA0OTAwMDAwMTdlNDY3OWQ0Y2UwMDAwMDE3MGEwZDMyN2Fm`

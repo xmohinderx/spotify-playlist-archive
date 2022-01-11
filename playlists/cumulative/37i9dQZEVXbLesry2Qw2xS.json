@@ -6202,6 +6202,24 @@
     },
     {
       "album": {
+        "name": "Per aspera ad astra",
+        "url": "https://open.spotify.com/album/5RI40Fpyc73OsR1QgsU2zF"
+      },
+      "artists": [
+        {
+          "name": "P\u00f5hja-Tallinn",
+          "url": "https://open.spotify.com/artist/3KI8jioJMzeN2aiJUMDbCs"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313124,
+      "name": "L\u00e4hen ja tulen - Studio version",
+      "url": "https://open.spotify.com/track/0xu7Ys3XoQMpfAOsLNcdUT"
+    },
+    {
+      "album": {
         "name": "L\u00e4mmi",
         "url": "https://open.spotify.com/album/1a1M6hOoFGIbWY5P3DrD7y"
       },
@@ -9801,7 +9819,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 148000,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
@@ -10437,7 +10455,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -11929,6 +11947,24 @@
       "duration_ms": 127562,
       "name": "\u0411\u0415\u0411\u0415\u0411\u0415",
       "url": "https://open.spotify.com/track/1BXPogWDVAYnHmTpCu4PxB"
+    },
+    {
+      "album": {
+        "name": "\u0411\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a",
+        "url": "https://open.spotify.com/album/1mJMd5Kci7qLX8Q0prF5pf"
+      },
+      "artists": [
+        {
+          "name": "Miyagi & Andy Panda",
+          "url": "https://open.spotify.com/artist/0hmUwzWBrPHpGWGrYH05c3"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246545,
+      "name": "\u0411\u0443\u0440\u0435\u0432\u0435\u0441\u0442\u043d\u0438\u043a",
+      "url": "https://open.spotify.com/track/0YMRW5mlu9bUCWeRMZfB32"
     },
     {
       "album": {

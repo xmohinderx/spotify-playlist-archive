@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaRf94BiB7fV.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaRf94BiB7fV) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaRf94BiB7fV)
 
-### Fresh Finds India: Best of 2021
+### [Fresh Finds India: Best of 2021](https://open.spotify.com/playlist/0pw6MKQTLhGql0e0L7ispN)
 
 > The top 100 tracks from Fresh Finds India in 2021\. Cover: Rachel Singh
 

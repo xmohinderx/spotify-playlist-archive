@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 261475,
       "name": "Buzz",
       "url": "https://open.spotify.com/track/55pp6iI1wvxZL93k25vzXn"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/41ME5dAx2Qe1pfZ0ypuCBu"
@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 265160,
       "name": "Distant Axis",
       "url": "https://open.spotify.com/track/4ysVx7wS2J8dvk77ON8jVI"
@@ -577,7 +577,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 258026,
       "name": "Dream Free (feat. Hannah Cohen)",
       "url": "https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 219013,
       "name": "Funny Girl",
       "url": "https://open.spotify.com/track/2orOji9Xa4xhCWUtSAZrFT"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 216026,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/6ZVVax9sMTB6HPKu36eYZs"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 200946,
       "name": "It Ain\u2019t Easy",
       "url": "https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7"
@@ -1369,7 +1369,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 263754,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/2TJDEIb71icDq3v0LXEGib"
@@ -1387,7 +1387,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 195600,
       "name": "Lilacs",
       "url": "https://open.spotify.com/track/5MDUdi9T4Ee4Kv33SbewC3"
@@ -1567,7 +1567,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Mighty Soul",
       "url": "https://open.spotify.com/track/2wzoFtHi2oX6FXr9EtBizB"
@@ -1603,7 +1603,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
@@ -1922,6 +1922,24 @@
     },
     {
       "album": {
+        "name": "Rabbit",
+        "url": "https://open.spotify.com/album/71QWas4sh6Cy8MC6mG6oUq"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207248,
+      "name": "Rabbit",
+      "url": "https://open.spotify.com/track/0PGUj15oPPa7jlLIUnFAod"
+    },
+    {
+      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
@@ -2223,7 +2241,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 223160,
       "name": "Stolen Love",
       "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
@@ -2483,7 +2501,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 186838,
       "name": "Tupperware",
       "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"

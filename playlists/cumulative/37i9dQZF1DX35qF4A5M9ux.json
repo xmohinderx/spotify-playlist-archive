@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-09",
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
   "name": "Salsa de Oro",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6Q7TpOrWNfwV0Hlu2l7meq"
+  ],
   "tracks": [
     {
       "album": {
@@ -17,7 +19,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 255213,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/0mQRgVdhDiEsFVjJdTQBat"
@@ -71,7 +73,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 304333,
       "name": "Api\u00e1date de Mi",
       "url": "https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e"
@@ -143,7 +145,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 321706,
       "name": "Caricias Prohibidas",
       "url": "https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ"
@@ -165,6 +167,24 @@
       "duration_ms": 320466,
       "name": "Casi Te Envidio",
       "url": "https://open.spotify.com/track/58unXNsISeHfI2jdqm9nb9"
+    },
+    {
+      "album": {
+        "name": "No Me Olvidaras",
+        "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224440,
+      "name": "Casi un Hechizo",
+      "url": "https://open.spotify.com/track/1ZYxQo0ZDNjye7ygHWJHle"
     },
     {
       "album": {
@@ -251,7 +271,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 230186,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy"
@@ -312,6 +332,42 @@
     },
     {
       "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278871,
+      "name": "Detalles",
+      "url": "https://open.spotify.com/track/4ZWksPVZdma0A5GiSCStIK"
+    },
+    {
+      "album": {
+        "name": "Willie Colon - Greatest Hits",
+        "url": "https://open.spotify.com/album/1ElTJXwWHV2bylfc972bjZ"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414706,
+      "name": "El Gran Varon",
+      "url": "https://open.spotify.com/track/27n9VDbbjFnEJsgjYTnwTM"
+    },
+    {
+      "album": {
         "name": "Top Secrets",
         "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
       },
@@ -327,6 +383,24 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
+    },
+    {
+      "album": {
+        "name": "Los Anos Dorados",
+        "url": "https://open.spotify.com/album/2bjw0GIfkBPBDHjOF8n8wh"
+      },
+      "artists": [
+        {
+          "name": "Alex Bueno y Su Orquesta",
+          "url": "https://open.spotify.com/artist/7gOR79mmPL4F3MT1rxATVn"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330960,
+      "name": "El Jardin Prohibido",
+      "url": "https://open.spotify.com/track/1YjAt7R7nD1galaCxYAlGC"
     },
     {
       "album": {
@@ -431,10 +505,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/6JB01yiDfrkIeccoiVWb8G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204120,
+      "name": "Gotas de Lluvia - Radio Version",
+      "url": "https://open.spotify.com/track/7pRLNYcWVkndT5tz3eFjuK"
     },
     {
       "album": {
@@ -467,7 +559,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 337173,
       "name": "Hazme Olvidarla",
       "url": "https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK"
@@ -557,7 +649,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 296920,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
@@ -575,7 +667,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 287626,
       "name": "Maria Teresa y Danilo",
       "url": "https://open.spotify.com/track/5D1P4P7IxymGprWdbaq8N4"
@@ -600,6 +692,24 @@
     },
     {
       "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283200,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
+    },
+    {
+      "album": {
         "name": "Pura Salsa",
         "url": "https://open.spotify.com/album/4SujA5rkKMrIX6VNNuHCPT"
       },
@@ -611,7 +721,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 283733,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/6RCHqUodOWBkMBPiKYzJhP"
@@ -683,7 +793,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 283272,
       "name": "Persona Ideal",
       "url": "https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW"
@@ -777,7 +887,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 298346,
       "name": "Qu\u00e9 Hay de Malo",
       "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
@@ -838,6 +948,24 @@
     },
     {
       "album": {
+        "name": "En Tiempo de Amor",
+        "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
+      },
+      "artists": [
+        {
+          "name": "Maelo Ruiz",
+          "url": "https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290613,
+      "name": "Si Volveras a M\u00ed",
+      "url": "https://open.spotify.com/track/1PSD7RIsoOGQPgzmV7B2f6"
+    },
+    {
+      "album": {
         "name": "7 Exitos",
         "url": "https://open.spotify.com/album/03uXL5xUnM58mYxtq077r9"
       },
@@ -849,7 +977,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 194472,
       "name": "Sin Esencia",
       "url": "https://open.spotify.com/track/4UI57hmBDGt4mnTzMRsTZr"
@@ -910,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Travesia",
+        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw"
+    },
+    {
+      "album": {
         "name": "La Sabrosura Salsa",
         "url": "https://open.spotify.com/album/3gclDdpd6tqWide104VRuz"
       },
@@ -925,6 +1071,24 @@
       "duration_ms": 284666,
       "name": "Tu Amigo o Tu Amante",
       "url": "https://open.spotify.com/track/3XCqINkynQfUcB75MrihyK"
+    },
+    {
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "album": {
@@ -957,7 +1121,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 303306,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
@@ -1000,6 +1164,24 @@
     },
     {
       "album": {
+        "name": "Viceversa",
+        "url": "https://open.spotify.com/album/6PWySeDAcKZihnTJBlf8hX"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273880,
+      "name": "Un Mont\u00f3n de Estrellas",
+      "url": "https://open.spotify.com/track/2Xg030uYjEA9FNiSKbD3R8"
+    },
+    {
+      "album": {
         "name": "Guajiro Natural",
         "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
       },
@@ -1029,10 +1211,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 316106,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ"
+    },
+    {
+      "album": {
+        "name": "Salsa Legends",
+        "url": "https://open.spotify.com/album/3eiMjmd9DI83g1AFhqJYxo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311333,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/67rzFE76TKbmK4j1BkdQry"
     },
     {
       "album": {
@@ -1047,7 +1247,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 273738,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/4ae223xfO5QUzbDWqLJMag"
@@ -1069,6 +1269,24 @@
       "duration_ms": 388360,
       "name": "Y Hubo Alguien",
       "url": "https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj"
+    },
+    {
+      "album": {
+        "name": "Luchar\u00e9",
+        "url": "https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe"
+      },
+      "artists": [
+        {
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303306,
+      "name": "Y Que Me Pasa - Salsa",
+      "url": "https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN"
     },
     {
       "album": {
@@ -1101,7 +1319,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 259853,
       "name": "Yo No S\u00e9 Ma\u00f1ana (salsa)",
       "url": "https://open.spotify.com/track/1nZziTuPRwCfJe1XvVC760"

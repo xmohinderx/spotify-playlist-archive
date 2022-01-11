@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXmWwCHnI5.md) - [plain]
 
 > Job talk, work\-life rants, office espionage, and more\. \[Warning: Explicit Content\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,822 likes - 27 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,821 likes - 27 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kcxLFdICLh.md) - [plain]
 
 > A gathering of essentials by the <a href="spotify:artist:5s6TJEuHTr9GR894wc6VfP">Americana icon</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,433 likes - 71 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,458 likes - 71 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8kcxLFdICLh.md) - [plain]
 | 70 | [The Ballad of Sally Rose](https://open.spotify.com/track/5JkiPYonDvUOvMnhqgQj3B) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [The Ballad of Sally Rose](https://open.spotify.com/album/0olouIPM4zwIKRWqStc1R1) | 2:45 |
 | 71 | [Save the Last Dance for Me \- 2003 Remaster](https://open.spotify.com/track/3BVmr5izeSoE3H9256z5eh) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:44 |
 
-Snapshot ID: `MTU4Mzg0NDcwMCwwMDAwMDAwNjAwMDAwMTYxZTM1NmUwMmUwMDAwMDE3MGM0ODAzMzAy`
+Snapshot ID: `MTY0MTg2MDI2OSwwMDAwMDAwODAwMDAwMTdlNDY3Zjg3OGYwMDAwMDE3MGM0ODAzMzAy`

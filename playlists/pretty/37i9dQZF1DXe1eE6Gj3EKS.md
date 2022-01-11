@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1eE6Gj3EKS.md) - [plain]
 
 > Your essential Jack Johnson, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,973 likes - 69 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,016 likes - 69 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1eE6Gj3EKS.md) - [plain]
 | 68 | [Spring Wind](https://open.spotify.com/track/6YFBulokjnf14xNWFd2DdG) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [180 South Soundtrack](https://open.spotify.com/album/13e2jq86nPcvYOxf0ii4q8) | 3:47 |
 | 69 | [Country Road With Paula Fuga \- Santa Barbara, CA](https://open.spotify.com/track/6ga7OkVgr9g1qxxdsTOQvc) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [En Concert](https://open.spotify.com/album/2nGSozbPlGVt5bdvgvBI4s) | 2:58 |
 
-Snapshot ID: `MTU4MzgzNjkxNiwwMDAwMDAwNTAwMDAwMTcwYzQwOTY5NWMwMDAwMDE3MGFmNGRhODA2`
+Snapshot ID: `MTY0MTg2MDUxOCwwMDAwMDAwNzAwMDAwMTdlNDY4MzUzNDYwMDAwMDE3MGFmNGRhODA2`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT3qht9CfnL3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT3qht9CfnL3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT3qht9CfnL3)
 
-### Reggaetón para Tu Ex
+### [Reggaetón para Tu Ex](https://open.spotify.com/playlist/1NWFMjrHiHs2XyVkwZbAl3)
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 

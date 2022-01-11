@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 381189,
       "name": "5am",
       "url": "https://open.spotify.com/track/35yLoqEcetVZVH1EII1wBD"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 329095,
       "name": "Balearic Sea",
       "url": "https://open.spotify.com/track/7o0ahnxkovZvbwvg7YdMzi"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 192386,
       "name": "Best of Me - Album Mix",
       "url": "https://open.spotify.com/track/7zusjgCHs7kRzOX04YGaS8"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 284800,
       "name": "Cashmere",
       "url": "https://open.spotify.com/track/303c3Z3xF0KgPJkqy7U9bK"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 208000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/3o1zrW0DOGDIM7Inw28TyR"
@@ -629,7 +629,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 218226,
       "name": "Finja",
       "url": "https://open.spotify.com/track/6BIcVRcVAbzsmiK4IifRfX"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 330337,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0bnNVbXfCqJHjoJZ4r5dOD"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 462560,
       "name": "I'm Fallin'",
       "url": "https://open.spotify.com/track/4MDkxQH2Dzwt4p4KOI4Cuk"
@@ -1139,7 +1139,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 446590,
       "name": "Leslie",
       "url": "https://open.spotify.com/track/6NzAnIRwtBKacxkLzva4e7"
@@ -1223,7 +1223,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 350929,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/0WsbPxyiVqhlLSqvIkpvKC"
@@ -1253,6 +1253,24 @@
       "duration_ms": 220776,
       "name": "Love Will Tear Us Apart - Tensnake Remix",
       "url": "https://open.spotify.com/track/6HTYiZWP9bqtGKoivnLHsg"
+    },
+    {
+      "album": {
+        "name": "Perspective EP",
+        "url": "https://open.spotify.com/album/0xZahoke4fTh9QtdCcduwh"
+      },
+      "artists": [
+        {
+          "name": "Rezident",
+          "url": "https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc"
+        }
+      ],
+      "date_added": "2021-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304753,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/6jtw8sBH0NCmFw7x94s5DF"
     },
     {
       "album": {
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 322034,
       "name": "No Room - Johannes Klingebiel Remix",
       "url": "https://open.spotify.com/track/4i9ILIeksvaDAYnimKjCw0"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 274138,
       "name": "Outgrown",
       "url": "https://open.spotify.com/track/0zIdKrHlJMD7C0BnrUIsvE"
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 223873,
       "name": "Sky Is the Limit - Edit",
       "url": "https://open.spotify.com/track/75NhbnULYj5KiqaoihGkm7"
@@ -1819,7 +1837,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 200389,
       "name": "Tacken",
       "url": "https://open.spotify.com/track/66KXSLfCiAoZkcjyF3Uujm"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 251602,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5Nfu8mqEwGMM0gnPMlAMZp"

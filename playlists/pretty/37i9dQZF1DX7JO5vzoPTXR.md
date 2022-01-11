@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Highlighting <a href="http://noteable.spotify.com">Noteable</a> songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/artist/3Mgv0bbH3V7s7c3ddUyC1y?si=vMpAwRm7RQqcoN7yEmku6g&nd=1">MASUMI</a>, <a href="https://open.spotify.com/artist/0O66QHPs08luarCKRfo5ys?si=RvceOVkQS\_uNAwak49f29A">So Wylie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,012 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,103 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 39 | [Bitter](https://open.spotify.com/track/5Z0AM9HW78XIyZqF2BPasr) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe) | [Bitter](https://open.spotify.com/album/2JqdcyrOqUzCJQOeuJ7h5u) | 3:14 |
 | 40 | [Unapologetic](https://open.spotify.com/track/0NNPCKrXPAxxMC0QGugv2G) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf) | [NY to FL](https://open.spotify.com/album/0PoX7E9w2VM0AykBU1bn9S) | 2:31 |
 
-Snapshot ID: `MTY0MTc3NTQ3MywwMDAwMDAwMDI5MjAyNzczZjQ0M2Q5ZTM4MWM5YTJiMmE0MzIxMWMx`
+Snapshot ID: `MTY0MTg2MTk1NSwwMDAwMDAwMDI5MjAyNzczZjQ0M2Q5ZTM4MWM5YTJiMmE0MzIxMWMx`

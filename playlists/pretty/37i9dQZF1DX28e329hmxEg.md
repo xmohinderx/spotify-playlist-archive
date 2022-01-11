@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28e329hmxEg.md) - [plain]
 
 > Country music that makes you FEEL GOOD!
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,483 likes - 87 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,487 likes - 87 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

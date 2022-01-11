@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVelxaccCqL.md) - [plain]
 
 > Lou Reed, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,961 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,974 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVelxaccCqL.md) - [plain]
 | 49 | [In Our Sleep](https://open.spotify.com/track/7fcOuaNybAtqB1lO7aMfJw) | [Laurie Anderson](https://open.spotify.com/artist/5hqB3Fxgin9YGYa0mIGf1G) | [Bright Red](https://open.spotify.com/album/6b3Ik5hjGBbhR8myjstjOt) | 2:31 |
 | 50 | [The Bronx](https://open.spotify.com/track/1ENGe5j5pdmz1YKiW6NhK9) | [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U), [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [The Road From Memphis \(Deluxe Edition\)](https://open.spotify.com/album/6IoxOcWv5ugc0W08VdeRDY) | 4:38 |
 
-Snapshot ID: `MTU4NTcyNTQ4MiwwMDAwMDAwNjAwMDAwMTcxMzQ5YWE1MDEwMDAwMDE2ZDE1NTFmMDE2`
+Snapshot ID: `MTY0MTg2MDg1OSwwMDAwMDAwODAwMDAwMTdlNDY4ODg3MjEwMDAwMDE2ZDE1NTFmMDE2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P58TnuVGha.md) - [plain]
 
 > Your essential collection, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,381 likes - 25 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,383 likes - 25 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P58TnuVGha.md) - [plain]
 | 24 | [Cocaine Cowboys](https://open.spotify.com/track/5vNgzvC3AKSPXnkJYdlNn9) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 3:26 |
 | 25 | [Do Right By Me](https://open.spotify.com/track/7xNHIo5t0jZEBjvxQGflkQ) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [All American Made](https://open.spotify.com/album/2ZxlcZ2NMgupfqGcyjnmkE) | 3:10 |
 
-Snapshot ID: `MTU4NDAyMjIyOSwwMDAwMDAwYzAwMDAwMTcwY2YxNTEzMDYwMDAwMDE2ZDE1MTRhYzY5`
+Snapshot ID: `MTY0MTg2MDkzNCwwMDAwMDAwZTAwMDAwMTdlNDY4OWFhMzQwMDAwMDE2ZDE1MTRhYzY5`

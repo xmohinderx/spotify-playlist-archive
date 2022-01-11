@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6jW9mPgBGv2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6jW9mPgBGv2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6jW9mPgBGv2)
 
-### FRONTEO
+### [FRONTEO](https://open.spotify.com/playlist/5qWh0GZPnfQ4QFIzqA7iQK)
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Foto: Anuel AA
 

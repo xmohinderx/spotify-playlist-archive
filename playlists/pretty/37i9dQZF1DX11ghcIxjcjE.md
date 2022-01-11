@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 
 > Grunge will live forever\. Cover: Kurt Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,112,325 likes - 60 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,113,167 likes - 60 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [About A Girl](https://open.spotify.com/track/0O4Yt3iHNIZGFE3uhFLu6I) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach: Deluxe Edition](https://open.spotify.com/album/2Lfy46M23IUeiDATnra0Bl) | 2:48 |
-| 2 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
-| 3 | [Black Hole Sun](https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY) | 5:18 |
+| 2 | [Black Hole Sun](https://open.spotify.com/track/3ztCt91U2wGkDZuzbCwH6H) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(20th Anniversary\)](https://open.spotify.com/album/4ePl0meknOkJ892O9yszEY) | 5:18 |
+| 3 | [Alive](https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:40 |
 | 4 | [Would?](https://open.spotify.com/track/5sFDReWLrZHLFZFjHsjUTS) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 3:26 |
 | 5 | [Plush](https://open.spotify.com/track/3jJZVeExYzVYiV6Y9Fl3DX) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Core](https://open.spotify.com/album/7k1YOwYf369EX0aHeXApWp) | 5:10 |
 | 6 | [All Apologies](https://open.spotify.com/track/5sWMEcMemPH3Bc8hxeivIi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/4HACR8HgOYj1HH4vCZ3MVi) | 3:53 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11ghcIxjcjE.md) - [plain]
 | 56 | [Losing Skin](https://open.spotify.com/track/2BabU2GZT5laWFWslSeUIo) | [Seaweed](https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu) | [Four](https://open.spotify.com/album/5GFkxEk3O1X6QZnhVISTx3) | 2:43 |
 | 57 | [Swallow My Pride](https://open.spotify.com/track/7HvRYprYqG9Plg5qjZ4yfH) | [Green River](https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX) | [Dry as a Bone / Rehab Doll](https://open.spotify.com/album/53fNxdiYiPEaFwNxIjuNR0) | 2:59 |
 | 58 | [Suck You Dry \- 2008 Remaster](https://open.spotify.com/track/3Fg4SlOiqKDodVJbAM2Gut) | [Mudhoney](https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9) | [Piece Of Cake](https://open.spotify.com/album/3CNnWJLxLMowI9DYqgLLeq) | 2:34 |
-| 59 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
-| 60 | [Highway Of Souls](https://open.spotify.com/track/0XU4TZ7eOrDoLpJRNyCRhu) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Between The Eyes](https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc) | 5:25 |
+| 59 | [Highway Of Souls](https://open.spotify.com/track/0XU4TZ7eOrDoLpJRNyCRhu) | [Love Battery](https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF) | [Between The Eyes](https://open.spotify.com/album/72JJlSdJdqNydgLrz5W0uc) | 5:25 |
+| 60 | [Six Foot Under](https://open.spotify.com/track/6AZFTXEbrftYn5Ca0PaKru) | [Blood Circus](https://open.spotify.com/artist/3RJbkbBAHUe5EEw7dpDVUV) | [Dead Beats](https://open.spotify.com/album/4OocizHrG47twaG6A7KDGA) | 3:52 |
 
-Snapshot ID: `MTY0MTc0MTQwOSwwMDAwMDA0ZjAwMDAwMTdlM2Y2OWRjMzAwMDAwMDE3ZTI0YzRmZDcy`
+Snapshot ID: `MTY0MTgwNjUxMywwMDAwMDA1MTAwMDAwMTdlNDM0YjQ2M2YwMDAwMDE3ZTQzNDlmZmEx`

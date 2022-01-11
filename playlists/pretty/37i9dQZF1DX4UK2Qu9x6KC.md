@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UK2Qu9x6KC.md) - [plain]
 
 > Tina Turner's most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,993 likes - 38 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,070 likes - 38 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UK2Qu9x6KC.md) - [plain]
 | 37 | [Whole Lotta Love \- 2002 Remaster](https://open.spotify.com/track/0Y82WR3pVyRqp83OgdR7lP) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [Funkier Than A Mosquito's Tweeter](https://open.spotify.com/album/3EIJMXNh2yP4cRU7jDLNxc) | 4:42 |
 | 38 | [A Fool In Love \- Edit](https://open.spotify.com/track/6Srd24SS5VX3tKztnos6gk) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The Soul Of Ike & Tina Turner](https://open.spotify.com/album/4NQpuzBIMasqQou19iSPnw) | 2:40 |
 
-Snapshot ID: `MTYyNDcwMTAwMywwMDAwMDAwZjAwMDAwMTdhNDdiOWU2OTkwMDAwMDE2ZDE1NDVkZWY4`
+Snapshot ID: `MTY0MTg2MTc0NSwwMDAwMDAxMTAwMDAwMTdlNDY5NjBkMjYwMDAwMDE2ZDE1NDVkZWY4`

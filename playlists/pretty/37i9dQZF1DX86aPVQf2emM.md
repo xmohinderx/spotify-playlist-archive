@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX86aPVQf2emM.md) - [plain]
 
 > His finest work, in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,574 likes - 35 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,586 likes - 35 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX86aPVQf2emM.md) - [plain]
 | 34 | [Salient Sarah \(feat\. Sampha\)](https://open.spotify.com/track/0IlS8xnXjDqiayVvlNAGD6) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Distance](https://open.spotify.com/album/3X3ZgnxSaKFtlaQ3L6FrGB) | 5:17 |
 | 35 | [On Your Own](https://open.spotify.com/track/6ZoyYsPf3PXJt78qQaLaCg) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [The Patience EP](https://open.spotify.com/album/7bry7cmSNMTPYKiK36Sm7Q) | 5:02 |
 
-Snapshot ID: `MTU2ODAxOTUzOCwwMDAwMDAwYTAwMDAwMTY4MjkzM2M4ZTAwMDAwMDE2ZDE1M2Y2MTU1`
+Snapshot ID: `MTY0MTg2MTQyMCwwMDAwMDAwYzAwMDAwMTdlNDY5MTE3YmEwMDAwMDE2ZDE1M2Y2MTU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654XADbS8bL.md) - [plain]
 
 > The Bollywood composer's popular tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,636 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,714 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX654XADbS8bL.md) - [plain]
 | 49 | [Phurrr \- Film Version](https://open.spotify.com/track/45mrPZ4Mqb0pn2RlZdEYtH) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Jab Harry Met Sejal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4I39l0YJ7tmSBXZGZamN5E) | 3:25 |
 | 50 | [Phurrr \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/1Wmhz6pAesAAKh6Oy3zknL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS) | [Phurrr \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/0LZcrvfzpuW1IeIvM2OWay) | 3:24 |
 
-Snapshot ID: `MTU4MzQ4OTAyMSwwMDAwMDAwNjAwMDAwMTY4ZjJmNzgyNDcwMDAwMDE3MGFmNGNmNzVm`
+Snapshot ID: `MTY0MTg2MTI4NSwwMDAwMDAwODAwMDAwMTdlNDY4ZjA3OTgwMDAwMDE3MGFmNGNmNzVm`

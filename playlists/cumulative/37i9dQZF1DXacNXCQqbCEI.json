@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
@@ -209,7 +209,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 246116,
       "name": "Bamb\u00fa",
       "url": "https://open.spotify.com/track/48LxVSKPgx9LdOjwdj6Ho7"
@@ -303,7 +303,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 236786,
       "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
       "url": "https://open.spotify.com/track/1zgrb8rh6QpZrDZVTdbSfU"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 152576,
       "name": "Caruyu\u0301",
       "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 307830,
       "name": "Ch'usay",
       "url": "https://open.spotify.com/track/704xWR1nWpxhFRBbB8sboj"
@@ -539,7 +539,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 317790,
       "name": "Currulao Version",
       "url": "https://open.spotify.com/track/0tCCY12EmCOF8KSbJjpKKo"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 173043,
       "name": "Desierto",
       "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 196998,
       "name": "El Quemado",
       "url": "https://open.spotify.com/track/0C4IACJ0aYrjexMvv50YiP"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 346280,
       "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
       "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/2K8z5hrIFrCTcYRab2EEbm"
@@ -1074,6 +1074,40 @@
     },
     {
       "album": {
+        "name": "La A\u00f1oranza",
+        "url": "https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Haaksman",
+          "url": "https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Coco Maria",
+          "url": "https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge"
+        },
+        {
+          "name": "Ori Kaplan",
+          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
+        },
+        {
+          "name": "Will Love",
+          "url": "https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223207,
+      "name": "La A\u00f1oranza - Original Version",
+      "url": "https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G"
+    },
+    {
+      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -1085,7 +1119,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 179634,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
@@ -1107,7 +1141,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 262856,
       "name": "La Cosecha - Captain Planet Remix",
       "url": "https://open.spotify.com/track/2gult4wJ3eyiR18mTpZBk0"
@@ -1221,10 +1255,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 300000,
       "name": "Levanta Muertos",
       "url": "https://open.spotify.com/track/7DrXaQF10NOAIqM1JGz8AE"
+    },
+    {
+      "album": {
+        "name": "Fuego Nuevo",
+        "url": "https://open.spotify.com/album/3jXvU3BbxtNU9q5XG4BvDh"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298448,
+      "name": "Limon Pelado",
+      "url": "https://open.spotify.com/track/4AObAZOnmRqCET9CgdzoeD"
     },
     {
       "album": {
@@ -1349,7 +1401,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 477049,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/7yoBYwXd4gtGBIygYefGOI"
@@ -1367,7 +1419,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 293283,
       "name": "Matiela Suto",
       "url": "https://open.spotify.com/track/7e31OKhHlh5pFh3Podo1RT"
@@ -1411,6 +1463,24 @@
       "duration_ms": 373333,
       "name": "Mojanda (feat. Wabi Sabi)",
       "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
+    },
+    {
+      "album": {
+        "name": "Mis Tierras Calientes",
+        "url": "https://open.spotify.com/album/61qRixcPyYN5rsU8iJltnl"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365000,
+      "name": "Mucura",
+      "url": "https://open.spotify.com/track/6l1HjDZenCumNfTjmORkRj"
     },
     {
       "album": {
@@ -1521,7 +1591,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 241197,
       "name": "Ofelia - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/21Ekz6yMIrnyHdJ819Pj4m"
@@ -1645,7 +1715,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 250769,
       "name": "Portales",
       "url": "https://open.spotify.com/track/0OyNMy87wNsHua1EvEeDl3"
@@ -1783,7 +1853,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 206148,
       "name": "Quema",
       "url": "https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD"
@@ -1973,7 +2043,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"
@@ -2009,7 +2079,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 226058,
       "name": "Sin control",
       "url": "https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw"
@@ -2181,7 +2251,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 181914,
       "name": "Sue\u00f1o Marino",
       "url": "https://open.spotify.com/track/7dSKq6FktDcVoWXwbPIRMw"

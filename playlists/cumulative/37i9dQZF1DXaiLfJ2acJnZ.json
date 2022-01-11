@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-09",
   "description": "Lovely, pop-filled, fun.",
   "name": "Wholesome",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "2g79cma7f2NHaiuEcBbTN0"
+  ],
   "tracks": [
     {
       "album": {
@@ -75,7 +77,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
@@ -191,7 +193,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 234834,
       "name": "Blue Ghost",
       "url": "https://open.spotify.com/track/5OgJJRTa0jvgri1ZFC17Ip"
@@ -213,7 +215,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 191250,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/7eQHxigpuDJjCG50JyzU8v"
@@ -285,7 +287,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 183240,
       "name": "Defeated",
       "url": "https://open.spotify.com/track/75Y2syEzwawmsPHJ0AgJur"
@@ -372,6 +374,24 @@
     },
     {
       "album": {
+        "name": "everything",
+        "url": "https://open.spotify.com/album/7CAivrvoisdOu9nlQqDVQt"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172792,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/5HKhwpvlIPHLex0gouOQtA"
+    },
+    {
+      "album": {
         "name": "Everything's Waiting for You",
         "url": "https://open.spotify.com/album/5c6akkLOQHJDZQG9A9B7Z5"
       },
@@ -441,7 +461,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 163866,
       "name": "Feel Something",
       "url": "https://open.spotify.com/track/0JU7KoyKSFgY1zJV2ex6Ee"
@@ -499,7 +519,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 206226,
       "name": "Following The Sun",
       "url": "https://open.spotify.com/track/2JzXBqTIVHYX43t7EcLyMs"
@@ -517,7 +537,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 200558,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/4aDYEx4grZSAQWoGsfjUTK"
@@ -571,7 +591,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 185374,
       "name": "Green Grass",
       "url": "https://open.spotify.com/track/7kIDMuaQ1JNJuEWjKLMLhM"
@@ -647,6 +667,46 @@
       "duration_ms": 193733,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/6nV2dFZXpv1JlqDWBeTXRl"
+    },
+    {
+      "album": {
+        "name": "The Lovers",
+        "url": "https://open.spotify.com/album/5FvjdvsrhKhfwAUIxtDy1i"
+      },
+      "artists": [
+        {
+          "name": "Arlissa",
+          "url": "https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/2SnU0h8f6LlxvSycvfcCQQ"
+    },
+    {
+      "album": {
+        "name": "Hymn for Her",
+        "url": "https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC"
+      },
+      "artists": [
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+        },
+        {
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Hymn for Her (feat. Lydia Clowes)",
+      "url": "https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF"
     },
     {
       "album": {
@@ -827,7 +887,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 195880,
       "name": "Love Me Now (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
@@ -845,7 +905,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
@@ -917,7 +977,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 173640,
       "name": "My 100",
       "url": "https://open.spotify.com/track/11Q3W4kReoMTUWuc8BQyLC"
@@ -935,7 +995,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 200626,
       "name": "Never Get It Right",
       "url": "https://open.spotify.com/track/5SiENDvPXarv1Ly3fGC4FB"
@@ -953,7 +1013,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 190680,
       "name": "New Wave",
       "url": "https://open.spotify.com/track/6XEOodNvCsTtWUAnOWSSRi"
@@ -1083,7 +1143,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189473,
       "name": "Out of You",
       "url": "https://open.spotify.com/track/6HgclHM1GZyqdEBAiptD9E"
@@ -1281,7 +1341,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 188160,
       "name": "see you later (ten years)",
       "url": "https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE"
@@ -1425,10 +1485,36 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 186963,
       "name": "Something in the Water",
       "url": "https://open.spotify.com/track/5z7wmSmPWHgTFz5iOKHhAz"
+    },
+    {
+      "album": {
+        "name": "Spinning (with Charli XCX & The 1975)",
+        "url": "https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii"
+      },
+      "artists": [
+        {
+          "name": "No Rome",
+          "url": "https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172559,
+      "name": "Spinning (with Charli XCX & The 1975)",
+      "url": "https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl"
     },
     {
       "album": {
@@ -1479,7 +1565,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189666,
       "name": "Street Lights",
       "url": "https://open.spotify.com/track/6eSatqABH4lozixtNfR7DA"
@@ -1504,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Sweet Life",
+        "url": "https://open.spotify.com/album/3s289YkKKdjRNJdTayT8iT"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Ansbro",
+          "url": "https://open.spotify.com/artist/3S3ZTI3pHzUE7RM4WIut3M"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171074,
+      "name": "Sweet Life",
+      "url": "https://open.spotify.com/track/56V44s23E4SyzH0AmichVH"
+    },
+    {
+      "album": {
         "name": "Talk You Down",
         "url": "https://open.spotify.com/album/40M7WLALxAIR61uXjJAcWD"
       },
@@ -1515,7 +1619,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 156684,
       "name": "Talk You Down",
       "url": "https://open.spotify.com/track/6UBWwEWTSyYPfz3hVVQqvD"
@@ -1612,6 +1716,24 @@
     },
     {
       "album": {
+        "name": "Time Alone",
+        "url": "https://open.spotify.com/album/1UzqPBMGLX73r3F20koZmx"
+      },
+      "artists": [
+        {
+          "name": "ABISHA",
+          "url": "https://open.spotify.com/artist/5NxlgxZ0yYlmCdy1jhUcDQ"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193650,
+      "name": "Time Alone",
+      "url": "https://open.spotify.com/track/0sjl9UqTccGjKBu0RAhGyZ"
+    },
+    {
+      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -1623,7 +1745,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 197346,
       "name": "Treat People With Kindness",
       "url": "https://open.spotify.com/track/03mMSLEJCPoGJwQhHpN5y0"
@@ -1659,7 +1781,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 213842,
       "name": "Wave of You",
       "url": "https://open.spotify.com/track/5Ne1q9Hv3l2NHBA3Agt8WT"

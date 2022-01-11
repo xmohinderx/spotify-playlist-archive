@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8E8oqpmTDI.md) - [plain]
 
 > Get weird with the <a href="spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM">indie maestro</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,142 likes - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,247 likes - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8E8oqpmTDI.md) - [plain]
 | 29 | [Dreamin' Fast](https://open.spotify.com/track/6avSsDAt7hVTDLeqCBfXH5) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2 Demos](https://open.spotify.com/album/0uORJJ9IgCGASl7FhP9OyQ) | 1:43 |
 | 30 | [Without Me](https://open.spotify.com/track/7kpafSrf0xBPFSyR1AziSO) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Another One](https://open.spotify.com/album/73A5i6uEMBa2qpGDKdZu3u) | 2:57 |
 
-Snapshot ID: `MTU2NzY3NjA4NiwwMDAwMDAxMTAwMDAwMTYzYzVjODRlZjEwMDAwMDE2ZDAwYzZiOTk3`
+Snapshot ID: `MTY0MTg2MDg5MywwMDAwMDAxMzAwMDAwMTdlNDY4OTA5NzIwMDAwMDE2ZDAwYzZiOTk3`

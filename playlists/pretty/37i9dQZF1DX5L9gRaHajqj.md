@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5L9gRaHajqj.md) - [plain]
 
 > The essential KISS, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 317,949 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 317,993 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5L9gRaHajqj.md) - [plain]
 | 49 | [You Matter To Me](https://open.spotify.com/track/0mXEKzNPqSg1FPVTa1moaV) | [Peter Criss](https://open.spotify.com/artist/5DWj9QLyCN9dyQydd1P9QG) | [Peter Criss](https://open.spotify.com/album/0Z6MDjfxXrGyOhS2zrO7yL) | 3:17 |
 | 50 | [Unholy](https://open.spotify.com/track/6lEjHafVGt2FzYw2a5ZdIS) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/0ebfVybTT7IVAfZ9uq5OX6) | 3:42 |
 
-Snapshot ID: `MTYwMTY1MzI0MCwwMDAwMDAwODAwMDAwMTc0ZTlmOGYxNjUwMDAwMDE3NGU5ZjdjYjJl`
+Snapshot ID: `MTY0MTg2MDY2MCwwMDAwMDAwYTAwMDAwMTdlNDY4NTdlY2EwMDAwMDE3NGU5ZjdjYjJl`

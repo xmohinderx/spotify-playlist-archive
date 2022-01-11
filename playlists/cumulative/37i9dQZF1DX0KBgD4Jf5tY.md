@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0KBgD4Jf5tY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0KBgD4Jf5tY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0KBgD4Jf5tY)
 
-### Fresh Finds Italia
+### [Fresh Finds Italia](https://open.spotify.com/playlist/7DW4xNQc4jVEAVd25UPTmP)
 
 > Le scoperte più fresche della scena italiana indipendente\. Senza etichette di genere\. Cover: TENUE
 

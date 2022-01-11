@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uiBEEB5wRG.md) - [plain](/playlists/plain/37i9dQZF1DX1uiBEEB5wRG) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1uiBEEB5wRG)
 
-### [Piano Transcriptions 50: Spotify Picks](https://open.spotify.com/playlist/37i9dQZF1DX1uiBEEB5wRG)
+### [Piano Transcriptions](https://open.spotify.com/playlist/37i9dQZF1DX1uiBEEB5wRG)
 
-> Piano arrangements that help you to discover new nuances and sonorities in orchestral and chamber music masterpieces\. Similar playlists: <a href="spotify:user:spotify:playlist:37i9dQZF1DWT5I7N7jmTai">Liszt Transcriptions</a> & <a href="spotify:user:spotify:playlist:37i9dQZF1DWWQxllNWdnsR">Orchestral Transcriptions</a>.
+> Piano arrangements of classical masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,458 likes - 50 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,486 likes - 50 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uiBEEB5wRG.md) - [plain]
 | 49 | [Pétrouchka \(1910/11\) \- Version for Piano Solo](https://open.spotify.com/track/2u6k5TvyRMnxvn595HQ6Ji) | [Igor Stravinsky](https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE), [Benedikt Koehlen](https://open.spotify.com/artist/7G90N2QjcOgz0gEbXl2004) | [Stravinsky: Piano Music](https://open.spotify.com/album/4q76lMTrTQyWzwnJqirbpc) | 38:34 |
 | 50 | [Rhapsody in Blue \(arr\. H\. Levine for piano 4 hands\)](https://open.spotify.com/track/0YgQgz8HhjD7GRaAzQq6Kp) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Henry Levine](https://open.spotify.com/artist/1mEOJ1THk9ELjyW8cYM5J2), [Shelest Piano Duo](https://open.spotify.com/artist/7JbOOMNKsAOgHf7TlmXaV8) | [Tutti](https://open.spotify.com/album/50NtHy60RtfFToI6IFIoSS) | 16:44 |
 
-Snapshot ID: `MTU2NzY3NTI4NCwwMDAwMDAwNzAwMDAwMTYxN2FlYzRkYjQwMDAwMDE2ZDAwYmE3ZDBh`
+Snapshot ID: `MTY0MTgyMzg3NiwwMDAwMDAwODAwMDAwMTdlNDQ1NDM2Y2UwMDAwMDE2ZDAwYmE3ZDBh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The top 101 tracks from Fresh Finds Experimental in 2021\. Cover: Ana Roxanne, Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,876 likes - 101 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,967 likes - 101 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Fall in Love with the Beauties of Tollywood!<br/>Cover : Sai Pallavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,932 likes - 56 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,965 likes - 56 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

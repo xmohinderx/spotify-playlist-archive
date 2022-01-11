@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VxoFMom3BD.md) - [plain]
 
 > Check out this collection of this vocalist's hottest singles!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,008 likes - 53 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,019 likes - 53 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3VxoFMom3BD.md) - [plain]
 | 52 | [Lost In Love](https://open.spotify.com/track/0XCGvwLlJRcezMkOpM9n1y) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Bantu](https://open.spotify.com/artist/6tT7oKl1yrnp4h7VyP426W) | [Simply](https://open.spotify.com/album/0r32Pel0IVYht42uofkjOV) | 4:59 |
 | 53 | [Ngofa Nawe](https://open.spotify.com/track/79q7qUbVIfpn8J5llwaXLB) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [NVL](https://open.spotify.com/artist/4PI7ZwQq0aLX9Lqrc80ZbB) | [Back To My Roots](https://open.spotify.com/album/67dD1TK5u8nbBQGud258SR) | 3:47 |
 
-Snapshot ID: `MTYwMjE5NDM0MCwwMDAwMDAwNjAwMDAwMTc1MGEzOTc4ZWUwMDAwMDE3MGM0YTk2OTg3`
+Snapshot ID: `MTY0MTg2MDY5NiwwMDAwMDAwODAwMDAwMTdlNDY4NjBhOTMwMDAwMDE3MGM0YTk2OTg3`

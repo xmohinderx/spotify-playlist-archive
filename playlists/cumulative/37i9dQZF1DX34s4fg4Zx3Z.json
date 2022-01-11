@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-09",
   "description": "Kh\u00e1m ph\u00e1 c\u00e1c b\u00e0i h\u00e1t \u0111\u00e1ng nghe t\u1eeb nh\u1eefng c\u00e1i t\u00ean c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Winno; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "11aHcAYmUYTKlrRmUuqYoO"
+  ],
   "tracks": [
     {
       "album": {
@@ -1531,7 +1533,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 216630,
       "name": "S\u1eb5n S\u00e0ng Y\u00eau Em \u0110i Th\u00f4i",
       "url": "https://open.spotify.com/track/3Td4pwE5TcWeq38ag6cxps"
@@ -1703,10 +1705,32 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 211436,
       "name": "Th\u1ea5y Em Quay L\u01b0ng L\u1ea1nh L\u00f9ng",
       "url": "https://open.spotify.com/track/4V8R0joaCTvTyy58GQVpjD"
+    },
+    {
+      "album": {
+        "name": "Th\u1ee7 Ng\u1eef",
+        "url": "https://open.spotify.com/album/56Drw3ouXaBFH4obIdVovh"
+      },
+      "artists": [
+        {
+          "name": "V#",
+          "url": "https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om"
+        },
+        {
+          "name": "LARRIA",
+          "url": "https://open.spotify.com/artist/4EmlvsxRbtY1fvKlsJNtbZ"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154343,
+      "name": "Th\u1ee7 Ng\u1eef",
+      "url": "https://open.spotify.com/track/1ACVEoQsPLJzLHm95MRfMq"
     },
     {
       "album": {

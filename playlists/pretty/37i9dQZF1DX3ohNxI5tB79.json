@@ -1,29 +1,13 @@
 {
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes!",
   "name": "Morning Rhythm",
-  "num_followers": 285561,
+  "num_followers": 285833,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDcwMTI4MCwwMDAwMDA1OTAwMDAwMTdlMDE2YWMxNWMwMDAwMDE2ZDE1MmE3ZDIy",
+  "snapshot_id": "MTY0MTgyNzE4MywwMDAwMDA1YTAwMDAwMTdlNDQ4NmFhNWIwMDAwMDE2ZDE1MmE3ZDIy",
   "tracks": [
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "SINTHA",
-        "url": "https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU"
-      },
-      "artists": [
-        {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        }
-      ],
-      "duration_ms": 233482,
-      "name": "honest",
-      "url": "https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO"
-    },
     {
       "added_at": "2021-12-28 14:21:20",
       "album": {
@@ -175,6 +159,22 @@
     {
       "added_at": "2021-12-28 14:21:20",
       "album": {
+        "name": "SINTHA",
+        "url": "https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "duration_ms": 233482,
+      "name": "honest",
+      "url": "https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO"
+    },
+    {
+      "added_at": "2021-12-28 14:21:20",
+      "album": {
         "name": "Love Falls Down",
         "url": "https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ"
       },
@@ -223,22 +223,6 @@
       "duration_ms": 339846,
       "name": "Soul Sista - Remix / From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "for the both of us",
-        "url": "https://open.spotify.com/album/5tpWWM9Sbnd7Wg2MYCdsKs"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "for the both of us",
-      "url": "https://open.spotify.com/track/1oLDkSgl8zCu4aW4eMmzYx"
     },
     {
       "added_at": "2021-12-28 14:21:20",
@@ -787,22 +771,6 @@
       "duration_ms": 209645,
       "name": "Say It",
       "url": "https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Indecision (Jungle Remix)",
-        "url": "https://open.spotify.com/album/7qnBAGQH7VjWorsnYe8Aec"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Indecision - Jungle Remix",
-      "url": "https://open.spotify.com/track/2BOgqUaNFikA7RAT0MUpQ4"
     },
     {
       "added_at": "2021-12-28 14:21:20",
@@ -1459,22 +1427,6 @@
     {
       "added_at": "2021-12-28 14:21:20",
       "album": {
-        "name": "Livingstone",
-        "url": "https://open.spotify.com/album/7BJvFHKl7SQDoVmi3PRuVu"
-      },
-      "artists": [
-        {
-          "name": "Jungle by Night",
-          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
-        }
-      ],
-      "duration_ms": 382560,
-      "name": "Hangmat",
-      "url": "https://open.spotify.com/track/4Fe4a65JErIRywwlm2x5ob"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
         "name": "Pineapple",
         "url": "https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF"
       },
@@ -1495,26 +1447,6 @@
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Back for More",
-        "url": "https://open.spotify.com/album/7Ebqd2aKNcelzNbTvG9glF"
-      },
-      "artists": [
-        {
-          "name": "Cool Million",
-          "url": "https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG"
-        },
-        {
-          "name": "Eugene Wilde",
-          "url": "https://open.spotify.com/artist/0RrDVgg5a8CuIshK0Wnpjv"
-        }
-      ],
-      "duration_ms": 272682,
-      "name": "Back for More",
-      "url": "https://open.spotify.com/track/5XMO90auPHxUwZtTmWaCP5"
     },
     {
       "added_at": "2021-12-28 14:21:20",

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2piJKuRdKIA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2piJKuRdKIA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2piJKuRdKIA)
 
-### Salsa Romántica
+### [Salsa Romántica](https://open.spotify.com/playlist/5e64oDpSbQovckjKQVo4HX)
 
 > Una sensual selección de canciones para bailar en una sola baldosa.
 

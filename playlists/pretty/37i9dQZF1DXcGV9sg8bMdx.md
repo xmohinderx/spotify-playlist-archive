@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGV9sg8bMdx.md) - [plain]
 
 > Jane says these are the essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,382 likes - 40 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,396 likes - 40 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcGV9sg8bMdx.md) - [plain]
 | 39 | [Ain't No Right](https://open.spotify.com/track/09cGAeWYBVrV9jtUF4iOv7) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU) | 3:34 |
 | 40 | [Price I Pay](https://open.spotify.com/track/7e9xEvXgrrzWxnJqzgQS4I) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Strays](https://open.spotify.com/album/1Zyw4sk27JmiSQjD4gXszk) | 5:27 |
 
-Snapshot ID: `MTYzMzk0NTEzMiwwMDAwMDAwODAwMDAwMTdjNmViODFmYTEwMDAwMDE3YzZlYjdmNDlm`
+Snapshot ID: `MTY0MTg2MDU0NCwwMDAwMDAwYTAwMDAwMTdlNDY4M2I2YjkwMDAwMDE3YzZlYjdmNDlm`

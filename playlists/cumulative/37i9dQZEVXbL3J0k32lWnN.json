@@ -1309,7 +1309,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 185143,
       "name": "Buongiorno",
       "url": "https://open.spotify.com/track/4vAReYtMpAAFK6cyTE8WkZ"
@@ -1821,6 +1821,24 @@
       "duration_ms": 96240,
       "name": "Dawn FM",
       "url": "https://open.spotify.com/track/3jQvH2VoTRe5CEnIS0MnCE"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96240,
+      "name": "Dawn FM",
+      "url": "https://open.spotify.com/track/6krYS8KtmNAYyb5uTZiYW4"
     },
     {
       "album": {
@@ -3025,7 +3043,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 66440,
       "name": "Folketing/Marketing",
       "url": "https://open.spotify.com/track/2ToALsAnx9Xm4O60D6XZMY"
@@ -8623,6 +8641,24 @@
       "duration_ms": 148000,
       "name": "Starry Eyes",
       "url": "https://open.spotify.com/track/5Fxstmke6g6iWEQ2UoGWpa"
+    },
+    {
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Starry Eyes",
+      "url": "https://open.spotify.com/track/6zzdyvVWjGrQBraSvuqJPY"
     },
     {
       "album": {

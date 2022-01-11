@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: Cookiee Kawaii",
   "name": "BBE",
-  "num_followers": 436305,
+  "num_followers": 437327,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTc2ODM1NCwwMDAwMDBhNjAwMDAwMTdlNDEwNTAxMjAwMDAwMDE3ZTJkZDYxN2Ex",
+  "snapshot_id": "MTY0MTg2MDAxOCwwMDAwMDBhNzAwMDAwMTdlNDY3YmFmNTQwMDAwMDE3ZTJkZDYxN2Ex",
   "tracks": [
     {
       "added_at": "2021-10-29 20:40:04",
@@ -197,6 +197,22 @@
       "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
     },
     {
+      "added_at": "2022-01-09 22:42:39",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "Best Friend (feat. Doja Cat)",
@@ -271,6 +287,22 @@
       "duration_ms": 264920,
       "name": "Luxurious",
       "url": "https://open.spotify.com/track/69xZrRwScYMhlCMcxrF958"
+    },
+    {
+      "added_at": "2022-01-09 22:45:54",
+      "album": {
+        "name": "Your Highness",
+        "url": "https://open.spotify.com/album/70CYyqTKk7NDwx2Y5kwkcH"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "duration_ms": 159196,
+      "name": "Hit A Lic",
+      "url": "https://open.spotify.com/track/2SZEyd9wrT7bEq1LHquJEM"
     },
     {
       "added_at": "2021-10-29 20:40:04",
@@ -353,54 +385,6 @@
       "url": "https://open.spotify.com/track/4WaaWczlVb1UJ24LILsR4C"
     },
     {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 113327,
-      "name": "The Assignment",
-      "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
-    },
-    {
-      "added_at": "2022-01-09 22:42:39",
-      "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Thot Shit",
-        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 184634,
-      "name": "Thot Shit",
-      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
-    },
-    {
       "added_at": "2021-10-26 00:22:47",
       "album": {
         "name": "Planet Her (Deluxe)",
@@ -417,20 +401,36 @@
       "url": "https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix"
     },
     {
-      "added_at": "2022-01-09 22:45:54",
+      "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "Your Highness",
-        "url": "https://open.spotify.com/album/70CYyqTKk7NDwx2Y5kwkcH"
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5"
       },
       "artists": [
         {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
         }
       ],
-      "duration_ms": 159196,
-      "name": "Hit A Lic",
-      "url": "https://open.spotify.com/track/2SZEyd9wrT7bEq1LHquJEM"
+      "duration_ms": 113327,
+      "name": "The Assignment",
+      "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Thot Shit",
+        "url": "https://open.spotify.com/album/7gEGuvkVs79hY4tG7OYnzx"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 184634,
+      "name": "Thot Shit",
+      "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
     },
     {
       "added_at": "2021-10-22 04:01:00",
@@ -537,26 +537,6 @@
       "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
     },
     {
-      "added_at": "2021-11-05 04:00:00",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
-    },
-    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "Daisy",
@@ -605,6 +585,26 @@
       "url": "https://open.spotify.com/track/7u1sP42hRttuwCV1XKdR8f"
     },
     {
+      "added_at": "2021-11-05 04:00:00",
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+    },
+    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "LALISA",
@@ -619,22 +619,6 @@
       "duration_ms": 168227,
       "name": "MONEY",
       "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "BBM (Bad Bitch Mentality)",
-        "url": "https://open.spotify.com/album/4d96n0I4VInaRD6uTbCztE"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 112973,
-      "name": "BBM (Bad Bitch Mentality)",
-      "url": "https://open.spotify.com/track/2Gmnyhk1KpajDh8tb4PcVT"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 229601,
       "name": "WHOLE LOTTA MONEY (feat. Nicki Minaj) - Remix",
       "url": "https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Cum Cake",
+        "url": "https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Deepthroat",
+      "url": "https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -721,20 +721,20 @@
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "Self Made",
-        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
+        "name": "BBM (Bad Bitch Mentality)",
+        "url": "https://open.spotify.com/album/4d96n0I4VInaRD6uTbCztE"
       },
       "artists": [
         {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
         }
       ],
-      "duration_ms": 168986,
-      "name": "Self Made",
-      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+      "duration_ms": 112973,
+      "name": "BBM (Bad Bitch Mentality)",
+      "url": "https://open.spotify.com/track/2Gmnyhk1KpajDh8tb4PcVT"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -777,22 +777,6 @@
       "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
     },
     {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Cum Cake",
-        "url": "https://open.spotify.com/album/5ATRiVbJcsarm1ndaI0DY9"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Deepthroat",
-      "url": "https://open.spotify.com/track/5cXtT63OTadsjqfRkm5Dwd"
-    },
-    {
       "added_at": "2021-10-22 04:01:00",
       "album": {
         "name": "ICY",
@@ -807,22 +791,6 @@
       "duration_ms": 126446,
       "name": "My Type",
       "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
-    },
-    {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Pedi",
-        "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 125272,
-      "name": "Pedi",
-      "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -883,6 +851,22 @@
     {
       "added_at": "2021-10-15 04:00:00",
       "album": {
+        "name": "So Pretty",
+        "url": "https://open.spotify.com/album/3K1FmvfuKFjry1x6sL405k"
+      },
+      "artists": [
+        {
+          "name": "Reyanna Maria",
+          "url": "https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i"
+        }
+      ],
+      "duration_ms": 85741,
+      "name": "So Pretty",
+      "url": "https://open.spotify.com/track/1yLTcitjbEJr7a4jyDB0Lz"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
         "name": "Rumors (feat. Cardi B)",
         "url": "https://open.spotify.com/album/7jMo8dhMIorHoLlzTisjJy"
       },
@@ -901,22 +885,6 @@
       "url": "https://open.spotify.com/track/6KgtcmCF9Ky68XC7ezxl3s"
     },
     {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "So Pretty",
-        "url": "https://open.spotify.com/album/3K1FmvfuKFjry1x6sL405k"
-      },
-      "artists": [
-        {
-          "name": "Reyanna Maria",
-          "url": "https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i"
-        }
-      ],
-      "duration_ms": 85741,
-      "name": "So Pretty",
-      "url": "https://open.spotify.com/track/1yLTcitjbEJr7a4jyDB0Lz"
-    },
-    {
       "added_at": "2021-10-24 21:17:18",
       "album": {
         "name": "BIG",
@@ -933,6 +901,22 @@
       "url": "https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG"
     },
     {
+      "added_at": "2021-10-29 04:01:00",
+      "album": {
+        "name": "Pedi",
+        "url": "https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 125272,
+      "name": "Pedi",
+      "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
+    },
+    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "Pink Friday",
@@ -947,6 +931,22 @@
       "duration_ms": 212346,
       "name": "Did It On\u2019em",
       "url": "https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
         "name": "Songs For Boys That Didn't Text Me Back",
         "url": "https://open.spotify.com/album/2k9SEQDc6oLrDwSWOO8dlo"
       },
@@ -1183,22 +1167,6 @@
       "duration_ms": 242293,
       "name": "Promiscuous",
       "url": "https://open.spotify.com/track/2gam98EZKrF9XuOkU13ApN"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Tina Snow",
-        "url": "https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 222752,
-      "name": "Cognac Queen",
-      "url": "https://open.spotify.com/track/2GbS8QZToLioxL8XMEwX3P"
     },
     {
       "added_at": "2021-10-15 04:00:00",

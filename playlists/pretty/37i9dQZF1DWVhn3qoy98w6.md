@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Cada miércoles, música fresca de artistas independientes para tu descubrimiento\. Foto: Cosmic Wacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,678 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,687 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 30 | [Espejo De Serpientes](https://open.spotify.com/track/5g1mJgCRcBuwWrXxc50POP) | [Martha Carpe](https://open.spotify.com/artist/0BkFoZfETxylQTDNjmOIRe) | [Espejo De Serpientes](https://open.spotify.com/album/2BLTPgp7HNwcRXalmfMrhd) | 2:42 |
 | 31 | [Lo merezco](https://open.spotify.com/track/5Rj6Hj12r9qmv0BJRGXhl7) | [Magia Bruta](https://open.spotify.com/artist/3YF9dOOVUbrPZHk11pfo56) | [Lo merezco](https://open.spotify.com/album/1QYdYGiTQPlTeAmaOyjFlz) | 3:19 |
 | 32 | [Lo Que No Ha Roto el Amor](https://open.spotify.com/track/6kHmZAuV3iuGxx1tuuirjW) | [Tatín Muriel](https://open.spotify.com/artist/2FMKdrtfv8wlOI04qEUyLp) | [Lo Que No Ha Roto el Amor](https://open.spotify.com/album/1EtE7k3uFI62MYDSfpoDmx) | 3:16 |
-| 33 | [Ciudad de las Mentiras](https://open.spotify.com/track/4TMUKLW53GlhS65rzmYWXh) | [Alicia por favor](https://open.spotify.com/artist/5HqyC1QWpUufR7zc6H0n7B) | [Ciudad de las Mentiras](https://open.spotify.com/album/71HVZEhmuMUGL4I0fwmIsU) | 3:23 |
+| 33 | [Ciudad de las Mentiras](https://open.spotify.com/track/4TMUKLW53GlhS65rzmYWXh) | [Alicia por favor](https://open.spotify.com/artist/5HqyC1QWpUufR7zc6H0n7B), [Matias Malagardis](https://open.spotify.com/artist/7srUPR19693NEJOPtQyME7) | [Ciudad de las Mentiras](https://open.spotify.com/album/71HVZEhmuMUGL4I0fwmIsU) | 3:23 |
 | 34 | [Moscatel](https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb) | [MALAiiERBA](https://open.spotify.com/artist/7yWlhqRKWnbmQ0eW0i1TKu) | [Moscatel](https://open.spotify.com/album/3D8TTfMJ4ydMlmUlUeHiL4) | 2:16 |
 | 35 | [Ni Modo](https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Ni Modo](https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203) | 2:15 |
 | 36 | [trece](https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd) | [tommy 3 balas](https://open.spotify.com/artist/2toYLRPVyQ0VTBzja0WBBL) | [trece](https://open.spotify.com/album/7HXSoYe3CcsYWsDwBFTnwZ) | 2:52 |

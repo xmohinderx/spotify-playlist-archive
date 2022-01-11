@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Lo mejor del reggaetón y flow actual, y lo que vendrá\. Foto: Rauw Alejandro, Chencho Corleone
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,106 likes - 69 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,198 likes - 69 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

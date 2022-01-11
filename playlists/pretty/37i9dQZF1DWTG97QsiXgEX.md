@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG97QsiXgEX.md) - [plain]
 
 > The essential Muse, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,132 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,194 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTG97QsiXgEX.md) - [plain]
 | 49 | [Glorious](https://open.spotify.com/track/6IfitwQQ1Gu9g9QnLWDHRY) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:41 |
 | 50 | [Agitated](https://open.spotify.com/track/4DINOBcXuCsEdNCH1l4naj) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Uno](https://open.spotify.com/album/3Qk4ZHVhHzZr7cpRauHg9j) | 2:22 |
 
-Snapshot ID: `MTYzODMwNzE4OCwwMDAwMDAyNzAwMDAwMTdkNzJiN2NkY2UwMDAwMDE2ZDE1NTc1ZGYw`
+Snapshot ID: `MTY0MTg2MTA0NCwwMDAwMDAyOTAwMDAwMTdlNDY4YjU3NDQwMDAwMDE2ZDE1NTc1ZGYw`

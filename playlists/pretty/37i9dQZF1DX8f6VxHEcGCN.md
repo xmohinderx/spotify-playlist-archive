@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6VxHEcGCN.md) - [plain]
 
 > The man, the myth, the legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,821 likes - 74 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,898 likes - 74 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6VxHEcGCN.md) - [plain]
 | 73 | [Every Grain of Sand](https://open.spotify.com/track/6MfOFYmw1TD9QDFSu0TEN1) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shot Of Love](https://open.spotify.com/album/14cScWsd0lPdSlNFfr9AmA) | 6:11 |
 | 74 | [Idiot Wind \- Take 4, Remake with organ overdub](https://open.spotify.com/track/4CyZpcjZdbAAD0J0EPSwmF) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Bootleg Series Volumes 1\-3 \(Rare And Unreleased\) 1961\-1991](https://open.spotify.com/album/0ELQw29ii1k2eHnAYgt5kw) | 8:51 |
 
-Snapshot ID: `MTYwOTc4ODMzNywwMDAwMDAzMDAwMDAwMTc2Y2VkY2FlMDAwMDAwMDE3NGZhNDAwMmI0`
+Snapshot ID: `MTY0MTg1OTkyMCwwMDAwMDAzMjAwMDAwMTdlNDY3YTMxMmMwMDAwMDE3NGZhNDAwMmI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IsxYrftjp3.md) - [plain]
 
 > All the essentials, one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,617 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,654 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IsxYrftjp3.md) - [plain]
 | 99 | [Angel From Montgomery](https://open.spotify.com/track/3JZRzBdRPCo2j8hXKGK0vZ) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Cayamo Sessions At Sea](https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF) | 4:47 |
 | 100 | [Shadow On the Wall](https://open.spotify.com/track/0NDdsUd1VMbHf9a3Evjihm) | [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Cover Stories: Brandi Carlile Celebrates 10 Years of the Story \(An Album to Benefit War Child\)](https://open.spotify.com/album/59X1CAudCyPp6c6wmg2PWx) | 3:34 |
 
-Snapshot ID: `MTYzMzA2MDgwMCwwMDAwMDAwYTAwMDAwMTdjM2EwMjQ2YmEwMDAwMDE3YWNlOWMyYzRk`
+Snapshot ID: `MTY0MTg1OTk0MywwMDAwMDAwYzAwMDAwMTdlNDY3YThjZjkwMDAwMDE3YWNlOWMyYzRk`

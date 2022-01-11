@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 216320,
       "name": "After My Time",
       "url": "https://open.spotify.com/track/4jIaQrAVTBvJqlT1YGz8My"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 183456,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 265493,
       "name": "I'll Be Here for You",
       "url": "https://open.spotify.com/track/38FPp7vjhk1Z6YXiaxfBJr"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 293760,
       "name": "Modern Drift",
       "url": "https://open.spotify.com/track/2BFL0kBinCKVMCwJolJnKj"
@@ -1017,6 +1017,24 @@
       "duration_ms": 258720,
       "name": "River - Live",
       "url": "https://open.spotify.com/track/5gXUVnYtalAWVScaiw3Vmq"
+    },
+    {
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3LK4XYyHKG5JZZ31DIEyuE"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149491,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0oabsZs7Z8lsKGpaKyyjG2"
     },
     {
       "album": {
@@ -1421,7 +1439,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 271280,
       "name": "What Hurts the Most (Is Knowing You Want to Leave)",
       "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"

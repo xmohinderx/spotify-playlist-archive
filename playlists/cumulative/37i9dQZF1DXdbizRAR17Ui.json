@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "FRIDAY FOREVER",
+        "url": "https://open.spotify.com/album/3xt8egQistHqjJpAayoZz3"
+      },
+      "artists": [
+        {
+          "name": "Everything Is Recorded",
+          "url": "https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X"
+        },
+        {
+          "name": "A. K. Paul",
+          "url": "https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278453,
+      "name": "05:10 AM / DREAM I NEVER HAD",
+      "url": "https://open.spotify.com/track/5ABW8JISDaI4EW4PVCGNM3"
+    },
+    {
+      "album": {
         "name": "2 Far Gone (Vocal Mix)",
         "url": "https://open.spotify.com/album/6mNB0bSEqpW8qJiTZtU8B0"
       },
@@ -63,7 +85,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 155504,
       "name": "A Brand New Start",
       "url": "https://open.spotify.com/track/6QanbknK7HJMOaUqlNCxhz"
@@ -99,7 +121,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
@@ -135,7 +157,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 282000,
       "name": "Amaya",
       "url": "https://open.spotify.com/track/7F4dTMrS9rmtUqaXR5zBdQ"
@@ -171,7 +193,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 304000,
       "name": "An Irish Goodbye",
       "url": "https://open.spotify.com/track/5yQ6238rfWuh9rnl5edc2M"
@@ -229,7 +251,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 246506,
       "name": "Apricots",
       "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
@@ -247,7 +269,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 232960,
       "name": "At Height",
       "url": "https://open.spotify.com/track/4RbsOv27i9dR7YaePhDE8Q"
@@ -301,7 +323,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 264464,
       "name": "Baby",
       "url": "https://open.spotify.com/track/3EsokBbAyQVkg7LoQKc8uV"
@@ -319,7 +341,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 343341,
       "name": "Bby",
       "url": "https://open.spotify.com/track/3x1Tn4rHA7ziJXsHMTJDMY"
@@ -355,7 +377,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 238931,
       "name": "Before I Go",
       "url": "https://open.spotify.com/track/0u3LsiWKTRcBDRTUeXj6EK"
@@ -431,7 +453,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 407991,
       "name": "Brainwave Technology",
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 229542,
       "name": "Cosmos (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1E5y9PZLIAngpD0L699Ul9"
@@ -489,7 +511,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 105333,
       "name": "Daft Puns",
       "url": "https://open.spotify.com/track/3UoLhFBp6qNY8jpSS1AO8F"
@@ -507,7 +529,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 496396,
       "name": "Dart",
       "url": "https://open.spotify.com/track/7x0Y7Ne5O0W2eqWPFqbSWt"
@@ -590,6 +612,28 @@
     },
     {
       "album": {
+        "name": "F Maj Pixie (Rone Remix)",
+        "url": "https://open.spotify.com/album/5DTFO9v4DzZzIW7EZPTESU"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        },
+        {
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256928,
+      "name": "F Maj Pixie - Rone Remix",
+      "url": "https://open.spotify.com/track/0vPeswZSPgCco39FjXhCcy"
+    },
+    {
+      "album": {
         "name": "We Should Chill On The Windowsill More",
         "url": "https://open.spotify.com/album/0j49Rsgfpn2Q7RBQpZDssK"
       },
@@ -637,7 +681,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 373666,
       "name": "God Knows We Tried",
       "url": "https://open.spotify.com/track/4u4kVqtHSNULrl0esijmbK"
@@ -673,7 +717,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 249365,
       "name": "Greener Pastures - Edit",
       "url": "https://open.spotify.com/track/6KxbDZguKzMLGeBKWcwSJG"
@@ -691,7 +735,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 452519,
       "name": "Hawksworth Woods",
       "url": "https://open.spotify.com/track/0FNe7NgezZD4P0lkFcMrKQ"
@@ -731,7 +775,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 234289,
       "name": "Homesick",
       "url": "https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc"
@@ -767,7 +811,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 234050,
       "name": "I Wander",
       "url": "https://open.spotify.com/track/53ULcyZSlmdeMIyXoneiii"
@@ -785,7 +829,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 240029,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/4Am86NV3PnZ5qZt4pzIzfq"
@@ -803,7 +847,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 224946,
       "name": "Impressions",
       "url": "https://open.spotify.com/track/2tXGIXHQZ9STfvfo5yswXk"
@@ -821,7 +865,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "In Your Sleep",
       "url": "https://open.spotify.com/track/38OX7TwpsBbC4zaiDOF7S3"
@@ -839,7 +883,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 324863,
       "name": "In Youth",
       "url": "https://open.spotify.com/track/7BuM7wiAeFCUUP0UoL92X5"
@@ -915,7 +959,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 216000,
       "name": "Kahan (Last Year)",
       "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
@@ -969,7 +1013,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 280895,
       "name": "Laamore",
       "url": "https://open.spotify.com/track/7FcmCUd5fbtw2zpRBQwIBb"
@@ -994,6 +1038,28 @@
     },
     {
       "album": {
+        "name": "Leko Remixes",
+        "url": "https://open.spotify.com/album/2c1dSyxxTwetuIYUfWky09"
+      },
+      "artists": [
+        {
+          "name": "Kink",
+          "url": "https://open.spotify.com/artist/6yCdWsTDt4Dmb5GMZd5QLb"
+        },
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325414,
+      "name": "Leko - Session Victim Remix",
+      "url": "https://open.spotify.com/track/18nGprzEucUO4FF768lLhe"
+    },
+    {
+      "album": {
         "name": "Let\u2019s Sing Let\u2019s Dance",
         "url": "https://open.spotify.com/album/2v3RfmAE1IyyUDjsKyGreG"
       },
@@ -1005,7 +1071,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 230765,
       "name": "Let\u2019s Sing Let\u2019s Dance",
       "url": "https://open.spotify.com/track/43e9tSxVoL8LEWd5oLkR1S"
@@ -1132,6 +1198,28 @@
     },
     {
       "album": {
+        "name": "Luminous Spaces",
+        "url": "https://open.spotify.com/album/7E1ug6ydBki9DydefZzG9F"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280586,
+      "name": "Luminous Spaces - Edit",
+      "url": "https://open.spotify.com/track/7nbLUoUimkbWVQqsZ1mkp8"
+    },
+    {
+      "album": {
         "name": "Re:",
         "url": "https://open.spotify.com/album/5GYScwETUfAVDgEP8L1bbA"
       },
@@ -1213,7 +1301,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 185751,
       "name": "Moving Up",
       "url": "https://open.spotify.com/track/4fVc3sWHB984OYDaPQotTa"
@@ -1231,7 +1319,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
@@ -1253,7 +1341,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 304486,
       "name": "New Gods - Ron Basejam Remix",
       "url": "https://open.spotify.com/track/3Pckvky9FxWNjlmHa22QuB"
@@ -1293,7 +1381,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 252000,
       "name": "No Goodbye",
       "url": "https://open.spotify.com/track/3hSWPdtI58IANIOhulRR7v"
@@ -1311,7 +1399,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 278007,
       "name": "No Road Without a Turn",
       "url": "https://open.spotify.com/track/62RG9MmOva4JHnk7g7m4Vq"
@@ -1329,7 +1417,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 236307,
       "name": "nobody but u",
       "url": "https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw"
@@ -1351,7 +1439,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 340853,
       "name": "Pause",
       "url": "https://open.spotify.com/track/4r1sucDlwhcDNobr2rDmIH"
@@ -1387,7 +1475,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 326500,
       "name": "Points Beyond",
       "url": "https://open.spotify.com/track/23N0RehCjU9KC7WfEzxdgJ"
@@ -1459,7 +1547,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 321968,
       "name": "Replica",
       "url": "https://open.spotify.com/track/1nnqBFkojZ8gTazMJc7rn1"
@@ -1502,6 +1590,24 @@
     },
     {
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/44bdIAMpjgPK3BWeRWbvyS"
+      },
+      "artists": [
+        {
+          "name": "Leifur James",
+          "url": "https://open.spotify.com/artist/2N1foZRamgP1sfiYXFID9O"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355945,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/4yZJa4GNFWR99eb2HQpA5Q"
+    },
+    {
+      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -1531,7 +1637,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 247065,
       "name": "Sapphire Eyes",
       "url": "https://open.spotify.com/track/4kj0BrKnUuQTZWR8aA3iNS"
@@ -1738,6 +1844,24 @@
     },
     {
       "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/7lQ7md6HKhxlI9Axyw4d8Y"
+      },
+      "artists": [
+        {
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268235,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/24RVLhKVJv7jivoVTTQhD3"
+    },
+    {
+      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/1DEJoLpHJgQrKW4g6OtNSp"
       },
@@ -1771,7 +1895,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 294905,
       "name": "Tastes Like Freedom - Carista Remix",
       "url": "https://open.spotify.com/track/6g6KLTBmnhBgW77yjuybp3"
@@ -1825,7 +1949,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 192899,
       "name": "The Path",
       "url": "https://open.spotify.com/track/0a6Gsxg9F2y28YaXb4mPY4"
@@ -1861,7 +1985,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
@@ -1879,7 +2003,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 270002,
       "name": "The Sun Made For A Soft Landing",
       "url": "https://open.spotify.com/track/39vC0mokdXbWbdzzUymp3x"
@@ -1915,7 +2039,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 140000,
       "name": "To You",
       "url": "https://open.spotify.com/track/7CHQehYkdKKLQD9oqtvgfi"
@@ -1933,7 +2057,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 486941,
       "name": "Together - Rework",
       "url": "https://open.spotify.com/track/6PBGwNxMnoAxJWzHCeKniV"
@@ -1991,7 +2115,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 328156,
       "name": "Vee - (Remix)",
       "url": "https://open.spotify.com/track/1xnaAMmxda3jtgt9ncspIi"
@@ -2027,7 +2151,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 512177,
       "name": "Wide Awake in an Open Space",
       "url": "https://open.spotify.com/track/5dOBFiuMwJJ3ID1dvGm5f9"
@@ -2081,7 +2205,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 335933,
       "name": "You",
       "url": "https://open.spotify.com/track/7ixcG6IRgrFNWc8KO6lHDY"

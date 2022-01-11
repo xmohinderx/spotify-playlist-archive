@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hImzzXX6Mw.md) - [plain]
 
 > Check out the latest album, Snow, as well as the best moments from Sydney's brother\-and\-sister <a href="spotify:artist:4tvKz56Tr39bkhcQUTO0Xr">duo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,889 likes - 60 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,921 likes - 60 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hImzzXX6Mw.md) - [plain]
 | 59 | [Yellow Brick Road](https://open.spotify.com/track/2F8vS39WACXMVEapj9ad7n) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Down The Way](https://open.spotify.com/album/0C29hfEJQdcyzpTHy8tTXr) | 7:36 |
 | 60 | [Lonely Hands \- Julia's Version Of Just A Boy](https://open.spotify.com/track/73P5by1r1Yl5kD1NVE5gGu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Memories Of An Old Friend](https://open.spotify.com/album/5poJ6ZEu2nSeVTjpY4Z39z) | 3:46 |
 
-Snapshot ID: `MTU4MzQ4ODg3MiwwMDAwMDAwYzAwMDAwMTZlNmZlZjc5ZTIwMDAwMDE3MGFmNGFiMTdm`
+Snapshot ID: `MTY0MTg1OTc4NCwwMDAwMDAwZTAwMDAwMTdlNDY3ODFkYzMwMDAwMDE3MGFmNGFiMTdm`

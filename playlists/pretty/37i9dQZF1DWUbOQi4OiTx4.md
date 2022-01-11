@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbOQi4OiTx4.md) - [plain]
 
 > The best of the band's 8 albums!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,763 likes - 37 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,759 likes - 37 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbOQi4OiTx4.md) - [plain]
 | 36 | [Floating \(Time Isn't Working My Side\)](https://open.spotify.com/track/6nb2FEA0N0xebCwoPW0RW6) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [In the Mountain in the Cloud](https://open.spotify.com/album/1OWNvsDzhEwT5cXLlo9iO7) | 3:36 |
 | 37 | [Shade](https://open.spotify.com/track/0BCRg55jHpvPONP7yCm87V) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Church Mouth](https://open.spotify.com/album/46KiOIqiscE85WAZhDIkPv) | 3:58 |
 
-Snapshot ID: `MTU2NzUwNDY2MiwwMDAwMDAwYzAwMDAwMTY1NDM3ZjIxM2YwMDAwMDE2Y2Y2OGVmZTMz`
+Snapshot ID: `MTY0MTg2MTI3NywwMDAwMDAwZTAwMDAwMTdlNDY4ZWU4ZmEwMDAwMDE2Y2Y2OGVmZTMz`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5BAPG29mHS8.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5BAPG29mHS8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5BAPG29mHS8)
 
-### Éxitos México
+### [Éxitos México](https://open.spotify.com/playlist/63poUoUtwzQDsNKgrO1ZRT)
 
 > Los hits de ahora en la playlist más grande de México, con Grupo Firme y Maluma.
 

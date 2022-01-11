@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUFAJPVM3HTX.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUFAJPVM3HTX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUFAJPVM3HTX)
 
-### Fresh Finds R&B: Best of 2021
+### [Fresh Finds R&B: Best of 2021](https://open.spotify.com/playlist/3D07lgOwOo9vB70KqZ8gyJ)
 
 > The top tracks from Fresh Finds R&B in 2021\. Cover: Samaria, Artwork: Crystal Zapata
 

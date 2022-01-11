@@ -645,7 +645,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 150866,
       "name": "I Love You Lina",
       "url": "https://open.spotify.com/track/4a2AUYDT9qsCKE69u4WVn4"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 242960,
       "name": "Ken Yama Disco",
       "url": "https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 190693,
       "name": "Mabruk - aJan Remix",
       "url": "https://open.spotify.com/track/42aj9S0x6rCj0bQPrM3IMJ"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 170000,
       "name": "Mafatshi Leh",
       "url": "https://open.spotify.com/track/520RV8A1weQ6gQLsOyO7zw"
@@ -919,10 +919,28 @@
       ],
       "date_added": "2020-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 213266,
       "name": "Music Laounga 79",
       "url": "https://open.spotify.com/track/11AzUEPBJuCG5F0DvRI7n8"
+    },
+    {
+      "album": {
+        "name": "Bob Azzam. Sus Grandes \u00c9xitos (1959-1963)",
+        "url": "https://open.spotify.com/album/3Qo2ff1Twfk6mjaegAey6Y"
+      },
+      "artists": [
+        {
+          "name": "Bob Azzam",
+          "url": "https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163706,
+      "name": "Mustapha",
+      "url": "https://open.spotify.com/track/3QkGwYyVrlGnPx7AQPrf9M"
     },
     {
       "album": {

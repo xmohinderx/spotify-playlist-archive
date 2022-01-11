@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bJVMtDYJHx.md) - [plain]
 
 > Celebrating the legacy of the undisputed Queen of Soul, Aretha Franklin\.  Her most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,767 likes - 51 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,814 likes - 51 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bJVMtDYJHx.md) - [plain]
 | 50 | [It Isn't, It Wasn't, It Ain't Never Gonna Be \(with Whitney Houston\) \- Album Edit](https://open.spotify.com/track/47TXwjVRQ9I4MVKg3TXNdZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Exhale](https://open.spotify.com/album/4feyjHLm31HxeKGegVXYPZ) | 4:51 |
 | 51 | [You Keep Me Hangin' On](https://open.spotify.com/track/59FVyaSxXzvoTQKNw4Rz0q) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Franklin Sings The Great Diva Classics](https://open.spotify.com/album/6GDaEPN935WkElYXTR6Ejd) | 4:41 |
 
-Snapshot ID: `MTU2ODAxODgzNCwwMDAwMDAwZjAwMDAwMTY1NDk4MDExMDcwMDAwMDE2ZDE1MzRhNGFh`
+Snapshot ID: `MTY0MTg1OTgxNywwMDAwMDAxMTAwMDAwMTdlNDY3ODlmY2QwMDAwMDE2ZDE1MzRhNGFh`

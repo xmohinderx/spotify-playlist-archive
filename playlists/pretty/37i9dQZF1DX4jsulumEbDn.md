@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jsulumEbDn.md) - [plain]
 
 > The <a href="spotify:artist:066X20Nz7iquqkkCW6Jxy6">band</a>'s greatest hits, including selections from their latest album, american dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,487 likes - 23 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,501 likes - 23 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jsulumEbDn.md) - [plain]
 | 22 | [christmas will break your heart](https://open.spotify.com/track/0dMGq0YUOik1rMZicB96Qa) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [christmas will break your heart](https://open.spotify.com/album/3skXXEPIZHApEfglcwIlvR) | 4:26 |
 | 23 | [us v them \- live at madison square garden](https://open.spotify.com/track/1C5clIP355I4ujVGQv4UCw) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [the long goodbye \(lcd soundsystem live at madison square garden\)](https://open.spotify.com/album/1J60iwLlrXqJokziB4h19U) | 9:21 |
 
-Snapshot ID: `MTU2ODAxNjQ5OCwwMDAwMDAwZTAwMDAwMTZiMDAwZTQwMTYwMDAwMDE2ZDE1MTBmZmFl`
+Snapshot ID: `MTY0MTg2MDc0NywwMDAwMDAxMDAwMDAwMTdlNDY4NmQxNWUwMDAwMDE2ZDE1MTBmZmFl`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8vTpEmKeKvc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8vTpEmKeKvc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8vTpEmKeKvc)
 
-### Perreo Viral
+### [Perreo Viral](https://open.spotify.com/playlist/6afTdhqYBqZmHKd0ffMNVu)
 
 > Dale duro con los éxitos perreadores virales del momento.
 

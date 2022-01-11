@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mMRxgkst0Y.md) - [plain]
 
 > Their finest work, in one playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,982 likes - 62 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,992 likes - 62 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mMRxgkst0Y.md) - [plain]
 | 61 | [The Heads of Dead Surfers](https://open.spotify.com/track/3UBMke7L7yRJSyIQT3BGmu) | [Long Fin Killie](https://open.spotify.com/artist/03lLRM1qTzyuU7YkGsYknd) | [Houdini](https://open.spotify.com/album/2Avhagk1hnCEPcdWf3BqZc) | 3:49 |
 | 62 | [Green Eyed Loco\-Man](https://open.spotify.com/track/12lrzWqQvnhk8kbmpszk7D) | [The Fall](https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6) | [Country On The Click](https://open.spotify.com/album/1Ep8UQD09Dza1u71DnAsC4) | 3:47 |
 
-Snapshot ID: `MTU2NzUwNTAyNSwwMDAwMDAwYjAwMDAwMTY4MjkzMzA4NGIwMDAwMDE2Y2Y2OTQ4YjI3`
+Snapshot ID: `MTY0MTg2MTY2OCwwMDAwMDAwZDAwMDAwMTdlNDY5NGRjZDMwMDAwMDE2Y2Y2OTQ4YjI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxZQJxjFMLO.md) - [plain]
 
 > The band's essential tracks, all in a single playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,166 likes - 46 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,242 likes - 46 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxZQJxjFMLO.md) - [plain]
 | 45 | [Long Way From Home](https://open.spotify.com/track/75JB7iZtTAuDyNjGMc1wt1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra \(Deluxe\)](https://open.spotify.com/album/5fY8mYgYGkyaJ9XvVOzVQA) | 2:32 |
 | 46 | [Charlie Boy](https://open.spotify.com/track/5Cg87Xr0CqcVh2ZqCurocM) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [The Lumineers \(Deluxe Edition\)](https://open.spotify.com/album/0nRgsLe1she16l3pclpyy7) | 4:21 |
 
-Snapshot ID: `MTYzMjUwMDQwMiwwMDAwMDAxMTAwMDAwMTdjMTg5YjQ4YzgwMDAwMDE3YzE4OWIwMWIx`
+Snapshot ID: `MTY0MTg2MTY4MSwwMDAwMDAxMzAwMDAwMTdlNDY5NTEyNTYwMDAwMDE3YzE4OWIwMWIx`

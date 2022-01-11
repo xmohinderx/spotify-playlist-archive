@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zPl1mbTZSq.md) - [plain]
 
 > The best of Deftones, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,051 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,128 likes - 50 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zPl1mbTZSq.md) - [plain]
 | 49 | [Rickets](https://open.spotify.com/track/7Ca5yTC81P0AtRnNKHKzwJ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 2:42 |
 | 50 | [Pompeji](https://open.spotify.com/track/0qVlikZi9VNhMnPf47zGMv) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:25 |
 
-Snapshot ID: `MTYyMzMyMjAyOCwwMDAwMDAzYTAwMDAwMTc5ZjU4ODZhMDUwMDAwMDE3MmNlMTQ1NWFh`
+Snapshot ID: `MTY0MTg2MDE3NSwwMDAwMDAzYzAwMDAwMTdlNDY3ZTE2MzkwMDAwMDE3MmNlMTQ1NWFh`

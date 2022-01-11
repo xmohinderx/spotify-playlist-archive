@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE9M7aTCxK.md) - [plain]
 
 > All of the classics songs, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,968 likes - 52 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,976 likes - 52 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KE9M7aTCxK.md) - [plain]
 | 51 | [I Am an Alcoholic](https://open.spotify.com/track/7eu4YeUsHL7D8iROkspiCQ) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Coaster](https://open.spotify.com/album/6V43R4bYJqOBI9Iv60NgDR) | 2:36 |
 | 52 | [I Don't Like Me Anymore](https://open.spotify.com/track/3V5YvDJvJYLrjzuzl23dC9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/7C0KC68isgrHpV43072lYE) | 2:30 |
 
-Snapshot ID: `MTYxNDMxNTY2MCwwMDAwMDAxNzAwMDAwMTc3ZGNiNjIzNTIwMDAwMDE3NGY4NDUwMzli`
+Snapshot ID: `MTY0MTg2MTA2NSwwMDAwMDAxOTAwMDAwMTdlNDY4YmFiOTYwMDAwMDE3NGY4NDUwMzli`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JuPU62sIoU.md) - [plain]
 
 > Get all the essential music by Nickelback.
 
-[Spotify](https://open.spotify.com/user/spotify) - 497,499 likes - 33 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 497,621 likes - 33 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JuPU62sIoU.md) - [plain]
 | 32 | [This Means War](https://open.spotify.com/track/4i76vmvahz5a4MhinU59sI) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now \(Audio Only Version\)](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:20 |
 | 33 | [Leader of Men](https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The State](https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb) | 3:30 |
 
-Snapshot ID: `MTU4MjYzNDEyOCwwMDAwMDAwZTAwMDAwMTcwN2M1ODU1OTQwMDAwMDE2ZDE1MTE2YjA3`
+Snapshot ID: `MTY0MTg2MTEwMCwwMDAwMDAxMDAwMDAwMTdlNDY4YzMyNWQwMDAwMDE2ZDE1MTE2YjA3`

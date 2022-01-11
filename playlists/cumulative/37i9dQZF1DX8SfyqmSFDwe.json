@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-09",
   "description": "Solo los cl\u00e1sicos. The movement\u2019s roots. Cover: Daddy Yankee",
   "name": "Reggaeton Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5IpFUHnh5qMyd0m1fdV3hG"
+  ],
   "tracks": [
     {
       "album": {
@@ -105,6 +107,28 @@
       "duration_ms": 157701,
       "name": "Agarrala",
       "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+    },
+    {
+      "album": {
+        "name": "The Pitbulls",
+        "url": "https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189480,
+      "name": "Ag\u00e1rrale el Pantal\u00f3n (feat. Zion & Lennox)",
+      "url": "https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9"
     },
     {
       "album": {
@@ -299,7 +323,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 192000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1810h6qkazO0NWahk1TyTy"
@@ -468,6 +492,24 @@
     },
     {
       "album": {
+        "name": "Sangre Nueva Special Edition",
+        "url": "https://open.spotify.com/album/02aLmclNogrHwzJnrD3oBX"
+      },
+      "artists": [
+        {
+          "name": "Yomo",
+          "url": "https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250093,
+      "name": "Dejale Caer To Peso",
+      "url": "https://open.spotify.com/track/1b4QQFr0kifiSkzHb5kni4"
+    },
+    {
+      "album": {
         "name": "The Last Don",
         "url": "https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz"
       },
@@ -617,7 +659,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
@@ -785,7 +827,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 212533,
       "name": "Esta Noche de Travesuras (feat. H\u00e9ctor \"El Father\")",
       "url": "https://open.spotify.com/track/2QNRG78xcJZpLyXYX4JmhD"
@@ -833,6 +875,28 @@
       "duration_ms": 173866,
       "name": "Flow Natural",
       "url": "https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk"
+    },
+    {
+      "album": {
+        "name": "Chosen Few El Documental II",
+        "url": "https://open.spotify.com/album/1TVl1g20UTbzmoPgyyqjCe"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183133,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/7Fmf6fTY42XwGIgQQR69CU"
     },
     {
       "album": {
@@ -989,7 +1053,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
@@ -1029,7 +1093,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 195680,
       "name": "Llam\u00e9 Pa' Verte",
       "url": "https://open.spotify.com/track/7oYouEGAQJpU75CAWFEMi2"
@@ -1047,7 +1111,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 197213,
       "name": "Llam\u00e9 Pa' Verte (Bailando Sexy)",
       "url": "https://open.spotify.com/track/5D2iVy2CGtBwBijupavbHl"
@@ -1115,7 +1179,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 269558,
       "name": "los Disicipulos",
       "url": "https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX"
@@ -1141,6 +1205,82 @@
       "duration_ms": 257880,
       "name": "Mala Conducta (feat. Franco El Gorila)",
       "url": "https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq"
+    },
+    {
+      "album": {
+        "name": "N.O.R.E. Y La Familia",
+        "url": "https://open.spotify.com/album/0RLMAxS9mhy149lu93u7GA"
+      },
+      "artists": [
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Big Mato",
+          "url": "https://open.spotify.com/artist/0tG3OtnzCjdbL1ZVkDprlS"
+        },
+        {
+          "name": "Nina Sky",
+          "url": "https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6"
+        },
+        {
+          "name": "Chingo Bling",
+          "url": "https://open.spotify.com/artist/7uWSNqvFk0TnPO9zKbzLI5"
+        },
+        {
+          "name": "Lil Rob",
+          "url": "https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1"
+        },
+        {
+          "name": "Negra",
+          "url": "https://open.spotify.com/artist/0PdmY0FMagjBmahnt6TWpF"
+        },
+        {
+          "name": "Lumidee",
+          "url": "https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274946,
+      "name": "Mas Maiz",
+      "url": "https://open.spotify.com/track/3r3v3yoi2dEowTwO1IAfLy"
+    },
+    {
+      "album": {
+        "name": "Mayor Que Yo 3",
+        "url": "https://open.spotify.com/album/571drPm82JNSynpu9yhEEX"
+      },
+      "artists": [
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304746,
+      "name": "Mayor Que Yo 3",
+      "url": "https://open.spotify.com/track/4777sGsOdoM89vPH3CVoLe"
     },
     {
       "album": {
@@ -1261,7 +1401,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 158373,
       "name": "Morena - Re-Mix",
       "url": "https://open.spotify.com/track/1ZE19OuOnqsMFB6V9Gtzcy"
@@ -1423,7 +1563,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 212733,
       "name": "Noche de Travesura",
       "url": "https://open.spotify.com/track/6ODIW5KyJKtXY2rOuXv9WW"
@@ -2085,7 +2225,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 183196,
       "name": "Te Ir\u00e9 a Buscar",
       "url": "https://open.spotify.com/track/4UPeS038Mxup1H4bl0PsS8"
@@ -2139,7 +2279,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 195453,
       "name": "Travesuras",
       "url": "https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5"
@@ -2255,7 +2395,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 247026,
       "name": "Welcome To My Crib",
       "url": "https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB"
@@ -2281,6 +2421,24 @@
       "duration_ms": 249600,
       "name": "YO LE LLEGO",
       "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Diamond Collection",
+        "url": "https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199367,
+      "name": "Yo No Soy Tu Marido",
+      "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"
     },
     {
       "album": {

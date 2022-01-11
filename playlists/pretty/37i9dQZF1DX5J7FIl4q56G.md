@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Fit For An Autopsy
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,832 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,989 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two Towers](https://open.spotify.com/track/3XlaOuW4DqjxNMkAymbyHK) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Two Towers](https://open.spotify.com/album/3rU63KBhXWboo4ScB6JbhE) | 5:46 |
 | 2 | [Zombified](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Zombified](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 |
-| 3 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 |
-| 4 | [Where Angels Fear to Fly](https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Where Angels Fear to Fly](https://open.spotify.com/album/38t4KgvHehPZhi9X55tZ8O) | 3:56 |
-| 5 | [Let the Devil In](https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Let the Devil In](https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B) | 4:40 |
-| 6 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 |
+| 3 | [Changes](https://open.spotify.com/track/1UE2CNieJRlvAL5xxyQgPT) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb) | [Changes](https://open.spotify.com/album/4gDPDFL9lxg1865PN8niQB) | 3:47 |
+| 4 | [Let the Devil In](https://open.spotify.com/track/56l9aTJffgtP3Kssrcb7Q6) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [Let the Devil In](https://open.spotify.com/album/60KSJrOiVwx4rBFPjvEl9B) | 4:40 |
+| 5 | [Soldier of Heaven](https://open.spotify.com/track/3E03jj3nVNtFoMYQIweVdG) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Soldier Of Heaven](https://open.spotify.com/album/7u1ih7nlNGFE9sAkM4ac8C) | 3:38 |
+| 6 | [Where Angels Fear to Fly](https://open.spotify.com/track/4Ytkv0PncFeYbkJ58N9J3I) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Where Angels Fear to Fly](https://open.spotify.com/album/38t4KgvHehPZhi9X55tZ8O) | 3:56 |
 | 7 | [Ghost](https://open.spotify.com/track/0PPsOAF1loXe5o17JF8ijC) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Ghost](https://open.spotify.com/album/2extIZQBxGjeP7pmrcvlYK) | 3:24 |
 | 8 | [Everywhere I Go \- Remastered](https://open.spotify.com/track/1jEyOA2Uz6tghdNpm8lDSs) | [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc), [RichaadEB](https://open.spotify.com/artist/4IF11U0nzFhAaLDGZH3vSx) | [Everywhere I Go \(Remastered\)](https://open.spotify.com/album/3IftFaUwO8Hwg9XdglrRa5) | 3:38 |
 | 9 | [Paranormalium](https://open.spotify.com/track/3634Lir0Zjbiq3SIivY5Qv) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Paranormalium](https://open.spotify.com/album/7Lft05qgM4TCVH1LhRzm1i) | 5:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [The Heart](https://open.spotify.com/track/2vODVO0uX0n9jIB7qEBsY0) | [Defences](https://open.spotify.com/artist/6M3IxScP80lP27UNxjrMJv) | [The Heart](https://open.spotify.com/album/796mcXUfSwaQyn0lPqyfeU) | 3:18 |
 | 100 | [Dead Standing Tree](https://open.spotify.com/track/70DvSAwAVatVG9Hrl9EBZp) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Dead Standing Tree](https://open.spotify.com/album/2wmX2PhzMV1H39LK0DhnBZ) | 3:44 |
 
-Snapshot ID: `MTY0MTUxMzY2MCwwMDAwMDRkNTAwMDAwMTdlMzFkNmFlYzAwMDAwMDE3ZTJhNjJhMzY4`
+Snapshot ID: `MTY0MTgwMDY0MiwwMDAwMDRkNjAwMDAwMTdlNDJmMWFlODMwMDAwMDE3ZTJhNjJhMzY4`

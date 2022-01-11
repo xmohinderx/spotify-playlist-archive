@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 354546,
       "name": "It's Been a Long Time",
       "url": "https://open.spotify.com/track/1O21Yvf4Yj0N3OkLJGIr9j"
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 183160,
       "name": "Ooh I Love You",
       "url": "https://open.spotify.com/track/0z7KWM6WxU9BcXiNNjy913"
@@ -1797,7 +1797,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 164093,
       "name": "Poor-Unfortunate-Me",
       "url": "https://open.spotify.com/track/4umvQxT5ZKCIOS4rC42DXK"
@@ -1833,7 +1833,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 196666,
       "name": "Save Your Love for Me",
       "url": "https://open.spotify.com/track/0zqcehfRKNfDetTUzzQt7C"
@@ -1869,10 +1869,28 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 212133,
       "name": "Somebody Done Took My Baby and Gone",
       "url": "https://open.spotify.com/track/0L2tboG1vnqtumFv6tT3oq"
+    },
+    {
+      "album": {
+        "name": "Eccentric Soul: The Saadia Label",
+        "url": "https://open.spotify.com/album/6qA44kTPPgHYcpphlPqMei"
+      },
+      "artists": [
+        {
+          "name": "Joey Gilmore",
+          "url": "https://open.spotify.com/artist/3plaeA9K4obOgZifz8qx64"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Somebody Done Took My Baby and Gone",
+      "url": "https://open.spotify.com/track/3K7yV1QR1KdbMfJZNplbZG"
     },
     {
       "album": {
@@ -2035,6 +2053,24 @@
       "duration_ms": 145240,
       "name": "Tell Her",
       "url": "https://open.spotify.com/track/4zQ7CBpH3PMCVdbqIliiPK"
+    },
+    {
+      "album": {
+        "name": "Best of Ace: Soul Harmony",
+        "url": "https://open.spotify.com/album/5pvtLBdidGOsGf4ADV5ZZU"
+      },
+      "artists": [
+        {
+          "name": "The Performers",
+          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "That Day When She Needed Me",
+      "url": "https://open.spotify.com/track/23HrP2GG39ArccdOvgHTvf"
     },
     {
       "album": {

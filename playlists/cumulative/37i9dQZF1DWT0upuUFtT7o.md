@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWT0upuUFtT7o.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWT0upuUFtT7o) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWT0upuUFtT7o)
 
-### Fresh Finds Indie: Best of 2021
+### [Fresh Finds Indie: Best of 2021](https://open.spotify.com/playlist/2HcHYp9VBehX8K2KHYE7h3)
 
 > The top tracks of Fresh Finds Indie 2021\. Cover: girlhouse Artwork: Robin Clifford Ellis
 

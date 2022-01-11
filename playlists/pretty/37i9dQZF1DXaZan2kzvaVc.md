@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaZan2kzvaVc.md) - [plain]
 
 > The Beach Boys, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,720 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,752 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaZan2kzvaVc.md) - [plain]
 | 49 | [Vega\-Tables](https://open.spotify.com/track/4lLw6YNzpJrnEW7ZFvJwhs) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Smile Sessions](https://open.spotify.com/album/01TG7VOg4F90jXv3a1yCgA) | 3:48 |
 | 50 | [Love And Mercy](https://open.spotify.com/track/4IgYPQUX3BQIXINj5HNbDf) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [I Just Wasn't Made For These Times](https://open.spotify.com/album/4Hloqpk5K9sKQWvHElBTAv) | 3:13 |
 
-Snapshot ID: `MTU2ODAxNzg4MiwwMDAwMDAwZTAwMDAwMTY0MWQzM2Q2ZWYwMDAwMDE2ZDE1MjYxYzZi`
+Snapshot ID: `MTY0MTg2MTY0MiwwMDAwMDAxMDAwMDAwMTdlNDY5NDc5NTQwMDAwMDE2ZDE1MjYxYzZi`

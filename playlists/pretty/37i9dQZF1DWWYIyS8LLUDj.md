@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYIyS8LLUDj.md) - [plain]
 
 > Stevie Wonder, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,554 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,634 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYIyS8LLUDj.md) - [plain]
 | 49 | [Mr\. Tambourine Man](https://open.spotify.com/track/2DuHY4meaFz04Qs2UXfKir) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Down To Earth](https://open.spotify.com/album/1MB4UsW8MUMLMRxuNsXpDm) | 2:30 |
 | 50 | [Did I Hear You Say You Love Me](https://open.spotify.com/track/3UKhp4MoWzRXQ8Vccz9dXl) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Hotter Than July](https://open.spotify.com/album/2tO3rrZ6q3OjHJMGVo13dh) | 4:07 |
 
-Snapshot ID: `MTU2ODAxNzU5MCwwMDAwMDAxYjAwMDAwMTZiNjViODBlY2QwMDAwMDE2ZDE1MjFhN2Fi`
+Snapshot ID: `MTY0MTg2MTU1MCwwMDAwMDAxZDAwMDAwMTdlNDY5MzExMmEwMDAwMDE2ZDE1MjFhN2Fi`

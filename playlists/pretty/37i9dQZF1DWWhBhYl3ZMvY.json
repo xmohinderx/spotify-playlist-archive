@@ -1,63 +1,15 @@
 {
   "description": "Catch all the essential tracks by the multitalented Rihanna.",
   "name": "This Is Rihanna",
-  "num_followers": 2311853,
+  "num_followers": 2312395,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMTYyNTI2MiwwMDAwMDAyZTAwMDAwMTdiZTQ3MWI3N2UwMDAwMDE2ZDAwYjBmZDFk",
+  "snapshot_id": "MTY0MTgxMzEzMiwwMDAwMDAyZjAwMDAwMTdlNDNiMDQzMDgwMDAwMDE2ZDAwYjBmZDFk",
   "tracks": [
     {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Talk That Talk (Deluxe)",
-        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/1tjY4H0X706ZH03SXa1DFh"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/0lpi9UvopEQr9sVpFVv52w"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 222920,
-      "name": "Rude Boy",
-      "url": "https://open.spotify.com/track/5hlWtrnVUyAze5WkxF9P56"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Talk That Talk (Deluxe)",
         "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
@@ -77,10 +29,10 @@
       "url": "https://open.spotify.com/track/5uImkHXfTLkNYwemtGH7kB"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
-        "name": "Bitch Better Have My Money",
-        "url": "https://open.spotify.com/album/0L6tzOdcRwb82xMBZ3WZyi"
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
       },
       "artists": [
         {
@@ -88,12 +40,44 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 219305,
-      "name": "Bitch Better Have My Money",
-      "url": "https://open.spotify.com/track/5lnsCyEKWofnC00U4Ax0ti"
+      "duration_ms": 242680,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/1tjY4H0X706ZH03SXa1DFh"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6O20JhBJPePEkBdrB5sqRx"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/0lpi9UvopEQr9sVpFVv52w"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222920,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/5hlWtrnVUyAze5WkxF9P56"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
@@ -104,12 +88,12 @@
           "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 243533,
-      "name": "S&M",
-      "url": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
@@ -129,7 +113,39 @@
       "url": "https://open.spotify.com/track/2Y2ud3awMZHDxOCpDebiv3"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Bitch Better Have My Money",
+        "url": "https://open.spotify.com/album/0L6tzOdcRwb82xMBZ3WZyi"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 219305,
+      "name": "Bitch Better Have My Money",
+      "url": "https://open.spotify.com/track/5lnsCyEKWofnC00U4Ax0ti"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "S&M",
+      "url": "https://open.spotify.com/track/0C4ejWmOTMv8vuYj85mf8m"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
@@ -165,7 +181,7 @@
       "url": "https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
@@ -181,7 +197,7 @@
       "url": "https://open.spotify.com/track/6tXjP6xgPJ7Xr1igrO6bOE"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "ANTI",
         "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/3kfxarilcBr81mb2hmZLeh"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
@@ -213,7 +229,7 @@
       "url": "https://open.spotify.com/track/01BvT9GPtThEzcMxkptkgN"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "This Is What You Came For (feat. Rihanna)",
         "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/1Bx0zEdVjkFlV27iKaePug"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
@@ -265,7 +281,7 @@
       "url": "https://open.spotify.com/track/3mmjD9G2HUUzDbFl3NRDLM"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/2Pr6XAzfBObBUTgiSXmr3n"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/6GC6lcKgjCdsdIz5OiCUw5"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
@@ -301,27 +317,7 @@
       "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/2JNVoEx4psIgNQyEExwQVn"
@@ -341,23 +337,7 @@
       "url": "https://open.spotify.com/track/14WWzenpaEgQZlqPq2nk4v"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "FourFiveSeconds",
         "url": "https://open.spotify.com/album/3W6dGZZiH1GxBiQWE5CjzK"
@@ -381,7 +361,27 @@
       "url": "https://open.spotify.com/track/5XzmZjXhMjDHr7ZfJ6DELQ"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/42Ow7PS3YtCWplolUUigDo"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/3husjxyCMBvNeiTEcrpPSe"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/0uIGzK6ukV0A5yWoCxPkRL"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "ANTI",
         "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/1dI1pt7GNjMI6pbSOd2MD6"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/4789yoeBIsBi6et3z0fyly"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/2RWs4c3ZJ74WwXlVC3QCQN"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "A Girl Like Me",
         "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/4S5b3wwIXpVNvY2jeIQdKu"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
@@ -533,7 +533,23 @@
       "url": "https://open.spotify.com/track/6M6lsQB4OhqL41eld29PeC"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "If It's Lovin' That You Want",
+        "url": "https://open.spotify.com/album/1ig72A2siD32Pi0TyKWBbM"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 207106,
+      "name": "If It's Lovin' That You Want",
+      "url": "https://open.spotify.com/track/3eZq3x598iAWrcKJ8xY3HO"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "ANTI",
         "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/60RWYBk24Z6lHxMcWD0oh0"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Wild Thoughts",
         "url": "https://open.spotify.com/album/6XMTRp9sURjgP9g23ppEri"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/4IIUaKqGMElZ3rGtuvYlNc"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Rated R",
         "url": "https://open.spotify.com/album/0lpi9UvopEQr9sVpFVv52w"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/2e2XwMMNEdERsHLpOg7aEM"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
@@ -605,7 +621,7 @@
       "url": "https://open.spotify.com/track/5bXd8zA39HyVPdfcFqR3lK"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "American Oxygen",
         "url": "https://open.spotify.com/album/1jzR3xpKcncJ1GBBucctXP"
@@ -621,203 +637,7 @@
       "url": "https://open.spotify.com/track/539HpTjkmnhbPn3p7mjByN"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Consideration",
-      "url": "https://open.spotify.com/track/2Gxna051PLTjjQVWTOP67D"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Talk That Talk (Deluxe)",
-        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "You Da One",
-      "url": "https://open.spotify.com/track/5DBfBBTNQH20XbNqp2XZJE"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Good Girl Gone Bad: Reloaded",
-        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Shut Up And Drive",
-      "url": "https://open.spotify.com/track/3m7Fne4xA0bsKzEaWbNucr"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "Yeah, I Said It",
-      "url": "https://open.spotify.com/track/4Ruw8TzoqEgDe9A5xfZ8GG"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Talk That Talk (Deluxe)",
-        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Talk That Talk",
-      "url": "https://open.spotify.com/track/7ksS2VMMt5ZDSpZOQTVj73"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "A Girl Like Me",
-        "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "We Ride",
-      "url": "https://open.spotify.com/track/6RXqIGyOGj0zqdpN0Nlv4g"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 120626,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/62uuztuThFtrMuigPgbGuR"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 217575,
-      "name": "Princess of China - Radio Edit",
-      "url": "https://open.spotify.com/track/6XJ2PVp2Vs9G2j5B2Cbbnb"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "ANTI",
-        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 223226,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/2SMf3oF07WpSE55fCuEvSG"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
-      "album": {
-        "name": "Nothing Is Promised",
-        "url": "https://open.spotify.com/album/7yOTJiQr9w0uJdJLIdNYdb"
-      },
-      "artists": [
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "Nothing Is Promised",
-      "url": "https://open.spotify.com/track/5ARLOHcUfEh9qdlRiKDjEU"
-    },
-    {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7"
@@ -837,7 +657,171 @@
       "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
     },
     {
-      "added_at": "2021-04-23 11:27:01",
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Consideration",
+      "url": "https://open.spotify.com/track/2Gxna051PLTjjQVWTOP67D"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "You Da One",
+      "url": "https://open.spotify.com/track/5DBfBBTNQH20XbNqp2XZJE"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/1G2ZRwcqN6warfakvcPgEs"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Shut Up And Drive",
+      "url": "https://open.spotify.com/track/3m7Fne4xA0bsKzEaWbNucr"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "ANTI",
+        "url": "https://open.spotify.com/album/2hNdpum500dG6mDXs87nbc"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 133080,
+      "name": "Yeah, I Said It",
+      "url": "https://open.spotify.com/track/4Ruw8TzoqEgDe9A5xfZ8GG"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Talk That Talk (Deluxe)",
+        "url": "https://open.spotify.com/album/0MYABBSxz6JqujXq2JBvsF"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Talk That Talk",
+      "url": "https://open.spotify.com/track/7ksS2VMMt5ZDSpZOQTVj73"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "A Girl Like Me",
+        "url": "https://open.spotify.com/album/1F0HfWg9fdLDdeIfh9CnjU"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 236680,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/6RXqIGyOGj0zqdpN0Nlv4g"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 217575,
+      "name": "Princess of China - Radio Edit",
+      "url": "https://open.spotify.com/track/6XJ2PVp2Vs9G2j5B2Cbbnb"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Nothing Is Promised",
+        "url": "https://open.spotify.com/album/7yOTJiQr9w0uJdJLIdNYdb"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "Nothing Is Promised",
+      "url": "https://open.spotify.com/track/5ARLOHcUfEh9qdlRiKDjEU"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
       "album": {
         "name": "Sledgehammer (From The Motion Picture \"Star Trek Beyond\")",
         "url": "https://open.spotify.com/album/1ieb2SouU3imMuStgx14L1"
@@ -851,6 +835,26 @@
       "duration_ms": 211400,
       "name": "Sledgehammer - From The Motion Picture \"Star Trek Beyond\"",
       "url": "https://open.spotify.com/track/3tY79n1hkpT8Q6i9XuxVdC"
+    },
+    {
+      "added_at": "2022-01-10 11:12:12",
+      "album": {
+        "name": "Lemon (Edit)",
+        "url": "https://open.spotify.com/album/2xGzVkqqc7CFi74fAoIbAa"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 146906,
+      "name": "Lemon - Edit",
+      "url": "https://open.spotify.com/track/2LKlHBPHxLG5ArAXfF148n"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWhBhYl3ZMvY"

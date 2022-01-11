@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DxW4iib3Eq.md) - [plain]
 
 > Check out this collection of amazing John Legend tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,875 likes - 40 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,941 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DxW4iib3Eq.md) - [plain]
 | 39 | [Live It Up](https://open.spotify.com/track/2q0UBlr0ptqyZ2JH1LO7tH) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx) | [Get Lifted](https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV) | 4:35 |
 | 40 | [Little Ghetto Boy \(feat\. Black Thought\)](https://open.spotify.com/track/3ugvKbyrqGfq4eLRI2VXSN) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Wake Up!](https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP) | 5:26 |
 
-Snapshot ID: `MTYyOTQ5NzUyNCwwMDAwMDAwZDAwMDAwMTdiNjU5ZjAwMmEwMDAwMDE3MzNhMmE1MmZl`
+Snapshot ID: `MTY0MTg2MDU5NSwwMDAwMDAwZjAwMDAwMTdlNDY4NDgwNDcwMDAwMDE3MzNhMmE1MmZl`

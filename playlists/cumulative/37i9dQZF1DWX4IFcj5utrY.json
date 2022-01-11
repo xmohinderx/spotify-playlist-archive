@@ -92,6 +92,50 @@
     },
     {
       "album": {
+        "name": "The Adrenaline EP",
+        "url": "https://open.spotify.com/album/6vKmE2KUOON1HmcBSDQptv"
+      },
+      "artists": [
+        {
+          "name": "DJ IC",
+          "url": "https://open.spotify.com/artist/1zBcHGyliScTwOQlFIc7Xk"
+        },
+        {
+          "name": "Dj Jim Mastershine",
+          "url": "https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u"
+        },
+        {
+          "name": "G Boy SA",
+          "url": "https://open.spotify.com/artist/4iKJOyceuUxs79uRJmjn7u"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344737,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/5sq9AVT10zwS3qeosRUtLK"
+    },
+    {
+      "album": {
+        "name": "Afro Brotherz (Gezi Man)",
+        "url": "https://open.spotify.com/album/2wS3siHKB3T2C1jE6AxIf5"
+      },
+      "artists": [
+        {
+          "name": "Afro Brotherz",
+          "url": "https://open.spotify.com/artist/183kSplc4KYDe6bMQghbwN"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375048,
+      "name": "Afro Brotherz (Gezi Man)",
+      "url": "https://open.spotify.com/track/6F3wFKPhuTKYBsR4UOh8NW"
+    },
+    {
+      "album": {
         "name": "Trauma",
         "url": "https://open.spotify.com/album/14CvBA6xxeUS2STS9Etpvb"
       },
@@ -467,7 +511,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 231982,
       "name": "Broken Melodies - Radio Edit",
       "url": "https://open.spotify.com/track/5z6Ix0BSqfpd9WJzNxbMDW"
@@ -627,7 +671,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 306270,
       "name": "Falling",
       "url": "https://open.spotify.com/track/5Qi2sURem58AvCPGOsRADn"
@@ -758,6 +802,24 @@
     },
     {
       "album": {
+        "name": "Far We Go EP",
+        "url": "https://open.spotify.com/album/7cIb6ImdX8dLMb1QqY54Tc"
+      },
+      "artists": [
+        {
+          "name": "Dj PaPPa",
+          "url": "https://open.spotify.com/artist/6WUG0SNEaHMpdSMjaaSpwW"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414490,
+      "name": "Gordon Road - Original Mix",
+      "url": "https://open.spotify.com/track/6Sjk27IqeYBBPVkNMKWmDa"
+    },
+    {
+      "album": {
         "name": "Gumbaya",
         "url": "https://open.spotify.com/album/38jWpj4vE6f5CgarLnOtIp"
       },
@@ -829,6 +891,28 @@
       "duration_ms": 493520,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0rmFBhKvt0KZI10t2coIYK"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
+        "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        },
+        {
+          "name": "Mr.Joz",
+          "url": "https://open.spotify.com/artist/0VEeBfURySOzmpWKCdFGtU"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410847,
+      "name": "Horn of Africa",
+      "url": "https://open.spotify.com/track/43Ix0CzBrJrcx7XXj68O74"
     },
     {
       "album": {
@@ -1359,7 +1443,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 197447,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/5ReKjq82vp8mqnY4eZFYg8"
@@ -1649,7 +1733,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 399098,
       "name": "Mohamed Day 2021",
       "url": "https://open.spotify.com/track/0UWbZFQ0gUSbwsjU0axEys"
@@ -1853,7 +1937,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 434128,
       "name": "Olere",
       "url": "https://open.spotify.com/track/7hIg7T2tpQMhy7VWCOU3eX"
@@ -1945,7 +2029,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 453766,
       "name": "Redemption",
       "url": "https://open.spotify.com/track/1N2q5BW9USnkKs5oDD8DiF"
@@ -2485,6 +2569,42 @@
       "duration_ms": 259306,
       "name": "Woza",
       "url": "https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
+        "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499770,
+      "name": "Zebula",
+      "url": "https://open.spotify.com/track/2B1T1vPOYmO75WNGoqdke5"
+    },
+    {
+      "album": {
+        "name": "Aluku Records Various Compilation SA Edition, Pt. 3",
+        "url": "https://open.spotify.com/album/4aZBSsefMwztLv6fT4XxHB"
+      },
+      "artists": [
+        {
+          "name": "Suka",
+          "url": "https://open.spotify.com/artist/79qZepk55iUAx80VFlG8EJ"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402494,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/1H77Pvcnlk1KzJKzbX0geM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY"

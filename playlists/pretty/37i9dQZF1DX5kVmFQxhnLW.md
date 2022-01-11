@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kVmFQxhnLW.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,674 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,736 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kVmFQxhnLW.md) - [plain]
 | 49 | [My Kind of Girl](https://open.spotify.com/track/13QWQQW83ZMO1k8EDucqgZ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Nobody but Me \(Deluxe\)](https://open.spotify.com/album/2OXZJLXxM8jrY3gBoVNfmz) | 4:06 |
 | 50 | [When You're Not Here](https://open.spotify.com/track/5cEap0vG6Dc6TJDN77cyF9) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:38 |
 
-Snapshot ID: `MTY0MTMxNDM2MCwwMDAwMDAzMDAwMDAwMTdlMjVmNTlkNmEwMDAwMDE3ZTI1ZjU0ODYx`
+Snapshot ID: `MTY0MTg2MDk5NCwwMDAwMDAzMjAwMDAwMTdlNDY4YTk3YTYwMDAwMDE3ZTI1ZjU0ODYx`

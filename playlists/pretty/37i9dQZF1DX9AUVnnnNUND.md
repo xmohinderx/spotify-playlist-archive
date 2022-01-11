@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AUVnnnNUND.md) - [plain]
 
 > Eagles, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,436 likes - 46 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,507 likes - 46 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9AUVnnnNUND.md) - [plain]
 | 45 | [Chug All Night \- 2013 Remaster](https://open.spotify.com/track/1uNrJfFUItP86a1m19Yr5n) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 3:15 |
 | 46 | [The Maigret Theme](https://open.spotify.com/track/2Ui4rye4ZabIjurcFTwWkU) | [The Eagles](https://open.spotify.com/artist/6qxSIn3anu081z3lRLO1Jf) | [Thunderbirds Are Go \- TV Themes for Grown Up Kids](https://open.spotify.com/album/68pUaIsLEUPP0uePJyCFDu) | 2:24 |
 
-Snapshot ID: `MTU4MTQwODc1MSwwMDAwMDAyNDAwMDAwMTcwMzM0ZThlMzgwMDAwMDE2ZDE1MmRmMzE3`
+Snapshot ID: `MTY0MTg2MDIyOCwwMDAwMDAyNjAwMDAwMTdlNDY3ZWU1NGMwMDAwMDE2ZDE1MmRmMzE3`

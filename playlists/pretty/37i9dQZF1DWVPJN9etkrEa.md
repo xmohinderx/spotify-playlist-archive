@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPJN9etkrEa.md) - [plain]
 
 > Welcome to Paradise, Green Day fans!
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,531 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,562 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPJN9etkrEa.md) - [plain]
 | 49 | [Ordinary World](https://open.spotify.com/track/35weSxL477aChs1wx7oZS5) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:02 |
 | 50 | [Here Comes The Shock](https://open.spotify.com/track/5RdJJvXMblp0SJDnnS45f2) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Here Comes The Shock](https://open.spotify.com/album/3vyS7FXYVj7834UXxQgMkY) | 2:34 |
 
-Snapshot ID: `MTYzMDQ4MTc0MCwwMDAwMDAyZDAwMDAwMTdiYTA0OGYzZTgwMDAwMDE3MDNmMjIzZmUx`
+Snapshot ID: `MTY0MTg2MDQyNSwwMDAwMDAyZjAwMDAwMTdlNDY4MWU2OTgwMDAwMDE3MDNmMjIzZmUx`

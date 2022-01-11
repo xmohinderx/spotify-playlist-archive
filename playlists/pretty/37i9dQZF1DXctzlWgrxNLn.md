@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctzlWgrxNLn.md) - [plain]
 
 > This is Thomas Rhett\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,176 likes - 76 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,168 likes - 76 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctzlWgrxNLn.md) - [plain]
 | 75 | [Leave Right Now](https://open.spotify.com/track/0wyja8xD9cNhDtfuY0dVMP) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:15 |
 | 76 | [Craving You](https://open.spotify.com/track/2d48mamATjby7wgPjdrSOQ) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Life Changes](https://open.spotify.com/album/4w5Jvreahp3yvLqc4vCr9I) | 3:43 |
 
-Snapshot ID: `MTYzNjczOTE2OSwwMDAwMDAyMTAwMDAwMTdkMTU0MWJlYmEwMDAwMDE2ZDE1NTg1ODQz`
+Snapshot ID: `MTY0MTg2MTczNSwwMDAwMDAyMzAwMDAwMTdlNDY5NWU1NDEwMDAwMDE2ZDE1NTg1ODQz`

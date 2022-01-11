@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 215933,
       "name": "A Lack Of Color",
       "url": "https://open.spotify.com/track/4mCF3EBgGPSqmEm205KBAV"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 171653,
       "name": "Angels",
       "url": "https://open.spotify.com/track/1zuKjpp4t7BS8JPKi6mkQr"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 160053,
       "name": "Ballad No. 3",
       "url": "https://open.spotify.com/track/2nt61zastVO4H8XNFBtrED"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 251840,
       "name": "Basket Case",
       "url": "https://open.spotify.com/track/7AXUdQmZMA5u221iv6gB0m"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 329266,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/4cTD99OSLy19Uh2exKRQNa"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 177253,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 223773,
       "name": "Dependable People and Things That I'm Sure Of",
       "url": "https://open.spotify.com/track/4mGsec7zvqP23XGIh91AJX"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 226733,
       "name": "Do What You Have To Do",
       "url": "https://open.spotify.com/track/32CSjeoAXxx3qQW1tDUy2r"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 181240,
       "name": "House Full Of Empty Rooms",
       "url": "https://open.spotify.com/track/7dc4xrlUGHYBs3YGmgYPlX"
@@ -885,6 +885,24 @@
       "duration_ms": 196000,
       "name": "I'll Remember You",
       "url": "https://open.spotify.com/track/4Led8v9xCu9XxAi6LWl6nB"
+    },
+    {
+      "album": {
+        "name": "We Are Born",
+        "url": "https://open.spotify.com/album/55vXDESMdISZiIBL1GMsWr"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "I'm In Here - Piano/Vocal Version",
+      "url": "https://open.spotify.com/track/1iTb1k4DgjJh7qWFQE1VmB"
     },
     {
       "album": {
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 230906,
       "name": "Looking for Someone",
       "url": "https://open.spotify.com/track/0nvFWYZiozjGMZ6viIKrTa"
@@ -1505,7 +1523,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 299040,
       "name": "Paris",
       "url": "https://open.spotify.com/track/4sS89nAQUy2fRZWbyJWDQV"
@@ -1559,7 +1577,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 189240,
       "name": "Pills",
       "url": "https://open.spotify.com/track/4XYOnP0tFe8ifE3hHitQBF"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 230006,
       "name": "placeholder",
       "url": "https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 147533,
       "name": "Real Death",
       "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
@@ -1808,6 +1826,24 @@
     },
     {
       "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238176,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN"
+    },
+    {
+      "album": {
         "name": "Details",
         "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
       },
@@ -1819,7 +1855,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 284240,
       "name": "The Dumbing Down Of Love",
       "url": "https://open.spotify.com/track/42dbPf0M81U47xbawYssYR"
@@ -1837,7 +1873,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 187373,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/1GIPP103zfsythULEpsmdw"
@@ -1891,7 +1927,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 274573,
       "name": "The Park",
       "url": "https://open.spotify.com/track/6gQxdH3BID5ci42DXIeyFS"
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 245600,
       "name": "When",
       "url": "https://open.spotify.com/track/6V7CVkMHJGi3FaStcMbwtJ"

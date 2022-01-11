@@ -282,6 +282,24 @@
     },
     {
       "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/6lo52TlixgAYR8gX6vescb"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245371,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g"
+    },
+    {
+      "album": {
         "name": "Coral Jazz",
         "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
       },
@@ -707,7 +725,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 250993,
       "name": "Harmonic Frequencies",
       "url": "https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT"

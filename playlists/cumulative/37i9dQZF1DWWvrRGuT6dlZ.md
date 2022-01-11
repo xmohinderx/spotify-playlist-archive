@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvrRGuT6dlZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvrRGuT6dlZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvrRGuT6dlZ)
 
-### Fresh Finds SG & MY: Best of 2021
+### [Fresh Finds SG & MY: Best of 2021](https://open.spotify.com/playlist/49REKYY9XiyVYUO3dO8IjA)
 
 > The top 50 tracks from Fresh Finds Singapore & Malaysia in 2021\. Cover: Nathanie\. Artwork: Isu Kim
 

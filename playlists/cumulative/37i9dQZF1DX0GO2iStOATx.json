@@ -1056,6 +1056,32 @@
     },
     {
       "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/5Yl8tuE1kBsLK4PaSN8Vfm"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        },
+        {
+          "name": "Chani Nattan",
+          "url": "https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212347,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/7HWMIRSmUrhlbveXerIEWk"
+    },
+    {
+      "album": {
         "name": "Best of Punjabi Superstar Diljit Dosanjh",
         "url": "https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX"
       },
@@ -1129,6 +1155,28 @@
       "duration_ms": 240000,
       "name": "Welcome to My Hood",
       "url": "https://open.spotify.com/track/1T5mAjBkpuczG5H6yUcSB4"
+    },
+    {
+      "album": {
+        "name": "What Ve",
+        "url": "https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "What Ve",
+      "url": "https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s"
     },
     {
       "album": {

@@ -73,7 +73,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 153605,
       "name": "Arrurr\u00fa",
       "url": "https://open.spotify.com/track/7tENydudpJ6js1OHUYit7w"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 213226,
       "name": "Du\u00e9rmete Mi Ni\u00f1o",
       "url": "https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV"
@@ -335,7 +335,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 151626,
       "name": "El Nino Robot",
       "url": "https://open.spotify.com/track/4inKpFJUU3iES0WwU0zGIN"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 121813,
       "name": "En la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/6tmCiEf2w2Dz4vsDIoQRKX"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 364573,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/5I1B7QAifCIE2yQVGz7NLb"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 264424,
       "name": "Estrellita Viajera",
       "url": "https://open.spotify.com/track/3HqhXRvZ82kJwAjuc36Vcp"
@@ -487,6 +487,24 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "album": {
+        "name": "Bob Marley For Babies",
+        "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "date_added": "2020-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132957,
+      "name": "Get Up, Stand Up",
+      "url": "https://open.spotify.com/track/36jJo5n5etzL8cjDZPzvkZ"
     },
     {
       "album": {
@@ -541,7 +559,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 227120,
       "name": "La Bella Y La Bestia",
       "url": "https://open.spotify.com/track/0iWWDZBPji1gS2hfFtvcRD"
@@ -649,7 +667,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 131666,
       "name": "Musiquita de Reir",
       "url": "https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU"
@@ -685,7 +703,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 101520,
       "name": "Nana Boruca",
       "url": "https://open.spotify.com/track/3buxz8sFvbMoQdX5tQuBcz"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 275106,
       "name": "No Me Ames",
       "url": "https://open.spotify.com/track/4hhbhZfhwynwUG6ByqcoE6"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 136826,
       "name": "Nube de Algod\u00f3n",
       "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"
@@ -783,7 +801,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-11",
       "duration_ms": 154640,
       "name": "Sin Miedo",
       "url": "https://open.spotify.com/track/3pKJorxzBf2Mad3wfm8iGY"
@@ -873,7 +891,7 @@
       ],
       "date_added": "2020-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 204600,
       "name": "Twist Del Mono Liso",
       "url": "https://open.spotify.com/track/5IexGMIg4gYRPz5ExvcK9A"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX34s4fg4Zx3Z.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX34s4fg4Zx3Z)
 
-### Fresh Finds Vietnam
+### [Fresh Finds Vietnam](https://open.spotify.com/playlist/11aHcAYmUYTKlrRmUuqYoO)
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
@@ -79,7 +79,7 @@
 | [SAD BORDER \(feat\. Pajn\)](https://open.spotify.com/track/0AhQIbDf55F8CscT7IDTqG) | [Kixt](https://open.spotify.com/artist/3LrEXAJkU1at8NjvSLm9U3), [Pajn](https://open.spotify.com/artist/4BleJN4feDcg2qIQ60zh4G) | [SAD BORDER \(feat\. Pajn\)](https://open.spotify.com/album/2z470py0BfhR8VBuMNW0a6) | 3:40 | 2022-01-06 |  |
 | [Sau Chỉ Thị](https://open.spotify.com/track/6CPSPJVweZH2Wha6BHZqn3) | [Minors](https://open.spotify.com/artist/6uk0FkxpMpQFEDvNxJEhH9) | [Sau Chỉ Thị](https://open.spotify.com/album/1TWZZdS739cSVn5VHM1TOA) | 3:18 | 2022-01-06 |  |
 | [Say Đắm Trong Lần Đầu](https://open.spotify.com/track/079Fpq9a18TX4ir9znmv84) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB) | [Say Đắm Trong Lần Đầu](https://open.spotify.com/album/5ZrPgAvdWhTCjEDOonp098) | 3:06 | 2022-01-06 |  |
-| [Sẵn Sàng Yêu Em Đi Thôi](https://open.spotify.com/track/3Td4pwE5TcWeq38ag6cxps) | [WONI](https://open.spotify.com/artist/7gnJ1EBCiBI8zkyPEd7LVG) | [Sẵn Sàng Yêu Em Đi Thôi](https://open.spotify.com/album/16P8QYCdxrVRHukj40GXM2) | 3:36 | 2022-01-06 |  |
+| [Sẵn Sàng Yêu Em Đi Thôi](https://open.spotify.com/track/3Td4pwE5TcWeq38ag6cxps) | [WONI](https://open.spotify.com/artist/7gnJ1EBCiBI8zkyPEd7LVG) | [Sẵn Sàng Yêu Em Đi Thôi](https://open.spotify.com/album/16P8QYCdxrVRHukj40GXM2) | 3:36 | 2022-01-06 | 2022-01-11 |
 | [Sẽ Là Một Người Khác](https://open.spotify.com/track/4HKU9JRB6nbFbU11pvUrMr) | [Zes](https://open.spotify.com/artist/3gk8hJxOhfMRyYdaSdrtPI), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Sẽ Là Một Người Khác](https://open.spotify.com/album/75W8B4ZMZV3CyfJTaLT1Fv) | 4:26 | 2022-01-06 |  |
 | [sẽ qua như là](https://open.spotify.com/track/5DKa0r3uzVepcCo6QpMTWC) | [crayons](https://open.spotify.com/artist/1epf8UtsphasV8DJsmkY6V) | [sẽ qua như là](https://open.spotify.com/album/44xBCaqYu7TGf15bUbBVCj) | 4:07 | 2022-01-06 |  |
 | [Ta Với Ta \(feat\. SeaA\)](https://open.spotify.com/track/2e27fIIzhJ9223tazc3Vgw) | [Baoduydinh](https://open.spotify.com/artist/1WSwT90cYsFgu5tDrlhIbf), [SeaA](https://open.spotify.com/artist/08cD4qZ0NbS2KIUOkZBz49) | [Ta Với Ta](https://open.spotify.com/album/4nbE50dn443VJ62Pg5PgI7) | 2:40 | 2022-01-06 |  |
@@ -87,7 +87,8 @@
 | [Tan Biến Trong Em \(feat\. JayM\)](https://open.spotify.com/track/31k7JvpDlqJ1EwzCBqqAHL) | [1DEE](https://open.spotify.com/artist/1b9USL8WQoqdSDSrdMNk8g), [JayM](https://open.spotify.com/artist/4RcjfOt52k0QL8PgMAe7sr) | [TRY](https://open.spotify.com/album/0PqSdEkVIxSNz2WgS0T7KH) | 4:02 | 2022-01-06 |  |
 | [Tell Ur Mom II](https://open.spotify.com/track/1lckfRbu1gHcUO8mVmkNSO) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Heily](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk) | [Tell Ur Mom II \(Clean\)](https://open.spotify.com/album/4snc0OnZwIhZVcfzJoHXt6) | 3:39 | 2022-01-06 |  |
 | [Theo Em Về](https://open.spotify.com/track/61GVfy1LrzxuUmdcYXeXKS) | [BARIS](https://open.spotify.com/artist/6iY0YZMqTdiZARAT8wWzLV), [ATNER](https://open.spotify.com/artist/0YrJY7g6cAoCEePrD2jvTP), [DICII](https://open.spotify.com/artist/5wpHCgljBzDzW55FVRSop2) | [Theo Em Về](https://open.spotify.com/album/0E29LIQIfiBGAMZK22WwOZ) | 3:45 | 2022-01-06 |  |
-| [Thấy Em Quay Lưng Lạnh Lùng](https://open.spotify.com/track/4V8R0joaCTvTyy58GQVpjD) | [GT](https://open.spotify.com/artist/2CeEP068ZccYXs5MZXGzkW) | [Thấy Em Quay Lưng Lạnh Lùng](https://open.spotify.com/album/3p99oChZTuKE8ChUgDwSUr) | 3:31 | 2022-01-06 |  |
+| [Thấy Em Quay Lưng Lạnh Lùng](https://open.spotify.com/track/4V8R0joaCTvTyy58GQVpjD) | [GT](https://open.spotify.com/artist/2CeEP068ZccYXs5MZXGzkW) | [Thấy Em Quay Lưng Lạnh Lùng](https://open.spotify.com/album/3p99oChZTuKE8ChUgDwSUr) | 3:31 | 2022-01-06 | 2022-01-11 |
+| [Thủ Ngữ](https://open.spotify.com/track/1ACVEoQsPLJzLHm95MRfMq) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [LARRIA](https://open.spotify.com/artist/4EmlvsxRbtY1fvKlsJNtbZ) | [Thủ Ngữ](https://open.spotify.com/album/56Drw3ouXaBFH4obIdVovh) | 2:34 | 2022-01-10 |  |
 | [TOURIST](https://open.spotify.com/track/3wdK1Ldkj6ju4JIvg94G24) | [B\-Wine](https://open.spotify.com/artist/68Vj5ArAHBx2K0osGDXK4K), [V\#](https://open.spotify.com/artist/747LEDjKKVKZIXvkFpPUUP) | [TOURIST](https://open.spotify.com/album/2x7cvo4mgRnx8ZVxyGcRNy) | 3:30 | 2022-01-06 |  |
 | [Tàn Nhẫn](https://open.spotify.com/track/48li0xRYHqluOGtBDOVJ4N) | [Luong Minh Trang](https://open.spotify.com/artist/1tJo3demkLZyzZ3ZNQTCxx) | [Tàn Nhẫn](https://open.spotify.com/album/1sA7C91qrGw7zjQIre4hZe) | 3:18 | 2022-01-06 |  |
 | [Tình Yêu Hàng Real](https://open.spotify.com/track/3Gaqyhb7yxtfv8RyNhQ9Ql) | [Lemese](https://open.spotify.com/artist/0DL9VpY3UsZWQyDOO5Ej2o), [Ruby V](https://open.spotify.com/artist/4JmcHoZrhg2HhNaeuFPaa0) | [Tình Yêu Hàng Real](https://open.spotify.com/album/0hnBYMRVA7ORxN9zeMJT6P) | 3:07 | 2022-01-06 |  |

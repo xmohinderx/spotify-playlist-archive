@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEb535ZGeRC.md) - [plain]
 
 > An essential list of classics from one of the great singer\-songwriters of our time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,441 likes - 42 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,476 likes - 42 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEb535ZGeRC.md) - [plain]
 | 41 | [How the Heart Approaches What It Yearns](https://open.spotify.com/track/2xUgEzjkFNM6EUbp2gVh5E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [One\-Trick Pony](https://open.spotify.com/album/5Be2SD7NA17AVhzq3elNVX) | 2:49 |
 | 42 | [Love And Hard Times](https://open.spotify.com/track/23rJDAe2pzvydRAo3HA7Hg) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [So Beautiful or So What](https://open.spotify.com/album/46MJtyvpieCwQ4U6R5wNmw) | 4:09 |
 
-Snapshot ID: `MTU4MjA2NDE2NCwwMDAwMDAwOTAwMDAwMTcwNWE1ZjVkOTQwMDAwMDE2ZDE1MmEwZmVj`
+Snapshot ID: `MTY0MTg2MTIxOSwwMDAwMDAwYjAwMDAwMTdlNDY4ZTAzMDYwMDAwMDE2ZDE1MmEwZmVj`

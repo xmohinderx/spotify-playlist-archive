@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj9Ksq4BAdj.md) - [plain]
 
 > The best of Metallica, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478,806 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,478,825 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj9Ksq4BAdj.md) - [plain]
 | 49 | [Bleeding Me](https://open.spotify.com/track/7FLm43IriB4jxAposCv9Ji) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 8:17 |
 | 50 | [Motorbreath \(Remastered\)](https://open.spotify.com/track/5iLhIpIgGZxI7kjgj9807I) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe Remaster\)](https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n) | 3:07 |
 
-Snapshot ID: `MTYzOTY0NzA0NywwMDAwMDA0MzAwMDAwMTdkYzI5NDcxMmIwMDAwMDE3YWM1MDc2MTQw`
+Snapshot ID: `MTY0MTg2MDk4OSwwMDAwMDA0NTAwMDAwMTdlNDY4YTgwZDcwMDAwMDE3YWM1MDc2MTQw`

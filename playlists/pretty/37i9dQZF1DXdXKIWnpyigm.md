@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXKIWnpyigm.md) - [plain]
 
 > The essential Ryan Adams, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,975 likes - 57 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,978 likes - 57 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXKIWnpyigm.md) - [plain]
 | 56 | [Desire](https://open.spotify.com/track/2cSReP67LziR3PeYQ8Ehm2) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:40 |
 | 57 | [Call Me on Your Way Back Home](https://open.spotify.com/track/2KcJilosB6XbFg2jr6bdcd) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker \(Deluxe Edition\)](https://open.spotify.com/album/0RQfpORyDFGutT607SZNzH) | 3:09 |
 
-Snapshot ID: `MTU2ODAxNzc2NCwwMDAwMDAwNzAwMDAwMTY0ODlhMmQ5NjkwMDAwMDE2ZDE1MjQ1MGFm`
+Snapshot ID: `MTY0MTg2MTM5NywwMDAwMDAwOTAwMDAwMTdlNDY5MGJjNjUwMDAwMDE2ZDE1MjQ1MGFm`

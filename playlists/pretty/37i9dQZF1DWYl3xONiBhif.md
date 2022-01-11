@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYl3xONiBhif.md) - [plain]
 
 > Todo lo nuevo y lo esencial de El Alfa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,327 likes - 103 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,421 likes - 103 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYl3xONiBhif.md) - [plain]
 | 102 | [Facetime](https://open.spotify.com/track/4w7XiqzLIZzpbx0hbx0UZg) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Disciplina](https://open.spotify.com/album/5zU2SQAOUTmQvRm6O1Gs3X) | 2:45 |
 | 103 | [Donde Estan](https://open.spotify.com/track/1StjQHjCyI6xmC0Mihqmkl) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Donde Estan](https://open.spotify.com/album/7zXj9DTiFulLH4Ynjg3CPf) | 3:09 |
 
-Snapshot ID: `MTYzMDk4NzIwMCwwMDAwMDAyNzAwMDAwMTdiYmU2OWE2ODUwMDAwMDE3MjE5MWU0N2Ux`
+Snapshot ID: `MTY0MTg2MDI0NCwwMDAwMDAyOTAwMDAwMTdlNDY3ZjIzZjkwMDAwMDE3MjE5MWU0N2Ux`
