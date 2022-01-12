@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 164137,
       "name": "20",
       "url": "https://open.spotify.com/track/57XjYBaK1qTwO7SG46gfGm"
@@ -857,7 +857,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 193148,
       "name": "Brooklyn",
       "url": "https://open.spotify.com/track/6WX6YUtobLydEjuvFqVggj"
@@ -3121,7 +3121,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 172787,
       "name": "Mama Makusa",
       "url": "https://open.spotify.com/track/6h2f5GrfpXo6eZCxUdzvF2"
@@ -7821,7 +7821,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 133984,
       "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"
@@ -9173,6 +9173,24 @@
       "duration_ms": 183386,
       "name": "\u041c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0435 \u0443\u0431\u043b\u044e\u0434\u043a\u0438",
       "url": "https://open.spotify.com/track/5fziVwlWhVY9FtsV3FfvuD"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0410\u041b\u0418\u041d\u041e\u0412\u0410\u042f \u041b\u0410\u0414\u0410",
+        "url": "https://open.spotify.com/album/6U8jV8xU3eysZU4EJO7gkI"
+      },
+      "artists": [
+        {
+          "name": "GAYAZOV$ BROTHER$",
+          "url": "https://open.spotify.com/artist/0xTdDjeCoM89b7n9fLcZvR"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213124,
+      "name": "\u041c\u0410\u041b\u0418\u041d\u041e\u0412\u0410\u042f \u041b\u0410\u0414\u0410",
+      "url": "https://open.spotify.com/track/77B4S4jkrAkL3Ng5hEHoUU"
     },
     {
       "album": {
@@ -11413,7 +11431,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 131333,
       "name": "\u0441\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/2mKa6WpSZ97avRyIlPKRK8"

@@ -1276,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Granada",
+        "url": "https://open.spotify.com/album/3lc6rC1cQkCWp0IXkFMyYj"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/2YRGpPruMS1BR0SDGzTmbB"
+    },
+    {
+      "album": {
         "name": "Grande Amor",
         "url": "https://open.spotify.com/album/5xNGa1OwkG4fgP45uZ85Ys"
       },

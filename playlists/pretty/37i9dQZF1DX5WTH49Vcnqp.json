@@ -1,7 +1,7 @@
 {
   "description": "music that's hard to define but easy to love. Cover: Dope Lemon\n",
   "name": "Front Left",
-  "num_followers": 550263,
+  "num_followers": 550290,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -203,7 +203,7 @@
     {
       "added_at": "2022-01-10 01:37:38",
       "album": {
-        "name": "Tears In The Club (feat. The Weeknd)",
+        "name": "tears in the club (feat. the weeknd)",
         "url": "https://open.spotify.com/album/45gXJvbzPOYudQDvu9OktY"
       },
       "artists": [
@@ -217,7 +217,7 @@
         }
       ],
       "duration_ms": 196760,
-      "name": "Tears In The Club (feat. The Weeknd)",
+      "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/43zOaM9seVvQuWIdDf88yV"
     },
     {
@@ -260,12 +260,12 @@
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
           "name": "KU\u010cKA",
           "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
       "duration_ms": 211139,

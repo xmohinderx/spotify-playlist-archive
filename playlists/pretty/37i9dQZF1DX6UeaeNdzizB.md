@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UeaeNdzizB.md) - [plain]
 
 > The <a href="spotify:artist:0n94vC3S9c3mb2HyNAOcjg">Seattle group</a>'s essential tracks, all in a single playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,784 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,798 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UeaeNdzizB.md) - [plain]
 | 44 | [My Friends](https://open.spotify.com/track/47Qc1fadXjZq6cHlfnQQni) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 3:22 |
 | 45 | [Fire/Fear](https://open.spotify.com/track/6vcWk9Y8QYa3eH2FmdgO8i) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf) | 4:15 |
 
-Snapshot ID: `MTU4MzQ4NzY2NiwwMDAwMDAwNzAwMDAwMTZmOGMxOWU4M2YwMDAwMDE3MGFmMzg0OWY3`
+Snapshot ID: `MTY0MTg2MjQyNSwwMDAwMDAwOTAwMDAwMTdlNDZhMDZkNWYwMDAwMDE3MGFmMzg0OWY3`

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-10",
   "description": "ha ha ha haaaa Cover: Lil Darkie",
   "name": "Tirade",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3WXmsauxjmiMQXOcPd40BY"
+  ],
   "tracks": [
     {
       "album": {
@@ -743,7 +745,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 123552,
       "name": "GHOST OF YOU",
       "url": "https://open.spotify.com/track/3bXLc0fRHfSheyFcNyM0X0"
@@ -991,6 +993,24 @@
       "duration_ms": 142707,
       "name": "If Self-Destruction Was an Olympic Event, I\u2019d Be Tonya Harding",
       "url": "https://open.spotify.com/track/5ikjIVLHoBrgaZ0zNrn6Ty"
+    },
+    {
+      "album": {
+        "name": "in heat.",
+        "url": "https://open.spotify.com/album/0K4n11MU36fn5LewWZSOQ7"
+      },
+      "artists": [
+        {
+          "name": "Hentai Xander",
+          "url": "https://open.spotify.com/artist/7J67YP5oiObsKJkC7mrRWW"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116376,
+      "name": "in heat.",
+      "url": "https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt"
     },
     {
       "album": {
@@ -1546,6 +1566,24 @@
     },
     {
       "album": {
+        "name": "Pipe Down",
+        "url": "https://open.spotify.com/album/1IMqk7bmimVAf4C0XqiaWF"
+      },
+      "artists": [
+        {
+          "name": "Lil Toe",
+          "url": "https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129032,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/1xw3s0E9MNtRftzYFQrdqt"
+    },
+    {
+      "album": {
         "name": "Capsule 2",
         "url": "https://open.spotify.com/album/1uAFVm1vQvh0uwVMXcmF9b"
       },
@@ -1557,7 +1595,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 107500,
       "name": "Private",
       "url": "https://open.spotify.com/track/79PXeW2SPqJ3lcSXoPbpmU"
@@ -1605,7 +1643,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 138000,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/77iJlK3UBnJ6ifrKHbvtbf"
@@ -1791,7 +1829,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 111901,
       "name": "SUZUKA",
       "url": "https://open.spotify.com/track/0l1c87dSuIkYxwJlFkWk3y"

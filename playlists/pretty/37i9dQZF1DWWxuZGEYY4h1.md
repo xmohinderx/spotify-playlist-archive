@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxuZGEYY4h1.md) - [plain]
 
 > All the essentials from this South African star.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,436 likes - 37 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,481 likes - 37 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxuZGEYY4h1.md) - [plain]
 | 36 | [Those Days](https://open.spotify.com/track/6SnQ2GIoanebTxsgT4xe8k) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Work of Heart](https://open.spotify.com/album/0EH4i0I9Mjw7skmHXqfCUk) | 3:50 |
 | 37 | [My Music](https://open.spotify.com/track/0hzeCXjJi6qpILrFFPrbgR) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Life, Love 'n Music](https://open.spotify.com/album/1Qxc6orTddFNobmbXjPRX9) | 6:06 |
 
-Snapshot ID: `MTU4Mzg0NzQ1MSwwMDAwMDAwMjAwMDAwMTY5Mjk4OTJlYTQwMDAwMDE3MGM0YWEyZDI5`
+Snapshot ID: `MTY0MTg2MTkyNCwwMDAwMDAwNDAwMDAwMTdlNDY5OGM2MmUwMDAwMDE3MGM0YWEyZDI5`

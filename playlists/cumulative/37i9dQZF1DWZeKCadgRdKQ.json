@@ -743,7 +743,7 @@
       ],
       "date_added": "2020-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 216607,
       "name": "Bouquet with Lilies",
       "url": "https://open.spotify.com/track/1j45uvYWACNGDZ0jmKSTuP"
@@ -7029,6 +7029,24 @@
       "duration_ms": 234622,
       "name": "Waiting For Sundown",
       "url": "https://open.spotify.com/track/4r8zhmeR3CJMCNka7dOf5H"
+    },
+    {
+      "album": {
+        "name": "Waiting for the Sunrise",
+        "url": "https://open.spotify.com/album/4tE7BUhKkN8i5Bp4FQGGtB"
+      },
+      "artists": [
+        {
+          "name": "Across The Great Valley",
+          "url": "https://open.spotify.com/artist/2P1TOog6e612HmJ9bugxav"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174654,
+      "name": "Waiting for the Sunrise",
+      "url": "https://open.spotify.com/track/7wH5Ck2MRPWwwunLeMjg9f"
     },
     {
       "album": {

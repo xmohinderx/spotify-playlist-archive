@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp9aN7lDNHp.md) - [plain]
 
 > A selection of the best songs from their albums and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,912 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,918 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSp9aN7lDNHp.md) - [plain]
 | 29 | [Stranger In A Room](https://open.spotify.com/track/5wIXla4rVSXjK4bpi6ZwnH) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [In Colour](https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I) | 2:57 |
 | 30 | [Brave For You \(Marfa Demo\)](https://open.spotify.com/track/6Fo6I0zFCK7xwPPP0409JL) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [I See You \(Deluxe\)](https://open.spotify.com/album/7jrxBbSIpwZnOd7kuAYFHG) | 2:36 |
 
-Snapshot ID: `MTYwMTM5OTQ2MCwwMDAwMDAwZjAwMDAwMTc0ZGFkODkwZTMwMDAwMDE2ZDE1MjI2ZDA4`
+Snapshot ID: `MTY0MTg2MTcyNCwwMDAwMDAxMTAwMDAwMTdlNDY5NWJhYTMwMDAwMDE2ZDE1MjI2ZDA4`

@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-10",
   "description": "That bouncy, groovy, dancey sound.",
   "name": "Choice Edit",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7J6V8CtH6cauGweEfdRx6B"
+  ],
   "tracks": [
     {
       "album": {
@@ -791,7 +793,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
@@ -1033,7 +1035,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 217013,
       "name": "Free Room (feat. Appleby)",
       "url": "https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb"
@@ -1255,7 +1257,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 200045,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5aXFL31rKcYYRE1EZZADWI"
@@ -1401,7 +1403,7 @@
       ],
       "date_added": "2021-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 152331,
       "name": "I Know It",
       "url": "https://open.spotify.com/track/3tWizRkyZ5roQD6fqWZVuf"
@@ -1511,7 +1513,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 176410,
       "name": "It's Already Yours",
       "url": "https://open.spotify.com/track/1aGRs4qy8gnlYViasGFTUe"
@@ -1569,7 +1571,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 190733,
       "name": "Judgement",
       "url": "https://open.spotify.com/track/65CNFUjISyOi08DsvpiUvD"
@@ -1635,6 +1637,24 @@
       "duration_ms": 225760,
       "name": "Kind Of Freak",
       "url": "https://open.spotify.com/track/6pskPJ0O1dr5ziM9Oyo4Ui"
+    },
+    {
+      "album": {
+        "name": "LAGOON",
+        "url": "https://open.spotify.com/album/2o5tCXDWpkeDvbA1yPMryk"
+      },
+      "artists": [
+        {
+          "name": "Matve\u00ef",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165481,
+      "name": "LAGOON",
+      "url": "https://open.spotify.com/track/2CmXykYlFNlXQTdFR0Uruw"
     },
     {
       "album": {
@@ -1744,6 +1764,24 @@
     },
     {
       "album": {
+        "name": "LINDA",
+        "url": "https://open.spotify.com/album/5khn8ZiOMBXtc0CphfUVXj"
+      },
+      "artists": [
+        {
+          "name": "Matve\u00ef",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "LINDA",
+      "url": "https://open.spotify.com/track/2x1I5qVlLALdgFck716078"
+    },
+    {
+      "album": {
         "name": "LIVIN",
         "url": "https://open.spotify.com/album/42GOSmPxBXTSwEv2wMbgQB"
       },
@@ -1791,7 +1829,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 170468,
       "name": "Made For Silence",
       "url": "https://open.spotify.com/track/7hRuYSwzGm8OifBoos0nG9"
@@ -1941,7 +1979,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 175173,
       "name": "NO WAY! - Diamond Pistols Remix",
       "url": "https://open.spotify.com/track/7aWgGrMx5WOsrYZ1lS1tbR"
@@ -1963,6 +2001,24 @@
       "duration_ms": 181040,
       "name": "Nobody Knows We Are Fun",
       "url": "https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2"
+    },
+    {
+      "album": {
+        "name": "OFF DAT",
+        "url": "https://open.spotify.com/album/1rsPGfVLiZqU4lNOTpgtod"
+      },
+      "artists": [
+        {
+          "name": "Matve\u00ef",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154047,
+      "name": "OFF DAT",
+      "url": "https://open.spotify.com/track/773jSfBc0MM5SBZG2jTLly"
     },
     {
       "album": {
@@ -2065,6 +2121,32 @@
       "duration_ms": 145475,
       "name": "ONS",
       "url": "https://open.spotify.com/track/2t7AxegW4Yelny9Lf22yxh"
+    },
+    {
+      "album": {
+        "name": "Onward",
+        "url": "https://open.spotify.com/album/2chZcUHQZjwFr75y1vDT8x"
+      },
+      "artists": [
+        {
+          "name": "Moonshine",
+          "url": "https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194083,
+      "name": "Onward",
+      "url": "https://open.spotify.com/track/5b2P9Daw2N0ta2F0y7c4DD"
     },
     {
       "album": {
@@ -2379,7 +2461,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 160000,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/1ufJxWpoWSy7qh6gBIubKX"
@@ -2689,7 +2771,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 188805,
       "name": "Stickin' (feat. Masego & VanJess)",
       "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
@@ -2733,6 +2815,28 @@
       "duration_ms": 140080,
       "name": "Stretch Limousine",
       "url": "https://open.spotify.com/track/3mT7Scw9X7D4LHCs7v3gxb"
+    },
+    {
+      "album": {
+        "name": "Summer Lovin'",
+        "url": "https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS"
+      },
+      "artists": [
+        {
+          "name": "49th & Main",
+          "url": "https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F"
+        },
+        {
+          "name": "KEHLI",
+          "url": "https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186782,
+      "name": "Summer Lovin'",
+      "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
     },
     {
       "album": {
@@ -3057,7 +3161,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 157668,
       "name": "Trip Down",
       "url": "https://open.spotify.com/track/0acTvoJQbpyTzLdUtmczgM"
@@ -3342,6 +3446,24 @@
     },
     {
       "album": {
+        "name": "Who Says",
+        "url": "https://open.spotify.com/album/5S6LZZgXNNReelP7eODUBQ"
+      },
+      "artists": [
+        {
+          "name": "Schwey",
+          "url": "https://open.spotify.com/artist/1HjpNX0zNXYbHe38hMgDgZ"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145327,
+      "name": "Who Says",
+      "url": "https://open.spotify.com/track/3izM4DrwTNpHZeD902DtRc"
+    },
+    {
+      "album": {
         "name": "WHOA WAIT",
         "url": "https://open.spotify.com/album/0iBrvcNIqw1bruVyG9mIRS"
       },
@@ -3401,7 +3523,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 97471,
       "name": "Woo Woo Woo",
       "url": "https://open.spotify.com/track/70kzEQyJxUyEvVD1a0Igy6"

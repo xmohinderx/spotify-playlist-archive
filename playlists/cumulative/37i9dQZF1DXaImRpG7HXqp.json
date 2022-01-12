@@ -1810,6 +1810,24 @@
     },
     {
       "album": {
+        "name": "Las Rosas",
+        "url": "https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T"
+      },
+      "artists": [
+        {
+          "name": "Michele Leao",
+          "url": "https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Las Rosas",
+      "url": "https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL"
+    },
+    {
+      "album": {
         "name": "Leap Of Faith",
         "url": "https://open.spotify.com/album/6nggNkn35TZ4MrSn0pPz0G"
       },

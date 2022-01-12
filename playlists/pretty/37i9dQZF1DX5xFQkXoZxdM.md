@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xFQkXoZxdM.md) - [plain]
 
 > This is the essential collection of songs from Trey Songz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,942 likes - 56 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,999 likes - 56 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xFQkXoZxdM.md) - [plain]
 | 55 | [Y.A.S.](https://open.spotify.com/track/7K4pZy8fgpOr1Gpr9RRwuO) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga](https://open.spotify.com/album/00no0cywmc15sIIoys7kM9) | 6:05 |
 | 56 | [Cake](https://open.spotify.com/track/23znB7WDG5MBUiGSsdvYRw) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 4:45 |
 
-Snapshot ID: `MTYwMTY5ODMxMSwwMDAwMDAwOTAwMDAwMTc0ZWNhOGFkMDUwMDAwMDE3NGVjYTg3ZDQx`
+Snapshot ID: `MTY0MTg2MjQ0MywwMDAwMDAwYjAwMDAwMTdlNDZhMGIyNjAwMDAwMDE3NGVjYTg3ZDQx`

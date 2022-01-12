@@ -2,8 +2,28 @@
   "date_first_scraped": "2022-01-10",
   "description": "The best side! Cover: The Game",
   "name": "I Love My West Coast Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "46WKAAHiPrNpOK0uN1C8qu"
+  ],
   "tracks": [
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215509,
+      "name": "A.D.H.D",
+      "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
+    },
     {
       "album": {
         "name": "Doggystyle",
@@ -99,7 +119,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 259181,
       "name": "Backyard Boogie",
       "url": "https://open.spotify.com/track/0Bbd5inN2znpGQkxZbqmmU"
@@ -266,6 +286,28 @@
     },
     {
       "album": {
+        "name": "Below the Heavens",
+        "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265826,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
+    },
+    {
+      "album": {
         "name": "Safe + Sound",
         "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
       },
@@ -295,7 +337,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 334440,
       "name": "Fantastic Voyage",
       "url": "https://open.spotify.com/track/3QlTzofanSqDWywxEzGGE2"
@@ -313,7 +355,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 224813,
       "name": "Fellin' Myself",
       "url": "https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn"
@@ -484,6 +526,24 @@
     },
     {
       "album": {
+        "name": "Cypress Hill",
+        "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "How I Could Just Kill a Man",
+      "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -532,6 +592,24 @@
     },
     {
       "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "I Wanna Get High",
+      "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
+    },
+    {
+      "album": {
         "name": "Get In Where You Fit In",
         "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
       },
@@ -547,6 +625,24 @@
       "duration_ms": 361266,
       "name": "I'm a Player - Street Version",
       "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
+    },
+    {
+      "album": {
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+      },
+      "artists": [
+        {
+          "name": "Mista Grimm",
+          "url": "https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322226,
+      "name": "Indo Smoke",
+      "url": "https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK"
     },
     {
       "album": {
@@ -637,7 +733,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 204440,
       "name": "Let's Play House",
       "url": "https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez"
@@ -655,7 +751,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 290440,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/3ooAjhyOZ1xttGD0iq1GVO"
@@ -801,7 +897,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 238800,
       "name": "Summertime In The LBC",
       "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
@@ -871,6 +967,24 @@
       "duration_ms": 203026,
       "name": "This D.J.",
       "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
+    },
+    {
+      "album": {
+        "name": "Neighborhood Watch",
+        "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245826,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7"
     },
     {
       "album": {

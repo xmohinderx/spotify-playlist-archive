@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMS5dxv72g0.md) - [plain]
 
 > Get to know <a href="spotify:artist:4M5nCE77Qaxayuhp3fVn4V">Sam Beam</a> with a collection featuring his latest album, <a href="spotify:album:2Ha1FUPZ0RDMjLZFu1iVO1">Beast Epic</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,371 likes - 59 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,393 likes - 59 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMS5dxv72g0.md) - [plain]
 | 58 | [The Wind Is Low](https://open.spotify.com/track/3idqgSCGbAZ5Co9Hp0MUUQ) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Archive Series Volume No\. 1](https://open.spotify.com/album/7oEWciAL7LI4uFVNx0dHv8) | 3:32 |
 | 59 | [Low Light Buddy of Mine](https://open.spotify.com/track/4iqy5WhpjvGQV0J85TTIrB) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Ghost on Ghost](https://open.spotify.com/album/3oPGyYlIVrG66eLKD93BN4) | 3:29 |
 
-Snapshot ID: `MTU4Mzg0NzEzMCwwMDAwMDAwNTAwMDAwMTYxNGRiMTVmMjAwMDAwMDE3MGM0YTU0NGU1`
+Snapshot ID: `MTY0MTg2MjIwNSwwMDAwMDAwNzAwMDAwMTdlNDY5ZDExMGYwMDAwMDE3MGM0YTU0NGU1`

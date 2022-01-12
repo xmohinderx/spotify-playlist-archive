@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "3amarli Kasi",
+        "url": "https://open.spotify.com/album/3aPbk4uvzin5SftEiBL4q3"
+      },
+      "artists": [
+        {
+          "name": "Mido Belahbib",
+          "url": "https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm"
+        },
+        {
+          "name": "Ily",
+          "url": "https://open.spotify.com/artist/5GKXGt2OyYH2Lw5GpPM8fa"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177599,
+      "name": "3amarli Kasi",
+      "url": "https://open.spotify.com/track/2H8YrOTY3h9fGqiv2RnBsN"
+    },
+    {
+      "album": {
         "name": "A40",
         "url": "https://open.spotify.com/album/6PcWY3wKiBQ0B0o4nOnQuV"
       },
@@ -59,7 +81,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 178526,
       "name": "Ana Wiyak",
       "url": "https://open.spotify.com/track/6DLEP9WL1MAoDqFDWAIch5"

@@ -728,6 +728,24 @@
     },
     {
       "album": {
+        "name": "Dans le noir",
+        "url": "https://open.spotify.com/album/3xz6IHjv56jfGLIVTsgS1p"
+      },
+      "artists": [
+        {
+          "name": "Charmaine D'Avis",
+          "url": "https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag"
+    },
+    {
+      "album": {
         "name": "Dark Lights",
         "url": "https://open.spotify.com/album/24jHwcu0OnEKV4DCiiCxRF"
       },
@@ -1535,7 +1553,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 237738,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/782W9nidJ46Gelaro5yIV4"
@@ -2514,6 +2532,24 @@
     },
     {
       "album": {
+        "name": "Passage",
+        "url": "https://open.spotify.com/album/6lO2gCJPT56elqfM5JXpXM"
+      },
+      "artists": [
+        {
+          "name": "The Nowhows",
+          "url": "https://open.spotify.com/artist/0yv3AGgMUbIJR6DROh35j1"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177758,
+      "name": "Passage",
+      "url": "https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2"
+    },
+    {
+      "album": {
         "name": "Persistence",
         "url": "https://open.spotify.com/album/6orrmY7UOM4QMlFLnFwobd"
       },
@@ -2673,6 +2709,24 @@
       "duration_ms": 258951,
       "name": "Quasar",
       "url": "https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk"
+    },
+    {
+      "album": {
+        "name": "Quiet Times",
+        "url": "https://open.spotify.com/album/0KkfbKgLGtPvrNAA4m96Q5"
+      },
+      "artists": [
+        {
+          "name": "Dan Maus",
+          "url": "https://open.spotify.com/artist/7oJoc76R3JMv7dZhxgi7zD"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173793,
+      "name": "Quiet Times",
+      "url": "https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GiJlVeD6Ou.md) - [plain]
 
 > Carole King's most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,186 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,254 likes - 46 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GiJlVeD6Ou.md) - [plain]
 | 45 | [Crying In The Rain](https://open.spotify.com/track/77aum1SU94w0Av4E77RSJP) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [The Legendary Demos](https://open.spotify.com/album/3qwVZSAZIRYRSTjqJybA8d) | 1:48 |
 | 46 | [Everyday People](https://open.spotify.com/track/2PAEKuPg0JjJC7fFH9XJCC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Duets](https://open.spotify.com/album/2Wj4aipcgskjHrk2pXmERR) | 3:35 |
 
-Snapshot ID: `MTU2NzUwNDM3NiwwMDAwMDAwNzAwMDAwMTY1NTY0YmFiNjEwMDAwMDE2Y2Y2OGFhMTE1`
+Snapshot ID: `MTY0MTg2MjY1MSwwMDAwMDAwOTAwMDAwMTdlNDZhM2RmY2YwMDAwMDE2Y2Y2OGFhMTE1`

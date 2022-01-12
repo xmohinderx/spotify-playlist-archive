@@ -1,12 +1,12 @@
 {
   "description": "The best in alt, folk, and indie rock. Cover: The Lumineers",
   "name": "Rockin' Vibes",
-  "num_followers": 450912,
+  "num_followers": 450940,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkyNjgwMCwwMDAwMDRlNDAwMDAwMTdlMGVkYmU5MmIwMDAwMDE3ZGM1ZmIzMTU2",
+  "snapshot_id": "MTY0MTkyNDgyMiwwMDAwMDRlNTAwMDAwMTdlNGE1ODg1OWUwMDAwMDE3ZGM1ZmIzMTU2",
   "tracks": [
     {
       "added_at": "2021-09-24 04:01:00",
@@ -425,6 +425,22 @@
       "url": "https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw"
     },
     {
+      "added_at": "2022-01-11 18:13:42",
+      "album": {
+        "name": "in the wake of your leave",
+        "url": "https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "duration_ms": 243541,
+      "name": "in the wake of your leave",
+      "url": "https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm"
+    },
+    {
       "added_at": "2021-10-13 17:37:48",
       "album": {
         "name": "Crutch",
@@ -505,20 +521,20 @@
       "url": "https://open.spotify.com/track/5NnFkbEjahUGx5T3qxbNCW"
     },
     {
-      "added_at": "2021-11-26 05:00:00",
+      "added_at": "2022-01-11 18:13:42",
       "album": {
-        "name": "Weirdo",
-        "url": "https://open.spotify.com/album/5cHdca1XZ18kZCttAXaWe5"
+        "name": "Talkin' to Myself",
+        "url": "https://open.spotify.com/album/6kiT74gcWiUjW5VefQeknP"
       },
       "artists": [
         {
-          "name": "Beckett",
-          "url": "https://open.spotify.com/artist/267TC3tUFnMG5kjDk3KthP"
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
         }
       ],
-      "duration_ms": 182923,
-      "name": "Weirdo",
-      "url": "https://open.spotify.com/track/1PkASp5c1Wyef24KOFCe3a"
+      "duration_ms": 166248,
+      "name": "Talkin' to Myself",
+      "url": "https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -801,22 +817,6 @@
       "url": "https://open.spotify.com/track/64nduduwh4o6m0PXplVum0"
     },
     {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "tend the garden",
-        "url": "https://open.spotify.com/album/5TSwHMU4XfeLjxxpWWR3Rm"
-      },
-      "artists": [
-        {
-          "name": "Gang of Youths",
-          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
-        }
-      ],
-      "duration_ms": 267019,
-      "name": "tend the garden",
-      "url": "https://open.spotify.com/track/0UJPFwPFmGZFtwUSnNi6mt"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Your Song Saved My Life (From Sing 2)",
@@ -1087,22 +1087,6 @@
       "duration_ms": 223783,
       "name": "Red Run Cold",
       "url": "https://open.spotify.com/track/2YTgdBr27ThjNOqdcJAu8z"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "I Feel Like I'm Falling",
-        "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
-      },
-      "artists": [
-        {
-          "name": "HOKO",
-          "url": "https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "I Feel Like I'm Falling",
-      "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
     },
     {
       "added_at": "2021-10-01 04:01:00",
@@ -1767,26 +1751,6 @@
       "duration_ms": 219200,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/40Uq8mjn19gIAtHIG6ERZ6"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "New Invention [Feat. Tessa Violet]",
-        "url": "https://open.spotify.com/album/2MwQUepwWrthmaE3NvguHu"
-      },
-      "artists": [
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
-        },
-        {
-          "name": "Tessa Violet",
-          "url": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
-        }
-      ],
-      "duration_ms": 191983,
-      "name": "New Invention",
-      "url": "https://open.spotify.com/track/4d043mqKES7NxY0LoxLB5m"
     },
     {
       "added_at": "2021-08-06 04:01:00",

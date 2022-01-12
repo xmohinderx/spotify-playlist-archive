@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 223529,
       "name": "A\u015fk Yok Olmakt\u0131r",
       "url": "https://open.spotify.com/track/3UPrUZ9mJWEPjXzgF7GS8f"
@@ -653,7 +653,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 215474,
       "name": "Baba",
       "url": "https://open.spotify.com/track/4WVOnhv2a3vvBAzHbmdGHW"
@@ -1171,7 +1171,7 @@
       ],
       "date_added": "2021-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 138855,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/3Obq1XTegJy7ISrAA9VjQk"
@@ -2593,7 +2593,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 246317,
       "name": "Hayat\u0131m Kaym\u0131\u015f",
       "url": "https://open.spotify.com/track/7dxlHPdMeGZQDX70TK0jB5"
@@ -3235,7 +3235,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 267080,
       "name": "Kendime Yalan S\u00f6yledim",
       "url": "https://open.spotify.com/track/5hYb9RIvqvk8J6mjMNL4pc"
@@ -3429,7 +3429,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 171880,
       "name": "Krvn",
       "url": "https://open.spotify.com/track/4a1WLOoydq7u011UG9jjC9"
@@ -5188,6 +5188,36 @@
     },
     {
       "album": {
+        "name": "Sal\u0131ncak",
+        "url": "https://open.spotify.com/album/7e4M15sSXZHABco4p5O1GD"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Ceceli",
+          "url": "https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE"
+        },
+        {
+          "name": "Nigar Muharrem",
+          "url": "https://open.spotify.com/artist/6qg3g0aneq4tOJgpzIuEmT"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        },
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167772,
+      "name": "Sal\u0131ncak",
+      "url": "https://open.spotify.com/track/2WvQPmUV1dFdm21C2ryqfo"
+    },
+    {
+      "album": {
         "name": "Zeynodisco",
         "url": "https://open.spotify.com/album/4bmvAhffkgJO3vtmq4KWwD"
       },
@@ -5483,7 +5513,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-18",
+      "date_removed": null,
       "duration_ms": 276413,
       "name": "Son Sesleni\u015fim",
       "url": "https://open.spotify.com/track/1Xn2GNoMUPxjgxweGjypQ8"

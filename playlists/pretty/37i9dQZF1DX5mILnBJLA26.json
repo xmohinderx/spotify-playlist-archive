@@ -1,12 +1,12 @@
 {
   "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"xhttps://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=VS0hKX5ASKS4sWXi8lPtsw\">Kelvin Momo</a>",
   "name": "AmaPiano Grooves",
-  "num_followers": 230460,
+  "num_followers": 230839,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwNjM0MCwwMDAwMDMxZTAwMDAwMTdlMzE2NmZkMDEwMDAwMDE3ZGM1MjU1NTMz",
+  "snapshot_id": "MTY0MTg5ODMyOCwwMDAwMDMxZjAwMDAwMTdlNDhjNDQyMWEwMDAwMDE3ZGM1MjU1NTMz",
   "tracks": [
     {
       "added_at": "2022-01-06 21:59:00",
@@ -77,6 +77,30 @@
       "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
+      "added_at": "2021-12-23 21:59:00",
+      "album": {
+        "name": "Dipatje Tsa Felo (feat. Daliwonga)",
+        "url": "https://open.spotify.com/album/7u3mrMGgYgQkpIO5ntmezv"
+      },
+      "artists": [
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        }
+      ],
+      "duration_ms": 379285,
+      "name": "Dipatje Tsa Felo (feat. Daliwonga)",
+      "url": "https://open.spotify.com/track/3rDd1X68wGTaKYRATrcARb"
+    },
+    {
       "added_at": "2021-11-12 10:33:08",
       "album": {
         "name": "Asibe Happy",
@@ -101,28 +125,32 @@
       "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
     },
     {
-      "added_at": "2021-12-23 21:59:00",
+      "added_at": "2022-01-11 10:52:08",
       "album": {
-        "name": "Dipatje Tsa Felo (feat. Daliwonga)",
-        "url": "https://open.spotify.com/album/7u3mrMGgYgQkpIO5ntmezv"
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/1anApd1l1HVFWry0hCmYsP"
       },
       "artists": [
         {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+          "name": "Dj Karri",
+          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
         },
         {
-          "name": "Myztro",
-          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+          "name": "Lebzito",
+          "url": "https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q"
         },
         {
-          "name": "Daliwonga",
-          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+          "name": "BL Zero",
+          "url": "https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl"
+        },
+        {
+          "name": "Prime De 1st",
+          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
         }
       ],
-      "duration_ms": 379285,
-      "name": "Dipatje Tsa Felo (feat. Daliwonga)",
-      "url": "https://open.spotify.com/track/3rDd1X68wGTaKYRATrcARb"
+      "duration_ms": 393743,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/5UQPyDQmSLM9fb6d6nuD3s"
     },
     {
       "added_at": "2021-10-21 21:59:00",
@@ -193,6 +221,54 @@
       "url": "https://open.spotify.com/track/2PhF9xxDAX5FW0KNnkpah5"
     },
     {
+      "added_at": "2021-11-30 06:40:53",
+      "album": {
+        "name": "Danko",
+        "url": "https://open.spotify.com/album/6naCpQIBiYI68lG32ewe9X"
+      },
+      "artists": [
+        {
+          "name": "Musketeers",
+          "url": "https://open.spotify.com/artist/5XmpTzIZwQatGVuoReTJkv"
+        },
+        {
+          "name": "AzMo",
+          "url": "https://open.spotify.com/artist/00cDjzL8jCPeQC7qn9fqnK"
+        }
+      ],
+      "duration_ms": 344372,
+      "name": "Danko",
+      "url": "https://open.spotify.com/track/0GL7uWv0R3NVJ584jjzTBX"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/30abU8JfitXclHINTdT7xE"
+      },
+      "artists": [
+        {
+          "name": "Q-Mark",
+          "url": "https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj"
+        },
+        {
+          "name": "TpZee",
+          "url": "https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ"
+        },
+        {
+          "name": "Afriikan Papi",
+          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+        },
+        {
+          "name": "Cloud9ne",
+          "url": "https://open.spotify.com/artist/4US1sAYad203m0GNVxgJUi"
+        }
+      ],
+      "duration_ms": 415714,
+      "name": "Paris (feat. Afriikan Papi)",
+      "url": "https://open.spotify.com/track/6yCfjMCxxqrMTwGTOfnkoa"
+    },
+    {
       "added_at": "2021-12-20 11:39:57",
       "album": {
         "name": "Ivy League",
@@ -227,50 +303,86 @@
     {
       "added_at": "2022-01-06 21:59:00",
       "album": {
-        "name": "Paris",
-        "url": "https://open.spotify.com/album/30abU8JfitXclHINTdT7xE"
+        "name": "Dali Nguwe",
+        "url": "https://open.spotify.com/album/6w3XlF1P2YhVhag275CZHH"
       },
       "artists": [
         {
-          "name": "Q-Mark",
-          "url": "https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj"
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
         },
         {
-          "name": "TpZee",
-          "url": "https://open.spotify.com/artist/2nvb7E4RLPQVXoUPRaHLuJ"
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
         },
         {
-          "name": "Afriikan Papi",
-          "url": "https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO"
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
         },
         {
-          "name": "Cloud9ne",
-          "url": "https://open.spotify.com/artist/4US1sAYad203m0GNVxgJUi"
+          "name": "Basetsana",
+          "url": "https://open.spotify.com/artist/5tOlDzzo2n5dhYJDG6GFbe"
+        },
+        {
+          "name": "Obeey Amor",
+          "url": "https://open.spotify.com/artist/1J33KW1wp9oQvxHKEC2OGJ"
         }
       ],
-      "duration_ms": 415714,
-      "name": "Paris (feat. Afriikan Papi)",
-      "url": "https://open.spotify.com/track/6yCfjMCxxqrMTwGTOfnkoa"
+      "duration_ms": 325876,
+      "name": "Dali Nguwe",
+      "url": "https://open.spotify.com/track/584B5N5x0phtVVpBtSNcPt"
     },
     {
-      "added_at": "2021-11-30 06:40:53",
+      "added_at": "2021-09-23 21:59:00",
       "album": {
-        "name": "Danko",
-        "url": "https://open.spotify.com/album/6naCpQIBiYI68lG32ewe9X"
+        "name": "Abalele",
+        "url": "https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz"
       },
       "artists": [
         {
-          "name": "Musketeers",
-          "url": "https://open.spotify.com/artist/5XmpTzIZwQatGVuoReTJkv"
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
         },
         {
-          "name": "AzMo",
-          "url": "https://open.spotify.com/artist/00cDjzL8jCPeQC7qn9fqnK"
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Ami Faku",
+          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
         }
       ],
-      "duration_ms": 344372,
-      "name": "Danko",
-      "url": "https://open.spotify.com/track/0GL7uWv0R3NVJ584jjzTBX"
+      "duration_ms": 416321,
+      "name": "Abalele",
+      "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
+    },
+    {
+      "added_at": "2021-11-04 21:59:00",
+      "album": {
+        "name": "Notumato",
+        "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
+      },
+      "artists": [
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        }
+      ],
+      "duration_ms": 377182,
+      "name": "Sithi Shwi (feat. Big Zulu, DJ Maphorisa & Kabza De Small)",
+      "url": "https://open.spotify.com/track/4tYw8LJySmSEopvN1AknXv"
     },
     {
       "added_at": "2021-12-09 21:59:00",
@@ -399,90 +511,6 @@
       "duration_ms": 375445,
       "name": "Some Attitude",
       "url": "https://open.spotify.com/track/0JDBJm0nGextHwOIqDW9tQ"
-    },
-    {
-      "added_at": "2021-11-04 21:59:00",
-      "album": {
-        "name": "Notumato",
-        "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
-      },
-      "artists": [
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Big Zulu",
-          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        }
-      ],
-      "duration_ms": 377182,
-      "name": "Sithi Shwi (feat. Big Zulu, DJ Maphorisa & Kabza De Small)",
-      "url": "https://open.spotify.com/track/4tYw8LJySmSEopvN1AknXv"
-    },
-    {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "Dali Nguwe",
-        "url": "https://open.spotify.com/album/6w3XlF1P2YhVhag275CZHH"
-      },
-      "artists": [
-        {
-          "name": "Wanitwa Mos",
-          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "Basetsana",
-          "url": "https://open.spotify.com/artist/5tOlDzzo2n5dhYJDG6GFbe"
-        },
-        {
-          "name": "Obeey Amor",
-          "url": "https://open.spotify.com/artist/1J33KW1wp9oQvxHKEC2OGJ"
-        }
-      ],
-      "duration_ms": 325876,
-      "name": "Dali Nguwe",
-      "url": "https://open.spotify.com/track/584B5N5x0phtVVpBtSNcPt"
-    },
-    {
-      "added_at": "2021-09-23 21:59:00",
-      "album": {
-        "name": "Abalele",
-        "url": "https://open.spotify.com/album/59lFnkd1eVH8wl0cAXAPoz"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        },
-        {
-          "name": "Ami Faku",
-          "url": "https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE"
-        }
-      ],
-      "duration_ms": 416321,
-      "name": "Abalele",
-      "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
     },
     {
       "added_at": "2021-12-16 21:59:00",
@@ -869,30 +897,6 @@
       "url": "https://open.spotify.com/track/1SchBRgBc9Yoe8pazuwX2B"
     },
     {
-      "added_at": "2021-12-30 21:59:00",
-      "album": {
-        "name": "Tell Somebody",
-        "url": "https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8"
-      },
-      "artists": [
-        {
-          "name": "Effyzzie Music",
-          "url": "https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
-        },
-        {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
-        }
-      ],
-      "duration_ms": 237599,
-      "name": "Tell Somebody",
-      "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
-    },
-    {
       "added_at": "2021-12-10 09:53:07",
       "album": {
         "name": "iPiano (feat. Felo Le Tee)",
@@ -917,26 +921,6 @@
       "url": "https://open.spotify.com/track/7sOiyeWekZxPnb4JKcQoxU"
     },
     {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "African Queen",
-        "url": "https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s"
-      },
-      "artists": [
-        {
-          "name": "Makhadzi",
-          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
-        },
-        {
-          "name": "Jon Delinger",
-          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
-        }
-      ],
-      "duration_ms": 275408,
-      "name": "Zwivhuya",
-      "url": "https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj"
-    },
-    {
       "added_at": "2021-12-16 21:59:00",
       "album": {
         "name": "Ivy League",
@@ -959,6 +943,50 @@
       "duration_ms": 696490,
       "name": "Funa",
       "url": "https://open.spotify.com/track/5PQ89CWyL1abb0jv2bNFRn"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
+        "name": "African Queen",
+        "url": "https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi",
+          "url": "https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs"
+        },
+        {
+          "name": "Jon Delinger",
+          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
+        }
+      ],
+      "duration_ms": 275408,
+      "name": "Zwivhuya",
+      "url": "https://open.spotify.com/track/3YTPfXzK9TQOEODJD05cCj"
+    },
+    {
+      "added_at": "2021-12-30 21:59:00",
+      "album": {
+        "name": "Tell Somebody",
+        "url": "https://open.spotify.com/album/5PqqFK9QKjPlh4oeRRSqx8"
+      },
+      "artists": [
+        {
+          "name": "Effyzzie Music",
+          "url": "https://open.spotify.com/artist/6t4HMpwMpyeEmGv1QvEVPS"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Yaba Buluku Boyz",
+          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+        }
+      ],
+      "duration_ms": 237599,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/3EWJSHGXN8dA983I0sMhmd"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -1493,54 +1521,6 @@
       "url": "https://open.spotify.com/track/5SGR2GjHKy0V75xLwSsfWj"
     },
     {
-      "added_at": "2021-12-02 22:00:47",
-      "album": {
-        "name": "Dr. Gandayi",
-        "url": "https://open.spotify.com/album/115AAhHyT6A5UTh1JI0Wmj"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "MalumNator",
-          "url": "https://open.spotify.com/artist/25IVkspnS4ZKKxGVyOgVnK"
-        },
-        {
-          "name": "Sam Deep",
-          "url": "https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq"
-        },
-        {
-          "name": "Murumba Pitch",
-          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
-        }
-      ],
-      "duration_ms": 406750,
-      "name": "Krag",
-      "url": "https://open.spotify.com/track/5WPegAanmFxXEhTmYq7CMw"
-    },
-    {
-      "added_at": "2021-12-02 22:00:47",
-      "album": {
-        "name": "Fiery Furnace",
-        "url": "https://open.spotify.com/album/2yJWKHPqpUz3RxSofhmdjF"
-      },
-      "artists": [
-        {
-          "name": "Kota Embassy",
-          "url": "https://open.spotify.com/artist/3LIjRpCZ2elJjOBvrh2E53"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        }
-      ],
-      "duration_ms": 402179,
-      "name": "Bassists (feat. Major League Djz)",
-      "url": "https://open.spotify.com/track/4Z9dhfmltyGlMHSnAHxIgd"
-    },
-    {
       "added_at": "2021-12-23 21:59:00",
       "album": {
         "name": "Come Duze",
@@ -1583,50 +1563,6 @@
       "duration_ms": 151388,
       "name": "Softly - Cuppy Remix",
       "url": "https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL"
-    },
-    {
-      "added_at": "2021-12-08 07:28:41",
-      "album": {
-        "name": "Amajita",
-        "url": "https://open.spotify.com/album/0aN0TX3Ch30ILF0lvAXPRf"
-      },
-      "artists": [
-        {
-          "name": "Amapiano Madness",
-          "url": "https://open.spotify.com/artist/3r5wLfhWeRd17ogjabRqeo"
-        },
-        {
-          "name": "JayMea",
-          "url": "https://open.spotify.com/artist/6IXTM7xwUdJTE6Pb6jWA8l"
-        }
-      ],
-      "duration_ms": 359497,
-      "name": "Amajita",
-      "url": "https://open.spotify.com/track/4XNcmDvo121RUAOCx8rhPo"
-    },
-    {
-      "added_at": "2021-12-08 07:28:41",
-      "album": {
-        "name": "Terminator 2 (The Rise Of The Machine)",
-        "url": "https://open.spotify.com/album/3s25Ensp5VHmTWFXXNM04W"
-      },
-      "artists": [
-        {
-          "name": "Caltonic SA",
-          "url": "https://open.spotify.com/artist/17GosBGcjmcVVy4M6NBwQ9"
-        },
-        {
-          "name": "Sje Konka",
-          "url": "https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l"
-        },
-        {
-          "name": "Sax",
-          "url": "https://open.spotify.com/artist/0Mw1chFsvpRJpWEXZS0Ez5"
-        }
-      ],
-      "duration_ms": 301122,
-      "name": "2.0 Bambelela",
-      "url": "https://open.spotify.com/track/6TJl8V4LbxQYad6K4US947"
     },
     {
       "added_at": "2021-07-08 21:59:00",
@@ -1995,6 +1931,26 @@
       "duration_ms": 379226,
       "name": "Beke Le Beke",
       "url": "https://open.spotify.com/track/2b6nCxxqSXvv6z1VFYrvw5"
+    },
+    {
+      "added_at": "2022-01-11 10:52:08",
+      "album": {
+        "name": "Ameno Amapiano Remix",
+        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "duration_ms": 227100,
+      "name": "Ameno Amapiano Remix",
+      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26"

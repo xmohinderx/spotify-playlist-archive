@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-10",
   "description": "Essential songs from the late '90s, early 2000s underground hip-hop scene. Cover: Mos Def & Talib Kweli",
   "name": "I Love My Underground Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "14eAdAezP3MLdGe4QegXpf"
+  ],
   "tracks": [
     {
       "album": {
@@ -239,10 +241,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 275160,
       "name": "Cake",
       "url": "https://open.spotify.com/track/03iOfageXwoI9jGY4Q6LGw"
+    },
+    {
+      "album": {
+        "name": "How The West Was One",
+        "url": "https://open.spotify.com/album/317lVPzxQwlBb744XATUXS"
+      },
+      "artists": [
+        {
+          "name": "Cali Agents",
+          "url": "https://open.spotify.com/artist/5lUJxGxTTkeRC5xAouxIe4"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Cali Agents: The Anthem",
+      "url": "https://open.spotify.com/track/7vKp5fto7JfyQyhbX8GW9L"
     },
     {
       "album": {
@@ -336,6 +356,24 @@
     },
     {
       "album": {
+        "name": "Carte Blanche (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/02Z1j5amKUKolUtSCxYR03"
+      },
+      "artists": [
+        {
+          "name": "Phat Kat",
+          "url": "https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Nobody Care About Us",
+      "url": "https://open.spotify.com/track/56V2atr3UiIjDJVIGNN4HY"
+    },
+    {
+      "album": {
         "name": "The Best Part",
         "url": "https://open.spotify.com/album/7lvkfeGllsua86JXtLunNG"
       },
@@ -405,6 +443,28 @@
       "duration_ms": 235212,
       "name": "Fall In Love",
       "url": "https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq"
+    },
+    {
+      "album": {
+        "name": "The Prelude to Hell",
+        "url": "https://open.spotify.com/album/1qIlHdC82aZshqVgItTWOo"
+      },
+      "artists": [
+        {
+          "name": "The Bad Seed",
+          "url": "https://open.spotify.com/artist/1VqLuj2Y91AT1DcjjZO8O9"
+        },
+        {
+          "name": "Nottz",
+          "url": "https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "For the Kids",
+      "url": "https://open.spotify.com/track/6HtDVEavCO8VTOPoJM7pJX"
     },
     {
       "album": {
@@ -499,7 +559,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 226866,
       "name": "Good Ol Love",
       "url": "https://open.spotify.com/track/1RZwfy4hD9ixk4XcIQpyW1"
@@ -553,10 +613,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 242573,
       "name": "Just Don't Give A Fuck",
       "url": "https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq"
+    },
+    {
+      "album": {
+        "name": "Whatever You Say/Light It Up",
+        "url": "https://open.spotify.com/album/6JKktb5GjcSe56mKh7XyOi"
+      },
+      "artists": [
+        {
+          "name": "Little Brother",
+          "url": "https://open.spotify.com/artist/0s9MrSopEoAn8JqwBipgdO"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239546,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/2VnSbFSjK3c0fZIUH7SJej"
     },
     {
       "album": {
@@ -759,7 +837,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 290173,
       "name": "Right the Wrongs",
       "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
@@ -850,6 +928,32 @@
     },
     {
       "album": {
+        "name": "Champion Sound",
+        "url": "https://open.spotify.com/album/2dYpI1jDvEswqGoA3oMzrG"
+      },
+      "artists": [
+        {
+          "name": "Jaylib",
+          "url": "https://open.spotify.com/artist/7BWVFnoB7Qy9biFNCoRCMI"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        },
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "The Official",
+      "url": "https://open.spotify.com/track/5JUEfEsVmgEGI6SMbFH3gq"
+    },
+    {
+      "album": {
         "name": "Hi-Teknology",
         "url": "https://open.spotify.com/album/0VWDxRqfRmC5O6rW6Fq3ND"
       },
@@ -935,7 +1039,7 @@
       ],
       "date_added": "2021-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 221640,
       "name": "True Honey Buns (Dat Freak Shit)",
       "url": "https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT"
@@ -971,7 +1075,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 234013,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/7htuNpZWosnto4wXMkKYZk"
@@ -1007,7 +1111,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 239413,
       "name": "Whirlwind Thru Cities",
       "url": "https://open.spotify.com/track/7EZOcCGTHCXTLFtax2VUsU"

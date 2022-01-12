@@ -318,6 +318,28 @@
     },
     {
       "album": {
+        "name": "Diamond Koka",
+        "url": "https://open.spotify.com/album/5ja8o2ldFyqmyqRJtr9RaD"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        },
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Diamond Koka",
+      "url": "https://open.spotify.com/track/4J0CRtjn6qX0zjLjDt5RsT"
+    },
+    {
+      "album": {
         "name": "Don't Care",
         "url": "https://open.spotify.com/album/2BdHXu9RoP1JfwDypU5fk9"
       },

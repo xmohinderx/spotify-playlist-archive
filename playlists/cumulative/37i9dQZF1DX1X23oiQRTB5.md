@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1X23oiQRTB5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1X23oiQRTB5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1X23oiQRTB5)
 
-### PVNCHLNRS
+### [PVNCHLNRS](https://open.spotify.com/playlist/4EHhRKwzSbzJAtj2VPo7Qd)
 
 > Ninho au top de la première playlist de rap français !
 

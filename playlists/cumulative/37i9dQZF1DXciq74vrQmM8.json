@@ -960,6 +960,24 @@
     },
     {
       "album": {
+        "name": "LOVE IS VIOLENCE",
+        "url": "https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9"
+      },
+      "artists": [
+        {
+          "name": "Alice Glass",
+          "url": "https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "LOVE IS VIOLENCE",
+      "url": "https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM"
+    },
+    {
+      "album": {
         "name": "Panic Attacks in Paradise / Maggots",
         "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
       },
@@ -1336,6 +1354,24 @@
     },
     {
       "album": {
+        "name": "Shockwave",
+        "url": "https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0"
+      },
+      "artists": [
+        {
+          "name": "Gurldoll",
+          "url": "https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197075,
+      "name": "Shockwave",
+      "url": "https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi"
+    },
+    {
+      "album": {
         "name": "silly putty",
         "url": "https://open.spotify.com/album/4HdrJc0K45gBQQSBIkOhx1"
       },
@@ -1623,7 +1659,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 156253,
       "name": "ZERO FIVE STARS",
       "url": "https://open.spotify.com/track/7pLPs5Yph0xTeEMAA4Heff"

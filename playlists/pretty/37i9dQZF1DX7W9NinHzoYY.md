@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W9NinHzoYY.md) - [plain]
 
 > Hear Xavier Omär's breakout track &quot;Blind Man&quot; and other essential jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,684 likes - 27 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,709 likes - 27 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W9NinHzoYY.md) - [plain]
 | 26 | [Konjo \(feat\. Xavier Omär\)](https://open.spotify.com/track/28FSd1P9T2lPiIEqW1VEAX) | [Melat](https://open.spotify.com/artist/0yKi6YfNrd68niGAm7glGK), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MéVen](https://open.spotify.com/album/4U0RNyMV2ZMAvGedf9kbBz) | 5:14 |
 | 27 | [All I Need \(feat\. Xavier Omär\)](https://open.spotify.com/track/5SBPdm1dAz7WhgmSQVfOew) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 4:00 |
 
-Snapshot ID: `MTYwMzM4MDE5MywwMDAwMDAwZDAwMDAwMTc1NTBlODI3ODUwMDAwMDE3NTUwZTdlMTRk`
+Snapshot ID: `MTY0MTg2MjQ2OSwwMDAwMDAwZjAwMDAwMTdlNDZhMTE1ZTMwMDAwMDE3NTUwZTdlMTRk`

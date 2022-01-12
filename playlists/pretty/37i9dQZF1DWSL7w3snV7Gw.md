@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSL7w3snV7Gw.md) - [plain]
 
 > 50 great tracks from 20th century's most celebrated piano genius\. Beyond his iconic Bach recordings, you will also find his unique interpretation of Beethoven, Scriabin, Strauss, and many other composers from renaissance to modern age.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,439 likes - 50 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,481 likes - 50 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSL7w3snV7Gw.md) - [plain]
 | 49 | [Siegfried\-Idyll \(Piano Transcription\) \- Remastered](https://open.spotify.com/track/6jJe8ttloXadUiH03QHsQQ) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Glenn Gould Plays His Own Transcriptions of Wagner Orchestral Showpieces \(Gould Remastered\)](https://open.spotify.com/album/6rIPaphwOa1FvkmI9Hio8n) | 23:35 |
 | 50 | [String Quartet, Op\. 1](https://open.spotify.com/track/5oNuABE9gpYlo2zXZoJnu8) | [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP), [SYMPHONIA QUARTET](https://open.spotify.com/artist/3qYdiecmExRfLbnUyfXzyO) | [Glenn Gould & Chamber Music](https://open.spotify.com/album/0i8rYWiZtuDkotwOVXPL9w) | 36:07 |
 
-Snapshot ID: `MTU2ODAxODg2MCwwMDAwMDAwNzAwMDAwMTVmNWQwNTA0YTQwMDAwMDE2ZDE1MzUwYTI1`
+Snapshot ID: `MTY0MTg2MjE4MiwwMDAwMDAwOTAwMDAwMTdlNDY5Y2I0Y2MwMDAwMDE2ZDE1MzUwYTI1`

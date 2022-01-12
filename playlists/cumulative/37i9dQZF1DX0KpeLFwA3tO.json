@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "A Session With My Therapist",
+        "url": "https://open.spotify.com/album/1UkkJcrSfZ0YBir2pnfNhV"
+      },
+      "artists": [
+        {
+          "name": "Aryia",
+          "url": "https://open.spotify.com/artist/3pWE3vAZ06uBBPsmguhCz2"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "A Session With My Therapist",
+      "url": "https://open.spotify.com/track/34z2PBOPZUisHIdPYdlUzU"
+    },
+    {
+      "album": {
         "name": "Get It Together",
         "url": "https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD"
       },
@@ -235,7 +253,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 209285,
       "name": "Century",
       "url": "https://open.spotify.com/track/6uo5uOXkWZxhJnvmzOiMyI"
@@ -365,7 +383,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 213746,
       "name": "Cupid's Arrow",
       "url": "https://open.spotify.com/track/4oHec8AQcjVR2EadYf5YPO"
@@ -654,6 +672,24 @@
     },
     {
       "album": {
+        "name": "Judged",
+        "url": "https://open.spotify.com/album/6pKrrj8l3EjMkaZHmOMxfv"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99090,
+      "name": "Judged",
+      "url": "https://open.spotify.com/track/7G1wZUVuFZsPEW5prYcN6J"
+    },
+    {
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/62YEeyuU5wGyMRPy6OWUVJ"
       },
@@ -870,6 +906,28 @@
     },
     {
       "album": {
+        "name": "New England",
+        "url": "https://open.spotify.com/album/7jSPhpCKF0PXgZ2ntVWSnn"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "New England",
+      "url": "https://open.spotify.com/track/6Xc7LinCrQ5qwqVihDXrtr"
+    },
+    {
+      "album": {
         "name": "Nino",
         "url": "https://open.spotify.com/album/1SHFgXR5Lw4T2vGWXrL8NR"
       },
@@ -899,7 +957,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 178118,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/779GuRKb0pL3y6n4fdXnpT"
@@ -1025,10 +1083,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 103846,
       "name": "relax and float downstream",
       "url": "https://open.spotify.com/track/4yk8K9Mkjxxwv16sjzEGfs"
+    },
+    {
+      "album": {
+        "name": "Reset My Password",
+        "url": "https://open.spotify.com/album/1PdUQ7q9ECtmZQjmp79DVI"
+      },
+      "artists": [
+        {
+          "name": "Public Body",
+          "url": "https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170028,
+      "name": "Reset My Password",
+      "url": "https://open.spotify.com/track/6CKslfcC4WXPRFAjSItYm7"
     },
     {
       "album": {

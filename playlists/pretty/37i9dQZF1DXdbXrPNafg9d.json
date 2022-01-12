@@ -1,7 +1,7 @@
 {
   "description": "The best new tracks every week. Cover: Father John Misty",
   "name": "All New Indie",
-  "num_followers": 1177021,
+  "num_followers": 1177165,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -352,12 +352,12 @@
       },
       "artists": [
         {
-          "name": "Nosaj Thing",
-          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
-        },
-        {
           "name": "KU\u010cKA",
           "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
         }
       ],
       "duration_ms": 211139,

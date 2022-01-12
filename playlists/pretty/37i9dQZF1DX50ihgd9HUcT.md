@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50ihgd9HUcT.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,622 likes - 36 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,635 likes - 36 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50ihgd9HUcT.md) - [plain]
 | 35 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
 | 36 | [Black Is the Color of My True Love's Hair](https://open.spotify.com/track/1407c8FnSAQmWL9gEiKVR7) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pour une âme souveraine \(A Dedication to Nina Simone\)](https://open.spotify.com/album/1lT36ulyIW5DOr7sqMR0i2) | 3:54 |
 
-Snapshot ID: `MTYxNTUyNjY4NywwMDAwMDAwNTAwMDAwMTc4MjRlNGY0OTAwMDAwMDE3NzJhOGUwODhm`
+Snapshot ID: `MTY0MTg2MjYxNiwwMDAwMDAwNzAwMDAwMTdlNDZhMzU2MzAwMDAwMDE3NzJhOGUwODhm`

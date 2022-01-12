@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUWZIwpqsT3.md) - [plain]
 
 > Press play and let's dance with the biggest Brazilian DJ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,575,691 likes - 77 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,575,945 likes - 77 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wherever You Go \(Feat\. John Martin\)](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Wherever You Go \(Feat\. John Martin\)](https://open.spotify.com/album/7pISC7Gh6pNbNLPgv4PToV) | 3:20 |
+| 1 | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/album/7pISC7Gh6pNbNLPgv4PToV) | 3:20 |
 | 2 | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/track/0ov3zuZGNe3LTTKseNnIPX) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lars Martin](https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO) | [Typical \(feat\. Lars Martin\)](https://open.spotify.com/album/0IGbfr3QRfclnJh2VvhN9Z) | 2:21 |
 | 3 | [Sky High \(feat\. Nonô\)](https://open.spotify.com/track/400WptNm7JLz4CbEvHCtMe) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sky High \(feat\. Nonô\)](https://open.spotify.com/album/1rJPJMJSw8OigDeS1buLcj) | 2:14 |
 | 4 | [Squid Game \(Let's Play\)](https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Squid Game \(Let's Play\)](https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc) | 2:32 |

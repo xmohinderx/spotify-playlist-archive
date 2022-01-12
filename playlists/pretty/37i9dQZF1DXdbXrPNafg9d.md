@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Father John Misty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,177,021 likes - 179 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,177,165 likes - 179 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 18 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 |
 | 19 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 |
 | 20 | [San Francisco](https://open.spotify.com/track/34bHZtb2hS3m4hWM3GukXW) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [San Francisco](https://open.spotify.com/album/0e03p5hyHj39m29ZPFmAsE) | 3:07 |
-| 21 | [Gemini](https://open.spotify.com/track/0WAOLXpWWl3oescKBLC37q) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Gemini](https://open.spotify.com/album/6MEueTIlNbBmgwD1UHGSpR) | 3:31 |
+| 21 | [Gemini](https://open.spotify.com/track/0WAOLXpWWl3oescKBLC37q) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Gemini](https://open.spotify.com/album/6MEueTIlNbBmgwD1UHGSpR) | 3:31 |
 | 22 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
 | 23 | [real people](https://open.spotify.com/track/2Z5cugOwgDrGdW3g0AWzGP) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [real people](https://open.spotify.com/album/2Ao23sEZfInxp7wCyOJLT7) | 3:13 |
 | 24 | [Happy New Year](https://open.spotify.com/track/6PbirqXeIG94tn0lXcrnYu) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Happy New Year](https://open.spotify.com/album/27akBDSoCa34vZlfyl2KrC) | 4:39 |

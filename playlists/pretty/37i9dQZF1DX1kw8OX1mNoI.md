@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kw8OX1mNoI.md) - [plain]
 
 > This is Johnny Cash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 602,305 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 602,402 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kw8OX1mNoI.md) - [plain]
 | 74 | [Highwayman](https://open.spotify.com/track/3BmcfKWiJOfURa9PI1jFr4) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa) | [The Essential Highwaymen](https://open.spotify.com/album/3HoSFsrDuaxgwLUBpC2zUE) | 3:02 |
 | 75 | [Jackson \(with June Carter Cash\) \- Live at Folsom State Prison, Folsom, CA \(1st Show\) \- January 1968](https://open.spotify.com/track/1p1lr7yRQRywMSj3isYGmS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [At Folsom Prison \(Legacy Edition\)](https://open.spotify.com/album/784THwrPRbheFoUMDEpWh8) | 3:27 |
 
-Snapshot ID: `MTYzMzAxNDA2NSwwMDAwMDAwYjAwMDAwMTdjMzczOTI4MzIwMDAwMDE2ZDE1MWU4Y2Fh`
+Snapshot ID: `MTY0MTg2MjA0OSwwMDAwMDAwZDAwMDAwMTdlNDY5YWIwOWMwMDAwMDE2ZDE1MWU4Y2Fh`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX59ogDi1Z2XL.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX59ogDi1Z2XL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX59ogDi1Z2XL)
 
-### Northern Bars
+### [Northern Bars](https://open.spotify.com/playlist/42ubhhnACTiunpws137UPH)
 
 > The sounds of hip\-hop coming out of Canada\. Cover: Smiley
 

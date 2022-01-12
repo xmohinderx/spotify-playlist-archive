@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQeR9oTmnyj.md) - [plain]
 
 > An introduction to <a href="spotify:user:spotify:playlist:37i9dQZF1DWXXW8bE6k5tq">John Williams'</a> soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,124 likes - 58 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,257 likes - 58 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQeR9oTmnyj.md) - [plain]
 | 57 | [Ahch\-To Island](https://open.spotify.com/track/09tqvO8ho8otby40jPczXj) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Last Jedi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4zmROzWp6hr8nb1FEUUb3D) | 4:22 |
 | 58 | [Presumed Innocent \- From "Presumed Innocent"](https://open.spotify.com/track/594R8nKEl2Rr5cuVGsU8EO) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Varèse Sarabande: A 25th Anniversary Celebration, Vol\. 2](https://open.spotify.com/album/7JxXK8dvLi6GQIt9WAA9Kc) | 4:15 |
 
-Snapshot ID: `MTU4NzM5MTk0NCwwMDAwMDAwZDAwMDAwMTcxOTdlZWQ3YTIwMDAwMDE2ZDE1NTRhYTc3`
+Snapshot ID: `MTY0MTg2MjIzMSwwMDAwMDAwZjAwMDAwMTdlNDY5ZDc0ZDcwMDAwMDE2ZDE1NTRhYTc3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzMOBac4fUJ.md) - [plain]
 
 > Run down to the riptide with the <a href="spotify:artist:10exVja0key0uqUkk6LJRT">Australian songsmith</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,225 likes - 32 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,287 likes - 32 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzMOBac4fUJ.md) - [plain]
 | 31 | [Mess Is Mine \(Live from Philadelphia\)](https://open.spotify.com/track/53QxyDHCASvFNdWGp4lQfB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Deluxe Edition\)](https://open.spotify.com/album/4ioayqjumXhYgfBenmymIH) | 3:37 |
 | 32 | [La Mer](https://open.spotify.com/track/58IjZrJ0e2H9GLerzdTkZF) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Mélodie Française](https://open.spotify.com/album/4z2XVjGxGx1KoylKjhtLeg) | 4:49 |
 
-Snapshot ID: `MTYyMTU0Mjc1MCwwMDAwMDAxMTAwMDAwMTc5OGI3YWNhMzEwMDAwMDE3MGFmMzQ0MmNj`
+Snapshot ID: `MTY0MTg2MjQ1MywwMDAwMDAxMzAwMDAwMTdlNDZhMGQ5MTQwMDAwMDE3MGFmMzQ0MmNj`

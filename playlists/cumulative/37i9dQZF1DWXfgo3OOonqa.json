@@ -692,6 +692,24 @@
     },
     {
       "album": {
+        "name": "Faller Ner",
+        "url": "https://open.spotify.com/album/7p83WB1Z0pHzhNDQCO8Gqg"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130832,
+      "name": "Faller Ner",
+      "url": "https://open.spotify.com/track/42BbDNhLL4mCCezhEtE8YD"
+    },
+    {
+      "album": {
         "name": "Farlig Plats",
         "url": "https://open.spotify.com/album/0C1U3FUHZjXUDe8EKW3rql"
       },
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 180098,
       "name": "LIE",
       "url": "https://open.spotify.com/track/4AHdgKCbSe5hHNUI2iUIbt"
@@ -1404,7 +1422,7 @@
         },
         {
           "name": "Mackan",
-          "url": "https://open.spotify.com/artist/1uExI5m9qra1hsoTnRy2Eg"
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
         }
       ],
       "date_added": "2022-01-06",

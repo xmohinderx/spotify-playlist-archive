@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-10",
   "description": "Fresh Latin Indie. Cover: Martox",
   "name": "Latin Indie Rising",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7MnJ2IoUwoMwkesw4ELHCy"
+  ],
   "tracks": [
     {
       "album": {
@@ -75,7 +77,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 155401,
       "name": "All That I Said",
       "url": "https://open.spotify.com/track/2HuCVtmbXGPjWrCbnhElDf"
@@ -93,7 +95,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 249211,
       "name": "ALL THESE INSTRUMENTS",
       "url": "https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0"
@@ -187,10 +189,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 193333,
       "name": "Bad Times Are Good Times",
       "url": "https://open.spotify.com/track/0q1MM7GUhO1QHe37MSYrzG"
+    },
+    {
+      "album": {
+        "name": "Sugarbaby",
+        "url": "https://open.spotify.com/album/2iEbsaWRJnVP68iF3ao9RX"
+      },
+      "artists": [
+        {
+          "name": "Michi",
+          "url": "https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "Break My Own Rules",
+      "url": "https://open.spotify.com/track/1kPAvCpVeVnDqcauWic5oU"
     },
     {
       "album": {
@@ -205,7 +225,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 202034,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/6nUvMK1MawwoaRtSmrJL8h"
@@ -241,7 +261,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 241034,
       "name": "Cerezos II",
       "url": "https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG"
@@ -393,7 +413,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 196000,
       "name": "Don't Care",
       "url": "https://open.spotify.com/track/6TZUGi7lAOGfUyGKaIGJ4N"
@@ -419,6 +439,24 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
+    },
+    {
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/326kj5IonAbmP8fvOZkiwc"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Silva",
+          "url": "https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176776,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3MWjUNewqvMhd0Djv3tPdk"
     },
     {
       "album": {
@@ -621,7 +659,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 222226,
       "name": "IN MY ROOM!",
       "url": "https://open.spotify.com/track/74XGMhW9YScgVpeVJmzKqj"
@@ -697,7 +735,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 232056,
       "name": "Junto a Ti",
       "url": "https://open.spotify.com/track/7aF0TCs1HeKfu56uN8aqIo"
@@ -789,7 +827,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 240509,
       "name": "Life",
       "url": "https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3"
@@ -843,7 +881,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 263735,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/1S6JBFByksSIbXmxHQRrfy"
@@ -945,7 +983,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 128999,
       "name": "Luv on Me",
       "url": "https://open.spotify.com/track/65qsnnINZZZYdPNxlXaQey"
@@ -963,7 +1001,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 244250,
       "name": "Made Up My Mind",
       "url": "https://open.spotify.com/track/7bN6OU0dl259EuaM02wCrJ"
@@ -1155,7 +1193,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 146585,
       "name": "Para Nada",
       "url": "https://open.spotify.com/track/0f4PXAx8MCRSYl5A4RzNla"
@@ -1368,6 +1406,24 @@
     },
     {
       "album": {
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144511,
+      "name": "Really Rong",
+      "url": "https://open.spotify.com/track/60vsS2ZyzU8gVHEyG35g57"
+    },
+    {
+      "album": {
         "name": "Mal Hecha (Deluxe)",
         "url": "https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP"
       },
@@ -1423,7 +1479,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 254148,
       "name": "Se Abre el Cielo",
       "url": "https://open.spotify.com/track/6KzAbMlaCOvuC0445fDdZu"
@@ -1445,6 +1501,24 @@
       "duration_ms": 195133,
       "name": "Si Nos Vamos",
       "url": "https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH"
+    },
+    {
+      "album": {
+        "name": "Space Parade",
+        "url": "https://open.spotify.com/album/6Ga077n4SAlyKzmFKsQ6zc"
+      },
+      "artists": [
+        {
+          "name": "Quelle Rox",
+          "url": "https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178166,
+      "name": "Space Parade",
+      "url": "https://open.spotify.com/track/5XHZv1rBmLCGzGiAHV5m6G"
     },
     {
       "album": {
@@ -1477,10 +1551,32 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 221716,
       "name": "Summer Girl",
       "url": "https://open.spotify.com/track/5BYQQYhWq4iaffGzKanVwW"
+    },
+    {
+      "album": {
+        "name": "te alejas",
+        "url": "https://open.spotify.com/album/2QBBsysSCOI2tmHqvNBG7j"
+      },
+      "artists": [
+        {
+          "name": "andremustdie",
+          "url": "https://open.spotify.com/artist/6J3J7gELfiEqZIiW7gVNrw"
+        },
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298250,
+      "name": "te alejas",
+      "url": "https://open.spotify.com/track/3ZUNkZgE697qrnRCBZZOBz"
     },
     {
       "album": {
@@ -1531,7 +1627,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 142921,
       "name": "tus ojos",
       "url": "https://open.spotify.com/track/3VWpfOSxv0h8W98iyHbc8E"
@@ -1611,7 +1707,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 153189,
       "name": "\u00a1p\u00e1rate!",
       "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"

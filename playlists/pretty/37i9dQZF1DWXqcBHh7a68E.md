@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqcBHh7a68E.md) - [plain]
 
 > The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,346 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,394 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqcBHh7a68E.md) - [plain]
 | 34 | [Your Way or the Rope](https://open.spotify.com/track/4v4JL46Vg1kB78xArvfJ99) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:24 |
 | 35 | [Fade to Nothing](https://open.spotify.com/track/5LUg3woLYpiaNwXHDVWcY5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 |
 
-Snapshot ID: `MTYyNjM5MDAwMCwwMDAwMDAxMDAwMDAwMTdhYWM2NWYxZTcwMDAwMDE3NzJhZDU5YTIx`
+Snapshot ID: `MTY0MTg2MjM1NywwMDAwMDAxMjAwMDAwMTdlNDY5ZjYxMzAwMDAwMDE3NzJhZDU5YTIx`

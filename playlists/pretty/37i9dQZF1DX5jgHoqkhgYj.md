@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jgHoqkhgYj.md) - [plain]
 
 > A 50\-track introduction to the best\-known South American composer of all time Heitor Villa\-Lobos, who successfully combined Brazilian folk melody and rhythmic elements with Western classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,594 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,607 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jgHoqkhgYj.md) - [plain]
 | 49 | [Uirapuru](https://open.spotify.com/track/4czvD3kSwmMkCXduHZm8AC) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Paraiba Symphony Orchestra](https://open.spotify.com/artist/78XyIo9rSNZPTD6aFilW68), [Eleazar de Carvalho](https://open.spotify.com/artist/1J6oUUcuL4ucIhgAIycRdO) | [Villa\-Lobos, H.: Choros No\. 8 / Fantasia / Uirapuru / Nobre, M.: Convergencias \(Brazil '88 \- A Brazilian Music Extravanganza\)](https://open.spotify.com/album/6wB35uA3VarjSqnEMRFrcB) | 20:54 |
 | 50 | [Momoprecoce fantasy](https://open.spotify.com/track/0sN8YrmZXUbCfqWNt8npHc) | [Heitor Villa\-Lobos](https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p), [Nohema Fernandez](https://open.spotify.com/artist/5ZZX263VtjtnPUt9XihobO), [Seoul Philharmonic Orchestra](https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7), [Paul Freeman](https://open.spotify.com/artist/6KIWAOKwNIWHHDFcwbTa3p) | [Villa\-Lobos, H.: Prole Do Bebe No\. 1 / As Tres Marias / Saudades Das Selvas Brasileiras](https://open.spotify.com/album/1PEDnhvRAONwZPYeeQHmmv) | 22:33 |
 
-Snapshot ID: `MTU2NzY3NjI2NywwMDAwMDAwNTAwMDAwMTViMzg4OGUxYmQwMDAwMDE2ZDAwYzk3YzZi`
+Snapshot ID: `MTY0MTg2MjE5MSwwMDAwMDAwNzAwMDAwMTdlNDY5Y2RhZWIwMDAwMDE2ZDAwYzk3YzZi`

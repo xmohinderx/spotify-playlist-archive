@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zj9CzXszqD.md) - [plain]
 
 > A collection of the essential Status Quo songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,001 likes - 38 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,043 likes - 38 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zj9CzXszqD.md) - [plain]
 | 37 | [It's Christmas Time](https://open.spotify.com/track/0k70wa70q4nMf4mdJGy4b3) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Merry Xmas](https://open.spotify.com/album/6J3VYjuaBXLFaaPSLU3UX5) | 4:11 |
 | 38 | [Dreamin'](https://open.spotify.com/track/6vgZnLvOLFNysM1HkCFY50) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [In The Army Now](https://open.spotify.com/album/2AkxtR1F8F0kf13A1kZ1lx) | 2:55 |
 
-Snapshot ID: `MTU2NzY3NjIwMCwwMDAwMDAxMTAwMDAwMTY2NDAzNjlmZDYwMDAwMDE2ZDAwYzg3NWQ0`
+Snapshot ID: `MTY0MTg2MjQwNCwwMDAwMDAxMzAwMDAwMTdlNDZhMDE4ZDYwMDAwMDE2ZDAwYzg3NWQ0`

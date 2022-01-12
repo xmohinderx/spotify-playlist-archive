@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3w9f3pg1Dyc.md) - [plain]
 
 > Cher's most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,637 likes - 37 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,702 likes - 37 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3w9f3pg1Dyc.md) - [plain]
 | 36 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/4uopTtTNE6LxT0HAQLV5vU) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Rosie O'Donnell](https://open.spotify.com/artist/4V8U8U6LwsHGyRTLCt9t19) | [A Rosie Christmas](https://open.spotify.com/album/6BUs2apP30tvw6NgqO3YXT) | 3:08 |
 | 37 | [Bewitched, Bothered & Bewildered \(feat\. Cher\)](https://open.spotify.com/track/7ca5UV2hg1TtD1WWDbx3DI) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [As Time Goes By...The Great American Songbook: Volume II](https://open.spotify.com/album/6YTypI5yRIIdixEV25ccgQ) | 4:13 |
 
-Snapshot ID: `MTU3NDE2MDA0NSwwMDAwMDAwYTAwMDAwMTZkZjhjNTdiYTgwMDAwMDE2ZTgzNDAxNGEx`
+Snapshot ID: `MTY0MTg2MjY1NSwwMDAwMDAwYzAwMDAwMTdlNDZhM2VmMGUwMDAwMDE2ZTgzNDAxNGEx`

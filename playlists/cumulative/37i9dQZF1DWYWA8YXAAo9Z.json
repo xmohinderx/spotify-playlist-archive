@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 412000,
       "name": "Antec\u00e1mara",
       "url": "https://open.spotify.com/track/42RLy3PPI7zlf18MP095BC"
@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 399141,
       "name": "Ardent Flux",
       "url": "https://open.spotify.com/track/4cGFQX45YRFCmucn1kjcJ9"
@@ -1051,10 +1051,28 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 442500,
       "name": "Raum - Single Edit",
       "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
+    },
+    {
+      "album": {
+        "name": "Red Cloud",
+        "url": "https://open.spotify.com/album/3i5yZDznCnifpD4TPh1r9s"
+      },
+      "artists": [
+        {
+          "name": "Camille Fischer",
+          "url": "https://open.spotify.com/artist/2Xkd6B5Bt2liYItQUp1gbO"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370517,
+      "name": "Red Cloud",
+      "url": "https://open.spotify.com/track/0ZuOLYu5FYdaL5jU4zl6IQ"
     },
     {
       "album": {
@@ -1141,7 +1159,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 263142,
       "name": "Sleep to Dream",
       "url": "https://open.spotify.com/track/5KwymU2QG0VItvZCLk0Sg7"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 431502,
       "name": "Stratum",
       "url": "https://open.spotify.com/track/7oeoPQWwvxCSvJP3YFOhpz"

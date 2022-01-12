@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 256681,
       "name": "All Is Well",
       "url": "https://open.spotify.com/track/77vpyfnzo1ROWQERRRe21h"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 297178,
       "name": "And You Evade Him/Born in the Blood",
       "url": "https://open.spotify.com/track/3QPb4YCMslM3omndws57Cr"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 250146,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/2pqKEd7Lbz6EcySnBnGRsA"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 201892,
       "name": "Can't Get My Head Around Loving You - Acoustic Version",
       "url": "https://open.spotify.com/track/3gRWoyZSogGNdef8vlniMC"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 231333,
       "name": "First Time (Acoustic)",
       "url": "https://open.spotify.com/track/5UwO4neUDcYOxRWUVU7ce2"
@@ -953,7 +953,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 245589,
       "name": "Lights Off (Live from Spotify, London)",
       "url": "https://open.spotify.com/track/34bvDVeoJZyiuxfLUmNzwV"
@@ -1173,7 +1173,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 283653,
       "name": "Nimbin",
       "url": "https://open.spotify.com/track/6wHgmOZfLWmn685tDFXsX7"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 219093,
       "name": "Nothing Arrived - Live from Spotify London",
       "url": "https://open.spotify.com/track/4JKHACLkotsxdKNF9vJYOS"
@@ -1231,6 +1231,24 @@
       "duration_ms": 191916,
       "name": "Now You Don't",
       "url": "https://open.spotify.com/track/51fqruO7AtIan8CWr9XVAv"
+    },
+    {
+      "album": {
+        "name": "Andrea von Kampen on Audiotree Live",
+        "url": "https://open.spotify.com/album/3vwPmU4r8gbq0dolrh8T1l"
+      },
+      "artists": [
+        {
+          "name": "Andrea von Kampen",
+          "url": "https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162979,
+      "name": "Old Country - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/5gx9Tna1CvetTbi0JHQl7d"
     },
     {
       "album": {
@@ -1389,7 +1407,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 237316,
       "name": "September Song, pt. ii",
       "url": "https://open.spotify.com/track/4tM4hSwyXO0Q6wWLknh7YJ"
@@ -1555,7 +1573,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 250453,
       "name": "Splintered",
       "url": "https://open.spotify.com/track/4ImN33OfhmbjjWBAB7pElK"
@@ -1573,7 +1591,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 149607,
       "name": "Stanley Park - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3EIRyXhoQP8zglbqDif1NX"
@@ -1793,7 +1811,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 158813,
       "name": "Trainsong",
       "url": "https://open.spotify.com/track/4pxW6L91xBeUrWygGcSHOe"
@@ -1981,7 +1999,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 205821,
       "name": "White Frost (Acoustic)",
       "url": "https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie"

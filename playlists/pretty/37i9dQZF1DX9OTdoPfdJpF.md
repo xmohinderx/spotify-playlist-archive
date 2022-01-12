@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OTdoPfdJpF.md) - [plain]
 
 > Jamiroquai, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,725 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,836 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9OTdoPfdJpF.md) - [plain]
 | 49 | [Alright \- Remastered](https://open.spotify.com/track/0cL0AarTZtfSt5Tc3a2ZDN) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving](https://open.spotify.com/album/39j0mP1Vx1zRKMLMHhybw3) | 4:23 |
 | 50 | [You Give Me Something](https://open.spotify.com/track/2oX46s90nkZtTbCowHiWVs) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A Funk Odyssey](https://open.spotify.com/album/2M50cB74zAc1lQNlrlYHxY) | 3:19 |
 
-Snapshot ID: `MTU2NzY3NjEzMSwwMDAwMDAwYTAwMDAwMTZhMzc2ZDMxNzQwMDAwMDE2ZDAwYzc2ODhl`
+Snapshot ID: `MTY0MTg2MjY5MSwwMDAwMDAwYzAwMDAwMTdlNDZhNDc5MjEwMDAwMDE2ZDAwYzc2ODhl`

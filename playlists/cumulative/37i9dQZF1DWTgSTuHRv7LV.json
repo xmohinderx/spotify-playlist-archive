@@ -101,7 +101,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 212613,
       "name": "Ah\u00ed Les Va",
       "url": "https://open.spotify.com/track/54xhs6kMBcCKBRJ6KBE2c0"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 201507,
       "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
       "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
@@ -211,6 +211,24 @@
       "duration_ms": 236043,
       "name": "Asi Soy",
       "url": "https://open.spotify.com/track/4UHi7kSI60zA8lHeCk4Yrf"
+    },
+    {
+      "album": {
+        "name": "Bando Boyz Free 2",
+        "url": "https://open.spotify.com/album/3Q6HpqGRTI5rM5z2Ajbi96"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201290,
+      "name": "Bando Boyz Free 2",
+      "url": "https://open.spotify.com/track/4D3fwZeOechinXHc72oCir"
     },
     {
       "album": {
@@ -619,7 +637,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 212454,
       "name": "EL INCA",
       "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 214016,
       "name": "Fresh",
       "url": "https://open.spotify.com/track/1LSXvcrYKwFPnC7wK8onj8"
@@ -866,6 +884,36 @@
     },
     {
       "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "TATOOL",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228097,
+      "name": "G.P.S. - con Aleman",
+      "url": "https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O"
+    },
+    {
+      "album": {
         "name": "La Familia, Cap. 1",
         "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
       },
@@ -881,7 +929,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 309733,
       "name": "Gaminart",
       "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
@@ -1017,7 +1065,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 194467,
       "name": "HAKUNA MATATA",
       "url": "https://open.spotify.com/track/3ILaMpMBKg20qQV4QyUKfv"
@@ -1213,7 +1261,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 172213,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/04DlbpJxmhV7yYkqqOcgAq"
@@ -1297,7 +1345,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 204333,
       "name": "Julito Mara\u00f1a (feat. Tego Calderon)",
       "url": "https://open.spotify.com/track/6mrPBN7zDYiAS3aFLyszLk"
@@ -1667,7 +1715,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 277500,
       "name": "Nunca Sabr\u00e1s Cuanto",
       "url": "https://open.spotify.com/track/0oBQZIiLTU4moUsA2HN2DM"
@@ -1799,7 +1847,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 161485,
       "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
       "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
@@ -1839,7 +1887,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 272705,
       "name": "P\u00edsalo, \u00dasalo, R\u00f3mpelo",
       "url": "https://open.spotify.com/track/7ufNKPCFBIej0t0w04ks2V"
@@ -1875,7 +1923,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 217285,
       "name": "Qu\u00e9date Un Ratito M\u00e1s",
       "url": "https://open.spotify.com/track/4MbjSazMBRQlnurwr2qLuH"
@@ -1999,7 +2047,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 207984,
       "name": "Se Termin\u00f3",
       "url": "https://open.spotify.com/track/6A960m4WHVWnraFxdKl79g"
@@ -2195,7 +2243,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 264385,
       "name": "TATA - Remix",
       "url": "https://open.spotify.com/track/1hfufCKTZ0wIQwoW9tXoDR"
@@ -2275,7 +2323,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 211987,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/0q14IyM03QnxJM5IRYVJ37"
@@ -2405,7 +2453,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 189230,
       "name": "Vaca Pa' Volar",
       "url": "https://open.spotify.com/track/55GfT7VzO2BTD1it7OO8Hw"

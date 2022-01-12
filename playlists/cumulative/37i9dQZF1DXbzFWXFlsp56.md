@@ -2,7 +2,7 @@
 
 ### [Radar Andinos](https://open.spotify.com/playlist/0El6d1cmmL8jOMAA1PJf0U)
 
-> Descubre los nuevos talentos de Colombia, Ecuador, Perú y Venezuela\. En portada: Blessd
+> Celebramos la Generación 2021 de Radar Andinos con el Spotify Single de Blessd.
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

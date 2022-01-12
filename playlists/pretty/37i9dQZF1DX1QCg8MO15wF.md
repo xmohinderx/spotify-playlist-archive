@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1QCg8MO15wF.md) - [plain]
 
 > Learn some essential Swedish and master useful travel vocabulary in under seven hours – perfect for a transatlantic flight!
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,315 likes - 85 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,316 likes - 85 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

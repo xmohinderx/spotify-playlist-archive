@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Yuvarathnaa",
   "name": "Latest Kannada",
-  "num_followers": 19853,
+  "num_followers": 19901,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgxMzUyNiwwMDAwMDEyYjAwMDAwMTdlNDNiNjQ2MmIwMDAwMDE3ZDkwMjY4YjJm",
+  "snapshot_id": "MTY0MTg5ODAyOCwwMDAwMDEyYzAwMDAwMTdlNDhiZmFkNzEwMDAwMDE3ZDkwMjY4YjJm",
   "tracks": [
     {
       "added_at": "2021-12-10 14:34:22",
@@ -285,6 +285,26 @@
       "url": "https://open.spotify.com/track/688fqqXZqenHk5OYWDWYiJ"
     },
     {
+      "added_at": "2022-01-11 10:47:08",
+      "album": {
+        "name": "Hare Rama Hare Krishna (Title Song) (From \"Hare Rama Hare Krishna\")",
+        "url": "https://open.spotify.com/album/7LGkRNMiXvVIy9kjhQgsP2"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Tippu",
+          "url": "https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B"
+        }
+      ],
+      "duration_ms": 267408,
+      "name": "Hare Rama Hare Krishna (Title Song) (From \"Hare Rama Hare Krishna\")",
+      "url": "https://open.spotify.com/track/4tFuzkOlrEH2uDTvoUIiAy"
+    },
+    {
       "added_at": "2021-12-23 14:46:28",
       "album": {
         "name": "Chaachi - Shyam singha Roy-Kannada",
@@ -437,26 +457,6 @@
       "url": "https://open.spotify.com/track/0sYvZ1brE8S3rUpak3XZBX"
     },
     {
-      "added_at": "2022-01-03 07:49:44",
-      "album": {
-        "name": "Garuda (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5H8DLlxxjTJ0X7S4059yN8"
-      },
-      "artists": [
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        },
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        }
-      ],
-      "duration_ms": 218265,
-      "name": "Mad For You Dear",
-      "url": "https://open.spotify.com/track/2h8hBq8cx60Yp4evvgEHWx"
-    },
-    {
       "added_at": "2021-12-27 10:42:20",
       "album": {
         "name": "Arere Idenidu (From \"Sakuchi\")",
@@ -479,46 +479,6 @@
       "duration_ms": 211036,
       "name": "Arere Idenidu (From \"Sakuchi\")",
       "url": "https://open.spotify.com/track/3Vj25vzDSdS4mhWV63Vg2o"
-    },
-    {
-      "added_at": "2022-01-07 11:03:17",
-      "album": {
-        "name": "Garudaksha",
-        "url": "https://open.spotify.com/album/6EuGzfzsQi8wMcNkZ3tgXn"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Apoorva Shridhar",
-          "url": "https://open.spotify.com/artist/40xdWaWd34I26eL49yATc1"
-        }
-      ],
-      "duration_ms": 261015,
-      "name": "Kutti Thatti",
-      "url": "https://open.spotify.com/track/1UZKKk6eyEqa1YO3CocCAZ"
-    },
-    {
-      "added_at": "2021-12-06 14:30:03",
-      "album": {
-        "name": "Malebille (From \"Drishya 2\")",
-        "url": "https://open.spotify.com/album/5GNfYlf7ty37y4e8tgEpHA"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        }
-      ],
-      "duration_ms": 265664,
-      "name": "Malebille (From \"Drishya 2\")",
-      "url": "https://open.spotify.com/track/0LiycRaNtxazhfkCreyU5n"
     },
     {
       "added_at": "2022-01-03 07:49:44",
@@ -1251,26 +1211,6 @@
     {
       "added_at": "2021-12-06 14:30:03",
       "album": {
-        "name": "Arerere Ragale - Kurup - Kannada",
-        "url": "https://open.spotify.com/album/0TFqYnEulfSsGM4niSkVAa"
-      },
-      "artists": [
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 213069,
-      "name": "Arerere Ragale",
-      "url": "https://open.spotify.com/track/5LllDa78w4rq9z1tC9chiC"
-    },
-    {
-      "added_at": "2021-12-06 14:30:03",
-      "album": {
         "name": "Bhajarangi 2",
         "url": "https://open.spotify.com/album/0CCu8Qgsv6UkD8ia93lfd0"
       },
@@ -1439,30 +1379,6 @@
     {
       "added_at": "2021-12-06 14:30:03",
       "album": {
-        "name": "Jai Bhim (Kannada) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/2mKp7nZpE6Hvsv1EE9uIMx"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Sreekanth Hariharan",
-          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
-        },
-        {
-          "name": "Santhosh Vishwaratna",
-          "url": "https://open.spotify.com/artist/2sSketB0HRSxVxACPW483z"
-        }
-      ],
-      "duration_ms": 229717,
-      "name": "Badhukondu Bayalaata",
-      "url": "https://open.spotify.com/track/18EKaRwHogNqCjWlGZQDeB"
-    },
-    {
-      "added_at": "2021-12-06 14:30:03",
-      "album": {
         "name": "Pushpa - The Rise",
         "url": "https://open.spotify.com/album/4c4Le2gBEqOZPE8GeSDvUJ"
       },
@@ -1475,30 +1391,6 @@
       "duration_ms": 295734,
       "name": "Jokke Jokke Meke",
       "url": "https://open.spotify.com/track/6VrUjrTpZyMsk7kl7S24UD"
-    },
-    {
-      "added_at": "2021-12-06 14:30:03",
-      "album": {
-        "name": "I Love You (From \"Namma Hudugaru\")",
-        "url": "https://open.spotify.com/album/5u9bwS4aQIW7Yu1z3JTqXy"
-      },
-      "artists": [
-        {
-          "name": "Puneeth Rajkumar",
-          "url": "https://open.spotify.com/artist/45VcCRQRa6cyT9xkwvL6Uk"
-        },
-        {
-          "name": "Sangeetha Rajeev",
-          "url": "https://open.spotify.com/artist/3QthfLyCNAX8WDOAiGssHG"
-        },
-        {
-          "name": "Abhimann Roy",
-          "url": "https://open.spotify.com/artist/5fyJuumOXQwePtPK9suY88"
-        }
-      ],
-      "duration_ms": 212379,
-      "name": "I Love You (From \"Namma Hudugaru\")",
-      "url": "https://open.spotify.com/track/7I1PDlxV1Xo3kQvUnTHuCI"
     },
     {
       "added_at": "2021-12-06 14:30:03",

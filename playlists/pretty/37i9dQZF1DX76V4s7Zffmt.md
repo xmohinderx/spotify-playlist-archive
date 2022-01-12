@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76V4s7Zffmt.md) - [plain]
 
 > This is the essential Animal Collective.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,768 likes - 30 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,778 likes - 30 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX76V4s7Zffmt.md) - [plain]
 | 29 | [Honeycomb](https://open.spotify.com/track/2gvz2pUIRFZDeORQPuwrYu) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Honeycomb / Gotham](https://open.spotify.com/album/2Uw36CvG7xxfhG137LsrIa) | 3:03 |
 | 30 | [Two Corvettes](https://open.spotify.com/track/5nd7ChzzSoUO3VmXhjxVbi) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Campfire Songs](https://open.spotify.com/album/2dD8TRCBNGI9eBg4k3PLnY) | 4:58 |
 
-Snapshot ID: `MTYzNjU2MTk2MywwMDAwMDAwNzAwMDAwMTdkMGFiMWNhZWUwMDAwMDE3ZDBhYjE3ZDdl`
+Snapshot ID: `MTY0MTg2MjA4NywwMDAwMDAwOTAwMDAwMTdlNDY5YjQ0NjgwMDAwMDE3ZDBhYjE3ZDdl`

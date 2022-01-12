@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EKARgqYPFZ.md) - [plain]
 
 > The essential blink\-182, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,583 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,745 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EKARgqYPFZ.md) - [plain]
 | 49 | [Dogs Eating Dogs](https://open.spotify.com/track/1D901vjxaNqF18iEECVMGR) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/4dC3BP0H6eU4jkcyXUMrzb) | 3:30 |
 | 50 | [Pathetic](https://open.spotify.com/track/2Meangpbyvif2jmc1Uf2al) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH) | 2:28 |
 
-Snapshot ID: `MTYxNDg2NzE3MywwMDAwMDAyNTAwMDAwMTc3ZmQ5NTkyMzUwMDAwMDE3N2ZkOTU3YzJh`
+Snapshot ID: `MTY0MTg2MTkzMiwwMDAwMDAyNzAwMDAwMTdlNDY5OGU0NzQwMDAwMDE3N2ZkOTU3YzJh`

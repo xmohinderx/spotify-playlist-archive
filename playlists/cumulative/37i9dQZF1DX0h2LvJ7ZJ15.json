@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 140387,
       "name": "+ - Slowed + Reverb",
       "url": "https://open.spotify.com/track/6MrYMHed8tOgHOkRpTmFQL"
@@ -329,7 +329,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 152485,
       "name": "Call (S&R)",
       "url": "https://open.spotify.com/track/4FstujySEAxUrrCZJ44fzn"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 140000,
       "name": "Call Me (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/3lEZmvQ6P6Rf8hgfYTKzHT"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 167369,
       "name": "dirty laundry - slowed",
       "url": "https://open.spotify.com/track/0N2rGjQLuT0GqVueJxjQS6"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 178144,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/5oxY3CGJAsNv8fWS9ctFYi"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 402952,
       "name": "Flashbacks (Slowed)",
       "url": "https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1"
@@ -771,7 +771,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 269333,
       "name": "i think you're the one (slowed + reverbed)",
       "url": "https://open.spotify.com/track/3pQF5dp3vQevA6EUbmKMlY"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 206976,
       "name": "Kick Back - slowed and reverbed",
       "url": "https://open.spotify.com/track/5hrV1NiNUBXbIpuIDizwcG"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 92869,
       "name": "LEFT RIGHT - Slowed",
       "url": "https://open.spotify.com/track/4YMOED32VTJr8woSeQxvZM"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 312755,
       "name": "Mystery Lady - ChopNotSlop Remix",
       "url": "https://open.spotify.com/track/4E3KOqQvFCq8j0d8XeaNq6"
@@ -1060,6 +1060,24 @@
     },
     {
       "album": {
+        "name": "psychic (reverbed)",
+        "url": "https://open.spotify.com/album/3Oj65gGCNQBNVUEqrWetOG"
+      },
+      "artists": [
+        {
+          "name": "Clutch Lauren",
+          "url": "https://open.spotify.com/artist/0eg7YSmD5u30vywputGSNJ"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83345,
+      "name": "psychic (reverbed)",
+      "url": "https://open.spotify.com/track/6gcMjqMoz73UzHVquPHWt7"
+    },
+    {
+      "album": {
         "name": "The Arrival: Part I (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3WUbnzlQ2VJRicGZVqwIz5"
       },
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 134013,
       "name": "Shhh (Pew Pew) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 250403,
       "name": "slippin' to you - slowed + reverb remix",
       "url": "https://open.spotify.com/track/74JS01N6tg8CbpJaKztwSS"
@@ -1329,7 +1347,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 167240,
       "name": "Within These Walls - Slow Down Rework",
       "url": "https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc"

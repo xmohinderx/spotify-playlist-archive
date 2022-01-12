@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1xHgjMaSpW.md) - [plain]
 
 > All Mighty Merle...All The Time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,024 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,056 likes - 85 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1xHgjMaSpW.md) - [plain]
 | 84 | [I Never Go Around Mirrors](https://open.spotify.com/track/3EwJxmj1uAXxdDVhwDJsHo) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Roots Of My Raising](https://open.spotify.com/album/2lg10nmBu9kX5yMQkcOZaf) | 2:47 |
 | 85 | [Train Of Life](https://open.spotify.com/track/6kGzSd5cyxrHMibk9Rok3h) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9), [The Strangers](https://open.spotify.com/artist/4eYZgISQVkajfQ3PAJlqqw) | [Someday We'll Look Back](https://open.spotify.com/album/2A0AEPURss6Rn3QRfHeoB3) | 2:42 |
 
-Snapshot ID: `MTU2NzUwNDg2MywwMDAwMDAwODAwMDAwMTYxMzkyMWVhZDkwMDAwMDE2Y2Y2OTIxMWVm`
+Snapshot ID: `MTY0MTg2MjMwNCwwMDAwMDAwYTAwMDAwMTdlNDY5ZTkyMTgwMDAwMDE2Y2Y2OTIxMWVm`

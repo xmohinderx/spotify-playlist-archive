@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yMCqd4JdaS.md) - [plain]
 
 > Sting, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,738 likes - 55 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,937 likes - 55 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yMCqd4JdaS.md) - [plain]
 | 54 | [It's Probably Me](https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 5:02 |
 | 55 | [Don't Make Me Wait \(with Shaggy\)](https://open.spotify.com/track/6pw6rxTiwWwTf9k62NFUwr) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Don't Make Me Wait \(with Shaggy\)](https://open.spotify.com/album/7sCC7Ed8kwxJCShNczRLdD) | 3:33 |
 
-Snapshot ID: `MTYzODc5ODE0OSwwMDAwMDAzMDAwMDAwMTdkOGZmYjQ5MTQwMDAwMDE3ZDhmZmFjODI5`
+Snapshot ID: `MTY0MTg2MjU5NSwwMDAwMDAzMjAwMDAwMTdlNDZhMzAyNjYwMDAwMDE3ZDhmZmFjODI5`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1KN7YrOIxQD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1KN7YrOIxQD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1KN7YrOIxQD)
 
-### Éxitos Centroamérica
+### [Éxitos Centroamérica](https://open.spotify.com/playlist/2V52nSYzBBJejzD9Aow8EK)
 
 > Los éxitos del momento en Centroamérica, con Blessd, Justin Quiles y Lenny Tavárez en portada.
 

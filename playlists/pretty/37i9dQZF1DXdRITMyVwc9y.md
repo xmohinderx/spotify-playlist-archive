@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRITMyVwc9y.md) - [plain]
 
 > This is Emeli Sandé\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,685 likes - 40 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,708 likes - 40 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRITMyVwc9y.md) - [plain]
 | 39 | [Starlight](https://open.spotify.com/track/4sRqO2wknA3eNxP2NUlEV5) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Starlight](https://open.spotify.com/album/420InqZHZ4UcoK9LYX8oKV) | 3:01 |
 | 40 | [Daddy \- Live From The Royal Albert Hall,United Kingdom/2012](https://open.spotify.com/track/4LoWE9WlPEKB0s7qSyEx2O) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Live At The Royal Albert Hall](https://open.spotify.com/album/1A253TQGd0C0DIba96h85G) | 4:33 |
 
-Snapshot ID: `MTYzMTcyODgwMCwwMDAwMDAwZTAwMDAwMTdiZWE5ZDkxNmIwMDAwMDE3YmU5NGFlMWY0`
+Snapshot ID: `MTY0MTg2MjY3MSwwMDAwMDAxMDAwMDAwMTdlNDZhNDJjNjYwMDAwMDE3YmU5NGFlMWY0`

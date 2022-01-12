@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qkL85stcHs.md) - [plain]
 
 > The essential tracks with Bruce Springsteen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,940 likes - 72 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,137 likes - 72 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qkL85stcHs.md) - [plain]
 | 71 | [Johnny 99](https://open.spotify.com/track/56RSkqk9p2oa4AkOQAVYCc) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Nebraska](https://open.spotify.com/album/5YRJeP04qdtdsote9ddteR) | 3:39 |
 | 72 | [Tenth Avenue Freeze\-Out \- Live at the Walter Kerr Theatre, New York, NY \- July 2018](https://open.spotify.com/track/1ROdEjSQNMGFvckeRu68SE) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Springsteen on Broadway](https://open.spotify.com/album/42eusslaYHJvhxttuMbwj9) | 7:56 |
 
-Snapshot ID: `MTYzNzI5OTQ3MSwwMDAwMDNhMDAwMDAwMTdkMzZhNzQ0NGQwMDAwMDE3NTBlYmEyZDg0`
+Snapshot ID: `MTY0MTg2MjQ5NiwwMDAwMDNhMjAwMDAwMTdlNDZhMTgxNGYwMDAwMDE3NTBlYmEyZDg0`

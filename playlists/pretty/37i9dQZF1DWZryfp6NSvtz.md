@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > All new, all rock\. Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,399 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,712 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 26 | [All Out](https://open.spotify.com/track/1HrK59DtTgREhUdjsArhK4) | [The Native](https://open.spotify.com/artist/6c3Jb6rRod9x4pGtiizwzT) | [All Out](https://open.spotify.com/album/77dmD25osRDQiyRS9si08Z) | 3:22 |
 | 27 | [MURDER ME](https://open.spotify.com/track/7bHnDPNl7KQTtupTppd3oR) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MURDER ME](https://open.spotify.com/album/6u2wZGyeP9BHs1wYThOCfn) | 3:34 |
 | 28 | [It's Only Dancin'](https://open.spotify.com/track/1UnVOZ5qPBWXaVLuguUWr2) | [Young Guv](https://open.spotify.com/artist/1zEgVwAUxnTP5DDnmZbJnw) | [It's Only Dancin'](https://open.spotify.com/album/3dqcSMMwH2LDYP9TVFIZwE) | 2:17 |
-| 29 | [Diadem](https://open.spotify.com/track/0TL198yHBqh7JiSZvh3FJt) | [Salvation Jayne](https://open.spotify.com/artist/4GZd8KIM8w0Wg3ILoof1fA) | [Diadem](https://open.spotify.com/album/0pHsa35vcuGPD40cpGFsYr) | 5:16 |
+| 29 | [Diadem](https://open.spotify.com/track/0TL198yHBqh7JiSZvh3FJt) | [Salvation Jayne](https://open.spotify.com/artist/4GZd8KIM8w0Wg3ILoof1fA), [Onelinedrawing](https://open.spotify.com/artist/72u4NXmVhJXVR8XNG81WTZ) | [Diadem](https://open.spotify.com/album/0pHsa35vcuGPD40cpGFsYr) | 5:16 |
 | 30 | [All Alone](https://open.spotify.com/track/4PDsW99c5cADBvydBuQac7) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Always Tomorrow \(Deluxe Edition\)](https://open.spotify.com/album/5BA2VC4hcCxvSVWvIOjxou) | 2:56 |
 | 31 | [The World I Remember](https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [The World I Remember](https://open.spotify.com/album/4dc7dwhwBEpDajRO1PetWG) | 5:31 |
 | 32 | [Hate You](https://open.spotify.com/track/12Dvs5RlQBXKkGVj69BUOp) | [Dark Sun](https://open.spotify.com/artist/28Ps4MXmGKNVn1NVlSwvs8) | [Hate You](https://open.spotify.com/album/1Ny45zEWIVhbscfj6tRAeV) | 3:56 |

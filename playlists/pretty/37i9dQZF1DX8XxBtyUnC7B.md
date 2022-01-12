@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XxBtyUnC7B.md) - [plain]
 
 > Relax and transport yourself to a tranquil sojourn in France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,729 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,746 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XxBtyUnC7B.md) - [plain]
 | 14 | [La vie en rose](https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [de l'accordeoniste a milord](https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS) | 3:06 |
 | 15 | [Tout va très bien madame la marquise](https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12) | [Ray Ventura](https://open.spotify.com/artist/49B3AeUtYjr0iqzc2NwvPO) | [Du Caf' Conc' au Music Hall](https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe) | 3:25 |
 | 16 | [La chanson de Prévert](https://open.spotify.com/track/7k9YGrFPWSMaakRzNEaN7Z) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [L'Etonnant Serge Gainsbourg](https://open.spotify.com/album/1Ovnt6pwh0SP8hiyH2pA8T) | 2:59 |
-| 17 | [Les amoureaux des bancs publics](https://open.spotify.com/track/2UxMNq9erZnSCe1f27yCJ4) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Top 50 France](https://open.spotify.com/album/2gviLKOgxeJ0Rc2Ghrb9jk) | 3:01 |
+| 17 | [Les amoureaux des bancs publics](https://open.spotify.com/track/2UxMNq9erZnSCe1f27yCJ4) | [George Brassens](https://open.spotify.com/artist/6DLxxPOWXjWufP3uLl1Vjx) | [Top 50 France](https://open.spotify.com/album/2gviLKOgxeJ0Rc2Ghrb9jk) | 3:01 |
 | 18 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 |
 | 19 | [Chanson pour l'Auvergnat](https://open.spotify.com/track/5nuTwIhmN6AzktesqJh6p7) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [George Brassens: Douce France](https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ) | 3:03 |
 | 20 | [L'amour l'amour l'amour](https://open.spotify.com/track/72Ntmxs2SxFkWEtu3rti4u) | [Mouloudji](https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp) | [Comme un p'tit coquelicot](https://open.spotify.com/album/48c1IwTHlokOXRkZWij3Et) | 3:01 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XxBtyUnC7B.md) - [plain]
 | 31 | [La Javanaise](https://open.spotify.com/track/1JjhnamLSonSLf9RnkmhJV) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/40C5ZxUE9bB48VhEOqhhNu) | 2:29 |
 | 32 | [Aimer à perdre la raison](https://open.spotify.com/track/5okI57GiUG0innS360o2bH) | [Jean Ferrat](https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt) | [Ferrat Chante Aragon: L'intégrale](https://open.spotify.com/album/1zRWFeLiYxPW48gefbBpV5) | 2:23 |
 | 33 | [Toute la pluie tombe sur moi](https://open.spotify.com/track/199J8Nvx5oDmOKwAhtt9f1) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 3:00 |
-| 34 | [La mauvaise herbe](https://open.spotify.com/track/0x6Ea1DxGGVYR0Ng7Kz3BK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Top 50 France](https://open.spotify.com/album/2gviLKOgxeJ0Rc2Ghrb9jk) | 2:49 |
+| 34 | [La mauvaise herbe](https://open.spotify.com/track/0x6Ea1DxGGVYR0Ng7Kz3BK) | [George Brassens](https://open.spotify.com/artist/6DLxxPOWXjWufP3uLl1Vjx) | [Top 50 France](https://open.spotify.com/album/2gviLKOgxeJ0Rc2Ghrb9jk) | 2:49 |
 | 35 | [La Java bleue](https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq) | [Fréhel](https://open.spotify.com/artist/0ike8zNDzesj4aOoyZMKho) | [Fréhel \[Collection disques Pathé\]](https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI) | 2:45 |
 | 36 | [Félicie Aussi](https://open.spotify.com/track/4Ye4ePmXmKemxPp1Cs0Mgw) | [Fernandel](https://open.spotify.com/artist/0H7kQmHnDWX4a2AYOKb6rN) | [Les Plus Belles Chansons De Fernandel \(The Most Beautiful Songs Of Fernandel\)](https://open.spotify.com/album/2eS82B4l4mFIa08EBbVPxW) | 2:46 |
 | 37 | [Si j'avais un marteau](https://open.spotify.com/track/3IpRhFBXXtIt3U8Y79tpJK) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Si J'Avais Un Marteau](https://open.spotify.com/album/7hjGBy8gXy8xhfg6BVzcXJ) | 2:49 |

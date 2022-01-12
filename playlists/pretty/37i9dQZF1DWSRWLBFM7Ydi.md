@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRWLBFM7Ydi.md) - [plain]
 
 > A roundup of essential tracks from the English <a href="spotify:artist:0gadJ2b9A4SKsB1RFkBb66">singer\-songwriter</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,424 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,462 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRWLBFM7Ydi.md) - [plain]
 | 74 | [Fire In My Heart](https://open.spotify.com/track/36KYJEgTufWJyywBL6xVzz) | [Ruby Turner feat\. Passenger](https://open.spotify.com/artist/6dZM967IflheoWJDx1Vba0), [Ruby Turner](https://open.spotify.com/artist/0yIXmbc7ceEmnecGhc71ke), [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All That I Am](https://open.spotify.com/album/5fSmQluSRbratpXOVpPK75) | 3:48 |
 | 75 | [Ain't No Sunshine \(Cover\)](https://open.spotify.com/track/7KWIib9I0duij7SSCaQVaf) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 3:50 |
 
-Snapshot ID: `MTYxMzY2Njk5MCwwMDAwMDAwYzAwMDAwMTc3YjYwYzNhMmUwMDAwMDE3MGFmM2RiNWNl`
+Snapshot ID: `MTY0MTg2MjMzNSwwMDAwMDAwZTAwMDAwMTdlNDY5ZjBjZGIwMDAwMDE3MGFmM2RiNWNl`

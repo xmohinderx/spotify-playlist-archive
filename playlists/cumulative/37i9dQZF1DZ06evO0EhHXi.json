@@ -341,7 +341,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 139400,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5A9QXobyNHl8xjPZMn5kWS"
@@ -399,6 +399,24 @@
       "duration_ms": 157773,
       "name": "I Wanna Live",
       "url": "https://open.spotify.com/track/11ejh5AOn4TEY2xJlm6Ver"
+    },
+    {
+      "album": {
+        "name": "End of the Century (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "I Want You Around - 2002 Remaster",
+      "url": "https://open.spotify.com/track/5L1DHZ81ieWa8Kii7hg6Ho"
     },
     {
       "album": {
@@ -762,6 +780,24 @@
     },
     {
       "album": {
+        "name": "Animal Boy",
+        "url": "https://open.spotify.com/album/0DaSDEJ5COpsWSlI6mI3yh"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247226,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/7a6aGoKfpywaIIwSXmZkW1"
+    },
+    {
+      "album": {
         "name": "The Chrysalis Years Anthology",
         "url": "https://open.spotify.com/album/3xfFyoMTRqvu2JmYQDlKlZ"
       },
@@ -809,10 +845,28 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 134240,
       "name": "Suzy Is a Headbanger - 2017 Remaster",
       "url": "https://open.spotify.com/track/5owteWmvd2fjKpvL7AXfkj"
+    },
+    {
+      "album": {
+        "name": "Mondo Bizarro",
+        "url": "https://open.spotify.com/album/35A0Y71VAqYw1t7QOsvErQ"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127906,
+      "name": "Take It as It Comes",
+      "url": "https://open.spotify.com/track/1vfd5QkEplKvTtS9UJHpwo"
     },
     {
       "album": {
@@ -845,7 +899,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 157586,
       "name": "Too Tough to Die - 2002 Remaster",
       "url": "https://open.spotify.com/track/7CkLDPP8ZHZ0OpcmbHBBSF"

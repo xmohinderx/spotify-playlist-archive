@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqZKf590Jo5.md) - [plain]
 
 > Celebrate R&amp;B crooner Maxwell's career with this essential collection of songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,541 likes - 23 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,601 likes - 23 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqZKf590Jo5.md) - [plain]
 | 22 | [1990x](https://open.spotify.com/track/5rxPO6NL7tr0rG6JGrddKp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [blackSUMMERS'night \(2016\)](https://open.spotify.com/album/6pjoIUNpMtQaSJvRUmsnSh) | 4:44 |
 | 23 | [Gods](https://open.spotify.com/track/0ybOhD30mCmnAB7ey3YUm4) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [blackSUMMERS'night \(2016\)](https://open.spotify.com/album/6pjoIUNpMtQaSJvRUmsnSh) | 3:35 |
 
-Snapshot ID: `MTU2ODAxOTAxOSwwMDAwMDAxMjAwMDAwMTYyNDRmMzQzMGEwMDAwMDE2ZDE1Mzc3OGIx`
+Snapshot ID: `MTY0MTg2MjczMCwwMDAwMDAxNDAwMDAwMTdlNDZhNTEyZDUwMDAwMDE2ZDE1Mzc3OGIx`

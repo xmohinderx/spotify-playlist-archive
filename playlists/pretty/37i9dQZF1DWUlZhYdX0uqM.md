@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlZhYdX0uqM.md) - [plain]
 
 > Experience Tom Petty's final project, "Wildflowers & All The Rest," the way he originally envisioned it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,639 likes - 78 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,700 likes - 78 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlZhYdX0uqM.md) - [plain]
 | 77 | [Red River](https://open.spotify.com/track/2JnQvMvZyV8c2fiLMKHZ80) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 3:59 |
 | 78 | [Louisiana Rain](https://open.spotify.com/track/5dfg1Piej2rQ0jwmwxo3kF) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 5:52 |
 
-Snapshot ID: `MTYyNTU5MTUzNSwwMDAwMDAyMjAwMDAwMTdhN2NjZTU4NjAwMDAwMDE3NTFkY2U3Y2Nj`
+Snapshot ID: `MTY0MTg2MTc2MywwMDAwMDAyNDAwMDAwMTdlNDY5NjUyMTIwMDAwMDE3NTFkY2U3Y2Nj`

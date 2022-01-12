@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,532 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,536 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 19 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 |
 | 20 | [Perfect Blue](https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Perfect Blue](https://open.spotify.com/album/5460Bl2lDmmkDvVS8YitfQ) | 3:25 |
 | 21 | [Ryan Atwood](https://open.spotify.com/track/7iX7QTVcACBjHmnjsgsyKD) | [KROY](https://open.spotify.com/artist/2VSBr2zu3GbXc2qMR4J4MX) | [Ryan Atwood](https://open.spotify.com/album/6qZXJ7qPYg6ZFHoIBHCH1z) | 2:25 |
-| 22 | [Spacing Out](https://open.spotify.com/track/6YjAZ3ILDPH8AgTEtLrRrG) | [Sylo Nozra](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spacing Out](https://open.spotify.com/album/6vX0B7KKVkzPJrPqTMnsQM) | 3:13 |
+| 22 | [Spacing Out](https://open.spotify.com/track/6YjAZ3ILDPH8AgTEtLrRrG) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spacing Out](https://open.spotify.com/album/6vX0B7KKVkzPJrPqTMnsQM) | 3:13 |
 | 23 | [Vicious Circle \(feat\. City and Colour\)](https://open.spotify.com/track/4kSVGCTSyvKJcp52mfyXH7) | [Chastity](https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG), [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Vicious Circle \(feat\. City and Colour\)](https://open.spotify.com/album/66nl5KdLzfKGxNnchBZGFo) | 3:30 |
 | 24 | [I Don't Wanna Hang](https://open.spotify.com/track/6sSMdueWm4eICidC9W6ujU) | [Cola H.](https://open.spotify.com/artist/4bUIemhzXV37xcUk9lGh5T) | [I Don't Wanna Hang](https://open.spotify.com/album/0pBNs5Hd0d5WmGc1axEIRT) | 3:44 |
 | 25 | [Date a Friend](https://open.spotify.com/track/4E5SAE7v1HwDFUVC9Jf5Ly) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [Date a Friend](https://open.spotify.com/album/53xmPUICYWyBcNibRkqZ7c) | 2:58 |

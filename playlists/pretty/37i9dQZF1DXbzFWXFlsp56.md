@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 
 ### [Radar Andinos](https://open.spotify.com/playlist/37i9dQZF1DXbzFWXFlsp56)
 
-> Descubre los nuevos talentos de Colombia, Ecuador, Perú y Venezuela\. En portada: Blessd
+> Celebramos la Generación 2021 de Radar Andinos con el Spotify Single de Blessd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,911 likes - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,910 likes - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzFWXFlsp56.md) - [plain]
 | 29 | [Una Noche Más](https://open.spotify.com/track/4CT9AWXN4jphJxRBhnUiNi) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Una Noche Más](https://open.spotify.com/album/7gJmkFRzY2CZAbtrpZJ8ct) | 3:31 |
 | 30 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 |
 
-Snapshot ID: `MTYzNjU0ODI5MSwwMDAwMDAyYzAwMDAwMTdkMDllMTJhY2EwMDAwMDE3ZDA1OWQyNjU3`
+Snapshot ID: `MTY0MTkzMjk2MSwwMDAwMDAyZDAwMDAwMTdlNGFkNGI2ZjAwMDAwMDE3ZDA1OWQyNjU3`

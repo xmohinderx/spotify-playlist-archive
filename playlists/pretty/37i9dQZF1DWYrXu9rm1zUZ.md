@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrXu9rm1zUZ.md) - [plain]
 
 > Check out the essential tracks by Volbeat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,161 likes - 54 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,263 likes - 54 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrXu9rm1zUZ.md) - [plain]
 | 53 | [Radio Girl](https://open.spotify.com/track/6XjUtUVauENSO2GLMvR5Kn) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rock The Rebel / Metal The Devil](https://open.spotify.com/album/6h0IgkicJholk20m5BtTtU) | 3:45 |
 | 54 | [The Everlasting \- Live from Telia Parken](https://open.spotify.com/track/42DF4fBoaHjRa9VAztSr1f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Everlasting \(Live from Telia Parken\)](https://open.spotify.com/album/0yD6Qlx7hMj72U5H5yvvzx) | 7:17 |
 
-Snapshot ID: `MTYzODUyMTgyMCwwMDAwMDAxZTAwMDAwMTdkN2Y4MmQ2YzYwMDAwMDE3ZDE0N2E2Yzk5`
+Snapshot ID: `MTY0MTg2MTg0NSwwMDAwMDAyMDAwMDAwMTdlNDY5NzkzYjgwMDAwMDE3ZDE0N2E2Yzk5`

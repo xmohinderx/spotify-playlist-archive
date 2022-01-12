@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The top tracks from Fresh Finds R&B in 2021\. Cover: Samaria, Artwork: Crystal Zapata
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,438 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,513 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

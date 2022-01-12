@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8N0xov3IdrH.md) - [plain]
 
 > From early performances to iconic Grateful Dead, enjoy key picks that highlight the folk, bluegrass, and old time virtuosity of Jerry Garcia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,322 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,334 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8N0xov3IdrH.md) - [plain]
 | 59 | [The Man Who Wrote Home Sweet Home Never Was a Married Man \- Live](https://open.spotify.com/track/2ochu2Xewv5cpeCcknSAfC) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [Sara Garcia](https://open.spotify.com/artist/0bhFm4VVu14xSqjjz6AndJ) | [Before The Dead \(Live\)](https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A) | 3:38 |
 | 60 | [Goodbye Old Pal \- Live](https://open.spotify.com/track/4HK7a8MoxqxNG0lGjJKY28) | [Asphalt Jungle Mountain Boys](https://open.spotify.com/artist/3bON5NMwQzxtonS7tLbHKa), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Before The Dead \(Live\)](https://open.spotify.com/album/22Z7VOJJyBuBkiNiD8d45A) | 1:50 |
 
-Snapshot ID: `MTU2NzY3NjM5MSwwMDAwMDAwZjAwMDAwMTYzOGQ3ZTRiNzkwMDAwMDE2ZDAwY2I2MTJk`
+Snapshot ID: `MTY0MTg2MjUzOCwwMDAwMDAxMTAwMDAwMTdlNDZhMjIzMzUwMDAwMDE2ZDAwY2I2MTJk`

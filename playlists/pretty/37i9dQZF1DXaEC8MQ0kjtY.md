@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEC8MQ0kjtY.md) - [plain]
 
 > Take a look at Australia's future king of Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,947 likes - 45 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,119 likes - 45 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEC8MQ0kjtY.md) - [plain]
 | 44 | [LOST BOY](https://open.spotify.com/track/3KV9J5y3HDHKTOtjJtHwqi) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:43 |
 | 45 | [SUBURBIA](https://open.spotify.com/track/5PoWbm2gxIIgg7Ykx9oY8S) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:53 |
 
-Snapshot ID: `MTYzMjM2NjYyMywwMDAwMDAxYjAwMDAwMTdjMTBhMWZjMWIwMDAwMDE3MzU0ZTQyYjQ0`
+Snapshot ID: `MTY0MTg2MjQ0NywwMDAwMDAxZDAwMDAwMTdlNDZhMGMxZmEwMDAwMDE3MzU0ZTQyYjQ0`

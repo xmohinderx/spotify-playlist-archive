@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIVSTUG9zAG.md) - [plain]
 
 > Listen to a collection of his greatest hits\. This Is: George Michael
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,415 likes - 47 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,555 likes - 47 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIVSTUG9zAG.md) - [plain]
 | 46 | [Soul Free \- Special Radio Edit](https://open.spotify.com/track/37yysqdmMJFcvMeRZM1SXP) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:25 |
 | 47 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:59 |
 
-Snapshot ID: `MTYxOTA4OTE1MCwwMDAwMDAzMTAwMDAwMTc4ZjkzYmQwNzIwMDAwMDE2ZTVmMjQwMjdk`
+Snapshot ID: `MTY0MTg2MjE3MCwwMDAwMDAzMzAwMDAwMTdlNDY5Yzg2ZGUwMDAwMDE2ZTVmMjQwMjdk`

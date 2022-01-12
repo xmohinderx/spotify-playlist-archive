@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 218626,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/1akOLhcvO0FOdDpuY0Z5mW"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 159746,
       "name": "Buenos D\u00edas Se\u00f1or Sol",
       "url": "https://open.spotify.com/track/4wKs3hpB1CAbhd2ED0ardC"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 258626,
       "name": "Completamente Enamorados",
       "url": "https://open.spotify.com/track/1YLZnCNHQFiTN8iMii4Itr"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 183223,
       "name": "Decidete",
       "url": "https://open.spotify.com/track/0t4Z131i0IVcWfSvCxSeZd"
@@ -1007,7 +1007,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 234773,
       "name": "El Amar y el Querer",
       "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
@@ -1104,6 +1104,28 @@
     },
     {
       "album": {
+        "name": "La Gran Coleccion Del 60 Aniversario CBS - Yoshio",
+        "url": "https://open.spotify.com/album/7bq89ul0B3f0dYL2YfbVao"
+      },
+      "artists": [
+        {
+          "name": "Sonia Rivas",
+          "url": "https://open.spotify.com/artist/4FM1uFX0QdPKmhdEeslh1K"
+        },
+        {
+          "name": "YOSHIO",
+          "url": "https://open.spotify.com/artist/1RoOZqC7GYHlUG3FTFFx7Q"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227106,
+      "name": "El Reencuentro",
+      "url": "https://open.spotify.com/track/6hPuaKg3GXLHpbygnH3pAs"
+    },
+    {
+      "album": {
         "name": "Jose Jose 25 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/3oE5yCMIq1LK8AfCmZlokU"
       },
@@ -1169,7 +1191,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 210573,
       "name": "Enamorada y Herida",
       "url": "https://open.spotify.com/track/6jpNvKy9tt6muQvg2tkRfL"
@@ -1187,7 +1209,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 242693,
       "name": "Enamorandonos (Just Like Starting Over)",
       "url": "https://open.spotify.com/track/1hbk34GiyNamnyGtKLe44U"
@@ -1331,7 +1353,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
@@ -1457,7 +1479,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 295426,
       "name": "Huele A Peligro",
       "url": "https://open.spotify.com/track/1ZYfe5ZvVwMGHFtGoLT8wf"
@@ -1511,7 +1533,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 257773,
       "name": "La cima del cielo",
       "url": "https://open.spotify.com/track/3C9fAn3IgajBTwR274huch"
@@ -1745,7 +1767,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Los Hombres No Deben Llorar",
       "url": "https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa"
@@ -1763,7 +1785,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 252253,
       "name": "Luna m\u00e1gica",
       "url": "https://open.spotify.com/track/4qVhLyXmc40EwWlZv0gTMY"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 189730,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/2L5E1nYG6OmtQY64BGaEEg"
@@ -1925,7 +1947,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 292573,
       "name": "Me Olvide De Vivir",
       "url": "https://open.spotify.com/track/0kVOor973ijVqOBhYqvaE8"
@@ -2019,7 +2041,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 259079,
       "name": "MI Buen Corazon",
       "url": "https://open.spotify.com/track/2trfrMdYOd99Qil1wxXptn"
@@ -2037,10 +2059,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 144266,
       "name": "Mi Cacharrito (Road Hog)",
       "url": "https://open.spotify.com/track/4S8nLILXlFAuzAubJTrSvC"
+    },
+    {
+      "album": {
+        "name": "Idolos de Argentina",
+        "url": "https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Mi Corazon Lloro",
+      "url": "https://open.spotify.com/track/2VLOppR2BS8nqPz6ml86oG"
     },
     {
       "album": {
@@ -2163,7 +2203,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 199306,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/200dRWmnkqi8SCfwgLXkII"
@@ -2235,7 +2275,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 211946,
       "name": "Noche De Copas",
       "url": "https://open.spotify.com/track/7wDiDAk8cBPACxGSY2Xv4D"
@@ -2289,7 +2329,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 190413,
       "name": "Orgullosa Nena",
       "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
@@ -2599,7 +2639,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 248240,
       "name": "Quiero Amanecer Con Alguien",
       "url": "https://open.spotify.com/track/7A37XLWVNxRLw6DXMWJJlF"
@@ -2653,7 +2693,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 239133,
       "name": "Qui\u00e9n Te Cantar\u00e1?",
       "url": "https://open.spotify.com/track/5ZWG3cZch1wDHpqPAltmNC"
@@ -2707,7 +2747,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 275200,
       "name": "Secreto De Amor",
       "url": "https://open.spotify.com/track/00s2jnZ4cVZssim4VqrszP"
@@ -3017,7 +3057,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 231666,
       "name": "Te Quiero Tanto",
       "url": "https://open.spotify.com/track/0mdbrGj4IrGwZeAUwUJLPl"
@@ -3035,7 +3075,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 196200,
       "name": "Te Voy a Ense\u00f1ar a Querer",
       "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
@@ -3089,10 +3129,28 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 313333,
       "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/0h8x0YALmyeZHW8lug8eki"
+    },
+    {
+      "album": {
+        "name": "Tesoros De Colecci\u00f3n - Los 5 Grandes del Rock",
+        "url": "https://open.spotify.com/album/1QvD59dOUvZjajFvxzrKmY"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Tu Cabeza en Mi Hombro",
+      "url": "https://open.spotify.com/track/6nh1jLT0OpOrqgHVwhtvk9"
     },
     {
       "album": {
@@ -3107,7 +3165,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 211653,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/6BLcw3JqEqxhwmCiZYShXy"
@@ -3287,7 +3345,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 240053,
       "name": "Y Volver\u00e9",
       "url": "https://open.spotify.com/track/7wx1WRcxLovFDlhNe5leeX"

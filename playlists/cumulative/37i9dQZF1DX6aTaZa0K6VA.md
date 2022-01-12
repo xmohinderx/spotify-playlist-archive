@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6aTaZa0K6VA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6aTaZa0K6VA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX6aTaZa0K6VA)
 
-### Pop Up
+### [Pop Up](https://open.spotify.com/playlist/7gRGNt2lEYEUllsk5m0BDL)
 
 > Super mega hits! Foto: The Weeknd
 

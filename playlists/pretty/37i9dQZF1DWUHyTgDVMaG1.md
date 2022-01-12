@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHyTgDVMaG1.md) - [plain]
 
 > Van Morrison, the essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,065 likes - 57 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,133 likes - 57 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHyTgDVMaG1.md) - [plain]
 | 56 | [I Get A Kick Out Of You](https://open.spotify.com/track/4zfYMCRuWVzZAuOgiUx2FH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [I Get A Kick Out Of You](https://open.spotify.com/album/5qbyhtM5VBzytQMNCLF50Z) | 4:09 |
 | 57 | [Summertime In England](https://open.spotify.com/track/23nrnDUwKNU6dUsZb2FLxY) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Common One](https://open.spotify.com/album/4uUNf38ZQYcbVQqsPxfFNx) | 15:39 |
 
-Snapshot ID: `MTYyMzg1MzQxNSwwMDAwMDAxMDAwMDAwMTdhMTUzNGJkNmUwMDAwMDE2ZDE1NGZiNTgx`
+Snapshot ID: `MTY0MTg2MTgxNCwwMDAwMDAxMjAwMDAwMTdlNDY5NzE5MGYwMDAwMDE2ZDE1NGZiNTgx`

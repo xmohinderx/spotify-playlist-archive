@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16jhUDf29DN.md) - [plain]
 
 > The latest and greatest\. Lo nuevo y lo esencial.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,681 likes - 48 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,759 likes - 48 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16jhUDf29DN.md) - [plain]
 | 47 | [Como Duele](https://open.spotify.com/track/25Zs75B4sV45lJTKO8Mvoz) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Oro Salsero](https://open.spotify.com/album/1VafvDAapOdIv2sf5wjhnU) | 4:57 |
 | 48 | [Salsa Pa' Olvidar las Penas \(feat\. Víctor Manuelle\) \- En Vivo desde Puerto Rico](https://open.spotify.com/track/5OcpuwdnJoQBrpDAKF3OTE) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Salsa Pa' Olvidar las Penas \(feat\. Víctor Manuelle\) \[En Vivo desde Puerto Rico\]](https://open.spotify.com/album/2Rd4zksHbZLpp7kCrJbsk4) | 5:08 |
 
-Snapshot ID: `MTYyNjIxOTUwNCwwMDAwMDAxOTAwMDAwMTdhYTIzYzYzZDcwMDAwMDE3MGFmM2U2NWEx`
+Snapshot ID: `MTY0MTg2MjQ1OSwwMDAwMDAxYjAwMDAwMTdlNDZhMGVmZGQwMDAwMDE3MGFmM2U2NWEx`

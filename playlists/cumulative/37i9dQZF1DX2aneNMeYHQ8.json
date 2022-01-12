@@ -889,10 +889,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "album": {
+        "name": "in the wake of your leave",
+        "url": "https://open.spotify.com/album/5cnVBEtmUA3g55e2qbzdw7"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243541,
+      "name": "in the wake of your leave",
+      "url": "https://open.spotify.com/track/4vjB69VckVUeu0GzAxoZRm"
     },
     {
       "album": {
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 191983,
       "name": "New Invention",
       "url": "https://open.spotify.com/track/4d043mqKES7NxY0LoxLB5m"
@@ -1650,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "Talkin' to Myself",
+        "url": "https://open.spotify.com/album/6kiT74gcWiUjW5VefQeknP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166248,
+      "name": "Talkin' to Myself",
+      "url": "https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD"
+    },
+    {
+      "album": {
         "name": "Teenage Mayhem / Crash Test Kid",
         "url": "https://open.spotify.com/album/0mqbalDZhyZNsymTuTxD59"
       },
@@ -1679,7 +1715,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 267019,
       "name": "tend the garden",
       "url": "https://open.spotify.com/track/0UJPFwPFmGZFtwUSnNi6mt"
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 182923,
       "name": "Weirdo",
       "url": "https://open.spotify.com/track/1PkASp5c1Wyef24KOFCe3a"

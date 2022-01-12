@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,550 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,552 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nova](https://open.spotify.com/track/7upNugBM6AfbM77jKLgk95) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Nova](https://open.spotify.com/album/36y502QiSN08zEiF1ZQ7b5) | 2:31 |
 | 2 | [Comme les autres](https://open.spotify.com/track/6AH4v8wuUwvof6g3KUqrcU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Comme les autres](https://open.spotify.com/album/4Vi693DCvcgERzHeRn4grk) | 2:46 |
-| 3 | [Chaud là\-bas](https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 4:07 |
-| 4 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
-| 5 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
-| 6 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
-| 7 | [Rage de vivre](https://open.spotify.com/track/2PfxSNKBpl64hwE5IQjvKM) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Rage de vivre](https://open.spotify.com/album/1epiRidlpxgPFOYZDXCWoL) | 4:08 |
-| 8 | [Respecte](https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Respecte](https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU) | 2:24 |
-| 9 | [Cobra Kai](https://open.spotify.com/track/7wfpL51ZlfBQ4nC0ynnLx7) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Houdini Greatness](https://open.spotify.com/artist/7nCIEHWyuL1oX0jkgS0eqa) | [Cobra Kai](https://open.spotify.com/album/2kJ7GhSSi25OEz47vlioU6) | 3:05 |
-| 10 | [Nouvelle vague](https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM) | 3:47 |
+| 3 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
+| 4 | [Hédoniste](https://open.spotify.com/track/4IpvQqD75gY8dYyBvSl5rx) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hédoniste](https://open.spotify.com/album/1EldR7BfyRjouqNteZ0gp3) | 3:19 |
+| 5 | [Sans horaire](https://open.spotify.com/track/4xVQsPA32CgHu2v1fZbcTA) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy) | [Sans horaire](https://open.spotify.com/album/2WOwDw0iT1rkI4VM4l1Y3l) | 3:21 |
+| 6 | [Rage de vivre](https://open.spotify.com/track/2PfxSNKBpl64hwE5IQjvKM) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Rage de vivre](https://open.spotify.com/album/1epiRidlpxgPFOYZDXCWoL) | 4:08 |
+| 7 | [Chaud là\-bas](https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 4:07 |
+| 8 | [Cobra Kai](https://open.spotify.com/track/7wfpL51ZlfBQ4nC0ynnLx7) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c), [Houdini Greatness](https://open.spotify.com/artist/7nCIEHWyuL1oX0jkgS0eqa) | [Cobra Kai](https://open.spotify.com/album/2kJ7GhSSi25OEz47vlioU6) | 3:05 |
+| 9 | [Nouvelle vague](https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM) | 3:47 |
+| 10 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 |
 | 11 | [G.O.A.T.S.](https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires : Rouge](https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k) | 4:07 |
-| 12 | [Dollars Canadiens](https://open.spotify.com/track/6GnnH2SCxp8JW5dnEvMxNf) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dollars Canadiens](https://open.spotify.com/album/4K5lMdOiq1hV7VNKpFXqHG) | 2:37 |
-| 13 | [Gang Way](https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable](https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu) | 3:24 |
+| 12 | [Respecte](https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Respecte](https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU) | 2:24 |
+| 13 | [Dollars Canadiens](https://open.spotify.com/track/6GnnH2SCxp8JW5dnEvMxNf) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dollars Canadiens](https://open.spotify.com/album/4K5lMdOiq1hV7VNKpFXqHG) | 2:37 |
 | 14 | [Je sais tu veux quoi](https://open.spotify.com/track/2HXUTvWk5wsYIqnAgXNnOG) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Je sais tu veux quoi](https://open.spotify.com/album/7ivf5INurlB5n3b6FsSSnM) | 3:37 |
 | 15 | [3e avenue](https://open.spotify.com/track/1Utqa3AcyGm5qZGek8WxQP) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [3e avenue](https://open.spotify.com/album/7F34U28n3S1sT9jkVWcgd9) | 3:28 |
 | 16 | [Dans l'sang](https://open.spotify.com/track/4ZjKF8kfJ54qtEPilgOsFQ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Dans l'sang](https://open.spotify.com/album/7pN2Cid4yCMJBN5ZmPNkYU) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 74 | [Ocean](https://open.spotify.com/track/1va4RVJYJkob1UzawrRciE) | [Ghostkid](https://open.spotify.com/artist/0gp1IzGVD4GH2jcQDLBjI5), [Wesbroom](https://open.spotify.com/artist/4dwK51pcchYNJULMvnhi0J) | [Ocean](https://open.spotify.com/album/4HjzruRhr5NzVakqcoCnSG) | 2:39 |
 | 75 | [Somebody](https://open.spotify.com/track/0m0zy4bOdjIHBv4AeZaQut) | [Bawza](https://open.spotify.com/artist/6qnJ0A1QJ8eMdR5AaZ26YU) | [Somebody](https://open.spotify.com/album/6ByO7HcUu9087121xRfMbm) | 3:40 |
 
-Snapshot ID: `MTY0MTUzMTY2MCwwMDAwMDFmODAwMDAwMTdlMzJlOTU3N2EwMDAwMDE3ZTJhYjQwYTBi`
+Snapshot ID: `MTY0MTkxNzE1MSwwMDAwMDFmOTAwMDAwMTdlNDllMzc5MmEwMDAwMDE3ZTJhYjQwYTBi`

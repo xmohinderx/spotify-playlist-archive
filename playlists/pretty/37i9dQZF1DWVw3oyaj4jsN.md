@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw3oyaj4jsN.md) - [plain]
 
 > Meet G\-Dragon, Taeyang, T.O.P, and Daesung—members of the acclaimed K\-Pop phenom with their V.I.Ps
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,704 likes - 47 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,760 likes - 47 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVw3oyaj4jsN.md) - [plain]
 | 46 | [Wings \(날개\) \[Daesung Solo\]](https://open.spotify.com/track/22OJopNgbjHSaPPXD7svWk) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/2R2SusHMCwhf0ed78ajJUM) | 3:42 |
 | 47 | [NAKED](https://open.spotify.com/track/0r6cbuaBbvrCMIIAUWUsNA) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [WHITE NIGHT](https://open.spotify.com/album/6eFAxaoZhy1KBYuYHCfnDg) | 3:21 |
 
-Snapshot ID: `MTYzMjgzNTM5OCwwMDAwMDA3ZDAwMDAwMTdjMmM5MmU5ZDcwMDAwMDE2ZDE1MTFiZmVm`
+Snapshot ID: `MTY0MTg2MjA5NywwMDAwMDA3ZjAwMDAwMTdlNDY5YjZhY2IwMDAwMDE2ZDE1MTFiZmVm`

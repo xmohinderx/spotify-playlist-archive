@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Fredz",
   "name": "Rap qu\u00e9b",
-  "num_followers": 70550,
+  "num_followers": 70552,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDFmODAwMDAwMTdlMzJlOTU3N2EwMDAwMDE3ZTJhYjQwYTBi",
+  "snapshot_id": "MTY0MTkxNzE1MSwwMDAwMDFmOTAwMDAwMTdlNDllMzc5MmEwMDAwMDE3ZTJhYjQwYTBi",
   "tracks": [
     {
       "added_at": "2022-01-07 05:01:00",
@@ -39,22 +39,6 @@
       "duration_ms": 166463,
       "name": "Comme les autres",
       "url": "https://open.spotify.com/track/6AH4v8wuUwvof6g3KUqrcU"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "SNAKEYEZ",
-        "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
-      },
-      "artists": [
-        {
-          "name": "5sang14",
-          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "Chaud l\u00e0-bas",
-      "url": "https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -131,22 +115,18 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
-        "name": "Respecte",
-        "url": "https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU"
+        "name": "SNAKEYEZ",
+        "url": "https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC"
       },
       "artists": [
         {
-          "name": "Rach",
-          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
-        },
-        {
-          "name": "Jackboy",
-          "url": "https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9"
+          "name": "5sang14",
+          "url": "https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s"
         }
       ],
-      "duration_ms": 144750,
-      "name": "Respecte",
-      "url": "https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r"
+      "duration_ms": 247375,
+      "name": "Chaud l\u00e0-bas",
+      "url": "https://open.spotify.com/track/0FMk3jM0fAHrUy5sYaJepO"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -187,6 +167,22 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
+        "name": "Non coupable",
+        "url": "https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu"
+      },
+      "artists": [
+        {
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
+        }
+      ],
+      "duration_ms": 204371,
+      "name": "Gang Way",
+      "url": "https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
         "name": "Couleurs primaires : Rouge",
         "url": "https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k"
       },
@@ -211,6 +207,26 @@
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
+        "name": "Respecte",
+        "url": "https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU"
+      },
+      "artists": [
+        {
+          "name": "Rach",
+          "url": "https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n"
+        },
+        {
+          "name": "Jackboy",
+          "url": "https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Respecte",
+      "url": "https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
         "name": "Dollars Canadiens",
         "url": "https://open.spotify.com/album/4K5lMdOiq1hV7VNKpFXqHG"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 157548,
       "name": "Dollars Canadiens",
       "url": "https://open.spotify.com/track/6GnnH2SCxp8JW5dnEvMxNf"
-    },
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "Non coupable",
-        "url": "https://open.spotify.com/album/39xwcDfx2MPBAVHYA6ivtu"
-      },
-      "artists": [
-        {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV"
-        }
-      ],
-      "duration_ms": 204371,
-      "name": "Gang Way",
-      "url": "https://open.spotify.com/track/5vYxSytIrSRhaNmo2Z94GY"
     },
     {
       "added_at": "2022-01-07 05:01:00",

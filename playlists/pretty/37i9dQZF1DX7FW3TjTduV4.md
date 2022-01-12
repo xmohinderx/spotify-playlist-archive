@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FW3TjTduV4.md) - [plain]
 
 > This is the best of Dirty Projectors...
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,488 likes - 23 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,494 likes - 23 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FW3TjTduV4.md) - [plain]
 | 22 | [Dance For You](https://open.spotify.com/track/2ChaXdmbQoFQo0nJROxVDg) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Swing Lo Magellan](https://open.spotify.com/album/31hI5dQfm3EiNfzEPeny5k) | 3:23 |
 | 23 | [Keep Your Name](https://open.spotify.com/track/41IcdEHjwDp65pVjOxODCf) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF) | [Dirty Projectors](https://open.spotify.com/album/6HA2YKWabsGi6XWkhWoZuA) | 4:30 |
 
-Snapshot ID: `MTU4NzEzNjEzNiwwMDAwMDAxMTAwMDAwMTcxODhhZjgzYTQwMDAwMDE3MTg4YWY1ZGZk`
+Snapshot ID: `MTY0MTg2MjEzOSwwMDAwMDAxMzAwMDAwMTdlNDY5YzBjYTAwMDAwMDE3MTg4YWY1ZGZk`

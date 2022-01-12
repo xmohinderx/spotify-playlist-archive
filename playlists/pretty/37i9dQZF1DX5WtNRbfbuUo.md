@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WtNRbfbuUo.md) - [plain]
 
 > Deep Purple´s most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,826 likes - 49 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,947 likes - 49 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WtNRbfbuUo.md) - [plain]
 | 48 | [Hip Boots](https://open.spotify.com/track/6UT4nAlfPI7ZjAtoH5BZkx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/2ITR6MUZDd4wIZDVnYe1Rb) | 3:23 |
 | 49 | [One Night in Vegas](https://open.spotify.com/track/4wFgwK0AW0mQMWr6PozI8k) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [inFinite](https://open.spotify.com/album/2ITR6MUZDd4wIZDVnYe1Rb) | 3:23 |
 
-Snapshot ID: `MTU3NDc5OTM1MiwwMDAwMDAxMjAwMDAwMTZlYTk1YjIzMzUwMDAwMDE2ZDAwYzJiYjVm`
+Snapshot ID: `MTY0MTg2MjUxNiwwMDAwMDAxNDAwMDAwMTdlNDZhMWNlNzkwMDAwMDE2ZDAwYzJiYjVm`

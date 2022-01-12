@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNpCo0vJUOm.md) - [plain]
 
 > The ones we love\. This is R.E.M.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,899 likes - 59 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,027 likes - 59 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNpCo0vJUOm.md) - [plain]
 | 58 | [Star Me Kitten](https://open.spotify.com/track/6VYrr36LvENN0esgS3VS6W) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(25th Anniversary Edition\)](https://open.spotify.com/album/53mCB0cuaEBjsqokPSDhbw) | 3:15 |
 | 59 | [Let Me In](https://open.spotify.com/track/2cF01xTPbe08sLyWm6efb3) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster](https://open.spotify.com/album/3nDp9F1DKJ4FjIcRXgmOJh) | 3:28 |
 
-Snapshot ID: `MTU5NTYwOTMwOSwwMDAwMDAwYzAwMDAwMTczODFiOWRmNGMwMDAwMDE2ZDE1MmNlM2Zl`
+Snapshot ID: `MTY0MTg2MjM1NSwwMDAwMDAwZTAwMDAwMTdlNDY5ZjU5ODcwMDAwMDE2ZDE1MmNlM2Zl`

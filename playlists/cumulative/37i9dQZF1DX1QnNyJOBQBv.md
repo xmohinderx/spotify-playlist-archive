@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1QnNyJOBQBv.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1QnNyJOBQBv) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1QnNyJOBQBv)
 
-### Latin Pop Today
+### [Latin Pop Today](https://open.spotify.com/playlist/1C2XqxMOTFW3XGWn44uwXh)
 
 > Your favorite soon to be hits\. Cover: Micro TDH
 

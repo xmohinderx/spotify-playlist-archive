@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUifRttnt99X.md) - [plain]
 
 > An essential collection of songs from the <a href="spotify:artist:2H5elA2mJKrHmqkN9GSfkz">folk icon</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,273 likes - 59 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,281 likes - 59 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUifRttnt99X.md) - [plain]
 | 58 | [Go On Downtown \(Revival Outtake\)](https://open.spotify.com/track/4F4cTtyjwNMQrk6GMPEXGv) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Boots No\. 1: The Official Revival Bootleg](https://open.spotify.com/album/235ZzGz026rUvay44aA8JU) | 5:45 |
 | 59 | [I Had A Real Good Mother and Father](https://open.spotify.com/track/7h5Fo79KttT0f7ARxDKKEh) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Soul Journey](https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr) | 3:14 |
 
-Snapshot ID: `MTYwNjE1MTg2MywwMDAwMDAwYzAwMDAwMTc1ZjYxYzdkZjEwMDAwMDE2ZDE1MmM0Mjkz`
+Snapshot ID: `MTY0MTg2MjE3OCwwMDAwMDAwZTAwMDAwMTdlNDY5Y2E1NjkwMDAwMDE2ZDE1MmM0Mjkz`

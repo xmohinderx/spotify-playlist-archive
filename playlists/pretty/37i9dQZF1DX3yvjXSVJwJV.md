@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3yvjXSVJwJV.md) - [plain]
 
 > Can't hide our love for the <a href="spotify:artist:4QQgXkCYTt3BlENzhyNETg">funk\-soul outfit</a>\. Hear all their pivotal tracks now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,762 likes - 24 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,812 likes - 24 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

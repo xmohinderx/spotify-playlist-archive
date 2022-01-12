@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlQuz77tGe5.md) - [plain]
 
 > This Icelandic indie\-folk group has established a global fan base.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,553 likes - 26 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,592 likes - 26 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlQuz77tGe5.md) - [plain]
 | 25 | [From Finner](https://open.spotify.com/track/16oGsGvhNhTihlZAYLp2wm) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 3:43 |
 | 26 | [Little Talks \- Passion Pit Remix](https://open.spotify.com/track/2lH0yKkcYCcebO4Z2mkYTB) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz), [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Little Talks](https://open.spotify.com/album/0DcXxVUHGA4xBRor0rkfEl) | 4:42 |
 
-Snapshot ID: `MTU4MzQ4ODg2MCwwMDAwMDAwNjAwMDAwMTZhOGQ5NGY4YTEwMDAwMDE3MGFmNGE4MGVi`
+Snapshot ID: `MTY0MTg2MjU3NywwMDAwMDAwODAwMDAwMTdlNDZhMmJkOTkwMDAwMDE3MGFmNGE4MGVi`

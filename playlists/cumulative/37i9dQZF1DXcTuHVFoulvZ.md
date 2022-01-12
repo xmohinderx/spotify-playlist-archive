@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcTuHVFoulvZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcTuHVFoulvZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcTuHVFoulvZ)
 
-### Le meilleur du rap québécois 2021 
+### [Le meilleur du rap québécois 2021 ](https://open.spotify.com/playlist/0coijtqe33Y0PEyuzfRFFn)
 
 > Le meilleur du hip\-hop québécois en 2021: les choix de notre équipe éditoriale. Photo: Lost
 

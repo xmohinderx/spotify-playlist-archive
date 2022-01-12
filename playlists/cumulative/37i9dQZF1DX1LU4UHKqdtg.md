@@ -2,7 +2,7 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
-> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: Kep1er
+> 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: ENHYPEN
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

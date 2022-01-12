@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 218200,
       "name": "CHANCES",
       "url": "https://open.spotify.com/track/0XEhhANHRAqXM9c3JSvLfX"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 224352,
       "name": "Do U Want Me",
       "url": "https://open.spotify.com/track/2eTLxOZY8owibk7b2iETad"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Done It All Wrongh",
       "url": "https://open.spotify.com/track/2y3rFDdYs6AKLrUJYtiCrX"
@@ -647,7 +647,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 196162,
       "name": "Gis\u00e8le",
       "url": "https://open.spotify.com/track/2vRsa6uWv4CVbmLcYlWbOZ"
@@ -727,6 +727,24 @@
       "duration_ms": 368783,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36"
+    },
+    {
+      "album": {
+        "name": "Heat-Wave",
+        "url": "https://open.spotify.com/album/205mIe44luLaMWMijo4ukX"
+      },
+      "artists": [
+        {
+          "name": "Daniel T.",
+          "url": "https://open.spotify.com/artist/2KV7SeH81I26dNswIYrNeY"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356223,
+      "name": "Heat-Wave",
+      "url": "https://open.spotify.com/track/5RwQuZtvlmLq6rutrcugxF"
     },
     {
       "album": {
@@ -1137,7 +1155,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 264013,
       "name": "Lost in the Moment",
       "url": "https://open.spotify.com/track/1ZDDjXReDwZOuFu36GGYKj"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/7x0KPn2pVa9P2hOLnVWRjN"
@@ -1272,6 +1290,28 @@
     },
     {
       "album": {
+        "name": "No More - Extended Flavour Pack",
+        "url": "https://open.spotify.com/album/1GwxbLhIo0cLVk53pOR7x6"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312548,
+      "name": "No More - Durante Remix",
+      "url": "https://open.spotify.com/track/1BaK2qtH59Sxo23HFJvugG"
+    },
+    {
+      "album": {
         "name": "o shit!",
         "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
       },
@@ -1283,7 +1323,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 136822,
       "name": "o shit!",
       "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
@@ -1377,7 +1417,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 250383,
       "name": "Outer Sunset",
       "url": "https://open.spotify.com/track/4Zwo8D1koSzLJCYd5NlX81"
@@ -1435,7 +1475,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 170666,
       "name": "pH",
       "url": "https://open.spotify.com/track/2seFcLiWwxHZ72EYFezJmJ"
@@ -1453,10 +1493,28 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 214826,
       "name": "PLACES",
       "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
+    },
+    {
+      "album": {
+        "name": "Pool Party",
+        "url": "https://open.spotify.com/album/3FoihGlEHr7U6IKp1NyGlF"
+      },
+      "artists": [
+        {
+          "name": "nite swim",
+          "url": "https://open.spotify.com/artist/4JoqKyiPAsXMuc8mkF25Ju"
+        }
+      ],
+      "date_added": "2020-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/43ArUDXPIOqF4R3w2TjfxZ"
     },
     {
       "album": {
@@ -1677,7 +1735,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 213040,
       "name": "Swing",
       "url": "https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP"
@@ -1753,7 +1811,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
@@ -1887,7 +1945,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 199102,
       "name": "Water - FKJ Remix",
       "url": "https://open.spotify.com/track/04bAqpyuPCsgZAfnbsGDXx"
@@ -1967,7 +2025,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 142950,
       "name": "When You Lock Eyes",
       "url": "https://open.spotify.com/track/436jz9bb0osX1lD8KUWf9U"
@@ -2003,7 +2061,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 353523,
       "name": "WHERE'D MY EYES GO?",
       "url": "https://open.spotify.com/track/7u3kxFpkTQnXKlWH1r34G5"
@@ -2025,7 +2083,7 @@
       ],
       "date_added": "2020-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 314945,
       "name": "Wolves Still Cry - Classixx Remix",
       "url": "https://open.spotify.com/track/4FiJ9JT9nicjc8Oadnf2gA"

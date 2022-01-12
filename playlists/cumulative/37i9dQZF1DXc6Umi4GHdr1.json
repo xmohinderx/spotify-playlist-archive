@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Andorra",
+        "url": "https://open.spotify.com/album/5Myhfafww3fj0Fb38ycbYx"
+      },
+      "artists": [
+        {
+          "name": "Las Almas Nuevas",
+          "url": "https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Andorra",
+      "url": "https://open.spotify.com/track/6LoBY8H1V4JMpXTcWO73Db"
+    },
+    {
+      "album": {
         "name": "Sounds Of Silence",
         "url": "https://open.spotify.com/album/07RAGILF28QweYQSZasr5k"
       },
@@ -635,6 +653,24 @@
       "duration_ms": 185848,
       "name": "Larghetto",
       "url": "https://open.spotify.com/track/3NvvbRZxy4yis6QTaHyVMx"
+    },
+    {
+      "album": {
+        "name": "Las Rosas",
+        "url": "https://open.spotify.com/album/0amg2YvWMSMYRmAaxUsj5T"
+      },
+      "artists": [
+        {
+          "name": "Michele Leao",
+          "url": "https://open.spotify.com/artist/6FjXAOfjiavprwnGzY0YvF"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161750,
+      "name": "Las Rosas",
+      "url": "https://open.spotify.com/track/62eMqR3ynGdonHy5ObmWTL"
     },
     {
       "album": {

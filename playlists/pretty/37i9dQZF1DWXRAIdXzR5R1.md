@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRAIdXzR5R1.md) - [plain]
 
 > With one of his biggest hits 'Summer of 69', he has contributed more than 30 years to the arts, particularly as a musician and also as an established photographer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,295 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,377 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRAIdXzR5R1.md) - [plain]
 | 49 | [I Could Get Used To This](https://open.spotify.com/track/7BnhpoLXwI5ApsTGCOnIHI) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/3oFEUoJSqKrOgDKE3kHfwP) | 1:48 |
 | 50 | [No Time For Love](https://open.spotify.com/track/6nUC2Uvaggfk8P4w85TfGL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/3oFEUoJSqKrOgDKE3kHfwP) | 2:04 |
 
-Snapshot ID: `MTU5MjM3MTM1NywwMDAwMDA0YzAwMDAwMTcyYzBiYWE1NzYwMDAwMDE2ZDE1NDQ2NDI2`
+Snapshot ID: `MTY0MTg2MjEwNywwMDAwMDA0ZTAwMDAwMTdlNDY5YjkwZDUwMDAwMDE2ZDE1NDQ2NDI2`

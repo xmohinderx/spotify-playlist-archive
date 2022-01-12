@@ -103,6 +103,6 @@
 | [Up Time](https://open.spotify.com/track/4gwOjnhUZw8WSGa1RHNCgf) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [IDK, Vol\. 2](https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt) | 3:29 | 2021-12-17 |  |
 | [Valley Of Violence](https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Valley Of Violence](https://open.spotify.com/album/3fblenkjskYmPpOOAm58My) | 3:58 | 2021-12-17 |  |
 | [Wasted](https://open.spotify.com/track/2RrgPY4yRUewW4pHmudoyl) | [eugene](https://open.spotify.com/artist/32B4m0OTNUKzhgYGCCvTZw) | [Wasted](https://open.spotify.com/album/2frjhKXWiR4CVeowMBHCF5) | 3:53 | 2021-12-17 |  |
-| [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 | 2022-01-07 |  |
+| [Wraith](https://open.spotify.com/track/3E7FMdM62FVjxwTYqgLbyu) | [Kenzi Sway](https://open.spotify.com/artist/4ai47NrkqM67M55bS2ziHN) | [Wraith](https://open.spotify.com/album/6r7O4TukHQsv0wtQlkdOUa) | 2:35 | 2022-01-07 | 2022-01-12 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

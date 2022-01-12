@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The sounds of hip\-hop coming out of Canada\. Cover: Smiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,421 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,457 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Again](https://open.spotify.com/track/3hJi82FnDZdCsi8NkfaAVj) | [TallupTwinz](https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk), [J Neat](https://open.spotify.com/artist/1gcJL4VIufEidILrBPsCgq) | [Again](https://open.spotify.com/album/6CZzeVzSatYIOjY3FecBIS) | 3:11 |
 | 2 | [Over The Top \(feat\. Drake\)](https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Over The Top \(feat\. Drake\)](https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5) | 2:33 |
-| 3 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 |
-| 4 | [Superstar](https://open.spotify.com/track/0VWqFk6vPwmFirhZiF9tLx) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Superstar](https://open.spotify.com/album/6v2VAEBNxUZsDwYO99VTea) | 3:04 |
-| 5 | [A to B](https://open.spotify.com/track/7yqcgn9daXy8pFnB5CCgog) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [A to B](https://open.spotify.com/album/1FqdPr8V1AEixQjLe3jiF2) | 3:08 |
-| 6 | [Easy](https://open.spotify.com/track/5N51kSCIXYybdKLI2Iq5me) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Michael](https://open.spotify.com/album/5oyhE5UqBMxH44s2R63N9N) | 2:56 |
-| 7 | [Ouu](https://open.spotify.com/track/68Ecj6mhbxGdqezDh877Ff) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [Ouu](https://open.spotify.com/album/065Y0g13PbJXlixnHL99Li) | 1:37 |
-| 8 | [How Much She Needs Me](https://open.spotify.com/track/7c5LfHEYbBkbTJIlBG7I59) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [The Extravagant Collection](https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq) | 2:36 |
-| 9 | [The Motto](https://open.spotify.com/track/6ZKZlu1wSp4qiMYR1MYXnW) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [The Motto](https://open.spotify.com/album/0vdxQXOTw5nxaSZxad64jY) | 2:36 |
-| 10 | [It's Your Birthday](https://open.spotify.com/track/5B6dWRWkCM3a81O0ztQGa8) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Michael](https://open.spotify.com/album/5oyhE5UqBMxH44s2R63N9N) | 2:58 |
-| 11 | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/track/34hQD28WymyIZBJDZNh5zF) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/album/2mer205w0rPUj3mYvud2G8) | 3:52 |
-| 12 | [Dead Body \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/4JTfekrzazNd71Q5k6QZyK) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Gardner Express \(Deluxe\)](https://open.spotify.com/album/4qtoUHReyTTUUGMu8hpDGr) | 2:50 |
+| 3 | [The Motto](https://open.spotify.com/track/6ZKZlu1wSp4qiMYR1MYXnW) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [The Motto](https://open.spotify.com/album/0vdxQXOTw5nxaSZxad64jY) | 2:36 |
+| 4 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 |
+| 5 | [Superstar](https://open.spotify.com/track/0VWqFk6vPwmFirhZiF9tLx) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Superstar](https://open.spotify.com/album/6v2VAEBNxUZsDwYO99VTea) | 3:04 |
+| 6 | [A to B](https://open.spotify.com/track/7yqcgn9daXy8pFnB5CCgog) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ) | [A to B](https://open.spotify.com/album/1FqdPr8V1AEixQjLe3jiF2) | 3:08 |
+| 7 | [Easy](https://open.spotify.com/track/5N51kSCIXYybdKLI2Iq5me) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Michael](https://open.spotify.com/album/5oyhE5UqBMxH44s2R63N9N) | 2:56 |
+| 8 | [Ouu](https://open.spotify.com/track/68Ecj6mhbxGdqezDh877Ff) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [Ouu](https://open.spotify.com/album/065Y0g13PbJXlixnHL99Li) | 1:37 |
+| 9 | [How Much She Needs Me](https://open.spotify.com/track/7c5LfHEYbBkbTJIlBG7I59) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [The Extravagant Collection](https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq) | 2:36 |
+| 10 | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/track/34hQD28WymyIZBJDZNh5zF) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Hopscotch \(feat\. Swae Lee\)](https://open.spotify.com/album/2mer205w0rPUj3mYvud2G8) | 3:52 |
+| 11 | [Dead Body \(feat\. Rowdy Rebel\)](https://open.spotify.com/track/4JTfekrzazNd71Q5k6QZyK) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Gardner Express \(Deluxe\)](https://open.spotify.com/album/4qtoUHReyTTUUGMu8hpDGr) | 2:50 |
+| 12 | [It's Your Birthday](https://open.spotify.com/track/5B6dWRWkCM3a81O0ztQGa8) | [MOULA 1ST](https://open.spotify.com/artist/6KkRTh4TxUd0AEK794U52C) | [Michael](https://open.spotify.com/album/5oyhE5UqBMxH44s2R63N9N) | 2:58 |
 | 13 | [Water Whip \(feat\. 2kz & YTN Paco\)](https://open.spotify.com/track/2CTIrIH7AXD4hLAcRyFLsx) | [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5), [2Kz](https://open.spotify.com/artist/34NZtBmujV74j9fglzWlxW), [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL) | [Water Whip \(feat\. 2kz & YTN Paco\)](https://open.spotify.com/album/16prfySWzOX4ZecF9B0PeT) | 2:29 |
 | 14 | [Gangsta Gentleman](https://open.spotify.com/track/4ziIbMfbu5w7R1FtzjaKpK) | [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw) | [Big Screen](https://open.spotify.com/album/3fbMX5wfEMgo9jsGvxArf3) | 2:22 |
 | 15 | [Can't Be Famous](https://open.spotify.com/track/2nJI3knNuCEeOgXThoWV9d) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Can't Be Famous](https://open.spotify.com/album/0rw0aKbyqJyxfIjM0WQYaX) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [BALLIN ON ICE](https://open.spotify.com/track/2qrfpRfNLizo3qz84dOwrs) | [NLN](https://open.spotify.com/artist/62n4U1X9Uk7DF9jQkAaBrW) | [BALLIN ON ICE](https://open.spotify.com/album/4ZIFUa16iE0wottg0Huqda) | 3:39 |
 | 100 | [Next To Pop](https://open.spotify.com/track/1XMaAhHrv3WVBmmzS7G8Df) | [CHUNG](https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe), [Cotola](https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw), [Boy6lue](https://open.spotify.com/artist/0vnrSHSfHH5SiucZ1ESawP) | [Chung Shui](https://open.spotify.com/album/71M5kWhRglaMXjbyLzxvRM) | 3:22 |
 
-Snapshot ID: `MTY0MTUzMjIyNCwwMDAwMDM2ZTAwMDAwMTdlMzJmMWYyNzAwMDAwMDE3ZTMxYzIzODk0`
+Snapshot ID: `MTY0MTkyODkwMSwwMDAwMDM2ZjAwMDAwMTdlNGE5NmM1NDYwMDAwMDE3ZTMxYzIzODk0`

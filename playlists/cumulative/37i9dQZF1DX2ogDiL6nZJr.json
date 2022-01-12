@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 216560,
       "name": "A Lingering Love",
       "url": "https://open.spotify.com/track/6Edccn5z5RF4fb0nzFfpzH"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 262533,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/0UldHegZYf4q7bYDSGBZhq"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 219680,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 197614,
       "name": "Cars",
       "url": "https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 316853,
       "name": "Cast-Off",
       "url": "https://open.spotify.com/track/4KimCUdaKfz4KtKqhBjchZ"
@@ -553,7 +553,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 271176,
       "name": "Chemtrails Over The Country Club",
       "url": "https://open.spotify.com/track/1PZDyestTVydtHpaIcfUJg"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 285515,
       "name": "Choirs to Heaven",
       "url": "https://open.spotify.com/track/3PqrXZmbggXBw5Sswa9TFm"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 205249,
       "name": "For Sure",
       "url": "https://open.spotify.com/track/7tVYedjMc62HAxf10SbncH"
@@ -1065,7 +1065,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 197524,
       "name": "Green Eyes",
       "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
@@ -1889,7 +1889,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 324532,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/5AjWtMkHCCBm840EzpKgDT"
@@ -1961,7 +1961,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 185901,
       "name": "Somewhere in Chicago",
       "url": "https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0"
@@ -2033,7 +2033,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 171866,
       "name": "Sunny Afternoon",
       "url": "https://open.spotify.com/track/7srVFtzbY8ok5UFzuN0b8P"
@@ -2055,6 +2055,24 @@
       "duration_ms": 229066,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/3kcTEUsNHJGv8NNAu3tZCR"
+    },
+    {
+      "album": {
+        "name": "M Field",
+        "url": "https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg"
+      },
+      "artists": [
+        {
+          "name": "M Field",
+          "url": "https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193892,
+      "name": "Ten Is a Number",
+      "url": "https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p"
     },
     {
       "album": {
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/2EuXTlhlCKGtbXlGG0jE9Y"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 207226,
       "name": "Visitor",
       "url": "https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-12",
       "duration_ms": 195266,
       "name": "Youth",
       "url": "https://open.spotify.com/track/040biVya1wdxHojlYhlcpK"

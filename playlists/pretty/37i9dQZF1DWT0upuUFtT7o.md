@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The top tracks of Fresh Finds Indie 2021\. Cover: girlhouse Artwork: Robin Clifford Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,277 likes - 104 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,350 likes - 104 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
