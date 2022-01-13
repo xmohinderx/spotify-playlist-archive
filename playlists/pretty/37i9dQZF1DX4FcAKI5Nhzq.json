@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: WOOZI",
   "name": "K-Pop Rising",
-  "num_followers": 630290,
+  "num_followers": 630688,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgwNTc3OCwwMDAwMDIzMzAwMDAwMTdlNDM0MDBkYTUwMDAwMDE3ZTI0NDRhYWMz",
+  "snapshot_id": "MTY0MTk4MjIxOCwwMDAwMDIzNTAwMDAwMTdlNGRjNDRmODAwMDAwMDE3ZTI0NDRhYWMz",
   "tracks": [
+    {
+      "added_at": "2022-01-12 06:46:05",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "Lost On Me",
+      "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
+    },
     {
       "added_at": "2022-01-10 09:09:38",
       "album": {
@@ -39,6 +55,70 @@
       "duration_ms": 220653,
       "name": "Weapon (With Newnion, FLOOR) (Prod.Czaer)",
       "url": "https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4"
+    },
+    {
+      "added_at": "2022-01-12 06:46:05",
+      "album": {
+        "name": "2021 Winter SMTOWN : SMCU EXPRESS",
+        "url": "https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        },
+        {
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
+        },
+        {
+          "name": "HENDERY",
+          "url": "https://open.spotify.com/artist/5wrZ59w1ndSBlPeUj2f6Fs"
+        },
+        {
+          "name": "YANGYANG",
+          "url": "https://open.spotify.com/artist/5yyf4YDCKGaa71SC7KRw2L"
+        },
+        {
+          "name": "GISELLE",
+          "url": "https://open.spotify.com/artist/2P1id80CMwR5R5cwcyIIAi"
+        }
+      ],
+      "duration_ms": 177413,
+      "name": "ZOO",
+      "url": "https://open.spotify.com/track/7eVu7FI02cTicLEgVtUvwF"
+    },
+    {
+      "added_at": "2022-01-04 08:47:20",
+      "album": {
+        "name": "Ruby",
+        "url": "https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6"
+      },
+      "artists": [
+        {
+          "name": "WOOZI",
+          "url": "https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X"
+    },
+    {
+      "added_at": "2022-01-12 10:10:18",
+      "album": {
+        "name": "Novella",
+        "url": "https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9"
+      },
+      "artists": [
+        {
+          "name": "UP10TION",
+          "url": "https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "Crazy About You",
+      "url": "https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -89,6 +169,26 @@
       "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
     },
     {
+      "added_at": "2022-01-12 06:46:05",
+      "album": {
+        "name": "OHAYO MY NIGHT",
+        "url": "https://open.spotify.com/album/0J1MR2hon6midgXF4kY1b8"
+      },
+      "artists": [
+        {
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
+        },
+        {
+          "name": "Pateko",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "OHAYO MY NIGHT",
+      "url": "https://open.spotify.com/track/4iJprGt1rt5iy0sxXXaRWn"
+    },
+    {
       "added_at": "2022-01-10 09:09:38",
       "album": {
         "name": "FIRST IMPACT",
@@ -103,22 +203,6 @@
       "duration_ms": 183693,
       "name": "WA DA DA",
       "url": "https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/35F1IiTWhlrhjCSQOwvCC6"
-      },
-      "artists": [
-        {
-          "name": "WOOZI",
-          "url": "https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/5ljGBxXb9LthJK0rW61G6X"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -139,6 +223,22 @@
       "duration_ms": 179800,
       "name": "Who Are You (Feat. SEULGI of Red Velvet)",
       "url": "https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL"
+    },
+    {
+      "added_at": "2022-01-04 08:47:20",
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 264613,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -259,22 +359,6 @@
       "duration_ms": 190426,
       "name": "Savior",
       "url": "https://open.spotify.com/track/4AfQOvbsAltnzGVziGmRqn"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "Beauty and the Beast",
-        "url": "https://open.spotify.com/album/1y4bPlGZWzzZtVCuHbQ8gS"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 264613,
-      "name": "Beauty and the Beast",
-      "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -419,22 +503,6 @@
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
         "name": "Return of The Girl",
         "url": "https://open.spotify.com/album/28p4jKCNlbLUXaZ24iYLuD"
       },
@@ -555,26 +623,6 @@
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "ANI(feat.SOYEON ((G)I-DLE))",
-        "url": "https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm"
-      },
-      "artists": [
-        {
-          "name": "RAVI",
-          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
-        },
-        {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
-        }
-      ],
-      "duration_ms": 181280,
-      "name": "ANI(feat.SOYEON ((G)I-DLE))",
-      "url": "https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
         "name": "LOCK UP",
         "url": "https://open.spotify.com/album/4CbmJDPP4CuPnjUHaxUiju"
       },
@@ -587,22 +635,6 @@
       "duration_ms": 187106,
       "name": "Unthinkable",
       "url": "https://open.spotify.com/track/0MQa8iD2fcVSnBzAGbdLeX"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "\"TO INFINITY.\"",
-        "url": "https://open.spotify.com/album/6eI4DPjksFdwHechiE51vy"
-      },
-      "artists": [
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "TANG!\u2661",
-      "url": "https://open.spotify.com/track/42wkZTMDrlzWGth9akHF0p"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -623,22 +655,6 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "BLUE",
-        "url": "https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6"
-      },
-      "artists": [
-        {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Rolling Rolling",
-      "url": "https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ"
     },
     {
       "added_at": "2022-01-04 08:47:20",
@@ -771,38 +787,6 @@
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "Re:T-ARA",
-        "url": "https://open.spotify.com/album/1GTkiHxMFTVC9K9Zf2aoxU"
-      },
-      "artists": [
-        {
-          "name": "T-ARA",
-          "url": "https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "TIKI TAKA",
-      "url": "https://open.spotify.com/track/6sPPNhpEwwWte3OJslsr0f"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "IDOL: The Coup (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/6uZxdb9Sk9ahPjpRWwqHkC"
-      },
-      "artists": [
-        {
-          "name": "Cotton Candy",
-          "url": "https://open.spotify.com/artist/0XRMbnjCPM7HhvxZXZrNxg"
-        }
-      ],
-      "duration_ms": 195338,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/1A9GiSTO5a6katWKUJfV4t"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
         "name": "COSMOS",
         "url": "https://open.spotify.com/album/0ZKvxPhvoP6kfH1g1WNSxV"
       },
@@ -839,54 +823,6 @@
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "Poison (Crime Puzzle)",
-        "url": "https://open.spotify.com/album/0C7uH2bPULuV0t15yTkygg"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/0dhBiy6lmLdyKUEJTf5Fcz"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "RE:ALIZE",
-        "url": "https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy"
-      },
-      "artists": [
-        {
-          "name": "TO1",
-          "url": "https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "No More X",
-      "url": "https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
-        "name": "Girls Planet 999 - O.O.O (Over&Over&Over)",
-        "url": "https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6"
-      },
-      "artists": [
-        {
-          "name": "Girls Planet 999",
-          "url": "https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W"
-        }
-      ],
-      "duration_ms": 247360,
-      "name": "O.O.O (Over&Over&Over)",
-      "url": "https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re"
-    },
-    {
-      "added_at": "2022-01-04 08:47:20",
-      "album": {
         "name": "Cold Blooded",
         "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
       },
@@ -903,50 +839,54 @@
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "Favorite - The 3rd Album Repackage",
-        "url": "https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy"
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
       },
       "artists": [
         {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
         }
       ],
-      "duration_ms": 215586,
-      "name": "Favorite (Vampire)",
-      "url": "https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY"
+      "duration_ms": 246320,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
     },
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/6E06DFk8k2TG4dycatLnt6"
       },
       "artists": [
         {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO"
         }
       ],
-      "duration_ms": 190050,
-      "name": "Tie a Cherry",
-      "url": "https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu"
+      "duration_ms": 241360,
+      "name": "Rolling Rolling",
+      "url": "https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ"
     },
     {
       "added_at": "2022-01-04 08:47:20",
       "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
+        "name": "ANI(feat.SOYEON ((G)I-DLE))",
+        "url": "https://open.spotify.com/album/5nt7HzeKaxAp6Gh4fZoqMm"
       },
       "artists": [
         {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
         }
       ],
-      "duration_ms": 206349,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/7aWZ76OniT1DUi5L9gjRkY"
+      "duration_ms": 181280,
+      "name": "ANI(feat.SOYEON ((G)I-DLE))",
+      "url": "https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq"

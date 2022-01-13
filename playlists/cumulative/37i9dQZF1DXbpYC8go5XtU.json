@@ -622,6 +622,24 @@
     },
     {
       "album": {
+        "name": "Inner Forests",
+        "url": "https://open.spotify.com/album/2RLUDtP21qs0kXSpE9BQLe"
+      },
+      "artists": [
+        {
+          "name": "Desolate Horizons",
+          "url": "https://open.spotify.com/artist/5y4oIz8eUC013rOK3AldFN"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Honesty",
+      "url": "https://open.spotify.com/track/5Yk87Sx5schJACOxYmyYkR"
+    },
+    {
+      "album": {
         "name": "Six Postcards & Other Stories",
         "url": "https://open.spotify.com/album/3Q4Mj2ui2oGXdZPMiylMY3"
       },

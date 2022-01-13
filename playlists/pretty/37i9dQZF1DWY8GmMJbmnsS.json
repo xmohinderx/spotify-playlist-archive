@@ -1,34 +1,18 @@
 {
   "description": "All of your classic soul ballads, right here. Cover: <a href=\"spotify:artist:3rRmDmzPcAFwcUDvG5gBqO\">Percy Sledge</a>",
   "name": "Timeless Soul Ballads",
-  "num_followers": 301421,
+  "num_followers": 301498,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTk0ODA5NiwwMDAwMDAwMGZmYTkzMDU4ODgyMzhlZDQzNGI4OTM5ZWYxMjA0YmU2",
+  "snapshot_id": "MTY0MjAzNDU4NCwwMDAwMDAwMGVjN2NjMzc1Y2I1OWQ3OTlmYTExODI5M2Y0ZDdmN2Q1",
   "tracks": [
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Best Of/20th Century",
-        "url": "https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 171080,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Change Is Gonna Come",
-        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
       "artists": [
         {
@@ -36,9 +20,25 @@
           "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 191320,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
+      "duration_ms": 162466,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "What's Going On - Original Single Mix",
+      "url": "https://open.spotify.com/track/0wNP3UlDMf2CxPyJyNOHVD"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -75,18 +75,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "What's Going On - 40th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/3P9Pzn7O4Zsr3tsCSsx7Uk"
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/5nwBtLyOuY8tNUxH4cRuwH"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 226133,
-      "name": "What's Going On - Original Single Mix",
-      "url": "https://open.spotify.com/track/0wNP3UlDMf2CxPyJyNOHVD"
+      "duration_ms": 171080,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5OaBN89f3MvgZfl3k2CR58"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -107,18 +107,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+        "name": "A Change Is Gonna Come",
+        "url": "https://open.spotify.com/album/4IzTGWm7hiv0BpQAG7vWhI"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 188893,
-      "name": "I Wish I Knew How It Would Feel to Be Free",
-      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
+      "duration_ms": 191320,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -139,18 +139,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "This Is Clarence Carter",
-        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
       },
       "artists": [
         {
-          "name": "Clarence Carter",
-          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 153680,
-      "name": "Slip Away",
-      "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
+      "duration_ms": 188893,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/617BX2z1ctbswU1xjU3LRW"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -171,66 +171,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+        "name": "This Is Clarence Carter",
+        "url": "https://open.spotify.com/album/7IWPPkijopGVrwWXRbmQKx"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Clarence Carter",
+          "url": "https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB"
         }
       ],
-      "duration_ms": 162466,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "First Take",
-        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "The First Time Ever I Saw Your Face",
-      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Number 1's",
-        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "You Are The Sunshine Of My Life",
-      "url": "https://open.spotify.com/track/5jWZR3cKUChstrHpNnTPCS"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
+      "duration_ms": 153680,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/7r3Hwig1mvtlVq0ZbJ09Wb"
     },
     {
       "added_at": "2021-01-05 21:36:28",
@@ -251,18 +203,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "Portrait of a Legend (Remastered)",
-        "url": "https://open.spotify.com/album/2o79MAXD7xbq0E1SEugdeC"
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
       },
       "artists": [
         {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/2xjcw8yUWX6lCJciwiW9Q0"
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -279,6 +231,54 @@
       "duration_ms": 149626,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Number 1's",
+        "url": "https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/5jWZR3cKUChstrHpNnTPCS"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Portrait of a Legend (Remastered)",
+        "url": "https://open.spotify.com/album/2o79MAXD7xbq0E1SEugdeC"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/2xjcw8yUWX6lCJciwiW9Q0"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "First Take",
+        "url": "https://open.spotify.com/album/2ARWEOvaUgm4FSj25MpY6F"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -315,50 +315,18 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
+        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
       },
       "artists": [
         {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
         }
       ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
-        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
-      },
-      "artists": [
-        {
-          "name": "Erma Franklin",
-          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Piece of My Heart",
-      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 325946,
-      "name": "A Song for You",
-      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
+      "duration_ms": 200933,
+      "name": "Didn't I Blow Your Mind This Time",
+      "url": "https://open.spotify.com/track/75D5cH21X8jAVdRKuUR70B"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -379,6 +347,54 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 322866,
+      "name": "I Love You More Than You'll Ever Know",
+      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
+        "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
+      },
+      "artists": [
+        {
+          "name": "Erma Franklin",
+          "url": "https://open.spotify.com/artist/1CzJJJb6hnx84VNhgaJmFG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/2GbePPrWWSRxcmW6QRSPae"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "Let's Get It On (Expanded Edition)",
         "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 290960,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "Jackie Brown (Music from the Miramax Motion Picture)",
-        "url": "https://open.spotify.com/album/1f0FdT3X5hFNDNj39v4Km8"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Didn't I Blow Your Mind This Time",
-      "url": "https://open.spotify.com/track/75D5cH21X8jAVdRKuUR70B"
     },
     {
       "added_at": "2018-12-11 20:42:57",
@@ -443,6 +443,22 @@
     {
       "added_at": "2018-12-11 20:42:57",
       "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 325946,
+      "name": "A Song for You",
+      "url": "https://open.spotify.com/track/57IHG8x8BiqKHanYQk92ji"
+    },
+    {
+      "added_at": "2018-12-11 20:42:57",
+      "album": {
         "name": "The Intouchables",
         "url": "https://open.spotify.com/album/7tWIlXAneT3Ebw0Fq4NXL1"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 180200,
       "name": "Let's Talk It Over",
       "url": "https://open.spotify.com/track/1ZnphXcGuAlLpw2lkRB9It"
-    },
-    {
-      "added_at": "2018-12-11 20:42:57",
-      "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 322866,
-      "name": "I Love You More Than You'll Ever Know",
-      "url": "https://open.spotify.com/track/2qdyq2N1XfaA8QhtiOWWFG"
     },
     {
       "added_at": "2018-12-11 20:42:57",

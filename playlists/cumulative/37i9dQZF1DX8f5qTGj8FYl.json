@@ -405,7 +405,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
@@ -529,7 +529,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 214387,
       "name": "Dallas",
       "url": "https://open.spotify.com/track/2HYk4Wh5L4MiZ6s6myy4bI"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 357480,
       "name": "Down Frenchmen St",
       "url": "https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC"
@@ -819,7 +819,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 344491,
       "name": "Funky D",
       "url": "https://open.spotify.com/track/5UPd95cVd4mIh8psFTniGL"
@@ -1519,7 +1519,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 308546,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
@@ -1667,7 +1667,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 191761,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
@@ -1769,6 +1769,24 @@
       "duration_ms": 237274,
       "name": "Since You Wonder",
       "url": "https://open.spotify.com/track/1hoRpaGSnypLeqiqByLtco"
+    },
+    {
+      "album": {
+        "name": "Sir Somebody",
+        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "Sir Somebody",
+      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
     },
     {
       "album": {
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 171472,
       "name": "The Chase",
       "url": "https://open.spotify.com/track/4xR4kE5b42b5zpqSw3i8dN"

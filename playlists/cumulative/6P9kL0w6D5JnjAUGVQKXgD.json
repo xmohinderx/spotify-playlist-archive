@@ -1880,6 +1880,32 @@
     },
     {
       "album": {
+        "name": "Beast (All as One)",
+        "url": "https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189826,
+      "name": "Beast (All as One)",
+      "url": "https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV"
+    },
+    {
+      "album": {
         "name": "Beat Freak (ft. lau.ra)",
         "url": "https://open.spotify.com/album/0P4SStuw8AYCIx2CTp80jF"
       },
@@ -12123,7 +12149,7 @@
       ],
       "date_added": "2021-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-22",
+      "date_removed": null,
       "duration_ms": 204849,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/0WNjZebEUjiPEdVqfYjlcZ"
@@ -12387,7 +12413,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
@@ -13479,7 +13505,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 186046,
       "name": "My Humps",
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"

@@ -1,12 +1,12 @@
 {
   "description": "Happy and swinging jazz.",
   "name": "Happy Jazz!",
-  "num_followers": 105412,
+  "num_followers": 105470,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTk0ODI5NywwMDAwMDAwMDFhZWY0YzdkMjYyZmViOGU0YjIwNzAyYWNhZWI5ZTA5",
+  "snapshot_id": "MTY0MjAzNDc4MSwwMDAwMDAwMDYxZmNiZjdhOTdmNjYzN2M1OTUwZWVjYzZmMmI4MmQ4",
   "tracks": [
     {
       "added_at": "2021-12-17 14:33:30",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
+        "name": "Heads Up!",
+        "url": "https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 339266,
+      "name": "The People In Nassau",
+      "url": "https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
         "name": "It's an Upright Thing",
         "url": "https://open.spotify.com/album/2IVLVLJ4CLtO46XDSx4cJ2"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 204875,
       "name": "It's an Upright Thing",
       "url": "https://open.spotify.com/track/4UQBp5wMIPImW0kt78ojSk"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
         "name": "Dardanella",
         "url": "https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 324696,
       "name": "Dardanella",
       "url": "https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "Heads Up!",
-        "url": "https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 339266,
-      "name": "The People In Nassau",
-      "url": "https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -155,18 +155,18 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "La La Lars III",
-        "url": "https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9"
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3No8sszndBhwqacWUARKAv"
       },
       "artists": [
         {
-          "name": "La La Lars",
-          "url": "https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg"
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
         }
       ],
-      "duration_ms": 288880,
-      "name": "Pour Qui Pourquoi",
-      "url": "https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY"
+      "duration_ms": 140823,
+      "name": "HOP",
+      "url": "https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -183,6 +183,22 @@
       "duration_ms": 406213,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "La La Lars III",
+        "url": "https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9"
+      },
+      "artists": [
+        {
+          "name": "La La Lars",
+          "url": "https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg"
+        }
+      ],
+      "duration_ms": 288880,
+      "name": "Pour Qui Pourquoi",
+      "url": "https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -219,38 +235,6 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "HOP",
-        "url": "https://open.spotify.com/album/3No8sszndBhwqacWUARKAv"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "HOP",
-      "url": "https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "Relaxin' At Camarillo",
-        "url": "https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE"
-      },
-      "artists": [
-        {
-          "name": "Jacob Simon Band",
-          "url": "https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov"
-        }
-      ],
-      "duration_ms": 202903,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/098hhwrTcsdOKOC9Gj78Ny"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
         "name": "On the Second Day",
         "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 272794,
       "name": "On The Second Day",
       "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "H\u00e4ndelse",
+        "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 279974,
+      "name": "Ha\u0308ndelse",
+      "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -291,50 +291,18 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "Soon",
-        "url": "https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu"
+        "name": "Relaxin' At Camarillo",
+        "url": "https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE"
       },
       "artists": [
         {
-          "name": "Eric Rowland",
-          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+          "name": "Jacob Simon Band",
+          "url": "https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov"
         }
       ],
-      "duration_ms": 225145,
-      "name": "Soon",
-      "url": "https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "H\u00e4ndelse",
-        "url": "https://open.spotify.com/album/7qKzuLctXEwic4HiJMDMp4"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 279974,
-      "name": "Ha\u0308ndelse",
-      "url": "https://open.spotify.com/track/6DLfsQt62XFWihmhU5NDo5"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "Gettin' Around",
-        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 422400,
-      "name": "Le Coiffeur",
-      "url": "https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU"
+      "duration_ms": 202903,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/098hhwrTcsdOKOC9Gj78Ny"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -355,6 +323,38 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
+        "name": "Soon",
+        "url": "https://open.spotify.com/album/2SIpgdBZhwz6fYZ0pGMwcu"
+      },
+      "artists": [
+        {
+          "name": "Eric Rowland",
+          "url": "https://open.spotify.com/artist/5FIDlggUrA2hkb9B1MGdK0"
+        }
+      ],
+      "duration_ms": 225145,
+      "name": "Soon",
+      "url": "https://open.spotify.com/track/2HyhUHo9i6tsAEjb8Rjvmk"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "Gettin' Around",
+        "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 422400,
+      "name": "Le Coiffeur",
+      "url": "https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -367,38 +367,6 @@
       "duration_ms": 303293,
       "name": "Blues for Barry Harris",
       "url": "https://open.spotify.com/track/1FMO9vqWdCvuRaO6CBelP5"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "Setembro",
-        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
-      },
-      "artists": [
-        {
-          "name": "CMC 3",
-          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Love Is Here To Stay",
-      "url": "https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "The Spoiler",
-        "url": "https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 364626,
-      "name": "The Magilla",
-      "url": "https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -419,22 +387,34 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "How It Feels Pt. 2",
-        "url": "https://open.spotify.com/album/63cCSdLjj0LDiZTP1WhTcB"
+        "name": "The Spoiler",
+        "url": "https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS"
       },
       "artists": [
         {
-          "name": "Harald Lassen",
-          "url": "https://open.spotify.com/artist/5S7kHKrpKHvzpQSYw9SMx1"
-        },
-        {
-          "name": "Bram de Looze",
-          "url": "https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 266414,
-      "name": "How it feels pt. 2",
-      "url": "https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0"
+      "duration_ms": 364626,
+      "name": "The Magilla",
+      "url": "https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "Setembro",
+        "url": "https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6"
+      },
+      "artists": [
+        {
+          "name": "CMC 3",
+          "url": "https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Love Is Here To Stay",
+      "url": "https://open.spotify.com/track/418awaNpluyE2Lvoh6lD0p"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -451,6 +431,26 @@
       "duration_ms": 354106,
       "name": "Libra",
       "url": "https://open.spotify.com/track/2RvTzd612ENOe4V7YaHzxI"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "How It Feels Pt. 2",
+        "url": "https://open.spotify.com/album/63cCSdLjj0LDiZTP1WhTcB"
+      },
+      "artists": [
+        {
+          "name": "Harald Lassen",
+          "url": "https://open.spotify.com/artist/5S7kHKrpKHvzpQSYw9SMx1"
+        },
+        {
+          "name": "Bram de Looze",
+          "url": "https://open.spotify.com/artist/32c6i6INQivcOe8y7zyKmG"
+        }
+      ],
+      "duration_ms": 266414,
+      "name": "How it feels pt. 2",
+      "url": "https://open.spotify.com/track/4IBfnogykVhpiDLiQ7OPm0"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -491,6 +491,22 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
+        "name": "Seymour Reads the Constitution!",
+        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+        }
+      ],
+      "duration_ms": 495360,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
         "name": "That Old Black Magic",
         "url": "https://open.spotify.com/album/21MsGvFf6FdX3HPB0kCqEQ"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 265093,
       "name": "That Old Black Magic",
       "url": "https://open.spotify.com/track/7hkaJ4CZ3LIDjCVFXAp6N6"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "Relaxin' with Nick",
+        "url": "https://open.spotify.com/album/5KfHqTrCiKqyDiigUkiDST"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 459186,
+      "name": "Relaxin' with Nick",
+      "url": "https://open.spotify.com/track/72WMLhzElYiDPqCf3LbCCx"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -543,34 +575,18 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "Seymour Reads the Constitution!",
-        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
+        "name": "Searching for Jupiter",
+        "url": "https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5"
       },
       "artists": [
         {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
         }
       ],
-      "duration_ms": 495360,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "Relaxin' with Nick",
-        "url": "https://open.spotify.com/album/5KfHqTrCiKqyDiigUkiDST"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 459186,
-      "name": "Relaxin' with Nick",
-      "url": "https://open.spotify.com/track/72WMLhzElYiDPqCf3LbCCx"
+      "duration_ms": 335560,
+      "name": "Happy and the Fall",
+      "url": "https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -591,22 +607,6 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "Searching for Jupiter",
-        "url": "https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5"
-      },
-      "artists": [
-        {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
-        }
-      ],
-      "duration_ms": 335560,
-      "name": "Happy and the Fall",
-      "url": "https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
         "name": "What\u00b4S A Good Boss Anyway",
         "url": "https://open.spotify.com/album/4gPw3yOKIitK4eeOMfE5qW"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 222386,
       "name": "Iron Square Serenade",
       "url": "https://open.spotify.com/track/1kBr4cPekM3UoW77JOzXm0"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "Home Cookin' - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6QzARXbdztTRu42kQigY96"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -655,26 +671,6 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "Let's Call the Whole Thing Off",
-        "url": "https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG"
-      },
-      "artists": [
-        {
-          "name": "Seamus Blake",
-          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
-        },
-        {
-          "name": "Chris Cheek",
-          "url": "https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1"
-        }
-      ],
-      "duration_ms": 331093,
-      "name": "A Little Evil",
-      "url": "https://open.spotify.com/track/253d4aC4Tj6HBzA8mfwcbm"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
         "name": "Barcode",
         "url": "https://open.spotify.com/album/5dHw1e3fXPa7efFkzAR0V8"
       },
@@ -699,18 +695,22 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+        "name": "Let's Call the Whole Thing Off",
+        "url": "https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG"
       },
       "artists": [
         {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+          "name": "Seamus Blake",
+          "url": "https://open.spotify.com/artist/5tGDXwaO3qq4w9mAhZHwZY"
+        },
+        {
+          "name": "Chris Cheek",
+          "url": "https://open.spotify.com/artist/0UNmTLmOIClt5YDeEkZuk1"
         }
       ],
-      "duration_ms": 388160,
-      "name": "Home Cookin' - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6QzARXbdztTRu42kQigY96"
+      "duration_ms": 331093,
+      "name": "A Little Evil",
+      "url": "https://open.spotify.com/track/253d4aC4Tj6HBzA8mfwcbm"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -727,6 +727,22 @@
       "duration_ms": 589053,
       "name": "Konrads Hopp Om Livet",
       "url": "https://open.spotify.com/track/110sjAg7oDeOoZpFnyFHEl"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Play Ray",
+      "url": "https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -767,38 +783,6 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "Kresten Osgood Quintet Plays Jazz",
-        "url": "https://open.spotify.com/album/4CfhpyQmetCkJ8sGrPGnaU"
-      },
-      "artists": [
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "CRAZY WITCH GAME",
-      "url": "https://open.spotify.com/track/5hPQlfdBxE6TSpLzI1Xn3f"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk"
-    },
-    {
-      "added_at": "2021-12-17 14:33:30",
-      "album": {
         "name": "Keepin' It Real",
         "url": "https://open.spotify.com/album/0kdRFLe5A9IvAA81P3yCCZ"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 428333,
       "name": "Keepin' It Real",
       "url": "https://open.spotify.com/track/0RpoxmvBTYAE1wvAliVzjK"
+    },
+    {
+      "added_at": "2021-12-17 14:33:30",
+      "album": {
+        "name": "Kresten Osgood Quintet Plays Jazz",
+        "url": "https://open.spotify.com/album/4CfhpyQmetCkJ8sGrPGnaU"
+      },
+      "artists": [
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "CRAZY WITCH GAME",
+      "url": "https://open.spotify.com/track/5hPQlfdBxE6TSpLzI1Xn3f"
     },
     {
       "added_at": "2021-12-17 14:33:30",
@@ -851,26 +851,18 @@
     {
       "added_at": "2021-12-17 14:33:30",
       "album": {
-        "name": "Sonny Side Up",
-        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 850493,
-      "name": "The Eternal Triangle",
-      "url": "https://open.spotify.com/track/7mV4LigxLh80JjZlSxEd9M"
+      "duration_ms": 486573,
+      "name": "Smile, Stacey - Remastered",
+      "url": "https://open.spotify.com/track/2ssA3VT7tzLDtF1wKgouiX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm"

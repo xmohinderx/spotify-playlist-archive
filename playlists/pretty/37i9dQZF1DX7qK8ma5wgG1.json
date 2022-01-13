@@ -1,12 +1,12 @@
 {
   "description": "Beautiful songs to break your heart...",
   "name": "Sad Songs",
-  "num_followers": 1320698,
+  "num_followers": 1321132,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg0NDIyMSwwMDAwMDA4ZDAwMDAwMTdlNDU4YWE2MDAwMDAwMDE3MTU5NjI5ZDI4",
+  "snapshot_id": "MTY0MTk4MzcwOSwwMDAwMDA4ZTAwMDAwMTdlNGRkYjExZWYwMDAwMDE3MTU5NjI5ZDI4",
   "tracks": [
     {
       "added_at": "2022-01-10 19:50:21",
@@ -239,6 +239,22 @@
       "duration_ms": 262960,
       "name": "we'll be fine",
       "url": "https://open.spotify.com/track/4TRL1Y8sOR54I3AvRzUZHk"
+    },
+    {
+      "added_at": "2022-01-12 10:35:09",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY"
     },
     {
       "added_at": "2022-01-10 19:50:21",

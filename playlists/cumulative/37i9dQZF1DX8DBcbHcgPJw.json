@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "+ Linda",
+        "url": "https://open.spotify.com/album/2stJKel5pXx95xB8eJ9VZD"
+      },
+      "artists": [
+        {
+          "name": "Magoman",
+          "url": "https://open.spotify.com/artist/17SbOgrrSKZHSTi3zEDNWc"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "+ Linda",
+      "url": "https://open.spotify.com/track/0SJuogi27oz6YaJUXVAdRb"
+    },
+    {
+      "album": {
         "name": "2 Pa' 2",
         "url": "https://open.spotify.com/album/6Mp4YC9YfYpNzKSUgd7BQs"
       },
@@ -73,7 +91,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 155440,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/34UY8RBOleI0Kr6UMaLHFr"
@@ -91,7 +109,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 121500,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/3eaJ3AT7TTyNRy9h8HdNSD"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 185319,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/2C5pko3DlZKXjg74AsZEbN"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 296842,
       "name": "Eres / Me Vas a Extra\u00f1ar / Desesperado - En Vivo",
       "url": "https://open.spotify.com/track/46Q868d09swJSRaZYMNYjE"
@@ -1199,7 +1217,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 475951,
       "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
       "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
@@ -1327,6 +1345,28 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/3gEebOzxHpEwElicl1XBy0"
+    },
+    {
+      "album": {
+        "name": "La Seca",
+        "url": "https://open.spotify.com/album/2WrKmtnD25tbOPpEzVIoNM"
+      },
+      "artists": [
+        {
+          "name": "Marito Davila",
+          "url": "https://open.spotify.com/artist/1YCxEcWL2M3zamrQzFOsCJ"
+        },
+        {
+          "name": "Favio Donoban",
+          "url": "https://open.spotify.com/artist/6iyMMyLle9Vh0ldfQcZ7pn"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172362,
+      "name": "La Seca",
+      "url": "https://open.spotify.com/track/212atzdChxRykS70unZwOK"
     },
     {
       "album": {
@@ -1465,7 +1505,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 165759,
       "name": "Lo Intentamos",
       "url": "https://open.spotify.com/track/4Kzk0koKwzCMiIx4rAqCZp"
@@ -1585,7 +1625,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 151224,
       "name": "Mal Acostumbrao",
       "url": "https://open.spotify.com/track/3ZTtpEG8evPvNTiKJYbDTO"
@@ -2177,7 +2217,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 185431,
       "name": "Pasarla Bien",
       "url": "https://open.spotify.com/track/0ZzVPCGdkpKcxAzMNDD5UZ"
@@ -2307,7 +2347,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 185118,
       "name": "Ponte Pa' Mix",
       "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
@@ -2359,6 +2399,24 @@
       "duration_ms": 199262,
       "name": "Procuro Olvidarte - Remix",
       "url": "https://open.spotify.com/track/2650m8ktV7TWj076k8eER0"
+    },
+    {
+      "album": {
+        "name": "Puntos Suspensivos",
+        "url": "https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K"
+      },
+      "artists": [
+        {
+          "name": "Latam Sonora",
+          "url": "https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170562,
+      "name": "Puntos Suspensivos",
+      "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
     },
     {
       "album": {
@@ -2527,7 +2585,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 193608,
       "name": "Rompi",
       "url": "https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P"
@@ -2575,7 +2633,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 201000,
       "name": "Se Pone Loca",
       "url": "https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4"
@@ -2751,7 +2809,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 169381,
       "name": "Sin Respuestas",
       "url": "https://open.spotify.com/track/3INVByGTLMiv8p3Jax1w98"
@@ -2809,7 +2867,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 125729,
       "name": "Su\u00e9ltate",
       "url": "https://open.spotify.com/track/2sCmI627F3eynMnW15kuen"
@@ -2973,7 +3031,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
@@ -3071,7 +3129,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 132675,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/5BMaLGInRPhdskYN7jPm4e"
@@ -3133,7 +3191,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 238173,
       "name": "Una Cerveza - Versi\u00f3n 2018",
       "url": "https://open.spotify.com/track/2uViGylyj39rq8G0pqyX9y"
@@ -3235,7 +3293,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 205672,
       "name": "Ya No Me Busques Mas",
       "url": "https://open.spotify.com/track/35dWddcU7c8iyXqthtCabc"

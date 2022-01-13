@@ -354,6 +354,24 @@
     },
     {
       "album": {
+        "name": "Enjoy the Silence",
+        "url": "https://open.spotify.com/album/07u9PipIdLMHFX2wq3JHNG"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148369,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/43i4sdTLCnalaVPtXsIeSp"
+    },
+    {
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/1eimuVUOPwbNWayTLn82YR"
       },
@@ -647,6 +665,24 @@
       "duration_ms": 162783,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/0mMc1o5pBIL7jgnibS6VFP"
+    },
+    {
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141286,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Cover: ODD MAMI",
+  "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. Cover: El General Villamil",
   "name": "Fresh Finds Latin",
   "published_playlist_ids": [
     "3bExY6e3wLROXTtlrvGceS"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 176703,
       "name": "Buena Vibra",
       "url": "https://open.spotify.com/track/4mMu1S53cRALHeKSqXtuNg"
@@ -694,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Los Problemas",
+        "url": "https://open.spotify.com/album/4NVbEhH5HQRzXHxUasSkJK"
+      },
+      "artists": [
+        {
+          "name": "Los Dioses Del Ritmo",
+          "url": "https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137731,
+      "name": "Los Problemas",
+      "url": "https://open.spotify.com/track/4pfPijo1EYEPxdW5tUHB5T"
+    },
+    {
+      "album": {
         "name": "Lqi",
         "url": "https://open.spotify.com/album/61WopxABfhQI5z7f2d13Lr"
       },
@@ -901,7 +919,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 136624,
       "name": "Moscatel",
       "url": "https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb"
@@ -1082,6 +1100,28 @@
     },
     {
       "album": {
+        "name": "Passionfruit\u00e9e",
+        "url": "https://open.spotify.com/album/4BDI90LgJJdcJ47ThAVOaX"
+      },
+      "artists": [
+        {
+          "name": "Pierre Cruz",
+          "url": "https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx"
+        },
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Prefiero Morir",
+      "url": "https://open.spotify.com/track/0IyHX1zPc5SnLTH0W2gX4F"
+    },
+    {
+      "album": {
         "name": "Peque\u00f1o C\u00edrculo Azul",
         "url": "https://open.spotify.com/album/7wfrnvnbMtrxxRodxUF9eW"
       },
@@ -1111,7 +1151,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 150280,
       "name": "Pura Realidad",
       "url": "https://open.spotify.com/track/1lDLQkzpPXxk3yc3BJwe71"
@@ -1133,6 +1173,24 @@
       "duration_ms": 142516,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/58r843NDpyDVVvd6In95g3"
+    },
+    {
+      "album": {
+        "name": "Sasha Tres",
+        "url": "https://open.spotify.com/album/2f2ev6NcIchqIs70LQufuw"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195944,
+      "name": "Sasha Tres",
+      "url": "https://open.spotify.com/track/0ePFzcKSHLIjq2BQLCIhph"
     },
     {
       "album": {
@@ -1219,7 +1277,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 194049,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/19SpcaDniFHog721yhaSUW"
@@ -1425,6 +1483,24 @@
       "duration_ms": 235263,
       "name": "V\u00e9rtices",
       "url": "https://open.spotify.com/track/4b7IBgXC4SVKTXMEqhcuXb"
+    },
+    {
+      "album": {
+        "name": "INDI",
+        "url": "https://open.spotify.com/album/2MTgEMDPKeh59QbWmg4GOj"
+      },
+      "artists": [
+        {
+          "name": "foto***HOTEL",
+          "url": "https://open.spotify.com/artist/2jtSwVJ6wNf5WsKGgvmf05"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248793,
+      "name": "Ya Nadie Es Fiel",
+      "url": "https://open.spotify.com/track/1Kt1y8BzYmySAniktkYOps"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXagUeYbNSnOA"

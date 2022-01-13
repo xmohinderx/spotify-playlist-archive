@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 
 > The right music can make a good tailgate great.
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,577 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,518 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgnLr18vPvu.md) - [plain]
 | 99 | [Best Shot](https://open.spotify.com/track/2ZYbPXhx4OCmdTsMThbSEW) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Jimmie Allen](https://open.spotify.com/album/6reztlkm13gUTEEDvbeneP) | 3:15 |
 | 100 | [Freedom Was A Highway](https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Bettie James](https://open.spotify.com/album/7wftPNQFSMYlpxzNMPHo1h) | 3:32 |
 
-Snapshot ID: `MTYzOTY4ODU1NiwwMDAwMDA0ZDAwMDAwMTdkYzUwZGQwMTEwMDAwMDE3ZGJmZDM3MTRj`
+Snapshot ID: `MTY0MTk2MjM5NiwwMDAwMDA0ZTAwMDAwMTdlNGM5NWRjZGEwMDAwMDE3ZTRjOTJhNzM5`

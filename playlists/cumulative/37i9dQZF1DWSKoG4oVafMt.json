@@ -222,6 +222,32 @@
     },
     {
       "album": {
+        "name": "Gaani",
+        "url": "https://open.spotify.com/album/772wLGKJbEF0WeClAQ4g40"
+      },
+      "artists": [
+        {
+          "name": "Ranjit Bawa",
+          "url": "https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60660,
+      "name": "Gaani",
+      "url": "https://open.spotify.com/track/4q1ESZkZKH3D4K89G6Kjfm"
+    },
+    {
+      "album": {
         "name": "Gallan Baatan",
         "url": "https://open.spotify.com/album/0PxRLUKODqDGCLB9aJBDbX"
       },
@@ -307,6 +333,24 @@
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
+    },
+    {
+      "album": {
+        "name": "Jhalleya Dila",
+        "url": "https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa"
+      },
+      "artists": [
+        {
+          "name": "Noor Chahal",
+          "url": "https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201279,
+      "name": "Jhalleya Dila",
+      "url": "https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X"
     },
     {
       "album": {

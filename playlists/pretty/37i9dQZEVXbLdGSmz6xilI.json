@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
-  "num_followers": 68376,
+  "num_followers": 68408,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1MjA5NjU3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1MzIwOTE3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/7nGWgyDCDbNLpL00j0dIup"
-      },
-      "artists": [
-        {
-          "name": "K-ICM",
-          "url": "https://open.spotify.com/artist/034TvUuMhSDcgJzjb2Jxuq"
-        }
-      ],
-      "duration_ms": 177229,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/4OXtP0DpAoBW5iqiWPqKd8"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Mang Ti\u1ec1n V\u1ec1 Cho M\u1eb9",
         "url": "https://open.spotify.com/album/1PcVnGylH7vOraRn4mGSF5"
@@ -45,7 +29,7 @@
       "url": "https://open.spotify.com/track/57lYw21pS9FprSeJimskIC"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Music Of The Spheres",
         "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
@@ -65,7 +49,23 @@
       "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Permission to Dance",
+        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 187585,
+      "name": "Permission to Dance",
+      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Gieo Qu\u1ebb",
         "url": "https://open.spotify.com/album/1cvlu9FQk5dawfuyZErjuO"
@@ -85,23 +85,7 @@
       "url": "https://open.spotify.com/track/7lkWAB0Ru7WEa0mkdgiqJG"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA"
-      },
-      "artists": [
-        {
-          "name": "Th\u1ecbnh Suy",
-          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "tiny love",
-      "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Butter (Hotter, Sweeter, Cooler)",
         "url": "https://open.spotify.com/album/0PBQ3Cp6NG8WX0G9KQVNMP"
@@ -117,7 +101,39 @@
       "url": "https://open.spotify.com/track/1mWdTewIgB3gtBM3TOSFhB"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/7nGWgyDCDbNLpL00j0dIup"
+      },
+      "artists": [
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/034TvUuMhSDcgJzjb2Jxuq"
+        }
+      ],
+      "duration_ms": 177229,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4OXtP0DpAoBW5iqiWPqKd8"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "The Best Of BTS (Korea Edition)",
+        "url": "https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "We Are Bulletproof, Pt. 2",
+      "url": "https://open.spotify.com/track/6KvxKIvaUtWN5BHkuKU7wZ"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Mu\u1ed9n R\u1ed3i M\u00e0 Sao C\u00f2n",
         "url": "https://open.spotify.com/album/33Iz5SghJnJ9iM0xIWCS3M"
@@ -133,39 +149,23 @@
       "url": "https://open.spotify.com/track/5fFLotKS1286huYIMQHqz7"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "B\u01b0\u1edbc Qua Nhau",
-        "url": "https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU"
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA"
       },
       "artists": [
         {
-          "name": "V\u0169.",
-          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
         }
       ],
-      "duration_ms": 257647,
-      "name": "B\u01b0\u1edbc Qua Nhau",
-      "url": "https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH"
+      "duration_ms": 158400,
+      "name": "tiny love",
+      "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "BE",
-        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Ch\u00fang Ta C\u1ee7a Hi\u1ec7n T\u1ea1i",
         "url": "https://open.spotify.com/album/6oT0WOEPWOxsa2Vmnkxwxa"
@@ -181,7 +181,39 @@
       "url": "https://open.spotify.com/track/17iGUekw5nFt5mIRJcUm3R"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "B\u01b0\u1edbc Qua Nhau",
+        "url": "https://open.spotify.com/album/1kEjHdHNnYIv7CPF4fK8gU"
+      },
+      "artists": [
+        {
+          "name": "V\u0169.",
+          "url": "https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs"
+        }
+      ],
+      "duration_ms": 257647,
+      "name": "B\u01b0\u1edbc Qua Nhau",
+      "url": "https://open.spotify.com/track/6GJi4nSZOiTOU2FhsgxWyH"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 5",
         "url": "https://open.spotify.com/album/4210mSQ3r10AsJMZEYAH5l"
@@ -197,23 +229,7 @@
       "url": "https://open.spotify.com/track/186NCtNk1tUYS7c2DxgJ7O"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Permission to Dance",
-        "url": "https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 187585,
-      "name": "Permission to Dance",
-      "url": "https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -233,7 +249,63 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "L\u1eddi N\u00f3i D\u1ed1i Sau N\u1ee5 C\u01b0\u1eddi",
+        "url": "https://open.spotify.com/album/1WdiXcA8TMysdVCzqSfqyN"
+      },
+      "artists": [
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
+        }
+      ],
+      "duration_ms": 306306,
+      "name": "L\u1eddi N\u00f3i D\u1ed1i Sau N\u1ee5 C\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/6Vx29sLFwzT8yvRhzP2Fge"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Kh\u00f4ng Mu\u1ed1n M\u1ed9t M\u00ecnh",
+        "url": "https://open.spotify.com/album/12cGGhPmZvMs2cjhVcy2ZV"
+      },
+      "artists": [
+        {
+          "name": "Vicky Nhung",
+          "url": "https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb"
+        },
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
+        }
+      ],
+      "duration_ms": 210323,
+      "name": "Kh\u00f4ng Mu\u1ed1n M\u1ed9t M\u00ecnh",
+      "url": "https://open.spotify.com/track/7JWa8tcjothiOfTVUUbuzL"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Chim Qu\u00fd Trong L\u1ed3ng",
+        "url": "https://open.spotify.com/album/7fAuiKEXShx0pGXYWmNTQi"
+      },
+      "artists": [
+        {
+          "name": "K-ICM",
+          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
+        },
+        {
+          "name": "V\u0103n Mai H\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
+        }
+      ],
+      "duration_ms": 343061,
+      "name": "Chim Qu\u00fd Trong L\u1ed3ng",
+      "url": "https://open.spotify.com/track/4KLmT1bU7eyEBe35FzEjbd"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Over The Moon",
         "url": "https://open.spotify.com/album/4bC0p7T5Wy2kqCuQ0uK4D7"
@@ -249,7 +321,7 @@
       "url": "https://open.spotify.com/track/54UNNgtE3zzERwTuWSQLqd"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Fighting Demons",
         "url": "https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT"
@@ -273,7 +345,7 @@
       "url": "https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "\u0110i V\u1ec1 Nh\u00e0",
         "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
@@ -293,39 +365,7 @@
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
-      },
-      "artists": [
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
-      },
-      "artists": [
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        }
-      ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Bu\u1ed3n Th\u00ec C\u1ee9 Kh\u00f3c \u0110i",
         "url": "https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA"
@@ -341,7 +381,39 @@
       "url": "https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "B\u01b0\u1edbc Qua M\u00f9a C\u00f4 \u0110\u01a1n",
         "url": "https://open.spotify.com/album/5eZM5D8F9yNZvsE4uC2l1s"
@@ -357,7 +429,7 @@
       "url": "https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "An Th\u1ea7n",
         "url": "https://open.spotify.com/album/1GZA9k0UojVkU7KFoVVRlC"
@@ -377,23 +449,7 @@
       "url": "https://open.spotify.com/track/5T6j0rfpCDBzAxC8Fpd0N7"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "L\u1eddi N\u00f3i D\u1ed1i Sau N\u1ee5 C\u01b0\u1eddi",
-        "url": "https://open.spotify.com/album/1WdiXcA8TMysdVCzqSfqyN"
-      },
-      "artists": [
-        {
-          "name": "K-ICM",
-          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
-        }
-      ],
-      "duration_ms": 306306,
-      "name": "L\u1eddi N\u00f3i D\u1ed1i Sau N\u1ee5 C\u01b0\u1eddi",
-      "url": "https://open.spotify.com/track/6Vx29sLFwzT8yvRhzP2Fge"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "3107 3 (feat. N\u00e2u, titie, D\u01b0\u01a1ngg)",
         "url": "https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb"
@@ -421,7 +477,23 @@
       "url": "https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS"
+      },
+      "artists": [
+        {
+          "name": "Hoang Dung",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "duration_ms": 254476,
+      "name": "N\u00e0ng Th\u01a1",
+      "url": "https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "3 1 0 7 (feat. Duongg & N\u00e2u)",
         "url": "https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK"
@@ -445,91 +517,7 @@
       "url": "https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Kh\u00f4ng Mu\u1ed1n M\u1ed9t M\u00ecnh",
-        "url": "https://open.spotify.com/album/12cGGhPmZvMs2cjhVcy2ZV"
-      },
-      "artists": [
-        {
-          "name": "Vicky Nhung",
-          "url": "https://open.spotify.com/artist/0OECMkZp1koXqQLQrMizHb"
-        },
-        {
-          "name": "K-ICM",
-          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
-        }
-      ],
-      "duration_ms": 210323,
-      "name": "Kh\u00f4ng Mu\u1ed1n M\u1ed9t M\u00ecnh",
-      "url": "https://open.spotify.com/track/7JWa8tcjothiOfTVUUbuzL"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS"
-      },
-      "artists": [
-        {
-          "name": "Hoang Dung",
-          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
-        }
-      ],
-      "duration_ms": 254476,
-      "name": "N\u00e0ng Th\u01a1",
-      "url": "https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "To The Moon",
-        "url": "https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd"
-      },
-      "artists": [
-        {
-          "name": "hooligan.",
-          "url": "https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx"
-        }
-      ],
-      "duration_ms": 201507,
-      "name": "To The Moon",
-      "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "4 ONLY",
-        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 240906,
-      "name": "ONLY",
-      "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "L\u1ed1i Nh\u1ecf",
         "url": "https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N"
@@ -549,23 +537,39 @@
       "url": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 240906,
+      "name": "ONLY",
+      "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "C\u1ee9 Chill Th\u00f4i",
         "url": "https://open.spotify.com/album/7FEh6eJumH2tqhXKfQ5Tul"
@@ -589,47 +593,39 @@
       "url": "https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
-        "url": "https://open.spotify.com/album/5HvdagjBVavfnbMK4s1729"
+        "name": "To The Moon",
+        "url": "https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd"
       },
       "artists": [
         {
-          "name": "T\u00f3c Ti\u00ean",
-          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
-        },
-        {
-          "name": "Ng\u01b0\u1eddi c\u0169",
-          "url": "https://open.spotify.com/artist/17tMDCxssUUhEVWExf8y8N"
+          "name": "hooligan.",
+          "url": "https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx"
         }
       ],
-      "duration_ms": 200337,
-      "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
-      "url": "https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe"
+      "duration_ms": 201507,
+      "name": "To The Moon",
+      "url": "https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "Chim Qu\u00fd Trong L\u1ed3ng",
-        "url": "https://open.spotify.com/album/7fAuiKEXShx0pGXYWmNTQi"
+        "name": "Dark & Wild",
+        "url": "https://open.spotify.com/album/35voVqYGkotyJ945O9egDY"
       },
       "artists": [
         {
-          "name": "K-ICM",
-          "url": "https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq"
-        },
-        {
-          "name": "V\u0103n Mai H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 343061,
-      "name": "Chim Qu\u00fd Trong L\u1ed3ng",
-      "url": "https://open.spotify.com/track/4KLmT1bU7eyEBe35FzEjbd"
+      "duration_ms": 41757,
+      "name": "Interlude: What Are You Doing Now",
+      "url": "https://open.spotify.com/track/6w5nte2isfv5QLImckFD8a"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "double take",
         "url": "https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q"
@@ -645,7 +641,7 @@
       "url": "https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "G\u00e1c L\u1ea1i \u00c2u Lo",
         "url": "https://open.spotify.com/album/510WT3clDw7bTqUcorerQX"
@@ -665,23 +661,7 @@
       "url": "https://open.spotify.com/track/1mKDbug8bbfDmLe7I4CJpe"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
-        "url": "https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg"
-      },
-      "artists": [
-        {
-          "name": "Wren Evans",
-          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
-        }
-      ],
-      "duration_ms": 171741,
-      "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
-      "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
@@ -697,39 +677,75 @@
       "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "PINK PLANET",
-        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+        "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
+        "url": "https://open.spotify.com/album/5HvdagjBVavfnbMK4s1729"
       },
       "artists": [
         {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+          "name": "T\u00f3c Ti\u00ean",
+          "url": "https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC"
+        },
+        {
+          "name": "Ng\u01b0\u1eddi c\u0169",
+          "url": "https://open.spotify.com/artist/17tMDCxssUUhEVWExf8y8N"
         }
       ],
-      "duration_ms": 170344,
-      "name": "At My Worst",
-      "url": "https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH"
+      "duration_ms": 200337,
+      "name": "Em \u0110\u00e3 C\u00f3 Ng\u01b0\u1eddi M\u1edbi (feat. Ng\u01b0\u1eddi c\u0169)",
+      "url": "https://open.spotify.com/track/2BqQ5ZM73pNugfd6NteCPe"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "D\u1ecbu D\u00e0ng Em \u0110\u1ebfn",
-        "url": "https://open.spotify.com/album/7EDzv1QVhowskAgwxtx3HT"
+        "name": "Chuy\u1ec7n R\u1eb1ng",
+        "url": "https://open.spotify.com/album/5luCD1OBB8iHHhaSaOLHGz"
       },
       "artists": [
         {
-          "name": "ERIK",
-          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
         }
       ],
-      "duration_ms": 185000,
-      "name": "D\u1ecbu D\u00e0ng Em \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c"
+      "duration_ms": 272152,
+      "name": "Chuy\u1ec7n R\u1eb1ng",
+      "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
+        "url": "https://open.spotify.com/album/0Xxw1ohJW7S8b3ezJorYHg"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        }
+      ],
+      "duration_ms": 171741,
+      "name": "Th\u00edch Em H\u01a1i Nhi\u1ec1u",
+      "url": "https://open.spotify.com/track/45Mswno1F7FoZkcmQkp7fi"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "S\u00e0i G\u00f2n H\u00f4m Nay M\u01b0a",
         "url": "https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX"
@@ -749,23 +765,39 @@
       "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "Chuy\u1ec7n R\u1eb1ng",
-        "url": "https://open.spotify.com/album/5luCD1OBB8iHHhaSaOLHGz"
+        "name": "D\u1ecbu D\u00e0ng Em \u0110\u1ebfn",
+        "url": "https://open.spotify.com/album/7EDzv1QVhowskAgwxtx3HT"
       },
       "artists": [
         {
-          "name": "Th\u1ecbnh Suy",
-          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+          "name": "ERIK",
+          "url": "https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U"
         }
       ],
-      "duration_ms": 272152,
-      "name": "Chuy\u1ec7n R\u1eb1ng",
-      "url": "https://open.spotify.com/track/7oBUoEbCDF748UkHnLusUB"
+      "duration_ms": 185000,
+      "name": "D\u1ecbu D\u00e0ng Em \u0110\u1ebfn",
+      "url": "https://open.spotify.com/track/63q4o5Nh1ykbhdo4rKEW9c"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "PINK PLANET",
+        "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 170344,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/2MJz8BxxMsERULatmBikDH"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -781,23 +813,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
-        "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
-      },
-      "artists": [
-        {
-          "name": "buitruonglinh",
-          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
-        }
-      ],
-      "duration_ms": 233975,
-      "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
-      "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
         "url": "https://open.spotify.com/album/5vJ5JDNypTPlAc5yv3du8s"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "T\u00ecnh \u0110\u1eafng Nh\u01b0 Ly C\u00e0 Ph\u00ea",
         "url": "https://open.spotify.com/album/4HEIdDrqHTU5Bocyc47BqI"
@@ -837,47 +853,7 @@
       "url": "https://open.spotify.com/track/2WOpp4vm16unl0N3i3BNNv"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Th\u00f3i Quen (25 m\u00e9t vu\u00f4ng) [feat. Gducky]",
-        "url": "https://open.spotify.com/album/4SklM9raXlTECzXLjwTAlR"
-      },
-      "artists": [
-        {
-          "name": "Hoang Dung",
-          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
-        },
-        {
-          "name": "GDucky",
-          "url": "https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW"
-        }
-      ],
-      "duration_ms": 279857,
-      "name": "Th\u00f3i Quen (25 M\u00e9t Vu\u00f4ng) [feat. Gducky]",
-      "url": "https://open.spotify.com/track/1Dyf0sRNi4bns4TeWgKpVY"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
-      "album": {
-        "name": "Khi Em L\u1edbn",
-        "url": "https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU"
-      },
-      "artists": [
-        {
-          "name": "Orange",
-          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
-        },
-        {
-          "name": "Hoang Dung",
-          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
-        }
-      ],
-      "duration_ms": 228094,
-      "name": "Khi Em L\u1edbn",
-      "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
-    },
-    {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -897,24 +873,40 @@
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
-      "added_at": "2022-01-11 09:47:37",
+      "added_at": "2022-01-12 16:41:57",
       "album": {
-        "name": "Tr\u1ed1n T\u00ecm",
-        "url": "https://open.spotify.com/album/1OWSGECq2oKMojwFp0EFvJ"
+        "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
+        "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
       },
       "artists": [
         {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "MTV band",
-          "url": "https://open.spotify.com/artist/4yPMFGDr3rHwOyyS634Rzd"
+          "name": "buitruonglinh",
+          "url": "https://open.spotify.com/artist/7Cp2hGcriAaDUAWpXnSEwm"
         }
       ],
-      "duration_ms": 248870,
-      "name": "Tr\u1ed1n T\u00ecm",
-      "url": "https://open.spotify.com/track/34uOIsoy6ETS2sxOTWBRDF"
+      "duration_ms": 233975,
+      "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
+      "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
+    },
+    {
+      "added_at": "2022-01-12 16:41:57",
+      "album": {
+        "name": "Khi Em L\u1edbn",
+        "url": "https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        },
+        {
+          "name": "Hoang Dung",
+          "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+        }
+      ],
+      "duration_ms": 228094,
+      "name": "Khi Em L\u1edbn",
+      "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbLdGSmz6xilI"

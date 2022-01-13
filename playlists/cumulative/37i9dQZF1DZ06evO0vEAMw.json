@@ -836,6 +836,24 @@
     },
     {
       "album": {
+        "name": "Owo Ni Koko",
+        "url": "https://open.spotify.com/album/4rwPFgP23IUYqriM6kBV3O"
+      },
+      "artists": [
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205388,
+      "name": "Owo Ni Koko",
+      "url": "https://open.spotify.com/track/3umUZmrbG4mQpqKDqdn7hI"
+    },
+    {
+      "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/4QKaoPynmreMExrmIU4Nz0"
       },
@@ -877,7 +895,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 217154,
       "name": "Ride for You",
       "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 173012,
       "name": "Something Fishy",
       "url": "https://open.spotify.com/track/1dQCpX5OFr0IV5OeCTkyvJ"
@@ -1245,7 +1263,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 164102,
       "name": "Very Special",
       "url": "https://open.spotify.com/track/5n5bwxW0hfUIxESGoyY7s1"

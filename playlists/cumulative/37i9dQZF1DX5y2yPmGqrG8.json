@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Selected Ambient Works Volume II",
+        "url": "https://open.spotify.com/album/17vHPMmoxN5B8cdhCDeMTe"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464293,
+      "name": "#3",
+      "url": "https://open.spotify.com/track/2Bc4llhjJBW77I552RgA3L"
+    },
+    {
+      "album": {
         "name": "Rio Nilo 66",
         "url": "https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz"
       },
@@ -23,7 +41,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 491371,
       "name": "1/2 SCULPTURE",
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
@@ -77,7 +95,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 396688,
       "name": "A Shimmer",
       "url": "https://open.spotify.com/track/09F0zRNSUa0qAWYUksXtXt"
@@ -229,7 +247,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 187810,
       "name": "Answering Now",
       "url": "https://open.spotify.com/track/5XTADVFUNk1YvRCmYdV7xt"
@@ -375,7 +393,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 460949,
       "name": "Atoms Song",
       "url": "https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 360000,
       "name": "Badwater Psalm - Khotin Remix",
       "url": "https://open.spotify.com/track/5SekNmby1zOV9m9wB2d7ZO"
@@ -494,6 +512,24 @@
     },
     {
       "album": {
+        "name": "Brace/Mend",
+        "url": "https://open.spotify.com/album/3Ss0T3XxCCEBLRW9FIL9qD"
+      },
+      "artists": [
+        {
+          "name": "Lucy Duncombe",
+          "url": "https://open.spotify.com/artist/3It68RTn83sr4CoAGN4ZWQ"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 538453,
+      "name": "Brace",
+      "url": "https://open.spotify.com/track/2wbfjovJCZZJmNq1pUy0pq"
+    },
+    {
+      "album": {
         "name": "Broken Hearted Kota",
         "url": "https://open.spotify.com/album/5lMXsZtAMCRodyRAeKvDjt"
       },
@@ -505,7 +541,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 311906,
       "name": "Broken Hearted Kota",
       "url": "https://open.spotify.com/track/3JV9KTvErBJzQi9Wcr7ouR"
@@ -607,7 +643,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 262920,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/3Lbh8U2HMWa1CD7GK5wEQf"
@@ -637,6 +673,46 @@
       "duration_ms": 376665,
       "name": "Chapter 4",
       "url": "https://open.spotify.com/track/6XWiThbLHP7esAMc5EdLtH"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/045jhBuqmI4EXPrtKY3RbD"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476689,
+      "name": "CHIAROSCURO",
+      "url": "https://open.spotify.com/track/7kdc3HHWBRY4aUxFdgFRJD"
+    },
+    {
+      "album": {
+        "name": "INTROSPECTIO",
+        "url": "https://open.spotify.com/album/3CigtIBWnb5taxN4nlSFRQ"
+      },
+      "artists": [
+        {
+          "name": "Mario Batkovic",
+          "url": "https://open.spotify.com/artist/3lLjSS7VP84aQ1fwX3Vbqz"
+        },
+        {
+          "name": "James Holden",
+          "url": "https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307826,
+      "name": "CHOREA DUPLEX",
+      "url": "https://open.spotify.com/track/3Nu4GIq6P0HrvzGFmhpGAE"
     },
     {
       "album": {
@@ -687,7 +763,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 139867,
       "name": "clarity",
       "url": "https://open.spotify.com/track/7smjNSQAciZfQHDyF1Nxp2"
@@ -765,7 +841,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 354843,
       "name": "cul de sac",
       "url": "https://open.spotify.com/track/17EwIxh2j0710mB2lGO10p"
@@ -801,7 +877,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 401997,
       "name": "Dark blue",
       "url": "https://open.spotify.com/track/4Pb4Z8GOxeUCBBvjOoaRkD"
@@ -837,7 +913,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 317683,
       "name": "Dust Circles",
       "url": "https://open.spotify.com/track/1aP2qFyy1QUYJkWryKypCv"
@@ -949,7 +1025,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 295500,
       "name": "Fen",
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
@@ -967,10 +1043,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 468500,
       "name": "Flying to America",
       "url": "https://open.spotify.com/track/4sWXp7FHiusy8V0b6klQKp"
+    },
+    {
+      "album": {
+        "name": "Krasz",
+        "url": "https://open.spotify.com/album/6q6jFy6zI7GZaHKltHbiLH"
+      },
+      "artists": [
+        {
+          "name": "Jacek Sienkiewicz",
+          "url": "https://open.spotify.com/artist/5rmOkK7yIwlt5NAJDElVgu"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291493,
+      "name": "G303",
+      "url": "https://open.spotify.com/track/2GRIzdua1CF9g7Kbwr9znw"
     },
     {
       "album": {
@@ -1105,7 +1199,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 369400,
       "name": "Honey",
       "url": "https://open.spotify.com/track/70iTotURNOZOTMi7hWnk3F"
@@ -1199,7 +1293,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 262373,
       "name": "Illusion Of Time",
       "url": "https://open.spotify.com/track/3dQiW5N2mVmYSmpI2suOIA"
@@ -1388,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Celestial Greens",
+        "url": "https://open.spotify.com/album/7cj9GeDDwhl4o4iAZ7OECO"
+      },
+      "artists": [
+        {
+          "name": "Vels Trio",
+          "url": "https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240282,
+      "name": "May As Well Be",
+      "url": "https://open.spotify.com/track/3bPrZswZF1OiWToRkgB7i8"
+    },
+    {
+      "album": {
         "name": "Missing Men",
         "url": "https://open.spotify.com/album/5urIxXFHhxOdGhz2QLU8oQ"
       },
@@ -1399,7 +1511,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 192660,
       "name": "Missing Men",
       "url": "https://open.spotify.com/track/6oDJzR2ccgDdFzSfXojGvU"
@@ -1421,7 +1533,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 216899,
       "name": "Mouthfeel 2",
       "url": "https://open.spotify.com/track/42dJxpG0YNmPDs1G6TlNNh"
@@ -1747,7 +1859,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 235093,
       "name": "Rivers That You Cannot See",
       "url": "https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K"
@@ -1765,10 +1877,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 349986,
       "name": "Rose",
       "url": "https://open.spotify.com/track/6u6WPjPfclr4EdTGgZb7Au"
+    },
+    {
+      "album": {
+        "name": "Section 1 (1-20)",
+        "url": "https://open.spotify.com/album/2vIurb33LX4bEBvqF3HWl5"
+      },
+      "artists": [
+        {
+          "name": "ACT!",
+          "url": "https://open.spotify.com/artist/7eo9Ms5IrkdQxAMbeQTQFk"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Section 1 (1-20)",
+      "url": "https://open.spotify.com/track/00CF9fNnuG6QqljLfZEMXw"
     },
     {
       "album": {
@@ -1873,7 +2003,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL"
@@ -1997,7 +2127,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 159158,
       "name": "The Pillow Sisters",
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
@@ -2085,7 +2215,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 574733,
       "name": "The Spiral Arm",
       "url": "https://open.spotify.com/track/4JelNUX3kAxeekniPVGCsd"
@@ -2103,7 +2233,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 390720,
       "name": "The Unquestioned Answer",
       "url": "https://open.spotify.com/track/5ftgOffbWhT3hYtQXNEPou"
@@ -2259,7 +2389,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 245533,
       "name": "Zamami",
       "url": "https://open.spotify.com/track/7K8eTIxgAaPpmyg8bC17pi"
@@ -2277,7 +2407,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 306700,
       "name": "\u30b6\u30fb\u30df\u30e9\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ"

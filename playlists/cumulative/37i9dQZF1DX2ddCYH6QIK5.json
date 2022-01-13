@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: SCHATZI, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: ZUSTRA, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 128731,
       "name": "Artist",
       "url": "https://open.spotify.com/track/0KE7stt2dZpcovegDpJoik"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 167000,
       "name": "Asbest",
       "url": "https://open.spotify.com/track/3CSgwRXolXEDRczbbMxRKn"
@@ -214,6 +214,28 @@
     },
     {
       "album": {
+        "name": "Catch Me",
+        "url": "https://open.spotify.com/album/0zxdBTt9V5UfDeBNpnXTD9"
+      },
+      "artists": [
+        {
+          "name": "Frederico",
+          "url": "https://open.spotify.com/artist/51oSEWt72CjJkCYIOQRzbN"
+        },
+        {
+          "name": "Lenny Barks",
+          "url": "https://open.spotify.com/artist/4sEvniF496uPXOytzthGVx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168491,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/1Fd8AUBFy6c815N5VTBpc0"
+    },
+    {
+      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -225,10 +247,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/1yWsQH57qeEhCnzQmwyszR"
+      },
+      "artists": [
+        {
+          "name": "losing twin",
+          "url": "https://open.spotify.com/artist/2U8TGx3FbUFKHw2VvM3YYZ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252028,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/2xomYlwMv6QNYmgrIxGYu7"
     },
     {
       "album": {
@@ -268,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Creeper Deeper",
+        "url": "https://open.spotify.com/album/3gjqmcGtJzRRM5Y6qlxKQG"
+      },
+      "artists": [
+        {
+          "name": "Jon Doe",
+          "url": "https://open.spotify.com/artist/01VrPMFh7LXpXjf2Yie2xc"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272511,
+      "name": "Creeper Deeper",
+      "url": "https://open.spotify.com/track/3Nx8BjUdk3hRUSxVpKU8xY"
+    },
+    {
+      "album": {
         "name": "Dear Future Me",
         "url": "https://open.spotify.com/album/4kQfPkoaYsoUYAvdsNjtHR"
       },
@@ -283,6 +341,24 @@
       "duration_ms": 179280,
       "name": "Dear Future Me",
       "url": "https://open.spotify.com/track/0kdikxqcfRULqVAfL6kdQT"
+    },
+    {
+      "album": {
+        "name": "Dear Karma",
+        "url": "https://open.spotify.com/album/6JrOOrY4e3mhhuq6qv1wxJ"
+      },
+      "artists": [
+        {
+          "name": "Felicia Lu",
+          "url": "https://open.spotify.com/artist/0bLxXoUrh0kANKQMWts8KV"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155394,
+      "name": "Dear Karma",
+      "url": "https://open.spotify.com/track/7HLmS0AS6ybP6qDL2SuYUX"
     },
     {
       "album": {
@@ -304,6 +380,24 @@
     },
     {
       "album": {
+        "name": "DPDR",
+        "url": "https://open.spotify.com/album/3SbgsXnMicVH5OkvwNk6O7"
+      },
+      "artists": [
+        {
+          "name": "Eluize",
+          "url": "https://open.spotify.com/artist/4UynZk3RxczOK1AwaHR5ha"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282796,
+      "name": "DPDR - Original",
+      "url": "https://open.spotify.com/track/34IsVi429ivIXxKZ5Dq4cz"
+    },
+    {
+      "album": {
         "name": "drifter",
         "url": "https://open.spotify.com/album/3iklHC6IFZbWawoW7hsNzH"
       },
@@ -319,6 +413,24 @@
       "duration_ms": 228750,
       "name": "drifter",
       "url": "https://open.spotify.com/track/2EnpNgBGlTV4zyDCzw6o3S"
+    },
+    {
+      "album": {
+        "name": "Drowned Body",
+        "url": "https://open.spotify.com/album/4dhpxT0fwGbV7adoeKwcU9"
+      },
+      "artists": [
+        {
+          "name": "ZUSTRA",
+          "url": "https://open.spotify.com/artist/1cIilB8ckONPBhSG6IvxSu"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233696,
+      "name": "Drowned Body",
+      "url": "https://open.spotify.com/track/1wRVsJqak9oiPhhHWfcJKl"
     },
     {
       "album": {
@@ -351,7 +463,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 187377,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/5LdygNlvLAIzY6zZOThHTm"
@@ -405,7 +517,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 212822,
       "name": "Fahr los",
       "url": "https://open.spotify.com/track/6HJBq8p316Jhhuy2lqSbT7"
@@ -582,6 +694,24 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0wDomSIPvt9DpQclKBpJvx"
+      },
+      "artists": [
+        {
+          "name": "Aylin Celik",
+          "url": "https://open.spotify.com/artist/4VXfrQlYdAe5DZ04GQevRa"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1FffQDQpQS0bcTbMpZv5Iz"
+    },
+    {
+      "album": {
         "name": "honey",
         "url": "https://open.spotify.com/album/0lwPGoAbC3rG8lDEXMLAKc"
       },
@@ -597,6 +727,24 @@
       "duration_ms": 187045,
       "name": "honey",
       "url": "https://open.spotify.com/track/2NOciZD4Vv6EjSMYlj81SV"
+    },
+    {
+      "album": {
+        "name": "Hope To Come",
+        "url": "https://open.spotify.com/album/2gjKZ2UlQDBayukfcxKEOA"
+      },
+      "artists": [
+        {
+          "name": "Lukas Batteau",
+          "url": "https://open.spotify.com/artist/4wNihh6y03PHRnn0dN8fx8"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Hope To Come",
+      "url": "https://open.spotify.com/track/1XvfechfNIOBX6xouFCyrR"
     },
     {
       "album": {
@@ -647,7 +795,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 205138,
       "name": "I Hate People",
       "url": "https://open.spotify.com/track/49PSgScJbrmiMnU7agbarw"
@@ -669,6 +817,24 @@
       "duration_ms": 178201,
       "name": "I Wanna Leave",
       "url": "https://open.spotify.com/track/0tyb4R408TWXTM3s06pJjn"
+    },
+    {
+      "album": {
+        "name": "IMMER IM RAUCH",
+        "url": "https://open.spotify.com/album/7qRxYf4OfCjwb8cTZGEfxS"
+      },
+      "artists": [
+        {
+          "name": "NILS KEPPEL",
+          "url": "https://open.spotify.com/artist/2JHbUwHlQfrl8PqJiGGIcY"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "IMMER IM RAUCH",
+      "url": "https://open.spotify.com/track/2ZQD2mC0tODTbmQ6nlsxdA"
     },
     {
       "album": {
@@ -1069,7 +1235,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 216838,
       "name": "Potion",
       "url": "https://open.spotify.com/track/39JouMyyZtTXYuuOFRPj2r"
@@ -1279,7 +1445,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 184048,
       "name": "sugar",
       "url": "https://open.spotify.com/track/5ZrMGxq6NybGrK4awJiIDD"
@@ -1477,7 +1643,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 220903,
       "name": "Zigaretten drehen",
       "url": "https://open.spotify.com/track/5NjJPKVxCJsOz6Nip7njPZ"

@@ -341,7 +341,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 248000,
       "name": "Another Moment",
       "url": "https://open.spotify.com/track/7iKRSD3veF495sEM174M97"
@@ -767,7 +767,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 124452,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG"
@@ -1159,7 +1159,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 163797,
       "name": "Curiosity",
       "url": "https://open.spotify.com/track/1hfsCP7K0yXHCdWwSuqH9l"
@@ -1315,7 +1315,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 214701,
       "name": "DeFacto",
       "url": "https://open.spotify.com/track/7n9znTQsBA7GhwnTDB9sIl"
@@ -1333,7 +1333,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 167999,
       "name": "Dew",
       "url": "https://open.spotify.com/track/5aovQGezzESSF5y1xcnHwh"
@@ -2934,6 +2934,24 @@
     },
     {
       "album": {
+        "name": "Mindfulness",
+        "url": "https://open.spotify.com/album/4Qd5cv6IF08Tbi2jdAa9dA"
+      },
+      "artists": [
+        {
+          "name": "Nathan Kawanishi",
+          "url": "https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131970,
+      "name": "Mindfulness",
+      "url": "https://open.spotify.com/track/5khC5i306IWwP39jKi8woX"
+    },
+    {
+      "album": {
         "name": "Minor Sights",
         "url": "https://open.spotify.com/album/3IVViyY8IjbLMxnAQICfA7"
       },
@@ -2967,7 +2985,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 210873,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/64I9S8n6lJxcR3P0tZa8UY"
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 157636,
       "name": "Night Lights",
       "url": "https://open.spotify.com/track/6lD4z9pp562jUf3mJx1xSl"
@@ -3651,7 +3669,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 131000,
       "name": "petals falling from the cherry tree",
       "url": "https://open.spotify.com/track/6SQIUSVmT3cE41g46FFlGK"
@@ -3867,7 +3885,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 144000,
       "name": "Rainydays",
       "url": "https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC"
@@ -4049,7 +4067,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 157245,
       "name": "Round 8",
       "url": "https://open.spotify.com/track/4F1sAVtqsssL0XvHwrR2yY"
@@ -4469,7 +4487,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 266033,
       "name": "Sorrow Of Youth",
       "url": "https://open.spotify.com/track/2ZLNL0JcFc3DNbFrTQMaHQ"
@@ -4610,6 +4628,24 @@
     },
     {
       "album": {
+        "name": "Sun Shower",
+        "url": "https://open.spotify.com/album/5fT54xmeW7hkwF8qwUcfd9"
+      },
+      "artists": [
+        {
+          "name": "LONELY ONES",
+          "url": "https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sun Shower",
+      "url": "https://open.spotify.com/track/51bpkKHVzbH70ATH18AZ5M"
+    },
+    {
+      "album": {
         "name": "SWEET SMOKE",
         "url": "https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97"
       },
@@ -4657,7 +4693,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 158117,
       "name": "Swing",
       "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
@@ -5355,7 +5391,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 80842,
       "name": "wooden piano",
       "url": "https://open.spotify.com/track/3Q6atcj3iYHcmWSS0ZYV8c"
@@ -5373,7 +5409,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 118296,
       "name": "XO",
       "url": "https://open.spotify.com/track/7gpDUoMZKBOiszaZ8sx17F"

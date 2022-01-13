@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
   "name": "Good Feeling 80s",
-  "num_followers": 57281,
+  "num_followers": 57359,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTk0ODQ1MSwwMDAwMDAwMDlkNzEzZmRkOGFjMTJkNTEzOWE5MTA2ZWYxMDJlYTQ0",
+  "snapshot_id": "MTY0MjAzNDk0MSwwMDAwMDAwMDE4MjRjNDg5OTA2NDNjYmNhZTJmMGRlMWQ3ODdiMTM4",
   "tracks": [
     {
       "added_at": "2021-06-18 04:45:01",
@@ -43,54 +43,6 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Dancing On The Ceiling (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 270720,
-      "name": "Dancing On The Ceiling",
-      "url": "https://open.spotify.com/track/1AwJGxWNl5n8O2CSlvPKYL"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/41IMzY1fwSwZHYxHnoF3jN"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/0p7T2DoRUeLX47sa3Ar2Ny"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
         "name": "Ghost In The Machine (Remastered)",
         "url": "https://open.spotify.com/album/5ghoXlpcDLKp3QNC2mzZ8A"
       },
@@ -123,34 +75,18 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Age Of Reason",
-        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Two Strong Hearts",
-      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+      "duration_ms": 280000,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -171,34 +107,50 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
       "artists": [
         {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "The Very Very Best Of Crowded House",
-        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 173964,
-      "name": "Something So Strong",
-      "url": "https://open.spotify.com/track/4ml6eCtBlmYVfpfXJsUFD2"
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/1AwJGxWNl5n8O2CSlvPKYL"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/41IMzY1fwSwZHYxHnoF3jN"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/0p7T2DoRUeLX47sa3Ar2Ny"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -219,18 +171,82 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Hepnobest",
-        "url": "https://open.spotify.com/album/1rm7DuO4hESibL5922Ry5A"
+        "name": "Age Of Reason",
+        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
       "artists": [
         {
-          "name": "Dynamic Hepnotics",
-          "url": "https://open.spotify.com/artist/6xrurMjtUUYPWeQ2UphcwK"
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
         }
       ],
-      "duration_ms": 232520,
-      "name": "Soul Kind of Feeling",
-      "url": "https://open.spotify.com/track/7lzWxlYqqHhtPQ1WUNmyYB"
+      "duration_ms": 213333,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Higher Love - Single Version",
+      "url": "https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "The Very Very Best Of Crowded House",
+        "url": "https://open.spotify.com/album/3XLP6DCTfz8eQkORPdfvvy"
+      },
+      "artists": [
+        {
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+        }
+      ],
+      "duration_ms": 173964,
+      "name": "Something So Strong",
+      "url": "https://open.spotify.com/track/4ml6eCtBlmYVfpfXJsUFD2"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -247,6 +263,38 @@
       "duration_ms": 227360,
       "name": "Pressure Down",
       "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Hepnobest",
+        "url": "https://open.spotify.com/album/1rm7DuO4hESibL5922Ry5A"
+      },
+      "artists": [
+        {
+          "name": "Dynamic Hepnotics",
+          "url": "https://open.spotify.com/artist/6xrurMjtUUYPWeQ2UphcwK"
+        }
+      ],
+      "duration_ms": 232520,
+      "name": "Soul Kind of Feeling",
+      "url": "https://open.spotify.com/track/7lzWxlYqqHhtPQ1WUNmyYB"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "The Best Of 1980-1990 & B-Sides",
+        "url": "https://open.spotify.com/album/2HfBqhcHmDZz235xhvVAZX"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/6X8gyMIccucl15VcwnQszU"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -271,34 +319,18 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+        "name": "Bondi Road",
+        "url": "https://open.spotify.com/album/2uo4Y480P0k5rKL8lwzuW6"
       },
       "artists": [
         {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+          "name": "Dragon",
+          "url": "https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t"
         }
       ],
-      "duration_ms": 252226,
-      "name": "Higher Love - Single Version",
-      "url": "https://open.spotify.com/track/17Ng10tIgnYmAitl0SgT3R"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Invisible Touch",
-        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
-      },
-      "artists": [
-        {
-          "name": "Genesis",
-          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
-        }
-      ],
-      "duration_ms": 210133,
-      "name": "Invisible Touch - Remastered 2007",
-      "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
+      "duration_ms": 238600,
+      "name": "Young Years",
+      "url": "https://open.spotify.com/track/5YwcNVpjiqGqC2Ma9330j0"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -319,66 +351,18 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Rattle And Hum",
-        "url": "https://open.spotify.com/album/5DV76VYtjhsEh0v6KwgvY7"
+        "name": "30 Stars of the 80s",
+        "url": "https://open.spotify.com/album/0rEYoM9ZVQFWWploe5yvjY"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Boy Meets Girl",
+          "url": "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
         }
       ],
-      "duration_ms": 229266,
-      "name": "Angel Of Harlem",
-      "url": "https://open.spotify.com/track/0d4IA7JzKTJmE0fW2pHMWn"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Big Bad Noise",
-        "url": "https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF"
-      },
-      "artists": [
-        {
-          "name": "Choirboys",
-          "url": "https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM"
-        }
-      ],
-      "duration_ms": 251586,
-      "name": "Run to Paradise",
-      "url": "https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Celebrate (Greatest Hits)",
-        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "Don't You (Forget About Me) - Remastered",
-      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Mike + The Mechanics",
-        "url": "https://open.spotify.com/album/5BrUyKkJIavGjRwYzKrF84"
-      },
-      "artists": [
-        {
-          "name": "Mike & The Mechanics",
-          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "All I Need Is A Miracle",
-      "url": "https://open.spotify.com/track/0iVXKGnD23wIulXZRit20N"
+      "duration_ms": 266213,
+      "name": "Waiting for a Star to Fall",
+      "url": "https://open.spotify.com/track/3FNw7xz5bENnTPVzBwvb6A"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -399,6 +383,54 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
+        "name": "Celebrate (Greatest Hits)",
+        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "Don't You (Forget About Me) - Remastered",
+      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Rattle And Hum",
+        "url": "https://open.spotify.com/album/5DV76VYtjhsEh0v6KwgvY7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Angel Of Harlem",
+      "url": "https://open.spotify.com/track/0d4IA7JzKTJmE0fW2pHMWn"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "This Island",
+        "url": "https://open.spotify.com/album/5vsqo9l8JBO8MGQDVPqgg3"
+      },
+      "artists": [
+        {
+          "name": "Eurogliders",
+          "url": "https://open.spotify.com/artist/48kXmrNGCBMAz7N8x1J2na"
+        }
+      ],
+      "duration_ms": 222866,
+      "name": "Heaven (Must Be There)",
+      "url": "https://open.spotify.com/track/0mmshvONujbHTPmbchblbk"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
@@ -415,50 +447,50 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
+      "duration_ms": 190706,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
     },
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Fundamental As Anything",
-        "url": "https://open.spotify.com/album/4hx41t6IQkOUy7exOtu7wp"
+        "name": "Big Bad Noise",
+        "url": "https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF"
       },
       "artists": [
         {
-          "name": "Mental As Anything",
-          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
+          "name": "Choirboys",
+          "url": "https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM"
         }
       ],
-      "duration_ms": 254200,
-      "name": "Live It Up",
-      "url": "https://open.spotify.com/track/0d4DyZYCiSH5fNnc0Hfz3L"
+      "duration_ms": 251586,
+      "name": "Run to Paradise",
+      "url": "https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs"
     },
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "The Best Of 1980-1990 & B-Sides",
-        "url": "https://open.spotify.com/album/2HfBqhcHmDZz235xhvVAZX"
+        "name": "Invisible Touch",
+        "url": "https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/6X8gyMIccucl15VcwnQszU"
+      "duration_ms": 210133,
+      "name": "Invisible Touch - Remastered 2007",
+      "url": "https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -495,118 +527,6 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Whispering Jack",
-        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "You're the Voice",
-      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Shiver",
-        "url": "https://open.spotify.com/album/4cY0XPiwWj15YWpfkVNg4P"
-      },
-      "artists": [
-        {
-          "name": "Jenny Morris",
-          "url": "https://open.spotify.com/artist/604iqbiglyTgxMeKkvlBGc"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "She Has to Be Loved",
-      "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Uptown Girl",
-      "url": "https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 246520,
-      "name": "Heaven Is a Place on Earth",
-      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Bondi Road",
-        "url": "https://open.spotify.com/album/2uo4Y480P0k5rKL8lwzuW6"
-      },
-      "artists": [
-        {
-          "name": "Dragon",
-          "url": "https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Young Years",
-      "url": "https://open.spotify.com/track/5YwcNVpjiqGqC2Ma9330j0"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "E.S.P.",
-        "url": "https://open.spotify.com/album/4RnFtuVdr1JPD8UDhQuMBK"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "You Win Again",
-      "url": "https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/2dlEdDEmuQsrcXaAL3Znzi"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5OkSkzxPZuziL8waHmU8Zd"
       },
@@ -623,162 +543,34 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "30 Stars of the 80s",
-        "url": "https://open.spotify.com/album/0rEYoM9ZVQFWWploe5yvjY"
+        "name": "Whispering Jack",
+        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
       "artists": [
         {
-          "name": "Boy Meets Girl",
-          "url": "https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ"
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
         }
       ],
-      "duration_ms": 266213,
-      "name": "Waiting for a Star to Fall",
-      "url": "https://open.spotify.com/track/3FNw7xz5bENnTPVzBwvb6A"
+      "duration_ms": 300733,
+      "name": "You're the Voice",
+      "url": "https://open.spotify.com/track/721DwsHOeKf7zHRABCR2rh"
     },
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+        "name": "Mike + The Mechanics",
+        "url": "https://open.spotify.com/album/5BrUyKkJIavGjRwYzKrF84"
       },
       "artists": [
         {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+          "name": "Mike & The Mechanics",
+          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
         }
       ],
-      "duration_ms": 239826,
-      "name": "If I Could Turn Back Time",
-      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 320680,
-      "name": "Love Shack",
-      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Talking Back To The Night",
-        "url": "https://open.spotify.com/album/1MGMNOvzawO8TCm599dZbm"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Valerie",
-      "url": "https://open.spotify.com/track/5ZOUxrcH0VVDgTshD5QJri"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
-      },
-      "artists": [
-        {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
-        }
-      ],
-      "duration_ms": 209520,
-      "name": "End Of The Line",
-      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "This Island",
-        "url": "https://open.spotify.com/album/5vsqo9l8JBO8MGQDVPqgg3"
-      },
-      "artists": [
-        {
-          "name": "Eurogliders",
-          "url": "https://open.spotify.com/artist/48kXmrNGCBMAz7N8x1J2na"
-        }
-      ],
-      "duration_ms": 222866,
-      "name": "Heaven (Must Be There)",
-      "url": "https://open.spotify.com/track/0mmshvONujbHTPmbchblbk"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Overnight Success",
-        "url": "https://open.spotify.com/album/0PniRr1Rq9wO4eWcA90LmO"
-      },
-      "artists": [
-        {
-          "name": "Dave Dobbyn",
-          "url": "https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc"
-        }
-      ],
-      "duration_ms": 276173,
-      "name": "Slice of Heaven",
-      "url": "https://open.spotify.com/track/1shSAteQfBSAl7CBw4yeSm"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Matchbook",
-        "url": "https://open.spotify.com/album/2Pp2u2e1UeWgIeyimPVsxD"
-      },
-      "artists": [
-        {
-          "name": "Ian Moss",
-          "url": "https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "Tucker's Daughter",
-      "url": "https://open.spotify.com/track/2zaUUlQqyUUP0fehfvLuHz"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 275533,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Greatest Vol.1 - Belinda Carlisle",
-        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
-      },
-      "artists": [
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 328813,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/6epXs8efGlsdbMIfX8Olra"
+      "duration_ms": 249826,
+      "name": "All I Need Is A Miracle",
+      "url": "https://open.spotify.com/track/0iVXKGnD23wIulXZRit20N"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -803,34 +595,146 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "Overnight Success",
+        "url": "https://open.spotify.com/album/0PniRr1Rq9wO4eWcA90LmO"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Dave Dobbyn",
+          "url": "https://open.spotify.com/artist/5bYfbDXaMVCxEt7hOAvEWc"
         }
       ],
-      "duration_ms": 219413,
-      "name": "And She Was - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC"
+      "duration_ms": 276173,
+      "name": "Slice of Heaven",
+      "url": "https://open.spotify.com/track/1shSAteQfBSAl7CBw4yeSm"
     },
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "So (Remastered)",
-        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
       "artists": [
         {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 313533,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
+      "duration_ms": 194866,
+      "name": "Uptown Girl",
+      "url": "https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 246520,
+      "name": "Heaven Is a Place on Earth",
+      "url": "https://open.spotify.com/track/37Q5anxoGWYdRsyeXkkNoI"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "E.S.P.",
+        "url": "https://open.spotify.com/album/4RnFtuVdr1JPD8UDhQuMBK"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "You Win Again",
+      "url": "https://open.spotify.com/track/19dL5Zj3Gxr6RGQHlAXxyF"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Man Of Colours",
+        "url": "https://open.spotify.com/album/5Pf2kkz10HySmJjWu2Fhd4"
+      },
+      "artists": [
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Electric Blue",
+      "url": "https://open.spotify.com/track/5aWvinQcbc1W1WdP0GQ6J1"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 209520,
+      "name": "End Of The Line",
+      "url": "https://open.spotify.com/track/4HA2jo7wkMdN1lmLO6ryzE"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Matchbook",
+        "url": "https://open.spotify.com/album/2Pp2u2e1UeWgIeyimPVsxD"
+      },
+      "artists": [
+        {
+          "name": "Ian Moss",
+          "url": "https://open.spotify.com/artist/4RMdsc21y0aET1OCm32h1u"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Tucker's Daughter",
+      "url": "https://open.spotify.com/track/2zaUUlQqyUUP0fehfvLuHz"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 320680,
+      "name": "Love Shack",
+      "url": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -867,50 +771,18 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Wide Awake In Dreamland",
-        "url": "https://open.spotify.com/album/1cglcD9iGtfheI7hmVdoUb"
+        "name": "Talking Back To The Night",
+        "url": "https://open.spotify.com/album/1MGMNOvzawO8TCm599dZbm"
       },
       "artists": [
         {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
         }
       ],
-      "duration_ms": 272200,
-      "name": "All Fired Up",
-      "url": "https://open.spotify.com/track/6XpczhG192lULA9i4JLqKJ"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Too Low For Zero",
-        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "I'm Still Standing",
-      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-    },
-    {
-      "added_at": "2021-06-18 04:45:01",
-      "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+      "duration_ms": 246666,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/5ZOUxrcH0VVDgTshD5QJri"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -931,18 +803,98 @@
     {
       "added_at": "2021-06-18 04:45:01",
       "album": {
-        "name": "Edge",
-        "url": "https://open.spotify.com/album/1hXqV3bALCBE9pJMkGgpEF"
+        "name": "Fundamental As Anything",
+        "url": "https://open.spotify.com/album/4hx41t6IQkOUy7exOtu7wp"
       },
       "artists": [
         {
-          "name": "Daryl Braithwaite",
-          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
+          "name": "Mental As Anything",
+          "url": "https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK"
         }
       ],
-      "duration_ms": 222866,
-      "name": "One Summer",
-      "url": "https://open.spotify.com/track/3cU8I44fRvC1b2MD8pClL9"
+      "duration_ms": 254200,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/0d4DyZYCiSH5fNnc0Hfz3L"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Greatest Vol.1 - Belinda Carlisle",
+        "url": "https://open.spotify.com/album/3fzHLg5RfRXzQlHlR4F7JG"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 328813,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/6epXs8efGlsdbMIfX8Olra"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Knee Deep In The Hoopla",
+        "url": "https://open.spotify.com/album/0I0eWeNKn0flG4FryxVjGx"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 296080,
+      "name": "We Built This City",
+      "url": "https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "duration_ms": 239826,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Shiver",
+        "url": "https://open.spotify.com/album/4cY0XPiwWj15YWpfkVNg4P"
+      },
+      "artists": [
+        {
+          "name": "Jenny Morris",
+          "url": "https://open.spotify.com/artist/604iqbiglyTgxMeKkvlBGc"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "She Has to Be Loved",
+      "url": "https://open.spotify.com/track/7J170T0QGtd18ii8vHXk2e"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2021-06-18 04:45:01",
@@ -975,6 +927,54 @@
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "20... Ish Anniversary Edition",
+        "url": "https://open.spotify.com/album/0v91CQ8k8qNZP2LnxQ8HNL"
+      },
+      "artists": [
+        {
+          "name": "1927",
+          "url": "https://open.spotify.com/artist/7uZbOLlVQNbLVvKdGRk4VZ"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "That's When I Think of You",
+      "url": "https://open.spotify.com/track/33q2gObaCllLh0Yt05Tsu7"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "So (Remastered)",
+        "url": "https://open.spotify.com/album/0hQb1KT6L3iEYRkS5u8cjm"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 313533,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/029NqmIySn1kOY305AAhxT"
+    },
+    {
+      "added_at": "2021-06-18 04:45:01",
+      "album": {
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "And She Was - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5nNZTUzinBDsnj3U76NJFC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbdTzLVot2nl"

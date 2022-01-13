@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210,938 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,210,970 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 55 | [Prayer](https://open.spotify.com/track/7bY5R1aMqo72yntoqhw72e) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Prayer](https://open.spotify.com/album/341A6tPNsyBWDE6GfJqZPH) | 5:57 |
 | 56 | [Hostages \- Alternate](https://open.spotify.com/track/7xFYoEpqDy5yxyCJLe3pUO) | [The Howl & The Hum](https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32) | [Hostages \(Alternate\)](https://open.spotify.com/album/4dTR9TJBCMHFArn4z6TrH8) | 4:21 |
 | 57 | [Don't Be Scared, I Love You \- Yawny Yawn](https://open.spotify.com/track/0EpLFi2rxpzKJ8RRa1J40j) | [Bill Ryder\-Jones](https://open.spotify.com/artist/2E70ENJNHoACgzTkJ3QnO4) | [Don't Be Scared, I Love You \(Yawny Yawn\)](https://open.spotify.com/album/4ZvRUgh4mOJA3k0BGL3CXa) | 4:56 |
-| 58 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 |
+| 58 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 |
 | 59 | [I'm Kissing You](https://open.spotify.com/track/3dRDxa4STStR3mVU80S1Vb) | [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [bshp](https://open.spotify.com/album/5ZKuFLAWxdSwlMVhiryCC1) | 4:53 |
 | 60 | [Oh My Love](https://open.spotify.com/track/0KMrYUEfexgam36li6d9F0) | [Layla](https://open.spotify.com/artist/04BsVprJtIhl2C4fgPEz4W) | [Yellow Circles EP](https://open.spotify.com/album/4eTl12dc7uQXvgDhtMgW5p) | 3:23 |
 | 61 | [Lego Bricks](https://open.spotify.com/track/37tBKTQ6pM4TSO7L7VrZyH) | [Euan Allison](https://open.spotify.com/artist/3ZW3NzHzLniYblaJ4s5eem), [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Lego Bricks](https://open.spotify.com/album/43rk2Kk1z0ugv4OFV7rW2W) | 3:55 |

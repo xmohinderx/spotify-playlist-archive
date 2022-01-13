@@ -166,7 +166,7 @@
 | [when we were broken](https://open.spotify.com/track/2DA2R8axDHMeq1JSbbm10M) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [when we were broken](https://open.spotify.com/album/1dbPpxmeNr0DoDJ1vWn5Sb) | 2:50 | 2021-10-22 |  |
 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 | 2021-09-28 |  |
 | [You Made Me Want To Live](https://open.spotify.com/track/2HsP2DbYLAjDItQUP2RQ88) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/5j7daAyvVHbB4oNhJvsTX4) | 4:31 | 2021-11-26 |  |
-| [Zombified](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Zombified](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 |  |
+| [ZOMBIFIED](https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [ZOMBIFIED](https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX) | 3:38 | 2022-01-07 |  |
 | [ZULU](https://open.spotify.com/track/5tW6SKXRh34Cfo1Ry6aMzq) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [WEIGHT OF THE WORLD](https://open.spotify.com/album/62cKN6OuXX6ilnUaCU7JPO) | 3:41 | 2021-09-17 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

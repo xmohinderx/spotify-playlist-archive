@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Latin](https://open.spotify.com/playlist/3bExY6e3wLROXTtlrvGceS)
 
-> Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Cover: ODD MAMI
+> Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. Cover: El General Villamil
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Alucinándote](https://open.spotify.com/track/3HqaT1GIpGmihVLhQiceMb) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Y Te Lo Digo Yo](https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg) | 3:45 | 2021-12-22 | 2022-01-06 |
 | [Amanece](https://open.spotify.com/track/3Jz3zwnn36LsrMfHExiyi8) | [Domingo Ondiz](https://open.spotify.com/artist/4HFtTxVr05lp6aUqDewlPH) | [Amanece](https://open.spotify.com/album/3h9qPl9P09pA3jzW0QJsfX) | 2:14 | 2021-12-22 | 2022-01-06 |
 | [Ayer](https://open.spotify.com/track/2CC7YvpvEpBbhqVfB2KUh9) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Ayer](https://open.spotify.com/album/0i8tJxuJb5A3XFfwjt04YQ) | 1:36 | 2022-01-05 |  |
-| [Buena Vibra](https://open.spotify.com/track/4mMu1S53cRALHeKSqXtuNg) | [Andrew Tejada](https://open.spotify.com/artist/6sqfg51i8MEEfrSaQkM8Q6) | [Buena Vibra](https://open.spotify.com/album/5S5Wh2G2G2txbbZlJGbJQ6) | 2:56 | 2021-12-22 |  |
+| [Buena Vibra](https://open.spotify.com/track/4mMu1S53cRALHeKSqXtuNg) | [Andrew Tejada](https://open.spotify.com/artist/6sqfg51i8MEEfrSaQkM8Q6) | [Buena Vibra](https://open.spotify.com/album/5S5Wh2G2G2txbbZlJGbJQ6) | 2:56 | 2021-12-22 | 2022-01-13 |
 | [Bájale Dos](https://open.spotify.com/track/3FLhlxxHBMnKPKNvByPkPS) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [Bájale Dos](https://open.spotify.com/album/3Xad9qoa0DeZx23ug8x9TY) | 3:24 | 2021-12-22 |  |
 | [Bésame](https://open.spotify.com/track/0kLBV8UXhjxHNwAAnQngoQ) | [Lolaa](https://open.spotify.com/artist/6xbhKmbCwlnZmYHWK4gQGv), [Sin Color](https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop) | [La Marea](https://open.spotify.com/album/2bRYrAFZSz2H1ABwD8hqSW) | 4:03 | 2021-12-22 |  |
 | [Caminos de Cristal](https://open.spotify.com/track/39URgTcuoiIKh3iCvghcYh) | [Todos los Martes](https://open.spotify.com/artist/5esSh8neIrdmhnHHGjmx5P) | [Av\. del Sol, Pt\. 1](https://open.spotify.com/album/7CFCkp8h5eeiPBkV1SpSxP) | 5:08 | 2021-12-22 | 2022-01-06 |
@@ -43,6 +43,7 @@
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2021-12-22 | 2022-01-06 |
 | [Loco y salvaje](https://open.spotify.com/track/5DMHo6ndpVf6AscYGMv1gg) | [Falvi](https://open.spotify.com/artist/15yMlPVeiG7OuZOKODccFB) | [Loco y salvaje](https://open.spotify.com/album/5ZCRwFQCjzrFx1lrSTjYeg) | 4:31 | 2022-01-05 |  |
 | [Los Límites del Sueño](https://open.spotify.com/track/7g9iuJfq7wmdB7jVmdoQun) | [Sofía y Sus Paracaídas](https://open.spotify.com/artist/0vLW3E3sxu3dBfvbD2hVQR) | [Los Límites del Sueño](https://open.spotify.com/album/0MPqONH7eK5YV2QphsEYCY) | 4:04 | 2021-12-22 |  |
+| [Los Problemas](https://open.spotify.com/track/4pfPijo1EYEPxdW5tUHB5T) | [Los Dioses Del Ritmo](https://open.spotify.com/artist/3SB8QuuxVULg4nFHoWJ5vj) | [Los Problemas](https://open.spotify.com/album/4NVbEhH5HQRzXHxUasSkJK) | 2:17 | 2022-01-12 |  |
 | [Lqi](https://open.spotify.com/track/1xZjULxG4J36N6J5pycnAt) | [Alain Pardo](https://open.spotify.com/artist/1OFIVeEfxRAXCYAuZfQ12j) | [Lqi](https://open.spotify.com/album/61WopxABfhQI5z7f2d13Lr) | 2:46 | 2021-12-22 |  |
 | [Luciérnagas](https://open.spotify.com/track/0HUMItaGHiIoSJb9ytzyyD) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Luciérnagas](https://open.spotify.com/album/5D3Ghmlf6NgMIjufyhVjB3) | 2:44 | 2021-12-22 |  |
 | [Mamercute](https://open.spotify.com/track/0GiMhHkLKNno2IqhBV9PWO) | [Tilo Tranquilo](https://open.spotify.com/artist/1bdIhyDfbOz6VFIZRhhazA) | [Mamercute](https://open.spotify.com/album/7u6BOrfBaby6LpCwWZyupv) | 3:03 | 2021-12-22 | 2022-01-06 |
@@ -53,7 +54,7 @@
 | [Medio Cliché](https://open.spotify.com/track/0uuv0mmmN5XdqIvDHlWwO2) | [Sofía Mora](https://open.spotify.com/artist/2ACpw1qZnCwDlLA4JpeTnE) | [Medio Cliché](https://open.spotify.com/album/1w24UzIKR9oJeiffSmz3HB) | 3:30 | 2021-12-22 |  |
 | [Meridiana](https://open.spotify.com/track/5btsTBFCCpPD7A0RuN9h7v) | [Letelefono](https://open.spotify.com/artist/7hIJZT3HNriAXmEFQgQhY0) | [Ω](https://open.spotify.com/album/1V10RlwrlTOXihhFD7hGaj) | 5:09 | 2021-12-22 |  |
 | [Mi Cabeza](https://open.spotify.com/track/6eNaF2R952oqEi7BEf9ySF) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [Mi Cabeza](https://open.spotify.com/album/6ODfnmGFutUqKoVS8Y1pTj) | 2:42 | 2021-12-22 |  |
-| [Moscatel](https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb) | [MALAiiERBA](https://open.spotify.com/artist/7yWlhqRKWnbmQ0eW0i1TKu) | [Moscatel](https://open.spotify.com/album/3D8TTfMJ4ydMlmUlUeHiL4) | 2:16 | 2021-12-22 |  |
+| [Moscatel](https://open.spotify.com/track/5IYHGE2mA0cydIhNUVLuTb) | [MALAiiERBA](https://open.spotify.com/artist/7yWlhqRKWnbmQ0eW0i1TKu) | [Moscatel](https://open.spotify.com/album/3D8TTfMJ4ydMlmUlUeHiL4) | 2:16 | 2021-12-22 | 2022-01-13 |
 | [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 | 2021-12-22 | 2022-01-06 |
 | [Ni Modo](https://open.spotify.com/track/07bx4AFTgpteGlUGl08BhM) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Ni Modo](https://open.spotify.com/album/0KUDLBqDg0mtDAeNFgq203) | 2:15 | 2021-12-22 | 2022-01-06 |
 | [No Pasara](https://open.spotify.com/track/4EB5HtpOZ71vrl6WvjeiBt) | [Quatro](https://open.spotify.com/artist/0buT7bfmLPu4wKFXqPAHuJ), [Sir Marquis](https://open.spotify.com/artist/2PYFblg9jHNvhZaKMmz5mv) | [No Pasara](https://open.spotify.com/album/1Eo4lCHBoXkL7FHwdgMckY) | 3:38 | 2022-01-05 |  |
@@ -63,14 +64,16 @@
 | [ojitos caramelo](https://open.spotify.com/track/42fEi9btF7pTboFbvm36ZF) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [ojitos caramelo](https://open.spotify.com/album/6iu9ntDuzcQDasNFamkhhs) | 2:27 | 2021-12-22 | 2022-01-06 |
 | [Pantera](https://open.spotify.com/track/5ebVp3XJZM0rru4AUGLBMf) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Pantera](https://open.spotify.com/album/5TxIlcSt6afM6IksGKs860) | 3:10 | 2021-12-22 | 2022-01-06 |
 | [Petróleo](https://open.spotify.com/track/1u0BULx6Y9OscncG0hmatC) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:44 | 2021-12-22 |  |
+| [Prefiero Morir](https://open.spotify.com/track/0IyHX1zPc5SnLTH0W2gX4F) | [Pierre Cruz](https://open.spotify.com/artist/3unauNRhq1rfgHqUhcKVjx), [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [Passionfruitée](https://open.spotify.com/album/4BDI90LgJJdcJ47ThAVOaX) | 2:54 | 2022-01-12 |  |
 | [Primera Vez](https://open.spotify.com/track/7DDWpFdk0a70B8Hk30XmiE) | [Los Nasdrovia](https://open.spotify.com/artist/2ZWTXCUN1ZfCuS9NnpfQel) | [Pequeño Círculo Azul](https://open.spotify.com/album/7wfrnvnbMtrxxRodxUF9eW) | 2:53 | 2022-01-05 |  |
-| [Pura Realidad](https://open.spotify.com/track/1lDLQkzpPXxk3yc3BJwe71) | [Paula Navarro](https://open.spotify.com/artist/3EOMCsayVoTARDAMxcIvRG) | [Pura Realidad](https://open.spotify.com/album/0stAurB0TVLg7tye1XntxM) | 2:30 | 2021-12-22 |  |
+| [Pura Realidad](https://open.spotify.com/track/1lDLQkzpPXxk3yc3BJwe71) | [Paula Navarro](https://open.spotify.com/artist/3EOMCsayVoTARDAMxcIvRG) | [Pura Realidad](https://open.spotify.com/album/0stAurB0TVLg7tye1XntxM) | 2:30 | 2021-12-22 | 2022-01-13 |
 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 | 2021-12-22 | 2022-01-06 |
+| [Sasha Tres](https://open.spotify.com/track/0ePFzcKSHLIjq2BQLCIhph) | [El General Villamil](https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH) | [Sasha Tres](https://open.spotify.com/album/2f2ev6NcIchqIs70LQufuw) | 3:15 | 2022-01-12 |  |
 | [Se Te Olvidó](https://open.spotify.com/track/5a1Gokf0D3jAfYeEBw4uRE) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Canciones para una Casa Chiquita](https://open.spotify.com/album/2SvnG0t614rPuHE9d2cy0s) | 3:30 | 2021-12-22 |  |
 | [Sin Intenciones](https://open.spotify.com/track/78NCRUfNgMqSR36XAfum2l) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Sin Intenciones](https://open.spotify.com/album/5istU6vjNosM5XFoVv8QTo) | 2:58 | 2021-12-22 |  |
 | [Sol](https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Sol](https://open.spotify.com/album/51EJaWaQVRJXo9ZeQW0G69) | 3:11 | 2021-12-22 |  |
 | [Solo](https://open.spotify.com/track/5nhYSIj1EXMPV4uLOIgCcx) | [Ant Cosmos](https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ) | [Solo](https://open.spotify.com/album/6IKX2M0UzuVskGie0OwxRA) | 3:40 | 2021-12-22 |  |
-| [Sunset](https://open.spotify.com/track/19SpcaDniFHog721yhaSUW) | [Sebastian Ross](https://open.spotify.com/artist/7gYfDP6B8ZCtoHJqOpkuYJ) | [2 AM](https://open.spotify.com/album/5iG51aGHcOiebJ0pBvMYNn) | 3:14 | 2021-12-22 |  |
+| [Sunset](https://open.spotify.com/track/19SpcaDniFHog721yhaSUW) | [Sebastian Ross](https://open.spotify.com/artist/7gYfDP6B8ZCtoHJqOpkuYJ) | [2 AM](https://open.spotify.com/album/5iG51aGHcOiebJ0pBvMYNn) | 3:14 | 2021-12-22 | 2022-01-13 |
 | [Superstar](https://open.spotify.com/track/2ClMSatGnGtuZONBVb6U1r) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Superstar](https://open.spotify.com/album/4shHKvA3Nd6scfJJ9oqhTD) | 3:09 | 2021-12-22 | 2022-01-06 |
 | [Te Pienso](https://open.spotify.com/track/3sun7PwoHsN8cGOQcTyIje) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Te Pienso](https://open.spotify.com/album/4DY2DrhkYBvPGTlUufXUMG) | 2:40 | 2021-12-22 | 2022-01-06 |
 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 | 2021-12-22 |  |
@@ -82,5 +85,6 @@
 | [Vas](https://open.spotify.com/track/0J5HUUAIzTupxaWZ6WVk2c) | [Blssom](https://open.spotify.com/artist/66xgo99rMsMKLL1JknCawn) | [Blssom](https://open.spotify.com/album/1vPsFj3ckFQCnFwSGGiezb) | 3:44 | 2021-12-22 |  |
 | [Violeta](https://open.spotify.com/track/0lWkJrYgYYa1vOJfvIkxr8) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Violeta](https://open.spotify.com/album/4KFf1eHDIeBzbu5dpSnCGI) | 2:23 | 2021-12-22 | 2022-01-06 |
 | [Vértices](https://open.spotify.com/track/4b7IBgXC4SVKTXMEqhcuXb) | [keezyporta](https://open.spotify.com/artist/59a1bsEPllg9vAM5ZdZtBS) | [Vértices](https://open.spotify.com/album/2d4Ib8uv3ZbCWwwiQmzI0N) | 3:55 | 2021-12-22 |  |
+| [Ya Nadie Es Fiel](https://open.spotify.com/track/1Kt1y8BzYmySAniktkYOps) | [foto\*\*\*HOTEL](https://open.spotify.com/artist/2jtSwVJ6wNf5WsKGgvmf05) | [INDI](https://open.spotify.com/album/2MTgEMDPKeh59QbWmg4GOj) | 4:08 | 2022-01-12 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

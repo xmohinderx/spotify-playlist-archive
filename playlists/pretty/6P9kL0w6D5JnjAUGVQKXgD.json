@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Jackson Wang, Galantis, MK, A.C.E, Thutmose, Steve Aoki",
   "name": "EDM Top 100",
-  "num_followers": 48550,
+  "num_followers": 48549,
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "MTA2Nyw0MzUyOTFiZGRjYjdjYmMyOTBkYjc2ZjkyMjIxNmQwYWQ3ZDg2NjYz",
+  "snapshot_id": "MTA2OCxhYzExYzU3MWI1MTU5ZTA0NGY5NmM5NzMwNWZmNGQ1MWYyNjMyODFh",
   "tracks": [
     {
       "added_at": "2020-09-07 08:05:03",
@@ -653,6 +653,30 @@
       "url": "https://open.spotify.com/track/5H3sWdaRFTnTOa7DGzpG0Z"
     },
     {
+      "added_at": "2021-08-28 15:41:06",
+      "album": {
+        "name": "Domino (feat. Oxia)",
+        "url": "https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Domino (feat. Oxia)",
+      "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
+    },
+    {
       "added_at": "2021-09-11 15:41:06",
       "album": {
         "name": "Way Back Home",
@@ -699,30 +723,6 @@
       "duration_ms": 162603,
       "name": "OUT OUT (feat. Charli XCX & Saweetie)",
       "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
-    },
-    {
-      "added_at": "2021-08-28 15:41:06",
-      "album": {
-        "name": "Domino (feat. Oxia)",
-        "url": "https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Oxia",
-          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Domino (feat. Oxia)",
-      "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
     },
     {
       "added_at": "2021-05-13 23:01:06",
@@ -985,26 +985,6 @@
       "url": "https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw"
     },
     {
-      "added_at": "2021-07-25 08:40:06",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
-    },
-    {
       "added_at": "2021-12-16 15:46:02",
       "album": {
         "name": "Call Of The Unicorn",
@@ -1023,6 +1003,26 @@
       "duration_ms": 190856,
       "name": "Call Of The Unicorn",
       "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
+    },
+    {
+      "added_at": "2021-07-25 08:40:06",
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/7ihIr7mrNqtqqqSUG5Ts7I"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/0uIwEMEjZDGrZ3NvxK3T9F"
     },
     {
       "added_at": "2021-12-07 15:44:06",
@@ -1117,6 +1117,26 @@
       "url": "https://open.spotify.com/track/7LV3f8bBaoIHdVoR5cCEFc"
     },
     {
+      "added_at": "2022-01-12 15:46:02",
+      "album": {
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/5jCXJQBJ5mZyS2pSAEqDtP"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        }
+      ],
+      "duration_ms": 204849,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/0WNjZebEUjiPEdVqfYjlcZ"
+    },
+    {
       "added_at": "2022-01-10 15:46:02",
       "album": {
         "name": "Chain My Heart",
@@ -1155,6 +1175,26 @@
       "duration_ms": 162802,
       "name": "Goosebumps - Remix",
       "url": "https://open.spotify.com/track/5uEYRdEIh9Bo4fpjDd4Na9"
+    },
+    {
+      "added_at": "2022-01-11 15:42:02",
+      "album": {
+        "name": "A Drug From God",
+        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "NPC",
+          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
+        }
+      ],
+      "duration_ms": 192455,
+      "name": "A Drug From God",
+      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
     },
     {
       "added_at": "2021-07-23 08:52:04",
@@ -1217,6 +1257,26 @@
       "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
+      "added_at": "2021-04-08 23:01:07",
+      "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/5T2Gk7ASaM8E7Tkkl3nrUG"
+      },
+      "artists": [
+        {
+          "name": "Kharfi",
+          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
+        },
+        {
+          "name": "DVO",
+          "url": "https://open.spotify.com/artist/5q6Pu8akB2qFgsjIhd5Y5u"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
+    },
+    {
       "added_at": "2022-01-01 15:41:02",
       "album": {
         "name": "See-Line Woman (Riton Remix)",
@@ -1253,24 +1313,20 @@
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
-      "added_at": "2021-04-08 23:01:07",
+      "added_at": "2022-01-09 15:46:02",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/5T2Gk7ASaM8E7Tkkl3nrUG"
+        "name": "You Should Already Know",
+        "url": "https://open.spotify.com/album/3j3wrTkB29l68Ebi2bDfTy"
       },
       "artists": [
         {
-          "name": "Kharfi",
-          "url": "https://open.spotify.com/artist/0f8a3ifFUu8Cd2NVs4KPVC"
-        },
-        {
-          "name": "DVO",
-          "url": "https://open.spotify.com/artist/5q6Pu8akB2qFgsjIhd5Y5u"
+          "name": "Croatia Squad",
+          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/5jojrbu23LlN5YBGIJepou"
+      "duration_ms": 193333,
+      "name": "You Should Already Know",
+      "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
     },
     {
       "added_at": "2022-01-11 15:42:02",
@@ -1317,20 +1373,24 @@
       "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
-      "added_at": "2022-01-09 15:46:02",
+      "added_at": "2021-04-29 23:01:06",
       "album": {
-        "name": "You Should Already Know",
-        "url": "https://open.spotify.com/album/3j3wrTkB29l68Ebi2bDfTy"
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF"
       },
       "artists": [
         {
-          "name": "Croatia Squad",
-          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
+          "name": "Jay Dixie",
+          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
         }
       ],
-      "duration_ms": 193333,
-      "name": "You Should Already Know",
-      "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
+      "duration_ms": 141290,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
     },
     {
       "added_at": "2021-12-22 15:41:02",
@@ -1351,6 +1411,26 @@
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+    },
+    {
+      "added_at": "2021-06-25 17:34:07",
+      "album": {
+        "name": "Bandaid",
+        "url": "https://open.spotify.com/album/08NJGYZmFMsW9rK51ehxqH"
+      },
+      "artists": [
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Jordan Jay",
+          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
+        }
+      ],
+      "duration_ms": 139639,
+      "name": "Bandaid",
+      "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
     },
     {
       "added_at": "2022-01-04 15:41:02",
@@ -1377,26 +1457,6 @@
       "url": "https://open.spotify.com/track/547LWbvqDFeNS6xuK3XjLH"
     },
     {
-      "added_at": "2021-04-29 23:01:06",
-      "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF"
-      },
-      "artists": [
-        {
-          "name": "Jay Dixie",
-          "url": "https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "Decisions",
-      "url": "https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1"
-    },
-    {
       "added_at": "2022-01-01 15:41:02",
       "album": {
         "name": "Feeling Good (Joel Corry Remix)",
@@ -1417,24 +1477,48 @@
       "url": "https://open.spotify.com/track/3hnm3SBxKdVT4hKUrKHo2r"
     },
     {
-      "added_at": "2021-06-25 17:34:07",
+      "added_at": "2021-04-22 23:01:06",
       "album": {
-        "name": "Bandaid",
-        "url": "https://open.spotify.com/album/08NJGYZmFMsW9rK51ehxqH"
+        "name": "Unconditionally",
+        "url": "https://open.spotify.com/album/07lxlxAb2oHLAGxHst46YZ"
       },
       "artists": [
         {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+          "name": "HUTS",
+          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
         },
         {
-          "name": "Jordan Jay",
-          "url": "https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY"
+          "name": "Jona Selle",
+          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
+        },
+        {
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
         }
       ],
-      "duration_ms": 139639,
-      "name": "Bandaid",
-      "url": "https://open.spotify.com/track/5UrXbEy5JaWwV6COcCA2Nu"
+      "duration_ms": 160000,
+      "name": "Unconditionally",
+      "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
+    },
+    {
+      "added_at": "2022-01-10 15:46:02",
+      "album": {
+        "name": "Sweet Talker",
+        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 176930,
+      "name": "Sweet Talker",
+      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
     },
     {
       "added_at": "2021-12-04 15:45:02",
@@ -1461,48 +1545,20 @@
       "url": "https://open.spotify.com/track/5PZpXuU8cAXC8743d4B1r3"
     },
     {
-      "added_at": "2022-01-10 15:46:02",
+      "added_at": "2021-03-05 23:01:05",
       "album": {
-        "name": "Sweet Talker",
-        "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
+        "name": "High",
+        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
       },
       "artists": [
         {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+          "name": "Xan Castel",
+          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
         }
       ],
-      "duration_ms": 176930,
-      "name": "Sweet Talker",
-      "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
-    },
-    {
-      "added_at": "2021-04-22 23:01:06",
-      "album": {
-        "name": "Unconditionally",
-        "url": "https://open.spotify.com/album/07lxlxAb2oHLAGxHst46YZ"
-      },
-      "artists": [
-        {
-          "name": "HUTS",
-          "url": "https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem"
-        },
-        {
-          "name": "Jona Selle",
-          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
-        },
-        {
-          "name": "Pule",
-          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Unconditionally",
-      "url": "https://open.spotify.com/track/57ZIDOAZ3ljXkN9cRVF9H3"
+      "duration_ms": 160586,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
     },
     {
       "added_at": "2021-12-28 15:41:02",
@@ -1541,22 +1597,6 @@
       "url": "https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo"
     },
     {
-      "added_at": "2021-03-05 23:01:05",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0LUGpoEpqc7DxRwIEyVfjY"
-      },
-      "artists": [
-        {
-          "name": "Xan Castel",
-          "url": "https://open.spotify.com/artist/3sC69SKNiUBInHiYBGjnB9"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5BKBE9RlIRxyWm8JvnZ3iE"
-    },
-    {
       "added_at": "2021-12-27 15:41:01",
       "album": {
         "name": "Diamonds",
@@ -1581,6 +1621,30 @@
       "url": "https://open.spotify.com/track/4TA48C6sa3lRrr2hHFbePR"
     },
     {
+      "added_at": "2021-04-29 23:01:06",
+      "album": {
+        "name": "Nothing But Love",
+        "url": "https://open.spotify.com/album/0nHmnOlkxcMyNvHPH9iDEf"
+      },
+      "artists": [
+        {
+          "name": "Steve Forest",
+          "url": "https://open.spotify.com/artist/0U6suWTdf1eQtxorBi2Chu"
+        },
+        {
+          "name": "F\u00f8yk",
+          "url": "https://open.spotify.com/artist/4Ez8kqZQnzyaxTq35cziVF"
+        },
+        {
+          "name": "Jaydan Wolf",
+          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
+        }
+      ],
+      "duration_ms": 157480,
+      "name": "Nothing But Love",
+      "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
+    },
+    {
       "added_at": "2022-01-11 15:42:02",
       "album": {
         "name": "Close Your Eyes",
@@ -1603,6 +1667,30 @@
       "duration_ms": 160794,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
+    },
+    {
+      "added_at": "2021-05-06 23:01:06",
+      "album": {
+        "name": "Head Up In The Clouds",
+        "url": "https://open.spotify.com/album/7fGno87MnrXy6r7CLMKQDp"
+      },
+      "artists": [
+        {
+          "name": "Colin Crooks",
+          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+        },
+        {
+          "name": "Lee Morris",
+          "url": "https://open.spotify.com/artist/0of4ZCQQXBygOFG7cCMmBV"
+        },
+        {
+          "name": "George Redwood",
+          "url": "https://open.spotify.com/artist/05GVokC63cKCaNegdJDj1n"
+        }
+      ],
+      "duration_ms": 200975,
+      "name": "Head Up In The Clouds",
+      "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
     },
     {
       "added_at": "2021-12-31 15:47:02",
@@ -1633,28 +1721,28 @@
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
     },
     {
-      "added_at": "2021-04-29 23:01:06",
+      "added_at": "2022-01-12 15:46:02",
       "album": {
-        "name": "Nothing But Love",
-        "url": "https://open.spotify.com/album/0nHmnOlkxcMyNvHPH9iDEf"
+        "name": "Beast (All as One)",
+        "url": "https://open.spotify.com/album/7jcGJ20TXkDOwe5rfOm2Gg"
       },
       "artists": [
         {
-          "name": "Steve Forest",
-          "url": "https://open.spotify.com/artist/0U6suWTdf1eQtxorBi2Chu"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "F\u00f8yk",
-          "url": "https://open.spotify.com/artist/4Ez8kqZQnzyaxTq35cziVF"
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
         },
         {
-          "name": "Jaydan Wolf",
-          "url": "https://open.spotify.com/artist/58NOd3nTpJVVGma4x975P0"
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
         }
       ],
-      "duration_ms": 157480,
-      "name": "Nothing But Love",
-      "url": "https://open.spotify.com/track/4NnIVd1NI1OFeUy4t8Re9f"
+      "duration_ms": 189826,
+      "name": "Beast (All as One)",
+      "url": "https://open.spotify.com/track/3wSrPtJpnGaUC2hOmJy0BV"
     },
     {
       "added_at": "2022-01-11 15:42:02",
@@ -1681,48 +1769,24 @@
       "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
     },
     {
-      "added_at": "2021-05-06 23:01:06",
+      "added_at": "2020-12-16 10:55:04",
       "album": {
-        "name": "Head Up In The Clouds",
-        "url": "https://open.spotify.com/album/7fGno87MnrXy6r7CLMKQDp"
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3"
       },
       "artists": [
         {
-          "name": "Colin Crooks",
-          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+          "name": "James Godfrey",
+          "url": "https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV"
         },
         {
-          "name": "Lee Morris",
-          "url": "https://open.spotify.com/artist/0of4ZCQQXBygOFG7cCMmBV"
-        },
-        {
-          "name": "George Redwood",
-          "url": "https://open.spotify.com/artist/05GVokC63cKCaNegdJDj1n"
+          "name": "Danielle Knoll",
+          "url": "https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u"
         }
       ],
-      "duration_ms": 200975,
-      "name": "Head Up In The Clouds",
-      "url": "https://open.spotify.com/track/1gnx4fFMggaEVpJ6TDMaQR"
-    },
-    {
-      "added_at": "2022-01-11 15:42:02",
-      "album": {
-        "name": "Bad Habits (MEDUZA Remix)",
-        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 194331,
-      "name": "Bad Habits - MEDUZA Remix",
-      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
+      "duration_ms": 158709,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
     },
     {
       "added_at": "2022-01-11 15:42:02",
@@ -1751,82 +1815,22 @@
     {
       "added_at": "2022-01-11 15:42:02",
       "album": {
-        "name": "Rain On Me (with Ariana Grande)",
-        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
+        "name": "Bad Habits (MEDUZA Remix)",
+        "url": "https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Rain On Me (with Ariana Grande)",
-      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2020-12-16 10:55:04",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/6LiCWteZBny6uiTf6GfYM3"
-      },
-      "artists": [
-        {
-          "name": "James Godfrey",
-          "url": "https://open.spotify.com/artist/1pW7nkXUFCEdCzVOzPKqlV"
-        },
-        {
-          "name": "Danielle Knoll",
-          "url": "https://open.spotify.com/artist/4WORCXhH4FPPjU8P87Tj2u"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/3Gn54LKKV2sQHG05yQPnO8"
-    },
-    {
-      "added_at": "2022-01-11 15:42:02",
-      "album": {
-        "name": "A Drug From God",
-        "url": "https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "NPC",
-          "url": "https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y"
-        }
-      ],
-      "duration_ms": 192455,
-      "name": "A Drug From God",
-      "url": "https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD"
-    },
-    {
-      "added_at": "2021-12-13 15:41:03",
-      "album": {
-        "name": "Pepas (Robin Schulz Remix)",
-        "url": "https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 280002,
-      "name": "Pepas - Robin Schulz Remix",
-      "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
+      "duration_ms": 194331,
+      "name": "Bad Habits - MEDUZA Remix",
+      "url": "https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM"
     },
     {
       "added_at": "2021-04-29 23:01:06",
@@ -1845,24 +1849,24 @@
       "url": "https://open.spotify.com/track/7cN7s2AvXLQHg6S5AyXf6v"
     },
     {
-      "added_at": "2021-12-21 15:45:02",
+      "added_at": "2022-01-11 15:42:02",
       "album": {
-        "name": "Don't Look Back",
-        "url": "https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ"
+        "name": "Rain On Me (with Ariana Grande)",
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
       "artists": [
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "MOELLE",
-          "url": "https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 238400,
-      "name": "Don't Look Back",
-      "url": "https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V"
+      "duration_ms": 182200,
+      "name": "Rain On Me (with Ariana Grande)",
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1885,10 +1889,30 @@
       "url": "https://open.spotify.com/track/0FHKZ1sDMl3p51DP4jjwm6"
     },
     {
+      "added_at": "2021-12-13 15:41:03",
+      "album": {
+        "name": "Pepas (Robin Schulz Remix)",
+        "url": "https://open.spotify.com/album/5EWuidCGbZUq4ChxSZhXAw"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 280002,
+      "name": "Pepas - Robin Schulz Remix",
+      "url": "https://open.spotify.com/track/016HNYjPtqVo1XMMI68bVA"
+    },
+    {
       "added_at": "2022-01-11 15:42:02",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd"
+        "name": "Fake A Smile",
+        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
       "artists": [
         {
@@ -1896,37 +1920,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "IS\u00c1K",
-          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
-    },
-    {
-      "added_at": "2022-01-11 15:42:02",
-      "album": {
-        "name": "Fireworks (feat. Moss Kena & The Knocks)",
-        "url": "https://open.spotify.com/album/7oKItkOXBRe3XwGP8ZMSLj"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Moss Kena",
-          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        }
-      ],
-      "duration_ms": 200015,
-      "name": "Fireworks (feat. Moss Kena & The Knocks)",
-      "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
+      "duration_ms": 168118,
+      "name": "Fake A Smile",
+      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -1953,40 +1953,44 @@
       "url": "https://open.spotify.com/track/5At3exVBWkAfqJGsRG8Z5L"
     },
     {
-      "added_at": "2021-12-22 15:41:02",
+      "added_at": "2022-01-11 15:42:02",
       "album": {
-        "name": "Ya Kidding",
-        "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/4ovjS3yvn1WNjtrUQWwlnd"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Ya Kidding",
-      "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
-    },
-    {
-      "added_at": "2021-12-22 15:41:02",
-      "album": {
-        "name": "My Humps",
-        "url": "https://open.spotify.com/album/5oIu4GbSrhxQLUhipFQiYb"
-      },
-      "artists": [
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Lee Foss",
-          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+          "name": "IS\u00c1K",
+          "url": "https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl"
         }
       ],
-      "duration_ms": 186046,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
+      "duration_ms": 165000,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"
+    },
+    {
+      "added_at": "2021-12-21 15:45:02",
+      "album": {
+        "name": "Don't Look Back",
+        "url": "https://open.spotify.com/album/3kWl8jchAKeK2VoT2sw1cZ"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "MOELLE",
+          "url": "https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O"
+        }
+      ],
+      "duration_ms": 238400,
+      "name": "Don't Look Back",
+      "url": "https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V"
     },
     {
       "added_at": "2020-12-02 10:55:04",
@@ -2013,20 +2017,20 @@
       "url": "https://open.spotify.com/track/529UH7VifSxUbFryjZeFpg"
     },
     {
-      "added_at": "2021-12-17 15:50:02",
+      "added_at": "2021-12-22 15:41:02",
       "album": {
-        "name": "Lovefool",
-        "url": "https://open.spotify.com/album/6UYWmM8RfG3DAKC7OyUPBT"
+        "name": "Ya Kidding",
+        "url": "https://open.spotify.com/album/3asXE8koS98nGPVDSPKe5e"
       },
       "artists": [
         {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 190487,
-      "name": "Lovefool",
-      "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
+      "duration_ms": 238080,
+      "name": "Ya Kidding",
+      "url": "https://open.spotify.com/track/3fDgxdcf0jeJgGiZJGUmyK"
     },
     {
       "added_at": "2020-12-16 10:55:04",
@@ -2055,22 +2059,26 @@
     {
       "added_at": "2022-01-11 15:42:02",
       "album": {
-        "name": "Fake A Smile",
-        "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
+        "name": "Fireworks (feat. Moss Kena & The Knocks)",
+        "url": "https://open.spotify.com/album/7oKItkOXBRe3XwGP8ZMSLj"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
         }
       ],
-      "duration_ms": 168118,
-      "name": "Fake A Smile",
-      "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+      "duration_ms": 200015,
+      "name": "Fireworks (feat. Moss Kena & The Knocks)",
+      "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
     }
   ],
   "url": "https://open.spotify.com/playlist/6P9kL0w6D5JnjAUGVQKXgD"

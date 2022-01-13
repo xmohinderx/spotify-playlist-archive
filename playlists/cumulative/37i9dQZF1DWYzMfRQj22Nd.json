@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "Speed Shades",
+        "url": "https://open.spotify.com/album/4dkrBYc3qupO70U3TfouzC"
+      },
+      "artists": [
+        {
+          "name": "Amoss",
+          "url": "https://open.spotify.com/artist/4dQKaBHBXpgWvb9iS2K0Gt"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270343,
+      "name": "2 Clicks",
+      "url": "https://open.spotify.com/track/6qmcvAzF7x0hcSRaQo7gXi"
+    },
+    {
+      "album": {
         "name": "4 Years",
         "url": "https://open.spotify.com/album/3X9TGk32Io5grbJN40Cg3e"
       },
@@ -245,7 +263,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 277241,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0RpsN5i29wzKUXUBRX0AVO"
@@ -263,7 +281,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 248372,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5r1SN9oydMavI39zqAwBoK"
@@ -633,7 +651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 248000,
       "name": "Collide - Bensley Remix",
       "url": "https://open.spotify.com/track/2DXL4PdMgc8VtoNWQIH17k"
@@ -817,7 +835,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 190344,
       "name": "Devotion (ft. Cameron Hayes)",
       "url": "https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC"
@@ -893,7 +911,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 270023,
       "name": "End of the Tunnel",
       "url": "https://open.spotify.com/track/63lxTNm8KYjbO55jieqBV1"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 251034,
       "name": "Farewell, Shadow",
       "url": "https://open.spotify.com/track/160erUotkHKGJKWmYQyFhV"
@@ -1159,7 +1177,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 230984,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/1MKUYM2oiCX4AtyuEocHBe"
@@ -1203,6 +1221,24 @@
       "duration_ms": 245437,
       "name": "Footprints",
       "url": "https://open.spotify.com/track/6YeUIUIFPpRKWsMU4IBZ7U"
+    },
+    {
+      "album": {
+        "name": "Late Night Soundtrack, Vol. 1",
+        "url": "https://open.spotify.com/album/7DptdCsyUhmV5qE38X0Gwk"
+      },
+      "artists": [
+        {
+          "name": "Workforce",
+          "url": "https://open.spotify.com/artist/2im0IjdcMRFwGxc5R4Jj82"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342118,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/5IX6pt1dUQe8v0xSN1WxIp"
     },
     {
       "album": {
@@ -1389,7 +1425,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -1425,7 +1461,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 328574,
       "name": "Halo Vip",
       "url": "https://open.spotify.com/track/7xzEzbwsSfAtpVOziLNrn2"
@@ -1615,7 +1651,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 184941,
       "name": "Hurt Me Too",
       "url": "https://open.spotify.com/track/0pdvvP1vP8zWRHeBCHdFbG"
@@ -1637,7 +1673,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 216551,
       "name": "I Need To Feel",
       "url": "https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh"
@@ -1677,7 +1713,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 230961,
       "name": "Instinct",
       "url": "https://open.spotify.com/track/7eaF4wiEcDvtW9I16O4vrF"
@@ -1911,7 +1947,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 342892,
       "name": "Lightspeed",
       "url": "https://open.spotify.com/track/6tZNjx8aR2gNMcsbx8la8r"
@@ -2181,7 +2217,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 204827,
       "name": "Miracle - REAPER Remix",
       "url": "https://open.spotify.com/track/41JyOI4feB5z5vK6asNeo5"
@@ -2247,7 +2283,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 318171,
       "name": "MONSTERS - K Motionz Remix",
       "url": "https://open.spotify.com/track/5c1trjKGPsdfInFtO4jdkQ"
@@ -2631,7 +2667,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 200930,
       "name": "People of Eve",
       "url": "https://open.spotify.com/track/4A3LjYFcuPtVc5cEK20x9t"
@@ -2993,7 +3029,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 275862,
       "name": "Run Tings",
       "url": "https://open.spotify.com/track/0pTPFRllyljfjmAXRhmmNl"
@@ -3153,7 +3189,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 223526,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/3q2uX1BAjCiKmhEQiqWZTD"
@@ -3230,6 +3266,32 @@
     },
     {
       "album": {
+        "name": "Sick (AIRGLO Remix)",
+        "url": "https://open.spotify.com/album/1LTEuEKgtKveQ9KcviB04J"
+      },
+      "artists": [
+        {
+          "name": "Bobby Duque",
+          "url": "https://open.spotify.com/artist/0tNgN8uhMGgvZgWfRzEFcm"
+        },
+        {
+          "name": "Armanni Reign",
+          "url": "https://open.spotify.com/artist/7eLk4SsrtZtCANV4X713uI"
+        },
+        {
+          "name": "AIRGLO",
+          "url": "https://open.spotify.com/artist/6J9iVHqjoo2ZCXq4kVgm4Z"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288275,
+      "name": "Sick - AIRGLO Remix",
+      "url": "https://open.spotify.com/track/1qCtbdcrzORIig25dT8wdT"
+    },
+    {
+      "album": {
         "name": "Sidestep / Looped",
         "url": "https://open.spotify.com/album/0I7r4P5cbzk20cFSgSWBpS"
       },
@@ -3241,7 +3303,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 280603,
       "name": "Sidestep",
       "url": "https://open.spotify.com/track/6B43OuVBkeGFxhpY2HBdo2"
@@ -3277,7 +3339,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 303448,
       "name": "Spice Weasel (BAM)",
       "url": "https://open.spotify.com/track/1l8exxRt0Da33dfrEzqiMR"
@@ -3357,7 +3419,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 234608,
       "name": "Sukara",
       "url": "https://open.spotify.com/track/79J24ARBkAa5yTkEfFHjsM"
@@ -3539,7 +3601,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 353103,
       "name": "There for You - LSB Remix",
       "url": "https://open.spotify.com/track/6jLWsTbWniLvGEDSCQPin9"
@@ -3557,7 +3619,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 285833,
       "name": "Together Again (I Pray)",
       "url": "https://open.spotify.com/track/72DrNkZ3qRLmxbTCBcgR9D"
@@ -3619,7 +3681,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Ultralight",
       "url": "https://open.spotify.com/track/04LnHmJRweO8XIM0Uo5314"
@@ -3659,7 +3721,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 202068,
       "name": "Visions",
       "url": "https://open.spotify.com/track/6RCj3fC9noAbICYFX6ieNY"

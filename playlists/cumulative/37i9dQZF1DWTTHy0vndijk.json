@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 183787,
       "name": "Boogie Up",
       "url": "https://open.spotify.com/track/6u5ipVfAHGjTXvWuiI5sKB"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 217066,
       "name": "BUTTERFLY",
       "url": "https://open.spotify.com/track/33PStuI2gJCeZcYQIOHXAU"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 193587,
       "name": "Darling",
       "url": "https://open.spotify.com/track/5v35YFI9cvLXgFaaVBrNzK"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 224586,
       "name": "Feel Good (SECRET CODE)",
       "url": "https://open.spotify.com/track/2ZpL1wqiiQ3DUWEjo8CgFL"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 203482,
       "name": "Glass Bead",
       "url": "https://open.spotify.com/track/2rFRa1eJ8RqlINbJCZwdtt"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 191378,
       "name": "Glass Shoes",
       "url": "https://open.spotify.com/track/1VNuUzsWTp1WGf3mMeItvp"
@@ -1088,6 +1088,24 @@
     },
     {
       "album": {
+        "name": "Lovelyz8",
+        "url": "https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8"
+      },
+      "artists": [
+        {
+          "name": "Lovelyz",
+          "url": "https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224868,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/1RU6HeXx1pN7poHSKoKTvm"
+    },
+    {
+      "album": {
         "name": "MISS THIS KISS",
         "url": "https://open.spotify.com/album/12MyxJ4eexywVHiMxIWpyG"
       },
@@ -1099,7 +1117,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 196866,
       "name": "Hwi hwi",
       "url": "https://open.spotify.com/track/3pPbm1d9G0jAHIoLa4ls9H"
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 185720,
       "name": "In the Same Place",
       "url": "https://open.spotify.com/track/5Fkxps5UUaYg2jANR5SlOl"
@@ -1279,7 +1297,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 189533,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/50ajzamysWhpMUVP89gfsQ"
@@ -1297,7 +1315,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 195753,
       "name": "KNOCK KNOCK",
       "url": "https://open.spotify.com/track/7kKvrBLjXFPFWtEAjT59CV"
@@ -1585,7 +1603,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 222525,
       "name": "MoMoMo",
       "url": "https://open.spotify.com/track/6x8F0VYPwgT0R0ogdp2vCS"
@@ -1621,7 +1639,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 199653,
       "name": "MORE & MORE",
       "url": "https://open.spotify.com/track/3omvXShuRPM3zbDpWYqf5g"
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 193579,
       "name": "NAVILLERA",
       "url": "https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv"
@@ -1765,7 +1783,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 211960,
       "name": "Now or Never",
       "url": "https://open.spotify.com/track/1FNZqjmqkJgE5Bn8BAzZGt"
@@ -1859,7 +1877,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 222306,
       "name": "ONION (feat. Suk Hoon Chang)",
       "url": "https://open.spotify.com/track/3Ivg8dodsNmteJwA8hyQge"
@@ -1877,7 +1895,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 215091,
       "name": "OOH-AHH\ud558\uac8c Like OOH-AHH",
       "url": "https://open.spotify.com/track/41r0BLWVIdo7CaKowcUDgM"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 202040,
       "name": "Power Up",
       "url": "https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 214440,
       "name": "PROMISE (for UNICEF Promise Campaign)",
       "url": "https://open.spotify.com/track/2Gceplet3jzhweUib54mhf"
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 200933,
       "name": "RING X RING",
       "url": "https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv"
@@ -2201,7 +2219,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 196687,
       "name": "SIGNAL",
       "url": "https://open.spotify.com/track/5GIHnMRDeDDIDsy8AcrF4Y"
@@ -2309,7 +2327,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 189017,
       "name": "Summer Dream",
       "url": "https://open.spotify.com/track/598m79JEjWwQkh4eCdV8Nx"
@@ -2381,10 +2399,28 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 221150,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/0DNTNFa6zMDfjqpQFdcb3q"
+    },
+    {
+      "album": {
+        "name": "Clean With Passion For Now, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TEhGv56KAw3ad8mhHcrAF"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL BANHANA",
+          "url": "https://open.spotify.com/artist/0X1f2U9bxiC3DhKA8OcvgG"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221136,
+      "name": "Sweet Heart",
+      "url": "https://open.spotify.com/track/7epNwgPw8FrM1zZBWLOplG"
     },
     {
       "album": {
@@ -2399,7 +2435,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 207742,
       "name": "SWEET TALKER",
       "url": "https://open.spotify.com/track/3J10xA3LIiMmaPxKC9h0Jq"
@@ -2651,7 +2687,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 212990,
       "name": "TT",
       "url": "https://open.spotify.com/track/4ACeAntCpOxVeIcivmqG4S"
@@ -2741,7 +2777,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 215666,
       "name": "VIVACE",
       "url": "https://open.spotify.com/track/4t2A9XnGWrIqzKOYKYfPTr"
@@ -3015,7 +3051,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 191813,
       "name": "Will you go out with me",
       "url": "https://open.spotify.com/track/3CxFmlsOtbFuv7w4YE2OND"

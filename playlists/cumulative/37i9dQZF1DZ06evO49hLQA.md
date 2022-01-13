@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO49hLQA.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO49hLQA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO49hLQA)
 
-### This Is AC/DC \(2\)
+### This Is AC/DC
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 

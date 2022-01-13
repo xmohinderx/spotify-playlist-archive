@@ -153,7 +153,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 188368,
       "name": "Ay Mami",
       "url": "https://open.spotify.com/track/2biqXOyhcD2U0EqycTdqhk"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 173863,
       "name": "Bagdad",
       "url": "https://open.spotify.com/track/0y4x1MhfyZ41KvoLwWP3PY"
@@ -393,7 +393,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 148571,
       "name": "Co$hi",
       "url": "https://open.spotify.com/track/6bE2qmHeddAKGyizPNL62u"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 177506,
       "name": "Contra la Pared",
       "url": "https://open.spotify.com/track/1AOJGa2b29LokEYqaaHWyg"
@@ -537,7 +537,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 168315,
       "name": "Date Date",
       "url": "https://open.spotify.com/track/2ahikqDplQlkRgmr76u3tU"
@@ -577,10 +577,62 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 153495,
       "name": "De Tin Marin",
       "url": "https://open.spotify.com/track/5S4pezCIx9zIz1xRVcdOOP"
+    },
+    {
+      "album": {
+        "name": "Dejav\u00fa",
+        "url": "https://open.spotify.com/album/73oiVusyAWk7MXV2bavtIf"
+      },
+      "artists": [
+        {
+          "name": "DJ Tona",
+          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
+        },
+        {
+          "name": "A-WING",
+          "url": "https://open.spotify.com/artist/2zj5Z9L8qLFrcdkRHsLek9"
+        },
+        {
+          "name": "Efe Baby",
+          "url": "https://open.spotify.com/artist/1ezrMxapdeMeP6a7brwkWq"
+        },
+        {
+          "name": "Matt Vargas",
+          "url": "https://open.spotify.com/artist/4UjXGM1HMpliImxMOdiiTz"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192019,
+      "name": "Dejav\u00fa",
+      "url": "https://open.spotify.com/track/6UJYf3tf4XzWYTsRT3eBHU"
+    },
+    {
+      "album": {
+        "name": "Dioza",
+        "url": "https://open.spotify.com/album/1lvjgKQrIdVvCW1br8seek"
+      },
+      "artists": [
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177473,
+      "name": "Dioza",
+      "url": "https://open.spotify.com/track/5Wll8fBMWCf3jeqFg0zmeR"
     },
     {
       "album": {
@@ -873,7 +925,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 110788,
       "name": "Lento",
       "url": "https://open.spotify.com/track/6bMSP5IyrfELhfMy93KPYT"
@@ -1038,6 +1090,36 @@
     },
     {
       "album": {
+        "name": "Paraguas",
+        "url": "https://open.spotify.com/album/35PFiMBAmkkXxvtcw3LAf8"
+      },
+      "artists": [
+        {
+          "name": "Alan Rosales",
+          "url": "https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs"
+        },
+        {
+          "name": "Tavo Rayo",
+          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
+        },
+        {
+          "name": "TBX",
+          "url": "https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp"
+        },
+        {
+          "name": "El Lechero",
+          "url": "https://open.spotify.com/artist/4VqMuj3cnJiS3i4k6b1v7s"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Paraguas",
+      "url": "https://open.spotify.com/track/6bfh4VUbIokNv6NofW9pIl"
+    },
+    {
+      "album": {
         "name": "Pasito Chacalon",
         "url": "https://open.spotify.com/album/53R6GRQ1RYE0H4dn1xwdBW"
       },
@@ -1067,7 +1149,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 170400,
       "name": "Perra",
       "url": "https://open.spotify.com/track/53GuGDwZqQUA9kATFaV7sS"
@@ -1089,7 +1171,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 146666,
       "name": "Perreito",
       "url": "https://open.spotify.com/track/4M9NvPCoKDqaVwoC5nY33X"
@@ -1351,7 +1433,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 207157,
       "name": "Saludos a mi Ex",
       "url": "https://open.spotify.com/track/3dUOKJwVYnbcrBHDfTsUbL"
@@ -1425,7 +1507,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 138823,
       "name": "Si Baja",
       "url": "https://open.spotify.com/track/7gM8yNTLCYRJQ7IyhMxt7z"
@@ -1465,7 +1547,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 205296,
       "name": "Suena Perreo",
       "url": "https://open.spotify.com/track/5DizCtWxvshIngUI3SqQ86"
@@ -1583,7 +1665,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 156000,
       "name": "Vasito Rojo (feat. Jose Dolche & Paulina Fuego)",
       "url": "https://open.spotify.com/track/29WGTtAAeQgyFEh95FqqgL"

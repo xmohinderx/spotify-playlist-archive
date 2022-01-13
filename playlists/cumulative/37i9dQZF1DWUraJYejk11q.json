@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 480000,
       "name": "Advertised",
       "url": "https://open.spotify.com/track/6Nleh9HiXzeIMQiMg80WCp"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 183529,
       "name": "Coral Jazz",
       "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
@@ -549,6 +549,24 @@
       "duration_ms": 631606,
       "name": "Fantas",
       "url": "https://open.spotify.com/track/0fjYD3Tx5XHuI4yfCjhUfU"
+    },
+    {
+      "album": {
+        "name": "For your safety",
+        "url": "https://open.spotify.com/album/3L1YegCnsVaikVxsL4Fypv"
+      },
+      "artists": [
+        {
+          "name": "VTSS",
+          "url": "https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "For your safety",
+      "url": "https://open.spotify.com/track/3yIKczp0CRsnGtK7P0e5R6"
     },
     {
       "album": {
@@ -815,7 +833,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 223796,
       "name": "Industry (Green Light/Fun Night Breaks Mix) - Edit",
       "url": "https://open.spotify.com/track/0W1T5IlmEnh79pWQ4Wj211"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 213818,
       "name": "Junkyard",
       "url": "https://open.spotify.com/track/0e6DNQUhI8lQKxmpY3sgA3"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 303940,
       "name": "Life In A Mind",
       "url": "https://open.spotify.com/track/4JVF59QcAnw65v74ZK4DW2"
@@ -1159,6 +1177,24 @@
       "duration_ms": 258879,
       "name": "Marzipan Leftlovers (Ignazz Remix)",
       "url": "https://open.spotify.com/track/0WMa0q6v76ctwdjI6Ph0ZG"
+    },
+    {
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
+      },
+      "artists": [
+        {
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
       "album": {
@@ -1491,7 +1527,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 192091,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/6isKSUpCXSpVLIPT0HMtny"
@@ -1534,6 +1570,28 @@
     },
     {
       "album": {
+        "name": "This Is An Advertisement",
+        "url": "https://open.spotify.com/album/3dD5AxY5S7g5j4he0QOSJ9"
+      },
+      "artists": [
+        {
+          "name": "usr/friendly",
+          "url": "https://open.spotify.com/artist/2Tf35i1626AZKiQqUx2xfE"
+        },
+        {
+          "name": "Oketo",
+          "url": "https://open.spotify.com/artist/5JBjc1UhLlvqmifk3WLAFg"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199666,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
+    },
+    {
+      "album": {
         "name": "So",
         "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
       },
@@ -1567,6 +1625,24 @@
       "duration_ms": 75000,
       "name": "Space 3",
       "url": "https://open.spotify.com/track/3hnaQzwgcPZTAjkgdzxdOc"
+    },
+    {
+      "album": {
+        "name": "Firstsun",
+        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
+      },
+      "artists": [
+        {
+          "name": "Sunsick",
+          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188802,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
       "album": {
@@ -1884,6 +1960,24 @@
     },
     {
       "album": {
+        "name": "Wedbecutetoget-her",
+        "url": "https://open.spotify.com/album/1Lpu55DV9ThB7G0ClRpM7N"
+      },
+      "artists": [
+        {
+          "name": "o0o",
+          "url": "https://open.spotify.com/artist/5J1ISo62brLWWq3ylID7BR"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219036,
+      "name": "Wedbecutetoget-her",
+      "url": "https://open.spotify.com/track/2aUqSrIw15sfRdMwjQaRg2"
+    },
+    {
+      "album": {
         "name": "Month One",
         "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
       },
@@ -1917,6 +2011,24 @@
       "duration_ms": 176938,
       "name": "When",
       "url": "https://open.spotify.com/track/4TUYrm2JRTV5dCOjKFSz8f"
+    },
+    {
+      "album": {
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
+      },
+      "artists": [
+        {
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "album": {

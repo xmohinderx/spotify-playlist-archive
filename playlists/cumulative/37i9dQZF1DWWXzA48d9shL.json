@@ -632,6 +632,24 @@
     },
     {
       "album": {
+        "name": "dignity",
+        "url": "https://open.spotify.com/album/7nbZ5aIEgcTYtxJv3esZl6"
+      },
+      "artists": [
+        {
+          "name": "KevinKempt",
+          "url": "https://open.spotify.com/artist/5rW6rpuV2MZfke72uiQe8a"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178804,
+      "name": "dignity",
+      "url": "https://open.spotify.com/track/1Ov0gxcMyTR2zwm2Xs9Bb8"
+    },
+    {
+      "album": {
         "name": "Doomset",
         "url": "https://open.spotify.com/album/74PVXg6QOd1PYlyzVMJ1Dm"
       },
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 116376,
       "name": "in heat.",
       "url": "https://open.spotify.com/track/6T3sH1EuBMijU1MHe2WFJt"
@@ -1577,7 +1595,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 129032,
       "name": "Pipe Down",
       "url": "https://open.spotify.com/track/1xw3s0E9MNtRftzYFQrdqt"
@@ -2061,6 +2079,24 @@
       "duration_ms": 97057,
       "name": "YASOPP",
       "url": "https://open.spotify.com/track/5MLlfYP9uZUGqsaPtUAVQe"
+    },
+    {
+      "album": {
+        "name": "ZION",
+        "url": "https://open.spotify.com/album/6l3tyk6ErNLCFawmOBxtjE"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135923,
+      "name": "ZION",
+      "url": "https://open.spotify.com/track/6d50U6mggEyAZHrFfblVpE"
     },
     {
       "album": {

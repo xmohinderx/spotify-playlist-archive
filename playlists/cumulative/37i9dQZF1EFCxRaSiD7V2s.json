@@ -2335,10 +2335,32 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 217573,
       "name": "Nighty Night",
       "url": "https://open.spotify.com/track/6kAO7qxLvSzcJFcgheLzod"
+    },
+    {
+      "album": {
+        "name": "Jukebox the Ghost & Jenny Owen Youngs",
+        "url": "https://open.spotify.com/album/1uoCeITzSPJXxbmqn74P6X"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "Jukebox The Ghost",
+          "url": "https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184610,
+      "name": "Nighty Night",
+      "url": "https://open.spotify.com/track/2IwN0YJUCXz97UZVQV9MB0"
     },
     {
       "album": {

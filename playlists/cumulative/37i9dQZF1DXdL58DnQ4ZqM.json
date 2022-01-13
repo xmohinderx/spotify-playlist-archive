@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow tracks with slow tempo beats, perfect to a Chill Afternoon.",
+  "description": "Mellow tracks with slow tempo beats, perfect for a Chill Afternoon.",
   "name": "Lazy Chill Afternoon",
   "published_playlist_ids": [
     "0pfme9U2upA9SIxDVZWpEc"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 185139,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/74OJcb0urbXBKWVkGd4hxg"
@@ -135,6 +135,24 @@
       "duration_ms": 209230,
       "name": "Back to Pollensa",
       "url": "https://open.spotify.com/track/6SlPpTQIa7QQk0NYrA99xF"
+    },
+    {
+      "album": {
+        "name": "Balihai Baby",
+        "url": "https://open.spotify.com/album/1KQX73PPoYCPOmUqd8aDXl"
+      },
+      "artists": [
+        {
+          "name": "Dubchek",
+          "url": "https://open.spotify.com/artist/3AUPQIzno2JKVmQwNi4YcG"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Balihai Baby",
+      "url": "https://open.spotify.com/track/65rWh7Lc5MwCv0LsUozsSf"
     },
     {
       "album": {
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 243055,
       "name": "Crickets",
       "url": "https://open.spotify.com/track/7CqucSHBqZxiwflzXahNzX"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 214579,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0BnOGTQYYZYEXsgA1ryRYT"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 264000,
       "name": "How Long Can I Wait For You",
       "url": "https://open.spotify.com/track/4F8VrvlBuG3pN2YNxyZIEk"
@@ -905,7 +923,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 287786,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/5HRtJMdJWaRmyHi5minx38"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 234782,
       "name": "Lifeline - Chill Out Mix",
       "url": "https://open.spotify.com/track/2srEuJYCkgAg4RbLlFI7dl"
@@ -1197,7 +1215,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 353333,
       "name": "Midnight Mood",
       "url": "https://open.spotify.com/track/2Ja6olyQK3JtLf1pvcgM8z"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 231933,
       "name": "Moody Caf\u00e9",
       "url": "https://open.spotify.com/track/1P1xOcWnRrekSVO7xbTB9M"
@@ -1489,7 +1507,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 345600,
       "name": "Platonic Jive",
       "url": "https://open.spotify.com/track/3TjIRkNUnTpS3TaBCSCdP6"
@@ -1709,7 +1727,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 286820,
       "name": "Solitary Fields",
       "url": "https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X"
@@ -2105,7 +2123,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Walking On the Sand",
       "url": "https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga"

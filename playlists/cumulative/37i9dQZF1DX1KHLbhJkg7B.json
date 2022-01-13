@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 196400,
       "name": "(I Never Promised You A) Rose Garden",
       "url": "https://open.spotify.com/track/3UB02E0dG5TZwEwpeXboFa"
@@ -102,6 +102,28 @@
     },
     {
       "album": {
+        "name": "A Country Boy Can Survive",
+        "url": "https://open.spotify.com/album/0BqsK35y12o3kJ6fePAeai"
+      },
+      "artists": [
+        {
+          "name": "Monarch Cast",
+          "url": "https://open.spotify.com/artist/7Dw7t1oeEFmhuqDntWaxyX"
+        },
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254826,
+      "name": "A Country Boy Can Survive",
+      "url": "https://open.spotify.com/track/5Xa9KNhvOogPz6hklgiHXO"
+    },
+    {
+      "album": {
         "name": "The Ice Road",
         "url": "https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS"
       },
@@ -113,7 +135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 170047,
       "name": "All I Do Is Drive",
       "url": "https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs"
@@ -337,7 +359,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 232306,
       "name": "Brown Eyed Girl",
       "url": "https://open.spotify.com/track/2fCpWoMuAumaULLfzxBC6l"
@@ -449,7 +471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 213938,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/4pWb8UZ6IPVJA3CPjCNgzq"
@@ -471,7 +493,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 242022,
       "name": "Country State Of Mind",
       "url": "https://open.spotify.com/track/1vVbMOgQbT7kp3Ri0gI9KR"
@@ -1215,7 +1237,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 153066,
       "name": "I'm In A Hurry",
       "url": "https://open.spotify.com/track/7rDq2VT10fuTB0h4Hwx7oC"
@@ -1621,7 +1643,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 180600,
       "name": "Louisiana Woman, Mississippi Man (with Martina McBride)",
       "url": "https://open.spotify.com/track/1us6oZFgV57a0aPSZt69ZL"
@@ -1759,7 +1781,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 232173,
       "name": "Not Over You (feat. Gavin DeGraw) (feat. Gavin DeGraw)",
       "url": "https://open.spotify.com/track/0IiB5z6d30qELn5yTe2wjM"
@@ -2077,7 +2099,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 271771,
       "name": "Simple Man",
       "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
@@ -2355,7 +2377,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 295880,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/0vu6Z3bep8kpcy9O2YExzg"
@@ -2593,7 +2615,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 226747,
       "name": "When I Was Your Man",
       "url": "https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx"
@@ -2651,7 +2673,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 247693,
       "name": "Whenever I Call You \"Friend\" (feat. Phillip Sweet)",
       "url": "https://open.spotify.com/track/3hY1wEShrxHsKAwxLnFOU3"
@@ -2705,7 +2727,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 228267,
       "name": "Wide Open Spaces",
       "url": "https://open.spotify.com/track/64d57F5OPdla3P0zK4NSAY"

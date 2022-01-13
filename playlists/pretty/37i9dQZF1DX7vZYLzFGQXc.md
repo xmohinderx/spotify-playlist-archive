@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: 87dance\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,915 likes - 42 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,958 likes - 42 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 5 | [Don’t leave me](https://open.spotify.com/track/2dCdsjqXimyph1JhY0d6zh) | [Joo Yeah In](https://open.spotify.com/artist/7d6BBg8XkgDcmtcP6iBCqU), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Do you remember \[vol.3\]](https://open.spotify.com/album/5dr2acsUaoSqQaOIRtHpq8) | 4:21 |
 | 6 | [Olympic Road \(Feat\. CRUCiAL STAR\)](https://open.spotify.com/track/0SAL7zV02CKX8zmlnCyGuQ) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Archive](https://open.spotify.com/album/2hqvhJUhGwzlyiGtAQoxFP) | 3:54 |
 | 7 | [Invitation to Me](https://open.spotify.com/track/2VBy7ZWzVEEwHk6zEysJkB) | [or&](https://open.spotify.com/artist/4no4PT1TpWv2dLToYVUXpl) | [Young Lady And Gentleman \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/40rXHUGk7PLgbnB84yqMh2) | 4:10 |
-| 8 | [Victoria’s Secret \(Feat\. BIGONE\)\(Prod\. PATEKO\)](https://open.spotify.com/track/3DaDWA39nkYGI0ZEYW92lL) | [Dive](https://open.spotify.com/artist/1FqFb3OhgJhXPOdg3Rzocd), [BIGONE \(빅원\)](https://open.spotify.com/artist/1H6DvHDBoqa90R4PtdCpev) | [Victoria's Secret](https://open.spotify.com/album/281HGE21DUao3PJgRW5pnc) | 2:17 |
+| 8 | [Victoria’s Secret \(Feat\. BIGONE\)\(Prod\. PATEKO\)](https://open.spotify.com/track/3DaDWA39nkYGI0ZEYW92lL) | [Dive](https://open.spotify.com/artist/4w8oii6G14fuKUgqWkcPH2), [BIGONE \(빅원\)](https://open.spotify.com/artist/1H6DvHDBoqa90R4PtdCpev) | [Victoria's Secret](https://open.spotify.com/album/281HGE21DUao3PJgRW5pnc) | 2:17 |
 | 9 | [Imagination](https://open.spotify.com/track/6bu46wideo906lqbjMU9nL) | [Jung Do Yoon](https://open.spotify.com/artist/6nqgOG8vAVWUrzb6fthlN2) | [Imagination](https://open.spotify.com/album/5Of0RIjIxo6B4TIZS0oTYd) | 3:36 |
 | 10 | [Somebody Else \(Feat\. WH3N\)](https://open.spotify.com/track/1qL6XZP3uXVoCCMH2gWGu2) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Somebody Else](https://open.spotify.com/album/6UmzzlVbkE9QJ0HtTkhbsP) | 3:33 |
 | 11 | [KEY BOARD](https://open.spotify.com/track/2lQYm0Y64QxnBbSTSuu0qc) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [KEY BOARD](https://open.spotify.com/album/26yTMDx0rfJjjHBCVuHQ32) | 3:23 |

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists in the UK + Ireland. Cover: katie phelan",
-  "name": "Fresh Finds UK & IE: Class of 2021",
+  "description": "The best new music by independent artists in the UK + Ireland. Cover: Cooza",
+  "name": "Fresh Finds UK & IE",
   "published_playlist_ids": [
     "090V93uH2o5GpxzFZ23Tsa"
   ],
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 225882,
       "name": "Always In My Mind",
       "url": "https://open.spotify.com/track/0s7m8YO4PySqdy6THD3cjI"
@@ -362,6 +362,42 @@
     },
     {
       "album": {
+        "name": "Eating",
+        "url": "https://open.spotify.com/album/7Mh1MvLa9QJDU7LNkWyUjE"
+      },
+      "artists": [
+        {
+          "name": "Scuti",
+          "url": "https://open.spotify.com/artist/0U22PYRY87xqfpBJgRt4US"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193781,
+      "name": "Eating",
+      "url": "https://open.spotify.com/track/4t3D7cnJSd0geNiVxDgEWa"
+    },
+    {
+      "album": {
+        "name": "Polarity",
+        "url": "https://open.spotify.com/album/0tpe4LCmob9pd8VsZLxxY4"
+      },
+      "artists": [
+        {
+          "name": "James Larter",
+          "url": "https://open.spotify.com/artist/0Vjas2yAr6vXNjxzPs6JTl"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139967,
+      "name": "Espresso Martini",
+      "url": "https://open.spotify.com/track/0hXCsn1ypfVmqCcrQ73Ctw"
+    },
+    {
+      "album": {
         "name": "everything looks darker now",
         "url": "https://open.spotify.com/album/7vYk62s2xBiA45E1rTXLAc"
       },
@@ -431,6 +467,24 @@
       "duration_ms": 198000,
       "name": "For Good",
       "url": "https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/67EXNhOvcsn4PvZxEiylrX"
+      },
+      "artists": [
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2OXw449ZsYsuPmaaygMwin"
     },
     {
       "album": {
@@ -511,7 +565,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 162306,
       "name": "Good Grief",
       "url": "https://open.spotify.com/track/6AbWcTW4KcqHoo0vIVTuNc"
@@ -583,7 +637,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 230395,
       "name": "Honeymoon Suite",
       "url": "https://open.spotify.com/track/1EOZIGxpA8NAYAoFd2V8OW"
@@ -673,7 +727,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 195750,
       "name": "I'M FINE! I'M GOOD! I'M PERFECT!",
       "url": "https://open.spotify.com/track/1ES945YJBmADUuIkXr3Mv3"
@@ -698,6 +752,28 @@
     },
     {
       "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2aN0qlMt2CWrcsJPjpj6w7"
+      },
+      "artists": [
+        {
+          "name": "Kirk Spencer",
+          "url": "https://open.spotify.com/artist/3ej0mRP8GFP0h3MXdWKjKh"
+        },
+        {
+          "name": "Louis Scott",
+          "url": "https://open.spotify.com/artist/11Kul5U27fFSKN9vVQnpCk"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246500,
+      "name": "Is This It",
+      "url": "https://open.spotify.com/track/5TPaa2NdR5Mx36DhjeuAGu"
+    },
+    {
+      "album": {
         "name": "It Gets Better",
         "url": "https://open.spotify.com/album/39y3q6c8tlXnleiNyfuRBa"
       },
@@ -709,7 +785,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 181000,
       "name": "It Gets Better",
       "url": "https://open.spotify.com/track/3v5uYAI7bODu4gp6FHizGc"
@@ -731,6 +807,24 @@
       "duration_ms": 199776,
       "name": "Jenny",
       "url": "https://open.spotify.com/track/4xjVOnjX4WuKYLvOJRRH90"
+    },
+    {
+      "album": {
+        "name": "June from the Endz",
+        "url": "https://open.spotify.com/album/6vu21GT7hNMpb7M7XIWGvK"
+      },
+      "artists": [
+        {
+          "name": "Big Tefs",
+          "url": "https://open.spotify.com/artist/5L1LXromnAVvVl3FisgmVk"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201072,
+      "name": "June from the Endz",
+      "url": "https://open.spotify.com/track/6wWlSedPEGz4HTCKnAevMW"
     },
     {
       "album": {
@@ -781,7 +875,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 206692,
       "name": "Life On The TV",
       "url": "https://open.spotify.com/track/4qp7NM0v0tpJFQkWDF1oLS"
@@ -873,7 +967,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 164885,
       "name": "Make A Move",
       "url": "https://open.spotify.com/track/4PcZlqSJ8V3Jh1iULfLoTa"
@@ -899,6 +993,24 @@
       "duration_ms": 296344,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2EpLUT80X1FVKLN1hqiB6o"
+    },
+    {
+      "album": {
+        "name": "Maybe I Could Tell You",
+        "url": "https://open.spotify.com/album/1sp3LUOST1GgRCUY4ZMqNT"
+      },
+      "artists": [
+        {
+          "name": "Superlove",
+          "url": "https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Maybe I Could Tell You",
+      "url": "https://open.spotify.com/track/6OezoHtPWWnBoT3zJBuGIe"
     },
     {
       "album": {
@@ -931,7 +1043,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 157590,
       "name": "Mood",
       "url": "https://open.spotify.com/track/1CM3iPAkh18R4hFtZic86O"
@@ -985,10 +1097,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 135924,
       "name": "NICE GUY",
       "url": "https://open.spotify.com/track/0ZddcKIfGkeINjDMjXKybe"
+    },
+    {
+      "album": {
+        "name": "Night Wars",
+        "url": "https://open.spotify.com/album/2kJQ4ANqBpsXELuK4eQzgM"
+      },
+      "artists": [
+        {
+          "name": "Lees",
+          "url": "https://open.spotify.com/artist/4xb5O8bO4LzyDuQWRE8C73"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222550,
+      "name": "Night Wars",
+      "url": "https://open.spotify.com/track/0mqpWeKgVJHZ72dM1dHc5d"
     },
     {
       "album": {
@@ -1057,7 +1187,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 160880,
       "name": "Outcome",
       "url": "https://open.spotify.com/track/5WI43hFI8F58HlcIDFpKFK"
@@ -1158,6 +1288,42 @@
     },
     {
       "album": {
+        "name": "racing raindrops",
+        "url": "https://open.spotify.com/album/0w51CRLGBRdOnDOr0oBlqV"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216986,
+      "name": "racing raindrops",
+      "url": "https://open.spotify.com/track/4A2Y5ElDIuDT4e4KGLVtcy"
+    },
+    {
+      "album": {
+        "name": "Rice And Peas",
+        "url": "https://open.spotify.com/album/15Vvnll1Oi3325I4HzBjnT"
+      },
+      "artists": [
+        {
+          "name": "Gbnga",
+          "url": "https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "Rice And Peas",
+      "url": "https://open.spotify.com/track/6UgAx9ilu2DbqTi8650kz5"
+    },
+    {
+      "album": {
         "name": "she only likes it when im acting",
         "url": "https://open.spotify.com/album/5pogV8b7Hk8ckRvhzmV0WM"
       },
@@ -1173,6 +1339,24 @@
       "duration_ms": 165000,
       "name": "she only likes it when im acting",
       "url": "https://open.spotify.com/track/6RYWkmfaxmuVVIJeICQEMw"
+    },
+    {
+      "album": {
+        "name": "Sick of It",
+        "url": "https://open.spotify.com/album/00PwfYLAalFybBEm6LFnSC"
+      },
+      "artists": [
+        {
+          "name": "wtr",
+          "url": "https://open.spotify.com/artist/5eX9fwoNnYywE0qOFazRbF"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210576,
+      "name": "Sick of It",
+      "url": "https://open.spotify.com/track/5QXGw1NqlVAkl3DYj9zUcZ"
     },
     {
       "album": {
@@ -1205,10 +1389,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 178682,
       "name": "Skitz",
       "url": "https://open.spotify.com/track/2ziUaTw3sQHI9FHCVk6ob3"
+    },
+    {
+      "album": {
+        "name": "Characters",
+        "url": "https://open.spotify.com/album/0Asw8w4ca0CgkNiQwC5r1t"
+      },
+      "artists": [
+        {
+          "name": "Flo Perlin",
+          "url": "https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231823,
+      "name": "Slowly Unfold",
+      "url": "https://open.spotify.com/track/7lQPodSzW79M3FcbLUcHfB"
     },
     {
       "album": {
@@ -1227,6 +1429,24 @@
       "duration_ms": 144347,
       "name": "SMOKING KILLS",
       "url": "https://open.spotify.com/track/78rxyYb4ZaW3gtzgFANyCJ"
+    },
+    {
+      "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/4JdhL4OxavNriCvKgBoY3b"
+      },
+      "artists": [
+        {
+          "name": "Low Girl",
+          "url": "https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193994,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/2Ydl0tdL1G2mqVxCLNDsPa"
     },
     {
       "album": {
@@ -1325,7 +1545,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 196080,
       "name": "Take the Pain",
       "url": "https://open.spotify.com/track/16m8ry0NbJdzflEDXRGs9D"

@@ -1,13 +1,29 @@
 {
   "description": "Dale duro con los \u00e9xitos perreadores virales del momento.",
   "name": "Perreo Viral",
-  "num_followers": 146040,
+  "num_followers": 146267,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg3MjEyMSwwMDAwMDA3YjAwMDAwMTdlNDczNDVlYzUwMDAwMDE3NTA0Y2FiYmQx",
+  "snapshot_id": "MTY0MjAyMDY5MSwwMDAwMDA3YzAwMDAwMTdlNTAwZjVkMjYwMDAwMDE3NTA0Y2FiYmQx",
   "tracks": [
+    {
+      "added_at": "2022-01-04 17:25:35",
+      "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 178266,
+      "name": "Wao",
+      "url": "https://open.spotify.com/track/2B4nQ6yvVVBMqfgOrYtubb"
+    },
     {
       "added_at": "2022-01-04 17:25:35",
       "album": {
@@ -307,6 +323,26 @@
       "duration_ms": 352441,
       "name": "Sigue Bailandome",
       "url": "https://open.spotify.com/track/0GmiGIxXDNrePrHBpijYDp"
+    },
+    {
+      "added_at": "2022-01-12 20:51:31",
+      "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
     },
     {
       "added_at": "2022-01-04 17:25:35",
@@ -851,22 +887,6 @@
     {
       "added_at": "2022-01-04 17:25:35",
       "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 199160,
-      "name": "Comerte Toda",
-      "url": "https://open.spotify.com/track/6yrHcAjJj6Dz58dRBsOLWT"
-    },
-    {
-      "added_at": "2022-01-04 17:25:35",
-      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY"
       },
@@ -1375,22 +1395,6 @@
       "duration_ms": 158333,
       "name": "Perra",
       "url": "https://open.spotify.com/track/3xD6kwkNjCTEKvMT5zgHAx"
-    },
-    {
-      "added_at": "2022-01-04 17:25:35",
-      "album": {
-        "name": "42",
-        "url": "https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 178266,
-      "name": "Wao",
-      "url": "https://open.spotify.com/track/2B4nQ6yvVVBMqfgOrYtubb"
     },
     {
       "added_at": "2022-01-04 17:25:35",

@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 294214,
       "name": "A Dog Named Fletcher",
       "url": "https://open.spotify.com/track/2SqUavFkcpnddrJL3Uqdfy"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 264305,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/3iBlDDZ7PBuxZudPhXJAan"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 258000,
       "name": "California (Acoustic)",
       "url": "https://open.spotify.com/track/7GKwHjgE7xzzjFEBibxrtg"
@@ -523,7 +523,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 209869,
       "name": "Dead & Gone - Acoustic",
       "url": "https://open.spotify.com/track/0QELebUemGEIB0R2mg59Cn"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 204666,
       "name": "Dial Tones - Acoustic Version",
       "url": "https://open.spotify.com/track/79hjAXUXQsWzfG6A7Lom1x"
@@ -671,7 +671,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 240946,
       "name": "Downtown (Up North)",
       "url": "https://open.spotify.com/track/6Veo9O3o0lFRDqHL03AGY7"
@@ -869,7 +869,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 222840,
       "name": "Fashion Forward (Acoustic)",
       "url": "https://open.spotify.com/track/76EMDlutzJg3c3gUlWKf57"
@@ -1020,6 +1020,24 @@
     },
     {
       "album": {
+        "name": "Ghosts on the Boardwalk",
+        "url": "https://open.spotify.com/album/2Kcnw15mP6Iv0u4KmHrO4d"
+      },
+      "artists": [
+        {
+          "name": "The Bouncing Souls",
+          "url": "https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307714,
+      "name": "Ghosts on the Boardwalk",
+      "url": "https://open.spotify.com/track/5pagvGg1H5Nytqr7w5PZlH"
+    },
+    {
+      "album": {
         "name": "Hailey (Acoustic)",
         "url": "https://open.spotify.com/album/2b6OV22b3VFWeWyEcKNC2n"
       },
@@ -1031,7 +1049,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 204253,
       "name": "Hailey - Acoustic",
       "url": "https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu"
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 289120,
       "name": "Molecules",
       "url": "https://open.spotify.com/track/7qBiZ71Ly8dsxKcWZmsD0B"
@@ -1691,7 +1709,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 234675,
       "name": "New Years Project",
       "url": "https://open.spotify.com/track/0UPZOE6jgBEd8NDaH3JhOh"
@@ -1911,7 +1929,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 169930,
       "name": "Playing Fiction (Acoustic)",
       "url": "https://open.spotify.com/track/17PGUJ8kvyyMaRzQKbcWMN"
@@ -1929,7 +1947,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 207272,
       "name": "Poison In My Veins",
       "url": "https://open.spotify.com/track/5FM6ZaS0tcnSwyLT0luY0s"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
@@ -2233,6 +2251,24 @@
       "duration_ms": 204610,
       "name": "Stuck in the Middle",
       "url": "https://open.spotify.com/track/2Hny8YWKP3zJqPy5VysSos"
+    },
+    {
+      "album": {
+        "name": "Sunrays",
+        "url": "https://open.spotify.com/album/34ecfLMEIRzIzYDusk9L1N"
+      },
+      "artists": [
+        {
+          "name": "Sink or Swim",
+          "url": "https://open.spotify.com/artist/2iWnfbPP6Vb5QaiAXG7LmD"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266756,
+      "name": "Sunrays",
+      "url": "https://open.spotify.com/track/2GPPzSAmeI6KNvMT9TpJ2H"
     },
     {
       "album": {
@@ -2301,7 +2337,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 253493,
       "name": "Take This To Heart - Acoustic",
       "url": "https://open.spotify.com/track/5v4qGjZrHIepDAsLGoYU0r"
@@ -2377,7 +2413,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 179651,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/0kleyfEJ71uQL8xtX35rG1"
@@ -2431,7 +2467,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 290786,
       "name": "Three Cheers for Five Years",
       "url": "https://open.spotify.com/track/2CePJFAdroNJcLT0THVemC"
@@ -2449,7 +2485,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 178695,
       "name": "Tidal Wave (Acoustic)",
       "url": "https://open.spotify.com/track/6Ztpv8FuMAPSEYgAlhwQ6G"
@@ -2485,7 +2521,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 255102,
       "name": "Tiny Vessels",
       "url": "https://open.spotify.com/track/0lwXjccCJAvS0GGLEky85h"
@@ -2593,7 +2629,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 227300,
       "name": "Undersize",
       "url": "https://open.spotify.com/track/4bChSnQPzc0j9yijlJbZYQ"

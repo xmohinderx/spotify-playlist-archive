@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,210 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,216 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 19 | [CRUSH ANH](https://open.spotify.com/track/486QsTMlCWKSANShGsQrCN) | [Ly Ating](https://open.spotify.com/artist/2Sdo3rc4Yln6JX5P23w8tK) | [CRUSH ANH](https://open.spotify.com/album/6g4e9moRnBmahjKS1N1LVm) | 2:09 |
 | 20 | [Sẽ Là Một Người Khác](https://open.spotify.com/track/4HKU9JRB6nbFbU11pvUrMr) | [Zes](https://open.spotify.com/artist/3gk8hJxOhfMRyYdaSdrtPI), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Sẽ Là Một Người Khác](https://open.spotify.com/album/75W8B4ZMZV3CyfJTaLT1Fv) | 4:26 |
 | 21 | [INO & UNO](https://open.spotify.com/track/1i9TBQ3JZSXACySMybLuRA) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Ne](https://open.spotify.com/artist/60OgHNb3ArABLXqJ66zGGI) | [INO & UNO](https://open.spotify.com/album/7J7Xy4EP2XZUPGaa5PtRqL) | 2:32 |
-| 22 | [Thủ Ngữ](https://open.spotify.com/track/1ACVEoQsPLJzLHm95MRfMq) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [LARRIA](https://open.spotify.com/artist/4EmlvsxRbtY1fvKlsJNtbZ) | [Thủ Ngữ](https://open.spotify.com/album/56Drw3ouXaBFH4obIdVovh) | 2:34 |
+| 22 | [Thủ Ngữ](https://open.spotify.com/track/1ACVEoQsPLJzLHm95MRfMq) | [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Thủ Ngữ](https://open.spotify.com/album/56Drw3ouXaBFH4obIdVovh) | 2:34 |
 | 23 | [Darling](https://open.spotify.com/track/46lspYJUdvdi8F6I9o19k2) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [CM1X](https://open.spotify.com/artist/40sNxijTOeMVc8osrueLNw) | [Darling](https://open.spotify.com/album/6PfkdWB1FITrPmg7MqjTiY) | 3:28 |
 | 24 | [Đưa Đôi Tay Đây](https://open.spotify.com/track/5n3slwb8POHmZ3eM9M6qM3) | [Lê Vũ](https://open.spotify.com/artist/5t18GHcI1L5EeeMCQLKchZ), [Hồ Văn Quý](https://open.spotify.com/artist/7uU7S5FLq7ZZABczz5xstR), [XAM](https://open.spotify.com/artist/0eu5rO5SFhiupVgf5woh9H) | [Đưa Đôi Tay Đây](https://open.spotify.com/album/6m4X1PZ3MqZgyilGMECnI1) | 3:36 |
 | 25 | [Cogaido](https://open.spotify.com/track/3rJHMjGXixxqvu3NSrf5dn) | [Minhtriet](https://open.spotify.com/artist/1Sa0tIuciBv3CPSIdtSNLB) | [Cogaido](https://open.spotify.com/album/2MuurUeX78jrfS7PnLEFh8) | 4:02 |

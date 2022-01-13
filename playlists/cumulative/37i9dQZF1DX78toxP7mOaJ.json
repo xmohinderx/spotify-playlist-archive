@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The top 100 tracks from Fresh Finds Rock in 2021. Cover: Teen Jesus and the Jean Teasers | Artwork: Jim Klok",
-  "name": "Fresh Finds Rock: Best of 2021",
+  "description": "Fresh rock from independent artists every Wednesday. Cover: Daphne's Couch | Artwork: Jim Klok",
+  "name": "Fresh Finds Rock",
   "published_playlist_ids": [
     "0mMZrx7DAbFdEFSpJkTloH"
   ],
@@ -62,6 +62,24 @@
     },
     {
       "album": {
+        "name": "Backstep",
+        "url": "https://open.spotify.com/album/4QlvXHr4MvO9RA3LZ19jsK"
+      },
+      "artists": [
+        {
+          "name": "Jetski",
+          "url": "https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185986,
+      "name": "Backstep",
+      "url": "https://open.spotify.com/track/4rc3QOo2uz1Nf4Uu1qsB6u"
+    },
+    {
+      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/5cLTgW3hx8369QZCJ6I8v5"
       },
@@ -91,7 +109,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 166390,
       "name": "Best For You",
       "url": "https://open.spotify.com/track/7DWk8yVfwZetAApCtixKLE"
@@ -163,7 +181,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 220746,
       "name": "Bowman",
       "url": "https://open.spotify.com/track/3jbjik1f4QmhdKMPMQ5Izi"
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 247466,
       "name": "Brighter Lighting",
       "url": "https://open.spotify.com/track/4tr3tLyrOJx0yxyAN6oBzv"
@@ -203,6 +221,46 @@
       "duration_ms": 219251,
       "name": "Bunny",
       "url": "https://open.spotify.com/track/5VVa1qqlp7ZeiatqX577TL"
+    },
+    {
+      "album": {
+        "name": "Can Someone Take Me Home?",
+        "url": "https://open.spotify.com/album/2fYK2hNTzpDJ6QdbMpIigQ"
+      },
+      "artists": [
+        {
+          "name": "Nico Days",
+          "url": "https://open.spotify.com/artist/0svVmptxEtCoEJfcPKxCCh"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Can Someone Take Me Home?",
+      "url": "https://open.spotify.com/track/2xwdBMuWwjtEOQ1amOjI6V"
+    },
+    {
+      "album": {
+        "name": "CASKET (ft. papa mbye)",
+        "url": "https://open.spotify.com/album/6QfpL9YNUhipcMAZYeOort"
+      },
+      "artists": [
+        {
+          "name": "WHY NOT",
+          "url": "https://open.spotify.com/artist/0gU8JtrXa3Df75VOVRGuWP"
+        },
+        {
+          "name": "papa mbye",
+          "url": "https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215305,
+      "name": "CASKET (ft. papa mbye)",
+      "url": "https://open.spotify.com/track/5w4RBCbzL7Oq7v6MS9EuGY"
     },
     {
       "album": {
@@ -239,6 +297,24 @@
       "duration_ms": 183065,
       "name": "Coltrane",
       "url": "https://open.spotify.com/track/2ML36GkVssb1x7VLGWgUYo"
+    },
+    {
+      "album": {
+        "name": "Honey, WTF",
+        "url": "https://open.spotify.com/album/6Swk35DNkG3MmsdmQXhvQ6"
+      },
+      "artists": [
+        {
+          "name": "TAPE TOY",
+          "url": "https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214790,
+      "name": "Crushed",
+      "url": "https://open.spotify.com/track/7tQqk7Z3TyyC4QcY0Ie4yf"
     },
     {
       "album": {
@@ -307,10 +383,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 181704,
       "name": "Demons",
       "url": "https://open.spotify.com/track/3PUpUZVebwk8Ff3XAlV6in"
+    },
+    {
+      "album": {
+        "name": "Denial (Demo)",
+        "url": "https://open.spotify.com/album/5sKHGs8muoL0Nv3HUwFZJl"
+      },
+      "artists": [
+        {
+          "name": "Alicia Widar",
+          "url": "https://open.spotify.com/artist/3AKJmzx7aq91vOFnyNgGSu"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Denial - Demo",
+      "url": "https://open.spotify.com/track/15dPSXkoeIvVWsW78s4KDt"
     },
     {
       "album": {
@@ -347,6 +441,24 @@
       "duration_ms": 221840,
       "name": "Diet Cigarette",
       "url": "https://open.spotify.com/track/66MqvK5aWjC4c2t8txkZh9"
+    },
+    {
+      "album": {
+        "name": "Don't Wanna Lose You",
+        "url": "https://open.spotify.com/album/5kJXTQJbDuQ0l1866naOt9"
+      },
+      "artists": [
+        {
+          "name": "El Camino Acid",
+          "url": "https://open.spotify.com/artist/2hoTclO4PIqW44Xh16aTPx"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245414,
+      "name": "Don't Wanna Lose You",
+      "url": "https://open.spotify.com/track/0Ra68DPxTgqvMxM0kTs37K"
     },
     {
       "album": {
@@ -563,7 +675,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 246874,
       "name": "Friends On Ice",
       "url": "https://open.spotify.com/track/0ZDKTKucM4P27wWEuXh7Bt"
@@ -725,7 +837,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 272346,
       "name": "Honey, Baby",
       "url": "https://open.spotify.com/track/5u7AAHsI3UDbPXm2mJItvs"
@@ -743,7 +855,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 213601,
       "name": "Hornets",
       "url": "https://open.spotify.com/track/1pvB8gIOkXzPRhzGJ33Xtz"
@@ -840,6 +952,24 @@
     },
     {
       "album": {
+        "name": "If Everybody Was Dead",
+        "url": "https://open.spotify.com/album/7Feyv6FLdQ55pHUYMFBQi3"
+      },
+      "artists": [
+        {
+          "name": "Faith Zapata",
+          "url": "https://open.spotify.com/artist/0hJu98X7eKFanMFjJ6eUZF"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319435,
+      "name": "If Everybody Was Dead",
+      "url": "https://open.spotify.com/track/7nryUuLMIcucUnWokNAwfr"
+    },
+    {
+      "album": {
         "name": "If You Only Knew Your Way",
         "url": "https://open.spotify.com/album/1dCCpS23F2AMevNJ2tis8g"
       },
@@ -927,6 +1057,24 @@
       "duration_ms": 247051,
       "name": "In the Stone",
       "url": "https://open.spotify.com/track/0rCH70n5wGsFO51mQDbZc2"
+    },
+    {
+      "album": {
+        "name": "Is Blood",
+        "url": "https://open.spotify.com/album/7HzvwBGscH4YglVzpO6yBJ"
+      },
+      "artists": [
+        {
+          "name": "Youth Sector",
+          "url": "https://open.spotify.com/artist/1XnUwbBjDTUUAABC7cEixy"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186729,
+      "name": "Is Blood",
+      "url": "https://open.spotify.com/track/5zR0C3qAzWIk6eKKKUZkYe"
     },
     {
       "album": {
@@ -1399,7 +1547,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 148729,
       "name": "rock n roll",
       "url": "https://open.spotify.com/track/0ZyK2jit7uZJzsiB3zTcRz"
@@ -1417,7 +1565,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 163500,
       "name": "Save Your Apologies",
       "url": "https://open.spotify.com/track/2n9bV1h6ygAfoh4PDdtJ5E"
@@ -1573,6 +1721,24 @@
       "duration_ms": 131196,
       "name": "Stretch",
       "url": "https://open.spotify.com/track/0acXuhdDyDzyiR021H8a45"
+    },
+    {
+      "album": {
+        "name": "Summer Trip",
+        "url": "https://open.spotify.com/album/0uhsilzFa3zJErDBzMGio7"
+      },
+      "artists": [
+        {
+          "name": "Decent Criminal",
+          "url": "https://open.spotify.com/artist/6lJSu1HwPKz6sUgUkPfii2"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148223,
+      "name": "Summer Trip",
+      "url": "https://open.spotify.com/track/55PmZueGDwk579eacYUygO"
     },
     {
       "album": {
@@ -1735,6 +1901,24 @@
       "duration_ms": 146953,
       "name": "Week On Repeat",
       "url": "https://open.spotify.com/track/0yjLQat6i4CAGUIEf08ya5"
+    },
+    {
+      "album": {
+        "name": "When I 226",
+        "url": "https://open.spotify.com/album/1OVjhVm0VupTAbpk7Z3ywQ"
+      },
+      "artists": [
+        {
+          "name": "Mr Floyd Larry",
+          "url": "https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230527,
+      "name": "When I 226",
+      "url": "https://open.spotify.com/track/3FqXffiywuPhwCkr1WgnSP"
     },
     {
       "album": {

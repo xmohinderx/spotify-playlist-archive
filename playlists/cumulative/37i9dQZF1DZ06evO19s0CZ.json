@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-01-11",
   "description": "This is The Rolling Stones. The essential tracks, all in one playlist.",
-  "name": "This Is The Rolling Stones (2)",
-  "published_playlist_ids": [],
+  "name": "This Is The Rolling Stones",
+  "published_playlist_ids": [
+    "6xouwCepscP8gjNXy6f1CA"
+  ],
   "tracks": [
     {
       "album": {
@@ -197,7 +199,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 238546,
       "name": "Doom And Gloom",
       "url": "https://open.spotify.com/track/0lO9vvpJdd2ZNAq61ga9wy"
@@ -305,7 +307,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 200786,
       "name": "Hate To See You Go",
       "url": "https://open.spotify.com/track/0EJCZM5mVoJjA1MxcoZE6O"

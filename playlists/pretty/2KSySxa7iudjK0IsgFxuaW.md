@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2KSySxa7iudjK0IsgFxuaW.md) - [plain]
 
 > It's Elmo's time to shine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167 likes - 15 songs - 30 min 23 sec
+[Spotify](https://open.spotify.com/user/spotify) - 168 likes - 15 songs - 30 min 23 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/2KSySxa7iudjK0IsgFxuaW.md) - [plain]
 | 9 | [Drive My Car](https://open.spotify.com/track/1o2XpL4vXtXTokzgOJG9zR) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:40 |
 | 10 | [Be doodle de dum](https://open.spotify.com/track/2kFhRTpc85hKvg8kLavE3Y) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Telly](https://open.spotify.com/artist/1CNLMkGo7a7zuJ5vrzGYqs), [Mama Bear](https://open.spotify.com/artist/3RqZiaZfx8uvoMDiOqfDmJ), [Baby Bear](https://open.spotify.com/artist/4mCbMdrryOVRY5ZFUeHWQm), [Zoe](https://open.spotify.com/artist/0EW9lm37RfPGenLwuAWuSx) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 1:56 |
 | 11 | [Elmo's Rap Alphabet \(Elmo Sings Rap Alphabet\)](https://open.spotify.com/track/4Wcb05INcFfJ9bDeD4rtW7) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 1:30 |
-| 12 | [In Your Imagination](https://open.spotify.com/track/5lxuAIx1u8iObrDu220qi0) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Hoots](https://open.spotify.com/artist/0ivW1tjs7EMFg5054F9iqc), [Wolfgang](https://open.spotify.com/artist/7CElNLbQ8VnOpF0yW5sAwg) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:03 |
+| 12 | [In Your Imagination](https://open.spotify.com/track/5lxuAIx1u8iObrDu220qi0) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Hoots](https://open.spotify.com/artist/0ivW1tjs7EMFg5054F9iqc), [Wolfgang](https://open.spotify.com/artist/7pkVGGJXkwt4rucWEkldrj) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:03 |
 | 13 | [Take a Breath](https://open.spotify.com/track/3uft67PPJjcCiprNByr6DG) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 1:14 |
 | 14 | [Just One Person](https://open.spotify.com/track/46TsnNQmr65Av159iumQSV) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:28 |
 | 15 | [Sing](https://open.spotify.com/track/71hHUJvZzFwc3TiF4GfZZU) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Telly](https://open.spotify.com/artist/1CNLMkGo7a7zuJ5vrzGYqs), [Hoots](https://open.spotify.com/artist/0ivW1tjs7EMFg5054F9iqc), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Kids](https://open.spotify.com/artist/48FEeJN980IgYixU9VIHOO), [Cast](https://open.spotify.com/artist/18RdrdlKkNsF7XRlu3MFsa) | [Sesame Street: The Best of Elmo](https://open.spotify.com/album/1Sq6fD7xrvmPQ2tY9z1GCs) | 2:47 |

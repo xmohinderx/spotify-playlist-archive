@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 267091,
       "name": "Adar\u00e1",
       "url": "https://open.spotify.com/track/3OGKGvLhd2rN04g2iaCXVs"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 239397,
       "name": "Afro Golden Line (feat. Sefi Zisling, Uzi Ramirez & Rejoicer)",
       "url": "https://open.spotify.com/track/1ijV5N3fvoaTO1BXqKH9Kq"
@@ -133,7 +133,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 693600,
       "name": "Agboju Logun",
       "url": "https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu"
@@ -155,7 +155,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
@@ -173,7 +173,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 150927,
       "name": "Aguanc\u00f3",
       "url": "https://open.spotify.com/track/4yQao18rUx4vdhzenobQGN"
@@ -191,7 +191,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 322842,
       "name": "Ain't No Sunshine - Cover",
       "url": "https://open.spotify.com/track/5s4jbY8pUhdkLc4ATqmtTi"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 243000,
       "name": "Al Hadaoui",
       "url": "https://open.spotify.com/track/0uw6c2r6AMkVeqCAhXhD3a"
@@ -231,7 +231,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Alas Rotas",
       "url": "https://open.spotify.com/track/3rcIH7Y4SchWddXCMNyLBv"
@@ -285,7 +285,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 397586,
       "name": "Anima latina",
       "url": "https://open.spotify.com/track/6XOguNHu0tyQRFhPqoBFeV"
@@ -328,6 +328,28 @@
     },
     {
       "album": {
+        "name": "Dekmantel 10 Years 10.2",
+        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443989,
+      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
+      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
+    },
+    {
+      "album": {
         "name": "Atlantic Oscillations",
         "url": "https://open.spotify.com/album/3ZLy3uTgrCAw9pNNpoEUZE"
       },
@@ -339,7 +361,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 351146,
       "name": "Atlantic Oscillations",
       "url": "https://open.spotify.com/track/2qJrhIwk58tTBSLI85VCJe"
@@ -357,7 +379,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 229080,
       "name": "At\u00f3mico",
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
@@ -415,7 +437,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 308471,
       "name": "Babalawo",
       "url": "https://open.spotify.com/track/6ifwhjw3szFwweQbAZAu7j"
@@ -433,7 +455,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 327398,
       "name": "Babel",
       "url": "https://open.spotify.com/track/02sVh7Sa1kaJBqUYYFog9w"
@@ -469,7 +491,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 309543,
       "name": "Bayne Lay Yihedal",
       "url": "https://open.spotify.com/track/5ib4uV4lUJyFKXF6vfxmrk"
@@ -495,6 +517,32 @@
       "duration_ms": 288569,
       "name": "Ben Bene La",
       "url": "https://open.spotify.com/track/167NF5BT2JUVb8RqqCTDQg"
+    },
+    {
+      "album": {
+        "name": "Black Times",
+        "url": "https://open.spotify.com/album/42eWUVnFbi5s9ls9be2Ks8"
+      },
+      "artists": [
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/3tiod2aXxdgMl6E7W4visJ"
+        },
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295469,
+      "name": "Black Times - Radio Edit",
+      "url": "https://open.spotify.com/track/4aZOVPGI7yA37ZWUJ14uA4"
     },
     {
       "album": {
@@ -531,7 +579,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 209653,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/2gsD0Bf0Bb0UCaSlWenzMD"
@@ -571,7 +619,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 373893,
       "name": "Calling England Home",
       "url": "https://open.spotify.com/track/6jd5uWEpV3zdgnR0obsXZ2"
@@ -615,7 +663,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 327560,
       "name": "Carry Me Home",
       "url": "https://open.spotify.com/track/3impbLGFvLfRkGrpJpBBX1"
@@ -640,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/7uHdkPNSlZe5I4SRdpWats"
+      },
+      "artists": [
+        {
+          "name": "N\u00eddia",
+          "url": "https://open.spotify.com/artist/3BKX2WA8UjZgTIJ2juyQ7G"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214720,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3arnc4CVmChiT1DdIS8ouh"
+    },
+    {
+      "album": {
         "name": "U.N. (United Nonsense)",
         "url": "https://open.spotify.com/album/1fhkaWXCAmwhEVlSbTXIKF"
       },
@@ -651,7 +717,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 478562,
       "name": "Chasin",
       "url": "https://open.spotify.com/track/7c0hcOEQSi62Jdd98q59aI"
@@ -730,6 +796,24 @@
     },
     {
       "album": {
+        "name": "Coral Jazz",
+        "url": "https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Coral Jazz",
+      "url": "https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM"
+    },
+    {
+      "album": {
         "name": "Space Echo (Analog Africa No. 20)",
         "url": "https://open.spotify.com/album/58gj8oagDeV8xq7ZWPaWNz"
       },
@@ -741,7 +825,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 188200,
       "name": "Corre Riba, Corre Baixo",
       "url": "https://open.spotify.com/track/3ln5s4LFL2hRnpTCddKEST"
@@ -883,7 +967,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 321742,
       "name": "Despedida: Ensayo Silencio",
       "url": "https://open.spotify.com/track/6OSiOuTNk6XkfaLuvcnWN9"
@@ -919,7 +1003,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 255435,
       "name": "Dilo Como Yo - Te Est\u00e1n Llamando",
       "url": "https://open.spotify.com/track/5GKQp4zdAk3AImdUyo2WJq"
@@ -937,7 +1021,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 217360,
       "name": "Disco Dancer - Mixed",
       "url": "https://open.spotify.com/track/0ZImVCMkq4FlFRNVMHiC9B"
@@ -1031,7 +1115,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 311480,
       "name": "Dub Protection",
       "url": "https://open.spotify.com/track/2nonAYGrtN6R6MmzIWwJjf"
@@ -1049,7 +1133,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 267541,
       "name": "Echoes - Original Mix",
       "url": "https://open.spotify.com/track/0uIYuULoq2KUrHQRqrGUmW"
@@ -1107,7 +1191,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 202368,
       "name": "El Traketeo",
       "url": "https://open.spotify.com/track/68wZUaqJLlzSgDpvtOD5z1"
@@ -1343,7 +1427,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 178064,
       "name": "Fina Condena (IMS Remix)",
       "url": "https://open.spotify.com/track/4dSykqXL9YZr6SHX3ETCGM"
@@ -1387,7 +1471,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 374891,
       "name": "Firewalker - JKriv Remix",
       "url": "https://open.spotify.com/track/1bGTFzHyw6ILoMylKGWku1"
@@ -1471,7 +1555,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/6TVfkxSos194SFzV6oCeGX"
@@ -1515,7 +1599,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 290524,
       "name": "Fulan",
       "url": "https://open.spotify.com/track/3bujm7d5DR9aS5DiJ3u9ou"
@@ -1533,7 +1617,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 290524,
       "name": "Fulan",
       "url": "https://open.spotify.com/track/6hKQ0iwjNplwAYSBtVPaag"
@@ -1555,7 +1639,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 355407,
       "name": "Giants",
       "url": "https://open.spotify.com/track/4SJUjn3TBetSRCbc7dvUNU"
@@ -1639,10 +1723,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 206533,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/10sPG1ooEf3tBsFeDAmv7K"
+    },
+    {
+      "album": {
+        "name": "Gringofire In Ethiopia",
+        "url": "https://open.spotify.com/album/1AQ3PIkaxvB94OX2cUHqHl"
+      },
+      "artists": [
+        {
+          "name": "Eugene Toale",
+          "url": "https://open.spotify.com/artist/7GKSBdcXE1BHkRYoTjrIdH"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286638,
+      "name": "Gringofire In Ethiopia",
+      "url": "https://open.spotify.com/track/14pNRBawPwR34gawYSX5tb"
     },
     {
       "album": {
@@ -1731,7 +1833,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 252889,
       "name": "Gyae Su",
       "url": "https://open.spotify.com/track/4dqT5slEDm4TCG8TKako0t"
@@ -1749,7 +1851,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 196000,
       "name": "Had to Come Back Wet",
       "url": "https://open.spotify.com/track/4Pd6uKE3iJm437tc0TAob0"
@@ -1887,7 +1989,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 293999,
       "name": "Homo Sapiens",
       "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
@@ -1905,7 +2007,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 311546,
       "name": "House of Cards",
       "url": "https://open.spotify.com/track/5R8MrBzJ2c5Kr4WhRbrKT4"
@@ -1941,7 +2043,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 256490,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
@@ -1963,7 +2065,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 318226,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/5YR9LQu1dLJtSc7hgS0inh"
@@ -2021,7 +2123,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 390121,
       "name": "I Like It (Don't Stop)",
       "url": "https://open.spotify.com/track/5f3Pu9oUnc4URLrViyqxj9"
@@ -2061,7 +2163,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 209280,
       "name": "I've Got Soul",
       "url": "https://open.spotify.com/track/1X4uGqysoMUdiX1yfWdwMT"
@@ -2189,7 +2291,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 212612,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/46C4dS9cB7vmU8jvyXL0Vv"
@@ -2229,7 +2331,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 214287,
       "name": "Judge Not - Ray Mang Radio Edit",
       "url": "https://open.spotify.com/track/5rJ4Actcle0BKg7CUmGqoy"
@@ -2247,7 +2349,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 336133,
       "name": "Jungle Music",
       "url": "https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs"
@@ -2287,7 +2389,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 409666,
       "name": "Ke Nako",
       "url": "https://open.spotify.com/track/2nMTPIjQag0YyH9CvAxl6L"
@@ -2309,7 +2411,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 227000,
       "name": "Keep It Movin' - feat. Smashish",
       "url": "https://open.spotify.com/track/7cdwo90qsgRjD6q3sg7izZ"
@@ -2327,7 +2429,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 386893,
       "name": "Kenke Corner",
       "url": "https://open.spotify.com/track/5O0YX1q26womuLV7iSMwps"
@@ -2407,7 +2509,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 272221,
       "name": "L'origine du Monde - iZem Remix",
       "url": "https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu"
@@ -2425,7 +2527,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
@@ -2443,7 +2545,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 322249,
       "name": "Lambada de Oceania, Africa y America (eran un solo continente)",
       "url": "https://open.spotify.com/track/3FiCLbJj5E7jBDo87OAElh"
@@ -2461,10 +2563,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 194946,
       "name": "Layla, Pt. 1",
       "url": "https://open.spotify.com/track/1fJWdk2kxrtkdlPFyVRqIc"
+    },
+    {
+      "album": {
+        "name": "Baile Bucanero",
+        "url": "https://open.spotify.com/album/0y7GV4jRQOaWiN4sH0SPW5"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Lazalypso",
+      "url": "https://open.spotify.com/track/4mtYQUCB0AuUriy4Sv1nri"
     },
     {
       "album": {
@@ -2483,7 +2603,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 292940,
       "name": "Little Mouse",
       "url": "https://open.spotify.com/track/6PLmTnJIHb22SXrQRr29fg"
@@ -2519,7 +2639,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 221760,
       "name": "Long in the Tooth",
       "url": "https://open.spotify.com/track/7ETH5mL8eLwdrx0cwQiLk9"
@@ -2580,6 +2700,24 @@
     },
     {
       "album": {
+        "name": "Paracai\u0301das",
+        "url": "https://open.spotify.com/album/6EPBq63T1DMFseKbMJ4qwm"
+      },
+      "artists": [
+        {
+          "name": "Junglelyd",
+          "url": "https://open.spotify.com/artist/4iZlSQSRIZ5HYEwwcfbR0c"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199830,
+      "name": "Magica Nueva",
+      "url": "https://open.spotify.com/track/6BMnWybJGa1ECarOi99Xvo"
+    },
+    {
+      "album": {
         "name": "Make It Right",
         "url": "https://open.spotify.com/album/1d99bHzvTbXCiTyqyuWMK8"
       },
@@ -2591,7 +2729,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 240400,
       "name": "Make It Right",
       "url": "https://open.spotify.com/track/0KjwYVDuTHrfN36XSWEQc5"
@@ -2609,7 +2747,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 353965,
       "name": "Makeda",
       "url": "https://open.spotify.com/track/0nNTh1E26SQGtgdETLnsEb"
@@ -2631,6 +2769,50 @@
       "duration_ms": 235250,
       "name": "Mam Yinne Wa",
       "url": "https://open.spotify.com/track/08k6ZsTPo7ws120ty9nvHM"
+    },
+    {
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv"
+      },
+      "artists": [
+        {
+          "name": "David Walters",
+          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
+        },
+        {
+          "name": "D\u00e9ni-Shain",
+          "url": "https://open.spotify.com/artist/2I3JncUKUZx2s0SqB4PcKr"
+        },
+        {
+          "name": "Mister Francky",
+          "url": "https://open.spotify.com/artist/4kXQgX9t5ijlfWnybY6SW5"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304178,
+      "name": "Mama - D\u00e9ni-Shain & Mister Francky Remix",
+      "url": "https://open.spotify.com/track/0LoVuHRdOFBhT61crHWyIo"
+    },
+    {
+      "album": {
+        "name": "Digital Zandoli",
+        "url": "https://open.spotify.com/album/577qfHLXdU7kIU4VCN5Qo8"
+      },
+      "artists": [
+        {
+          "name": "The Group NSI",
+          "url": "https://open.spotify.com/artist/6uPrlqAaWWFaCtKfT0YhM3"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231353,
+      "name": "Mande Moin On Lajan, Pa Mande Moin Za Fe An Moin",
+      "url": "https://open.spotify.com/track/69HiuYUNtxJoxcPzYMTwI4"
     },
     {
       "album": {
@@ -2693,7 +2875,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 228229,
       "name": "Matamba",
       "url": "https://open.spotify.com/track/4IXkPFYdg21ZYJMOsbgHfr"
@@ -2733,7 +2915,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 166165,
       "name": "Menina Mulher da Pele Preta",
       "url": "https://open.spotify.com/track/7AY5KbUVj1Osxwl54sWhp9"
@@ -2751,7 +2933,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Mi Conga Es De Akok\u00e1n",
       "url": "https://open.spotify.com/track/6FJ0VplefpgvlK4sqzDwlE"
@@ -2827,7 +3009,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
@@ -2849,7 +3031,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 410600,
       "name": "Mother & Child",
       "url": "https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld"
@@ -2867,7 +3049,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 306000,
       "name": "Mr Fuego",
       "url": "https://open.spotify.com/track/28lBDoni4I6pIID81uSqov"
@@ -2889,7 +3071,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 192404,
       "name": "Murkit Gem",
       "url": "https://open.spotify.com/track/7JLRUxp5qbK2OGUq9Bbqga"
@@ -2907,10 +3089,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 284070,
       "name": "Musa Paradisa",
       "url": "https://open.spotify.com/track/3NG1ycecXW6GpDkzgbFosE"
+    },
+    {
+      "album": {
+        "name": "M\u00e9t\u00e9w Byen",
+        "url": "https://open.spotify.com/album/1BI6PFcuX5kvWFlvhc3DGL"
+      },
+      "artists": [
+        {
+          "name": "Edmony Krater",
+          "url": "https://open.spotify.com/artist/4lXQcK6QxfnG6VMtj3TbeF"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "M\u00e9t\u00e9w Byen",
+      "url": "https://open.spotify.com/track/7Ei31Z09xAuNQHOw7Vlk4w"
     },
     {
       "album": {
@@ -2943,7 +3143,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 249677,
       "name": "Navegar",
       "url": "https://open.spotify.com/track/1OOB9dxNw4DrFrisrW4aX8"
@@ -2969,7 +3169,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "Nefertiti - David Walters Remix",
       "url": "https://open.spotify.com/track/1m0OvusfKEUnCp5yeu2n5w"
@@ -3005,10 +3205,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 340720,
       "name": "Nineteen Hundred and Eighty Five",
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "album": {
+        "name": "Noko Hewon",
+        "url": "https://open.spotify.com/album/5eO68ZD9iOVu08B6LveM11"
+      },
+      "artists": [
+        {
+          "name": "Afrik Bawantu",
+          "url": "https://open.spotify.com/artist/2cfMyJQIEEqNhfiqQ24bUW"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394782,
+      "name": "Noko Hewon",
+      "url": "https://open.spotify.com/track/0lNND4ICbiZEXahwxtl8OX"
     },
     {
       "album": {
@@ -3023,7 +3241,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 206684,
       "name": "Nosotros Tambi\u00e9n",
       "url": "https://open.spotify.com/track/6aLokUtExlh83ueaUUOzrt"
@@ -3063,7 +3281,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 221731,
       "name": "On Top (Guitar & Flute)",
       "url": "https://open.spotify.com/track/3dxdwTggTOpyjP1rrVYt71"
@@ -3081,7 +3299,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
@@ -3107,7 +3325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 250813,
       "name": "One Woman Man",
       "url": "https://open.spotify.com/track/24WvIL9vk5fI5GmacZbtf4"
@@ -3161,10 +3379,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+    },
+    {
+      "album": {
+        "name": "OOO",
+        "url": "https://open.spotify.com/album/1reeT3XDZMo9uiXLuBUKZd"
+      },
+      "artists": [
+        {
+          "name": "Branko",
+          "url": "https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183414,
+      "name": "OOO",
+      "url": "https://open.spotify.com/track/7CAPcvPlTnrqR6KhOV23fD"
     },
     {
       "album": {
@@ -3179,7 +3415,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 346373,
       "name": "Otemoyan - Reggae",
       "url": "https://open.spotify.com/track/4DIkIKQ3LgaI9bs0JX2qgN"
@@ -3223,7 +3459,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
@@ -3259,7 +3495,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/39p88iz6Hzx5KN00QbLIdv"
@@ -3281,7 +3517,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 301995,
       "name": "Pelota (Cut a Rug Mix)",
       "url": "https://open.spotify.com/track/380cW88WvjXFmX3wzK1NOf"
@@ -3307,7 +3543,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 196586,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/0lwkL0G07NYtLrQCugi8lX"
@@ -3347,7 +3583,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
@@ -3369,7 +3605,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 348859,
       "name": "Pretty Boys (feat. Khruangbin)",
       "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
@@ -3405,7 +3641,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 207354,
       "name": "Ragazzo",
       "url": "https://open.spotify.com/track/4LBhuxtdcv1ZIruY2P1xOz"
@@ -3423,7 +3659,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 266500,
       "name": "Reet (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/4OjZmd2lJiwiUw1dSV93kj"
@@ -3463,7 +3699,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 225106,
       "name": "Rhythm in Your Mind",
       "url": "https://open.spotify.com/track/4wBTN0gGIPG5k3N3LfMhu2"
@@ -3503,7 +3739,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 285257,
       "name": "Sad Nile (feat. Hailu Mergia)",
       "url": "https://open.spotify.com/track/2CQBRPtITj3ePDeXLQnZK7"
@@ -3525,6 +3761,28 @@
       "duration_ms": 303777,
       "name": "Saluf",
       "url": "https://open.spotify.com/track/1ULE8R1kexScRh253uXXpp"
+    },
+    {
+      "album": {
+        "name": "Sankofa Season",
+        "url": "https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Kaidi Tatham",
+          "url": "https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325672,
+      "name": "Sankofa Song",
+      "url": "https://open.spotify.com/track/5KaSo0t3rbcmgd7gDIvlpK"
     },
     {
       "album": {
@@ -3597,7 +3855,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 317355,
       "name": "Shepherd Song - Esa & His Afro-Synth Band Version",
       "url": "https://open.spotify.com/track/0yM0uVP2UFGgA7SWVkgSnp"
@@ -3619,7 +3877,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 257489,
       "name": "Siakwaa / Nana Agyei - Medley",
       "url": "https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn"
@@ -3655,7 +3913,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 210261,
       "name": "Sim\u00e9 Love",
       "url": "https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO"
@@ -3673,7 +3931,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 261839,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/3RaajzNOCvM1AHrroBgwOe"
@@ -3709,7 +3967,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
@@ -3727,7 +3985,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 156220,
       "name": "Sorna Lorestan",
       "url": "https://open.spotify.com/track/7grp4TrONV4cu99mhbjOga"
@@ -3745,7 +4003,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 151948,
       "name": "Space",
       "url": "https://open.spotify.com/track/7sCA8BB1r8PnXvlCOWRJG2"
@@ -3767,7 +4025,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 432963,
       "name": "Spies Are Watching Me",
       "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
@@ -3793,7 +4051,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 237666,
       "name": "Spiritual Ideation",
       "url": "https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy"
@@ -3811,7 +4069,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 224882,
       "name": "Sunset Sound",
       "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
@@ -3869,7 +4127,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 279250,
       "name": "Tendme (Habibi Funk 015)",
       "url": "https://open.spotify.com/track/2telsvYtSRHVlj8kWqrB6A"
@@ -3945,7 +4203,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 179546,
       "name": "The Wrangler",
       "url": "https://open.spotify.com/track/0WEMvMJZUrCUJJtu7rOPjB"
@@ -3963,7 +4221,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 217174,
       "name": "Theme From Beverly Hills Cop (Axel F) - Live at Jam PDM",
       "url": "https://open.spotify.com/track/6L2p6X0gxm7VOpnnmbNFGf"
@@ -3981,7 +4239,7 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 342189,
       "name": "Time (You and I)",
       "url": "https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3"
@@ -3999,7 +4257,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 287386,
       "name": "Tripping Up",
       "url": "https://open.spotify.com/track/6yTgIPx8OsFOQnwr1Baj9o"
@@ -4021,7 +4279,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 297520,
       "name": "Tucheza - Esa Extended Mix",
       "url": "https://open.spotify.com/track/3NFRY3bt1rsgyVmM15fJve"
@@ -4083,7 +4341,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 213749,
       "name": "Unathi",
       "url": "https://open.spotify.com/track/4ZPv3a0aoAmDty8IKFXB3e"
@@ -4105,7 +4363,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 383833,
       "name": "Vans\u00e9 - Voilaaa Remix",
       "url": "https://open.spotify.com/track/5hj3i8nHG3nWgn5Y0EKeWu"
@@ -4171,7 +4429,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 202104,
       "name": "Verde",
       "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
@@ -4189,7 +4447,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 439013,
       "name": "Vision 9",
       "url": "https://open.spotify.com/track/5UEvuAF0uXVHZ2hIY0uzhH"
@@ -4211,10 +4469,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 230535,
       "name": "V\u00e9rit\u00e9",
       "url": "https://open.spotify.com/track/5LFckjiAEHV0Ee3WvgpNns"
+    },
+    {
+      "album": {
+        "name": "Watch me Dance",
+        "url": "https://open.spotify.com/album/3kIrTLMiV5lbcZ6Dne5AvZ"
+      },
+      "artists": [
+        {
+          "name": "The Architect",
+          "url": "https://open.spotify.com/artist/6HzVTgf7SWVWNo93bT5TEv"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202938,
+      "name": "Watch me Dance",
+      "url": "https://open.spotify.com/track/0k6HX2fPPzis023sE7qRGl"
     },
     {
       "album": {
@@ -4229,7 +4505,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 192656,
       "name": "Wifi Beach",
       "url": "https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF"
@@ -4247,7 +4523,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 185160,
       "name": "Worry",
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
@@ -4301,7 +4577,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 235803,
       "name": "Yardley Suite",
       "url": "https://open.spotify.com/track/2u9mRfYp5vzMCCSLxS85X9"
@@ -4319,7 +4595,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 326606,
       "name": "Yeanoh (Powe'hande Binga'dbe)",
       "url": "https://open.spotify.com/track/7L667oKoPNZZQW6AMuxK9a"
@@ -4373,7 +4649,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 234772,
       "name": "Zorromi",
       "url": "https://open.spotify.com/track/6POQFiHPuoSsjRwDoEin2I"
@@ -4395,10 +4671,28 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 208153,
       "name": "\u00c7a fait du bien - Voilaaa Remix",
       "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
+    },
+    {
+      "album": {
+        "name": "\u00cdfarad\u00e1",
+        "url": "https://open.spotify.com/album/0vFQmGRZ1o3I4jFcb0Nyla"
+      },
+      "artists": [
+        {
+          "name": "Loshh",
+          "url": "https://open.spotify.com/artist/30giOOWTxMQ6kvmV8DJfI5"
+        }
+      ],
+      "date_added": "2021-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u00cd",
+      "url": "https://open.spotify.com/track/1g30hGp0kX9XcRPv2AuNJ4"
     },
     {
       "album": {
@@ -4413,7 +4707,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 364013,
       "name": "\u00d3dio Sem Valor",
       "url": "https://open.spotify.com/track/0BkBTV4VjI6puoDXv2jp3P"

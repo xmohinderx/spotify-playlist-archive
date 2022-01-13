@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: Cosmic Wacho",
+  "description": "Cada mi\u00e9rcoles, m\u00fasica fresca de artistas independientes para tu descubrimiento. Foto: TAURO",
   "name": "Fresh Finds Espa\u00f1a",
   "published_playlist_ids": [
     "7MpPM792xGwpKouYtEsju9"
@@ -27,6 +27,24 @@
       "duration_ms": 173035,
       "name": "666",
       "url": "https://open.spotify.com/track/4sHe4XO629OgCyPwiBB9rm"
+    },
+    {
+      "album": {
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/0e6MObnrLGNstVWAnfgMI4"
+      },
+      "artists": [
+        {
+          "name": "TAURO",
+          "url": "https://open.spotify.com/artist/2B76nxBwYVPBmWnqUqbsIN"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166048,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/2l23pN7hs8wEQ7ybMDxha3"
     },
     {
       "album": {
@@ -143,7 +161,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 203925,
       "name": "Ciudad de las Mentiras",
       "url": "https://open.spotify.com/track/4TMUKLW53GlhS65rzmYWXh"
@@ -345,7 +363,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 203124,
       "name": "Hamburguesas",
       "url": "https://open.spotify.com/track/0TzcCUIQfngW4WWXfXWwrQ"
@@ -439,6 +457,24 @@
       "duration_ms": 181407,
       "name": "La Guerra de los 1000 A\u00f1os",
       "url": "https://open.spotify.com/track/69fP09KYaJAV2jhWxZhwoz"
+    },
+    {
+      "album": {
+        "name": "LAS GUARDIANAS",
+        "url": "https://open.spotify.com/album/5zp1HxeilgCBVnetqXincy"
+      },
+      "artists": [
+        {
+          "name": "Mariola Membrives",
+          "url": "https://open.spotify.com/artist/4DPFaGsqArdTjYfJtKySnK"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182117,
+      "name": "LAS GUARDIANAS",
+      "url": "https://open.spotify.com/track/0abd96mB9J8H5COv3HPGMc"
     },
     {
       "album": {
@@ -702,6 +738,42 @@
     },
     {
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/5nhp4sudsRuPMjRiZPdSsv"
+      },
+      "artists": [
+        {
+          "name": "Kebab Hut",
+          "url": "https://open.spotify.com/artist/5HXJrx6a4276CnLakQBHlq"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Reencuentro",
+      "url": "https://open.spotify.com/track/6s4rvuow969O2dtAfhxNiM"
+    },
+    {
+      "album": {
+        "name": "Roble Que Da",
+        "url": "https://open.spotify.com/album/1z8vxOUKyWv2wWkAqZmWmr"
+      },
+      "artists": [
+        {
+          "name": "VERD\u00da",
+          "url": "https://open.spotify.com/artist/5Jfu5axZeqEIxpPwLogFjy"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250175,
+      "name": "Roble Que Da",
+      "url": "https://open.spotify.com/track/6PlBrFUzj81mNeJ0NLCUlL"
+    },
+    {
+      "album": {
         "name": "Sabe a Tu Nombre",
         "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
       },
@@ -851,7 +923,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 172500,
       "name": "trece",
       "url": "https://open.spotify.com/track/7gFN7bu7EW7jNXKHDrKfHd"

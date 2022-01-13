@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 136466,
       "name": "Halloween in Summertime",
       "url": "https://open.spotify.com/track/3hhd4SQuN1S3w3kAxLIBRt"
@@ -1257,7 +1257,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-13",
       "duration_ms": 172300,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/4KUvir7HcUGWZNNCjUckI5"
@@ -2373,7 +2373,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 179857,
       "name": "Stumblin' Home",
       "url": "https://open.spotify.com/track/01oyRIMjNlMSN00ETiVduQ"
@@ -2705,6 +2705,24 @@
       "duration_ms": 223186,
       "name": "Waking up the World",
       "url": "https://open.spotify.com/track/1eu9N3gFrVQa9UzffUVUC6"
+    },
+    {
+      "album": {
+        "name": "Run For Cover",
+        "url": "https://open.spotify.com/album/0MNJPT9XkNnCczT1VZcdnD"
+      },
+      "artists": [
+        {
+          "name": "No Love For The Middle Child",
+          "url": "https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX"
+        }
+      ],
+      "date_added": "2021-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188330,
+      "name": "Wasting Time",
+      "url": "https://open.spotify.com/track/0vwFuY4xsUvrFk4D74DqLQ"
     },
     {
       "album": {

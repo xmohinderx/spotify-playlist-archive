@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSNNoRF9meHq.md) - [plain]
 
 > A collection of hauntingly beautiful slow movements from 50 symphonies, that are known for their sweeping melodic themes, and <a href="spotify:user:spotify:playlist:37i9dQZF1DX4s3V2rTswzO">passionate</a> melancholy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,098 likes - 50 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,099 likes - 50 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

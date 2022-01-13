@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
   "name": "Top 50 - Slovakia",
-  "num_followers": 19784,
+  "num_followers": 19782,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1MjA5NjU4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1MzIwOTE4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Reklama na Rap",
+      "url": "https://open.spotify.com/track/2KUTDIXO3sxrR5FJw6AndI"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/07FyKVdi7YUlJry42sqFKm"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Reklama na Rap",
-      "url": "https://open.spotify.com/track/2KUTDIXO3sxrR5FJw6AndI"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/7vChidrSd5frTCwEHtsEck"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/4fnNRt3b36mTZK1o9QSWHK"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -181,43 +181,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        }
-      ],
-      "duration_ms": 177640,
-      "name": "DE\u0147 STRIEDA TMU",
-      "url": "https://open.spotify.com/track/5Ggd7fuG8ya7OnMELNkDtF"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -237,7 +201,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -248,16 +212,16 @@
           "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
         },
         {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
         }
       ],
-      "duration_ms": 159613,
-      "name": "\u017dIVOT JE ZVL\u00c1\u0160TNY",
-      "url": "https://open.spotify.com/track/2KnTkLoq0MZKIR8GrCdUCH"
+      "duration_ms": 177640,
+      "name": "DE\u0147 STRIEDA TMU",
+      "url": "https://open.spotify.com/track/5Ggd7fuG8ya7OnMELNkDtF"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -277,7 +241,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -293,7 +257,43 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "\u017dIVOT JE ZVL\u00c1\u0160TNY",
+      "url": "https://open.spotify.com/track/2KnTkLoq0MZKIR8GrCdUCH"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -317,39 +317,7 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 202235,
-      "name": "Vydr\u017ea\u0165",
-      "url": "https://open.spotify.com/track/735kL7IzM3RPxKEYhzeJRJ"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -365,23 +333,39 @@
       "url": "https://open.spotify.com/track/2Q61UcssSrHuCEpwmwj9ZB"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/2RzvtemoxfrfGSbAXePP2v"
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
       },
       "artists": [
         {
-          "name": "Nik Tendo",
-          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/7uf6qIMpoL9ctezZgcCXnL"
+      "duration_ms": 202235,
+      "name": "Vydr\u017ea\u0165",
+      "url": "https://open.spotify.com/track/735kL7IzM3RPxKEYhzeJRJ"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -397,23 +381,23 @@
       "url": "https://open.spotify.com/track/2lT4GhI1ol6w0OrW1drWvZ"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/2RzvtemoxfrfGSbAXePP2v"
       },
       "artists": [
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Nik Tendo",
+          "url": "https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h"
         }
       ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+      "duration_ms": 192000,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7uf6qIMpoL9ctezZgcCXnL"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "P\u0159\u00edb\u011bhy a sny",
         "url": "https://open.spotify.com/album/70Ulib33YLyewrPZhXbFd4"
@@ -429,23 +413,7 @@
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Praha/V\u00edde\u0148",
-        "url": "https://open.spotify.com/album/6TQwNei1gmD8YDdbf89suY"
-      },
-      "artists": [
-        {
-          "name": "Calin",
-          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "Praha/V\u00edde\u0148",
-      "url": "https://open.spotify.com/track/4OV1SH5qwYImh0tm04x5LD"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -465,7 +433,63 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Praha/V\u00edde\u0148",
+        "url": "https://open.spotify.com/album/6TQwNei1gmD8YDdbf89suY"
+      },
+      "artists": [
+        {
+          "name": "Calin",
+          "url": "https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "Praha/V\u00edde\u0148",
+      "url": "https://open.spotify.com/track/4OV1SH5qwYImh0tm04x5LD"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Anarchia",
+        "url": "https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW"
+      },
+      "artists": [
+        {
+          "name": "Samey",
+          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
+        },
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Natalia Hulejova",
+          "url": "https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5"
+        }
+      ],
+      "duration_ms": 186993,
+      "name": "breeze",
+      "url": "https://open.spotify.com/track/1dkTyDuDkpgfTyti3REUVE"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -485,7 +509,23 @@
       "url": "https://open.spotify.com/track/7cztzISDJriiWfFrSpNyv1"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "=",
+        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -501,35 +541,7 @@
       "url": "https://open.spotify.com/track/4PoKyatH01EgoKXjeGjNDK"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Otis",
-          "url": "https://open.spotify.com/artist/6tgoVY0A9jgdei4JA2cCrF"
-        },
-        {
-          "name": "Luca Brassi10x",
-          "url": "https://open.spotify.com/artist/533p900oXrV93rJupPWvF2"
-        },
-        {
-          "name": "SAK10DENZ",
-          "url": "https://open.spotify.com/artist/7qIxkjhPmu8j1c8THSt8xl"
-        }
-      ],
-      "duration_ms": 265357,
-      "name": "7:30 R\u00c1NO V BRATISLAVE",
-      "url": "https://open.spotify.com/track/5BBnjiqknqdUPBNtfJgm5W"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
@@ -557,203 +569,7 @@
       "url": "https://open.spotify.com/track/1r2ekOnBhxmBHsPZD4LDOM"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "How Do I Make You Love Me?",
-      "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Is There Someone Else?",
-      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Anarchia",
-        "url": "https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW"
-      },
-      "artists": [
-        {
-          "name": "Samey",
-          "url": "https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt"
-        },
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        },
-        {
-          "name": "Natalia Hulejova",
-          "url": "https://open.spotify.com/artist/6z6rGMj1Yl5TKAC56gjfR5"
-        }
-      ],
-      "duration_ms": 186993,
-      "name": "breeze",
-      "url": "https://open.spotify.com/track/1dkTyDuDkpgfTyti3REUVE"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
-      },
-      "artists": [
-        {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
-        },
-        {
-          "name": "Tripp",
-          "url": "https://open.spotify.com/artist/2l7Hqp4yBl3lm1uWUkToYf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Jazero",
-      "url": "https://open.spotify.com/track/2NLTNNTLrlIunoHr8KsnUb"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "=",
-        "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Bad Habits",
-      "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        },
-        {
-          "name": "Sergei Barracuda",
-          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
-        },
-        {
-          "name": "Matej Straka",
-          "url": "https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "UNIKLI OSUDU",
-      "url": "https://open.spotify.com/track/5RVpaJ69zRKkaU1sCs8pBh"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 212165,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "In\u00ed",
-      "url": "https://open.spotify.com/track/0eXlhafitIbMzPqhGhCLVI"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
-        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
-      },
-      "artists": [
-        {
-          "name": "Pil C",
-          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
-        }
-      ],
-      "duration_ms": 152369,
-      "name": "FOYER",
-      "url": "https://open.spotify.com/track/7GT9Y7tOMfzEDn6a7he8Fj"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
-      "album": {
-        "name": "KF ako Rolls",
-        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
-      },
-      "artists": [
-        {
-          "name": "Kontrafakt",
-          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Vysp\u00edm Sa A\u017e v Hrobe",
-      "url": "https://open.spotify.com/track/5mDaUSsAznZOrUTmP86uAv"
-    },
-    {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Stroj",
         "url": "https://open.spotify.com/album/4SURCK2TTJebqJoCqh9adH"
@@ -777,7 +593,51 @@
       "url": "https://open.spotify.com/track/7sqLWtFToGysW2iGJC2IDA"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Otis",
+          "url": "https://open.spotify.com/artist/6tgoVY0A9jgdei4JA2cCrF"
+        },
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/533p900oXrV93rJupPWvF2"
+        },
+        {
+          "name": "SAK10DENZ",
+          "url": "https://open.spotify.com/artist/7qIxkjhPmu8j1c8THSt8xl"
+        }
+      ],
+      "duration_ms": 265357,
+      "name": "7:30 R\u00c1NO V BRATISLAVE",
+      "url": "https://open.spotify.com/track/5BBnjiqknqdUPBNtfJgm5W"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Story",
         "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
@@ -786,30 +646,34 @@
         {
           "name": "Sima",
           "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        },
+        {
+          "name": "Tripp",
+          "url": "https://open.spotify.com/artist/2l7Hqp4yBl3lm1uWUkToYf"
         }
       ],
-      "duration_ms": 167826,
-      "name": "Bohyne",
-      "url": "https://open.spotify.com/track/68uIfEARNrfZvOw5c5bNuY"
+      "duration_ms": 176000,
+      "name": "Jazero",
+      "url": "https://open.spotify.com/track/2NLTNNTLrlIunoHr8KsnUb"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
-        "name": "Story",
-        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
       },
       "artists": [
         {
-          "name": "Sima",
-          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
         }
       ],
-      "duration_ms": 249009,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/0a0rFs14fzUpMRsHjilJjH"
+      "duration_ms": 184000,
+      "name": "In\u00ed",
+      "url": "https://open.spotify.com/track/0eXlhafitIbMzPqhGhCLVI"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -829,7 +693,23 @@
       "url": "https://open.spotify.com/track/0N0ZJUbAR04XjQQYUwKg6D"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "KF ako Rolls",
+        "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
+      },
+      "artists": [
+        {
+          "name": "Kontrafakt",
+          "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Vysp\u00edm Sa A\u017e v Hrobe",
+      "url": "https://open.spotify.com/track/5mDaUSsAznZOrUTmP86uAv"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
         "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
@@ -840,16 +720,68 @@
           "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
         },
         {
-          "name": "Palermo",
-          "url": "https://open.spotify.com/artist/1Gy31Couy5B3s2S0sITxSe"
+          "name": "Sergei Barracuda",
+          "url": "https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko"
+        },
+        {
+          "name": "Matej Straka",
+          "url": "https://open.spotify.com/artist/4WB1NUL01OyTTuhNkdyljG"
         }
       ],
-      "duration_ms": 175800,
-      "name": "ST\u00c1LE M\u00c1LO",
-      "url": "https://open.spotify.com/track/6qSQTd2AUmsO9HP49EVc0Y"
+      "duration_ms": 283013,
+      "name": "UNIKLI OSUDU",
+      "url": "https://open.spotify.com/track/5RVpaJ69zRKkaU1sCs8pBh"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Bohyne",
+      "url": "https://open.spotify.com/track/68uIfEARNrfZvOw5c5bNuY"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        }
+      ],
+      "duration_ms": 152369,
+      "name": "FOYER",
+      "url": "https://open.spotify.com/track/7GT9Y7tOMfzEDn6a7he8Fj"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Story",
+        "url": "https://open.spotify.com/album/1ruw77DQdaNwTKFbxUmqvY"
+      },
+      "artists": [
+        {
+          "name": "Sima",
+          "url": "https://open.spotify.com/artist/7gQ6tkspAoOOoDaCuVcSwH"
+        }
+      ],
+      "duration_ms": 249009,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/0a0rFs14fzUpMRsHjilJjH"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -869,7 +801,23 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168020,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/2gQPv5jvVPqU2a9HhMNO1v"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -880,12 +828,32 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 339023,
-      "name": "Take My Breath",
-      "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "V\u010faka Ti (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6JIFHQVClOhGBxsmraYGGG"
+      },
+      "artists": [
+        {
+          "name": "Puerto",
+          "url": "https://open.spotify.com/artist/0hT8nyxBlZUf5CqbmnUnb6"
+        },
+        {
+          "name": "Yael",
+          "url": "https://open.spotify.com/artist/5TSjeYa1XO0i6b4FVKZYYz"
+        }
+      ],
+      "duration_ms": 181741,
+      "name": "V\u010faka Ti - Acoustic Version",
+      "url": "https://open.spotify.com/track/0z7L3ZNiRZTsJv1vpiSHG0"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "HUHU",
         "url": "https://open.spotify.com/album/4IlMQ162IwQMFvTY9LZyJO"
@@ -901,7 +869,27 @@
       "url": "https://open.spotify.com/track/4BkbccWm1JYbV0G2BQCTT4"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "Hey G!",
+        "url": "https://open.spotify.com/album/0H9fj2sXY25zApEdjbHgX9"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Hey G!",
+      "url": "https://open.spotify.com/track/1i6Q39TzaIp6EkJL9k51qd"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
       "album": {
         "name": "KF ako Rolls",
         "url": "https://open.spotify.com/album/3lqcNham2TwLdCrqJIPSEB"
@@ -912,25 +900,49 @@
           "url": "https://open.spotify.com/artist/3inzIBtXMSkZTGEfC0a1kT"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Nechcem By\u0165 Mlad\u00fd",
-      "url": "https://open.spotify.com/track/341rbmTPUuvv5LTnbRRUd2"
+      "duration_ms": 155374,
+      "name": "\u010co Vie\u0161 O",
+      "url": "https://open.spotify.com/track/3No5hUUXV2nDFdcd7dNS9x"
     },
     {
-      "added_at": "2022-01-11 09:47:38",
+      "added_at": "2022-01-12 16:41:58",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Palermo",
+          "url": "https://open.spotify.com/artist/1Gy31Couy5B3s2S0sITxSe"
         }
       ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+      "duration_ms": 175800,
+      "name": "ST\u00c1LE M\u00c1LO",
+      "url": "https://open.spotify.com/track/6qSQTd2AUmsO9HP49EVc0Y"
+    },
+    {
+      "added_at": "2022-01-12 16:41:58",
+      "album": {
+        "name": "ODS\u00daDEN\u00cd NA \u00daSPECH",
+        "url": "https://open.spotify.com/album/4dVkZzmsxw0SAws0KiZPe2"
+      },
+      "artists": [
+        {
+          "name": "Pil C",
+          "url": "https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG"
+        },
+        {
+          "name": "Rytmus",
+          "url": "https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "V PODZEM\u00cd FREESTYLE",
+      "url": "https://open.spotify.com/track/2dRXI14jEUYGz04ZU086ol"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKIVTPX9a2Sb"
