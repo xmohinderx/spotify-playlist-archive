@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaw68inx4UiN.md) - [plain]
 
 > The magical soundscapes of the rain forest.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,077 likes - 69 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,137 likes - 69 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

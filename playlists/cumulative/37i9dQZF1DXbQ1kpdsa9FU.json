@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 256933,
       "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
       "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 252257,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/5CjYgLyRgiIGiS9fQAyWaH"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 267066,
       "name": "Amazing Grace (My Chains Are Gone)",
       "url": "https://open.spotify.com/track/5W9Al2ewPfzbWHOV2BAtBR"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 194146,
       "name": "Broken Prayers",
       "url": "https://open.spotify.com/track/4hPxXTBcUoEQjedrVPXelB"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 293331,
       "name": "Death Was Arrested",
       "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 281866,
       "name": "Great Is Thy Faithfulness",
       "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
@@ -761,7 +761,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 250426,
       "name": "Great Is Thy Faithfulness (Beginning to End) [feat. Mike Weaver] (feat. Mike Weaver)",
       "url": "https://open.spotify.com/track/1W5mifA8dmXAkeich4GPFK"
@@ -1184,6 +1184,24 @@
     },
     {
       "album": {
+        "name": "Pieces Of A Real Heart",
+        "url": "https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2020-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228800,
+      "name": "Lead Me",
+      "url": "https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO"
+    },
+    {
+      "album": {
         "name": "Let Love Lead",
         "url": "https://open.spotify.com/album/5BEemxdbH4HsY8OHUTcL23"
       },
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 235185,
       "name": "Let Love Lead",
       "url": "https://open.spotify.com/track/6ezWbOb22Pih3yFT0DTyUD"
@@ -1307,7 +1325,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 340344,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre"
@@ -1343,7 +1361,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 229946,
       "name": "Mighty to Save",
       "url": "https://open.spotify.com/track/5l4kTQShA5kAOvjbGBTxBm"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 349586,
       "name": "O Come to the Altar (Live)",
       "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
@@ -1885,7 +1903,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 279506,
       "name": "Shout to the Lord - Live",
       "url": "https://open.spotify.com/track/52mdbM1tueoC8UnYvZ9uTX"
@@ -1903,7 +1921,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 411000,
       "name": "So Will I (100 Billion X)",
       "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
@@ -2333,7 +2351,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/7GwlxrT8PTxGkZ1CGIQloh"
@@ -2387,7 +2405,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 306013,
       "name": "Yes And Amen",
       "url": "https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB"

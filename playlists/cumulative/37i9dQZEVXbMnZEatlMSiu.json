@@ -4808,6 +4808,28 @@
     },
     {
       "album": {
+        "name": "\u6469\u767b\u611b\u60c5 (feat. Julia Wu)",
+        "url": "https://open.spotify.com/album/1iyFNSnMgc0y4tzSvuD6EM"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Julia Wu",
+          "url": "https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195163,
+      "name": "\u6469\u767b\u611b\u60c5 (feat. Julia Wu)",
+      "url": "https://open.spotify.com/track/7unyqNvWBxK0LHQ0sqrEar"
+    },
+    {
+      "album": {
         "name": "\u5361\u901a\u4eba\u7269",
         "url": "https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5"
       },
@@ -5505,7 +5527,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 236000,
       "name": "\u842c\u5343\u82b1\u854a\u6148\u6bcd\u60b2\u54c0",
       "url": "https://open.spotify.com/track/5Wyq70ysHQp0jaMhPKrza4"

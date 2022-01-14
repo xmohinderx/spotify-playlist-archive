@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 246626,
       "name": "20 \u00e5r p\u00e5 vegen",
       "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 254380,
       "name": "Det Hainnle Om \u00c5 Leve",
       "url": "https://open.spotify.com/track/2WJ14O84lqRcgjPOSgf6tI"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 203263,
       "name": "Det jeg vil ha (fra deg)",
       "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 226453,
       "name": "Elefanten i rommet",
       "url": "https://open.spotify.com/track/4051cW2QEyKfTfLeLgyzOb"
@@ -639,7 +639,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 253100,
       "name": "Evig Eies (Kun Et D\u00e5rlig Rykte)",
       "url": "https://open.spotify.com/track/6SlE2MU3PsOO7NrPIIFRHm"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 205098,
       "name": "Hjem",
       "url": "https://open.spotify.com/track/3FxG5apYswIMtnYIZN5RKH"
@@ -1127,7 +1127,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 256239,
       "name": "Kommer du snart hjem",
       "url": "https://open.spotify.com/track/5H3qr0j1gHk6VOyFwqtbfn"
@@ -1206,6 +1206,24 @@
     },
     {
       "album": {
+        "name": "Ten Sing 50 \u00e5r - De utrolige",
+        "url": "https://open.spotify.com/album/1QNWE943EdD53JCsViyRoQ"
+      },
+      "artists": [
+        {
+          "name": "Marthe Wang",
+          "url": "https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Midt i m\u00f8rket",
+      "url": "https://open.spotify.com/track/5bVgmnECHM8wRr9E84VAr9"
+    },
+    {
+      "album": {
         "name": "Et sted under stjernene",
         "url": "https://open.spotify.com/album/4lkAF5a0B0xDbaTcbZY4NL"
       },
@@ -1257,7 +1275,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 141120,
       "name": "Mitt Hjerte Er Ditt",
       "url": "https://open.spotify.com/track/6T95elNl2CwTnJXAUUq9LI"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 218640,
       "name": "Sangen om de glemte",
       "url": "https://open.spotify.com/track/4UfaAnu4XTEA0ZOqtJD5is"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 191902,
       "name": "Sm\u00e5`n",
       "url": "https://open.spotify.com/track/4ZjF0DpPdbjXbC27GYzEIE"
@@ -1467,7 +1485,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 258638,
       "name": "Sommerfuggel I Vinterland",
       "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
@@ -1539,7 +1557,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 281955,
       "name": "S\u00e5 fullt av ja",
       "url": "https://open.spotify.com/track/03R1lVzNfr7j9CwLE53eDQ"
@@ -1593,7 +1611,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 215120,
       "name": "Takk for alt",
       "url": "https://open.spotify.com/track/54R6o5mqK9bNT69ZACtAFH"
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 386333,
       "name": "Tapt Paradis",
       "url": "https://open.spotify.com/track/5nxWnKvhtGxvPl7tkR9jvi"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 217453,
       "name": "Tar du i mot meg? - en flyktning synger H\u00e4ndel",
       "url": "https://open.spotify.com/track/67O3bDK9Euq9EuqEDSIuFM"
@@ -1753,7 +1771,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 254680,
       "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
       "url": "https://open.spotify.com/track/42ABcWYV6yzewALbyw4eEF"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181200,
       "name": "V\u00e5r Beste Dag",
       "url": "https://open.spotify.com/track/4EtXjwdVdnv4v2glKQBloT"

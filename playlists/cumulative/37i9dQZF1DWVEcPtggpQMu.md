@@ -2,7 +2,7 @@
 
 ### [Aux](https://open.spotify.com/playlist/0xTC98cyXGkNifzFqwccaX)
 
-> Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=444SdbtzRkGu7Xg5IkX0SQ">Zoocci Coke Dope</a>
+> Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x?si=JfkadQmQQ7G3AxN\_GlnieA">Yugen Blakrok</a>
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [ouT oF reacH](https://open.spotify.com/track/1eGJ1UlpNwBnc7OhFNAYnx) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [heaveN caN waiT: thE narroW dooR \(vol\. 1\)](https://open.spotify.com/album/6wEjzLTreHIS9pOdZ1CUis) | 3:50 | 2021-12-09 |  |
 | [Overstimulated](https://open.spotify.com/track/5oNtwP8BKhkpd3aMiPnzsi) | [Gina Jeanz](https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu) | [Lucid Theory](https://open.spotify.com/album/4Bdv20xzcXcysNvQvdrr0C) | 2:48 | 2021-12-02 |  |
 | [Pardon My French](https://open.spotify.com/track/3MUQ78mJ533dQsBwAk3Rms) | [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87), [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [LucasRaps](https://open.spotify.com/artist/4JSvvDLGYceGFKpYj2P4BK) | [Pardon My French](https://open.spotify.com/album/6jVVFF4iAy9Csj3ZwGCayp) | 5:22 | 2021-08-13 |  |
+| [Pedestal](https://open.spotify.com/track/5PdkPSj5yuFfFN8BsGkArH) | [Yugen Blakrok](https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x), [Kanif The Jhatmaster](https://open.spotify.com/artist/1Z4ZGwOFTMQiXjEC5XfYIi) | [Pedestal](https://open.spotify.com/album/0fs8gp9iMsoapkPuNvyLrz) | 3:39 | 2022-01-13 |  |
 | [PLAYBACK](https://open.spotify.com/track/3sXKkRmrHrSrX7xCWHiOH7) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z) | [PLAYBACK](https://open.spotify.com/album/2fw1To7qooV4L4wFqfDbtA) | 3:12 | 2021-10-14 |  |
 | [ridiculouS](https://open.spotify.com/track/6UPZoLHQJpM5GfuCWG1VRV) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR), [BLUE TAPE](https://open.spotify.com/artist/4y5YjEYnpEqsjHnPEN30UK) | [ridiculouS](https://open.spotify.com/album/2mCKxB9NhM3Kn2oz7IT9ZD) | 3:08 | 2021-09-09 |  |
 | [Runaway](https://open.spotify.com/track/1L2d6wOaEgjx8i5wc7cs5d) | [XXC Legacy](https://open.spotify.com/artist/2NTfvgbSma5efyg5iyLG43), [Moozlie](https://open.spotify.com/artist/4TvEx3QxTDbOBf5XgfNPiU) | [Runaway](https://open.spotify.com/album/5i0ljefDh5DVQVnS6Sw3sI) | 3:19 | 2021-11-25 |  |

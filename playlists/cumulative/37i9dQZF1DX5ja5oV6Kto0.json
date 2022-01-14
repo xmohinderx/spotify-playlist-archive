@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Pacino Capsule",
+        "url": "https://open.spotify.com/album/4gARWueu1JzMQoQLRzz2ny"
+      },
+      "artists": [
+        {
+          "name": "Straffitti",
+          "url": "https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131555,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1fcPm7yphWQzX0gLZe11ez"
+    },
+    {
+      "album": {
         "name": "Bling (feat. Amaarae & Buju)",
         "url": "https://open.spotify.com/album/3FBwuaDksx69N9qzYb3m8N"
       },
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 187714,
       "name": "Cash",
       "url": "https://open.spotify.com/track/24Du4ldzPI7PVfuaB45JHV"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 185196,
       "name": "Ethiopia",
       "url": "https://open.spotify.com/track/6lx4aUEcnR7sojpxEQu4mV"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 153402,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/4vHIN4313pVSEf7D2ylO3C"
@@ -999,10 +1017,28 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 149311,
       "name": "loving is harder",
       "url": "https://open.spotify.com/track/3FFTifOMJ6jUNxTELrRasy"
+    },
+    {
+      "album": {
+        "name": "99Baby",
+        "url": "https://open.spotify.com/album/7z9YRto2887sMhdoB1IlNL"
+      },
+      "artists": [
+        {
+          "name": "Narlti",
+          "url": "https://open.spotify.com/artist/7rYY2q5oMyLy42LFSPCZQU"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166086,
+      "name": "Main List",
+      "url": "https://open.spotify.com/track/06no0FzEycGa7BmffmwmOx"
     },
     {
       "album": {
@@ -1376,6 +1412,24 @@
     },
     {
       "album": {
+        "name": "Should We Try",
+        "url": "https://open.spotify.com/album/2lhXDm1QXyIpXVeEOAGxNQ"
+      },
+      "artists": [
+        {
+          "name": "David Bolton",
+          "url": "https://open.spotify.com/artist/4rpPz9ZDWhFXcMKnkGF7CG"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225856,
+      "name": "Should We Try",
+      "url": "https://open.spotify.com/track/5SLGCYDB44nVPKRQf1jJHj"
+    },
+    {
+      "album": {
         "name": "SLIDE",
         "url": "https://open.spotify.com/album/49HHmNM7qGqk5svKQtm5aL"
       },
@@ -1581,6 +1635,24 @@
       "duration_ms": 177891,
       "name": "Time Difference",
       "url": "https://open.spotify.com/track/0oAMtDXJSvTmXKTo6xCyMQ"
+    },
+    {
+      "album": {
+        "name": "Toronto",
+        "url": "https://open.spotify.com/album/78v5J3Ix7NaMtjDrfIdvZd"
+      },
+      "artists": [
+        {
+          "name": "Freddy Hayz",
+          "url": "https://open.spotify.com/artist/51RsadtO7G3XBK4yNT78bP"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227447,
+      "name": "Toronto",
+      "url": "https://open.spotify.com/track/1qrQS3YWnGIPwYvbIomVdJ"
     },
     {
       "album": {

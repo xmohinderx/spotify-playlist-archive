@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO3M0Fbi.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO3M0Fbi) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO3M0Fbi)
 
-### This Is Nirvana
+### [This Is Nirvana](https://open.spotify.com/playlist/2IEtsNVuwERkcJwtrDpP1j)
 
 > This is Nirvana\. The essential tracks, all in one playlist.
 

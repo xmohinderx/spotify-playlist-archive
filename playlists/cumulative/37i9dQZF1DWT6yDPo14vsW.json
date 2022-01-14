@@ -53,10 +53,28 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "album": {
+        "name": "Estrella Guia",
+        "url": "https://open.spotify.com/album/0bJDginBxFe7sM7Vz8gAAQ"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Pires",
+          "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "Amame",
+      "url": "https://open.spotify.com/track/3ZHRiFQZaJXRvnhUt43pqO"
     },
     {
       "album": {
@@ -251,7 +269,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 294906,
       "name": "Bella (She's All I Ever Had)",
       "url": "https://open.spotify.com/track/5u1BrOqDnQdguBbgoeeEf1"
@@ -530,6 +548,24 @@
     },
     {
       "album": {
+        "name": "Entre el Cielo Vos y Yo",
+        "url": "https://open.spotify.com/album/1GDddDwEU7KOjbwN8jL9aD"
+      },
+      "artists": [
+        {
+          "name": "Erica",
+          "url": "https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7"
+        }
+      ],
+      "date_added": "2021-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Entre el Cielo Vos y Yo",
+      "url": "https://open.spotify.com/track/2ucXI3ph3XsFhe9T78cfYZ"
+    },
+    {
+      "album": {
         "name": "Entre t\u00fa y mil mares",
         "url": "https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj"
       },
@@ -603,6 +639,24 @@
       "duration_ms": 279040,
       "name": "Escucha a tu coraz\u00f3n",
       "url": "https://open.spotify.com/track/7rlNIalRVbyM76fUXCfXg3"
+    },
+    {
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/6J6tZY4zE6tHPn41OAKv86"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189693,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/5W2WtrzpCAskiMjewK3Kr1"
     },
     {
       "album": {
@@ -743,7 +797,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 225680,
       "name": "Inv\u00e9ntame - Live",
       "url": "https://open.spotify.com/track/0LYBDxw09hDPwdybZvm8FI"
@@ -935,7 +989,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 187626,
       "name": "Me Cans\u00e9 De Ti",
       "url": "https://open.spotify.com/track/1pxmhFimjs0SGi5CH1OmXB"
@@ -1475,7 +1529,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 216986,
       "name": "Solo Importas Tu",
       "url": "https://open.spotify.com/track/7mu0o0LnLZQxsl9x3ZuOyX"
@@ -1596,6 +1650,42 @@
     },
     {
       "album": {
+        "name": "Tarde O Temprano",
+        "url": "https://open.spotify.com/album/10puCHT7A7lCYydtRCnawp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261360,
+      "name": "Tarde O Temprano",
+      "url": "https://open.spotify.com/track/4DiDfrTp1wpDfphcDaEfRO"
+    },
+    {
+      "album": {
+        "name": "Te Confieso",
+        "url": "https://open.spotify.com/album/7vzVWhQCU8ZMc8H4tVV9vy"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195710,
+      "name": "Te Confieso",
+      "url": "https://open.spotify.com/track/7AIy2SEjip6FKhlSNMoMac"
+    },
+    {
+      "album": {
         "name": "S\u00f3lo Para Mujeres",
         "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
       },
@@ -1611,6 +1701,24 @@
       "duration_ms": 246440,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/5nAiSK9L3OG1v3HEgZmnoz"
+    },
+    {
+      "album": {
+        "name": "Galeria Caribe",
+        "url": "https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267186,
+      "name": "Te Enamoraste de Ti",
+      "url": "https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom"
     },
     {
       "album": {
@@ -1787,7 +1895,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 278400,
       "name": "Y Todo Queda en Nada",
       "url": "https://open.spotify.com/track/44PcqZldHvLphouCGnH7i0"

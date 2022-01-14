@@ -2,7 +2,7 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
-> The very best of Punjabi romance featuring "Akhil".
+> The very best of Punjabi romance featuring " Satinder Sartaaj".
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 | 2021-12-02 |  |
 | [Top Notch Gabru](https://open.spotify.com/track/5ACacHdqtOjENeTgh4qfmy) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Top Notch Gabru](https://open.spotify.com/album/00ZQAJAlj1QPNEm8hfHJDG) | 2:38 | 2021-12-02 |  |
 | [Tu Hi Das De](https://open.spotify.com/track/65hNUaQSau704UtsRZVhKy) | [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Simar Panag](https://open.spotify.com/artist/17wXdpGNHQ2vJ1ccoToqGC), [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Tu Hi Das De](https://open.spotify.com/album/5ZYR477Cw4aZu3NDhBKXrW) | 2:52 | 2021-12-02 |  |
+| [Uche Uche Paunche](https://open.spotify.com/track/2GRerbOFlewgeat5rubxWk) | [Kulwinder Billa](https://open.spotify.com/artist/0CP2yDO5i5Q2G1fRj6C8JV) | [Uche Uche Paunche](https://open.spotify.com/album/4ZRHTGDeYYTgdVc2lAIN1d) | 3:22 | 2022-01-13 |  |
 | [Uchiyaan Dewaraan](https://open.spotify.com/track/1CYn0jiSz0gubTpYJbuTMS) | [Bilal Saeed](https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Uchiyaan Dewaraan](https://open.spotify.com/album/6MyTdWlbXDZcpGDXDBGW0G) | 3:47 | 2021-12-02 |  |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2021-12-02 |  |
 | [Vail](https://open.spotify.com/track/1bqAnuqlgbQ55AByEp0SmM) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Vail](https://open.spotify.com/album/0SUKbK4r6wQS0t9gdMsIdm) | 3:20 | 2021-12-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,347 likes - 75 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,367 likes - 75 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 4 | [Ab Jaane Ki Zid Na Karo](https://open.spotify.com/track/2XvA8l5nma3jDO5onG3skp) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Satyansh Rajat](https://open.spotify.com/artist/2WvmxUMd2Pnekw7iHHyWLk) | [Ab Jaane Ki Zid Na Karo](https://open.spotify.com/album/1rmVytV1T9RRk8pr6jPsgd) | 3:01 |
 | 5 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 |
 | 6 | [Mo Funk \(Indo\-Western Fusion\)](https://open.spotify.com/track/4C95pR86Pp1CiRDJQnGFWk) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:39 |
-| 7 | [Saiyan More](https://open.spotify.com/track/13TufNYTciiuhpKu0opjTm) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Darshan Doshi](https://open.spotify.com/artist/4DeflX7cpU7aG3Wq6eGOJr), [Rhythm Shaw](https://open.spotify.com/artist/6akOptJkTKxrfiMmlhCnSn), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Saiyan More](https://open.spotify.com/album/2NFDkcUM8JXfdgkMDodbGM) | 6:26 |
+| 7 | [Saiyan More \- Female Version](https://open.spotify.com/track/13TufNYTciiuhpKu0opjTm) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Darshan Doshi](https://open.spotify.com/artist/4DeflX7cpU7aG3Wq6eGOJr), [Rhythm Shaw](https://open.spotify.com/artist/6akOptJkTKxrfiMmlhCnSn), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL), [Nakul Chugh](https://open.spotify.com/artist/1xYJFWslO6jDXRaIC3Q20V) | [Saiyan More \(Female Version\)](https://open.spotify.com/album/2NFDkcUM8JXfdgkMDodbGM) | 6:26 |
 | 8 | [Pata Nahin](https://open.spotify.com/track/6JclMezRpieefEcYchmSe5) | [Shivansh Jindal](https://open.spotify.com/artist/4jOKBnkdydJAPCmacFHDA9) | [Pata Nahin](https://open.spotify.com/album/2YIzspPB4PB1fb7JWc5qlj) | 3:29 |
 | 9 | [Mohan Bin Radha](https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX) | [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Mohan Bin Radha](https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1) | 3:19 |
 | 10 | [Saahiba](https://open.spotify.com/track/72ZCskgfexMXQ7k9E0qx5l) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh) | [Saahiba](https://open.spotify.com/album/0Atpcs1HndL61F1zQO8BYV) | 4:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > These women are on the rise, and are rocking our worlds right now / Cover: Siiickbrain
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,807 likes - 129 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,958 likes - 129 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

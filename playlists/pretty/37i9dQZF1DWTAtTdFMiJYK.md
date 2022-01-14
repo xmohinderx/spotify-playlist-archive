@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,641 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,654 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 4 | [Humse Khafa](https://open.spotify.com/track/5JbvDBWAFvOnlr53Q9cD5P) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Humse Khafa](https://open.spotify.com/album/1MMpS9n2JdNIN1q4Fr3K1H) | 4:00 |
 | 5 | [Faasle](https://open.spotify.com/track/3vKclvEn6o2UyHl9WR6958) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Bitter Sweet](https://open.spotify.com/album/1x1xYzNzlziGfjTGmYCKUl) | 3:08 |
 | 6 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 |
-| 7 | [Siyah\|Azizo](https://open.spotify.com/track/4dDPeULdvQPl2qel2ll7RZ) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah\|Azizo](https://open.spotify.com/album/31w9hz9GXUKRRc4U4ciF3Y) | 3:36 |
+| 7 | [Siyah \| Azizo](https://open.spotify.com/track/4dDPeULdvQPl2qel2ll7RZ) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Siyah \| Azizo](https://open.spotify.com/album/31w9hz9GXUKRRc4U4ciF3Y) | 3:36 |
 | 8 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 | 9 | [Doorie](https://open.spotify.com/track/1Dc4zs4hnrqbz4pV44uT8g) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Doorie](https://open.spotify.com/album/0tExo9nxg65475C6EHR0Pd) | 3:53 |
 | 10 | [Gul](https://open.spotify.com/track/0NLkVxf0PyxsXBG3EuZcJf) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Gul](https://open.spotify.com/album/0aD1s9SFgIIZG95AzVhLC7) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 79 | [Jaana Kaha Hai](https://open.spotify.com/track/6aHl7WFS38wYezyWHTdghb) | [Muhafiz](https://open.spotify.com/artist/6pwzflaMKjxNpkXFtaYZo9), [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [Siddharth Chopra](https://open.spotify.com/artist/0HIZoRSgTwczAwI7zTp7fx) | [Muhafiz](https://open.spotify.com/album/3i1b37UcMyjpG5vF5G3TMz) | 4:32 |
 | 80 | [Kehna Kuch](https://open.spotify.com/track/0CbH9bhJrTO6VyjJ8h3rgd) | [Geetesh Iyer](https://open.spotify.com/artist/7yidmGI409tmobqWWAg3fS) | [Kehna Kuch](https://open.spotify.com/album/3UkesRRbgTtZ4zsmY1mRx5) | 3:27 |
 
-Snapshot ID: `MTY0MjAzNDQ2MSwwMDAwMDAwMGY5NDY3YzY2N2Q5OTU3YjJmNTA2YjI1YTljOWIzZDUz`
+Snapshot ID: `MTY0MjEyMDc0OSwwMDAwMDAwMGY5NDY3YzY2N2Q5OTU3YjJmNTA2YjI1YTljOWIzZDUz`

@@ -1,40 +1,32 @@
 {
-  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"xhttps://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v?si=VS0hKX5ASKS4sWXi8lPtsw\">Kelvin Momo</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and beyond... Cover: <a href=\"https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1?si=mS6wkKhsRt-XDjIk1jSsKg\">Ch'cco</a> and <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=TnuvaaEPQHeey-L_PDMsag\">Mellow & Sleazy</a>",
   "name": "AmaPiano Grooves",
-  "num_followers": 231220,
+  "num_followers": 231699,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg5ODMyOCwwMDAwMDMxZjAwMDAwMTdlNDhjNDQyMWEwMDAwMDE3ZGM1MjU1NTMz",
+  "snapshot_id": "MTY0MjExMTE0MCwwMDAwMDMyMDAwMDAwMTdlNTU3MzgwZmQwMDAwMDE3ZTU0M2E1MjQ0",
   "tracks": [
     {
-      "added_at": "2022-01-06 21:59:00",
+      "added_at": "2021-11-12 10:33:08",
       "album": {
-        "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) [Vigro Deep Amapiano Remix]",
-        "url": "https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1"
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        },
-        {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
         }
       ],
-      "duration_ms": 336842,
-      "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) - Vigro Deep Amapiano Remix",
-      "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
       "added_at": "2021-10-28 21:59:00",
@@ -55,26 +47,6 @@
       "duration_ms": 377624,
       "name": "Ngixolele",
       "url": "https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0"
-    },
-    {
-      "added_at": "2021-11-12 10:33:08",
-      "album": {
-        "name": "Nkao Tempela",
-        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
-      },
-      "artists": [
-        {
-          "name": "Ch'cco",
-          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
-        },
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        }
-      ],
-      "duration_ms": 361528,
-      "name": "Nkao Tempela",
-      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
       "added_at": "2021-12-23 21:59:00",
@@ -125,34 +97,6 @@
       "url": "https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ"
     },
     {
-      "added_at": "2022-01-11 10:52:08",
-      "album": {
-        "name": "Trigger",
-        "url": "https://open.spotify.com/album/1anApd1l1HVFWry0hCmYsP"
-      },
-      "artists": [
-        {
-          "name": "Dj Karri",
-          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
-        },
-        {
-          "name": "Lebzito",
-          "url": "https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q"
-        },
-        {
-          "name": "BL Zero",
-          "url": "https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl"
-        },
-        {
-          "name": "Prime De 1st",
-          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
-        }
-      ],
-      "duration_ms": 393743,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/5UQPyDQmSLM9fb6d6nuD3s"
-    },
-    {
       "added_at": "2021-10-21 21:59:00",
       "album": {
         "name": "Notumato",
@@ -197,6 +141,34 @@
       "url": "https://open.spotify.com/track/1b4kqxvf4kFuB7ACj9Lvve"
     },
     {
+      "added_at": "2022-01-11 10:52:08",
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/1anApd1l1HVFWry0hCmYsP"
+      },
+      "artists": [
+        {
+          "name": "Dj Karri",
+          "url": "https://open.spotify.com/artist/4seQKbHnG8TM3jKeUvHFw1"
+        },
+        {
+          "name": "Lebzito",
+          "url": "https://open.spotify.com/artist/3ZzgC7B3Ggr2jZGWclAY7Q"
+        },
+        {
+          "name": "BL Zero",
+          "url": "https://open.spotify.com/artist/4bu6ZJj5ThDofeVJHPVlwl"
+        },
+        {
+          "name": "Prime De 1st",
+          "url": "https://open.spotify.com/artist/0UUGeJH9SZmIlt204qRyol"
+        }
+      ],
+      "duration_ms": 393743,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/5UQPyDQmSLM9fb6d6nuD3s"
+    },
+    {
       "added_at": "2021-11-26 10:23:39",
       "album": {
         "name": "Zwonaka",
@@ -219,6 +191,34 @@
       "duration_ms": 447767,
       "name": "Zwonaka",
       "url": "https://open.spotify.com/track/2PhF9xxDAX5FW0KNnkpah5"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) [Vigro Deep Amapiano Remix]",
+        "url": "https://open.spotify.com/album/2EOWRhAyOt6UmBprRs7Ye1"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        },
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "duration_ms": 336842,
+      "name": "SAD GIRLZ LUV MONEY (feat. Moliy & Kali Uchis) - Vigro Deep Amapiano Remix",
+      "url": "https://open.spotify.com/track/3BmxwS8SAdpVMi4dqMK0xG"
     },
     {
       "added_at": "2021-11-30 06:40:53",
@@ -299,6 +299,26 @@
       "duration_ms": 996089,
       "name": "Ivy League",
       "url": "https://open.spotify.com/track/1YAi1uIjqSVMWdvsuK4oUQ"
+    },
+    {
+      "added_at": "2022-01-11 10:52:08",
+      "album": {
+        "name": "Feel Good (Amapiano Remixes)",
+        "url": "https://open.spotify.com/album/7wXl4nACfyWvaKvHtzQL6V"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 394285,
+      "name": "Feel Good - DJ Maphorisa Remix",
+      "url": "https://open.spotify.com/track/2EQf6Pb0Ut6fEuuEULhQmi"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -405,6 +425,26 @@
       "url": "https://open.spotify.com/track/2e2Hney6QuL9vXHtpce7GJ"
     },
     {
+      "added_at": "2021-08-31 07:05:54",
+      "album": {
+        "name": "Undisputed, Vol. 2",
+        "url": "https://open.spotify.com/album/5BAVTtz6uDhRUjr9Kf0x3n"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Mzu M",
+          "url": "https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM"
+        }
+      ],
+      "duration_ms": 378958,
+      "name": "Mmapula",
+      "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
+    },
+    {
       "added_at": "2021-11-18 21:59:00",
       "album": {
         "name": "Champion Sound",
@@ -425,6 +465,26 @@
       "url": "https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv"
     },
     {
+      "added_at": "2022-01-11 10:52:08",
+      "album": {
+        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
+      },
+      "artists": [
+        {
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "duration_ms": 227100,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
+    },
+    {
       "added_at": "2021-12-02 22:00:47",
       "album": {
         "name": "Pretty Girls Love Amapiano 3",
@@ -443,6 +503,34 @@
       "duration_ms": 377187,
       "name": "Video Jive",
       "url": "https://open.spotify.com/track/60n9qdYKZd91YaiwJsvzz8"
+    },
+    {
+      "added_at": "2021-12-16 21:59:00",
+      "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/4Ztozwf1oKHvz97IyGaocr"
+      },
+      "artists": [
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Crumz",
+          "url": "https://open.spotify.com/artist/3l1HF0TxLoTdxfrFlYEvq2"
+        },
+        {
+          "name": "K1NG",
+          "url": "https://open.spotify.com/artist/1p8sMso6kWPCLYUnYCcOFu"
+        }
+      ],
+      "duration_ms": 337074,
+      "name": "Summer Love - Edit",
+      "url": "https://open.spotify.com/track/0iHPBEH9FvdevqTxqrSKZ0"
     },
     {
       "added_at": "2021-12-16 21:59:00",
@@ -511,74 +599,6 @@
       "duration_ms": 375445,
       "name": "Some Attitude",
       "url": "https://open.spotify.com/track/0JDBJm0nGextHwOIqDW9tQ"
-    },
-    {
-      "added_at": "2021-12-16 21:59:00",
-      "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/4Ztozwf1oKHvz97IyGaocr"
-      },
-      "artists": [
-        {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
-        },
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Crumz",
-          "url": "https://open.spotify.com/artist/3l1HF0TxLoTdxfrFlYEvq2"
-        },
-        {
-          "name": "K1NG",
-          "url": "https://open.spotify.com/artist/1p8sMso6kWPCLYUnYCcOFu"
-        }
-      ],
-      "duration_ms": 337074,
-      "name": "Summer Love - Edit",
-      "url": "https://open.spotify.com/track/0iHPBEH9FvdevqTxqrSKZ0"
-    },
-    {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "31",
-        "url": "https://open.spotify.com/album/7xag2RyD28T58tTf5GtKYU"
-      },
-      "artists": [
-        {
-          "name": "Mxrcus",
-          "url": "https://open.spotify.com/artist/7z73kDwAN2PkZOU4SLvA9o"
-        },
-        {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
-        }
-      ],
-      "duration_ms": 361581,
-      "name": "31",
-      "url": "https://open.spotify.com/track/4KQYVaMor4SqqYR0yEPDeI"
-    },
-    {
-      "added_at": "2021-08-31 07:05:54",
-      "album": {
-        "name": "Undisputed, Vol. 2",
-        "url": "https://open.spotify.com/album/5BAVTtz6uDhRUjr9Kf0x3n"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Mzu M",
-          "url": "https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM"
-        }
-      ],
-      "duration_ms": 378958,
-      "name": "Mmapula",
-      "url": "https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY"
     },
     {
       "added_at": "2021-12-02 22:00:47",
@@ -673,34 +693,6 @@
       "url": "https://open.spotify.com/track/7prBXsKsF494LBElVDGmSb"
     },
     {
-      "added_at": "2021-09-30 21:59:00",
-      "album": {
-        "name": "Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",
-        "url": "https://open.spotify.com/album/7zN7QaKiEBcZmWlfsk3t7g"
-      },
-      "artists": [
-        {
-          "name": "Mas Musiq",
-          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
-        },
-        {
-          "name": "Aymos",
-          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 420039,
-      "name": "Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",
-      "url": "https://open.spotify.com/track/1M4AackaaNVrVHMmAeIEUz"
-    },
-    {
       "added_at": "2021-06-24 21:59:00",
       "album": {
         "name": "Banyana",
@@ -769,6 +761,34 @@
       "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
     },
     {
+      "added_at": "2021-09-30 21:59:00",
+      "album": {
+        "name": "Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",
+        "url": "https://open.spotify.com/album/7zN7QaKiEBcZmWlfsk3t7g"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Aymos",
+          "url": "https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 420039,
+      "name": "Uzozisola (feat. Aymos, Kabza De Small & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/1M4AackaaNVrVHMmAeIEUz"
+    },
+    {
       "added_at": "2021-11-04 21:59:00",
       "album": {
         "name": "Tintswalo",
@@ -823,6 +843,26 @@
     {
       "added_at": "2022-01-06 21:59:00",
       "album": {
+        "name": "31",
+        "url": "https://open.spotify.com/album/7xag2RyD28T58tTf5GtKYU"
+      },
+      "artists": [
+        {
+          "name": "Mxrcus",
+          "url": "https://open.spotify.com/artist/7z73kDwAN2PkZOU4SLvA9o"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        }
+      ],
+      "duration_ms": 361581,
+      "name": "31",
+      "url": "https://open.spotify.com/track/4KQYVaMor4SqqYR0yEPDeI"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
         "name": "Ivy League",
         "url": "https://open.spotify.com/album/3H2eycTSwpPa0mGpacbyn6"
       },
@@ -839,6 +879,26 @@
       "duration_ms": 411468,
       "name": "Song Cry",
       "url": "https://open.spotify.com/track/4TqVIgEPZ8ObQXSYPbXvZj"
+    },
+    {
+      "added_at": "2022-01-11 10:52:08",
+      "album": {
+        "name": "Feel Good (Amapiano Remixes)",
+        "url": "https://open.spotify.com/album/7wXl4nACfyWvaKvHtzQL6V"
+      },
+      "artists": [
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj"
+        },
+        {
+          "name": "Gaba Cannal",
+          "url": "https://open.spotify.com/artist/2Hj2zBCjnAnmLmNIyjuMGo"
+        }
+      ],
+      "duration_ms": 331692,
+      "name": "Feel Good - Gaba Cannal Remix",
+      "url": "https://open.spotify.com/track/1WZiyo5bKkwGsvSlOSCPNJ"
     },
     {
       "added_at": "2021-12-16 21:59:00",
@@ -921,6 +981,34 @@
       "url": "https://open.spotify.com/track/7sOiyeWekZxPnb4JKcQoxU"
     },
     {
+      "added_at": "2021-11-18 21:59:00",
+      "album": {
+        "name": "Thando Lwami",
+        "url": "https://open.spotify.com/album/57pQnSASkXmMREgFNTeqQh"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Dinga",
+          "url": "https://open.spotify.com/artist/5Vc7izqryjqTSTwbewSjxt"
+        },
+        {
+          "name": "Sino Msolo",
+          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
+        },
+        {
+          "name": "Thando Nkosi",
+          "url": "https://open.spotify.com/artist/4Iydtbu4VBCeq9laU6Yx8L"
+        }
+      ],
+      "duration_ms": 387251,
+      "name": "Thando Lwami",
+      "url": "https://open.spotify.com/track/7wAoKDL6J834xCa2cDrgsx"
+    },
+    {
       "added_at": "2021-12-16 21:59:00",
       "album": {
         "name": "Ivy League",
@@ -943,6 +1031,58 @@
       "duration_ms": 696490,
       "name": "Funa",
       "url": "https://open.spotify.com/track/5PQ89CWyL1abb0jv2bNFRn"
+    },
+    {
+      "added_at": "2021-11-26 10:23:39",
+      "album": {
+        "name": "Soke S'bone",
+        "url": "https://open.spotify.com/album/5ODDUJ9lDigzrEaiY2sSeP"
+      },
+      "artists": [
+        {
+          "name": "DJ Stokie",
+          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
+        },
+        {
+          "name": "Loxion Deep",
+          "url": "https://open.spotify.com/artist/00VOiNZPqj46lxEU1kqwhg"
+        },
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "Nobantu Vilakazi",
+          "url": "https://open.spotify.com/artist/4WWMOV61TztcNJq3yGKPa7"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "duration_ms": 409612,
+      "name": "Soke S'bone",
+      "url": "https://open.spotify.com/track/0a0X4uS4T6h7YPl6m5HMms"
+    },
+    {
+      "added_at": "2021-12-02 22:00:47",
+      "album": {
+        "name": "Kwa Kwa",
+        "url": "https://open.spotify.com/album/68gRa9XZPN0Nfi9FYCrKyC"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        }
+      ],
+      "duration_ms": 394291,
+      "name": "Beke le Beke (feat. Focalistic)",
+      "url": "https://open.spotify.com/track/4ppeExq0xmIX6Vjrsjbijz"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -1009,86 +1149,6 @@
       "url": "https://open.spotify.com/track/7kzzhtZ8df8wQi9n3BnM1d"
     },
     {
-      "added_at": "2021-11-18 21:59:00",
-      "album": {
-        "name": "Thando Lwami",
-        "url": "https://open.spotify.com/album/57pQnSASkXmMREgFNTeqQh"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Dinga",
-          "url": "https://open.spotify.com/artist/5Vc7izqryjqTSTwbewSjxt"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "Thando Nkosi",
-          "url": "https://open.spotify.com/artist/4Iydtbu4VBCeq9laU6Yx8L"
-        }
-      ],
-      "duration_ms": 387251,
-      "name": "Thando Lwami",
-      "url": "https://open.spotify.com/track/7wAoKDL6J834xCa2cDrgsx"
-    },
-    {
-      "added_at": "2021-11-26 10:23:39",
-      "album": {
-        "name": "Soke S'bone",
-        "url": "https://open.spotify.com/album/5ODDUJ9lDigzrEaiY2sSeP"
-      },
-      "artists": [
-        {
-          "name": "DJ Stokie",
-          "url": "https://open.spotify.com/artist/1lDWyPzSZOqP5jfZNm5lLI"
-        },
-        {
-          "name": "Loxion Deep",
-          "url": "https://open.spotify.com/artist/00VOiNZPqj46lxEU1kqwhg"
-        },
-        {
-          "name": "Sir Trill",
-          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
-        },
-        {
-          "name": "Nobantu Vilakazi",
-          "url": "https://open.spotify.com/artist/4WWMOV61TztcNJq3yGKPa7"
-        },
-        {
-          "name": "Murumba Pitch",
-          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
-        }
-      ],
-      "duration_ms": 409612,
-      "name": "Soke S'bone",
-      "url": "https://open.spotify.com/track/0a0X4uS4T6h7YPl6m5HMms"
-    },
-    {
-      "added_at": "2021-12-02 22:00:47",
-      "album": {
-        "name": "Kwa Kwa",
-        "url": "https://open.spotify.com/album/68gRa9XZPN0Nfi9FYCrKyC"
-      },
-      "artists": [
-        {
-          "name": "Mellow & Sleazy",
-          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        }
-      ],
-      "duration_ms": 394291,
-      "name": "Beke le Beke (feat. Focalistic)",
-      "url": "https://open.spotify.com/track/4ppeExq0xmIX6Vjrsjbijz"
-    },
-    {
       "added_at": "2021-11-11 21:59:00",
       "album": {
         "name": "uThando (feat. Aymos)",
@@ -1107,26 +1167,6 @@
       "duration_ms": 458772,
       "name": "uThando (feat. Aymos)",
       "url": "https://open.spotify.com/track/5ZOpzOg9JuKFQ5Q6aUYPix"
-    },
-    {
-      "added_at": "2022-01-06 21:59:00",
-      "album": {
-        "name": "AK Love",
-        "url": "https://open.spotify.com/album/3PTWbalX3YlYSgdqMtlTeL"
-      },
-      "artists": [
-        {
-          "name": "Teno Afrika",
-          "url": "https://open.spotify.com/artist/535j8kTYlICpOJWAQ3uQrp"
-        },
-        {
-          "name": "Don Diego",
-          "url": "https://open.spotify.com/artist/4xsPF3eWcrzcFYtZnyuVtY"
-        }
-      ],
-      "duration_ms": 320063,
-      "name": "AK Love",
-      "url": "https://open.spotify.com/track/2Lb3yKY5heNeHHzSNpmDvs"
     },
     {
       "added_at": "2021-12-02 22:00:47",
@@ -1323,6 +1363,26 @@
     {
       "added_at": "2022-01-06 21:59:00",
       "album": {
+        "name": "AK Love",
+        "url": "https://open.spotify.com/album/3PTWbalX3YlYSgdqMtlTeL"
+      },
+      "artists": [
+        {
+          "name": "Teno Afrika",
+          "url": "https://open.spotify.com/artist/535j8kTYlICpOJWAQ3uQrp"
+        },
+        {
+          "name": "Don Diego",
+          "url": "https://open.spotify.com/artist/4xsPF3eWcrzcFYtZnyuVtY"
+        }
+      ],
+      "duration_ms": 320063,
+      "name": "AK Love",
+      "url": "https://open.spotify.com/track/2Lb3yKY5heNeHHzSNpmDvs"
+    },
+    {
+      "added_at": "2022-01-06 21:59:00",
+      "album": {
         "name": "Black Is Brown Compilation Vol 1",
         "url": "https://open.spotify.com/album/4wcOY7j43CYQY92C2LB2vm"
       },
@@ -1477,30 +1537,6 @@
       "url": "https://open.spotify.com/track/7AOsFzv1nGJSoEdnQq7bid"
     },
     {
-      "added_at": "2021-11-08 07:29:36",
-      "album": {
-        "name": "Dlala (feat. DJ Maphorisa)",
-        "url": "https://open.spotify.com/album/2LRlSTlr2ar6SJp4m5Ns8D"
-      },
-      "artists": [
-        {
-          "name": "MDU aka TRP",
-          "url": "https://open.spotify.com/artist/6chuSYrZG5i9GbSW5DdNWR"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 416365,
-      "name": "Dlala (feat. DJ Maphorisa)",
-      "url": "https://open.spotify.com/track/5hLn749cgx60y104vpn1eP"
-    },
-    {
       "added_at": "2021-12-08 07:28:41",
       "album": {
         "name": "25 Tao",
@@ -1519,50 +1555,6 @@
       "duration_ms": 352215,
       "name": "25 Tao",
       "url": "https://open.spotify.com/track/5SGR2GjHKy0V75xLwSsfWj"
-    },
-    {
-      "added_at": "2021-12-23 21:59:00",
-      "album": {
-        "name": "Come Duze",
-        "url": "https://open.spotify.com/album/4Gq4h37hkZ4oQ3LwHHGpyE"
-      },
-      "artists": [
-        {
-          "name": "Dj Awakening",
-          "url": "https://open.spotify.com/artist/1vdjiPf4w72D0ztlEkp97d"
-        },
-        {
-          "name": "Sino Msolo",
-          "url": "https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        }
-      ],
-      "duration_ms": 417593,
-      "name": "Come Duze",
-      "url": "https://open.spotify.com/track/3gjHGDQVCWLFd9sJAIQqGa"
-    },
-    {
-      "added_at": "2021-12-23 21:59:00",
-      "album": {
-        "name": "Softly (Cuppy Remix)",
-        "url": "https://open.spotify.com/album/4QJjnkrmYwQ3YypwLENCUQ"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        },
-        {
-          "name": "Cuppy",
-          "url": "https://open.spotify.com/artist/12BjfR9LIzpDecdcMGvu7f"
-        }
-      ],
-      "duration_ms": 151388,
-      "name": "Softly - Cuppy Remix",
-      "url": "https://open.spotify.com/track/2APuTWMAHD8Co32wiLciyL"
     },
     {
       "added_at": "2021-07-08 21:59:00",
@@ -1931,26 +1923,6 @@
       "duration_ms": 379226,
       "name": "Beke Le Beke",
       "url": "https://open.spotify.com/track/2b6nCxxqSXvv6z1VFYrvw5"
-    },
-    {
-      "added_at": "2022-01-11 10:52:08",
-      "album": {
-        "name": "Ameno Amapiano Remix",
-        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
-      },
-      "artists": [
-        {
-          "name": "Goya Menor",
-          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
-        },
-        {
-          "name": "Nektunez",
-          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
-        }
-      ],
-      "duration_ms": 227100,
-      "name": "Ameno Amapiano Remix",
-      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5mILnBJLA26"

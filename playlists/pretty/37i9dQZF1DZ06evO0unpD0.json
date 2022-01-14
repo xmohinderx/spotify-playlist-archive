@@ -1,15 +1,15 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
   "name": "This Is Salif Keita",
-  "num_followers": 7584,
+  "num_followers": 7589,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjczNjY4NDQsMDAwMDAwMDAxN2JmNzRlZjBkMGJlZmJiYzUyYzBlOTMyMGJiZGVlNg==",
+  "snapshot_id": "MjczNjgwMDYsMDAwMDAwMDBjMWU3ZTUwNTQ2NThhMjlmNDMxMWZlMzUyYWMxZTcxZQ==",
   "tracks": [
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0sNn7mmOUEJEDAP2ohhQfp"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/6vg8mzMg5Re5aRIKi4YrIo"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5IbLPMxWuRQWTmbEdV018a"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "So Far",
         "url": "https://open.spotify.com/album/2lZokCz6x1j296NYepSBxB"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/5aoJnOhycrs0NtXomySi3e"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -76,12 +76,12 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 347960,
-      "name": "Seydou",
-      "url": "https://open.spotify.com/track/3X5DsFLC21SszwoMrXjBLg"
+      "duration_ms": 394306,
+      "name": "Tekere",
+      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/1t3VPximsjaFxB6umra1VM"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "M'Bemba",
         "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
@@ -108,12 +108,12 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 318680,
-      "name": "Dery",
-      "url": "https://open.spotify.com/track/5Myi7wMoZqQMLIU2vH1nyB"
+      "duration_ms": 530186,
+      "name": "M'Bemba",
+      "url": "https://open.spotify.com/track/4oaahUdtJfsBA8HipvnbSm"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/17tsY0rbQfpQgWLKgl8xbT"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -144,80 +144,12 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 394306,
-      "name": "Tekere",
-      "url": "https://open.spotify.com/track/6DFxJ5NncVCnUnEaRRRWjh"
+      "duration_ms": 347960,
+      "name": "Seydou",
+      "url": "https://open.spotify.com/track/3X5DsFLC21SszwoMrXjBLg"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 362786,
-      "name": "Koukou",
-      "url": "https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 530186,
-      "name": "M'Bemba",
-      "url": "https://open.spotify.com/track/4oaahUdtJfsBA8HipvnbSm"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
-        }
-      ],
-      "duration_ms": 403334,
-      "name": "Mansa Fo La",
-      "url": "https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 267693,
-      "name": "Folon",
-      "url": "https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -233,7 +165,87 @@
       "url": "https://open.spotify.com/track/5ieZTFPrAD1BHBTF0amnyF"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 318680,
+      "name": "Dery",
+      "url": "https://open.spotify.com/track/5Myi7wMoZqQMLIU2vH1nyB"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 338316,
+      "name": "Bah Poulo",
+      "url": "https://open.spotify.com/track/2dxoXGCW84TWOP3SDRXYq8"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 267693,
+      "name": "Folon",
+      "url": "https://open.spotify.com/track/0YPHxhTtceIbXF5ioGEwGO"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 362786,
+      "name": "Koukou",
+      "url": "https://open.spotify.com/track/3yFNmyHGgHf6dFTGNawJqP"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 448960,
+      "name": "Laban",
+      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
@@ -253,23 +265,7 @@
       "url": "https://open.spotify.com/track/3LvMNf57Nob6B9fzqQUmoT"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 362280,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Folon",
         "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
@@ -285,10 +281,10 @@
       "url": "https://open.spotify.com/track/570RkoEwDPsjg5h16A0xsl"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
       },
       "artists": [
         {
@@ -296,12 +292,12 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 223415,
-      "name": "Tonton",
-      "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
+      "duration_ms": 362280,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/3Qx1zzq02YSVa1UMzApnQx"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Madan",
         "url": "https://open.spotify.com/album/4nVLigE5PNgLsbC7xqf80H"
@@ -321,7 +317,7 @@
       "url": "https://open.spotify.com/track/0EwWOHl3QwywWxBP4wQ59z"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Moffou",
         "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
@@ -337,107 +333,7 @@
       "url": "https://open.spotify.com/track/32pS0vZAnmWe6iYPjaJ0Af"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 378706,
-      "name": "Nyanyama",
-      "url": "https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 448960,
-      "name": "Laban",
-      "url": "https://open.spotify.com/track/0LOjFlkfiht3rCSM3lwjih"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Un autre blanc",
-        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 338316,
-      "name": "Bah Poulo",
-      "url": "https://open.spotify.com/track/2dxoXGCW84TWOP3SDRXYq8"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Betece - All Stars",
-        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
-      },
-      "artists": [
-        {
-          "name": "Africando",
-          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 303773,
-      "name": "Ntoman",
-      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Folon",
-        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 360200,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/0zQ2Ojoj3K0LzgqR9xYcOO"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "The Mansa Of Mali ... A Retrospective",
-        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Djembe",
-      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "M'Bemba",
         "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
@@ -453,10 +349,10 @@
       "url": "https://open.spotify.com/track/5oVUDDdJT0fbbNyqbMYDoc"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
       },
       "artists": [
         {
@@ -464,15 +360,15 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 309400,
-      "name": "N B'I Fe",
-      "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
+      "duration_ms": 378706,
+      "name": "Nyanyama",
+      "url": "https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
       },
       "artists": [
         {
@@ -480,12 +376,60 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 419186,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
+      "duration_ms": 223415,
+      "name": "Tonton",
+      "url": "https://open.spotify.com/track/1Ci6xr5uTiao375hGTtqRS"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 289333,
+      "name": "Sina (Soumbouya)",
+      "url": "https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "The Mansa Of Mali ... A Retrospective",
+        "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Djembe",
+      "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Folon",
+        "url": "https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 360200,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/0zQ2Ojoj3K0LzgqR9xYcOO"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -501,111 +445,7 @@
       "url": "https://open.spotify.com/track/7efKxNDq3rzhE1RQQ5mhMI"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Munia (The Tale)",
-        "url": "https://open.spotify.com/album/3xx2olJMUd5uONMZxPhFWZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 245973,
-      "name": "Kalabancoro",
-      "url": "https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "La Diff\u00e9rence",
-      "url": "https://open.spotify.com/track/3ONfiEPnapVGBui8Wa3EgB"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 373973,
-      "name": "Yambo",
-      "url": "https://open.spotify.com/track/6lBrcDZkbuKKKi4xSoWDos"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Tal\u00e9",
-        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Roots Manuva",
-          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "C'Est Bon, C'Est Bon",
-      "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Moffou",
-        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Souvent",
-      "url": "https://open.spotify.com/track/7pTBsCyeQ5fIt4u7e0aAaH"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 365040,
-      "name": "Waraya",
-      "url": "https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Dans l'authenticit\u00e9, Vol. 1",
         "url": "https://open.spotify.com/album/0XZS6TxeHhcBP1RcUzlXwi"
@@ -625,7 +465,7 @@
       "url": "https://open.spotify.com/track/1PXSEtSOVpFV1znyEWeoXz"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
@@ -634,18 +474,102 @@
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Paul \"Groucho\" Smylke",
-          "url": "https://open.spotify.com/artist/2xuZBGQZSFjSS5Aq3ji2AN"
         }
       ],
-      "duration_ms": 434320,
-      "name": "Nou Pas Bouger",
-      "url": "https://open.spotify.com/track/6DfYnlR5IrPzVJ4lPhtU6E"
+      "duration_ms": 244533,
+      "name": "La Diff\u00e9rence",
+      "url": "https://open.spotify.com/track/3ONfiEPnapVGBui8Wa3EgB"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Munia (The Tale)",
+        "url": "https://open.spotify.com/album/3xx2olJMUd5uONMZxPhFWZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 245973,
+      "name": "Kalabancoro",
+      "url": "https://open.spotify.com/track/0nj4U1atLpsFiimJSZu7Qq"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Un autre blanc",
+        "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+        }
+      ],
+      "duration_ms": 403334,
+      "name": "Mansa Fo La",
+      "url": "https://open.spotify.com/track/5gAw9gpPXg6gCUoeuxfN1C"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 373973,
+      "name": "Yambo",
+      "url": "https://open.spotify.com/track/6lBrcDZkbuKKKi4xSoWDos"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 478373,
+      "name": "Sanni Kagniba",
+      "url": "https://open.spotify.com/track/5k6du3Uk5dj8IB5lPtGJgH"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 365040,
+      "name": "Waraya",
+      "url": "https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Un autre blanc",
         "url": "https://open.spotify.com/album/1KJ5jWC5vJHyeN5s2kyTM7"
@@ -661,7 +585,71 @@
       "url": "https://open.spotify.com/track/38AJOtjMA9DgnWsTmnAAMf"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 349933,
+      "name": "Tu Vas Me Manquer",
+      "url": "https://open.spotify.com/track/5f1cJCTLgiXHNzB1bkxSUJ"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Moffou",
+        "url": "https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Souvent",
+      "url": "https://open.spotify.com/track/7pTBsCyeQ5fIt4u7e0aAaH"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "N B'I Fe",
+      "url": "https://open.spotify.com/track/6ojW6ng5nTr5Q0Bspdga5B"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 590893,
+      "name": "Soro (Afriki)",
+      "url": "https://open.spotify.com/track/5EoPQlFF6eRdP04DmSc7iA"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "La Diff\u00e9rence",
         "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
@@ -672,12 +660,12 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 429333,
-      "name": "Samigna",
-      "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
+      "duration_ms": 328080,
+      "name": "San Ka Na",
+      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Djourou",
         "url": "https://open.spotify.com/album/1wqZp9tG65T3FjKAPd5a5u"
@@ -697,71 +685,7 @@
       "url": "https://open.spotify.com/track/2glWeR2NkywIUE7zzMR6Xb"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 475760,
-      "name": "Lony",
-      "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/2w5jzSHxjRMv1yvepTnO8Z"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 349933,
-      "name": "Tu Vas Me Manquer",
-      "url": "https://open.spotify.com/track/5f1cJCTLgiXHNzB1bkxSUJ"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 328080,
-      "name": "San Ka Na",
-      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 478373,
-      "name": "Sanni Kagniba",
-      "url": "https://open.spotify.com/track/5k6du3Uk5dj8IB5lPtGJgH"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -777,7 +701,43 @@
       "url": "https://open.spotify.com/track/5LFN2u1WNQyC25r37rOSpn"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Betece - All Stars",
+        "url": "https://open.spotify.com/album/5RKQ7g6iYe2l6tlUfAwXsf"
+      },
+      "artists": [
+        {
+          "name": "Africando",
+          "url": "https://open.spotify.com/artist/0ffXAvDlWnqwiciaBFek6V"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 303773,
+      "name": "Ntoman",
+      "url": "https://open.spotify.com/track/6AOlffSmJ6QNAzPV4SnmKQ"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 419186,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "The Mansa Of Mali ... A Retrospective",
         "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
@@ -793,39 +753,7 @@
       "url": "https://open.spotify.com/track/5fhNHOjj1ewYB52gFsvlLP"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 462160,
-      "name": "Gaffou",
-      "url": "https://open.spotify.com/track/3j1VHaFQzIf84NqQxWQTHD"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
-      "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 590893,
-      "name": "Soro (Afriki)",
-      "url": "https://open.spotify.com/track/5EoPQlFF6eRdP04DmSc7iA"
-    },
-    {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -836,12 +764,64 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 330240,
-      "name": "Tono",
-      "url": "https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC"
+      "duration_ms": 475760,
+      "name": "Lony",
+      "url": "https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn"
     },
     {
-      "added_at": "2022-01-12 18:04:05",
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/1MtV9HzzK1SRuAzIBfZ839"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Paul \"Groucho\" Smylke",
+          "url": "https://open.spotify.com/artist/2xuZBGQZSFjSS5Aq3ji2AN"
+        }
+      ],
+      "duration_ms": 434320,
+      "name": "Nou Pas Bouger",
+      "url": "https://open.spotify.com/track/6DfYnlR5IrPzVJ4lPhtU6E"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Wamba",
+      "url": "https://open.spotify.com/track/4Mr2YyX1Sk0vSJlOwOoQ5J"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 429333,
+      "name": "Samigna",
+      "url": "https://open.spotify.com/track/0frOJC09kJ9NiwH29IujCR"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
       "album": {
         "name": "Amen",
         "url": "https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9"
@@ -855,6 +835,26 @@
       "duration_ms": 245000,
       "name": "Karifa",
       "url": "https://open.spotify.com/track/7LERdO5Lsozt0FToKP33WP"
+    },
+    {
+      "added_at": "2022-01-13 13:26:10",
+      "album": {
+        "name": "Tal\u00e9",
+        "url": "https://open.spotify.com/album/6wn1e3j7T0b9nlavB692ql"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Roots Manuva",
+          "url": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "C'Est Bon, C'Est Bon",
+      "url": "https://open.spotify.com/track/3fXWcMsilfmKDVawJgnC83"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0unpD0"

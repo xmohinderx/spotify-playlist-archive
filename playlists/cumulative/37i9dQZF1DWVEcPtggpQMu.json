@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=444SdbtzRkGu7Xg5IkX0SQ\">Zoocci Coke Dope</a> ",
+  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x?si=JfkadQmQQ7G3AxN_GlnieA\">Yugen Blakrok</a> ",
   "name": "Aux",
   "published_playlist_ids": [
     "0xTC98cyXGkNifzFqwccaX"
@@ -725,6 +725,28 @@
       "duration_ms": 322660,
       "name": "Pardon My French",
       "url": "https://open.spotify.com/track/3MUQ78mJ533dQsBwAk3Rms"
+    },
+    {
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/0fs8gp9iMsoapkPuNvyLrz"
+      },
+      "artists": [
+        {
+          "name": "Yugen Blakrok",
+          "url": "https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x"
+        },
+        {
+          "name": "Kanif The Jhatmaster",
+          "url": "https://open.spotify.com/artist/1Z4ZGwOFTMQiXjEC5XfYIi"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219570,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/5PdkPSj5yuFfFN8BsGkArH"
     },
     {
       "album": {

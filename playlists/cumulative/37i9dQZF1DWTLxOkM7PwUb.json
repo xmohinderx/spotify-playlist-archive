@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 196363,
       "name": "C14TORCE II",
       "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 143680,
       "name": "C14TORCE III",
       "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
@@ -461,7 +461,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 165818,
       "name": "CARAMELOS",
       "url": "https://open.spotify.com/track/4gC0DGimATZgd8lZW4n0aR"
@@ -601,6 +601,24 @@
       "duration_ms": 226100,
       "name": "Como Le Digo",
       "url": "https://open.spotify.com/track/2fxJDRmUMatqyZ6ZOQi7RD"
+    },
+    {
+      "album": {
+        "name": "Como Nadie",
+        "url": "https://open.spotify.com/album/637GFzmph7HbYFvmEYoTZX"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136373,
+      "name": "Como Nadie",
+      "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
     },
     {
       "album": {
@@ -878,6 +896,24 @@
     },
     {
       "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/6O70yx4czqjAihGB4hcnaD"
+      },
+      "artists": [
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244210,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/396ixTcpiq8mNGclHGN8wK"
+    },
+    {
+      "album": {
         "name": "El Farsante (Remix)",
         "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
       },
@@ -911,10 +947,50 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 233183,
       "name": "Ella Busca",
       "url": "https://open.spotify.com/track/5xmTUkyKKEIxCWRuncbDcG"
+    },
+    {
+      "album": {
+        "name": "Es Hoy",
+        "url": "https://open.spotify.com/album/1BVxzFI3LW4TqpKzX7Uz9o"
+      },
+      "artists": [
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Es Hoy",
+      "url": "https://open.spotify.com/track/5H4HVd8d7dtT81qs1WMKbI"
+    },
+    {
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7"
+      },
+      "artists": [
+        {
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235720,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
     },
     {
       "album": {
@@ -1025,6 +1101,50 @@
       "duration_ms": 290666,
       "name": "Illuminati - Remix",
       "url": "https://open.spotify.com/track/6fGyrAxqgdvhzcOKlMQq5s"
+    },
+    {
+      "album": {
+        "name": "La Playita",
+        "url": "https://open.spotify.com/album/4HiePCPHt08pm1c1qOUqiN"
+      },
+      "artists": [
+        {
+          "name": "Lo Blanquito",
+          "url": "https://open.spotify.com/artist/5Cg1uhz6CxzXKvguhnoFAp"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "La Playita",
+      "url": "https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL"
+    },
+    {
+      "album": {
+        "name": "MORDIENDO EL BOZAL",
+        "url": "https://open.spotify.com/album/7KRqDXbyy0b6EVhpydNQ5w"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        },
+        {
+          "name": "Yesan \u96ea\u5c71",
+          "url": "https://open.spotify.com/artist/6pJPxDgaE0H343SrASnY9J"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197107,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
     },
     {
       "album": {
@@ -1185,7 +1305,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 166346,
       "name": "Me Prefiere A Mi",
       "url": "https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d"
@@ -1365,7 +1485,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 230434,
       "name": "Pa Mi",
       "url": "https://open.spotify.com/track/4qkun7AaUFno3rE8xp0zYi"
@@ -1391,6 +1511,28 @@
       "duration_ms": 194092,
       "name": "Parte de Mi (feat. Lit Killah)",
       "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
+    },
+    {
+      "album": {
+        "name": "Emocional",
+        "url": "https://open.spotify.com/album/6TrcWCUDZuWU3Sf6YqHZAV"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "Valyum",
+          "url": "https://open.spotify.com/artist/05BW1vJRGaUQTstTCDAloS"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Penas y Maldades (feat. Valyum)",
+      "url": "https://open.spotify.com/track/1H02kbacKeP2nTCXhLDHJX"
     },
     {
       "album": {
@@ -1968,6 +2110,24 @@
     },
     {
       "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/0Vcer7S419SpqX0BX6nj2I"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118746,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
+    },
+    {
+      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/3XVYypAbI0CRe0DefZabT5"
       },
@@ -2052,6 +2212,32 @@
     },
     {
       "album": {
+        "name": "Tus Dudas (Prod. Rodridi)",
+        "url": "https://open.spotify.com/album/5oV1gkM0ob9Gy1jP0enzVO"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        },
+        {
+          "name": "Elmabel",
+          "url": "https://open.spotify.com/artist/2jKZ9FmjQaK7ILwT7ixXfr"
+        },
+        {
+          "name": "Rodridi",
+          "url": "https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Tus Dudas (Prod. Rodridi)",
+      "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
+    },
+    {
+      "album": {
         "name": "Una Semana",
         "url": "https://open.spotify.com/album/6btnX8ER1IHMIUqmmQfFVY"
       },
@@ -2063,7 +2249,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 183703,
       "name": "Una Semana",
       "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
@@ -2199,7 +2385,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"

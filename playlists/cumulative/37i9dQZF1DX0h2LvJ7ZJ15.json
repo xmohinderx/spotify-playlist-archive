@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "100,000 problems",
+        "url": "https://open.spotify.com/album/7GRyvYU3HVY9M1aszzaCGH"
+      },
+      "artists": [
+        {
+          "name": "luv, jacob",
+          "url": "https://open.spotify.com/artist/4pWmkNouDZcQ8gPPqVUdAj"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180636,
+      "name": "100,000 problems - slowed and reverbed",
+      "url": "https://open.spotify.com/track/0Qc021ixtoOecjNl3jGW4Z"
+    },
+    {
+      "album": {
         "name": "Slowed + Reverb, Vol. 1",
         "url": "https://open.spotify.com/album/5emMGltzeCZP5bKH5Zhqxa"
       },
@@ -173,7 +191,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 231513,
       "name": "All That Glitters (Slowed and Reverbed)",
       "url": "https://open.spotify.com/track/1v5kWYr0Qez6Fi5iU8qlI3"
@@ -329,7 +347,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 152485,
       "name": "Call (S&R)",
       "url": "https://open.spotify.com/track/4FstujySEAxUrrCZJ44fzn"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Call Me (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/3lEZmvQ6P6Rf8hgfYTKzHT"
@@ -549,7 +567,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 178144,
       "name": "Eulogy",
       "url": "https://open.spotify.com/track/5oxY3CGJAsNv8fWS9ctFYi"
@@ -603,7 +621,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 217200,
       "name": "Feel Like (Slowed)",
       "url": "https://open.spotify.com/track/5tyiYmxmihXZi0ASdPqsTo"
@@ -621,7 +639,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 402952,
       "name": "Flashbacks (Slowed)",
       "url": "https://open.spotify.com/track/1tiYiTDSrtOTVVg0cym5S1"
@@ -793,7 +811,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 134013,
       "name": "Shhh (Pew Pew) - Slowed + Reverb",
       "url": "https://open.spotify.com/track/24HKaFw0tAfvGiq03KRNje"
@@ -1203,10 +1221,6 @@
           "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
         },
         {
-          "name": "Avocuddle",
-          "url": "https://open.spotify.com/artist/48QpIkzC2yRCUCvNvOVZqD"
-        },
-        {
           "name": "Chill Fruits Music",
           "url": "https://open.spotify.com/artist/34b7j3TqM5ramjmt2mc8tB"
         }
@@ -1235,7 +1249,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 116842,
       "name": "Soul (Slowed Down)",
       "url": "https://open.spotify.com/track/18M3uYhVXQVPsKw88stW30"
@@ -1318,6 +1332,24 @@
     },
     {
       "album": {
+        "name": "vaping in the hood // slowed + reverbed",
+        "url": "https://open.spotify.com/album/3qsrNk9RN1qPFLQdLOIOQm"
+      },
+      "artists": [
+        {
+          "name": "sloved + reverbed club",
+          "url": "https://open.spotify.com/artist/644tMFjAj4SpjOFK2I08Sd"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214439,
+      "name": "vaping in the hood // slowed + reverbed",
+      "url": "https://open.spotify.com/track/15G4SDc25JnGW3Re0j8cZn"
+    },
+    {
+      "album": {
         "name": "Vision (Slowed)",
         "url": "https://open.spotify.com/album/7JVv3XN7S5KtI8MqSrVLjr"
       },
@@ -1347,7 +1379,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 167240,
       "name": "Within These Walls - Slow Down Rework",
       "url": "https://open.spotify.com/track/5faeolAsubn6KYYTYxpFRc"

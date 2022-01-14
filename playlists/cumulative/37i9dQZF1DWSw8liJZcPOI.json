@@ -320,6 +320,24 @@
     },
     {
       "album": {
+        "name": "Agape",
+        "url": "https://open.spotify.com/album/2sAxo94o1LjFvb5FqGxgML"
+      },
+      "artists": [
+        {
+          "name": "Glowworm",
+          "url": "https://open.spotify.com/artist/6kPNTQ474Zvg8bq86OMutw"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306131,
+      "name": "Agape",
+      "url": "https://open.spotify.com/track/0EftQZBNBfwAqVRtMi3ZWs"
+    },
+    {
+      "album": {
         "name": "Air to Breath",
         "url": "https://open.spotify.com/album/7zc8Fz7Tdw9VryEZzkBPre"
       },
@@ -625,7 +643,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 236520,
       "name": "Avant-derni\u00e8res pens\u00e9es: I. Idylle - Snorri Hallgr\u00edmsson Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/3q8PlM3EcBu5ab6CFrIbTe"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 301000,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/3I1U6Aq0fRFembW4qLKXEi"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 191453,
       "name": "Bl\u00e5 Berget",
       "url": "https://open.spotify.com/track/3fSmUQD1lsm09lvLUwtIoJ"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 90285,
       "name": "Entering",
       "url": "https://open.spotify.com/track/5Gvgr1O5vJFM0pG9VMZF7N"
@@ -2043,7 +2061,7 @@
       ],
       "date_added": "2021-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 254117,
       "name": "Evening Star (Alexandra Hamilton-Ayres Rework)",
       "url": "https://open.spotify.com/track/21Xawha6x2vBekNwyCzMZw"
@@ -2097,7 +2115,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 342400,
       "name": "Fight to Make It Up",
       "url": "https://open.spotify.com/track/7urVuBvdhiOpWGiWX81iXe"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 250312,
       "name": "For Now I Am Winter - Nils Frahm Rework",
       "url": "https://open.spotify.com/track/6XfYMFnnwPZasthiS7ph3g"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 414255,
       "name": "Forest Path",
       "url": "https://open.spotify.com/track/0lAdbtwKnf92FXD5p5N03h"
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 233253,
       "name": "Haar over Hamnavoe - Bill Ryder-Jones Rework",
       "url": "https://open.spotify.com/track/5Fe2pvSESMAop2EP1b2f3l"
@@ -2607,7 +2625,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 194059,
       "name": "Hallonlandet",
       "url": "https://open.spotify.com/track/4bBQM9OuT0oJh18mgaK3h0"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 264566,
       "name": "Hjlo\u0301\u00f0",
       "url": "https://open.spotify.com/track/3xssh2f0VPRKBnrhnOF1Gc"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "I'll see you in 21 days",
       "url": "https://open.spotify.com/track/4UZC44nlpBIznBrAUKQGgl"
@@ -3251,7 +3269,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 275666,
       "name": "Leicester",
       "url": "https://open.spotify.com/track/3xNGLXWGtyFsDREQJqhV8s"
@@ -3483,7 +3501,7 @@
       ],
       "date_added": "2021-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 247120,
       "name": "Modern Driveway",
       "url": "https://open.spotify.com/track/2XgqIg1xo9bvzyK0DEnqxN"
@@ -3595,7 +3613,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
@@ -3961,7 +3979,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2021-11-28",
+      "date_removed": null,
       "duration_ms": 224510,
       "name": "Parade I",
       "url": "https://open.spotify.com/track/6TCkr5rl8Bu12hIXheOTqx"
@@ -4327,7 +4345,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 278007,
       "name": "R\u00fcckenfigur",
       "url": "https://open.spotify.com/track/3Pb1B51RXr8DnmGpR14GXl"
@@ -4349,7 +4367,7 @@
       ],
       "date_added": "2020-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 386085,
       "name": "Sadness - Carlos Cipa Rework",
       "url": "https://open.spotify.com/track/6DLTECZMsEl9En73TNRoEQ"
@@ -4591,7 +4609,7 @@
       ],
       "date_added": "2021-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 286961,
       "name": "So That The City Can Begin To Exist",
       "url": "https://open.spotify.com/track/4LNHI3ugcaRGEfa4D0zNtM"
@@ -4823,7 +4841,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 136625,
       "name": "Stars Light Up The Water",
       "url": "https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A"
@@ -5511,7 +5529,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"
@@ -5529,7 +5547,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 137500,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO"
@@ -5959,7 +5977,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 276316,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB"
@@ -6017,7 +6035,7 @@
       ],
       "date_added": "2021-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 145333,
       "name": "Where Do We Go from Here",
       "url": "https://open.spotify.com/track/1X0X6BC5drvd3cnh3bCrXf"
@@ -6039,7 +6057,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 170539,
       "name": "Whispers",
       "url": "https://open.spotify.com/track/7LMhZBVJYRUNsD9GyIiH9A"
@@ -6057,7 +6075,7 @@
       ],
       "date_added": "2020-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 346386,
       "name": "Wholeness and the Implicate Order",
       "url": "https://open.spotify.com/track/3JuFH3tVsj4n8tI1vuGwRK"

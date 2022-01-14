@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Finland.",
   "name": "Top 50 - Finland",
-  "num_followers": 121318,
+  "num_followers": 121323,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1MzIwOTE4LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1MzgzMTA5LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Vamos",
-        "url": "https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U"
-      },
-      "artists": [
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 160994,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/3Y7r2Cb5ynmMR18O0yJUM5"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Pohjola",
         "url": "https://open.spotify.com/album/03WPFkiChY7RCBG2OpCSlo"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/6YFcvJlcgQceRfJrVpmJa0"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Vamos",
+        "url": "https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 160994,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/3Y7r2Cb5ynmMR18O0yJUM5"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Kyynelii",
         "url": "https://open.spotify.com/album/0JAzHnRgLF5gT9TfDLyAGz"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3YgOwQsqjzXIWzTwPPQz98"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Samma gamla vanliga (Remix)",
         "url": "https://open.spotify.com/album/0o4iqHMhzZiqcNbZ9WYgGK"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/3EfMGeYXw69Saa14torWpK"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
@@ -133,23 +117,39 @@
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
-        "name": "Anna mun rakastaa",
-        "url": "https://open.spotify.com/album/6tZbLPoy9A3x6zfszrgQYq"
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
       "artists": [
         {
-          "name": "Erin",
-          "url": "https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 176388,
-      "name": "Anna mun rakastaa",
-      "url": "https://open.spotify.com/track/3XWTJgRk4FfgiRnGXwdCt3"
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Vihje",
         "url": "https://open.spotify.com/album/3slrfEb9ioJLHKNWQTLomS"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1w2vjbD7OmP9TaPRiiA2xW"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -197,7 +197,23 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Anna mun rakastaa",
+        "url": "https://open.spotify.com/album/6tZbLPoy9A3x6zfszrgQYq"
+      },
+      "artists": [
+        {
+          "name": "Erin",
+          "url": "https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ"
+        }
+      ],
+      "duration_ms": 176388,
+      "name": "Anna mun rakastaa",
+      "url": "https://open.spotify.com/track/3XWTJgRk4FfgiRnGXwdCt3"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -213,43 +229,7 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Menee yli (feat. TIPPA)",
-        "url": "https://open.spotify.com/album/3VdytH3o0QFOqkht2RQfVn"
-      },
-      "artists": [
-        {
-          "name": "Pihlaja",
-          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
-        },
-        {
-          "name": "TIPPA",
-          "url": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
-        }
-      ],
-      "duration_ms": 202619,
-      "name": "Menee yli (feat. TIPPA)",
-      "url": "https://open.spotify.com/track/5l6H9Ll5fTLQ9BNLIOoDsg"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -265,7 +245,7 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -285,23 +265,27 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
+        "name": "Menee yli (feat. TIPPA)",
+        "url": "https://open.spotify.com/album/3VdytH3o0QFOqkht2RQfVn"
       },
       "artists": [
         {
-          "name": "Lauren Spencer-Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        },
+        {
+          "name": "TIPPA",
+          "url": "https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59"
         }
       ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
+      "duration_ms": 202619,
+      "name": "Menee yli (feat. TIPPA)",
+      "url": "https://open.spotify.com/track/5l6H9Ll5fTLQ9BNLIOoDsg"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "eat ya veggies",
         "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
@@ -321,7 +305,7 @@
       "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -341,43 +325,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Lauren Spencer-Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
         }
       ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Vauhti kiihtyy (feat. Matti ja Teppo)",
         "url": "https://open.spotify.com/album/7ei29h30DRPF2N4stUBU3g"
@@ -397,7 +361,27 @@
       "url": "https://open.spotify.com/track/4N84bVnNycTXiuoKZFEXrD"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "F*CK LOVE 3: OVER YOU",
+        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Mik\u00e4-Mik\u00e4-Maa (feat. EME)",
         "url": "https://open.spotify.com/album/1vXFTa1Qxp5pN5hDaswmZM"
@@ -417,23 +401,23 @@
       "url": "https://open.spotify.com/track/63hKnwYYmoR9CxKzdthRHG"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
-        "name": "Vamos",
-        "url": "https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 204287,
-      "name": "Syssymm\u00e4l",
-      "url": "https://open.spotify.com/track/2dDs5Nb5A4EfyMT8UP0oaT"
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -457,23 +441,7 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214214,
-      "name": "How Do I Make You Love Me?",
-      "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -493,7 +461,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -509,7 +477,23 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Vamos",
+        "url": "https://open.spotify.com/album/0xEeVRcyrSklVZuoqxOL0U"
+      },
+      "artists": [
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Syssymm\u00e4l",
+      "url": "https://open.spotify.com/track/2dDs5Nb5A4EfyMT8UP0oaT"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -529,7 +513,7 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Matkustaja (feat. Aksel Kankaanranta)",
         "url": "https://open.spotify.com/album/780cND8LZdQMnu3GRWhK3r"
@@ -549,7 +533,43 @@
       "url": "https://open.spotify.com/track/357JgDad80qVDg23D2GI63"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 214214,
+      "name": "How Do I Make You Love Me?",
+      "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Just Do It",
         "url": "https://open.spotify.com/album/5daHVxDHeLgmERVy7heD9s"
@@ -573,27 +593,7 @@
       "url": "https://open.spotify.com/track/44hW6JCsM5fWl4m66VTG1d"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Parempaa (feat. JVG & william)",
         "url": "https://open.spotify.com/album/5QhbE5iIAZK0UYONAgDW7x"
@@ -617,23 +617,7 @@
       "url": "https://open.spotify.com/track/7jBuT0vzeaCtRetMczX4EM"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
-      },
-      "artists": [
-        {
-          "name": "Haloo Helsinki!",
-          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "Reiviluola",
-      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Hyv\u00e4uskoinen",
         "url": "https://open.spotify.com/album/5ZRBzdTHMyEyAvb2WLg7Gk"
@@ -649,7 +633,7 @@
       "url": "https://open.spotify.com/track/08EMclZsu3ZwuQxlVcsAXI"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -665,7 +649,23 @@
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "Reiviluola",
+      "url": "https://open.spotify.com/track/1RCQAeceDgtbD7WVLWr05S"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "A Perfect Contradiction (Outsiders' Expanded Edition)",
         "url": "https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
@@ -697,23 +697,7 @@
       "url": "https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 212165,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -729,7 +713,7 @@
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -740,44 +724,12 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 199111,
-      "name": "Is There Someone Else?",
-      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+      "duration_ms": 212165,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 211814,
-      "name": "Less Than Zero",
-      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 339023,
-      "name": "Take My Breath",
-      "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Oo viel\u00e4 sekunnin mun",
         "url": "https://open.spotify.com/album/61ps2jEZg70QkxqoE0eTZO"
@@ -793,7 +745,55 @@
       "url": "https://open.spotify.com/track/60EXSCcZL24IZikBt4256W"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 339023,
+      "name": "Take My Breath",
+      "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -833,55 +833,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "Out of Time",
-      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
-      "album": {
-        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
-      },
-      "artists": [
-        {
-          "name": "Haloo Helsinki!",
-          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Tulik\u00e4rp\u00e4set",
-      "url": "https://open.spotify.com/track/34an0cwgyJ0oRTjQMNmbIw"
-    },
-    {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -897,7 +849,39 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 211814,
+      "name": "Less Than Zero",
+      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "\u00c4l\u00e4 pelk\u00e4\u00e4 el\u00e4m\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo"
+      },
+      "artists": [
+        {
+          "name": "Haloo Helsinki!",
+          "url": "https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Tulik\u00e4rp\u00e4set",
+      "url": "https://open.spotify.com/track/34an0cwgyJ0oRTjQMNmbIw"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -913,7 +897,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-01-12 16:41:58",
+      "added_at": "2022-01-13 09:58:29",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -922,15 +906,27 @@
         {
           "name": "The Weeknd",
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 263641,
-      "name": "I Heard You\u2019re Married (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D"
+      "duration_ms": 214193,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
+    },
+    {
+      "added_at": "2022-01-13 09:58:29",
+      "album": {
+        "name": "USA",
+        "url": "https://open.spotify.com/album/2c3XjvMb9hHt7SVYciBCV6"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "USA",
+      "url": "https://open.spotify.com/track/4oq88Qn7UdpiSjiL2E23dM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMxcczTSoGwZ"

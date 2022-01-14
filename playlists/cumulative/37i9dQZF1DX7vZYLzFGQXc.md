@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7vZYLzFGQXc.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7vZYLzFGQXc) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7vZYLzFGQXc)
 
-### [Fresh Finds Korea](https://open.spotify.com/playlist/6lflXWKz2JDijOPn6zdyHt)
+### [Fresh Finds Korea](https://open.spotify.com/playlist/0m5kX9onodhBdIpPia1W5d)
 
 > Fresh new Korean independent talents are here\. \(Cover: 87dance\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
@@ -27,7 +27,7 @@
 | [dryflower](https://open.spotify.com/track/7i4uzUhWACcz0t7JdUOkwk) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [dryflower](https://open.spotify.com/album/4Lg7rEzONhZBizCBLYJEPI) | 3:24 | 2022-01-10 |  |
 | [EVERYTHING](https://open.spotify.com/track/5G4GDoRBlORg6ra7jgGymr) | [dontworryanu](https://open.spotify.com/artist/4J7xttlUKGwivslABAdsCU) | [Temporary Pain](https://open.spotify.com/album/5saAOHkoRcmP4psUTVSzwA) | 2:28 | 2021-12-02 | 2022-01-11 |
 | [Feel Better](https://open.spotify.com/track/630DurQdVH55GWLiCEv9CR) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Things I Loved Most 2](https://open.spotify.com/album/1CNNBKUbcnnXkHdBERwwqf) | 3:30 | 2021-12-02 | 2022-01-11 |
-| [Floating](https://open.spotify.com/track/3b4anaoUFT9kkfY1blMxQ7) | [Meanz](https://open.spotify.com/artist/0C9LwpLAq3sMKpVwCRadBI) | [Journey](https://open.spotify.com/album/2TLeiTKcQdQ0G3Xp8uP6xe) | 3:29 | 2022-01-10 |  |
+| [Floating](https://open.spotify.com/track/3b4anaoUFT9kkfY1blMxQ7) | [Meanz](https://open.spotify.com/artist/5poeDYDuC0vXkvoIRiaj9W) | [Journey](https://open.spotify.com/album/2TLeiTKcQdQ0G3Xp8uP6xe) | 3:29 | 2022-01-10 |  |
 | [Forest](https://open.spotify.com/track/5keELfGpCZcFoJy2cxRBmI) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Forest](https://open.spotify.com/album/2f8IvbBdJZZkWunMlvg0hg) | 2:42 | 2021-12-02 | 2022-01-11 |
 | [fragrance \(feat\. RIPLEY, Seungoh\)](https://open.spotify.com/track/1GwERePh1I5Qcb00l5khM2) | [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ), [승오](https://open.spotify.com/artist/7mHz1G1J0CoJ6LwDuecN9e) | [fragrance \(feat\. RIPLEY, Seungoh\)](https://open.spotify.com/album/1gWKRi0oHoZCYJ9H2FM68I) | 3:15 | 2022-01-10 |  |
 | [frosted heart](https://open.spotify.com/track/6IIVaMsGMQs2vdHPqRGE6J) | [BehindtheMoon](https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO) | [frosted heart](https://open.spotify.com/album/29f2E0x8Tmg8e5v5qD0R48) | 4:02 | 2022-01-10 |  |

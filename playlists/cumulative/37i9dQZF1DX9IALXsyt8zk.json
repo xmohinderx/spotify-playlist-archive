@@ -658,6 +658,24 @@
     },
     {
       "album": {
+        "name": "Marvelous - MIRAE 3rd Mini Album",
+        "url": "https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR"
+      },
+      "artists": [
+        {
+          "name": "MIRAE",
+          "url": "https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5"
+    },
+    {
+      "album": {
         "name": "MIA",
         "url": "https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V"
       },
@@ -753,7 +771,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193400,
       "name": "Picky Baby",
       "url": "https://open.spotify.com/track/6zvi40kiZkDIiEC3OgKKSq"

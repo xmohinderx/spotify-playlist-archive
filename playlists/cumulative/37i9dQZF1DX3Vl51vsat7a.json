@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: VTSS",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Wilhelmine",
   "name": "RADAR GSA",
   "published_playlist_ids": [
     "7r16QFa0iXKPXTVCB31T4J"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 334433,
       "name": "A Declaration of Love",
       "url": "https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh"
@@ -95,6 +95,24 @@
       "duration_ms": 276091,
       "name": "Another year like that and we'd all be dead",
       "url": "https://open.spotify.com/track/7ytFo4I2OsaiGRhYdFGoQW"
+    },
+    {
+      "album": {
+        "name": "Besonders",
+        "url": "https://open.spotify.com/album/14iHxk7M0XCEgoZPiYn8Rg"
+      },
+      "artists": [
+        {
+          "name": "Wilhelmine",
+          "url": "https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "Besonders",
+      "url": "https://open.spotify.com/track/0qZ38h6vARmBn1dLPo5qIU"
     },
     {
       "album": {
@@ -269,7 +287,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 172437,
       "name": "Eins sein",
       "url": "https://open.spotify.com/track/1cIk7YqCnsVEv6FGRFLLrU"
@@ -569,6 +587,32 @@
       "duration_ms": 244666,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3jEuAziXMAw8YVbfcvVLZR"
+    },
+    {
+      "album": {
+        "name": "Jacke zu",
+        "url": "https://open.spotify.com/album/5XOptGKTuicfr63QxUnxNN"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152404,
+      "name": "Jacke zu",
+      "url": "https://open.spotify.com/track/0VYUzxAcxWtn05ZKiubkkU"
     },
     {
       "album": {

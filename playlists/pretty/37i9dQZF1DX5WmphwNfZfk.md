@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > All the Canadian artists you need to hear this month, handpicked by our curators\. Cover: Idman
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,532 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,533 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,11 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 91 | [Some Nights](https://open.spotify.com/track/6V1m5RUBzMMZSAwLBCglw3) | [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Some Nights](https://open.spotify.com/album/2cACvSNcPHUDAEeyVMqsB4) | 2:52 |
 | 92 | [Final Form](https://open.spotify.com/track/54Ctpx4TOJxlr7F0NaeyJu) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Face Lift](https://open.spotify.com/album/4ISz0a8iUxgyiRiqmXudtL) | 2:00 |
 | 93 | [Go With It](https://open.spotify.com/track/6LYFnJ8KF1ZYlazdPr248h) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Roshin](https://open.spotify.com/artist/3PJqNqnYLkNjPUliUaiZig) | [Go With It](https://open.spotify.com/album/0yOXNwQA96IgKNgUez2O1U) | 2:37 |
-| 94 | [Big Leagues](https://open.spotify.com/track/34DA0kbPLmFKCIC5LPzPzs) | [Nyiam](https://open.spotify.com/artist/4POGSRllhjWtkhgBpWdYAx) | [Big Leagues](https://open.spotify.com/album/6tEHdL69i0LobfrvI9NxjL) | 0:50 |
-| 95 | [My Way](https://open.spotify.com/track/1MR8kVBgdEq9ipNCPEe6Pl) | [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU), [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle) | [My Way](https://open.spotify.com/album/1uBr8w7utwCh5Z8fZVIiKc) | 2:13 |
-| 96 | [Must Be](https://open.spotify.com/track/7KpTMWKwHL4aX0bzUtyzXK) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Must Be](https://open.spotify.com/album/62YfeP2rYk9xIP3NsQsoat) | 2:13 |
-| 97 | [Water Whip \(feat\. 2kz & YTN Paco\)](https://open.spotify.com/track/2CTIrIH7AXD4hLAcRyFLsx) | [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5), [2Kz](https://open.spotify.com/artist/34NZtBmujV74j9fglzWlxW), [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL) | [Water Whip \(feat\. 2kz & YTN Paco\)](https://open.spotify.com/album/16prfySWzOX4ZecF9B0PeT) | 2:29 |
-| 98 | [Julia](https://open.spotify.com/track/2YDE0tqWm0fR1Hpv1tdefZ) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Julia](https://open.spotify.com/album/62YEeyuU5wGyMRPy6OWUVJ) | 2:31 |
-| 99 | [Friends 2 Foes](https://open.spotify.com/track/5YRp8dRLHmt5dIBJcU7lj8) | [Thorobread](https://open.spotify.com/artist/1OObO8vrEl0TOzlLHMUVfO) | [Friends 2 Foes](https://open.spotify.com/album/2Jc3nGmy8nYdo1zhNbrbJU) | 1:38 |
+| 94 | [Someone](https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU), [Dallas Green](https://open.spotify.com/artist/2iGBGJIZq5lVdACOItB22q) | [Someone](https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP) | 3:37 |
+| 95 | [Big Leagues](https://open.spotify.com/track/34DA0kbPLmFKCIC5LPzPzs) | [Nyiam](https://open.spotify.com/artist/4POGSRllhjWtkhgBpWdYAx) | [Big Leagues](https://open.spotify.com/album/6tEHdL69i0LobfrvI9NxjL) | 0:50 |
+| 96 | [My Way](https://open.spotify.com/track/1MR8kVBgdEq9ipNCPEe6Pl) | [Tim North](https://open.spotify.com/artist/0aF4uopelh675gJDvtpCnU), [Sammy Adams](https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle) | [My Way](https://open.spotify.com/album/1uBr8w7utwCh5Z8fZVIiKc) | 2:13 |
+| 97 | [Must Be](https://open.spotify.com/track/7KpTMWKwHL4aX0bzUtyzXK) | [Tyleen](https://open.spotify.com/artist/2h8KSitN6L2gWv1pSMvE7m) | [Must Be](https://open.spotify.com/album/62YfeP2rYk9xIP3NsQsoat) | 2:13 |
+| 98 | [Water Whip \(feat\. 2kz & YTN Paco\)](https://open.spotify.com/track/2CTIrIH7AXD4hLAcRyFLsx) | [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5), [2Kz](https://open.spotify.com/artist/34NZtBmujV74j9fglzWlxW), [Ytn Paco](https://open.spotify.com/artist/11GwkOrhCgJpuMnNR2HDhL) | [Water Whip \(feat\. 2kz & YTN Paco\)](https://open.spotify.com/album/16prfySWzOX4ZecF9B0PeT) | 2:29 |
+| 99 | [Julia](https://open.spotify.com/track/2YDE0tqWm0fR1Hpv1tdefZ) | [NOBRO](https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs) | [Julia](https://open.spotify.com/album/62YEeyuU5wGyMRPy6OWUVJ) | 2:31 |
+| 100 | [Friends 2 Foes](https://open.spotify.com/track/5YRp8dRLHmt5dIBJcU7lj8) | [Thorobread](https://open.spotify.com/artist/1OObO8vrEl0TOzlLHMUVfO) | [Friends 2 Foes](https://open.spotify.com/album/2Jc3nGmy8nYdo1zhNbrbJU) | 1:38 |
 
 Snapshot ID: `MTY0MTUzMTcyMCwwMDAwMDA3NjAwMDAwMTdlMzJlYTQxYTgwMDAwMDE3ZGU3ZjdiZmYz`

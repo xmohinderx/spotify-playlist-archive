@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg\">Zakes Bantwini</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU?si=2tDiqWw7RJKBDTODRPffZQ\">Echo Deep</a>",
   "name": "mint South Africa",
   "published_playlist_ids": [
     "24Uu3XWGtF4anu2FhCcmjB"
@@ -338,6 +338,32 @@
     },
     {
       "album": {
+        "name": "DAYSBEFOREULTRA",
+        "url": "https://open.spotify.com/album/0gqM7xh9rZE7WECecUIW3X"
+      },
+      "artists": [
+        {
+          "name": "Dj Dreas",
+          "url": "https://open.spotify.com/artist/1EJixvnrDY9wZTO2VMwuuk"
+        },
+        {
+          "name": "Sean K",
+          "url": "https://open.spotify.com/artist/6ms8vWUQgHDmjPnk48deMf"
+        },
+        {
+          "name": "Imms Nicolau",
+          "url": "https://open.spotify.com/artist/1rBfDC0Niz49ybbn4RbKxz"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322316,
+      "name": "BEAUTIFUL FANTASY",
+      "url": "https://open.spotify.com/track/4q3jTnVXM5yvT5m9fhBON3"
+    },
+    {
+      "album": {
         "name": "Belongs to Africa (Hot TuneiK Remix)",
         "url": "https://open.spotify.com/album/1GBeqy43xlKJAczsYojAYz"
       },
@@ -551,6 +577,24 @@
       "duration_ms": 392067,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7G4v7DqAAJTOu8PBtE1qsS"
+    },
+    {
+      "album": {
+        "name": "Cold nights",
+        "url": "https://open.spotify.com/album/3AnvtpEFXB5PEs7PWFkasQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Phat Cat",
+          "url": "https://open.spotify.com/artist/13RyzxCXGKYrewc2VdfXJO"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290095,
+      "name": "Cold nights",
+      "url": "https://open.spotify.com/track/4jrYshxS2ZdwpsQorJc0A9"
     },
     {
       "album": {

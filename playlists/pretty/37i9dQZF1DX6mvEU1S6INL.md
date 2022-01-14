@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,843 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,683 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 99 | [Westside](https://open.spotify.com/track/5BtyHl1eRqip2PkHhFYzHG) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:30 |
 | 100 | [You & I](https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:21 |
 
-Snapshot ID: `MTY0MTM5OTY2MywwMDAwMDA1NjAwMDAwMTdlMmIwYjNjN2QwMDAwMDE2ZDAwYWY3MWFj`
+Snapshot ID: `MTY0MjEwMDA0MCwwMDAwMDA1NzAwMDAwMTdlNTRjYTI0OWEwMDAwMDE2ZDAwYWY3MWFj`

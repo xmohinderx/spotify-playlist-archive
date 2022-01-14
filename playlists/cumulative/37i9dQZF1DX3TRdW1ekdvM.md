@@ -2,7 +2,7 @@
 
 ### [REM sleep](https://open.spotify.com/playlist/0k7IQIk85I1l06fbIplDhu)
 
-> Get your brains' sleep waves just right!
+> Perfect sleep riding Theta brain waves\. It's Science, it works!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

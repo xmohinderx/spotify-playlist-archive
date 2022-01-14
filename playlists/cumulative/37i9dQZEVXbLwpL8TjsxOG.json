@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Call My Name!",
+        "url": "https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl"
+      },
+      "artists": [
+        {
+          "name": "COLLAR",
+          "url": "https://open.spotify.com/artist/3Bi8khcP6Fubv6L1Vk7wPe"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Call My Name!",
+      "url": "https://open.spotify.com/track/16uUro9vLJogJJued0TFos"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -4881,7 +4899,7 @@
       ],
       "date_added": "2021-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 297000,
       "name": "\u7802\u4e4b\u5668",
       "url": "https://open.spotify.com/track/4o36qfelYYKAkPGPEQYu3u"
@@ -5088,6 +5106,24 @@
     },
     {
       "album": {
+        "name": "\u81a0 on! (\u81a0\u6230S2 \u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/1UZHXtZuKCJKRBi6mtc0DX"
+      },
+      "artists": [
+        {
+          "name": "6\u81a0",
+          "url": "https://open.spotify.com/artist/1LVOxgnKHc1CWaiNoMuQ8s"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226379,
+      "name": "\u81a0 on! (\u81a0\u6230S2 \u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1"
+    },
+    {
+      "album": {
         "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
         "url": "https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9"
       },
@@ -5099,7 +5135,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 240774,
       "name": "\u8499\u8457\u5634\u8aaa\u611b\u4f60",
       "url": "https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG"

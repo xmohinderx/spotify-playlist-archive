@@ -1,7 +1,7 @@
 {
   "description": "All the Canadian artists you need to hear this month, handpicked by our curators. Cover: Idman",
   "name": "RADAR Canada",
-  "num_followers": 18532,
+  "num_followers": 18533,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1575,6 +1575,26 @@
       "duration_ms": 157306,
       "name": "Go With It",
       "url": "https://open.spotify.com/track/6LYFnJ8KF1ZYlazdPr248h"
+    },
+    {
+      "added_at": "2022-01-07 05:02:00",
+      "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/6OG669baXFkVHumwTUqVfP"
+      },
+      "artists": [
+        {
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+        },
+        {
+          "name": "Dallas Green",
+          "url": "https://open.spotify.com/artist/2iGBGJIZq5lVdACOItB22q"
+        }
+      ],
+      "duration_ms": 217059,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/5r0ixRffPjtVlj2VUbCTcm"
     },
     {
       "added_at": "2022-01-07 05:02:00",

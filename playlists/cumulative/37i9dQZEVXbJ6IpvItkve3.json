@@ -2570,6 +2570,24 @@
     },
     {
       "album": {
+        "name": "Thought About That",
+        "url": "https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199181,
+      "name": "Thought About That",
+      "url": "https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/4cmu24lnj0NI8lHG6vra6h"
       },
@@ -4869,7 +4887,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 361978,
       "name": "\u05e1\u05d7\u05e8\u05d7\u05d5\u05e8\u05ea & \u05d1\u05d3\u05d3",
       "url": "https://open.spotify.com/track/7lwBfnN8IVlP6WW702pGH0"

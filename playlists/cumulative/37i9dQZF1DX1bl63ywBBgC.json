@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 228906,
       "name": "Cuenta Conmigo",
       "url": "https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q"
@@ -679,7 +679,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 287120,
       "name": "Desn\u00fadate Mujer",
       "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
@@ -1028,6 +1028,28 @@
     },
     {
       "album": {
+        "name": "Afrosound",
+        "url": "https://open.spotify.com/album/5JbuV37huKu6rER4zsyniF"
+      },
+      "artists": [
+        {
+          "name": "Afrosound",
+          "url": "https://open.spotify.com/artist/0i4Qda0k4nf7jnNHmSNpYv"
+        },
+        {
+          "name": "Jorge Juan Mej\u00eda",
+          "url": "https://open.spotify.com/artist/3Wq5e6xjFImj5d8QgP0RGN"
+        }
+      ],
+      "date_added": "2021-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215322,
+      "name": "Mar de Emociones",
+      "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
+    },
+    {
+      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -1075,7 +1097,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 237133,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/3ZTMJQ5B7lsauB4GJt7kue"
@@ -1219,7 +1241,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 266052,
       "name": "Oye Abre Tus Ojos",
       "url": "https://open.spotify.com/track/3jBtJBsO6LCQ73fmnIOlLt"
@@ -1291,7 +1313,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 307200,
       "name": "Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/36T4XY4vbxmw40XMJPe3zw"
@@ -1381,7 +1403,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 298640,
       "name": "Qu\u00e9 Hay de Malo",
       "url": "https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op"
@@ -1573,7 +1595,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 267706,
       "name": "Te Compro Tu Novia",
       "url": "https://open.spotify.com/track/3czFCRBDV79tTU4EbCEFuw"
@@ -1649,7 +1671,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
@@ -1855,7 +1877,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 271726,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp"

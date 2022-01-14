@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Bankrol Hayden
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,873,991 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,874,098 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 12 | [Loyal To A Fault \(feat\. Bryson Tiller, Lil Durk\)](https://open.spotify.com/track/6QTTPp4rzMqcbWWzgrGf9c) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [What You Expect](https://open.spotify.com/album/6aLBUWVN4WcBAJeJ7nI6j1) | 4:03 |
 | 13 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 |
 | 14 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 |
-| 15 | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/track/5irzewJoHob42Nq3P9kOYh) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Tamae](https://open.spotify.com/artist/0htOY9MPu4gDd7H8CcGOWb), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/album/4rznzfuokCVEOo5amWNx7c) | 1:57 |
+| 15 | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/track/5irzewJoHob42Nq3P9kOYh) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/album/4rznzfuokCVEOo5amWNx7c) | 1:57 |
 | 16 | [more than a trend](https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 1:36 |
 | 17 | [Be Free](https://open.spotify.com/track/35uYYHfPcA5zcl8IeVXxOb) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:08 |
 | 18 | [Talk Nice](https://open.spotify.com/track/1qo8LZ0OHfObYJpA8Zdfhl) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Talk Nice](https://open.spotify.com/album/4oPuSNNJzdQWn7Qf6UdlmE) | 1:51 |

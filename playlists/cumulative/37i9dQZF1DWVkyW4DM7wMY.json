@@ -252,6 +252,24 @@
     },
     {
       "album": {
+        "name": "Filthy Rich",
+        "url": "https://open.spotify.com/album/2xWZiT64H6JH8NSV3kHs0l"
+      },
+      "artists": [
+        {
+          "name": "Flier",
+          "url": "https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Filthy Rich",
+      "url": "https://open.spotify.com/track/0HRJK34PPIPWu3mEQHgDD9"
+    },
+    {
+      "album": {
         "name": "Sky Up Above",
         "url": "https://open.spotify.com/album/4BguiMoE15dCHo5mG2tMv0"
       },
@@ -423,6 +441,24 @@
       "duration_ms": 160416,
       "name": "Kanyoni",
       "url": "https://open.spotify.com/track/6UZcrzuokSStY50hAG20dX"
+    },
+    {
+      "album": {
+        "name": "Strings Attached",
+        "url": "https://open.spotify.com/album/3BDQeqmBSiDtgPbKDAhakq"
+      },
+      "artists": [
+        {
+          "name": "Kash Kaaria",
+          "url": "https://open.spotify.com/artist/3KUhMnCH2rmkW5jNhW7qoi"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "Kash flow",
+      "url": "https://open.spotify.com/track/5F5OaT1YRTUdDc3JaHX4wn"
     },
     {
       "album": {

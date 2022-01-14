@@ -1,13 +1,33 @@
 {
-  "description": "Catching flights and going global. Cover: <a href=\"https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC?si=d5Y-_SEKQH2m0R1ErOcMNw\"> Afro B</a>",
+  "description": "Catching flights and going global. Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=H3sjdL1LSbONuAz5j6s78A\"> Fireboy DML</a> and <a href=\"https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V?si=JWZclHrdR2y-4b5qS2idxg\"> Ed Sheeran </a>",
   "name": "Gone Abroad ",
-  "num_followers": 1827,
+  "num_followers": 1845,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODQ4NjA2MCwwMDAwMDAwYTAwMDAwMTdkN2Q2MTJjNjYwMDAwMDE3ZDdiNWI3Njhi",
+  "snapshot_id": "MTY0MjExNDg2MCwwMDAwMDAwYjAwMDAwMTdlNTVhYzQ0NzkwMDAwMDE3ZTUzMWI4NDcz",
   "tracks": [
+    {
+      "added_at": "2022-01-13 23:01:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
+    },
     {
       "added_at": "2021-12-02 23:01:00",
       "album": {
@@ -75,6 +95,22 @@
       "duration_ms": 135480,
       "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
       "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
+    },
+    {
+      "added_at": "2022-01-13 23:01:00",
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "jealousy (feat. rema)",
+      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -173,6 +209,26 @@
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
+      "added_at": "2022-01-13 23:01:00",
+      "album": {
+        "name": "Payback (feat. Knucks)",
+        "url": "https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 164962,
+      "name": "Payback (feat. Knucks)",
+      "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
+    },
+    {
       "added_at": "2021-10-08 09:53:07",
       "album": {
         "name": "Made In Lagos",
@@ -223,26 +279,6 @@
       "duration_ms": 225146,
       "name": "4AM",
       "url": "https://open.spotify.com/track/1b6seOTvtPREZUKqjhUtl5"
-    },
-    {
-      "added_at": "2021-11-15 07:26:14",
-      "album": {
-        "name": "Sweetness",
-        "url": "https://open.spotify.com/album/12Z2vvO5UYrBygJEumBCXf"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 218152,
-      "name": "If You Say",
-      "url": "https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC"
     },
     {
       "added_at": "2021-10-08 09:53:07",
@@ -1371,26 +1407,6 @@
     {
       "added_at": "2021-10-08 09:53:07",
       "album": {
-        "name": "Say Cheese (Remix)",
-        "url": "https://open.spotify.com/album/5pdMXHnjXQTdIbmidGVGRl"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Teddy Riley",
-          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
-        }
-      ],
-      "duration_ms": 155686,
-      "name": "Say Cheese - Remix",
-      "url": "https://open.spotify.com/track/0uNZ77FulqBuacdDEysX6E"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
         "name": "Bad Habits (The Remixes)",
         "url": "https://open.spotify.com/album/1cvxALyvpgUpRqxix4vhLK"
       },
@@ -1711,26 +1727,6 @@
       "duration_ms": 154909,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/7KPPWcM6D8ERyyOsZVoD6z"
-    },
-    {
-      "added_at": "2021-10-08 09:53:07",
-      "album": {
-        "name": "Melanin",
-        "url": "https://open.spotify.com/album/7GeOqIQ7BCbwZmjwpjqeLQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 133835,
-      "name": "Melanin",
-      "url": "https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC"
     },
     {
       "added_at": "2021-10-08 09:53:07",

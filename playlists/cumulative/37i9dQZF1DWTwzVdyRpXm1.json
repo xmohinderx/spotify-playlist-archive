@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Aashiqui Aa Gayi (From \"Radhe Shyam\")",
+        "url": "https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "Aashiqui Aa Gayi(From \"Radhe Shyam\")",
+      "url": "https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4"
+    },
+    {
+      "album": {
         "name": "Ajnabi",
         "url": "https://open.spotify.com/album/4kd8iTAHstisJi2t7Wet7l"
       },
@@ -49,7 +71,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 180175,
       "name": "Akh Lad Jaave (From \"Loveyatri\")",
       "url": "https://open.spotify.com/track/554Jv8PaaIVAwOOpoJ4YCm"
@@ -164,6 +186,28 @@
     },
     {
       "album": {
+        "name": "Atrangi Re",
+        "url": "https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "Chaka Chak",
+      "url": "https://open.spotify.com/track/4uLG79ROWYEXx1kJvDVbWI"
+    },
+    {
+      "album": {
         "name": "Chhor Denge",
         "url": "https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9"
       },
@@ -183,7 +227,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 257415,
       "name": "Chhor Denge",
       "url": "https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH"
@@ -213,10 +257,36 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 179225,
       "name": "Coca Cola (From \"Luka Chuppi\")",
       "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
+    },
+    {
+      "album": {
+        "name": "HIDDEN GEMS",
+        "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "DESIRES",
+      "url": "https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY"
     },
     {
       "album": {
@@ -506,6 +576,24 @@
     },
     {
       "album": {
+        "name": "Ik Lamha",
+        "url": "https://open.spotify.com/album/6bmCb8UcDltIrFV0mCFaWR"
+      },
+      "artists": [
+        {
+          "name": "Azaan Sami Khan",
+          "url": "https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258857,
+      "name": "Ik Lamha",
+      "url": "https://open.spotify.com/track/70MVLulHguwdhGo7100hsU"
+    },
+    {
+      "album": {
         "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
         "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
       },
@@ -677,7 +765,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 216999,
       "name": "Lamberghini",
       "url": "https://open.spotify.com/track/45P9g6kUb7itdonjjGjDdS"
@@ -1131,7 +1219,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 195865,
       "name": "Promises",
       "url": "https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A"
@@ -1208,6 +1296,32 @@
     },
     {
       "album": {
+        "name": "Atrangi Re",
+        "url": "https://open.spotify.com/album/3UkMnMdm9Jq7eXIfv0YMXm"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291462,
+      "name": "Rait Zara Si",
+      "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
+    },
+    {
+      "album": {
         "name": "Ranjha (From \"Shershaah\")",
         "url": "https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo"
       },
@@ -1264,6 +1378,28 @@
     },
     {
       "album": {
+        "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+        "url": "https://open.spotify.com/album/02tXOv9v8wSngJjB1i3E7z"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227160,
+      "name": "Saami Saami (From \"Pushpa The Rise Part - 01\")",
+      "url": "https://open.spotify.com/track/1GjRIaC1VRaPw8cl5CAjuF"
+    },
+    {
+      "album": {
         "name": "Sakhiyaan",
         "url": "https://open.spotify.com/album/2ja8ShVK2RtHqlxzXTRQ6J"
       },
@@ -1308,6 +1444,110 @@
     },
     {
       "album": {
+        "name": "Sar Phira",
+        "url": "https://open.spotify.com/album/3gyzk3cLjoaILBDhofgxp9"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Abdullah Kasumbi",
+          "url": "https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178758,
+      "name": "Sar Phira",
+      "url": "https://open.spotify.com/track/1uI4sS3pweJnEVZDA1Ujgh"
+    },
+    {
+      "album": {
+        "name": "HIDDEN GEMS",
+        "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        },
+        {
+          "name": "Gminxr",
+          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124498,
+      "name": "SPACESHIP",
+      "url": "https://open.spotify.com/track/2PcGqmKToUz0s65q1Acg7d"
+    },
+    {
+      "album": {
+        "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+        "url": "https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224072,
+      "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+      "url": "https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ"
+    },
+    {
+      "album": {
+        "name": "Stunner",
+        "url": "https://open.spotify.com/album/6hJuAaYqPKKmdUeSVKlqHj"
+      },
+      "artists": [
+        {
+          "name": "Young Stunners",
+          "url": "https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186947,
+      "name": "Stunner",
+      "url": "https://open.spotify.com/track/5uEqb1GoOV3W5vUaAIvyPc"
+    },
+    {
+      "album": {
         "name": "Tere Bin (Hum Kahan Ke Sachay Thy OST)",
         "url": "https://open.spotify.com/album/03dbuML4P9cd3zsltzwaRL"
       },
@@ -1323,10 +1563,36 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 232106,
       "name": "Tere Bin - Hum Kahan Ke Sachay Thy OST",
       "url": "https://open.spotify.com/track/1hju1lzW1cq8ua9YuhGi8k"
+    },
+    {
+      "album": {
+        "name": "HIDDEN GEMS",
+        "url": "https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114418,
+      "name": "TERE TE",
+      "url": "https://open.spotify.com/track/6TClJ8jXi3OBV7gcrU3jx5"
     },
     {
       "album": {

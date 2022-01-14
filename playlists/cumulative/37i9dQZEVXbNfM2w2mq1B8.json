@@ -305,7 +305,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 96232,
       "name": "A Tale By Quincy",
       "url": "https://open.spotify.com/track/759ndr57jb0URg4j9YSWml"
@@ -2583,7 +2583,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 167255,
       "name": "Every Angel is Terrifying",
       "url": "https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU"
@@ -6738,6 +6738,24 @@
     },
     {
       "album": {
+        "name": "Podvodnitsa",
+        "url": "https://open.spotify.com/album/68CdAJwgIKuIEFeTgILeEo"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "Podvodnitsa",
+      "url": "https://open.spotify.com/track/4qkggtykkzl6qfuScsNmJk"
+    },
+    {
+      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
       },
@@ -8111,7 +8129,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
@@ -8681,6 +8699,24 @@
       "duration_ms": 168020,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/2kaNmAbqrtOf7Rdr3fnCWl"
+    },
+    {
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
       "album": {
@@ -9769,7 +9805,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 216784,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0430 \u0441\u0438",
       "url": "https://open.spotify.com/track/589KeND3ebjbfhs5GfGGyx"

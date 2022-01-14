@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Mike Akox\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,754 likes - 30 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,755 likes - 30 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 24 | [Jupiter/Saturn](https://open.spotify.com/track/5ibizsgJBcoJJG8MZeZZ9L) | [Jay Cooper](https://open.spotify.com/artist/5mYyUdTTfQPQpJe4LeOZC5) | [Jupiter/Saturn](https://open.spotify.com/album/2SKtsftl6PIcxLckgqHtBe) | 2:24 |
 | 25 | [Dithering](https://open.spotify.com/track/0AOiguFhmZuYQKW8G62fQy) | [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO) | [Dithering](https://open.spotify.com/album/5Va8xOg4tRtqvIUFPRATLY) | 3:51 |
 | 26 | [Inna Dis](https://open.spotify.com/track/0rM3iVF9Blb2X3B0MLWM1I) | [SK Simeon](https://open.spotify.com/artist/3hZ4mgW0lM6GBP8EgCIxjP) | [Inna Dis](https://open.spotify.com/album/6V3FxBE5poHlOXSFI53lxA) | 3:17 |
-| 27 | [ISSA PARTY](https://open.spotify.com/track/6j92wmpxkoJqjNWeQnaxid) | [Timba](https://open.spotify.com/artist/0tTjbpF9XFBvI348S6zID8), [Fekz & RHB](https://open.spotify.com/artist/5FuDJyUEBhHkcadyZOTZvZ), [Christian Joseph](https://open.spotify.com/artist/6zy4sQ8GjhKpZoqf1abg68) | [ISSA PARTY](https://open.spotify.com/album/1j09leTHRTaXw3gzgrqNaP) | 2:53 |
+| 27 | [ISSA PARTY](https://open.spotify.com/track/6j92wmpxkoJqjNWeQnaxid) | [Timba](https://open.spotify.com/artist/0tTjbpF9XFBvI348S6zID8), [Fekz & RHB](https://open.spotify.com/artist/5FuDJyUEBhHkcadyZOTZvZ), [Christian Joseph](https://open.spotify.com/artist/0iE0i5ghV6jDDGNJjtyFid) | [ISSA PARTY](https://open.spotify.com/album/1j09leTHRTaXw3gzgrqNaP) | 2:53 |
 | 28 | [I'll Stick By You](https://open.spotify.com/track/7BJzlYuk4plCvjC3RBrRwh) | [The Chills](https://open.spotify.com/artist/6soJo0dtX31T30OxtS4A39) | [I'll Stick By You](https://open.spotify.com/album/25nEDw4l8GzcbCr9ltPo0y) | 3:39 |
 | 29 | [cousins](https://open.spotify.com/track/4QtwXlHaDtrTtdSRPz7EwT) | [wongii](https://open.spotify.com/artist/20Dv10fNbZMfKMX5N12P99), [Max Henley](https://open.spotify.com/artist/0kDyN8taWBDSLwg3qyFBDx) | [cousins](https://open.spotify.com/album/2IKVtUsEEjuMFreKebMM4H) | 2:52 |
 | 30 | [Shottas](https://open.spotify.com/track/1TWfQRug318vWFcNpEH1hl) | [2ktrilla](https://open.spotify.com/artist/5rfbkuuVQ2CBJiM2YDQxLE) | [Shottas](https://open.spotify.com/album/5WK0tMwwUboqEsLJvoO42l) | 2:49 |

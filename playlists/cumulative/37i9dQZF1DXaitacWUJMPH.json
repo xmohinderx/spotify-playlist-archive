@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 238816,
       "name": "Bean (Kobe) [feat. Chief Keef]",
       "url": "https://open.spotify.com/track/0IpnZchq8ek2A6pGEP2Qb1"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 234540,
       "name": "Bookoo Bucks",
       "url": "https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ"
@@ -249,7 +249,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 184573,
       "name": "Dre Grant",
       "url": "https://open.spotify.com/track/1YBo2pYIAlkfPLrIoucRLl"
@@ -365,7 +365,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 568129,
       "name": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\", and Eminem)",
       "url": "https://open.spotify.com/track/2kY2ROHIGdp3aA6ahqaUKm"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 284171,
       "name": "I Stand On That",
       "url": "https://open.spotify.com/track/3yQQgABgbIcyhy7pJjHfWF"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 171273,
       "name": "Kobe (feat. Snoop Dogg & Derrick Milano)",
       "url": "https://open.spotify.com/track/6KNkwW52dda5lTGf10KLXn"
@@ -577,10 +577,28 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 143181,
       "name": "Kobe Bryant",
       "url": "https://open.spotify.com/track/7sYtgBHnF2D1mgA7vNXig1"
+    },
+    {
+      "album": {
+        "name": "There You Have It",
+        "url": "https://open.spotify.com/album/6gOXTTcyrdx2B0zywrURX8"
+      },
+      "artists": [
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286421,
+      "name": "Kurupt",
+      "url": "https://open.spotify.com/track/3PNWSxGWXZoPtbBlx2iKOb"
     },
     {
       "album": {
@@ -617,7 +635,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 211680,
       "name": "Love Yourz",
       "url": "https://open.spotify.com/track/4gkl7QbQvBd3TM9PhlWFkI"
@@ -741,7 +759,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 207243,
       "name": "Respect It (with Hit-Boy feat. Young Thug)",
       "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
@@ -881,7 +899,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 173419,
       "name": "Still Runnin (feat. Meek Mill)",
       "url": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ"
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 188320,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"

@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -275,7 +275,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 159490,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/4e11dFRYAcJyvIv9Y35ERA"
@@ -367,7 +367,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 149112,
       "name": "Call on Me - Knxwledge Remix",
       "url": "https://open.spotify.com/track/5Nhw180obum91f6beXfweg"
@@ -389,7 +389,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 279240,
       "name": "Can't Believe It",
       "url": "https://open.spotify.com/track/2HSqwCmrdzGYPLi26mMtNG"
@@ -589,7 +589,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 244048,
       "name": "Fkn Around (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7"
@@ -611,7 +611,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 163266,
       "name": "Funny Thing About Love (with Bipolar Sunshine)",
       "url": "https://open.spotify.com/track/4u1uoGRnt2bAvan9JYLvjN"
@@ -823,7 +823,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 225600,
       "name": "IN PINK (feat. Mndsgn)",
       "url": "https://open.spotify.com/track/2hh57Boyz8tUEFxvyurmeb"
@@ -885,6 +885,24 @@
       "duration_ms": 242000,
       "name": "It's a Moot Point",
       "url": "https://open.spotify.com/track/3Rl8k5Daz5w5zHYSJz5lHA"
+    },
+    {
+      "album": {
+        "name": "Santolina",
+        "url": "https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz"
+      },
+      "artists": [
+        {
+          "name": "Yot Club",
+          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220667,
+      "name": "It's Easy",
+      "url": "https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW"
     },
     {
       "album": {
@@ -957,7 +975,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 237517,
       "name": "Late Night",
       "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 233722,
       "name": "Lonely As I Ever Was",
       "url": "https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz"
@@ -1249,7 +1267,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 224881,
       "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
       "url": "https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7"
@@ -1271,6 +1289,24 @@
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/6q3qQZ5TU2UwatDd42YwZ8"
+    },
+    {
+      "album": {
+        "name": "Pandemia",
+        "url": "https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109268,
+      "name": "Pandemia",
+      "url": "https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG"
     },
     {
       "album": {
@@ -1413,10 +1449,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 141584,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6lcVAexfyal10RpKsM6SmQ"
+    },
+    {
+      "album": {
+        "name": "Straight Through",
+        "url": "https://open.spotify.com/album/32fagwM4LQVX8UmxSfQK3w"
+      },
+      "artists": [
+        {
+          "name": "The Revisit Project",
+          "url": "https://open.spotify.com/artist/2yBkLqum2uhfESXbRF9eD9"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258311,
+      "name": "Straight Through",
+      "url": "https://open.spotify.com/track/7f6Neegr5RGVQlJlBXfFpX"
     },
     {
       "album": {
@@ -1511,7 +1565,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 294445,
       "name": "Tangerine - Channel Tres Remix",
       "url": "https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8"
@@ -1569,7 +1623,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 172517,
       "name": "THE SUN SHINES SO BRIGHT WITH YOU",
       "url": "https://open.spotify.com/track/3oNpguc2W0QcVRJ4hGzdZa"
@@ -1631,7 +1685,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 210385,
       "name": "Time",
       "url": "https://open.spotify.com/track/7klPHv3HnXdUY3dSfTccNc"
@@ -1689,7 +1743,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 222626,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv"
@@ -1769,7 +1823,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
@@ -1795,7 +1849,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 187872,
       "name": "Violet Nights",
       "url": "https://open.spotify.com/track/5ibIiFr6V1d6Yfr8Bijj0H"
@@ -1879,7 +1933,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 222901,
       "name": "Witchoo",
       "url": "https://open.spotify.com/track/0AizRfHUi7y1cSl1HqwEij"
@@ -1919,7 +1973,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 254124,
       "name": "Yo",
       "url": "https://open.spotify.com/track/4iJrGwqUJjXmxaNVM9SBn0"

@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "and i'd go a thousand miles",
+        "url": "https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "and i'd go a thousand miles",
+      "url": "https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz"
+    },
+    {
+      "album": {
         "name": "Sling",
         "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
@@ -232,6 +250,24 @@
     },
     {
       "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/7rmnI5M8WN5TaK0pZkLV7J"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
+    },
+    {
+      "album": {
         "name": "Coffee Breath",
         "url": "https://open.spotify.com/album/7q0mdGYnuhBbn1hb4rNmG4"
       },
@@ -333,7 +369,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
@@ -597,7 +633,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 134556,
       "name": "Gonna Bleach My Eyebrows",
       "url": "https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7"
@@ -655,7 +691,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 217149,
       "name": "High",
       "url": "https://open.spotify.com/track/1Azvp5Y5rOiFBPLXlOxGfy"
@@ -749,7 +785,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 90315,
       "name": "i'm in love with u, sorry",
       "url": "https://open.spotify.com/track/5p684vIzF5LOkmHL3I0tyM"
@@ -843,7 +879,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 248056,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI"
@@ -883,7 +919,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 182678,
       "name": "like i need u",
       "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
@@ -937,7 +973,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 101000,
       "name": "Lost in You",
       "url": "https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e"
@@ -980,6 +1016,28 @@
     },
     {
       "album": {
+        "name": "Loving Is Easy",
+        "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "date_added": "2021-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155720,
+      "name": "Loving Is Easy",
+      "url": "https://open.spotify.com/track/5EYi2rH4LYs6M21ZLOyQTx"
+    },
+    {
+      "album": {
         "name": "magnolia",
         "url": "https://open.spotify.com/album/2HjiysHZDh1xSQQy2Uc0py"
       },
@@ -991,7 +1049,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 139623,
       "name": "magnolia",
       "url": "https://open.spotify.com/track/6PAvEeeSw7zuaQTUnoZPlg"
@@ -1125,7 +1183,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 136822,
       "name": "o shit!",
       "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
@@ -1259,7 +1317,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 204878,
       "name": "Right Here",
       "url": "https://open.spotify.com/track/6pW1YY18FiiyI2g9Aw8zD1"
@@ -1331,7 +1389,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 209387,
       "name": "Sardine Song",
       "url": "https://open.spotify.com/track/6cIKtihxWYkzkJHPQOiun1"
@@ -1349,7 +1407,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 157616,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO"
@@ -1403,7 +1461,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 199020,
       "name": "Sixteen",
       "url": "https://open.spotify.com/track/0SUcdi5dePAVWmhyH3m5z8"
@@ -1529,7 +1587,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 172117,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/2qmhfzORJFrOQgFKYlnm6Z"
@@ -1551,7 +1609,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 170413,
       "name": "Sweet & Spice",
       "url": "https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj"
@@ -1623,7 +1681,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 226073,
       "name": "This Is Home",
       "url": "https://open.spotify.com/track/7s8VgA8OjvwBUuigKzEGBx"
@@ -1833,7 +1891,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 270011,
       "name": "who put blood in my drink?",
       "url": "https://open.spotify.com/track/5vthP2pdh6pP40S7S5js8N"

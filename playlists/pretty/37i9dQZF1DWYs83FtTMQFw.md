@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today...featuring The Weeknd, Juice WRLD, and Gunna.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,063,473 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,063,734 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 | 49 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 |
 | 50 | [Eyes Open \(feat\. Lil Baby & Young Thug\)](https://open.spotify.com/track/0va4UcIcxAOf4yVpxGQWSa) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [2 Get You Thru The Rain](https://open.spotify.com/album/5AWE3CWvvlvpBBqKIjTrji) | 3:22 |
 | 51 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 |
-| 52 | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/track/5irzewJoHob42Nq3P9kOYh) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Tamae](https://open.spotify.com/artist/0htOY9MPu4gDd7H8CcGOWb), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/album/4rznzfuokCVEOo5amWNx7c) | 1:57 |
+| 52 | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/track/5irzewJoHob42Nq3P9kOYh) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Tamae](https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Seduce \(Feat\. Capella Grey & Tamae\)](https://open.spotify.com/album/4rznzfuokCVEOo5amWNx7c) | 1:57 |
 | 53 | [MERCEDES](https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [MERCEDES](https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT) | 3:53 |
 | 54 | [Lose My Cool \(feat\. NLE Choppa\)](https://open.spotify.com/track/31UJNSt6tUbROThjfaAZfT) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Lose My Cool](https://open.spotify.com/album/0R8UQCG358KD07cX4zbOdB) | 3:10 |
 | 55 | [too easy](https://open.spotify.com/track/4eL3XeuGaEoVT8ttDh3hwY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [too easy](https://open.spotify.com/album/1hbRXvB0m34uUqNU8EbZzc) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: 87dance\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,958 likes - 42 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,016 likes - 42 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 17 | [we're not](https://open.spotify.com/track/7xuvJiT3Lpj3N7tLhDinIt) | [LEE SEOKHUI](https://open.spotify.com/artist/4J2gD7kbbw3ZCazueHT05P) | [Beautiful winter](https://open.spotify.com/album/7jWFYuphHoEPFi4ElWPexa) | 4:28 |
 | 18 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 |
 | 19 | [DADDY !](https://open.spotify.com/track/1yEi67bxNqLVz3PYvXaOee) | [greenbeige](https://open.spotify.com/artist/4x3Fz4qscjiV4wNg5jCznm) | [Emot](https://open.spotify.com/album/6SomKT8sRaptp4C1lEBBFh) | 2:22 |
-| 20 | [Floating](https://open.spotify.com/track/3b4anaoUFT9kkfY1blMxQ7) | [Meanz](https://open.spotify.com/artist/0C9LwpLAq3sMKpVwCRadBI) | [Journey](https://open.spotify.com/album/2TLeiTKcQdQ0G3Xp8uP6xe) | 3:29 |
+| 20 | [Floating](https://open.spotify.com/track/3b4anaoUFT9kkfY1blMxQ7) | [Meanz](https://open.spotify.com/artist/5poeDYDuC0vXkvoIRiaj9W) | [Journey](https://open.spotify.com/album/2TLeiTKcQdQ0G3Xp8uP6xe) | 3:29 |
 | 21 | [Heart sound](https://open.spotify.com/track/76OMNXEj0YeumSiRcYH8ir) | [Yun JiSeong](https://open.spotify.com/artist/7MRhCYCgOjf0JvpuBljnkC) | [Lee Hong Gi's playlist <ONCE>](https://open.spotify.com/album/3hO3uedBPcmi8DSh28X2ub) | 3:47 |
 | 22 | [An Angel \(Under the Street Light\)](https://open.spotify.com/track/7K6abpCq7khHwPUn75rayg) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [oh!honeybee](https://open.spotify.com/album/1hQlsdyobkp53N1d5KB02y) | 3:32 |
 | 23 | [fragrance \(feat\. RIPLEY, Seungoh\)](https://open.spotify.com/track/1GwERePh1I5Qcb00l5khM2) | [WR](https://open.spotify.com/artist/0NJIG6q0zE2TxRjLBUBWaf), [RIPLEY](https://open.spotify.com/artist/226NgMhCe19mK7xFekn3TZ), [승오](https://open.spotify.com/artist/7mHz1G1J0CoJ6LwDuecN9e) | [fragrance \(feat\. RIPLEY, Seungoh\)](https://open.spotify.com/album/1gWKRi0oHoZCYJ9H2FM68I) | 3:15 |

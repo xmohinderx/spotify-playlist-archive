@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 308000,
       "name": "Amor",
       "url": "https://open.spotify.com/track/2WpH0prggUSJDJnpeItMep"
@@ -171,6 +171,28 @@
       "duration_ms": 220212,
       "name": "Aubades",
       "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+    },
+    {
+      "album": {
+        "name": "Sequenza",
+        "url": "https://open.spotify.com/album/3s6H20dPjJwzJcRrnf5X2t"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
+        },
+        {
+          "name": "Vassilena Serafimova",
+          "url": "https://open.spotify.com/artist/6rwhb59UuFvOrgaUPvdEXv"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344120,
+      "name": "Balani",
+      "url": "https://open.spotify.com/track/56wgd67KYDVpw9yAjxBv69"
     },
     {
       "album": {
@@ -293,7 +315,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 245371,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/6VipQibtXdo7Dy3uuW981g"
@@ -599,7 +621,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 240966,
       "name": "Fractals",
       "url": "https://open.spotify.com/track/7B5uCyyMEgfMoKA8kqYbmI"
@@ -1516,6 +1538,28 @@
     },
     {
       "album": {
+        "name": "See The Stars",
+        "url": "https://open.spotify.com/album/3MbrBZmGJwpbXp9TjoKwYo"
+      },
+      "artists": [
+        {
+          "name": "Nolan",
+          "url": "https://open.spotify.com/artist/1TtKsd7XZu2JFQtDiZQiFm"
+        },
+        {
+          "name": "Luke Brancaccio",
+          "url": "https://open.spotify.com/artist/1Wtioib1IFtGZHOJEZCwqr"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281697,
+      "name": "See The Stars",
+      "url": "https://open.spotify.com/track/4Wd3WrBPJrNVLlszaIT6T1"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/6jenbIXaHvG7jPCfMTpLS6"
       },
@@ -1534,6 +1578,28 @@
     },
     {
       "album": {
+        "name": "Silent Talking / White Divide",
+        "url": "https://open.spotify.com/album/778S6sqUwLWkAfBJn6RFwm"
+      },
+      "artists": [
+        {
+          "name": "Bing",
+          "url": "https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL"
+        },
+        {
+          "name": "French II",
+          "url": "https://open.spotify.com/artist/6ipkiHnGXAsGSRlG5RPkjt"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Silent Talking - French II Remix",
+      "url": "https://open.spotify.com/track/3aPEt4Efx0NYzhbSXtX4LD"
+    },
+    {
+      "album": {
         "name": "Firezone",
         "url": "https://open.spotify.com/album/65uFN8GiouuRmMghukyEoX"
       },
@@ -1545,7 +1611,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 257712,
       "name": "Sip It",
       "url": "https://open.spotify.com/track/1luiFY5znojT6YoJrn5HIb"
@@ -1687,6 +1753,42 @@
       "duration_ms": 197419,
       "name": "Stories",
       "url": "https://open.spotify.com/track/5BnLFmaAm7DqeXrZy1n8Jp"
+    },
+    {
+      "album": {
+        "name": "Sweat Sonic",
+        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
+      },
+      "artists": [
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382487,
+      "name": "Sweat Sonic",
+      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
+    },
+    {
+      "album": {
+        "name": "Talaria",
+        "url": "https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2"
+      },
+      "artists": [
+        {
+          "name": "Scuba",
+          "url": "https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315977,
+      "name": "Talaria",
+      "url": "https://open.spotify.com/track/2OAPybo0X5gpwyMAEnkJFA"
     },
     {
       "album": {
@@ -1989,7 +2091,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 310090,
       "name": "Week 4",
       "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"

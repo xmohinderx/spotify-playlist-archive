@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 219253,
       "name": "Age of a Man",
       "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 234273,
       "name": "Believe",
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
@@ -317,7 +317,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 234200,
       "name": "Black Myself",
       "url": "https://open.spotify.com/track/5cH2yuvqPh7IsqetGmSoAE"
@@ -411,7 +411,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 184040,
       "name": "Breakin' Ground",
       "url": "https://open.spotify.com/track/2yi1jPkYB2WVdC2z9uNxyG"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 172973,
       "name": "Candy Man",
       "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 200161,
       "name": "Chain Reaction",
       "url": "https://open.spotify.com/track/2G7bNWJygXprmbBD3IQidL"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 217816,
       "name": "Give a Little Love (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/0FfcviVA8x0FaVIwwZVUJE"
@@ -967,7 +967,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 231162,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/2S8Ulejh17Y5tqvCbVEmiF"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 278167,
       "name": "Green Eyes - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3cjElM51VC09D0pMM2Ue9E"
@@ -1003,7 +1003,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 207840,
       "name": "He Calls Me River",
       "url": "https://open.spotify.com/track/2JfDgUP6UdYgU0CavcbPr4"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 249213,
       "name": "Heart to Ride",
       "url": "https://open.spotify.com/track/3ksOjny1fxhYeRAMunOLcv"
@@ -1097,6 +1097,24 @@
       "duration_ms": 351193,
       "name": "Hills of Mexico",
       "url": "https://open.spotify.com/track/2buCvfzLyMEUs04e8IChE2"
+    },
+    {
+      "album": {
+        "name": "Jaime",
+        "url": "https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184826,
+      "name": "History Repeats",
+      "url": "https://open.spotify.com/track/7u0FwjCZoc3uZA4OJtlUrB"
     },
     {
       "album": {
@@ -1195,7 +1213,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 318309,
       "name": "I Had To Keep My Circle Small",
       "url": "https://open.spotify.com/track/4sRX7hi80Jq2viQpqZYo7S"
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
@@ -1333,7 +1351,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 254633,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/5lrhQBbSjwKolAVGvl2MQS"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 293240,
       "name": "Learnin' to Drown",
       "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 198440,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/3OZRkavHZUYEfFuK8JNmU9"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 221476,
       "name": "neve give up",
       "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
@@ -1809,7 +1827,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 231338,
       "name": "No Summer",
       "url": "https://open.spotify.com/track/3DeRxZx9NeymcEKzDqY79r"
@@ -1921,7 +1939,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 207426,
       "name": "Pastime",
       "url": "https://open.spotify.com/track/55IxMup3rI2FliLgTRIw1F"
@@ -1993,7 +2011,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 297773,
       "name": "Pretty Polly",
       "url": "https://open.spotify.com/track/737aOcPrTs5bMeDl8Gywud"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 282586,
       "name": "Quasheba, Quasheba",
       "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
@@ -2077,7 +2095,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 274742,
       "name": "River Floor",
       "url": "https://open.spotify.com/track/1IFfxA7q1t1Pd06KFYrwQK"
@@ -2149,7 +2167,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 217973,
       "name": "Save My Life - Radio Edit",
       "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
@@ -2297,7 +2315,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 204575,
       "name": "The Good Life - Acoustic",
       "url": "https://open.spotify.com/track/1aK4qQZ5w5neaQxhxP8w4n"
@@ -2439,7 +2457,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 221853,
       "name": "The Scene Is Dead",
       "url": "https://open.spotify.com/track/4EJmVBdSjVDCPKHcv8q2kF"
@@ -2457,7 +2475,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 254614,
       "name": "The Ship",
       "url": "https://open.spotify.com/track/0LXXiQatpwbFI6JBc0xLOH"
@@ -2493,7 +2511,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 195529,
       "name": "The Woman Who Planted Trees",
       "url": "https://open.spotify.com/track/3jaEz5rDU8pYZCPPY51rDm"
@@ -2565,7 +2583,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 211786,
       "name": "Transformation",
       "url": "https://open.spotify.com/track/3vuhk4DMMf4bQePny04bhs"
@@ -2681,7 +2699,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 306213,
       "name": "Walk Into a Storm",
       "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
@@ -2807,7 +2825,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 180977,
       "name": "Wildflowers in the Graveyard",
       "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"

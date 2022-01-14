@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > Alternative meets electronic\. Cover: Royal & the Serpent
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,599 likes - 111 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,968 likes - 111 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

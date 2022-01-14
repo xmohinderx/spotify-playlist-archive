@@ -1,15 +1,35 @@
 {
   "description": "The pivotal tracks by the genre-redefining <a href=\"spotify:artist:0cmWgDlu9CwTgxPhf403hb\">producer</a>, composer, and DJ.",
   "name": "This Is Bonobo",
-  "num_followers": 137858,
+  "num_followers": 137766,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTg1OTkzMywwMDAwMDAxNjAwMDAwMTdlNDY3YTY2N2YwMDAwMDE3Y2EzMmIyNDZi",
+  "snapshot_id": "MTY0MjA5NjU3OCwwMDAwMDAxODAwMDAwMTdlNTQ5NTRlNGYwMDAwMDE3Y2EzMmIyNDZi",
   "tracks": [
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
+      "album": {
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Otomo",
         "url": "https://open.spotify.com/album/2zSMwsGd7r6fkJBoXkv3lQ"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/3VRemRqHZi7qiWzJfc684f"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/61g7oQKm8DFEL7r2g9LS8x"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
@@ -117,7 +137,7 @@
       "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
@@ -137,7 +157,7 @@
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Linked",
         "url": "https://open.spotify.com/album/2ON5Z0fO371hIhW8AUTNth"
@@ -153,7 +173,7 @@
       "url": "https://open.spotify.com/track/0izbMfR7hvGHEoGBD5bBli"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Ibrik",
         "url": "https://open.spotify.com/album/4Hr5RRKYdCpCJ9YSqnfoyC"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/0E7S1k9M1KshLISVC2EP1M"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Bambro Koyo Ganda",
         "url": "https://open.spotify.com/album/7wozLC9PHgpjeb4aIZcI1Q"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/51ro6nbbBiV2RLDQz7uE0z"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
@@ -205,7 +225,7 @@
       "url": "https://open.spotify.com/track/0CPEvRFKdvpK0veEeY56T6"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Flutter",
         "url": "https://open.spotify.com/album/2RJzEXouslaRTm2EecGPcm"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/118jpM7D5hnAEYJ6EzEY3G"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/41oY7hIc9CdA5FtWQVyFAU"
@@ -241,7 +261,7 @@
       "url": "https://open.spotify.com/track/4b6WRfxJRY40RBpl3TMQVq"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Nightlite",
         "url": "https://open.spotify.com/album/3bPzeMYquLHyTCUW8shcPL"
@@ -257,7 +277,7 @@
       "url": "https://open.spotify.com/track/0bpke7omGYtQEUhn7FBsnz"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/2pYvd6cHcAIMAM6xMD6nok"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
@@ -313,7 +333,7 @@
       "url": "https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
@@ -345,7 +365,7 @@
       "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Bambro Koyo Ganda",
         "url": "https://open.spotify.com/album/7wozLC9PHgpjeb4aIZcI1Q"
@@ -361,7 +381,7 @@
       "url": "https://open.spotify.com/track/3OhwaetItNaTXxn0mr9SkN"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Terrapin",
         "url": "https://open.spotify.com/album/4ZwmZFVIKSNOsjZKPlABuq"
@@ -377,7 +397,7 @@
       "url": "https://open.spotify.com/track/0M7En0660H4H7MBiPK2FCf"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/2Yz2Z1ENB85nYrK3Rg2qxO"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Flashlight EP",
         "url": "https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/3aWPdd6U1xbsIEGEpUaPyQ"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Stay The Same",
         "url": "https://open.spotify.com/album/3kh6B7Mxp9Od8QWDLsq8Ap"
@@ -485,7 +505,7 @@
       "url": "https://open.spotify.com/track/1a2utV5yxcl9UQrZnYC5DJ"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Silver / Sleepy Seven",
         "url": "https://open.spotify.com/album/6uNK1F0WqE3lDokAvTTj8h"
@@ -501,7 +521,7 @@
       "url": "https://open.spotify.com/track/2OjroXJpcXNmNcfNUnb9FE"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
@@ -517,7 +537,7 @@
       "url": "https://open.spotify.com/track/6uoM7KHsyJsHZqBQHKjQbc"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Migration",
         "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
@@ -533,7 +553,7 @@
       "url": "https://open.spotify.com/track/4MSKGtnxTdqIypqwTDY3em"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/0QfU66KkYAZVWlGSwStQDw"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/4uoLB8GQkpOiHIqp7A4Btt"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "One Offs Remixes and B Sides",
         "url": "https://open.spotify.com/album/5AHAX63Nun0XMI1xnn50zI"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/0ttQ1dtmt0m6mg35QS8it3"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Terrapin",
         "url": "https://open.spotify.com/album/4ZwmZFVIKSNOsjZKPlABuq"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/216lVtPGmb4ZWrGboV9q8o"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/4SjvkRy0nVHd3oe7BkZ1u4"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Late Night Tales: Bonobo",
         "url": "https://open.spotify.com/album/5SgDZy07tAolj95sBLkkQd"
@@ -617,7 +637,7 @@
       "url": "https://open.spotify.com/track/0T3WxD2TtDsJ7Y41xFOckd"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
@@ -633,7 +653,7 @@
       "url": "https://open.spotify.com/track/6VhlABJh5uaZOpyyi5wute"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6HGbrlmb37enHxutPPZXgz"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/3cg38isdTrBH63B4BMywsw"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/7eDNiX2DbNo7xhLlgjlGrh"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Hey Now",
         "url": "https://open.spotify.com/album/3i80s0EaaJg5js3HPdTwtv"
@@ -701,7 +721,7 @@
       "url": "https://open.spotify.com/track/6foHpH0ZXHyupr3ozWI4Ld"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/4Gkd4msFAFTiDxFZcg9r8i"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "One Offs Remixes and B Sides",
         "url": "https://open.spotify.com/album/5AHAX63Nun0XMI1xnn50zI"
@@ -737,7 +757,7 @@
       "url": "https://open.spotify.com/track/5srUtfvv4rg6rcIdR13UHc"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "The North Borders",
         "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
@@ -753,7 +773,7 @@
       "url": "https://open.spotify.com/track/7rF2bHXc5wa3hM3114pppm"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Days To Come",
         "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4fwdKlGLJuEB9UuCHaNKql"
@@ -789,7 +809,7 @@
       "url": "https://open.spotify.com/track/7uwz2iMeMq19rM75zZLW0B"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Dial 'M' for Monkey",
         "url": "https://open.spotify.com/album/6TaDSeHRXqw06H2PlYsD5K"
@@ -805,7 +825,7 @@
       "url": "https://open.spotify.com/track/1sVPnm3MQqQGaCUH1OO8NV"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
@@ -821,7 +841,7 @@
       "url": "https://open.spotify.com/track/2y1cW84gbL4ghBD2HwcQ3x"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Don't Put Me In Your Box (The Remixes)",
         "url": "https://open.spotify.com/album/5lFO23g9mmpQWBhVlGq3iV"
@@ -841,7 +861,7 @@
       "url": "https://open.spotify.com/track/3DKGLkOXp92m1HogYFrcsH"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Black Sands Remixed",
         "url": "https://open.spotify.com/album/2tcn5o1g4FuVRuMGjn7G4v"
@@ -857,7 +877,7 @@
       "url": "https://open.spotify.com/track/4NJmYXgwH27cVeJ6ctf9Dn"
     },
     {
-      "added_at": "2021-12-03 13:00:51",
+      "added_at": "2022-01-13 17:56:18",
       "album": {
         "name": "Bambro Koyo Ganda",
         "url": "https://open.spotify.com/album/7wozLC9PHgpjeb4aIZcI1Q"

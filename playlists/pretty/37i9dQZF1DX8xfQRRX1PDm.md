@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Best Bollywood dance songs from last 10 years\. Cover\- Kriti Sanon
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,348 likes - 58 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,836 likes - 58 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 39 | [Makhna](https://open.spotify.com/track/0ZHILXmUaVSLEOCWxPQ1ga) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/2HSFoyWN8n9c3f2SMceRrO) | 3:03 |
 | 40 | [Mummy Nu Pasand](https://open.spotify.com/track/3T0KcbL448JvlX81gazhAd) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jai Mummy Di](https://open.spotify.com/album/1TMCwsNUq63F8u5RzdBpBC) | 3:04 |
 | 41 | [Dheeme Dheeme](https://open.spotify.com/track/6K9H6SxVbG46qvlqmdNTIX) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Pati Patni Aur Woh](https://open.spotify.com/album/2dtaLu8M2DvzVM1IWDkYN7) | 2:57 |
-| 42 | [Hauli Hauli](https://open.spotify.com/track/4oU3ELywkFbHbHpqqBZYig) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mellowd](https://open.spotify.com/artist/765sINZXDvN3kcCgL4ekaN) | [De De Pyaar De](https://open.spotify.com/album/31lh22jsvWDf5ffgRAXaMs) | 3:29 |
+| 42 | [Hauli Hauli](https://open.spotify.com/track/4oU3ELywkFbHbHpqqBZYig) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [De De Pyaar De](https://open.spotify.com/album/31lh22jsvWDf5ffgRAXaMs) | 3:29 |
 | 43 | [Laal Ghaghra](https://open.spotify.com/track/3fpVYSLnxkadjYwQPTyo4H) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Manj Musik](https://open.spotify.com/artist/7IVzXMMN7fFi7PXxPhXcAB), [Herbie Sahara](https://open.spotify.com/artist/1SFZj1QftOmRhmnB7TgOlc) | [Laal Ghaghra \(From "Good Newwz"\)](https://open.spotify.com/album/61galBMmvNvVtuFjeRndZ4) | 4:28 |
 | 44 | [Chandigarh Mein](https://open.spotify.com/track/3Eb4VbsbXMpS5Mk9HWTDia) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Lisa Mishra](https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Chandigarh Mein \(From "Good Newwz"\)](https://open.spotify.com/album/5HjF2YHiOiQWQDeTsSXhnM) | 3:25 |
 | 45 | [Cutiepie](https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Pardeep Singh Sran](https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 3:51 |

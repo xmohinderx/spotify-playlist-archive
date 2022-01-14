@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Ay Dios Mio",
       "url": "https://open.spotify.com/track/2n4q1me7daB59UxsiMJi0n"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 152656,
       "name": "Banana",
       "url": "https://open.spotify.com/track/2BcL1wkyjPn8JGiDtSU5pD"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 176367,
       "name": "Belong with Me",
       "url": "https://open.spotify.com/track/3RvWNXxM9TCffELMiAtV19"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 165480,
       "name": "Budum",
       "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 210285,
       "name": "Designer",
       "url": "https://open.spotify.com/track/3x1MtkFUatkrMWvs0vyR7r"
@@ -493,7 +493,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 167966,
       "name": "Dumpling - dEVOLVE Remix",
       "url": "https://open.spotify.com/track/7weMVtvIvwNK6mqJd8BvNX"
@@ -595,7 +595,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 204500,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4C1Smq2t3MVOPzsUPWW0oX"
@@ -727,7 +727,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 206406,
       "name": "Get Paid",
       "url": "https://open.spotify.com/track/3CDFVcwAfqfgPz1p4R68bh"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 145671,
       "name": "Green Dreams",
       "url": "https://open.spotify.com/track/0fDkjehk7tnIvkjDwka5Fv"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 168751,
       "name": "Hard Drive",
       "url": "https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1"
@@ -859,7 +859,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 165534,
       "name": "Heavy!",
       "url": "https://open.spotify.com/track/6QQb9IsS797WWbHWgsyiQf"
@@ -921,7 +921,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 156765,
       "name": "Inches",
       "url": "https://open.spotify.com/track/249LE3CJaJqTL6IKzX0Gn8"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 185103,
       "name": "LIGHTS",
       "url": "https://open.spotify.com/track/5NwpV8cS54Qr0Lxh4Qvfug"
@@ -1128,6 +1128,24 @@
     },
     {
       "album": {
+        "name": "Needle Eye - Single",
+        "url": "https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv"
+      },
+      "artists": [
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        }
+      ],
+      "date_added": "2021-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185626,
+      "name": "Needle Eye",
+      "url": "https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv"
+    },
+    {
+      "album": {
         "name": "The Red Room Intro (Yard Gyal Inna Britain)",
         "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
       },
@@ -1139,7 +1157,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 178376,
       "name": "No Gyal",
       "url": "https://open.spotify.com/track/1ImihjOlex6Hj7eH4Zhujs"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 141111,
       "name": "Pressure Dem",
       "url": "https://open.spotify.com/track/6UzhbdHb7d8DzlrXMpM7b4"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 150279,
       "name": "Pull Up to Mi Bumper",
       "url": "https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 154285,
       "name": "Rushing",
       "url": "https://open.spotify.com/track/5Ttn93s4gqOG3SwXJuppfa"
@@ -1411,7 +1429,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 183024,
       "name": "Senseless",
       "url": "https://open.spotify.com/track/20GrAO16fXHWO241JeYKWP"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193043,
       "name": "Sticks & Stones",
       "url": "https://open.spotify.com/track/0wMQptN6JvREl2YtONlENi"
@@ -1563,7 +1581,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 216886,
       "name": "Sweet Inspiration",
       "url": "https://open.spotify.com/track/3iZ9QBCxBJcKMqrighzSlB"
@@ -1671,7 +1689,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 191502,
       "name": "Toast",
       "url": "https://open.spotify.com/track/3VEpRXloN4rbzNRPSQzZFW"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Top Gyal",
       "url": "https://open.spotify.com/track/0aScqSccesEPFrw28mOije"
@@ -1935,7 +1953,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 209333,
       "name": "Wasteman",
       "url": "https://open.spotify.com/track/2qPSLoOyCXZyGB70Qf5H7K"

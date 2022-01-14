@@ -42,6 +42,24 @@
     },
     {
       "album": {
+        "name": "Ay Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3DraAOT7RGSJUxwyU18HmA"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190287,
+      "name": "Ay Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3DN6Gss0WIEMXc1AvnrAA5"
+    },
+    {
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -97,7 +115,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 205533,
       "name": "Cont\u00e1giate",
       "url": "https://open.spotify.com/track/2TDO45AdrOFAVgkRwRDVU3"
@@ -709,7 +727,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/00EPIEnX1JFjff8sC6bccd"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 207396,
       "name": "Puedo Sentirlo (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
@@ -946,6 +964,28 @@
     },
     {
       "album": {
+        "name": "Tiempo Pa Olvidar",
+        "url": "https://open.spotify.com/album/1odX16Hd8maqVuVuiFlGBd"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199521,
+      "name": "Tiempo Pa Olvidar",
+      "url": "https://open.spotify.com/track/69dNigIQhkCnL6pr7iRJPA"
+    },
+    {
+      "album": {
         "name": "Amanecer (Remixed)",
         "url": "https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA"
       },
@@ -961,7 +1001,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 251773,
       "name": "To My Love - Tainy Remix",
       "url": "https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx"
@@ -1053,6 +1093,46 @@
       "duration_ms": 215086,
       "name": "Una Vida Para Recordar",
       "url": "https://open.spotify.com/track/7pxL0DzPpCjjcdfQccvnus"
+    },
+    {
+      "album": {
+        "name": "Unica",
+        "url": "https://open.spotify.com/album/1Uat1dUvnse4TlneMoZT98"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219682,
+      "name": "Unica",
+      "url": "https://open.spotify.com/track/6752EZMgXswvRBH3N2PilO"
+    },
+    {
+      "album": {
+        "name": "Vas A Encontrarme",
+        "url": "https://open.spotify.com/album/78Pv0kAljrB27H31Vmpdcl"
+      },
+      "artists": [
+        {
+          "name": "Arevalo",
+          "url": "https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G"
+        },
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Vas A Encontrarme",
+      "url": "https://open.spotify.com/track/3wwbgv83ZFwYlPa2zlRQJ9"
     },
     {
       "album": {

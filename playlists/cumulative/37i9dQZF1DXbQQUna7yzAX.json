@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9"
+    },
+    {
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/7cxJkNduZUo9HIhuKxC2pj"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 176988,
       "name": "fleabag",
       "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"

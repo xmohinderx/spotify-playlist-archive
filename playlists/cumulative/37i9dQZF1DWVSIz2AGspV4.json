@@ -196,6 +196,24 @@
     },
     {
       "album": {
+        "name": "Ana Almumayaz",
+        "url": "https://open.spotify.com/album/5F4UqeZgtGS1hbhr19Y91K"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al-Abdullah",
+          "url": "https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229761,
+      "name": "Ana Almumayaz",
+      "url": "https://open.spotify.com/track/0IgZOwXy1eHCKEdSnZqeeB"
+    },
+    {
+      "album": {
         "name": "Ana El3efetkom",
         "url": "https://open.spotify.com/album/1P4UprIAR5EC70frF77GII"
       },
@@ -290,6 +308,24 @@
     },
     {
       "album": {
+        "name": "Argalak Kama Kont",
+        "url": "https://open.spotify.com/album/5u6ahHa7QC2LmKa3oOwHfE"
+      },
+      "artists": [
+        {
+          "name": "Mohamed AlSalim",
+          "url": "https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182449,
+      "name": "Argalak Kama Kont",
+      "url": "https://open.spotify.com/track/2zmQqYm3VvOXtpom1g2N2g"
+    },
+    {
+      "album": {
         "name": "Asab Khabar",
         "url": "https://open.spotify.com/album/42g8gRlw4AnIfKwGjSUQsJ"
       },
@@ -373,7 +409,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 144466,
       "name": "Bip Bip",
       "url": "https://open.spotify.com/track/73XuHgCCWeG9xVQTGGfyxR"
@@ -507,7 +543,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 246073,
       "name": "El Zorof",
       "url": "https://open.spotify.com/track/1l4uvmncXoL2a8rGBTp85J"
@@ -983,7 +1019,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 167880,
       "name": "Shftk",
       "url": "https://open.spotify.com/track/344n9BZhttkQXHYPQiqscc"
@@ -1001,10 +1037,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 208269,
       "name": "Shkad Helw",
       "url": "https://open.spotify.com/track/29hXhjoSoGg8NUEPKig2am"
+    },
+    {
+      "album": {
+        "name": "Shqed Ahtajlk",
+        "url": "https://open.spotify.com/album/6k6itTk9EeV5yddkYUIpIc"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Jawad",
+          "url": "https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198347,
+      "name": "Shqed Ahtajlk",
+      "url": "https://open.spotify.com/track/4y5RoSOGGB9XS54cO1No8o"
     },
     {
       "album": {
@@ -1197,6 +1251,28 @@
       "duration_ms": 272111,
       "name": "\u0634\u064a \u062e\u064a\u0627\u0644\u064a",
       "url": "https://open.spotify.com/track/7vY3YrizWZrTxUvrpkOiPl"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0645\u0631\u064a \u0645\u0639\u0627\u0647",
+        "url": "https://open.spotify.com/album/3GKBk0aFdDA9JcyNIvPEZN"
+      },
+      "artists": [
+        {
+          "name": "Muhanad Asir",
+          "url": "https://open.spotify.com/artist/6ZHUebEY5oYuWHCif6ETjK"
+        },
+        {
+          "name": "Nour Al Zain",
+          "url": "https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232454,
+      "name": "\u0639\u0645\u0631\u064a \u0645\u0639\u0627\u0647",
+      "url": "https://open.spotify.com/track/5FocyaDKGbWXWHmX9rESXS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4"

@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 303373,
       "name": "A Song For Mama",
       "url": "https://open.spotify.com/track/32CQWBswlvCIDt7pKRjyRj"
@@ -435,7 +435,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 282040,
       "name": "As",
       "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 291133,
       "name": "Cose della vita (Can't Stop Thinking of You)",
       "url": "https://open.spotify.com/track/63RAhyfI3l2612x8q53BOh"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 281840,
       "name": "Crash and Burn",
       "url": "https://open.spotify.com/track/5K42nFG0GelzG7oESUf7uj"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 200293,
       "name": "Crush",
       "url": "https://open.spotify.com/track/0wlU3AK6gdsJUcf6pvyaTp"
@@ -945,7 +945,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 263000,
       "name": "Don't Speak",
       "url": "https://open.spotify.com/track/7H8zey5My6uNdD2TxeCb9F"
@@ -1075,7 +1075,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 258240,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/1S1TItTK7HaRDnfj1vZ80Q"
@@ -1331,7 +1331,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 336160,
       "name": "Heaven For Everyone - Remastered 2011",
       "url": "https://open.spotify.com/track/3Klfd4rsRO53fYpxmdQmYV"
@@ -1421,7 +1421,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 262200,
       "name": "Home",
       "url": "https://open.spotify.com/track/4QwkQu5sOkGel6S2b7ZYn6"
@@ -1739,7 +1739,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 306560,
       "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
       "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
@@ -2319,7 +2319,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 221160,
       "name": "More Than Words - Radio Edit",
       "url": "https://open.spotify.com/track/4sagNFI6iRtqK0bYxZ1yQY"
@@ -2435,6 +2435,24 @@
       "duration_ms": 274266,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
+    },
+    {
+      "album": {
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440466,
+      "name": "No Ordinary Love",
+      "url": "https://open.spotify.com/track/1oaaSrDJimABpOdCEbw2DJ"
     },
     {
       "album": {
@@ -2907,7 +2925,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 266026,
       "name": "Senza Una Donna - English Version",
       "url": "https://open.spotify.com/track/5Z19GK3mj0wrb4jMnjiE0D"
@@ -3095,7 +3113,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 267133,
       "name": "Stay Another Day",
       "url": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
@@ -3369,7 +3387,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 272933,
       "name": "The Hardest Thing",
       "url": "https://open.spotify.com/track/5fa6K4cBjQKSqz1FitiPX9"
@@ -3921,7 +3939,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 279893,
       "name": "Wish I Could Fly",
       "url": "https://open.spotify.com/track/3DsKFBex062f7djcmXXtlh"

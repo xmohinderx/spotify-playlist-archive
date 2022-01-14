@@ -1,103 +1,31 @@
 {
   "description": "Start your morning right with this collection of funky, soulful, jazzy tunes!",
   "name": "Morning Rhythm",
-  "num_followers": 286359,
+  "num_followers": 286700,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgyNzE4MywwMDAwMDA1YTAwMDAwMTdlNDQ4NmFhNWIwMDAwMDE2ZDE1MmE3ZDIy",
+  "snapshot_id": "MTY0MjExNDkyMCwwMDAwMDA1YjAwMDAwMTdlNTVhZDJlYjAwMDAwMDE2ZDE1MmE3ZDIy",
   "tracks": [
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "Imagineering",
-        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+        "name": "Mile High",
+        "url": "https://open.spotify.com/album/0q4am7IpBH0w8vgwVyoMCM"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
         }
       ],
-      "duration_ms": 274973,
-      "name": "Imagineering",
-      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
+      "duration_ms": 222634,
+      "name": "Mile High",
+      "url": "https://open.spotify.com/track/1Qxqg9EGoPS9vaGsK6S3lG"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "King's Disease II",
-        "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282192,
-      "name": "Nobody (feat. Ms. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Elusive",
-        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
-      },
-      "artists": [
-        {
-          "name": "blackwave.",
-          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
-        },
-        {
-          "name": "David Ngyah",
-          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "Elusive",
-      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6ByZxyEnEtLSFqJUmXVdTP"
-      },
-      "artists": [
-        {
-          "name": "Nicole Bus",
-          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Oil Slick",
-        "url": "https://open.spotify.com/album/1Asx3fZ3sQVDwzqiuwSKbO"
-      },
-      "artists": [
-        {
-          "name": "Duoya",
-          "url": "https://open.spotify.com/artist/1flwnAZl5wFL9AforlVMDd"
-        }
-      ],
-      "duration_ms": 181011,
-      "name": "Oil Slick",
-      "url": "https://open.spotify.com/track/4dLMspbmxpSvjG2rH0uofK"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Original Songs and Sound (Deluxe Version)",
         "url": "https://open.spotify.com/album/09wgEiUurhXuqsEOrpk1ud"
@@ -117,7 +45,79 @@
       "url": "https://open.spotify.com/track/2luK9cqWdNKliKj7xQVaa3"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Love Falls Down",
+        "url": "https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ"
+      },
+      "artists": [
+        {
+          "name": "Poppy Ajudha",
+          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
+        }
+      ],
+      "duration_ms": 315983,
+      "name": "Love Falls Down",
+      "url": "https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Durand Jones & The Indications (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        }
+      ],
+      "duration_ms": 209230,
+      "name": "Make a Change",
+      "url": "https://open.spotify.com/track/1EKAEKLKc9hi6x8bjgTT9T"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "King's Disease II",
+        "url": "https://open.spotify.com/album/6CM5qhYBvpgYNek5kYwuOJ"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282192,
+      "name": "Nobody (feat. Ms. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/1W7gmQ7AgRMIUthrV0OD0h"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Good Morning",
+        "url": "https://open.spotify.com/album/7HMmYIvxb5w3Ql5n6CMR2U"
+      },
+      "artists": [
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Mndsgn",
+          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
+        }
+      ],
+      "duration_ms": 205751,
+      "name": "Good Morning (Mndsgn Remix)",
+      "url": "https://open.spotify.com/track/7qzCsFUXg9ov9eQ78BQQdl"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
@@ -137,7 +137,91 @@
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Elusive",
+        "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
+      },
+      "artists": [
+        {
+          "name": "blackwave.",
+          "url": "https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD"
+        },
+        {
+          "name": "David Ngyah",
+          "url": "https://open.spotify.com/artist/2HkyxGmwcNwdXWOawm0J8c"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "Elusive",
+      "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6ByZxyEnEtLSFqJUmXVdTP"
+      },
+      "artists": [
+        {
+          "name": "Nicole Bus",
+          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5wUBONclIQRIFrsPzW5TiY"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Sintha",
+        "url": "https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU"
+      },
+      "artists": [
+        {
+          "name": "Bnnyhunna",
+          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
+        }
+      ],
+      "duration_ms": 233482,
+      "name": "honest",
+      "url": "https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 123141,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Oil Slick",
+        "url": "https://open.spotify.com/album/1Asx3fZ3sQVDwzqiuwSKbO"
+      },
+      "artists": [
+        {
+          "name": "Duoya",
+          "url": "https://open.spotify.com/artist/1flwnAZl5wFL9AforlVMDd"
+        }
+      ],
+      "duration_ms": 181011,
+      "name": "Oil Slick",
+      "url": "https://open.spotify.com/track/4dLMspbmxpSvjG2rH0uofK"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Bussin'",
         "url": "https://open.spotify.com/album/5ZOHGWB0OgDwVMojCv2vNR"
@@ -157,39 +241,7 @@
       "url": "https://open.spotify.com/track/3JPFtBDSWygqLCZ07DVsNQ"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Sintha",
-        "url": "https://open.spotify.com/album/5nnsr7zbNqhtBUXl0vlQUU"
-      },
-      "artists": [
-        {
-          "name": "Bnnyhunna",
-          "url": "https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD"
-        }
-      ],
-      "duration_ms": 233482,
-      "name": "honest",
-      "url": "https://open.spotify.com/track/1g8U8GIX2S3g3M8H2MtSpO"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Love Falls Down",
-        "url": "https://open.spotify.com/album/08WEyVCx9yGsm8as4jbyOZ"
-      },
-      "artists": [
-        {
-          "name": "Poppy Ajudha",
-          "url": "https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl"
-        }
-      ],
-      "duration_ms": 315983,
-      "name": "Love Falls Down",
-      "url": "https://open.spotify.com/track/5X5XhvErlZwcy9Mj0O2aVV"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Wish The Love Never Died",
         "url": "https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP"
@@ -205,7 +257,7 @@
       "url": "https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Queen & Slim: The Soundtrack",
         "url": "https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM"
@@ -225,7 +277,7 @@
       "url": "https://open.spotify.com/track/54SqlaPV5mzRTBBWdnE1OO"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Traingazing",
         "url": "https://open.spotify.com/album/5r9C08yALmCzzArnWeoxHC"
@@ -245,23 +297,39 @@
       "url": "https://open.spotify.com/track/1QIIQ1B2syNBSvQULkXgTa"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "Mile High",
-        "url": "https://open.spotify.com/album/0q4am7IpBH0w8vgwVyoMCM"
+        "name": "The Loneliest Thing",
+        "url": "https://open.spotify.com/album/3ks4LGMZiJQJlU0my9bFfl"
       },
       "artists": [
         {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
         }
       ],
-      "duration_ms": 222634,
-      "name": "Mile High",
-      "url": "https://open.spotify.com/track/1Qxqg9EGoPS9vaGsK6S3lG"
+      "duration_ms": 179772,
+      "name": "The Loneliest Thing",
+      "url": "https://open.spotify.com/track/4k5TtH1KiIh13ElOttHWg7"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Imagineering",
+        "url": "https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 274973,
+      "name": "Imagineering",
+      "url": "https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "All Rise (Deluxe)",
         "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
@@ -277,7 +345,7 @@
       "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Memories of Love",
         "url": "https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa"
@@ -293,7 +361,7 @@
       "url": "https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "TTWL / TIBBE",
         "url": "https://open.spotify.com/album/4PCiw9zO0xQbymk38A1Giq"
@@ -309,7 +377,7 @@
       "url": "https://open.spotify.com/track/1dDlUI0TJwXCS7CVf4bMqn"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Futurity",
         "url": "https://open.spotify.com/album/4HasQy2DqL3IGHXn50QGGi"
@@ -325,7 +393,7 @@
       "url": "https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "The Optimist",
         "url": "https://open.spotify.com/album/2ElHab0qhKWa2W2l601M3u"
@@ -341,7 +409,7 @@
       "url": "https://open.spotify.com/track/6yefcxg5NPvCNPavfcq1VY"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/6P9qlf4qE0QkQ58yTaQnUK"
@@ -357,7 +425,7 @@
       "url": "https://open.spotify.com/track/1qPxBxzTbnJ7PCVAyBsy1R"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Free Nationals",
         "url": "https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN"
@@ -377,7 +445,7 @@
       "url": "https://open.spotify.com/track/1CbxG199T0fzfUV5EO7aPV"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Black Acid Soul",
         "url": "https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV"
@@ -393,7 +461,7 @@
       "url": "https://open.spotify.com/track/3Td12QdISvxCc924l70f8n"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Be",
         "url": "https://open.spotify.com/album/2UuvBxV56QWWj2uviGS0up"
@@ -409,23 +477,7 @@
       "url": "https://open.spotify.com/track/4JNTpbntShpUpACDUzwHV5"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Jim",
-        "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lidell",
-          "url": "https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI"
-        }
-      ],
-      "duration_ms": 228906,
-      "name": "Another Day",
-      "url": "https://open.spotify.com/track/65N5mnAk0WOubXkCryAxEe"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Jusqu'ici tout va bien",
         "url": "https://open.spotify.com/album/2KoENXX9CeFjHTuwsV7AUT"
@@ -441,7 +493,7 @@
       "url": "https://open.spotify.com/track/4Enwbl0M7hXUU9gYf6l928"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Everchanging Times",
         "url": "https://open.spotify.com/album/09UhH5tXg4GPRG38bsD7yd"
@@ -461,7 +513,7 @@
       "url": "https://open.spotify.com/track/7cRhOk7j7jxXZpsX0s3TA5"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Tomb for Rockets",
         "url": "https://open.spotify.com/album/79jX3JZYuclV2c90zJbCvG"
@@ -477,7 +529,23 @@
       "url": "https://open.spotify.com/track/61qAqFcfogzqpJ9IW9lUW3"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Jim",
+        "url": "https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lidell",
+          "url": "https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI"
+        }
+      ],
+      "duration_ms": 228906,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/65N5mnAk0WOubXkCryAxEe"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Belong To You",
         "url": "https://open.spotify.com/album/4zvlLzjTjhSzZeINzOcp5Q"
@@ -493,7 +561,7 @@
       "url": "https://open.spotify.com/track/6pda92NQRMnWwbOgQhYhtw"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "No Reply",
         "url": "https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ"
@@ -509,7 +577,7 @@
       "url": "https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Nothing Can Tear Us Apart",
         "url": "https://open.spotify.com/album/41CHRf8V6yv9x53IQbN4Fp"
@@ -529,7 +597,7 @@
       "url": "https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Heritage (Reissue)",
         "url": "https://open.spotify.com/album/2BtLI4D4seuSwWDaAu8L9z"
@@ -545,7 +613,7 @@
       "url": "https://open.spotify.com/track/0fEcztdrrEaiBpEVkfggd2"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "St. Louis Breakdown - The Best of Oliver Sain",
         "url": "https://open.spotify.com/album/483oHnr24zOHgqbTDWCX9V"
@@ -561,7 +629,7 @@
       "url": "https://open.spotify.com/track/3aTv2MzcK17DfHzcUCyte1"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR"
@@ -577,7 +645,7 @@
       "url": "https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Moonlove",
         "url": "https://open.spotify.com/album/3R5O4b6IHNBHfmz4QW2pN3"
@@ -597,7 +665,7 @@
       "url": "https://open.spotify.com/track/4tEOo7B5elipkDbdQ59JOp"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "French Kiwi Juice",
         "url": "https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi"
@@ -613,7 +681,7 @@
       "url": "https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "HERE",
         "url": "https://open.spotify.com/album/66RQAPD5x5nQgQzOa0X3sz"
@@ -633,7 +701,7 @@
       "url": "https://open.spotify.com/track/5urU79wSXrxVUhQAYYNWnF"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Neon Noir",
         "url": "https://open.spotify.com/album/5dQ3Erj2BjGL1XjCL9PS5i"
@@ -649,7 +717,7 @@
       "url": "https://open.spotify.com/track/36YNheAQ0FKZ4I9qaYIY6P"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/4THpDYXZbqfMLYnQvoPs1t"
@@ -665,7 +733,7 @@
       "url": "https://open.spotify.com/track/3JLzTwLuKBTcxrua5PeLfV"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "12 AM in Bali",
         "url": "https://open.spotify.com/album/0CR6gZNeIMt8OBrD7In5AH"
@@ -685,7 +753,7 @@
       "url": "https://open.spotify.com/track/5fVDAO6wDRWdC9xGSYxx3Q"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Mixer",
         "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
@@ -701,7 +769,7 @@
       "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "S/t",
         "url": "https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs"
@@ -721,7 +789,7 @@
       "url": "https://open.spotify.com/track/2Vr3sHONmr4oBHkim59hAw"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Strength",
         "url": "https://open.spotify.com/album/4Huxzz9yjgdsDS0V2zQS19"
@@ -737,7 +805,7 @@
       "url": "https://open.spotify.com/track/0nnocliX58UkQQf0Ayl2kU"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Soul Food: Cooking With Maceo",
         "url": "https://open.spotify.com/album/1nI2mxpnTcJsPjFh4ORf5E"
@@ -753,7 +821,7 @@
       "url": "https://open.spotify.com/track/7GO7XfiDsUysp4MMkdCiXo"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr"
@@ -773,7 +841,7 @@
       "url": "https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Side by Side",
         "url": "https://open.spotify.com/album/5ckS8CEIF5eye3dcnfbd4Y"
@@ -789,7 +857,7 @@
       "url": "https://open.spotify.com/track/032JVeAfSSc7XK3bTZqK0z"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Smooth Move",
         "url": "https://open.spotify.com/album/6o9IZz9yXexSURHtYenXSa"
@@ -805,7 +873,7 @@
       "url": "https://open.spotify.com/track/6WFwC46XQapcmnToEcromu"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Sometimes a Rose Will Grow in Concrete",
         "url": "https://open.spotify.com/album/3chmdwfbZAG2YxZTtoTv6f"
@@ -821,7 +889,7 @@
       "url": "https://open.spotify.com/track/5mc98yTbpJAwgpCGRRlB0l"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Still Broke (Keyon's Cocktail Mix)",
         "url": "https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx"
@@ -841,7 +909,7 @@
       "url": "https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Do You?",
         "url": "https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB"
@@ -861,7 +929,7 @@
       "url": "https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "LIA",
         "url": "https://open.spotify.com/album/0Om8IQImnBm0g7SGKMfn3m"
@@ -877,7 +945,7 @@
       "url": "https://open.spotify.com/track/4igMWltZhzr97iuC8YwJPk"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
@@ -893,7 +961,7 @@
       "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Unweaving the Rainbow Forever",
         "url": "https://open.spotify.com/album/3pY3Al7uDtfIaoayZ6KwEV"
@@ -909,7 +977,7 @@
       "url": "https://open.spotify.com/track/4Yu599Am0GHlAMsnq158GD"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Durand Jones & The Indications (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
@@ -925,7 +993,7 @@
       "url": "https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Still Growing",
         "url": "https://open.spotify.com/album/4yNBRf4JRiowAEoyhrxSQ0"
@@ -945,7 +1013,7 @@
       "url": "https://open.spotify.com/track/37jMCyGpHpwvv8ePVReFGl"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Underneath the Surface",
         "url": "https://open.spotify.com/album/6rIB87G63Jsdvg67vbHm35"
@@ -961,7 +1029,7 @@
       "url": "https://open.spotify.com/track/5Rc3pgfumRrE6b67rBAsi2"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Good to Be Home (feat. Tom Misch, Loyle Carner & Rebel Kleff)",
         "url": "https://open.spotify.com/album/5tbvov0fii1eMXkTYZmVdp"
@@ -989,7 +1057,7 @@
       "url": "https://open.spotify.com/track/2Sh3g3NaqkD23mZ6Ugfrsq"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Hurt",
         "url": "https://open.spotify.com/album/1tKobwujSCKXeHTMmbwpfJ"
@@ -1005,7 +1073,7 @@
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Festival International Nuits d'Afrique - Compilation 2017 - 31e \u00e9dition",
         "url": "https://open.spotify.com/album/7EyaIPE1msXaUeFthTUh6B"
@@ -1021,7 +1089,7 @@
       "url": "https://open.spotify.com/track/3sAy4CeesQ2DphWNtckNjW"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Make It Better (feat. Smokey Robinson)",
         "url": "https://open.spotify.com/album/2uiF3HvWDxAMupxCZ8t1VY"
@@ -1041,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0BhvzFxq3FHiMdGcLiTphr"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Everlasting",
         "url": "https://open.spotify.com/album/6qKrcLdkdpGLuPzN0i4oTJ"
@@ -1065,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "The Ballad",
         "url": "https://open.spotify.com/album/3T5WVhwAhBCF6M2ucACkka"
@@ -1089,7 +1157,7 @@
       "url": "https://open.spotify.com/track/1U0pbxsCfQdy7f4XQ1cdYB"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Rehearsal @ NINE",
         "url": "https://open.spotify.com/album/0OuulKxtN62xqKGGmH3f9I"
@@ -1105,7 +1173,7 @@
       "url": "https://open.spotify.com/track/5zUd51f2ARySiVvA1J43B9"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "New Day (Otis Parham)",
         "url": "https://open.spotify.com/album/03ytEPT6foahNKKrJMoGgm"
@@ -1121,7 +1189,7 @@
       "url": "https://open.spotify.com/track/4Za8yDzEhc8uZMBQRkiaGr"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Escape Velocity",
         "url": "https://open.spotify.com/album/3VlHCSdtb0nKYFXMJmABEA"
@@ -1137,7 +1205,7 @@
       "url": "https://open.spotify.com/track/0uTdYqGBYFbtqVW5Bh5MH1"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Hopscotch",
         "url": "https://open.spotify.com/album/3rX0StGwVF3griwE7wEdq5"
@@ -1153,7 +1221,7 @@
       "url": "https://open.spotify.com/track/6k8Ma4BHrQhzF71ogxpKhI"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/0KiANF0hNVLXbL9HHwFFpB"
@@ -1169,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3W87VCtPfwh9Kr0SGRRKHG"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Ain't That Somethin'",
         "url": "https://open.spotify.com/album/6RlS5tZbxU06yoAxpQiKoE"
@@ -1185,7 +1253,7 @@
       "url": "https://open.spotify.com/track/0UD3irWPjn3FrropsoPsW2"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Built That Way",
         "url": "https://open.spotify.com/album/3LjVKxTn9xZHIaHASidqyU"
@@ -1201,7 +1269,7 @@
       "url": "https://open.spotify.com/track/5qe9D2JqiNkhHksPhkVl0y"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Upside",
         "url": "https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1"
@@ -1217,7 +1285,7 @@
       "url": "https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Music for Robots",
         "url": "https://open.spotify.com/album/63Op2LSvKkLkbKxTIUkwwc"
@@ -1233,7 +1301,7 @@
       "url": "https://open.spotify.com/track/2oy3lFLrv7iO7XqhvEpBLB"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd"
@@ -1249,27 +1317,7 @@
       "url": "https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Good Morning",
-        "url": "https://open.spotify.com/album/7HMmYIvxb5w3Ql5n6CMR2U"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "Mndsgn",
-          "url": "https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26"
-        }
-      ],
-      "duration_ms": 205751,
-      "name": "Good Morning (Mndsgn Remix)",
-      "url": "https://open.spotify.com/track/7qzCsFUXg9ov9eQ78BQQdl"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/4kdHU46cLDeOIwOjlRpbAf"
@@ -1289,7 +1337,7 @@
       "url": "https://open.spotify.com/track/6L3Vs1lEEAPXRiIdJiGHIc"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4NxOn5zVNIZiLODN8t5hbb"
@@ -1305,7 +1353,7 @@
       "url": "https://open.spotify.com/track/4nSO7iKiwPj4wJjylLCu0s"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Resonate",
         "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
@@ -1321,7 +1369,7 @@
       "url": "https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Velvet Portraits",
         "url": "https://open.spotify.com/album/4PCIOf8X75vWdD1PbLpg3c"
@@ -1337,7 +1385,7 @@
       "url": "https://open.spotify.com/track/079mLSjKkiSnpcSueMrNtQ"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Naturally",
         "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
@@ -1353,7 +1401,7 @@
       "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Juicy Fruit",
         "url": "https://open.spotify.com/album/7Ih98kmIPJCsXcgrikcmoq"
@@ -1377,7 +1425,7 @@
       "url": "https://open.spotify.com/track/1l1oUS33fGuK1YKThB1bWD"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Soul Food",
         "url": "https://open.spotify.com/album/2htOZn8am6ef2XY9FVWusV"
@@ -1393,7 +1441,7 @@
       "url": "https://open.spotify.com/track/445dqIqkN3pgi73mldzj4K"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "The Lost and Found",
         "url": "https://open.spotify.com/album/0zf7XCW761Gswh5sxQBduz"
@@ -1409,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0rEVw979CI6wMZb3snSE7K"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Trouvaille",
         "url": "https://open.spotify.com/album/6F2fZ3MwKPvmP9lcY5Sqtj"
@@ -1425,7 +1473,7 @@
       "url": "https://open.spotify.com/track/1ITkbRFUUIg09wWxUGWxZ1"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Pineapple",
         "url": "https://open.spotify.com/album/3mNHIoFeYbiEHNnMjrcRQF"
@@ -1449,7 +1497,7 @@
       "url": "https://open.spotify.com/track/40TMWT4FHQKrbb6NgfWAJ5"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Best Is Yet To Come",
         "url": "https://open.spotify.com/album/2ZZ4BzqReo975qepeM0YTT"
@@ -1465,7 +1513,7 @@
       "url": "https://open.spotify.com/track/03oKPuz3ykdddqan4z743d"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Do You Really",
         "url": "https://open.spotify.com/album/176nPDYntjkybucUj1VlJt"
@@ -1481,7 +1529,7 @@
       "url": "https://open.spotify.com/track/4vt4JoGfQ1QaDeHXKxTpUI"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Speak Up EP",
         "url": "https://open.spotify.com/album/3D53Q7mIXqlu40HW1jerWY"
@@ -1497,23 +1545,7 @@
       "url": "https://open.spotify.com/track/3dXoXjTSjbcR1IVYUdo9YI"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
-      "album": {
-        "name": "Durand Jones & The Indications (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        }
-      ],
-      "duration_ms": 209230,
-      "name": "Make a Change",
-      "url": "https://open.spotify.com/track/1EKAEKLKc9hi6x8bjgTT9T"
-    },
-    {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "The Gumption",
         "url": "https://open.spotify.com/album/7GuUikcFr7yABSMwse3beG"
@@ -1529,7 +1561,7 @@
       "url": "https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV"
     },
     {
-      "added_at": "2021-12-28 14:21:20",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Influence EP",
         "url": "https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "<a href=\"spotify:artist:2Kx7MNY7cI1ENniW7vT30N\">Norah Jones</a> is taking over this holiday edition of Digs Jazz to share her jazzy Christmas favorites.",
-  "name": "Norah Jones Digs Jazz",
+  "description": "<a href=\"spotify:artist:3ycxRkcZ67ALN3GQJ57Vig\">Masego</a> shares his jazz favorites",
+  "name": "Masego Digs Jazz",
   "published_playlist_ids": [
     "3ywwixUqeVJzS3Bjhjqy1r"
   ],
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 196440,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/2xoTSMtigVw64fJ9Ff5Tlk"
@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 203640,
       "name": "At the Christmas Ball - 78rpm Version",
       "url": "https://open.spotify.com/track/6ycfiLUZd4v3BG0guw3KWd"
@@ -63,28 +63,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 360133,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG"
     },
     {
       "album": {
-        "name": "I Dream Of Christmas",
-        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+        "name": "Power To The People [Keepnews Collection] (Remastered)",
+        "url": "https://open.spotify.com/album/4ZlES861bCGKTdlHUto1Gv"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "date_added": "2021-12-10",
+      "date_added": "2022-01-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 204824,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/42JEFCiW1AOrg6bh2vK1bC"
+      "duration_ms": 291653,
+      "name": "Black Narcissus",
+      "url": "https://open.spotify.com/track/3IbZO1Ml6LyntT83JZ2VG4"
+    },
+    {
+      "album": {
+        "name": "Blue Break Beats",
+        "url": "https://open.spotify.com/album/3qCbEDmne9t6hDBFRVQ6fK"
+      },
+      "artists": [
+        {
+          "name": "Bobbi Humphrey",
+          "url": "https://open.spotify.com/artist/0JbqyQSsMK7TavqlR0yNON"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280866,
+      "name": "Blacks And Blues",
+      "url": "https://open.spotify.com/track/4yMgqtPHqNZMBeg4yeZ8Ll"
     },
     {
       "album": {
@@ -99,7 +117,65 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
+      "duration_ms": 204824,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/42JEFCiW1AOrg6bh2vK1bC"
+    },
+    {
+      "album": {
+        "name": "Eastern Sounds",
+        "url": "https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 334813,
+      "name": "Blues For The Orient - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/5mbUj1YVHxVzEsSqvGMS6T"
+    },
+    {
+      "album": {
+        "name": "Oscar Peterson Trio Plus One",
+        "url": "https://open.spotify.com/album/7DOxP9bCymrwtsE3sXZ2rp"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214946,
+      "name": "Brotherhood Of Man",
+      "url": "https://open.spotify.com/track/2vAldccB7bRPaHdYG7Oohk"
+    },
+    {
+      "album": {
+        "name": "I Dream Of Christmas",
+        "url": "https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2021-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
       "duration_ms": 160290,
       "name": "Christmas Don't Be Late",
       "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
@@ -121,7 +197,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 174893,
       "name": "Christmas In New Orleans",
       "url": "https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd"
@@ -143,7 +219,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 160893,
       "name": "Christmas Night In Harlem - Single Version",
       "url": "https://open.spotify.com/track/4et2aXrKUl6RJErX9XHFkj"
@@ -161,10 +237,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 166386,
       "name": "Christmas Time Is Here - Vocal",
       "url": "https://open.spotify.com/track/299lFlaAsNQdgbIZNPmIA0"
+    },
+    {
+      "album": {
+        "name": "Afro",
+        "url": "https://open.spotify.com/album/5ox3rUiRPzHdYPsICnq8hh"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305066,
+      "name": "Con Alma",
+      "url": "https://open.spotify.com/track/7wyznHrs1tQaeLMRdteaEh"
     },
     {
       "album": {
@@ -183,7 +277,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 175293,
       "name": "Cool Yule",
       "url": "https://open.spotify.com/track/7vdhrD3M8x6jdIIjREFxwS"
@@ -201,10 +295,152 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 174640,
       "name": "Don't Put All Your Dreams In One Basket - Original",
       "url": "https://open.spotify.com/track/41HAw9ecN7cut8OsemKDIo"
+    },
+    {
+      "album": {
+        "name": "Tarika Blue",
+        "url": "https://open.spotify.com/album/7HAwI2tHY7ReYr2pjg4eWT"
+      },
+      "artists": [
+        {
+          "name": "Tarika Blue",
+          "url": "https://open.spotify.com/artist/5lq6V5V6D0zzfClxSPzV4G"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255533,
+      "name": "Dreamflower",
+      "url": "https://open.spotify.com/track/4iyH37AHAkYK1MVhveeqcm"
+    },
+    {
+      "album": {
+        "name": "Members Don't Get Weary",
+        "url": "https://open.spotify.com/album/4IsvKtWOhpW3iutOJ8pU96"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381066,
+      "name": "Equipoise",
+      "url": "https://open.spotify.com/track/3gvQD27MucPhSDt2aYldtC"
+    },
+    {
+      "album": {
+        "name": "Money Jungle",
+        "url": "https://open.spotify.com/album/5I3aoewqDpP4TglIl9O7su"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Fleurette Africaine (African Flower) - Remastered",
+      "url": "https://open.spotify.com/track/4Keh41jYFaVPP5C82DxmTG"
+    },
+    {
+      "album": {
+        "name": "Garden Party",
+        "url": "https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229025,
+      "name": "Garden Party",
+      "url": "https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC"
+    },
+    {
+      "album": {
+        "name": "The Shadow Do!",
+        "url": "https://open.spotify.com/album/2AauKBDUCS2pqo7QHruyOs"
+      },
+      "artists": [
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261079,
+      "name": "Gentle Smiles (Saxy)",
+      "url": "https://open.spotify.com/track/4fei1lcVQIfJXmkRqml1bp"
+    },
+    {
+      "album": {
+        "name": "Illumination!",
+        "url": "https://open.spotify.com/album/33Lr5tEByMXO35IEaCZg2X"
+      },
+      "artists": [
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+        },
+        {
+          "name": "Jimmy Garrison Sextet",
+          "url": "https://open.spotify.com/artist/6AkdhZR9b49kcH3AM4gx5B"
+        },
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386266,
+      "name": "Half And Half",
+      "url": "https://open.spotify.com/track/7c94mzjFi5Zyg4zK6BYWrF"
+    },
+    {
+      "album": {
+        "name": "Reaching Fourth",
+        "url": "https://open.spotify.com/album/23UBD7JIZA3av7B9XRxWCw"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner Trio",
+          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226733,
+      "name": "Have You Met Miss Jones",
+      "url": "https://open.spotify.com/track/4UkPxXIECTNDLAawA5zdsR"
     },
     {
       "album": {
@@ -219,7 +455,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 202903,
       "name": "I Dream Of Christmas",
       "url": "https://open.spotify.com/track/0OYglQniaQNazYF0fJblbV"
@@ -237,7 +473,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 125066,
       "name": "I Like A Sleighride (Jingle Bells)",
       "url": "https://open.spotify.com/track/3jheksJvnFHyorGydYuwuN"
@@ -255,10 +491,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 238706,
       "name": "I've Got My Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/5jZBn6jnhdZUGnpooAMnwF"
+    },
+    {
+      "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288666,
+      "name": "II B.S. - Edit",
+      "url": "https://open.spotify.com/track/1wVqyP5MC3wJmOvEk9e6Ts"
     },
     {
       "album": {
@@ -273,10 +527,32 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 179466,
       "name": "Jingle Bells - Single Version",
       "url": "https://open.spotify.com/track/0LL6w8slA8JaCpg0xoooY7"
+    },
+    {
+      "album": {
+        "name": "Journey in Satchidananda",
+        "url": "https://open.spotify.com/album/6zV55F6W8kh1qe8LHhqRbz"
+      },
+      "artists": [
+        {
+          "name": "Alice Coltrane",
+          "url": "https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr"
+        },
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396066,
+      "name": "Journey In Satchidananda",
+      "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
     },
     {
       "album": {
@@ -291,10 +567,82 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 164080,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
+    },
+    {
+      "album": {
+        "name": "The Blue Yusef Lateef",
+        "url": "https://open.spotify.com/album/4dpXhQvZAzAbti2Xpccnat"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452533,
+      "name": "Like It Is - Remastered",
+      "url": "https://open.spotify.com/track/23sTGlQIsLtAxKuJj9Ekrd"
+    },
+    {
+      "album": {
+        "name": "Backlash",
+        "url": "https://open.spotify.com/album/3pZiA4rrKQQP8ZXDAafgYj"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475200,
+      "name": "Little Sunflower",
+      "url": "https://open.spotify.com/track/1caaPKXsfmGTT1t5Zcu243"
+    },
+    {
+      "album": {
+        "name": "Astral Signal",
+        "url": "https://open.spotify.com/album/5NUnKImQvHXj3315ab9cjp"
+      },
+      "artists": [
+        {
+          "name": "Gene Harris",
+          "url": "https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Losalamitoslatinfunklovesong",
+      "url": "https://open.spotify.com/track/6fK7vB7NeJCSB4ZaLptgwW"
+    },
+    {
+      "album": {
+        "name": "The In Crowd (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2uTk68gta8bfoIS5cmO7zd"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429826,
+      "name": "Love Theme From Spartacus - Live At Bohemian Caverns, D.C./1965",
+      "url": "https://open.spotify.com/track/0BCJLiotCCrEiOzlTuXPIQ"
     },
     {
       "album": {
@@ -309,10 +657,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 275000,
       "name": "Maraba Blue",
       "url": "https://open.spotify.com/track/4TQ7mPGU4CNGi0u6Vab6p9"
+    },
+    {
+      "album": {
+        "name": "Mulatu Of Ethiopia",
+        "url": "https://open.spotify.com/album/2FBK03r5TaxQmWMqLuOdF7"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167933,
+      "name": "Mascaram Setaba - Stereo Master",
+      "url": "https://open.spotify.com/track/4hVZKH4EVNP3iLyaDLA3Eq"
     },
     {
       "album": {
@@ -327,10 +693,122 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 190800,
       "name": "May Everyday Be Christmas - Single Version",
       "url": "https://open.spotify.com/track/7i8rR9MZQT4vMVllpKSnZJ"
+    },
+    {
+      "album": {
+        "name": "Montara",
+        "url": "https://open.spotify.com/album/01GsxvwlAXZineSgxQXWR1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298373,
+      "name": "Montara",
+      "url": "https://open.spotify.com/track/46qrqcOlSXd70Sa0tuSYtv"
+    },
+    {
+      "album": {
+        "name": "The Sisters",
+        "url": "https://open.spotify.com/album/1yixr0hxXd5h9L9nOAMcBP"
+      },
+      "artists": [
+        {
+          "name": "Weldon Irvine",
+          "url": "https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199320,
+      "name": "Morning Sunrise",
+      "url": "https://open.spotify.com/track/5Fse8BFC410yZ4kpVqBCHt"
+    },
+    {
+      "album": {
+        "name": "Sunday At The Village Vanguard [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384880,
+      "name": "My Man's Gone Now - Live At The Village Vanguard, NYC; 6/25/1961",
+      "url": "https://open.spotify.com/track/1wCe7Rl3SRopd2hZxny2Zg"
+    },
+    {
+      "album": {
+        "name": "Studying Abroad: Extended Stay",
+        "url": "https://open.spotify.com/album/1S0yIZRDiFmqCQyTIEV175"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228453,
+      "name": "Mystery Lady",
+      "url": "https://open.spotify.com/track/0bkTdkWwGk3OGFX0afD3Wj"
+    },
+    {
+      "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/6CSRaAJ3krsCkhuMAzx4PD"
+      },
+      "artists": [
+        {
+          "name": "Jack Wilkins",
+          "url": "https://open.spotify.com/artist/6oalE1Ov29U9WBDn63puSu"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303798,
+      "name": "Naima",
+      "url": "https://open.spotify.com/track/0xIssCbOUcLdA4rulKT0sI"
+    },
+    {
+      "album": {
+        "name": "Misterioso",
+        "url": "https://open.spotify.com/album/6BRZLnJXeSWPq9IxGpsAZ7"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Quartet",
+          "url": "https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323826,
+      "name": "Nutty - Live At The Five Spot / August 7, 1958",
+      "url": "https://open.spotify.com/track/7tLnnR5K3BSqXsrF1bn0r6"
     },
     {
       "album": {
@@ -345,7 +823,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 309386,
       "name": "O Tannenbaum",
       "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
@@ -363,7 +841,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 160706,
       "name": "Ole Santa",
       "url": "https://open.spotify.com/track/2nEsAq4VBRb66rnO7RcGYZ"
@@ -381,10 +859,90 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 141733,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/57Ix0bAnWd48YhEAp9y20K"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428373,
+      "name": "People Music",
+      "url": "https://open.spotify.com/track/2QyQUMlvlmwUPhAop6akOT"
+    },
+    {
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/0AS7X92u3lhP5OLjhF7zsy"
+      },
+      "artists": [
+        {
+          "name": "The Blackbyrds",
+          "url": "https://open.spotify.com/artist/4nJ3J7RwgYmMARNAVrFb06"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Rock Creek Park",
+      "url": "https://open.spotify.com/track/2JgBVzKUpiMSxPb4H9tbQV"
+    },
+    {
+      "album": {
+        "name": "Thelonious Monk with John Coltrane (OJC Remaster)",
+        "url": "https://open.spotify.com/album/5WqkiRiXHyiML0QkLjqooy"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381520,
+      "name": "Ruby, My Dear",
+      "url": "https://open.spotify.com/track/1BMirA3vwj2NLamWkJsVYq"
+    },
+    {
+      "album": {
+        "name": "Cosmic Funk",
+        "url": "https://open.spotify.com/album/30LtufIpSliUjKbx0cAH1w"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Liston Smith",
+          "url": "https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK"
+        },
+        {
+          "name": "The Cosmic Echoes",
+          "url": "https://open.spotify.com/artist/1FoHP9nats6BdxFSE3b1sb"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492293,
+      "name": "Sais (Egypt)",
+      "url": "https://open.spotify.com/track/6hwTnyxSkOt1ZRsgm0b79V"
     },
     {
       "album": {
@@ -399,7 +957,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 206506,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
@@ -417,7 +975,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 255733,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/27N4Y24PdcXZtR4IJ40Fhz"
@@ -435,7 +993,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 386226,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/0yp7zmlUcv3kbX5Hlp1BDd"
@@ -453,10 +1011,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 158133,
       "name": "Snowfall",
       "url": "https://open.spotify.com/track/0sq2iicsovs8bgf3PS1LMC"
+    },
+    {
+      "album": {
+        "name": "Layers",
+        "url": "https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm"
+      },
+      "artists": [
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322080,
+      "name": "Sometimes I Cry",
+      "url": "https://open.spotify.com/track/6gA0ps6IzjBj7azFvWjWME"
+    },
+    {
+      "album": {
+        "name": "Gentle Eyes",
+        "url": "https://open.spotify.com/album/0GgRhNd77djlIJTndk2G1M"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268705,
+      "name": "Soulsides",
+      "url": "https://open.spotify.com/track/7njVyqzN7SfrGHvOo4hXGX"
     },
     {
       "album": {
@@ -471,10 +1065,50 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 185186,
       "name": "Sugar Rum Cherry (Dance of the Sugar-Plum Fairy)",
       "url": "https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0"
+    },
+    {
+      "album": {
+        "name": "Arthur Verocai",
+        "url": "https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Sylvia",
+      "url": "https://open.spotify.com/track/7gd7BDwZWjGXD6CfX7KQcF"
+    },
+    {
+      "album": {
+        "name": "Lady Lady",
+        "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301893,
+      "name": "Tadow",
+      "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
     },
     {
       "album": {
@@ -489,7 +1123,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You) - Remastered 1999",
       "url": "https://open.spotify.com/track/5xzETaJgoicv0snhKFwnfa"
@@ -507,10 +1141,64 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 172493,
       "name": "The Christmas Waltz",
       "url": "https://open.spotify.com/track/6bzD7osAJvk4TATjt5VcLQ"
+    },
+    {
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246706,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/4pE4hOljOyhO2k2Orj8QJf"
+    },
+    {
+      "album": {
+        "name": "Thembi",
+        "url": "https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy"
+      },
+      "artists": [
+        {
+          "name": "Pharoah Sanders",
+          "url": "https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424573,
+      "name": "Thembi",
+      "url": "https://open.spotify.com/track/5TNqSTLoOqIMBquCtFNV1E"
+    },
+    {
+      "album": {
+        "name": "Part IV",
+        "url": "https://open.spotify.com/album/03YrSwHWtPheg6ri0iMHUl"
+      },
+      "artists": [
+        {
+          "name": "Kora Jazz Trio",
+          "url": "https://open.spotify.com/artist/1ck3D175ipX5GLQm7I8F2c"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Via con me",
+      "url": "https://open.spotify.com/track/1HaDhTUVYLmjAIFAbwBJgm"
     },
     {
       "album": {
@@ -525,7 +1213,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 116840,
       "name": "Warm December",
       "url": "https://open.spotify.com/track/2iROyAbnuysW9CJPBdylzm"
@@ -547,7 +1235,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 200600,
       "name": "Where Or When",
       "url": "https://open.spotify.com/track/2AFLjcssAvJq62eeHZ0Q4q"
@@ -565,7 +1253,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 299666,
       "name": "White Christmas - Live / 1948",
       "url": "https://open.spotify.com/track/1ZdrZWcHz6bQvP0O3UiZIx"
@@ -583,10 +1271,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181453,
       "name": "Winter Wonderland - Single Version",
       "url": "https://open.spotify.com/track/1k494PhauiNL4sei8VWLYP"
+    },
+    {
+      "album": {
+        "name": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+        "url": "https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "Y\u00e8gell\u00e9 Tezeta",
+      "url": "https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4"

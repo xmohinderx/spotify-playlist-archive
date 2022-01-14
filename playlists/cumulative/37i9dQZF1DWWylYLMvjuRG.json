@@ -129,7 +129,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 144019,
       "name": "Attention - Bingo Players Remix",
       "url": "https://open.spotify.com/track/5C4m75xsAz2CK7USstvmRn"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 238493,
       "name": "Bananza (Belly Dancer)",
       "url": "https://open.spotify.com/track/0dNPpDFdvzj6XFIRzg2hmp"
@@ -345,7 +345,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 201254,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/4QTuyRQshEZYurtIDfE6g0"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/6tFFZ3OYoHbTolG08QsuBa"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 213293,
       "name": "Cooler Than Me - Single Mix",
       "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
@@ -719,7 +719,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 237266,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1vqT6w3wtW3UoF2JQOFqws"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 228826,
       "name": "Despacito - Remix",
       "url": "https://open.spotify.com/track/5CtI0qwDJkDQGwXD1H1cLb"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 211460,
       "name": "Don't Be so Hard on Yourself",
       "url": "https://open.spotify.com/track/0sUyqewVzwv0e5tK3hS6vJ"
@@ -1033,7 +1033,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 211975,
       "name": "Five More Hours",
       "url": "https://open.spotify.com/track/6YwLgicpvVuMt1eE2OldwQ"
@@ -1551,7 +1551,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 240617,
       "name": "IDGAF - Hazers Remix",
       "url": "https://open.spotify.com/track/0FlnsBDwPglenLJoQjPd4K"
@@ -1647,7 +1647,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 165461,
       "name": "Instruction",
       "url": "https://open.spotify.com/track/1yAVnDXvfUb1UnLtnBjttw"
@@ -1845,7 +1845,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 166138,
       "name": "Light It Up (feat. Nyla & Fuse ODG) [Remix]",
       "url": "https://open.spotify.com/track/1pjvlYOMIg1NhGQbM6iwrY"
@@ -1863,7 +1863,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 224693,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
@@ -2086,6 +2086,24 @@
     },
     {
       "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219159,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm"
+    },
+    {
+      "album": {
         "name": "New Rules (Remixes)",
         "url": "https://open.spotify.com/album/2BbQVcYZkoFpz2A60NAa9v"
       },
@@ -2101,7 +2119,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 280853,
       "name": "New Rules - KREAM Remix",
       "url": "https://open.spotify.com/track/4NkgQJFG0aDHXyylIGnmJ4"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
@@ -2489,7 +2507,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 205640,
       "name": "Pound The Alarm",
       "url": "https://open.spotify.com/track/5kcE7pp02ezLZaUbbMv3Iq"
@@ -2545,7 +2563,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 192946,
       "name": "Problem - Noodles & Devastator Remix",
       "url": "https://open.spotify.com/track/05iCwrGpNg0bw1x5KR3a0C"
@@ -2703,7 +2721,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 273230,
       "name": "Rude - Zedd Remix",
       "url": "https://open.spotify.com/track/6rmtT7Y8cH7NpvovoPiV6k"
@@ -2721,7 +2739,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 236093,
       "name": "Run the World (Girls)",
       "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
@@ -2757,7 +2775,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 192789,
       "name": "Safe And Sound",
       "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
@@ -3349,7 +3367,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 177685,
       "name": "Talk Dirty (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/31JwK4iHCf75rnQWoMPU5t"
@@ -3375,7 +3393,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 247560,
       "name": "Talk Dirty (feat. 2 Chainz) - TJR Remix",
       "url": "https://open.spotify.com/track/22r0HoAyCPma3BhIA8NDj4"
@@ -3411,7 +3429,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
@@ -3433,7 +3451,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 195888,
       "name": "That's What I Like - Alan Walker Remix",
       "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
@@ -3525,7 +3543,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 231688,
       "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen) - AJR Remix",
       "url": "https://open.spotify.com/track/4DMvvYvDNiEv2QUciZCyp7"
@@ -3671,7 +3689,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 208278,
       "name": "Treasure - Cash Cash Radio Mix",
       "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 241666,
       "name": "Yeah 3x",
       "url": "https://open.spotify.com/track/2QtxlzvSBONjs1bDC34ixs"

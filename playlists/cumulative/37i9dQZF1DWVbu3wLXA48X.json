@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Crispy & Dinosaur's Skin",
+  "description": "Current indie tunes from Asia and around the world. Cover: Paul Cherry",
   "name": "Indie Shuffle",
   "published_playlist_ids": [
     "20Eh596su19VARcgGsKVKl"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 212187,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/4chq9VXft5AQy5ytIjh9jE"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 246586,
       "name": "Certified Fool",
       "url": "https://open.spotify.com/track/3TSSJEpfQo6AbtvxlmUyVe"
@@ -261,10 +261,32 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 364333,
       "name": "Change",
       "url": "https://open.spotify.com/track/5WZGUtMLcqOMPem9J7PzVs"
+    },
+    {
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/2WbV33yIUttsYS4sk5Zcom"
+      },
+      "artists": [
+        {
+          "name": "XTIE",
+          "url": "https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9"
+        },
+        {
+          "name": "Kepatime",
+          "url": "https://open.spotify.com/artist/3iy22x5OmyJo3fR8C830u4"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305809,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/64r1GDVyD3nR1Doimp4pcW"
     },
     {
       "album": {
@@ -279,7 +301,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
@@ -297,7 +319,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 223053,
       "name": "Crutch",
       "url": "https://open.spotify.com/track/1xjNRDT0TRfJdWkkKK5xDA"
@@ -614,6 +636,24 @@
     },
     {
       "album": {
+        "name": "Funny Death",
+        "url": "https://open.spotify.com/album/3Z7tXmTbhWS7JrPMqFcVT6"
+      },
+      "artists": [
+        {
+          "name": "Funny Death",
+          "url": "https://open.spotify.com/artist/0eNACJMzyrU7OO31POSvIV"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "Guess I'll Leave",
+      "url": "https://open.spotify.com/track/49bCaCAiNNtJUgkfUjKKOt"
+    },
+    {
+      "album": {
         "name": "Heartbreak",
         "url": "https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk"
       },
@@ -744,6 +784,24 @@
     },
     {
       "album": {
+        "name": "Jogging",
+        "url": "https://open.spotify.com/album/4TmNZlqZx7hv2uvneacAI4"
+      },
+      "artists": [
+        {
+          "name": "Wave And So",
+          "url": "https://open.spotify.com/artist/7tGqjrytCoVKlwyqkkFE4f"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196125,
+      "name": "Jogging",
+      "url": "https://open.spotify.com/track/0mOWr9wYa3oyJ8qodnXJlI"
+    },
+    {
+      "album": {
         "name": "Just A Little While",
         "url": "https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy"
       },
@@ -755,7 +813,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 162608,
       "name": "Just A Little While",
       "url": "https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb"
@@ -820,6 +878,28 @@
     },
     {
       "album": {
+        "name": "Little Bother (feat. Foushe\u00e9)",
+        "url": "https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160681,
+      "name": "Little Bother (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG"
+    },
+    {
+      "album": {
         "name": "Lonely Winter",
         "url": "https://open.spotify.com/album/2a0n42rbPAz0JgQqoLUnpc"
       },
@@ -853,6 +933,24 @@
       "duration_ms": 294803,
       "name": "Love",
       "url": "https://open.spotify.com/track/2S21tvV0jigedzU9tbQksd"
+    },
+    {
+      "album": {
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212660,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
     },
     {
       "album": {
@@ -1052,6 +1150,28 @@
     },
     {
       "album": {
+        "name": "No News No Blues",
+        "url": "https://open.spotify.com/album/22uQR9KIe0uvZSDjrt349J"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "No News No Blues",
+      "url": "https://open.spotify.com/track/0tWIcCN7lrOuJEZvAPSLab"
+    },
+    {
+      "album": {
         "name": "Now You See Me",
         "url": "https://open.spotify.com/album/2QUtniCVdNz7EEZHx8M0Od"
       },
@@ -1227,6 +1347,24 @@
       "duration_ms": 217320,
       "name": "psycho killa",
       "url": "https://open.spotify.com/track/6tFsTN9jmdz4DACp1P7nO1"
+    },
+    {
+      "album": {
+        "name": "Quarry",
+        "url": "https://open.spotify.com/album/2Z48McZfltPdZbp4dASRdp"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Quarry",
+      "url": "https://open.spotify.com/track/0G9v9DMNKxWk8w25CWLilK"
     },
     {
       "album": {
@@ -1509,7 +1647,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 225834,
       "name": "Stay (feat. Your Smith)",
       "url": "https://open.spotify.com/track/0bDL2MOuaqdzRLVMAhbCp7"
@@ -1647,10 +1785,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 218181,
       "name": "The One Who Wins",
       "url": "https://open.spotify.com/track/6PNBcD4FpmSnoBhcM10uwv"
+    },
+    {
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "album": {
@@ -1669,6 +1825,42 @@
       "duration_ms": 183906,
       "name": "Theworstthing",
       "url": "https://open.spotify.com/track/2zcqL8jheETC85OYOgaBl8"
+    },
+    {
+      "album": {
+        "name": "Fix Yourself, Not the World",
+        "url": "https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285186,
+      "name": "This Car Drives All by Itself",
+      "url": "https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU"
+    },
+    {
+      "album": {
+        "name": "There Could Be Wreckage Here",
+        "url": "https://open.spotify.com/album/716XHpW50tOOkELJmjS8Df"
+      },
+      "artists": [
+        {
+          "name": "Linying",
+          "url": "https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190247,
+      "name": "This Time, Tomorrow",
+      "url": "https://open.spotify.com/track/6WGHsdKXiE3SFtG1JTNg7j"
     },
     {
       "album": {
@@ -1705,6 +1897,24 @@
       "duration_ms": 209253,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/6OH7Zxopr4NxIVPfORUEoR"
+    },
+    {
+      "album": {
+        "name": "Try Better Next Time",
+        "url": "https://open.spotify.com/album/6RLEWVuwEEdYfCj54wnxWV"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Try Better Next Time",
+      "url": "https://open.spotify.com/track/5HzYHDdYKsxhGZEkZLiFl0"
     },
     {
       "album": {
@@ -1820,6 +2030,32 @@
     },
     {
       "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/2I5iN7GsalNRg4VeLVItc2"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "nobody likes you pat",
+          "url": "https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "Winter is coming (feat. nobody likes you pat & Ashley Alisha)",
+      "url": "https://open.spotify.com/track/0KeoJV1wnDWzWzmG1ra2a5"
+    },
+    {
+      "album": {
         "name": "Won't You Stay",
         "url": "https://open.spotify.com/album/5BkNt41Og9fImlDKiq7uMY"
       },
@@ -1893,6 +2129,24 @@
       "duration_ms": 348709,
       "name": "\u0e09\u0e31\u0e19\u0e41\u0e25\u0e30\u0e19\u0e49\u0e33\u0e15\u0e32 (Drops)",
       "url": "https://open.spotify.com/track/5bP0HldyZMVnO0lFxvg4PB"
+    },
+    {
+      "album": {
+        "name": "\u5149\u308b\u3068\u304d",
+        "url": "https://open.spotify.com/album/0xGnJth0EnzU8kupgRPZop"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351932,
+      "name": "\u5149\u308b\u3068\u304d",
+      "url": "https://open.spotify.com/track/1MKAHjp9mxM80u8K3rROKf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVbu3wLXA48X"

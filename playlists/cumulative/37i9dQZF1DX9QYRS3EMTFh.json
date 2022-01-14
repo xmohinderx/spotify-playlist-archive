@@ -501,7 +501,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181250,
       "name": "La kaz",
       "url": "https://open.spotify.com/track/0WN7R8uGTWMD8vUc3OPjNL"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 120006,
       "name": "Pineco",
       "url": "https://open.spotify.com/track/4qDJJtpkWQae89a2P7qb90"
@@ -785,6 +785,28 @@
       "duration_ms": 143168,
       "name": "Pon Di Beat",
       "url": "https://open.spotify.com/track/30Q6BTivJVln9DT3rzgXtV"
+    },
+    {
+      "album": {
+        "name": "Porte pas plainte",
+        "url": "https://open.spotify.com/album/4NEGgCHxeAIUYB8pSFGP87"
+      },
+      "artists": [
+        {
+          "name": "R2.0",
+          "url": "https://open.spotify.com/artist/3XztGWCoVOMyAmXqM1TzKT"
+        },
+        {
+          "name": "TMatt",
+          "url": "https://open.spotify.com/artist/2iUL25NMZgC1jW7TNuwaVQ"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "Porte pas plainte - Edit",
+      "url": "https://open.spotify.com/track/152o3xdgJbHp5IhNFGadvs"
     },
     {
       "album": {
@@ -1059,6 +1081,32 @@
       "duration_ms": 237458,
       "name": "West Indies",
       "url": "https://open.spotify.com/track/6GbvWYsT5sWXYgo8Bw6HPE"
+    },
+    {
+      "album": {
+        "name": "Whine O'Clock",
+        "url": "https://open.spotify.com/album/6OoO4JDWKvR6gOX84s7Tft"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sleazy Stereo",
+          "url": "https://open.spotify.com/artist/5JETTAtrcvmmrrGCYINb5i"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141322,
+      "name": "Whine O'Clock",
+      "url": "https://open.spotify.com/track/1jAVJ1836ceDp2ozcNs6Uh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh"

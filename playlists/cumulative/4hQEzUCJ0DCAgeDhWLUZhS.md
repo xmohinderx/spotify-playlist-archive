@@ -2,7 +2,7 @@
 
 ### [Plugged In](https://open.spotify.com/playlist/658IZO2NGtKPsTaXlLP4qD)
 
-> GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: The Amity Affliction
+> GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Muse
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Lo/Hi](https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:57 | 2020-10-10\* | 2021-02-25 |
 | [Long Way Down](https://open.spotify.com/track/0brsE4TsZc6yyj9BVnrYpm) | [Dinosaur Pile\-Up](https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S) | [Celebrity Mansions](https://open.spotify.com/album/3sWXuwJFtO7LkD4FPrJSFu) | 4:33 | 2020-10-10\* | 2021-02-25 |
 | [Looking Tragic](https://open.spotify.com/track/3Sacn9UUjr7ksQaTAoYIKg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Looking Tragic / Begging For Trouble](https://open.spotify.com/album/1hKjd2OnD0fXSWVsl80M74) | 2:37 | 2021-02-26 |  |
+| [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 |  |
 | [Love's Gone Bad](https://open.spotify.com/track/2e5eb5o3p22fvSE2NPVK9c) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Love's Gone Bad](https://open.spotify.com/album/2xHkm2OzBEhf3tq8SdollZ) | 3:10 | 2020-10-10\* |  |
 | [Low Season](https://open.spotify.com/track/2tH3benptXyVroFD3ePCcO) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Low Season](https://open.spotify.com/album/4WdJnzEmF2VOuT9eGb2EVX) | 2:37 | 2020-10-10\* | 2021-02-25 |
 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 | 2020-10-10\* | 2021-02-25 |
@@ -239,6 +240,7 @@
 | [Trigger](https://open.spotify.com/track/3X8nAGRjIH3HHk1tvrHuy0) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [All These Countless Nights](https://open.spotify.com/album/6lsO3ufqzybfNIfj0gEJNK) | 3:00 | 2020-10-10\* | 2021-02-25 |
 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 | 2020-10-10\* |  |
 | [Trust Fund Glee](https://open.spotify.com/track/3QGRXZxtHdSqr3NlQlN9DD) | [Totally Unicorn](https://open.spotify.com/artist/3pSMLXDjk3lrfOK0xIZtq3) | [Trust Fund Glee](https://open.spotify.com/album/3Va0FWK51JNN7Hu5vvBI74) | 4:27 | 2021-08-28 |  |
+| [Try Better Next Time](https://open.spotify.com/track/6LGyIWROG7CFykLFo507XV) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Try Better Next Time](https://open.spotify.com/album/5moJUaoXwzjc9utuJ0Dk8f) | 3:07 | 2022-01-14 |  |
 | [Typhoons](https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn) | 3:56 | 2021-01-23 |  |
 | [Unknown Male 01](https://open.spotify.com/track/768wF93WAaExWS57CzNg45) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Unknown Male 01](https://open.spotify.com/album/3lV4G0BqDur5G7vZwlimpQ) | 6:08 | 2021-09-04 |  |
 | [Unsainted](https://open.spotify.com/track/2093eVNfimjmNjU1gk1ES7) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Unsainted](https://open.spotify.com/album/6OmUwiZBss5csDAD3IAhdD) | 4:20 | 2020-10-10\* | 2021-02-25 |
@@ -247,6 +249,7 @@
 | [Village](https://open.spotify.com/track/5mfY6VHihf9dv2XWPxWoYU) | [Merpire](https://open.spotify.com/artist/4oTaPrNvNtZW1MwNmmhxuY) | [Village](https://open.spotify.com/album/28Ju3dlegCS6jtkVO6n0h2) | 3:23 | 2021-05-14 |  |
 | [Voices](https://open.spotify.com/track/1MAgyApG5ey1xaXbziJ4ji) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Voices](https://open.spotify.com/album/1MiW0BArEWAmqqTuvX63n9) | 4:00 | 2021-08-25 |  |
 | [Vortex](https://open.spotify.com/track/58ZtTGuySqYHlquNK2ryyI) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Vortex](https://open.spotify.com/album/2yTgZSjCAn1w9n7hnyb78L) | 4:38 | 2021-08-21 |  |
+| [Vulnerability](https://open.spotify.com/track/4mO3tgKhdb21D92dDmgnCR) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Vulnerability](https://open.spotify.com/album/3G0PSYxUg6w3YRYn85XBsO) | 3:50 | 2022-01-14 |  |
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2021-11-04 |  |
 | [Wake Up, Sunshine](https://open.spotify.com/track/0xUvmXH7JO3klazeWlOyup) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:16 | 2020-10-10\* | 2021-05-13 |
 | [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-07-02 |  |
@@ -260,6 +263,7 @@
 | [Wired](https://open.spotify.com/track/6nHF7jsK6CdynJokdLK4Pe) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:11 | 2020-10-10\* | 2021-05-13 |
 | [Wolves of Winter](https://open.spotify.com/track/3n4r9HS59J2Utzr9wHbte4) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Ellipsis \(Deluxe\)](https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd) | 4:08 | 2020-10-10\* | 2021-02-25 |
 | [Wonder](https://open.spotify.com/track/3GoZNIrA0Nl3RQ2fDEZTxM) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Wonder](https://open.spotify.com/album/58zlrUGnq1mqyFbAHrnM40) | 3:47 | 2021-10-22 |  |
+| [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-01-14 |  |
 | [World Keeps Spinning](https://open.spotify.com/track/1Ekjbbbg6kWy0ITBPQSVhB) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [World Keeps Spinning / Say Nothing / Strangers / History of Violence](https://open.spotify.com/album/5H6tcLBsm1RpqWCoIC4F40) | 3:34 | 2020-10-10\* | 2021-05-13 |
 | [World Keeps Spinning](https://open.spotify.com/track/62CoqBSo6NUdiQQTIKQQAM) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Say Nothing](https://open.spotify.com/album/6MfiM93nfMmvDlegb3gbG5) | 3:34 | 2020-10-10\* | 2021-05-13 |
 | [Worship](https://open.spotify.com/track/5R0L4WPC4QTrd1Z87tWoa1) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [RITUALS](https://open.spotify.com/album/7gkXGlBcRhR8cBS9mXOXSE) | 3:56 | 2020-10-10\* | 2021-02-25 |

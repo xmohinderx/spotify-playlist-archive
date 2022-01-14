@@ -5032,6 +5032,24 @@
     },
     {
       "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "album": {
         "name": "SOLO",
         "url": "https://open.spotify.com/album/1xPRIkd2JN4LTDHOtBxSfn"
       },
@@ -7821,7 +7839,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 133984,
       "name": "\u0414\u043e\u0440\u0430\u0434\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/4mTPviBGRgjPxeaQFnBDW3"

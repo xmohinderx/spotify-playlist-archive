@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 203151,
       "name": "Big Homie (feat. 2 Chainz)",
       "url": "https://open.spotify.com/track/0tpFIosXHWmkKKONpRXCeO"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 230400,
       "name": "Blue Notes 2 (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/488HG8lR11JswT2YgcWGRB"
@@ -428,6 +428,32 @@
     },
     {
       "album": {
+        "name": "DEALER (feat. Future & Lil Baby)",
+        "url": "https://open.spotify.com/album/5T8tAKBlBK2y8WlfG2Dr4u"
+      },
+      "artists": [
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192794,
+      "name": "DEALER (feat. Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/2Phy6PupYrV7yn1cjV8kTL"
+    },
+    {
+      "album": {
         "name": "Deep End Freestyle",
         "url": "https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ"
       },
@@ -483,7 +509,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 198306,
       "name": "Dennis Rodman (feat. Tyga)",
       "url": "https://open.spotify.com/track/0E72UaOjGEOHJliDjq6Ivw"
@@ -763,7 +789,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 119138,
       "name": "Freedom Is Priceless",
       "url": "https://open.spotify.com/track/6qBXbIQoDJfUBP0lqQth1O"
@@ -807,7 +833,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 202500,
       "name": "GET MONEY (feat. DDG & Tyla Yaweh)",
       "url": "https://open.spotify.com/track/1pGlbknNqHchwYzHh3ffJj"
@@ -825,7 +851,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 151268,
       "name": "Goin\u2019 UP",
       "url": "https://open.spotify.com/track/7Fyen114lGc2YJJBN8LHXv"
@@ -861,7 +887,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 185700,
       "name": "Gorgeous",
       "url": "https://open.spotify.com/track/0Ot6qzEWZqbwxKEtehS7Lp"
@@ -983,7 +1009,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193026,
       "name": "Hot (feat. Gunna)",
       "url": "https://open.spotify.com/track/5Z8HZM6iQMhhqyPcCGY5g9"
@@ -1139,7 +1165,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 196056,
       "name": "Iced Out Audemars (feat. Lil Wayne) - Remix",
       "url": "https://open.spotify.com/track/1aD1IcrYHl89PnCoLMVZO4"
@@ -1205,7 +1231,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 170808,
       "name": "Jumpin Out The Face",
       "url": "https://open.spotify.com/track/4YIC82vyZpWPc87MUK472B"
@@ -1279,7 +1305,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 194395,
       "name": "Know My Rights (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/7fsNNSLGG8Wi0nFbufCU6L"
@@ -1397,7 +1423,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 237918,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/7N0mD5y6PRGNjcF8stOKMZ"
@@ -1459,7 +1485,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 171533,
       "name": "MICHAEL",
       "url": "https://open.spotify.com/track/1LHymgSIeKtoJs3NbLX5XC"
@@ -1539,7 +1565,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 241790,
       "name": "Modern Day",
       "url": "https://open.spotify.com/track/2Igem6Q4sfvXGJ3JkG7Baw"
@@ -1933,7 +1959,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 161667,
       "name": "Papi Chulo",
       "url": "https://open.spotify.com/track/6Juv5N0dNU1imms9c9u1dA"
@@ -1951,7 +1977,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 169560,
       "name": "Peso",
       "url": "https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3"
@@ -2009,7 +2035,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
@@ -2155,7 +2181,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 139742,
       "name": "Rich Rich",
       "url": "https://open.spotify.com/track/4edV6rg1hj1SsTIrcEMPvi"
@@ -2217,7 +2243,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 120110,
       "name": "Rookie Of The Year",
       "url": "https://open.spotify.com/track/7aVjnFsARHuTBZzkR6rYOR"
@@ -2291,7 +2317,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 131333,
       "name": "SALUTE (feat. Big Sean and Fivio Foreign)",
       "url": "https://open.spotify.com/track/7MqHj83TEQk9VOhCsbAKIO"
@@ -2427,7 +2453,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181522,
       "name": "Show Stop",
       "url": "https://open.spotify.com/track/779bZ6dEbYnVU7gMmEtgFP"
@@ -2493,7 +2519,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 175110,
       "name": "Smack DVD (feat. Kanye West)",
       "url": "https://open.spotify.com/track/1Si3sqUkvIj6Cz9JYO14OS"
@@ -2765,7 +2791,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 136939,
       "name": "Time Today",
       "url": "https://open.spotify.com/track/2bo0HCDcZj8BYjoht9zYgk"
@@ -2787,7 +2813,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181159,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/6ZPU73akrp4hU6Ua2jSjtI"
@@ -2861,7 +2887,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 161377,
       "name": "Turks (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0lSZh5W0wDeurkGzLYY6hf"
@@ -2901,7 +2927,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 209299,
       "name": "Voice of the Heroes",
       "url": "https://open.spotify.com/track/76TdbFXIck9C5IjDy2J2ia"
@@ -2997,7 +3023,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181929,
       "name": "We Paid (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
@@ -3165,7 +3191,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 111386,
       "name": "You Know",
       "url": "https://open.spotify.com/track/1ioaV68BICIiSHpcqSUVHR"
@@ -3205,7 +3231,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 136461,
       "name": "ZTFO",
       "url": "https://open.spotify.com/track/0z36JaXXoFXuPuQucKEsdx"

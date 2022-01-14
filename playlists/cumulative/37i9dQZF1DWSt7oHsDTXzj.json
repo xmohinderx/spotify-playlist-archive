@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 272266,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
@@ -171,7 +171,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 192440,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 167346,
       "name": "Boxing Day Blues (Revisited)",
       "url": "https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 135020,
       "name": "Christmas Caller",
       "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 225022,
       "name": "Christmas Eve (Soul Purpose)",
       "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 129199,
       "name": "Christmas Everyday",
       "url": "https://open.spotify.com/track/68gRTBTVwlnnwoqOsKPDCR"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193099,
       "name": "Christmas Wrapping - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0V7gEKezonapBWqtRLj3yj"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 241186,
       "name": "Christmas, Hopefully",
       "url": "https://open.spotify.com/track/1McvpCNx2uhJpZKNuPPfOz"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 157173,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/4MT3U8IqKyw2lFh0mcvQGJ"
@@ -603,7 +603,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 315654,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/7EFAQ73Xs21BXMovH9qKr8"
@@ -729,7 +729,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 191680,
       "name": "I Wish It Was Christmas Today",
       "url": "https://open.spotify.com/track/0PHOkI70DXxOyPqQ6a7wQz"
@@ -841,10 +841,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 199794,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/20I188Y2jFukR5DfONMhA8"
+    },
+    {
+      "album": {
+        "name": "Jingle Bells",
+        "url": "https://open.spotify.com/album/54v478uTYwezsdaelCPH8S"
+      },
+      "artists": [
+        {
+          "name": "L'aupaire",
+          "url": "https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221853,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/24EVkXld5IgHzMrvRnG6En"
     },
     {
       "album": {
@@ -859,7 +877,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 188720,
       "name": "Just Like Christmas",
       "url": "https://open.spotify.com/track/4zMP6aieSmWQNFdp3O4Owv"
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 161811,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 259006,
       "name": "Lonely Christmas",
       "url": "https://open.spotify.com/track/1tXPA83Z367gV2LKAhFFON"
@@ -1043,7 +1061,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 146491,
       "name": "Marshmallow World",
       "url": "https://open.spotify.com/track/4mdVkJdWmb50glN1NFbUOb"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 198147,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/7I53IhL7CuLvRs9g6jyliB"
@@ -1083,6 +1101,24 @@
       "duration_ms": 218706,
       "name": "Merry Xmas Everybody",
       "url": "https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN"
+    },
+    {
+      "album": {
+        "name": "My Favourite Day",
+        "url": "https://open.spotify.com/album/7xJH9NWvD1txw7DUCnDAfh"
+      },
+      "artists": [
+        {
+          "name": "Fickle Friends",
+          "url": "https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215624,
+      "name": "My Favourite Day",
+      "url": "https://open.spotify.com/track/1bc1TqZLxCSPGRTnFvo6Pj"
     },
     {
       "album": {
@@ -1133,7 +1169,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 163741,
       "name": "Santa Baby - Recorded at Strongroom Studios London",
       "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
@@ -1191,7 +1227,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 284906,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/0hwGsJMbUwevJHPdg3YPRV"
@@ -1209,7 +1245,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 156453,
       "name": "Silent Night",
       "url": "https://open.spotify.com/track/1HjszJRd56C61Cv0B6xvBW"
@@ -1227,7 +1263,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 198026,
       "name": "That Was the Worst Christmas Ever!",
       "url": "https://open.spotify.com/track/6pL6TOmzoMq6ckBFGTaAT5"
@@ -1263,7 +1299,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 317935,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5PLycideUdqJhZlNOn7DKh"
@@ -1281,10 +1317,28 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 219093,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
+    },
+    {
+      "album": {
+        "name": "This December (slow)",
+        "url": "https://open.spotify.com/album/2xC918XnDFsH6h6qc6R7li"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/5x4R7DNsMj5ZFSJR63GVjV"
     },
     {
       "album": {
@@ -1335,7 +1389,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 208000,
       "name": "ugly xmas sweater party",
       "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
@@ -1483,6 +1537,24 @@
       "duration_ms": 146520,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/0Tt1xLhzap2izxxttXZdk1"
+    },
+    {
+      "album": {
+        "name": "You Won't Love Me by Christmas",
+        "url": "https://open.spotify.com/album/6BKuGp6971tKGYZMRGDo2H"
+      },
+      "artists": [
+        {
+          "name": "Miniature Tigers",
+          "url": "https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "You Won't Love Me by Christmas",
+      "url": "https://open.spotify.com/track/52vkZq7gw5OHzlH1u0egjN"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSt7oHsDTXzj"

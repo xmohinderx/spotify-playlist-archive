@@ -1,15 +1,35 @@
 {
   "description": "It's Hits - b\u00e4sta och st\u00f6rsta hitsen just nu.",
   "name": "It's Hits Sweden",
-  "num_followers": 635488,
+  "num_followers": 635519,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTk2MTU2OSwwMDAwMDUwMTAwMDAwMTdlNGM4OTNkYjYwMDAwMDE3ZTM0OGZlNmM0",
+  "snapshot_id": "MTY0MjExNDkyMCwwMDAwMDUwMjAwMDAwMTdlNTVhZDJlOWMwMDAwMDE3ZTRjODllMGU5",
   "tracks": [
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Gr\u00e5ter om du vill",
+        "url": "https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 228453,
+      "name": "Gr\u00e5ter om du vill",
+      "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -81,7 +101,7 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "It'll Be Okay",
         "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "V\u00e4nner",
         "url": "https://open.spotify.com/album/4YmR801BCaHo4C230heArB"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/5wMUzY8FFxQ3aHdri7uuiP"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Moth To A Flame",
         "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Vi ska aldrig g\u00e5 hem",
         "url": "https://open.spotify.com/album/18g5CdLyYBmUSVaTFYfxvs"
@@ -185,7 +205,7 @@
       "url": "https://open.spotify.com/track/3blcSPHFksw5iawgH4b9aV"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
@@ -201,7 +221,7 @@
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "GHOST TOWN",
         "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
@@ -237,7 +257,7 @@
       "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Flyg Fula Fluga Flyg - Spotify Studio It's Hits Recording",
         "url": "https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Cold Heart (PNAU Remix)",
         "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
@@ -277,7 +297,7 @@
       "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/0wtVykLAzYaPsqast4uHND"
@@ -293,7 +313,7 @@
       "url": "https://open.spotify.com/track/6L6N8iogHK4BilrHG7bAJ2"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Ingen luft mellan oss",
         "url": "https://open.spotify.com/album/50pmFuV7ABGcA6cZz0Cqmt"
@@ -309,23 +329,7 @@
       "url": "https://open.spotify.com/track/1SOGSI8UPEwBnqG15h6NiC"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
-      "album": {
-        "name": "PS jag hatar dig",
-        "url": "https://open.spotify.com/album/0JUcDAaiv4ssfLlNdAufBs"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "PS jag hatar dig",
-      "url": "https://open.spotify.com/track/5rJV3q2Z2QIZaJWSfhPt2w"
-    },
-    {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
@@ -345,7 +349,7 @@
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
@@ -365,7 +369,23 @@
       "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
+      },
+      "artists": [
+        {
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "SOM DOM",
         "url": "https://open.spotify.com/album/4m94OnzZDqdD90RcHYBFeN"
@@ -381,7 +401,7 @@
       "url": "https://open.spotify.com/track/7rwijx2xejRaPkEXUftI11"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
@@ -397,7 +417,7 @@
       "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Eld & l\u00e5gor",
         "url": "https://open.spotify.com/album/0bswnV9Mw8rVkU0R88sfv3"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/3cWGxWprivxBEEDLzi28rP"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Lonely In A Crowd (feat. Joakim Berg)",
         "url": "https://open.spotify.com/album/2V9nF6dNZq234xpICGqeuK"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/2y18WlxpQwH5CMCA0S7Osx"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Shivers",
         "url": "https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Feel Something",
         "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/7hLrEkGfc02E0ckMf3MEGh"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/6VBLbFCArFuTTEXFlQFZZs"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "World We Used To Know",
         "url": "https://open.spotify.com/album/6EqrqJTBQ6JRFJQKY19sCE"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/1I8pMiv8c8mTP0fvt0pqQs"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -525,7 +545,7 @@
       "url": "https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
@@ -561,7 +581,7 @@
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Miserable Man",
         "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
@@ -577,7 +597,7 @@
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Didn\u2019t Know Shit - Spotify Studio It's Hits Recording",
         "url": "https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f"
@@ -601,7 +621,7 @@
       "url": "https://open.spotify.com/track/60jrv0KF1Uy5upBN8VTUZN"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
@@ -637,7 +657,7 @@
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
@@ -661,7 +681,7 @@
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Coming for You (feat. A1 x J1)",
         "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/1xIqDFx3KdByBnKMlTECcM"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Heat Waves",
         "url": "https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
@@ -717,7 +737,23 @@
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "FUCK MITT EKS",
+        "url": "https://open.spotify.com/album/2eY4rIMTU8UGFnCq1JFpZj"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 149268,
+      "name": "FUCK MITT EKS",
+      "url": "https://open.spotify.com/track/4YGMqFWObIcl5RFrqghmOz"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Lotta & Sanna",
         "url": "https://open.spotify.com/album/4tAsGgc1Zs6vSzeVoKysgg"
@@ -733,23 +769,7 @@
       "url": "https://open.spotify.com/track/1jiDCQUaa9LmWpQJRuOWRb"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
@@ -765,7 +785,7 @@
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "When I\u2019m Gone (with Katy Perry)",
         "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "feel like shit",
         "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "= (Christmas Edition)",
         "url": "https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/79g9ptkBCqwK3Iy8CWbyPf"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Barn av v\u00e5r tid",
         "url": "https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Love Me Now (feat. Zoe Wees)",
         "url": "https://open.spotify.com/album/0GzKBZSFdg6H5ZlYJ6RgCo"
@@ -853,7 +873,7 @@
       "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -881,23 +901,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-12 04:26:09",
-      "album": {
-        "name": "Holding me more",
-        "url": "https://open.spotify.com/album/6U8WUYtjLkZP3CG208XsPj"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 210497,
-      "name": "Holding me more",
-      "url": "https://open.spotify.com/track/4kV0TDGZChH1My78V6B3FW"
-    },
-    {
-      "added_at": "2022-01-12 04:26:09",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Pepas",
         "url": "https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1"

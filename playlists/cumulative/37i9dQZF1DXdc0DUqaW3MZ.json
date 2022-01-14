@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Bonobo and Jordan Rakei",
+  "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jordan Stephens & Miraa May",
   "name": "Soultronic",
   "published_playlist_ids": [
     "5u0IGmC2ej39pmSJy1wKWQ"
@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 186680,
       "name": "10%",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
@@ -49,7 +49,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 170501,
       "name": "1985",
       "url": "https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh"
@@ -103,7 +103,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 185168,
       "name": "Above",
       "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 289670,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
@@ -187,7 +187,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
@@ -245,7 +245,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 169493,
       "name": "Anyone Around",
       "url": "https://open.spotify.com/track/3QfNd2g8qMtWg57DRPOq0e"
@@ -426,6 +426,28 @@
     },
     {
       "album": {
+        "name": "Big Bad Mood (feat. Miraa May)",
+        "url": "https://open.spotify.com/album/4kpdV2LSaUGLSPLZWz7cEJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Stephens",
+          "url": "https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229090,
+      "name": "Big Bad Mood (feat. Miraa May)",
+      "url": "https://open.spotify.com/track/3GdWGAtxFU9184mRdqfB0T"
+    },
+    {
+      "album": {
         "name": "Causers of This (Instrumentals)",
         "url": "https://open.spotify.com/album/290ghiRHbiFBPKj7I2lyyZ"
       },
@@ -509,7 +531,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 156493,
       "name": "Brave",
       "url": "https://open.spotify.com/track/7iSitBZKLKLzmXt3cESX4L"
@@ -690,6 +712,24 @@
     },
     {
       "album": {
+        "name": "code red",
+        "url": "https://open.spotify.com/album/6JbZyVHufuyBDRYmG0td7G"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155903,
+      "name": "code red",
+      "url": "https://open.spotify.com/track/5Vd46pXPA18ky9n1t4OOiP"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/6H6cp8moYuy4j1tXP4HmKi"
       },
@@ -793,7 +833,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 254974,
       "name": "Cruisin - Swing Ting Remix",
       "url": "https://open.spotify.com/track/3wsKu0v64U1SIesr9oLcnW"
@@ -811,7 +851,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 250120,
       "name": "Cut Me",
       "url": "https://open.spotify.com/track/3VlbXBW2heJ3s6GS23wyAV"
@@ -869,7 +909,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 163973,
       "name": "Debold",
       "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
@@ -909,7 +949,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 284877,
       "name": "Distant Planets (feat. Kool Keith)",
       "url": "https://open.spotify.com/track/44JdHEljHVRYYZYFqtAqHA"
@@ -1033,7 +1073,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193984,
       "name": "Eyes Wide Shut",
       "url": "https://open.spotify.com/track/7HdbnLwOAdyEjvQdTls7QR"
@@ -1197,10 +1237,32 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 248764,
       "name": "fuego (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8"
+    },
+    {
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
     },
     {
       "album": {
@@ -1235,7 +1297,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193000,
       "name": "FVR105 - p-rallel Remix",
       "url": "https://open.spotify.com/track/5PI0KCcfghR4Xg0w6xuoZ0"
@@ -1319,7 +1381,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 182160,
       "name": "Go Tell It",
       "url": "https://open.spotify.com/track/6BzeKeT9hluukvZzZTz9PK"
@@ -1355,7 +1417,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 230400,
       "name": "Groove 32",
       "url": "https://open.spotify.com/track/3Zr60HMgmHnA4gg0gMTVkO"
@@ -1447,7 +1509,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 246502,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/5FYaRj2WzM3CUo1091dvSl"
@@ -1465,7 +1527,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 169626,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY"
@@ -1505,7 +1567,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 171428,
       "name": "highnoon",
       "url": "https://open.spotify.com/track/73arSoyP2DvAycyNFmzOAS"
@@ -1563,7 +1625,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 254156,
       "name": "I Had To Slow It Down",
       "url": "https://open.spotify.com/track/6a6wnYqP8F7rK9lrNK8ARn"
@@ -1654,6 +1716,24 @@
     },
     {
       "album": {
+        "name": "Dawn FM (Alternate World)",
+        "url": "https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/5rXdRfS0EPQ5zleZ34Rs8k"
+    },
+    {
+      "album": {
         "name": "It's Nice to Be Alive",
         "url": "https://open.spotify.com/album/5HUfO00VGHwPLqx2rNCkE7"
       },
@@ -1665,7 +1745,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 205893,
       "name": "It's Nice to Be Alive",
       "url": "https://open.spotify.com/track/0ufCBxOl6vL8Yhcu2Jl2a4"
@@ -1731,7 +1811,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Lay",
       "url": "https://open.spotify.com/track/35b1hAgRonvJ75MFqA2goi"
@@ -1811,7 +1891,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 205517,
       "name": "Love Galaxy - Edit",
       "url": "https://open.spotify.com/track/72A0X1rotHBFozCFP5zjr0"
@@ -1887,7 +1967,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/4YLbQGnk6iIgelpUIwbmxm"
@@ -1905,7 +1985,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 191895,
       "name": "ME!",
       "url": "https://open.spotify.com/track/5bOj8Ld0sxtbUsIAkGOhgu"
@@ -1945,7 +2025,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 153290,
       "name": "Moonlit Duty",
       "url": "https://open.spotify.com/track/5PN5duvmEAumV2nuTJ3TWj"
@@ -2149,7 +2229,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 258250,
       "name": "Next to Me",
       "url": "https://open.spotify.com/track/1q1wxTHRtt7TR9GJhhZA8b"
@@ -2215,7 +2295,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU"
@@ -2321,7 +2401,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 283000,
       "name": "Quiet Nights Without You - Elsa Hewitt Remix",
       "url": "https://open.spotify.com/track/3HAv2Dh1VLRUYwuTGGo8v4"
@@ -2469,7 +2549,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
@@ -2547,7 +2627,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 187651,
       "name": "Slow It Down - WaTa Remix",
       "url": "https://open.spotify.com/track/4hixQjNyyJVjFg1GNBhr4Q"
@@ -2620,6 +2700,32 @@
     },
     {
       "album": {
+        "name": "Sun Moon",
+        "url": "https://open.spotify.com/album/26f02v3l05ZmO7oYWnPXFv"
+      },
+      "artists": [
+        {
+          "name": "Cabu",
+          "url": "https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE"
+        },
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "No\u00e9",
+          "url": "https://open.spotify.com/artist/5FoIen3mGXGHRUeKIE7ymi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Sun Moon",
+      "url": "https://open.spotify.com/track/7aBh7zmJbRT6YcdYsYU9kn"
+    },
+    {
+      "album": {
         "name": "Super Good Times",
         "url": "https://open.spotify.com/album/5a7aGgIO1ZziPyjE6MJZ8T"
       },
@@ -2657,7 +2763,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 244706,
       "name": "swag w/ kav",
       "url": "https://open.spotify.com/track/7lPt8ISy7ax86QSfl4I3Z7"
@@ -2693,7 +2799,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 299688,
       "name": "Talk",
       "url": "https://open.spotify.com/track/5qeIAwW9nhHzpiKkPHusPY"
@@ -2751,7 +2857,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 180124,
       "name": "Try",
       "url": "https://open.spotify.com/track/26BcLHV3BnUmcg11hiyyyf"
@@ -2879,7 +2985,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"

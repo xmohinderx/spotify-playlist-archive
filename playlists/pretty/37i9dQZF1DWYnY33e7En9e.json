@@ -1,29 +1,13 @@
 {
   "description": "Hits of the 70s, 80s and 90s for gamers who love things retro.",
   "name": "Retro Gaming",
-  "num_followers": 348652,
+  "num_followers": 348705,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAzNDU5OCwwMDAwMDAwMDEwYjdmYzU2OTZiMWU3Mjk5ODIzNWRjMWYzMjZiMWU3",
+  "snapshot_id": "MTY0MjEyMDg3NywwMDAwMDAwMDA1NjQzZWViYjIxNmEyNDUzMzQ0YjFjZjBjMTAyYjli",
   "tracks": [
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Lethal Injection",
-        "url": "https://open.spotify.com/album/4dxnWKpvkpcDgakCRX6jT1"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "You Know How We Do It - Remastered",
-      "url": "https://open.spotify.com/track/3jFTsobEff1Cz8DlIAisYY"
-    },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
@@ -47,22 +31,18 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+        "name": "Lethal Injection",
+        "url": "https://open.spotify.com/album/4dxnWKpvkpcDgakCRX6jT1"
       },
       "artists": [
         {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
         }
       ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+      "duration_ms": 232773,
+      "name": "You Know How We Do It - Remastered",
+      "url": "https://open.spotify.com/track/3jFTsobEff1Cz8DlIAisYY"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -103,34 +83,22 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Raise!",
-        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Predator (World) [Explicit]",
-        "url": "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
-      },
-      "artists": [
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
         {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 259946,
-      "name": "It Was A Good Day",
-      "url": "https://open.spotify.com/track/2lUirvUhqfBqJzUvk4tLoK"
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -151,6 +119,38 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
+        "name": "Raise!",
+        "url": "https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Nevermind (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
         "name": "Homework",
         "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
       },
@@ -167,22 +167,6 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "The Slim Shady LP",
-        "url": "https://open.spotify.com/album/1S2zX2EzIJPkcptERhrkGh"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "My Name Is",
-      "url": "https://open.spotify.com/track/0l08dcPEqNEUhymVBext8h"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2KwZgeD7BnTrOtiNvFr7CL"
       },
@@ -195,6 +179,38 @@
       "duration_ms": 214440,
       "name": "Ruff Ryders' Anthem",
       "url": "https://open.spotify.com/track/5H0dVldtI6HJZnEXzigKfY"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Predator (World) [Explicit]",
+        "url": "https://open.spotify.com/album/47PmvCtma4WBbGQ7SZ78XZ"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "duration_ms": 259946,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2lUirvUhqfBqJzUvk4tLoK"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -219,38 +235,6 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Nevermind (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/1f3yAtsJtY87CTmM8RLnxf"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Michael Jackson's This Is It",
-        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/6pBM20jZldvNlbNcnwAX0y"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
       },
@@ -263,106 +247,6 @@
       "duration_ms": 307773,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/2xTft6GEZeTyWNpdX94rkf"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/5ZcguNVlH10M9y2yJYcAdH"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/0mDpR6DpKc2DyiGtH0NcX8"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Infamous",
-        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 224533,
-      "name": "Survival of the Fittest",
-      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Bootlegs And B-Sides",
-        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
-        }
-      ],
-      "duration_ms": 273106,
-      "name": "Check Yo Self - Remix",
-      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Hypnotize - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/3tnnaRuMA77oScnuiZroBB"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Super Freak - Pt. 1",
-      "url": "https://open.spotify.com/track/0Yt04VZEo0lBQrpX1FVfyY"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Dynasty (Remastered Version)",
-        "url": "https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -399,18 +283,34 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "It's On (Dr. Dre) 187um Killa",
-        "url": "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
+        "name": "The Slim Shady LP",
+        "url": "https://open.spotify.com/album/1S2zX2EzIJPkcptERhrkGh"
       },
       "artists": [
         {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         }
       ],
-      "duration_ms": 332626,
-      "name": "Real Muthaphuckkin G's",
-      "url": "https://open.spotify.com/track/4G19iP1Ltd4GLknCiS2k7y"
+      "duration_ms": 268400,
+      "name": "My Name Is",
+      "url": "https://open.spotify.com/track/0l08dcPEqNEUhymVBext8h"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/5ZcguNVlH10M9y2yJYcAdH"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/0mDpR6DpKc2DyiGtH0NcX8"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -427,6 +327,70 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/3tnnaRuMA77oScnuiZroBB"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 204213,
+      "name": "Super Freak - Pt. 1",
+      "url": "https://open.spotify.com/track/0Yt04VZEo0lBQrpX1FVfyY"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Dynasty (Remastered Version)",
+        "url": "https://open.spotify.com/album/3vasiwx11ruCgyn54MBJYL"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/2ZSCy3P1QzpJySCWA6NRIU"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Michael Jackson's This Is It",
+        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/6pBM20jZldvNlbNcnwAX0y"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Blizzard of Ozz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -455,6 +419,22 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
+        "name": "The Infamous",
+        "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        }
+      ],
+      "duration_ms": 224533,
+      "name": "Survival of the Fittest",
+      "url": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
         "name": "Whenever You Need Somebody",
         "url": "https://open.spotify.com/album/6N9PS4QXF1D0OWPk0Sxtb4"
       },
@@ -467,6 +447,22 @@
       "duration_ms": 213573,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+      },
+      "artists": [
+        {
+          "name": "Bell Biv DeVoe",
+          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+        }
+      ],
+      "duration_ms": 261853,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -487,34 +483,18 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+        "name": "It's On (Dr. Dre) 187um Killa",
+        "url": "https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
         }
       ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Cheri Cheri Lady",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
+      "duration_ms": 332626,
+      "name": "Real Muthaphuckkin G's",
+      "url": "https://open.spotify.com/track/4G19iP1Ltd4GLknCiS2k7y"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -555,6 +535,26 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -571,98 +571,34 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
+        "name": "Hell On Earth",
+        "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
       "artists": [
         {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
         }
       ],
-      "duration_ms": 258687,
-      "name": "Straight Outta Compton",
-      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
+      "duration_ms": 274093,
+      "name": "Hell on Earth (Front Lines)",
+      "url": "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/6H5mxGUWguDjtQ4Uzd8veD"
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
       },
       "artists": [
         {
-          "name": "Bell Biv DeVoe",
-          "url": "https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
         }
       ],
-      "duration_ms": 261853,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/6m59VvDUi0UQsB2eZ9wVbH"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 272026,
-      "name": "Welcome To The Jungle",
-      "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Drunken Sailor",
-        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
-      },
-      "artists": [
-        {
-          "name": "The Irish Rovers",
-          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
-        }
-      ],
-      "duration_ms": 176853,
-      "name": "Drunken Sailor",
-      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Blizzard of Ozz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 296200,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Don Killuminati: The 7 Day Theory",
-        "url": "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
-      },
-      "artists": [
-        {
-          "name": "Makaveli",
-          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
-        }
-      ],
-      "duration_ms": 309800,
-      "name": "Hail Mary",
-      "url": "https://open.spotify.com/track/4akCwzFRS8Syu5uFy7L1sG"
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -683,54 +619,34 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Efil4zaggin",
-        "url": "https://open.spotify.com/album/7i59fEALRV2wfj1mQ7uaEO"
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
       },
       "artists": [
         {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Alwayz Into Somethin'",
-      "url": "https://open.spotify.com/track/7x9hPUtk2PNUcSwPbMWQP5"
+      "duration_ms": 272026,
+      "name": "Welcome To The Jungle",
+      "url": "https://open.spotify.com/track/0bVtevEgtDIeRjCJbK3Lmv"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Blue (Da Ba Dee)",
-        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+        "name": "The Don Killuminati: The 7 Day Theory",
+        "url": "https://open.spotify.com/album/3OR89PVUDdYVpuwQw9kALG"
       },
       "artists": [
         {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Makaveli",
+          "url": "https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8"
         }
       ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Double Platinum (Remastered Version)",
-        "url": "https://open.spotify.com/album/5geXfGrkFVo5eiVz4DL0Q9"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 215899,
-      "name": "Detroit Rock City",
-      "url": "https://open.spotify.com/track/7Dtukb9NLJs1i0lohMlIC5"
+      "duration_ms": 309800,
+      "name": "Hail Mary",
+      "url": "https://open.spotify.com/track/4akCwzFRS8Syu5uFy7L1sG"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -755,54 +671,6 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Hell On Earth",
-        "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
-      },
-      "artists": [
-        {
-          "name": "Mobb Deep",
-          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
-        }
-      ],
-      "duration_ms": 274093,
-      "name": "Hell on Earth (Front Lines)",
-      "url": "https://open.spotify.com/track/1RjU7UhRICmdFPKxCucLgq"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Terrorist Threats",
-        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
-      },
-      "artists": [
-        {
-          "name": "Westside Connection",
-          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
-        }
-      ],
-      "duration_ms": 293053,
-      "name": "Gangsta Nation",
-      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Please Hammer Don't Hurt 'Em",
-        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
-      },
-      "artists": [
-        {
-          "name": "MC Hammer",
-          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
-        }
-      ],
-      "duration_ms": 257360,
-      "name": "U Can't Touch This",
-      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
         "name": "I Don't Speak The Language",
         "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
@@ -819,6 +687,22 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
+        "name": "Drunken Sailor",
+        "url": "https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo"
+      },
+      "artists": [
+        {
+          "name": "The Irish Rovers",
+          "url": "https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Drunken Sailor",
+      "url": "https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
       },
@@ -831,186 +715,6 @@
       "duration_ms": 293973,
       "name": "N.Y. State of Mind",
       "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1dg9hbbh8cn9GjV4YYZ6Py"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 275813,
-      "name": "Forget Me Nots",
-      "url": "https://open.spotify.com/track/6PUJEckAKg4Mp47VFZxdpJ"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Daz Dillinger",
-          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Gin And Juice (feat. Dat Nigga Daz)",
-      "url": "https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Greatest Hits!",
-        "url": "https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 202570,
-      "name": "Boom, Boom, Boom, Boom!!",
-      "url": "https://open.spotify.com/track/65OXGbKBQ8gUyJvUd0jNpf"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
-        "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 336960,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Ultimate Survivor",
-        "url": "https://open.spotify.com/album/5mDgJdfSgdRGA0ab6Xp6H0"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/64F1ojnPPiJiFZtYQtHB7r"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Rhyme Pays (Explicit Version)",
-        "url": "https://open.spotify.com/album/267xiIVnif2CUxhbRQk115"
-      },
-      "artists": [
-        {
-          "name": "ICE-T",
-          "url": "https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "6 'N the Mornin'",
-      "url": "https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Dr. Feelgood 20th Anniversary (Expanded Version)",
-        "url": "https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 290186,
-      "name": "Dr. Feelgood",
-      "url": "https://open.spotify.com/track/5X0bLSho0KTiSQYCI0IOcl"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Return of the Boom Bap",
-        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
-      },
-      "artists": [
-        {
-          "name": "KRS-One",
-          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -1051,354 +755,50 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "More Music From 8 Mile",
-        "url": "https://open.spotify.com/album/2fSgmryqGicQMugI4XsVyX"
+        "name": "Dr. Feelgood 20th Anniversary (Expanded Version)",
+        "url": "https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9"
       },
       "artists": [
         {
-          "name": "Junior M.A.F.I.A.",
-          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 270883,
-      "name": "Get Money",
-      "url": "https://open.spotify.com/track/3W6UZZEiAIywZYpNpfBplK"
+      "duration_ms": 290186,
+      "name": "Dr. Feelgood",
+      "url": "https://open.spotify.com/track/5X0bLSho0KTiSQYCI0IOcl"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Bacdafucup",
-        "url": "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0PHwgJuLLRZP99sEvkkQUd"
       },
       "artists": [
         {
-          "name": "Onyx",
-          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
         }
       ],
-      "duration_ms": 218506,
-      "name": "Slam",
-      "url": "https://open.spotify.com/track/38fJv1GvxHkHlgbERUuBCJ"
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/1CNvz3a8C4t9Ex2fedcu4n"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+        "name": "Greatest Hits!",
+        "url": "https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
         }
       ],
-      "duration_ms": 405640,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & The Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "CYPRESS HILL",
-        "url": "https://open.spotify.com/album/3Mjuv8RURnOZakdoSzO1j3"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "How I Could Just Kill a Man",
-      "url": "https://open.spotify.com/track/6WceXj9vvlxVyRCkDXt4nI"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Wreckonize bw Sound Bwoy Bureill",
-        "url": "https://open.spotify.com/album/1LHqpSFkhdATygnTESRofL"
-      },
-      "artists": [
-        {
-          "name": "Smif-N-Wessun",
-          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
-        }
-      ],
-      "duration_ms": 233199,
-      "name": "Wreckonize - Remix Vocal",
-      "url": "https://open.spotify.com/track/22Yq5tkMN8JE7h1Bq3pWHS"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Back In Business",
-        "url": "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 208360,
-      "name": "Da Joint",
-      "url": "https://open.spotify.com/track/7nk7oS0G6qG3ofHUAKbg9F"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Scream",
-        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Somebody's Watching Me - Single Version",
-      "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Youthquake",
-        "url": "https://open.spotify.com/album/6d5tBL8NLw1Jdhr8D2w3PF"
-      },
-      "artists": [
-        {
-          "name": "Dead Or Alive",
-          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
-        }
-      ],
-      "duration_ms": 199666,
-      "name": "You Spin Me Round (Like a Record)",
-      "url": "https://open.spotify.com/track/7uHO4AmKtyGa5v5fsElGoC"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "To The Maxximum",
-        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
-      },
-      "artists": [
-        {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Get A Way",
-      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "The New Best Of (All Hits & Remixes) 2016",
-        "url": "https://open.spotify.com/album/39gSR80KryAcX955TARfGg"
-      },
-      "artists": [
-        {
-          "name": "Backstreet Boys",
-          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-        }
-      ],
-      "duration_ms": 225253,
-      "name": "Everybody (Backstreet's Back) - Radio Edit",
-      "url": "https://open.spotify.com/track/2WjM5cxN10uHaNqh6OLkMv"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Top 100 Greatest Dance Hits",
-        "url": "https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 238759,
-      "name": "L'Amour Toujours",
-      "url": "https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Nevermind (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Paranoid (Remaster)",
-        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168405,
-      "name": "Paranoid - 2012 - Remaster",
-      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 210226,
-      "name": "Panama - 2015 Remaster",
-      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Keep Their Heads Ringin'",
-        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 310226,
-      "name": "Keep Their Heads Ringin'",
-      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Number Ones",
-        "url": "https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Stayin' Alive - Remastered Version",
-      "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Moment Of Truth",
-        "url": "https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF"
-      },
-      "artists": [
-        {
-          "name": "Gang Starr",
-          "url": "https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/52QkhYa8lRm7DD6Mb8996S"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/7cEhLD8Rovs1U2wSFx6agz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 261600,
-      "name": "Don't Sweat The Technique",
-      "url": "https://open.spotify.com/track/3YXlTtlYDXI2SyofNm1ccg"
-    },
-    {
-      "added_at": "2021-05-19 00:03:36",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 301466,
-      "name": "Juicy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/2b7FqlHc3JrzlYtGEkzq22"
+      "duration_ms": 202570,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/65OXGbKBQ8gUyJvUd0jNpf"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -1419,50 +819,314 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
         }
       ],
-      "duration_ms": 254346,
-      "name": "Rock You Like a Hurricane",
-      "url": "https://open.spotify.com/track/1QLyDdhB9gmxbGv0K1kFyT"
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "...And Then There Was X",
-        "url": "https://open.spotify.com/album/10memku7dGZY14rvvlNpPv"
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
       },
       "artists": [
         {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Party Up",
-      "url": "https://open.spotify.com/track/4MxZW1XEcPuIZmkANsJabC"
+      "duration_ms": 226333,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Street Called Desire ... And More",
-        "url": "https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9"
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
       },
       "artists": [
         {
-          "name": "Rene & Angela",
-          "url": "https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
         }
       ],
-      "duration_ms": 321066,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/57b0v2TB75b3ON5g5e8Q6N"
+      "duration_ms": 211493,
+      "name": "Gin And Juice (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/0WKYRFtH6KKbaNWjsxqm70"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Double Platinum (Remastered Version)",
+        "url": "https://open.spotify.com/album/5geXfGrkFVo5eiVz4DL0Q9"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 215899,
+      "name": "Detroit Rock City",
+      "url": "https://open.spotify.com/track/7Dtukb9NLJs1i0lohMlIC5"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Return of the Boom Bap",
+        "url": "https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9"
+      },
+      "artists": [
+        {
+          "name": "KRS-One",
+          "url": "https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla"
+        }
+      ],
+      "duration_ms": 258506,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Blue (Da Ba Dee)",
+        "url": "https://open.spotify.com/album/3j90eFnVFEYzOVt024QCTf"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/5QRAfvKPyQpwt897Jc0glg"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Best Of N.W.A: The Strength Of Street Knowledge",
+        "url": "https://open.spotify.com/album/1RcZMUVcZrMxf1shgPN4o0"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 336960,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/4SZ3B3y1TbwTK4OIXMOVEy"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Efil4zaggin",
+        "url": "https://open.spotify.com/album/7i59fEALRV2wfj1mQ7uaEO"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Alwayz Into Somethin'",
+      "url": "https://open.spotify.com/track/7x9hPUtk2PNUcSwPbMWQP5"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/5oPKlo7IBFXlh12tqDVoAU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/0pMUR7Uvp6vxlbG0qBFvgM"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Please Hammer Don't Hurt 'Em",
+        "url": "https://open.spotify.com/album/4r1WecJyt5FOhglysp9zhN"
+      },
+      "artists": [
+        {
+          "name": "MC Hammer",
+          "url": "https://open.spotify.com/artist/2rblp9fJo16ZPTcKDtlmKW"
+        }
+      ],
+      "duration_ms": 257360,
+      "name": "U Can't Touch This",
+      "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Who Am I (What's My Name)?",
+      "url": "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Paranoid (Remaster)",
+        "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
+      },
+      "artists": [
+        {
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
+        }
+      ],
+      "duration_ms": 168405,
+      "name": "Paranoid - 2012 - Remaster",
+      "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Terrorist Threats",
+        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "duration_ms": 293053,
+      "name": "Gangsta Nation",
+      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The New Best Of (All Hits & Remixes) 2016",
+        "url": "https://open.spotify.com/album/39gSR80KryAcX955TARfGg"
+      },
+      "artists": [
+        {
+          "name": "Backstreet Boys",
+          "url": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+        }
+      ],
+      "duration_ms": 225253,
+      "name": "Everybody (Backstreet's Back) - Radio Edit",
+      "url": "https://open.spotify.com/track/2WjM5cxN10uHaNqh6OLkMv"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Nevermind (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "More Music From 8 Mile",
+        "url": "https://open.spotify.com/album/2fSgmryqGicQMugI4XsVyX"
+      },
+      "artists": [
+        {
+          "name": "Junior M.A.F.I.A.",
+          "url": "https://open.spotify.com/artist/3r0OeTcOw37N9juMYyyw39"
+        }
+      ],
+      "duration_ms": 270883,
+      "name": "Get Money",
+      "url": "https://open.spotify.com/track/3W6UZZEiAIywZYpNpfBplK"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -1499,18 +1163,34 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Dressed To Kill (Remastered Version)",
-        "url": "https://open.spotify.com/album/2hMjDSywkwY2HxjmWObpoI"
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "LL Cool J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 168733,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/7990Xs9HQx7FXVIDVPEwj9"
+      "duration_ms": 287906,
+      "name": "Mama Said Knock You Out",
+      "url": "https://open.spotify.com/track/6dQJI4hFolhMnZhSHxkuGc"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1dg9hbbh8cn9GjV4YYZ6Py"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 275813,
+      "name": "Forget Me Nots",
+      "url": "https://open.spotify.com/track/6PUJEckAKg4Mp47VFZxdpJ"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -1531,56 +1211,88 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/3sGENYCDR3UaIfFwWMJWrY"
+        "name": "Wreckonize bw Sound Bwoy Bureill",
+        "url": "https://open.spotify.com/album/1LHqpSFkhdATygnTESRofL"
       },
       "artists": [
         {
-          "name": "Silver",
-          "url": "https://open.spotify.com/artist/7oeuJSyVZTCkm3BurLz8cG"
+          "name": "Smif-N-Wessun",
+          "url": "https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0"
         }
       ],
-      "duration_ms": 212840,
-      "name": "Wham Bam Shang-A-Lang",
-      "url": "https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"
+      "duration_ms": 233199,
+      "name": "Wreckonize - Remix Vocal",
+      "url": "https://open.spotify.com/track/22Yq5tkMN8JE7h1Bq3pWHS"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
         }
       ],
-      "duration_ms": 246320,
-      "name": "Who Am I (What's My Name)?",
-      "url": "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
+      "duration_ms": 226773,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Non Stop Erotic Cabaret (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3HZOgmHG5SKbwOitfUYrgn"
+        "name": "Desolation Boulevard",
+        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
       },
       "artists": [
         {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
         }
       ],
-      "duration_ms": 153880,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/3HnqpxXpizCRADKCU78cLk"
+      "duration_ms": 246573,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+        "name": "Ultimate Survivor",
+        "url": "https://open.spotify.com/album/5mDgJdfSgdRGA0ab6Xp6H0"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/64F1ojnPPiJiFZtYQtHB7r"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "I Love Rock 'N' Roll (Expanded Edition)",
+        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & The Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "I Love Rock 'N Roll",
+      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Stranger Things (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N"
       },
       "artists": [
         {
@@ -1588,25 +1300,169 @@
           "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
         }
       ],
-      "duration_ms": 237466,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
+      "duration_ms": 254346,
+      "name": "Rock You Like a Hurricane",
+      "url": "https://open.spotify.com/track/1QLyDdhB9gmxbGv0K1kFyT"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Come Into My Life (The Album)",
-        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+        "name": "Drivin' South: Southern Rockin' Smash Hits",
+        "url": "https://open.spotify.com/album/0V9g2VTjpNub0xcJkNxOLX"
       },
       "artists": [
         {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
         }
       ],
-      "duration_ms": 213394,
-      "name": "Freed From Desire",
-      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+      "duration_ms": 147826,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/5Ny6yVg3LRfz3jicFcIMlm"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Somebody's Watching Me - Single Version",
+      "url": "https://open.spotify.com/track/6A4Jc8npNo79BOgsrPptLA"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 304279,
+      "name": "Morning Glory - Remastered",
+      "url": "https://open.spotify.com/track/5AMgAzHqrO8cUGoYGr1CHb"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Keep Their Heads Ringin'",
+        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 310226,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 210226,
+      "name": "Panama - 2015 Remaster",
+      "url": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Top 100 Greatest Dance Hits",
+        "url": "https://open.spotify.com/album/1CmJSOvHeCYN12VQCRkRC9"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 238759,
+      "name": "L'Amour Toujours",
+      "url": "https://open.spotify.com/track/4xGuK7FsXuZwHCCuNnPzbD"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Essential John Denver",
+        "url": "https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 190040,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/5LV3AJZ7KOKCpoou8kny79"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Girls, Girls, Girls",
+        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "Girls, Girls, Girls",
+      "url": "https://open.spotify.com/track/5xLyTbCFONUGUuG0LtUxjn"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "...And Then There Was X",
+        "url": "https://open.spotify.com/album/10memku7dGZY14rvvlNpPv"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Party Up",
+      "url": "https://open.spotify.com/track/4MxZW1XEcPuIZmkANsJabC"
     },
     {
       "added_at": "2021-05-19 00:03:36",
@@ -1627,50 +1483,214 @@
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "Get Lucky",
-        "url": "https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE"
+        "name": "Back In Business",
+        "url": "https://open.spotify.com/album/1lXzdRHclmiVl8whBqzXZh"
       },
       "artists": [
         {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Working for the Weekend",
-      "url": "https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ"
+      "duration_ms": 208360,
+      "name": "Da Joint",
+      "url": "https://open.spotify.com/track/7nk7oS0G6qG3ofHUAKbg9F"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "When We Wuz Bangin",
-        "url": "https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w"
+        "name": "Rare & Unreleased",
+        "url": "https://open.spotify.com/album/799MZNbFZ6Lgrqs8sJ6T6i"
       },
       "artists": [
         {
-          "name": "Compton's Most Wanted",
-          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+          "name": "Diamond D",
+          "url": "https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M"
+        },
+        {
+          "name": "Big L",
+          "url": "https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM"
+        },
+        {
+          "name": "A.G.",
+          "url": "https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE"
+        },
+        {
+          "name": "Lord Finesse,",
+          "url": "https://open.spotify.com/artist/5l1PJmnyWyc4zYB5aImAio"
+        },
+        {
+          "name": "O.C",
+          "url": "https://open.spotify.com/artist/61NRYdCrAE7dDiBx1yPbYq"
         }
       ],
-      "duration_ms": 274840,
-      "name": "Streiht Up Menace",
-      "url": "https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr"
+      "duration_ms": 254026,
+      "name": "Day One (feat. Big L, A.G., Lord Finesse, & O.C.)",
+      "url": "https://open.spotify.com/track/0xyR0utsJZGtHdcuBqTEVZ"
     },
     {
       "added_at": "2021-05-19 00:03:36",
       "album": {
-        "name": "YMCA",
-        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
+        "name": "Youthquake",
+        "url": "https://open.spotify.com/album/6d5tBL8NLw1Jdhr8D2w3PF"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Dead Or Alive",
+          "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
         }
       ],
-      "duration_ms": 286800,
-      "name": "YMCA - Original Version 1978",
-      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
+      "duration_ms": 199666,
+      "name": "You Spin Me Round (Like a Record)",
+      "url": "https://open.spotify.com/track/7uHO4AmKtyGa5v5fsElGoC"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/3sGENYCDR3UaIfFwWMJWrY"
+      },
+      "artists": [
+        {
+          "name": "Silver",
+          "url": "https://open.spotify.com/artist/7oeuJSyVZTCkm3BurLz8cG"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Wham Bam Shang-A-Lang",
+      "url": "https://open.spotify.com/track/3qrEG6rQ9Qm72MNWeUKKiU"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 289866,
+      "name": "N 2 Gether Now",
+      "url": "https://open.spotify.com/track/4lqU4WByDFKDGrHknQV6ZC"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Number Ones",
+        "url": "https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Stayin' Alive - Remastered Version",
+      "url": "https://open.spotify.com/track/3LmpQiFNgFCnvAnhhvKUyI"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Bacdafucup",
+        "url": "https://open.spotify.com/album/5n2OM0rYeHbTg6pe3zCNdl"
+      },
+      "artists": [
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "Slam",
+      "url": "https://open.spotify.com/track/38fJv1GvxHkHlgbERUuBCJ"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Homework",
+        "url": "https://open.spotify.com/album/5uRdvUR7xCnHmUW8n64n9y"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Da Funk",
+      "url": "https://open.spotify.com/track/0MyY4WcN7DIfbSmp5yej5z"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/3I9Z1nDCL4E0cP62flcbI5"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405640,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/3YBZIN3rekqsKxbJc9FZko"
+    },
+    {
+      "added_at": "2021-05-19 00:03:36",
+      "album": {
+        "name": "The Essential Cypress Hill",
+        "url": "https://open.spotify.com/album/2WPS1YnbXiaX1Ekr1HNICt"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Hits from the Bong",
+      "url": "https://open.spotify.com/track/4EfBENPBy1GvUWLO9YAp3F"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYnY33e7En9e"

@@ -1,13 +1,29 @@
 {
-  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL?si=hTuGyuSCT4KAnrtqV1oWAg\">Zakes Bantwini</a>",
+  "description": "Only the hottest South African House and Dance singles out right now. Cover: <a href=\"https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU?si=2tDiqWw7RJKBDTODRPffZQ\">Echo Deep</a>",
   "name": "mint South Africa",
-  "num_followers": 46577,
+  "num_followers": 46598,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgyNDg3NywwMDAwMDMyYzAwMDAwMTdlNDQ2MzdjNmEwMDAwMDE3ZDdiZDdjMWY0",
+  "snapshot_id": "MTY0MjExMTU3OSwwMDAwMDMyZDAwMDAwMTdlNTU3YTM1Y2YwMDAwMDE3ZTU1NzkxMzc1",
   "tracks": [
+    {
+      "added_at": "2021-12-29 15:21:38",
+      "album": {
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1tI5rxGJAHnY6lMeNb3KlB"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 452418,
+      "name": "Do What You Love",
+      "url": "https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs"
+    },
     {
       "added_at": "2022-01-06 21:59:00",
       "album": {
@@ -51,6 +67,46 @@
       "duration_ms": 370600,
       "name": "Agolo - Da Capo\u2019s Touch",
       "url": "https://open.spotify.com/track/47oYm6GkEl2dAgrxNXSxOj"
+    },
+    {
+      "added_at": "2022-01-13 22:06:19",
+      "album": {
+        "name": "Cold nights",
+        "url": "https://open.spotify.com/album/3AnvtpEFXB5PEs7PWFkasQ"
+      },
+      "artists": [
+        {
+          "name": "Dj Phat Cat",
+          "url": "https://open.spotify.com/artist/13RyzxCXGKYrewc2VdfXJO"
+        }
+      ],
+      "duration_ms": 290095,
+      "name": "Cold nights",
+      "url": "https://open.spotify.com/track/4jrYshxS2ZdwpsQorJc0A9"
+    },
+    {
+      "added_at": "2022-01-13 22:06:19",
+      "album": {
+        "name": "DAYSBEFOREULTRA",
+        "url": "https://open.spotify.com/album/0gqM7xh9rZE7WECecUIW3X"
+      },
+      "artists": [
+        {
+          "name": "Dj Dreas",
+          "url": "https://open.spotify.com/artist/1EJixvnrDY9wZTO2VMwuuk"
+        },
+        {
+          "name": "Sean K",
+          "url": "https://open.spotify.com/artist/6ms8vWUQgHDmjPnk48deMf"
+        },
+        {
+          "name": "Imms Nicolau",
+          "url": "https://open.spotify.com/artist/1rBfDC0Niz49ybbn4RbKxz"
+        }
+      ],
+      "duration_ms": 322316,
+      "name": "BEAUTIFUL FANTASY",
+      "url": "https://open.spotify.com/track/4q3jTnVXM5yvT5m9fhBON3"
     },
     {
       "added_at": "2022-01-06 21:59:00",
@@ -99,22 +155,6 @@
       "duration_ms": 367785,
       "name": "Dtjoh (feat. Jessica LM)",
       "url": "https://open.spotify.com/track/5xMvII7rTQXy5npCqrhLEM"
-    },
-    {
-      "added_at": "2021-12-29 15:21:38",
-      "album": {
-        "name": "Do What You Love",
-        "url": "https://open.spotify.com/album/1tI5rxGJAHnY6lMeNb3KlB"
-      },
-      "artists": [
-        {
-          "name": "Echo Deep",
-          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
-        }
-      ],
-      "duration_ms": 452418,
-      "name": "Do What You Love",
-      "url": "https://open.spotify.com/track/2muTRl2whyxtWuJERhwtrs"
     },
     {
       "added_at": "2021-09-17 05:32:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Father John Misty
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,150 likes - 124 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,173 likes - 124 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

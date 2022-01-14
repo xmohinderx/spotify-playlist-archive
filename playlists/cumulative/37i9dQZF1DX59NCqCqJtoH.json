@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 175321,
       "name": "afterthoughts",
       "url": "https://open.spotify.com/track/2UmyGp3esNouKw42vwG6b8"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 190960,
       "name": "As a Child",
       "url": "https://open.spotify.com/track/2EX5zYrsrFWFPukAxfQ8Iv"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 141333,
       "name": "basketball",
       "url": "https://open.spotify.com/track/5EdmaSUzXzlOcCc44Jo206"
@@ -251,7 +251,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 256688,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 160000,
       "name": "Behind the Clouds",
       "url": "https://open.spotify.com/track/6l8mSWXw3Jy7TvM0r8W6LR"
@@ -312,6 +312,24 @@
     },
     {
       "album": {
+        "name": "Bubble",
+        "url": "https://open.spotify.com/album/2lkx1nUXlyvRiKtZoHEyeN"
+      },
+      "artists": [
+        {
+          "name": "rei brown",
+          "url": "https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157297,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/2ohheZzavZxvs6Gm3o8EUS"
+    },
+    {
+      "album": {
         "name": "Call U Tomorrow",
         "url": "https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
@@ -595,7 +613,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 114857,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/1QulgzFcNHJswXIGev88wJ"
@@ -689,7 +707,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 232131,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs"
@@ -767,7 +785,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 169840,
       "name": "falling",
       "url": "https://open.spotify.com/track/11dOflbG7PpOepza4U553L"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 199256,
       "name": "Heartbreak Anniversary",
       "url": "https://open.spotify.com/track/6VaOARPRLSrwvwkUd3n8fC"
@@ -1177,7 +1195,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 178480,
       "name": "I Can't Hate You",
       "url": "https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5"
@@ -1217,7 +1235,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
@@ -1275,7 +1293,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 125052,
       "name": "i still think of you",
       "url": "https://open.spotify.com/track/7BrbGr8S8rjrnlGLqtfFwA"
@@ -1387,7 +1405,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 153076,
       "name": "if all the people . . .",
       "url": "https://open.spotify.com/track/6vsEeepIYXoNMC7ROPfXoR"
@@ -1547,7 +1565,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 98638,
       "name": "just friends now",
       "url": "https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v"
@@ -1634,6 +1652,24 @@
     },
     {
       "album": {
+        "name": "Long Distance",
+        "url": "https://open.spotify.com/album/0nneppOsi22SxvwMOuISXQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4fPk5AIvhAOK9KELmztQxX"
+    },
+    {
+      "album": {
         "name": "look at me",
         "url": "https://open.spotify.com/album/6XMjCnFI1J7Rrw0UO0cS9o"
       },
@@ -1645,7 +1681,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 174933,
       "name": "look at me",
       "url": "https://open.spotify.com/track/2JBSKnV3N2bHltmJ4K0zBh"
@@ -2027,7 +2063,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 166956,
       "name": "One Way!",
       "url": "https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi"
@@ -2045,7 +2081,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 179427,
       "name": "Orange Hoodie",
       "url": "https://open.spotify.com/track/7zznnb4017w7BwU5tMiBi9"
@@ -2247,7 +2283,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 157929,
       "name": "Second Base",
       "url": "https://open.spotify.com/track/0krnQme22s9WqbuUq940fg"
@@ -2269,7 +2305,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 128729,
       "name": "Second Place",
       "url": "https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz"
@@ -2407,7 +2443,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 180269,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF"
@@ -2535,7 +2571,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 201600,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/6QOv3k9RU5QA8L4obUvozE"
@@ -2615,7 +2651,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
@@ -2725,7 +2761,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 226073,
       "name": "This Is Home",
       "url": "https://open.spotify.com/track/2TI2fw9FWPeah6N4k1b4NU"
@@ -2761,7 +2797,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 118400,
       "name": "To Make It Right",
       "url": "https://open.spotify.com/track/5e6fMSlENiMCn2yjxLHaw8"
@@ -2909,7 +2945,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 189360,
       "name": "We Need to Talk",
       "url": "https://open.spotify.com/track/4XHjtpHLcD4QIFjZHfkfO2"

@@ -1,13 +1,33 @@
 {
-  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w?si=444SdbtzRkGu7Xg5IkX0SQ\">Zoocci Coke Dope</a> ",
+  "description": "Only the hottest in South African Hip Hop & R&B. Cover: <a href=\"https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x?si=JfkadQmQQ7G3AxN_GlnieA\">Yugen Blakrok</a> ",
   "name": "Aux",
-  "num_followers": 31615,
+  "num_followers": 31628,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwNjM0MCwwMDAwMDRjMDAwMDAwMTdlMzE2NmZjZjEwMDAwMDE3ZGU3NjVmNWIz",
+  "snapshot_id": "MTY0MjExMjU0MiwwMDAwMDRjMTAwMDAwMTdlNTU4OGU3ZGEwMDAwMDE3ZTU1ODdlNGE2",
   "tracks": [
+    {
+      "added_at": "2022-01-13 22:22:22",
+      "album": {
+        "name": "Pedestal",
+        "url": "https://open.spotify.com/album/0fs8gp9iMsoapkPuNvyLrz"
+      },
+      "artists": [
+        {
+          "name": "Yugen Blakrok",
+          "url": "https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x"
+        },
+        {
+          "name": "Kanif The Jhatmaster",
+          "url": "https://open.spotify.com/artist/1Z4ZGwOFTMQiXjEC5XfYIi"
+        }
+      ],
+      "duration_ms": 219570,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/5PdkPSj5yuFfFN8BsGkArH"
+    },
     {
       "added_at": "2021-12-13 15:03:22",
       "album": {

@@ -395,7 +395,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 158831,
       "name": "Ipekeche",
       "url": "https://open.spotify.com/track/0X77juXIZbpwcb9CcCtt6H"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 139560,
       "name": "Kamata",
       "url": "https://open.spotify.com/track/2bLflnEjSux9pQT0WZRjFh"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 217269,
       "name": "Na Enjoy (feat. Darassa)",
       "url": "https://open.spotify.com/track/1NshVUwUc5B163Z2wfkLJK"
@@ -1220,6 +1220,24 @@
     },
     {
       "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164790,
+      "name": "Serious Love",
+      "url": "https://open.spotify.com/track/6noceDOLHTTjEtGI4xPh8P"
+    },
+    {
+      "album": {
         "name": "Shikilia",
         "url": "https://open.spotify.com/album/2tNNt8TfBPOLrJdbuxjfrl"
       },
@@ -1516,6 +1534,24 @@
     },
     {
       "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244908,
+      "name": "Utu",
+      "url": "https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57"
+    },
+    {
+      "album": {
         "name": "Wanaweweseka",
         "url": "https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA"
       },
@@ -1531,6 +1567,28 @@
       "duration_ms": 202826,
       "name": "Wanaweweseka",
       "url": "https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
+      },
+      "artists": [
+        {
+          "name": "The Ben",
+          "url": "https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206560,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
     },
     {
       "album": {

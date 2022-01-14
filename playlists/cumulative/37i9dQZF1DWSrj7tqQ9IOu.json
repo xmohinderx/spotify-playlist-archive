@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Poppy Fus\u00e9e",
+  "description": "The best French indie tracks right now. Cover: Owlle",
   "name": "Made in France",
   "published_playlist_ids": [
     "4VHp6F7a0Cbt6kPL2n6clC"
@@ -276,6 +276,24 @@
     },
     {
       "album": {
+        "name": "SADOS",
+        "url": "https://open.spotify.com/album/7dF1KlRv4vzCLyfE8sfDRG"
+      },
+      "artists": [
+        {
+          "name": "Perez",
+          "url": "https://open.spotify.com/artist/0IBv6kVhrcKaUDgSMWka5T"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233986,
+      "name": "Hommage",
+      "url": "https://open.spotify.com/track/6vYU6WUEReNiuQ8zoy7dMT"
+    },
+    {
+      "album": {
         "name": "Honey Please Be Soft & Tender",
         "url": "https://open.spotify.com/album/4QT6KOT5bn4560EwVH55hi"
       },
@@ -348,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Shake the Disease",
+        "url": "https://open.spotify.com/album/57twqWd03Wu5OmvHDHgC3A"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190188,
+      "name": "Keep on Fighting",
+      "url": "https://open.spotify.com/track/5GpC05bmwr5eQ50Yc7BTMS"
+    },
+    {
+      "album": {
         "name": "La carioca",
         "url": "https://open.spotify.com/album/7p45gGfcSoETX1sww3bcNH"
       },
@@ -389,6 +425,24 @@
       "duration_ms": 192454,
       "name": "La Cigarette",
       "url": "https://open.spotify.com/track/6FaOW5zkj9QtfDSTeHkUCI"
+    },
+    {
+      "album": {
+        "name": "La flemme",
+        "url": "https://open.spotify.com/album/5sg3y4ml5628Ti4BqFuriV"
+      },
+      "artists": [
+        {
+          "name": "Nell Widmer",
+          "url": "https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167962,
+      "name": "La flemme",
+      "url": "https://open.spotify.com/track/1mvbKqnrMeIlknpqPKoDYL"
     },
     {
       "album": {
@@ -457,7 +511,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 178973,
       "name": "Les bonnes mani\u00e8res",
       "url": "https://open.spotify.com/track/1tmEnZhAhwUjzwJ7L0QFAh"
@@ -659,7 +713,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 210110,
       "name": "Nos regards",
       "url": "https://open.spotify.com/track/3EpySzSXQYevKTq1glwGos"
@@ -749,7 +803,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 210146,
       "name": "Paris en ao\u00fbt",
       "url": "https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW"
@@ -843,6 +897,24 @@
       "duration_ms": 216306,
       "name": "Space Trip",
       "url": "https://open.spotify.com/track/5kA30CMKo6wUWiINlG4YXt"
+    },
+    {
+      "album": {
+        "name": "Superlove",
+        "url": "https://open.spotify.com/album/2Xed5UiAm9CUVasY1uo6RE"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228601,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/2HAlxc5ytQPDAeSBfDYiTu"
     },
     {
       "album": {
@@ -955,7 +1027,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 185942,
       "name": "What A Life (j'fais ma life) [feat. Suzane]",
       "url": "https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy"

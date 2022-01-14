@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 115986,
       "name": "Cretin Hop - 2017 Remaster",
       "url": "https://open.spotify.com/track/2GMujhtXaUVaSNbcTSGQ8m"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 169560,
       "name": "Here Today, Gone Tomorrow - 2017 Remaster",
       "url": "https://open.spotify.com/track/1wH6pi7gVjcpWbPMBBymfy"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 139400,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/5A9QXobyNHl8xjPZMn5kWS"
@@ -487,7 +487,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 214440,
       "name": "Life's a Gas",
       "url": "https://open.spotify.com/track/5YsuX6S5Qwx1D0mowihvTk"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 147933,
       "name": "My Back Pages",
       "url": "https://open.spotify.com/track/66LYuR8rD7vgdGkg36Nj14"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 199800,
       "name": "Somebody Put Something in My Drink",
       "url": "https://open.spotify.com/track/1dPkrVL0fXxNOhTmZk08rd"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 134240,
       "name": "Suzy Is a Headbanger - 2017 Remaster",
       "url": "https://open.spotify.com/track/5owteWmvd2fjKpvL7AXfkj"
@@ -944,6 +944,24 @@
     },
     {
       "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "Today Your Love, Tomorrow the World - 2016 Remaster",
+      "url": "https://open.spotify.com/track/7BmrfUmiDAPHGZCuPCD1F7"
+    },
+    {
+      "album": {
         "name": "Too Tough to Die (Expanded 2005 Remaster)",
         "url": "https://open.spotify.com/album/4szj932hnsBBNAfKwXAIKD"
       },
@@ -973,7 +991,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 201893,
       "name": "We Want the Airwaves - 2002 Remaster",
       "url": "https://open.spotify.com/track/6x7B9cDXyH4X7lCwH6B40o"

@@ -1,13 +1,37 @@
 {
-  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=kwrICFuOQGyJcL4irsVfaA\">Nomfundo Moh</a>",
+  "description": "Beautiful proudly South African gems made for the entire family. Cover: <a href=\"https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw?si=GzY_u4r5SnWkuO2wT303eQ\">Malome Vector</a>",
   "name": "Made In South Africa",
-  "num_followers": 62665,
+  "num_followers": 62717,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwNjM0MCwwMDAwMDI4NzAwMDAwMTdlMzE2NmZjZjkwMDAwMDE3ZGM1MmZhMGFj",
+  "snapshot_id": "MTY0MjExMTE0MCwwMDAwMDI4ODAwMDAwMTdlNTU3MzgwZWYwMDAwMDE3ZTU0NDBiNDZk",
   "tracks": [
+    {
+      "added_at": "2022-01-13 21:59:00",
+      "album": {
+        "name": "Karabo",
+        "url": "https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc"
+      },
+      "artists": [
+        {
+          "name": "Malome Vector",
+          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
+        },
+        {
+          "name": "Wave Rhyder",
+          "url": "https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX"
+        },
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        }
+      ],
+      "duration_ms": 275859,
+      "name": "1 November",
+      "url": "https://open.spotify.com/track/0xFrjHM0BH49huXC2n1fdk"
+    },
     {
       "added_at": "2022-01-06 21:59:00",
       "album": {
@@ -163,6 +187,22 @@
       "duration_ms": 300773,
       "name": "S'bali",
       "url": "https://open.spotify.com/track/3iCc4j2qlTvUmsVAtjpx2H"
+    },
+    {
+      "added_at": "2022-01-13 21:59:00",
+      "album": {
+        "name": "Karabo",
+        "url": "https://open.spotify.com/album/4ro6ViOnBmGwVdkuwIvOZc"
+      },
+      "artists": [
+        {
+          "name": "Malome Vector",
+          "url": "https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw"
+        }
+      ],
+      "duration_ms": 227343,
+      "name": "Dikeledi",
+      "url": "https://open.spotify.com/track/0j7TOSVjcDskEsbTKsXMHl"
     },
     {
       "added_at": "2021-11-25 21:59:00",
@@ -861,22 +901,6 @@
       "url": "https://open.spotify.com/track/7CBGbm4zPNGe0sbCEf1SA5"
     },
     {
-      "added_at": "2021-12-09 21:59:00",
-      "album": {
-        "name": "Ivila Laselawini",
-        "url": "https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e"
-      },
-      "artists": [
-        {
-          "name": "Mzukulu",
-          "url": "https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3"
-        }
-      ],
-      "duration_ms": 272066,
-      "name": "Dear December",
-      "url": "https://open.spotify.com/track/4AiEHmjICvY4rfu3YcRTdv"
-    },
-    {
       "added_at": "2021-10-14 21:59:00",
       "album": {
         "name": "Motion",
@@ -1003,42 +1027,6 @@
       "duration_ms": 166857,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/4ZpnEDhW89vWv0FuYoPdoF"
-    },
-    {
-      "added_at": "2021-10-07 21:59:00",
-      "album": {
-        "name": "Before Slakes",
-        "url": "https://open.spotify.com/album/6ohaQAwMQvU9lQQicuagep"
-      },
-      "artists": [
-        {
-          "name": "Sishii",
-          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
-        }
-      ],
-      "duration_ms": 188237,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5hkXUrhSgwkAdQGGxFQtGJ"
-    },
-    {
-      "added_at": "2021-12-02 22:01:03",
-      "album": {
-        "name": "Xam Deluxe",
-        "url": "https://open.spotify.com/album/3B0fhhjBs3WFi8WFC0hp84"
-      },
-      "artists": [
-        {
-          "name": "Volume",
-          "url": "https://open.spotify.com/artist/6oYSngKte6LsILQs3XddKi"
-        },
-        {
-          "name": "Laliboi",
-          "url": "https://open.spotify.com/artist/7LgOsk5bA3mGavMffSjPOZ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Madlamini",
-      "url": "https://open.spotify.com/track/7xL81mAMW6zMBy9cj5Yzoh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L"

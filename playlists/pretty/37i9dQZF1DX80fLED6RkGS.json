@@ -1,12 +1,12 @@
 {
   "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6?si=sLI4n7mHSAiv4ET_PvrWYA\">Exray Taniua</a>",
   "name": "Gengetone Fire",
-  "num_followers": 8442,
+  "num_followers": 8458,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwMjc0MCwwMDAwMDAzMDAwMDAwMTdlMzEzMDBlNzIwMDAwMDE3ZDlmYWVjZDk1",
+  "snapshot_id": "MTY0MjEwNzU0MCwwMDAwMDAzMTAwMDAwMTdlNTUzYzkyNjYwMDAwMDE3ZDlmYWVjZDk1",
   "tracks": [
     {
       "added_at": "2021-11-11 20:59:00",
@@ -31,6 +31,70 @@
       "duration_ms": 206280,
       "name": "Sipangwingwi",
       "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
+    },
+    {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "KISHASH",
+        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "duration_ms": 159940,
+      "name": "KISHASH",
+      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
+    },
+    {
+      "added_at": "2021-12-16 20:59:00",
+      "album": {
+        "name": "Sikusoma",
+        "url": "https://open.spotify.com/album/1a3FoCe2PhDksA9NLkaTov"
+      },
+      "artists": [
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        },
+        {
+          "name": "Third Eye Simba",
+          "url": "https://open.spotify.com/artist/05YkplHc6Ub6YhaM90FgyS"
+        },
+        {
+          "name": "Kemboste",
+          "url": "https://open.spotify.com/artist/1z9mH17UE163MWdaejVtJI"
+        }
+      ],
+      "duration_ms": 186566,
+      "name": "Sikusoma",
+      "url": "https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH"
+    },
+    {
+      "added_at": "2021-12-30 20:59:00",
+      "album": {
+        "name": "Unaware",
+        "url": "https://open.spotify.com/album/00B8H64IOd5NUMeeOLIMZw"
+      },
+      "artists": [
+        {
+          "name": "Matata",
+          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+        },
+        {
+          "name": "Nviiri The Storyteller",
+          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+        },
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        }
+      ],
+      "duration_ms": 201862,
+      "name": "Pombe Na Kizungu Mingi",
+      "url": "https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez"
     },
     {
       "added_at": "2022-01-06 20:59:00",
@@ -61,46 +125,6 @@
       "url": "https://open.spotify.com/track/0uDiCG0PNkRNc32AjTDDQj"
     },
     {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Sikusoma",
-        "url": "https://open.spotify.com/album/1a3FoCe2PhDksA9NLkaTov"
-      },
-      "artists": [
-        {
-          "name": "NDOVU KUU",
-          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
-        },
-        {
-          "name": "Third Eye Simba",
-          "url": "https://open.spotify.com/artist/05YkplHc6Ub6YhaM90FgyS"
-        },
-        {
-          "name": "Kemboste",
-          "url": "https://open.spotify.com/artist/1z9mH17UE163MWdaejVtJI"
-        }
-      ],
-      "duration_ms": 186566,
-      "name": "Sikusoma",
-      "url": "https://open.spotify.com/track/71GCW6cSkWo32gnlARwNbH"
-    },
-    {
-      "added_at": "2022-01-06 20:59:00",
-      "album": {
-        "name": "KISHASH",
-        "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
-      },
-      "artists": [
-        {
-          "name": "Lilmaina",
-          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
-        }
-      ],
-      "duration_ms": 159940,
-      "name": "KISHASH",
-      "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
-    },
-    {
       "added_at": "2021-11-11 20:59:00",
       "album": {
         "name": "HIVI NA HIVO",
@@ -117,28 +141,28 @@
       "url": "https://open.spotify.com/track/0lbf1IBDUh0ZRfSefOpFZT"
     },
     {
-      "added_at": "2021-12-30 20:59:00",
+      "added_at": "2021-12-16 20:59:00",
       "album": {
-        "name": "Unaware",
-        "url": "https://open.spotify.com/album/00B8H64IOd5NUMeeOLIMZw"
+        "name": "Pattern",
+        "url": "https://open.spotify.com/album/4Ro4FBtBuEP74DJIhWtBrt"
       },
       "artists": [
         {
-          "name": "Matata",
-          "url": "https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV"
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
         },
         {
-          "name": "Nviiri The Storyteller",
-          "url": "https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p"
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
         },
         {
-          "name": "Bensoul",
-          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
         }
       ],
-      "duration_ms": 201862,
-      "name": "Pombe Na Kizungu Mingi",
-      "url": "https://open.spotify.com/track/5GGS1P0wgAlCma5d0J5gez"
+      "duration_ms": 269061,
+      "name": "Pattern",
+      "url": "https://open.spotify.com/track/24gqaz90ui55C2Q5vQyao7"
     },
     {
       "added_at": "2022-01-06 20:59:00",
@@ -171,162 +195,6 @@
       "duration_ms": 240837,
       "name": "Chingri",
       "url": "https://open.spotify.com/track/695iTP0Wk2V9gBHRKiplZb"
-    },
-    {
-      "added_at": "2021-12-09 20:59:00",
-      "album": {
-        "name": "The African Experience",
-        "url": "https://open.spotify.com/album/1o2iNe8YcjPfpKpmyb3vrz"
-      },
-      "artists": [
-        {
-          "name": "Willy Paul",
-          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
-        }
-      ],
-      "duration_ms": 176842,
-      "name": "Tupewe Pombe",
-      "url": "https://open.spotify.com/track/7JpBD6OU5gJklnGdGgNIY3"
-    },
-    {
-      "added_at": "2021-12-09 20:59:00",
-      "album": {
-        "name": "Pesa Pombe Wanawake",
-        "url": "https://open.spotify.com/album/0iz0oLyJKEDN07rJ08a4bv"
-      },
-      "artists": [
-        {
-          "name": "Mavo On The Beat",
-          "url": "https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc"
-        },
-        {
-          "name": "Dj Kalonje",
-          "url": "https://open.spotify.com/artist/6QT6qUbTqnAqefTcuqD7GX"
-        },
-        {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/5jCuBflSoAHTasCXzqUkSJ"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "Pesa Pombe Wanawake",
-      "url": "https://open.spotify.com/track/4saDzv3zkl9h4BsB7q74n1"
-    },
-    {
-      "added_at": "2021-10-21 20:59:00",
-      "album": {
-        "name": "Diliti",
-        "url": "https://open.spotify.com/album/4IafXNk3DaD75qq5a6bOsB"
-      },
-      "artists": [
-        {
-          "name": "Ochungulo Family",
-          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "duration_ms": 262217,
-      "name": "Diliti",
-      "url": "https://open.spotify.com/track/2vpACJiwXcHpAMTdPSmwGT"
-    },
-    {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Pattern",
-        "url": "https://open.spotify.com/album/4Ro4FBtBuEP74DJIhWtBrt"
-      },
-      "artists": [
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        },
-        {
-          "name": "NDOVU KUU",
-          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
-        },
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        }
-      ],
-      "duration_ms": 269061,
-      "name": "Pattern",
-      "url": "https://open.spotify.com/track/24gqaz90ui55C2Q5vQyao7"
-    },
-    {
-      "added_at": "2022-01-06 20:59:00",
-      "album": {
-        "name": "Tokwa Toko",
-        "url": "https://open.spotify.com/album/04VEQB5PP0CzqKn0FnG8fC"
-      },
-      "artists": [
-        {
-          "name": "Mbuzi Gang",
-          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
-        }
-      ],
-      "duration_ms": 198269,
-      "name": "Tokwa Toko",
-      "url": "https://open.spotify.com/track/6g1mmKoGp4CUKwWDk1mff9"
-    },
-    {
-      "added_at": "2021-11-25 20:59:00",
-      "album": {
-        "name": "Mapema",
-        "url": "https://open.spotify.com/album/3XyNXEsz75dMn8LD8qxP3m"
-      },
-      "artists": [
-        {
-          "name": "Swat Matire",
-          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
-        },
-        {
-          "name": "Rekless",
-          "url": "https://open.spotify.com/artist/6sPwK0WfruZsrWiPwJek2B"
-        },
-        {
-          "name": "Harry Craze",
-          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
-        }
-      ],
-      "duration_ms": 216338,
-      "name": "Mapema",
-      "url": "https://open.spotify.com/track/14TYFA5QiKRuBZ3fzGhwES"
-    },
-    {
-      "added_at": "2021-09-02 20:59:00",
-      "album": {
-        "name": "Ala",
-        "url": "https://open.spotify.com/album/06KAfehoPTlITfvPeUKGhH"
-      },
-      "artists": [
-        {
-          "name": "Dantez 254",
-          "url": "https://open.spotify.com/artist/5PAyWgcMgE0bHnYfUvOfD7"
-        },
-        {
-          "name": "VDJ Jones",
-          "url": "https://open.spotify.com/artist/2krpMe7d1u2IS22K6ZUAAL"
-        },
-        {
-          "name": "Rekles",
-          "url": "https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k"
-        },
-        {
-          "name": "Odi wa Murang'a",
-          "url": "https://open.spotify.com/artist/1IfYutMrYWR1qwXZ5HeRO1"
-        },
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/6Yt7Wg1vDhcLmn5H2OKrCc"
-        }
-      ],
-      "duration_ms": 180453,
-      "name": "Ala",
-      "url": "https://open.spotify.com/track/2nOBa9BLxyDOev8sM82LrH"
     },
     {
       "added_at": "2021-12-16 20:59:00",
@@ -363,18 +231,18 @@
     {
       "added_at": "2021-12-09 20:59:00",
       "album": {
-        "name": "Walevi na Polisi (Exray, Lil maina)",
-        "url": "https://open.spotify.com/album/2xVo4uHyOYEFDQOhfDBSHi"
+        "name": "The African Experience",
+        "url": "https://open.spotify.com/album/1o2iNe8YcjPfpKpmyb3vrz"
       },
       "artists": [
         {
-          "name": "Magix Enga",
-          "url": "https://open.spotify.com/artist/1tCvSfQztSDLnBzKaxk4TG"
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
         }
       ],
-      "duration_ms": 234482,
-      "name": "Walevi na Polisi (Exray, Lil maina)",
-      "url": "https://open.spotify.com/track/3VWsQfBk0QwE9MWhn56ku3"
+      "duration_ms": 176842,
+      "name": "Tupewe Pombe",
+      "url": "https://open.spotify.com/track/7JpBD6OU5gJklnGdGgNIY3"
     },
     {
       "added_at": "2021-11-11 20:59:00",
@@ -395,6 +263,154 @@
       "duration_ms": 224888,
       "name": "Mchecheto",
       "url": "https://open.spotify.com/track/6fg4Pocuv72QdwLN1g16T0"
+    },
+    {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Pesa Pombe Wanawake",
+        "url": "https://open.spotify.com/album/0iz0oLyJKEDN07rJ08a4bv"
+      },
+      "artists": [
+        {
+          "name": "Mavo On The Beat",
+          "url": "https://open.spotify.com/artist/18FRsej0uytxeNbIbAMkGc"
+        },
+        {
+          "name": "Dj Kalonje",
+          "url": "https://open.spotify.com/artist/6QT6qUbTqnAqefTcuqD7GX"
+        },
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/5jCuBflSoAHTasCXzqUkSJ"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "Pesa Pombe Wanawake",
+      "url": "https://open.spotify.com/track/4saDzv3zkl9h4BsB7q74n1"
+    },
+    {
+      "added_at": "2021-11-25 20:59:00",
+      "album": {
+        "name": "Mapema",
+        "url": "https://open.spotify.com/album/3XyNXEsz75dMn8LD8qxP3m"
+      },
+      "artists": [
+        {
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Rekless",
+          "url": "https://open.spotify.com/artist/6sPwK0WfruZsrWiPwJek2B"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        }
+      ],
+      "duration_ms": 216338,
+      "name": "Mapema",
+      "url": "https://open.spotify.com/track/14TYFA5QiKRuBZ3fzGhwES"
+    },
+    {
+      "added_at": "2021-10-21 20:59:00",
+      "album": {
+        "name": "Diliti",
+        "url": "https://open.spotify.com/album/4IafXNk3DaD75qq5a6bOsB"
+      },
+      "artists": [
+        {
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "duration_ms": 262217,
+      "name": "Diliti",
+      "url": "https://open.spotify.com/track/2vpACJiwXcHpAMTdPSmwGT"
+    },
+    {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "Tokwa Toko",
+        "url": "https://open.spotify.com/album/04VEQB5PP0CzqKn0FnG8fC"
+      },
+      "artists": [
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "duration_ms": 198269,
+      "name": "Tokwa Toko",
+      "url": "https://open.spotify.com/track/6g1mmKoGp4CUKwWDk1mff9"
+    },
+    {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Big Bazu",
+        "url": "https://open.spotify.com/album/3vd6etKHS90srBicgqOkx8"
+      },
+      "artists": [
+        {
+          "name": "Hitman Kaht",
+          "url": "https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16"
+        }
+      ],
+      "duration_ms": 200854,
+      "name": "Big Bazu",
+      "url": "https://open.spotify.com/track/2NdKUbrVjrgeh2A4vtZ8VY"
+    },
+    {
+      "added_at": "2021-09-02 20:59:00",
+      "album": {
+        "name": "Ala",
+        "url": "https://open.spotify.com/album/06KAfehoPTlITfvPeUKGhH"
+      },
+      "artists": [
+        {
+          "name": "Dantez 254",
+          "url": "https://open.spotify.com/artist/5PAyWgcMgE0bHnYfUvOfD7"
+        },
+        {
+          "name": "VDJ Jones",
+          "url": "https://open.spotify.com/artist/2krpMe7d1u2IS22K6ZUAAL"
+        },
+        {
+          "name": "Rekles",
+          "url": "https://open.spotify.com/artist/4y3qwVKeBqgdlL4Clize3k"
+        },
+        {
+          "name": "Odi wa Murang'a",
+          "url": "https://open.spotify.com/artist/1IfYutMrYWR1qwXZ5HeRO1"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/6Yt7Wg1vDhcLmn5H2OKrCc"
+        }
+      ],
+      "duration_ms": 180453,
+      "name": "Ala",
+      "url": "https://open.spotify.com/track/2nOBa9BLxyDOev8sM82LrH"
+    },
+    {
+      "added_at": "2021-12-09 20:59:00",
+      "album": {
+        "name": "Walevi na Polisi (Exray, Lil maina)",
+        "url": "https://open.spotify.com/album/2xVo4uHyOYEFDQOhfDBSHi"
+      },
+      "artists": [
+        {
+          "name": "Magix Enga",
+          "url": "https://open.spotify.com/artist/1tCvSfQztSDLnBzKaxk4TG"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Walevi na Polisi (Exray, Lil maina)",
+      "url": "https://open.spotify.com/track/3VWsQfBk0QwE9MWhn56ku3"
     },
     {
       "added_at": "2021-11-19 07:31:03",
@@ -425,20 +441,24 @@
       "url": "https://open.spotify.com/track/3bvNYB78FUEGb90a36gPM6"
     },
     {
-      "added_at": "2021-12-09 20:59:00",
+      "added_at": "2021-10-21 20:59:00",
       "album": {
-        "name": "Big Bazu",
-        "url": "https://open.spotify.com/album/3vd6etKHS90srBicgqOkx8"
+        "name": "MaGallis",
+        "url": "https://open.spotify.com/album/3M6dkHVfqw2QaO9pkabQx6"
       },
       "artists": [
         {
-          "name": "Hitman Kaht",
-          "url": "https://open.spotify.com/artist/1jgOTjEFAogfS8VDFbsO16"
+          "name": "Swat Matire",
+          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+        },
+        {
+          "name": "Iano Ranking",
+          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
         }
       ],
-      "duration_ms": 200854,
-      "name": "Big Bazu",
-      "url": "https://open.spotify.com/track/2NdKUbrVjrgeh2A4vtZ8VY"
+      "duration_ms": 152424,
+      "name": "MaGallis",
+      "url": "https://open.spotify.com/track/74g3jYAi8tHVmNqhbuPczU"
     },
     {
       "added_at": "2021-10-28 20:59:00",
@@ -477,24 +497,24 @@
       "url": "https://open.spotify.com/track/2K14BPDtOZxdBdaDZZtH0n"
     },
     {
-      "added_at": "2021-10-21 20:59:00",
+      "added_at": "2021-09-30 20:59:00",
       "album": {
-        "name": "MaGallis",
-        "url": "https://open.spotify.com/album/3M6dkHVfqw2QaO9pkabQx6"
+        "name": "Taki Taki",
+        "url": "https://open.spotify.com/album/4mPRp2rWn9YZSoSpwM1uC1"
       },
       "artists": [
         {
-          "name": "Swat Matire",
-          "url": "https://open.spotify.com/artist/3xt7rgzSvLtQeWJIQHFqlV"
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
         },
         {
-          "name": "Iano Ranking",
-          "url": "https://open.spotify.com/artist/09iTULFuj81QbYSC73ebg4"
+          "name": "Lamaz Span KOB",
+          "url": "https://open.spotify.com/artist/51EooAXmnRN8GlQUNTxI0W"
         }
       ],
-      "duration_ms": 152424,
-      "name": "MaGallis",
-      "url": "https://open.spotify.com/track/74g3jYAi8tHVmNqhbuPczU"
+      "duration_ms": 193018,
+      "name": "Taki Taki",
+      "url": "https://open.spotify.com/track/6NAquV442jG57JGMcANYgN"
     },
     {
       "added_at": "2021-11-25 20:59:00",
@@ -519,26 +539,6 @@
       "duration_ms": 199200,
       "name": "Abra Cadabra",
       "url": "https://open.spotify.com/track/1NizE1ma7vfRyoRjYH72Bj"
-    },
-    {
-      "added_at": "2021-09-30 20:59:00",
-      "album": {
-        "name": "Taki Taki",
-        "url": "https://open.spotify.com/album/4mPRp2rWn9YZSoSpwM1uC1"
-      },
-      "artists": [
-        {
-          "name": "Mbuzi Gang",
-          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
-        },
-        {
-          "name": "Lamaz Span KOB",
-          "url": "https://open.spotify.com/artist/51EooAXmnRN8GlQUNTxI0W"
-        }
-      ],
-      "duration_ms": 193018,
-      "name": "Taki Taki",
-      "url": "https://open.spotify.com/track/6NAquV442jG57JGMcANYgN"
     },
     {
       "added_at": "2021-11-11 20:59:00",

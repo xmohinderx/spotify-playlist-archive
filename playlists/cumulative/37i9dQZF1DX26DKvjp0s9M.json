@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 275693,
       "name": "Anthems for a Seventeen Year Old Girl",
       "url": "https://open.spotify.com/track/4DBHHcVniAuOU7NdemvWsL"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-24",
+      "date_removed": null,
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 366826,
       "name": "Dry The Rain",
       "url": "https://open.spotify.com/track/1mTwxNQSCsgQJxBjEpaGH0"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 204400,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0VnLohgzwLEleLmo19Z8B0"
@@ -829,7 +829,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 190218,
       "name": "Gretel",
       "url": "https://open.spotify.com/track/36zqSzaPzQWZYDCNm1klgY"
@@ -865,7 +865,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
@@ -955,7 +955,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 287106,
       "name": "I'll Be Around",
       "url": "https://open.spotify.com/track/4I5kQyAYTvwHEIiZIP8B2j"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 244946,
       "name": "Lemon Glow",
       "url": "https://open.spotify.com/track/7pD6katrwWH7H3Xt8cIZS9"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 257480,
       "name": "Postcards From Italy",
       "url": "https://open.spotify.com/track/2ThEm5QN5UrJzmpAAMaH1Y"
@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 227906,
       "name": "San Francisco",
       "url": "https://open.spotify.com/track/2SOT09giYc28fUo9ppjCpw"
@@ -1701,7 +1701,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 208280,
       "name": "Saw You In A Dream",
       "url": "https://open.spotify.com/track/0U3u0HdRQjD8mAMYBak4Ok"
@@ -1881,7 +1881,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 165329,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3"
@@ -2357,7 +2357,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 280333,
       "name": "Water",
       "url": "https://open.spotify.com/track/1spp1NXsz4rHcVaJhhndKa"
@@ -2375,7 +2375,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 272230,
       "name": "Water Me Down",
       "url": "https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt"
@@ -2451,6 +2451,24 @@
       "duration_ms": 318186,
       "name": "Weird Fishes/ Arpeggi",
       "url": "https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci"
+    },
+    {
+      "album": {
+        "name": "Whatever Comes to Mind",
+        "url": "https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN"
+      },
+      "artists": [
+        {
+          "name": "MorMor",
+          "url": "https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr"
+        }
+      ],
+      "date_added": "2021-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249304,
+      "name": "Whatever Comes to Mind",
+      "url": "https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4"
     },
     {
       "album": {
@@ -2613,7 +2631,7 @@
       ],
       "date_added": "2021-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 194009,
       "name": "Your Dog",
       "url": "https://open.spotify.com/track/1BSTxGkSTTLwEpbuusHRzH"

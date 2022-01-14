@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "Hot Joints 2 (International Version)",
+        "url": "https://open.spotify.com/album/4GTBZOqxoHCAIo5RNXWXur"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2018-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234453,
+      "name": "99 Problems",
+      "url": "https://open.spotify.com/track/1Kqp9djNwTIhCsMOeRxrYu"
+    },
+    {
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -63,7 +81,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
@@ -387,7 +405,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 231160,
       "name": "Can't Nobody Hold Me Down (feat. Mase)",
       "url": "https://open.spotify.com/track/1EM23A621Z0QyTlWKu7T1l"
@@ -441,7 +459,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 245173,
       "name": "Dirt Off Your Shoulder",
       "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
@@ -741,7 +759,7 @@
       ],
       "date_added": "2019-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 239546,
       "name": "Got Your Money (feat. Kelis)",
       "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 291666,
       "name": "I Wanna Be Down",
       "url": "https://open.spotify.com/track/6N9uyMZf9pbNOuomveWscp"
@@ -1571,7 +1589,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 246960,
       "name": "Pon de Replay",
       "url": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
@@ -2005,7 +2023,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 237666,
       "name": "Tell Me When to Go (feat. Keak da Sneak)",
       "url": "https://open.spotify.com/track/7eJ5kRpMNPAk7ccCDKywjH"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 218573,
       "name": "Temperature",
       "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2018-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 279506,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"

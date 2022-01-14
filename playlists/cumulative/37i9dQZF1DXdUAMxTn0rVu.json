@@ -55,7 +55,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 252400,
       "name": "3 Tha Hard Way",
       "url": "https://open.spotify.com/track/4B1w3clws55HXvcVoItOqS"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 191720,
       "name": "Behind Closed Doors",
       "url": "https://open.spotify.com/track/5AD44maUoBRU4UHdD25wGF"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 281592,
       "name": "Bonafide (feat. Jay-Z) - Bonus Track",
       "url": "https://open.spotify.com/track/07oV92wFjUOLFeKzjtUQ2I"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 243330,
       "name": "Bumpy Knuckles Baby",
       "url": "https://open.spotify.com/track/5PU1UsxI8wuLsXWMt3t7Fy"
@@ -277,7 +277,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 198893,
       "name": "Cali Agents: The Anthem",
       "url": "https://open.spotify.com/track/7vKp5fto7JfyQyhbX8GW9L"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 267080,
       "name": "Don't Nobody Care About Us",
       "url": "https://open.spotify.com/track/56V2atr3UiIjDJVIGNN4HY"
@@ -479,7 +479,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 237230,
       "name": "For the Kids",
       "url": "https://open.spotify.com/track/6HtDVEavCO8VTOPoJM7pJX"
@@ -559,7 +559,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 276960,
       "name": "Gettin' Closer to God",
       "url": "https://open.spotify.com/track/0sdgkO6TP624IIDEbiajsx"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 290173,
       "name": "Right the Wrongs",
       "url": "https://open.spotify.com/track/1cxMLrNOldSm0gbwIoWEuH"
@@ -906,6 +906,28 @@
     },
     {
       "album": {
+        "name": "Mind Over Matter",
+        "url": "https://open.spotify.com/album/0hK8s6eayF6Ba086c4iQtw"
+      },
+      "artists": [
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+        },
+        {
+          "name": "The Grouch",
+          "url": "https://open.spotify.com/artist/1MYkU0PmvFtLiCOYxdQua7"
+        }
+      ],
+      "date_added": "2021-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334653,
+      "name": "Silly Puddy",
+      "url": "https://open.spotify.com/track/1QpJi4MgfAyvJ1jcgFu8GE"
+    },
+    {
+      "album": {
         "name": "Ritual Of The...Revisited & Remastered",
         "url": "https://open.spotify.com/album/1DmUqyMqWe72C7lJX9aJ5N"
       },
@@ -925,6 +947,24 @@
       "duration_ms": 251826,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/6VpypBnMQyP8iH2hAXaAHX"
+    },
+    {
+      "album": {
+        "name": "Ruff Draft",
+        "url": "https://open.spotify.com/album/1TRrUIWutAg8Xe99cAzmbm"
+      },
+      "artists": [
+        {
+          "name": "J Dilla",
+          "url": "https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp"
+        }
+      ],
+      "date_added": "2021-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163920,
+      "name": "The $",
+      "url": "https://open.spotify.com/track/5lQXkClM3axFsWL2NkqIW6"
     },
     {
       "album": {
@@ -1061,7 +1101,7 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 222440,
       "name": "Thick",
       "url": "https://open.spotify.com/track/7ImXlOjKprb3ADIeSTqHmg"

@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/7GdGBGwFMg21mY9kNpNKXI"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 231807,
       "name": "Are You Even Real?",
       "url": "https://open.spotify.com/track/2k0HXdTDW28JFAaS8TaHeA"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 181360,
       "name": "BNR",
       "url": "https://open.spotify.com/track/54uXC93r53jOJFuhMueold"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 93969,
       "name": "Break it off",
       "url": "https://open.spotify.com/track/5892YX6q8y3Rs9OysF08kv"
@@ -551,7 +551,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 228817,
       "name": "Drama",
       "url": "https://open.spotify.com/track/6xpS4wROa1os8dkn5amKbv"
@@ -641,7 +641,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 238040,
       "name": "Fantasy Theme",
       "url": "https://open.spotify.com/track/2Gw3KDvyrWTuunaEI9fQYm"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 171977,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/3JYPpZdVk0USJ3gtSajeV8"
@@ -753,7 +753,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 102160,
       "name": "Hey Boy (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7twY0ucjaUFUNfjkCHj1Cs"
@@ -969,7 +969,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt"
@@ -1077,7 +1077,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2QdSGpeLF0ZlAmhsf2lWhv"
@@ -1247,7 +1247,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
@@ -1511,7 +1511,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 202777,
       "name": "Sapphire Alley",
       "url": "https://open.spotify.com/track/5DamCARBr1qv1aiPS2Hip9"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 173349,
       "name": "Stop Selling Her Drugs (feat. Dominic Fike)",
       "url": "https://open.spotify.com/track/4uBQDAzZ881KYZvW7ZInUn"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 252409,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4YHuPWY3yxGo5eftu1Ixm8"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 250113,
       "name": "TRAP PHONE",
       "url": "https://open.spotify.com/track/2bqvn860XasNbI5OSHwjtt"
@@ -2065,6 +2065,28 @@
       "duration_ms": 220468,
       "name": "Yellow",
       "url": "https://open.spotify.com/track/0Yba22WJ5zZzqEsVmd6Tsj"
+    },
+    {
+      "album": {
+        "name": "You Might Be Sleeping",
+        "url": "https://open.spotify.com/album/3XF1RsUrLnAJFYICovcDYK"
+      },
+      "artists": [
+        {
+          "name": "Jakob",
+          "url": "https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2020-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147093,
+      "name": "You Might Be Sleeping",
+      "url": "https://open.spotify.com/track/7r7HYGxvCIXzHicl5DGIxM"
     },
     {
       "album": {

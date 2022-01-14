@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Ludovico Einaudi
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,158 likes - 61 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,325 likes - 61 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 21 | [Etne](https://open.spotify.com/track/0XmfdHTrbFUZgJjFnb1LqZ) | [RØRE](https://open.spotify.com/artist/6xd40M7muKpl2NKROnmT65), [Avery Bright](https://open.spotify.com/artist/0ZCIMurSKs6CryBy5jjOAr) | [Owen](https://open.spotify.com/album/4C1sWRPHj8QVZqnUA7vDzv) | 3:35 |
 | 22 | [2 Romances, Op\. 182: II\. Romance in B\-Flat Major](https://open.spotify.com/track/2N3iX5WGVWQ87F9xPjWGlc) | [Joachim Raff](https://open.spotify.com/artist/1LA9Zn3bgZCPA1VJVEvDa0), [Christoph Croisé](https://open.spotify.com/artist/4y3g3ztBiagwuJYyHSDZLK), [Oxana Shevchenko](https://open.spotify.com/artist/3Xq5O3YE5UCoPq2vzM0sNT) | [2 Romances, Op\. 182: II\. Romance in B\-Flat Major](https://open.spotify.com/album/74gvw69u1NgXpzrHKNUh7V) | 5:12 |
 | 23 | [Desert Wind](https://open.spotify.com/track/71Ab8l3HJcTSkPtJ0S7xqx) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Desert Wind](https://open.spotify.com/album/7eNZgyzVA397lC0qPP8OzB) | 2:21 |
-| 24 | [Stand by Me \- Arr\. Mark De\-Lisser & Simon Whiteley](https://open.spotify.com/track/46P4mvQPJUrJZd0qaA5jhs) | [The Queen's Six](https://open.spotify.com/artist/0NkQC2U4wmEul1pJQ37aPc) | [Stand by Me \(Arr\. For Vocal Ensemble by Mark De\-Lisser & Simon Whiteley\)](https://open.spotify.com/album/6oa4ThipHTC5TQ91i5ZLTd) | 3:16 |
+| 24 | [Stand by Me \- Arr\. Mark De\-Lisser & Simon Whiteley](https://open.spotify.com/track/46P4mvQPJUrJZd0qaA5jhs) | [The Queen's Six](https://open.spotify.com/artist/0NkQC2U4wmEul1pJQ37aPc) | [Stand by Me \(arr\. For Vocal Ensemble by Mark De\-Lisser & Simon Whiteley\)](https://open.spotify.com/album/6oa4ThipHTC5TQ91i5ZLTd) | 3:16 |
 | 25 | [Unsolved Mysteries](https://open.spotify.com/track/2wr8BsqmyT9CSbvdLuWMY9) | [Floris Boere](https://open.spotify.com/artist/5UHkfJQCZnodnpAibV8zTv) | [Unsolved Mysteries](https://open.spotify.com/album/2z4CHxfj9wYIv9cdPi4y08) | 3:21 |
 | 26 | [La fille aux cheveux de lin, L\. 117](https://open.spotify.com/track/2jBTxlEwV0rfQMSn77HFdX) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Local Brass Quintet](https://open.spotify.com/artist/6ecSQRaMR6kFkW4vVPNKhE) | [La fille aux cheveux de lin](https://open.spotify.com/album/4X6XLUqFy97zDwHVT12lIX) | 2:25 |
 | 27 | [Cello Sonata, Op\. 4: II\. Allegro con Spirito](https://open.spotify.com/track/0g82MEIvX1dgRpfse2kpya) | [Zoltán Kodály](https://open.spotify.com/artist/7MjAFDEchgyC28I0asclTE), [Marc Coppey](https://open.spotify.com/artist/41oZL5n0IRZUFijh7V7kFf), [Matan Porat](https://open.spotify.com/artist/1VkZctlgpjClbh7T85lzTE) | [Kodály: Cello Sonata, Op\. 4: II\. Allegro con Spirito](https://open.spotify.com/album/1avKW0ZeGn556V0Xs3jOf3) | 9:42 |

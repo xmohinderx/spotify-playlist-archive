@@ -1,12 +1,12 @@
 {
   "description": "The tracks heating up the continent right now! Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=5Z7nU1NlSleLiz1BSOb7Dw\"> Fireboy DML </a>  ",
   "name": "African Heat",
-  "num_followers": 874726,
+  "num_followers": 875477,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMwMDQwMCwwMDAwMDIyNDAwMDAwMTdkZTk4NWNlNDUwMDAwMDE3ZGUxYWU2NWI5",
+  "snapshot_id": "MTY0MjExNDgwMCwwMDAwMDIyNTAwMDAwMTdlNTVhYjVhMmMwMDAwMDE3ZGUxYWU2NWI5",
   "tracks": [
     {
       "added_at": "2021-12-23 23:00:00",
@@ -63,6 +63,26 @@
       "duration_ms": 212636,
       "name": "Ozumba Mbadiwe",
       "url": "https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W"
+    },
+    {
+      "added_at": "2022-01-13 23:00:00",
+      "album": {
+        "name": "Nkao Tempela",
+        "url": "https://open.spotify.com/album/3D1mDVYQeABd8ZXUiyKVQE"
+      },
+      "artists": [
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        }
+      ],
+      "duration_ms": 361528,
+      "name": "Nkao Tempela",
+      "url": "https://open.spotify.com/track/7JtWy2vvKVXLaymyTXUJ0K"
     },
     {
       "added_at": "2021-10-22 00:00:00",
@@ -539,26 +559,6 @@
       "duration_ms": 224000,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/29e2gdZN35wxeGgDtkXjIa"
-    },
-    {
-      "added_at": "2021-12-23 23:00:00",
-      "album": {
-        "name": "BADIU",
-        "url": "https://open.spotify.com/album/4fnko5FkT24IMwIzjB8ybH"
-      },
-      "artists": [
-        {
-          "name": "Dino d'Santiago",
-          "url": "https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Esquinas",
-      "url": "https://open.spotify.com/track/27pyt2AP8sdMb3hlO9uY6p"
     },
     {
       "added_at": "2021-12-02 23:02:00",

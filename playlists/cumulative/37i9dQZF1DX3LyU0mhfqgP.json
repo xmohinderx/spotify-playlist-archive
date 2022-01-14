@@ -201,10 +201,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 249044,
       "name": "Back Together",
       "url": "https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV"
+    },
+    {
+      "album": {
+        "name": "bad friend",
+        "url": "https://open.spotify.com/album/0eiudXojkB4vSVOKCQKcvu"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193049,
+      "name": "bad friend",
+      "url": "https://open.spotify.com/track/3Sy8kIcOglqz8TUMklgSVp"
     },
     {
       "album": {
@@ -219,7 +237,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 169968,
       "name": "Be In Her Bedroom",
       "url": "https://open.spotify.com/track/77yU8cXphr0D15KKJBMidV"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 204317,
       "name": "Crush",
       "url": "https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 234754,
       "name": "dance in the mirror",
       "url": "https://open.spotify.com/track/3m2e3LEMygUgU2JbJ420Iu"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 186282,
       "name": "EAT",
       "url": "https://open.spotify.com/track/2si3LIfTdDHntwQCZNsVyZ"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 174826,
       "name": "Find You",
       "url": "https://open.spotify.com/track/1QbhEVCWcR734eY5RSHTN8"
@@ -795,7 +813,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 143225,
       "name": "Freezing",
       "url": "https://open.spotify.com/track/6WQfQs9evbcqVDIh3yRR3m"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 196505,
       "name": "Getaway (feat. Tegan and Sara)",
       "url": "https://open.spotify.com/track/3GyyChTq6IZR8wtyTHh3eY"
@@ -889,7 +907,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 204904,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/4qXXw4xhTLGS7UR5l9Lbnr"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 193533,
       "name": "Heart Storm (with NAO)",
       "url": "https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t"
@@ -1147,7 +1165,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 190984,
       "name": "Hell Is A Crowded Room",
       "url": "https://open.spotify.com/track/4AyMhWSYyJCqVCpODpoUB6"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 156696,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/09DfLZY6TLOwzweoudTq4T"
@@ -1191,7 +1209,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 187639,
       "name": "Higher (feat. Alex Newell)",
       "url": "https://open.spotify.com/track/3nhbFjFcmVGyQGEAf1XzRX"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 210005,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/4QVIZ1C5fOvlwVaWywkkHz"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 250754,
       "name": "It's Okay to Cry",
       "url": "https://open.spotify.com/track/6H0R4ejgQbU15cyc0RYsIs"
@@ -1501,7 +1519,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 179512,
       "name": "love bug",
       "url": "https://open.spotify.com/track/04fe8arELvF9WbPVSq1tPj"
@@ -1591,7 +1609,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 165132,
       "name": "Marsha",
       "url": "https://open.spotify.com/track/7odL04rgtPAt0naE7Scg7m"
@@ -1609,7 +1627,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 210218,
       "name": "May Flowers",
       "url": "https://open.spotify.com/track/6ONUQ2TUUjRVlERNRxztz1"
@@ -1725,7 +1743,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 175094,
       "name": "Not Even In Vegas",
       "url": "https://open.spotify.com/track/7py49RvdjMaZCEDPzMTgo9"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 184901,
       "name": "nothing but the love",
       "url": "https://open.spotify.com/track/2tW9lXMLknjIKFmWtMpf54"
@@ -1869,7 +1887,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 231251,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/3Eabh6tji315ptr28Y2QzC"
@@ -1887,7 +1905,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 195907,
       "name": "Pride First",
       "url": "https://open.spotify.com/track/4ZjCl1QB8VxPjkFPwSlrbi"
@@ -1905,10 +1923,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 176483,
       "name": "Priorities",
       "url": "https://open.spotify.com/track/52bypla5rY64eIO39OUdRc"
+    },
+    {
+      "album": {
+        "name": "Pussy Is God",
+        "url": "https://open.spotify.com/album/4UzCY6ikiEN4rgY26I4jg0"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "Pussy Is God",
+      "url": "https://open.spotify.com/track/6VCeywT4JeawuZOUkQ1okx"
     },
     {
       "album": {
@@ -1999,7 +2035,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 197243,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F"
@@ -2035,7 +2071,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 182475,
       "name": "Semi Pro",
       "url": "https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt"
@@ -2227,7 +2263,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 244693,
       "name": "Something To Say",
       "url": "https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF"
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 176930,
       "name": "Sweet Talker",
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
@@ -2307,7 +2343,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 185231,
       "name": "Tender feat. Yoke Lore",
       "url": "https://open.spotify.com/track/0rwqECjqFgtzKksm85Hfwv"
@@ -2379,7 +2415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 197091,
       "name": "THE WAY IT WAS",
       "url": "https://open.spotify.com/track/7i6ICmeDCSHQGZpoc4cdVZ"
@@ -2397,7 +2433,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 233755,
       "name": "Thief",
       "url": "https://open.spotify.com/track/5BzkZPufqKMVZ1i7aEBDU9"
@@ -2433,7 +2469,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 178090,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/4nOv98rbyxOyLTGvjYenrJ"

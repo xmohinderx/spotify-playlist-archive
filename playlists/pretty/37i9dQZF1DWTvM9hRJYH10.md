@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\.  Cover: Leah Marie Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,558 likes - 109 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,571 likes - 109 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

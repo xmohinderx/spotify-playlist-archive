@@ -1,13 +1,297 @@
 {
-  "description": "Fresh releases from your future favorite artists. Cover: VXON, Artwork: Isu Kim\n",
+  "description": "Fresh releases from your future favorite artists. Cover: BADJII, Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
-  "num_followers": 48484,
+  "num_followers": 48541,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU0MDg2MywwMDAwMDBhNzAwMDAwMTdlMzM3NWM3ZDcwMDAwMDE3ZTMzNzU0NDBi",
+  "snapshot_id": "MTY0MjA4OTYwMCwwMDAwMDBhODAwMDAwMTdlNTQyYWQ0ODUwMDAwMDE3ZTU0MjBkZWQ3",
   "tracks": [
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Ang Buwan Na May Liwanag Sa Gabi, Ang Oras Na Walang Pagsisisi.",
+        "url": "https://open.spotify.com/album/0IcK8GvnXRU0PZYhyqzOIx"
+      },
+      "artists": [
+        {
+          "name": "mirasol",
+          "url": "https://open.spotify.com/artist/1EvvsCwJnJeYlEJeffzSAl"
+        }
+      ],
+      "duration_ms": 244250,
+      "name": "Kung Nasa'n Ka Man",
+      "url": "https://open.spotify.com/track/4YQa1Ov5dO26UBiQ9HmicI"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Tell Me Baby",
+        "url": "https://open.spotify.com/album/42cJVE3fR75AvbfMWoOxso"
+      },
+      "artists": [
+        {
+          "name": "Aletheia",
+          "url": "https://open.spotify.com/artist/1Ap0hBSflWauIezlVvbWTL"
+        },
+        {
+          "name": "BABYBLUE",
+          "url": "https://open.spotify.com/artist/0x42YctsSCMOPcgTgtKGKy"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/7jR4zItqozVAZaip6kCHt4"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Take It Slow (TIS)",
+        "url": "https://open.spotify.com/album/7vhXbNWW78775rKWL7scwt"
+      },
+      "artists": [
+        {
+          "name": "Aurelius",
+          "url": "https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u"
+        }
+      ],
+      "duration_ms": 237409,
+      "name": "Take It Slow (TIS)",
+      "url": "https://open.spotify.com/track/4PNIqLc0NcG8Rek3XWNqXX"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "MATTER OF TIME",
+        "url": "https://open.spotify.com/album/5h1hl0C2r5SDYmFmwOAaXQ"
+      },
+      "artists": [
+        {
+          "name": "WLFTOWN",
+          "url": "https://open.spotify.com/artist/65PIGJ98oayXEVcBnzZg9M"
+        }
+      ],
+      "duration_ms": 164362,
+      "name": "MATTER OF TIME",
+      "url": "https://open.spotify.com/track/5VDvv1yDvM9cS4DTu7NlkF"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Didya (Dito)",
+        "url": "https://open.spotify.com/album/5uNxhtkdjG6kDJat74lpA3"
+      },
+      "artists": [
+        {
+          "name": "BADJII",
+          "url": "https://open.spotify.com/artist/1KwB8pLfMb8x9rT8KWPUvu"
+        }
+      ],
+      "duration_ms": 265380,
+      "name": "Didya (Dito)",
+      "url": "https://open.spotify.com/track/7J01KSeyaeW69UkI8Y3YFR"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "save us",
+        "url": "https://open.spotify.com/album/4iEVo7WCX73CdhHjOorCgh"
+      },
+      "artists": [
+        {
+          "name": "Catsy",
+          "url": "https://open.spotify.com/artist/7puLdMNFEkqkDUNJBdHifE"
+        }
+      ],
+      "duration_ms": 238799,
+      "name": "save us",
+      "url": "https://open.spotify.com/track/1lXS3AAijfA1WD2DJWJH8r"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Forget About You",
+        "url": "https://open.spotify.com/album/6qrTsFqPoioJaHWi3A9LPd"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Laput",
+          "url": "https://open.spotify.com/artist/0yWy82qmLM3FybLtjSiOC5"
+        }
+      ],
+      "duration_ms": 201187,
+      "name": "Forget About You",
+      "url": "https://open.spotify.com/track/0tlBOMHdKqqoCppc2bKRoY"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "bored.",
+        "url": "https://open.spotify.com/album/38DShZ2neHNkCopeUtr7a8"
+      },
+      "artists": [
+        {
+          "name": "Beatsilog",
+          "url": "https://open.spotify.com/artist/6TZouLjmWgL00bVKZcxUM6"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "bored.",
+      "url": "https://open.spotify.com/track/4sGjqrd8BII3KoS9fB8TAl"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/2j7LIpsC5RMyUFvOuf6b72"
+      },
+      "artists": [
+        {
+          "name": "Lance Panaguiton",
+          "url": "https://open.spotify.com/artist/07mIgkwmP4ECPEBEoCzaQQ"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/6Cl3R8YOQo2gSXIPMBsdAs"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Teka Lang",
+        "url": "https://open.spotify.com/album/6r1flkO4pqaKIY7oKy4Emu"
+      },
+      "artists": [
+        {
+          "name": "grd mln",
+          "url": "https://open.spotify.com/artist/0Z39OVFeQFS76u5GHCj1OY"
+        },
+        {
+          "name": "Andrew Robles",
+          "url": "https://open.spotify.com/artist/6zgovb6XPS4Sy7XlK7sxgN"
+        }
+      ],
+      "duration_ms": 189490,
+      "name": "Teka Lang",
+      "url": "https://open.spotify.com/track/4lF1uhLlSQKpZxRYvUM2ZS"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Nasanay na",
+        "url": "https://open.spotify.com/album/7LQaKrnQkrrB2FmVvjXUzM"
+      },
+      "artists": [
+        {
+          "name": "Jazer Avellanoza",
+          "url": "https://open.spotify.com/artist/41OnIaCVXF4VgKVueO5FMN"
+        }
+      ],
+      "duration_ms": 268771,
+      "name": "Nasanay na",
+      "url": "https://open.spotify.com/track/2Oz57aHbrcmM7aGVx1NgHy"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Feelin'",
+        "url": "https://open.spotify.com/album/57OxdsGukaP6bnx3oKaJIv"
+      },
+      "artists": [
+        {
+          "name": "Jude Clarence",
+          "url": "https://open.spotify.com/artist/5nSZoxGGJh9ckvokSXPjc2"
+        },
+        {
+          "name": "Edison Lander",
+          "url": "https://open.spotify.com/artist/6EAZXro6I386rsiQ2eCzGj"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/67kL7dEFAL6kxhsCZe6wPW"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Bisig (Malamig Na Hangin)",
+        "url": "https://open.spotify.com/album/2Cxue3UsyyHM809KUqaSla"
+      },
+      "artists": [
+        {
+          "name": "Shiyou Adachi",
+          "url": "https://open.spotify.com/artist/3iYTLx5iWHZbtKzpM4fJH3"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Bisig (Malamig Na Hangin)",
+      "url": "https://open.spotify.com/track/4mm8NvCFteoH8BJTKXsxQY"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Gusto",
+        "url": "https://open.spotify.com/album/1eOYJndqb0yVPCnZmgtlXE"
+      },
+      "artists": [
+        {
+          "name": "Polo Pi",
+          "url": "https://open.spotify.com/artist/54tGnrGjbD4MBrAnBlx2f3"
+        }
+      ],
+      "duration_ms": 194899,
+      "name": "Gusto",
+      "url": "https://open.spotify.com/track/3qVdxOallW8CCUskmK3IIt"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Tawag",
+        "url": "https://open.spotify.com/album/6rYnzzwfZIoJsaoQKosbA3"
+      },
+      "artists": [
+        {
+          "name": "E$ RA",
+          "url": "https://open.spotify.com/artist/6QuJbpyw6BIpTb1nkPHOET"
+        },
+        {
+          "name": "iHO",
+          "url": "https://open.spotify.com/artist/1d9EAensleM1llhoC89OET"
+        }
+      ],
+      "duration_ms": 239997,
+      "name": "Tawag",
+      "url": "https://open.spotify.com/track/7wJPmNScI8Qbd8YbxetOQO"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2CzigDWYeybWge8rSEABkI"
+      },
+      "artists": [
+        {
+          "name": "$kinny G",
+          "url": "https://open.spotify.com/artist/18aTaCPklxEwS0SSpkPPvf"
+        },
+        {
+          "name": "Awie",
+          "url": "https://open.spotify.com/artist/7o1cM5psPSV3rxsv9JwjDm"
+        },
+        {
+          "name": "Yaweh",
+          "url": "https://open.spotify.com/artist/0VcuKzPLBhK5LDBzTIGRM4"
+        },
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/0zBTZiWtNFY4waysCHR2r6"
+        }
+      ],
+      "duration_ms": 263689,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/7gx76iGAzo2YbTspYEKNVW"
+    },
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
@@ -43,22 +327,18 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
-        "name": "Ang Kulit Ng Pag-ibig (From \"Viral Scandal\")",
-        "url": "https://open.spotify.com/album/4lJ5uNMWKJ58y6uyOfZgFW"
+        "name": "in love with the city",
+        "url": "https://open.spotify.com/album/6TiFqnah7vUVpg2tlBlW9r"
       },
       "artists": [
         {
-          "name": "Karina Bautista",
-          "url": "https://open.spotify.com/artist/3QWVkBu2nEppjRZPKHDlSg"
-        },
-        {
-          "name": "Aljon Mendoza",
-          "url": "https://open.spotify.com/artist/48wy0qEchZLaz4naYn4cbq"
+          "name": "Serif",
+          "url": "https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1"
         }
       ],
-      "duration_ms": 237866,
-      "name": "Ang Kulit Ng Pag-ibig - From \"Viral Scandal\"",
-      "url": "https://open.spotify.com/track/6yw1qxgUWJoOwHPduH4Jrv"
+      "duration_ms": 211285,
+      "name": "in love with the city",
+      "url": "https://open.spotify.com/track/5UsOLMPeAKi0Fbgzj4gqC0"
     },
     {
       "added_at": "2022-01-07 07:34:23",
@@ -83,18 +363,22 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/4mUHdFY8fuPNxZky9hqFIT"
+        "name": "Ang Kulit Ng Pag-ibig (From \"Viral Scandal\")",
+        "url": "https://open.spotify.com/album/4lJ5uNMWKJ58y6uyOfZgFW"
       },
       "artists": [
         {
-          "name": "The Adamant",
-          "url": "https://open.spotify.com/artist/4pNnLyS69VjdV0ZDll7oRS"
+          "name": "Karina Bautista",
+          "url": "https://open.spotify.com/artist/3QWVkBu2nEppjRZPKHDlSg"
+        },
+        {
+          "name": "Aljon Mendoza",
+          "url": "https://open.spotify.com/artist/48wy0qEchZLaz4naYn4cbq"
         }
       ],
-      "duration_ms": 201577,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1S2hRQnqaCVKQQ5XXQkgQT"
+      "duration_ms": 237866,
+      "name": "Ang Kulit Ng Pag-ibig - From \"Viral Scandal\"",
+      "url": "https://open.spotify.com/track/6yw1qxgUWJoOwHPduH4Jrv"
     },
     {
       "added_at": "2022-01-07 07:34:23",
@@ -115,6 +399,22 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/4mUHdFY8fuPNxZky9hqFIT"
+      },
+      "artists": [
+        {
+          "name": "The Adamant",
+          "url": "https://open.spotify.com/artist/4pNnLyS69VjdV0ZDll7oRS"
+        }
+      ],
+      "duration_ms": 201577,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1S2hRQnqaCVKQQ5XXQkgQT"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
         "name": "GLOOMBOY",
         "url": "https://open.spotify.com/album/1y3V6s8Q2QLVmFklumzBrK"
       },
@@ -127,54 +427,6 @@
       "duration_ms": 172800,
       "name": "GLOOMBOY",
       "url": "https://open.spotify.com/track/3KgOwGJtvHbYgnccI10r8W"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "Your Special Day",
-        "url": "https://open.spotify.com/album/2KQTsHpVlbTJjwhpLM0qLD"
-      },
-      "artists": [
-        {
-          "name": "Tank B Music",
-          "url": "https://open.spotify.com/artist/2BYROy3YacI3iGwZHRamsU"
-        }
-      ],
-      "duration_ms": 195985,
-      "name": "Your Special Day",
-      "url": "https://open.spotify.com/track/4dZddqrwCcoUo3SgyZIKUO"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "in love with the city",
-        "url": "https://open.spotify.com/album/6TiFqnah7vUVpg2tlBlW9r"
-      },
-      "artists": [
-        {
-          "name": "Serif",
-          "url": "https://open.spotify.com/artist/0HEonjJEXyvmEYH7yvcZo1"
-        }
-      ],
-      "duration_ms": 211285,
-      "name": "in love with the city",
-      "url": "https://open.spotify.com/track/5UsOLMPeAKi0Fbgzj4gqC0"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "Pinagtagpo",
-        "url": "https://open.spotify.com/album/6aL7gj7BwERsyeGvoq63kj"
-      },
-      "artists": [
-        {
-          "name": "Emping",
-          "url": "https://open.spotify.com/artist/1jhx24T3Mf7OhUDt57Ouzw"
-        }
-      ],
-      "duration_ms": 311631,
-      "name": "Pinagtagpo",
-      "url": "https://open.spotify.com/track/1CvAQVnkGDGVo5oPMydC6N"
     },
     {
       "added_at": "2022-01-07 07:34:23",
@@ -195,18 +447,18 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
-        "name": "Umasa Pa",
-        "url": "https://open.spotify.com/album/3UP5uKZyjF5M2OZXMr1RSd"
+        "name": "Pinagtagpo",
+        "url": "https://open.spotify.com/album/6aL7gj7BwERsyeGvoq63kj"
       },
       "artists": [
         {
-          "name": "Tambiotics",
-          "url": "https://open.spotify.com/artist/4fppdiyrayBDfbCVK2pLGM"
+          "name": "Emping",
+          "url": "https://open.spotify.com/artist/1jhx24T3Mf7OhUDt57Ouzw"
         }
       ],
-      "duration_ms": 271666,
-      "name": "Umasa Pa",
-      "url": "https://open.spotify.com/track/5WVZgtrZYW13ldnMpB5k7v"
+      "duration_ms": 311631,
+      "name": "Pinagtagpo",
+      "url": "https://open.spotify.com/track/1CvAQVnkGDGVo5oPMydC6N"
     },
     {
       "added_at": "2022-01-07 07:34:23",
@@ -239,18 +491,34 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/0xVCpJLaJxUWUzQi9naKkC"
+        "name": "Your Special Day",
+        "url": "https://open.spotify.com/album/2KQTsHpVlbTJjwhpLM0qLD"
       },
       "artists": [
         {
-          "name": "Ge Oh",
-          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+          "name": "Tank B Music",
+          "url": "https://open.spotify.com/artist/2BYROy3YacI3iGwZHRamsU"
         }
       ],
-      "duration_ms": 168222,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/0GnORmJRZV5OKyBTwEsuth"
+      "duration_ms": 195985,
+      "name": "Your Special Day",
+      "url": "https://open.spotify.com/track/4dZddqrwCcoUo3SgyZIKUO"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
+        "name": "Out of Sight",
+        "url": "https://open.spotify.com/album/5TxToG7wW5i6TipvCoUMu6"
+      },
+      "artists": [
+        {
+          "name": "heaven.",
+          "url": "https://open.spotify.com/artist/7LJ495XintkEpQT91bHKVK"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Out of Sight",
+      "url": "https://open.spotify.com/track/0i6xKBoEmesUdhYhdYpRCd"
     },
     {
       "added_at": "2022-01-07 07:34:23",
@@ -275,86 +543,6 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
-        "name": "Out of Sight",
-        "url": "https://open.spotify.com/album/5TxToG7wW5i6TipvCoUMu6"
-      },
-      "artists": [
-        {
-          "name": "heaven.",
-          "url": "https://open.spotify.com/artist/7LJ495XintkEpQT91bHKVK"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Out of Sight",
-      "url": "https://open.spotify.com/track/0i6xKBoEmesUdhYhdYpRCd"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "Change Of Pace",
-        "url": "https://open.spotify.com/album/2Gneb4KaqWcP90NXxO2shQ"
-      },
-      "artists": [
-        {
-          "name": "Gemini",
-          "url": "https://open.spotify.com/artist/3pn0EJZkmVCHSTfk5Y5m3g"
-        }
-      ],
-      "duration_ms": 237720,
-      "name": "Change Of Pace",
-      "url": "https://open.spotify.com/track/7tbZEY50vnyHLKwxnYA918"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "tell me to stay",
-        "url": "https://open.spotify.com/album/0fyd7709B20ta1ZpXNDdJj"
-      },
-      "artists": [
-        {
-          "name": "Bexyland",
-          "url": "https://open.spotify.com/artist/7vT0Fl4KIrRZwIEy8MWHYw"
-        }
-      ],
-      "duration_ms": 210198,
-      "name": "tell me to stay",
-      "url": "https://open.spotify.com/track/49xTqSLKyoyyS5JgzoSzdd"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "I'm so in Love with You",
-        "url": "https://open.spotify.com/album/6TyuMqzvCLQQY0ZeI8gzCh"
-      },
-      "artists": [
-        {
-          "name": "Lore",
-          "url": "https://open.spotify.com/artist/60jmkHNDXxsRh4BbBBRydk"
-        }
-      ],
-      "duration_ms": 244687,
-      "name": "I'm so in Love with You",
-      "url": "https://open.spotify.com/track/4A6Wup6zfnxAQCKRpcL2nV"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
-        "name": "alien",
-        "url": "https://open.spotify.com/album/4o5wUNCy1VYpXVxaLbMwMR"
-      },
-      "artists": [
-        {
-          "name": "bubblybaby",
-          "url": "https://open.spotify.com/artist/52aOQbuzcZD2HlBhlCsTGP"
-        }
-      ],
-      "duration_ms": 243112,
-      "name": "alien",
-      "url": "https://open.spotify.com/track/0260wMf41bV3EM1xXLcDWg"
-    },
-    {
-      "added_at": "2022-01-07 07:34:23",
-      "album": {
         "name": "2Solid",
         "url": "https://open.spotify.com/album/2H5Il22VbMTpel1PrF5Ogq"
       },
@@ -375,6 +563,54 @@
     {
       "added_at": "2022-01-07 07:34:23",
       "album": {
+        "name": "I'm so in Love with You",
+        "url": "https://open.spotify.com/album/6TyuMqzvCLQQY0ZeI8gzCh"
+      },
+      "artists": [
+        {
+          "name": "Lore",
+          "url": "https://open.spotify.com/artist/60jmkHNDXxsRh4BbBBRydk"
+        }
+      ],
+      "duration_ms": 244687,
+      "name": "I'm so in Love with You",
+      "url": "https://open.spotify.com/track/4A6Wup6zfnxAQCKRpcL2nV"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
+        "name": "tell me to stay",
+        "url": "https://open.spotify.com/album/0fyd7709B20ta1ZpXNDdJj"
+      },
+      "artists": [
+        {
+          "name": "Bexyland",
+          "url": "https://open.spotify.com/artist/7vT0Fl4KIrRZwIEy8MWHYw"
+        }
+      ],
+      "duration_ms": 210198,
+      "name": "tell me to stay",
+      "url": "https://open.spotify.com/track/49xTqSLKyoyyS5JgzoSzdd"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/0xVCpJLaJxUWUzQi9naKkC"
+      },
+      "artists": [
+        {
+          "name": "Ge Oh",
+          "url": "https://open.spotify.com/artist/4RMheNWdrJTHkaqubkTw3Q"
+        }
+      ],
+      "duration_ms": 168222,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/0GnORmJRZV5OKyBTwEsuth"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
         "name": "Sa Aking Place",
         "url": "https://open.spotify.com/album/0etnXPNVtIRhvPwsNcb5Yl"
       },
@@ -387,6 +623,38 @@
       "duration_ms": 131902,
       "name": "Sa Aking Place",
       "url": "https://open.spotify.com/track/10ZJRFbAWrUDyC83HZJQPs"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
+        "name": "Change Of Pace",
+        "url": "https://open.spotify.com/album/2Gneb4KaqWcP90NXxO2shQ"
+      },
+      "artists": [
+        {
+          "name": "Gemini",
+          "url": "https://open.spotify.com/artist/3pn0EJZkmVCHSTfk5Y5m3g"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Change Of Pace",
+      "url": "https://open.spotify.com/track/7tbZEY50vnyHLKwxnYA918"
+    },
+    {
+      "added_at": "2022-01-07 07:34:23",
+      "album": {
+        "name": "alien",
+        "url": "https://open.spotify.com/album/4o5wUNCy1VYpXVxaLbMwMR"
+      },
+      "artists": [
+        {
+          "name": "bubblybaby",
+          "url": "https://open.spotify.com/artist/52aOQbuzcZD2HlBhlCsTGP"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "alien",
+      "url": "https://open.spotify.com/track/0260wMf41bV3EM1xXLcDWg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd41OiKoLJY1"

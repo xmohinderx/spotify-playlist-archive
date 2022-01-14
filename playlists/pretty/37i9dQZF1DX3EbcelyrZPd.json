@@ -1,29 +1,13 @@
 {
   "description": "Get your fill of vibes straight out of Tanzania.",
   "name": "Bongo Flava",
-  "num_followers": 35265,
+  "num_followers": 35310,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUwMjc0MCwwMDAwMDAzOTAwMDAwMTdlMzEzMDBlNmYwMDAwMDE3MGM0Y2ZiMjNi",
+  "snapshot_id": "MTY0MjEwNzU0MCwwMDAwMDAzYTAwMDAwMTdlNTUzYzkyNmUwMDAwMDE3MGM0Y2ZiMjNi",
   "tracks": [
-    {
-      "added_at": "2021-12-16 20:59:00",
-      "album": {
-        "name": "Unachezaje",
-        "url": "https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 161645,
-      "name": "Unachezaje",
-      "url": "https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B"
-    },
     {
       "added_at": "2021-11-11 20:59:00",
       "album": {
@@ -43,22 +27,74 @@
     {
       "added_at": "2022-01-06 20:59:00",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/5jaJcKXR7oFsaA4gNYFmwN"
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm"
       },
       "artists": [
         {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
         },
         {
-          "name": "Messias Maricoa",
-          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+          "name": "Jovial",
+          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
         }
       ],
-      "duration_ms": 266408,
-      "name": "Teamo",
-      "url": "https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp"
+      "duration_ms": 185242,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
+    },
+    {
+      "added_at": "2022-01-13 20:59:00",
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
+      },
+      "artists": [
+        {
+          "name": "The Ben",
+          "url": "https://open.spotify.com/artist/71jxVM5UsQTnPa9DpkK21E"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
+    },
+    {
+      "added_at": "2021-12-16 20:59:00",
+      "album": {
+        "name": "Unachezaje",
+        "url": "https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "duration_ms": 161645,
+      "name": "Unachezaje",
+      "url": "https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B"
+    },
+    {
+      "added_at": "2022-01-13 20:59:00",
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 244908,
+      "name": "Utu",
+      "url": "https://open.spotify.com/track/6mzsCUtAl9yXzRQTbToJ57"
     },
     {
       "added_at": "2021-11-11 20:59:00",
@@ -79,6 +115,26 @@
       "duration_ms": 233417,
       "name": "For Your Love (feat. Zuchu)",
       "url": "https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es"
+    },
+    {
+      "added_at": "2022-01-06 20:59:00",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/5jaJcKXR7oFsaA4gNYFmwN"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Messias Maricoa",
+          "url": "https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99"
+        }
+      ],
+      "duration_ms": 266408,
+      "name": "Teamo",
+      "url": "https://open.spotify.com/track/4GlmHEpvGFWS5EsmEE9NEp"
     },
     {
       "added_at": "2021-09-16 20:59:00",
@@ -157,6 +213,22 @@
       "url": "https://open.spotify.com/track/32YvTUCswxgGAiIzUp4zLy"
     },
     {
+      "added_at": "2022-01-13 20:59:00",
+      "album": {
+        "name": "High School",
+        "url": "https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 164790,
+      "name": "Serious Love",
+      "url": "https://open.spotify.com/track/6noceDOLHTTjEtGI4xPh8P"
+    },
+    {
       "added_at": "2021-12-16 20:59:00",
       "album": {
         "name": "Ng'ari Ng'ari",
@@ -191,26 +263,6 @@
       "duration_ms": 216786,
       "name": "Tamu",
       "url": "https://open.spotify.com/track/0b4PfGB3CWfrE5DQZt6P9g"
-    },
-    {
-      "added_at": "2022-01-06 20:59:00",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm"
-      },
-      "artists": [
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Jovial",
-          "url": "https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4"
-        }
-      ],
-      "duration_ms": 185242,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
     },
     {
       "added_at": "2021-11-25 20:59:00",
@@ -359,6 +411,34 @@
     {
       "added_at": "2021-08-26 20:59:00",
       "album": {
+        "name": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
+        "url": "https://open.spotify.com/album/43FwegLk89Afrx8IlgYVtI"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Abdukiba",
+          "url": "https://open.spotify.com/artist/3x8WCqlqNZRdGrZ7lbEzJk"
+        },
+        {
+          "name": "K2ga",
+          "url": "https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW"
+        },
+        {
+          "name": "Tommy Flavour",
+          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
+        }
+      ],
+      "duration_ms": 179129,
+      "name": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
+      "url": "https://open.spotify.com/track/0LS9OwMeG8F46UbnXprQSK"
+    },
+    {
+      "added_at": "2021-08-26 20:59:00",
+      "album": {
         "name": "IYO (feat. Focalistic, Mapara A Jazz, & Ntosh Gazi)",
         "url": "https://open.spotify.com/album/6i59pzMOcP1qQ1WnEKJz80"
       },
@@ -405,6 +485,58 @@
       "url": "https://open.spotify.com/track/1eAoxRoicPL7yEBe2yUXg9"
     },
     {
+      "added_at": "2021-09-02 20:59:00",
+      "album": {
+        "name": "Teacher",
+        "url": "https://open.spotify.com/album/0JVHEH1hP4q68xZ6x6k6Mr"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        }
+      ],
+      "duration_ms": 191096,
+      "name": "Teacher",
+      "url": "https://open.spotify.com/track/56taTMDQvkZmt3veeCnedl"
+    },
+    {
+      "added_at": "2021-10-21 20:59:00",
+      "album": {
+        "name": "Gimmie (feat. Rema)",
+        "url": "https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC"
+      },
+      "artists": [
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 162361,
+      "name": "Gimmie (feat. Rema)",
+      "url": "https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV"
+    },
+    {
+      "added_at": "2021-10-07 20:59:00",
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 207385,
+      "name": "Oya Oya",
+      "url": "https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl"
+    },
+    {
       "added_at": "2021-11-25 20:59:00",
       "album": {
         "name": "Addiction (feat. Harmonize)",
@@ -447,50 +579,6 @@
       "duration_ms": 263799,
       "name": "Kufuli",
       "url": "https://open.spotify.com/track/4TKXEFQdDJop18ViF8uXvM"
-    },
-    {
-      "added_at": "2021-09-02 20:59:00",
-      "album": {
-        "name": "Teacher",
-        "url": "https://open.spotify.com/album/0JVHEH1hP4q68xZ6x6k6Mr"
-      },
-      "artists": [
-        {
-          "name": "Harmonize",
-          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
-        }
-      ],
-      "duration_ms": 191096,
-      "name": "Teacher",
-      "url": "https://open.spotify.com/track/56taTMDQvkZmt3veeCnedl"
-    },
-    {
-      "added_at": "2021-08-26 20:59:00",
-      "album": {
-        "name": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
-        "url": "https://open.spotify.com/album/43FwegLk89Afrx8IlgYVtI"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        },
-        {
-          "name": "Abdukiba",
-          "url": "https://open.spotify.com/artist/3x8WCqlqNZRdGrZ7lbEzJk"
-        },
-        {
-          "name": "K2ga",
-          "url": "https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW"
-        },
-        {
-          "name": "Tommy Flavour",
-          "url": "https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu"
-        }
-      ],
-      "duration_ms": 179129,
-      "name": "Ndombolo (feat. AbduKiba, K2ga & Tommy Flavour)",
-      "url": "https://open.spotify.com/track/0LS9OwMeG8F46UbnXprQSK"
     },
     {
       "added_at": "2021-12-06 09:51:51",
@@ -583,26 +671,6 @@
       "duration_ms": 205691,
       "name": "Loyalty (feat. Marioo & Nandy)",
       "url": "https://open.spotify.com/track/0fAXdxnOMYH45IkwEF22eC"
-    },
-    {
-      "added_at": "2021-10-21 20:59:00",
-      "album": {
-        "name": "Gimmie (feat. Rema)",
-        "url": "https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 162361,
-      "name": "Gimmie (feat. Rema)",
-      "url": "https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV"
     },
     {
       "added_at": "2021-11-25 20:59:00",
@@ -771,22 +839,6 @@
       "duration_ms": 211898,
       "name": "Swagg",
       "url": "https://open.spotify.com/track/3U1wjyEjTcdGQUTwsGHrpY"
-    },
-    {
-      "added_at": "2021-10-07 20:59:00",
-      "album": {
-        "name": "ONLY ONE KING",
-        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
-      },
-      "artists": [
-        {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
-        }
-      ],
-      "duration_ms": 207385,
-      "name": "Oya Oya",
-      "url": "https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl"
     },
     {
       "added_at": "2021-09-23 20:59:00",
@@ -1153,22 +1205,6 @@
       "url": "https://open.spotify.com/track/4xu63atX4wbJ5puwlzu2vW"
     },
     {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
-        "name": "Ipekeche",
-        "url": "https://open.spotify.com/album/6OIJE7tmtQCi5aOuivApav"
-      },
-      "artists": [
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        }
-      ],
-      "duration_ms": 158831,
-      "name": "Ipekeche",
-      "url": "https://open.spotify.com/track/0X77juXIZbpwcb9CcCtt6H"
-    },
-    {
       "added_at": "2021-08-26 20:59:00",
       "album": {
         "name": "Attitude (feat. H Baba & Awilo Longomba)",
@@ -1207,26 +1243,6 @@
       "duration_ms": 197727,
       "name": "Mapenzi",
       "url": "https://open.spotify.com/track/3mZvb0NR0xI1OsD0U8yeQx"
-    },
-    {
-      "added_at": "2021-06-25 05:29:59",
-      "album": {
-        "name": "Na Enjoy (feat. Darassa)",
-        "url": "https://open.spotify.com/album/44zwMeBG6iizss8HvneIQ1"
-      },
-      "artists": [
-        {
-          "name": "Ruby Afrika",
-          "url": "https://open.spotify.com/artist/0LJ10K0IJWJ3kLT2lWe7wW"
-        },
-        {
-          "name": "Darassa",
-          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
-        }
-      ],
-      "duration_ms": 217269,
-      "name": "Na Enjoy (feat. Darassa)",
-      "url": "https://open.spotify.com/track/1NshVUwUc5B163Z2wfkLJK"
     },
     {
       "added_at": "2021-08-26 20:59:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 187560,
       "name": "Komesha",
       "url": "https://open.spotify.com/track/2dkVYJdwNJJ3XHxLwbcfaG"
-    },
-    {
-      "added_at": "2021-08-26 20:59:00",
-      "album": {
-        "name": "Kamata",
-        "url": "https://open.spotify.com/album/3Uy9ZwsRWYXUShlaP86vSm"
-      },
-      "artists": [
-        {
-          "name": "Diamond Platnumz",
-          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Kamata",
-      "url": "https://open.spotify.com/track/2bLflnEjSux9pQT0WZRjFh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd"

@@ -1,13 +1,33 @@
 {
   "description": "New music from Gunna and 2 Chainz.  ",
   "name": "RapCaviar",
-  "num_followers": 14282872,
+  "num_followers": 14284670,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTgzMzgzMiwwMDAwMDYxNzAwMDAwMTdlNDRlYzFlZWUwMDAwMDE3ZTI2NjI1MzI5",
+  "snapshot_id": "MTY0MjExNzAxMCwwMDAwMDYxODAwMDAwMTdlNTVjZDE0NTIwMDAwMDE3ZTI2NjI1MzI5",
   "tracks": [
+    {
+      "added_at": "2022-01-13 23:36:50",
+      "album": {
+        "name": "DRIP SEASON 4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
     {
       "added_at": "2021-11-19 05:01:34",
       "album": {
@@ -207,30 +227,6 @@
       "duration_ms": 225533,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/2HHLfzE7PkljuqyYU4vwmh"
-    },
-    {
-      "added_at": "2021-12-03 08:00:00",
-      "album": {
-        "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
-        "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
-      "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
     },
     {
       "added_at": "2021-12-17 05:08:41",

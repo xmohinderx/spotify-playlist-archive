@@ -1,47 +1,15 @@
 {
-  "description": "Feel-good Afropop from Europe and Africa. Cover:  Ckay",
+  "description": "Feel-good Afropop from Europe and Africa. Cover:  Fireboy DML",
   "name": "Afro Hits",
-  "num_followers": 435596,
+  "num_followers": 436157,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUxMDA2MCwwMDAwMDEwNzAwMDAwMTdlMzE5ZmMwNWYwMDAwMDE3ZTFmYTdmZTAw",
+  "snapshot_id": "MTY0MjExNDkyMCwwMDAwMDEwODAwMDAwMTdlNTVhZDJlYzYwMDAwMDE3ZTQ1MGRjMGNk",
   "tracks": [
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Emiliana",
-        "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "Emiliana",
-      "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
-        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "D O D O",
-      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Peru",
         "url": "https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe"
@@ -57,7 +25,7 @@
       "url": "https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Sip (Alcohol)",
         "url": "https://open.spotify.com/album/5Pvx6i7lDdbDMO79DE9FHR"
@@ -73,23 +41,7 @@
       "url": "https://open.spotify.com/track/4tr4oHjFijp0EgISHYDIXe"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "La cl\u00e9",
-        "url": "https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 175613,
-      "name": "La cl\u00e9",
-      "url": "https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
@@ -105,7 +57,55 @@
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Fleur froide - Second \u00e9tat : la cristallisation",
+        "url": "https://open.spotify.com/album/07z16PvEuSgcw5wIlYgeon"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "D O D O",
+      "url": "https://open.spotify.com/track/7fWotHT92my4vLN713vFTa"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "La cl\u00e9",
+        "url": "https://open.spotify.com/album/5jRYE9b8dBSyxXv186cmyA"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 175613,
+      "name": "La cl\u00e9",
+      "url": "https://open.spotify.com/track/2ahdWh9C9d3cz31kEYXr5M"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
@@ -125,47 +125,7 @@
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Tigini (Remix)",
-        "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
-      },
-      "artists": [
-        {
-          "name": "Kikimoteleba",
-          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 196033,
-      "name": "Tigini - Remix",
-      "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 214615,
-      "name": "Running",
-      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Era",
         "url": "https://open.spotify.com/album/4EiOLderTvvNS7IzewLdm1"
@@ -185,47 +145,27 @@
       "url": "https://open.spotify.com/track/3O8Pxndt6Jm898WSLpCVGe"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "B. D\u2019OR (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+        "name": "Running",
+        "url": "https://open.spotify.com/album/1AWGHIL0jPvPGowy2GKblP"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
         },
         {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 189800,
-      "name": "B. D\u2019OR (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+      "duration_ms": 214615,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/6858xmZthZ7jEe06VyZxbN"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/0KiMw1Wkx0z8IPIHz64xdP"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 160160,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/6lIQtRTqBUC711uK0BJwlQ"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
@@ -245,7 +185,59 @@
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Tigini (Remix)",
+        "url": "https://open.spotify.com/album/5Z0OHKESY25HeRWOjEUrKp"
+      },
+      "artists": [
+        {
+          "name": "Kikimoteleba",
+          "url": "https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 196033,
+      "name": "Tigini - Remix",
+      "url": "https://open.spotify.com/track/5UrCA7KEkxjCQQEvCohIAn"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Original Vibe Machine",
+        "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "No Wahala",
+      "url": "https://open.spotify.com/track/4vHy2IHzf3EabEa7oMpUZB"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Back In Office",
         "url": "https://open.spotify.com/album/5vSyZglUnnQw4nlQC4QaRO"
@@ -265,27 +257,7 @@
       "url": "https://open.spotify.com/track/6PojTTCNlz3qo3qBKuUyaO"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
-        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 135480,
-      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
-      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
@@ -301,23 +273,27 @@
       "url": "https://open.spotify.com/track/1OoPhcM78evXIxjmSzCnmf"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "Dans la sauce",
-        "url": "https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER"
+        "name": "Bresom (feat. Naza)",
+        "url": "https://open.spotify.com/album/0R4UB0U5Cg3CIzCKOm9zCY"
       },
       "artists": [
         {
-          "name": "Ocevne",
-          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+          "name": "Jaymax",
+          "url": "https://open.spotify.com/artist/0v5TXXJsokDC2bYAUe8UAF"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 150066,
-      "name": "Dans la sauce",
-      "url": "https://open.spotify.com/track/0auHcOjJqevDw665HOHpma"
+      "duration_ms": 131296,
+      "name": "Bresom (feat. Naza)",
+      "url": "https://open.spotify.com/track/6o7lJeWBrDtsortS0FPKPJ"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Don't Call Me (feat. Zinoleesky)",
         "url": "https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD"
@@ -337,43 +313,43 @@
       "url": "https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "Bansky",
-        "url": "https://open.spotify.com/album/2RzEc6VXvPyeHNwJPcDzTf"
+        "name": "Dans la sauce",
+        "url": "https://open.spotify.com/album/3fIp7AU4MqwWu8ABwSbZER"
       },
       "artists": [
         {
-          "name": "H Magnum",
-          "url": "https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw"
+          "name": "Ocevne",
+          "url": "https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL"
+        }
+      ],
+      "duration_ms": 150066,
+      "name": "Dans la sauce",
+      "url": "https://open.spotify.com/track/0auHcOjJqevDw665HOHpma"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "love nwantiti (feat. ElGrande Toto) [North African Remix]",
+        "url": "https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 218053,
-      "name": "Bansky",
-      "url": "https://open.spotify.com/track/1hvpiPBDxOjQGgx8B7VVbE"
+      "duration_ms": 135480,
+      "name": "love nwantiti (feat. ElGrande Toto) - North African Remix",
+      "url": "https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Barnabas",
         "url": "https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU"
@@ -389,39 +365,7 @@
       "url": "https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "C'est toi",
-        "url": "https://open.spotify.com/album/2az0xXjyvJVPfNZfSTlMA8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "C'est toi",
-      "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 175989,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "CHOPLIFE (feat. Patoranking)",
         "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
@@ -441,7 +385,43 @@
       "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/0KiMw1Wkx0z8IPIHz64xdP"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 160160,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/6lIQtRTqBUC711uK0BJwlQ"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 175989,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Contr\u00f4le",
         "url": "https://open.spotify.com/album/2Ik3t8UvhZSeFGzpwZMth4"
@@ -461,7 +441,7 @@
       "url": "https://open.spotify.com/track/5MfG4KmZ0Uj4HmjIMNIUTL"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9"
@@ -481,7 +461,7 @@
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Greatness 2.0",
         "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
@@ -505,7 +485,27 @@
       "url": "https://open.spotify.com/track/62cC7k1opRIS9sdviJnVj5"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Vitamine (Remix)",
+        "url": "https://open.spotify.com/album/3R3KNEZBmPYbxGVNtqZo4q"
+      },
+      "artists": [
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Ya Levis",
+          "url": "https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu"
+        }
+      ],
+      "duration_ms": 154772,
+      "name": "Vitamine - (Remix) feat. Ya Levis",
+      "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Shakara",
         "url": "https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI"
@@ -525,7 +525,175 @@
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 196398,
+      "name": "Sure Banker",
+      "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Bansky",
+        "url": "https://open.spotify.com/album/2RzEc6VXvPyeHNwJPcDzTf"
+      },
+      "artists": [
+        {
+          "name": "H Magnum",
+          "url": "https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Bansky",
+      "url": "https://open.spotify.com/track/1hvpiPBDxOjQGgx8B7VVbE"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "BADI",
+        "url": "https://open.spotify.com/album/2lqtf1qmfFf9c6l1w6ihzS"
+      },
+      "artists": [
+        {
+          "name": "Teezee",
+          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+        },
+        {
+          "name": "DaVido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 133589,
+      "name": "BADI",
+      "url": "https://open.spotify.com/track/5LhpeOCo5Pb3sj2237XlK1"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/2az0xXjyvJVPfNZfSTlMA8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/729blbra42RS4hrSqGOU3t"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Chairlady",
+        "url": "https://open.spotify.com/album/0jQ9ghhSu0aRGH9aCqJ0D8"
+      },
+      "artists": [
+        {
+          "name": "DELLFIRE",
+          "url": "https://open.spotify.com/artist/5m7IITJVbhoq5Yl5JWXkpu"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "duration_ms": 172017,
+      "name": "Chairlady",
+      "url": "https://open.spotify.com/track/7BVfw1GhKbT9NdhCdBXyxQ"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Hackc\u0153ur",
         "url": "https://open.spotify.com/album/31VIis4tdT8O44y88gN4H4"
@@ -553,59 +721,31 @@
       "url": "https://open.spotify.com/track/0exjGVTPrIA5MYokrYG862"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "BADI",
-        "url": "https://open.spotify.com/album/2lqtf1qmfFf9c6l1w6ihzS"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf"
       },
       "artists": [
         {
-          "name": "Teezee",
-          "url": "https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B"
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
         },
         {
-          "name": "DaVido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 133589,
-      "name": "BADI",
-      "url": "https://open.spotify.com/track/5LhpeOCo5Pb3sj2237XlK1"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Back 2 Basics",
-        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
-      },
-      "artists": [
+          "name": "Bill Nass",
+          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
+        },
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 196398,
-      "name": "Sure Banker",
-      "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
+      "duration_ms": 190506,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Understand",
-      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "C\u0153ur de pirate",
         "url": "https://open.spotify.com/album/5RUwe2anLtGitvrIdf7AEk"
@@ -657,27 +797,7 @@
       "url": "https://open.spotify.com/track/6EGBu77U6DUhYvdHyuo0c8"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Toxic Love",
-        "url": "https://open.spotify.com/album/401ZkPLClE3UGAn7DepicP"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "Toxic Love",
-      "url": "https://open.spotify.com/track/7JaYn3eZYVgW4cjrvqbJWE"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Question (feat. Don Jazzy)",
         "url": "https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA"
@@ -697,7 +817,39 @@
       "url": "https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Ananas",
+        "url": "https://open.spotify.com/album/0y1P8LcQjHdFvzyDdH4B25"
+      },
+      "artists": [
+        {
+          "name": "Says'z",
+          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
+        }
+      ],
+      "duration_ms": 180298,
+      "name": "Ananas",
+      "url": "https://open.spotify.com/track/0AFpDvHPQm45QkHf0u0TXk"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Lie",
+        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Appelement Jeter",
         "url": "https://open.spotify.com/album/2IzqMzgc7qRT9tmc6pLssv"
@@ -717,107 +869,27 @@
       "url": "https://open.spotify.com/track/1mpAwnhNe837FCWXS0PpiD"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
+        "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+        "url": "https://open.spotify.com/album/6831TJYXJuShA212mn1yVi"
       },
       "artists": [
         {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+          "name": "Goya Menor",
+          "url": "https://open.spotify.com/artist/4TWOviIGJMWH79dyovGkaX"
         },
         {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
+      "duration_ms": 227100,
+      "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+      "url": "https://open.spotify.com/track/4iwiYqzoLImJraKQ9Pf2I2"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Ananas",
-        "url": "https://open.spotify.com/album/0y1P8LcQjHdFvzyDdH4B25"
-      },
-      "artists": [
-        {
-          "name": "Says'z",
-          "url": "https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG"
-        }
-      ],
-      "duration_ms": 180298,
-      "name": "Ananas",
-      "url": "https://open.spotify.com/track/0AFpDvHPQm45QkHf0u0TXk"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Lie",
-        "url": "https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Lie",
-      "url": "https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "Anoti",
-      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Nzoto",
-        "url": "https://open.spotify.com/album/5g1MSyNcRhNKQroEZ8MKOR"
-      },
-      "artists": [
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 278167,
-      "name": "Nzoto",
-      "url": "https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Crazy Tings",
-        "url": "https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Crazy Tings",
-      "url": "https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Dose",
         "url": "https://open.spotify.com/album/30D9fiPKJuwgm8HViRHEC5"
@@ -833,123 +905,23 @@
       "url": "https://open.spotify.com/track/2mIfMDTR6pNa3iWne56HGe"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/54xivw4zmylA1uKdmCDAMf"
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
       },
       "artists": [
         {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Bill Nass",
-          "url": "https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 190506,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/7a2B83pFQkhzybYiCvrRRp"
+      "duration_ms": 181360,
+      "name": "Anoti",
+      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
     },
     {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/1TMCeLmJhVY2WQwAweIyKf"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        }
-      ],
-      "duration_ms": 159434,
-      "name": "Sans moi",
-      "url": "https://open.spotify.com/track/5cZ6NaDFs0a7ZYfGpaJWEt"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/2zaKTvOcT3C8KucmNK6DEG"
-      },
-      "artists": [
-        {
-          "name": "Dj Dollar",
-          "url": "https://open.spotify.com/artist/2oJexEi180ygXf1oP4eFXl"
-        },
-        {
-          "name": "Rich Waneh",
-          "url": "https://open.spotify.com/artist/7cSjINBvZ8bddluBvrQ9iv"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/7xszz5UCYmmLxuzqCAi9x0"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Wawah B\u00e9b\u00e9",
-        "url": "https://open.spotify.com/album/5Mcui7LLoY1EkkCqnlrsRI"
-      },
-      "artists": [
-        {
-          "name": "Samarino",
-          "url": "https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7"
-        }
-      ],
-      "duration_ms": 200496,
-      "name": "Wawah b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/3zsXIz9wszecQHy0faMth0"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "PANDEMIC",
-        "url": "https://open.spotify.com/album/4DTPlpehe0NPh3hFqMOAgS"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 184686,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3ku51L937DfBoNcU9hmDQy"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Tika",
-        "url": "https://open.spotify.com/album/4sb0TqAJGWIR5Zy4q9jinw"
-      },
-      "artists": [
-        {
-          "name": "Gaz Mawete",
-          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
-        },
-        {
-          "name": "Vegedream",
-          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Tika",
-      "url": "https://open.spotify.com/track/6RipQtV9RiquhfTVBFEYc1"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
+      "added_at": "2022-01-13 23:02:00",
       "album": {
         "name": "Tap\u00e9 Poto",
         "url": "https://open.spotify.com/album/4rhV8AszF8xWebe5W9nMP9"
@@ -971,6 +943,42 @@
       "duration_ms": 250386,
       "name": "Tap\u00e9 Poto",
       "url": "https://open.spotify.com/track/06lE7fleMxHKOSXAscjo9K"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Nzoto",
+        "url": "https://open.spotify.com/album/5g1MSyNcRhNKQroEZ8MKOR"
+      },
+      "artists": [
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "duration_ms": 278167,
+      "name": "Nzoto",
+      "url": "https://open.spotify.com/track/2TXxYgXnKnq3qJTXclJHTj"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/1TMCeLmJhVY2WQwAweIyKf"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        }
+      ],
+      "duration_ms": 159434,
+      "name": "Sans moi",
+      "url": "https://open.spotify.com/track/5cZ6NaDFs0a7ZYfGpaJWEt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5"

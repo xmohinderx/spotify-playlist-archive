@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Catching flights and going global. Cover: <a href=\"https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC?si=d5Y-_SEKQH2m0R1ErOcMNw\"> Afro B</a>",
+  "description": "Catching flights and going global. Cover: <a href=\"https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=H3sjdL1LSbONuAz5j6s78A\"> Fireboy DML</a> and <a href=\"https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V?si=JWZclHrdR2y-4b5qS2idxg\"> Ed Sheeran </a>",
   "name": "Gone Abroad ",
   "published_playlist_ids": [
     "3Y8M6G8CEpUSth190sL4SQ"
@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 218152,
       "name": "If You Say",
       "url": "https://open.spotify.com/track/0Gti54i0mUfipe9LQDsbGC"
@@ -731,6 +731,24 @@
       "duration_ms": 166922,
       "name": "Intense",
       "url": "https://open.spotify.com/track/0tGqNkqJUqzp1Qt2Z6lG2c"
+    },
+    {
+      "album": {
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "jealousy (feat. rema)",
+      "url": "https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg"
     },
     {
       "album": {
@@ -915,7 +933,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 133835,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6YPJ5TbzwDltVrRR39bGzC"
@@ -1164,6 +1182,28 @@
     },
     {
       "album": {
+        "name": "Payback (feat. Knucks)",
+        "url": "https://open.spotify.com/album/7FQ4z8g9MPaIKsTdMXo0zA"
+      },
+      "artists": [
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164962,
+      "name": "Payback (feat. Knucks)",
+      "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/1JmxywVSSWS6RCBd7avdRO"
       },
@@ -1217,6 +1257,28 @@
       "duration_ms": 194896,
       "name": "Peaches (Masterkraft Remix) feat. Alpha P & Omah Lay",
       "url": "https://open.spotify.com/track/6lUpRCvUGvAymNGJzVywN8"
+    },
+    {
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
       "album": {
@@ -1335,7 +1397,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-14",
       "duration_ms": 155686,
       "name": "Say Cheese - Remix",
       "url": "https://open.spotify.com/track/0uNZ77FulqBuacdDEysX6E"
