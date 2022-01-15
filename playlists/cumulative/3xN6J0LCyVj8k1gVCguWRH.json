@@ -4006,6 +4006,28 @@
     },
     {
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/2iDomBfr8tDrI4tSG3BaSG"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184157,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1ag9F6nXZEpHzuqah54NtZ"
+    },
+    {
+      "album": {
         "name": "Cold Water",
         "url": "https://open.spotify.com/album/72ZbEjY6208Qv1H5jPaZtL"
       },
@@ -5035,7 +5057,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 184202,
       "name": "Depth",
       "url": "https://open.spotify.com/track/4i3g5rgdrOp78Fm4QmOfrq"
@@ -5813,7 +5835,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 260250,
       "name": "Empty Picture Frame",
       "url": "https://open.spotify.com/track/02Y5bIU0kjusMnjPJdAC3s"
@@ -8941,7 +8963,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 181180,
       "name": "Honest",
       "url": "https://open.spotify.com/track/06hMLKXDpvSpBPQzfwf9um"
@@ -9747,7 +9769,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 176709,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/46iMo18vJAabHoIXupE5eu"
@@ -16068,6 +16090,24 @@
     },
     {
       "album": {
+        "name": "Quick Stop By",
+        "url": "https://open.spotify.com/album/2CtI5l8yC8x1aQ9SxBYnaP"
+      },
+      "artists": [
+        {
+          "name": "Boy Willows",
+          "url": "https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Quick Stop By",
+      "url": "https://open.spotify.com/track/0slDru5T8bQJpAioZGBB8n"
+    },
+    {
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/0eGLLiTjp3IPecAJxZs5RB"
       },
@@ -18579,7 +18619,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 176880,
       "name": "Street Corner Singing",
       "url": "https://open.spotify.com/track/65zvSsLOzNaGmqYfC0prfQ"
@@ -19239,7 +19279,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 182068,
       "name": "Talk About It",
       "url": "https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght"
@@ -20113,7 +20153,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199500,
       "name": "Times Like These",
       "url": "https://open.spotify.com/track/2DCdc1G6U5FjMjBidkEzKf"
@@ -21357,7 +21397,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193469,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/2FK2XhLkQsBhWD1wFjqeWp"

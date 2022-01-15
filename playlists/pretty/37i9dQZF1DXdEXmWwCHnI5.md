@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXmWwCHnI5.md) - [plain]
 
 > Job talk, work\-life rants, office espionage, and more\. \[Warning: Explicit Content\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,817 likes - 27 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,816 likes - 27 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEXmWwCHnI5.md) - [plain]
 | 2 | [Alarm Clock](https://open.spotify.com/track/1mo66yHKJustLsSIwzEv36) | [Gary Gulman](https://open.spotify.com/artist/1e6dQzOjEh1eHhme10gUjm) | [Conversations With Inanimate Objects](https://open.spotify.com/album/4cWgeuXwUTFB18uAy3JADS) | 5:59 |
 | 3 | [Home Or Office, You Decide](https://open.spotify.com/track/6RHrQuUrdu0qGym6dzG0Q2) | [Andrew Dice Clay](https://open.spotify.com/artist/1KrDd8tfcITeBIHGXXIx4s) | [Face Down Ass Up](https://open.spotify.com/album/34etX2h85suzm2M9DTsa7p) | 0:44 |
 | 4 | [Office People \(And A Perfectly Good Font Joke\)](https://open.spotify.com/track/0NTv0rd71ormOyAcuWeRQ7) | [Christian Finnegan](https://open.spotify.com/artist/4Nwg6u4aPLC7lRbDOQ0pzn) | [Two For Flinching](https://open.spotify.com/album/6HLrkVSjV1E9KEcZ9UiYBM) | 5:48 |
-| 5 | [I Miss Working In An Office](https://open.spotify.com/track/4XZRMjOdjoD5y5GXAeftdX) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [Unwanted Thoughts Syndrome](https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz) | 8:07 |
+| 5 | [I Miss Working In An Office](https://open.spotify.com/track/4XZRMjOdjoD5y5GXAeftdX) | [Maria Bamford](https://open.spotify.com/artist/6s99GPG9mopI5PNippBKgO) | [Unwanted Thoughts Syndrome](https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz) | 8:07 |
 | 6 | [Self Employed](https://open.spotify.com/track/2C5JXQNCy1ksh6vNlApMdF) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [How To WIN!](https://open.spotify.com/album/2x8kOugRLDcwlwBkh4FETg) | 3:12 |
 | 7 | [The Saddest Place In The World](https://open.spotify.com/track/7gU79E9ArAfwQBHA6rrTYo) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [How To WIN!](https://open.spotify.com/album/2x8kOugRLDcwlwBkh4FETg) | 1:52 |
 | 8 | [Giant Corporation](https://open.spotify.com/track/0dmLAb1fohcwX8nuKJtQaG) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [How To WIN!](https://open.spotify.com/album/2x8kOugRLDcwlwBkh4FETg) | 3:38 |

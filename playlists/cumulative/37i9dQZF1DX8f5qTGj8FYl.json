@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 186066,
       "name": "116th St.",
       "url": "https://open.spotify.com/track/0CBvxTlEUQTQxwqtzr93ox"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 355986,
       "name": "7-T's",
       "url": "https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 244000,
       "name": "BITTERSWEET",
       "url": "https://open.spotify.com/track/54zWQx9UkouSu8x403Ggho"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 306050,
       "name": "CC Funk",
       "url": "https://open.spotify.com/track/4ArX95IQu1O8GUqbxAYKKe"
@@ -405,7 +405,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 175537,
       "name": "Du-Vibrations",
       "url": "https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn"
@@ -671,6 +671,24 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
+    },
+    {
+      "album": {
+        "name": "Elephant Head",
+        "url": "https://open.spotify.com/album/1CSrZ7rDATwLqZuv05Kzyd"
+      },
+      "artists": [
+        {
+          "name": "Alan Evans Trio",
+          "url": "https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Elephant Head",
+      "url": "https://open.spotify.com/track/2vaFeliGdhIM1KKQj1Aba9"
     },
     {
       "album": {
@@ -877,7 +895,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 208384,
       "name": "Getaway Car",
       "url": "https://open.spotify.com/track/4wIMg49wp66ned9IZ6QUzf"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 424306,
       "name": "Give Everybody Some",
       "url": "https://open.spotify.com/track/5Z0JfPy9qIFqbxafGsRiZy"
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 206393,
       "name": "Got Ya Movin'",
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
@@ -1091,7 +1109,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 412733,
       "name": "In the Groove",
       "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 288966,
       "name": "Lost Without You - Instrumental",
       "url": "https://open.spotify.com/track/4nH6ScStfg57QpOpQ9d6ld"
@@ -1519,7 +1537,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 308546,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/2dXr3hdVlw1jaYaeNZR8tN"
@@ -1685,7 +1703,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 217053,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1vgU4yZcYrAsAeYh5FeZ74"
@@ -1883,7 +1901,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 488031,
       "name": "Spherical (Tiny Room Sessions)",
       "url": "https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U"
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 293880,
       "name": "THE CRISIS GENERATOR",
       "url": "https://open.spotify.com/track/761kW7EB1ZjHCvGkEhoWHd"
@@ -2061,7 +2079,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210458,
       "name": "The Scarab's Quest",
       "url": "https://open.spotify.com/track/1dkfnaV3LVFH4DxADgBXsP"
@@ -2137,7 +2155,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 234545,
       "name": "This Too Shall Pass",
       "url": "https://open.spotify.com/track/3lqjFAF4mSZADKITRN1XtG"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 180157,
       "name": "We Need Love",
       "url": "https://open.spotify.com/track/6bEZVAjmga92R5uTPPxAGz"
@@ -2253,7 +2271,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 272533,
       "name": "Whistle Bump",
       "url": "https://open.spotify.com/track/12KsTSPgKRxekOejhNzmDZ"

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTtzPKJEaTC4.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTtzPKJEaTC4) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTtzPKJEaTC4)
 
-### [Masego Digs Jazz](https://open.spotify.com/playlist/3ywwixUqeVJzS3Bjhjqy1r)
+### [Masego Digs Jazz](https://open.spotify.com/playlist/2TueXG9KHKKt0m4pFfGeCr)
 
 > <a href="spotify:artist:3ycxRkcZ67ALN3GQJ57Vig">Masego</a> shares his jazz favorites
 

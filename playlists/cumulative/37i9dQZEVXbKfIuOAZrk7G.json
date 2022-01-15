@@ -115,7 +115,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186533,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 173286,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/1a1LrfgkTvfHFykIxcv8WU"
@@ -349,6 +349,24 @@
       "duration_ms": 208463,
       "name": "Cpr",
       "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+    },
+    {
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Dead Of Night",
+      "url": "https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6"
     },
     {
       "album": {
@@ -661,7 +679,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 206733,
       "name": "Half On a Sack",
       "url": "https://open.spotify.com/track/0KXO9R8yUd1BJjkEWXtor4"
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 177245,
       "name": "La Espada",
       "url": "https://open.spotify.com/track/6w969Gr8VhF02vaHs67oo9"
@@ -1270,6 +1288,24 @@
     },
     {
       "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7BSiE2JZ3ERoOtA7FP7nxA"
+      },
+      "artists": [
+        {
+          "name": "IShowSped",
+          "url": "https://open.spotify.com/artist/5eHkMHn2HSMYgBMJmvsm7H"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156792,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/0yW5Lg32eZJZKIDlyFVvcj"
+    },
+    {
+      "album": {
         "name": "ISHOWSPEED",
         "url": "https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ"
       },
@@ -1303,7 +1339,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 156799,
       "name": "Shake",
       "url": "https://open.spotify.com/track/3dMPfZLIVv662b5xJkKJdX"
@@ -1473,7 +1509,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 293727,
       "name": "Tahanan",
       "url": "https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc"

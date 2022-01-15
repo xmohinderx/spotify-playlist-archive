@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
   "name": "Viral 50 - Costa Rica",
-  "num_followers": 17920,
+  "num_followers": 17923,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1NDgwMzExLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1NTYzNjMxLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -49,7 +49,27 @@
       "url": "https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/2zUwkxPz7DW73fYRKl97n9"
+      },
+      "artists": [
+        {
+          "name": "Byron Salas",
+          "url": "https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v"
+        },
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/1KqpVKfZY3YvWndnx976s8"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Toca",
         "url": "https://open.spotify.com/album/5F385NGsmInZNMiAJEXNci"
@@ -73,43 +93,7 @@
       "url": "https://open.spotify.com/track/6BPWCe8Leba1QvcZFBuBqp"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Frenes\u00ed",
-        "url": "https://open.spotify.com/album/2zUwkxPz7DW73fYRKl97n9"
-      },
-      "artists": [
-        {
-          "name": "Byron Salas",
-          "url": "https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v"
-        },
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "Frenes\u00ed",
-      "url": "https://open.spotify.com/track/1KqpVKfZY3YvWndnx976s8"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
-        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
-      },
-      "artists": [
-        {
-          "name": "Edison Lighthouse",
-          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Love Grows (Where My Rosemary Goes)",
-      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -149,39 +133,7 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
-      },
-      "artists": [
-        {
-          "name": "Sugey Torres",
-          "url": "https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "En lo profundo/Peso",
-      "url": "https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/2XeXTWYFXd4ydyIzCgpTkv"
-      },
-      "artists": [
-        {
-          "name": "El Clooy",
-          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
-        }
-      ],
-      "duration_ms": 210321,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/2tlvQef8karWOSR9YAZZER"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "VIVIR AS\u00cd ES MORIR DE AMOR",
         "url": "https://open.spotify.com/album/3jHBdwS3nCuPC6lThrFJba"
@@ -197,7 +149,39 @@
       "url": "https://open.spotify.com/track/75HnDKDqsmEzdOKFWe5FZS"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
+        "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
+      },
+      "artists": [
+        {
+          "name": "Edison Lighthouse",
+          "url": "https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Love Grows (Where My Rosemary Goes)",
+      "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Sugey Torres",
+          "url": "https://open.spotify.com/artist/1ND1UzX6EmIrVxfsRowxIc"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "En lo profundo/Peso",
+      "url": "https://open.spotify.com/track/4mEIqavz99DpHXxi3wK46I"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Felicilandia",
         "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Troubadour",
         "url": "https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo"
@@ -237,7 +221,23 @@
       "url": "https://open.spotify.com/track/61YzdCCBPM5Pc7lIiD5i8C"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/2XeXTWYFXd4ydyIzCgpTkv"
+      },
+      "artists": [
+        {
+          "name": "El Clooy",
+          "url": "https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC"
+        }
+      ],
+      "duration_ms": 210321,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/2tlvQef8karWOSR9YAZZER"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -261,7 +261,7 @@
       "url": "https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Mon Amour (Remix)",
         "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -297,23 +297,7 @@
       "url": "https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Encanto (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Dos Oruguitas",
-      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/4FV4yInzGNhC6iSh1kX1qF"
@@ -329,7 +313,23 @@
       "url": "https://open.spotify.com/track/3REELyDyt5SPKX2387Zubv"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 214613,
+      "name": "Dos Oruguitas",
+      "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Mucho para M\u00ed",
         "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
@@ -349,59 +349,7 @@
       "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Bff <3",
-        "url": "https://open.spotify.com/album/25pzrcoYq32V2h8LNz42Wu"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Bff <3",
-      "url": "https://open.spotify.com/track/1i1RYy42uVr7KBCpA5Gjym"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "La Nueva R",
-        "url": "https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "T\u00edrame Un Hello",
-      "url": "https://open.spotify.com/track/29gcdJL6O6K11Z4eV8Qhk6"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Las Locuras M\u00edas",
-        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
-      },
-      "artists": [
-        {
-          "name": "Omar Chaparro",
-          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 225213,
-      "name": "Las Locuras M\u00edas",
-      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -421,7 +369,59 @@
       "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "La Nueva R",
+        "url": "https://open.spotify.com/album/6ZZzbA0U5oUaLbSC3Xl0H6"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "T\u00edrame Un Hello",
+      "url": "https://open.spotify.com/track/29gcdJL6O6K11Z4eV8Qhk6"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Las Locuras M\u00edas",
+        "url": "https://open.spotify.com/album/3MW5j5axtRffiCqv01Sz0P"
+      },
+      "artists": [
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 225213,
+      "name": "Las Locuras M\u00edas",
+      "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Bff <3",
+        "url": "https://open.spotify.com/album/25pzrcoYq32V2h8LNz42Wu"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Bff <3",
+      "url": "https://open.spotify.com/track/1i1RYy42uVr7KBCpA5Gjym"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Weightless (Ambient Transmission Vol. 2)",
         "url": "https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR"
@@ -437,23 +437,7 @@
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Fall in Love with You.",
-        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Fall in Love with You.",
-      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "I AM WOMAN",
         "url": "https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n"
@@ -469,7 +453,7 @@
       "url": "https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -489,7 +473,23 @@
       "url": "https://open.spotify.com/track/0luqiaAZqlVRhwVpooWC8s"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Fall in Love with You.",
+        "url": "https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Fall in Love with You.",
+      "url": "https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
@@ -505,39 +505,7 @@
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
-        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
-      },
-      "artists": [
-        {
-          "name": "Olga Luc\u00eda Vives",
-          "url": "https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Un regalo m\u00e1gico",
-      "url": "https://open.spotify.com/track/2RNhU3kHxwlQzCqYshCRmw"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "TO THE MOON",
-        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
-      },
-      "artists": [
-        {
-          "name": "Jnr Choi",
-          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "TO THE MOON",
-      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
@@ -561,7 +529,7 @@
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "MOOD (Remix)",
         "url": "https://open.spotify.com/album/7HSebWoyKTGMZTfnoahW3G"
@@ -585,39 +553,23 @@
       "url": "https://open.spotify.com/track/65wccjJxugGBsPKZcsHG49"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+        "name": "TO THE MOON",
+        "url": "https://open.spotify.com/album/2zTIjSnZvTRpX4lShuDnrt"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Jnr Choi",
+          "url": "https://open.spotify.com/artist/1Z25ZlGHqqlr3o1UGQOfNn"
         }
       ],
-      "duration_ms": 198739,
-      "name": "Hola Como Vas",
-      "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
+      "duration_ms": 152137,
+      "name": "TO THE MOON",
+      "url": "https://open.spotify.com/track/0hYFc3HSZHDaDzquLVRwBH"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -641,23 +593,39 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "ELEVEN",
-        "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 178453,
-      "name": "ELEVEN",
-      "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 198739,
+      "name": "Hola Como Vas",
+      "url": "https://open.spotify.com/track/0MEZYGMSPxNwUO4nAdQRBW"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
@@ -677,39 +645,55 @@
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "Dance Crip",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+        "name": "\u6b8b\u97ff\u6563\u6b4c",
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+      "duration_ms": 184893,
+      "name": "\u6b8b\u97ff\u6563\u6b4c",
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "Amarrau",
-        "url": "https://open.spotify.com/album/3SQszAsd4hTu1Fsqkrobxh"
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
       "artists": [
         {
-          "name": "KAVVO",
-          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 189973,
-      "name": "Amarrau",
-      "url": "https://open.spotify.com/track/1AkaZrwM7bBVjAn2RzPY8A"
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
+      },
+      "artists": [
+        {
+          "name": "Olga Luc\u00eda Vives",
+          "url": "https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22"
+        }
+      ],
+      "duration_ms": 161840,
+      "name": "Un regalo m\u00e1gico",
+      "url": "https://open.spotify.com/track/2RNhU3kHxwlQzCqYshCRmw"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF"
@@ -745,23 +729,23 @@
       "url": "https://open.spotify.com/track/7tXWUU1HgnV4YuJiNbmG1l"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "Dance Crip",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "TITAN",
         "url": "https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2"
@@ -777,23 +761,7 @@
       "url": "https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "\u6b8b\u97ff\u6563\u6b4c",
-        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "\u6b8b\u97ff\u6563\u6b4c",
-      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Monastery",
         "url": "https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC"
@@ -813,25 +781,25 @@
       "url": "https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+        "name": "Amarrau",
+        "url": "https://open.spotify.com/album/3SQszAsd4hTu1Fsqkrobxh"
       },
       "artists": [
         {
-          "name": "Mr.Kitty",
-          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+          "name": "KAVVO",
+          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
         }
       ],
-      "duration_ms": 257147,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+      "duration_ms": 189973,
+      "name": "Amarrau",
+      "url": "https://open.spotify.com/track/1AkaZrwM7bBVjAn2RzPY8A"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "Conve\u0301ncete",
+        "name": "Conv\u00e9ncete",
         "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
       },
       "artists": [
@@ -841,11 +809,11 @@
         }
       ],
       "duration_ms": 216263,
-      "name": "Conve\u0301ncete",
+      "name": "Conv\u00e9ncete",
       "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/6cRDz5pp5lfwibuNVS3xkd"
@@ -861,87 +829,67 @@
       "url": "https://open.spotify.com/track/2eyWNu8qWfur4D0TiTUaca"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "\u00c9xtasis Vol. 2 (Remix)",
-        "url": "https://open.spotify.com/album/5dloZOf6qBp71npQgtVuNB"
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
       "artists": [
         {
-          "name": "GIMARIO",
-          "url": "https://open.spotify.com/artist/6dwGGkAr0qfNOa7nPvwPDH"
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
         },
         {
-          "name": "KAVVO",
-          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
         },
         {
-          "name": "Ziidar",
-          "url": "https://open.spotify.com/artist/2wdmfXXDiICATOygKnUrNp"
-        },
-        {
-          "name": "FIO",
-          "url": "https://open.spotify.com/artist/5m5DlRu0jyCk75bFhXXR5g"
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
         }
       ],
-      "duration_ms": 224510,
-      "name": "Pens\u00e1ndote - Remix",
-      "url": "https://open.spotify.com/track/3WOwm6kginUb9Ee7AoZvt8"
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
-        "name": "Te Cre\u00ed",
-        "url": "https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW"
+        "name": "tick, tick... BOOM! (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ"
       },
       "artists": [
         {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+          "name": "Andrew Garfield",
+          "url": "https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72"
         },
         {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Te Cre\u00ed",
-      "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "El Avioncito",
-        "url": "https://open.spotify.com/album/0WxhnVh7PYSmNNe1b1BDWS"
-      },
-      "artists": [
+          "name": "Joshua Henry",
+          "url": "https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE"
+        },
         {
-          "name": "Giblack",
-          "url": "https://open.spotify.com/artist/7gaPV9Yp3OkLFjFGSscAhI"
-        }
-      ],
-      "duration_ms": 208040,
-      "name": "El Avioncito",
-      "url": "https://open.spotify.com/track/4LpLAy1TgTVg097hienIjS"
-    },
-    {
-      "added_at": "2022-01-14 12:58:31",
-      "album": {
-        "name": "Swimming Pool - EP",
-        "url": "https://open.spotify.com/album/2fzPtlFd8OSlCaIXVYrdls"
-      },
-      "artists": [
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
         {
-          "name": "Marie Madeleine",
-          "url": "https://open.spotify.com/artist/42Wmw8g4Cl9ZsxYR8prhSC"
+          "name": "Robin de Jesus",
+          "url": "https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32"
+        },
+        {
+          "name": "Alexandra Shipp",
+          "url": "https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF"
+        },
+        {
+          "name": "MJ Rodriguez",
+          "url": "https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig"
         }
       ],
-      "duration_ms": 327813,
-      "name": "Swimming Pool",
-      "url": "https://open.spotify.com/track/3BMqVk2NJbH4fxf84e8kDC"
+      "duration_ms": 262505,
+      "name": "30/90 (from \"tick, tick... BOOM!\" Soundtrack from the Netflix Film)",
+      "url": "https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -969,7 +917,75 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-14 12:58:31",
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Te Cre\u00ed",
+        "url": "https://open.spotify.com/album/03IYqrR1pFpSIRi323LrwW"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Te Cre\u00ed",
+      "url": "https://open.spotify.com/track/1G2ZDpnDiNoS2hLunRxsvL"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0PLo7Nd9uUa6shrWWOmJsQ"
+      },
+      "artists": [
+        {
+          "name": "Mr.Kitty",
+          "url": "https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y"
+        }
+      ],
+      "duration_ms": 257147,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/0zCgWGmDF0aih5qexATyBn"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
+      "album": {
+        "name": "The Perfect Girl",
+        "url": "https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24"
+      },
+      "artists": [
+        {
+          "name": "Mareux",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "The Perfect Girl",
+      "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
+    },
+    {
+      "added_at": "2022-01-15 12:07:11",
       "album": {
         "name": "Que Bella",
         "url": "https://open.spotify.com/album/1Icd1BcnIoZrCWwPwr6RiT"

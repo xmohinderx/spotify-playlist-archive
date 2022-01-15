@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 297330,
       "name": "A Failure",
       "url": "https://open.spotify.com/track/7m7tomE2aqrzEBuVpflp2l"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 211874,
       "name": "Alice - John Peel Session: 1982",
       "url": "https://open.spotify.com/track/6nefKdxxJKH9dWlDqdCXmm"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 278413,
       "name": "Allegedly, Dancefloor Tragedy",
       "url": "https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 219226,
       "name": "Baby Turns Blue",
       "url": "https://open.spotify.com/track/3bTYU6srrW2KJ9PVuDUtKd"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Beatrix",
       "url": "https://open.spotify.com/track/5IR9k9SMKS0kuEHAVtZIhG"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 208360,
       "name": "Cat House",
       "url": "https://open.spotify.com/track/053m4id9rWaV51dCV5sqts"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 272066,
       "name": "Cossacks Are",
       "url": "https://open.spotify.com/track/4ihCn6wzja5AOxVZdahR5z"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 350413,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/4fokGJSBrxFIvt01vz1Fbe"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 199944,
       "name": "Helena",
       "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 282666,
       "name": "His Box",
       "url": "https://open.spotify.com/track/4auQElRGeVu94YhwonIdek"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 219426,
       "name": "Hollow Eyes",
       "url": "https://open.spotify.com/track/1Vm4cPqMS50k2zM70viOOl"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 233160,
       "name": "Ivo",
       "url": "https://open.spotify.com/track/0N4JIfesak2J82auEiirwa"
@@ -1081,7 +1081,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 209093,
       "name": "Kangaroo (Remastered)",
       "url": "https://open.spotify.com/track/1HdIqEOl9MxoJNsz33VOvW"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Isn\u2019t Anything",
+        "url": "https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g"
+    },
+    {
+      "album": {
         "name": "Night Time",
         "url": "https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm"
       },
@@ -1189,7 +1207,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 238400,
       "name": "Mirror People '88 - (Single Edit)",
       "url": "https://open.spotify.com/track/1RlfUlIEWWEzCwXfn5PVRM"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235173,
       "name": "No Big Deal - (Single Edit)",
       "url": "https://open.spotify.com/track/77DLCTxsPYFU1qA4Q66DPC"
@@ -1459,7 +1477,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 295280,
       "name": "One by One",
       "url": "https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h"
@@ -1477,7 +1495,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Painted Black",
       "url": "https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh"
@@ -1495,7 +1513,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "Pale Empress",
       "url": "https://open.spotify.com/track/0MpED5lINAluPXp1zoS0Zq"
@@ -1603,7 +1621,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 359215,
       "name": "Promises",
       "url": "https://open.spotify.com/track/0zJRyxJSwRAO2IM8JMfu1Y"
@@ -1783,7 +1801,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 301880,
       "name": "Sculpting the Exodus",
       "url": "https://open.spotify.com/track/1XEttwWu7tXhKpCFpYQtf2"
@@ -1909,7 +1927,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 246560,
       "name": "Snake Dance",
       "url": "https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ"
@@ -1927,7 +1945,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 260746,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/6AqzHdj8Wlokm62tmFwG1D"
@@ -2089,7 +2107,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 253880,
       "name": "The Interimlovers",
       "url": "https://open.spotify.com/track/6IfWLGF3IOFJN836q5ATlV"
@@ -2125,7 +2143,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 220093,
       "name": "The Lovecats",
       "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
@@ -2161,7 +2179,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 245466,
       "name": "The Sanity Assassin",
       "url": "https://open.spotify.com/track/3YOq3S4v776CYTWru41U4V"
@@ -2233,7 +2251,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 658999,
       "name": "This Corrosion - (Remastered)",
       "url": "https://open.spotify.com/track/1Wl1jzaf9XtCWlB5hDxiGz"
@@ -2251,7 +2269,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 486240,
       "name": "Tower Of Strength",
       "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
@@ -2305,7 +2323,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 298520,
       "name": "Under The Milky Way",
       "url": "https://open.spotify.com/track/39Skq6MS8fFyrv5v02RDqO"
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 273092,
       "name": "Until Before After",
       "url": "https://open.spotify.com/track/6oIEW3Yv1MaxeoGslHyfG4"
@@ -2341,7 +2359,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 169720,
       "name": "Valentine's Day",
       "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
@@ -2377,7 +2395,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 231506,
       "name": "Watersong",
       "url": "https://open.spotify.com/track/60kgQtJNMGRaFfzwy18XUY"
@@ -2413,7 +2431,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 312253,
       "name": "We're So Happy",
       "url": "https://open.spotify.com/track/3gjLdLHagRcSIbkQYI4zAe"

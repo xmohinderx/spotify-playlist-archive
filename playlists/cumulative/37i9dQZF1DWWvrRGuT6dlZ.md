@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWvrRGuT6dlZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWvrRGuT6dlZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWvrRGuT6dlZ)
 
-### [Fresh Finds SG & MY](https://open.spotify.com/playlist/49REKYY9XiyVYUO3dO8IjA)
+### [Fresh Finds SG & MY](https://open.spotify.com/playlist/3clZuxYeboHhluz5fN0HIw)
 
 > Unearthing your new favourite artists\. Cover: Ralph Alvern, Karena Yeo, Vessail\. Artwork: Isu Kim
 
@@ -23,7 +23,7 @@
 | [Better Days](https://open.spotify.com/track/1OHCR5feWzz6gvD7hSaesu) | [Lara Alyssa](https://open.spotify.com/artist/2YFNMLajZOMN5HLbVKs7sD), [J.O](https://open.spotify.com/artist/3WGNMotvcqvXUeagYi8N2u) | [Better Days](https://open.spotify.com/album/1ZkzR8JtuOZnEMeF7ybxIQ) | 3:29 | 2021-12-01 | 2022-01-14 |
 | [bittersweet](https://open.spotify.com/track/2VhCaIbw36S8NXi6734ehU) | [CLARY](https://open.spotify.com/artist/0cvCbPXZzELIrIYQl2yxLm), [zeauk](https://open.spotify.com/artist/6lSwya9NXVN29RnQqQCHnE) | [bittersweet](https://open.spotify.com/album/6JrE0n1iAvsxx1ae2V2j6P) | 3:01 | 2022-01-13 |  |
 | [Broken Reflection](https://open.spotify.com/track/7boZJzzpdwFUOYjAIRNzIo) | [Mia Insyirah](https://open.spotify.com/artist/0PAUnfVTskeFqLIQV1IjV2) | [Broken Reflection](https://open.spotify.com/album/70tSiWNRM6jDvYat6H9Hhs) | 2:27 | 2021-12-01 | 2022-01-14 |
-| [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/7I7xpywOvyUXyHZzTZuLe4) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 | 2022-01-13 |  |
+| [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/3A2xivbWFzprF2vmp644ii) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 | 2022-01-13 |  |
 | [Call Out](https://open.spotify.com/track/5cnCKbndudY9uSCzmDY6rG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Call Out](https://open.spotify.com/album/2r8OpLaGO0nOtI27wTaBfH) | 3:18 | 2022-01-13 |  |
 | [Can't Help](https://open.spotify.com/track/5nCKK5vgs26rYVNwH86LuL) | [Tyas Iglesias](https://open.spotify.com/artist/7BWkc2qgMWZWVbP2vUTob1), [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [Can't Help](https://open.spotify.com/album/2oYXIxJqncwXBRJBnDaOSE) | 3:10 | 2022-01-13 |  |
 | [Change Your Mind](https://open.spotify.com/track/0PfHYUyIkw55EztJ13P9fQ) | [Cravism](https://open.spotify.com/artist/5VJEmiTk1xkj60ts3ZmoHf), [Maya Diegel](https://open.spotify.com/artist/3hzkGIJ8l5mkn2L7XhSCxW) | [Caryatid EP](https://open.spotify.com/album/1GjK8gU15W82DQbXmhpvNZ) | 2:36 | 2022-01-13 |  |

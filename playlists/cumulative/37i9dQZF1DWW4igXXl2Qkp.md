@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW4igXXl2Qkp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW4igXXl2Qkp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW4igXXl2Qkp)
 
-### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/41VRWZsaSZWGXVQRtRrSEf)
+### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/40eAVRbGXgZdQCXsvVZyuq)
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Saucy Santana, Artwork: Alfie Kungu
 

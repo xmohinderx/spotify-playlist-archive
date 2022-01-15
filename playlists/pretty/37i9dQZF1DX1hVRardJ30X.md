@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Don Omar
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,915 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,099 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 16 | [Miami Beach](https://open.spotify.com/track/1etZSRxp79Sh7UDPYnje2L) | [Audri Nix](https://open.spotify.com/artist/3JRFmLODLzfpDsIM6xdaLa) | [Miami Beach](https://open.spotify.com/album/2gm7v58VtLzOuqeOnrSwfH) | 2:55 |
 | 17 | [Por Amarte](https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Summer Pack](https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm) | 3:56 |
 | 18 | [Problemático](https://open.spotify.com/track/3D3ek5Ts78bkWEopL6zIjv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Problemático](https://open.spotify.com/album/490OSKw7jSVNmS31iOXXQc) | 4:22 |
-| 19 | [No Me Busques Más](https://open.spotify.com/track/3iVWXR78V8pQYxbJkhGMXQ) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [No Me Busques Más](https://open.spotify.com/album/6PczPB5VsyYpDRh18dSCsp) | 3:24 |
+| 19 | [No Me Busques Más](https://open.spotify.com/track/3iVWXR78V8pQYxbJkhGMXQ) | [Angel Bleu](https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [No Me Busques Más](https://open.spotify.com/album/6PczPB5VsyYpDRh18dSCsp) | 3:23 |
 | 20 | [El Jala Jala \- Remix](https://open.spotify.com/track/5FAKHrmhsggTdqyCtML3u6) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [El Jala Jala \(Remix\)](https://open.spotify.com/album/2Y9QFIbAvw7w9q46GBhXzf) | 2:42 |
 | 21 | [Si Quieres](https://open.spotify.com/track/0tz0qWCPcibn4ZAICo2ecR) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Quieres](https://open.spotify.com/album/1YEn3QJJuKkNiDHNekILF7) | 3:45 |
 | 22 | [Sakalakashanga](https://open.spotify.com/track/6Eclvq2hFXEJ83meyFDze0) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o), [DIGITAL KINGZ](https://open.spotify.com/artist/57KTCkLFeUtf1TdKiRMGnG) | [Sakalakashanga](https://open.spotify.com/album/7MAoQ4q3yWzhn0FHWhtpSN) | 3:02 |

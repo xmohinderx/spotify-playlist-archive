@@ -1,13 +1,33 @@
 {
   "description": "Holdin' it down for the westside. Cover: Roddy Ricch\n",
   "name": "Westside Story",
-  "num_followers": 679471,
+  "num_followers": 679556,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
   "snapshot_id": "MTY0MjE5NTM1OCwwMDAwMDUwNzAwMDAwMTdlNWE3ODkyMTYwMDAwMDE3ZTMxYThhYjlj",
   "tracks": [
+    {
+      "added_at": "2022-01-14 21:22:38",
+      "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
     {
       "added_at": "2021-12-17 05:00:00",
       "album": {

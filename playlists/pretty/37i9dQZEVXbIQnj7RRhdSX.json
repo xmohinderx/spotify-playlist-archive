@@ -1,15 +1,43 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
   "name": "Top 50 - Italy",
-  "num_followers": 972011,
+  "num_followers": 972139,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1NDc1MzAyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1NTU3NzczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        }
+      ],
+      "duration_ms": 174619,
+      "name": "CRY LATER (feat. Sfera Ebbasta & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/6rY8VQS4hEgdG3OqKd9lBJ"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -33,7 +61,199 @@
       "url": "https://open.spotify.com/track/3NbehQmQsyuN17EP7dW5mJ"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 202838,
+      "name": "NO RATZ (feat. Capo Plaza & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/0pzDoErUocBHYar9ySh3Tl"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Ketama126",
+          "url": "https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "VOLANTE 4 (feat. Ketama126 & Franco126)",
+      "url": "https://open.spotify.com/track/3IW5tZl52SCJW3BOuE9CIn"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 123061,
+      "name": "UOMO A TERRA",
+      "url": "https://open.spotify.com/track/3aaxVh7kAA5h5IszxwYjYR"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "FOOT LOCKER (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0SomBlPtHp2B72QpLX3bRr"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "VIRUS",
+      "url": "https://open.spotify.com/track/21PGTyPShWqLrBaTUd3k20"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 203544,
+      "name": "WELCOME BACK (feat. Raekwon)",
+      "url": "https://open.spotify.com/track/5E0PcREYdAn70xQPylf76v"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Gemello",
+          "url": "https://open.spotify.com/artist/3GNq6JwYWh8B2xujy6ub04"
+        },
+        {
+          "name": "Metal Carter",
+          "url": "https://open.spotify.com/artist/0H4qKbzvpxPEz0Vbm7ULo4"
+        }
+      ],
+      "duration_ms": 258665,
+      "name": "VERANO ZOMBIE PT.3 (feat. Gemello & Metal Carter)",
+      "url": "https://open.spotify.com/track/5FUSmeF3iIYBXsANx5Z6A6"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Sine",
+          "url": "https://open.spotify.com/artist/4IEJn7FhTQoNgvSlBH8H6n"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "SPINE (feat. Coez)",
+      "url": "https://open.spotify.com/track/6WeWS6o2LddqgPKgmW7AVa"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -65,7 +285,7 @@
       "url": "https://open.spotify.com/track/1QlqHpITeEHB4EWFGqks9J"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
@@ -85,7 +305,103 @@
       "url": "https://open.spotify.com/track/2VyZWWKamfq7kVnh5gMgPd"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Franco126",
+          "url": "https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc"
+        }
+      ],
+      "duration_ms": 199148,
+      "name": "BLISTER (feat. Franco126)",
+      "url": "https://open.spotify.com/track/2QDYjH6jUYG61QlEfMyzdL"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 159095,
+      "name": "DOPE BOY",
+      "url": "https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Finch\u00e9 Non Mi Seppelliscono",
+      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+      },
+      "artists": [
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Elodie",
+          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+        }
+      ],
+      "duration_ms": 188975,
+      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
+      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 236417,
+      "name": "Pastello Bianco",
+      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -113,59 +429,243 @@
       "url": "https://open.spotify.com/track/3jREEhgXvvwzyCW1iGWP38"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
       },
       "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "WORST WAY (feat. Cam'ron)",
+      "url": "https://open.spotify.com/track/0AKN15n1jNPOy9B38UyTby"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "DAYTONA 2000 (feat. Rasty Kilo)",
+      "url": "https://open.spotify.com/track/5m20phzpAfgTT8Q884Y8PH"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "WAR GAMES",
+      "url": "https://open.spotify.com/track/71A7AqPydcCW7EhHuBpLwB"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+        }
+      ],
+      "duration_ms": 134328,
+      "name": "VICTORY LAP",
+      "url": "https://open.spotify.com/track/5ZmZ6RKNcFbIrdf1rSB3IO"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "VIRUS",
+        "url": "https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU"
+      },
+      "artists": [
+        {
+          "name": "Noyz Narcos",
+          "url": "https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY"
+        },
+        {
+          "name": "Speranza",
+          "url": "https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "duration_ms": 148038,
+      "name": "MONEY BAGZ (feat. Speranza)",
+      "url": "https://open.spotify.com/track/7G38Rg6rU3NVhpdQteyQOA"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 192688,
+      "name": "CRAZY LOVE",
+      "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "DISUMANO",
+        "url": "https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9"
+      },
+      "artists": [
+        {
+          "name": "Fedez",
+          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "SAPORE \u2013 with Tedua",
+      "url": "https://open.spotify.com/track/3QdtpN3K8s2aDsX6o10KZK"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "NOI, LORO, GLI ALTRI",
+        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
         {
           "name": "BLANCO",
           "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Finch\u00e9 Non Mi Seppelliscono",
-      "url": "https://open.spotify.com/track/16EJNayKtC09M0Fi7Py47s"
+      "duration_ms": 175626,
+      "name": "NEMESI (feat. BLANCO)",
+      "url": "https://open.spotify.com/track/1oMZnVIuo6GmUNnemu8sLu"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+        "name": "GVESVS",
+        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 194106,
+      "name": "Veleno",
+      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "MI FAI IMPAZZIRE",
+        "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         },
         {
-          "name": "Elodie",
-          "url": "https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 188975,
-      "name": "LA CODA DEL DIAVOLO (con ELODIE)",
-      "url": "https://open.spotify.com/track/6oYcyS6salzWI1ysjEScFh"
+      "duration_ms": 220235,
+      "name": "MI FAI IMPAZZIRE",
+      "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+        "name": "FLOP",
+        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 236417,
-      "name": "Pastello Bianco",
-      "url": "https://open.spotify.com/track/0bKDQionn4VKcgNKbs4SWX"
+      "duration_ms": 170018,
+      "name": "KUMITE",
+      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "abcdefu",
+        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "abcdefu",
+      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -189,7 +689,23 @@
       "url": "https://open.spotify.com/track/0xD1pdwAdoa6SrBPoOyHDz"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 212897,
+      "name": "Come nelle canzoni",
+      "url": "https://open.spotify.com/track/0JsfWhQ2STKCqsvKse3Rgj"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -213,79 +729,39 @@
       "url": "https://open.spotify.com/track/28PVVfLs3utC1poGA0SYQs"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+        "name": "SUI MURI",
+        "url": "https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf"
       },
       "artists": [
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "PSICOLOGI",
+          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
         }
       ],
-      "duration_ms": 192688,
-      "name": "CRAZY LOVE",
-      "url": "https://open.spotify.com/track/3HYK8FMGNQu1Whl8DdtsRC"
+      "duration_ms": 181529,
+      "name": "SUI MURI",
+      "url": "https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "NOI, LORO, GLI ALTRI",
-        "url": "https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp"
+        "name": "Blu Celeste",
+        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
       },
       "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        },
         {
           "name": "BLANCO",
           "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 175626,
-      "name": "NEMESI (feat. BLANCO)",
-      "url": "https://open.spotify.com/track/1oMZnVIuo6GmUNnemu8sLu"
+      "duration_ms": 176400,
+      "name": "Notti In Bianco",
+      "url": "https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "DISUMANO",
-        "url": "https://open.spotify.com/album/6gMA11qiuxvAkeoUfAloN9"
-      },
-      "artists": [
-        {
-          "name": "Fedez",
-          "url": "https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "SAPORE \u2013 with Tedua",
-      "url": "https://open.spotify.com/track/3QdtpN3K8s2aDsX6o10KZK"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "Veleno",
-      "url": "https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -309,59 +785,103 @@
       "url": "https://open.spotify.com/track/6aBaooPpseTRI01stV7f58"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "FLOP",
-        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
+        "name": "Bromance",
+        "url": "https://open.spotify.com/album/5t1JK0YSFFJF6FGtQvm0eG"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 170018,
-      "name": "KUMITE",
-      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "MI FAI IMPAZZIRE",
-        "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+          "name": "Mecna",
+          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
         },
         {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
         }
       ],
-      "duration_ms": 220235,
-      "name": "MI FAI IMPAZZIRE",
-      "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+      "duration_ms": 201250,
+      "name": "La pi\u00f9 bella",
+      "url": "https://open.spotify.com/track/0sAroRXvF6YQqMdonRDE9e"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
-        "name": "abcdefu",
-        "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
+        "name": "X2",
+        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
         }
       ],
-      "duration_ms": 168601,
-      "name": "abcdefu",
-      "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
+      "duration_ms": 176360,
+      "name": "NOTTE SCURA (feat. Gazzelle & Tedua)",
+      "url": "https://open.spotify.com/track/2N3lyNW0cOeJzVNWo85Ci8"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "Angelina Jolie",
+        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
+      },
+      "artists": [
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "duration_ms": 169671,
+      "name": "Angelina Jolie",
+      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "UNIVERSO",
+        "url": "https://open.spotify.com/album/7iC8xpYEBwvEhpiCs0WfRn"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 185283,
+      "name": "Blu Intenso (feat. Tedua) - prod. tha Supreme",
+      "url": "https://open.spotify.com/track/22iyseivOMmWjH5UtA2cmj"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "X2",
         "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
@@ -389,203 +909,7 @@
       "url": "https://open.spotify.com/track/6CSNzPgC41ttk0RERlfr3f"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 212897,
-      "name": "Come nelle canzoni",
-      "url": "https://open.spotify.com/track/0JsfWhQ2STKCqsvKse3Rgj"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Gazzelle",
-          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "NOTTE SCURA (feat. Gazzelle & Tedua)",
-      "url": "https://open.spotify.com/track/2N3lyNW0cOeJzVNWo85Ci8"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "SUI MURI",
-        "url": "https://open.spotify.com/album/4QH1iXuy56kG7qXjLfefaf"
-      },
-      "artists": [
-        {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
-        }
-      ],
-      "duration_ms": 181529,
-      "name": "SUI MURI",
-      "url": "https://open.spotify.com/track/5M3SYjElWjKlD3jgONFw4w"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        },
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "HENTAI (feat. Ghali & Tony Effe)",
-      "url": "https://open.spotify.com/track/0ZA3ynCwEXH9sU5TCFRaTs"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 176400,
-      "name": "Notti In Bianco",
-      "url": "https://open.spotify.com/track/1PWOkqMORYdGa0OEh2GaXM"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "chiello",
-          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
-        },
-        {
-          "name": "Madame",
-          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
-        }
-      ],
-      "duration_ms": 185031,
-      "name": "LA STREGA DEL FRUTTETO (feat. chiello & Madame)",
-      "url": "https://open.spotify.com/track/4g0OWz92tgdNlBgc80qF6y"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Bromance",
-        "url": "https://open.spotify.com/album/5t1JK0YSFFJF6FGtQvm0eG"
-      },
-      "artists": [
-        {
-          "name": "Mecna",
-          "url": "https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ"
-        },
-        {
-          "name": "CoCo",
-          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
-        }
-      ],
-      "duration_ms": 201250,
-      "name": "La pi\u00f9 bella",
-      "url": "https://open.spotify.com/track/0sAroRXvF6YQqMdonRDE9e"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Angelina Jolie",
-        "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 169671,
-      "name": "Angelina Jolie",
-      "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        },
-        {
-          "name": "Side Baby",
-          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
-        }
-      ],
-      "duration_ms": 140210,
-      "name": "PEZZI DA 20 (feat. Emis Killa & Side Baby)",
-      "url": "https://open.spotify.com/track/3FHQwJN2JL6x9pgmTILnMB"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -613,7 +937,31 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 197893,
+      "name": "HENTAI (feat. Ghali & Tony Effe)",
+      "url": "https://open.spotify.com/track/0ZA3ynCwEXH9sU5TCFRaTs"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
@@ -637,7 +985,31 @@
       "url": "https://open.spotify.com/track/5YSR0sWUZk7NuIbkycxndu"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "X2",
+        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
+      },
+      "artists": [
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        },
+        {
+          "name": "Madame",
+          "url": "https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3"
+        }
+      ],
+      "duration_ms": 185031,
+      "name": "LA STREGA DEL FRUTTETO (feat. chiello & Madame)",
+      "url": "https://open.spotify.com/track/4g0OWz92tgdNlBgc80qF6y"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -661,27 +1033,7 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 201749,
-      "name": "Piango Sulla Lambo (feat. Rose Villain)",
-      "url": "https://open.spotify.com/track/7u02ZUejB2uhTw1WuFXrlf"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "Blu Celeste",
         "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
@@ -697,7 +1049,23 @@
       "url": "https://open.spotify.com/track/40zkeKA3HRN8Nzo6kbNOCp"
     },
     {
-      "added_at": "2022-01-14 11:35:02",
+      "added_at": "2022-01-15 10:29:33",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-01-15 10:29:33",
       "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
@@ -715,330 +1083,6 @@
       "duration_ms": 211498,
       "name": "TU MI HAI CAPITO (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Gaia",
-          "url": "https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1"
-        },
-        {
-          "name": "Carl Brave",
-          "url": "https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK"
-        }
-      ],
-      "duration_ms": 199115,
-      "name": "MOSAICI (feat. Gaia & Carl Brave)",
-      "url": "https://open.spotify.com/track/6z37P32HMJWEsHImmNVArF"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Antipatico",
-        "url": "https://open.spotify.com/album/1RG5XhKqqEeknEsc5P7eNv"
-      },
-      "artists": [
-        {
-          "name": "Sacky",
-          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Antipatico",
-      "url": "https://open.spotify.com/track/2ie4n6tymDnMjYkN32WWLV"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
-        }
-      ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        },
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        }
-      ],
-      "duration_ms": 177940,
-      "name": "FACCIO COSE (feat. Jake La Furia, Fabri Fibra & Izi)",
-      "url": "https://open.spotify.com/track/3IfwbxdAUjSjbFm2Yq3O6I"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "F*CK LOVE 3: OVER YOU",
-        "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "uNa DiReZioNe giUsTa",
-        "url": "https://open.spotify.com/album/51yDwPiJNSAOouxDtp1t3G"
-      },
-      "artists": [
-        {
-          "name": "yungest Moonstar",
-          "url": "https://open.spotify.com/artist/3l9OOqBvHs4SM91bWqtaQb"
-        },
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        },
-        {
-          "name": "tha Supreme",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        }
-      ],
-      "duration_ms": 215516,
-      "name": "uNa DiReZioNe giUsTa",
-      "url": "https://open.spotify.com/track/1ktyKCzfI8hooCJP3X2yP5"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Blu Celeste",
-        "url": "https://open.spotify.com/album/7zFt7hLRPxemmlzVzg5uec"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 206379,
-      "name": "Blu Celeste",
-      "url": "https://open.spotify.com/track/0BeXxjO6mgLDzg4xA6UheO"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "LIBERATO",
-        "url": "https://open.spotify.com/album/6nuNEPqjdcumKXE0Nd99Wr"
-      },
-      "artists": [
-        {
-          "name": "LIBERATO",
-          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
-        }
-      ],
-      "duration_ms": 306260,
-      "name": "ME STAJE APPENNENN' AM\u00d2",
-      "url": "https://open.spotify.com/track/6ZeuLKwFxg10M4DhJPBjNm"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "OBE",
-        "url": "https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj"
-      },
-      "artists": [
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 237613,
-      "name": "LA CANZONE NOSTRA \u27c1 \ufe0e(con BLANCO & SALMO)",
-      "url": "https://open.spotify.com/track/1uXJYnCsXy2v50y0fDEEiV"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "GVESVS",
-        "url": "https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Blitz! (feat. Geolier)",
-      "url": "https://open.spotify.com/track/00gEB0MSDWojSbzIt1TrFT"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "Taxi B",
-          "url": "https://open.spotify.com/artist/5FkcU4BVzPptuB6AjobZIL"
-        },
-        {
-          "name": "Pyrex",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
-        }
-      ],
-      "duration_ms": 176391,
-      "name": "CLOCHARD (feat. Taxi B & Pyrex)",
-      "url": "https://open.spotify.com/track/7zMhSaj07q1xOpg5T05yfK"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "X2",
-        "url": "https://open.spotify.com/album/56BOavUTudaNHQWLLb9IVJ"
-      },
-      "artists": [
-        {
-          "name": "Sick Luke",
-          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
-        },
-        {
-          "name": "PSICOLOGI",
-          "url": "https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro"
-        },
-        {
-          "name": "CoCo",
-          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
-        }
-      ],
-      "duration_ms": 174168,
-      "name": "CAMEL E MALINCONIA (feat. PSICOLOGI & CoCo)",
-      "url": "https://open.spotify.com/track/6cK1buCgdWeO9536VM4XrS"
-    },
-    {
-      "added_at": "2022-01-14 11:35:02",
-      "album": {
-        "name": "Wallah",
-        "url": "https://open.spotify.com/album/5lQJt5izjVQV15FGIwi1xv"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 133776,
-      "name": "Wallah",
-      "url": "https://open.spotify.com/track/39CXkMn8AAFu3qwnZHJCNo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbIQnj7RRhdSX"

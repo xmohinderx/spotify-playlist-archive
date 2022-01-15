@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Mv4BQ3Z4nC.md) - [plain]
 
 > Sometimes all you need is the sound of a cozy, crackling fireplace...
 
-[Spotify](https://open.spotify.com/user/spotify) - 377 likes - 32 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 32 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

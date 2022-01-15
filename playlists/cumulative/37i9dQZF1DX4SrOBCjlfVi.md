@@ -2,7 +2,7 @@
 
 ### [New Joints](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
-> New joints of the week featuring Cordae, Youngboy Never Broke Again, Murda Beatz, and more\. Cover: NLE Choppa
+> New joints of the week featuring Cordae, Youngboy Never Broke Again, NLE Choppa, and more\. Cover: Ye & The Game
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Don't Talk](https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Don't Talk](https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx) | 2:15 | 2022-01-14 |  |
 | [don’t i \(feat\. Gunna\)](https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 3:33 | 2021-12-24 | 2022-01-15 |
 | [Drop Shit](https://open.spotify.com/track/416XBAqBQECEjtMS8dlPQM) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Drop Shit](https://open.spotify.com/album/56WJxTl9A4F6Sr5ibUsW0g) | 3:19 | 2021-12-24 | 2022-01-15 |
+| [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 | 2022-01-14 |  |
 | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/track/4c9fF18rZHbsA8X8apjuRd) | [Poundside Pop](https://open.spotify.com/artist/4GjElWvmSWy4FkKoGZbYs0), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Feeling Myself \(feat\. DJ Drama\)](https://open.spotify.com/album/78vPH1YGbwtqZuF0sFcFv7) | 2:23 | 2021-12-24 | 2022-01-15 |
 | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/track/3kCLRQ1HwXVj0sZA0G7MnG) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R), [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [FINDERS KEEPERS \(feat\. Scorey & Internet Money\)](https://open.spotify.com/album/5g9wAOfzvkf7piGN5EiFKZ) | 2:07 | 2021-12-24 | 2022-01-08 |
 | [Fool for Love](https://open.spotify.com/track/2fKgq4eJuQcXuzGDjFm5Vw) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Fool for Love](https://open.spotify.com/album/6MCNOxtviWOQ5JjJ8KBGqx) | 2:30 | 2021-12-24 | 2022-01-15 |
@@ -47,7 +48,7 @@
 | [In My Bag](https://open.spotify.com/track/62YRguHTeCIUNMVRSWay8G) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [In My Bag](https://open.spotify.com/album/7q8Ayz0a8FeFsGjEoW9I4q) | 3:00 | 2021-12-24 |  |
 | [IN THE MIDDLE](https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [IN THE MIDDLE](https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD) | 3:23 | 2022-01-07 |  |
 | [Know Better](https://open.spotify.com/track/2YCDVu4FofMFvSJt5Vggu2) | [KillBunk](https://open.spotify.com/artist/7FGjkq9WfrRmBFL64ST0p9) | [Know Better](https://open.spotify.com/album/64yqSFX8tX8XYrVbtXsfgu) | 3:19 | 2022-01-07 |  |
-| [Lame](https://open.spotify.com/track/5d7a42T3MG01WPMvnyb4bq) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5) | [Lame](https://open.spotify.com/album/5Iwk74Oa4emMMR7bG9OZF1) | 2:36 | 2022-01-14 |  |
+| [Lame](https://open.spotify.com/track/5d7a42T3MG01WPMvnyb4bq) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5) | [Lame](https://open.spotify.com/album/5Iwk74Oa4emMMR7bG9OZF1) | 1:44 | 2022-01-14 |  |
 | [Long Time Comin](https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Long Time Comin](https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M) | 2:40 | 2022-01-07 |  |
 | [Lye](https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [SICK!](https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd) | 1:52 | 2022-01-14 |  |
 | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/album/1qY5LCrtZDIsh6A86N2Yo2) | 3:12 | 2021-12-24 | 2022-01-08 |

@@ -161,7 +161,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 306960,
       "name": "Be Mankan",
       "url": "https://open.spotify.com/track/7CA7jcMHe5pnXA7QQmgGBR"
@@ -267,6 +267,28 @@
       "duration_ms": 446826,
       "name": "Diaraby (with Ry Cooder)",
       "url": "https://open.spotify.com/track/1WmRNq13XPvbmIRcZljM3D"
+    },
+    {
+      "album": {
+        "name": "Ali & Toumani",
+        "url": "https://open.spotify.com/album/14uhq1loNIOTT23aRo4oCi"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Toumani Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287146,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/0nF3QZLQ8O1vQ4SjD3IdRS"
     },
     {
       "album": {
@@ -459,7 +481,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207146,
       "name": "Kala Djula",
       "url": "https://open.spotify.com/track/2p361jV44d4AtfNevM8GAy"
@@ -481,7 +503,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 250013,
       "name": "Kana Kassy",
       "url": "https://open.spotify.com/track/7tcbDEhAJ3cAwsPazkQnpW"

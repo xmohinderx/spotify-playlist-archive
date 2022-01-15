@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 175226,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/1UvVAqFey914WsoGQkNHxb"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 178404,
       "name": "Burning Down a Denny's",
       "url": "https://open.spotify.com/track/3CYwtWdHsegf5DqGVNQ3JK"
@@ -455,7 +455,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 178437,
       "name": "Can\u2019t You See",
       "url": "https://open.spotify.com/track/6eLKh1uJQ8KWW2o0AWjCXw"
@@ -516,6 +516,24 @@
     },
     {
       "album": {
+        "name": "Nightmare Daydream",
+        "url": "https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127093,
+      "name": "Choking",
+      "url": "https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS"
+    },
+    {
+      "album": {
         "name": "The Dose",
         "url": "https://open.spotify.com/album/3qXqGE2TCCWZHDYRHTNbTi"
       },
@@ -552,6 +570,24 @@
     },
     {
       "album": {
+        "name": "Crawlers - EP",
+        "url": "https://open.spotify.com/album/4wePwIhGnXxJ3tRFAusMAE"
+      },
+      "artists": [
+        {
+          "name": "Crawlers",
+          "url": "https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254418,
+      "name": "Come Over (Again)",
+      "url": "https://open.spotify.com/track/4PDJDIdWxNN1AlnbrKkoPf"
+    },
+    {
+      "album": {
         "name": "Come Thru",
         "url": "https://open.spotify.com/album/2QGtEKawGRCMRIhbp3SbvB"
       },
@@ -567,7 +603,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 177227,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/4o48EHVTIDb3PS0EIQ5l7A"
@@ -621,7 +657,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 223560,
       "name": "Curse the Weather",
       "url": "https://open.spotify.com/track/4Avvd1ZV1CX4zLzeMVp8RO"
@@ -657,7 +693,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199573,
       "name": "Disappearing Girl",
       "url": "https://open.spotify.com/track/2eXzs7j6pkt07u1prEhU4K"
@@ -855,7 +891,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 167168,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/5BUPmSpZnwMOmdhmm2kqRC"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237106,
       "name": "Fire Alarm",
       "url": "https://open.spotify.com/track/7owfaYY6CFwqQAv2Xih9CY"
@@ -1017,7 +1053,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 198080,
       "name": "Freeze Me",
       "url": "https://open.spotify.com/track/3PBXTtPiOqfYcbc30ydVTz"
@@ -1089,7 +1125,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 262453,
       "name": "Godsend",
       "url": "https://open.spotify.com/track/2tTH0Jsfxt3jLoZNWHCehP"
@@ -1302,6 +1338,24 @@
     },
     {
       "album": {
+        "name": "Hung Up",
+        "url": "https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN"
+      },
+      "artists": [
+        {
+          "name": "The Mysterines",
+          "url": "https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204560,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO"
+    },
+    {
+      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1511,7 +1565,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 197739,
       "name": "Just For Love",
       "url": "https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8"
@@ -1547,7 +1601,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 200437,
       "name": "Kooperboy",
       "url": "https://open.spotify.com/track/1robAwSosmg3FXM0wpOEMv"
@@ -1587,6 +1641,24 @@
       "duration_ms": 221626,
       "name": "Labrador",
       "url": "https://open.spotify.com/track/0bxuV9VOE5iARolyiQyrxZ"
+    },
+    {
+      "album": {
+        "name": "Lava Lamp Pisco",
+        "url": "https://open.spotify.com/album/6OxduyVLmp55HliX26j59W"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241859,
+      "name": "Lava Lamp Pisco",
+      "url": "https://open.spotify.com/track/142WFjtY5Pww6AmoLpLCNE"
     },
     {
       "album": {
@@ -1749,7 +1821,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 211086,
       "name": "Metaphor",
       "url": "https://open.spotify.com/track/1PK5qU40CnH8RKrudFyo6t"
@@ -1803,7 +1875,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186000,
       "name": "Misplaced",
       "url": "https://open.spotify.com/track/0fmbchkYzQHMQHRKJmX2uu"
@@ -1839,7 +1911,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 199863,
       "name": "More Than Ever",
       "url": "https://open.spotify.com/track/4OtYFc59hseMmNKNeTYhHu"
@@ -2041,7 +2113,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212882,
       "name": "Pollen",
       "url": "https://open.spotify.com/track/16u39sZAP2UXg9DGU56ZNm"
@@ -2547,7 +2619,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 227280,
       "name": "Too High",
       "url": "https://open.spotify.com/track/4dOaEi815BXfCllDfB79di"
@@ -2655,7 +2727,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222760,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0ionYKqaYZPg9FSwPlqqmr"
@@ -2781,7 +2853,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 225731,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/6GC9ktyFFHVaFA1qlE2zzi"
@@ -2817,7 +2889,7 @@
       ],
       "date_added": "2021-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199412,
       "name": "Willow Tree",
       "url": "https://open.spotify.com/track/7aaFppi3OzO8ybk40pWfSX"

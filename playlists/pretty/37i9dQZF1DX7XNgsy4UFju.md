@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Broken Social Scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,200 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,231 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 37 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 | 38 | [Like A Woman](https://open.spotify.com/track/3T9mpqizkZffwov4NYc8RV) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Like A Woman](https://open.spotify.com/album/0XNL4lFECwpsstreCDPK1V) | 3:10 |
 | 39 | [Iron](https://open.spotify.com/track/2oVI4RJpbUIHU61q6Gf4pw) | [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [Iron](https://open.spotify.com/album/0T3nvlxrpgewPFhQqnvJaD) | 3:36 |
-| 40 | [Holey Moley](https://open.spotify.com/track/6DSICrL9LNe0M6C7wnyGdr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Cordi Elba](https://open.spotify.com/album/74iCYddbdRJrwHKCAapVmc) | 3:51 |
+| 40 | [Holy Moley](https://open.spotify.com/track/6DSICrL9LNe0M6C7wnyGdr) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [Cordi Elba](https://open.spotify.com/album/74iCYddbdRJrwHKCAapVmc) | 3:51 |
 | 41 | [In Need of Repair](https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [In Need of Repair](https://open.spotify.com/album/01JnSvaj1iA6nTZsmnwPiG) | 3:56 |
 | 42 | [Teeth Agape](https://open.spotify.com/track/6gmjRi8EuLj4B3WCIvByOO) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Teeth Agape](https://open.spotify.com/album/2aIuj5VJNI7V4TvjGd8qEM) | 3:35 |
 | 43 | [Explore](https://open.spotify.com/track/6sb1CGojNdNMiToRfSNwzY) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Explore](https://open.spotify.com/album/7DxTQ86fPK4BPoJ1RIeFos) | 4:46 |

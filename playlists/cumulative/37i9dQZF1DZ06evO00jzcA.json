@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 251000,
       "name": "A Million To One",
       "url": "https://open.spotify.com/track/3Z7AIA7ZjItaRZvkE2Kxs2"
@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Hot In The Shade",
+        "url": "https://open.spotify.com/album/4tA5KsFziTKOuDVAUivcjM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Hide Your Heart",
+      "url": "https://open.spotify.com/track/47o525G86mLspoGnUCaMd9"
+    },
+    {
+      "album": {
         "name": "Creatures Of The Night",
         "url": "https://open.spotify.com/album/3W0Q8WxZ6yc1nT7lhZuu9t"
       },
@@ -413,7 +431,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 184960,
       "name": "I Stole Your Love",
       "url": "https://open.spotify.com/track/7qj6lBOB1QTgBmKedXuIbs"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 208026,
       "name": "Plaster Caster",
       "url": "https://open.spotify.com/track/5BMGKj445wO9EgMHMhAMIg"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 247600,
       "name": "Rock And Roll All Nite - Live From Detroit, MI/1975",
       "url": "https://open.spotify.com/track/4RQLeiolnEGtcFwHxjtF7H"
@@ -773,7 +791,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 248240,
       "name": "Rocket Ride",
       "url": "https://open.spotify.com/track/3xjObvccQUvtUcV5GL3Hh3"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 249000,
       "name": "She",
       "url": "https://open.spotify.com/track/2CgK3jgqeaR02D9mKE2XVt"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 176226,
       "name": "Take Me",
       "url": "https://open.spotify.com/track/12hTHnCBajZeyEiZi1drMz"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 198466,
       "name": "Turn On The Night",
       "url": "https://open.spotify.com/track/3L5dCw2G1sNtAaZ0cqUBnY"
@@ -1047,6 +1065,24 @@
       "duration_ms": 281373,
       "name": "We Are One",
       "url": "https://open.spotify.com/track/0dPPUcfDnvSwK38lLgzKSd"
+    },
+    {
+      "album": {
+        "name": "Asylum",
+        "url": "https://open.spotify.com/album/0WDUDVt1ZYTJX8KPwH3ast"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242293,
+      "name": "Who Wants To Be Lonely",
+      "url": "https://open.spotify.com/track/7FIq1KZva7CjQjHG6A8XUg"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO00jzcA"

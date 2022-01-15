@@ -1,13 +1,33 @@
 {
   "description": "The Real hip-hop. Cover: Kota The Friend",
   "name": "Mind Right",
-  "num_followers": 1059092,
+  "num_followers": 1059193,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE5MzgzOSwwMDAwMDE4YTAwMDAwMTdlNWE2MTY1YWMwMDAwMDE3ZTMyZjJlODIx",
+  "snapshot_id": "MTY0MjIyMjgwMCwwMDAwMDE4YjAwMDAwMTdlNWMxYjRkYjkwMDAwMDE3ZTMyZjJlODIx",
   "tracks": [
+    {
+      "added_at": "2022-01-15 05:00:00",
+      "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {

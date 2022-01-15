@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24Kh15JFQJ0.md) - [plain]
 
 > The latest music from our Country Heroes.<br/>Cover: Eddie Montgomery
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,659 likes - 102 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,717 likes - 102 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

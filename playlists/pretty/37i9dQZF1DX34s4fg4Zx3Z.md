@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá các bài hát đáng nghe từ những cái tên có thể bạn chưa biết\. Ảnh bìa: Winno; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,236 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,239 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 16 | [Anh Sao Được Phép](https://open.spotify.com/track/3TqhpM7SvqjlDlzHMghdWN) | [Cây](https://open.spotify.com/artist/2AMpDRQKGRKMI72ricUKNe) | [Anh Sao Được Phép](https://open.spotify.com/album/3dXySpOlPmb9bvzhCdSgEx) | 3:15 |
 | 17 | [Anh Muốn Em Về Nhà \(feat\. Cris\)](https://open.spotify.com/track/6YQfxpvrDEpZrZbeBmuH7u) | [Tô Khương](https://open.spotify.com/artist/0iK5wSSwBbSvSTj0IuTMRI), [Cris](https://open.spotify.com/artist/1NJiWd4Oll3uE81rulv6Qw) | [write a blue](https://open.spotify.com/album/2j3CBxiGn95e4STCYaZuLx) | 4:58 |
 | 18 | [Chưa Về Được Nhà](https://open.spotify.com/track/4MEyA3U4lXndTenIb8dTXy) | [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te), [RyoT](https://open.spotify.com/artist/2UfA7WI5TFvWFGtSFuSytZ) | [Chưa Về Được Nhà](https://open.spotify.com/album/2iwJHXi6LJSEEEAeMiscqd) | 4:59 |
-| 19 | [Bên Em Tonight](https://open.spotify.com/track/2XUTyMSpJFRIwSzk8LQ4NY) | [Koo](https://open.spotify.com/artist/32bN36S2HiZzGVsfxhvb4E), [Wang](https://open.spotify.com/artist/0HqNIZwtUtRM5FEuXrdZWf), [SO HI](https://open.spotify.com/artist/0KVvsI1Cgznae1kw1AHZVQ) | [Bên Em Tonight](https://open.spotify.com/album/5KYZF0jptu542gUr1FrtlT) | 3:29 |
+| 19 | [Bên Em Tonight](https://open.spotify.com/track/2XUTyMSpJFRIwSzk8LQ4NY) | [Koo](https://open.spotify.com/artist/32bN36S2HiZzGVsfxhvb4E), [Wang](https://open.spotify.com/artist/0HqNIZwtUtRM5FEuXrdZWf), [So Hi](https://open.spotify.com/artist/4xY9VlSeEtEM6y42hpuxvU) | [Bên Em Tonight](https://open.spotify.com/album/5KYZF0jptu542gUr1FrtlT) | 3:29 |
 | 20 | [Sẽ Là Một Người Khác](https://open.spotify.com/track/4HKU9JRB6nbFbU11pvUrMr) | [Zes](https://open.spotify.com/artist/3gk8hJxOhfMRyYdaSdrtPI), [Đăng](https://open.spotify.com/artist/6p4TdoZr8J3FWeRJ4x7K5D) | [Sẽ Là Một Người Khác](https://open.spotify.com/album/75W8B4ZMZV3CyfJTaLT1Fv) | 4:26 |
 | 21 | [INO & UNO](https://open.spotify.com/track/1i9TBQ3JZSXACySMybLuRA) | [TaylorDaClownn](https://open.spotify.com/artist/3HZZADizLAtNsAy36T8wiD), [Ne](https://open.spotify.com/artist/60OgHNb3ArABLXqJ66zGGI) | [INO & UNO](https://open.spotify.com/album/7J7Xy4EP2XZUPGaa5PtRqL) | 2:32 |
 | 22 | [PEACH 2](https://open.spotify.com/track/5YPH5jvgUdz2idFDTnv6rY) | [Droppy](https://open.spotify.com/artist/4EqEodSfNgQPwoHxbdZlpT), [Quân R.E.V](https://open.spotify.com/artist/5UgQxRnX0fvTuUgD3SUKjo) | [PEACH 2](https://open.spotify.com/album/6jRbH4ir3LTYqaHWV1lOtQ) | 4:20 |

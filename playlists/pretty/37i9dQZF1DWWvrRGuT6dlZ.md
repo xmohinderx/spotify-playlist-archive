@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Ralph Alvern, Karena Yeo, Vessail\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,997 likes - 74 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,008 likes - 74 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 6 | [Best Days](https://open.spotify.com/track/6a46DcC6856b3mzRt0TzSE) | [The Full Pledge Munkees](https://open.spotify.com/artist/3JuxOSH6H2Dzb2luYsXKds) | [Cherish](https://open.spotify.com/album/44FFa9jFQXaNfhv4u8vR2S) | 3:37 |
 | 7 | [gotta swim](https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [gotta swim](https://open.spotify.com/album/4LtUV3xM0xHnH7tbOTImjh) | 4:11 |
 | 8 | [How Much I Love You](https://open.spotify.com/track/5vKndiPBueOaTN1P9lQwfa) | [MOTUS.SG](https://open.spotify.com/artist/7tuB7LkGxGec6TBzNbxO6b) | [How Much I Love You](https://open.spotify.com/album/1897C7mz4NrXSo8aTWjLHj) | 4:32 |
-| 9 | [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/7I7xpywOvyUXyHZzTZuLe4) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 |
+| 9 | [Call Me Sweet](https://open.spotify.com/track/08P78OIZjosuCEcfMxU0iq) | [Bittersweet](https://open.spotify.com/artist/3A2xivbWFzprF2vmp644ii) | [Call Me Sweet](https://open.spotify.com/album/6sBot4UKvvyWqzhpWHugpL) | 2:40 |
 | 10 | [Men\-Mory](https://open.spotify.com/track/2bH1RexrSNXoFHMS4Pq6XD) | [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Goldfish](https://open.spotify.com/artist/0vhp1BhCnnPzmpknRG6JMv) | [Men\-Mory](https://open.spotify.com/album/6sxdxaRMcoWjHePp6Np5TT) | 2:59 |
 | 11 | [Just Another Minute](https://open.spotify.com/track/6AEmZBWGYlI6nsuWB5qViN) | [Maneloren](https://open.spotify.com/artist/7jsU0zbfhjktw9lamotkR2) | [Just Another Minute](https://open.spotify.com/album/4C6UwXY2vG00aX9u5wPIcI) | 4:00 |
 | 12 | [What Went Wrong](https://open.spotify.com/track/0W3LecX7VVuMxgelsshS72) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [What Went Wrong](https://open.spotify.com/album/43fQagS136MVf0xI00jg1N) | 3:47 |

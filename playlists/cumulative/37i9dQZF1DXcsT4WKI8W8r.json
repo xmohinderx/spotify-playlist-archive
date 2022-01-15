@@ -109,7 +109,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 194706,
       "name": "Alive",
       "url": "https://open.spotify.com/track/69W4dkOSocvfq3mFu3nR0H"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 160346,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/4ywfuHVfB8wvm8tHWHK5QI"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 139959,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1yvIUHWMU3UM8StH7I0Tlq"
@@ -1185,7 +1185,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 174493,
       "name": "going out",
       "url": "https://open.spotify.com/track/4fVRuWru6EQ8fGMeCPP431"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
@@ -1448,6 +1448,24 @@
     },
     {
       "album": {
+        "name": "The Coast Deluxe",
+        "url": "https://open.spotify.com/album/2yW3NHrKeeOnLl45RTO1K5"
+      },
+      "artists": [
+        {
+          "name": "Lake Jons",
+          "url": "https://open.spotify.com/artist/1LD9cpK7ofPgY3TtsJeKcB"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232470,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/6mTAUBzuJPItP6At2jhe1J"
+    },
+    {
+      "album": {
         "name": "Humbled By Life",
         "url": "https://open.spotify.com/album/7LuJ6wP4gQ5voFpHbiCo3o"
       },
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 217760,
       "name": "Hurts To Be Hurt",
       "url": "https://open.spotify.com/track/7FW5m5TX7Z0ql49YNgWiqk"
@@ -1561,7 +1579,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 126680,
       "name": "I Wish You Were Here - Acoustic",
       "url": "https://open.spotify.com/track/7euc7dFM1czdBzqfqgDUHR"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 174040,
       "name": "In or Out",
       "url": "https://open.spotify.com/track/0uCOs9KOehbeXUDlpHfx2t"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 157280,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/1CB9uNZ6RwxnQ3stGfVbQv"
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 187146,
       "name": "Like You Say You Do",
       "url": "https://open.spotify.com/track/05Pz7sJkLVYywGjRkAPY3x"
@@ -2821,7 +2839,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 224720,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/5Zb6THrh1D6xUXkrrCYan4"
@@ -2839,7 +2857,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
@@ -2857,7 +2875,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-28",
+      "date_removed": null,
       "duration_ms": 148126,
       "name": "Silence",
       "url": "https://open.spotify.com/track/1nbp5fbtK0A51lBtIIyVAC"
@@ -2959,7 +2977,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206586,
       "name": "somebody loves you",
       "url": "https://open.spotify.com/track/4YKcx7YxznAdBefrYdCZ9P"
@@ -2999,7 +3017,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 167800,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/63HPS15Kvde81RVcgTe8aR"
@@ -3035,7 +3053,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205320,
       "name": "spark",
       "url": "https://open.spotify.com/track/3S8ltNG88j9u6JHGa0b7um"
@@ -3397,7 +3415,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/1D1nixOVWOxvNfWi0UD7VX"

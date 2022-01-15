@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Roger Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,576 likes - 68 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,809 likes - 68 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 37 | [Clarinet Sonata in E\-Flat Major, Op\. 167: IV\. Molto allegro](https://open.spotify.com/track/7mcYDlOwNbNUfesviloNTk) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Maximiliano Martín](https://open.spotify.com/artist/1fJByHrnp9Y7JTl0C3uDdP), [Scott Mitchell](https://open.spotify.com/artist/1FwinrE226ZopJmr45EWOl) | [Clarinet Sonata in E\-Flat Major, Op\. 167: IV\. Molto allegro](https://open.spotify.com/album/2z8B6Hhd46Jn4X0Gwrk5rG) | 5:30 |
 | 38 | [Roméo et Juliette, CG 9 / Act 1: Ah, je veux vivre](https://open.spotify.com/track/4shCkhqrtAMSqVGaQQkQqJ) | [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Nadine Sierra](https://open.spotify.com/artist/0KZxSBGvjZVKOo6dmwfkfN), [Orchestra Sinfonica Nazionale della Rai](https://open.spotify.com/artist/57LXP9JGrjUi3n4m9NSSYP), [Riccardo Frizza](https://open.spotify.com/artist/2mczTc8BQA6VRZJ02uVqZC) | [Gounod: Roméo et Juliette, CG 9 / Act 1: Ah, je veux vivre](https://open.spotify.com/album/17GJG8hjxlpMtZXuDAHMiZ) | 3:55 |
 | 39 | [O Sole Mio / Arrivederci Roma](https://open.spotify.com/track/4lPsNWwDb0ZlL9tG2HaR6H) | [David Osborne](https://open.spotify.com/artist/0oA8UUNNUP3zWCUkZVin0G) | [O Sole Mio / Arrivederci Roma](https://open.spotify.com/album/5MLCdS7MlRvG1B0eqbXBKU) | 5:06 |
-| 40 | [Blue Danube \(Zombie Band\)](https://open.spotify.com/track/4Q6q53FLduZC0D8YilhAMq) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hotel Transylvania 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1vcZb1XuQ3uAtMLd1cmrqF) | 1:07 |
+| 40 | [Blue Danube \(Zombie Band\)](https://open.spotify.com/track/4Q6q53FLduZC0D8YilhAMq) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hotel Transylvania: Transformania \(Soundtrack from the Amazon Original\)](https://open.spotify.com/album/1vcZb1XuQ3uAtMLd1cmrqF) | 1:07 |
 | 41 | [Wehmut](https://open.spotify.com/track/0oH5Sj7v0UunHhdCkXHnKd) | [Jonas Gewald](https://open.spotify.com/artist/53k1kqkyCUpbJMK93MBxxc), [Niklas Blumenthaler](https://open.spotify.com/artist/14PMDJ6ZGkzsHqS51zw6cG) | [Wehmut](https://open.spotify.com/album/6bfJqHXDR3fN2liDl5PLCR) | 2:29 |
 | 42 | [Balmoral Suite for Cello & Piano: II\. Grandpa Hankers for the Past](https://open.spotify.com/track/3rdxEXt4devrWcreYJkNoR) | [Robin Stevens](https://open.spotify.com/artist/34weaPdzikHxV7VePzk7Zy), [Nicholas Trygstad](https://open.spotify.com/artist/7M3y3I89VwWt8f1RzfL0tD), [David Jones](https://open.spotify.com/artist/0jj5LrbXpzEoFHa2w1KUgI) | [Stevens: Music for Cello & Piano](https://open.spotify.com/album/4juovG3og4F70V7QyI9kBG) | 2:20 |
 | 43 | [vigour](https://open.spotify.com/track/4MtDyIFELfTX9zTMdCL7gN) | [Bartosz Bludau](https://open.spotify.com/artist/6YSYATjDKbNllQzkpbf3cH), [Paranormal String Quartet](https://open.spotify.com/artist/6KExzuU8LwLCo9ZWoQNf1Y) | [f:laments](https://open.spotify.com/album/7eJ41bJMtpDUzEqF0x08ZI) | 1:40 |

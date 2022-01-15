@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Tout nouveau, tout beau\. Photo: Stromae
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,116 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,136 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [L’enfer](https://open.spotify.com/track/7bp3zmEvpHLa0h32nhDUkB) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [L’enfer](https://open.spotify.com/album/7bSSz8KnOpZaJor6Cs3GkM) | 3:09 |
 | 2 | [Go Get It](https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Go Get It](https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV) | 2:21 |
 | 3 | [Cœur d’occasion](https://open.spotify.com/track/2Vj2541Xsl2v3Zs3lBF7vU) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Adulte jamais](https://open.spotify.com/album/0AE0U3Vqv1gtLPUSuKUnZ3) | 3:33 |
-| 4 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/2uIKmM6wjwGmMqSacQfCcm), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 |
+| 4 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 |
 | 5 | [Garçon manqué](https://open.spotify.com/track/6XXXWiYJTPPVHxHewxGeY5) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 3:31 |
 | 6 | [Solo](https://open.spotify.com/track/7AbngawBVogPrrUtLKxXLu) | [A2h](https://open.spotify.com/artist/2ktpq7bp4m1quizyEmp4r1) | [Solo](https://open.spotify.com/album/0XtaPv3S7iWwCAiO0zG5wK) | 2:57 |
 | 7 | [Sometimes](https://open.spotify.com/track/4Vc46whh4pnNoQzZPWISnb) | [Mc12](https://open.spotify.com/artist/0OOebPIB8ejer3GJlLskoN) | [Sometimes](https://open.spotify.com/album/6D47rO9hne09ry0Wgn33oN) | 2:11 |
 | 8 | [Tout pour moi](https://open.spotify.com/track/5agiy4fEysnc5wBex6bHqa) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Tout pour moi](https://open.spotify.com/album/2owno0hp8OZmK2H7pBB202) | 3:25 |
-| 9 | [IMPOSSIBLE](https://open.spotify.com/track/7tRsXzsC2aFqHxjL2G5p3K) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG) | [IMPOSSIBLE](https://open.spotify.com/album/6Kkn6pR7xvow6cECJS43dL) | 2:45 |
+| 9 | [IMPOSSIBLE](https://open.spotify.com/track/7tRsXzsC2aFqHxjL2G5p3K) | [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [IMPOSSIBLE](https://open.spotify.com/album/6Kkn6pR7xvow6cECJS43dL) | 2:45 |
 | 10 | [Ma sœur](https://open.spotify.com/track/4Jetvfhp8WfXO6t64dgeOM) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 2\)](https://open.spotify.com/album/2C9m59BGKQdNXNy1j59s4H) | 2:58 |
 | 11 | [La Fusée du Chagrin](https://open.spotify.com/track/39oEDxOqXKXJ4kwvuHIPvu) | [Elephant Stone](https://open.spotify.com/artist/47bokO26f4LIt4zaAlCQwo) | [La Fusée du Chagrin](https://open.spotify.com/album/1tTnVmiwEvpFkWk7ZPaJJ1) | 3:48 |
 | 12 | [Mouiller Le Maillot](https://open.spotify.com/track/3Lhy7t0J2UCHXTk1WhNRp3) | [Loussa](https://open.spotify.com/artist/66JV0RT5jJXASMORQJCuEv) | [Mouiller Le Maillot](https://open.spotify.com/album/1zcoFvG57xznifvJA3MqPm) | 2:58 |

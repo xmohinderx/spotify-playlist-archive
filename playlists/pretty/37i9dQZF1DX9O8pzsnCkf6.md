@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 
 > A collection of sessions from some of the best comedians of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,863 likes - 146 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,867 likes - 146 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 | 35 | [I Have Been There](https://open.spotify.com/track/6I6Vz1yxVzAMKAcOEZoeen) | [Jo Firestone](https://open.spotify.com/artist/28Q332Py9a6CnNE988ZTCV) | [Comedy Central Comics to Watch 2015](https://open.spotify.com/album/4tZvDUDU2EjVbK6AsShIgv) | 2:03 |
 | 36 | [Date Night at the St\. Louis Funny Bone](https://open.spotify.com/track/3Y2UJHcNmBC8fjGBL84PZv) | [Andi Smith](https://open.spotify.com/artist/7r2RiE4MXUY1ICdA3gEHRv) | [Bronze Digger](https://open.spotify.com/album/1Rr0vDS90WbqUTr2xN8QzZ) | 3:33 |
 | 37 | [Skype Breakup](https://open.spotify.com/track/55uLNuvDiDABdiLe4QBjQO) | [Nikki Glaser](https://open.spotify.com/artist/0uLhSelHWVPHYhC4zMN4bn) | [Women Who Kill](https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s) | 4:58 |
-| 38 | [Love Songs](https://open.spotify.com/track/1nFJHxTilHASeWZNyuNcxd) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [Unwanted Thoughts Syndrome](https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz) | 4:01 |
+| 38 | [Love Songs](https://open.spotify.com/track/1nFJHxTilHASeWZNyuNcxd) | [Maria Bamford](https://open.spotify.com/artist/6s99GPG9mopI5PNippBKgO) | [Unwanted Thoughts Syndrome](https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz) | 4:01 |
 | 39 | [My Name](https://open.spotify.com/track/7pAmUliMHut9tBzTmUoOyK) | [Anjelah Johnson](https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF) | [That's How We Do It!](https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL) | 2:30 |
 | 40 | [Why I Got Married](https://open.spotify.com/track/5beFB4ooWhRM7J6dNZRbWj) | [Aisha Tyler](https://open.spotify.com/artist/61KCQz5oO2VtckbzwooBTd) | [Aisha Tyler Is Lit \- Live At The Fillmore](https://open.spotify.com/album/0P47GaiYciGJxtZnZ68Wxj) | 3:42 |
 | 41 | [Gin N Goose](https://open.spotify.com/track/2jC0kapB935PtDAtij7dBa) | [Becky Donohue](https://open.spotify.com/artist/6ctf3hgynHv24LV0OcYPc9) | [Partly Yelling with a Chance of Breakdown](https://open.spotify.com/album/5GvgaN4YhgFFRlPzNe9Fox) | 1:20 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O8pzsnCkf6.md) - [plain]
 | 85 | [What Vegas Is About](https://open.spotify.com/track/09gLeejuYufKtfol6BkbqE) | [Rachel Feinstein](https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X) | [Women Who Kill](https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s) | 6:46 |
 | 86 | [Fairytales and porn](https://open.spotify.com/track/1lxte30EJT40yd90HCT61s) | [Rachel Feinstein](https://open.spotify.com/artist/5wUajNUxC3hYAbFh9brF9X) | [Thug Tears](https://open.spotify.com/album/3YGSkc6OthsDYJAsu0GxHe) | 1:36 |
 | 87 | [Hide Your Crazy](https://open.spotify.com/track/3pJonY10tmMbJl3cr0bh8t) | [Nikki Glaser](https://open.spotify.com/artist/0uLhSelHWVPHYhC4zMN4bn) | [Women Who Kill](https://open.spotify.com/album/7HymEKb1Lb1Jo1O4dbg49s) | 6:20 |
-| 88 | [Getting Older](https://open.spotify.com/track/5FWRSS8OQV0Jr30Gn53Tir) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [Unwanted Thoughts Syndrome](https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz) | 1:12 |
+| 88 | [Getting Older](https://open.spotify.com/track/5FWRSS8OQV0Jr30Gn53Tir) | [Maria Bamford](https://open.spotify.com/artist/6s99GPG9mopI5PNippBKgO) | [Unwanted Thoughts Syndrome](https://open.spotify.com/album/1FAWsFvqHeoqTAE3iibXCz) | 1:12 |
 | 89 | [Romantic Expectations of Everyone](https://open.spotify.com/track/632rEUly1PVmwnmRj1ZmeR) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [Ask Me About My New God!](https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi) | 1:55 |
 | 90 | [Over 40 and Dating](https://open.spotify.com/track/7ERMoOq9btOum3LwAbnB88) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [Ask Me About My New God!](https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi) | 2:20 |
 | 91 | [Confidence](https://open.spotify.com/track/1QaZGn1Tszl3omBez0af1f) | [Maria Bamford](https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX) | [Ask Me About My New God!](https://open.spotify.com/album/3NDNvu4qTkb6gnh5XJJ1zi) | 2:15 |

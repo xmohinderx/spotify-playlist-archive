@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: BADJII, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,587 likes - 38 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,604 likes - 38 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kung Nasa'n Ka Man](https://open.spotify.com/track/4YQa1Ov5dO26UBiQ9HmicI) | [mirasol](https://open.spotify.com/artist/1EvvsCwJnJeYlEJeffzSAl) | [Ang Buwan Na May Liwanag Sa Gabi, Ang Oras Na Walang Pagsisisi.](https://open.spotify.com/album/0IcK8GvnXRU0PZYhyqzOIx) | 4:04 |
 | 2 | [Tell Me Baby](https://open.spotify.com/track/7jR4zItqozVAZaip6kCHt4) | [Aletheia](https://open.spotify.com/artist/1Ap0hBSflWauIezlVvbWTL), [BABYBLUE](https://open.spotify.com/artist/0x42YctsSCMOPcgTgtKGKy) | [Tell Me Baby](https://open.spotify.com/album/42cJVE3fR75AvbfMWoOxso) | 3:28 |
-| 3 | [Take It Slow \(TIS\)](https://open.spotify.com/track/4PNIqLc0NcG8Rek3XWNqXX) | [Aurelius](https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u) | [Take It Slow \(TIS\)](https://open.spotify.com/album/7vhXbNWW78775rKWL7scwt) | 3:57 |
+| 3 | [TIS](https://open.spotify.com/track/4PNIqLc0NcG8Rek3XWNqXX) | [Aurelius](https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u) | [TIS](https://open.spotify.com/album/7vhXbNWW78775rKWL7scwt) | 3:57 |
 | 4 | [MATTER OF TIME](https://open.spotify.com/track/5VDvv1yDvM9cS4DTu7NlkF) | [WLFTOWN](https://open.spotify.com/artist/65PIGJ98oayXEVcBnzZg9M) | [MATTER OF TIME](https://open.spotify.com/album/5h1hl0C2r5SDYmFmwOAaXQ) | 2:44 |
 | 5 | [Didya \(Dito\)](https://open.spotify.com/track/7J01KSeyaeW69UkI8Y3YFR) | [BADJII](https://open.spotify.com/artist/1KwB8pLfMb8x9rT8KWPUvu) | [Didya \(Dito\)](https://open.spotify.com/album/5uNxhtkdjG6kDJat74lpA3) | 4:25 |
 | 6 | [save us](https://open.spotify.com/track/1lXS3AAijfA1WD2DJWJH8r) | [Catsy](https://open.spotify.com/artist/7puLdMNFEkqkDUNJBdHifE) | [save us](https://open.spotify.com/album/4iEVo7WCX73CdhHjOorCgh) | 3:58 |

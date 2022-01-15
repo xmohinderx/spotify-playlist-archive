@@ -165,7 +165,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 251388,
       "name": "Coded Tinz",
       "url": "https://open.spotify.com/track/2vrMrplf0UBqixxCA7hJpU"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205384,
       "name": "Ginger (feat. Tiwa Savage)",
       "url": "https://open.spotify.com/track/7j9Hues1Hzg9LQ84Pmhyv8"
@@ -465,6 +465,28 @@
       "duration_ms": 261560,
       "name": "I Dey Feel Like",
       "url": "https://open.spotify.com/track/1sJ1sWNt98WLmGBZDwY884"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183103,
+      "name": "I Dey Hear Everything (feat. Olamide)",
+      "url": "https://open.spotify.com/track/2E69eYTx63PA0iIx4akLbZ"
     },
     {
       "album": {
@@ -861,7 +883,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 289384,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/4cpQzHK4clbqMSQ1xBDpMY"

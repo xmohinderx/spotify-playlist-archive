@@ -536,6 +536,24 @@
     },
     {
       "album": {
+        "name": "Aska",
+        "url": "https://open.spotify.com/album/0hDiIyy8derMbYJ9N4Eghx"
+      },
+      "artists": [
+        {
+          "name": "Newkid",
+          "url": "https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234548,
+      "name": "Aska",
+      "url": "https://open.spotify.com/track/1cahT3TKkFmggbAoL6sRQO"
+    },
+    {
+      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK"
       },
@@ -4077,6 +4095,28 @@
       "duration_ms": 208916,
       "name": "Gr\u00e5t inte mer",
       "url": "https://open.spotify.com/track/3Cum5PAE6Nw52V43aRbLve"
+    },
+    {
+      "album": {
+        "name": "Gr\u00e5ter om du vill",
+        "url": "https://open.spotify.com/album/2NmGftyYl1iIEuS81urNTW"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228453,
+      "name": "Gr\u00e5ter om du vill",
+      "url": "https://open.spotify.com/track/0FlfVeOFogL3cU4AO8xNc4"
     },
     {
       "album": {
@@ -8535,7 +8575,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 142941,
       "name": "RIDER",
       "url": "https://open.spotify.com/track/6dx0d36ID1nrusuAUqcaEv"
@@ -9523,7 +9563,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"

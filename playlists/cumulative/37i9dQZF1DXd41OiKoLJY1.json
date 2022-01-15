@@ -610,24 +610,6 @@
     },
     {
       "album": {
-        "name": "Take It Slow (TIS)",
-        "url": "https://open.spotify.com/album/7vhXbNWW78775rKWL7scwt"
-      },
-      "artists": [
-        {
-          "name": "Aurelius",
-          "url": "https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u"
-        }
-      ],
-      "date_added": "2022-01-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 237409,
-      "name": "Take It Slow (TIS)",
-      "url": "https://open.spotify.com/track/4PNIqLc0NcG8Rek3XWNqXX"
-    },
-    {
-      "album": {
         "name": "Tawag",
         "url": "https://open.spotify.com/album/6rYnzzwfZIoJsaoQKosbA3"
       },
@@ -727,6 +709,24 @@
       "duration_ms": 205322,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/40e9mNIqd4wLE3EiwPC3UL"
+    },
+    {
+      "album": {
+        "name": "TIS",
+        "url": "https://open.spotify.com/album/7vhXbNWW78775rKWL7scwt"
+      },
+      "artists": [
+        {
+          "name": "Aurelius",
+          "url": "https://open.spotify.com/artist/2Sinzznmvm6x6UamDkSB2u"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237409,
+      "name": "TIS",
+      "url": "https://open.spotify.com/track/4PNIqLc0NcG8Rek3XWNqXX"
     },
     {
       "album": {

@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 223546,
       "name": "All Rise",
       "url": "https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Fly On The Wings Of Love - Radio Mix",
       "url": "https://open.spotify.com/track/4ltjA843iasZ8e6Hq8UoWL"
@@ -1491,7 +1491,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237986,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/1N7yTg0AsrmvqBuu7WuQEC"
@@ -1691,7 +1691,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204400,
       "name": "Kiss Kiss",
       "url": "https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
@@ -2103,7 +2103,7 @@
       ],
       "date_added": "2021-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 270506,
       "name": "Ms. Jackson",
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
@@ -2269,7 +2269,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 198600,
       "name": "Overprotected - Radio Edit",
       "url": "https://open.spotify.com/track/5p0KCAuu5nrHpTuAIhHdLw"
@@ -2287,7 +2287,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 211493,
       "name": "Play",
       "url": "https://open.spotify.com/track/7fFCnttacpotkyhTOxKv14"
@@ -2399,7 +2399,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 150533,
       "name": "Put Your Hands Up for Detroit - Radio Edit",
       "url": "https://open.spotify.com/track/59tociwbFnfTnR6K8rpjuF"
@@ -2687,7 +2687,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 274106,
       "name": "Shake That - Radio Edit",
       "url": "https://open.spotify.com/track/1NOgYyLQJpQ9Ntyn5GnRjr"
@@ -2705,7 +2705,7 @@
       ],
       "date_added": "2021-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 214819,
       "name": "Shalala Lala",
       "url": "https://open.spotify.com/track/6iiaDMXr1eqnSEH9W4DLYC"
@@ -2763,7 +2763,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222133,
       "name": "Shots",
       "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
@@ -2937,7 +2937,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 311866,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/4fzsfWzRhPawzqhX8Qt9F3"
@@ -3245,6 +3245,24 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
+    },
+    {
+      "album": {
+        "name": "Eurotopia",
+        "url": "https://open.spotify.com/album/0qqHokf1bUOj5giD1kANYx"
+      },
+      "artists": [
+        {
+          "name": "E-Type",
+          "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220960,
+      "name": "True Believer",
+      "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel"
     },
     {
       "album": {

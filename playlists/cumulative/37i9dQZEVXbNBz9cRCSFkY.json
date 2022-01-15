@@ -4632,6 +4632,24 @@
     },
     {
       "album": {
+        "name": "PSG",
+        "url": "https://open.spotify.com/album/4MqzfMoVBWnM2ZyAJipzPZ"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "PSG",
+      "url": "https://open.spotify.com/track/0xaKCWpX4CBSqwh7CQa4EG"
+    },
+    {
+      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
@@ -5867,7 +5885,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 291357,
       "name": "The Day You Said Goodnight",
       "url": "https://open.spotify.com/track/0HZ3OUVrGHxttD2EuHqRm3"

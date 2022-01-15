@@ -1,38 +1,66 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
   "name": "Svensk Reggae",
-  "num_followers": 63832,
+  "num_followers": 63826,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjIwNzM3OCwwMDAwMDAwMDU2NGI0YjQzMjhmNGNmMTVjYWZlZGIzMjdmZWI3YzE2",
+  "snapshot_id": "MTY0MjI4ODE5MiwwMDAwMDAwMGI2OGIzNTZiZGIzNzA4YWI4NjM3NDEyYjVkMDAyMTM3",
   "tracks": [
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Hela mig sj\u00e4lv",
-        "url": "https://open.spotify.com/album/2BTQwxPzrbKpSDjiuVVb87"
+        "name": "En klassiker",
+        "url": "https://open.spotify.com/album/1UE22dHWkvt9zmGewTOBKc"
       },
       "artists": [
         {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
-        },
-        {
-          "name": "Partillo",
-          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+          "name": "Tony Rissla",
+          "url": "https://open.spotify.com/artist/1maUgKAqVDQXqIheDkt4jn"
         }
       ],
-      "duration_ms": 216151,
-      "name": "Hela mig sj\u00e4lv",
-      "url": "https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW"
+      "duration_ms": 208000,
+      "name": "Peace n Love",
+      "url": "https://open.spotify.com/track/02LepIdABo8o2fjhCjAdR1"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
-        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
+        "name": "One",
+        "url": "https://open.spotify.com/album/0hvBt2zDoWnKIzBd1voS4g"
+      },
+      "artists": [
+        {
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+        }
+      ],
+      "duration_ms": 260168,
+      "name": "Bara lite braj",
+      "url": "https://open.spotify.com/track/0EncUiGe1EsB7I4E0d6Z1b"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "S\u00e4g Till Mig",
+        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
+      },
+      "artists": [
+        {
+          "name": "Antonio D",
+          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "S\u00e4g Till Mig",
+      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Dimman",
+        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
       },
       "artists": [
         {
@@ -40,9 +68,41 @@
           "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Attityd",
-      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
+      "duration_ms": 217142,
+      "name": "Dimman",
+      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Leva",
+        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
+      },
+      "artists": [
+        {
+          "name": "Issify",
+          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
+        }
+      ],
+      "duration_ms": 176613,
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "2000 \u00c5r",
+        "url": "https://open.spotify.com/album/4FlgiFsVwKeAXe0AlLJJRV"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 224863,
+      "name": "2000 \u00c5r",
+      "url": "https://open.spotify.com/track/2pRhP0LlT8LzG5EujwK1cf"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -67,18 +127,18 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Lidande",
-        "url": "https://open.spotify.com/album/2KVIYl4ummCp35QGdbRJ7U"
+        "name": "Brandman",
+        "url": "https://open.spotify.com/album/5hiLVs9YzZJEukAAgq9p3f"
       },
       "artists": [
         {
-          "name": "L\u00f6stFolk",
-          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
+          "name": "Angelica Mava",
+          "url": "https://open.spotify.com/artist/3DI6xghRL08MvjfQ5M73Zk"
         }
       ],
-      "duration_ms": 211884,
-      "name": "Lidande",
-      "url": "https://open.spotify.com/track/3cmx2Iuy5idbybedfwdhyS"
+      "duration_ms": 236982,
+      "name": "Brandman",
+      "url": "https://open.spotify.com/track/1CFhm4s7I9zgEEAGuHHDme"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -95,6 +155,42 @@
       "duration_ms": 176744,
       "name": "Skin",
       "url": "https://open.spotify.com/track/4Y3ZFOlvVcLJGcjFxW8RI7"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "S\u00e5 fakking fin",
+        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
+      },
+      "artists": [
+        {
+          "name": "Robinholta",
+          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "S\u00e5 fakking fin",
+      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/7DjkLzjHLUtZbQgkBGpJ0c"
+      },
+      "artists": [
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        },
+        {
+          "name": "Ivory",
+          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/06iclXdpVQmLGuM6Lts2dU"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -119,34 +215,42 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Come By",
-        "url": "https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG"
+        "name": "H\u00e5ll i dig",
+        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
       },
       "artists": [
         {
-          "name": "Atso",
-          "url": "https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN"
+          "name": "Wagwan",
+          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
+        },
+        {
+          "name": "Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
         }
       ],
-      "duration_ms": 199872,
-      "name": "Come By",
-      "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
+      "duration_ms": 198500,
+      "name": "H\u00e5ll i dig",
+      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "V\u00e4ntar p\u00e5 livet",
-        "url": "https://open.spotify.com/album/0tci3UMmULfwRyw7csx45k"
+        "name": "StressFree",
+        "url": "https://open.spotify.com/album/5PxUb6lzCRQcXcj0LwJhnU"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Sagitarr",
+          "url": "https://open.spotify.com/artist/7gL1T4OTX5Z5lp02zZEBiC"
+        },
+        {
+          "name": "E7E",
+          "url": "https://open.spotify.com/artist/0lNUMRFlL89VFNZA6rIzQ3"
         }
       ],
-      "duration_ms": 216029,
-      "name": "V\u00e4ntar p\u00e5 livet",
-      "url": "https://open.spotify.com/track/0SfLDeRFILNjscUICZNV9y"
+      "duration_ms": 148387,
+      "name": "StressFree",
+      "url": "https://open.spotify.com/track/3dDyUC162JrGfdTGRfmuES"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -171,6 +275,22 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
+        "name": "Trodal",
+        "url": "https://open.spotify.com/album/58ffgEQ1sOp3G11WKAho4K"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "V\u00e4gsj\u00e4l",
+      "url": "https://open.spotify.com/track/22ehzAT8AUMGiR7eVaZqRC"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
         "name": "Make Sense",
         "url": "https://open.spotify.com/album/6RbXK1Yv3tusF4EJxMFkAq"
       },
@@ -191,24 +311,8 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Gr\u00e4nser",
-        "url": "https://open.spotify.com/album/3V02UC8LaG4uZKM9jgpfrb"
-      },
-      "artists": [
-        {
-          "name": "MahRoot",
-          "url": "https://open.spotify.com/artist/4vloVkOsMylOO5ZDqYoryn"
-        }
-      ],
-      "duration_ms": 261250,
-      "name": "Gr\u00e4nser",
-      "url": "https://open.spotify.com/track/4DakpA8rOt2PZEeRwXSo4L"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Dimman",
-        "url": "https://open.spotify.com/album/6XwA47Bn4kZE1PAcEG5c4r"
+        "name": "Teaterapan",
+        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
       },
       "artists": [
         {
@@ -216,29 +320,25 @@
           "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 217142,
-      "name": "Dimman",
-      "url": "https://open.spotify.com/track/1Cn1uxLBMOF4GKnJeooLMN"
+      "duration_ms": 182378,
+      "name": "Teaterapan",
+      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Dunderbart",
-        "url": "https://open.spotify.com/album/7GFMvvMTomUoDgD0wqrJhZ"
+        "name": "\u00d6PPNA D\u00d6RREN NU",
+        "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
       },
       "artists": [
         {
-          "name": "WillMan",
-          "url": "https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu"
-        },
-        {
-          "name": "Ken Ring",
-          "url": "https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX"
+          "name": "Governor Andy",
+          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 178000,
-      "name": "Allt Jag Har REMIX",
-      "url": "https://open.spotify.com/track/297oQ7daTBr2k2nkkVjwMy"
+      "duration_ms": 200000,
+      "name": "\u00d6PPNA D\u00d6RREN NU",
+      "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -259,8 +359,8 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Under samma himmel",
-        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+        "name": "V\u00e4ntar p\u00e5 livet",
+        "url": "https://open.spotify.com/album/0tci3UMmULfwRyw7csx45k"
       },
       "artists": [
         {
@@ -268,101 +368,77 @@
           "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
         }
       ],
-      "duration_ms": 253977,
-      "name": "Under samma himmel",
-      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
+      "duration_ms": 216029,
+      "name": "V\u00e4ntar p\u00e5 livet",
+      "url": "https://open.spotify.com/track/0SfLDeRFILNjscUICZNV9y"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "H\u00e5ll i dig",
-        "url": "https://open.spotify.com/album/17xGFARAsqJOvJrETeHtiM"
+        "name": "Nice",
+        "url": "https://open.spotify.com/album/388avaoWo5fv9XYP0HjHlW"
       },
       "artists": [
         {
-          "name": "Wagwan",
-          "url": "https://open.spotify.com/artist/3bKrQHdvYEghluLdK63GpS"
+          "name": "Stuken",
+          "url": "https://open.spotify.com/artist/661tBdjrNykVaJ3A8JmpWa"
         },
         {
-          "name": "Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/2ZP2p2aL2IERgmcMf5h6YG"
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/2ynroEbRxQpLk3adQ61uMs"
         }
       ],
-      "duration_ms": 198500,
-      "name": "H\u00e5ll i dig",
-      "url": "https://open.spotify.com/track/2MrxF1kIwTtWFzpGYm2aYd"
+      "duration_ms": 179368,
+      "name": "Nice",
+      "url": "https://open.spotify.com/track/37LyUYAXgYTJpnYaC95ouM"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Pass p\u00e5 dom",
-        "url": "https://open.spotify.com/album/2pGbrFnneaGF2oCKePWBfY"
+        "name": "Du som snodde min cykel",
+        "url": "https://open.spotify.com/album/3rUFIWV0Ttk9Gt1UDW7WfA"
       },
       "artists": [
         {
-          "name": "Kiihjano",
-          "url": "https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT"
-        },
-        {
-          "name": "Partillo",
-          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+          "name": "Kronofogden",
+          "url": "https://open.spotify.com/artist/7jVFpY4BgMLcoOHrHbxKHQ"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Pass p\u00e5 dom",
-      "url": "https://open.spotify.com/track/3ECcRt0WUZHvXUK80I5NOe"
+      "duration_ms": 223515,
+      "name": "Du som snodde min cykel",
+      "url": "https://open.spotify.com/track/34xfqylPr6bjehLAtxJSJF"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Aina \u00e4lskar ganja",
-        "url": "https://open.spotify.com/album/64aehqYKTdsRWMAfkMBdbw"
+        "name": "Vissa cuts",
+        "url": "https://open.spotify.com/album/6UY1n2MvSk4Y8DGdxaUYl7"
       },
       "artists": [
         {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
-        },
-        {
-          "name": "L\u00f6stFolk",
-          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 200576,
-      "name": "Aina \u00e4lskar ganja",
-      "url": "https://open.spotify.com/track/0ZZU7t3meUqAuBMcfjFiel"
+      "duration_ms": 188527,
+      "name": "Vissa cuts",
+      "url": "https://open.spotify.com/track/4tm9SbkOPMnFuLTJPAtAzX"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Trodal",
-        "url": "https://open.spotify.com/album/58ffgEQ1sOp3G11WKAho4K"
+        "name": "St\u00f6rst av allt \u00e4r k\u00e4rleken",
+        "url": "https://open.spotify.com/album/6egeDHwb5aHS524rtmHiX9"
       },
       "artists": [
         {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
         }
       ],
-      "duration_ms": 208057,
-      "name": "V\u00e4gsj\u00e4l",
-      "url": "https://open.spotify.com/track/22ehzAT8AUMGiR7eVaZqRC"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
-        "url": "https://open.spotify.com/album/3wqqrtVGYmw2ryOlOegw3R"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Snapphaneklanen",
-      "url": "https://open.spotify.com/track/3EydYrQ928AaTupbfBe8XH"
+      "duration_ms": 194000,
+      "name": "Attityd",
+      "url": "https://open.spotify.com/track/1SAVhgoRggEBIq7QhYq8kZ"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -391,124 +467,8 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Teaterapan",
-        "url": "https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 182378,
-      "name": "Teaterapan",
-      "url": "https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Babylove",
-        "url": "https://open.spotify.com/album/3OPYol6IeksktJKydDQcAX"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Babylove",
-      "url": "https://open.spotify.com/track/4nBNcwji3bTo6IoaEpoZZY"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Min Tid",
-        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
-      },
-      "artists": [
-        {
-          "name": "Ras Cricket",
-          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
-        }
-      ],
-      "duration_ms": 226063,
-      "name": "Polisen sla\u030ar",
-      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Leva",
-        "url": "https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh"
-      },
-      "artists": [
-        {
-          "name": "Issify",
-          "url": "https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM"
-        }
-      ],
-      "duration_ms": 176613,
-      "name": "Leva",
-      "url": "https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "S\u00e4g Till Mig",
-        "url": "https://open.spotify.com/album/36p7buidQlnzHhmXWnkGLW"
-      },
-      "artists": [
-        {
-          "name": "Antonio D",
-          "url": "https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "S\u00e4g Till Mig",
-      "url": "https://open.spotify.com/track/2hwH19DHE3ZUY0mFamo9wL"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "K\u00e4rlek & Revolt",
-        "url": "https://open.spotify.com/album/34H1MmY853xCdOFpBTBRdF"
-      },
-      "artists": [
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        },
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        }
-      ],
-      "duration_ms": 203418,
-      "name": "Hetare \u00c4n Lava (med Syster Sol)",
-      "url": "https://open.spotify.com/track/2CAcMHYILhxMCYia4U9aSb"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
-      },
-      "artists": [
-        {
-          "name": "Jezper",
-          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Twende Pamoja",
-        "url": "https://open.spotify.com/album/1wVsnGjHBjwaD0AtKQ0zuS"
+        "name": "Trodal",
+        "url": "https://open.spotify.com/album/3O7YkrVZN2wWqGi52W1u27"
       },
       "artists": [
         {
@@ -516,9 +476,109 @@
           "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 205836,
-      "name": "Twende Pamoja",
-      "url": "https://open.spotify.com/track/4jpUrAg12SRwApJkxLWehm"
+      "duration_ms": 276417,
+      "name": "Chimurenga",
+      "url": "https://open.spotify.com/track/1ptNyHtwxuJH8RBdBubzdY"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Come By",
+        "url": "https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG"
+      },
+      "artists": [
+        {
+          "name": "Atso",
+          "url": "https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN"
+        }
+      ],
+      "duration_ms": 199872,
+      "name": "Come By",
+      "url": "https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "\u00d6ver Min D\u00f6da",
+        "url": "https://open.spotify.com/album/5WzOuvafj3XsUVI2eETCfb"
+      },
+      "artists": [
+        {
+          "name": "Kapten R\u00f6d",
+          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
+        }
+      ],
+      "duration_ms": 213019,
+      "name": "\u00d6ver Min D\u00f6da",
+      "url": "https://open.spotify.com/track/7lTHeR7tl5EoZZaCjbOL48"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "En annan tid",
+        "url": "https://open.spotify.com/album/1GG2mtuabkaUYVChguEddo"
+      },
+      "artists": [
+        {
+          "name": "Robinholta",
+          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
+        }
+      ],
+      "duration_ms": 145238,
+      "name": "En annan tid",
+      "url": "https://open.spotify.com/track/36jO1fAZAxUX1AiCSUuT0g"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Jag lever f\u00f6r dig och d\u00e5 lever jag f\u00f6r att leva",
+        "url": "https://open.spotify.com/album/4CpRKBgtvYKjcW75HHLJl1"
+      },
+      "artists": [
+        {
+          "name": "Wahlberg",
+          "url": "https://open.spotify.com/artist/6e4wTYEU9Z8meMjxJxAnNv"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "Jag lever f\u00f6r dig och d\u00e5 lever jag f\u00f6r att leva",
+      "url": "https://open.spotify.com/track/0kgKxpl9VwHicgLeJpJSR3"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Stress Stress Stress",
+        "url": "https://open.spotify.com/album/14mqMKwmRrXaf8mHFYGl0H"
+      },
+      "artists": [
+        {
+          "name": "Partillo",
+          "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
+        },
+        {
+          "name": "Daddy Boastin",
+          "url": "https://open.spotify.com/artist/4bSQ9MGH67DgH57daayzXJ"
+        }
+      ],
+      "duration_ms": 224216,
+      "name": "Stress Stress Stress",
+      "url": "https://open.spotify.com/track/3cmlbvmfBKKUKu9cAwHnWy"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Under samma himmel",
+        "url": "https://open.spotify.com/album/7j3kCLy8PHT9kaXR6bBnIA"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 253977,
+      "name": "Under samma himmel",
+      "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -543,40 +603,40 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "hj\u00e4lpa dig",
-        "url": "https://open.spotify.com/album/6MNV3gtI3vZ9Fn01SVaybJ"
+        "name": "Uppsala - G\u00f6teborg Tur och Retur",
+        "url": "https://open.spotify.com/album/6DX4r8doLCWF26hPUhTmnm"
       },
       "artists": [
         {
-          "name": "Gr\u00e4srot",
-          "url": "https://open.spotify.com/artist/0aeBG07xjBJgvirsoLR7i4"
+          "name": "L\u00f6stFolk",
+          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
         }
       ],
-      "duration_ms": 209583,
-      "name": "hj\u00e4lpa dig",
-      "url": "https://open.spotify.com/track/49X6Vqp5mLqK1ZITKRRNS6"
+      "duration_ms": 234438,
+      "name": "Luftslott (feat. Nayomi)",
+      "url": "https://open.spotify.com/track/6HFDca3nQ3wZ8vJflJqUJq"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "S\u00e4g nej!",
-        "url": "https://open.spotify.com/album/73K51UvLMGEy4Fty6UGHSa"
+        "name": "Min Tid",
+        "url": "https://open.spotify.com/album/3wvYqA14BqE7oORSVlauJv"
       },
       "artists": [
         {
-          "name": "G\u00e4ngb\u00e4ng",
-          "url": "https://open.spotify.com/artist/30K9Fq3KZaLE6P3BLQcjys"
+          "name": "Ras Cricket",
+          "url": "https://open.spotify.com/artist/69TksjsHjLqscQcE72fevH"
         }
       ],
-      "duration_ms": 246808,
-      "name": "S\u00e4g nej!",
-      "url": "https://open.spotify.com/track/2pq3CZrGt1lrcRjiEtFtjY"
+      "duration_ms": 226063,
+      "name": "Polisen sla\u030ar",
+      "url": "https://open.spotify.com/track/3BQG2rx1bKErpA1EnbpaH7"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Dancehall",
-        "url": "https://open.spotify.com/album/5nX5cLHQXuMmzPHjGzVGFt"
+        "name": "Dunya",
+        "url": "https://open.spotify.com/album/6e2kXN0pnA4fl8UkH5b35V"
       },
       "artists": [
         {
@@ -584,39 +644,119 @@
           "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 198805,
-      "name": "Som Bob Marley",
-      "url": "https://open.spotify.com/track/1RlMC1HIfdMfj0hfx51ieH"
+      "duration_ms": 223122,
+      "name": "Dunya",
+      "url": "https://open.spotify.com/track/0QPrzAzMYzhofyx5ScZMmZ"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Dj Pull Up",
-        "url": "https://open.spotify.com/album/1OxxQuJxBnGBy9Cn021LFA"
+        "name": "Class Brut\u00e1ls",
+        "url": "https://open.spotify.com/album/0kYxPSFBeC4u3gZt2GQoOd"
       },
       "artists": [
         {
-          "name": "Alibrorsh",
-          "url": "https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw"
-        },
+          "name": "USCB Allstars",
+          "url": "https://open.spotify.com/artist/0B0EZgXQJeU6A5kznSilkZ"
+        }
+      ],
+      "duration_ms": 242973,
+      "name": "12 Steps",
+      "url": "https://open.spotify.com/track/43EV79K6fajovzzFlPK5fM"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "L\u00e5t oss leva",
+        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
+      },
+      "artists": [
         {
-          "name": "Aurelia Dey",
-          "url": "https://open.spotify.com/artist/1eFBWrAF8Vu18ey4zdRqIA"
+          "name": "Lani Mo",
+          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+        }
+      ],
+      "duration_ms": 189682,
+      "name": "L\u00e4ngtar bort",
+      "url": "https://open.spotify.com/track/2mcUhZZ308pSIDZB9sA9J9"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
+      },
+      "artists": [
+        {
+          "name": "Jezper",
+          "url": "https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "Hela mig sj\u00e4lv",
+        "url": "https://open.spotify.com/album/2BTQwxPzrbKpSDjiuVVb87"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         },
         {
           "name": "Partillo",
           "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Dj Pull Up",
-      "url": "https://open.spotify.com/track/1xX0Mp3LJXZhJWsaAZ92rS"
+      "duration_ms": 216151,
+      "name": "Hela mig sj\u00e4lv",
+      "url": "https://open.spotify.com/track/17fD2m1JPWE3M4cRfLCGdW"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Poppigt nog",
-        "url": "https://open.spotify.com/album/3YNvDHWe7zea370XF6KwOE"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/22giI2UbV7ETeAyTis7jmM"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 275800,
+      "name": "Ugly Girls",
+      "url": "https://open.spotify.com/track/5J9hKcW0JYDXZR93h3ZI9s"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "K\u00e4rlek & Revolt",
+        "url": "https://open.spotify.com/album/34H1MmY853xCdOFpBTBRdF"
+      },
+      "artists": [
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
+        },
+        {
+          "name": "Syster Sol",
+          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
+        }
+      ],
+      "duration_ms": 203418,
+      "name": "Hetare \u00c4n Lava (med Syster Sol)",
+      "url": "https://open.spotify.com/track/2CAcMHYILhxMCYia4U9aSb"
+    },
+    {
+      "added_at": "2021-12-14 14:05:16",
+      "album": {
+        "name": "120 mil",
+        "url": "https://open.spotify.com/album/6dbLP8ocoa8sPcUwRRnZdD"
       },
       "artists": [
         {
@@ -624,141 +764,65 @@
           "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
         }
       ],
-      "duration_ms": 208902,
-      "name": "Poppigt nog",
-      "url": "https://open.spotify.com/track/7G8J2s4DDLLsdPF7QO9FBI"
+      "duration_ms": 321875,
+      "name": "120 mil",
+      "url": "https://open.spotify.com/track/4jdJDMTF3W47lJika2r2HV"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+        "name": "Upphovsm\u00e4nnen Till Den Sk\u00e5nska Raggan",
+        "url": "https://open.spotify.com/album/3wqqrtVGYmw2ryOlOegw3R"
       },
       "artists": [
         {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+          "name": "Svenska Akademien",
+          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
+      "duration_ms": 231293,
+      "name": "Snapphaneklanen",
+      "url": "https://open.spotify.com/track/3EydYrQ928AaTupbfBe8XH"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Blomman Fr\u00e5n Sahara",
-        "url": "https://open.spotify.com/album/5hY6lj5dvkVx3KZnUWH4MY"
+        "name": "Finns det liv finns det tid",
+        "url": "https://open.spotify.com/album/7uAmXsf3oC3LiFfrlYVtoM"
       },
       "artists": [
         {
-          "name": "Essa Cham",
-          "url": "https://open.spotify.com/artist/3N8khuP6qGB5ZHl7jZxHDB"
-        },
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+          "name": "L\u00f6stFolk",
+          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
         }
       ],
-      "duration_ms": 266770,
-      "name": "Hennes K\u00e4rlek",
-      "url": "https://open.spotify.com/track/63bToG6KJCg4d0xuzPLMk6"
+      "duration_ms": 220676,
+      "name": "Finns det liv finns det tid",
+      "url": "https://open.spotify.com/track/4nMzM9STL3bbAErupiguPm"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Slutpl\u00e4deringen",
-        "url": "https://open.spotify.com/album/3KgsC7vZqlTl459HrMi5dN"
+        "name": "Saker som jag sett",
+        "url": "https://open.spotify.com/album/6xTvZgEj6jSQiJsaHeJS6r"
       },
       "artists": [
         {
-          "name": "Kartellen",
-          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
+          "name": "Ken Ring",
+          "url": "https://open.spotify.com/artist/2yMJGKSRgxIniMnq30FAzX"
         },
         {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        },
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "Rikslarm",
-      "url": "https://open.spotify.com/track/23Wp4ejsg8MLpAs1UVCR6t"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Dancehall Unite",
-        "url": "https://open.spotify.com/album/0Ufzk1UUuAOzXaEjzHoSX9"
-      },
-      "artists": [
-        {
-          "name": "Governor Andy",
-          "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
-        },
-        {
-          "name": "Papa Dee",
-          "url": "https://open.spotify.com/artist/5L8MV6qPlIIkmhw1DRTf3Y"
+          "name": "Rawa",
+          "url": "https://open.spotify.com/artist/2lrlMfvXH9633xjkkR2DhK"
         },
         {
           "name": "Partillo",
           "url": "https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Dancehall Unite",
-      "url": "https://open.spotify.com/track/4IljEaSOUSQcGrPwRWet7i"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Fl\u00e4cken Som Aldrig G\u00e5r Bort",
-        "url": "https://open.spotify.com/album/3B4QGsos9iNRUSLuceNZzV"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 226547,
-      "name": "1.000.000 Nollor",
-      "url": "https://open.spotify.com/track/2iu5AhrtgQ3qoWvX0vsj2j"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "S\u00e5 fakking fin",
-        "url": "https://open.spotify.com/album/3YvgJQ8Tp2pDZWX7iBjdKA"
-      },
-      "artists": [
-        {
-          "name": "Robinholta",
-          "url": "https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "S\u00e5 fakking fin",
-      "url": "https://open.spotify.com/track/4fmeEPi8QtqhvEBHtedhSQ"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "2000 \u00c5r",
-        "url": "https://open.spotify.com/album/4FlgiFsVwKeAXe0AlLJJRV"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 224863,
-      "name": "2000 \u00c5r",
-      "url": "https://open.spotify.com/track/2pRhP0LlT8LzG5EujwK1cf"
+      "duration_ms": 201184,
+      "name": "Saker som jag sett",
+      "url": "https://open.spotify.com/track/5ZTJj1tjcmpm2tyvQtxC3J"
     },
     {
       "added_at": "2021-12-14 14:05:16",
@@ -779,56 +843,24 @@
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "One",
-        "url": "https://open.spotify.com/album/0hvBt2zDoWnKIzBd1voS4g"
+        "name": "Jag Minns",
+        "url": "https://open.spotify.com/album/41NMI1UVkcbFOvDHBfWrZn"
       },
       "artists": [
         {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
         }
       ],
-      "duration_ms": 260168,
-      "name": "Bara lite braj",
-      "url": "https://open.spotify.com/track/0EncUiGe1EsB7I4E0d6Z1b"
+      "duration_ms": 242874,
+      "name": "Jag Minns",
+      "url": "https://open.spotify.com/track/6ZbEjK7jdClL1MGczRAU0q"
     },
     {
       "added_at": "2021-12-14 14:05:16",
       "album": {
-        "name": "Common Sense",
-        "url": "https://open.spotify.com/album/0i8wOJrM6kSOQ1fRB88o4y"
-      },
-      "artists": [
-        {
-          "name": "Marx Gallo",
-          "url": "https://open.spotify.com/artist/4sHsAEoZZJLuskIZPuXE1H"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Common Sense",
-      "url": "https://open.spotify.com/track/0cpUwH9Ostfo7K6H8LXvMt"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Resa Sig Opp",
-        "url": "https://open.spotify.com/album/5FKTVu2DG6bcU58dtcmaJo"
-      },
-      "artists": [
-        {
-          "name": "Svenska Akademien",
-          "url": "https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS"
-        }
-      ],
-      "duration_ms": 245720,
-      "name": "Du Vill S\u00e5 Du Kan",
-      "url": "https://open.spotify.com/track/62diEnWPFPnfTYgspaDsBf"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "\u00d6PPNA D\u00d6RREN NU",
-        "url": "https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n"
+        "name": "Som Salomos S\u00e5ng",
+        "url": "https://open.spotify.com/album/0dSRC0KYXkkQMCSPo72LHX"
       },
       "artists": [
         {
@@ -836,61 +868,9 @@
           "url": "https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u00d6PPNA D\u00d6RREN NU",
-      "url": "https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/7DjkLzjHLUtZbQgkBGpJ0c"
-      },
-      "artists": [
-        {
-          "name": "Syster Sol",
-          "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
-        },
-        {
-          "name": "Ivory",
-          "url": "https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/06iclXdpVQmLGuM6Lts2dU"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Uppsala - G\u00f6teborg Tur och Retur",
-        "url": "https://open.spotify.com/album/6DX4r8doLCWF26hPUhTmnm"
-      },
-      "artists": [
-        {
-          "name": "L\u00f6stFolk",
-          "url": "https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a"
-        }
-      ],
-      "duration_ms": 234438,
-      "name": "Luftslott (feat. Nayomi)",
-      "url": "https://open.spotify.com/track/6HFDca3nQ3wZ8vJflJqUJq"
-    },
-    {
-      "added_at": "2021-12-14 14:05:16",
-      "album": {
-        "name": "Rudeboy Love",
-        "url": "https://open.spotify.com/album/7EY5T1EABeCYw4sLRkq9T2"
-      },
-      "artists": [
-        {
-          "name": "Kapten R\u00f6d",
-          "url": "https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA"
-        }
-      ],
-      "duration_ms": 220201,
-      "name": "Rudeboy Love",
-      "url": "https://open.spotify.com/track/2FUkfqsCAFt58Ued9Dhd3C"
+      "duration_ms": 223840,
+      "name": "Bonus P\u00e5 Kortet",
+      "url": "https://open.spotify.com/track/5qVcVWM8tMt7HTH8DTpdnq"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4OF8aCFCpJb"

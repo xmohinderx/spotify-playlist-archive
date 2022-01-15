@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,208 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,241 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 59 | [DESSERT](https://open.spotify.com/track/6uL0aCgluLb9Jv9TzpJtNs) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Illusion](https://open.spotify.com/album/05ayO3bflWVKghdPEhBD0q) | 3:25 |
 | 60 | [skinz](https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [Instinct, Pt\. 2](https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv) | 3:23 |
 | 61 | [Marvelous](https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Marvelous \- MIRAE 3rd Mini Album](https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR) | 3:09 |
-| 62 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [으네 \(UNE\)](https://open.spotify.com/artist/68WFBxer8AmqVbP2JeIGKW), [비앙\(Viann\)](https://open.spotify.com/artist/42w0Nidlj4H3q4H1Q0LqRG) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 |
+| 62 | [idea](https://open.spotify.com/track/15ExzLZnfCGvje3LdquI77) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU), [Son Simba](https://open.spotify.com/artist/4q2IjH8TVz7CNSzIiPDV6B), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K), [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [Viann](https://open.spotify.com/artist/7yRs5f61v5AwXwVlUQ7bNE) | [idea](https://open.spotify.com/album/7hMd0LuKs19KRH86r5MZSm) | 4:00 |
 | 63 | [王嘉爾](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [王嘉爾](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 4:33 |
 | 64 | [LOUD](https://open.spotify.com/track/1DiDwTApBRcmxV1Cw2JBc0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [LOUD](https://open.spotify.com/album/5WsYjwaDitv4Yqsr8fqhGj) | 3:32 |
 | 65 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 |
@@ -138,7 +138,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 128 | [Tersadar](https://open.spotify.com/track/1rBjtoBPo00nvBwEBBdV51) | [Lil Wisky](https://open.spotify.com/artist/7v0bZ6zBO13T7pyaLh4i1U) | [Tersadar](https://open.spotify.com/album/7tW1RFaATTTs7eO2yO1kx4) | 3:04 |
 | 129 | [Blue Sky](https://open.spotify.com/track/7mZ4AjY7tkBLPAL85YU2jb) | [Wimas Putri](https://open.spotify.com/artist/7jwF8QbhmbET3DDDBo9C7L) | [Blue Sky](https://open.spotify.com/album/0sHfP8xjH0WBDWbSzm6eQt) | 4:09 |
 | 130 | [Tahalang Restu](https://open.spotify.com/track/2qCT9N5fctVWicT71zoRC1) | [Yogie Nandes](https://open.spotify.com/artist/1bymZsHKEEyWGaEuN5rB62) | [Tahalang Restu](https://open.spotify.com/album/0fnHTryWlFVIpOi4SmImED) | 3:56 |
-| 131 | [삐뽀삐뽀](https://open.spotify.com/track/71Q665JOOqxiPnekSMO9lk) | [ihasamic!](https://open.spotify.com/artist/50UOJJMICAoucvJ4CXeW6K), [jeena](https://open.spotify.com/artist/2xiVrlnQ4TXhLgRFWKHVbv) | [삐뽀삐뽀](https://open.spotify.com/album/5XAELRF2AG6OBVySnKgNJJ) | 3:03 |
+| 131 | [삐뽀삐뽀](https://open.spotify.com/track/71Q665JOOqxiPnekSMO9lk) | [Ihasamic!](https://open.spotify.com/artist/1iQWokgeROUSPQ8L39ycdh), [jeena](https://open.spotify.com/artist/2xiVrlnQ4TXhLgRFWKHVbv) | [삐뽀삐뽀](https://open.spotify.com/album/5XAELRF2AG6OBVySnKgNJJ) | 3:03 |
 | 132 | [まるごと](https://open.spotify.com/track/5i0AInYjZh8TuG16HyJDMZ) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [まるごと](https://open.spotify.com/album/0do13T8rlL2pjpvWCpx9R7) | 2:52 |
 | 133 | [Burn Out](https://open.spotify.com/track/2UHH88V02t0U4uVHNGyEzG) | [irda](https://open.spotify.com/artist/4eDNLBdIDeDXc09eernGJe) | [Burn Out](https://open.spotify.com/album/2zK8lgDUUkpptdrbA9lSs6) | 4:04 |
 | 134 | [Kirari \- Daul Remix](https://open.spotify.com/track/1zzJfOdraIBJtCAatSYzCt) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi), [Daul](https://open.spotify.com/artist/3ai1NgxNCUgcRr0BPbBOAc) | [Kirari Remixes \(Asia Edition\)](https://open.spotify.com/album/2OXwORzPU4tm1Skiv6l9KT) | 4:05 |

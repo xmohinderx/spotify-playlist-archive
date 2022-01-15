@@ -1733,6 +1733,32 @@
     {
       "album": {
         "name": "Di Di Di",
+        "url": "https://open.spotify.com/album/15uTVBS0whFMY5nRZ3nS5d"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Don Forty Five",
+          "url": "https://open.spotify.com/artist/10MSXbNvnGF8Hv1VyZdvNT"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193639,
+      "name": "Di Di Di",
+      "url": "https://open.spotify.com/track/0rD5giObodw4ahrR9i4rpl"
+    },
+    {
+      "album": {
+        "name": "Di Di Di",
         "url": "https://open.spotify.com/album/1uWAOI3jzkGJ03Zz44FEaU"
       },
       "artists": [
@@ -1751,7 +1777,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193639,
       "name": "Di Di Di",
       "url": "https://open.spotify.com/track/0VBB2FOTgZbrEd43TPZhUX"

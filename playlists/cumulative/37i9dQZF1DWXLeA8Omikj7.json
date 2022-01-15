@@ -445,7 +445,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 226640,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2"
@@ -587,7 +587,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 287541,
       "name": "And Then You Came",
       "url": "https://open.spotify.com/track/3jOZEvgu6UoEp77kzJjfHS"
@@ -1361,7 +1361,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 402024,
       "name": "Body Control",
       "url": "https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 154909,
       "name": "Bondade",
       "url": "https://open.spotify.com/track/2KmiFXR0oK5WWwukNm8CSb"
@@ -1397,7 +1397,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 293097,
       "name": "Bosco Lisergico",
       "url": "https://open.spotify.com/track/6EzfZhot2CjkWmF5aZVNMm"
@@ -1521,6 +1521,24 @@
       "duration_ms": 428440,
       "name": "C O S M",
       "url": "https://open.spotify.com/track/4Hg9jafzzKavElQMAINzeP"
+    },
+    {
+      "album": {
+        "name": "Cabara\u00fa",
+        "url": "https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0"
+      },
+      "artists": [
+        {
+          "name": "Pandit Pam Pam",
+          "url": "https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392107,
+      "name": "Cabara\u00fa",
+      "url": "https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0"
     },
     {
       "album": {
@@ -2309,7 +2327,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 324271,
       "name": "Desert Mule",
       "url": "https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb"
@@ -2685,7 +2703,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Drip! Drip! Drip!",
       "url": "https://open.spotify.com/track/3NWMuq1k1DJNXaHU0m7GDj"
@@ -2725,7 +2743,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 146341,
       "name": "Dunes",
       "url": "https://open.spotify.com/track/7u6uE9g62XZPY5QVqjchBG"
@@ -2931,7 +2949,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 330000,
       "name": "Efflorescence",
       "url": "https://open.spotify.com/track/2ZIv64u8EDj0BjecR7IaB2"
@@ -2985,7 +3003,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 263773,
       "name": "Electric Counterpoint",
       "url": "https://open.spotify.com/track/3vKRwlgJ0KHvoP1wyKONr7"
@@ -3169,7 +3187,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 176121,
       "name": "Erosion",
       "url": "https://open.spotify.com/track/7CPrLYIx5Eq49tqR2i9YG2"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2021-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 316190,
       "name": "Everything In Its Right Place",
       "url": "https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj"
@@ -3669,7 +3687,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 295500,
       "name": "Fen",
       "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 287704,
       "name": "Flicker",
       "url": "https://open.spotify.com/track/635aBqtYKZiGQTotfllnpl"
@@ -3957,7 +3975,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 180500,
       "name": "Fonction Naturelle",
       "url": "https://open.spotify.com/track/6WhWYLxIDeUDTtKmp8F7mX"
@@ -4015,7 +4033,7 @@
       ],
       "date_added": "2020-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 351624,
       "name": "Formation",
       "url": "https://open.spotify.com/track/4EeltidRUkfOcyGqHmCZvA"
@@ -5641,7 +5659,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 293294,
       "name": "Insight",
       "url": "https://open.spotify.com/track/3RlKU8y6NXxhPN9JmKraDA"
@@ -6005,7 +6023,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 253440,
       "name": "Kora",
       "url": "https://open.spotify.com/track/6keksRelqpwkzSEjscx8lH"
@@ -6023,7 +6041,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 304813,
       "name": "L'architettura Del Mare",
       "url": "https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c"
@@ -6189,7 +6207,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 225059,
       "name": "Late Archaic",
       "url": "https://open.spotify.com/track/2rtYpylQCBMCmv0etqC9uh"
@@ -6315,7 +6333,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206222,
       "name": "Let You",
       "url": "https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY"
@@ -6737,7 +6755,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 253980,
       "name": "Masks Off",
       "url": "https://open.spotify.com/track/1sUe5eWlR1bH0Q4ImgPf1v"
@@ -7625,7 +7643,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 300849,
       "name": "Not Really",
       "url": "https://open.spotify.com/track/7cJLStRFRo8df6nA3H1Rq6"
@@ -8159,7 +8177,7 @@
       ],
       "date_added": "2020-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 343400,
       "name": "Parallel 7",
       "url": "https://open.spotify.com/track/3LqQJYUqxRFpX3tnvIsGGh"
@@ -8249,7 +8267,7 @@
       ],
       "date_added": "2020-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 175609,
       "name": "PAST LIGHT",
       "url": "https://open.spotify.com/track/3lNNZqfjA9X4S0mn5fdUZA"
@@ -8379,7 +8397,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 324520,
       "name": "Pietre Roventi",
       "url": "https://open.spotify.com/track/0USS58M0zq0TceKeeXXrBC"
@@ -9575,7 +9593,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 388692,
       "name": "Shibori",
       "url": "https://open.spotify.com/track/3cUYvBTqGjS6zknck89Yio"
@@ -9861,7 +9879,7 @@
       ],
       "date_added": "2019-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 232053,
       "name": "Slow Buchla Sunshine",
       "url": "https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn"
@@ -9987,7 +10005,7 @@
       ],
       "date_added": "2021-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 190638,
       "name": "Solved Quick",
       "url": "https://open.spotify.com/track/30XkCWjqtb6hJKZwL2dUHg"
@@ -10063,7 +10081,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222857,
       "name": "Soul's Matter",
       "url": "https://open.spotify.com/track/21eK9EjODeTWhC81a8GVfe"
@@ -10461,7 +10479,7 @@
       ],
       "date_added": "2020-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-31",
+      "date_removed": null,
       "duration_ms": 170015,
       "name": "sunflower",
       "url": "https://open.spotify.com/track/3TZUEyCn6RIZIt9uADX6Yp"
@@ -10977,7 +10995,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 705613,
       "name": "The Anatomy of Clouds - Yann Tiersen Remix",
       "url": "https://open.spotify.com/track/1oEKtplYnjwb3tAlfm1NPF"
@@ -10995,7 +11013,7 @@
       ],
       "date_added": "2021-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 265399,
       "name": "The Best Is Yet To Come",
       "url": "https://open.spotify.com/track/6HKNkPGEwfu0TF3RouyN9W"

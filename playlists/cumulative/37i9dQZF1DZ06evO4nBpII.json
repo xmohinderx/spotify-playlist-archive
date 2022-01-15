@@ -17,7 +17,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 158389,
       "name": "2000 Light Years Away - BBC Live Session",
       "url": "https://open.spotify.com/track/5iVOSacX0ZnNQeoxQ0PldS"
@@ -201,6 +201,24 @@
       "duration_ms": 151362,
       "name": "Father of All...",
       "url": "https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl"
+    },
+    {
+      "album": {
+        "name": "Father of All...",
+        "url": "https://open.spotify.com/album/1xIgeQeVlMe5fcAVpRjkaP"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112939,
+      "name": "Fire, Ready, Aim",
+      "url": "https://open.spotify.com/track/3I8Ri6tLa4QA11MMdZywtM"
     },
     {
       "album": {
@@ -719,7 +737,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 298733,
       "name": "The Forgotten",
       "url": "https://open.spotify.com/track/1Of1g1PMt1wKW1L4Te6oDM"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 132080,
       "name": "The Grouch",
       "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"

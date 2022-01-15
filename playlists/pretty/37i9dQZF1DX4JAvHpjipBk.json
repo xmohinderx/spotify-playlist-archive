@@ -1,12 +1,12 @@
 {
   "description": "New music from Gunna & Drake, Cordae, FKA twigs, and more! ",
   "name": "New Music Friday",
-  "num_followers": 3855825,
+  "num_followers": 3856333,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE3MDAwMywwMDAwMDM4NzAwMDAwMTdlNThmNWFlZGQwMDAwMDE3ZTU1NTNhM2Zl",
+  "snapshot_id": "MTY0MjI2ODQ0OCwwMDAwMDM4OTAwMDAwMTdlNWVkM2Q2N2YwMDAwMDE3ZTU1NTNhM2Zl",
   "tracks": [
     {
       "added_at": "2022-01-14 05:00:33",
@@ -27,6 +27,26 @@
       "duration_ms": 193346,
       "name": "P power (feat. Drake)",
       "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "added_at": "2022-01-15 05:48:14",
+      "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
     },
     {
       "added_at": "2022-01-14 05:00:33",
@@ -527,7 +547,7 @@
     {
       "added_at": "2022-01-14 05:00:33",
       "album": {
-        "name": "Rapture In Blue",
+        "name": "Rapture in Blue",
         "url": "https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy"
       },
       "artists": [
@@ -537,7 +557,7 @@
         }
       ],
       "duration_ms": 144130,
-      "name": "Rapture In Blue",
+      "name": "Rapture in Blue",
       "url": "https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK"
     },
     {
@@ -1204,7 +1224,7 @@
           "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 164962,
+      "duration_ms": 164560,
       "name": "Payback (feat. Knucks)",
       "url": "https://open.spotify.com/track/2L87cMenk89nNivoM1fmPU"
     },

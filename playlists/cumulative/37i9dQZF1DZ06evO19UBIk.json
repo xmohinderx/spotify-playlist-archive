@@ -39,7 +39,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 35800,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6U65Pc0A2qHYwJoU1OLgH0"
@@ -224,6 +224,24 @@
     },
     {
       "album": {
+        "name": "Other Voices",
+        "url": "https://open.spotify.com/album/6uhwVoXKDMzdXXjhTCH6Nk"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "I'm Horny, I'm Stoned",
+      "url": "https://open.spotify.com/track/7fku2DCfY0oUUDUYXB6Q7m"
+    },
+    {
+      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -401,7 +419,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 144933,
       "name": "Newborn Awakening",
       "url": "https://open.spotify.com/track/2EStd4GGmC155o0ZQROmqB"

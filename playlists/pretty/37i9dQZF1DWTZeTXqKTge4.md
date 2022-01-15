@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le meilleur du hip\-hop québécois\. Photo: Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,562 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,572 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 10 | [Nouvelle vague](https://open.spotify.com/track/0ifRyZfj9oysmVpXgKmlxT) | [Manu Militari](https://open.spotify.com/artist/5hCqDsqqIaYbJhWoZ0JhaE) | [Nouvelle vague](https://open.spotify.com/album/0dEXddYdz0yGTLQjtH6TfM) | 3:47 |
 | 11 | [Drop Top](https://open.spotify.com/track/0HaNQlN2fYf5Q8izAuXd3c) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Drop Top](https://open.spotify.com/album/7M6P4MXrPUlAkJ9KqLvp8C) | 3:00 |
 | 12 | [G.O.A.T.S.](https://open.spotify.com/track/6uaVCeRwAK0esY2xPlKVby) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Couleurs primaires : Rouge](https://open.spotify.com/album/24EI5BeUrPeNpAflDizg4k) | 4:07 |
-| 13 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/2uIKmM6wjwGmMqSacQfCcm), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 |
+| 13 | [Soroche \- Remix](https://open.spotify.com/track/3lOPIBDXdNgWWtfVgUFjtc) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Akhenaton](https://open.spotify.com/artist/4ddg7PH5OuSossiSBWgueu) | [Soroche](https://open.spotify.com/album/6lgpGcx0Y3AbGz26de8Rre) | 3:01 |
 | 14 | [5 Boutes](https://open.spotify.com/track/162EqB8realRZyj7OEa4IW) | [Rmax](https://open.spotify.com/artist/1T3SPxUzMi2bt89Ux9A8U9), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [J.BO](https://open.spotify.com/artist/6qfbY11F2cczEo2xrQeQBG), [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n) | [5 Boutes](https://open.spotify.com/album/1krhIqOQSjNmLEOAfRf6jP) | 2:24 |
 | 15 | [Respecte](https://open.spotify.com/track/1rHJ65IMzxclbZqs5v233r) | [Rach](https://open.spotify.com/artist/1Qyyc7H8E9gI5nEjWTQk7n), [Jackboy](https://open.spotify.com/artist/5dERu9kdHEHydNM3cmSRS9) | [Respecte](https://open.spotify.com/album/2yJbi9pizlXc9SOAq4ompU) | 2:24 |
 | 16 | [Dollars Canadiens](https://open.spotify.com/track/6GnnH2SCxp8JW5dnEvMxNf) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Dollars Canadiens](https://open.spotify.com/album/4K5lMdOiq1hV7VNKpFXqHG) | 2:37 |

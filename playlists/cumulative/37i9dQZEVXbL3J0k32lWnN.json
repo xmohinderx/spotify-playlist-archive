@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198722,
+      "name": "1 Sammen",
+      "url": "https://open.spotify.com/track/17y8YQMtDmaSKDvzBlHPD3"
+    },
+    {
+      "album": {
         "name": "Infinity Action",
         "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
@@ -506,6 +524,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166459,
+      "name": "Avantgarde",
+      "url": "https://open.spotify.com/track/5nB3zVeuHoAHmwHQuQqhzD"
+    },
+    {
+      "album": {
         "name": "B.O. Bop/Wawa",
         "url": "https://open.spotify.com/album/0yvKiAxti5yd16tJt4FeAU"
       },
@@ -666,6 +702,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141723,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3pbqH8vafUbh1oqo8HYwK5"
+    },
+    {
+      "album": {
         "name": "BABA BUSINESS 2",
         "url": "https://open.spotify.com/album/4dME9nfbQfTU1zx4P8LVjn"
       },
@@ -699,6 +753,24 @@
       "duration_ms": 131050,
       "name": "Bare Os Selv",
       "url": "https://open.spotify.com/track/0dVRJtNVSpE2gDJ3EYAoCp"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167233,
+      "name": "Bariostar",
+      "url": "https://open.spotify.com/track/7mv0oAleAr0eJc7JmVFq72"
     },
     {
       "album": {
@@ -1041,7 +1113,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
@@ -1201,6 +1273,28 @@
       "duration_ms": 157664,
       "name": "BOYTOY",
       "url": "https://open.spotify.com/track/5u0rw9MFwBZQRQkhUu7qSv"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Prinsess Jorge",
+          "url": "https://open.spotify.com/artist/6f2aOoKCFhLJLEJqZKyf7j"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "Brazil (feat. Prinsess Jorge)",
+      "url": "https://open.spotify.com/track/3owO10ZvkdTVHhq27HxzTr"
     },
     {
       "album": {
@@ -2559,7 +2653,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 359946,
       "name": "En Stemme",
       "url": "https://open.spotify.com/track/64aEa2sELbvysQhFpQFjJm"
@@ -3197,7 +3291,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
@@ -4754,6 +4848,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131872,
+      "name": "Ik' Lige Nu",
+      "url": "https://open.spotify.com/track/4sFcQqryIN1XFVsM0LQqNM"
+    },
+    {
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -5372,6 +5484,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147955,
+      "name": "Kender Ik' I Morgen",
+      "url": "https://open.spotify.com/track/6e7KGsngU13kguy5hTvSxe"
+    },
+    {
+      "album": {
         "name": "Monolog",
         "url": "https://open.spotify.com/album/1zFKjPWDOVJWO8AnOOnNF5"
       },
@@ -5741,7 +5871,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 211814,
       "name": "Less Than Zero",
       "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
@@ -6428,6 +6558,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151891,
+      "name": "Miami Vicer",
+      "url": "https://open.spotify.com/track/3a6GwXyS27Phmpr9XMv1h7"
+    },
+    {
+      "album": {
         "name": "Shu-bi-dua 7 (Deluxe udgave)",
         "url": "https://open.spotify.com/album/32GgYnmBT6ilmhEvqL8kqs"
       },
@@ -6511,7 +6659,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 232991,
       "name": "Miserable Man",
       "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
@@ -7196,6 +7344,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145473,
+      "name": "No Pasa Nada",
+      "url": "https://open.spotify.com/track/0sJE2HD9YGU7nkJtg84IJv"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -7415,7 +7581,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 225148,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
@@ -7491,7 +7657,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
@@ -7649,6 +7815,24 @@
       "duration_ms": 198081,
       "name": "Peaches (feat. Daniel Caesar & Giveon)",
       "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155552,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/0SYgFUs4mbY9iNUxmUZ9iX"
     },
     {
       "album": {
@@ -8637,7 +8821,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 227106,
       "name": "Som Fluer",
       "url": "https://open.spotify.com/track/7KqQcYKkRT7GylPtCxaCPo"
@@ -9083,7 +9267,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
@@ -9163,7 +9347,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 143901,
       "name": "THATS WHAT I WANT",
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
@@ -9656,6 +9840,24 @@
     },
     {
       "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/4hj8E7TYAq8pJukk2CUlFx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179170,
+      "name": "Ur\u00f8rlig",
+      "url": "https://open.spotify.com/track/2PzhOZXhOPwsN30xlK8hIt"
+    },
+    {
+      "album": {
         "name": "Vendetta",
         "url": "https://open.spotify.com/album/1s7bRiwQ9gs8U9sOGgnnzk"
       },
@@ -9743,7 +9945,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189386,
       "name": "Vi Vokser",
       "url": "https://open.spotify.com/track/5xG3e5C5DOFWQlYFqJanWB"

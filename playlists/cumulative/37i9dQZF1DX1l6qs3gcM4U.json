@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235244,
       "name": "Acerta",
       "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 183824,
       "name": "Ado\u00e7o",
       "url": "https://open.spotify.com/track/61MbzsETAezqjjsx15Lh5U"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
@@ -527,7 +527,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 190815,
       "name": "Dam Pam",
       "url": "https://open.spotify.com/track/3K5ia3ysyRjlm9TJI8HdE3"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 217276,
       "name": "Dem\u00f3nio da Tarraxinha",
       "url": "https://open.spotify.com/track/1lynGSW6MMqxWXNXJIXPSu"
@@ -563,7 +563,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214492,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/7smOsCISsw5wc4UHBfq2Tb"
@@ -581,7 +581,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222928,
       "name": "Desculpa",
       "url": "https://open.spotify.com/track/5cw7KhORjRNFEP5Yyfs98O"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 165203,
       "name": "Dor d'um Kriolu",
       "url": "https://open.spotify.com/track/3oMBUqIQYJMsLdPcyCgdNo"
@@ -749,7 +749,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204531,
       "name": "Escola",
       "url": "https://open.spotify.com/track/1WpDYqttO9wySpUvvk9tXG"
@@ -807,7 +807,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 180007,
       "name": "Estragar o que Est\u00e1 Bom",
       "url": "https://open.spotify.com/track/0TeztqSxQL0OdnYR3XQV1R"
@@ -873,7 +873,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214500,
       "name": "Exagerar",
       "url": "https://open.spotify.com/track/6WZuamKbhEv7uJnSPWtzAv"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 201253,
       "name": "Fa\u00e7o Como",
       "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 179999,
       "name": "Fininho",
       "url": "https://open.spotify.com/track/5AGEa2l0h9fEQSbqQdjh2q"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205714,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/1lTCCK1d6IZLCbDPBaWhC7"
@@ -1407,7 +1407,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 208137,
       "name": "Me D\u00e3o Na Cara",
       "url": "https://open.spotify.com/track/1lvAa1i6csI91Qu8I6pRjp"
@@ -1432,6 +1432,24 @@
     },
     {
       "album": {
+        "name": "Melhor De Mim",
+        "url": "https://open.spotify.com/album/1HU1IPpg4qpPrUAX7AsetQ"
+      },
+      "artists": [
+        {
+          "name": "Lupambo Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/21jubjQ9J5zyNTcO9EzOWK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222679,
+      "name": "Melhor De Mim",
+      "url": "https://open.spotify.com/track/7MEDcLf5GnKbAZilveql59"
+    },
+    {
+      "album": {
         "name": "Meu Marido",
         "url": "https://open.spotify.com/album/35GN3dkUAe9pzWBlnIondq"
       },
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 219218,
       "name": "Meu Marido",
       "url": "https://open.spotify.com/track/5zeTVFJmNIhn5DIkRDvFuo"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 234840,
       "name": "Minha Sorte",
       "url": "https://open.spotify.com/track/1cDHMNjpd502ILANRGov04"
@@ -1497,7 +1515,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "Mi\u00fada Linda",
       "url": "https://open.spotify.com/track/0jmwFUYbHEqPY60yeJIGvT"
@@ -1701,7 +1719,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 228325,
       "name": "N\u00e3o Posso",
       "url": "https://open.spotify.com/track/0wVFtfUnFotGMSxPlG56a7"
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 236192,
       "name": "N\u00e3o Tem Que Encantar",
       "url": "https://open.spotify.com/track/7zEFn5PC91OB6KYFjCxMHi"
@@ -1745,7 +1763,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 225419,
       "name": "N\u00e3o Vai Embora",
       "url": "https://open.spotify.com/track/0jes5OAEw9JPkXmZ0zpH1d"
@@ -1975,7 +1993,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205000,
       "name": "Pronto Para Te Dar - Saxo-Kizomba Remix",
       "url": "https://open.spotify.com/track/5eHQKIHxF3G9BW8qpKpk3k"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235179,
       "name": "Rainha",
       "url": "https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189058,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/0pnQuPugcSa1anG10jlxkz"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 176477,
       "name": "Santiago",
       "url": "https://open.spotify.com/track/6n2wC4XVCaSVpJMxBPrJMN"
@@ -2207,7 +2225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"
@@ -2281,7 +2299,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Siguim",
       "url": "https://open.spotify.com/track/0Jbtm0lYGgmJixofbggR1e"
@@ -2317,7 +2335,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 201780,
       "name": "So Nos",
       "url": "https://open.spotify.com/track/1BYeVkjrSN7APBly0piieC"
@@ -2405,7 +2423,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 232421,
       "name": "Super Mulher",
       "url": "https://open.spotify.com/track/5wwr1f74OA9y3oAQVVsqvB"
@@ -2423,7 +2441,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229354,
       "name": "Tayanna",
       "url": "https://open.spotify.com/track/5koelUYXOtUwFvRvuaNu2n"
@@ -2481,7 +2499,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck"
@@ -2667,7 +2685,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 195408,
       "name": "UH",
       "url": "https://open.spotify.com/track/5LgphYNfWHIwIRUqNCWcOM"
@@ -2795,7 +2813,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 261407,
       "name": "Water",
       "url": "https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X"

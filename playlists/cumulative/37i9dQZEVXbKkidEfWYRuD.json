@@ -2115,7 +2115,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 100780,
       "name": "Internal",
       "url": "https://open.spotify.com/track/5VIR1O2q6JhcugcuOeYpO8"
@@ -4593,7 +4593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206280,
       "name": "Softcore",
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
@@ -6711,7 +6711,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 172931,
       "name": "\u0413\u0443\u0441\u0438",
       "url": "https://open.spotify.com/track/0NPRigM2lZGGFW3OD48g43"
@@ -6925,7 +6925,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 172137,
       "name": "\u0414\u043e\u043c\u043e\u0439",
       "url": "https://open.spotify.com/track/5bA2HBafCfregvLZV4idXb"
@@ -7775,7 +7775,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 202040,
       "name": "\u041a\u0443\u043a\u043b\u0430 \u043a\u043e\u043b\u0434\u0443\u043d\u0430",
       "url": "https://open.spotify.com/track/2DYzsMQpO7xOw7b3JwyIWP"
@@ -9169,6 +9169,24 @@
       "duration_ms": 129399,
       "name": "\u041f\u043e\u0447\u0435\u043c\u0443",
       "url": "https://open.spotify.com/track/0gZftpadaavICyLfHiCMUz"
+    },
+    {
+      "album": {
+        "name": "\u041f\u041e\u0427\u0415\u041c\u0423?",
+        "url": "https://open.spotify.com/album/6dsSUCpM8bVdMxQ1yv6JTm"
+      },
+      "artists": [
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165794,
+      "name": "\u041f\u041e\u0427\u0415\u041c\u0423?",
+      "url": "https://open.spotify.com/track/6TYmpWMxhqv0TVtiAIwzBW"
     },
     {
       "album": {
