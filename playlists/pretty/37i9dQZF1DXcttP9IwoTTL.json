@@ -1,83 +1,51 @@
 {
   "description": "<a href=\"spotify:artist:3AN049igIAaoX0fjTCkpnf\">Jennifer Cardini</a>'s favorite tracks. Updated regularly. Curated by Jennifer Cardini. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Jennifer Cardini's track IDs",
-  "num_followers": 11513,
+  "num_followers": 11540,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTEzMjAxOCwwMDAwMDAzOTAwMDAwMTdkYTNlMWI1YWUwMDAwMDE3M2E0ZmI1MTBl",
+  "snapshot_id": "MTY0MjE2MjkwNCwwMDAwMDAzYTAwMDAwMTdlNTg4OTVkYmQwMDAwMDE3M2E0ZmI1MTBl",
   "tracks": [
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
-        "name": "Forever in a Dream",
-        "url": "https://open.spotify.com/album/3zPZDwIYxL5a5KIgvoiZJv"
-      },
-      "artists": [
-        {
-          "name": "John Noseda",
-          "url": "https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA"
-        }
-      ],
-      "duration_ms": 323540,
-      "name": "Forever in a Dream",
-      "url": "https://open.spotify.com/track/44WZP6f4DW2g4GxnTPF1IJ"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Il Quadro di Troisi",
-        "url": "https://open.spotify.com/album/4jSXeII5Vv1ODLIbk2ksCZ"
-      },
-      "artists": [
-        {
-          "name": "Il Quadro di Troisi",
-          "url": "https://open.spotify.com/artist/56aveFmMjth9yuDxLjUoEb"
-        }
-      ],
-      "duration_ms": 307582,
-      "name": "Non ricordi",
-      "url": "https://open.spotify.com/track/2TbXump9GFGzG6ayAPTdoL"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/4MjolbbuhTgDF7V7wZLGPR"
-      },
-      "artists": [
-        {
-          "name": "December",
-          "url": "https://open.spotify.com/artist/2r6LmySpm6xw0wNOrY13Tl"
-        }
-      ],
-      "duration_ms": 256545,
-      "name": "Je Sors Ce Soir",
-      "url": "https://open.spotify.com/track/3f6AzLxev0VABEpgFjVdDs"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Intermezzo Uno & Due",
-        "url": "https://open.spotify.com/album/7chr3Q4riBG7BvAdP1fprF"
+        "name": "Blood Oath",
+        "url": "https://open.spotify.com/album/7iEJaJ0QQaUv5MUnLlXTS4"
       },
       "artists": [
         {
           "name": "Curses",
           "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
-        },
-        {
-          "name": "Cici",
-          "url": "https://open.spotify.com/artist/6TiFzXoMAVoMuVMawOX2Yd"
         }
       ],
-      "duration_ms": 243760,
-      "name": "Gina lollobrigida",
-      "url": "https://open.spotify.com/track/4l2tnE2pYXYAo0WrlEiBEK"
+      "duration_ms": 262333,
+      "name": "Blood Oath",
+      "url": "https://open.spotify.com/track/16Wo0mrfywgcnpfv0x1FvB"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "El Venao",
+        "url": "https://open.spotify.com/album/4BGItTFlt0AfXD7GAlUAFw"
+      },
+      "artists": [
+        {
+          "name": "Thomass Jackson",
+          "url": "https://open.spotify.com/artist/4ID5Q4SwFTgTS7a34NKBTB"
+        },
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        }
+      ],
+      "duration_ms": 409043,
+      "name": "Don Palenque (Future Trance 2.0)",
+      "url": "https://open.spotify.com/track/6eC9eXk7r63Ui6KzfRKMJL"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4qdhsoa9W40OOVVDlFQYOO"
@@ -93,7 +61,7 @@
       "url": "https://open.spotify.com/track/1OHx1AEaCqTp0NdHIUWDcm"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Ghost of Chance",
         "url": "https://open.spotify.com/album/2hGcadCRDzHq5pnk9bXc4v"
@@ -109,7 +77,55 @@
       "url": "https://open.spotify.com/track/0NYoKI1pNqRI3W3Bd7vIpb"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Hidden Dancefloors",
+        "url": "https://open.spotify.com/album/2ZQ51UxHbqhijUT1mLtqYS"
+      },
+      "artists": [
+        {
+          "name": "DC Salas",
+          "url": "https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw"
+        }
+      ],
+      "duration_ms": 350688,
+      "name": "Hidden Dancefloors",
+      "url": "https://open.spotify.com/track/3sztCbAGjdXLK0HOzHHv2p"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Come with Me",
+        "url": "https://open.spotify.com/album/2krNh15cGXPm5V1Ev6hGu8"
+      },
+      "artists": [
+        {
+          "name": "Simoncino",
+          "url": "https://open.spotify.com/artist/38mGXV1meeU3dz3HtO4toI"
+        }
+      ],
+      "duration_ms": 217552,
+      "name": "Afrikan III",
+      "url": "https://open.spotify.com/track/2iwbPDO5pFkGqEcVyt6KSk"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "My City's On Fire",
+        "url": "https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "My City's On Fire",
+      "url": "https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Sierra Madre",
         "url": "https://open.spotify.com/album/06LRkQlZhJVxbFJGrnAlzu"
@@ -129,111 +145,7 @@
       "url": "https://open.spotify.com/track/3pFZGMIENcCI0JbrZuUvw0"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Sogno Lucido",
-        "url": "https://open.spotify.com/album/20aWaXET1mciwr3q1lkLf6"
-      },
-      "artists": [
-        {
-          "name": "Phunkadelica",
-          "url": "https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj"
-        }
-      ],
-      "duration_ms": 420000,
-      "name": "The Decadance",
-      "url": "https://open.spotify.com/track/7gQkbnKEG3lrfjCSWtb4hk"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "My City's On Fire",
-        "url": "https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        }
-      ],
-      "duration_ms": 187096,
-      "name": "My City's On Fire",
-      "url": "https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Wings Of Time",
-        "url": "https://open.spotify.com/album/1CMn02FB09tU2cEyLp55VW"
-      },
-      "artists": [
-        {
-          "name": "Terr",
-          "url": "https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN"
-        },
-        {
-          "name": "Tornado Wallace",
-          "url": "https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT"
-        }
-      ],
-      "duration_ms": 370560,
-      "name": "Wings Of Time - Tornado Wallace Remix",
-      "url": "https://open.spotify.com/track/1BNTPNMmur9XawmdDruNcE"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Honest Paradigm",
-        "url": "https://open.spotify.com/album/4dIxqEBvxpFad03l6N4SzZ"
-      },
-      "artists": [
-        {
-          "name": "Cornelius Doctor",
-          "url": "https://open.spotify.com/artist/4O8WouzsWKsvnJcAr3oG7s"
-        },
-        {
-          "name": "Curses",
-          "url": "https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1"
-        }
-      ],
-      "duration_ms": 277760,
-      "name": "True Romance",
-      "url": "https://open.spotify.com/track/4n8lsKeO1i04ecuSH9J93r"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Mexico Trance",
-        "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
-      },
-      "artists": [
-        {
-          "name": "I\u00f1igo Vontier",
-          "url": "https://open.spotify.com/artist/46102Rmv7OVlBvNRnH3fj2"
-        }
-      ],
-      "duration_ms": 415000,
-      "name": "Mexico Trance",
-      "url": "https://open.spotify.com/track/4yg5djr9I1rhJZAXUxZIg4"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "I Want The Night",
-        "url": "https://open.spotify.com/album/6Tpge3dzyo3a9lB1YteHpX"
-      },
-      "artists": [
-        {
-          "name": "The Juan Maclean",
-          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
-        }
-      ],
-      "duration_ms": 392958,
-      "name": "Wipeout",
-      "url": "https://open.spotify.com/track/6Tj7d5D4RThfsqhqrB50LW"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Hart Und Kalt",
         "url": "https://open.spotify.com/album/2mtu4fMzSU0CaIwwhQBN2q"
@@ -249,7 +161,7 @@
       "url": "https://open.spotify.com/track/2WtElnjUqWwPwm0aDJQW4l"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Mayumi",
         "url": "https://open.spotify.com/album/7peYFDBJBpBtYoeOIYlOg9"
@@ -269,47 +181,7 @@
       "url": "https://open.spotify.com/track/4oS2LzBpg7JuQ5DOJJvTZF"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Silos EP",
-        "url": "https://open.spotify.com/album/5f69QjZh1U8NdbHyXgFoEy"
-      },
-      "artists": [
-        {
-          "name": "Russian Chandeliers",
-          "url": "https://open.spotify.com/artist/5sbDZ2Mx2bIHQqBa52dvCs"
-        },
-        {
-          "name": "Zillas On Acid",
-          "url": "https://open.spotify.com/artist/3eagsKVJKWTP5XmPnE5ZQZ"
-        }
-      ],
-      "duration_ms": 489144,
-      "name": "A Fine Day For A Drubbing - Zillas On Acid Remix",
-      "url": "https://open.spotify.com/track/5GCLPhpwjMFQJQMjWg8Jaq"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Forever in a Dream",
-        "url": "https://open.spotify.com/album/4cqSfXBc50txyfO1m705j5"
-      },
-      "artists": [
-        {
-          "name": "John Noseda",
-          "url": "https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA"
-        },
-        {
-          "name": "Paula Tape",
-          "url": "https://open.spotify.com/artist/1Yz5x25z5WOjMGQkZ1TwKh"
-        }
-      ],
-      "duration_ms": 379633,
-      "name": "Mind Control - Paula Tape Remix",
-      "url": "https://open.spotify.com/track/35hcPdEN0zIQW59olzNt2h"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Rocket Dial EP",
         "url": "https://open.spotify.com/album/435ZU6pwfeUYG56D77uCUd"
@@ -325,7 +197,7 @@
       "url": "https://open.spotify.com/track/0WtQkSO98Mpl8Dt6fKcYcO"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Drums Circle",
         "url": "https://open.spotify.com/album/2bdhcaMQhe2UFrHRhxEoX8"
@@ -345,23 +217,59 @@
       "url": "https://open.spotify.com/track/41pXdUsOVu1xsjl9dYPYgH"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
-        "name": "The Beautiful Feelings EP",
-        "url": "https://open.spotify.com/album/2g1IYOZulgSGA54t6gKFVW"
+        "name": "'Baila Con La Cabeza' EP",
+        "url": "https://open.spotify.com/album/5GndhohFKddjyC42ZG9bvi"
       },
       "artists": [
         {
-          "name": "DC Salas",
-          "url": "https://open.spotify.com/artist/5Je9stfFSgHo3TZgyOPsUw"
+          "name": "Veltran",
+          "url": "https://open.spotify.com/artist/0CKOaEs79aiD0ky0TBGx7b"
+        },
+        {
+          "name": "Diskontrol",
+          "url": "https://open.spotify.com/artist/0DqHMfPSVN7XMEBIp4Vwvd"
         }
       ],
-      "duration_ms": 416060,
-      "name": "Did They Listen?",
-      "url": "https://open.spotify.com/track/4JpoNUsjquyxYd499fPGzA"
+      "duration_ms": 385573,
+      "name": "Noches - Diskontrol Remix",
+      "url": "https://open.spotify.com/track/5p2WMDJP3nA6F902Zu5YBn"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Sogno Lucido",
+        "url": "https://open.spotify.com/album/20aWaXET1mciwr3q1lkLf6"
+      },
+      "artists": [
+        {
+          "name": "Phunkadelica",
+          "url": "https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj"
+        }
+      ],
+      "duration_ms": 420000,
+      "name": "The Decadance",
+      "url": "https://open.spotify.com/track/7gQkbnKEG3lrfjCSWtb4hk"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Forever in a Dream",
+        "url": "https://open.spotify.com/album/3zPZDwIYxL5a5KIgvoiZJv"
+      },
+      "artists": [
+        {
+          "name": "John Noseda",
+          "url": "https://open.spotify.com/artist/1GHQDN0HXk1MVl7zyhqlXA"
+        }
+      ],
+      "duration_ms": 323540,
+      "name": "Forever in a Dream",
+      "url": "https://open.spotify.com/track/44WZP6f4DW2g4GxnTPF1IJ"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Cruise",
         "url": "https://open.spotify.com/album/40hMSAyTMHE37na5y8dH7T"
@@ -377,7 +285,7 @@
       "url": "https://open.spotify.com/track/2KRsko1nMq2lXxWQLuH5h5"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/4tvnchNiDvrGs31kJLjFfs"
@@ -393,7 +301,7 @@
       "url": "https://open.spotify.com/track/6oO4m6VjpWTRvTtMmhNxdt"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Age Of Intimacy",
         "url": "https://open.spotify.com/album/3pLToeYsFWZYCC9bAe8K7o"
@@ -413,7 +321,7 @@
       "url": "https://open.spotify.com/track/3TbcqqGIkN8qXBYgWyMOhm"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Disco Recharge (The Complete Expanded Collection)",
         "url": "https://open.spotify.com/album/01AepugeEoimCqlJJl8eEW"
@@ -433,7 +341,7 @@
       "url": "https://open.spotify.com/track/3IXIGAnIgN2ZwS3xCPSiHn"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Muy Duro, Vol. 6",
         "url": "https://open.spotify.com/album/0DHehfH9A3DuFoviHomvbo"
@@ -449,7 +357,7 @@
       "url": "https://open.spotify.com/track/3jYebdSrRxsvsxAKeAFKmv"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Drainpipes",
         "url": "https://open.spotify.com/album/6UkT2lpALcOsEmyG81w7ks"
@@ -465,7 +373,7 @@
       "url": "https://open.spotify.com/track/2Qb5ly9QzzlfAN9PDeIi9X"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "WAR1202",
         "url": "https://open.spotify.com/album/5aLoBclKU0xzheeuUcoOUt"
@@ -481,7 +389,7 @@
       "url": "https://open.spotify.com/track/3wdcbetmSjII8h6AkIBmQh"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Junior Mix(d)",
         "url": "https://open.spotify.com/album/2QYNpO66qomPUFw1omt2Hw"
@@ -501,7 +409,27 @@
       "url": "https://open.spotify.com/track/3WmZ56ukm30q3DD3UjzGjz"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "La Batterie",
+        "url": "https://open.spotify.com/album/3djwoCHWzGnsGNVyUuMpf5"
+      },
+      "artists": [
+        {
+          "name": "Freddy Spins",
+          "url": "https://open.spotify.com/artist/0Qt0g2SqNj6tGqB6HS8Kj1"
+        },
+        {
+          "name": "Lion's Drums",
+          "url": "https://open.spotify.com/artist/2Jl6DsGmwz7jFS7TiyOwBu"
+        }
+      ],
+      "duration_ms": 407516,
+      "name": "Journey To Middle earth - Lion's Drums Edit",
+      "url": "https://open.spotify.com/track/1uaoKS56BGu5HISY7Kld97"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Celestial Objects (Edit)",
         "url": "https://open.spotify.com/album/65T2utv74yFo8FFmwCFbHI"
@@ -517,7 +445,7 @@
       "url": "https://open.spotify.com/track/7JKvlbEPNYmDUZypYvIVE6"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Space, Diversity, No Limits",
         "url": "https://open.spotify.com/album/0r3wkhYl1X8g1Oet62BonY"
@@ -533,7 +461,7 @@
       "url": "https://open.spotify.com/track/39SDJJlg7JPcgwylWqxmlI"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/0bLQL1CpcBKiq5MT2ZugD1"
@@ -549,7 +477,27 @@
       "url": "https://open.spotify.com/track/1v1KF4mintbH5eWVYq2mfF"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Under Fire (Perel Remix)",
+        "url": "https://open.spotify.com/album/1C9M3LyMQ1OjJNFFyJ3T4A"
+      },
+      "artists": [
+        {
+          "name": "Django Django",
+          "url": "https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab"
+        },
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "duration_ms": 395409,
+      "name": "Under Fire - Perel Remix",
+      "url": "https://open.spotify.com/track/4zLobHtvzQZJ4Z46mCEKCu"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Compute",
         "url": "https://open.spotify.com/album/5STTqBexFO60O2jN83Q7A6"
@@ -565,7 +513,7 @@
       "url": "https://open.spotify.com/track/3oXxg98yFTsVeeyIPEWbgJ"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Electro Romantica",
         "url": "https://open.spotify.com/album/0g2wRTnaNqJcPBeOVRITNC"
@@ -581,7 +529,7 @@
       "url": "https://open.spotify.com/track/25D5J9fSm58xlEYv5sxJk6"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Differences",
         "url": "https://open.spotify.com/album/6y08yLAEY6TKovLXFMJKIK"
@@ -601,7 +549,7 @@
       "url": "https://open.spotify.com/track/5f1zSNxavL2s23D2BWbpvd"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Unleashed Tapes Vol. 3",
         "url": "https://open.spotify.com/album/2xkNTvBfJLndd7htE0O5Hk"
@@ -617,7 +565,7 @@
       "url": "https://open.spotify.com/track/2DIGHnOyKwBCGEDAgMI6YN"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Intermezzo Uno & Due",
         "url": "https://open.spotify.com/album/7chr3Q4riBG7BvAdP1fprF"
@@ -633,7 +581,7 @@
       "url": "https://open.spotify.com/track/1NXw6xGEkqy2KIqxEI16Mw"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "The Church",
         "url": "https://open.spotify.com/album/7B1zROmTZS3MZ2QmtLyV6W"
@@ -649,7 +597,7 @@
       "url": "https://open.spotify.com/track/7xzzBMB5gDlGFKMTUQvI5u"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Ultimate Reward",
         "url": "https://open.spotify.com/album/127EFnztaLISw0toBj4y8e"
@@ -665,7 +613,7 @@
       "url": "https://open.spotify.com/track/3NHqSFBtcXKJfCxPLHENXb"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "In Flaming Virtue",
         "url": "https://open.spotify.com/album/5vmHnahEyU5xzAWDeFT98c"
@@ -681,7 +629,7 @@
       "url": "https://open.spotify.com/track/2UD2DOfHmU2T3s7n32EU3z"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/3UlyqpKXsGyPxj1hHh8XFX"
@@ -701,7 +649,7 @@
       "url": "https://open.spotify.com/track/3sVCVHUwp8Kw8cWs8s2b1s"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Some Lights EP",
         "url": "https://open.spotify.com/album/6N4KhDDXx5rvxRoARiv6r9"
@@ -717,7 +665,7 @@
       "url": "https://open.spotify.com/track/7J72Dj5XSxC9dHFlxXr9BC"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Would?",
         "url": "https://open.spotify.com/album/5yfreGbirgolxw6dnGYjvA"
@@ -737,7 +685,7 @@
       "url": "https://open.spotify.com/track/4ceyvLzAEH31vhA5eZHPHB"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Unearthed",
         "url": "https://open.spotify.com/album/2tTQ6QbwZudpWErY9K8wMe"
@@ -753,7 +701,7 @@
       "url": "https://open.spotify.com/track/6T0KTynGCT7HbTcNyu2TBL"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "The Interior Journey Remixes - Part 1",
         "url": "https://open.spotify.com/album/1ZPnmvIWpHGTw2ViXv30CK"
@@ -773,7 +721,7 @@
       "url": "https://open.spotify.com/track/0fp0IDONbOy7bkrFX4YPT4"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Speicher 117",
         "url": "https://open.spotify.com/album/0gmNcpJKdAfP6SmJoObshg"
@@ -789,7 +737,7 @@
       "url": "https://open.spotify.com/track/46mGVKyH3LiH0zXrUjxzhK"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Discreet Moment Thing Pt. 1",
         "url": "https://open.spotify.com/album/25LeXLJbRJBrFVWkazXStQ"
@@ -805,7 +753,7 @@
       "url": "https://open.spotify.com/track/32sW26Qkz5Pgn8h8ciAf09"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Strangeness (Radio Edit)",
         "url": "https://open.spotify.com/album/15hnrju2GhVETgxv6WwogS"
@@ -821,7 +769,7 @@
       "url": "https://open.spotify.com/track/59Q9VxsltEbvFSDLY5vm5y"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Forever in a Dream",
         "url": "https://open.spotify.com/album/4cqSfXBc50txyfO1m705j5"
@@ -837,7 +785,7 @@
       "url": "https://open.spotify.com/track/2HPhDw06J4sW84etipUx1q"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Dream Sequence",
         "url": "https://open.spotify.com/album/6ZA0UwbLXjoeJcCjhbjatw"
@@ -853,7 +801,7 @@
       "url": "https://open.spotify.com/track/798VTBaVVNEr4FMUZhJpiU"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Territory (2021) EP",
         "url": "https://open.spotify.com/album/5hPzB698vH1xSCgIOuGC3w"
@@ -869,7 +817,7 @@
       "url": "https://open.spotify.com/track/1Kcpe6k9YGtRoLikJ67sUS"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Behind Us",
         "url": "https://open.spotify.com/album/47E6FVcNjKxzLvNQPaUy4e"
@@ -893,7 +841,23 @@
       "url": "https://open.spotify.com/track/30z6VuLZGp3dZw2QoJ9u56"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Die Blaue Stunde",
+        "url": "https://open.spotify.com/album/1aZ6Qnt6Ooih9eKf5L0WMC"
+      },
+      "artists": [
+        {
+          "name": "Aural Trace",
+          "url": "https://open.spotify.com/artist/7s0tPmUxySiSeDkTOyQORW"
+        }
+      ],
+      "duration_ms": 431775,
+      "name": "Die Blaue Stunde",
+      "url": "https://open.spotify.com/track/5cBkm7f5strwPAC04jP7tR"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Heartcore",
         "url": "https://open.spotify.com/album/7qg7PkoVQz2DtBaY4F4tLz"
@@ -909,7 +873,7 @@
       "url": "https://open.spotify.com/track/4GPO90IVahYb2FlOGKTGJl"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Spacer Woman",
         "url": "https://open.spotify.com/album/0FglR4oVWq3OFQUW3mLMUd"
@@ -933,7 +897,7 @@
       "url": "https://open.spotify.com/track/0P4Fkw2wvznClnEL0yhYnI"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Raver",
         "url": "https://open.spotify.com/album/2c5nfGuJVOtXiCD7UJGnJl"
@@ -953,7 +917,7 @@
       "url": "https://open.spotify.com/track/2fYpE17HUU66090xSloQyU"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/5zsbpnskRDcqjKpiI9LySi"
@@ -969,7 +933,7 @@
       "url": "https://open.spotify.com/track/3YvpulMJAI8kRM0833G2iK"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Annihilate The World & Start All Over",
         "url": "https://open.spotify.com/album/1IvuaFYrXMgYehTdCuJUkj"
@@ -985,7 +949,7 @@
       "url": "https://open.spotify.com/track/6B1Wi5Cu0V8dSlsu1o4i3T"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "The Interior Journey Remixes - Part 1",
         "url": "https://open.spotify.com/album/1ZPnmvIWpHGTw2ViXv30CK"
@@ -1005,7 +969,23 @@
       "url": "https://open.spotify.com/track/2grrZLm6GnCump8Lb3MefS"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Spiegel",
+        "url": "https://open.spotify.com/album/0RLYicBwOhb92Jzw9ycG3z"
+      },
+      "artists": [
+        {
+          "name": "Shubostar",
+          "url": "https://open.spotify.com/artist/5J7kzftVddD7jcs6ce3Cbv"
+        }
+      ],
+      "duration_ms": 370281,
+      "name": "Hypernova",
+      "url": "https://open.spotify.com/track/7rml4DxvDSp5izepbcSSdW"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Escape From The Hive",
         "url": "https://open.spotify.com/album/3O8X5K9948Y5B8IwiiGhV5"
@@ -1021,27 +1001,31 @@
       "url": "https://open.spotify.com/track/3qLCTKTUyHmpvrxMrwOAGh"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
-        "name": "Variations",
-        "url": "https://open.spotify.com/album/2nxvM7BXWZqeqkMO3e2zck"
+        "name": "Dual Sintonia",
+        "url": "https://open.spotify.com/album/6qtyTe9OUe0G8Z2aOGW2K7"
       },
       "artists": [
         {
-          "name": "Donato Dozzy",
-          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+          "name": "Silicodisco",
+          "url": "https://open.spotify.com/artist/3cQYlZ2UWN9jEsDXh8YHY0"
         },
         {
-          "name": "Anna Caragnano",
-          "url": "https://open.spotify.com/artist/29MmyntTLNqDaII5ysLgJZ"
+          "name": "Xacome",
+          "url": "https://open.spotify.com/artist/7585JDRes8HOvhkm5BwS85"
+        },
+        {
+          "name": "Adrian Marth",
+          "url": "https://open.spotify.com/artist/5fORTpVtV19nQrG2Zfqxo9"
         }
       ],
-      "duration_ms": 429000,
-      "name": "Parola - Rework",
-      "url": "https://open.spotify.com/track/0GQZojX9G6n6YADImDzYW4"
+      "duration_ms": 368157,
+      "name": "Tokyo - Adrian Marth Remix",
+      "url": "https://open.spotify.com/track/78NELMk8KuTNX1MYADZI9Z"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Little Drummer Boy (Lauer Remix)",
         "url": "https://open.spotify.com/album/0yTu9KOD3BcWMNAhfdbF39"
@@ -1061,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5dBltnK1rVjyrKZLKN9CRy"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/3zYYSm3WvExO4AYAhTExnJ"
@@ -1081,7 +1065,7 @@
       "url": "https://open.spotify.com/track/7u2Lpipy1USb2sPU9LtaEy"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Danza Organica (Musumeci Remix)",
         "url": "https://open.spotify.com/album/4OYbOyuXM9nfh5A8mhdVCo"
@@ -1101,7 +1085,27 @@
       "url": "https://open.spotify.com/track/5lRDzw9rQyKbvHMxXpJsGa"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Chinese Revenge",
+        "url": "https://open.spotify.com/album/2KMeUXSwSzEr2aOwkWa086"
+      },
+      "artists": [
+        {
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
+        },
+        {
+          "name": "Flemming Dalum",
+          "url": "https://open.spotify.com/artist/1Gf666c2EXbElibn1nVuVn"
+        }
+      ],
+      "duration_ms": 180555,
+      "name": "Chinese Revenge (Flemming Dalum Radio Edit)",
+      "url": "https://open.spotify.com/track/3VQ6TTKp1lY0ZmhSKvEbnQ"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "CANOE11",
         "url": "https://open.spotify.com/album/65ubFaSZycGWzz8cIABKfu"
@@ -1117,7 +1121,59 @@
       "url": "https://open.spotify.com/track/4mgtwnLxx0p4m3ZXjPWDAO"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Italo Funk, Vol. 2",
+        "url": "https://open.spotify.com/album/6PeT3c7P4QZ48jgmu8qpGf"
+      },
+      "artists": [
+        {
+          "name": "Brioski",
+          "url": "https://open.spotify.com/artist/3B8f6bnw18v77tmSSfa8Uz"
+        }
+      ],
+      "duration_ms": 297190,
+      "name": "Bionic Breaks",
+      "url": "https://open.spotify.com/track/4G9VHrtoGQ7osIb2BOw50x"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Dr. Arpeggio",
+        "url": "https://open.spotify.com/album/73kubhJmSjLMFdItIKiD4S"
+      },
+      "artists": [
+        {
+          "name": "Prom Night",
+          "url": "https://open.spotify.com/artist/1M6r0h3RGW3Bl8BapC84fF"
+        },
+        {
+          "name": "Brynjolfur",
+          "url": "https://open.spotify.com/artist/6pfosiy93lmzRHdNQ7aIR4"
+        }
+      ],
+      "duration_ms": 390054,
+      "name": "Dr. Arpeggio - Original Mix",
+      "url": "https://open.spotify.com/track/0sHWqVdbSOKZ0NQLejXgaT"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
+      "album": {
+        "name": "Indigo Memories",
+        "url": "https://open.spotify.com/album/3yz08ESTqQ1ViZAl1zTWDi"
+      },
+      "artists": [
+        {
+          "name": "Captain Mustache",
+          "url": "https://open.spotify.com/artist/4Rzze0ulVeq1o9r6Gsb4TF"
+        }
+      ],
+      "duration_ms": 301395,
+      "name": "Ultra Neon",
+      "url": "https://open.spotify.com/track/08oDTNNLTzGVicGwrjpeke"
+    },
+    {
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Liquid Sky",
         "url": "https://open.spotify.com/album/2m2OmCUEpigBkMXlYNPFmh"
@@ -1133,71 +1189,23 @@
       "url": "https://open.spotify.com/track/2RCOHYWmsbxJbNPV8Y7Mt8"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
-        "name": "Le Cirque de Consolation",
-        "url": "https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61"
+        "name": "Oseary Drakoulias",
+        "url": "https://open.spotify.com/album/5flJezd4W2B5dNR63cXxUv"
       },
       "artists": [
         {
-          "name": "Leonie Pernet",
-          "url": "https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC"
+          "name": "Rambal Cochet",
+          "url": "https://open.spotify.com/artist/7zhcW7ODbKT1GVWhcCuCgF"
         }
       ],
-      "duration_ms": 221451,
-      "name": "Hard Billy",
-      "url": "https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM"
+      "duration_ms": 312360,
+      "name": "Oseary Drakoulias",
+      "url": "https://open.spotify.com/track/1z9TCgUU4CqBKH5YHGlGjh"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Sueno Latino",
-        "url": "https://open.spotify.com/album/4QTx2kmdAMu29VYZponTp7"
-      },
-      "artists": [
-        {
-          "name": "Sue\u00f1o Latino",
-          "url": "https://open.spotify.com/artist/3E8tZZM4XEt5CBNcXDryTQ"
-        }
-      ],
-      "duration_ms": 634893,
-      "name": "Sueno Latino - Paradise Version",
-      "url": "https://open.spotify.com/track/0LsmbSRu39mBwEw4cTMpYW"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Asphyx",
-        "url": "https://open.spotify.com/album/6ofX98b64trX8JvhzIrGrE"
-      },
-      "artists": [
-        {
-          "name": "Sterac",
-          "url": "https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v"
-        }
-      ],
-      "duration_ms": 428473,
-      "name": "X-Tracks",
-      "url": "https://open.spotify.com/track/5Ss1ronzPN7FIcjsathvs3"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
-      "album": {
-        "name": "Before I Die",
-        "url": "https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\ud61c\uc9c4 Park Hye Jin",
-          "url": "https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sex With Me (DEFG)",
-      "url": "https://open.spotify.com/track/5EWpSBIjs52cjHMopt1TS8"
-    },
-    {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/5kP9VfjOnCHTmENb2xk5Hn"
@@ -1217,20 +1225,20 @@
       "url": "https://open.spotify.com/track/6chc8VkilMU9n7gxP8yQ3A"
     },
     {
-      "added_at": "2021-12-10 10:26:57",
+      "added_at": "2022-01-14 12:21:44",
       "album": {
-        "name": "Mode Par D\u00e9faut",
-        "url": "https://open.spotify.com/album/2ZXDenCVHepjUPhml5HGL5"
+        "name": "Le Cirque de Consolation",
+        "url": "https://open.spotify.com/album/5rg6sPzPkEB0YAuZiCUG61"
       },
       "artists": [
         {
-          "name": "Pierre Rousseau",
-          "url": "https://open.spotify.com/artist/2GnCuqXpsF0dnvV9Hv2h6U"
+          "name": "Leonie Pernet",
+          "url": "https://open.spotify.com/artist/5hGg5Xi5EqhkDooT7myKfC"
         }
       ],
-      "duration_ms": 400293,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/5RrPp2b95hc3owf9aBq3Kb"
+      "duration_ms": 221451,
+      "name": "Hard Billy",
+      "url": "https://open.spotify.com/track/7DWnLKwS5ozOnCAhGbREjM"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXcttP9IwoTTL"

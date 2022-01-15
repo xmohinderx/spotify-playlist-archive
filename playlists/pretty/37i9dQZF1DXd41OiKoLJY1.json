@@ -1,7 +1,7 @@
 {
   "description": "Fresh releases from your future favorite artists. Cover: BADJII, Artwork: Isu Kim\n",
   "name": "Fresh Finds Philippines",
-  "num_followers": 48541,
+  "num_followers": 48587,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -227,6 +227,22 @@
       "duration_ms": 262000,
       "name": "Bisig (Malamig Na Hangin)",
       "url": "https://open.spotify.com/track/4mm8NvCFteoH8BJTKXsxQY"
+    },
+    {
+      "added_at": "2022-01-13 16:00:00",
+      "album": {
+        "name": "Respark",
+        "url": "https://open.spotify.com/album/1FRbeGOjIjWw1fVbRcj0W5"
+      },
+      "artists": [
+        {
+          "name": "Yhuan",
+          "url": "https://open.spotify.com/artist/7CVEQQmlnj9MBPADgs2dzq"
+        }
+      ],
+      "duration_ms": 226963,
+      "name": "I Just Wanna Be Alright",
+      "url": "https://open.spotify.com/track/4M0XbikasZcceSnMs3YQT7"
     },
     {
       "added_at": "2022-01-13 16:00:00",

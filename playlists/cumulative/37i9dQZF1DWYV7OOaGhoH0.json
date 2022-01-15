@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Explore the ever-evolving roots & folk scene. Cover: Aoife O'Donovan",
+  "description": "<a href=\"https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg?si=687634401a3b4f9f\">The Lumineers</a> take over this week to celebrate the release of their new album <a href=\"https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW?si=expjkX6LRuGTNxJ3MieE8w\">BRIGHTSIDE</a>. ",
   "name": "Roots Rising",
   "published_playlist_ids": [
     "253UejjPPflLcat0bb66LZ"
@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "Rocky Mountain News",
+        "url": "https://open.spotify.com/album/60kCHCHsSAvNc10ccEmgZg"
+      },
+      "artists": [
+        {
+          "name": "Science Partner",
+          "url": "https://open.spotify.com/artist/5m1kzFQML1QcS0lX2HNvb3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "A Beautiful Beam",
+      "url": "https://open.spotify.com/track/7HgKurUy7gkxSnYkme7S0B"
+    },
+    {
+      "album": {
         "name": "A Thread to Find",
         "url": "https://open.spotify.com/album/4jxZ8wm6AfkNUVDPmmT6Ua"
       },
@@ -44,6 +62,24 @@
     },
     {
       "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237320,
+      "name": "A.M. RADIO",
+      "url": "https://open.spotify.com/track/3Jzdz9f3KAgF9z6Ov866gl"
+    },
+    {
+      "album": {
         "name": "Only Real When Shared",
         "url": "https://open.spotify.com/album/6yA7manQeTbgI7nQN7FBCn"
       },
@@ -59,6 +95,24 @@
       "duration_ms": 225378,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5p0WgCCVI5LnWaUEXv1OBl"
+    },
+    {
+      "album": {
+        "name": "That Sea, The Gambler",
+        "url": "https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq"
     },
     {
       "album": {
@@ -243,10 +297,46 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229773,
       "name": "BRIGHTSIDE",
       "url": "https://open.spotify.com/track/2mdkcujPED7xhV2MTtjYnD"
+    },
+    {
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "BRIGHTSIDE",
+      "url": "https://open.spotify.com/track/63q3GlHZstxXzfb0zt7ZYY"
+    },
+    {
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
       "album": {
@@ -1062,6 +1152,28 @@
     },
     {
       "album": {
+        "name": "Make It Out (feat. Maisie Peters)",
+        "url": "https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Make It Out (feat. Maisie Peters)",
+      "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+    },
+    {
+      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
       },
@@ -1348,6 +1460,24 @@
     },
     {
       "album": {
+        "name": "Pine Grove (Madhouse)",
+        "url": "https://open.spotify.com/album/7dzN4ats6WPUwCkFL2pkZF"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "Pine Grove (Madhouse)",
+      "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
+    },
+    {
+      "album": {
         "name": "Purple",
         "url": "https://open.spotify.com/album/4V1aYX6FrcKWr2rBuIIlOM"
       },
@@ -1435,6 +1565,24 @@
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY"
+    },
+    {
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "ROLLERCOASTER",
+      "url": "https://open.spotify.com/track/5jwgqsTNFsKQIMrwhGZ5et"
     },
     {
       "album": {
@@ -1583,6 +1731,24 @@
       "duration_ms": 240413,
       "name": "Starting Over",
       "url": "https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS"
+    },
+    {
+      "album": {
+        "name": "Falling Faster Than You Can Run",
+        "url": "https://open.spotify.com/album/54CwOv6vaOzsNOhy3uFPZa"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249579,
+      "name": "Still Trying",
+      "url": "https://open.spotify.com/track/3SCDpe3QWlLSg5oJjqN25Q"
     },
     {
       "album": {
@@ -2024,6 +2190,24 @@
     },
     {
       "album": {
+        "name": "From Dreams to Dust",
+        "url": "https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496786,
+      "name": "We Shall Live Again",
+      "url": "https://open.spotify.com/track/76h5RdiFNMzOnzlO2Munaz"
+    },
+    {
+      "album": {
         "name": "\"WHAT THEN?\"",
         "url": "https://open.spotify.com/album/1Yx2bNjkNd8bWZ9uM5Aexu"
       },
@@ -2039,6 +2223,24 @@
       "duration_ms": 245546,
       "name": "What Then Cried Jo Soap",
       "url": "https://open.spotify.com/track/2mJmHq00bqo5hpsF5sEB4K"
+    },
+    {
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
     },
     {
       "album": {
@@ -2071,10 +2273,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 160821,
       "name": "Witness Trees",
       "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
+    },
+    {
+      "album": {
+        "name": "Death & Taxes: Selected Songs From The Song Diary",
+        "url": "https://open.spotify.com/album/1uIqK4VwhSHzHGYX7Gu3aW"
+      },
+      "artists": [
+        {
+          "name": "Paleo",
+          "url": "https://open.spotify.com/artist/2GDAl6I7NyYDH4QmjPbFkN"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Woman Like Me",
+      "url": "https://open.spotify.com/track/3YLjiKf34DECifehm1yauN"
     },
     {
       "album": {

@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 242758,
       "name": "Boom (feat. Tonn Piper)",
       "url": "https://open.spotify.com/track/51xVwKyFMgrKeeLePsomNI"
@@ -331,7 +331,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 227586,
       "name": "Changes",
       "url": "https://open.spotify.com/track/5dWmmgi7LKMpH1cfrRapxT"
@@ -429,7 +429,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 227657,
       "name": "Demand",
       "url": "https://open.spotify.com/track/6yeoDFvlXg8Gp50qZXP2Sk"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 252342,
       "name": "Freak - Used Remix",
       "url": "https://open.spotify.com/track/1fbHuU5L4ztC5JRwd2JIbV"
@@ -670,6 +670,28 @@
     },
     {
       "album": {
+        "name": "Ghost Notes",
+        "url": "https://open.spotify.com/album/6h53ziQI8USy0s1YpsFCre"
+      },
+      "artists": [
+        {
+          "name": "Dexcell",
+          "url": "https://open.spotify.com/artist/30OaLZeQTMJHvuH3TIMUPz"
+        },
+        {
+          "name": "Emily Makis",
+          "url": "https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291724,
+      "name": "Ghost Notes",
+      "url": "https://open.spotify.com/track/6i511YzpgGLgpMfIoAsmJ4"
+    },
+    {
+      "album": {
         "name": "Gone Sleep",
         "url": "https://open.spotify.com/album/588Obmczl7A6h9SZnPjQ9a"
       },
@@ -681,7 +703,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204137,
       "name": "Gone Sleep",
       "url": "https://open.spotify.com/track/5T7OpBrCobyQSQQpcFF33j"
@@ -721,7 +743,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 181724,
       "name": "Good to Me",
       "url": "https://open.spotify.com/track/0FajeedO3qoZja4lEWEzPM"
@@ -871,7 +893,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 225847,
       "name": "Infinite (Freedom)",
       "url": "https://open.spotify.com/track/0vN9DaL27w0EKhcgJBf7Bi"
@@ -933,7 +955,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/5D4YdAFb2OUZ4xtsevk4Xl"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 250998,
       "name": "Lights Out - Original",
       "url": "https://open.spotify.com/track/1BDve69cAnLGnpwaGTSWTR"
@@ -1069,7 +1091,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 339310,
       "name": "Love for the Fallen",
       "url": "https://open.spotify.com/track/3YoKba7r0d0qAZlyshSkqE"
@@ -1095,7 +1117,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 303448,
       "name": "Love Is Not Enough - Hybrid Minds Remix",
       "url": "https://open.spotify.com/track/6sp6sZ3agNkxCwdK7zsdFy"
@@ -1183,7 +1205,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205116,
       "name": "Make or Break",
       "url": "https://open.spotify.com/track/65X3Eszqv0tfOIeXfTuPbr"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 231605,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/22r0D0nQXyP3Hkzb3qTnhl"
@@ -1367,7 +1389,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 244151,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3dJ6Nq35hCel0helAg8TR8"
@@ -1517,7 +1539,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 290742,
       "name": "Sientelo",
       "url": "https://open.spotify.com/track/0VPtIe8j9wZMVTcYWURQGd"
@@ -1535,7 +1557,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 220689,
       "name": "Sticks and Stones",
       "url": "https://open.spotify.com/track/5sPntn8ccDJdR5yUZ7rLiY"
@@ -1575,7 +1597,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 268955,
       "name": "Sweeter",
       "url": "https://open.spotify.com/track/3u787rFfUvg3kMK7tNyjiV"
@@ -1601,7 +1623,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 295172,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/5DYRbPE5eUiW3I3bakPmo0"
@@ -1729,7 +1751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 212591,
       "name": "Trust Me",
       "url": "https://open.spotify.com/track/0kuYcrNwT08HZTpmxvgDb2"
@@ -1853,7 +1875,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 245525,
       "name": "What We Gonna Do",
       "url": "https://open.spotify.com/track/1q6LkUxNGPscKFZLaCRS7y"
@@ -1915,7 +1937,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 286896,
       "name": "You Keep Me High",
       "url": "https://open.spotify.com/track/3OW0tpzhvp6QUS4UyyUOLi"

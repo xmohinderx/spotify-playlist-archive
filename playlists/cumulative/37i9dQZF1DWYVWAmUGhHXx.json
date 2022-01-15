@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "Ritmos latinos para encender la llama de la pasi\u00f3n.",
   "name": "cachondea",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5zFuETfEhKRghsm5a0dGCk"
+  ],
   "tracks": [
     {
       "album": {
@@ -39,7 +41,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 218853,
       "name": "Agua de vida",
       "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
@@ -97,7 +99,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 237080,
       "name": "Amor Carnal",
       "url": "https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW"
@@ -245,6 +247,24 @@
       "duration_ms": 268573,
       "name": "Cuando Acaba el Placer",
       "url": "https://open.spotify.com/track/1XiiRnqI0K4d6YyRiRf0GK"
+    },
+    {
+      "album": {
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2021-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "album": {
@@ -575,7 +595,7 @@
       ],
       "date_added": "2021-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 203200,
       "name": "LA NOCHE DE ANOCHE",
       "url": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck"

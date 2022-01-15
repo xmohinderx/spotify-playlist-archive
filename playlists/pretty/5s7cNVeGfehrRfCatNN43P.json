@@ -1,240 +1,332 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2021% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
   "name": "New Music Friday: The Popjustice Edit",
-  "num_followers": 10229,
+  "num_followers": 10232,
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "MjE5NCwwNjg3NTMwYTY4ZTQ2OTljMWQxMTcwMmJmNTM2ODdjMDA2ZTRiZDgz",
+  "snapshot_id": "MjE5NixhYjJiN2IxYjMyZGI2NGQ1MmU0MjhjODBjY2Q2ZmViYzgyZjJiN2U5",
   "tracks": [
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+        "name": "Over",
+        "url": "https://open.spotify.com/album/07Xdxsb20hV1rRtHkM5nAh"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 211814,
-      "name": "Less Than Zero",
-      "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
+      "duration_ms": 158723,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/2R5zZ42pco4K4dGdX0GxSp"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Happy New Year",
-        "url": "https://open.spotify.com/album/27akBDSoCa34vZlfyl2KrC"
+        "name": "Year of the Ex",
+        "url": "https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e"
       },
       "artists": [
         {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+          "name": "Call Me Loop",
+          "url": "https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE"
         }
       ],
-      "duration_ms": 279240,
-      "name": "Happy New Year",
-      "url": "https://open.spotify.com/track/6PbirqXeIG94tn0lXcrnYu"
+      "duration_ms": 184546,
+      "name": "Year of the Ex",
+      "url": "https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
+        "name": "Love Me More",
+        "url": "https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+      "duration_ms": 212660,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "PHUCKBOI REJECTS",
-        "url": "https://open.spotify.com/album/6Q9dzZJNVPb194wy59f0DG"
+        "name": "Sooner Or Later",
+        "url": "https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
-      "duration_ms": 126279,
-      "name": "PHUCKBOI REJECTS",
-      "url": "https://open.spotify.com/track/05NA0nspTPyXKBAAWqUsIr"
+      "duration_ms": 200322,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Tricky (feat. Autumn Rowe)",
-        "url": "https://open.spotify.com/album/4AeKrfj4BNOyu4SvIjrdb3"
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/6ASQcWTLlp5BwUosCUZOoe"
       },
       "artists": [
         {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4fUOjQBL6hCbwuxEdgJ2Oz"
+    },
+    {
+      "added_at": "2022-01-14 09:13:12",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/4nKguZWie1WQuxFspIwHOY"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        }
+      ],
+      "duration_ms": 147410,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5JVA0t7r2Y7m9NaHmgaeiC"
+    },
+    {
+      "added_at": "2022-01-14 09:13:12",
+      "album": {
+        "name": "Too Dead Inside",
+        "url": "https://open.spotify.com/album/0zPUzIJvszvVPkiQ6wZXyA"
+      },
+      "artists": [
+        {
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
+        }
+      ],
+      "duration_ms": 205774,
+      "name": "Too Dead Inside",
+      "url": "https://open.spotify.com/track/5fzFsmKy3ey9HHkUxrKYhW"
+    },
+    {
+      "added_at": "2022-01-14 09:13:12",
+      "album": {
+        "name": "All Night (feat. Trippie Redd)",
+        "url": "https://open.spotify.com/album/5GUgoPG9hrtOyix0u2tG37"
+      },
+      "artists": [
+        {
+          "name": "S-X",
+          "url": "https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN"
         },
         {
-          "name": "Autumn Rowe",
-          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Tricky (feat. Autumn Rowe)",
-      "url": "https://open.spotify.com/track/7LRY2RkbmL4eSZrTGhr17e"
+      "duration_ms": 187213,
+      "name": "All Night (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/0RW7ykDvCSTMF5FT4lIFfL"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/36NunO7DcnCicrouHOWx3k"
+        "name": "Promiscuity",
+        "url": "https://open.spotify.com/album/5SwRmjD2miuJFP3lbO8gAR"
       },
       "artists": [
         {
-          "name": "Foxes",
-          "url": "https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug"
+          "name": "Josef Salvat",
+          "url": "https://open.spotify.com/artist/64PJHZDQTPPVBCdwnv22Wz"
         }
       ],
-      "duration_ms": 190493,
-      "name": "Absolute",
-      "url": "https://open.spotify.com/track/70kXZrr725uByBF2ozE5Xa"
+      "duration_ms": 179467,
+      "name": "Promiscuity",
+      "url": "https://open.spotify.com/track/3n4pICeXA4EcHXgjI4uDnw"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Already Mine",
-        "url": "https://open.spotify.com/album/7nkeRsDWy0FqTPyXMp0yxO"
+        "name": "Forget About Me",
+        "url": "https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5"
       },
       "artists": [
         {
-          "name": "Sam Short",
-          "url": "https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz"
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Already Mine",
-      "url": "https://open.spotify.com/track/1KKMr0ZDhEdbaB7YfI61Te"
+      "duration_ms": 177637,
+      "name": "Forget About Me",
+      "url": "https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "drunk text me",
-        "url": "https://open.spotify.com/album/5UnfL0nJwrdb5th8GyZArU"
+        "name": "CAPRISONGS",
+        "url": "https://open.spotify.com/album/5IubZbuFhSwJyCJrdRFgkJ"
       },
       "artists": [
         {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/2tbu7dOzCjM5JrPGr0sIes"
+      "duration_ms": 159666,
+      "name": "jealousy (feat. rema)",
+      "url": "https://open.spotify.com/track/3V4mfh90OLdVEJQfo6decv"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Worth Keeping",
-        "url": "https://open.spotify.com/album/7zLX5yYnAHDRYN2qSeGKmW"
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/2ikZVKHUow5r1VdlVaFBnZ"
       },
       "artists": [
         {
-          "name": "Greta Jaime",
-          "url": "https://open.spotify.com/artist/2L5LSUhkLo20iqPTNA5aC5"
+          "name": "BUZZ",
+          "url": "https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR"
         }
       ],
-      "duration_ms": 156724,
-      "name": "Worth Keeping",
-      "url": "https://open.spotify.com/track/4DFA5r7wA63gHbVISE1fBL"
+      "duration_ms": 158770,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/63HeOmi0Cav15rLsktJq8W"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Finally Alone",
-        "url": "https://open.spotify.com/album/1qJKJr5UD3B0uZRDyyl1oK"
+        "name": "Shut Off The Lights",
+        "url": "https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7"
       },
       "artists": [
         {
-          "name": "Matilda",
-          "url": "https://open.spotify.com/artist/4F7wGFfIXuQUBFoxiZ9WFp"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 190583,
-      "name": "Finally Alone",
-      "url": "https://open.spotify.com/track/5Gzli4qb5uo2evQUni5pnc"
+      "duration_ms": 187363,
+      "name": "Shut Off The Lights",
+      "url": "https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Let Them (It's All Love)",
-        "url": "https://open.spotify.com/album/4YF87wW7YFhdQBg3FZxagR"
+        "name": "Little Bother (feat. Foushe\u00e9)",
+        "url": "https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2"
       },
       "artists": [
         {
-          "name": "Tom Aspaul",
-          "url": "https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54"
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 183256,
-      "name": "Let Them (It's All Love)",
-      "url": "https://open.spotify.com/track/0BCdgJr5KgYGpsZYIEMLdj"
+      "duration_ms": 160681,
+      "name": "Little Bother (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Purple Sun",
-        "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/0YO2AdPUojNY422lWMsu2d"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Methyl Ethel",
+          "url": "https://open.spotify.com/artist/3I3Fz1DeUY0icXFvOjbXm7"
+        },
+        {
+          "name": "Stella Donnelly",
+          "url": "https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es"
         }
       ],
-      "duration_ms": 241776,
-      "name": "Purple Sun",
-      "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
+      "duration_ms": 264160,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/4t9y553ZCwQBrp3ZzV9IRl"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
+        "name": "The Internet",
+        "url": "https://open.spotify.com/album/6j0rSTAJaf7fsbbdD25jpB"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
         }
       ],
-      "duration_ms": 221120,
-      "name": "Pink Convertible",
-      "url": "https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1"
+      "duration_ms": 182080,
+      "name": "The Internet",
+      "url": "https://open.spotify.com/track/5tMhG49fw3IPQNxU0r2PSC"
     },
     {
-      "added_at": "2022-01-07 08:49:39",
+      "added_at": "2022-01-14 09:13:12",
       "album": {
-        "name": "Fear Of Dying",
-        "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
+        "name": "Hard Being Alive (feat. Chloe Moriondo)",
+        "url": "https://open.spotify.com/album/0fQy3GCuYkHg7FlSR8Akuq"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "Oscar Scheller",
+          "url": "https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq"
+        },
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Fear Of Dying",
-      "url": "https://open.spotify.com/track/3lVaRWkDwUkHveuSbilYdE"
+      "duration_ms": 176253,
+      "name": "Hard Being Alive (feat. Chloe Moriondo)",
+      "url": "https://open.spotify.com/track/5DlYApPK4CTb6Bkyn68VQf"
+    },
+    {
+      "added_at": "2022-01-14 09:13:12",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7C4MRV0cWA9g9GFhb6sOdI"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        }
+      ],
+      "duration_ms": 246806,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1QmZQRvNUOvRxtSH9VCPF4"
     }
   ],
   "url": "https://open.spotify.com/playlist/5s7cNVeGfehrRfCatNN43P"

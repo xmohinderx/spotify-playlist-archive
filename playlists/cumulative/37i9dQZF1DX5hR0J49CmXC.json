@@ -143,7 +143,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 169802,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/2Vg6ArSIzyVlexezkVyCJE"
@@ -197,7 +197,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 132040,
       "name": "Big Nas (Original Song from MasterClass)",
       "url": "https://open.spotify.com/track/0GIZWL2QckGkBdxfCQMVFA"
@@ -223,10 +223,28 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207145,
       "name": "Birdsong (feat. JID & Saba)",
       "url": "https://open.spotify.com/track/0Nzt6j9iaDjwcTx9KI2WlW"
+    },
+    {
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142281,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/72W07qFR4D8v0vcAuWoanj"
     },
     {
       "album": {
@@ -249,6 +267,32 @@
       "duration_ms": 163000,
       "name": "Can't Do This Alone",
       "url": "https://open.spotify.com/track/1vqf2TUALAihS8vM7lTuEf"
+    },
+    {
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257553,
+      "name": "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
     },
     {
       "album": {
@@ -303,7 +347,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 291022,
       "name": "Crossover (feat. WESTSIDE BOOGIE)",
       "url": "https://open.spotify.com/track/2drtzrlZEvICtPt7PjnSrm"
@@ -387,6 +431,24 @@
       "duration_ms": 184090,
       "name": "Flowers Freestyle",
       "url": "https://open.spotify.com/track/65SlFWIZOx1YfZqsZDb0G2"
+    },
+    {
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173821,
+      "name": "For Troubled Boys",
+      "url": "https://open.spotify.com/track/1y1uRNWHSiTOj5psGI2cpL"
     },
     {
       "album": {
@@ -501,6 +563,24 @@
       "duration_ms": 235737,
       "name": "Hell on Earth, Pt. 2 (feat. Benny The Butcher & Conway The Machine)",
       "url": "https://open.spotify.com/track/3vonKK5uOX4mHb22A1JLi6"
+    },
+    {
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163983,
+      "name": "Jean-Michel",
+      "url": "https://open.spotify.com/track/4MR5zadA2AvLPs8fdp0LuJ"
     },
     {
       "album": {
@@ -632,6 +712,24 @@
     },
     {
       "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112787,
+      "name": "Lye",
+      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
+    },
+    {
+      "album": {
         "name": "Mama Say",
         "url": "https://open.spotify.com/album/4RCjlQ9L75SJJ9tzZnJQjX"
       },
@@ -643,7 +741,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 137994,
       "name": "Mama Say",
       "url": "https://open.spotify.com/track/6bwgqPyy2RQeHclgHTbePg"
@@ -1045,7 +1143,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 203572,
       "name": "Show You",
       "url": "https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK"
@@ -1067,10 +1165,32 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210960,
       "name": "Survivor's Vow",
       "url": "https://open.spotify.com/track/27nLL3DxE5ABpRkeXeSrWf"
+    },
+    {
+      "album": {
+        "name": "Tabula Rasa (feat. Armand Hammer)",
+        "url": "https://open.spotify.com/album/4UvC1cEP1VmZeFMvbCtHkw"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        },
+        {
+          "name": "Armand Hammer",
+          "url": "https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251799,
+      "name": "Tabula Rasa (feat. Armand Hammer)",
+      "url": "https://open.spotify.com/track/3xSEiVqKlhhoblSxbfCtUR"
     },
     {
       "album": {
@@ -1103,7 +1223,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 112625,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
@@ -1151,6 +1271,24 @@
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
+    {
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176458,
+      "name": "Westlake High",
+      "url": "https://open.spotify.com/track/2nbk0SIiWcYHhTlwFSUdGE"
     },
     {
       "album": {

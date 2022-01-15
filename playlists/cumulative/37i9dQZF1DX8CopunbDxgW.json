@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The essential indie dance, featuring LEISURE",
+  "description": "The essential indie dance, featuring BAYNK",
   "name": "metropolis",
   "published_playlist_ids": [
     "6jBSzkiPzz4z9EGB6tLdZW"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "In The Sweetness of You",
+        "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233253,
+      "name": "21",
+      "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
+    },
     {
       "album": {
         "name": "2gether",
@@ -81,6 +99,24 @@
       "duration_ms": 273994,
       "name": "A Dream I Have",
       "url": "https://open.spotify.com/track/04IEe7T9LrB5tnrydpSHFg"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342053,
+      "name": "Age of Phase",
+      "url": "https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM"
     },
     {
       "album": {
@@ -175,7 +211,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 195395,
       "name": "Answer Me",
       "url": "https://open.spotify.com/track/3cAyiv52t6ioEJm0lhTngp"
@@ -193,7 +229,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 219622,
       "name": "Avenue Of The Fireflies",
       "url": "https://open.spotify.com/track/4sFLrUl0Omp65zLQEJZcNB"
@@ -215,7 +251,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 212067,
       "name": "Back Seat",
       "url": "https://open.spotify.com/track/4D9MSnyQxJOFfN6Wte0OyB"
@@ -233,7 +269,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 202502,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/2IwbIGkquI55VOzcWUg8fg"
@@ -255,7 +291,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 244034,
       "name": "Baxter (These Are My Friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
@@ -291,7 +327,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 195370,
       "name": "Be Sweet",
       "url": "https://open.spotify.com/track/2X3J1zgsKEkTSYnjsUQlUZ"
@@ -469,7 +505,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "Casita",
       "url": "https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM"
@@ -487,7 +523,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 257130,
       "name": "Chaeri",
       "url": "https://open.spotify.com/track/23lHAG7gddyqzpCAv3OuCT"
@@ -683,7 +719,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 293733,
       "name": "Diversions",
       "url": "https://open.spotify.com/track/76mzQIXE9intMTM056dQvW"
@@ -895,7 +931,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 250291,
       "name": "Faisal (Envelops Me)",
       "url": "https://open.spotify.com/track/0J8dISXAmgPIOvOtYy64AT"
@@ -975,7 +1011,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207327,
       "name": "FEEL SOMETHING DIFFERENT",
       "url": "https://open.spotify.com/track/5Q4UX8hxcaJEtAE9RtsmSY"
@@ -1033,7 +1069,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 211306,
       "name": "Fine Little Rhythm",
       "url": "https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA"
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 169986,
       "name": "I Contact",
       "url": "https://open.spotify.com/track/40xsqjpfNcWhlAV9x9keoW"
@@ -1609,7 +1645,7 @@
       ],
       "date_added": "2021-03-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 171937,
       "name": "I Wanna Help Your Mind",
       "url": "https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr"
@@ -1685,7 +1721,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
@@ -1721,7 +1757,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 171380,
       "name": "Inch Off The Earth",
       "url": "https://open.spotify.com/track/7CwAaS3gJk0UXWL6gbpsmV"
@@ -1739,7 +1775,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 171147,
       "name": "Indica",
       "url": "https://open.spotify.com/track/0zQrFfwCXlrEX7bihjQygO"
@@ -1801,7 +1837,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
@@ -1877,7 +1913,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207586,
       "name": "Is There Any Love",
       "url": "https://open.spotify.com/track/0hbEgkyRH0O8onQjSyRg1t"
@@ -1983,7 +2019,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 269360,
       "name": "L.D.R.A",
       "url": "https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx"
@@ -2129,7 +2165,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214400,
       "name": "Losing Control \u2013 Satin Jackets Remix",
       "url": "https://open.spotify.com/track/4PCl6CXf08m2Q2ofMxeBIG"
@@ -2147,7 +2183,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 230350,
       "name": "Losing My Mind",
       "url": "https://open.spotify.com/track/2hMTgMeXtubSWYexxpLrbS"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235263,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/33h0F53mXDP3CmBSKlFKo5"
@@ -2187,7 +2223,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 143946,
       "name": "Lost In Space (feat. SG Lewis)",
       "url": "https://open.spotify.com/track/142MW1OLW8GobITMDIhMCD"
@@ -2223,7 +2259,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 254156,
       "name": "Love Signs",
       "url": "https://open.spotify.com/track/6RaevDdXDLwoHtacMeCz8Q"
@@ -2263,7 +2299,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 339500,
       "name": "Low - Boys Noize Remix",
       "url": "https://open.spotify.com/track/40Mi1TVnnxpzQZjipaB4jS"
@@ -2299,7 +2335,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 152500,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7JoZ4wyCNjwCTB5GUqlz36"
@@ -2391,7 +2427,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 183973,
       "name": "Make Me One (feat. Xavier Smith)",
       "url": "https://open.spotify.com/track/5jvEt3iANFPO8U3Q4Ef1al"
@@ -2563,7 +2599,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 270145,
       "name": "Must Be Love (feat. Electric Fields)",
       "url": "https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU"
@@ -2592,6 +2628,24 @@
     },
     {
       "album": {
+        "name": "ADOLESCENCE",
+        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188724,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5qysxEb8AgQ5GLNg1cpGcp"
+    },
+    {
+      "album": {
         "name": "Naked (Nosaj Thing Remix)",
         "url": "https://open.spotify.com/album/18ExSk3XL82ygww99JHicM"
       },
@@ -2611,7 +2665,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200973,
       "name": "Naked - Nosaj Thing Remix",
       "url": "https://open.spotify.com/track/4PJhsp3DADV5peo5QlU1oV"
@@ -2761,7 +2815,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 255772,
       "name": "Only Love (with Brijean)",
       "url": "https://open.spotify.com/track/2ZwTxsb7hV27jVELUYHBoL"
@@ -2929,7 +2983,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 241776,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
@@ -2969,7 +3023,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 227123,
       "name": "Rah That's A Mad Question",
       "url": "https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU"
@@ -3115,7 +3169,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 210448,
       "name": "River (feat. Parson James)",
       "url": "https://open.spotify.com/track/6OOkLUhFFnaj6l9LcPHzHN"
@@ -3363,7 +3417,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
@@ -3509,7 +3563,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193924,
       "name": "speeding up",
       "url": "https://open.spotify.com/track/303Son3qrZoLtnviPIsuJs"
@@ -3531,7 +3585,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193556,
       "name": "Spell",
       "url": "https://open.spotify.com/track/2UqQXvudBolM4qRpMYBrLS"
@@ -3641,7 +3695,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
@@ -3769,7 +3823,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 186782,
       "name": "Summer Lovin'",
       "url": "https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx"
@@ -3795,7 +3849,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205166,
       "name": "summer on the inside",
       "url": "https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND"
@@ -3893,7 +3947,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 213040,
       "name": "Swing",
       "url": "https://open.spotify.com/track/6lkDIkZKFWQH8VxxmW4yYP"
@@ -4057,7 +4111,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204516,
       "name": "The Way You Make Me Feel",
       "url": "https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P"
@@ -4075,7 +4129,7 @@
       ],
       "date_added": "2020-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/2WpMB2RxvNOnStRrT2e2kC"
@@ -4171,7 +4225,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 253848,
       "name": "Time - Franc Moody Remix",
       "url": "https://open.spotify.com/track/5PfspUAi01qWEHIghP3DQr"
@@ -4343,7 +4397,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 310573,
       "name": "Tunnel",
       "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
@@ -4365,7 +4419,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 252693,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/5AyANSMqfkoI2HtZQ5ikPL"
@@ -4471,7 +4525,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 184280,
       "name": "Visions Of You",
       "url": "https://open.spotify.com/track/2YdnGBKR2qzSBrr52OP5tz"
@@ -4500,6 +4554,28 @@
     },
     {
       "album": {
+        "name": "Wake Me Up (Flight Facilities Remix)",
+        "url": "https://open.spotify.com/album/34PKojaahppRNx27vAb8LE"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342497,
+      "name": "Wake Me Up - Flight Facilities Remix",
+      "url": "https://open.spotify.com/track/6xd0EGEhMnkHluS3gi4BLC"
+    },
+    {
+      "album": {
         "name": "Walk The Beat",
         "url": "https://open.spotify.com/album/1ygm7W37eAOhhGvvSDdE2a"
       },
@@ -4518,6 +4594,28 @@
     },
     {
       "album": {
+        "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+        "url": "https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216106,
+      "name": "Walking On Water (feat. Totally Enormous Extinct Dinosaurs)",
+      "url": "https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg"
+    },
+    {
+      "album": {
         "name": "QUOTA",
         "url": "https://open.spotify.com/album/2yj9MtZaGfQXkiH1CR3AeA"
       },
@@ -4529,7 +4627,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 209694,
       "name": "Water",
       "url": "https://open.spotify.com/track/0HX7Qdf2R0pfeDueFpF6C4"
@@ -4573,7 +4671,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 192801,
       "name": "What I Want",
       "url": "https://open.spotify.com/track/58e40p8zCiVLRwFF6oX9iY"
@@ -4591,7 +4689,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 185944,
       "name": "When I'm Alone",
       "url": "https://open.spotify.com/track/1Ls0bZ0slPNAxuFMQPeBp6"
@@ -4667,7 +4765,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 218848,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/2mIQWWaYinwqKxjEmE8Ave"

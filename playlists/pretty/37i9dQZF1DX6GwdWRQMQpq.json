@@ -1,28 +1,28 @@
 {
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Doja Cat\n",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Erica Banks\n",
   "name": "Feelin' Myself",
-  "num_followers": 2054354,
+  "num_followers": 2055527,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTkxNjk2OSwwMDAwMDQ3MjAwMDAwMTdlNDllMGIxODQwMDAwMDE3ZTMxYjM0NTM1",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDQ3MzAwMDAwMTdlNTZmNGYxNTcwMDAwMDE3ZTU1ZjRmMTAw",
   "tracks": [
     {
-      "added_at": "2021-12-03 05:00:00",
+      "added_at": "2021-11-29 23:38:41",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
+      "duration_ms": 113429,
+      "name": "Megan's Piano",
+      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
     },
     {
+      "added_at": "2021-09-13 17:38:47",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
       "added_at": "2021-10-22 04:00:00",
       "album": {
         "name": "FOR CERTAIN (Deluxe)",
@@ -57,20 +73,20 @@
       "url": "https://open.spotify.com/track/1LJYn86ysceH708AIkw0VZ"
     },
     {
-      "added_at": "2021-11-29 23:38:41",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
         }
       ],
-      "duration_ms": 113429,
-      "name": "Megan's Piano",
-      "url": "https://open.spotify.com/track/4HyVMzg0sUQsdOxRvSO8Ka"
+      "duration_ms": 152647,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
     },
     {
       "added_at": "2021-09-10 04:00:00",
@@ -105,23 +121,27 @@
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
-      "added_at": "2022-01-08 06:43:41",
+      "added_at": "2021-11-05 04:01:00",
       "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0"
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 204316,
-      "name": "Hrs and Hrs",
-      "url": "https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7"
+      "duration_ms": 231497,
+      "name": "No Love (with SZA)",
+      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
-      "added_at": "2021-09-13 17:38:47",
+      "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
@@ -132,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2021-10-29 16:00:21",
@@ -173,78 +193,6 @@
       "url": "https://open.spotify.com/track/108CRSzSnhShMbNgNHWrjU"
     },
     {
-      "added_at": "2022-01-11 16:02:49",
-      "album": {
-        "name": "Self Made",
-        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
-      },
-      "artists": [
-        {
-          "name": "Tay Money",
-          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Self Made",
-      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "Chitty Bang",
-        "url": "https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW"
-      },
-      "artists": [
-        {
-          "name": "Leikeli47",
-          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
-        }
-      ],
-      "duration_ms": 146213,
-      "name": "Chitty Bang",
-      "url": "https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Queen Elizabitch",
-        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
-      },
-      "artists": [
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        }
-      ],
-      "duration_ms": 208463,
-      "name": "Cpr",
-      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 204763,
-      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
-      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
-    },
-    {
       "added_at": "2021-09-10 04:00:00",
       "album": {
         "name": "The Assignment",
@@ -259,26 +207,6 @@
       "duration_ms": 113327,
       "name": "The Assignment",
       "url": "https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A"
-    },
-    {
-      "added_at": "2021-11-05 04:01:00",
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231497,
-      "name": "No Love (with SZA)",
-      "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
     },
     {
       "added_at": "2021-07-30 04:00:00",
@@ -333,38 +261,6 @@
       "url": "https://open.spotify.com/track/3MGmS1gBzgTCor09cDtlVJ"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Moncler Coat",
-        "url": "https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF"
-      },
-      "artists": [
-        {
-          "name": "Sally Sossa",
-          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
-        }
-      ],
-      "duration_ms": 107554,
-      "name": "Moncler Coat",
-      "url": "https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Oh Shhh",
-        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
-      },
-      "artists": [
-        {
-          "name": "DreamDoll",
-          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
-        }
-      ],
-      "duration_ms": 93096,
-      "name": "Oh Shhh",
-      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
-    },
-    {
       "added_at": "2021-09-24 04:00:00",
       "album": {
         "name": "My Time (Gangsta Grillz: Special Edition)",
@@ -393,40 +289,20 @@
       "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
+      "added_at": "2021-09-24 04:00:00",
       "album": {
-        "name": "Christmas List",
-        "url": "https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN"
+        "name": "TWINNEM",
+        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
       },
       "artists": [
         {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 108630,
-      "name": "Christmas List",
-      "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+      "duration_ms": 117066,
+      "name": "TWINNEM",
+      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": "2021-10-29 21:27:47",
@@ -477,20 +353,56 @@
       "url": "https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2"
     },
     {
-      "added_at": "2021-11-19 05:00:00",
+      "added_at": "2021-10-15 04:00:00",
       "album": {
-        "name": "Icy Chain",
-        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+        "name": "Break The Bank",
+        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        },
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
         }
       ],
-      "duration_ms": 110790,
-      "name": "Icy Chain",
-      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+      "duration_ms": 183436,
+      "name": "Freaky Dancer (feat. Trina)",
+      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Don't Talk",
+        "url": "https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx"
+      },
+      "artists": [
+        {
+          "name": "Cuban Doll",
+          "url": "https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc"
+        }
+      ],
+      "duration_ms": 135381,
+      "name": "Don't Talk",
+      "url": "https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Oh Shhh",
+        "url": "https://open.spotify.com/album/7LFgP2dk4qCLdec8accb1S"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "duration_ms": 93096,
+      "name": "Oh Shhh",
+      "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -513,60 +425,24 @@
       "url": "https://open.spotify.com/track/1bt7CW9eLvrgYqMuBFqHOf"
     },
     {
-      "added_at": "2021-11-12 05:35:11",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
-      },
-      "artists": [
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        },
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
-    },
-    {
       "added_at": "2021-11-19 05:00:00",
       "album": {
-        "name": "Pretty & Paid 2.0",
-        "url": "https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2"
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
       "artists": [
         {
-          "name": "Pap Chanel",
-          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
-        }
-      ],
-      "duration_ms": 146497,
-      "name": "Apple Jacks",
-      "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
-        "name": "Yeah B*tch (feat. DaBaby)",
-        "url": "https://open.spotify.com/album/1eWVV8w19pY6yzdxu01DAS"
-      },
-      "artists": [
-        {
-          "name": "Kayykilo",
-          "url": "https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         },
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 132493,
-      "name": "Yeah B*tch (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe"
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": "2021-11-05 04:01:00",
@@ -601,6 +477,98 @@
       "url": "https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo"
     },
     {
+      "added_at": "2021-11-12 05:35:11",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/52SDAY1Ky5h9gKOlxPYKiO"
+      },
+      "artists": [
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5jVz1uIesoS2K5nSLguj2s"
+    },
+    {
+      "added_at": "2022-01-11 16:02:49",
+      "album": {
+        "name": "Self Made",
+        "url": "https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Self Made",
+      "url": "https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Queen Elizabitch",
+        "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
+      },
+      "artists": [
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
+        }
+      ],
+      "duration_ms": 208463,
+      "name": "Cpr",
+      "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+        "url": "https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 204763,
+      "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+      "url": "https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "Pretty & Paid 2.0",
+        "url": "https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2"
+      },
+      "artists": [
+        {
+          "name": "Pap Chanel",
+          "url": "https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed"
+        }
+      ],
+      "duration_ms": 146497,
+      "name": "Apple Jacks",
+      "url": "https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K"
+    },
+    {
       "added_at": "2021-10-29 04:00:00",
       "album": {
         "name": "Could Never (Remix) [feat. Moneybagg Yo]",
@@ -619,42 +587,6 @@
       "duration_ms": 208358,
       "name": "Could Never (Remix) [feat. Moneybagg Yo]",
       "url": "https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Break The Bank",
-        "url": "https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv"
-      },
-      "artists": [
-        {
-          "name": "LightSkinKeisha",
-          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
-        },
-        {
-          "name": "Trina",
-          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
-        }
-      ],
-      "duration_ms": 183436,
-      "name": "Freaky Dancer (feat. Trina)",
-      "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "TWINNEM",
-        "url": "https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 117066,
-      "name": "TWINNEM",
-      "url": "https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY"
     },
     {
       "added_at": "2021-10-22 04:00:00",
@@ -723,26 +655,6 @@
       "duration_ms": 161958,
       "name": "What's Ur Sign?",
       "url": "https://open.spotify.com/track/6OlADPWdxKkg7kKUnjO2bS"
-    },
-    {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "My Time (Gangsta Grillz: Special Edition)",
-        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 163416,
-      "name": "A Letter To You",
-      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
     },
     {
       "added_at": "2021-10-15 04:00:00",
@@ -849,6 +761,74 @@
       "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Christmas List",
+        "url": "https://open.spotify.com/album/1CL6OknqBdLxkmD1Ujv7XN"
+      },
+      "artists": [
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        }
+      ],
+      "duration_ms": 108630,
+      "name": "Christmas List",
+      "url": "https://open.spotify.com/track/1otneYXhRPhMFXeFDj9qtj"
+    },
+    {
+      "added_at": "2021-10-29 04:00:00",
+      "album": {
+        "name": "Yeah B*tch (feat. DaBaby)",
+        "url": "https://open.spotify.com/album/1eWVV8w19pY6yzdxu01DAS"
+      },
+      "artists": [
+        {
+          "name": "Kayykilo",
+          "url": "https://open.spotify.com/artist/0gh7zTXiSZH7MQ7OrHy0SG"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Yeah B*tch (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/3zT7dmfVjHOMXnUgPl0AQe"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Moncler Coat",
+        "url": "https://open.spotify.com/album/2Aatr5J5mRJxyeHydQyNxF"
+      },
+      "artists": [
+        {
+          "name": "Sally Sossa",
+          "url": "https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR"
+        }
+      ],
+      "duration_ms": 107554,
+      "name": "Moncler Coat",
+      "url": "https://open.spotify.com/track/6nDIfZcCj06dGLY1sckgaZ"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "Icy Chain",
+        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 110790,
+      "name": "Icy Chain",
+      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+    },
+    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "We Not Humping",
@@ -879,6 +859,22 @@
       "duration_ms": 104064,
       "name": "Rap Freaks",
       "url": "https://open.spotify.com/track/1hiouKTKyZ7CcKWAoofkkg"
+    },
+    {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Chitty Bang",
+        "url": "https://open.spotify.com/album/1J0kyst5Prm6tm0WJ7XLgW"
+      },
+      "artists": [
+        {
+          "name": "Leikeli47",
+          "url": "https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR"
+        }
+      ],
+      "duration_ms": 146213,
+      "name": "Chitty Bang",
+      "url": "https://open.spotify.com/track/7eUarVRO7tNoJy6WZDhkoR"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq"

@@ -139,7 +139,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189480,
       "name": "Ag\u00e1rrale el Pantal\u00f3n (feat. Zion & Lennox)",
       "url": "https://open.spotify.com/track/3Wd4Yl2TjjTxkvlJCHWvB9"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 169457,
       "name": "En La Disco Bailoteo",
       "url": "https://open.spotify.com/track/5JrcvfOt5mDZvrsrLtHazX"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 292120,
       "name": "Es Mejor Olvidarlo",
       "url": "https://open.spotify.com/track/5ZEh7PjppT52nuO7HA9eDI"
@@ -1661,7 +1661,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 219106,
       "name": "Gata Gangster",
       "url": "https://open.spotify.com/track/0vpEg6cBXfG0PZXRSKZ4bE"
@@ -2415,7 +2415,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 245080,
       "name": "Me Niegas - Remix",
       "url": "https://open.spotify.com/track/6ON9AeWrNPTajo68rtgz8D"
@@ -2711,7 +2711,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 244662,
       "name": "Nada Va Pasar",
       "url": "https://open.spotify.com/track/1FTTvjvgX2Qd9ZJqo36m1C"
@@ -3073,7 +3073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 180173,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/4HTzn2qQZ7UqHtw1OsB8wc"
@@ -3643,7 +3643,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 301133,
       "name": "Ronca",
       "url": "https://open.spotify.com/track/3XaFdB9TrrD6ZVKs61zltw"
@@ -3831,7 +3831,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 218386,
       "name": "Sexo En La Playa",
       "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
@@ -4344,6 +4344,24 @@
     },
     {
       "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "album": {
         "name": "All Summer Long",
         "url": "https://open.spotify.com/album/3yTzMpvST867rWlCx4LDg4"
       },
@@ -4591,7 +4609,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 168018,
       "name": "Vamos Pa' La Disco",
       "url": "https://open.spotify.com/track/5ui4NzxjntyFHYsB88PIT4"
@@ -4609,7 +4627,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 196053,
       "name": "Vampiresa",
       "url": "https://open.spotify.com/track/644Kky1J5BsAX9zUxziIsX"
@@ -4685,7 +4703,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 188306,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/41f2YVgXW3t3fZ7EoHrKGH"
@@ -4725,6 +4743,24 @@
       "duration_ms": 247427,
       "name": "Welcome To My Crib",
       "url": "https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa"
+    },
+    {
+      "album": {
+        "name": "La Misi\u00f3n 4",
+        "url": "https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG"
+      },
+      "artists": [
+        {
+          "name": "Yaviah",
+          "url": "https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169400,
+      "name": "Wiki Wiki",
+      "url": "https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO"
     },
     {
       "album": {

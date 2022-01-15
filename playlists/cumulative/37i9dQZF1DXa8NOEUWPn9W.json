@@ -374,6 +374,28 @@
     },
     {
       "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Jay Colin",
+          "url": "https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG"
+    },
+    {
+      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/3GhxXFxMVqvbCNjULasnZh"
       },
@@ -663,7 +685,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 211073,
       "name": "Bosana",
       "url": "https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h"
@@ -845,7 +867,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
@@ -933,7 +955,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 162318,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/77e0lnvWMyji6LrUlNSYhZ"
@@ -1227,7 +1249,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 152669,
       "name": "Dancing Clich\u00e9",
       "url": "https://open.spotify.com/track/3NeSlNBRvB4BMrxhA88Zke"
@@ -1267,7 +1289,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 265373,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/1wDrVNnmrB4S46lvJ3WXPK"
@@ -1561,7 +1583,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 144761,
       "name": "Driver Seat",
       "url": "https://open.spotify.com/track/4suOHUdKByW9TMWodgwBKo"
@@ -1834,6 +1856,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm"
+      },
+      "artists": [
+        {
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215645,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF"
+    },
+    {
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/4nTMSRO2Ioe0sn7ETzfrxo"
       },
@@ -1933,7 +1973,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210000,
       "name": "Give It to Me",
       "url": "https://open.spotify.com/track/6joEpIEWpZYrezVvqrbvxy"
@@ -2071,7 +2111,7 @@
       ],
       "date_added": "2021-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 183372,
       "name": "Groove Society",
       "url": "https://open.spotify.com/track/2nFHaucEPE1dJp6A1AaBgV"
@@ -2381,7 +2421,7 @@
       ],
       "date_added": "2021-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 190208,
       "name": "I'll Take You Down (feat. Chilli Chilton)",
       "url": "https://open.spotify.com/track/1XfkucWcvN121yy1b2MoD5"
@@ -2457,7 +2497,7 @@
       ],
       "date_added": "2021-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207250,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/2GghS6kMPjDjwILF3RkbFw"
@@ -2789,7 +2829,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 200550,
       "name": "Lauren",
       "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
@@ -2863,7 +2903,7 @@
       ],
       "date_added": "2021-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 166750,
       "name": "Let the Sun Shine - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/1W02hcbdwd4do45YJqSlED"
@@ -3206,6 +3246,28 @@
     },
     {
       "album": {
+        "name": "Love Hotline",
+        "url": "https://open.spotify.com/album/5J2Ddj1X5zeiWW0pUPBUyZ"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        },
+        {
+          "name": "Wongo",
+          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208153,
+      "name": "Love Hotline",
+      "url": "https://open.spotify.com/track/1VbUMlLn9RdOHZHpFnOWP3"
+    },
+    {
+      "album": {
         "name": "Love Reigns",
         "url": "https://open.spotify.com/album/3TCa2b0OgMFEzCpdVCSB30"
       },
@@ -3319,7 +3381,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 176551,
       "name": "Love You Again (feat. Akua)",
       "url": "https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8"
@@ -3917,7 +3979,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 255991,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0ThPAtLfX0NbibIrEfWFHi"
@@ -4143,7 +4205,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 183095,
       "name": "R.E.A.L",
       "url": "https://open.spotify.com/track/1mK6vQxrBu7tStp3b8G2Z9"
@@ -4187,7 +4249,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 249453,
       "name": "Relationship Is",
       "url": "https://open.spotify.com/track/3o0Cq92OL7QnXJUY4F6zBz"
@@ -4388,6 +4450,24 @@
     },
     {
       "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "album": {
         "name": "Shaolin Dreams",
         "url": "https://open.spotify.com/album/43xx4WgDHH1gCUVdDZoiq5"
       },
@@ -4475,7 +4555,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 203225,
       "name": "some ppl fall",
       "url": "https://open.spotify.com/track/09EesT84Crh7ngp4DFUiXc"
@@ -4617,7 +4697,7 @@
       ],
       "date_added": "2021-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 160685,
       "name": "Step-Grandma",
       "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
@@ -4639,7 +4719,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 162879,
       "name": "Still Sleepless",
       "url": "https://open.spotify.com/track/4vyG9ZhHT8MKJE5mTICMFC"
@@ -4965,7 +5045,7 @@
       ],
       "date_added": "2021-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 146412,
       "name": "The Music",
       "url": "https://open.spotify.com/track/4xfYNH75F5Ji7CJ1v0OMM9"
@@ -5109,7 +5189,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
@@ -5771,7 +5851,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 191533,
       "name": "Zero",
       "url": "https://open.spotify.com/track/7hlbz0g2tpoBTPvLLEWKWR"

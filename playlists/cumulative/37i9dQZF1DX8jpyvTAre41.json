@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "The hottest tunes in rock. Crank it up! Cover: Billy Talent",
+  "description": "The hottest tunes in rock. Crank it up! Cover: Muse",
   "name": "Rock Your Block",
   "published_playlist_ids": [
     "2emTlJtpLiylc2HgRRdEnO"
@@ -23,6 +23,24 @@
       "duration_ms": 187422,
       "name": "Always on the Edge",
       "url": "https://open.spotify.com/track/1PzG9uwuM6da6T2tCNlYfz"
+    },
+    {
+      "album": {
+        "name": "End Of The Ocean",
+        "url": "https://open.spotify.com/album/7b5hvyZJ6sezSlccARvcqI"
+      },
+      "artists": [
+        {
+          "name": "Moist",
+          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280906,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/5ElI4FJe3HnOeXCnzewjfy"
     },
     {
       "album": {
@@ -156,6 +174,46 @@
     },
     {
       "album": {
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "album": {
+        "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
+        "url": "https://open.spotify.com/album/0Vsst77tIiNqNmCUvizQDG"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195910,
+      "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
+      "url": "https://open.spotify.com/track/4Ejf3NzTDbWdRGdjDq3KG4"
+    },
+    {
+      "album": {
         "name": "Chapstick",
         "url": "https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9"
       },
@@ -225,10 +283,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 286093,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/0YeiQy33chHyND3OfwruRW"
+    },
+    {
+      "album": {
+        "name": "Cowboys Don\u2019t Cry",
+        "url": "https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189969,
+      "name": "Cowboys Don\u2019t Cry",
+      "url": "https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq"
     },
     {
       "album": {
@@ -297,7 +373,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189507,
       "name": "Daddy's Coming Home",
       "url": "https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH"
@@ -333,7 +409,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 251010,
       "name": "Don't Hate Me",
       "url": "https://open.spotify.com/track/0w5vvxfNoqnF8pDpj5eD1A"
@@ -381,7 +457,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 245625,
       "name": "Drunk (And I Don't Wanna Go Home)",
       "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
@@ -399,7 +475,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 271040,
       "name": "Dying For A Light In The Dark (We Are)",
       "url": "https://open.spotify.com/track/38PHYNm19p6IYfkEOzOR3p"
@@ -425,6 +501,24 @@
       "duration_ms": 225744,
       "name": "End of Me (feat. Rivers Cuomo)",
       "url": "https://open.spotify.com/track/01CUo2gjV0mBB5EBHOfxTB"
+    },
+    {
+      "album": {
+        "name": "Enemies",
+        "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161592,
+      "name": "Enemies",
+      "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
       "album": {
@@ -479,7 +573,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 328153,
       "name": "Fill My World (feat. Myles Kennedy and The Conspirators)",
       "url": "https://open.spotify.com/track/3BAI5c9ju2d9BWzoFka2PO"
@@ -519,6 +613,24 @@
       "duration_ms": 160203,
       "name": "Follow (Trans Lunar Ejector Maneuver)",
       "url": "https://open.spotify.com/track/2Yf5KsX3uhF8r5OKIv22Yv"
+    },
+    {
+      "album": {
+        "name": "Forgotten",
+        "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Forgotten",
+      "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
     },
     {
       "album": {
@@ -1032,6 +1144,24 @@
     },
     {
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/6hVvtfpw5bgdjyr6O56H3O"
+      },
+      "artists": [
+        {
+          "name": "Envy Of None",
+          "url": "https://open.spotify.com/artist/2wwArB2zsZyIIThkewLBaZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192725,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/6ijT4CLXcJIQ65USkQkAIu"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/3fiPEJT6tp9blTffNsRPgi"
       },
@@ -1119,6 +1249,28 @@
       "duration_ms": 293105,
       "name": "Listen to the Beat",
       "url": "https://open.spotify.com/track/1nNczyQpQI6nwjcnsnctNs"
+    },
+    {
+      "album": {
+        "name": "Love It When You Hate Me (feat. blackbear)",
+        "url": "https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145103,
+      "name": "Love It When You Hate Me (feat. blackbear)",
+      "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
     },
     {
       "album": {
@@ -1435,7 +1587,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 247680,
       "name": "People disappear here",
       "url": "https://open.spotify.com/track/7h5CR4nRDXUwuTKw66T5Nx"
@@ -1457,6 +1609,24 @@
       "duration_ms": 205222,
       "name": "Perfect Blue",
       "url": "https://open.spotify.com/track/26I0qPVgn8afCccReUkSi4"
+    },
+    {
+      "album": {
+        "name": "Suffer Summer",
+        "url": "https://open.spotify.com/album/5KFCtuKFQkf6kzXTO4vIrX"
+      },
+      "artists": [
+        {
+          "name": "Chastity",
+          "url": "https://open.spotify.com/artist/1Pb13vLDNqpaXI88U9t6JG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "Pummeling",
+      "url": "https://open.spotify.com/track/0geJWISiZbSXhoSmHqw38T"
     },
     {
       "album": {
@@ -1601,7 +1771,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
@@ -1688,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
+    },
+    {
+      "album": {
         "name": "Surviving The Game",
         "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
       },
@@ -1699,7 +1887,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 238870,
       "name": "Surviving The Game",
       "url": "https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb"
@@ -1753,7 +1941,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 245961,
       "name": "Taking Me Back",
       "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
@@ -1843,7 +2031,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 181666,
       "name": "Time Won't Heal",
       "url": "https://open.spotify.com/track/1aJhRwvIn8ISOxXhJcLm6M"
@@ -1865,6 +2053,24 @@
       "duration_ms": 228400,
       "name": "Trouble\u2019s Coming",
       "url": "https://open.spotify.com/track/6voIJ7OWwRabSZDC77D5Hp"
+    },
+    {
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/58rMecu5z9tfXa3Vambk9c"
+      },
+      "artists": [
+        {
+          "name": "Skye Wallace",
+          "url": "https://open.spotify.com/artist/6BBaTzjSoI3KGH2c5yyCae"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243859,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/1N61QLRTGgzb97qTd03KhZ"
     },
     {
       "album": {
@@ -1923,7 +2129,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210453,
       "name": "Vicious Circle (feat. City and Colour)",
       "url": "https://open.spotify.com/track/4kSVGCTSyvKJcp52mfyXH7"
@@ -1963,6 +2169,24 @@
       "duration_ms": 231411,
       "name": "White Buffalo",
       "url": "https://open.spotify.com/track/1OuhXoDx2sIChuNiB3hovd"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
       "album": {

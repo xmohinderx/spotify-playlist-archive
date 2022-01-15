@@ -19,7 +19,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 368213,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
@@ -163,7 +163,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 320618,
       "name": "Can't Walk Away From It Now - Live",
       "url": "https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 281666,
       "name": "Crying For My Baby",
       "url": "https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 387346,
       "name": "Diamonds & Gold - Live",
       "url": "https://open.spotify.com/track/15vIOt0JMhkeFUsbOEhMis"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 349253,
       "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
       "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 290693,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 341840,
       "name": "High Class Girl - Live",
       "url": "https://open.spotify.com/track/77PULbIYAM090fHatJgXe5"
@@ -839,7 +839,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 509607,
       "name": "Pallet Soft and Low (Live)",
       "url": "https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk"
@@ -1027,7 +1027,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 549933,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
@@ -1157,7 +1157,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 600506,
       "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
       "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 354893,
       "name": "True Lies",
       "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
@@ -1362,6 +1362,24 @@
     },
     {
       "album": {
+        "name": "West L.A. Fadeaway (Live)",
+        "url": "https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771564,
+      "name": "West L.A. Fadeaway - Live",
+      "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
+    },
+    {
+      "album": {
         "name": "Live In Concert",
         "url": "https://open.spotify.com/album/2O6PBRZYz7a9wEUbE7SZkS"
       },
@@ -1377,7 +1395,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 252106,
       "name": "Who Are You",
       "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
@@ -1395,7 +1413,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 574040,
       "name": "Why Does It Take So Long To Say Goodbye - Live",
       "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"

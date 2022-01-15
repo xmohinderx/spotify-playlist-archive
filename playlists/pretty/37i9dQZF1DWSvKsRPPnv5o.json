@@ -1,12 +1,12 @@
 {
   "description": "Holdin' it down for the westside. Cover: Roddy Ricch\n",
   "name": "Westside Story",
-  "num_followers": 679412,
+  "num_followers": 679471,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTYwMCwwMDAwMDUwNTAwMDAwMTdlMzJlODZkNDEwMDAwMDE3ZTMxYThhYjlj",
+  "snapshot_id": "MTY0MjE5NTM1OCwwMDAwMDUwNzAwMDAwMTdlNWE3ODkyMTYwMDAwMDE3ZTMxYThhYjlj",
   "tracks": [
     {
       "added_at": "2021-12-17 05:00:00",
@@ -18,15 +18,11 @@
         {
           "name": "Roddy Ricch",
           "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 213453,
-      "name": "don\u2019t i (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
+      "duration_ms": 204626,
+      "name": "25 million",
+      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -85,6 +81,26 @@
       "url": "https://open.spotify.com/track/0hauidEyQSGetmK5eVfKQQ"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "don\u2019t i (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
+    },
+    {
       "added_at": "2021-11-26 05:00:00",
       "album": {
         "name": "NFAMOUS",
@@ -121,22 +137,6 @@
       "url": "https://open.spotify.com/track/3mEvoHooPhGoCEPllsAHbH"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "25 million",
-      "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Party Roccin",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/3CHvCHtu3dIFVns6yK2Jl7"
     },
     {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "Numero Uno",
-        "url": "https://open.spotify.com/album/0J6j1u17JUkTGFqi9ccTiM"
-      },
-      "artists": [
-        {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        }
-      ],
-      "duration_ms": 133717,
-      "name": "Numero Uno",
-      "url": "https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4"
-    },
-    {
       "added_at": "2021-12-17 05:00:00",
       "album": {
         "name": "LIVE LIFE FAST",
@@ -183,6 +167,38 @@
       "duration_ms": 200958,
       "name": "thailand",
       "url": "https://open.spotify.com/track/0qHPxjC83zQYcxe39xSShx"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "ALIVE (Deluxe)",
+        "url": "https://open.spotify.com/album/1ThGGXmoSFxHIQLhE4vy7M"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        }
+      ],
+      "duration_ms": 231771,
+      "name": "Back 2 Basics",
+      "url": "https://open.spotify.com/track/2a8W8GMf5AuMaAYpSB8f65"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 112787,
+      "name": "Lye",
+      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -203,22 +219,6 @@
       "duration_ms": 197647,
       "name": "Control Problems (with YG)",
       "url": "https://open.spotify.com/track/6UorQ3toyCFLVDcExIkCYT"
-    },
-    {
-      "added_at": "2022-01-07 05:00:00",
-      "album": {
-        "name": "Titanic",
-        "url": "https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 112625,
-      "name": "Titanic",
-      "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/3U84GeKG4tUHhimhie1aDK"
     },
     {
+      "added_at": "2022-01-07 05:00:00",
+      "album": {
+        "name": "Numero Uno",
+        "url": "https://open.spotify.com/album/0J6j1u17JUkTGFqi9ccTiM"
+      },
+      "artists": [
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        }
+      ],
+      "duration_ms": 133717,
+      "name": "Numero Uno",
+      "url": "https://open.spotify.com/track/2gw18LNTvCUs0ZTe9o5qA4"
+    },
+    {
       "added_at": "2021-12-03 05:00:00",
       "album": {
         "name": "STOP IT",
@@ -453,20 +469,20 @@
       "url": "https://open.spotify.com/track/2c0lpkLWgSBzBbGOPXY9gk"
     },
     {
-      "added_at": "2021-11-19 05:00:00",
+      "added_at": "2022-01-07 05:00:00",
       "album": {
-        "name": "Icy Chain",
-        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+        "name": "Titanic",
+        "url": "https://open.spotify.com/album/5lerjk0bthUa3F5g2K3GrU"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 110790,
-      "name": "Icy Chain",
-      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+      "duration_ms": 112625,
+      "name": "Titanic",
+      "url": "https://open.spotify.com/track/6SLsVEicNrL81TCoUh2yhy"
     },
     {
       "added_at": "2021-12-10 06:53:50",
@@ -759,22 +775,6 @@
       "duration_ms": 191887,
       "name": "Play 4 Keeps",
       "url": "https://open.spotify.com/track/0YIpHx7S2Y3Xg75aWdtsHf"
-    },
-    {
-      "added_at": "2021-11-19 05:00:00",
-      "album": {
-        "name": "2010",
-        "url": "https://open.spotify.com/album/3BO8pSV1AMv2UkE80FHMR3"
-      },
-      "artists": [
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
-        }
-      ],
-      "duration_ms": 148027,
-      "name": "2010",
-      "url": "https://open.spotify.com/track/5kUgMxXcpAdsnKumXs4J5Z"
     },
     {
       "added_at": "2021-11-05 04:00:00",

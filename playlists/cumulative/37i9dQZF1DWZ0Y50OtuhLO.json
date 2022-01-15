@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 172761,
       "name": "Be Kind (with Halsey)",
       "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
@@ -599,7 +599,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 188580,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/4I5bvu2KDsrCg0EWHIcvul"
@@ -1281,7 +1281,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 211294,
       "name": "Higher Power",
       "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
@@ -1379,7 +1379,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 194760,
       "name": "I Could Get Used To This (with WEISS)",
       "url": "https://open.spotify.com/track/6MSuMFyOdoJMAEgvnhqbRu"
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -1887,7 +1887,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 189386,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/1iZmjbahvLeJzpc042nri5"
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 172324,
       "name": "positions",
       "url": "https://open.spotify.com/track/35mvY5S1H3J2QZyna3TFe0"
@@ -3149,7 +3149,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 220196,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/6OGogr19zPTM4BALXuMQpF"
@@ -3564,6 +3564,28 @@
     },
     {
       "album": {
+        "name": "Who You Are",
+        "url": "https://open.spotify.com/album/6k28C6Pa6xkoueu3A5Kecz"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205478,
+      "name": "Who You Are",
+      "url": "https://open.spotify.com/track/6mkvEG10ftOIKrMZHVRMiY"
+    },
+    {
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -3575,7 +3597,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 214706,
       "name": "willow",
       "url": "https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D"

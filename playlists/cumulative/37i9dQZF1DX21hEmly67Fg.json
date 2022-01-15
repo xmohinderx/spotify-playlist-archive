@@ -268,6 +268,24 @@
     },
     {
       "album": {
+        "name": "ABBA",
+        "url": "https://open.spotify.com/album/79mSoTbnuSzUFVIz2h89D0"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211787,
+      "name": "Dancing Queen (arr. piano)",
+      "url": "https://open.spotify.com/track/61HC09wMMxwHkjgktA94tP"
+    },
+    {
+      "album": {
         "name": "Defying Gravity",
         "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },

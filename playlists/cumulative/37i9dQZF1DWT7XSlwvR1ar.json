@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 185933,
       "name": "All This Time Running",
       "url": "https://open.spotify.com/track/4qrVC09Ud9a0B2hpwT1EGV"
@@ -697,7 +697,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 161906,
       "name": "Changes",
       "url": "https://open.spotify.com/track/0gKiONJeEtwb3hps4sUgyn"
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2020-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 211933,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7"
@@ -1243,7 +1243,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-18",
+      "date_removed": null,
       "duration_ms": 203306,
       "name": "Fly Right",
       "url": "https://open.spotify.com/track/1lpGZsdPKVTwAKJKn8ajRj"
@@ -1351,7 +1351,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 230506,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/429EttO8gs0bDo2SQfUNSm"
@@ -2167,7 +2167,7 @@
       ],
       "date_added": "2020-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 163893,
       "name": "Keep 'Em on They Toes",
       "url": "https://open.spotify.com/track/3Fi4FVtrEUzivnQdogAskP"
@@ -3719,7 +3719,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 251746,
       "name": "Sugar in the Creek",
       "url": "https://open.spotify.com/track/7ceIJcA4Scip0WlJwwUnTS"
@@ -3997,7 +3997,7 @@
       ],
       "date_added": "2019-07-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 360933,
       "name": "The Stable Song",
       "url": "https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU"
@@ -4441,7 +4441,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214213,
       "name": "What If I",
       "url": "https://open.spotify.com/track/4WseJ30wu5uelTqxvAK9oy"
@@ -4485,6 +4485,24 @@
       "duration_ms": 200213,
       "name": "When They Fight, They Fight",
       "url": "https://open.spotify.com/track/37r6i0GTqgR05rGe5wNhmp"
+    },
+    {
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "WHERE WE ARE",
+      "url": "https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp"
     },
     {
       "album": {
@@ -4589,7 +4607,7 @@
       ],
       "date_added": "2020-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 281546,
       "name": "Wise Woman",
       "url": "https://open.spotify.com/track/6uvF15oBfR7kQBzF27vCtS"
@@ -4697,7 +4715,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 219053,
       "name": "You And I",
       "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"

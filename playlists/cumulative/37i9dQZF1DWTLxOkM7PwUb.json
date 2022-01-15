@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
   "name": "Trap Luv",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "6lpcIVeOfM0gXNeewIFzKd"
+  ],
   "tracks": [
     {
       "album": {
@@ -333,7 +335,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "C14TORCE II",
       "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
@@ -351,7 +353,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 143680,
       "name": "C14TORCE III",
       "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
@@ -615,7 +617,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 136373,
       "name": "Como Nadie",
       "url": "https://open.spotify.com/track/2vrl9bADuJHQGOdSk83jRD"
@@ -721,7 +723,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200000,
       "name": "C\u00f3mo D\u00edmelo",
       "url": "https://open.spotify.com/track/7EehFSuTqX5ufeVwajlnNa"
@@ -838,6 +840,28 @@
     },
     {
       "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+    },
+    {
+      "album": {
         "name": "Digame Usted",
         "url": "https://open.spotify.com/album/4Vg4wY0Q2AbagHXRzfRENF"
       },
@@ -907,7 +931,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 244210,
       "name": "Dm",
       "url": "https://open.spotify.com/track/396ixTcpiq8mNGclHGN8wK"
@@ -947,7 +971,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 233183,
       "name": "Ella Busca",
       "url": "https://open.spotify.com/track/5xmTUkyKKEIxCWRuncbDcG"
@@ -987,7 +1011,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235720,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev"
@@ -1115,7 +1139,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 165000,
       "name": "La Playita",
       "url": "https://open.spotify.com/track/21nc7VSDCHaYFqi8XlMEJL"
@@ -1233,6 +1257,24 @@
       "duration_ms": 346460,
       "name": "Loca Remix",
       "url": "https://open.spotify.com/track/2CRbiMK0W14l71SpDKqKZM"
+    },
+    {
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/4BihoPW5Pzt56iZUxVltfS"
+      },
+      "artists": [
+        {
+          "name": "Oky",
+          "url": "https://open.spotify.com/artist/1BFHETdKcBBY0RzwN7Vk8X"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229977,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/0YK1xpP7b0cUqsz9ufibY9"
     },
     {
       "album": {
@@ -1371,7 +1413,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 224556,
       "name": "No Lo Se",
       "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
@@ -1397,6 +1439,24 @@
       "duration_ms": 191846,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/4DNzemGNnckcJSr8DVk8Uj"
+    },
+    {
+      "album": {
+        "name": "No Puedo Fingir",
+        "url": "https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164352,
+      "name": "No Puedo Fingir",
+      "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
     },
     {
       "album": {
@@ -1529,7 +1589,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 164800,
       "name": "Penas y Maldades (feat. Valyum)",
       "url": "https://open.spotify.com/track/1H02kbacKeP2nTCXhLDHJX"
@@ -1617,7 +1677,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193548,
       "name": "Prefiero",
       "url": "https://open.spotify.com/track/1WrVjFkswM2JthLruEiCoD"
@@ -2042,6 +2102,24 @@
     },
     {
       "album": {
+        "name": "Por Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/0YPuDIug1i3522246t1BVO"
+      },
+      "artists": [
+        {
+          "name": "Zeballos",
+          "url": "https://open.spotify.com/artist/5ayyPSqoObeTOj1UGtM79C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187046,
+      "name": "S\u00e1banas An\u00f3nimas",
+      "url": "https://open.spotify.com/track/2VJ74YqEINo2GpS1b9dPpX"
+    },
+    {
+      "album": {
         "name": "Te Bot\u00e9 (Remix)",
         "url": "https://open.spotify.com/album/42wLKnuGyBLGWwH89lnimL"
       },
@@ -2231,7 +2309,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 171891,
       "name": "Tus Dudas (Prod. Rodridi)",
       "url": "https://open.spotify.com/track/6FmlcLo1KmWGQ2hfXPL5S0"
@@ -2249,7 +2327,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 183703,
       "name": "Una Semana",
       "url": "https://open.spotify.com/track/7oERzx2IvTweeSXU7S8wdO"
@@ -2385,7 +2463,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The biggest club songs from regions around the world. Cover: Big Dope P",
+  "description": "The biggest club songs from regions around the world. Cover: Black Rave Culture",
   "name": "Global Club Music",
   "published_playlist_ids": [
     "5QQpMPs6GIuzG9aq7Y4uCu"
@@ -1429,7 +1429,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 236977,
       "name": "Mad In The Fete (feat. Bala Bala Boyz)",
       "url": "https://open.spotify.com/track/5Ax15OS8YLh8o7m20C90LX"
@@ -1473,7 +1473,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 217152,
       "name": "Must Be Dead",
       "url": "https://open.spotify.com/track/1FhLIR9IcnuE5CRgugkvr2"
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 174307,
       "name": "Razzclart",
       "url": "https://open.spotify.com/track/1EyibibCLQgHcGDYbCmCPx"
@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 291750,
       "name": "Sankofa",
       "url": "https://open.spotify.com/track/3nLwHzldNExFUQZAbsvo1W"
@@ -1896,6 +1896,24 @@
     },
     {
       "album": {
+        "name": "Sub Poppin",
+        "url": "https://open.spotify.com/album/34ea1zRekZvYeW2L2CkoZf"
+      },
+      "artists": [
+        {
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341476,
+      "name": "Sub Poppin",
+      "url": "https://open.spotify.com/track/3pFcZbT0YVipT9LNrCutFk"
+    },
+    {
+      "album": {
         "name": "Sweaty Clothes (feat. Cerrissa Koza)",
         "url": "https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY"
       },
@@ -1947,7 +1965,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 159587,
       "name": "Tap",
       "url": "https://open.spotify.com/track/0mu5Nx4SndpjAi8br265GC"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 226742,
       "name": "Tissue - Baltimore Club Music",
       "url": "https://open.spotify.com/track/2JqGywsrBCx7jejTJRyaan"
@@ -2023,7 +2041,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 128076,
       "name": "TRUCK RIDDIM (feat. BEAM)",
       "url": "https://open.spotify.com/track/7kaNSzp7gVRFoxEmE42IU9"

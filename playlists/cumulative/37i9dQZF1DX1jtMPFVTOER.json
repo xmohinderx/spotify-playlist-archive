@@ -254,6 +254,36 @@
     },
     {
       "album": {
+        "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+        "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
+        },
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355720,
+      "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
+      "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
+    },
+    {
+      "album": {
         "name": "Bloodshed",
         "url": "https://open.spotify.com/album/2gT3mYFZHYKkECiSHGgNmX"
       },
@@ -953,7 +983,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 183960,
       "name": "Friends",
       "url": "https://open.spotify.com/track/2OXw449ZsYsuPmaaygMwin"
@@ -1015,7 +1045,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186000,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4TdDHJ2okzZFqlV9B8f9bu"
@@ -1651,6 +1681,28 @@
       "duration_ms": 235081,
       "name": "Nothing Can Tear Us Apart",
       "url": "https://open.spotify.com/track/2IdfvxOWNu4usISuuQvJFB"
+    },
+    {
+      "album": {
+        "name": "O Caminho",
+        "url": "https://open.spotify.com/album/1F7OXCWItxfL6d7oOTv1fP"
+      },
+      "artists": [
+        {
+          "name": "Tom Ford",
+          "url": "https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE"
+        },
+        {
+          "name": "Simon Jnr",
+          "url": "https://open.spotify.com/artist/3O5LZDpnTjoMcOT2TVDI7K"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325264,
+      "name": "O Caminho",
+      "url": "https://open.spotify.com/track/3h8ThQbKYUqRyaAgtwDVok"
     },
     {
       "album": {

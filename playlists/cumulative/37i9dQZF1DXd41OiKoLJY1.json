@@ -324,6 +324,24 @@
     },
     {
       "album": {
+        "name": "Respark",
+        "url": "https://open.spotify.com/album/1FRbeGOjIjWw1fVbRcj0W5"
+      },
+      "artists": [
+        {
+          "name": "Yhuan",
+          "url": "https://open.spotify.com/artist/7CVEQQmlnj9MBPADgs2dzq"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226963,
+      "name": "I Just Wanna Be Alright",
+      "url": "https://open.spotify.com/track/4M0XbikasZcceSnMs3YQT7"
+    },
+    {
+      "album": {
         "name": "I'm so in Love with You",
         "url": "https://open.spotify.com/album/6TyuMqzvCLQQY0ZeI8gzCh"
       },

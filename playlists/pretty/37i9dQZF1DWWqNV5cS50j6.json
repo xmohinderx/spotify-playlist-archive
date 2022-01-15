@@ -1,12 +1,12 @@
 {
   "description": "not not pop. featuring new music by <a href=\"spotify:artist:7vNNmjV14SKQzlQAEg0BXP\">Jean Dawson</a>.",
   "name": "anti pop",
-  "num_followers": 624420,
+  "num_followers": 624605,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAwNDk5NywwMDAwMDI0MjAwMDAwMTdlNGYxZmU2NzcwMDAwMDE3ZGEwNTNhOWM0",
+  "snapshot_id": "MTY0MjE0Nzk4MCwwMDAwMDI0MzAwMDAwMTdlNTdhNWEzM2UwMDAwMDE3ZGEwNTNhOWM0",
   "tracks": [
     {
       "added_at": "2021-12-10 09:45:00",
@@ -29,20 +29,40 @@
       "url": "https://open.spotify.com/track/2nMTBUdxkdCZWo7n3upy1e"
     },
     {
-      "added_at": "2021-07-30 15:54:25",
+      "added_at": "2022-01-07 15:35:14",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU"
+        "name": "From You",
+        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
       "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
         {
           "name": "Joji",
           "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 214557,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B"
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
+    },
+    {
+      "added_at": "2022-01-14 08:13:00",
+      "album": {
+        "name": "Rapture In Blue",
+        "url": "https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 144130,
+      "name": "Rapture In Blue",
+      "url": "https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK"
     },
     {
       "added_at": "2021-10-15 18:59:36",
@@ -59,6 +79,26 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
+    },
+    {
+      "added_at": "2022-01-14 08:13:00",
+      "album": {
+        "name": "No One Gets Me (feat. RMR)",
+        "url": "https://open.spotify.com/album/3U17Clob2dMUevoYU0t39b"
+      },
+      "artists": [
+        {
+          "name": "Johan Lenox",
+          "url": "https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj"
+        },
+        {
+          "name": "RMR",
+          "url": "https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "No One Gets Me (feat. RMR)",
+      "url": "https://open.spotify.com/track/0SBnx2rzXbh1Gt2WmmMX0g"
     },
     {
       "added_at": "2022-01-07 15:35:14",
@@ -79,6 +119,22 @@
       "duration_ms": 234000,
       "name": "Somebody I Know",
       "url": "https://open.spotify.com/track/0SDzyn3KL8KLsyWv0A35RV"
+    },
+    {
+      "added_at": "2022-01-14 08:13:00",
+      "album": {
+        "name": "Tenderness Kindness",
+        "url": "https://open.spotify.com/album/0PeVvqUPjwN0foRDX0BpH7"
+      },
+      "artists": [
+        {
+          "name": "Nate Traveller",
+          "url": "https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc"
+        }
+      ],
+      "duration_ms": 102060,
+      "name": "Tenderness Kindness",
+      "url": "https://open.spotify.com/track/6kolh9K72qUp1aMhpc2ts4"
     },
     {
       "added_at": "2022-01-04 15:15:07",
@@ -133,6 +189,22 @@
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
     },
     {
+      "added_at": "2021-07-30 15:54:25",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/3NhYseiC5dmIJMAOfaFeIU"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 214557,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/2hfoyc7ve6xM4ZEiNIiU1B"
+    },
+    {
       "added_at": "2022-01-07 15:35:14",
       "album": {
         "name": "come thru",
@@ -183,26 +255,6 @@
       "duration_ms": 184941,
       "name": "I've Seen Better Days",
       "url": "https://open.spotify.com/track/0c6I474Mfy2VEDD80Yinhi"
-    },
-    {
-      "added_at": "2022-01-07 15:35:14",
-      "album": {
-        "name": "From You",
-        "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
     },
     {
       "added_at": "2021-11-12 14:16:08",
@@ -1345,7 +1397,7 @@
       "artists": [
         {
           "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5"
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
       "duration_ms": 170877,

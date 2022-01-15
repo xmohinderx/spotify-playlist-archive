@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: Freddie Lewis
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,404 likes - 88 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,438 likes - 88 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 7 | [Am I Here](https://open.spotify.com/track/7FGLcc2GCS80mQbQ9rIIiQ) | [Jay Page](https://open.spotify.com/artist/5UAp6OV20EOh2PLm1c7vY3) | [Split](https://open.spotify.com/album/36akr9DjkQJ6Usnd7nGEZ9) | 3:29 |
 | 8 | [Lolo 13](https://open.spotify.com/track/7tJiFAXnQ0x6SwwHzjAZYB) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [At War With The Silverfish](https://open.spotify.com/album/4PMZlbwVmNpMEOkY1UkM03) | 2:41 |
 | 9 | [fitt \(with Amaarae\)](https://open.spotify.com/track/7ulh0asPyRT8nEkh3qbjBc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [fitt \(with Amaarae\)](https://open.spotify.com/album/0rcevx17L0BaFLryqgEQZo) | 3:36 |
-| 10 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 |
+| 10 | [Really, Really](https://open.spotify.com/track/4Kg7wuHmbjZ3o6LeUJH8P4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Really, Really](https://open.spotify.com/album/0qbnY0chu7T0QUgnEuei3Y) | 2:26 |
 | 11 | [Something To Say](https://open.spotify.com/track/5CznIqYyWcPBQ9YaIJtLLF) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Something To Say](https://open.spotify.com/album/6CBY5J52PrxflhCEelKeBR) | 4:04 |
 | 12 | [All I Have Is I](https://open.spotify.com/track/2cLrli2NE987jrCHJe4e0l) | [Freddie Lewis](https://open.spotify.com/artist/2Y08LH0PaXKiJNNuQQ827y) | [All I Have Is I](https://open.spotify.com/album/3KBzyQJ9hCybruGbPcjczp) | 3:25 |
 | 13 | [Crush](https://open.spotify.com/track/2O1bAhJCHW0E3uuoWzRrGi) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Inbred](https://open.spotify.com/album/1Q4UcRCYPn6u0pNHioOYjs) | 3:24 |
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 18 | [Heatwave](https://open.spotify.com/track/0aGbjADuRz7IUuZD5MZ4F6) | [Randa](https://open.spotify.com/artist/2XwPmktVwkeMCmxtpd3EKL) | [Heatwave](https://open.spotify.com/album/1JyYFAhNv3oeYc7J9K3uLl) | 4:11 |
 | 19 | [I Wanna Be Your Girlfriend](https://open.spotify.com/track/1sDMeyyj2QbUQ2yBPlOtBE) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Twelve Nudes](https://open.spotify.com/album/5Pm5mcnn8gRxiY4b4qXD1P) | 3:29 |
 | 20 | [Gravity](https://open.spotify.com/track/7JPZu1zTiT5lmAfzAVPygy) | [Cuee](https://open.spotify.com/artist/5vuWUABfGvkUxib7zgMMc6), [Lindsey Alderman](https://open.spotify.com/artist/1d4Jqgs605YVW4ziTGYWjy) | [Gospel](https://open.spotify.com/album/0zBrFItw6CbYBl9U6rFohA) | 3:19 |
-| 21 | [Stop Calling The Police On Me](https://open.spotify.com/track/76onGrcd5XE3zUaEtlgZbb) | [Dreamer Isioma](https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:26 |
+| 21 | [Stop Calling The Police On Me](https://open.spotify.com/track/76onGrcd5XE3zUaEtlgZbb) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:26 |
 | 22 | [Home](https://open.spotify.com/track/5pAIi2xDRVLWy51n6xtOTY) | [Legwurk](https://open.spotify.com/artist/5adOsYarVjOqKyGhKACW7p) | [Home](https://open.spotify.com/album/6b3AmiePqO00ZFHLtAwtN4) | 3:15 |
 | 23 | [LOSING MYSELF](https://open.spotify.com/track/42o73NUStZDhMYeW7lRLnm) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [MERIDIAN : vol 1](https://open.spotify.com/album/7HzXpoBSz66DB7G35p3oeO) | 2:56 |
 | 24 | [Collide](https://open.spotify.com/track/11HptaZiTyuGpvGgrDuhvY) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [GESS](https://open.spotify.com/artist/4rWV3JAgD6JrUiq5mpEJxY), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Collide](https://open.spotify.com/album/6SmzSMDrRZJuflBpUeSLeV) | 3:39 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 43 | [Time](https://open.spotify.com/track/3XdXixlx3MoVzfL7pu9hx6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:45 |
 | 44 | [signs](https://open.spotify.com/track/1YfqDbjEzIOmoSOEarcpGL) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [signs](https://open.spotify.com/album/3gfVDalK5kBVFZGrYNe9NC) | 2:35 |
 | 45 | [Prosecco](https://open.spotify.com/track/4rrEmelWLx5GkbpKTFWbcx) | [Rachel Maria Cox](https://open.spotify.com/artist/1xIb3fCc3TqfNJ24DNKKBq) | [Prosecco](https://open.spotify.com/album/6KeTVzhEgbAHWt3NTJ5QvI) | 2:46 |
-| 46 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 |
+| 46 | [HUH?](https://open.spotify.com/track/2hWOnCuZo2Js7o0UbDa8m4) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [HUH?](https://open.spotify.com/album/5deDzBsXuhqGnI4eT0z05t) | 2:43 |
 | 47 | [Nobody Waits](https://open.spotify.com/track/6v6sA8JPGVJu2okyDzsHTv) | [Mal Blum](https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX) | [Nobody Waits b/w San Cristóbal](https://open.spotify.com/album/629KM39iIYEXQc4f0xj9pz) | 3:11 |
 | 48 | [Diet](https://open.spotify.com/track/5k0yxFSktMecsYRc0O3mEo) | [Shamir](https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj) | [Shamir](https://open.spotify.com/album/6rACMQ2WTjZ8z8kpTC6sFu) | 3:17 |
 | 49 | [angel rock](https://open.spotify.com/track/32njoCIl5eqq3rv12cS588) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [angel rock](https://open.spotify.com/album/2NboJlXBlKcA1Cx2i5kNOS) | 3:24 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 54 | [Sharkbait](https://open.spotify.com/track/63UiYJT1XcsU3mIY5DMVTa) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/3uFAY7Vx4w2o0rGe6mELYk) | 3:38 |
 | 55 | [SuperNatural Possession](https://open.spotify.com/track/7rW0sRWMxWCMEF0Cd9kbu0) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2BBk7kjQwYdV0UgeYx0JYK) | 2:04 |
 | 56 | [Precious and Perfect](https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD) | [Sports Bra](https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b) | [Talk It Out](https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61) | 3:00 |
-| 57 | [I Feel Fantastic](https://open.spotify.com/track/47jOHlHtl1AWERc1SITALU) | [Dreamer Isioma](https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:15 |
+| 57 | [I Feel Fantastic](https://open.spotify.com/track/47jOHlHtl1AWERc1SITALU) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [The Leo Sun Sets](https://open.spotify.com/album/42yE5J7BhPoXTkDTRTgHCJ) | 2:15 |
 | 58 | [Bloodrush](https://open.spotify.com/track/5VrvHUYRdYRdBRcoB7MekM) | [Andrew Broder](https://open.spotify.com/artist/44GbwEtjdUMxpvcBoPEOgH), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB), [Haleek Maul](https://open.spotify.com/artist/1z3a08VnheTF9dwweVtFa3) | [Bloodrush](https://open.spotify.com/album/75AxR1P7ift5hm1VuSm7u5) | 3:23 |
 | 59 | [Mama Told Me](https://open.spotify.com/track/5hO0jrFAVdZcVbfj4Y6VFR) | [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [Mama Told Me](https://open.spotify.com/album/2EGmmPZw7m8FoWz5KW6SGN) | 2:43 |
 | 60 | [Serotonin Serenade](https://open.spotify.com/track/2Ff6Ghw8TRJGuAbJamtt4X) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [American Queers](https://open.spotify.com/album/3HAKCGSBK2CdNR94iSKMLS) | 4:22 |

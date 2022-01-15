@@ -2,7 +2,7 @@
 
 ### [Indie India ](https://open.spotify.com/playlist/5J0oFaPhwRhYmz4fIMaWG7)
 
-> The best of the country's independent artists\. Cover: Anuv Jain
+> The best of the country's independent artists\. Cover: Parekh & Singh
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

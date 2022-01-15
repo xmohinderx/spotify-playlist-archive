@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "Timeless Salsa from your favorite legends. Cover: Willie Col\u00f3n",
   "name": "Salsa Classics",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3ly5UldOYTAYtVr6z4nRPR"
+  ],
   "tracks": [
     {
       "album": {
@@ -21,7 +23,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 345600,
       "name": "Buscando Guayaba",
       "url": "https://open.spotify.com/track/3DwtTnJIibZT65XzWkiLaT"
@@ -281,7 +283,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 209240,
       "name": "Ch\u00e9 Ch\u00e9 Col\u00e9",
       "url": "https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ"
@@ -501,7 +503,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 421200,
       "name": "Dime",
       "url": "https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r"
@@ -577,7 +579,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 295635,
       "name": "El Flautista",
       "url": "https://open.spotify.com/track/5GGv0RlVG44W9iWpkSs1XR"
@@ -657,7 +659,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 402360,
       "name": "El Rey De La Puntualidad",
       "url": "https://open.spotify.com/track/0mTHqLXxW4UAYwJgCIz7CJ"
@@ -693,7 +695,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 160115,
       "name": "El Watusi",
       "url": "https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd"
@@ -1206,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Carlito's Way: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/31z6Bud2aFad5ejBVQBfNP"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326160,
+      "name": "Parece Mentira",
+      "url": "https://open.spotify.com/track/1ACM4nDDjhWxMhy0WoWG7J"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1mJroViGaNhgmckqDiIfBU"
       },
@@ -1261,7 +1281,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 409080,
       "name": "Peri\u00f3dico De Ayer",
       "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
@@ -1381,7 +1401,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 323826,
       "name": "Siembra",
       "url": "https://open.spotify.com/track/1XANmUYUXMV65BcUJKplkr"

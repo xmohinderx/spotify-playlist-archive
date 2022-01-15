@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWekySnB4xpt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWekySnB4xpt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWekySnB4xpt)
 
-### Made In Venezuela
+### [Made In Venezuela](https://open.spotify.com/playlist/4xACWEQcvbn1jztRRt6IeV)
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Micro TDH
 

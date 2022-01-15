@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
   "name": "Con Fe",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5VTKv4gJGHX2mH8jSSC2Vt"
+  ],
   "tracks": [
     {
       "album": {
@@ -57,7 +59,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229720,
       "name": "Abro Mis Brazos",
       "url": "https://open.spotify.com/track/5nkdEfOSuBaHmSeDCPgw5e"
@@ -501,7 +503,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 287493,
       "name": "El Deseado",
       "url": "https://open.spotify.com/track/44OMyCQXFDR9xUap4KjQrx"
@@ -833,7 +835,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 323693,
       "name": "Gracias Se\u00f1or",
       "url": "https://open.spotify.com/track/6fVAVie4PzmKAoMAZBGtz1"
@@ -876,6 +878,24 @@
     },
     {
       "album": {
+        "name": "He Visto Su Gloria",
+        "url": "https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6"
+      },
+      "artists": [
+        {
+          "name": "Tony P\u00e9rez",
+          "url": "https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401253,
+      "name": "He Visto Su Gloria",
+      "url": "https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz"
+    },
+    {
+      "album": {
         "name": "Jes\u00fas Salva",
         "url": "https://open.spotify.com/album/40uXjgQEurDWfvxlKE85cX"
       },
@@ -891,7 +911,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 335560,
       "name": "Hermoso (feat. Coalo Zamorano)",
       "url": "https://open.spotify.com/track/0XZHCkROGGQ2Ig30ApKVLP"
@@ -931,6 +951,24 @@
       "duration_ms": 245893,
       "name": "Iglesia",
       "url": "https://open.spotify.com/track/4Po4C0odXzBWN3z5F9qiBa"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu"
+      },
+      "artists": [
+        {
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
+        }
+      ],
+      "date_added": "2020-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136960,
+      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
+      "url": "https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC"
     },
     {
       "album": {
@@ -1227,7 +1265,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 252440,
       "name": "Mi Pastor",
       "url": "https://open.spotify.com/track/0MIYKvXKwR7FuMBoQYgZoi"
@@ -1375,7 +1413,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 371013,
       "name": "Padre Nuestro",
       "url": "https://open.spotify.com/track/3Askzcj7HSPFNv5T32Vh3E"
@@ -1737,7 +1775,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 447320,
       "name": "Tengo Sed De Ti",
       "url": "https://open.spotify.com/track/40cVQj7FN9WmRCcNGcetZn"
@@ -1885,7 +1923,7 @@
       ],
       "date_added": "2020-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 238413,
       "name": "Vivir\u00e9 (feat. Evan Craft)",
       "url": "https://open.spotify.com/track/0Ft7B7xB781P2lrdGIVaHo"

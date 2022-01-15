@@ -1,15 +1,31 @@
 {
   "description": "Let this smooth mix carry you home in style.",
   "name": "Evening Commute",
-  "num_followers": 472239,
+  "num_followers": 472207,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEyMTAwMSwwMDAwMDAwMDM3ZWI4OTE3ZDYwNzM5ZmYwMTVjNGMxZTQ2MjEwNjQ0",
+  "snapshot_id": "MTY0MjIwNzM2MywwMDAwMDAwMDE1MWQ3NzY3MTE5Y2EyMDMyMDk5NDI3MDZmZjExZTE0",
   "tracks": [
     {
       "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "added_at": "2021-10-26 16:30:02",
       "album": {
         "name": "State of the Heart",
         "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
@@ -20,9 +36,41 @@
           "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 215903,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/5yR5ydZdVoSXBh6Dy4JhAS"
+      "duration_ms": 165523,
+      "name": "On Your Way Home",
+      "url": "https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 244200,
+      "name": "All I Want Is to Be With You",
+      "url": "https://open.spotify.com/track/0wcEUeOslMI8dPB7QjUMiW"
+    },
+    {
+      "added_at": "2021-10-26 16:30:02",
+      "album": {
+        "name": "the author",
+        "url": "https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "the author",
+      "url": "https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -43,18 +91,18 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+        "name": "Love? Songs",
+        "url": "https://open.spotify.com/album/2TdZAtLwl4wurksd6oYRnt"
       },
       "artists": [
         {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+          "name": "Jordy Searcy",
+          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
         }
       ],
-      "duration_ms": 213933,
-      "name": "look up",
-      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+      "duration_ms": 189600,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/1wj2rMWn0jqMSFzwcUfKyE"
     },
     {
       "added_at": "2021-10-26 16:30:02",
@@ -91,66 +139,18 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 244200,
-      "name": "All I Want Is to Be With You",
-      "url": "https://open.spotify.com/track/0wcEUeOslMI8dPB7QjUMiW"
-    },
-    {
-      "added_at": "2021-10-26 16:30:02",
-      "album": {
-        "name": "State of the Heart",
-        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 165523,
-      "name": "On Your Way Home",
-      "url": "https://open.spotify.com/track/4sFhD0PjpNgV8M8yIzt7C2"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Ok Love You Bye",
-        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 198813,
-      "name": "Reason To Stay",
-      "url": "https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v"
-    },
-    {
-      "added_at": "2021-10-26 16:30:02",
-      "album": {
-        "name": "the author",
-        "url": "https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "the author",
-      "url": "https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s"
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/77wdEr25RcwuesF8ejXJhL"
     },
     {
       "added_at": "2021-10-26 16:30:02",
@@ -187,34 +187,18 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Love? Songs",
-        "url": "https://open.spotify.com/album/2TdZAtLwl4wurksd6oYRnt"
+        "name": "State of the Heart",
+        "url": "https://open.spotify.com/album/2kqqKq8hxUDp0i1n0GpsgX"
       },
       "artists": [
         {
-          "name": "Jordy Searcy",
-          "url": "https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
         }
       ],
-      "duration_ms": 189600,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/1wj2rMWn0jqMSFzwcUfKyE"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "in defense of my own happiness (complete)",
-        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/77wdEr25RcwuesF8ejXJhL"
+      "duration_ms": 215903,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/5yR5ydZdVoSXBh6Dy4JhAS"
     },
     {
       "added_at": "2021-10-26 16:30:02",
@@ -231,6 +215,54 @@
       "duration_ms": 199306,
       "name": "Things You Can't Change",
       "url": "https://open.spotify.com/track/1PyBjO06OZIPO67tMLlpha"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Ok Love You Bye",
+        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Reason To Stay",
+      "url": "https://open.spotify.com/track/56DxR1jHbX6xlGwZdUuN0v"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "The Dip Delivers",
+        "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Adeline",
+      "url": "https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt"
+    },
+    {
+      "added_at": "2021-10-26 16:30:02",
+      "album": {
+        "name": "Would You Still Want Me?",
+        "url": "https://open.spotify.com/album/7rrhgnY7LYTsILg1ryDubb"
+      },
+      "artists": [
+        {
+          "name": "Mokita",
+          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
+        }
+      ],
+      "duration_ms": 195989,
+      "name": "Would You Still Want Me?",
+      "url": "https://open.spotify.com/track/3EkdlLU5KrTTZKRA8fwWGX"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -281,58 +313,6 @@
       "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
     },
     {
-      "added_at": "2021-10-26 16:30:02",
-      "album": {
-        "name": "Would You Still Want Me?",
-        "url": "https://open.spotify.com/album/7rrhgnY7LYTsILg1ryDubb"
-      },
-      "artists": [
-        {
-          "name": "Mokita",
-          "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-        }
-      ],
-      "duration_ms": 195989,
-      "name": "Would You Still Want Me?",
-      "url": "https://open.spotify.com/track/3EkdlLU5KrTTZKRA8fwWGX"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 269209,
-      "name": "A Safe Place to Land (feat. John Legend)",
-      "url": "https://open.spotify.com/track/55fyE9Q754QhXpmcLtmmam"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "The Dip Delivers",
-        "url": "https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Adeline",
-      "url": "https://open.spotify.com/track/796IKFUy6xJKcJuV4loLrt"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "It'll Be Okay",
@@ -347,6 +327,38 @@
       "duration_ms": 222800,
       "name": "It'll Be Okay",
       "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fallingwater",
+      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Amidst the Chaos (Bonus Version)",
+        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 253395,
+      "name": "Orpheus",
+      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -369,68 +381,20 @@
       "url": "https://open.spotify.com/track/2iDu5rmcBZwd70LBGbKWUm"
     },
     {
-      "added_at": "2021-10-26 16:30:02",
-      "album": {
-        "name": "District Line EP",
-        "url": "https://open.spotify.com/album/6tBsQaqp6iittmjD9ALSPi"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 208954,
-      "name": "I Don't Wanna Know",
-      "url": "https://open.spotify.com/track/5r04VZJXvaRaLAc2pafWIk"
-    },
-    {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Storms",
-        "url": "https://open.spotify.com/album/2iUeeOtZyp0oDyvbESnnwT"
+        "name": "That Was Yesterday",
+        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
       },
       "artists": [
         {
-          "name": "Lady Wray",
-          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 176949,
-      "name": "Storms",
-      "url": "https://open.spotify.com/track/2SLUYFuTP916sEvAUDjdDx"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 253395,
-      "name": "Orpheus",
-      "url": "https://open.spotify.com/track/3sC62j1Cjeea5tAhcyGcs8"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fallingwater",
-      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
+      "duration_ms": 230013,
+      "name": "That Was Yesterday",
+      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -447,6 +411,58 @@
       "duration_ms": 204013,
       "name": "Break My Heart Right",
       "url": "https://open.spotify.com/track/6BP8sg44smNB3pbD4QAOzi"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Forever You and Me",
+        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 175592,
+      "name": "Forever You and Me",
+      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 310333,
+      "name": "Wishful Thinking",
+      "url": "https://open.spotify.com/track/6YlOkcBFXxwrRm2YrimOxt"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Amidst the Chaos (Bonus Version)",
+        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 269209,
+      "name": "A Safe Place to Land (feat. John Legend)",
+      "url": "https://open.spotify.com/track/55fyE9Q754QhXpmcLtmmam"
     },
     {
       "added_at": "2021-10-26 16:30:02",
@@ -467,18 +483,34 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Patrick Droney",
-        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
+        "name": "Storms",
+        "url": "https://open.spotify.com/album/2iUeeOtZyp0oDyvbESnnwT"
       },
       "artists": [
         {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+          "name": "Lady Wray",
+          "url": "https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy"
         }
       ],
-      "duration_ms": 270975,
-      "name": "Ruined",
-      "url": "https://open.spotify.com/track/6HJoraqoXpGj5Lr68FCZxX"
+      "duration_ms": 176949,
+      "name": "Storms",
+      "url": "https://open.spotify.com/track/2SLUYFuTP916sEvAUDjdDx"
+    },
+    {
+      "added_at": "2021-10-26 16:30:02",
+      "album": {
+        "name": "District Line EP",
+        "url": "https://open.spotify.com/album/6tBsQaqp6iittmjD9ALSPi"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 208954,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/5r04VZJXvaRaLAc2pafWIk"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -515,6 +547,22 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
+        "name": "Patrick Droney",
+        "url": "https://open.spotify.com/album/3tdnCuYNUXbWjeTEfFFZ31"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 270975,
+      "name": "Ruined",
+      "url": "https://open.spotify.com/track/6HJoraqoXpGj5Lr68FCZxX"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
         "name": "Oh My Messy Mind",
         "url": "https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d"
       },
@@ -531,18 +579,66 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Blue Bird",
-        "url": "https://open.spotify.com/album/0YWPi08zlzmD5YsS9atXC4"
+        "name": "All Rise (Deluxe)",
+        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
       },
       "artists": [
         {
-          "name": "Jasmine Cephas-Jones",
-          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 265589,
-      "name": "Little Bird",
-      "url": "https://open.spotify.com/track/2tgxtvUoSFvaiXeYBAyjFv"
+      "duration_ms": 363240,
+      "name": "Everything You Touch Is Gold",
+      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
+    },
+    {
+      "added_at": "2021-10-26 16:30:02",
+      "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211763,
+      "name": "Hold My Girl",
+      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
+      },
+      "artists": [
+        {
+          "name": "Shanice Green",
+          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+        }
+      ],
+      "duration_ms": 226131,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -559,6 +655,22 @@
       "duration_ms": 254176,
       "name": "Rain",
       "url": "https://open.spotify.com/track/5BIZDYG2RBRtp2Fprj8MyG"
+    },
+    {
+      "added_at": "2021-08-05 16:09:40",
+      "album": {
+        "name": "The Sound Experiment - EP",
+        "url": "https://open.spotify.com/album/2XtAaXbOyK67vRQbfS2bA4"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 194120,
+      "name": "Only Wanna Be with You - Unplugged",
+      "url": "https://open.spotify.com/track/6ppFSsCpKpOONCuw9hxM3p"
     },
     {
       "added_at": "2021-10-26 16:30:02",
@@ -581,54 +693,6 @@
       "url": "https://open.spotify.com/track/77MdvMx9L4ZQuLhhn3o21h"
     },
     {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "All Rise (Deluxe)",
-        "url": "https://open.spotify.com/album/5jQuMxOb3r5BPmSDke93hy"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 363240,
-      "name": "Everything You Touch Is Gold",
-      "url": "https://open.spotify.com/track/38eB2BbrR7PLK7zyQYgBDx"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "That Was Yesterday",
-        "url": "https://open.spotify.com/album/2GYGaipOwfLGveAF3ta6Iv"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "That Was Yesterday",
-      "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Amidst the Chaos (Bonus Version)",
-        "url": "https://open.spotify.com/album/5x2sDapUIdq0qk1ezff3gm"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 237388,
-      "name": "No Such Thing",
-      "url": "https://open.spotify.com/track/6UpCNcYmYBrkqbNQAR9U3H"
-    },
-    {
       "added_at": "2021-10-29 04:01:00",
       "album": {
         "name": "Bright Star",
@@ -647,50 +711,18 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+        "name": "Still Life - EP",
+        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
       },
       "artists": [
         {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
         }
       ],
-      "duration_ms": 310333,
-      "name": "Wishful Thinking",
-      "url": "https://open.spotify.com/track/6YlOkcBFXxwrRm2YrimOxt"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Forever You and Me",
-        "url": "https://open.spotify.com/album/1aUMtW3DvOoPetvGzgkuUW"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 175592,
-      "name": "Forever You and Me",
-      "url": "https://open.spotify.com/track/4GUaG3df9nbrj77GKEB76j"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "The Sound Experiment - EP",
-        "url": "https://open.spotify.com/album/2XtAaXbOyK67vRQbfS2bA4"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 194120,
-      "name": "Only Wanna Be with You - Unplugged",
-      "url": "https://open.spotify.com/track/6ppFSsCpKpOONCuw9hxM3p"
+      "duration_ms": 336290,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/3XtKluN0ce1EjiAax8HFw8"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -713,68 +745,36 @@
       "url": "https://open.spotify.com/track/37xK4q7b8llyGIaz5c0MDQ"
     },
     {
-      "added_at": "2021-10-26 16:30:02",
-      "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
-    },
-    {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/6x1MGYK2DX76UNJPfBh59J"
+        "name": "Blue Bird",
+        "url": "https://open.spotify.com/album/0YWPi08zlzmD5YsS9atXC4"
       },
       "artists": [
         {
-          "name": "Shanice Green",
-          "url": "https://open.spotify.com/artist/7GquAyY9t5rSmfy4maIGyb"
+          "name": "Jasmine Cephas-Jones",
+          "url": "https://open.spotify.com/artist/4H3e5t5utgPvj6Nsuda5QF"
         }
       ],
-      "duration_ms": 226131,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/3ETWwN2Fa8ihTN2LKpryV2"
+      "duration_ms": 265589,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/2tgxtvUoSFvaiXeYBAyjFv"
     },
     {
-      "added_at": "2021-08-05 16:09:40",
+      "added_at": "2021-08-05 16:16:37",
       "album": {
-        "name": "The Head and the Heart",
-        "url": "https://open.spotify.com/album/4sRUr5XaJYlc17t4jUrqYB"
+        "name": "Loved by You",
+        "url": "https://open.spotify.com/album/5LGyz3M8d6DagYhVCv2xzj"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Rivers and Roads",
-      "url": "https://open.spotify.com/track/20svOpmCQao5GUBgSu8zDe"
-    },
-    {
-      "added_at": "2021-08-05 16:09:40",
-      "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211763,
-      "name": "Hold My Girl",
-      "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+      "duration_ms": 256000,
+      "name": "Loved by You",
+      "url": "https://open.spotify.com/track/0Peh9vSnImMMTznniOJcsj"
     },
     {
       "added_at": "2021-08-05 16:09:40",
@@ -811,18 +811,18 @@
     {
       "added_at": "2021-08-05 16:09:40",
       "album": {
-        "name": "Still Life - EP",
-        "url": "https://open.spotify.com/album/4CYU714yxnEXFAgTRbvx1i"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 336290,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/3XtKluN0ce1EjiAax8HFw8"
+      "duration_ms": 195376,
+      "name": "Ride Out In The Country",
+      "url": "https://open.spotify.com/track/4FCIOhpTSqt1hjYDdLFScX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3bSdu6sAEDF"

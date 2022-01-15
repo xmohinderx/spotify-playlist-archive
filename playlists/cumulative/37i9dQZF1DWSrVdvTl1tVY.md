@@ -2,7 +2,7 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/40Y5kerBfiqY44aZeglX8x)
 
-> The biggest UK house bangers, let's go! Cover: TS7
+> The biggest house bangers popping off in the UK, let's go! Cover: TS7
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

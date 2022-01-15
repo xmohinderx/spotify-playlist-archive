@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The newest, freshest R&B tunes.  Cover: Alex Isley",
+  "description": "The newest, freshest R&B tunes.  Cover: Muni Long",
   "name": "New Jams",
   "published_playlist_ids": [
     "2y3HQxunEcE7pPAyHu4buJ"
@@ -193,7 +193,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 252449,
       "name": "Change Of Plans",
       "url": "https://open.spotify.com/track/2Fw6WaVEGVqi5aj1AIVuDE"
@@ -223,6 +223,24 @@
       "duration_ms": 209853,
       "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
+    },
+    {
+      "album": {
+        "name": "4Play",
+        "url": "https://open.spotify.com/album/5gCeVO8gppwKGpQ6t9t3rr"
+      },
+      "artists": [
+        {
+          "name": "Ant Clemons",
+          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154546,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/7xDWUhy7YerkQMFUGwwaOr"
     },
     {
       "album": {
@@ -321,7 +339,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 180437,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1xsCnWpqy3pqj1jC85SyLQ"
@@ -419,7 +437,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 156121,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
@@ -539,6 +557,24 @@
       "duration_ms": 190920,
       "name": "I Just Wanna Know",
       "url": "https://open.spotify.com/track/0EnSlazIrg3sp5T6RXw4iM"
+    },
+    {
+      "album": {
+        "name": "Iffy",
+        "url": "https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173549,
+      "name": "Iffy",
+      "url": "https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5"
     },
     {
       "album": {
@@ -913,6 +949,28 @@
       "duration_ms": 173968,
       "name": "Softly",
       "url": "https://open.spotify.com/track/36Cs04fKrfupan7JZPBCYS"
+    },
+    {
+      "album": {
+        "name": "Softly (feat. Popcaan) [Remix]",
+        "url": "https://open.spotify.com/album/5YzHV90YCaJSXyQi9I7n1X"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173968,
+      "name": "Softly (feat. Popcaan) - Remix",
+      "url": "https://open.spotify.com/track/2DPNzd02j1SwHnz7a6YiYx"
     },
     {
       "album": {

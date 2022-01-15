@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Feefa",
   "name": "Our Wave, Nuestro Hip-Hop",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1zMXtcZg2CxRNKT4ViRg0A"
+  ],
   "tracks": [
     {
       "album": {
@@ -64,6 +66,24 @@
     },
     {
       "album": {
+        "name": "Armor",
+        "url": "https://open.spotify.com/album/7GoCtg1jMEzqX8pWCgaoai"
+      },
+      "artists": [
+        {
+          "name": "Alexcis",
+          "url": "https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142343,
+      "name": "Armor",
+      "url": "https://open.spotify.com/track/2YtKT6Qpygja9AtKf5q0Ch"
+    },
+    {
+      "album": {
         "name": "BACK TO THE BAG",
         "url": "https://open.spotify.com/album/0Jgd4OepFYqWrCegjNVmhK"
       },
@@ -100,6 +120,32 @@
     },
     {
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I"
+      },
+      "artists": [
+        {
+          "name": "Chepo",
+          "url": "https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Peso Peso",
+          "url": "https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157703,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i"
+    },
+    {
+      "album": {
         "name": "Bin Threw",
         "url": "https://open.spotify.com/album/2kMi2xo8mthWEWC5Qdc7Kc"
       },
@@ -111,7 +157,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 152546,
       "name": "Bin Threw",
       "url": "https://open.spotify.com/track/73QUBGv20YsGagQumD60eR"
@@ -165,7 +211,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 147711,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/2tWnM7aAYTNNGMYm2FMUI4"
@@ -187,7 +233,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 180652,
       "name": "Boy George",
       "url": "https://open.spotify.com/track/4fgQ6iLebKXIkCJM90qg0F"
@@ -284,6 +330,40 @@
     },
     {
       "album": {
+        "name": "Doknow & Da Hawmies",
+        "url": "https://open.spotify.com/album/229gHcRkhCvyVRSLhHmN6H"
+      },
+      "artists": [
+        {
+          "name": "DoKnow",
+          "url": "https://open.spotify.com/artist/7MfHOPHdk1wyDTvpcHpcMv"
+        },
+        {
+          "name": "Jakarta $lim",
+          "url": "https://open.spotify.com/artist/3BCCUDxiZyk4oSfYb6n7TF"
+        },
+        {
+          "name": "Dener",
+          "url": "https://open.spotify.com/artist/0dOrzhYwaBzVlnwQv8pQG6"
+        },
+        {
+          "name": "Coyote",
+          "url": "https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD"
+        },
+        {
+          "name": "Yelo Hill",
+          "url": "https://open.spotify.com/artist/2vqneIo8FhrB6X4BDZTNaR"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/4XySjQqanD3bo8I0QDympZ"
+    },
+    {
+      "album": {
         "name": "Coke & Molly",
         "url": "https://open.spotify.com/album/4sgIhUypcPiDSeKOB2W3l0"
       },
@@ -339,7 +419,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 165250,
       "name": "Diamond Dance",
       "url": "https://open.spotify.com/track/5sivWhxKEPkVGfZiyrvdbQ"
@@ -397,7 +477,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 133246,
       "name": "En Mi Bolsa",
       "url": "https://open.spotify.com/track/3NOaaUZ6I63V1WvlAYdXN2"
@@ -507,7 +587,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 157751,
       "name": "Gang Business",
       "url": "https://open.spotify.com/track/3UoaNzTBPeS7kvohi0zzQK"
@@ -551,7 +631,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 163422,
       "name": "Grimey Park",
       "url": "https://open.spotify.com/track/00sbzNSByApQDGqCvoSLTi"
@@ -679,10 +759,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 200412,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/7qESH5YiT9LORJY5OHnJhU"
+    },
+    {
+      "album": {
+        "name": "LET THE LORD WORK!",
+        "url": "https://open.spotify.com/album/53mRUzznyYgkn9QY2l5kW6"
+      },
+      "artists": [
+        {
+          "name": "Bodega Bamz",
+          "url": "https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "LET THE LORD WORK!",
+      "url": "https://open.spotify.com/track/0AMR5LozZtPgl3KCHxEGec"
     },
     {
       "album": {
@@ -759,7 +857,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206117,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/7pu2Sezn97A9IHx6OhHr8y"
@@ -781,7 +879,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 225621,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/0FnhQbH04B0ggo5wDLrI3f"
@@ -803,6 +901,32 @@
       "duration_ms": 209224,
       "name": "Mama Slide",
       "url": "https://open.spotify.com/track/7IKykKPdhGtFpyO8YI14Ka"
+    },
+    {
+      "album": {
+        "name": "Mama Tried (feat. Stalker Loco & Lil Traieso)",
+        "url": "https://open.spotify.com/album/3Sa29iHHfd8sCf1kSNPkWE"
+      },
+      "artists": [
+        {
+          "name": "Lil Grifo",
+          "url": "https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk"
+        },
+        {
+          "name": "Stalker Loco",
+          "url": "https://open.spotify.com/artist/05vy1h2VRDdELI3LiUES1G"
+        },
+        {
+          "name": "Lil Traieso",
+          "url": "https://open.spotify.com/artist/0X6nd8GCWluXAFwoPPqjmq"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288648,
+      "name": "Mama Tried (feat. Stalker Loco & Lil Traieso)",
+      "url": "https://open.spotify.com/track/3orEJ1s4SVseJeF0QvtgME"
     },
     {
       "album": {
@@ -861,10 +985,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 121320,
       "name": "Move",
       "url": "https://open.spotify.com/track/6c3HU5YjF0BuQVPls6wuBT"
+    },
+    {
+      "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/6GO3MIsZ1wVdolVnTIEDX0"
+      },
+      "artists": [
+        {
+          "name": "Castro Escobar",
+          "url": "https://open.spotify.com/artist/7mWJ5mcnwVm6FD5vRbaMoq"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/7yMw74z3lX8HTpOl1V8HTV"
     },
     {
       "album": {
@@ -879,7 +1021,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 144243,
       "name": "Never Be Me",
       "url": "https://open.spotify.com/track/1jMYEJwx814JStBVEl4fQC"
@@ -905,7 +1047,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186911,
       "name": "No Cheap Hoes",
       "url": "https://open.spotify.com/track/6DGNzFioTQCQCU71rSJBqg"
@@ -923,7 +1065,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 154843,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/74AclpvR2pe9C8cHfxnltW"
@@ -1065,7 +1207,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 184647,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0SdrDwIz1ObhzY5202OrLn"
@@ -1145,7 +1287,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 184324,
       "name": "Sacrificio",
       "url": "https://open.spotify.com/track/7wuIuOUBuEkaulSm0vjjax"
@@ -1167,6 +1309,24 @@
       "duration_ms": 192941,
       "name": "Secret Service",
       "url": "https://open.spotify.com/track/3Ejd7TKYqanSVfTBDAFPxH"
+    },
+    {
+      "album": {
+        "name": "SHUTTUP",
+        "url": "https://open.spotify.com/album/3xYY0vRYERSiOYyddi1dmG"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187972,
+      "name": "SHUTTUP",
+      "url": "https://open.spotify.com/track/6mVHBnsUG0a2XJHLl5Wfh7"
     },
     {
       "album": {
@@ -1203,7 +1363,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 195761,
       "name": "Steady",
       "url": "https://open.spotify.com/track/7fAYijCSXR9jqljdhmXqBp"
@@ -1225,6 +1385,28 @@
       "duration_ms": 175072,
       "name": "Stormy Days",
       "url": "https://open.spotify.com/track/0hTrq08uVYReYd9hhe0kg5"
+    },
+    {
+      "album": {
+        "name": "Street Lights",
+        "url": "https://open.spotify.com/album/5yk2bnhCHcjabvdzX9yniP"
+      },
+      "artists": [
+        {
+          "name": "Young Drummer Boy",
+          "url": "https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng"
+        },
+        {
+          "name": "Lil Weirdo",
+          "url": "https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148453,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/5RahmeUyeqTi9qAIm6USea"
     },
     {
       "album": {
@@ -1444,6 +1626,28 @@
     },
     {
       "album": {
+        "name": "Vibe With You",
+        "url": "https://open.spotify.com/album/4UMbYK48tDwHhuP16lytva"
+      },
+      "artists": [
+        {
+          "name": "xBValentine",
+          "url": "https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu"
+        },
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170396,
+      "name": "Vibe With You",
+      "url": "https://open.spotify.com/track/2yJpF1KBHwumbdMsdXu5fe"
+    },
+    {
+      "album": {
         "name": "Wait a Minute",
         "url": "https://open.spotify.com/album/7FhdsaSae4V3Gs2xitqWWt"
       },
@@ -1535,7 +1739,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 107727,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/6AKeP4wcLsgKvDk2K4cSX6"
@@ -1571,7 +1775,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199629,
       "name": "Yung kazh- Cocaine",
       "url": "https://open.spotify.com/track/37EvhqS1TI4HrLdbGi1TKC"

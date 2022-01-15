@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "DEKKO tiene el ritmo que mueve Latinoam\u00e9rica.",
+  "description": "Don Omar tiene el ritmo que mueve Latinoam\u00e9rica.",
   "name": "El Ritmo",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "3K8lWo1A5PGXtJdAZf1WiQ"
+  ],
   "tracks": [
     {
       "album": {
@@ -101,7 +103,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 192493,
       "name": "Afuego",
       "url": "https://open.spotify.com/track/4IQlwF6oXJxa6eqAXkYudm"
@@ -187,7 +189,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
@@ -308,6 +310,32 @@
     },
     {
       "album": {
+        "name": "Buenos D\u00edas",
+        "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "album": {
         "name": "Cada Vez",
         "url": "https://open.spotify.com/album/31SngBc9PCn2qDix3g745R"
       },
@@ -327,7 +355,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 217021,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/3x7Xpx7MG91amARyT0wmZ3"
@@ -349,6 +377,24 @@
       "duration_ms": 161493,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/67ii9wXrKQpBjfKS3u1iw1"
+    },
+    {
+      "album": {
+        "name": "Casualidad",
+        "url": "https://open.spotify.com/album/7JQkTcXrPwzJDSP4ZDlP1V"
+      },
+      "artists": [
+        {
+          "name": "Jay Menez",
+          "url": "https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166916,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/6Nu5Ivo7ZrfKu7TtdGPbTr"
     },
     {
       "album": {
@@ -686,6 +732,66 @@
     },
     {
       "album": {
+        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
+    },
+    {
+      "album": {
+        "name": "Eres Para M\u00ed",
+        "url": "https://open.spotify.com/album/7JuFM0b8eP6FGTVvyQMfNP"
+      },
+      "artists": [
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "YESAN",
+          "url": "https://open.spotify.com/artist/7HBwf5iH17b2684DyxhjtN"
+        },
+        {
+          "name": "Percii",
+          "url": "https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Eres Para M\u00ed",
+      "url": "https://open.spotify.com/track/7ppEc3lFu3nudWCW5ypQGG"
+    },
+    {
+      "album": {
         "name": "Experimento",
         "url": "https://open.spotify.com/album/1KKwufGzWD4zIKqlBCtwWv"
       },
@@ -805,6 +911,28 @@
       "duration_ms": 213515,
       "name": "Flashed",
       "url": "https://open.spotify.com/track/7iPmi18b6Z1yy45aOaPHAK"
+    },
+    {
+      "album": {
+        "name": "Frenes\u00ed",
+        "url": "https://open.spotify.com/album/2zUwkxPz7DW73fYRKl97n9"
+      },
+      "artists": [
+        {
+          "name": "Byron Salas",
+          "url": "https://open.spotify.com/artist/70YTbHC7IlTl4EId7bDv2v"
+        },
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "Frenes\u00ed",
+      "url": "https://open.spotify.com/track/1KqpVKfZY3YvWndnx976s8"
     },
     {
       "album": {
@@ -959,7 +1087,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193237,
       "name": "Llorando en un Ferrari",
       "url": "https://open.spotify.com/track/0x4Kmsd1YLB9emO8thJ62U"
@@ -995,7 +1123,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 151361,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/1ZJG3aUT5sGmsita5dy7uQ"
@@ -1398,6 +1526,28 @@
     },
     {
       "album": {
+        "name": "No Puede Ser (with Eladio Carrion)",
+        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "No Puede Ser - with Eladio Carrion",
+      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+    },
+    {
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -1680,6 +1830,32 @@
     },
     {
       "album": {
+        "name": "Regres\u00e9",
+        "url": "https://open.spotify.com/album/1IvX6AN3z7OH8iXKRw3rXw"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195506,
+      "name": "Regres\u00e9",
+      "url": "https://open.spotify.com/track/7mftg8God1V8NdHIukbGgx"
+    },
+    {
+      "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH"
       },
@@ -1779,7 +1955,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 172142,
       "name": "Se Te Cay\u00f3",
       "url": "https://open.spotify.com/track/2eyaovnTryBlxQZrQ2TDMx"
@@ -1844,6 +2020,24 @@
     },
     {
       "album": {
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/3PWxaw7J5pSfAm62tU1LLd"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218391,
+      "name": "Sincero",
+      "url": "https://open.spotify.com/track/133TJ3am9C4woxFTVJ9wVp"
+    },
+    {
+      "album": {
         "name": "Solo Remix (with Rauw Alejandro & Nio Garcia feat. Amenazzy)",
         "url": "https://open.spotify.com/album/4NYdjt6mBY2qVUNpWyVwqE"
       },
@@ -1867,7 +2061,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 268404,
       "name": "Solo Remix (with Rauw Alejandro & Nio Garcia feat. Amenazzy)",
       "url": "https://open.spotify.com/track/3e4Mu36CwPanrSK0Il5uJj"
@@ -1993,7 +2187,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 281853,
       "name": "Te Va Bien (with Arcangel & Becky G feat. Darell)",
       "url": "https://open.spotify.com/track/7G1o084VGIPA5TAbUSgADQ"
@@ -2037,6 +2231,24 @@
       "duration_ms": 218969,
       "name": "Toa la Vida",
       "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
+    },
+    {
+      "album": {
+        "name": "Temporada de Reggaet\u00f3n",
+        "url": "https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146815,
+      "name": "TOP 5",
+      "url": "https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx"
     },
     {
       "album": {
@@ -2267,7 +2479,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 179377,
       "name": "\u00faltimo y primero",
       "url": "https://open.spotify.com/track/0XyuO6aau0efsDTTx4aviN"

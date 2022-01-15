@@ -37,7 +37,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 167818,
       "name": "a million pieces",
       "url": "https://open.spotify.com/track/0d3tToV7ij5cyyuhgH7i9d"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204000,
       "name": "Again",
       "url": "https://open.spotify.com/track/3TgQIP81Ha5lyDOLWemQ78"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 256881,
       "name": "Ain't Got No Money",
       "url": "https://open.spotify.com/track/3F8xarcB4wgIwEWTGSzBGr"
@@ -675,7 +675,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200515,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3w4yYltBa2EX03Z8BhUcf7"
@@ -943,7 +943,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210693,
       "name": "Faded",
       "url": "https://open.spotify.com/track/3FMyC1ElB2UcLMBZQ4EKLJ"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207989,
       "name": "Going Straight Crazy (feat. Princess Shaw)",
       "url": "https://open.spotify.com/track/3W1p5WQYuH0MGIKEydV5Xb"
@@ -1227,6 +1227,24 @@
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
+    },
+    {
+      "album": {
+        "name": "Good Mood",
+        "url": "https://open.spotify.com/album/4VPjKOf9J7LcqMv1gmp8GL"
+      },
+      "artists": [
+        {
+          "name": "Lady Bri",
+          "url": "https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183673,
+      "name": "Good Mood",
+      "url": "https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB"
     },
     {
       "album": {
@@ -1619,7 +1637,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 257020,
       "name": "Lights",
       "url": "https://open.spotify.com/track/0KEnFRGX87MPrH0FOAAkmw"
@@ -1890,6 +1908,28 @@
     },
     {
       "album": {
+        "name": "No News No Blues feat. Sunset Rollercoaster",
+        "url": "https://open.spotify.com/album/1KIeBsHpINXrAEUWKtli8E"
+      },
+      "artists": [
+        {
+          "name": "Paul Cherry",
+          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
+        },
+        {
+          "name": "Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "No News No Blues feat. Sunset Rollercoaster",
+      "url": "https://open.spotify.com/track/7bxogppnXd6dJB2rSCjegk"
+    },
+    {
+      "album": {
         "name": "Noa Noa",
         "url": "https://open.spotify.com/album/6j5P4RVziXXAql965dFXCp"
       },
@@ -2077,7 +2117,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 241799,
       "name": "Overthinking",
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
@@ -2153,10 +2193,28 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 233394,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/35n9OXJ7r0kV9yzy1nacu9"
+    },
+    {
+      "album": {
+        "name": "Pink Bandana",
+        "url": "https://open.spotify.com/album/2A9gaKJbzBVM7rk4T2ObLE"
+      },
+      "artists": [
+        {
+          "name": "MACY",
+          "url": "https://open.spotify.com/artist/1yfEXhEdfxucShJs6NXXc9"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179512,
+      "name": "Pink Bandana",
+      "url": "https://open.spotify.com/track/3yF7w6CMw65t3T9FRFULMY"
     },
     {
       "album": {
@@ -2215,7 +2273,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 236564,
       "name": "Pocono Bay",
       "url": "https://open.spotify.com/track/6fRadAe1s2Znk4iPBKgQxv"
@@ -2539,7 +2597,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 203316,
       "name": "Smile",
       "url": "https://open.spotify.com/track/3OZ812Wywu349zAw9zaYKh"
@@ -2801,7 +2859,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 196722,
       "name": "Switch",
       "url": "https://open.spotify.com/track/3xrjxWfJ0oZ7GPcPIYmmkP"
@@ -2881,7 +2939,7 @@
       ],
       "date_added": "2021-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 115954,
       "name": "Thank You Master (For My Soul)",
       "url": "https://open.spotify.com/track/6xaAoSvOozsjDHTMWhYtAx"
@@ -2917,7 +2975,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 152066,
       "name": "The Two of Us",
       "url": "https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc"
@@ -2979,7 +3037,7 @@
       ],
       "date_added": "2021-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 182068,
       "name": "This Moment",
       "url": "https://open.spotify.com/track/5N2HumJKAELVA5fCzvKL0Q"
@@ -3077,7 +3135,7 @@
       ],
       "date_added": "2020-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 171232,
       "name": "trouble",
       "url": "https://open.spotify.com/track/5LUu6thRvPXR0td03OZzgD"
@@ -3369,7 +3427,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 185716,
       "name": "You",
       "url": "https://open.spotify.com/track/6efuh9QMx0T6dwmZBC1Hez"

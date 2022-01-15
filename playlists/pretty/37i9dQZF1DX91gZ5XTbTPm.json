@@ -1,28 +1,36 @@
 {
   "description": "The Midwest is always on time. Cover: Chief Keef",
   "name": "CST",
-  "num_followers": 74112,
+  "num_followers": 74169,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTU4OTU0OSwwMDAwMDNkMDAwMDAwMTdlMzY1Y2E4NjYwMDAwMDE3ZTM2NWFmMzU3",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDNkMTAwMDAwMTdlNTZmNGYxN2IwMDAwMDE3ZTM2NWFmMzU3",
   "tracks": [
     {
-      "added_at": "2021-12-03 05:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Hall of Fame 2.0",
-        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
+        "name": "Dancing With The Devil",
+        "url": "https://open.spotify.com/album/3GQZZxIdXi7ZLr63tdhDxM"
       },
       "artists": [
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Landstrip Chip",
+          "url": "https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 172394,
-      "name": "Young N Dumb",
-      "url": "https://open.spotify.com/track/4dZTNKRngStyYNueXCO2FR"
+      "duration_ms": 169717,
+      "name": "Dancing With The Devil",
+      "url": "https://open.spotify.com/track/1siBeqPJIFu48T8ZihxeuN"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -121,20 +129,40 @@
       "url": "https://open.spotify.com/track/5R4Yrc2j4jw1itr4hKcN26"
     },
     {
-      "added_at": "2022-01-07 21:05:49",
+      "added_at": "2021-12-03 05:00:00",
       "album": {
-        "name": "Long Time Comin",
-        "url": "https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M"
+        "name": "Hall of Fame 2.0",
+        "url": "https://open.spotify.com/album/2rLqUcipEjIKK9rma5OTN8"
       },
       "artists": [
         {
-          "name": "Baby Money",
-          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Long Time Comin",
-      "url": "https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a"
+      "duration_ms": 172394,
+      "name": "Young N Dumb",
+      "url": "https://open.spotify.com/track/4dZTNKRngStyYNueXCO2FR"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Area 51 (Remix)",
+        "url": "https://open.spotify.com/album/0Lkn98cNVQJumP1a0VsaX1"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Area 51 (Remix)",
+      "url": "https://open.spotify.com/track/6hxpwRJr4mfxVeH02F99LF"
     },
     {
       "added_at": "2021-12-03 05:00:00",
@@ -209,24 +237,24 @@
       "url": "https://open.spotify.com/track/0v36cov6Z6aEV5ZgIlqZMk"
     },
     {
-      "added_at": "2021-11-19 05:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Black Illuminati (feat. Jadakiss)",
-        "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
+        "name": "Come My Way (feat. Krayzie Bone)",
+        "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
         },
         {
-          "name": "Jadakiss",
-          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
         }
       ],
-      "duration_ms": 229333,
-      "name": "Black Illuminati (feat. Jadakiss)",
-      "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
+      "duration_ms": 190653,
+      "name": "Come My Way (feat. Krayzie Bone)",
+      "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
     },
     {
       "added_at": "2021-12-18 22:23:36",
@@ -349,20 +377,20 @@
       "url": "https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ"
     },
     {
-      "added_at": "2021-12-18 22:23:36",
+      "added_at": "2022-01-07 21:05:49",
       "album": {
-        "name": "No Kure",
-        "url": "https://open.spotify.com/album/7BciByqTOwjVOxyfCq4W2O"
+        "name": "Long Time Comin",
+        "url": "https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M"
       },
       "artists": [
         {
-          "name": "whiterosemoxie",
-          "url": "https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV"
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
         }
       ],
-      "duration_ms": 179200,
-      "name": "No Kure",
-      "url": "https://open.spotify.com/track/7lptWvJDvjipxGWUm2nsfS"
+      "duration_ms": 160000,
+      "name": "Long Time Comin",
+      "url": "https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a"
     },
     {
       "added_at": "2021-11-19 19:41:35",
@@ -379,6 +407,26 @@
       "duration_ms": 138946,
       "name": "Stop That",
       "url": "https://open.spotify.com/track/74VD75tGYXIHyZR0CmKFWX"
+    },
+    {
+      "added_at": "2021-11-19 05:00:00",
+      "album": {
+        "name": "Black Illuminati (feat. Jadakiss)",
+        "url": "https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Black Illuminati (feat. Jadakiss)",
+      "url": "https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ"
     },
     {
       "added_at": "2021-10-29 04:00:00",
@@ -715,22 +763,6 @@
     {
       "added_at": "2021-10-29 04:00:00",
       "album": {
-        "name": "Elephant In The Room",
-        "url": "https://open.spotify.com/album/3prLqNXoNF7GI8SjxCJyBZ"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 189082,
-      "name": "Gucci Tried to Tell Me",
-      "url": "https://open.spotify.com/track/0IAuU49bpY24saPlYBoMDG"
-    },
-    {
-      "added_at": "2021-10-29 04:00:00",
-      "album": {
         "name": "Roll Up Hot",
         "url": "https://open.spotify.com/album/31zHc8s8GFGigIErHVRgVH"
       },
@@ -903,30 +935,6 @@
       "duration_ms": 111613,
       "name": "If It's War",
       "url": "https://open.spotify.com/track/3PP5CxbgT2IGuyivgFkgDk"
-    },
-    {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "313-414 (feat. Tee Grizzley)",
-        "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 149938,
-      "name": "313-414 (feat. Tee Grizzley)",
-      "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
     },
     {
       "added_at": "2021-09-17 04:01:00",

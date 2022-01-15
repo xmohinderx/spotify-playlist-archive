@@ -4306,6 +4306,24 @@
     },
     {
       "album": {
+        "name": "kdy\u017e jedeme v noci",
+        "url": "https://open.spotify.com/album/2yUjvGYVgeaZ13TUXBQLh6"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "kdy\u017e jedeme v noci",
+      "url": "https://open.spotify.com/track/4JNSOBrJxWv1aThEMM4zKL"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA"
       },
@@ -6157,6 +6175,24 @@
       "duration_ms": 224262,
       "name": "Nem\u00e1m Strach",
       "url": "https://open.spotify.com/track/0aJwgjOHTpyw0hw4nXl3Xd"
+    },
+    {
+      "album": {
+        "name": "NEROZUM\u00cd N\u00c1M (2soft)",
+        "url": "https://open.spotify.com/album/0WDu8bJq8qTHKKkT2PlZSY"
+      },
+      "artists": [
+        {
+          "name": "Yzomandias",
+          "url": "https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "NEROZUM\u00cd N\u00c1M (2soft)",
+      "url": "https://open.spotify.com/track/06vtZikCncMaWYbAPl1ORo"
     },
     {
       "album": {
@@ -8701,7 +8737,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 175800,
       "name": "ST\u00c1LE M\u00c1LO",
       "url": "https://open.spotify.com/track/6qSQTd2AUmsO9HP49EVc0Y"
@@ -11081,7 +11117,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 155374,
       "name": "\u010co Vie\u0161 O",
       "url": "https://open.spotify.com/track/3No5hUUXV2nDFdcd7dNS9x"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Nothing but the best modern country music. Cover: Maren Morris",
+  "description": "Nothing but the best modern country music. Cover: Thomas Rhett",
   "name": "All About Country",
   "published_playlist_ids": [
     "2VWEcpbjTChxEwyaD5k1kM"
@@ -77,6 +77,24 @@
       "duration_ms": 177026,
       "name": "Always Gonna Love You",
       "url": "https://open.spotify.com/track/5wTt43UbS3HmDvzAJ7Yax3"
+    },
+    {
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
     },
     {
       "album": {
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 221813,
       "name": "Have A Little Faith In Me",
       "url": "https://open.spotify.com/track/0Xb4liHMsXRr3z1BUj1AhJ"
@@ -981,10 +999,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 179173,
       "name": "Learn From It",
       "url": "https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE"
+    },
+    {
+      "album": {
+        "name": "Didn't Go Too Far",
+        "url": "https://open.spotify.com/album/1NfLMs1PDvwnnKR3ms4cvj"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179506,
+      "name": "Learn From It",
+      "url": "https://open.spotify.com/track/4mWmGRifrQqHwZkaZyjs68"
     },
     {
       "album": {
@@ -1039,7 +1075,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 173131,
       "name": "Love Talking",
       "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
@@ -1079,6 +1115,24 @@
       "duration_ms": 238400,
       "name": "Made For You",
       "url": "https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ"
+    },
+    {
+      "album": {
+        "name": "Makes You Pretty",
+        "url": "https://open.spotify.com/album/2uLBmtWsVmZrImwGMwf1bV"
+      },
+      "artists": [
+        {
+          "name": "Karli June",
+          "url": "https://open.spotify.com/artist/4gl24Om08DKLCr0Z6bKatR"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169566,
+      "name": "Makes You Pretty",
+      "url": "https://open.spotify.com/track/7qzFb2YNCtG79TChMU9sS0"
     },
     {
       "album": {
@@ -1187,7 +1241,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186300,
       "name": "My Poor Mama",
       "url": "https://open.spotify.com/track/4Q3BRVk8Yn3iR3PI42siD2"
@@ -1307,7 +1361,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 172894,
       "name": "Nobody's More Country",
       "url": "https://open.spotify.com/track/5ebwYSZVFG6VJOE0mWs71o"
@@ -1405,7 +1459,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 169440,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/7xNYZeFtrB05pi9tc6lEeb"
@@ -1427,6 +1481,24 @@
       "duration_ms": 168447,
       "name": "Pickup",
       "url": "https://open.spotify.com/track/2kEhQe0BVtY8IIaFE5ALA0"
+    },
+    {
+      "album": {
+        "name": "Pretend You're Mine",
+        "url": "https://open.spotify.com/album/4pFn2K2egZI5x7JwW5CwJJ"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228440,
+      "name": "Pretend You're Mine",
+      "url": "https://open.spotify.com/track/1SIjcbQmWZTcG0yIjz87yA"
     },
     {
       "album": {
@@ -1897,10 +1969,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 217155,
       "name": "Villain in Me",
       "url": "https://open.spotify.com/track/7k4HVWYcyrsdv3IiIqozat"
+    },
+    {
+      "album": {
+        "name": "Want That Back",
+        "url": "https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "Want That Back",
+      "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
     },
     {
       "album": {
@@ -1940,6 +2030,24 @@
     },
     {
       "album": {
+        "name": "What Was I Drinking",
+        "url": "https://open.spotify.com/album/6kYGLfvbmgWqOV2spNzb09"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "What Was I Drinking",
+      "url": "https://open.spotify.com/track/05XhhXmBu1aUPNFLlTZ9XJ"
+    },
+    {
+      "album": {
         "name": "Whatever It Takes",
         "url": "https://open.spotify.com/album/5LvTjV7ndC8F1xZVBPKDd9"
       },
@@ -1955,6 +2063,24 @@
       "duration_ms": 169240,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/40saym889VuEyqhGcRqIGk"
+    },
+    {
+      "album": {
+        "name": "When's It Gonna Happen",
+        "url": "https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217647,
+      "name": "When's It Gonna Happen",
+      "url": "https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5"
     },
     {
       "album": {

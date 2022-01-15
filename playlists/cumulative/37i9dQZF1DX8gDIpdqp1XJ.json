@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 215968,
       "name": "Airwalkin'",
       "url": "https://open.spotify.com/track/3GuI8cLpgy6CxZk72a1Jyo"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 177326,
       "name": "Attention",
       "url": "https://open.spotify.com/track/2U76RhZDZjih41gBygnces"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 366957,
       "name": "Back to the Stars",
       "url": "https://open.spotify.com/track/2LDOwhmnzox4rW3uTVRXde"
@@ -417,7 +417,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
@@ -453,7 +453,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 284266,
       "name": "Cabin Fever Freestyle",
       "url": "https://open.spotify.com/track/3WV1GjGYzUCodUftArXMln"
@@ -843,7 +843,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 234648,
       "name": "D.M.T.",
       "url": "https://open.spotify.com/track/7kausMmJLNEieRLe2WLn84"
@@ -897,7 +897,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 287498,
       "name": "Dark Love",
       "url": "https://open.spotify.com/track/1x3GXa11yafQ9BFGmOlI2S"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 212038,
       "name": "Days Like These",
       "url": "https://open.spotify.com/track/2exuDqNVfSYuPEBAmogFeY"
@@ -1142,6 +1142,24 @@
     },
     {
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5WasPewzfe8OJmGk93ezBK"
+      },
+      "artists": [
+        {
+          "name": "Gringo Star",
+          "url": "https://open.spotify.com/artist/09CQngaijJk9iSalfKfrIW"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222201,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/7n2LE79lG0ffnBaz1FafUT"
+    },
+    {
+      "album": {
         "name": "Echo Park",
         "url": "https://open.spotify.com/album/1NiFRjtKzHtLTX2yOGZ5Xm"
       },
@@ -1265,7 +1283,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 338398,
       "name": "Eternal Shore",
       "url": "https://open.spotify.com/track/6KfYiT0RB9K0Ou2bBLLJ8R"
@@ -1283,7 +1301,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 254973,
       "name": "Everyone Acts Crazy Nowadays",
       "url": "https://open.spotify.com/track/6VPvz8SZWRFEoawyUTvQTt"
@@ -1301,7 +1319,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 275925,
       "name": "everything's worth it",
       "url": "https://open.spotify.com/track/68IEDuJMZlaPaDVqhwcARF"
@@ -1337,7 +1355,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/42ud39t8ONOZvb8DJLKvB3"
@@ -1373,7 +1391,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 174363,
       "name": "Fever",
       "url": "https://open.spotify.com/track/58gYZpNEBSJUajiS7zDg0O"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 216392,
       "name": "Gonna Lose Your Mind",
       "url": "https://open.spotify.com/track/4ALrc2WboQebImWGMtNVrw"
@@ -1781,7 +1799,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 207453,
       "name": "Hymn for a Droid",
       "url": "https://open.spotify.com/track/2g6omnWeUrPnE0ZWSbWVtk"
@@ -1897,7 +1915,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 237200,
       "name": "I'll Be Here A While",
       "url": "https://open.spotify.com/track/3XKGFDN39V5rTxSqUkgIC2"
@@ -2117,7 +2135,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 243010,
       "name": "JUPITER",
       "url": "https://open.spotify.com/track/4HYbh7QILX2QbeWVgB49Oa"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 218275,
       "name": "Kids in the Sky",
       "url": "https://open.spotify.com/track/0h2WwCbmMoNPKtcxo0WSnq"
@@ -2337,7 +2355,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 190156,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/3JoH9gQU8L9k0iJIyKODlT"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204688,
       "name": "magic wand",
       "url": "https://open.spotify.com/track/2Ba2Jkam0Fe49fdIwUdmKz"
@@ -2503,7 +2521,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 175008,
       "name": "Meet You in the Dark",
       "url": "https://open.spotify.com/track/5QOmCG8ujCRA7lgDOFJXv6"
@@ -2705,7 +2723,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 200110,
       "name": "New Humanity",
       "url": "https://open.spotify.com/track/5lmEI9GHMB8hGiT54noxM0"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 254871,
       "name": "Nuestra Victoria",
       "url": "https://open.spotify.com/track/3ZRYcxElGx6Yjdj6uzqwYW"
@@ -2965,7 +2983,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 196549,
       "name": "Ooh Baby Baby",
       "url": "https://open.spotify.com/track/3onKgZwFjumXyLfkjUWKxC"
@@ -2983,7 +3001,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 221867,
       "name": "Orchids",
       "url": "https://open.spotify.com/track/2sNXTDqV0aeXXDRrmJ44Id"
@@ -3149,7 +3167,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 183880,
       "name": "Pay Your Way In Pain",
       "url": "https://open.spotify.com/track/0kiuMdZ9G8X9Odc8oifwX9"
@@ -3239,7 +3257,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 191630,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/6tBhtdAEIGEacpqUZTk72s"
@@ -3387,7 +3405,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 280602,
       "name": "Sakla Beni",
       "url": "https://open.spotify.com/track/29iikcw9YrjhYEmfLgBTHF"
@@ -3423,7 +3441,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 317506,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/2XhDgAUM1rS7vjsfxZuVOy"
@@ -3585,7 +3603,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 190680,
       "name": "Shelter Song",
       "url": "https://open.spotify.com/track/35cLqDLNb6mN7NhBEhqYhZ"
@@ -3693,7 +3711,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 242891,
       "name": "Soho",
       "url": "https://open.spotify.com/track/0F8pXTREcgEAD31Y1xrJ4T"
@@ -3765,7 +3783,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 397813,
       "name": "Space Camel",
       "url": "https://open.spotify.com/track/432hUaMgylN4s4aqwn9KY5"
@@ -3899,7 +3917,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199973,
       "name": "Sunder",
       "url": "https://open.spotify.com/track/40fJLwKFxTruHgLUkFH0DU"
@@ -4047,7 +4065,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 244000,
       "name": "The Clouds Cleared the Way",
       "url": "https://open.spotify.com/track/5Pdsyk2NuTJ56mE97DmxmN"
@@ -4065,7 +4083,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 253466,
       "name": "The Conservation of Energy",
       "url": "https://open.spotify.com/track/3ItCDZEok1K8DtZi51CWYr"
@@ -4217,6 +4235,24 @@
       "duration_ms": 274129,
       "name": "Thin Air",
       "url": "https://open.spotify.com/track/4EoD0jXg1tOgJi8XIi5cNC"
+    },
+    {
+      "album": {
+        "name": "This Kind of Love",
+        "url": "https://open.spotify.com/album/1N12Njy9L9rYIgdcWI3pmC"
+      },
+      "artists": [
+        {
+          "name": "Peter The Human Boy",
+          "url": "https://open.spotify.com/artist/45nVGQ6yYctA4eKMTj5YPw"
+        }
+      ],
+      "date_added": "2021-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203846,
+      "name": "This Kind of Love",
+      "url": "https://open.spotify.com/track/1fGhrU1TTRIq8fHJSJOlwP"
     },
     {
       "album": {
@@ -4375,7 +4411,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 119743,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/7c3o20IFicfq6xzf2BMfrx"
@@ -4577,7 +4613,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 184427,
       "name": "Where's My Brain??? - Edit",
       "url": "https://open.spotify.com/track/0R7LzENY9otO7K852NRmJN"
@@ -4733,7 +4769,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 203326,
       "name": "Yesterday Will Come",
       "url": "https://open.spotify.com/track/1mHHWXTO9MH6MAhWP3affu"

@@ -1,13 +1,57 @@
 {
-  "description": "Strictly for the streets. Cover: Kodak Black",
+  "description": "Strictly for the streets. Cover: Nardo Wick",
   "name": "Out The Mud",
-  "num_followers": 1024599,
+  "num_followers": 1025091,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMyMjAwMCwwMDAwMDRmMDAwMDAwMTdkZWFjZjY1MzgwMDAwMDE3ZDdkMGFkZTM4",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDRmMTAwMDAwMTdlNTZmNGYxNzcwMDAwMDE3ZTMwYzA2OWE4",
   "tracks": [
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Too Hot (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 216357,
+      "name": "Too Hot (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 136266,
+      "name": "pushin P (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv"
+    },
     {
       "added_at": "2021-11-18 01:10:27",
       "album": {
@@ -25,68 +69,24 @@
       "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
     },
     {
-      "added_at": "2021-12-18 22:22:04",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "LIVE LIFE FAST",
-        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+        "name": "Million Dollars Worth of Game (feat. 42 Dugg)",
+        "url": "https://open.spotify.com/album/0eIUsIe0Bo1gH7gld8lFbg"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
         }
       ],
-      "duration_ms": 213453,
-      "name": "don\u2019t i (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
-    },
-    {
-      "added_at": "2021-09-03 06:27:55",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
-    },
-    {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 173477,
-      "name": "Dead Wrong (feat. Future)",
-      "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
+      "duration_ms": 159840,
+      "name": "Million Dollars Worth of Game (feat. 42 Dugg)",
+      "url": "https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL"
     },
     {
       "added_at": "2021-12-17 05:00:00",
@@ -113,6 +113,54 @@
       "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
     },
     {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "M&M (with Future feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/1qY5LCrtZDIsh6A86N2Yo2"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 192301,
+      "name": "M&M (with Future feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi"
+    },
+    {
+      "added_at": "2021-09-03 06:27:55",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
       "added_at": "2021-11-29 18:16:06",
       "album": {
         "name": "Me or Sum (feat. Future & Lil Baby)",
@@ -135,30 +183,6 @@
       "duration_ms": 225664,
       "name": "Me or Sum (feat. Future & Lil Baby)",
       "url": "https://open.spotify.com/track/1qlh1WxuWilyIWRwdsKMuJ"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
-        "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
-        "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
-      "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -205,24 +229,80 @@
       "url": "https://open.spotify.com/track/3HKBz579v0gkyUkANPsNFT"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Back From The Dead",
-        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
+        "name": "Colors Teaser",
+        "url": "https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I"
       },
       "artists": [
         {
-          "name": "SpotemGottem",
-          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
-        },
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 162504,
-      "name": "On A Tee (feat. Icewear Vezzo)",
-      "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
+      "duration_ms": 265185,
+      "name": "Bring The Hook",
+      "url": "https://open.spotify.com/track/1giI9yVIG71xY8lPwSDzWY"
+    },
+    {
+      "added_at": "2021-12-17 05:00:00",
+      "album": {
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173477,
+      "name": "Dead Wrong (feat. Future)",
+      "url": "https://open.spotify.com/track/42qt8hsy7l4UR5CsO5ZLfL"
+    },
+    {
+      "added_at": "2021-12-18 22:22:04",
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "don\u2019t i (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4t2HbYiaqvoPsbSrOB0LqS"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 185213,
+      "name": "mop (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/2ZGEjmwyeZ3rpEezkZwqOP"
     },
     {
       "added_at": "2021-09-24 04:01:00",
@@ -241,30 +321,6 @@
       "url": "https://open.spotify.com/track/1NE8EEo8xpxTLAYHJbmsrY"
     },
     {
-      "added_at": "2021-12-17 05:00:00",
-      "album": {
-        "name": "M&M (with Future feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/1qY5LCrtZDIsh6A86N2Yo2"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 192301,
-      "name": "M&M (with Future feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi"
-    },
-    {
       "added_at": "2021-11-19 05:01:00",
       "album": {
         "name": "Lamborghini Geeski",
@@ -279,6 +335,30 @@
       "duration_ms": 171349,
       "name": "Lamborghini Geeski",
       "url": "https://open.spotify.com/track/6zKn5ATZWR6XUeK53UoOKC"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
+        "url": "https://open.spotify.com/album/3n3upY527sb0W3bG6VQDxe"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "too easy (Remix) [feat. Future & Roddy Ricch]",
+      "url": "https://open.spotify.com/track/6DmhZu3SFOPOf4PkngL6TE"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -335,6 +415,22 @@
       "duration_ms": 204626,
       "name": "25 million",
       "url": "https://open.spotify.com/track/2lUDBd7JrgAMltcp6dcd7D"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Retail Therapy",
+        "url": "https://open.spotify.com/album/4w3zllIwPthZ7AfhpeZNOe"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 175096,
+      "name": "Retail Therapy",
+      "url": "https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -405,6 +501,22 @@
       "url": "https://open.spotify.com/track/2RekFRVuBcZmSnTtTuJuLM"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Dead Wrong",
+        "url": "https://open.spotify.com/album/2rMKt5fIxHNbD333uL9Yos"
+      },
+      "artists": [
+        {
+          "name": "Quando Rondo",
+          "url": "https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL"
+        }
+      ],
+      "duration_ms": 108391,
+      "name": "Dead Wrong",
+      "url": "https://open.spotify.com/track/24V53X2W3A9LKpC0UxpFEp"
+    },
+    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Rambo",
@@ -439,6 +551,26 @@
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Area 51 (Remix)",
+        "url": "https://open.spotify.com/album/0Lkn98cNVQJumP1a0VsaX1"
+      },
+      "artists": [
+        {
+          "name": "BigKayBeezy",
+          "url": "https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50"
+        },
+        {
+          "name": "Big Yavo",
+          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+        }
+      ],
+      "duration_ms": 152816,
+      "name": "Area 51 (Remix)",
+      "url": "https://open.spotify.com/track/6hxpwRJr4mfxVeH02F99LF"
     },
     {
       "added_at": "2021-11-05 04:00:00",
@@ -483,6 +615,50 @@
       "duration_ms": 210009,
       "name": "Ain't My Fault (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/30An28ovHzHONcqysPKIIs"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Gangsta Grillz: We Set the Trends",
+        "url": "https://open.spotify.com/album/1iIiRb8lGx4sWT6cBkwRes"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Ditta",
+          "url": "https://open.spotify.com/artist/6lw0FZVLsqX9J67YD4yuQ8"
+        }
+      ],
+      "duration_ms": 222870,
+      "name": "Crunk Muzik",
+      "url": "https://open.spotify.com/track/0am3GdTDO0aboRv8CHZfMi"
+    },
+    {
+      "added_at": "2021-12-10 05:00:00",
+      "album": {
+        "name": "Bounce Out",
+        "url": "https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d"
+      },
+      "artists": [
+        {
+          "name": "Kuttem Reese",
+          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+        }
+      ],
+      "duration_ms": 154046,
+      "name": "Bounce Out",
+      "url": "https://open.spotify.com/track/0sGZ7fSjf9FwXwUMBMlD1W"
     },
     {
       "added_at": "2021-11-12 05:00:00",
@@ -575,6 +751,26 @@
       "duration_ms": 178013,
       "name": "Jump Out (feat. Hotboy Wes)",
       "url": "https://open.spotify.com/track/3W4YwvwzqDqcnUrfF2sDfO"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Welcome To The Trap",
+        "url": "https://open.spotify.com/album/0YtTlvxkbtWjmtGA5trfXQ"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        }
+      ],
+      "duration_ms": 170876,
+      "name": "Trap Out Da Spot",
+      "url": "https://open.spotify.com/track/3Gghq6fyVejQyvgnIQXGWo"
     },
     {
       "added_at": "2021-11-19 05:01:00",
@@ -739,6 +935,22 @@
       "duration_ms": 150475,
       "name": "Not In The Mood (feat. Fivio Foreign & Kay Flock)",
       "url": "https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Long Time Comin",
+        "url": "https://open.spotify.com/album/1AwsbxmQLLaWcpV9p0861M"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Long Time Comin",
+      "url": "https://open.spotify.com/track/48ftvy55wQVtwnk1ijfZ5a"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -925,22 +1137,6 @@
       "url": "https://open.spotify.com/track/7241Ph5AKZlpCzORdWoBoq"
     },
     {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Harley Quinn",
-        "url": "https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Harley Quinn",
-      "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
-    },
-    {
       "added_at": "2021-10-29 05:05:33",
       "album": {
         "name": "Cartier Lens",
@@ -957,20 +1153,40 @@
       "url": "https://open.spotify.com/track/3JPSLsiQz9EaSvhQ6hitvF"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
+      "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Bounce Out",
-        "url": "https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d"
+        "name": "Back From The Dead",
+        "url": "https://open.spotify.com/album/7BmxrTOgZdoftbShOMeVVt"
       },
       "artists": [
         {
-          "name": "Kuttem Reese",
-          "url": "https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4"
+          "name": "SpotemGottem",
+          "url": "https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
         }
       ],
-      "duration_ms": 154046,
-      "name": "Bounce Out",
-      "url": "https://open.spotify.com/track/0sGZ7fSjf9FwXwUMBMlD1W"
+      "duration_ms": 162504,
+      "name": "On A Tee (feat. Icewear Vezzo)",
+      "url": "https://open.spotify.com/track/4LL7QIFRd2k7qGnHZsoDe2"
+    },
+    {
+      "added_at": "2021-09-03 05:26:22",
+      "album": {
+        "name": "Harley Quinn",
+        "url": "https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Harley Quinn",
+      "url": "https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2"
     },
     {
       "added_at": "2021-09-03 06:27:55",
@@ -1489,50 +1705,6 @@
       "url": "https://open.spotify.com/track/0wtZkvnQhOdsDx99OMyFuI"
     },
     {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Free Dem Boyz (Deluxe)",
-        "url": "https://open.spotify.com/album/66nqCnC1huqh5gqkGeGIAS"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        }
-      ],
-      "duration_ms": 198878,
-      "name": "On My Son (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/0L8L3r7ajmPonf4jvm1elK"
-    },
-    {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "PAPER ROUTE iLLUMINATi",
-        "url": "https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY"
-      },
-      "artists": [
-        {
-          "name": "Paper Route EMPIRE",
-          "url": "https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "I Do This",
-      "url": "https://open.spotify.com/track/7gcF9zyTczyx9aXtHOMsWJ"
-    },
-    {
       "added_at": "2021-11-19 05:01:00",
       "album": {
         "name": "King Of The Trap 2",
@@ -1705,46 +1877,6 @@
       "url": "https://open.spotify.com/track/4ePl3G7iNT1uXTrtTppHHP"
     },
     {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Over The Top (feat. Drake)",
-        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
-      },
-      "artists": [
-        {
-          "name": "Smiley",
-          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "Over The Top (feat. Drake)",
-      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
-    },
-    {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Blood Sample",
-        "url": "https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3"
-      },
-      "artists": [
-        {
-          "name": "OMB Bloodbath",
-          "url": "https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3"
-        },
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 189325,
-      "name": "Not Gang (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0"
-    },
-    {
       "added_at": "2021-09-17 04:01:00",
       "album": {
         "name": "Stepping By My Lonely",
@@ -1761,70 +1893,6 @@
       "url": "https://open.spotify.com/track/3Qs13OjtoeQVxysqwgKi5r"
     },
     {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Down South (feat. Yella Beezy & Maxo Kream)",
-        "url": "https://open.spotify.com/album/6tQa2QPiwhUanjT2siooZ3"
-      },
-      "artists": [
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        },
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        },
-        {
-          "name": "Yella Beezy",
-          "url": "https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS"
-        }
-      ],
-      "duration_ms": 239202,
-      "name": "Down South (feat. Yella Beezy & Maxo Kream)",
-      "url": "https://open.spotify.com/track/3aG1fFJSAdUgpG519HDxla"
-    },
-    {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "TrapMania (feat. Gucci Mane & Cootie)",
-        "url": "https://open.spotify.com/album/6CvqKeNcZzGoQIlrXet714"
-      },
-      "artists": [
-        {
-          "name": "BiC Fizzle",
-          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Cootie",
-          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
-        }
-      ],
-      "duration_ms": 147732,
-      "name": "TrapMania (feat. Gucci Mane & Cootie)",
-      "url": "https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh"
-    },
-    {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Chamber Brothers",
-        "url": "https://open.spotify.com/album/6FFMtLaI0G3z2E7tyHGsFd"
-      },
-      "artists": [
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        }
-      ],
-      "duration_ms": 181330,
-      "name": "Chamber Brothers",
-      "url": "https://open.spotify.com/track/21FBoimp8CyKMYI5XcmNc2"
-    },
-    {
       "added_at": "2021-10-29 04:06:09",
       "album": {
         "name": "Fast",
@@ -1839,66 +1907,6 @@
       "duration_ms": 184864,
       "name": "Fast",
       "url": "https://open.spotify.com/track/0YUUGFPBC1iH7gOfRQY50m"
-    },
-    {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "Lurkin (feat. Polo G) (Remix)",
-        "url": "https://open.spotify.com/album/1aEluL4QV9hP3smy9LdHHx"
-      },
-      "artists": [
-        {
-          "name": "Funk Flex",
-          "url": "https://open.spotify.com/artist/34ABXKUj0gzq7R8vXjCaNj"
-        },
-        {
-          "name": "King Von",
-          "url": "https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 148607,
-      "name": "Lurkin (feat. Polo G) - Remix",
-      "url": "https://open.spotify.com/track/777evZve3OzCbGOVaVAGiU"
-    },
-    {
-      "added_at": "2021-09-24 04:01:00",
-      "album": {
-        "name": "Flip",
-        "url": "https://open.spotify.com/album/00u5422vYIX9Qwu2DliOzS"
-      },
-      "artists": [
-        {
-          "name": "Cootie",
-          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
-        }
-      ],
-      "duration_ms": 170958,
-      "name": "Flip",
-      "url": "https://open.spotify.com/track/4UaCxi9htAxjx9s7LPMHMt"
-    },
-    {
-      "added_at": "2021-09-03 05:26:22",
-      "album": {
-        "name": "On Go (feat. Polo G)",
-        "url": "https://open.spotify.com/album/5d1WnOlcSun3ghG0H3dV7z"
-      },
-      "artists": [
-        {
-          "name": "Sheff G",
-          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 180805,
-      "name": "On Go (feat. Polo G)",
-      "url": "https://open.spotify.com/track/3Ho13bRS28xEvGvgW4LOFM"
     },
     {
       "added_at": "2021-09-10 04:00:00",

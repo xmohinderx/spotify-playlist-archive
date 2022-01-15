@@ -1,29 +1,13 @@
 {
-  "description": "For those who like the newest songs loud. Very loud. Cover: Falling In Reverse",
+  "description": "For those who like the newest songs loud. Very loud. Cover: Skillet",
   "name": "Rock Hard",
-  "num_followers": 807497,
+  "num_followers": 807807,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDY5MzAwMDAwMTdlMzJlOTU3ODQwMDAwMDE3ZTMxNGJlOGU0",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDY5NDAwMDAwMTdlNTZmNGYxNmEwMDAwMDE3ZTU1MDIwOGVl",
   "tracks": [
-    {
-      "added_at": "2022-01-07 05:01:00",
-      "album": {
-        "name": "ZOMBIFIED",
-        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 218520,
-      "name": "ZOMBIFIED",
-      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
-    },
     {
       "added_at": "2021-12-03 05:02:00",
       "album": {
@@ -41,20 +25,52 @@
       "url": "https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53"
     },
     {
-      "added_at": "2021-09-10 04:01:00",
+      "added_at": "2021-09-17 04:01:00",
       "album": {
-        "name": "Kill The Noise",
-        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+        "name": "Surviving The Game",
+        "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
       },
       "artists": [
         {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 188127,
-      "name": "Kill The Noise",
-      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Won\u2019t Stand Down",
+        "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 209061,
+      "name": "Won\u2019t Stand Down",
+      "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
+    },
+    {
+      "added_at": "2022-01-07 05:01:00",
+      "album": {
+        "name": "ZOMBIFIED",
+        "url": "https://open.spotify.com/album/7nYa3AJUXbBrRLPXtneIEX"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "ZOMBIFIED",
+      "url": "https://open.spotify.com/track/2ib8fuTavdc48X6MjhE4Ft"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -71,6 +87,38 @@
       "duration_ms": 267899,
       "name": "Shotgun Blues",
       "url": "https://open.spotify.com/track/0L3TkNCKAwHCaYHxeYPuhp"
+    },
+    {
+      "added_at": "2021-11-26 05:00:00",
+      "album": {
+        "name": "Destructible",
+        "url": "https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        }
+      ],
+      "duration_ms": 171830,
+      "name": "Destructible",
+      "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+    },
+    {
+      "added_at": "2021-09-10 04:01:00",
+      "album": {
+        "name": "Kill The Noise",
+        "url": "https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 188127,
+      "name": "Kill The Noise",
+      "url": "https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -121,22 +169,6 @@
       "url": "https://open.spotify.com/track/47xrDjgTsXiSczuZENqUoH"
     },
     {
-      "added_at": "2021-08-20 14:24:52",
-      "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 228977,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
-    },
-    {
       "added_at": "2021-11-12 04:00:00",
       "album": {
         "name": "Start The Healing",
@@ -153,20 +185,36 @@
       "url": "https://open.spotify.com/track/42qa1IoXDeSt0zzWTOuwyG"
     },
     {
-      "added_at": "2021-11-26 05:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Destructible",
-        "url": "https://open.spotify.com/album/39n6Z4LYELVW2vaElXsgxH"
+        "name": "Voyeurist",
+        "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
       },
       "artists": [
         {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 171830,
-      "name": "Destructible",
-      "url": "https://open.spotify.com/track/73IXs3h1OUIecDOAoYvH15"
+      "duration_ms": 181066,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/2XCTvpziPXmSayzrzF9mJU"
+    },
+    {
+      "added_at": "2021-08-20 14:24:52",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 228977,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85"
     },
     {
       "added_at": "2021-10-25 21:46:39",
@@ -189,6 +237,22 @@
       "url": "https://open.spotify.com/track/2dWqxUeIO2kM45lHMLOz9J"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC"
+      },
+      "artists": [
+        {
+          "name": "Cyan Kicks",
+          "url": "https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry"
+        }
+      ],
+      "duration_ms": 180674,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"
+    },
+    {
       "added_at": "2022-01-07 05:01:00",
       "album": {
         "name": "Judged",
@@ -203,22 +267,6 @@
       "duration_ms": 99090,
       "name": "Judged",
       "url": "https://open.spotify.com/track/5rYYglvkaU6H8RuzTlbVKu"
-    },
-    {
-      "added_at": "2021-09-17 04:01:00",
-      "album": {
-        "name": "Surviving The Game",
-        "url": "https://open.spotify.com/album/27iyNm42452hDk9S8MWvjj"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 238870,
-      "name": "Surviving The Game",
-      "url": "https://open.spotify.com/track/5302m3J0HLANBaH3bCdDBb"
     },
     {
       "added_at": "2021-09-10 04:01:00",
@@ -397,6 +445,22 @@
       "url": "https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg"
     },
     {
+      "added_at": "2021-10-01 04:01:00",
+      "album": {
+        "name": "Ramon Ayala",
+        "url": "https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI"
+      },
+      "artists": [
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 168311,
+      "name": "Ramon Ayala",
+      "url": "https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL"
+    },
+    {
       "added_at": "2021-05-28 04:01:00",
       "album": {
         "name": "Sane",
@@ -411,6 +475,22 @@
       "duration_ms": 230939,
       "name": "Sane - Radio Edit",
       "url": "https://open.spotify.com/track/3JMXQTQ6ai6lAPN82UdOox"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Rock Believer",
+        "url": "https://open.spotify.com/album/1Wx6vTc4adeBbEJgQCbZV3"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 237128,
+      "name": "Rock Believer",
+      "url": "https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3"
     },
     {
       "added_at": "2021-11-26 05:00:00",
@@ -469,72 +549,20 @@
       "url": "https://open.spotify.com/track/1TIBjAmf6B2K0xfcb7ja7r"
     },
     {
-      "added_at": "2021-12-03 05:02:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Behind Closed Doors",
-        "url": "https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ"
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/6Z6iyt5AgvnG2pPAgOTtSZ"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        },
-        {
-          "name": "KID BRUNSWICK",
-          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
         }
       ],
-      "duration_ms": 183016,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Left For Dead",
-        "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 185772,
-      "name": "Left For Dead",
-      "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
-    },
-    {
-      "added_at": "2021-12-03 05:02:00",
-      "album": {
-        "name": "Forsaken (The Aftermath)",
-        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 298634,
-      "name": "Forsaken - The Aftermath",
-      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
-    },
-    {
-      "added_at": "2021-11-19 05:01:00",
-      "album": {
-        "name": "It's Over",
-        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+      "duration_ms": 177789,
+      "name": "Dark Side",
+      "url": "https://open.spotify.com/track/1ovFnZv6mUe0LzAbfVqOmh"
     },
     {
       "added_at": "2021-10-31 04:00:00",
@@ -573,6 +601,38 @@
       "url": "https://open.spotify.com/track/4py8spIzvJETEC3srLB0q4"
     },
     {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw"
+      },
+      "artists": [
+        {
+          "name": "Nova Twins",
+          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "Antagonist",
+      "url": "https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31"
+    },
+    {
+      "added_at": "2021-11-19 05:01:00",
+      "album": {
+        "name": "It's Over",
+        "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
       "added_at": "2021-09-10 04:01:00",
       "album": {
         "name": "Black Hole",
@@ -593,20 +653,88 @@
       "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
     },
     {
-      "added_at": "2021-12-10 20:02:26",
+      "added_at": "2021-12-03 05:02:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ"
+        "name": "Behind Closed Doors",
+        "url": "https://open.spotify.com/album/1U8ck3ysyU4iwNaagT7MCJ"
       },
       "artists": [
         {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        },
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F"
+      "duration_ms": 183016,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/24A9gRCWE4Jza8DDhnur6C"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/6LYx5a9siqqFpj7ztRGLxv"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 214175,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/6gw8oHxB3u5naUO7tc7Zmg"
+    },
+    {
+      "added_at": "2021-11-12 04:00:00",
+      "album": {
+        "name": "THE DEATH OF PEACE OF MIND",
+        "url": "https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H"
+      },
+      "artists": [
+        {
+          "name": "Bad Omens",
+          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
+        }
+      ],
+      "duration_ms": 241499,
+      "name": "THE DEATH OF PEACE OF MIND",
+      "url": "https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD"
+    },
+    {
+      "added_at": "2021-12-03 05:02:00",
+      "album": {
+        "name": "Forsaken (The Aftermath)",
+        "url": "https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 298634,
+      "name": "Forsaken - The Aftermath",
+      "url": "https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/5Z1UhmhiCVlbtou41VXwP8"
+      },
+      "artists": [
+        {
+          "name": "Stone Broken",
+          "url": "https://open.spotify.com/artist/1QEH7baR1m6qrr3atI0w1l"
+        }
+      ],
+      "duration_ms": 190218,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/4fCpWnOoknyMRZQaGL3tWt"
     },
     {
       "added_at": "2022-01-07 05:01:00",
@@ -821,22 +949,6 @@
       "url": "https://open.spotify.com/track/4fIbgStSL1II8DS74pdI26"
     },
     {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "We Are No Saints",
-        "url": "https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 190926,
-      "name": "We Are No Saints",
-      "url": "https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6"
-    },
-    {
       "added_at": "2022-01-07 05:01:00",
       "album": {
         "name": "Unsaid",
@@ -851,22 +963,6 @@
       "duration_ms": 223746,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/5IE22PXeE1MvycfdOGX9dG"
-    },
-    {
-      "added_at": "2021-10-01 04:01:00",
-      "album": {
-        "name": "Ramon Ayala",
-        "url": "https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI"
-      },
-      "artists": [
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
-        }
-      ],
-      "duration_ms": 168311,
-      "name": "Ramon Ayala",
-      "url": "https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL"
     },
     {
       "added_at": "2021-08-20 04:01:00",
@@ -995,22 +1091,6 @@
       "duration_ms": 170500,
       "name": "when we were broken",
       "url": "https://open.spotify.com/track/2DA2R8axDHMeq1JSbbm10M"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "THE DEATH OF PEACE OF MIND",
-        "url": "https://open.spotify.com/album/2Lk43Ib2RErp5YVfbJDo7H"
-      },
-      "artists": [
-        {
-          "name": "Bad Omens",
-          "url": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
-        }
-      ],
-      "duration_ms": 241499,
-      "name": "THE DEATH OF PEACE OF MIND",
-      "url": "https://open.spotify.com/track/070TMc1fjJGBGxxmf1DIbD"
     },
     {
       "added_at": "2021-10-22 19:00:38",
@@ -1201,26 +1281,6 @@
       "url": "https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez"
     },
     {
-      "added_at": "2021-09-24 04:00:00",
-      "album": {
-        "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/41xx4p0Q1MhE2Bnfkeo6b0"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 212572,
-      "name": "Let\u2019s Get The Party Started (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/5BdiprSBqgkULtloEFbhfF"
-    },
-    {
       "added_at": "2021-05-21 04:01:00",
       "album": {
         "name": "F8",
@@ -1395,22 +1455,6 @@
       "duration_ms": 230837,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/5uLPzhFguiHJvYJuh9BAsL"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "Peacemaker",
-        "url": "https://open.spotify.com/album/2QRtOFI8PDVq53fufiQ5u6"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 176107,
-      "name": "Peacemaker",
-      "url": "https://open.spotify.com/track/0gRv4lU4ZFvaOEw4mJw8Z7"
     },
     {
       "added_at": "2021-11-12 04:00:00",
@@ -1841,28 +1885,20 @@
       "url": "https://open.spotify.com/track/6sqMWTs2o6ixteLAhQOTSC"
     },
     {
-      "added_at": "2021-08-30 23:01:53",
+      "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/3nxyPoazh75KnTzqSXfRDY"
+        "name": "Left For Dead",
+        "url": "https://open.spotify.com/album/4pkpMvFT1R9i43mYm42Ztf"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
         }
       ],
-      "duration_ms": 167034,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/0KBRMpZVUTxrU8blRUBfm3"
+      "duration_ms": 185772,
+      "name": "Left For Dead",
+      "url": "https://open.spotify.com/track/6IOkD91cfmMM1uw7oGoyzx"
     },
     {
       "added_at": "2021-09-17 04:01:00",
@@ -1899,22 +1935,6 @@
       "duration_ms": 243783,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/6MRk1DdNtF7OZSVZYtvZyw"
-    },
-    {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/6oHrvAdPdbYUW6PVR1zngr"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 181066,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/5S1Tly4ov5kWsJLt73lCUD"
     },
     {
       "added_at": "2021-08-20 04:01:00",
@@ -2025,22 +2045,6 @@
       "url": "https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "Balboa",
-        "url": "https://open.spotify.com/album/2lhbyagwH1TXiCgzl9JXKs"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 192489,
-      "name": "Balboa",
-      "url": "https://open.spotify.com/track/7BQd7bXMRvyXyoLFpxz0hb"
-    },
-    {
       "added_at": "2021-08-27 04:00:00",
       "album": {
         "name": "A New Horizon",
@@ -2103,26 +2107,6 @@
       "duration_ms": 211325,
       "name": "Think for Yourself",
       "url": "https://open.spotify.com/track/1pIngKMQP9K2Hy1sgDRzPA"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Shed My Skin",
-        "url": "https://open.spotify.com/album/5wQ5wKjbpHrjAITDl3LIVA"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 270479,
-      "name": "Shed My Skin (feat. Annisokay)",
-      "url": "https://open.spotify.com/track/0lx2eqqsCRaTHlUU0PPZ5O"
     },
     {
       "added_at": "2021-09-24 04:00:00",
@@ -2495,26 +2479,6 @@
       "duration_ms": 231854,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/4u7RK85A85XeymVXiwtv0a"
-    },
-    {
-      "added_at": "2021-11-12 04:00:00",
-      "album": {
-        "name": "Fear Tactics",
-        "url": "https://open.spotify.com/album/0XVHvBFj3Op4zFn0WhcS8Y"
-      },
-      "artists": [
-        {
-          "name": "Satellite Citi",
-          "url": "https://open.spotify.com/artist/4laO1AzROVryZq7KcHnDfL"
-        },
-        {
-          "name": "Deadskull",
-          "url": "https://open.spotify.com/artist/7xJI0WNB1PLN92vQpHPtmp"
-        }
-      ],
-      "duration_ms": 234898,
-      "name": "Reaper",
-      "url": "https://open.spotify.com/track/5eyO3tmySwgFkCFU38xQLH"
     },
     {
       "added_at": "2021-07-20 21:00:22",

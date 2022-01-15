@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5UTavgI6ivn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5UTavgI6ivn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5UTavgI6ivn)
 
-### Made in Colombia
+### [Made in Colombia](https://open.spotify.com/playlist/52JA0GNAstvKsstw41UXnX)
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Sebastián Yatra
 

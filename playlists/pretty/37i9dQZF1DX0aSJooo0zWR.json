@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
   "name": "Fusion Fest",
-  "num_followers": 146586,
+  "num_followers": 146648,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg5NzQxNywwMDAwMDA0NDAwMDAwMTdkOTVlNWZjN2IwMDAwMDE3ZDk1ZTVkN2E3",
+  "snapshot_id": "MTY0MjEzNjQ2MCwwMDAwMDA0NTAwMDAwMTdlNTZmNWRiNjYwMDAwMDE3ZDk1ZTVkN2E3",
   "tracks": [
     {
       "added_at": "2021-10-29 04:02:00",
@@ -119,6 +119,46 @@
       "duration_ms": 321693,
       "name": "As the Spirit Sings",
       "url": "https://open.spotify.com/track/4qpKhfmO5O46ljDGSWR2vc"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Morse Code",
+        "url": "https://open.spotify.com/album/3IfDOB3CQ0a2CJt8iXrBVy"
+      },
+      "artists": [
+        {
+          "name": "daniel hayn",
+          "url": "https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO"
+        },
+        {
+          "name": "Israel Strom",
+          "url": "https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL"
+        },
+        {
+          "name": "Noah Denton",
+          "url": "https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd"
+        },
+        {
+          "name": "Rob Araujo",
+          "url": "https://open.spotify.com/artist/6mWAKV1AAFvzxQr7uztRE9"
+        },
+        {
+          "name": "Raghav Mehrotra",
+          "url": "https://open.spotify.com/artist/2OaPpcWxL1WlWaauI2NAV1"
+        },
+        {
+          "name": "Aidan McKeon",
+          "url": "https://open.spotify.com/artist/6qaTtKeFbJy2rVupwowXpk"
+        },
+        {
+          "name": "Noah Wise",
+          "url": "https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb"
+        }
+      ],
+      "duration_ms": 184545,
+      "name": "Morse Code",
+      "url": "https://open.spotify.com/track/5CpLMTxOyxmOHFEKg1o3Fn"
     },
     {
       "added_at": "2021-02-12 00:49:35",

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYUfsq4hxHWP.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYUfsq4hxHWP) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYUfsq4hxHWP)
 
-### [Fresh Finds: Country](https://open.spotify.com/playlist/6rfr1vGhppgRVqZOr9Nbbe)
+### [Fresh Finds: Country](https://open.spotify.com/playlist/43RkeN4Ur6UyFylEDD0zgT)
 
 > Fresh country music by independent artists every Wednesday\. Cover: Chris Ruediger, Artwork: Fanélie Muselier
 

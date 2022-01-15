@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7AqyNZFu97s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7AqyNZFu97s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7AqyNZFu97s)
 
-### [Fresh Finds UK & IE](https://open.spotify.com/playlist/090V93uH2o5GpxzFZ23Tsa)
+### [Fresh Finds UK & IE](https://open.spotify.com/playlist/7p7eF0LcucA5cLFCS6Cqce)
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Cooza
 

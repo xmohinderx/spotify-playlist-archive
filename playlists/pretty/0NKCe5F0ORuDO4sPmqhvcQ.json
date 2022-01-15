@@ -1,13 +1,29 @@
 {
   "description": "Featured Artist, Pritty, just dropped two new singles with us and has more new music coming this month.  Listen to Poison &amp; John Cena here + a mix of songs everyone at Moving Castle are listening to lately ",
   "name": "Moving Castle Monthly",
-  "num_followers": 21528,
+  "num_followers": 21529,
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "OTMwMCxhNDA3Mzc0Njk5ZTU4MWViNGRjYTU2ZmYwYzVhZTA4NThhMDViMDBi",
+  "snapshot_id": "OTMwNyxkYTRjNGM3ODkwZGNiZWIxYzJmZTMyNGM3MjA3ZWI4NGZkMDE4ZDhl",
   "tracks": [
+    {
+      "added_at": "2022-01-14 16:17:41",
+      "album": {
+        "name": "Ascend (Reload)",
+        "url": "https://open.spotify.com/album/6S4jvKUaVD3meKXB2nCwVm"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        }
+      ],
+      "duration_ms": 337572,
+      "name": "Ascend (Reload)",
+      "url": "https://open.spotify.com/track/6IB4pkRzElFPRudm6ANKpu"
+    },
     {
       "added_at": "2022-01-07 18:56:39",
       "album": {
@@ -31,6 +47,22 @@
       "duration_ms": 253523,
       "name": "Sun & Moon - Manila Killa Remix",
       "url": "https://open.spotify.com/track/1ulJG8ELvRv1za2KTYoPSP"
+    },
+    {
+      "added_at": "2022-01-14 16:18:46",
+      "album": {
+        "name": "Reach",
+        "url": "https://open.spotify.com/album/0kl5oaz47bqBL4oSQEoeui"
+      },
+      "artists": [
+        {
+          "name": "R.C.D.",
+          "url": "https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q"
+        }
+      ],
+      "duration_ms": 260487,
+      "name": "Reach",
+      "url": "https://open.spotify.com/track/616AZIQrnsA3jsCsBCFL7Y"
     },
     {
       "added_at": "2021-11-23 18:56:10",
@@ -319,6 +351,74 @@
       "duration_ms": 171710,
       "name": "sunlight",
       "url": "https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE"
+    },
+    {
+      "added_at": "2022-01-14 16:19:59",
+      "album": {
+        "name": "Dreams (Bleu Clair Remix)",
+        "url": "https://open.spotify.com/album/2IRiDJ0P6xZcEpXZUpIvTL"
+      },
+      "artists": [
+        {
+          "name": "Smokin Beats",
+          "url": "https://open.spotify.com/artist/25KE5ZwChQizbTmJzg3Lob"
+        },
+        {
+          "name": "Lyn Eden",
+          "url": "https://open.spotify.com/artist/0pt4O98Bo1vxjqZnjttafk"
+        },
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        }
+      ],
+      "duration_ms": 184915,
+      "name": "Dreams - Bleu Clair Remix",
+      "url": "https://open.spotify.com/track/4xtD1wi5TDqcOKf1dowtIp"
+    },
+    {
+      "added_at": "2022-01-14 16:42:59",
+      "album": {
+        "name": "Reflections (il:lo Remix)",
+        "url": "https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        },
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 360494,
+      "name": "Reflections - il:lo Remix",
+      "url": "https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox"
+    },
+    {
+      "added_at": "2022-01-14 16:50:52",
+      "album": {
+        "name": "Cold Comfort (feat. Andrew Paley) [Remixes]",
+        "url": "https://open.spotify.com/album/0bKng3SwvPUbN0oqxgN3rQ"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        },
+        {
+          "name": "Andrew Paley",
+          "url": "https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb"
+        },
+        {
+          "name": "OMAS",
+          "url": "https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK"
+        }
+      ],
+      "duration_ms": 235636,
+      "name": "Cold Comfort (feat. Andrew Paley) - OMAS Remix",
+      "url": "https://open.spotify.com/track/54bvLApXwHqh869Uqt74TJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/0NKCe5F0ORuDO4sPmqhvcQ"

@@ -1392,6 +1392,24 @@
     },
     {
       "album": {
+        "name": "old tattoos",
+        "url": "https://open.spotify.com/album/3o3DDHOfxhoxrGXxXNRCCP"
+      },
+      "artists": [
+        {
+          "name": "st jimmy",
+          "url": "https://open.spotify.com/artist/5zD5ON7D7uhlChBmRNPacV"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149678,
+      "name": "old tattoos",
+      "url": "https://open.spotify.com/track/3EhIdQSKO7AwGK9of76U0Z"
+    },
+    {
+      "album": {
         "name": "papercuts",
         "url": "https://open.spotify.com/album/0VRQaT37pbnZC6E7pkX0aQ"
       },

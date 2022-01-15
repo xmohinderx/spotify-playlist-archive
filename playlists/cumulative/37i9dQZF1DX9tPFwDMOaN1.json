@@ -246,6 +246,24 @@
     },
     {
       "album": {
+        "name": "Devil - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/6bG2rY8NzT7dIzUNADDNCR"
+      },
+      "artists": [
+        {
+          "name": "MAX CHANGMIN",
+          "url": "https://open.spotify.com/artist/7FiAkNWMb6ZBYI8tbQLuIS"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "Devil",
+      "url": "https://open.spotify.com/track/14jjsKr5HwNhZ18MJR5hYn"
+    },
+    {
+      "album": {
         "name": "DISHARMONY : FIND OUT",
         "url": "https://open.spotify.com/album/13kHQp4zyK5jBpsFZmTvHz"
       },

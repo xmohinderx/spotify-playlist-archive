@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX78toxP7mOaJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX78toxP7mOaJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX78toxP7mOaJ)
 
-### [Fresh Finds Rock](https://open.spotify.com/playlist/0mMZrx7DAbFdEFSpJkTloH)
+### [Fresh Finds Rock](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 > Fresh rock from independent artists every Wednesday\. Cover: Daphne's Couch \| Artwork: Jim Klok
 

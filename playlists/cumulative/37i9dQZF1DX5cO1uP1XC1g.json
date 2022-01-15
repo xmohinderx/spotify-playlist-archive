@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 179988,
       "name": "Ana Lahale",
       "url": "https://open.spotify.com/track/0fRIzjNaVxFqwoLg8rfQX5"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 192258,
       "name": "Ana Nejri W Zman Yejri",
       "url": "https://open.spotify.com/track/4jjQIXVANytMf4SSaZmv2r"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 201308,
       "name": "Btaaref Shuur",
       "url": "https://open.spotify.com/track/48wOhHtZNVEDL05Vxrp7eZ"
@@ -557,7 +557,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206285,
       "name": "Darhali Galbi",
       "url": "https://open.spotify.com/track/5rX5sT9yC44Rq61EmtGrk5"
@@ -695,6 +695,28 @@
       "duration_ms": 252000,
       "name": "El Walida",
       "url": "https://open.spotify.com/track/1Ld7ou1JXz77rg70AG7usC"
+    },
+    {
+      "album": {
+        "name": "Elghazala Ray2a (feat. Mohamed Osama)",
+        "url": "https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71"
+      },
+      "artists": [
+        {
+          "name": "Karim Mahmoud Abdelaziz",
+          "url": "https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6"
+        },
+        {
+          "name": "Mohamed Osama",
+          "url": "https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161763,
+      "name": "Elghazala Ray2a (feat. Mohamed Osama)",
+      "url": "https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu"
     },
     {
       "album": {
@@ -1085,7 +1107,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 220724,
       "name": "Han AlAn",
       "url": "https://open.spotify.com/track/2MaVjzNUXijqQM9ULZMRzq"
@@ -1103,7 +1125,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 225600,
       "name": "Hathi Ente W Hatha Ana",
       "url": "https://open.spotify.com/track/2Ee2FsZHiLfYQIb6mBZx9z"
@@ -1303,7 +1325,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 239655,
       "name": "Kalby Jobarny - Live",
       "url": "https://open.spotify.com/track/00LX4aUgpDFG4zZO1H3Lx8"
@@ -1343,7 +1365,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 243727,
       "name": "Kezbi Wara Kezbi",
       "url": "https://open.spotify.com/track/1Hgz9tbXVjPIZNydCtY048"
@@ -2013,7 +2035,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237775,
       "name": "Single",
       "url": "https://open.spotify.com/track/29MbJ4ReqIZ2lduxiwp8Cd"
@@ -2049,7 +2071,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 240673,
       "name": "Tegy Ntrahn",
       "url": "https://open.spotify.com/track/4CvAW2jw7bcfx40aF3YT39"
@@ -2455,10 +2477,28 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 161519,
       "name": "\u0639\u0631\u0641\u0629",
       "url": "https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX"
+    },
+    {
+      "album": {
+        "name": "\u0639\u0634\u0627\u0646\u0643",
+        "url": "https://open.spotify.com/album/4HyGsmrEgAjCZl7ZZLDhTk"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187508,
+      "name": "\u0639\u0634\u0627\u0646\u0643",
+      "url": "https://open.spotify.com/track/2L8xtCLeM42te93xowB4nx"
     },
     {
       "album": {
@@ -2539,7 +2579,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 159000,
       "name": "\u0645\u0647\u0631\u062c\u0627\u0646 \u0627\u062e\u0648\u0627\u062a\u0649",
       "url": "https://open.spotify.com/track/44p2pP4M0J6ZlEEyIpQu6R"

@@ -1,12 +1,12 @@
 {
   "description": "Cool vibes from the African continent.",
   "name": "Afrocentric",
-  "num_followers": 12537,
+  "num_followers": 12536,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTY5NTY2MCwwMDAwMDE3NjAwMDAwMTdkYzU3YTM0ODYwMDAwMDE3MGFmNDI4ZGU4",
+  "snapshot_id": "MTY0MjE1NjgxMSwwMDAwMDE3NzAwMDAwMTdlNTgyYzY0MDUwMDAwMDE3MGFmNDI4ZGU4",
   "tracks": [
     {
       "added_at": "2021-12-16 23:01:00",
@@ -431,6 +431,30 @@
       "duration_ms": 202071,
       "name": "Down",
       "url": "https://open.spotify.com/track/3XEljAMl2IduqseMFYpfoz"
+    },
+    {
+      "added_at": "2022-01-14 10:40:11",
+      "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/2jYuXSwfh6qdqhrcRrplbO"
+      },
+      "artists": [
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Klem",
+          "url": "https://open.spotify.com/artist/2aImsy0HLKw0cbiyCDJX3t"
+        }
+      ],
+      "duration_ms": 196678,
+      "name": "Be a Man",
+      "url": "https://open.spotify.com/track/4LFL0eNYe5cRNy87Cn6PCl"
     },
     {
       "added_at": "2021-10-28 23:00:00",

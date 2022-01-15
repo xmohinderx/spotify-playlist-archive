@@ -531,7 +531,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229052,
       "name": "Blowin' In the Wind",
       "url": "https://open.spotify.com/track/0k9RKhN4MFzaon1u5jmZnh"
@@ -567,7 +567,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 207693,
       "name": "Branches",
       "url": "https://open.spotify.com/track/10xHiBHqsjVHK6AkAEb6SH"
@@ -585,7 +585,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 182906,
       "name": "Bright Blue Skies",
       "url": "https://open.spotify.com/track/5zxwumO0laRosoeOvbVSvc"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 160186,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3vUc9WQpoca15404jNdzf9"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 188220,
       "name": "Endless (feat. Tove Styrke) - Acoustic Version",
       "url": "https://open.spotify.com/track/5eDTMtx8lpbKjZhriTVsi9"
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 258533,
       "name": "Everyday Life",
       "url": "https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0"
@@ -1564,6 +1564,24 @@
     },
     {
       "album": {
+        "name": "Fly Angel",
+        "url": "https://open.spotify.com/album/6yPR2MXZ9PPWOWHNcvRr1h"
+      },
+      "artists": [
+        {
+          "name": "Samuel Scott McCumber",
+          "url": "https://open.spotify.com/artist/3kjqCOTD5l4VTHHOzX2W83"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Fly Angel",
+      "url": "https://open.spotify.com/track/5WBKRhaotj41GrLwmfyDs7"
+    },
+    {
+      "album": {
         "name": "Fly When I Fall",
         "url": "https://open.spotify.com/album/17yCOtauWGE5jmzNq3t2bv"
       },
@@ -1723,7 +1741,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 180483,
       "name": "Free",
       "url": "https://open.spotify.com/track/7gLdCsimRDhH0PtZoFwOAR"
@@ -1849,7 +1867,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 234450,
       "name": "Great American Novel",
       "url": "https://open.spotify.com/track/7cNOOVO42JhWr1RugzdhqA"
@@ -2569,7 +2587,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 213097,
       "name": "If Your Heart Is Broken (Acoustic)",
       "url": "https://open.spotify.com/track/54DtcXCPyocXJZ61opPW2b"
@@ -2717,7 +2735,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/3JNCFaTBMGPaXNGfsfrirX"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235853,
       "name": "Leave You Lonely",
       "url": "https://open.spotify.com/track/2M5mic6eEYch6o1gVJKRkQ"
@@ -2865,7 +2883,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
@@ -2883,7 +2901,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 177076,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3svOpX4WPGJk9ZQ34D3c9s"
@@ -3475,7 +3493,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 178408,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/0pcSo7xZdaLoomE3INVlvw"
@@ -3775,7 +3793,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 212853,
       "name": "People Change",
       "url": "https://open.spotify.com/track/3Ed55g8hCz1GmqRTelIPIW"
@@ -3811,7 +3829,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 146429,
       "name": "Pick Up Your Phone",
       "url": "https://open.spotify.com/track/4hIppgm5PYoVIoGtCCSJnh"
@@ -4525,7 +4543,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 201272,
       "name": "Still Feel It All",
       "url": "https://open.spotify.com/track/6iq7Jv43ULC1zRqtdpYDnI"
@@ -4547,7 +4565,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
@@ -5021,7 +5039,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 223043,
       "name": "Too Much To Ask",
       "url": "https://open.spotify.com/track/39jXnbACjiaiTwwhsr5sY5"
@@ -5155,7 +5173,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235030,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6"
@@ -5293,6 +5311,24 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
+    },
+    {
+      "album": {
+        "name": "When Does a Heart Move On",
+        "url": "https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "When Does a Heart Move On",
+      "url": "https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul"
     },
     {
       "album": {
@@ -5523,7 +5559,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 154650,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"
@@ -5603,7 +5639,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210459,
       "name": "You Are",
       "url": "https://open.spotify.com/track/3ko2GsgvCSvblmrc5zpMT2"
@@ -5657,7 +5693,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 208853,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/1UOuZs8BPGMM6Ls0jP6BjQ"
@@ -5697,7 +5733,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200006,
       "name": "Your Song - Acoustic",
       "url": "https://open.spotify.com/track/19TkHF0HPSjDtCIFJzE6qF"

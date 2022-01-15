@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music City must-hears. Cover: Seaforth and Jordan Davis",
+  "description": "Music City must-hears. Cover: Tenille Townes",
   "name": "Next From Nashville",
   "published_playlist_ids": [
     "6guBJqgtXaO0mvdeL4JtNk"
@@ -95,6 +95,24 @@
       "duration_ms": 213493,
       "name": "American Dream Truck",
       "url": "https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa"
+    },
+    {
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/2PhJC1jsvVIbpbBjDs9Bkv"
     },
     {
       "album": {
@@ -296,6 +314,24 @@
     },
     {
       "album": {
+        "name": "Break My Heart Again",
+        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201256,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
+    },
+    {
+      "album": {
         "name": "Cemetery",
         "url": "https://open.spotify.com/album/0eZ76ujy2aLYB2vIZ2Je5o"
       },
@@ -387,6 +423,24 @@
       "duration_ms": 165416,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/6tCKxf3W394Qz7JXcUoQux"
+    },
+    {
+      "album": {
+        "name": "Didn't Go Too Far",
+        "url": "https://open.spotify.com/album/1NfLMs1PDvwnnKR3ms4cvj"
+      },
+      "artists": [
+        {
+          "name": "Conner Smith",
+          "url": "https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "College Town",
+      "url": "https://open.spotify.com/track/6WtELijR2AcXChbeEOPwOu"
     },
     {
       "album": {
@@ -571,6 +625,24 @@
       "duration_ms": 178130,
       "name": "Every Last Little Bit",
       "url": "https://open.spotify.com/track/73AWyXD7uwDHMBKtRm5tkj"
+    },
+    {
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "album": {
@@ -785,7 +857,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 167320,
       "name": "Gone Looks Better",
       "url": "https://open.spotify.com/track/4NqjMJhAif9unWNmuMUVVw"
@@ -811,6 +883,24 @@
       "duration_ms": 174111,
       "name": "Good Beer",
       "url": "https://open.spotify.com/track/55M9eKCXJFCpid6WBVyEct"
+    },
+    {
+      "album": {
+        "name": "Good Day for Living",
+        "url": "https://open.spotify.com/album/6Y9RRHDLpK5OGPcS1rbTNa"
+      },
+      "artists": [
+        {
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190066,
+      "name": "Good Day for Living",
+      "url": "https://open.spotify.com/track/1KpUbzeaGFdcBD7aeEj0k9"
     },
     {
       "album": {
@@ -969,7 +1059,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 173324,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/51uld0hwaPZQkreLc9lnd8"
@@ -1023,7 +1113,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 165253,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
@@ -1380,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "Josh Logan",
+        "url": "https://open.spotify.com/album/476cOOLP2v04PcUR0A0Vc9"
+      },
+      "artists": [
+        {
+          "name": "Josh Logan",
+          "url": "https://open.spotify.com/artist/5IF68hkV9cR8Jnyc2sahZ4"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Made More Cents",
+      "url": "https://open.spotify.com/track/3fvnyT1uMOXGhZOuK8XfjC"
+    },
+    {
+      "album": {
         "name": "Me and the Moon",
         "url": "https://open.spotify.com/album/7H1PK8ptDhrPO2hFNOXymM"
       },
@@ -1395,6 +1503,24 @@
       "duration_ms": 191677,
       "name": "Me and the Moon",
       "url": "https://open.spotify.com/track/2z2dOi2els114Oa5PAL60M"
+    },
+    {
+      "album": {
+        "name": "Mess This Up",
+        "url": "https://open.spotify.com/album/2q7oVBF3JgL4dvw36C51wK"
+      },
+      "artists": [
+        {
+          "name": "FINMAR",
+          "url": "https://open.spotify.com/artist/07EtCDnMb2POsxltRSxWge"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187305,
+      "name": "Mess This Up",
+      "url": "https://open.spotify.com/track/7FdTCgQypaNWEbaibxmylA"
     },
     {
       "album": {
@@ -1488,6 +1614,24 @@
     },
     {
       "album": {
+        "name": "My Bar",
+        "url": "https://open.spotify.com/album/5SaPpj7mUr3Yin6oaBSnEP"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "My Bar",
+      "url": "https://open.spotify.com/track/3rvEUrjnl3eXXmKiKLkzRN"
+    },
+    {
+      "album": {
         "name": "Narcissist",
         "url": "https://open.spotify.com/album/0HZiTcB82OPdvbJ2Hny6bK"
       },
@@ -1578,6 +1722,24 @@
     },
     {
       "album": {
+        "name": "Songs from Dispatch to 16th Ave.",
+        "url": "https://open.spotify.com/album/2dzVIhz42QO9FBkpDAtBjL"
+      },
+      "artists": [
+        {
+          "name": "Muscadine Bloodline",
+          "url": "https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228115,
+      "name": "No, Pedal Steel",
+      "url": "https://open.spotify.com/track/0ijVRmoMHk1uNhM6YHvdhe"
+    },
+    {
+      "album": {
         "name": "Not In Love With You",
         "url": "https://open.spotify.com/album/2yE1yJjlWMahgjT9OqgnEh"
       },
@@ -1607,7 +1769,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 117500,
       "name": "Nothin' But Net",
       "url": "https://open.spotify.com/track/2IAnw5xA5NxMHE2QOsKoiX"
@@ -1715,7 +1877,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 159346,
       "name": "Peaked In High School",
       "url": "https://open.spotify.com/track/2iZ7QhJdX5jlkJFk636wuu"
@@ -1805,7 +1967,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 183214,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/1ZAOiES3GhGjGyoO57B6Nn"
@@ -1866,6 +2028,24 @@
     },
     {
       "album": {
+        "name": "Same Team",
+        "url": "https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174915,
+      "name": "Same Team",
+      "url": "https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0"
+    },
+    {
+      "album": {
         "name": "Screened In",
         "url": "https://open.spotify.com/album/2XXzv59mGe4ZzJNoqVsGc9"
       },
@@ -1877,7 +2057,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 168746,
       "name": "Screened In",
       "url": "https://open.spotify.com/track/2A5hYszmA3AdZa006Tadeo"
@@ -1931,7 +2111,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222461,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS"
@@ -2162,6 +2342,24 @@
     },
     {
       "album": {
+        "name": "Bar Stool Preacher",
+        "url": "https://open.spotify.com/album/6pVUsN0pgT6pkPT6BJQjtj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Bryant",
+          "url": "https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146859,
+      "name": "The Bottom (Raise Em Up)",
+      "url": "https://open.spotify.com/track/4oefbJXSZQ6tVIn7P8ieub"
+    },
+    {
+      "album": {
         "name": "The Card You Gamble (Main Theme From Monarch)",
         "url": "https://open.spotify.com/album/6Xi49KOKJfy60TkU5BJ61o"
       },
@@ -2310,6 +2508,24 @@
     },
     {
       "album": {
+        "name": "Trouble With A Heartbreak",
+        "url": "https://open.spotify.com/album/3hs2Iakgld3yGrrcJSpg28"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Trouble With A Heartbreak",
+      "url": "https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq"
+    },
+    {
+      "album": {
         "name": "What Do They Know",
         "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
       },
@@ -2382,6 +2598,42 @@
     },
     {
       "album": {
+        "name": "Want That Back",
+        "url": "https://open.spotify.com/album/6AOh6aXLoWxFlbfh9xPvZ2"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "Want That Back",
+      "url": "https://open.spotify.com/track/64n7p9bHvB2OMksxeUyQi1"
+    },
+    {
+      "album": {
+        "name": "What Was I Drinking",
+        "url": "https://open.spotify.com/album/6kYGLfvbmgWqOV2spNzb09"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "What Was I Drinking",
+      "url": "https://open.spotify.com/track/05XhhXmBu1aUPNFLlTZ9XJ"
+    },
+    {
+      "album": {
         "name": "Whatever It Takes",
         "url": "https://open.spotify.com/album/5LvTjV7ndC8F1xZVBPKDd9"
       },
@@ -2436,6 +2688,42 @@
     },
     {
       "album": {
+        "name": "When's It Gonna Happen",
+        "url": "https://open.spotify.com/album/7nQ3jAmRGhlHQOB66gWtad"
+      },
+      "artists": [
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217647,
+      "name": "When's It Gonna Happen",
+      "url": "https://open.spotify.com/track/0h0PVL7SoC7l4sJ5AYQZX5"
+    },
+    {
+      "album": {
+        "name": "Whiskey Sour",
+        "url": "https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209740,
+      "name": "Whiskey Sour",
+      "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "album": {
         "name": "Why I Can't Leave",
         "url": "https://open.spotify.com/album/4nh8Tg0YwPJ0GZTTAAU7Ng"
       },
@@ -2447,7 +2735,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 205333,
       "name": "Why I Can't Leave",
       "url": "https://open.spotify.com/track/7IjOjfwV0KJ1TaqpKm0DTi"

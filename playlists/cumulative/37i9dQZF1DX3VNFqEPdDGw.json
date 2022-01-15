@@ -476,6 +476,24 @@
     },
     {
       "album": {
+        "name": "Bhangra Essential",
+        "url": "https://open.spotify.com/album/7jdDevCoN03GtfGl9jn46p"
+      },
+      "artists": [
+        {
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248511,
+      "name": "Jagga",
+      "url": "https://open.spotify.com/track/5XJGVtJcKHgWBo3fNwJWSl"
+    },
+    {
+      "album": {
         "name": "Munda Sidhua Da",
         "url": "https://open.spotify.com/album/4Q4oPqoWHnWuRPIqMb0ohS"
       },

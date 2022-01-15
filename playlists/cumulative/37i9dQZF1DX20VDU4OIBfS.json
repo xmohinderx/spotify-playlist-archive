@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 205909,
       "name": "1+1=2 Enamorados",
       "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 218626,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/1akOLhcvO0FOdDpuY0Z5mW"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 314066,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/3SrhjtntSNqwP70ksoTxmA"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 183223,
       "name": "Decidete",
       "url": "https://open.spotify.com/track/0t4Z131i0IVcWfSvCxSeZd"
@@ -841,7 +841,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 279026,
       "name": "Detr\u00e1s de Mi Ventana",
       "url": "https://open.spotify.com/track/0vhOhQerNeK037EpSmphzb"
@@ -989,7 +989,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 168306,
       "name": "D\u00e9jenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200875,
       "name": "El Pecador",
       "url": "https://open.spotify.com/track/5k6fOcv3B7sE6V1uZ5kwb6"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 251666,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/1YICQeq7s1Q2QmaOU1CxwS"
@@ -1245,7 +1245,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 250693,
       "name": "Es Por T\u00ed",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
@@ -1479,7 +1479,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 295426,
       "name": "Huele A Peligro",
       "url": "https://open.spotify.com/track/1ZYfe5ZvVwMGHFtGoLT8wf"
@@ -1519,6 +1519,24 @@
       "duration_ms": 204293,
       "name": "Jam\u00e1s",
       "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
+    },
+    {
+      "album": {
+        "name": "15 Exitos 15 - Joan Sebastian",
+        "url": "https://open.spotify.com/album/79pXkx1V4t8PTcICE5m76U"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Juliantla",
+      "url": "https://open.spotify.com/track/6eWiYzUniNRpD5mwFs0IpG"
     },
     {
       "album": {
@@ -1605,7 +1623,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237653,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/6vYv81m3L5GZZrC5ZVJiMR"
@@ -1821,7 +1839,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 189730,
       "name": "Maracas",
       "url": "https://open.spotify.com/track/2L5E1nYG6OmtQY64BGaEEg"
@@ -1893,7 +1911,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 191792,
       "name": "Me Enamoro De Ti",
       "url": "https://open.spotify.com/track/7tK0PM1fKK0g4scuqmAnts"
@@ -2329,7 +2347,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 190413,
       "name": "Orgullosa Nena",
       "url": "https://open.spotify.com/track/2tXPf8RAtIRIoVp0bSOKEr"
@@ -2585,7 +2603,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 276533,
       "name": "Quererte a Ti",
       "url": "https://open.spotify.com/track/5zAsPH4Ji2oNSncFGGMSQA"
@@ -2841,7 +2859,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 197360,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx"
@@ -2895,7 +2913,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 226373,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/2w3hRh03IPv1ueQ15V1XU3"
@@ -3273,7 +3291,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 233120,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/2wy8ziIphoK4LvIiLEMLf1"
@@ -3309,7 +3327,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 223760,
       "name": "Vivir As\u00ed Es Morir de Amor",
       "url": "https://open.spotify.com/track/0V5Gq7CgjkJZDv8oumHYJJ"
@@ -3345,7 +3363,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 279506,
       "name": "Y te vas",
       "url": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
@@ -3363,7 +3381,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 240053,
       "name": "Y Volver\u00e9",
       "url": "https://open.spotify.com/track/7wx1WRcxLovFDlhNe5leeX"

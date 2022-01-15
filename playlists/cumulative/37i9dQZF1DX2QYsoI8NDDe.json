@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "\u00a1Celebrando a los mujerones con sangre mexicana! Cover: Itzel Vida\n",
   "name": "Mujerones",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "7jJsKj2LL4QpeGJ8HwvgK2"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 244642,
       "name": "Ah\u00ed Donde Me Ven",
       "url": "https://open.spotify.com/track/4kdmt0MDdze6TZvyU0Fmqg"
@@ -89,7 +91,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 157826,
       "name": "Cheque En Blanco",
       "url": "https://open.spotify.com/track/6Ozggwwdn7O6W5WJgFSnQp"
@@ -280,6 +282,28 @@
     },
     {
       "album": {
+        "name": "El Consejo",
+        "url": "https://open.spotify.com/album/1NTqreW4sj1U86s90CsOJA"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Paquita La Del Barrio",
+          "url": "https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239031,
+      "name": "El Consejo",
+      "url": "https://open.spotify.com/track/4EH7cPGRU91CWPkVpRrTI4"
+    },
+    {
+      "album": {
         "name": "Thalia En Primera Fila",
         "url": "https://open.spotify.com/album/07yVsJaLRxqakz0Fyyx7pR"
       },
@@ -367,7 +391,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 211712,
       "name": "Enga\u00f1\u00e9moslo",
       "url": "https://open.spotify.com/track/6ZtFzzPFSwg6rPPfNIqFJj"
@@ -385,7 +409,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 244440,
       "name": "Equivocada - Live Version",
       "url": "https://open.spotify.com/track/7yc7bnIJpmecG0Jp1rhDyJ"
@@ -403,7 +427,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 251226,
       "name": "Es Demasiado Tarde - Remasterizado",
       "url": "https://open.spotify.com/track/6huvrtMdGxlvA28RUWK4Cc"
@@ -439,7 +463,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 165610,
       "name": "Fruta Prohibida",
       "url": "https://open.spotify.com/track/3x9x9FMUXUkAQSpLYlH4vY"
@@ -468,6 +492,24 @@
     },
     {
       "album": {
+        "name": "Enamorada Con Banda",
+        "url": "https://open.spotify.com/album/01nLa6wvsYX6LDiQz58bE3"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/5vxjnZFvJYgZz8RVR4za51"
+    },
+    {
+      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/7EeC2bxAGvdygHdAuzYVEf"
       },
@@ -479,7 +521,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237453,
       "name": "Inocente Pobre Amiga",
       "url": "https://open.spotify.com/track/1axClPg8lUUj8CdYUqE2su"
@@ -497,7 +539,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 221893,
       "name": "La ocasi\u00f3n para amarnos",
       "url": "https://open.spotify.com/track/3kNkKkE4PG8zcbrek4SNQj"
@@ -719,7 +761,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 184469,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2CUyd0sqedJTEanrE1rNA0"
@@ -816,6 +858,24 @@
     },
     {
       "album": {
+        "name": "Ananda",
+        "url": "https://open.spotify.com/album/0F2H68l0GgokiCljA6w1aT"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224786,
+      "name": "Ni Una Sola Palabra",
+      "url": "https://open.spotify.com/track/4oCqda0opcaXQPjoAhhcfg"
+    },
+    {
+      "album": {
         "name": "La Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma"
       },
@@ -827,7 +887,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 192946,
       "name": "No Llega El Olvido",
       "url": "https://open.spotify.com/track/6GKGBJYBmRGJ6QarBjhmVM"
@@ -845,7 +905,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 269120,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
@@ -953,7 +1013,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 226986,
       "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
@@ -989,7 +1049,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 218320,
       "name": "Por Lo Que Reste de Vida",
       "url": "https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd"
@@ -1069,6 +1129,24 @@
       "duration_ms": 179693,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
+    },
+    {
+      "album": {
+        "name": "Y Seguimos Con Duranguense",
+        "url": "https://open.spotify.com/album/3amg00222tTaGeh10Xc2kR"
+      },
+      "artists": [
+        {
+          "name": "Los Hor\u00f3scopos De Durango",
+          "url": "https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258453,
+      "name": "Que Vuelva",
+      "url": "https://open.spotify.com/track/6h4krpn1OHlpiRDkthIcJk"
     },
     {
       "album": {
@@ -1260,6 +1338,28 @@
     },
     {
       "album": {
+        "name": "Hab\u00edtame Siempre (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5HDevGeDLIZMhZKvRZLSkI"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "Te Perdiste Mi Amor (feat. Prince Royce)",
+      "url": "https://open.spotify.com/track/1Q8NiatGDc6YgefNwT7Jgu"
+    },
+    {
+      "album": {
         "name": "Soy Lo Prohibido",
         "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
       },
@@ -1441,7 +1541,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 217693,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/6O0zppSneLLGVpR5WDKGI9"
@@ -1513,7 +1613,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 223413,
       "name": "Yo No Creo en los Hombres (Pop Radio)",
       "url": "https://open.spotify.com/track/7jhXzs2FcFGHQMOW2OiMD0"
@@ -1531,7 +1631,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 224640,
       "name": "Yo No Soy Esa Mujer",
       "url": "https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm"
@@ -1567,7 +1667,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207626,
       "name": "\u00bfQuieres Ser Mi Amante?",
       "url": "https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U"

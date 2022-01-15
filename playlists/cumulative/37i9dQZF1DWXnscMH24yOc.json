@@ -116,6 +116,24 @@
     },
     {
       "album": {
+        "name": "Atlantic City",
+        "url": "https://open.spotify.com/album/2e792asbrPWJQoANSeVWVZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren O'Connell",
+          "url": "https://open.spotify.com/artist/5k58ro6wizhwH6oPwICLns"
+        }
+      ],
+      "date_added": "2021-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196046,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/5KZmeBnCiuX4rnwVw0x5QL"
+    },
+    {
+      "album": {
         "name": "Avant Gardener",
         "url": "https://open.spotify.com/album/2QeazQ3EKDtLZ6lRdZceNa"
       },
@@ -279,7 +297,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 165309,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2BPmo2L5bYVS5SmpOTcfyF"
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193208,
       "name": "Country Roads",
       "url": "https://open.spotify.com/track/2ETA67aCemVtQj2nS4TWaM"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 275820,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/0xU1zG3u6s1UpfkG8XkZ2w"
@@ -533,7 +551,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 130511,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/5WJCqGGc4oqUWR2qzfIsWl"
@@ -721,7 +739,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 141212,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/1VXJxus09S5VAcQ0VcaKjj"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 225944,
       "name": "Honesty",
       "url": "https://open.spotify.com/track/6TCrhl4UEM2yXZ4uaXa5OY"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
@@ -1627,7 +1645,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 272001,
       "name": "Ode to My Family",
       "url": "https://open.spotify.com/track/7aVmUCeBxzfyqqKwFyrYux"
@@ -1761,7 +1779,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 232493,
       "name": "Savior Complex",
       "url": "https://open.spotify.com/track/5cTlo1j9rEKQWRBynDcywn"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 190400,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2ArKgz2x8fL8z2KeYXlgLX"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 295654,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/1FfoHjy7kr5IGtOjAKjeiv"
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 210733,
       "name": "With Or Without You - Jo Whiley Show - BBC Live Session",
       "url": "https://open.spotify.com/track/2JZUW0wQcUYr7NW7itcHef"

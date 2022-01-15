@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Third Eye Blind.",
   "name": "90s Pop Rock",
-  "num_followers": 1092133,
+  "num_followers": 1092506,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEyMDk5OCwwMDAwMDAwMDRhZTIyMDkwNzYyYTkzNmMxOWQ5NDNhODZkZWRlZTc1",
+  "snapshot_id": "MTY0MjIwNzM2MCwwMDAwMDAwMGE5ODczMTIxMDIzYjIwNTI1NTA4YWY5MjVhMDkwOTE3",
   "tracks": [
     {
       "added_at": "2021-12-21 12:24:03",
@@ -379,18 +379,18 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+        "name": "Sparkle And Fade",
+        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
       },
       "artists": [
         {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+          "name": "Everclear",
+          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
         }
       ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
+      "duration_ms": 191506,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Sparkle And Fade",
-        "url": "https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0"
-      },
-      "artists": [
-        {
-          "name": "Everclear",
-          "url": "https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF"
-        }
-      ],
-      "duration_ms": 191506,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy"
       },
@@ -443,18 +427,34 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Mad Mad World",
-        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
       },
       "artists": [
         {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+          "name": "Better Than Ezra",
+          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
         }
       ],
-      "duration_ms": 266560,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
+      "duration_ms": 185093,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+      },
+      "artists": [
+        {
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -507,6 +507,22 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
+        "name": "Mad Mad World",
+        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
         "name": "Throwing Copper",
         "url": "https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 325600,
       "name": "Lightning Crashes",
       "url": "https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/0c8yj78CBgDsEvq9pzudIS"
-      },
-      "artists": [
-        {
-          "name": "Better Than Ezra",
-          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/0ttHpMs250dpFkCYAnuhnE"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -555,146 +555,18 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Friday I'm in Love",
-      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Pet Your Friends",
-        "url": "https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy"
-      },
-      "artists": [
-        {
-          "name": "Dishwalla",
-          "url": "https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Counting Blue Cars (Tell Me Your Thoughts On God)",
-      "url": "https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "The Best of Fuel",
-        "url": "https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq"
-      },
-      "artists": [
-        {
-          "name": "Fuel",
-          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
-        }
-      ],
-      "duration_ms": 214040,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Blister in the Sun - 2002 Remastered Version",
-      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "A Casual Affair - The Best Of Tonic",
-        "url": "https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg"
-      },
-      "artists": [
-        {
-          "name": "Tonic",
-          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
-        }
-      ],
-      "duration_ms": 263280,
-      "name": "If You Could Only See",
-      "url": "https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Bringing Down The Horse",
-        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
-      },
-      "artists": [
-        {
-          "name": "The Wallflowers",
-          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
-        }
-      ],
-      "duration_ms": 312626,
-      "name": "One Headlight",
-      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Soul's Core",
-        "url": "https://open.spotify.com/album/0D5vG8Ue7MHe4TxRm2t9Z9"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mullins",
-          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
-        }
-      ],
-      "duration_ms": 329866,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "fear",
-        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
-      },
-      "artists": [
-        {
-          "name": "Toad The Wet Sprocket",
-          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
-        }
-      ],
-      "duration_ms": 196333,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -715,82 +587,98 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+        "name": "Bringing Down The Horse",
+        "url": "https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "The Wallflowers",
+          "url": "https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB"
         }
       ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+      "duration_ms": 312626,
+      "name": "One Headlight",
+      "url": "https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB"
       },
       "artists": [
         {
-          "name": "Lit",
-          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
         }
       ],
-      "duration_ms": 169026,
-      "name": "My Own Worst Enemy",
-      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+      "duration_ms": 144333,
+      "name": "Blister in the Sun - 2002 Remastered Version",
+      "url": "https://open.spotify.com/track/5TM2eqdzfWPHklI7YnBmsD"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+        "name": "The Best of Fuel",
+        "url": "https://open.spotify.com/album/5CmgNXCwdGuqn6EPzfb4Tq"
       },
       "artists": [
         {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+          "name": "Fuel",
+          "url": "https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp"
         }
       ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
+      "duration_ms": 214040,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/6DzbmjkVZpz1mrDobAoJI8"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "The Madding Crowd",
-        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+        "name": "Pet Your Friends",
+        "url": "https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy"
       },
       "artists": [
         {
-          "name": "Nine Days",
-          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+          "name": "Dishwalla",
+          "url": "https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Absolutely (Story of a Girl) - Radio Mix",
-      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+      "duration_ms": 291906,
+      "name": "Counting Blue Cars (Tell Me Your Thoughts On God)",
+      "url": "https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "You Can't Stop The Bum Rush",
-        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+        "name": "A Casual Affair - The Best Of Tonic",
+        "url": "https://open.spotify.com/album/3T4nMxe1j3LgnyqFimzlWg"
       },
       "artists": [
         {
-          "name": "LEN",
-          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+          "name": "Tonic",
+          "url": "https://open.spotify.com/artist/6qXwLwTLdA44HYsA26vaNU"
         }
       ],
-      "duration_ms": 265533,
-      "name": "Steal My Sunshine",
-      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+      "duration_ms": 263280,
+      "name": "If You Could Only See",
+      "url": "https://open.spotify.com/track/7H5OQN4iv3cKE3ZNP5Mbct"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -811,6 +699,38 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/379HctFmaWUiHTlfUjF5qN"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/2L8kaqJ2YHbKlcX1e1rKnf"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Soul's Core",
+        "url": "https://open.spotify.com/album/0D5vG8Ue7MHe4TxRm2t9Z9"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mullins",
+          "url": "https://open.spotify.com/artist/4TROLx8HvrnfGGNo2ngL2N"
+        }
+      ],
+      "duration_ms": 329866,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/70L4pGAmYv0pTADrgsIxpI"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
         "name": "Weezer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/33CmI2lR8PnQwz6133Mc7l"
       },
@@ -823,22 +743,6 @@
       "duration_ms": 159586,
       "name": "Buddy Holly",
       "url": "https://open.spotify.com/track/7GptbanebPZYkLPvjNfd6m"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -859,6 +763,70 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "The Madding Crowd",
+        "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
+      },
+      "artists": [
+        {
+          "name": "Nine Days",
+          "url": "https://open.spotify.com/artist/306JHpIRGVaQd6OltnOzUO"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Absolutely (Story of a Girl) - Radio Mix",
+      "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
+      },
+      "artists": [
+        {
+          "name": "Lit",
+          "url": "https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp"
+        }
+      ],
+      "duration_ms": 169026,
+      "name": "My Own Worst Enemy",
+      "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "fear",
+        "url": "https://open.spotify.com/album/3UeshcanaZ1xd90cgmQmch"
+      },
+      "artists": [
+        {
+          "name": "Toad The Wet Sprocket",
+          "url": "https://open.spotify.com/artist/4j7EVY3kuDwLPfD2jfC7LC"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/2GHYJ0dhVds3PODKnTdiGE"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
         "name": "Sixteen Stone (Remastered)",
         "url": "https://open.spotify.com/album/72X9bb0R8LXGnVHZ3O40OK"
       },
@@ -875,118 +843,6 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Hints, Allegations & Things Left Unsaid",
-        "url": "https://open.spotify.com/album/3uSVy9q97sAzd5UE0dMdOT"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 306040,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1HZ3cUZUw5htSFmah1V8Ko"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Walking Off The Buzz",
-        "url": "https://open.spotify.com/album/39pQaMKF8KVOal9yw3MZCN"
-      },
-      "artists": [
-        {
-          "name": "Blessid Union Of Souls",
-          "url": "https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Hey Leonardo (She Likes Me For Me)",
-      "url": "https://open.spotify.com/track/54v6i8c1hAFyJ85JwdCE42"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Resident Alien",
-        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
-      },
-      "artists": [
-        {
-          "name": "Spacehog",
-          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "In the Meantime",
-      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Everything You Want",
-        "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
-      },
-      "artists": [
-        {
-          "name": "Vertical Horizon",
-          "url": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Everything You Want",
-      "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Achtung Baby",
-        "url": "https://open.spotify.com/album/1U69hFsxaQxP6fquZmOmNH"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Who's Gonna Ride Your Wild Horses",
-      "url": "https://open.spotify.com/track/6pr4l76PYIgtp6xsvyfSqN"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Jones",
-          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Right Here Right Now",
-      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
@@ -996,25 +852,9 @@
           "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 289440,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx"
-    },
-    {
-      "added_at": "2021-12-21 12:24:03",
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1035,6 +875,70 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
+        "name": "Hints, Allegations & Things Left Unsaid",
+        "url": "https://open.spotify.com/album/3uSVy9q97sAzd5UE0dMdOT"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 306040,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1HZ3cUZUw5htSFmah1V8Ko"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "You Can't Stop The Bum Rush",
+        "url": "https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k"
+      },
+      "artists": [
+        {
+          "name": "LEN",
+          "url": "https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ"
+        }
+      ],
+      "duration_ms": 265533,
+      "name": "Steal My Sunshine",
+      "url": "https://open.spotify.com/track/4agp6oHofabdUedr0B1krj"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Everything You Want",
+        "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
+      },
+      "artists": [
+        {
+          "name": "Vertical Horizon",
+          "url": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "Everything You Want",
+      "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
       },
@@ -1051,18 +955,50 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "All The Pain Money Can Buy",
-        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+        "name": "Resident Alien",
+        "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
       "artists": [
         {
-          "name": "Fastball",
-          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+          "name": "Spacehog",
+          "url": "https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ"
         }
       ],
-      "duration_ms": 257093,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+      "duration_ms": 299506,
+      "name": "In the Meantime",
+      "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 289440,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/7MooGz4ZPE4bNxjFegR6Jx"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Walking Off The Buzz",
+        "url": "https://open.spotify.com/album/39pQaMKF8KVOal9yw3MZCN"
+      },
+      "artists": [
+        {
+          "name": "Blessid Union Of Souls",
+          "url": "https://open.spotify.com/artist/4W4gYpQ2AQq7US2HZS13Qw"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Hey Leonardo (She Likes Me For Me)",
+      "url": "https://open.spotify.com/track/54v6i8c1hAFyJ85JwdCE42"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1083,82 +1019,82 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "evan and jaron",
-        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
+        "name": "Mobile Estates",
+        "url": "https://open.spotify.com/album/74T4OTGbvmJWobgc4ABtMq"
       },
       "artists": [
         {
-          "name": "Evan And Jaron",
-          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
+          "name": "Citizen King",
+          "url": "https://open.spotify.com/artist/2Ca9nb6MJ3lwyF7dRNJm3M"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Crazy for This Girl",
-      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
+      "duration_ms": 207026,
+      "name": "Better Days (And the Bottom Drops Out)",
+      "url": "https://open.spotify.com/track/460Wn6Dq2uMviG5nPXtPnb"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 314173,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s"
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Marcy Playground",
-        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
       },
       "artists": [
         {
-          "name": "Marcy Playground",
-          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+          "name": "Jesus Jones",
+          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Sex & Candy",
-      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+      "duration_ms": 189293,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Fush Yu Mang (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
+        "name": "Achtung Baby",
+        "url": "https://open.spotify.com/album/1U69hFsxaQxP6fquZmOmNH"
       },
       "artists": [
         {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Walkin' On The Sun",
-      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
+      "duration_ms": 316426,
+      "name": "Who's Gonna Ride Your Wild Horses",
+      "url": "https://open.spotify.com/track/6pr4l76PYIgtp6xsvyfSqN"
     },
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+        "name": "As Ugly As It Gets: The Very Best Of",
+        "url": "https://open.spotify.com/album/5oukrASJpumQ9tUHxgK5Kj"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Ugly Kid Joe",
+          "url": "https://open.spotify.com/artist/3XsgWn63EnA4wYZBjVyxjf"
         }
       ],
-      "duration_ms": 258732,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
+      "duration_ms": 255160,
+      "name": "Everything About You",
+      "url": "https://open.spotify.com/track/1O2ACd0zg4GYgQRhLBGYDV"
     },
     {
       "added_at": "2021-12-21 12:24:03",
@@ -1179,6 +1115,22 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
+        "name": "All The Pain Money Can Buy",
+        "url": "https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb"
+      },
+      "artists": [
+        {
+          "name": "Fastball",
+          "url": "https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
         "name": "Mellow Gold",
         "url": "https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8"
       },
@@ -1195,18 +1147,66 @@
     {
       "added_at": "2021-12-21 12:24:03",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+        "name": "Fush Yu Mang (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1CsztoJYGwGURMCppulrOt"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
         }
       ],
-      "duration_ms": 225786,
-      "name": "Shiny Happy People",
-      "url": "https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ"
+      "duration_ms": 207786,
+      "name": "Walkin' On The Sun",
+      "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Marcy Playground",
+        "url": "https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB"
+      },
+      "artists": [
+        {
+          "name": "Marcy Playground",
+          "url": "https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Sex & Candy",
+      "url": "https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "evan and jaron",
+        "url": "https://open.spotify.com/album/6cO4nqzrxmHLcLF032TXFy"
+      },
+      "artists": [
+        {
+          "name": "Evan And Jaron",
+          "url": "https://open.spotify.com/artist/1xeZcY93inQY14LWwnxd5G"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Crazy for This Girl",
+      "url": "https://open.spotify.com/track/2gdt70w8DOCWGq1HdkgSUd"
+    },
+    {
+      "added_at": "2021-12-21 12:24:03",
+      "album": {
+        "name": "Come On Feel The Lemonheads",
+        "url": "https://open.spotify.com/album/3VRRQ7ZomlkmGQfTmf6qDH"
+      },
+      "artists": [
+        {
+          "name": "The Lemonheads",
+          "url": "https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Into Your Arms",
+      "url": "https://open.spotify.com/track/22goEULcezLAiENbgpJw7k"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3YMp9n8fkNx"

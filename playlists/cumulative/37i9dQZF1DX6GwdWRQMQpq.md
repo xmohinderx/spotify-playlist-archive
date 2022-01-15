@@ -2,11 +2,11 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/0FtcGJDMEWLAVf67SoV0Nd)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doja Cat
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Erica Banks
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Letter To You](https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:43 | 2021-09-24 |  |
+| [A Letter To You](https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:43 | 2021-09-24 | 2022-01-15 |
 | [About Me](https://open.spotify.com/track/47wtu7foA0yMcbsfX8FPmQ) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [What's My Name](https://open.spotify.com/album/1WAtJjV9jTuCteNx5H7id5) | 2:55 | 2021-10-15 |  |
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-30 |  |
 | [Apple Jacks](https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Pretty & Paid 2.0](https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2) | 2:26 | 2021-11-19 |  |
@@ -23,10 +23,11 @@
 | [Could Never \(Remix\) \[feat\. Moneybagg Yo\]](https://open.spotify.com/track/7nlH50E3IXShJtgb4gl3nz) | [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Could Never \(Remix\) \[feat\. Moneybagg Yo\]](https://open.spotify.com/album/65a4xOJ9i58wpUnqy2Pyyj) | 3:28 | 2021-10-29 |  |
 | [Cpr](https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Queen Elizabitch](https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU) | 3:28 | 2021-12-17 |  |
 | [Designer](https://open.spotify.com/track/4F0flTfcEU2ZcStYhJsaRy) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Designer](https://open.spotify.com/album/24lFjjePi1ey6ycLdW5WxZ) | 2:17 | 2021-11-12 |  |
+| [Don't Talk](https://open.spotify.com/track/02vPJzKJS04HU2cIvvRlN1) | [Cuban Doll](https://open.spotify.com/artist/32DuKytBMZn90iqyh2HEdc) | [Don't Talk](https://open.spotify.com/album/15HVlassGiyNROvxTxYoXx) | 2:15 | 2022-01-14 |  |
 | [Eat It](https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:49 | 2021-10-29 |  |
 | [Freaky Dancer \(feat\. Trina\)](https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Break The Bank](https://open.spotify.com/album/24TAbvYZhbgh3rhQkg7qvv) | 3:03 | 2021-10-15 |  |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-10 |  |
-| [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-08 |  |
+| [Hrs and Hrs](https://open.spotify.com/track/3xRH6FPVtheDyNla3T1FE7) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection](https://open.spotify.com/album/4gECm6iRIuekmp8r6HIko0) | 3:24 | 2022-01-08 | 2022-01-15 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-08 |  |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2021-10-29 |  |
 | [Icy Chain](https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Icy Chain](https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5) | 1:50 | 2021-11-19 |  |
@@ -51,6 +52,7 @@
 | [SMA](https://open.spotify.com/track/40gDaWBsieyvULRBTYECY4) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT) | [SMA](https://open.spotify.com/album/0OYCEO9W7oXUfq5ELc8buI) | 2:18 | 2021-11-19 |  |
 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 | 2021-11-05 |  |
 | [The Assignment](https://open.spotify.com/track/1iBfg5pMNqR0HFTpDTr73A) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [The Assignment](https://open.spotify.com/album/2lnn72jnHA6corVKMzibS5) | 1:53 | 2021-09-10 |  |
+| [The Best](https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [The Best](https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj) | 2:32 | 2022-01-14 |  |
 | [TMU](https://open.spotify.com/track/633sZMHj2tlc6oKbTVPEPz) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR) | [TMU](https://open.spotify.com/album/14pVzTX0DTUFJ85z5soNFU) | 2:08 | 2021-09-10 | 2022-01-12 |
 | [TWINNEM](https://open.spotify.com/track/3oE2HPoP7DCgxhrqjAosZY) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [TWINNEM](https://open.spotify.com/album/0Am2vQjzogt7wnXMzzC8Mr) | 1:57 | 2021-09-24 |  |
 | [Warning](https://open.spotify.com/track/7F3ugiaOXAjICskrb2yJbo) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:34 | 2021-10-29 |  |

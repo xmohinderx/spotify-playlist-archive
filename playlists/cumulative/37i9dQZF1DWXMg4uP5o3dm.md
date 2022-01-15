@@ -2,7 +2,7 @@
 
 ### [Alternative Beats](https://open.spotify.com/playlist/0GrtTHJWXa7aog4wHbwInq)
 
-> Alternative meets electronic\. Cover: Royal & the Serpent
+> Alternative meets electronic\. Cover: Bob Moses
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-12-07 |  |
 | [Eyelids](https://open.spotify.com/track/2sYvZnDtkQ7Fa0JdjRdqZD) | [Saro](https://open.spotify.com/artist/39kjdm4oUJo40vZgcetOGV) | [Eyelids](https://open.spotify.com/album/0xQhtNl7h6XhKypODh37CR) | 3:58 | 2020-08-17 |  |
 | [fall apart \(with glaive\)](https://open.spotify.com/track/6RYlGPwrNuwG8CqIRDYes6) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [fall apart \(with glaive\)](https://open.spotify.com/album/7vAT0ccu9ehuxQnfcCmqCn) | 2:35 | 2021-05-14 |  |
-| [Fear You](https://open.spotify.com/track/2QN88XWB8FkZ1oqGNfODL9) | [Kat Von D](https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU) | [Fear You](https://open.spotify.com/album/0vRrXDcnH9qEtyjPf9zBxd) | 4:45 | 2021-08-06 |  |
+| [Fear You](https://open.spotify.com/track/2QN88XWB8FkZ1oqGNfODL9) | [Kat Von D](https://open.spotify.com/artist/0eLQCmRxdnxAK9rchhAFlU) | [Fear You](https://open.spotify.com/album/0vRrXDcnH9qEtyjPf9zBxd) | 4:45 | 2021-08-06 | 2022-01-15 |
 | [Feel Alive](https://open.spotify.com/track/3A7MuetzfV2cDtLZbEmXMw) | [USS \(Ubiquitous Synergy Seeker\)](https://open.spotify.com/artist/2gWNtwxO5mOAmjE8EWw2qt) | [Feel Alive](https://open.spotify.com/album/0YL8dobBzKj2V1lcx4tTKV) | 3:46 | 2020-11-27 |  |
 | [Feel Real Pretty](https://open.spotify.com/track/58L9BLQuOAwAzHhCvTpp3l) | [Paper Idol](https://open.spotify.com/artist/6dewigIOIcG6m1XGsG4Mc3) | [Feel Real Pretty](https://open.spotify.com/album/0m2MtmlY7kOaQq5cVAg4DN) | 3:03 | 2020-08-17 |  |
 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 | 2020-08-17 |  |
@@ -68,8 +68,9 @@
 | [Lemonhaze](https://open.spotify.com/track/2bydO0jZES9rBvSnPvYN5L) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [A PawPaw Rod EP](https://open.spotify.com/album/6rdGxnA5zzF0Nly6ZqUwCH) | 2:36 | 2021-09-27 |  |
 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 | 2021-06-18 |  |
 | [lost cause// \(with grandson\)](https://open.spotify.com/track/1zXoU7XohkF9xLMu5LHZ2G) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [lost cause// \(with grandson\)](https://open.spotify.com/album/30pzFBCamJulEWfJTco52K) | 2:51 | 2020-08-28 |  |
+| [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 | 2022-01-14 |  |
 | [Lunatic](https://open.spotify.com/track/3JRoUjaIQB7Ge6ceiGnmc2) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Lunatic](https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR) | 2:21 | 2021-09-03 |  |
-| [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 | 2021-04-02 |  |
+| [Meant to be](https://open.spotify.com/track/4ePuicjF5iE9ZBS8Rz6kRm) | [idkjack](https://open.spotify.com/artist/5KpPvlBtQQCf0Jt836PyJX), [ylm shwty](https://open.spotify.com/artist/3jUsUXS7J4xR3UbHUuy7th) | [Meant to be](https://open.spotify.com/album/5Fpq5kAfeuNJHbMeDXlof8) | 2:39 | 2021-04-02 | 2022-01-15 |
 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 | 2021-07-09 |  |
 | [molotov](https://open.spotify.com/track/6mKS8wregZJldi45FZIwHe) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [molotov](https://open.spotify.com/album/5p03MnJwU3fGTGz0Q1TWUA) | 2:51 | 2021-11-26 |  |
 | [Monster](https://open.spotify.com/track/6RwiFA2a6b8xICdSi4wUqk) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Monster](https://open.spotify.com/album/6amlnVgJTGqQNnAwP7fOfL) | 2:58 | 2021-07-30 |  |

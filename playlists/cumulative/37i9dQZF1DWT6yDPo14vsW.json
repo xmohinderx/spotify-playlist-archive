@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-01-13",
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
   "name": "Amor y Desamor",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "1YrzgOkwUbL9XUNWYqQR2W"
+  ],
   "tracks": [
     {
       "album": {
@@ -53,7 +55,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 191973,
       "name": "Ahora Te Puedes Marchar",
       "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
@@ -269,7 +271,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 294906,
       "name": "Bella (She's All I Ever Had)",
       "url": "https://open.spotify.com/track/5u1BrOqDnQdguBbgoeeEf1"
@@ -323,7 +325,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 267280,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/139SxHqKl7YOmuC1RAnmpJ"
@@ -541,7 +543,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 268800,
       "name": "En ausencia de ti",
       "url": "https://open.spotify.com/track/0I2feE3ac2r9QFhi6y4MDx"
@@ -779,7 +781,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 215773,
       "name": "Invierno",
       "url": "https://open.spotify.com/track/5saQ13jGnI9vZzZ1nQFKrn"
@@ -797,7 +799,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 225680,
       "name": "Inv\u00e9ntame - Live",
       "url": "https://open.spotify.com/track/0LYBDxw09hDPwdybZvm8FI"
@@ -873,10 +875,28 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229733,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/0Wy48eMEGaj74eJrQbIl5r"
+    },
+    {
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "album": {
@@ -939,6 +959,24 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
+    },
+    {
+      "album": {
+        "name": "Lo Que Son las Cosas",
+        "url": "https://open.spotify.com/album/7LiVEl4UrNRnVAydhYjCfl"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232282,
+      "name": "Lo Que Son las Cosas",
+      "url": "https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3"
     },
     {
       "album": {
@@ -1014,6 +1052,24 @@
     },
     {
       "album": {
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "album": {
         "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
         "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
       },
@@ -1083,6 +1139,24 @@
       "duration_ms": 310400,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4X4eypK7U3nCtOegosnciD"
+    },
+    {
+      "album": {
+        "name": "Franco De Vita En Primera Fila Y M\u00e1s",
+        "url": "https://open.spotify.com/album/6zDg1q7wTpzkufi2JjFpjd"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "date_added": "2021-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219853,
+      "name": "Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7r6N3v65Oq4lkViGiCWcB7"
     },
     {
       "album": {
@@ -1493,7 +1567,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 267000,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/2lU0jHMTVm4zT7sxue8q6o"
@@ -1661,7 +1735,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 261360,
       "name": "Tarde O Temprano",
       "url": "https://open.spotify.com/track/4DiDfrTp1wpDfphcDaEfRO"
@@ -1679,7 +1753,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 195710,
       "name": "Te Confieso",
       "url": "https://open.spotify.com/track/7AIy2SEjip6FKhlSNMoMac"
@@ -1877,7 +1951,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 256666,
       "name": "Y Te Pienso",
       "url": "https://open.spotify.com/track/7G4Zmm9NxxAXstaQosuX6c"
@@ -1895,7 +1969,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "Y Todo Queda en Nada",
       "url": "https://open.spotify.com/track/44PcqZldHvLphouCGnH7i0"

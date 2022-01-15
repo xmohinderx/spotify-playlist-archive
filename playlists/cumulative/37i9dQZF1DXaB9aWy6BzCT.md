@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DXaB9aWy6BzCT.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXaB9aWy6BzCT) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaB9aWy6BzCT)
 
-### Dos íconos: Daddy Yankee x Nicky Jam
+### [Dos íconos: Daddy Yankee x Nicky Jam](https://open.spotify.com/playlist/2iNy939SfL8nLUv0oj5dNy)
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 

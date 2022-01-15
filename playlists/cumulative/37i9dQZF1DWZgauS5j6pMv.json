@@ -284,6 +284,28 @@
     },
     {
       "album": {
+        "name": "Bad Weather (STR4TA Remix)",
+        "url": "https://open.spotify.com/album/4z9gDwplcBMDpDLtmwBf1G"
+      },
+      "artists": [
+        {
+          "name": "Anushka",
+          "url": "https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody"
+        },
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211034,
+      "name": "Bad Weather - STR4TA Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/6lNkrZ5fvRNRRob8qIvHWY"
+    },
+    {
+      "album": {
         "name": "Years",
         "url": "https://open.spotify.com/album/4iucJnSKmWG79eEsu0GxyB"
       },
@@ -1044,7 +1066,7 @@
       "artists": [
         {
           "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5"
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
       "date_added": "2021-06-18",

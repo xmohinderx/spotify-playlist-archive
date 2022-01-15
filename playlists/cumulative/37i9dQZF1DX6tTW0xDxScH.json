@@ -387,7 +387,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 201653,
       "name": "Golden",
       "url": "https://open.spotify.com/track/37EENqOKD6uxLwthqxhKLt"
@@ -463,7 +463,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 272893,
       "name": "Heat Wave",
       "url": "https://open.spotify.com/track/3GrQGjwZj2K3nQMBamhRC1"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 258053,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/04RdUAbN5UAM0cHTVD1kCv"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 325145,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/6yPfoOEeB6F7lvmzkV5oTK"
@@ -557,6 +557,28 @@
       "duration_ms": 246144,
       "name": "I'll Be Loving You",
       "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
+    },
+    {
+      "album": {
+        "name": "iFeel",
+        "url": "https://open.spotify.com/album/3pgkyPj3vSQ0TYCoGQJKaF"
+      },
+      "artists": [
+        {
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269638,
+      "name": "iFeel",
+      "url": "https://open.spotify.com/track/5ed0x7s2O191nQ9gfmAhHM"
     },
     {
       "album": {
@@ -701,7 +723,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 185800,
       "name": "Let's Move To The Country",
       "url": "https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG"
@@ -933,7 +955,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 187786,
       "name": "Neil Young on High",
       "url": "https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT"
@@ -1095,7 +1117,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 232053,
       "name": "Red Room",
       "url": "https://open.spotify.com/track/0aefDhwto2nL2kTHIiil0J"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 194493,
       "name": "Shy",
       "url": "https://open.spotify.com/track/407qAIie8sIEgquKD1AAd2"
@@ -1395,7 +1417,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -1489,7 +1511,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 169600,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0YhOZRW1MdlRpXh6TpBDx3"
@@ -1507,7 +1529,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -1583,7 +1605,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 273866,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV"
@@ -1601,7 +1623,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214643,
       "name": "Timing",
       "url": "https://open.spotify.com/track/21i3EJ8BUOtxtGMuD3UH8Z"
@@ -1771,6 +1793,24 @@
       "duration_ms": 229666,
       "name": "Woman",
       "url": "https://open.spotify.com/track/4RraQaETfGBWvDAbVeCBib"
+    },
+    {
+      "album": {
+        "name": "Years Ago",
+        "url": "https://open.spotify.com/album/2j9gymeRvJ6xfcYO0i4SAc"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194911,
+      "name": "Years Ago",
+      "url": "https://open.spotify.com/track/5UxUkbybJ8nroGVC9tIKat"
     },
     {
       "album": {

@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 147121,
       "name": "Bash money (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/7KOV7goz91wTufZxO51Ebn"
@@ -507,10 +507,28 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 140613,
       "name": "Cliff Hanger",
       "url": "https://open.spotify.com/track/6EpGSeInzJgZVDVgfpMn7h"
+    },
+    {
+      "album": {
+        "name": "Crystal Ball",
+        "url": "https://open.spotify.com/album/79N96g4sh8QwGGp09VMJZN"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/50bGW8Z9qGXlWC1CpOORr1"
     },
     {
       "album": {
@@ -591,7 +609,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189346,
       "name": "Dropout Boogie",
       "url": "https://open.spotify.com/track/7pNGCmzKPTPUbAE7gAttTE"
@@ -815,7 +833,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 130666,
       "name": "genesis.",
       "url": "https://open.spotify.com/track/16KP30wHmKZvPE5hlTHCfI"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 239026,
       "name": "God Is Perfect",
       "url": "https://open.spotify.com/track/5V9lnDn1hePoudMfKfCTNl"
@@ -1020,6 +1038,36 @@
     },
     {
       "album": {
+        "name": "Hood Blues",
+        "url": "https://open.spotify.com/album/6B7qtytx2HbSpqRWXbgxmR"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        },
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276208,
+      "name": "Hood Blues (feat. Westside Gunn, Benny The Butcher & Conway The Machine)",
+      "url": "https://open.spotify.com/track/2gFD8UPaAcuNfz7Lrwd0Bp"
+    },
+    {
+      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -1137,7 +1185,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 146419,
       "name": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
       "url": "https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM"
@@ -1447,7 +1495,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 195367,
       "name": "Moment of Truth",
       "url": "https://open.spotify.com/track/6TmQQEMF0KwpXYbmBgHpNU"
@@ -1549,7 +1597,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 204386,
       "name": "No Explanation",
       "url": "https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4"
@@ -1589,7 +1637,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 182336,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U"
@@ -1695,7 +1743,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 191481,
       "name": "Peaks N Pitfalls",
       "url": "https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR"
@@ -2033,7 +2081,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 235023,
       "name": "Shooter",
       "url": "https://open.spotify.com/track/7hOjezWUSDr2FaBBUiX8dz"
@@ -2055,7 +2103,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 178902,
       "name": "Shrimp at Phillipes (feat. Benny the Butcher)",
       "url": "https://open.spotify.com/track/1my5ZY0jeF4yJ7MXtQvj1M"
@@ -2169,7 +2217,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 257832,
       "name": "Sprague Street",
       "url": "https://open.spotify.com/track/661c0RssF9QbkyBoqcwGRx"
@@ -2323,7 +2371,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235500,
       "name": "Sunday Morning Drive (feat. Curren$y & Dom Kennedy)",
       "url": "https://open.spotify.com/track/6CFS1rOM1rlhESQr6FMaFS"
@@ -2385,7 +2433,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 127031,
       "name": "Tangible Assets",
       "url": "https://open.spotify.com/track/13biO041eq28N49u710xIs"
@@ -2407,7 +2455,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 176551,
       "name": "Teriyaki",
       "url": "https://open.spotify.com/track/7AIuD4vqXRUYtlT1ykFLew"
@@ -2605,7 +2653,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 116829,
       "name": "Theme For The People",
       "url": "https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE"
@@ -2649,7 +2697,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 214137,
       "name": "Top of the Morning",
       "url": "https://open.spotify.com/track/7GDwVJttKCeqfeANTwe9y3"
@@ -2715,7 +2763,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
@@ -2851,7 +2899,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 181466,
       "name": "Young King",
       "url": "https://open.spotify.com/track/0e06xmdGFV4Rf796vIBCle"

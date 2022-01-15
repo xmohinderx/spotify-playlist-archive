@@ -758,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Alive (It Feels Like)",
+        "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Alive (It Feels Like)",
+      "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
+    },
+    {
+      "album": {
         "name": "All Fired Up",
         "url": "https://open.spotify.com/album/7w3wCIKuJxNASfp3xG8ppY"
       },
@@ -5147,7 +5165,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 238400,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/43HrWjjYGP8kXqjThk618V"
@@ -6757,7 +6775,7 @@
       ],
       "date_added": "2021-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/3uxsrlRldPneshvxlXVcYS"
@@ -10042,6 +10060,36 @@
     },
     {
       "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6jjqxXsvaOt0Gt6ReEZkDW"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "PRINSH",
+          "url": "https://open.spotify.com/artist/5h94tCQLiKuHEOlZMgMRJ4"
+        },
+        {
+          "name": "D.I.B",
+          "url": "https://open.spotify.com/artist/62abaeWx0GbxRdd8GdjQj9"
+        },
+        {
+          "name": "Goz Asai",
+          "url": "https://open.spotify.com/artist/3SHxtacFn1s9bYmf2ebCOn"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/50yFqoTXLnFKpgpXU94dTn"
+    },
+    {
+      "album": {
         "name": "In Time",
         "url": "https://open.spotify.com/album/1ApdJAkdSNedajVlGRKjNz"
       },
@@ -12413,7 +12461,7 @@
       ],
       "date_added": "2020-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 190487,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/51Of5p3lKZeOg6itfs4og4"
@@ -18439,7 +18487,7 @@
       ],
       "date_added": "2021-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 165000,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/65tQ1ZL4Q5uKsghVoj1O8o"

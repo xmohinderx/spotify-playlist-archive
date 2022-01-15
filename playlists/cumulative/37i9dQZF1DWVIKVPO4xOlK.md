@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVIKVPO4xOlK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVIKVPO4xOlK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVIKVPO4xOlK)
 
-### Rompiendo: Los Angeles
+### [Rompiendo: Los Angeles](https://open.spotify.com/playlist/0bH4Nye50v2mRRde9njJas)
 
 > Welcome to L.A\. Lo que suena in the city of dreams\. Cover: Grupo Firme, Maluma
 

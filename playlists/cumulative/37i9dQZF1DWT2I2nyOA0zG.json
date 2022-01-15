@@ -150,6 +150,32 @@
     },
     {
       "album": {
+        "name": "Man",
+        "url": "https://open.spotify.com/album/2jYuXSwfh6qdqhrcRrplbO"
+      },
+      "artists": [
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        },
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Klem",
+          "url": "https://open.spotify.com/artist/2aImsy0HLKw0cbiyCDJX3t"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196678,
+      "name": "Be a Man",
+      "url": "https://open.spotify.com/track/4LFL0eNYe5cRNy87Cn6PCl"
+    },
+    {
+      "album": {
         "name": "Blow My Mind",
         "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
       },

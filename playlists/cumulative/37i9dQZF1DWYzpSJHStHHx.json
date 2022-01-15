@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 203750,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222408,
       "name": "All Yours",
       "url": "https://open.spotify.com/track/1LAzF3sa7k3QrOKtpCVgLJ"
@@ -343,7 +343,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 218003,
       "name": "Crystal Night",
       "url": "https://open.spotify.com/track/6A3MxyZsLIaG07chsY3L1q"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 147653,
       "name": "DARLING",
       "url": "https://open.spotify.com/track/63WglSNzQJ4pzS6OYEsj6B"
@@ -721,7 +721,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 347000,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/6bKHrmhfMFhlXqYR6zfPt9"
@@ -869,6 +869,28 @@
       "duration_ms": 223053,
       "name": "Let the Sun In",
       "url": "https://open.spotify.com/track/6qMiZK4mGuCRkVwRFds4Sm"
+    },
+    {
+      "album": {
+        "name": "Life's So Good (feat. Cherry Surf)",
+        "url": "https://open.spotify.com/album/6jJDDnkqqtxbWIqap2SNxL"
+      },
+      "artists": [
+        {
+          "name": "Chet Porter",
+          "url": "https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb"
+        },
+        {
+          "name": "Cherry Surf",
+          "url": "https://open.spotify.com/artist/35j9UeFevD5ajbybRznTPx"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216285,
+      "name": "Life's So Good (feat. Cherry Surf)",
+      "url": "https://open.spotify.com/track/6wpYutp0e5dtaV2kCDv12O"
     },
     {
       "album": {
@@ -1045,7 +1067,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 185191,
       "name": "Orchestration",
       "url": "https://open.spotify.com/track/0dt7HhWCKFlQgQuvVLVumN"
@@ -1081,7 +1103,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 174597,
       "name": "Out in the Country",
       "url": "https://open.spotify.com/track/7FWhvGFDMGo3BkuSI00rOi"
@@ -1189,7 +1211,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 261362,
       "name": "Poor Relations",
       "url": "https://open.spotify.com/track/2OPmmqhPLBbHoHwtzOsUnl"
@@ -1315,7 +1337,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 228015,
       "name": "Shalala",
       "url": "https://open.spotify.com/track/0Bl1Gt8R9kjz7JO7SYAuhe"
@@ -1387,7 +1409,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 245386,
       "name": "Something Here",
       "url": "https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez"
@@ -1661,7 +1683,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 208906,
       "name": "Watching Cartoons",
       "url": "https://open.spotify.com/track/3IIZJE9HWQM0dkBBwL8TSW"

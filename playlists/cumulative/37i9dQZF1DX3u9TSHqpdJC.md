@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX3u9TSHqpdJC.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX3u9TSHqpdJC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX3u9TSHqpdJC)
 
-### [Fresh Finds Pop](https://open.spotify.com/playlist/0YjSDOaLou4lkDlWrOqgY0)
+### [Fresh Finds Pop](https://open.spotify.com/playlist/7LG5jVTVD9hBH6AjjuPeXF)
 
 > The best new pop music by independent artists\. Updates every Wednesday\. Cover: MIXIE  Artwork: Paola Saliby
 

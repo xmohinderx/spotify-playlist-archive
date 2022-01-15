@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,211,014 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,211,022 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 49 | [Nocturnal](https://open.spotify.com/track/135t5w0BiSthsGeqgKB3Gw) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Nocturnal](https://open.spotify.com/album/3QB4VboOQHb2iNP7ObBltP) | 4:22 |
 | 50 | [Whole \- demo](https://open.spotify.com/track/2NsW7nEPsgmqUqEO7GJ83F) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Whole \(demo\)](https://open.spotify.com/album/0kHwSWelfEdfr31kmH68Ue) | 3:08 |
 | 51 | [Lonely Star](https://open.spotify.com/track/5v7R1oGmAtsUFHJg66awep) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Lonely Star](https://open.spotify.com/album/1qmgvWOYMWHW5jLcV6rZzr) | 3:57 |
-| 52 | [Signal](https://open.spotify.com/track/3zu8faDUjfjpgdC7orgszA) | [Tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Signal](https://open.spotify.com/album/3N9okJZ9efu5Y7425rlLQ7) | 3:41 |
+| 52 | [Signal](https://open.spotify.com/track/3zu8faDUjfjpgdC7orgszA) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [Signal](https://open.spotify.com/album/3N9okJZ9efu5Y7425rlLQ7) | 3:41 |
 | 53 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 |
 | 54 | [High Moon](https://open.spotify.com/track/5g7kNKE5PK1XNBuVQ6mVyf) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [High Moon](https://open.spotify.com/album/4lId9PZ1NyhAb3Tk1NfetV) | 3:51 |
 | 55 | [Prayer](https://open.spotify.com/track/7bY5R1aMqo72yntoqhw72e) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Prayer](https://open.spotify.com/album/341A6tPNsyBWDE6GfJqZPH) | 5:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 
 > Keep on rockin' in the free world with these classic tracks from musicians born in the USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,675 likes - 29 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,738 likes - 29 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09NvEVpeM77.md) - [plain]
 | 5 | [Dream Baby Dream](https://open.spotify.com/track/03VQOmKVUZIOBym1Tt0IAa) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dream Baby Dream](https://open.spotify.com/album/6UE3XEwebpGb5oyDNH5gNw) | 5:02 |
 | 6 | [Ramblin' Man](https://open.spotify.com/track/1Rm9HY2oV8hRECzb8FypF0) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7), [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Big Fish \(Music from the Motion Picture\)](https://open.spotify.com/album/3xzFIcun38dKeUM0YRkrfm) | 4:57 |
 | 7 | [Romeo's Tune](https://open.spotify.com/track/6eCWvDQXTITW534IANR5n1) | [Steve Forbert](https://open.spotify.com/artist/3oAbjWINfcTSAuVUlXXMty) | [The Best of Steve Forbert: What Kinda Guy?](https://open.spotify.com/album/6MDxxE3rPApEFg1uADJvmw) | 3:32 |
-| 8 | [Angel from Montgomery](https://open.spotify.com/track/7fgho0AZlDBk6dmo9LUNC0) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Rhino Hi\-Five: John Prine](https://open.spotify.com/album/6tbaputaLMSI298F04OuOP) | 3:44 |
+| 8 | [Angel from Montgomery](https://open.spotify.com/track/7fgho0AZlDBk6dmo9LUNC0) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [Rhino Hi\-Five: John Prine](https://open.spotify.com/album/6tbaputaLMSI298F04OuOP) | 3:41 |
 | 9 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 10 | [Keith Don't Go \(Ode To The Glimmer Twin\)](https://open.spotify.com/track/5oemRrabTRv7L7fm7VYtpc) | [Nils Lofgren](https://open.spotify.com/artist/2TpAfGX0XNikAg5QjrbbvE) | [Ultimate Collection: Nils Lofgren](https://open.spotify.com/album/74WJFYtq63wFXIaOfhi39U) | 4:23 |
 | 11 | [The Old Man Down The Road](https://open.spotify.com/track/4SMz9IL5uiLadHshWxOvsO) | [John Fogerty](https://open.spotify.com/artist/5ujCegv1BRbEPTCwQqFk6t) | [The Long Road Home \- The Ultimate John Fogerty / Creedence Collection](https://open.spotify.com/album/4A8gFwqd9jTtnsNwUu3OQx) | 3:33 |

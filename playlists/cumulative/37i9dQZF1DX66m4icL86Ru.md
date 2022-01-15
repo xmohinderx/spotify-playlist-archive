@@ -2,7 +2,7 @@
 
 ### [BBE](https://open.spotify.com/playlist/6fHUp4TYDozaapLssJC9LA)
 
-> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: Cookiee Kawaii
+> Bad b\*\*\*\* energy\. Be blessed, be spicy\. Cover: City Girls
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Beating Down Yo Block](https://open.spotify.com/track/5V2p1V1ZaCJPjpcN2Nf5h2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Beating Down Yo Block](https://open.spotify.com/album/28R3EJ4K1iU8aR0aoRxIzK) | 3:12 | 2021-10-15 |  |
 | [Bedroom](https://open.spotify.com/track/6WaXnBrjm9QlNYfncRqtei) | [Supahbadd](https://open.spotify.com/artist/1HaUkY7GweQxgdKQGJZS2O) | [Bedroom](https://open.spotify.com/album/2H4D1nUVhYUVXmvSmDSlwp) | 3:03 | 2021-11-11 |  |
 | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Best Friend \(feat\. Doja Cat\)](https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4) | 2:35 | 2021-10-15 |  |
-| [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 | 2021-10-24 |  |
+| [BIG](https://open.spotify.com/track/0wRpsc7jtLA8V0COFkwtYG) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P) | [BIG](https://open.spotify.com/album/4mYgWeJ39gMlXqTPOUzASz) | 2:40 | 2021-10-24 | 2022-01-15 |
 | [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2021-10-15 |  |
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2021-10-15 |  |
 | [Boss Ass Bitch \(with PTAF\) \- Remix](https://open.spotify.com/track/7eLCcnhpYGH3Y6Pqrk68Gz) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [PTAF](https://open.spotify.com/artist/6Xiuj9T13YmHkjZ70VWerK) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:08 | 2021-10-15 |  |
@@ -83,7 +83,7 @@
 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 | 2021-10-15 |  |
 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/4XkrlDVc8UQUvsyRsxvU0M) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/5RB5wkvts1gXIiDwRa8WQL) | 3:29 | 2021-10-15 |  |
 | [X](https://open.spotify.com/track/3LUvWNx3ceBjsOeuDOMEsl) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 2:51 | 2021-10-15 |  |
-| [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 | 2021-10-15 |  |
-| [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [DOECHII](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 | 2021-10-15 |  |
+| [Yikes](https://open.spotify.com/track/75dLEqanQTupF3dtP9exT5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Yikes](https://open.spotify.com/album/2IvvAdx63KEfVHPAvYdQ1O) | 2:36 | 2021-10-15 | 2022-01-15 |
+| [Yucky Blucky Fruitcake](https://open.spotify.com/track/1j3SdMJfeRJXycCp50boYE) | [DOECHII](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 4:35 | 2021-10-15 | 2022-01-15 |
 
 \*This playlist was first scraped on 2021-12-30. Prior content cannot be recovered.

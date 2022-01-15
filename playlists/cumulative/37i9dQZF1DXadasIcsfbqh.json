@@ -270,6 +270,24 @@
     },
     {
       "album": {
+        "name": "Break My Heart Again",
+        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201256,
+      "name": "Break My Heart Again",
+      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
+    },
+    {
+      "album": {
         "name": "Breakups",
         "url": "https://open.spotify.com/album/59PZ1sBuiJjiLLL5qCvoua"
       },
@@ -820,6 +838,32 @@
     },
     {
       "album": {
+        "name": "High Horse",
+        "url": "https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        },
+        {
+          "name": "Blanco Brown",
+          "url": "https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152781,
+      "name": "High Horse (feat. BRELAND and Blanco Brown)",
+      "url": "https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7"
+    },
+    {
+      "album": {
         "name": "Hits me (pop mix)",
         "url": "https://open.spotify.com/album/3neeCMnAIXpvxEWcWNEEOQ"
       },
@@ -1125,6 +1169,24 @@
       "duration_ms": 172720,
       "name": "Kiss Her",
       "url": "https://open.spotify.com/track/6qyHEaztEydyWCEOZjJSOv"
+    },
+    {
+      "album": {
+        "name": "Know My Way Around",
+        "url": "https://open.spotify.com/album/3R61ViOGcEiAk1mkBQMhy4"
+      },
+      "artists": [
+        {
+          "name": "Lily Rose",
+          "url": "https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174078,
+      "name": "Know My Way Around",
+      "url": "https://open.spotify.com/track/5CtXnj47Mr0ZXGjTbnd7Aj"
     },
     {
       "album": {
@@ -1621,7 +1683,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 161590,
       "name": "So Far So Good",
       "url": "https://open.spotify.com/track/3cIiJErQHF9NUcp6DwEOGB"
@@ -1863,7 +1925,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 226546,
       "name": "The Nights",
       "url": "https://open.spotify.com/track/6luzHTAI6HmHjhm8OCrqX5"

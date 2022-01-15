@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 170624,
       "name": "Anyone But You - Steve Brian Remix",
       "url": "https://open.spotify.com/track/3r6jXcM19bhtLzzWJLcwrD"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207580,
       "name": "Everafter - Cubicore Remix",
       "url": "https://open.spotify.com/track/4P5Z97Jw98Islo4CcjluBm"
@@ -1622,6 +1622,28 @@
     },
     {
       "album": {
+        "name": "L.O.V.E.",
+        "url": "https://open.spotify.com/album/7CmmKcsLxUzm0U5YbcQmm7"
+      },
+      "artists": [
+        {
+          "name": "Kudus",
+          "url": "https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8"
+        },
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241547,
+      "name": "L.O.V.E.",
+      "url": "https://open.spotify.com/track/7MrgkbteQpwXn7f2rMK5Cu"
+    },
+    {
+      "album": {
         "name": "La Musica",
         "url": "https://open.spotify.com/album/65UiRTx9Swg8JvclirkLHQ"
       },
@@ -2112,6 +2134,50 @@
     },
     {
       "album": {
+        "name": "Never Alone",
+        "url": "https://open.spotify.com/album/0YdiKCM6bohQZxmQOHbDWt"
+      },
+      "artists": [
+        {
+          "name": "Siskin",
+          "url": "https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217851,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/3BDs1MOQNYRX0G0kmpV8Iw"
+    },
+    {
+      "album": {
+        "name": "Never Fade Away",
+        "url": "https://open.spotify.com/album/79ZPuDNVySkxCXUgDdML8h"
+      },
+      "artists": [
+        {
+          "name": "John O'Callaghan",
+          "url": "https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb"
+        },
+        {
+          "name": "Lo-Fi Sugar",
+          "url": "https://open.spotify.com/artist/7dgk105OUyKcy7lfUn5uHy"
+        },
+        {
+          "name": "Maarten de Jong",
+          "url": "https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234705,
+      "name": "Never Fade Away - Maarten de Jong Remix",
+      "url": "https://open.spotify.com/track/6sscfnG0RcwxteRjd6VduT"
+    },
+    {
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/4kuMHJQcjvDGSBnbbJe4bF"
       },
@@ -2449,7 +2515,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 267304,
       "name": "Poison",
       "url": "https://open.spotify.com/track/7hgErdFGOvCeZBjrKyrPpu"
@@ -2711,7 +2777,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 203562,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/05FXC7v7Cx6o2PRRryLr0d"
@@ -3045,7 +3111,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229737,
       "name": "Summer Wonder - Album Mix",
       "url": "https://open.spotify.com/track/2OhPM3UO6JiF9170KpG9KI"
@@ -3119,6 +3185,32 @@
       "duration_ms": 251250,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/2TlhOVwPyMJ0CbdgHS34JQ"
+    },
+    {
+      "album": {
+        "name": "Superhuman (Ferry Corsten Remix)",
+        "url": "https://open.spotify.com/album/6NkoLwTZAKOAvM4CNH4ssv"
+      },
+      "artists": [
+        {
+          "name": "Tritonal",
+          "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+        },
+        {
+          "name": "Codeko",
+          "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+        },
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204625,
+      "name": "Superhuman - Ferry Corsten Remix",
+      "url": "https://open.spotify.com/track/0TvSmTJ1Mjvy5ZMV7z1kdS"
     },
     {
       "album": {

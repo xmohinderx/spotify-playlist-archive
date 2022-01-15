@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Folksy takes on your favorite tracks. Cover: Waxahatchee",
+  "description": "Folksy takes on your favorite tracks. Cover: Madison Cunningham",
   "name": "Folksy Covers",
   "published_playlist_ids": [
     "6KADyqBu5lIdzQAumGvv1d"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 290518,
       "name": "1979",
       "url": "https://open.spotify.com/track/2KSezpA4CZxv1RkQvA1jXE"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200705,
       "name": "Anthems For A Seventeen Year Old Girl",
       "url": "https://open.spotify.com/track/4theWoXNBRcNzY43Mwdl7V"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 145710,
       "name": "Between the Bars",
       "url": "https://open.spotify.com/track/08jPCtJE10FFnYC322p6Fb"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 294613,
       "name": "Don't Tell Our Friends About Me",
       "url": "https://open.spotify.com/track/01J26T3XB19o21N7XV4npl"
@@ -789,7 +789,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 275880,
       "name": "everything i wanted",
       "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 274185,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/05CQBqtPTeNq33iNe8Ref3"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 289586,
       "name": "Freedom Highway",
       "url": "https://open.spotify.com/track/3BpfVJSY1fUlzHXfnrzsSg"
@@ -1079,7 +1079,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 230628,
       "name": "Grace Cathedral Hill",
       "url": "https://open.spotify.com/track/59BzCcdu2ButHSdrh64x1a"
@@ -1151,7 +1151,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 307093,
       "name": "Heaven Help The Child",
       "url": "https://open.spotify.com/track/1FkGD5BKk9uaFrNxuLBc6b"
@@ -1358,6 +1358,24 @@
     },
     {
       "album": {
+        "name": "I Will Follow You Into The Dark",
+        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224692,
+      "name": "I Will Follow You Into The Dark",
+      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
+    },
+    {
+      "album": {
         "name": "i'm not okay",
         "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
       },
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 304693,
       "name": "If I Were A Carpenter",
       "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
@@ -1521,7 +1539,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 282715,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
@@ -1717,7 +1735,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
@@ -1739,6 +1757,42 @@
       "duration_ms": 268544,
       "name": "Love Song to a Stranger",
       "url": "https://open.spotify.com/track/4okbeDeYmiiVB9s4A4Wg50"
+    },
+    {
+      "album": {
+        "name": "Love Will Tear Us Apart",
+        "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168968,
+      "name": "Love Will Tear Us Apart",
+      "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
+    },
+    {
+      "album": {
+        "name": "Wednesday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
     },
     {
       "album": {
@@ -1765,6 +1819,24 @@
       "duration_ms": 294957,
       "name": "Mississippi Goddam (feat. Adia Victoria & Kyshona Armstrong)",
       "url": "https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm"
+    },
+    {
+      "album": {
+        "name": "En attendant Bojangles",
+        "url": "https://open.spotify.com/album/6zaUIV18Hyfm99ivyJDf3V"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243448,
+      "name": "Mr Bojangles",
+      "url": "https://open.spotify.com/track/5HCEmNaQAdqN3xRFu2ChmZ"
     },
     {
       "album": {
@@ -1855,7 +1927,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
@@ -2003,7 +2075,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 137314,
       "name": "Revival",
       "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
@@ -2133,7 +2205,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 291093,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
@@ -2151,7 +2223,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 142153,
       "name": "Something",
       "url": "https://open.spotify.com/track/1GVjmjhCqS0J050HkO18PA"
@@ -2307,7 +2379,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 178440,
       "name": "Talking Dust Bowl Blues",
       "url": "https://open.spotify.com/track/5oAm6BdHcTfZbWKU7H0TzK"
@@ -2325,7 +2397,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 304424,
       "name": "Tea, Milk & Honey",
       "url": "https://open.spotify.com/track/2IAYtvpg2nXU4NGSuliSaC"
@@ -2405,7 +2477,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 245229,
       "name": "The Boxer",
       "url": "https://open.spotify.com/track/0YlUnqnC63U8hRGOkDDHie"
@@ -2619,7 +2691,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206573,
       "name": "To Love Somebody",
       "url": "https://open.spotify.com/track/4QSydVI5rxWfRYlWHjF1Rd"
@@ -2673,7 +2745,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 165306,
       "name": "True Love Will Find You In The End",
       "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
@@ -2774,6 +2846,24 @@
     },
     {
       "album": {
+        "name": "Will The Circle Be Unbroken",
+        "url": "https://open.spotify.com/album/4co3fekKkAONGfCwb4RC1Y"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235516,
+      "name": "Will The Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/6bXVXxL9PbAUl0Zhz5lXTU"
+    },
+    {
+      "album": {
         "name": "Wildewoman (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3FbnUTejfWegwYtIS8SRql"
       },
@@ -2785,7 +2875,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 297112,
       "name": "Wonderful (Recorded Live at Kcsn, Los Angeles)",
       "url": "https://open.spotify.com/track/6MdAwOYUTYDTOv0kb10Oq7"
@@ -2865,7 +2955,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 201160,
       "name": "You Turn Me On, I'm A Radio",
       "url": "https://open.spotify.com/track/2TUSsSw38J1S1BHI78XMYT"

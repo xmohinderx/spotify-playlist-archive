@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 157293,
       "name": "A Bad Case Of The Blues",
       "url": "https://open.spotify.com/track/6Mdh8mHdajX5slhofHJkKB"
@@ -85,7 +85,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 133208,
       "name": "A Better Place",
       "url": "https://open.spotify.com/track/38XEHVGy4xCfeaBNKjJOTY"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 160866,
       "name": "July Tree",
       "url": "https://open.spotify.com/track/6CqX2ZEoFm854CRVAbmhby"
@@ -2159,6 +2159,24 @@
       "duration_ms": 180720,
       "name": "Till I Waltz Again With You",
       "url": "https://open.spotify.com/track/5JSa7B1wgW5x5aNIziHjfM"
+    },
+    {
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1eudqXesmmxC08VZaNtEaq"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126293,
+      "name": "Till There Was You",
+      "url": "https://open.spotify.com/track/7n8HjcaEQzwwpyxHdjWjQq"
     },
     {
       "album": {

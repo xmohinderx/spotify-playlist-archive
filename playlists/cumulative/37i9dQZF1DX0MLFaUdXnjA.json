@@ -3082,6 +3082,24 @@
     },
     {
       "album": {
+        "name": "Could I Break Your Heart",
+        "url": "https://open.spotify.com/album/2GxMoCOHTcHK14F4pT7CD2"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235630,
+      "name": "Could I Break Your Heart",
+      "url": "https://open.spotify.com/track/1W0WTqgKKTmmEzcNQWNG6y"
+    },
+    {
+      "album": {
         "name": "COUNT ON U",
         "url": "https://open.spotify.com/album/7HveFAkHvRv06uDrOGyPQ5"
       },
@@ -3219,7 +3237,7 @@
       ],
       "date_added": "2021-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 142721,
       "name": "crushed",
       "url": "https://open.spotify.com/track/233mUxfl3mu45QS0SgbpCK"
@@ -5335,7 +5353,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -8900,6 +8918,28 @@
     },
     {
       "album": {
+        "name": "Make It Out (feat. Maisie Peters)",
+        "url": "https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Make It Out (feat. Maisie Peters)",
+      "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+    },
+    {
+      "album": {
         "name": "Pink Noise",
         "url": "https://open.spotify.com/album/4Y18OAJV6GwtTlQ6E5vcoc"
       },
@@ -10830,6 +10870,24 @@
     },
     {
       "album": {
+        "name": "Picture Myself",
+        "url": "https://open.spotify.com/album/6LHKYRQ0aTADgfgZErmYjT"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211337,
+      "name": "Picture Myself",
+      "url": "https://open.spotify.com/track/3QWIMcT8jEbBaGAXZDRmel"
+    },
+    {
+      "album": {
         "name": "Picture Of You",
         "url": "https://open.spotify.com/album/6bCIFiwdO5kqSuCHd7ZzPF"
       },
@@ -11379,7 +11437,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 217368,
       "name": "Rockland",
       "url": "https://open.spotify.com/track/2fooMOezILHFlxkCqq3RRm"

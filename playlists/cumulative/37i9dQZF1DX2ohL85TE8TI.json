@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1second 1minute 1hour (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/5Yh02vaodFrkPZzC7Oei0H"
+      },
+      "artists": [
+        {
+          "name": "2am",
+          "url": "https://open.spotify.com/artist/5SnaL8SsjGMHQNyqpa8Zos"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216426,
+      "name": "1second 1minute 1hour (Something Between Us X 2am)",
+      "url": "https://open.spotify.com/track/3EbrxxZPM9DF1AtpTRWIxJ"
+    },
+    {
+      "album": {
         "name": "Work Later Drink Now, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/3DLShW88DMjx9CI0atcdHQ"
       },
@@ -23,6 +41,24 @@
       "duration_ms": 203299,
       "name": "A Drink of Life",
       "url": "https://open.spotify.com/track/6glxSm4nyJHavqVOy4jKhi"
+    },
+    {
+      "album": {
+        "name": "@User not found (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/1giStiJ8OKWYDqMYFxsCLs"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "A-HA!",
+      "url": "https://open.spotify.com/track/6el4XbyoMmyROFLiuOB374"
     },
     {
       "album": {
@@ -663,7 +699,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 209653,
       "name": "Half of Half",
       "url": "https://open.spotify.com/track/4yAaTghM4WlFmkcMn8OltI"
@@ -1100,6 +1136,24 @@
     },
     {
       "album": {
+        "name": "Artificial City (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/0qLFbKJgAST67UdX5DC7On"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/7o30ZHbzQe9mDG8LbmmSel"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264493,
+      "name": "Let Me Be There",
+      "url": "https://open.spotify.com/track/2qcYuklYL6UEmAOFPLzhMc"
+    },
+    {
+      "album": {
         "name": "One the Woman (Original Television Soundtrack, Pt. 2)",
         "url": "https://open.spotify.com/album/13WhqrQObo1gkx7OYkYtop"
       },
@@ -1190,6 +1244,24 @@
     },
     {
       "album": {
+        "name": "Snowdrop (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/1hv6bXr0WdA4AHwWfUBTZ3"
+      },
+      "artists": [
+        {
+          "name": "JeHwi",
+          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "Looks like a real thing",
+      "url": "https://open.spotify.com/track/7g7gSmVZdzG8ZHZF3qDvdx"
+    },
+    {
+      "album": {
         "name": "Young Lady And Gentleman (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/64RvabOhN0MJ6hCvgjkmnC"
       },
@@ -1205,6 +1277,24 @@
       "duration_ms": 242760,
       "name": "Love Always Run Away",
       "url": "https://open.spotify.com/track/4rMEoXVYww6Xy7q9wSj4gy"
+    },
+    {
+      "album": {
+        "name": "Love Bubble (A DeadbEAT's Meal (Original Soundtrack))",
+        "url": "https://open.spotify.com/album/4Ka4JTR0wrNEadDUf0IRUR"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200002,
+      "name": "Love Bubble",
+      "url": "https://open.spotify.com/track/7DKln4MAW4UefxCNqMTkNI"
     },
     {
       "album": {
@@ -1309,7 +1399,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210120,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/62DVr5HPrKmJCK4kgBHQjw"
@@ -1327,7 +1417,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237960,
       "name": "My Home",
       "url": "https://open.spotify.com/track/4gSRzuD3Bs467QdC3fHLcC"
@@ -1519,7 +1609,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189533,
       "name": "Question mark(You+I=?) - Instrumental",
       "url": "https://open.spotify.com/track/7lOMZqMvQVFQIQxbBN2IqH"
@@ -1591,7 +1681,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 254943,
       "name": "Searching for Reasons Why",
       "url": "https://open.spotify.com/track/4itslQokbXcd1qq5rWFCvE"
@@ -1681,7 +1771,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 179520,
       "name": "STAR",
       "url": "https://open.spotify.com/track/7BLaEEdahcmGSsPEomRUrp"
@@ -1739,6 +1829,24 @@
       "duration_ms": 187480,
       "name": "Straight",
       "url": "https://open.spotify.com/track/74GCPkDvhTuB3uzejf43a5"
+    },
+    {
+      "album": {
+        "name": "Our Beloved Summer (Original Television Soundtrack), Pt. 8",
+        "url": "https://open.spotify.com/album/5G8GZvgWdarjynQ0hLGehC"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201786,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/0lsE1vjZQazyEnexXpD4B1"
     },
     {
       "album": {
@@ -1865,6 +1973,24 @@
       "duration_ms": 218373,
       "name": "Valley of the Shadow",
       "url": "https://open.spotify.com/track/3T7GZGeQ9p3hFozQXPXcMw"
+    },
+    {
+      "album": {
+        "name": "Want to be happy (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/5H6N3lxYOXosRHBw6yFJyV"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213707,
+      "name": "Want to be happy",
+      "url": "https://open.spotify.com/track/2rMtQ0uNjFw9JjbsnEatEq"
     },
     {
       "album": {
@@ -2023,7 +2149,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 229941,
       "name": "Why did we break up?",
       "url": "https://open.spotify.com/track/2ivt5IFj5kCelupn6TWQ1J"

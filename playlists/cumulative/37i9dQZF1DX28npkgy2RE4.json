@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New styles, deep sounds. Cover: Allison Ponthier",
+  "description": "New styles, deep sounds. Cover: Aldous Harding",
   "name": "Modern Eclectic",
   "published_playlist_ids": [
     "3T5AaAW956YONHSWrxMmGK"
@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 238300,
       "name": "100 Proof",
       "url": "https://open.spotify.com/track/0enJ8ajQL209DVlzBnVMKv"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235392,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/6EX51OpDu9WQ7NW4HWg6Ma"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 244632,
       "name": "Big Star - Alt",
       "url": "https://open.spotify.com/track/6vChhCAS4y7anDfreIhOLW"
@@ -385,7 +385,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 185637,
       "name": "Bottle It Up (feat. Greta Stanley)",
       "url": "https://open.spotify.com/track/3IcHXc3pAio3wozwIlB5Gv"
@@ -403,7 +403,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 243846,
       "name": "Bringing Me Down",
       "url": "https://open.spotify.com/track/1GaSl7z0q0S5wm39UnulPa"
@@ -443,7 +443,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 229893,
       "name": "Calling Me Home (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6FHmHZgliJRNz6L16y60V1"
@@ -688,6 +688,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk"
+    },
+    {
+      "album": {
         "name": "Curls",
         "url": "https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup"
       },
@@ -819,7 +837,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 174746,
       "name": "Don't Think About Me",
       "url": "https://open.spotify.com/track/5BfhJ9N50RVkDtkZuu3hZs"
@@ -837,7 +855,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 203547,
       "name": "Doobie Bronson",
       "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
@@ -1079,7 +1097,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 242488,
       "name": "Forever Half Mast",
       "url": "https://open.spotify.com/track/3yAg2gIwcElgEyypgG0YVZ"
@@ -1209,7 +1227,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 195760,
       "name": "Just For Love",
       "url": "https://open.spotify.com/track/2246ZUM5h7YS1Lz9AokksS"
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 317651,
       "name": "Kimmy Rolla",
       "url": "https://open.spotify.com/track/2mgjQLBp5tqZVYxjFbeFQ4"
@@ -1837,6 +1855,24 @@
       "duration_ms": 218426,
       "name": "Latter Days (feat. Ana\u00efs Mitchell)",
       "url": "https://open.spotify.com/track/3fTucukFycdzQQR3gczZAU"
+    },
+    {
+      "album": {
+        "name": "Lawn",
+        "url": "https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Lawn",
+      "url": "https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22"
     },
     {
       "album": {
@@ -1952,6 +1988,24 @@
     },
     {
       "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "album": {
         "name": "Love Without Possession",
         "url": "https://open.spotify.com/album/3Ugdu51uh1xMeZkOoypBNL"
       },
@@ -1988,6 +2042,28 @@
     },
     {
       "album": {
+        "name": "Make It Out (feat. Maisie Peters)",
+        "url": "https://open.spotify.com/album/3i51kXWcF0fLzcwDBZFgNo"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Make It Out (feat. Maisie Peters)",
+      "url": "https://open.spotify.com/track/5qXbNSvVp8rB4Kcy2DTTIt"
+    },
+    {
+      "album": {
         "name": "Forever to Fade",
         "url": "https://open.spotify.com/album/76B8wqEQX3ii5msPMhBfmY"
       },
@@ -1999,7 +2075,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 213440,
       "name": "Makes Me Wonder",
       "url": "https://open.spotify.com/track/7IIYtMMgNqnHVYs2ZP4yfC"
@@ -2093,7 +2169,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 236032,
       "name": "Mouth (feat. Luke Krutzke)",
       "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
@@ -2259,7 +2335,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
@@ -2349,7 +2425,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 196802,
       "name": "Old Peel",
       "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
@@ -2446,6 +2522,24 @@
     },
     {
       "album": {
+        "name": "PIERCED ARROWS",
+        "url": "https://open.spotify.com/album/3Rug10AExjdT3hz3gFcJsH"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/3PjN0os4YRSKt3hefJq14b"
+    },
+    {
+      "album": {
         "name": "Plan On You",
         "url": "https://open.spotify.com/album/4ZbYJnTiqmIBUrZy5S1fnT"
       },
@@ -2537,6 +2631,24 @@
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/5PkE0ANATIYq9xaRQtRQJa"
+    },
+    {
+      "album": {
+        "name": "Storm Queen",
+        "url": "https://open.spotify.com/album/3hN0ZqYY64lyk6IGhJyLvU"
+      },
+      "artists": [
+        {
+          "name": "Grace Cummings",
+          "url": "https://open.spotify.com/artist/3uAWPonHw80gRQRUjhdW5a"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Raglan",
+      "url": "https://open.spotify.com/track/2w2cEcgcSTkCE3TiHCmPxM"
     },
     {
       "album": {
@@ -2659,10 +2771,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
+    },
+    {
+      "album": {
+        "name": "Rubberneckers",
+        "url": "https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj"
     },
     {
       "album": {
@@ -2717,7 +2847,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
@@ -2829,7 +2959,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 283922,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
@@ -2905,7 +3035,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
@@ -2923,7 +3053,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 235413,
       "name": "Speaking With Trees",
       "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
@@ -3093,7 +3223,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 215394,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5cdYcHw7CJDhgNa21MSTYF"
@@ -3129,7 +3259,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222530,
       "name": "Sunday Drive",
       "url": "https://open.spotify.com/track/7aRTaxQpag64SWksC1bTyl"
@@ -3147,7 +3277,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 222378,
       "name": "Swimming Backwards",
       "url": "https://open.spotify.com/track/6gdXKvWTGKYDOsC1Rj3Q3d"
@@ -3165,7 +3295,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 285200,
       "name": "Tender Organs",
       "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
@@ -3317,7 +3447,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 311613,
       "name": "The Running Styles of New York",
       "url": "https://open.spotify.com/track/6qBIXzZBsQC6n4OmumpcHc"
@@ -3479,7 +3609,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 181349,
       "name": "Turn Off The News (Build A Garden) - Acoustic",
       "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
@@ -3671,7 +3801,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 206933,
       "name": "When You're Away",
       "url": "https://open.spotify.com/track/3K3FSV1E7Lh10uX7AYexMH"

@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Wilder Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4kFCOhpHfNyMyuY8ZaBiaQ"
+      },
+      "artists": [
+        {
+          "name": "Prides",
+          "url": "https://open.spotify.com/artist/4VRTmBIGhJghLThw3Gzjo1"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241562,
+      "name": "A Wilder Heart - Acoustic",
+      "url": "https://open.spotify.com/track/4AF9tkZUxzpvTz8FfJ61ZS"
+    },
+    {
+      "album": {
         "name": "A.M. RADIO",
         "url": "https://open.spotify.com/album/26VZeaS1ihTxQKmGmMx4RQ"
       },
@@ -203,7 +221,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 174986,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/05TtxghZSGczxqdRQrAf0C"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 228750,
       "name": "Empty Streets (Acoustic Version)",
       "url": "https://open.spotify.com/track/7CO6vt2NYD2RvPWcELKvHT"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 225135,
       "name": "Heartlines - Acoustic",
       "url": "https://open.spotify.com/track/6VTb8IkYOgge3BQ9ueplSZ"
@@ -1315,7 +1333,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207866,
       "name": "Made to Love You",
       "url": "https://open.spotify.com/track/0TFGNGyFaIIdDoM2SXRida"
@@ -1409,7 +1427,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 221200,
       "name": "Mercy - Acoustic Guitar",
       "url": "https://open.spotify.com/track/2lJOKBuPgR9vcD4PLxTakY"
@@ -1499,7 +1517,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 176026,
       "name": "Never in My Wildest Dreams",
       "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
@@ -1737,7 +1755,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 231748,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/5mGChT2miDApqXTNlejoZY"
@@ -1943,7 +1961,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 270000,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/1sLxooNd8EKRLDs0YiwbZF"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 228480,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/70HWRkitkAKfos500LBk0T"

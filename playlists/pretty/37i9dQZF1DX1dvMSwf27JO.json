@@ -1,13 +1,29 @@
 {
   "description": "and why aren't you in uniform?",
   "name": "'fit check",
-  "num_followers": 383200,
+  "num_followers": 383543,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTk0MTE0MywwMDAwMDA3MDAwMDAwMTdlNGI1MThlMTQwMDAwMDE3YjE3N2MzMWU3",
+  "snapshot_id": "MTY0MjE4NDA3NiwwMDAwMDA3MjAwMDAwMTdlNTljYzZkMTQwMDAwMDE3YjE3N2MzMWU3",
   "tracks": [
+    {
+      "added_at": "2022-01-14 18:14:36",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+    },
     {
       "added_at": "2021-08-05 18:08:26",
       "album": {
@@ -71,6 +87,22 @@
       "duration_ms": 131883,
       "name": "Charmander",
       "url": "https://open.spotify.com/track/4NP3gHruXgIo4YSJSNDRBz"
+    },
+    {
+      "added_at": "2022-01-14 16:06:58",
+      "album": {
+        "name": "Cowboys Don\u2019t Cry",
+        "url": "https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 189969,
+      "name": "Cowboys Don\u2019t Cry",
+      "url": "https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq"
     },
     {
       "added_at": "2022-01-04 16:21:50",
@@ -340,7 +372,7 @@
       },
       "artists": [
         {
-          "name": "Serena Isioma",
+          "name": "Dreamer Isioma",
           "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
@@ -1309,7 +1341,7 @@
       "artists": [
         {
           "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5"
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
       "duration_ms": 146331,

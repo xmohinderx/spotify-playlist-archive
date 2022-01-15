@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Keb' Mo'",
   "name": "Acoustic Blues",
-  "num_followers": 667771,
+  "num_followers": 667823,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxODAxMSwwMDAwMDA0YzAwMDAwMTdkYzZjZjQxZmUwMDAwMDE3ZDk1ZDVhYTJm",
+  "snapshot_id": "MTY0MjEzNjQ2MCwwMDAwMDA0ZDAwMDAwMTdlNTZmNWRiNTcwMDAwMDE3ZDk1ZDVhYTJm",
   "tracks": [
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
+    },
     {
       "added_at": "2021-10-15 04:01:00",
       "album": {

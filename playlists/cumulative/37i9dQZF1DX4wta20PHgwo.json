@@ -307,7 +307,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 412266,
       "name": "Autumn Nocturne",
       "url": "https://open.spotify.com/track/6Jws7Ip1lI09JNDGppRHRv"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 466568,
       "name": "For Heavens Sake - Remastered",
       "url": "https://open.spotify.com/track/142HC0KR9g0jmmGtwJJAKv"
@@ -1587,7 +1587,7 @@
       ],
       "date_added": "2021-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 414240,
       "name": "Infant Eyes - Remastered1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0IffIW3eyCx9aZ36IqOu5o"
@@ -1617,6 +1617,28 @@
       "duration_ms": 218200,
       "name": "Into Forever",
       "url": "https://open.spotify.com/track/5qw9Dh37lQISrMDlGnLga3"
+    },
+    {
+      "album": {
+        "name": "Is There a Way",
+        "url": "https://open.spotify.com/album/7CsmfGN1vyHEIDF0EG3ToS"
+      },
+      "artists": [
+        {
+          "name": "Joel Lyssarides",
+          "url": "https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx"
+        },
+        {
+          "name": "Niklas Fernqvist",
+          "url": "https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245086,
+      "name": "Is There a Way",
+      "url": "https://open.spotify.com/track/0eMrQZjyeM7Qzd4FWbT57u"
     },
     {
       "album": {
@@ -1831,7 +1853,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 308133,
       "name": "Mara",
       "url": "https://open.spotify.com/track/32wlGWGlQ2KfNb7bn3nvzI"
@@ -2141,7 +2163,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 194400,
       "name": "Nancy (With The Laughing Face)",
       "url": "https://open.spotify.com/track/6xXUcB3UuWfuaiExwlzY9Q"
@@ -2579,7 +2601,7 @@
       ],
       "date_added": "2020-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 372493,
       "name": "Ruby My Dear",
       "url": "https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg"
@@ -3505,7 +3527,7 @@
       ],
       "date_added": "2020-05-02",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 325586,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1UceH3dNaxzKSG4qQ1kbp2"

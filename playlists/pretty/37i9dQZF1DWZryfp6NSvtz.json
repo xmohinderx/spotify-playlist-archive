@@ -1,15 +1,15 @@
 {
   "description": "All new, all rock. Cover: Muse",
   "name": "All New Rock",
-  "num_followers": 299089,
+  "num_followers": 299616,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjExNDkyMCwwMDAwMDJmNTAwMDAwMTdlNTVhZDJlYWQwMDAwMDE3ZTM1MjQzNzBi",
+  "snapshot_id": "MTY0MjIwMzMxMiwwMDAwMDJmODAwMDAwMTdlNWFmMWYzMzAwMDAwMDE3ZTM1MjQzNzBi",
   "tracks": [
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Try Better Next Time",
         "url": "https://open.spotify.com/album/0oCcVs5cf99dBrjkeArXku"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/2ljf8Xlq7eD1oM9rCnIJxt"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Love It When You Hate Me (feat. blackbear)",
         "url": "https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Enemies",
         "url": "https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/7N0m2m27pHDbk8e7mKnisH"
@@ -93,7 +93,55 @@
       "url": "https://open.spotify.com/track/08a8M0SzJUF2hUUDkmtWT9"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
+      "album": {
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "added_at": "2022-01-14 23:35:12",
+      "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "added_at": "2022-01-14 23:35:12",
+      "album": {
+        "name": "Jackie Down The Line",
+        "url": "https://open.spotify.com/album/194s8X2fl22otVaRdWSm9Q"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Jackie Down The Line",
+      "url": "https://open.spotify.com/track/6FDrld0oPlhhRKItogchWo"
+    },
+    {
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Fear of Being Fixed",
         "url": "https://open.spotify.com/album/4XcOTUDsMrzuf5vhRolP8B"
@@ -109,7 +157,7 @@
       "url": "https://open.spotify.com/track/0rw6KnCCMQbrgWHzf4TSIZ"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Budd Dwyer",
         "url": "https://open.spotify.com/album/1JIVqdJwKrH9aQla7vIYwj"
@@ -125,7 +173,7 @@
       "url": "https://open.spotify.com/track/3gHYnjMwFgCQ5Xb7iUkn1j"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
@@ -141,7 +189,7 @@
       "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Dime in My Dryer",
         "url": "https://open.spotify.com/album/5Ny9ACWa4HbztaCIryPWSJ"
@@ -157,7 +205,7 @@
       "url": "https://open.spotify.com/track/75KcTQx2tVwIASUnBJRpIH"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "pity party (feat. Royal & The Serpent)",
         "url": "https://open.spotify.com/album/6MGaZYL2sKeycUQhWepQms"
@@ -177,7 +225,7 @@
       "url": "https://open.spotify.com/track/7A9JSq4XOYn9bhSFcGJxto"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "2L8",
         "url": "https://open.spotify.com/album/44vhqGT1E8z4HGZHmlvX2U"
@@ -193,7 +241,7 @@
       "url": "https://open.spotify.com/track/5vgxdsVBcKddGcX1CdiUzB"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Retriever",
         "url": "https://open.spotify.com/album/7mWI8Asn8rQqYX0lXgHNhk"
@@ -209,7 +257,7 @@
       "url": "https://open.spotify.com/track/18BngYNbP0xadmssigycDH"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Gasoline",
         "url": "https://open.spotify.com/album/1TK2KPCTblGOP0J1fIITpx"
@@ -225,7 +273,7 @@
       "url": "https://open.spotify.com/track/6kUqtwGftq5d2kzlH3Eh9t"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "World Impact",
         "url": "https://open.spotify.com/album/5ZVvXfPvEcGb3qSQZTAjBh"
@@ -241,7 +289,7 @@
       "url": "https://open.spotify.com/track/7N0sq6MF9p763pX7jQ9auY"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Electric Moose",
         "url": "https://open.spotify.com/album/6kp7KYKVaG38b78dfhHXf6"
@@ -257,7 +305,7 @@
       "url": "https://open.spotify.com/track/6IG6MWJ6tcTDfl5SUf2Jyy"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "WORMS (In My Brain)",
         "url": "https://open.spotify.com/album/5sQsPvmWpKnDypCIGLCXCM"
@@ -273,7 +321,7 @@
       "url": "https://open.spotify.com/track/4XQKfDwyYw0p1p8WvC2e7j"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Headstone",
         "url": "https://open.spotify.com/album/1qBvU9jzoyXf2FnF83MvvQ"
@@ -289,7 +337,7 @@
       "url": "https://open.spotify.com/track/5PbNsH6E4cKPKqSTIx6sQb"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Night and Day (Edit)",
         "url": "https://open.spotify.com/album/5qw3lpVKXxieAEfj8mjB4p"
@@ -305,7 +353,7 @@
       "url": "https://open.spotify.com/track/02vKxGXtp1VFTEtjXrScvK"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Call Off The Dogs (feat. Myles Kennedy and The Conspirators)",
         "url": "https://open.spotify.com/album/0Vsst77tIiNqNmCUvizQDG"
@@ -325,7 +373,7 @@
       "url": "https://open.spotify.com/track/4Ejf3NzTDbWdRGdjDq3KG4"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Rock Believer",
         "url": "https://open.spotify.com/album/1Wx6vTc4adeBbEJgQCbZV3"
@@ -341,7 +389,7 @@
       "url": "https://open.spotify.com/track/0CsORbIcXLBUVVlntpO7Q3"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Eyes Of Oblivion",
         "url": "https://open.spotify.com/album/5ElKq2iEapDyDaQml8XmuD"
@@ -357,7 +405,7 @@
       "url": "https://open.spotify.com/track/6yaxGINZXOUwdlAr8BYpVT"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "OKURA",
         "url": "https://open.spotify.com/album/2rDMm5iwNGYt12LXvRGlyN"
@@ -373,7 +421,7 @@
       "url": "https://open.spotify.com/track/3gDw8qWNBNbKR2dKTmAEB5"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Dominion",
         "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
@@ -389,7 +437,7 @@
       "url": "https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Forever and a Day",
         "url": "https://open.spotify.com/album/1rFnrwikCmdXKIZ9ZvP8NM"
@@ -405,7 +453,7 @@
       "url": "https://open.spotify.com/track/6mcpRkHj2dBOFa2Dmc7TvU"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "On the Ropes",
         "url": "https://open.spotify.com/album/27xzeuY8Vcj9lnMMXNrzlZ"
@@ -421,7 +469,7 @@
       "url": "https://open.spotify.com/track/2X2DePU8M7Zr37X4m8gYsX"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Pretty People",
         "url": "https://open.spotify.com/album/0GljcamggtwZqcZcKpuODJ"
@@ -437,7 +485,7 @@
       "url": "https://open.spotify.com/track/3G23WROLcvTTF76lcYjzzA"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "GHOSTS ON TAPE",
         "url": "https://open.spotify.com/album/65zRHfqj1uInYUCZInyDvF"
@@ -453,7 +501,7 @@
       "url": "https://open.spotify.com/track/3SuiJNqaZEgDTj53VPJ9PN"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/2t4msKgYfHbFGkPTSdzge0"
@@ -469,7 +517,7 @@
       "url": "https://open.spotify.com/track/4cChhY93uAoukOESzLGNWN"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "The Boy Named If",
         "url": "https://open.spotify.com/album/5UvNnPzKxLMYz6bYi8NpoS"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/1orUxXlzRhWpIRZj1XcY6Q"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "I Miss You",
         "url": "https://open.spotify.com/album/1v7oM5P9az897mUlWlQPKz"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/7FiRByqZUfSrIampzMPr7h"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Buy American",
         "url": "https://open.spotify.com/album/6ACtTKubJIs8oJjwHPkjfr"
@@ -521,7 +569,7 @@
       "url": "https://open.spotify.com/track/7FWgmusJFhVVa41hMBcnsX"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Break Right In",
         "url": "https://open.spotify.com/album/7mFPrsfCnjJLV6hbO6WpwX"
@@ -537,7 +585,7 @@
       "url": "https://open.spotify.com/track/3fdfvXzKX6GM0zUWLTReiE"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Dying Plant",
         "url": "https://open.spotify.com/album/3XcHOlRbZjC4s9lE64nJ7x"
@@ -553,7 +601,7 @@
       "url": "https://open.spotify.com/track/6M5Pc0b2PgClInEH0ZxXeq"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/7bpcSIgFqfg7AKl2Lsk1dQ"
@@ -569,23 +617,7 @@
       "url": "https://open.spotify.com/track/7MJDcNk5Iae3t0zpOzve2n"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
-      "album": {
-        "name": "Electric Kool-Aid (Pt. 1)",
-        "url": "https://open.spotify.com/album/4nCGoQY5Y4RsPEV8G2GYrd"
-      },
-      "artists": [
-        {
-          "name": "The Blinders",
-          "url": "https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE"
-        }
-      ],
-      "duration_ms": 229127,
-      "name": "Hate To See You Tortured",
-      "url": "https://open.spotify.com/track/1F0P3VGYqPGhtQF4rR6WMK"
-    },
-    {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Bludsuckers",
         "url": "https://open.spotify.com/album/0xbXW4bnuBvD3TbKdxq3Au"
@@ -601,7 +633,7 @@
       "url": "https://open.spotify.com/track/0FpDYwureWPtagDvxmJ8kj"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Little Fix",
         "url": "https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi"
@@ -617,7 +649,7 @@
       "url": "https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "I've Got A Five",
         "url": "https://open.spotify.com/album/3OsEzi6AgwBUcEpwVGxI8E"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/3prpecfUlt84RtF192cIva"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "See Through You",
         "url": "https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf"
@@ -649,7 +681,7 @@
       "url": "https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Suffer Summer",
         "url": "https://open.spotify.com/album/0bQNLzwiW9RBH77MkGNp6k"
@@ -665,7 +697,7 @@
       "url": "https://open.spotify.com/track/74Dqqy2wHjLluhgOwJVrn5"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Rabbit Hole",
         "url": "https://open.spotify.com/album/3ZxC9jh02Nrvpo49frhUMR"
@@ -681,7 +713,7 @@
       "url": "https://open.spotify.com/track/3KX5GDVzAly6OoH24OMKwU"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "In One Breath",
         "url": "https://open.spotify.com/album/6pONqaFOacBdamei7Rrvaj"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/1c0tC8B9rBBdyIa7YauLr4"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/6l2dJDFdtkczUx19odoasT"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/71JxAAy4BMfrrrj6I8VL6l"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Revelation",
         "url": "https://open.spotify.com/album/5Z1UhmhiCVlbtou41VXwP8"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/4fCpWnOoknyMRZQaGL3tWt"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/65z7MiMcyvptnddVK2LZeC"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/5FJVPdR48WRCivDT7CXbYf"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "REVENGE",
         "url": "https://open.spotify.com/album/0zm3crxBzuAmMMuLLkGH4c"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/4DCGjvuX1VMmbVDifmv7ZO"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "End Of The Ocean",
         "url": "https://open.spotify.com/album/1MTM1buxnsv48GheVLY83I"
@@ -781,7 +813,7 @@
       "url": "https://open.spotify.com/track/7fD9SXpHqs6I3hVrxEVufx"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "the porch",
         "url": "https://open.spotify.com/album/2VoUvcGz5o1JVk9T75leaX"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/33arAGN57qccO1N76QXN1d"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Center",
         "url": "https://open.spotify.com/album/0tvQT9SCiGfZjHf7cf56j8"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/7KKLJ8OHLHaUWFjUSzMuYK"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Nuns, Guns & Cowboys",
         "url": "https://open.spotify.com/album/38TzuUfiMcBRQMPE83ZNlk"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/0HUdKAx0FIjdCtDFUhEt0I"
     },
     {
-      "added_at": "2022-01-13 23:02:00",
+      "added_at": "2022-01-14 23:35:12",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/1at11cxee5blIgarVbwuY0"

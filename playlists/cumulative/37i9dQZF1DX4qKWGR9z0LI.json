@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 337064,
       "name": "A Mal Tiempo Buena Salsa",
       "url": "https://open.spotify.com/track/0sgPyUXELg85REg7HFusDF"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 449640,
       "name": "Aparentemente",
       "url": "https://open.spotify.com/track/5MhLjE5KvAfqFx8hxQi3eW"
@@ -156,6 +156,28 @@
     },
     {
       "album": {
+        "name": "Ay\u00fadame Inspiraci\u00f3n",
+        "url": "https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO"
+      },
+      "artists": [
+        {
+          "name": "Maite Hontel\u00e9",
+          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247504,
+      "name": "Ay\u00fadame Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r"
+    },
+    {
+      "album": {
         "name": "Boogaloo Supreme",
         "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
       },
@@ -189,7 +211,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 324253,
       "name": "Buenaventura Y Caney",
       "url": "https://open.spotify.com/track/7ugeLfcFCak3rje9PTRCkS"
@@ -435,7 +457,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
@@ -555,6 +577,24 @@
       "duration_ms": 279280,
       "name": "El Amor de Mi Vida \"Se Fue\"",
       "url": "https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv"
+    },
+    {
+      "album": {
+        "name": "El Amor Mas Grande Del Planeta",
+        "url": "https://open.spotify.com/album/5ZfRJmapY2FJTavdzU6Bxy"
+      },
+      "artists": [
+        {
+          "name": "Orquesta la Fuga de Cali",
+          "url": "https://open.spotify.com/artist/1hKqqasAon1KaQurWRpuOe"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250383,
+      "name": "El Amor Mas Grande Del Planeta",
+      "url": "https://open.spotify.com/track/5lgJByAmkgnisZYU6XwtJ2"
     },
     {
       "album": {
@@ -693,7 +733,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
@@ -877,7 +917,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
@@ -1073,7 +1113,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 383040,
       "name": "Loco Pero Feliz",
       "url": "https://open.spotify.com/track/3vnbxQMKngx8r8keykJexy"
@@ -1131,7 +1171,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 248697,
       "name": "Mala (feat. Victor Manuelle) - Salsa Remix",
       "url": "https://open.spotify.com/track/6ZIzbuU1QzGpSfFdWFKKqL"
@@ -1265,7 +1305,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 216626,
       "name": "Mira - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
@@ -1363,7 +1403,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 224826,
       "name": "Pa Bravo Yo",
       "url": "https://open.spotify.com/track/1reO9cqAkoJUWQw29KwA6S"
@@ -1504,6 +1544,28 @@
     },
     {
       "album": {
+        "name": "Protagonista",
+        "url": "https://open.spotify.com/album/1ocwsWpJXUtNDCctlqU2Nm"
+      },
+      "artists": [
+        {
+          "name": "Tania Matus",
+          "url": "https://open.spotify.com/artist/3AtQAFdXoag2fwVScetgTF"
+        },
+        {
+          "name": "Obed Calixto",
+          "url": "https://open.spotify.com/artist/2iH4l4TnfoVxA5AyUuvN4q"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264615,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/32a3cOeSbrYL9szNwLdtaU"
+    },
+    {
+      "album": {
         "name": "Salsa de Amor Vol. 3",
         "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
@@ -1577,7 +1639,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
@@ -1743,7 +1805,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 258760,
       "name": "Sin Amenazas",
       "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
@@ -1855,7 +1917,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 220453,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx"
@@ -1873,7 +1935,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 234286,
       "name": "Trancao'",
       "url": "https://open.spotify.com/track/3FihPkBwuowuSxyfiGFwhI"
@@ -1909,7 +1971,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 317941,
       "name": "Tuyo (Nueva Versi\u00f3n)",
       "url": "https://open.spotify.com/track/3e8hxZsJBGkwL3G1HYSfUy"
@@ -2053,7 +2115,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 249160,
       "name": "Viene y Se Va",
       "url": "https://open.spotify.com/track/07wgpM7gK7K1u68grjWnxo"
@@ -2111,7 +2173,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 325133,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/33KyLofurq1qZ6kpF6J9Hi"

@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 133944,
       "name": "AK47 \u00c9 o Porte do Homem",
       "url": "https://open.spotify.com/track/5HdghQzJVbvkZuMyvj2k34"
@@ -113,7 +113,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 338823,
       "name": "Avisa L\u00e1, Pt.3",
       "url": "https://open.spotify.com/track/7pWzcOoDF3ssFLrH5wivif"
@@ -216,6 +216,28 @@
     },
     {
       "album": {
+        "name": "Black Lan\u00e7a (Catucando Gostosinho)",
+        "url": "https://open.spotify.com/album/4BfAomaFboGTCcztPkCYLv"
+      },
+      "artists": [
+        {
+          "name": "MC Teteu",
+          "url": "https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1"
+        },
+        {
+          "name": "Dj Serpinha",
+          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "Black Lan\u00e7a (Catucando Gostosinho)",
+      "url": "https://open.spotify.com/track/3qmdfYpfvKRIXmWaLllHZ3"
+    },
+    {
+      "album": {
         "name": "Bota a M\u00e3o no Ch\u00e3o",
         "url": "https://open.spotify.com/album/6SMo6kzL8OXwpQaKFSOFDX"
       },
@@ -271,6 +293,10 @@
         {
           "name": "Dj Terrorista",
           "url": "https://open.spotify.com/artist/59NRr3XbowClIMNw0w90pC"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
         }
       ],
       "date_added": "2021-12-31",
@@ -1233,6 +1259,32 @@
       "duration_ms": 180461,
       "name": "Vai Fofoqueira",
       "url": "https://open.spotify.com/track/346Ck3YbEHUdA3p4hOVsDJ"
+    },
+    {
+      "album": {
+        "name": "Voltei pra Cachorrada",
+        "url": "https://open.spotify.com/album/0tNsjTh1mnsApOzQe9CBEc"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "MC Meno Dani",
+          "url": "https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI"
+        },
+        {
+          "name": "DJ Cyclone",
+          "url": "https://open.spotify.com/artist/4o2hAURyVlQ8suw1KDz6gi"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206811,
+      "name": "Voltei pra Cachorrada",
+      "url": "https://open.spotify.com/track/3bJ4nTkTXMYpYgM7zoUqPY"
     },
     {
       "album": {

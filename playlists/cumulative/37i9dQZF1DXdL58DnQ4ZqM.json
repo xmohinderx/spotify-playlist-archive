@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/04jcKscEcNDL37POactNm3"
+      },
+      "artists": [
+        {
+          "name": "Temperal Guidance",
+          "url": "https://open.spotify.com/artist/5NYAa1gibaabXhygG2bcsi"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185949,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/306GnnNhbXL45lPLBNUsbT"
+    },
+    {
+      "album": {
         "name": "Born To Be Yours",
         "url": "https://open.spotify.com/album/32lW61YuLJwXTJOGeCKxjm"
       },
@@ -293,7 +311,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 185538,
       "name": "Comfort Zone",
       "url": "https://open.spotify.com/track/3CMwVMznjJKjWVFLayfHoW"
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 289979,
       "name": "Deep Feelings",
       "url": "https://open.spotify.com/track/56LZ3dKKaV3HQwesiQ0WDq"
@@ -401,7 +419,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 318000,
       "name": "Diamond Shine",
       "url": "https://open.spotify.com/track/3xcztXKdCQVxuQtPibei57"
@@ -563,7 +581,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 352758,
       "name": "Gliding",
       "url": "https://open.spotify.com/track/6IMxaXgh0Z1G2xA6iGSOJj"
@@ -743,7 +761,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214579,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/0BnOGTQYYZYEXsgA1ryRYT"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 287786,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/5HRtJMdJWaRmyHi5minx38"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 242045,
       "name": "Lonely Without You - Lounge Mix",
       "url": "https://open.spotify.com/track/35cbjoB29mxVsLGJ72M24E"
@@ -1125,7 +1143,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 283793,
       "name": "Magnetic Metafor",
       "url": "https://open.spotify.com/track/1O33UTG2hy1iIrKvkh5NcA"
@@ -1269,7 +1287,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 299220,
       "name": "Moments Of A Dream",
       "url": "https://open.spotify.com/track/7oEJzwoxETOxypcgJWPCLV"
@@ -1359,7 +1377,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 270344,
       "name": "Nocturne No 20 - Chill With Me Mix",
       "url": "https://open.spotify.com/track/2cGPrSLattyj0N1FToPcmz"
@@ -1507,7 +1525,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 345600,
       "name": "Platonic Jive",
       "url": "https://open.spotify.com/track/3TjIRkNUnTpS3TaBCSCdP6"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 197142,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/33iouj5bpuoi0tQBgpm3EP"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 285970,
       "name": "Riding the Atmosphere",
       "url": "https://open.spotify.com/track/47iUF2syKZAqWOAd0LvNk9"
@@ -1871,7 +1889,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 203596,
       "name": "Sunday 9.PM",
       "url": "https://open.spotify.com/track/7A78RZz9w3LPg6HW1oDz7q"
@@ -2033,7 +2051,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 297413,
       "name": "Time-Lapse",
       "url": "https://open.spotify.com/track/5GowdwInXfSd4aTIM52Gmo"
@@ -2127,6 +2145,24 @@
       "duration_ms": 336000,
       "name": "Walking On the Sand",
       "url": "https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga"
+    },
+    {
+      "album": {
+        "name": "Waterfront",
+        "url": "https://open.spotify.com/album/6D23vKPt8tFY61gZehl5pw"
+      },
+      "artists": [
+        {
+          "name": "Sweetfire",
+          "url": "https://open.spotify.com/artist/1GVX8idsR0zt5WDlnByagj"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Waterfront - Focus Version",
+      "url": "https://open.spotify.com/track/4ln3ZAr74imkhmEWzYFd6P"
     },
     {
       "album": {

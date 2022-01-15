@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,212 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,487 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 37 | [阿修羅ちゃん](https://open.spotify.com/track/4lEk6fyJu7LLPenqL0Raj5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [阿修羅ちゃん](https://open.spotify.com/album/1VROw3eYJslM2bVEkR5Lnm) | 3:16 |
 | 38 | [Higher Love](https://open.spotify.com/track/5AyIYrq6MV7uuLRGFqtXPK) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Higher Love](https://open.spotify.com/album/1CjyXicCmGeuLVs3DT4Kl2) | 5:34 |
 | 39 | [ATTRACTION \[Japanese Remix\]](https://open.spotify.com/track/5NJiQOeqz2WWGBZVKcP1oO) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [ATTRACTION \(Japanese Remix\)](https://open.spotify.com/album/6w1bjcnTn4lTjRLUKA6ySI) | 3:30 |
-| 40 | [It's All For Us](https://open.spotify.com/track/2EQFpKZWfUMdcpWILJVGru) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [It's All For Us](https://open.spotify.com/album/2m2LvEg4ByGuDlVrD4DFGN) | 3:48 |
-| 41 | [プラトー](https://open.spotify.com/track/5LPyVrjwXEvHE3mcjYrSoT) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [プラトー](https://open.spotify.com/album/41cvPKK46yW4nPUv1N9vb7) | 4:23 |
-| 42 | [FLN](https://open.spotify.com/track/6mBNGsS8tPt8IqRIev50lY) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [vanitas](https://open.spotify.com/album/16XLHBZEggSq15PKsVG55t) | 3:15 |
-| 43 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
-| 44 | [アルデバラン](https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [アルデバラン](https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq) | 4:26 |
-| 45 | [大好物](https://open.spotify.com/track/3W4yKXVQ2BPWUZT8gsCf7W) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [大好物](https://open.spotify.com/album/6crN5g09Zh5aLpWuNxXUjx) | 4:08 |
-| 46 | [ドーパミン](https://open.spotify.com/track/59kIuAVlIgcR6NSctQxylR) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [ドーパミン](https://open.spotify.com/album/1MajKmFhb2J5ARpwVatU6V) | 2:53 |
-| 47 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 |
-| 48 | [Le Penseur](https://open.spotify.com/track/0FTuYACjywpTTY5IyEJKv5) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [Le Penseur](https://open.spotify.com/album/4fqkW8OxKluaCiDPmVSDbB) | 2:50 |
+| 40 | [フレンヅ](https://open.spotify.com/track/2YdtxfndCrtPfIgxEOtRjJ) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [フレンヅ](https://open.spotify.com/album/5MeXkPPd4wYklmKNEGcq4f) | 2:52 |
+| 41 | [It's All For Us](https://open.spotify.com/track/2EQFpKZWfUMdcpWILJVGru) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [It's All For Us](https://open.spotify.com/album/2m2LvEg4ByGuDlVrD4DFGN) | 3:48 |
+| 42 | [プラトー](https://open.spotify.com/track/5LPyVrjwXEvHE3mcjYrSoT) | [Sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [プラトー](https://open.spotify.com/album/41cvPKK46yW4nPUv1N9vb7) | 4:23 |
+| 43 | [FLN](https://open.spotify.com/track/6mBNGsS8tPt8IqRIev50lY) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [Jez Dior](https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [vanitas](https://open.spotify.com/album/16XLHBZEggSq15PKsVG55t) | 3:15 |
+| 44 | [EN](https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [30](https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7) | 5:05 |
+| 45 | [アルデバラン](https://open.spotify.com/track/5dCWwd6RUQPxVZZ1igVvn6) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [アルデバラン](https://open.spotify.com/album/2Ys2XufiWIUqGpwgSlbibq) | 4:26 |
+| 46 | [大好物](https://open.spotify.com/track/3W4yKXVQ2BPWUZT8gsCf7W) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [大好物](https://open.spotify.com/album/6crN5g09Zh5aLpWuNxXUjx) | 4:08 |
+| 47 | [ドーパミン](https://open.spotify.com/track/59kIuAVlIgcR6NSctQxylR) | [Gesu No Kiwami Otome](https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz) | [ドーパミン](https://open.spotify.com/album/1MajKmFhb2J5ARpwVatU6V) | 2:53 |
+| 48 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 |
 | 49 | [What's Your Favorite?](https://open.spotify.com/track/2NQCOI5dNK5hTJI24tA1gb) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [What's Your Favorite?](https://open.spotify.com/album/3gvfcgveerTEsEpzoGv9nq) | 3:20 |
 | 50 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 
-Snapshot ID: `MTY0MjExMjEzOCwwMDAwMDJlNzAwMDAwMTdlNTU4MmJlNmMwMDAwMDE3ZTNjNDVlNDIw`
+Snapshot ID: `MTY0MjE1MzMxOCwwMDAwMDJlODAwMDAwMTdlNTdmNzE3YzkwMDAwMDE3ZTNjNDVlNDIw`

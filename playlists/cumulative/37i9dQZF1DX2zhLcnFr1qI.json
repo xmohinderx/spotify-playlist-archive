@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 125454,
       "name": "2020 Christmas",
       "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 151448,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ"
@@ -93,7 +93,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 157440,
       "name": "Battle - Cause & Affect Jingle Bells Remix",
       "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 145029,
       "name": "Christmas Rave",
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
@@ -313,7 +313,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193213,
       "name": "Deck the Halls (feat. Erika Sirola)",
       "url": "https://open.spotify.com/track/5D1oXvC7GD8FEXiFFCmDXj"
@@ -339,7 +339,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 175920,
       "name": "Do They Know It's Christmas",
       "url": "https://open.spotify.com/track/0JJbG4ZjiJU7GsybxcLs2r"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 233060,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5McQ19B5AjkZose1EQURIW"
@@ -375,7 +375,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 155236,
       "name": "First Christmas",
       "url": "https://open.spotify.com/track/0IulDUwh9VKcy7ENUD5f2c"
@@ -401,7 +401,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 104727,
       "name": "Frosty Bounce",
       "url": "https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
@@ -470,6 +470,152 @@
     },
     {
       "album": {
+        "name": "Home Alone Megamix",
+        "url": "https://open.spotify.com/album/2sMEDTpje333AlL0exs3Yd"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Jeremy Oceans",
+          "url": "https://open.spotify.com/artist/68JQHAhLjcIjEpResOAVrf"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Polina Vita",
+          "url": "https://open.spotify.com/artist/66uT5tPq9g2tO0qD43xCYq"
+        },
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        },
+        {
+          "name": "Jaxx & Vega",
+          "url": "https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w"
+        },
+        {
+          "name": "F4ST",
+          "url": "https://open.spotify.com/artist/25zPr5malvJ4FznDZUVo1a"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Dino Warriors",
+          "url": "https://open.spotify.com/artist/59d7SdvkSXhrqrPUKF7WYM"
+        },
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        },
+        {
+          "name": "Wolfpack",
+          "url": "https://open.spotify.com/artist/74ycentHh1YZrW5x4PLnox"
+        },
+        {
+          "name": "Polina Grace",
+          "url": "https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        },
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1397080,
+      "name": "Home Alone Megamix",
+      "url": "https://open.spotify.com/track/2YfpmIpdnjzmB9T67K8tTM"
+    },
+    {
+      "album": {
         "name": "Christmas With Yellow Claw",
         "url": "https://open.spotify.com/album/25bktrqlypnTwJ50DhC3n2"
       },
@@ -489,7 +635,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 224400,
       "name": "Hush Dear Santa",
       "url": "https://open.spotify.com/track/7uS0lTOVielpbtTmFz4xY4"
@@ -555,7 +701,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 156046,
       "name": "I've Got My Love To Keep Me Warm - Somni Remix",
       "url": "https://open.spotify.com/track/5MMZCaKWXT9yRPBCNgOAhH"
@@ -573,7 +719,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 109173,
       "name": "It's Beginning to Snow",
       "url": "https://open.spotify.com/track/3BZpexjUue4M83XteQVrm5"
@@ -653,7 +799,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 150021,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
@@ -675,7 +821,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 201400,
       "name": "Jingle Bells (feat. Soran)",
       "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
@@ -781,10 +927,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 225066,
       "name": "My Heart Is Heading Home (This Christmas) - 7th Heaven's Xmas Overload Radio Edit",
       "url": "https://open.spotify.com/track/5jrXGISvLdnGLNR2Kd9kQq"
+    },
+    {
+      "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "O Come Emmanuel (feat. Skylar Grey)",
+      "url": "https://open.spotify.com/track/6QAlt0FPCGGxgsUodwLF1u"
     },
     {
       "album": {
@@ -873,7 +1041,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 153023,
       "name": "Rudolph the Red Nosed Reindeer",
       "url": "https://open.spotify.com/track/7369sadyMpc7FGBiQPImg4"
@@ -895,7 +1063,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199866,
       "name": "Santa Baby (feat. Jane X\u00d8)",
       "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
@@ -957,7 +1125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 236571,
       "name": "Smash The House (Deck The Halls)",
       "url": "https://open.spotify.com/track/6D7qVQgbiNg1t1MtydEROD"
@@ -1015,7 +1183,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210357,
       "name": "THANK YOU MARIAH",
       "url": "https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8"
@@ -1081,7 +1249,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 241875,
       "name": "Tropical Holiday",
       "url": "https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu"
@@ -1117,7 +1285,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 137600,
       "name": "WAWA - Xmas Edition",
       "url": "https://open.spotify.com/track/4ogkYfqk0DRvmQgpghCpEj"
@@ -1135,7 +1303,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 218244,
       "name": "Whim",
       "url": "https://open.spotify.com/track/6PAWxLsMLFV7yNinpK6eJY"
@@ -1211,7 +1379,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 173043,
       "name": "Wonderful Dream (Holidays Are Coming)",
       "url": "https://open.spotify.com/track/4GQr5He2pvm4UKc63esd2a"

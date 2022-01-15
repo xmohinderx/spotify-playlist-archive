@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest UK house bangers, let's go! Cover: TS7
+> The biggest house bangers popping off in the UK, let's go! Cover: TS7
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,413 likes - 86 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,532 likes - 86 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 85 | [Reach](https://open.spotify.com/track/2cGiwvkBmgpP08BRoPWRn2) | [DJ Rae](https://open.spotify.com/artist/746LyYgFU6Gni4CMVPlFNa) | [Reach](https://open.spotify.com/album/0wYLchktVoAIYVL0bOcIGJ) | 3:25 |
 | 86 | [Forgive Me](https://open.spotify.com/track/4QNHkL09PIRR9TY11blRLY) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Forgive Me](https://open.spotify.com/album/1nlXbXvDt7p0yDRT8m6bmI) | 2:41 |
 
-Snapshot ID: `MTY0MjExODQwMCwwMDAwMDI1OTAwMDAwMTdlNTVlMjQ4OGQwMDAwMDE3ZTRlZWFlZTBh`
+Snapshot ID: `MTY0MjE1NDk0MCwwMDAwMDI1YTAwMDAwMTdlNTgwZmQ3MTEwMDAwMDE3ZTRlZWFlZTBh`

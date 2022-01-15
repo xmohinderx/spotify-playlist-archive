@@ -1100,6 +1100,24 @@
     },
     {
       "album": {
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "album": {
         "name": "Buried",
         "url": "https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs"
       },
@@ -1275,6 +1293,32 @@
       "duration_ms": 477000,
       "name": "Chimp Riddles",
       "url": "https://open.spotify.com/track/3ALpQr0WLfRhoOyE47AtSc"
+    },
+    {
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212076,
+      "name": "Chronicles (feat. H.E.R. & Lil Durk)",
+      "url": "https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC"
     },
     {
       "album": {
@@ -2845,8 +2889,8 @@
           "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
         },
         {
-          "name": "Midnight City",
-          "url": "https://open.spotify.com/artist/3USRZu8aqujHAYCjq69NTw"
+          "name": "Salena Mastroianni",
+          "url": "https://open.spotify.com/artist/0X9HZbVBzUgugjKVgrYk6W"
         }
       ],
       "date_added": "2022-01-13",
@@ -4628,6 +4672,24 @@
     },
     {
       "album": {
+        "name": "Kind of Love",
+        "url": "https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "Kind of Love",
+      "url": "https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk"
+    },
+    {
+      "album": {
         "name": "Knee Deep at ATP",
         "url": "https://open.spotify.com/album/4COjHeRyvJkn9C5a2QnLkr"
       },
@@ -5241,6 +5303,24 @@
       "duration_ms": 156428,
       "name": "Loved You First",
       "url": "https://open.spotify.com/track/0GVAJHQVt7eQkIWCrru7vE"
+    },
+    {
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112787,
+      "name": "Lye",
+      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
     },
     {
       "album": {
@@ -6122,6 +6202,24 @@
     },
     {
       "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/3Wx2WlJjuVfI5GfpJ2Gb9r"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170723,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/1f32820VZo8vu4eTzdOWAo"
+    },
+    {
+      "album": {
         "name": "One And Only",
         "url": "https://open.spotify.com/album/7ulVaIMmnhGQD4LacnbASB"
       },
@@ -6166,7 +6264,7 @@
     },
     {
       "album": {
-        "name": "One Shot",
+        "name": "One Shot (feat. Blxst & Wale)",
         "url": "https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy"
       },
       "artists": [
@@ -6187,7 +6285,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153194,
-      "name": "One Shot",
+      "name": "One Shot (feat. Blxst & Wale)",
       "url": "https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl"
     },
     {
@@ -8178,7 +8276,7 @@
       "artists": [
         {
           "name": "JID",
-          "url": "https://open.spotify.com/artist/1dMdLlZI5X74N3yhF5qgEJ"
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         },
         {
           "name": "21 Savage",
@@ -8186,7 +8284,7 @@
         },
         {
           "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/0cQkBEIe6qi95izS79txnL"
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
       "date_added": "2022-01-13",
@@ -8681,6 +8779,28 @@
       "duration_ms": 260153,
       "name": "TOLV TOLV",
       "url": "https://open.spotify.com/track/2M2FrUbIZ4mNjT1cTkSEa0"
+    },
+    {
+      "album": {
+        "name": "Too Hot (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216357,
+      "name": "Too Hot (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9"
     },
     {
       "album": {

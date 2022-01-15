@@ -376,6 +376,24 @@
     },
     {
       "album": {
+        "name": "Color Of Your Blood",
+        "url": "https://open.spotify.com/album/6hVOHmIYNWGu9XuUnmbpm0"
+      },
+      "artists": [
+        {
+          "name": "Hellhills",
+          "url": "https://open.spotify.com/artist/3LYHyZn68mKbs47fuX4lPg"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231034,
+      "name": "Color Of Your Blood",
+      "url": "https://open.spotify.com/track/3fMEtToY40iAjM0FjSLvPb"
+    },
+    {
+      "album": {
         "name": "Coma Blue",
         "url": "https://open.spotify.com/album/5HvnKYQwxfXTfvoWr8Ya8c"
       },

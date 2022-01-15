@@ -1,8 +1,10 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Real Rap. All Pressure. Cover: KenTheMan",
+  "description": "Real Rap. All Pressure. Cover: Erica Banks",
   "name": "Pressure",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "5y5tRmbESUW4REpQryCCFI"
+  ],
   "tracks": [
     {
       "album": {
@@ -47,7 +49,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 213133,
       "name": "Ain't FWM (feat. Ken the Man)",
       "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
@@ -83,7 +85,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 157600,
       "name": "Back From The Dead",
       "url": "https://open.spotify.com/track/09LxIFJONw78nrmzA6sAfB"
@@ -123,7 +125,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 168409,
       "name": "Bald Head Bitch",
       "url": "https://open.spotify.com/track/4tEUsFm3lsLVMMYBNL2e9P"
@@ -236,6 +238,28 @@
     },
     {
       "album": {
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159537,
+      "name": "BIG PAPER (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/2ES75ADP1RR9TQmYqtDtyB"
+    },
+    {
+      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -251,7 +275,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
@@ -269,7 +293,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 126753,
       "name": "Body Bag",
       "url": "https://open.spotify.com/track/0xyoFI12avobBj3fEt2MD6"
@@ -331,7 +355,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 115410,
       "name": "Chacin - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/6B0kjLOZTb3QZOCdeL8Bhb"
@@ -353,7 +377,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 174176,
       "name": "Chanel Slides (feat. Kash Doll)",
       "url": "https://open.spotify.com/track/0Q7oKGmOMygeemUaUr6lYJ"
@@ -379,10 +403,32 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 172714,
       "name": "Check (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138549,
+      "name": "City On Lock",
+      "url": "https://open.spotify.com/track/6DDNOwpA8MHEylWVQdyVFq"
     },
     {
       "album": {
@@ -459,7 +505,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 131082,
       "name": "Don't Play With It",
       "url": "https://open.spotify.com/track/6GbrejIjCnfVzkNTxyMYFF"
@@ -499,7 +545,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 127100,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0pNCiP9eDs1eGecPAKasnN"
@@ -561,7 +607,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 183436,
       "name": "Freaky Dancer (feat. Trina)",
       "url": "https://open.spotify.com/track/7FQO72imUTztCiYfRGQDGZ"
@@ -597,10 +643,32 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 202119,
       "name": "GodMother",
       "url": "https://open.spotify.com/track/6Jj2PqBk7RKh88pckutkL8"
+    },
+    {
+      "album": {
+        "name": "Heavy Steppers (Remix)",
+        "url": "https://open.spotify.com/album/5U6PsUxmiTvOKxsS54t5fA"
+      },
+      "artists": [
+        {
+          "name": "9ina",
+          "url": "https://open.spotify.com/artist/1sbXueC2f1AS634qGiyZFw"
+        },
+        {
+          "name": "Bidney Blood",
+          "url": "https://open.spotify.com/artist/4bJCIoav4AKcHaLMIYXKhF"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120111,
+      "name": "Heavy Steppers - Remix",
+      "url": "https://open.spotify.com/track/0jbzP7LQDrRlDSS8x3mAPe"
     },
     {
       "album": {
@@ -615,7 +683,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 169679,
       "name": "Ice Baby",
       "url": "https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2"
@@ -633,7 +701,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 70429,
       "name": "If I Want To",
       "url": "https://open.spotify.com/track/3mulIJBXRtnCCyrhEmQnUT"
@@ -680,6 +748,24 @@
     },
     {
       "album": {
+        "name": "Margarita",
+        "url": "https://open.spotify.com/album/7agoHE6NnnJIwCKJUNysii"
+      },
+      "artists": [
+        {
+          "name": "LightSkinKeisha",
+          "url": "https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM"
+        }
+      ],
+      "date_added": "2021-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Margarita",
+      "url": "https://open.spotify.com/track/5jVQWnQukez0gilwAvqKOV"
+    },
+    {
+      "album": {
         "name": "Mascara",
         "url": "https://open.spotify.com/album/3wPGN4DPFG9Z69Q6s52CBZ"
       },
@@ -691,7 +777,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 146490,
       "name": "Mascara",
       "url": "https://open.spotify.com/track/41cmC5V2ilq3NxKMq2MZTn"
@@ -727,7 +813,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 109534,
       "name": "Miss Understood",
       "url": "https://open.spotify.com/track/5WFTXayaoxsc3WO9GNSBNd"
@@ -745,7 +831,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 132310,
       "name": "NO Hook",
       "url": "https://open.spotify.com/track/4Cydne3gCWkPSW5zSTdJg6"
@@ -767,7 +853,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 189325,
       "name": "Not Gang (feat. EST Gee)",
       "url": "https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0"
@@ -837,7 +923,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 93096,
       "name": "Oh Shhh",
       "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
@@ -873,7 +959,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 161985,
       "name": "Paid n Full",
       "url": "https://open.spotify.com/track/1dMZ1QcecuC5ctGaCbXEsb"
@@ -992,6 +1078,28 @@
     },
     {
       "album": {
+        "name": "Rose Gold Stripper Pole (feat. 2 Chainz)",
+        "url": "https://open.spotify.com/album/14eXE65nvhQnfzBwLIR4Td"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Rose Gold Stripper Pole (feat. 2 Chainz)",
+      "url": "https://open.spotify.com/track/41xbRAC6Vv2cu3o5HSh4tE"
+    },
+    {
+      "album": {
         "name": "Blue/Santanny",
         "url": "https://open.spotify.com/album/08nho3QsVArCSlMQEI6exi"
       },
@@ -1061,7 +1169,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 138352,
       "name": "Smack a Bitch",
       "url": "https://open.spotify.com/track/1nrsFfACPG4Hnw5AuOpCND"
@@ -1097,7 +1205,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 112845,
       "name": "Straight To It",
       "url": "https://open.spotify.com/track/1BgyAPxLr60xUYNbvg7my6"
@@ -1159,6 +1267,24 @@
       "duration_ms": 134801,
       "name": "Tha Fuck - from the \"Bruised\" Soundtrack",
       "url": "https://open.spotify.com/track/4atXiThjKGDzHmJFUQq16I"
+    },
+    {
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/33DODzd4WPmCmo0FQB44rj"
+      },
+      "artists": [
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152647,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4ZZqSUo5sAxJq9yxUkQY0o"
     },
     {
       "album": {
@@ -1242,6 +1368,24 @@
     },
     {
       "album": {
+        "name": "We Not Humping",
+        "url": "https://open.spotify.com/album/5zdbJoOThfYjQhzDwpdF7B"
+      },
+      "artists": [
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144195,
+      "name": "We Not Humping",
+      "url": "https://open.spotify.com/track/0ypTgFheHb8nRVq4ygoQ3P"
+    },
+    {
+      "album": {
         "name": "Who Want It",
         "url": "https://open.spotify.com/album/36AgQV01nkWBZC5iXoJREb"
       },
@@ -1275,7 +1419,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 155881,
       "name": "You know My body (feat. Capella Grey)",
       "url": "https://open.spotify.com/track/2OjabQl4Ti8FIGslOb0pPI"

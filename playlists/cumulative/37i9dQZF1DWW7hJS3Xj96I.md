@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW7hJS3Xj96I.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW7hJS3Xj96I) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWW7hJS3Xj96I)
 
-### Fiesta 90era
+### [Fiesta 90era](https://open.spotify.com/playlist/0nxZjq1X0FlGlwMkxj3U2K)
 
 > ¡Baila con los mejores éxitos de los 90!
 

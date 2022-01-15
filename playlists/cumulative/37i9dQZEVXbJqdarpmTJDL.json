@@ -56,6 +56,24 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155375,
+      "name": "1987",
+      "url": "https://open.spotify.com/track/4sFnFmeRYIXj12G9pzEMK4"
+    },
+    {
+      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/2CASbkwxK2zM1vBmFRi9iN"
       },
@@ -307,7 +325,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 168601,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
@@ -369,7 +387,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 191356,
       "name": "Aeraki - To Thiliko",
       "url": "https://open.spotify.com/track/1MLVUnu8S4DZIN9HtQNkDc"
@@ -1335,7 +1353,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 163504,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ"
@@ -2266,6 +2284,28 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "SALVA",
+          "url": "https://open.spotify.com/artist/4uxKjHpF1AVuoZoDqp4whz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/5ULjMFUY8wZUj3LZAsy8rD"
+    },
+    {
+      "album": {
         "name": "Criminale",
         "url": "https://open.spotify.com/album/3JfZ9cHDkk1db60W6A6Aob"
       },
@@ -2321,7 +2361,7 @@
       ],
       "date_added": "2021-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 209390,
       "name": "Daewoo 3",
       "url": "https://open.spotify.com/track/6pwZ0KpNZ4CKwXcTiGRiOq"
@@ -2704,6 +2744,28 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "GAMEBOY",
+          "url": "https://open.spotify.com/artist/09admC8JPSuizanrDUzWtd"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Diosa",
+      "url": "https://open.spotify.com/track/37lxdBzdwPcbpiLNnY5L8B"
+    },
+    {
+      "album": {
         "name": "Diva",
         "url": "https://open.spotify.com/album/1I9JczOR7aFR9HZEzIeNgT"
       },
@@ -2993,7 +3055,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 193777,
       "name": "Dynata - Ta Ta Ta",
       "url": "https://open.spotify.com/track/0abW4AXMPM75YUA87mlljq"
@@ -3809,7 +3871,7 @@
       ],
       "date_added": "2021-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 255160,
       "name": "Funky",
       "url": "https://open.spotify.com/track/45tKbJjhOIrURcjLNfjLye"
@@ -4499,7 +4561,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214214,
       "name": "How Do I Make You Love Me?",
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
@@ -4707,7 +4769,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 194366,
       "name": "Immune x Fumez The Engineer - Plugged In",
       "url": "https://open.spotify.com/track/4DJdbzwhOQfJzJMstOD1jP"
@@ -4953,6 +5015,28 @@
       "duration_ms": 178500,
       "name": "Je me casse",
       "url": "https://open.spotify.com/track/559RWsQqSe4fNUffI9P7mW"
+    },
+    {
+      "album": {
+        "name": "Jet",
+        "url": "https://open.spotify.com/album/0Ux7BDqd9Ub4lzNga1jLaM"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239995,
+      "name": "Jet",
+      "url": "https://open.spotify.com/track/1FaERnz6U0LZ2AHI5JZytO"
     },
     {
       "album": {
@@ -5341,6 +5425,28 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kobe",
+      "url": "https://open.spotify.com/track/5pJs3IQxlt8OjtXmTeVlJu"
     },
     {
       "album": {
@@ -6326,6 +6432,28 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "SALVA",
+          "url": "https://open.spotify.com/artist/4uxKjHpF1AVuoZoDqp4whz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/7zbGFFbyAcwP28PTcS60qj"
+    },
+    {
+      "album": {
         "name": "Martini",
         "url": "https://open.spotify.com/album/5PMJkuVePgx9hwYwGYE02e"
       },
@@ -6639,10 +6767,32 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 231000,
       "name": "Mia Zoi",
       "url": "https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133953,
+      "name": "MIAMI",
+      "url": "https://open.spotify.com/track/4zk4Q1nwAC0zB2maZ2zyW9"
     },
     {
       "album": {
@@ -6908,6 +7058,28 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "VLOSPA",
+          "url": "https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Moonwalk",
+      "url": "https://open.spotify.com/track/7m84C5gTmnmeh3VUIwDcd2"
+    },
+    {
+      "album": {
         "name": "Mordor",
         "url": "https://open.spotify.com/album/48VksxL3VmHOOr7bOkPUoJ"
       },
@@ -7161,6 +7333,28 @@
       "duration_ms": 189230,
       "name": "Namu",
       "url": "https://open.spotify.com/track/17r0uLLClWWhGvUadENcjU"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Rack",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "NANA",
+      "url": "https://open.spotify.com/track/7hVXZVcmpcHq1DJ05dnFZK"
     },
     {
       "album": {
@@ -7575,7 +7769,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214193,
       "name": "Out of Time",
       "url": "https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV"
@@ -8413,6 +8607,24 @@
       "duration_ms": 198613,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/3SYLoL8KHxdQPYIkfwmUjN"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Rihanna",
+      "url": "https://open.spotify.com/track/5kkfi60K9OQkXtn3Q6XNHD"
     },
     {
       "album": {
@@ -9437,7 +9649,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
@@ -10158,6 +10370,28 @@
     },
     {
       "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Phen",
+          "url": "https://open.spotify.com/artist/3Or7sFYK0roAEy6IznZP5q"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "TV",
+      "url": "https://open.spotify.com/track/0ftxzdYSC6sb5IvV2TjozK"
+    },
+    {
+      "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
@@ -10657,7 +10891,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 247200,
       "name": "XILIOMETRA",
       "url": "https://open.spotify.com/track/0Az2D1ByNU09je0ZtzDcHm"
@@ -10683,6 +10917,24 @@
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "1987",
+        "url": "https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161167,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/2hawmeQUQ9Rou71QGou6Bb"
     },
     {
       "album": {

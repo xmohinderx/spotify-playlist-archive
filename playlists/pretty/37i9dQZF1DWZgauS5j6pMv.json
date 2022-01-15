@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Thundercat",
   "name": "Nu-Funk",
-  "num_followers": 229974,
+  "num_followers": 230153,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTcyMCwwMDAwMDA2OTAwMDAwMTdlMzJlYTQxYTUwMDAwMDE3ZDk1YTU4ZGY1",
+  "snapshot_id": "MTY0MjEzNjQ2MCwwMDAwMDA2YTAwMDAwMTdlNTZmNWRiNmYwMDAwMDE3ZDk1YTU4ZGY1",
   "tracks": [
     {
       "added_at": "2022-01-07 05:02:00",
@@ -63,6 +63,26 @@
       "duration_ms": 214769,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/4Gf0lz0QLodvGRqTDLnWQ6"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Bad Weather (STR4TA Remix)",
+        "url": "https://open.spotify.com/album/4z9gDwplcBMDpDLtmwBf1G"
+      },
+      "artists": [
+        {
+          "name": "Anushka",
+          "url": "https://open.spotify.com/artist/30kBWK3T10BVkU6WLSeody"
+        },
+        {
+          "name": "STR4TA",
+          "url": "https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt"
+        }
+      ],
+      "duration_ms": 211034,
+      "name": "Bad Weather - STR4TA Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/6lNkrZ5fvRNRRob8qIvHWY"
     },
     {
       "added_at": "2021-09-17 04:02:00",
@@ -893,7 +913,7 @@
       "artists": [
         {
           "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/0IR6Zuj6CkoPTY0FHwT0w5"
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
         }
       ],
       "duration_ms": 163786,

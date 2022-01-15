@@ -1,13 +1,49 @@
 {
-  "description": "Tech house technicians. Cover: Martin Ikin",
+  "description": "Tech house technicians. Cover: SIDEPIECE",
   "name": "Operator",
-  "num_followers": 535869,
+  "num_followers": 536025,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjA5MjA4MiwwMDAwMDBmNDAwMDAwMTdlNTQ1MGI0YWMwMDAwMDE3ZTM1M2VlOTRm",
+  "snapshot_id": "MTY0MjE1OTI2MCwwMDAwMDBmNTAwMDAwMTdlNTg1MWMxY2EwMDAwMDE3ZTU0NWVlYzBl",
   "tracks": [
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Sextacy",
+        "url": "https://open.spotify.com/album/6QxRE7g3LRK8EW4DKw2nO6"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Sextacy",
+      "url": "https://open.spotify.com/track/7Fbx8mVJy36dsVq9IYTRXu"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Backfire",
+        "url": "https://open.spotify.com/album/6SBDRakZ5IAO7V36ZBuFuK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Jay Colin",
+          "url": "https://open.spotify.com/artist/3hLsFuuBcVto50AoXympLx"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Backfire",
+      "url": "https://open.spotify.com/track/632paTWO6lWhhkpSPvlKiG"
+    },
     {
       "added_at": "2022-01-05 20:19:26",
       "album": {
@@ -55,6 +91,46 @@
       "duration_ms": 185193,
       "name": "Feel The Vibe",
       "url": "https://open.spotify.com/track/12RAnp0xkdW22UGfgejElE"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 408669,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Back Seat (Chris Lorenzo Remix)",
+        "url": "https://open.spotify.com/album/1YGMmHM1bVkTfEt761AwRT"
+      },
+      "artists": [
+        {
+          "name": "Anna Lunoe",
+          "url": "https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D"
+        },
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 286874,
+      "name": "Back Seat - Chris Lorenzo Remix",
+      "url": "https://open.spotify.com/track/6ZbJz7FWWa3m5QbTudts8K"
     },
     {
       "added_at": "2022-01-07 15:54:05",
@@ -107,6 +183,46 @@
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Poison (feat. Darla Jade)",
+        "url": "https://open.spotify.com/album/7wUWLFKic6z5SDcTk8LIoA"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Nihil Young",
+          "url": "https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Poison (feat. Darla Jade)",
+      "url": "https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Infrared",
+        "url": "https://open.spotify.com/album/0eRYQNzFjAayeFzgcw3Tvx"
+      },
+      "artists": [
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+        }
+      ],
+      "duration_ms": 318414,
+      "name": "Infrared",
+      "url": "https://open.spotify.com/track/3yHiLDeERi7k1q3InysVYI"
     },
     {
       "added_at": "2022-01-07 15:54:05",
@@ -173,6 +289,42 @@
       "url": "https://open.spotify.com/track/5WoBAyXaOnKEfvsZocrPeT"
     },
     {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Love Hotline",
+        "url": "https://open.spotify.com/album/5J2Ddj1X5zeiWW0pUPBUyZ"
+      },
+      "artists": [
+        {
+          "name": "Little Fritter",
+          "url": "https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo"
+        },
+        {
+          "name": "Wongo",
+          "url": "https://open.spotify.com/artist/7yx47vjNgvQXPtHis6Hi91"
+        }
+      ],
+      "duration_ms": 208153,
+      "name": "Love Hotline",
+      "url": "https://open.spotify.com/track/1VbUMlLn9RdOHZHpFnOWP3"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/2MrCpTiC2GIarhN5FrTGHV"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        }
+      ],
+      "duration_ms": 151681,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/2Hzg6GI93wgnIiiU6ZrLhP"
+    },
+    {
       "added_at": "2022-01-05 15:42:52",
       "album": {
         "name": "Really Really Hot",
@@ -205,22 +357,6 @@
       "url": "https://open.spotify.com/track/4eadst9pPSuPYa6ZC79DBj"
     },
     {
-      "added_at": "2022-01-05 15:42:52",
-      "album": {
-        "name": "All I Do",
-        "url": "https://open.spotify.com/album/33Eb0Zl7WwsHAC6sZmNt88"
-      },
-      "artists": [
-        {
-          "name": "Ben Miller (Aus)",
-          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "All I Do",
-      "url": "https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX"
-    },
-    {
       "added_at": "2021-11-26 14:57:55",
       "album": {
         "name": "On My Mind",
@@ -239,6 +375,38 @@
       "duration_ms": 189268,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5hmcw6bW5V24CvJqsz87We"
+    },
+    {
+      "added_at": "2022-01-14 11:21:00",
+      "album": {
+        "name": "Leave Your Mind Behind",
+        "url": "https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z"
+      },
+      "artists": [
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        }
+      ],
+      "duration_ms": 186190,
+      "name": "Leave Your Mind Behind",
+      "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
+    },
+    {
+      "added_at": "2022-01-05 15:42:52",
+      "album": {
+        "name": "All I Do",
+        "url": "https://open.spotify.com/album/33Eb0Zl7WwsHAC6sZmNt88"
+      },
+      "artists": [
+        {
+          "name": "Ben Miller (Aus)",
+          "url": "https://open.spotify.com/artist/5cqGrWHL35BEuTpahcON5J"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "All I Do",
+      "url": "https://open.spotify.com/track/1iKkDpq64zlW1Cv3zdrOaX"
     },
     {
       "added_at": "2021-12-10 19:01:14",

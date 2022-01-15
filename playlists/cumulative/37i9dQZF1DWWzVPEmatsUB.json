@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 268642,
       "name": "A Hand, A Heart - 2021",
       "url": "https://open.spotify.com/track/2MylFBKIQH5ogcBbeMDYiR"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 240600,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/1Omt5bfz1tZUCqd26HxbS0"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 199090,
       "name": "Butterflies (feat. Samuel Choi)",
       "url": "https://open.spotify.com/track/2KWUaIx78CzNbx6xR9VrLd"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 217519,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/67abo3o0GemMBmypVt6A92"
@@ -391,7 +391,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 209160,
       "name": "Everything's Fine",
       "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
@@ -528,6 +528,28 @@
     },
     {
       "album": {
+        "name": "Get Back To The Land",
+        "url": "https://open.spotify.com/album/1wHQdMICR6yPfZfvKfh2up"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        },
+        {
+          "name": "Emma Donovan",
+          "url": "https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266350,
+      "name": "Get Back To The Land",
+      "url": "https://open.spotify.com/track/0bOzDaUYbUVWMLtl8DNt8L"
+    },
+    {
+      "album": {
         "name": "Give in to Me",
         "url": "https://open.spotify.com/album/2kTC04fQ5TMi8oIMxSCvk5"
       },
@@ -539,7 +561,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 271640,
       "name": "Give in to Me",
       "url": "https://open.spotify.com/track/0WRV8ZT2bzSINqpufUIazn"
@@ -561,7 +583,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 134742,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/7AoCNArsiCSt4vr2dqAjJx"
@@ -597,7 +619,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 265070,
       "name": "Have It Your Way",
       "url": "https://open.spotify.com/track/7hGJ3EmVvVOrFciDx0P8vm"
@@ -839,7 +861,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 275634,
       "name": "Jim and Pam (feat. Jada Banks-Mace)",
       "url": "https://open.spotify.com/track/5hvhdaR2rxzpXbvqIiQy6B"
@@ -1031,7 +1053,7 @@
       ],
       "date_added": "2021-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 259851,
       "name": "Making Room",
       "url": "https://open.spotify.com/track/5QRfxsSpzpWqzw4v3vKTCH"
@@ -1587,7 +1609,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 300295,
       "name": "Still Blue",
       "url": "https://open.spotify.com/track/24kEcxphKufCs6KNPkyf5K"
@@ -1717,7 +1739,7 @@
       ],
       "date_added": "2020-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 230013,
       "name": "That Was Yesterday",
       "url": "https://open.spotify.com/track/3gwfEBrFpzEFCZMjw7mqxA"
@@ -1855,7 +1877,7 @@
       ],
       "date_added": "2021-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 190317,
       "name": "What We Found",
       "url": "https://open.spotify.com/track/60npzcMuSF3IgdQoAHIFfx"

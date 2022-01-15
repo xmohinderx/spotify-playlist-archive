@@ -425,7 +425,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 373000,
       "name": "Closer",
       "url": "https://open.spotify.com/track/2oDqmfa2g8W893LlwJG1qu"
@@ -526,6 +526,24 @@
     },
     {
       "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/4sypyREAQc69dg2X5XY4Df"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Dead Of Night",
+      "url": "https://open.spotify.com/track/6jzAkKTa5sRAcIG4N1DkV6"
+    },
+    {
+      "album": {
         "name": "Dear God (feat. Kevin Gates)",
         "url": "https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH"
       },
@@ -621,7 +639,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 152673,
       "name": "Dub",
       "url": "https://open.spotify.com/track/7wsf0N84oqWOm3M22OvvHT"
@@ -1455,7 +1473,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
@@ -1622,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "Soy El Raton",
+        "url": "https://open.spotify.com/album/0goe4Y1NMHxxsnXyv8ytuA"
+      },
+      "artists": [
+        {
+          "name": "Ldln",
+          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175542,
+      "name": "Soy El Raton",
+      "url": "https://open.spotify.com/track/6VUtRAE5fkJQfWqFhEWy1H"
+    },
+    {
+      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
       },
@@ -1739,6 +1775,24 @@
       "duration_ms": 194423,
       "name": "The Perfect Girl",
       "url": "https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh"
+    },
+    {
+      "album": {
+        "name": "The Road",
+        "url": "https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268186,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX"
     },
     {
       "album": {

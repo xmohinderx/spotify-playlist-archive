@@ -260,6 +260,28 @@
     },
     {
       "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/5RjGwtwltDL696PNZIfv49"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184131,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/4Zn6j393rAtuIG0PAJqx1s"
+    },
+    {
+      "album": {
         "name": "Babymama (Remix)",
         "url": "https://open.spotify.com/album/1s00bDiU1JmP4Hpgb7A6Hs"
       },
@@ -607,7 +629,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 111629,
       "name": "Drill Tumbado",
       "url": "https://open.spotify.com/track/6lpnklpEptsXrNvzsmmOug"
@@ -1357,7 +1379,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207573,
       "name": "Llegar\u00e1",
       "url": "https://open.spotify.com/track/52zHq60TmFob7fBVx3BQSo"
@@ -1445,7 +1467,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 278280,
       "name": "Los Dioses",
       "url": "https://open.spotify.com/track/770EsvNdHAr56fPBhZxUH6"
@@ -1959,6 +1981,32 @@
       "duration_ms": 184359,
       "name": "SHISHIBROKE",
       "url": "https://open.spotify.com/track/6y4mDVEMke0cnfdTCApqlv"
+    },
+    {
+      "album": {
+        "name": "Sicaria",
+        "url": "https://open.spotify.com/album/4n0UgGMEt3tP7YsiQ9y6t4"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259310,
+      "name": "Sicaria",
+      "url": "https://open.spotify.com/track/54LJrBDBnR0ey6ggMFQycr"
     },
     {
       "album": {

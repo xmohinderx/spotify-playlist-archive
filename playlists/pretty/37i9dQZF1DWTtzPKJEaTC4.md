@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtzPKJEaTC4.md) - [plain]
 
 > <a href="spotify:artist:3ycxRkcZ67ALN3GQJ57Vig">Masego</a> shares his jazz favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,386 likes - 37 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,384 likes - 37 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

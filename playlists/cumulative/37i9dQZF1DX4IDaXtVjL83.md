@@ -2,7 +2,7 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/0DIHYFEqLdrnfdqObi2sJD)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: Sam Kim, Mew Suppasit
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! Cover: MOMOLAND, Natti Natasha
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Wrap Me In Plastic](https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [CHROMANCE](https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp) | [Wrap Me In Plastic](https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB) | 3:12 | 2021-12-20 |  |
 | [You Never Know \- JP Ver.](https://open.spotify.com/track/3b7trEcKoglybN5MxGuSaw) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [You Never Know \(JP Ver.\)](https://open.spotify.com/album/4CoKhy1Ew4kb4kgonvnMXy) | 3:49 | 2021-12-20 |  |
 | [You Problem](https://open.spotify.com/track/2rCPeuzBY9NEX9VNshkjmH) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 3:19 | 2021-12-20 |  |
+| [Yummy Yummy Love](https://open.spotify.com/track/4yTvTZ68CSpqV1T6AuGikB) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Yummy Yummy Love](https://open.spotify.com/album/2r35RHvEtBjgKiONdItRR5) | 3:19 | 2022-01-14 |  |
 | [あいのちから](https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [あいのちから](https://open.spotify.com/album/3fqYnHqWRVePkZzPQpxclM) | 3:50 | 2021-12-20 |  |
 | [雨恋](https://open.spotify.com/track/7IhPNuQ9Wofe1wnvksz0a3) | [Jang Keun\-suk](https://open.spotify.com/artist/3OOtuve788y64B4qKtZoci) | [雨恋](https://open.spotify.com/album/5vZyHXMwvNbgCQACWO2lHm) | 3:51 | 2021-12-20 |  |
 

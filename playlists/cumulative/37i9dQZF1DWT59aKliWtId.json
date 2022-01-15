@@ -1,11 +1,29 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "A quality alternative blend. Cover: Shungudzo",
+  "description": "A quality alternative blend. Cover: Lucius",
   "name": "Grade A",
   "published_playlist_ids": [
     "5atRHR4vc4jlkDH31Rwpnd"
   ],
   "tracks": [
+    {
+      "album": {
+        "name": "A Wave Across A Bay",
+        "url": "https://open.spotify.com/album/7cBsGWCsDuu0KC38K3uBFF"
+      },
+      "artists": [
+        {
+          "name": "Frank Turner",
+          "url": "https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "A Wave Across A Bay",
+      "url": "https://open.spotify.com/track/1p9yDrQeXYbE3f6bW2YBAI"
+    },
     {
       "album": {
         "name": "Ain\u2019t Lookin\u2019",
@@ -19,7 +37,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 202146,
       "name": "Ain\u2019t Lookin\u2019",
       "url": "https://open.spotify.com/track/3RKHWmV9e2sagLCOyaZ2OB"
@@ -120,6 +138,24 @@
     },
     {
       "album": {
+        "name": "Bethel Woods",
+        "url": "https://open.spotify.com/album/6FHo7FsoDgcn3BBC9yYX1l"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263400,
+      "name": "Bethel Woods",
+      "url": "https://open.spotify.com/track/2fbXenv8BnYOhxJk0CxwFD"
+    },
+    {
+      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA"
       },
@@ -174,6 +210,42 @@
     },
     {
       "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+    },
+    {
+      "album": {
+        "name": "Brother the Cloud",
+        "url": "https://open.spotify.com/album/6vygZxPOmQG8x2vIDHUPaB"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262226,
+      "name": "Brother the Cloud",
+      "url": "https://open.spotify.com/track/5anYF2hAddGXTmeHufKsHN"
+    },
+    {
+      "album": {
         "name": "Can't Hide It",
         "url": "https://open.spotify.com/album/1lPz15TcyYeYizPeIomjg6"
       },
@@ -225,7 +297,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 221440,
       "name": "Can\u2019t Let Go",
       "url": "https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK"
@@ -424,6 +496,24 @@
     },
     {
       "album": {
+        "name": "Did You Sleep Last Night?",
+        "url": "https://open.spotify.com/album/0neb8SNbZDXNUT6wHdDv68"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Did You Sleep Last Night?",
+      "url": "https://open.spotify.com/track/3mOf4VKJR7S8fHXlMakRK1"
+    },
+    {
+      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI"
       },
@@ -533,6 +623,24 @@
       "duration_ms": 178168,
       "name": "Everybody (feat. Jenny Lewis)",
       "url": "https://open.spotify.com/track/4kUTA4ftbqY5uZHJzm0wCL"
+    },
+    {
+      "album": {
+        "name": "Public Storage",
+        "url": "https://open.spotify.com/album/31NBYL6BkDpHgYK7cWl32S"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168226,
+      "name": "Everybody's Birthday",
+      "url": "https://open.spotify.com/track/6E10YI1UfAcoW7gIgCv1v6"
     },
     {
       "album": {
@@ -709,7 +817,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 166613,
       "name": "Happy Right Now",
       "url": "https://open.spotify.com/track/2BGElnbD5SDoAtGqQEC6a8"
@@ -807,6 +915,24 @@
       "duration_ms": 308404,
       "name": "Hood of My Car",
       "url": "https://open.spotify.com/track/5I4HRAO95ds6Cktvo0eT9O"
+    },
+    {
+      "album": {
+        "name": "Take the Sadness Out of Saturday Night",
+        "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "How Dare You Want More",
+      "url": "https://open.spotify.com/track/4lKg94fHZZ3pozsNFTew2x"
     },
     {
       "album": {
@@ -912,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Jackie Down The Line",
+        "url": "https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Jackie Down The Line",
+      "url": "https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A"
+    },
+    {
+      "album": {
         "name": "Wilds",
         "url": "https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG"
       },
@@ -945,6 +1089,28 @@
       "duration_ms": 200546,
       "name": "Jeff Goldblum",
       "url": "https://open.spotify.com/track/3PHbnETIo07Bgk475d2z7x"
+    },
+    {
+      "album": {
+        "name": "Keep Coming Back for More (feat. Salt Cathedral)",
+        "url": "https://open.spotify.com/album/5mPb44jjOIbhPAr1uibiYi"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        },
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "Keep Coming Back for More (feat. Salt Cathedral)",
+      "url": "https://open.spotify.com/track/3yy7wABKnsE3v8cysgPGaV"
     },
     {
       "album": {
@@ -1013,7 +1179,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 286887,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy"
@@ -1204,6 +1370,24 @@
     },
     {
       "album": {
+        "name": "Next to Normal",
+        "url": "https://open.spotify.com/album/1M76sQnlDrxbdQJ4Ifh8Jr"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190964,
+      "name": "Next to Normal",
+      "url": "https://open.spotify.com/track/2FcfiX8WugD8q3k5UUrKN2"
+    },
+    {
+      "album": {
         "name": "Outside Child",
         "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
@@ -1378,6 +1562,24 @@
     },
     {
       "album": {
+        "name": "PIERCED ARROWS",
+        "url": "https://open.spotify.com/album/3Rug10AExjdT3hz3gFcJsH"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/3PjN0os4YRSKt3hefJq14b"
+    },
+    {
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
@@ -1487,7 +1689,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214173,
       "name": "RHODODENDRON",
       "url": "https://open.spotify.com/track/5gETHZhvjZ2kBmCwR4RqbY"
@@ -1509,6 +1711,24 @@
       "duration_ms": 261911,
       "name": "Rose Pink Cadillac",
       "url": "https://open.spotify.com/track/3YC7FYhduZbYObLRCdhANa"
+    },
+    {
+      "album": {
+        "name": "Rubberneckers",
+        "url": "https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj"
     },
     {
       "album": {
@@ -1541,7 +1761,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 250157,
       "name": "Saturday",
       "url": "https://open.spotify.com/track/0UmzrRke3LyJMiQwGXFKdt"
@@ -1851,7 +2071,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 186049,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/0UrtLwXYnDIAtHtUDmGe4V"
@@ -1887,7 +2107,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237413,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/29iGTqaNOx1KYjOwG5aWgE"
@@ -1959,7 +2179,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
@@ -2191,7 +2411,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"

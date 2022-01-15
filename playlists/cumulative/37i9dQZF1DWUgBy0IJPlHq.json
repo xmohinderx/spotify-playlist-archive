@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Morgan Wade",
+  "description": "A new shade of Country. Cover: Jamestown Revival\n",
   "name": "Indigo",
   "published_playlist_ids": [
     "3YetB26RqGyFH6Ypx3VTr9"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 200606,
       "name": "Amen",
       "url": "https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 237200,
       "name": "Best to Bonnie",
       "url": "https://open.spotify.com/track/5PPOuo86TFIpUEgQ7sfJ2F"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu"
@@ -478,6 +478,24 @@
     },
     {
       "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
+    },
+    {
+      "album": {
         "name": "Renewal",
         "url": "https://open.spotify.com/album/2as5ea7TPPkXI2OINaMjZR"
       },
@@ -623,10 +641,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 273538,
       "name": "Glad To Be Here (feat. Brent Cobb)",
       "url": "https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF"
+    },
+    {
+      "album": {
+        "name": "Glory of True Love",
+        "url": "https://open.spotify.com/album/5HU1SmRWt20DsYKazXiMQa"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249940,
+      "name": "Glory of True Love",
+      "url": "https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA"
     },
     {
       "album": {
@@ -670,6 +706,36 @@
     },
     {
       "album": {
+        "name": "Gone as It Gets",
+        "url": "https://open.spotify.com/album/6fvDhmDp716QiTxeY0psKf"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        },
+        {
+          "name": "Adam Chaffins",
+          "url": "https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj"
+        },
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        },
+        {
+          "name": "Ben Chapman",
+          "url": "https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224731,
+      "name": "Gone as It Gets",
+      "url": "https://open.spotify.com/track/2dNYJcUrqGVNp8KbVWpuZQ"
+    },
+    {
+      "album": {
         "name": "Goodbye to Goodbye",
         "url": "https://open.spotify.com/album/2KbqG5h2YXacTVaDHSqlqG"
       },
@@ -685,6 +751,24 @@
       "duration_ms": 226896,
       "name": "Goodbye to Goodbye",
       "url": "https://open.spotify.com/track/41f6yx7Gr5rk2RBuckIgHz"
+    },
+    {
+      "album": {
+        "name": "Junky Star",
+        "url": "https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x"
+      },
+      "artists": [
+        {
+          "name": "Ryan Bingham",
+          "url": "https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300453,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL"
     },
     {
       "album": {
@@ -1124,6 +1208,24 @@
     },
     {
       "album": {
+        "name": "Love Is Selfish",
+        "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172885,
+      "name": "Love Is Selfish",
+      "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "album": {
         "name": "Slot Machine Syndrome",
         "url": "https://open.spotify.com/album/6FJMaNrAirTTv36lmZD3d4"
       },
@@ -1189,7 +1291,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 296581,
       "name": "Moon & Stars",
       "url": "https://open.spotify.com/track/7BdHOZHXOplL5ifxKbuyPx"
@@ -1344,6 +1446,24 @@
     },
     {
       "album": {
+        "name": "Pine Grove (Madhouse)",
+        "url": "https://open.spotify.com/album/7dzN4ats6WPUwCkFL2pkZF"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "Pine Grove (Madhouse)",
+      "url": "https://open.spotify.com/track/0V6rLTwbZqPXlQzKJ4Wvua"
+    },
+    {
+      "album": {
         "name": "Plain Dealing",
         "url": "https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM"
       },
@@ -1413,7 +1533,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207271,
       "name": "Salt Flats",
       "url": "https://open.spotify.com/track/2MrRxcr9O26welk5uHNx9D"
@@ -2231,10 +2351,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 246000,
       "name": "Young Man",
       "url": "https://open.spotify.com/track/1KAs06qPczqVLKGBo7Tlrw"
+    },
+    {
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/6wtl82SlZKccyO9BnZoAwA"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Young Man",
+      "url": "https://open.spotify.com/track/6kSBMzeXOsmPvrOvoV6WBt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq"

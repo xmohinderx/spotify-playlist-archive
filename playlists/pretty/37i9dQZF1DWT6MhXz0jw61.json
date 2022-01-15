@@ -1,36 +1,84 @@
 {
   "description": "Chillout hip-hop vibes. Cover: Nas",
   "name": "Mellow Bars",
-  "num_followers": 1014130,
+  "num_followers": 1014594,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTYwMCwwMDAwMDE4ZTAwMDAwMTdlMzJlODZkNDkwMDAwMDE3ZTMxNTZlODY4",
+  "snapshot_id": "MTY0MjEzNjQwMCwwMDAwMDE4ZjAwMDAwMTdlNTZmNGYxNzAwMDAwMDE3ZTMxNTZlODY4",
   "tracks": [
     {
-      "added_at": "2021-11-12 05:00:00",
+      "added_at": "2022-01-14 05:00:00",
       "album": {
-        "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
-        "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
         },
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 289826,
-      "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
-      "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
+      "duration_ms": 257553,
+      "name": "Champagne Glasses (feat. Freddie Gibbs & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/7t7PRXIimTNJ90MUqPNIPz"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Lyrics to GO, Vol. 3",
+        "url": "https://open.spotify.com/album/6uQIKqptioiaZyCyOBTKJv"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 142281,
+      "name": "Bitter",
+      "url": "https://open.spotify.com/track/72W07qFR4D8v0vcAuWoanj"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "SICK!",
+        "url": "https://open.spotify.com/album/51heTwkSfb4Z5dRIgwU2bd"
+      },
+      "artists": [
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+        }
+      ],
+      "duration_ms": 112787,
+      "name": "Lye",
+      "url": "https://open.spotify.com/track/0uSVWoWfql3wPIMlJqBbOS"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "From a Birds Eye View",
+        "url": "https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh"
+      },
+      "artists": [
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 193168,
+      "name": "C Carter",
+      "url": "https://open.spotify.com/track/37kW9eEI0EJFM0ip2mf1Wy"
     },
     {
       "added_at": "2021-10-29 04:00:00",
@@ -63,6 +111,30 @@
       "duration_ms": 336511,
       "name": "Champagne Poetry",
       "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "added_at": "2021-11-12 05:00:00",
+      "album": {
+        "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
+        "url": "https://open.spotify.com/album/0ed1FTetxxPugDhD5KmLeY"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 289826,
+      "name": "Outlawz (feat. Jazmine Sullivan & 21 Savage)",
+      "url": "https://open.spotify.com/track/6rdKv5xmdOs3zsg6mpBK53"
     },
     {
       "added_at": "2021-12-24 05:00:00",
@@ -171,6 +243,26 @@
       "duration_ms": 163499,
       "name": "Blacc Tarantino",
       "url": "https://open.spotify.com/track/4XfImWpKCckmDc4tRqEyIR"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
+        "name": "Come My Way (feat. Krayzie Bone)",
+        "url": "https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa"
+      },
+      "artists": [
+        {
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "Krayzie Bone",
+          "url": "https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR"
+        }
+      ],
+      "duration_ms": 190653,
+      "name": "Come My Way (feat. Krayzie Bone)",
+      "url": "https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6"
     },
     {
       "added_at": "2021-12-10 05:00:00",
@@ -301,20 +393,20 @@
       "url": "https://open.spotify.com/track/3nRCOAcfQKCXdLApwp4nI4"
     },
     {
-      "added_at": "2021-10-22 04:00:00",
+      "added_at": "2021-12-10 05:00:00",
       "album": {
-        "name": "Show You",
-        "url": "https://open.spotify.com/album/23nI961Qgp4InnRf13n1ES"
+        "name": "American Horror Story",
+        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
       },
       "artists": [
         {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
         }
       ],
-      "duration_ms": 203572,
-      "name": "Show You",
-      "url": "https://open.spotify.com/track/6q22MMzXPNnw3mCvxCJYUK"
+      "duration_ms": 309570,
+      "name": "American Horror Story",
+      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
     },
     {
       "added_at": "2021-10-29 04:00:00",
@@ -497,22 +589,6 @@
       "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
     },
     {
-      "added_at": "2021-12-10 05:00:00",
-      "album": {
-        "name": "American Horror Story",
-        "url": "https://open.spotify.com/album/3xojPgk8tHrcKSg5nUnyuR"
-      },
-      "artists": [
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 309570,
-      "name": "American Horror Story",
-      "url": "https://open.spotify.com/track/0ZwLWAwAte17DldUatgEdj"
-    },
-    {
       "added_at": "2021-11-12 05:00:00",
       "album": {
         "name": "Payday",
@@ -635,22 +711,6 @@
       "duration_ms": 137142,
       "name": "Drip Drop",
       "url": "https://open.spotify.com/track/5hJ90ntu3AiMslvAuUR2Uo"
-    },
-    {
-      "added_at": "2021-09-03 05:10:09",
-      "album": {
-        "name": "'96 Bulls",
-        "url": "https://open.spotify.com/album/01Do91GN0SpxAx2iyoJ59G"
-      },
-      "artists": [
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 247841,
-      "name": "'96 Bulls",
-      "url": "https://open.spotify.com/track/0VtyqKSFeXrIVSbpxARxt4"
     },
     {
       "added_at": "2021-10-08 04:00:00",
@@ -1531,22 +1591,6 @@
     {
       "added_at": "2021-05-21 04:00:00",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/09gtbWlXr6RMesOrppK7NN"
       },
@@ -1559,22 +1603,6 @@
       "duration_ms": 214752,
       "name": "Memory",
       "url": "https://open.spotify.com/track/4CyDbVHDx7HbA2W81m4fyt"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "heartbreak hotel",
-        "url": "https://open.spotify.com/album/5sNTg0uPDXdB2aLKrWIWom"
-      },
-      "artists": [
-        {
-          "name": "Phora",
-          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
-        }
-      ],
-      "duration_ms": 192005,
-      "name": "colorblind",
-      "url": "https://open.spotify.com/track/48zvDHaFZnoLJTTq5X1ZI8"
     },
     {
       "added_at": "2021-05-21 04:00:00",
@@ -1599,22 +1627,6 @@
       "duration_ms": 183915,
       "name": "Everybody Loves You",
       "url": "https://open.spotify.com/track/2Wp2IjSLARq1XaoIMaDgCp"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "Future Proof EP",
-        "url": "https://open.spotify.com/album/6vvh0vpFCxoGp6gx9vWwGF"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "I Can't Lose",
-      "url": "https://open.spotify.com/track/0DwMf9EDIXnFRTcZrePq6x"
     },
     {
       "added_at": "2021-05-21 04:00:00",
@@ -1699,30 +1711,6 @@
       "duration_ms": 175563,
       "name": "Distant",
       "url": "https://open.spotify.com/track/3mDaCneJoPlAexIC7cXCFV"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "SHELTER ft Wyclef Jean, ft Chance The Rapper",
-        "url": "https://open.spotify.com/album/2iojD0foSUQWKlHX0urlSs"
-      },
-      "artists": [
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "SHELTER ft Wyclef Jean, ft Chance The Rapper",
-      "url": "https://open.spotify.com/track/2nKaHCeL3e5DNl3P7eZ5uo"
     },
     {
       "added_at": "2021-05-21 04:00:00",
@@ -1879,22 +1867,6 @@
       "duration_ms": 146751,
       "name": "TV Boy",
       "url": "https://open.spotify.com/track/3JRFhq8N3N8sBlm6Y8upPm"
-    },
-    {
-      "added_at": "2021-05-21 04:00:00",
-      "album": {
-        "name": "State of the Union",
-        "url": "https://open.spotify.com/album/0qyZlfEixAKU8WMl1GCNwr"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 281250,
-      "name": "State of the Union",
-      "url": "https://open.spotify.com/track/6AsqnQBAB2OsieFEOg4WuZ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWT6MhXz0jw61"

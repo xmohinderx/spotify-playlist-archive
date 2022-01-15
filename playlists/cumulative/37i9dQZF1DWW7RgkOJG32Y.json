@@ -1428,6 +1428,24 @@
     },
     {
       "album": {
+        "name": "When You Don't",
+        "url": "https://open.spotify.com/album/3mArQu301uZWkNwfGJ51sE"
+      },
+      "artists": [
+        {
+          "name": "Chris Ruediger",
+          "url": "https://open.spotify.com/artist/0MLe1DKmSKbDXw5zw45rJ7"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213784,
+      "name": "When You Don't",
+      "url": "https://open.spotify.com/track/7EXcUNcsRgWUPvujp1uDI3"
+    },
+    {
+      "album": {
         "name": "Whiskey Can't",
         "url": "https://open.spotify.com/album/4sERtXmIt0fusA9kmRcrNT"
       },

@@ -66,6 +66,28 @@
     },
     {
       "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188367,
+      "name": "All The Time (feat. Muroki)",
+      "url": "https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x"
+    },
+    {
+      "album": {
         "name": "Good Job No Conversation",
         "url": "https://open.spotify.com/album/4jk6Mr4i5itP55KJkTBVyw"
       },
@@ -247,7 +269,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 245028,
       "name": "Believe in Me",
       "url": "https://open.spotify.com/track/60pHETtVZP4hddnCg1sKpb"
@@ -385,7 +407,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 178775,
       "name": "Black and Blue - Pat Van Dyke Remix",
       "url": "https://open.spotify.com/track/14AAryrZE6er7tCquvotBq"
@@ -403,7 +425,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
@@ -421,7 +443,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 216336,
       "name": "Bring Me Back",
       "url": "https://open.spotify.com/track/7yQcfL2lLJJfUpWdLF02nU"
@@ -461,7 +483,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
@@ -551,7 +573,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 198095,
       "name": "Circles",
       "url": "https://open.spotify.com/track/6ZoXt2on0ub2ORSTWnJCjs"
@@ -587,7 +609,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
@@ -623,7 +645,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 301265,
       "name": "Complete Annihilation!",
       "url": "https://open.spotify.com/track/252brHktw7kGAdCCahQpW8"
@@ -877,7 +899,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 282728,
       "name": "Dumb Love",
       "url": "https://open.spotify.com/track/4fDcbHuBbX9qlNSQWnkrHw"
@@ -1029,7 +1051,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 214466,
       "name": "Girl",
       "url": "https://open.spotify.com/track/3vo0AKUum4US3CoH3fjNEn"
@@ -1257,7 +1279,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 194826,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/3cx4K9v7RwDEXX6OGPNLNy"
@@ -1405,7 +1427,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 202120,
       "name": "Life On Fire",
       "url": "https://open.spotify.com/track/3tKp46E93JyBCvnAkrgmcy"
@@ -1423,7 +1445,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 249024,
       "name": "Live On",
       "url": "https://open.spotify.com/track/69AKIOHQKkvr70BxFS6FA2"
@@ -1521,6 +1543,24 @@
       "duration_ms": 168345,
       "name": "Love Survive",
       "url": "https://open.spotify.com/track/34nEzGUaDhG63sgBoql2EL"
+    },
+    {
+      "album": {
+        "name": "Someday We'll All Be Free",
+        "url": "https://open.spotify.com/album/6kWqwXiHxRwvLKFScZbbdS"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3Is2HcRNZFrRxTvORBu6bU"
     },
     {
       "album": {
@@ -1647,7 +1687,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
@@ -1851,7 +1891,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 222546,
       "name": "Oh Boredom (Schmaltz City, USA)",
       "url": "https://open.spotify.com/track/79084mepy4vAEG416uZxO7"
@@ -1949,7 +1989,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
@@ -2021,7 +2061,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 343404,
       "name": "Pretty Dirty (In the Fading Light)",
       "url": "https://open.spotify.com/track/2eAtxc1L97UPkxDf4LFtrK"
@@ -2201,7 +2241,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207133,
       "name": "Show Me More",
       "url": "https://open.spotify.com/track/603iVka7FkEfoO0qi1hnf8"
@@ -2255,7 +2295,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 146680,
       "name": "Somebody Made For Me",
       "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
@@ -2291,7 +2331,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 306935,
       "name": "Spread Lurve - Original Mix",
       "url": "https://open.spotify.com/track/4clEDm1xBMwAl4uKo3wCFt"
@@ -2685,7 +2725,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 230676,
       "name": "Wait For the Moment",
       "url": "https://open.spotify.com/track/7qFexQbJ2Kjv9V5hMtK5Lh"
@@ -2775,7 +2815,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 207037,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
@@ -2851,7 +2891,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-15",
       "duration_ms": 438000,
       "name": "Woman of the Ghetto - Original Mix",
       "url": "https://open.spotify.com/track/2wQ9EG969cquLD8qM9y9am"
@@ -2869,7 +2909,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 174959,
       "name": "wyd",
       "url": "https://open.spotify.com/track/2Ev3tTpZzvpqW8pbj3nDlR"

@@ -2,7 +2,7 @@
 
 ### [Nu\-Blue](https://open.spotify.com/playlist/4T4Ls1NqL9xqUmBTXE8Kgz)
 
-> All new, all blues\. Cover: Jackie Venson
+> All new, all blues\. Cover: Sugaray Rayford
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bitter Taste](https://open.spotify.com/track/0S88eFYO7gSJKxdwGHGKrs) | [Jordan Run](https://open.spotify.com/artist/77n5FV29Cq5bbukhovCofj) | [Bitter Taste](https://open.spotify.com/album/0BZOtVXIS9jshHxwLXVJhS) | 3:06 | 2021-05-14 |  |
 | [Black Leaves](https://open.spotify.com/track/2pcZglQR5vcE8z09qLaQoV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Black Leaves](https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2) | 1:44 | 2022-01-07 |  |
 | [Black Myself \- Moby Remix](https://open.spotify.com/track/2lqhbXBX8XZujQLHZBHd3b) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Black Myself \(Moby Remix\)](https://open.spotify.com/album/2oGUlPd9ApyNUoMbJReSBR) | 3:40 | 2021-09-10 |  |
+| [Blood Red River](https://open.spotify.com/track/616pu8ULCu4L2FTMXUxi6S) | [Rī Wolf](https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n), [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [Blood Red River](https://open.spotify.com/album/3RanJ97dq8CzpeJ2rIvlWz) | 3:54 | 2022-01-14 |  |
 | [Boom Boom](https://open.spotify.com/track/1tRztGP1nj2Vdn3wGaRtkq) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Jon](https://open.spotify.com/artist/2QJKrWBci7NRXIFDe1zo6p), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Boom Boom](https://open.spotify.com/album/1u48epo8DIoUdTxL5EfE3B) | 2:52 | 2021-02-05 |  |
 | [Bring on the Pain](https://open.spotify.com/track/5S5uBzMAWzzqwpqxoNnGqq) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Heart of Fire](https://open.spotify.com/album/1Vk2mDeiPytdF3RgwMeke0) | 3:54 | 2021-10-19 |  |
 | [Build A Fire](https://open.spotify.com/track/5vi4LOrt3VMUYjR2iYlcFT) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [Build A Fire](https://open.spotify.com/album/531NRLXjexHTtkCLGgttcm) | 4:38 | 2021-02-05 |  |
@@ -59,6 +60,7 @@
 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 3:21 | 2021-02-05 |  |
 | [OZARK](https://open.spotify.com/track/7nAcaH62CEDb4naXyoomJU) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [OZARK](https://open.spotify.com/album/5GYl6wdaiA22kKtt2Y7aY6) | 3:44 | 2021-05-14 |  |
 | [Parade](https://open.spotify.com/track/4ohUVFem8xKnnnvGz1cpIG) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Parade](https://open.spotify.com/album/7oufinnYn55dYyMTss0KmB) | 2:16 | 2021-03-09 |  |
+| [Please Take My Hand](https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [Please Take My Hand](https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv) | 3:03 | 2022-01-14 |  |
 | [Rain Gonna Fall](https://open.spotify.com/track/2aRbqrv0y95UlmSFwE9832) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Rain Gonna Fall](https://open.spotify.com/album/2Zc0N5hjKfYTecNWMollgM) | 3:50 | 2021-02-05 |  |
 | [Rollin' On](https://open.spotify.com/track/6ol3k9BqQi7tOX98KPnVPa) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Rollin' On](https://open.spotify.com/album/4MREwsWckfOXSbAjNd1c3N) | 5:08 | 2021-08-20 |  |
 | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/track/4LXdNt8mbZIJD6LXBxFS1W) | [Josh Morningstar](https://open.spotify.com/artist/2mGDvM39bEKWuSNd9H7Prm) | [Sanitarium Lovesick Blues \#4702](https://open.spotify.com/album/5N6B3t4lNcsuUe2lZn3GF4) | 2:49 | 2021-03-26 |  |

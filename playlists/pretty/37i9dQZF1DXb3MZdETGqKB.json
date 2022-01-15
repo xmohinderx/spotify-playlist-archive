@@ -1,13 +1,29 @@
 {
-  "description": "All new, all blues. Cover: Jackie Venson",
+  "description": "All new, all blues. Cover: Sugaray Rayford",
   "name": "Nu-Blue",
-  "num_followers": 109031,
+  "num_followers": 109109,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTUzMTY2MCwwMDAwMDBiMjAwMDAwMTdlMzJlOTU3NzMwMDAwMDE3ZDk1ZWViOWIz",
+  "snapshot_id": "MTY0MjEzNjQ2MCwwMDAwMDBiMzAwMDAwMTdlNTZmNWRiN2YwMDAwMDE3ZTQ1ZGJiZGU0",
   "tracks": [
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Please Take My Hand",
+        "url": "https://open.spotify.com/album/5Jc0eVKVekTtHt5rvZhVxv"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 183896,
+      "name": "Please Take My Hand",
+      "url": "https://open.spotify.com/track/4yqt7CCaY6L4G8f0BSjibi"
+    },
     {
       "added_at": "2022-01-07 05:01:00",
       "album": {
@@ -179,6 +195,26 @@
       "duration_ms": 236066,
       "name": "Never Leave You",
       "url": "https://open.spotify.com/track/1sKWhJrFT6PGoXIo2mkgKq"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Blood Red River",
+        "url": "https://open.spotify.com/album/3RanJ97dq8CzpeJ2rIvlWz"
+      },
+      "artists": [
+        {
+          "name": "R\u012b Wolf",
+          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
+        },
+        {
+          "name": "Justin Johnson",
+          "url": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
+        }
+      ],
+      "duration_ms": 234664,
+      "name": "Blood Red River",
+      "url": "https://open.spotify.com/track/616pu8ULCu4L2FTMXUxi6S"
     },
     {
       "added_at": "2021-09-17 04:02:00",
