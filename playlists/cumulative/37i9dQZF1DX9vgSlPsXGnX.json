@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 147906,
       "name": "Cuando Estemos Viejos",
       "url": "https://open.spotify.com/track/32md4AV9lZLvnx1kH84lVS"
@@ -503,6 +503,24 @@
       "duration_ms": 179520,
       "name": "Delirio",
       "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
+    },
+    {
+      "album": {
+        "name": "La Serenata de los Enamorados",
+        "url": "https://open.spotify.com/album/0ccaSPcFOccacjj9EVgJNx"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Donde Encontraras",
+      "url": "https://open.spotify.com/track/1dMK5yoypaN0cr3aW5xJqz"
     },
     {
       "album": {
@@ -781,10 +799,28 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 197032,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/62E8G2xeGJ4UbTRtX1ZW6x"
+    },
+    {
+      "album": {
+        "name": "Los Tres Caballeros",
+        "url": "https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Caballeros",
+          "url": "https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F"
+        }
+      ],
+      "date_added": "2021-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197149,
+      "name": "La Barca",
+      "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
     },
     {
       "album": {
@@ -871,7 +907,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 199133,
       "name": "Madrigal",
       "url": "https://open.spotify.com/track/5xAgpVsRFZUhbEvr4MTICS"
@@ -1217,7 +1253,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 192666,
       "name": "Sabor a mi",
       "url": "https://open.spotify.com/track/7CAwMLxGw5ypWHKxaWPdSq"
@@ -1351,7 +1387,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 176906,
       "name": "Sortilegio",
       "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
@@ -1521,7 +1557,7 @@
       ],
       "date_added": "2021-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 180035,
       "name": "Ven aca (Bolero)",
       "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"

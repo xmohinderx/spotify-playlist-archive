@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 | 2019-05-26\* |  |
+| [A Song For You](https://open.spotify.com/track/6hAKfN2yo45HTpYK3LCMp9) | [Térez Montcalm](https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB) | [Here's To You \- Songs For Shirley Horn](https://open.spotify.com/album/4MdQyZIxJVGzzNEpP8eEH3) | 5:01 | 2019-05-26\* | 2022-01-16 |
 | [A Sunday Kind Of Love](https://open.spotify.com/track/27zwk7cQ2s6sM3tiYgGVsF) | [Ruth Cameron](https://open.spotify.com/artist/6xU3elxz1hWVmeToFlgB0v) | [Roadhouse](https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f) | 4:52 | 2019-05-26\* |  |
 | [A Time For Love](https://open.spotify.com/track/6kkYQ0DI1ZMQyuqNGCcZ09) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [Surrender](https://open.spotify.com/album/06z8lYccAx5xmQJgyq5niq) | 4:59 | 2019-05-26\* |  |
 | [All Because Of You](https://open.spotify.com/track/6jV9QS9mBYFoiZF8GA6uKk) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [JetSetJazz](https://open.spotify.com/album/2KqHT8JmV2HI8tMXn7XIZs) | 3:33 | 2020-03-26 |  |
@@ -80,7 +80,7 @@
 | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/track/5phLXp2XdLBwLuftxbGe2T) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [On an Evening in Roma \(Sott'er Celo de Roma\)](https://open.spotify.com/album/1Ze2q03kDXWfyZwqfIcsYJ) | 2:42 | 2019-05-26\* |  |
 | [One Step Ahead](https://open.spotify.com/track/0MaUUswNytVFfcYYXfvpRQ) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [One Step Ahead \- Single](https://open.spotify.com/album/6fIfmucwqUc3n0pjg2kEy6) | 2:09 | 2019-05-26\* |  |
 | [Our Love Is Here To Stay](https://open.spotify.com/track/1BuHbtYFgSaV99PFPBZEkW) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Unforgettable: With Love](https://open.spotify.com/album/78qajwwkI8eOt1DrnUOtuL) | 3:29 | 2019-05-26\* |  |
-| [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 | 2019-05-26\* | 2022-01-06 |
+| [People Will Say We're In Love](https://open.spotify.com/track/7d5WHGfv4DqTWtjQGHrwij) | [Kat Gang](https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi) | [Come Closer](https://open.spotify.com/album/5kbNiEbyJ4GgvJRkduAr39) | 2:58 | 2019-05-26\* |  |
 | [Photograph](https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream : The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH) | 6:07 | 2019-05-26\* |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/60wOZ1b6EFfnSa4eXyLDwl) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In the Moonlight](https://open.spotify.com/album/4fxUiKusGBrkfnP7t5WoL5) | 4:35 | 2019-05-26\* |  |
 | [Smile](https://open.spotify.com/track/3CPhIqN93yTKFdAKSo3FXh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Smile](https://open.spotify.com/album/4knZD1tqBLuQv3VkT8JCLP) | 4:17 | 2019-05-26\* |  |

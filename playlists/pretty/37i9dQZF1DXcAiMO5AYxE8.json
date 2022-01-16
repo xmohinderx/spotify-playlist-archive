@@ -1,12 +1,12 @@
 {
   "description": "All the best soul disco sounds for getting down.",
   "name": "Soulful Disco",
-  "num_followers": 423006,
+  "num_followers": 423025,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODM5MywwMDAwMDAwMGQzODY0NDNmMzFiYjBhYzRlMGM4ZDU4YjRiNzgxYmQ0",
+  "snapshot_id": "MTY0MjI5NDEyNCwwMDAwMDAwMDI5MDczYzY5OGQ0ZWZkZGM3YWU1YTFlMTJjOGZkMzdm",
   "tracks": [
     {
       "added_at": "2020-04-14 18:41:41",
@@ -163,22 +163,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Collections",
-        "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 231293,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "The Best Of The Emotions: Best Of My Love",
         "url": "https://open.spotify.com/album/30OwtFBugzMGsAYhXzEBEP"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 219933,
       "name": "Best of My Love",
       "url": "https://open.spotify.com/track/6UjlpJhUqOQqv0hrb38IDI"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Collections",
+        "url": "https://open.spotify.com/album/4Rk1aQOMmwSqGl6fqMhCiz"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 231293,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/72FyfakDR6pi2vZv5JVYn4"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/7zz6TEDnwmmRaUcRBHZDmq"
     },
     {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
-      },
-      "artists": [
-        {
-          "name": "McFadden & Whitehead",
-          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Ain't No Stoppin' Us Now - Single Version",
-      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
-    },
-    {
       "added_at": "2020-04-14 18:41:41",
       "album": {
         "name": "Disco 100",
@@ -359,38 +343,6 @@
       "duration_ms": 223093,
       "name": "Relight My Fire - Single Version",
       "url": "https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Best of Sister Sledge (1973-1985)",
-        "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Lost in Music",
-      "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Ultimate Bee Gees",
-        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "You Should Be Dancing - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -411,6 +363,38 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "The Best of Sister Sledge (1973-1985)",
+        "url": "https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Lost in Music",
+      "url": "https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "About Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6"
+      },
+      "artists": [
+        {
+          "name": "Gladys Knight & The Pips",
+          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Taste of Bitter Love",
+      "url": "https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "I Love To Love - The Best Of",
         "url": "https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647"
       },
@@ -427,38 +411,50 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Of MFSB: Love Is The Message",
-        "url": "https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S"
+        "name": "The Ultimate Bee Gees",
+        "url": "https://open.spotify.com/album/3JXTUy5Ccdpe79HUgUiMF9"
       },
       "artists": [
         {
-          "name": "MFSB",
-          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
-        },
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 348333,
-      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees) - \"A Tom Moulton Mix\"",
-      "url": "https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD"
+      "duration_ms": 256453,
+      "name": "You Should Be Dancing - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/5VAKsbOWGdBbg1VFlu9W8o"
     },
     {
-      "added_at": "2020-04-14 18:41:41",
+      "added_at": "2021-07-04 17:34:32",
       "album": {
-        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
-        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 179533,
-      "name": "What Can I Say",
-      "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
+      "duration_ms": 335613,
+      "name": "Only the Strong Survive",
+      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "Bridget Jones\u2019s Baby (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc"
+      },
+      "artists": [
+        {
+          "name": "McFadden & Whitehead",
+          "url": "https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Ain't No Stoppin' Us Now - Single Version",
+      "url": "https://open.spotify.com/track/18piene9mIdOJA2dura9LH"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -495,50 +491,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
+        "name": "Raydio",
+        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
       },
       "artists": [
         {
-          "name": "Odyssey",
-          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+          "name": "Raydio",
+          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
         }
       ],
-      "duration_ms": 326093,
-      "name": "Going Back to My Roots - 12\" Version",
-      "url": "https://open.spotify.com/track/1a4JG31yqWFwsFccPIxAYO"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Legends",
-        "url": "https://open.spotify.com/album/1snEinjkdX67nwrb2A9Y4C"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 393240,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/0uRzka6sn4LVUj8sHQELYz"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "About Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6"
-      },
-      "artists": [
-        {
-          "name": "Gladys Knight & The Pips",
-          "url": "https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Taste of Bitter Love",
-      "url": "https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs"
+      "duration_ms": 275666,
+      "name": "Jack and Jill",
+      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -555,6 +519,106 @@
       "duration_ms": 314893,
       "name": "It's a Disco Night (Rock Don't Stop), Pts. 1 & 2",
       "url": "https://open.spotify.com/track/23chygECXqQIz7l80H87lS"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz"
+      },
+      "artists": [
+        {
+          "name": "Odyssey",
+          "url": "https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5"
+        }
+      ],
+      "duration_ms": 326093,
+      "name": "Going Back to My Roots - 12\" Version",
+      "url": "https://open.spotify.com/track/1a4JG31yqWFwsFccPIxAYO"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "My Time: A Boz Scaggs Anthology (1969-1997)",
+        "url": "https://open.spotify.com/album/3urpKmhg4HyYuEmODNdTdo"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/1bDjowPMtoft6kd33wUkof"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 336293,
+      "name": "Let's Groove",
+      "url": "https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Disco Fever",
+        "url": "https://open.spotify.com/album/5FQrUtk7oZmMFaatVJBW5r"
+      },
+      "artists": [
+        {
+          "name": "Andrea True Connection",
+          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+        }
+      ],
+      "duration_ms": 180040,
+      "name": "More, More, More - Single Version",
+      "url": "https://open.spotify.com/track/105PDCSRSsFPoTPxBI0M92"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Of MFSB: Love Is The Message",
+        "url": "https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S"
+      },
+      "artists": [
+        {
+          "name": "MFSB",
+          "url": "https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv"
+        },
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 348333,
+      "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees) - \"A Tom Moulton Mix\"",
+      "url": "https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD"
+    },
+    {
+      "added_at": "2021-07-04 17:34:32",
+      "album": {
+        "name": "Disco Champs",
+        "url": "https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh"
+      },
+      "artists": [
+        {
+          "name": "The Trammps",
+          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
+        }
+      ],
+      "duration_ms": 303280,
+      "name": "Stop and Think",
+      "url": "https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J"
     },
     {
       "added_at": "2021-07-04 17:34:32",
@@ -579,54 +643,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Boogie Wonderland: The Best Of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 336293,
-      "name": "Let's Groove",
-      "url": "https://open.spotify.com/track/6ZFMq8W8dyUbTee0GDb08X"
-    },
-    {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335613,
-      "name": "Only the Strong Survive",
-      "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Raydio",
-        "url": "https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE"
-      },
-      "artists": [
-        {
-          "name": "Raydio",
-          "url": "https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR"
-        }
-      ],
-      "duration_ms": 275666,
-      "name": "Jack and Jill",
-      "url": "https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "Altogether",
         "url": "https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 198600,
       "name": "I'm in the Mood for Dancing",
       "url": "https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Soultry, Jazzy, & Sexy",
-        "url": "https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF"
-      },
-      "artists": [
-        {
-          "name": "Geraldine Hunt feat. Freddie James & Rosalind aka Cheri",
-          "url": "https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo"
-        }
-      ],
-      "duration_ms": 322386,
-      "name": "Can't Fake the Feeling",
-      "url": "https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -679,34 +679,34 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Everlasting: The Best Of Carl Carlton",
-        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
+        "name": "Legends",
+        "url": "https://open.spotify.com/album/1snEinjkdX67nwrb2A9Y4C"
       },
       "artists": [
         {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
         }
       ],
-      "duration_ms": 153946,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
+      "duration_ms": 393240,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/0uRzka6sn4LVUj8sHQELYz"
     },
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Leif Garrett Collection",
-        "url": "https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
       },
       "artists": [
         {
-          "name": "Leif Garrett",
-          "url": "https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4"
+          "name": "The Weather Girls",
+          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
         }
       ],
-      "duration_ms": 196440,
-      "name": "I Was Made for Dancin'",
-      "url": "https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL"
+      "duration_ms": 326333,
+      "name": "It's Raining Men",
+      "url": "https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -743,34 +743,34 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Disco Fever",
-        "url": "https://open.spotify.com/album/5FQrUtk7oZmMFaatVJBW5r"
+        "name": "The Leif Garrett Collection",
+        "url": "https://open.spotify.com/album/1FWTjROros7lbWXXmHKqJc"
       },
       "artists": [
         {
-          "name": "Andrea True Connection",
-          "url": "https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM"
+          "name": "Leif Garrett",
+          "url": "https://open.spotify.com/artist/2MyNAoQL07EABerr6yhoT4"
         }
       ],
-      "duration_ms": 180040,
-      "name": "More, More, More - Single Version",
-      "url": "https://open.spotify.com/track/105PDCSRSsFPoTPxBI0M92"
+      "duration_ms": 196440,
+      "name": "I Was Made for Dancin'",
+      "url": "https://open.spotify.com/track/3kovBaZ1LGLH1PL31qG7cL"
     },
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL"
+        "name": "Everlasting: The Best Of Carl Carlton",
+        "url": "https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb"
       },
       "artists": [
         {
-          "name": "The Weather Girls",
-          "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 326333,
-      "name": "It's Raining Men",
-      "url": "https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q"
+      "duration_ms": 153946,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -789,36 +789,20 @@
       "url": "https://open.spotify.com/track/4HfY87hxvIVCCLhNlQ59M9"
     },
     {
-      "added_at": "2021-07-04 17:34:32",
-      "album": {
-        "name": "Disco Champs",
-        "url": "https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh"
-      },
-      "artists": [
-        {
-          "name": "The Trammps",
-          "url": "https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK"
-        }
-      ],
-      "duration_ms": 303280,
-      "name": "Stop and Think",
-      "url": "https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J"
-    },
-    {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Feel The Fire: The 20th Century Collection",
-        "url": "https://open.spotify.com/album/3cIFhcTolvO7QxZOc0CnIX"
+        "name": "Soultry, Jazzy, & Sexy",
+        "url": "https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Geraldine Hunt feat. Freddie James & Rosalind aka Cheri",
+          "url": "https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo"
         }
       ],
-      "duration_ms": 245160,
-      "name": "What Cha Gonna Do With My Lovin'",
-      "url": "https://open.spotify.com/track/4U5M6NrgEFATHAFUDFwUGN"
+      "duration_ms": 322386,
+      "name": "Can't Fake the Feeling",
+      "url": "https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -843,6 +827,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Feel The Fire: The 20th Century Collection",
+        "url": "https://open.spotify.com/album/3cIFhcTolvO7QxZOc0CnIX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "What Cha Gonna Do With My Lovin'",
+      "url": "https://open.spotify.com/track/4U5M6NrgEFATHAFUDFwUGN"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "Disco Party",
         "url": "https://open.spotify.com/album/7Kneel529obA7Qd9glamb4"
       },
@@ -859,6 +859,54 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 205133,
+      "name": "Take Good Care of Yourself",
+      "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "The Best Year Of My Life: 1981",
+        "url": "https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "duration_ms": 233040,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "A Simple Game",
+        "url": "https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 303400,
+      "name": "A Simple Game",
+      "url": "https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "DREAM ON",
         "url": "https://open.spotify.com/album/3bgbVCy73fCJcGky7q6xFg"
       },
@@ -871,6 +919,22 @@
       "duration_ms": 312800,
       "name": "Shine On",
       "url": "https://open.spotify.com/track/69IFOdcqRAceXkikTCblWA"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
+        "name": "Masters Series - 70's Disco Party",
+        "url": "https://open.spotify.com/album/7DvNg8jcR8VCw9ZncT1ShF"
+      },
+      "artists": [
+        {
+          "name": "G.Q.",
+          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "Boogie Oogie Oogie",
+      "url": "https://open.spotify.com/track/2Z477zQnVVTcZ9ZDzTpk8L"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -895,50 +959,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "A Simple Game",
-        "url": "https://open.spotify.com/album/0teJDgHyJ9lbThnbX7oTHz"
+        "name": "Disco 100",
+        "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
       },
       "artists": [
         {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+          "name": "Melba Moore",
+          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
         }
       ],
-      "duration_ms": 303400,
-      "name": "A Simple Game",
-      "url": "https://open.spotify.com/track/1UXYaXFyEogAXs4ddBnpZg"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "The Best Year Of My Life: 1981",
-        "url": "https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Browne",
-          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
-        }
-      ],
-      "duration_ms": 233040,
-      "name": "Funkin' for Jamaica",
-      "url": "https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd"
+      "duration_ms": 209173,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/4y9iH8fG2E3sdM4ccUEmHx"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -959,34 +991,18 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG"
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
       },
       "artists": [
         {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
         }
       ],
-      "duration_ms": 205133,
-      "name": "Take Good Care of Yourself",
-      "url": "https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Masters Series - 70's Disco Party",
-        "url": "https://open.spotify.com/album/7DvNg8jcR8VCw9ZncT1ShF"
-      },
-      "artists": [
-        {
-          "name": "G.Q.",
-          "url": "https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "Boogie Oogie Oogie",
-      "url": "https://open.spotify.com/track/2Z477zQnVVTcZ9ZDzTpk8L"
+      "duration_ms": 275200,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
-        "name": "Disco 100",
-        "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
-      },
-      "artists": [
-        {
-          "name": "Melba Moore",
-          "url": "https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq"
-        }
-      ],
-      "duration_ms": 209173,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/4y9iH8fG2E3sdM4ccUEmHx"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
         "name": "More Monty",
         "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2020-04-14 18:41:41",
       "album": {
+        "name": "Disco 100",
+        "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
+      },
+      "artists": [
+        {
+          "name": "Bruce Johnston",
+          "url": "https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU"
+        }
+      ],
+      "duration_ms": 237560,
+      "name": "Pipeline",
+      "url": "https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd"
+    },
+    {
+      "added_at": "2020-04-14 18:41:41",
+      "album": {
         "name": "More Monty",
         "url": "https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh"
       },
@@ -1092,13 +1108,13 @@
       },
       "artists": [
         {
-          "name": "Bruce Johnston",
-          "url": "https://open.spotify.com/artist/0yiSGGu3grpaH56F9znIeU"
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
         }
       ],
-      "duration_ms": 237560,
-      "name": "Pipeline",
-      "url": "https://open.spotify.com/track/50nRo6MZZE81IxYWNaUiQd"
+      "duration_ms": 206133,
+      "name": "(Ooh-Wee) He's Killing Me",
+      "url": "https://open.spotify.com/track/1doc4es6AjX9WRuifoDZqt"
     },
     {
       "added_at": "2020-04-14 18:41:41",
@@ -1115,22 +1131,6 @@
       "duration_ms": 382333,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0"
-    },
-    {
-      "added_at": "2020-04-14 18:41:41",
-      "album": {
-        "name": "Disco 100",
-        "url": "https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU"
-      },
-      "artists": [
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
-        }
-      ],
-      "duration_ms": 206133,
-      "name": "(Ooh-Wee) He's Killing Me",
-      "url": "https://open.spotify.com/track/1doc4es6AjX9WRuifoDZqt"
     },
     {
       "added_at": "2020-04-14 18:41:41",

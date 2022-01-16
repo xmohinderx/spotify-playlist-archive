@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 176148,
       "name": "Big Building's Walk",
       "url": "https://open.spotify.com/track/0CfoP8Zf68u2E0JegB0S2F"
@@ -802,6 +802,24 @@
     },
     {
       "album": {
+        "name": "To Be Free: The Nina Simone Story",
+        "url": "https://open.spotify.com/album/1L6mX26giqpJ0IFFW3pSIb"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2020-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315266,
+      "name": "Funkier Than A Mosquito's Tweeter",
+      "url": "https://open.spotify.com/track/5LlLJHFVVEmjZDvFvpbqHU"
+    },
+    {
+      "album": {
         "name": "Funky Snakefoot",
         "url": "https://open.spotify.com/album/6eSimOXS5PMUtWln4Lau2i"
       },
@@ -919,7 +937,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 355266,
       "name": "Harlem Buck Dance Strut",
       "url": "https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 233533,
       "name": "Little Walter Rides Again",
       "url": "https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY"
@@ -1707,7 +1725,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212263,
       "name": "Souly",
       "url": "https://open.spotify.com/track/7mh1VjQHDhh73zP1G0vfoj"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 347500,
       "name": "The Drip - Live Session",
       "url": "https://open.spotify.com/track/3xo3K91h5jdhA3Udk0wio4"

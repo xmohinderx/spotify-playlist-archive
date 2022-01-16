@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7RgkOJG32Y.md) - [plain]
 
 > Top trending new and recent tracks from the last few weeks\.  Cover: Travis Denning
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,964 likes - 77 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,971 likes - 77 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

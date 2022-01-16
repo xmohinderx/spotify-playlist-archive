@@ -1,13 +1,37 @@
 {
   "description": "24 songs dedicated to the Mamba & Mambacita. R.I.P. Kobe & Gianna Bryant.",
   "name": "2 . 24",
-  "num_followers": 350054,
+  "num_followers": 350087,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDM3NDI2MywwMDAwMDAyMzAwMDAwMTdiOTllMGZjODQwMDAwMDE3MDY5ZDk5OWZl",
+  "snapshot_id": "MTY0MjI5NDA5MiwwMDAwMDAwMDI3N2EzNDNmZmU3NjhmZjM1YzRjYjYwYzQzZGZkMzg5",
   "tracks": [
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 232048,
+      "name": "Run It Up (feat. Offset & Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
+    },
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
@@ -47,46 +71,18 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+        "name": "MIDDLE CHILD",
+        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 232048,
-      "name": "Run It Up (feat. Offset & Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+      "duration_ms": 213593,
+      "name": "MIDDLE CHILD",
+      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -115,6 +111,46 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "From The D To The A (feat. Lil Yachty)",
+        "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 158684,
+      "name": "From The D To The A (feat. Lil Yachty)",
+      "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
         "name": "Straightenin",
         "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
@@ -127,38 +163,6 @@
       "duration_ms": 255532,
       "name": "Straightenin",
       "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "MIDDLE CHILD",
-        "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 213593,
-      "name": "MIDDLE CHILD",
-      "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "ONEPOINTFIVE",
-        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
-      },
-      "artists": [
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        }
-      ],
-      "duration_ms": 121346,
-      "name": "REEL IT IN",
-      "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -195,26 +199,6 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "From The D To The A (feat. Lil Yachty)",
-        "url": "https://open.spotify.com/album/3YuHePPmc5VN4usLuIBT91"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 158684,
-      "name": "From The D To The A (feat. Lil Yachty)",
-      "url": "https://open.spotify.com/track/2NyrXRn4tancYPW6JwtTl2"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
         "name": "The New Toronto 3",
         "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
       },
@@ -231,8 +215,8 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
+        "name": "ONEPOINTFIVE",
+        "url": "https://open.spotify.com/album/4mwO9qIVmngSe7yR5Ios0I"
       },
       "artists": [
         {
@@ -240,9 +224,25 @@
           "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         }
       ],
-      "duration_ms": 143152,
-      "name": "Woodlawn",
-      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
+      "duration_ms": 121346,
+      "name": "REEL IT IN",
+      "url": "https://open.spotify.com/track/5qHirGR7M9tdm6C17DlzSY"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 132813,
+      "name": "CHAMPION",
+      "url": "https://open.spotify.com/track/19eeh4pgEGHdSTc26U1y89"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -291,22 +291,6 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Old Streets",
-        "url": "https://open.spotify.com/album/0ruXOKXuGUA9wtnOZ38ElT"
-      },
-      "artists": [
-        {
-          "name": "2KBABY",
-          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
-        }
-      ],
-      "duration_ms": 105600,
-      "name": "Old Streets",
-      "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
@@ -343,6 +327,22 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
+        "name": "Old Streets",
+        "url": "https://open.spotify.com/album/0ruXOKXuGUA9wtnOZ38ElT"
+      },
+      "artists": [
+        {
+          "name": "2KBABY",
+          "url": "https://open.spotify.com/artist/4mkjpWbFO45SyaHiM9GOVE"
+        }
+      ],
+      "duration_ms": 105600,
+      "name": "Old Streets",
+      "url": "https://open.spotify.com/track/7JVfHOV7ylgOUKaHnPMafs"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
         "name": "Rise Of An Empire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
       },
@@ -363,62 +363,78 @@
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "WCF",
-        "url": "https://open.spotify.com/album/6ce7OoIGGZ1MGq8YlHTnxY"
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
       "artists": [
         {
-          "name": "Hil Holla",
-          "url": "https://open.spotify.com/artist/3CxR5r0rfx3xPxIswkgm0p"
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 181680,
-      "name": "WCF",
-      "url": "https://open.spotify.com/track/7iRn1W8QLad1RnzKkb4iQk"
+      "duration_ms": 245813,
+      "name": "Dedication (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC"
     },
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "Big D.O.L.L.A. (Deluxe)",
-        "url": "https://open.spotify.com/album/6MLBUpgZNhex56PQVMnbFX"
+        "name": "Zulu Man With Some Power",
+        "url": "https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi"
       },
       "artists": [
         {
-          "name": "Dame D.O.L.L.A",
-          "url": "https://open.spotify.com/artist/6H6svVOQLsIH1uK7KedZoQ"
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
         },
         {
-          "name": "Brookfield Duece",
-          "url": "https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv"
+          "name": "Lil Gotit",
+          "url": "https://open.spotify.com/artist/4ke9HXbejpYVMhbOjSa4le"
+        },
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
         }
       ],
-      "duration_ms": 184573,
-      "name": "Dre Grant",
-      "url": "https://open.spotify.com/track/1YBo2pYIAlkfPLrIoucRLl"
+      "duration_ms": 234540,
+      "name": "Bookoo Bucks",
+      "url": "https://open.spotify.com/track/6zdVd206eHcQ5GuDvCSGcZ"
     },
     {
       "added_at": "2021-08-13 05:52:42",
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         }
       ],
-      "duration_ms": 173419,
-      "name": "Still Runnin (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ"
+      "duration_ms": 143152,
+      "name": "Woodlawn",
+      "url": "https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP"
+    },
+    {
+      "added_at": "2021-08-13 05:52:42",
+      "album": {
+        "name": "No Ceilings",
+        "url": "https://open.spotify.com/album/15rah8uTv13tEhScI9Nv8z"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 143181,
+      "name": "Kobe Bryant",
+      "url": "https://open.spotify.com/track/7sYtgBHnF2D1mgA7vNXig1"
     },
     {
       "added_at": "2021-08-13 05:52:42",
@@ -435,22 +451,6 @@
       "duration_ms": 220995,
       "name": "Icon",
       "url": "https://open.spotify.com/track/22nyEAEM29tcBRhukR089b"
-    },
-    {
-      "added_at": "2021-08-13 05:52:42",
-      "album": {
-        "name": "ASTROWORLD",
-        "url": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 270714,
-      "name": "STARGAZING",
-      "url": "https://open.spotify.com/track/7wBJfHzpfI3032CSD7CE2m"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaitacWUJMPH"

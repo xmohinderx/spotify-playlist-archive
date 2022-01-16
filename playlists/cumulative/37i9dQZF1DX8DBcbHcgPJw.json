@@ -587,7 +587,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 142914,
       "name": "Cumbia en Miami",
       "url": "https://open.spotify.com/track/3QO5QsOrOqFHUg4HAz3NDz"
@@ -787,7 +787,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 133458,
       "name": "El Clavo",
       "url": "https://open.spotify.com/track/2GjM9m8RkyUhGc1scH1g3b"
@@ -827,7 +827,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 103284,
       "name": "El Efecto",
       "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 170653,
       "name": "Lejos",
       "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
@@ -1601,7 +1601,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 152281,
       "name": "Lloviendo Estrellas",
       "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
@@ -1725,7 +1725,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 142768,
       "name": "Loco - Remix",
       "url": "https://open.spotify.com/track/6g16gHjGRxr5owlJmNL5UQ"
@@ -1913,7 +1913,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 227943,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
@@ -2321,7 +2321,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 244036,
       "name": "Pareja del A\u00f1o /Makinon",
       "url": "https://open.spotify.com/track/7AQ0VSiZb5AlyVo3qsjiNB"
@@ -2469,7 +2469,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 179081,
       "name": "Ponte Pa Mi",
       "url": "https://open.spotify.com/track/2gG3iBxHjL3MRy4BF59atQ"
@@ -2699,7 +2699,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 178233,
       "name": "Que Rico Baila",
       "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
@@ -3007,7 +3007,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 147903,
       "name": "Sobrio",
       "url": "https://open.spotify.com/track/7oxEQwndfGf9zqvRejWYaD"
@@ -3175,6 +3175,24 @@
       "duration_ms": 210050,
       "name": "Te Robare",
       "url": "https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx"
+    },
+    {
+      "album": {
+        "name": "Te Va Doler",
+        "url": "https://open.spotify.com/album/6zk0BDtDk9J2R7aiWJK1O4"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138702,
+      "name": "Te Va Doler",
+      "url": "https://open.spotify.com/track/6RjHsYQ4JYJFHes0IZjCTV"
     },
     {
       "album": {

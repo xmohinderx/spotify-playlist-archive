@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 132413,
       "name": "50 Bars, Pt. 4",
       "url": "https://open.spotify.com/track/4xSB35lj2AjrEnNjlOUNZt"
@@ -107,7 +107,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 180265,
       "name": "808 (feat. dutchavelli, DigDat & B Young)",
       "url": "https://open.spotify.com/track/4MrXtliOu0PA3pWVdkA94h"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 132413,
       "name": "Billie Green",
       "url": "https://open.spotify.com/track/49eQBtbUEnRzrT0xymrTJ5"
@@ -289,7 +289,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 149946,
       "name": "Black Mask (feat. Pop Smoke)",
       "url": "https://open.spotify.com/track/0Tm6x4oJEjijVO7Yuqtfda"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 141912,
       "name": "City Hot",
       "url": "https://open.spotify.com/track/0qN3ns5IJYujOPJ0H2se1L"
@@ -573,7 +573,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 123431,
       "name": "Don't Front Freestyle",
       "url": "https://open.spotify.com/track/2uHc5uk6IzK94SPq3GKUqi"
@@ -743,7 +743,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 149768,
       "name": "EOS (bonus)",
       "url": "https://open.spotify.com/track/7saawYuiX4HKsU2uyiDB4x"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 134137,
       "name": "Fallen Blixkys",
       "url": "https://open.spotify.com/track/4lR9H6inBbbYtjYD7bJz0F"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 208111,
       "name": "Genius (feat. Lil Tjay & Swae Lee)",
       "url": "https://open.spotify.com/track/0kNYrbMehFxp1eleTwUjkP"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 134284,
       "name": "GRIME",
       "url": "https://open.spotify.com/track/2mjPCVy1cMsSF2Gn7bIEEn"
@@ -1029,10 +1029,32 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 194561,
       "name": "Hot N*gga",
       "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
+    },
+    {
+      "album": {
+        "name": "How We Move (feat. King Louie)",
+        "url": "https://open.spotify.com/album/5TRaETWC2wZMVcGtSCSkTx"
+      },
+      "artists": [
+        {
+          "name": "Lil Bibby",
+          "url": "https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW"
+        },
+        {
+          "name": "King Louie",
+          "url": "https://open.spotify.com/artist/7yd1ITel4z3jXwEFinWmGN"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227353,
+      "name": "How We Move (feat. King Louie)",
+      "url": "https://open.spotify.com/track/1bASl14tk13VjW3xLAHB0q"
     },
     {
       "album": {
@@ -1113,7 +1135,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 124513,
       "name": "Is Ya Ready",
       "url": "https://open.spotify.com/track/2QXWdzWLvRZToFFyY49Exz"
@@ -1131,7 +1153,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 134530,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/66Ms7aYFty1lNm02SuY6II"
@@ -1197,7 +1219,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 169615,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/4vwfGk1D9kkPocFBzby1DA"
@@ -1215,7 +1237,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 137437,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/0z5V1vTA1R3M3FPCimYphr"
@@ -1233,7 +1255,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 173333,
       "name": "Loading",
       "url": "https://open.spotify.com/track/4D0GT8zWuA7Z2em6dpajAn"
@@ -1317,6 +1339,32 @@
       "duration_ms": 78750,
       "name": "Mi No Sabe",
       "url": "https://open.spotify.com/track/07zZzNfCUizQ2puAmTLhrc"
+    },
+    {
+      "album": {
+        "name": "Moonwalk Slide",
+        "url": "https://open.spotify.com/album/3WWYl6lNy4nExBWJf63NIN"
+      },
+      "artists": [
+        {
+          "name": "Rv",
+          "url": "https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o"
+        },
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "BackRoad Gee",
+          "url": "https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL"
+        }
+      ],
+      "date_added": "2021-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157094,
+      "name": "Moonwalk Slide",
+      "url": "https://open.spotify.com/track/2VC3ZUbhSCQ1jS789gN3lh"
     },
     {
       "album": {
@@ -1583,7 +1631,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 125132,
       "name": "Opponent",
       "url": "https://open.spotify.com/track/03jTzOk8XO1LtD8skd57wm"
@@ -1631,7 +1679,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 157716,
       "name": "OYK",
       "url": "https://open.spotify.com/track/7cj14YKJbr7PUs52ZOJ6tr"
@@ -1667,7 +1715,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 124982,
       "name": "PINOCCHIO",
       "url": "https://open.spotify.com/track/5GO45r4u84nc3QvdoVw4YP"
@@ -1725,7 +1773,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 114860,
       "name": "Ready 4 War",
       "url": "https://open.spotify.com/track/7KUC5gfbtNJGEeVCbywtAh"
@@ -1885,7 +1933,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 189473,
       "name": "Snap It",
       "url": "https://open.spotify.com/track/7k9bJIyRTECJwjYjE1dfml"
@@ -2041,7 +2089,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 192676,
       "name": "The Great Escape (feat. Central Cee)",
       "url": "https://open.spotify.com/track/11z8FQUmPdr1JQxOlBqECS"
@@ -2269,7 +2317,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 231428,
       "name": "Y PREE",
       "url": "https://open.spotify.com/track/7wy64JkB3pbOjFLLS7CqWP"
@@ -2295,7 +2343,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 214825,
       "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
       "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"

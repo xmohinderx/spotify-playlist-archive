@@ -1,29 +1,13 @@
 {
   "description": "Relaxing sounds of modern jazz.",
   "name": "Calming Jazz",
-  "num_followers": 47844,
+  "num_followers": 47846,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODA5NCwwMDAwMDAwMDYxMDk5ODMzNmIyYWFkM2RiM2EzNDMyYmI3YjhlMDIx",
+  "snapshot_id": "MTY0MjI5MzgyMiwwMDAwMDAwMDIxMGFhNDcwN2NiNmRlNDRkZDIxNDEzMjExNmExMjg1",
   "tracks": [
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Space Wales",
-        "url": "https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB"
-      },
-      "artists": [
-        {
-          "name": "Petter Ryl\u00e9n",
-          "url": "https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c"
-        }
-      ],
-      "duration_ms": 264729,
-      "name": "Space Wales",
-      "url": "https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG"
-    },
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
@@ -43,22 +27,18 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd"
+        "name": "Space Wales",
+        "url": "https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB"
       },
       "artists": [
         {
-          "name": "Bj\u00f6rk Gu\u00f0mundsd\u00f3ttir",
-          "url": "https://open.spotify.com/artist/3HDfNAh4MpiptvaJP9We0w"
-        },
-        {
-          "name": "Adam Baldych",
-          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
+          "name": "Petter Ryl\u00e9n",
+          "url": "https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c"
         }
       ],
-      "duration_ms": 319306,
-      "name": "Hyperballad",
-      "url": "https://open.spotify.com/track/3OUalNLrR3lz4efP2XudHy"
+      "duration_ms": 264729,
+      "name": "Space Wales",
+      "url": "https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -95,6 +75,38 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
+        "name": "Suite: April 2020",
+        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "V. remembering before all this",
+      "url": "https://open.spotify.com/track/2Djdr6SndwgHqOXHVeJmCu"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Absinthe",
+        "url": "https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr"
+      },
+      "artists": [
+        {
+          "name": "Dominic Miller",
+          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+        }
+      ],
+      "duration_ms": 133626,
+      "name": "La Petite Reine",
+      "url": "https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
         "name": "Time of Water",
         "url": "https://open.spotify.com/album/1l6BsIffCUBQpPl9CNIluP"
       },
@@ -127,18 +139,18 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Suite: April 2020",
-        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
+        "name": "Peace Piece",
+        "url": "https://open.spotify.com/album/2Jhm63LMXSxnD8EC7C5cos"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 219000,
-      "name": "V. remembering before all this",
-      "url": "https://open.spotify.com/track/2Djdr6SndwgHqOXHVeJmCu"
+      "duration_ms": 253410,
+      "name": "Peace Piece",
+      "url": "https://open.spotify.com/track/1yBXop1hdCvKFOOwZ8OlTB"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -159,22 +171,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Peace Piece",
-        "url": "https://open.spotify.com/album/2Jhm63LMXSxnD8EC7C5cos"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 253410,
-      "name": "Peace Piece",
-      "url": "https://open.spotify.com/track/1yBXop1hdCvKFOOwZ8OlTB"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "The Melody At Night, With You",
         "url": "https://open.spotify.com/album/2onXlqUvme77BeIcMIOz3M"
       },
@@ -191,18 +187,22 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/2d05JuO9n8qV7ZNFABjBpd"
       },
       "artists": [
         {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+          "name": "Bj\u00f6rk Gu\u00f0mundsd\u00f3ttir",
+          "url": "https://open.spotify.com/artist/3HDfNAh4MpiptvaJP9We0w"
+        },
+        {
+          "name": "Adam Baldych",
+          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
         }
       ],
-      "duration_ms": 278680,
-      "name": "Beginning",
-      "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
+      "duration_ms": 319306,
+      "name": "Hyperballad",
+      "url": "https://open.spotify.com/track/3OUalNLrR3lz4efP2XudHy"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -223,26 +223,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Poetry",
-        "url": "https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY"
-      },
-      "artists": [
-        {
-          "name": "Adam Baldych",
-          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
-        },
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Poetry",
-      "url": "https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Sankofa",
         "url": "https://open.spotify.com/album/5cT5wndmYkuba7x4bnvIRf"
       },
@@ -255,22 +235,6 @@
       "duration_ms": 284165,
       "name": "Vila Bela",
       "url": "https://open.spotify.com/track/5D3PlAFLpjhT8AHouXJpsR"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Absinthe",
-        "url": "https://open.spotify.com/album/4HbfKHqxencShWOYNeQFZr"
-      },
-      "artists": [
-        {
-          "name": "Dominic Miller",
-          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
-        }
-      ],
-      "duration_ms": 133626,
-      "name": "La Petite Reine",
-      "url": "https://open.spotify.com/track/1iW5dmZ7R7BXF60UvGqO78"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -295,6 +259,74 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/7yRzVFzD4b5aTWlXsFIm6k"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Beginning",
+      "url": "https://open.spotify.com/track/0LP368Un2yy06i9hLCig9N"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "The K\u00f6ln Concert",
+        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        }
+      ],
+      "duration_ms": 416840,
+      "name": "K\u00f6ln, January 24, 1975, Pt. II C - Live",
+      "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Poetry",
+        "url": "https://open.spotify.com/album/3lXRKeB2psGMMJK0njsbNY"
+      },
+      "artists": [
+        {
+          "name": "Adam Baldych",
+          "url": "https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE"
+        },
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Poetry",
+      "url": "https://open.spotify.com/track/6awNjgr2DnufiS8RaBXEgy"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "The Frame",
+        "url": "https://open.spotify.com/album/6fWlxYzFHJOuWlHF7waW9U"
+      },
+      "artists": [
+        {
+          "name": "Nils W\u00fclker",
+          "url": "https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o"
+        }
+      ],
+      "duration_ms": 285320,
+      "name": "The Frame",
+      "url": "https://open.spotify.com/track/2wBIsUBGmhSpj65pp6qjnq"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
         "name": "Niobe",
         "url": "https://open.spotify.com/album/46vWorTcjLlFIAYR1ua95i"
       },
@@ -307,6 +339,82 @@
       "duration_ms": 380465,
       "name": "Niobe",
       "url": "https://open.spotify.com/track/1cG3AuFMfDyVCMb5BbYFLo"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/3CPWaPvzm0QniRVBsaDlUw"
+      },
+      "artists": [
+        {
+          "name": "Bobo Stenson",
+          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
+        },
+        {
+          "name": "Anders Jormin",
+          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+        }
+      ],
+      "duration_ms": 254893,
+      "name": "Send In The Clowns",
+      "url": "https://open.spotify.com/track/3PPVDDKMbETkMCREuYTfXu"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/1pXAVHhNDwzjpzec418snp"
+      },
+      "artists": [
+        {
+          "name": "Bjarke Falgren",
+          "url": "https://open.spotify.com/artist/0SfTiG8iJmcPR5Brs0QQbg"
+        }
+      ],
+      "duration_ms": 293720,
+      "name": "Venligheden",
+      "url": "https://open.spotify.com/track/06B3JjhbLDuaA21w3x6uQ8"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7oJKCITP96nT9aDuGOsQFw"
+      },
+      "artists": [
+        {
+          "name": "Digo",
+          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
+        }
+      ],
+      "duration_ms": 451578,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/6I6eOUiJKzFbZ52WY3shok"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "roads",
+        "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
+      },
+      "artists": [
+        {
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
+        },
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 286213,
+      "name": "roads",
+      "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -339,38 +447,18 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "roads",
-        "url": "https://open.spotify.com/album/0HZEY9yhNkDxB2fZPoAj92"
+        "name": "Provenance",
+        "url": "https://open.spotify.com/album/4WbMeqetvONexNDfSIAcEZ"
       },
       "artists": [
         {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        },
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+          "name": "Bj\u00f6rn Meyer",
+          "url": "https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO"
         }
       ],
-      "duration_ms": 286213,
-      "name": "roads",
-      "url": "https://open.spotify.com/track/3os2ZWpiap6mjJjuXRwoZw"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "The K\u00f6ln Concert",
-        "url": "https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        }
-      ],
-      "duration_ms": 416840,
-      "name": "K\u00f6ln, January 24, 1975, Pt. II C - Live",
-      "url": "https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e"
+      "duration_ms": 371266,
+      "name": "Provenance",
+      "url": "https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -395,90 +483,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/7oJKCITP96nT9aDuGOsQFw"
-      },
-      "artists": [
-        {
-          "name": "Digo",
-          "url": "https://open.spotify.com/artist/4zLM9VqtCfvu0rklvg6LyH"
-        }
-      ],
-      "duration_ms": 451578,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/6I6eOUiJKzFbZ52WY3shok"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Origin",
-        "url": "https://open.spotify.com/album/1pXAVHhNDwzjpzec418snp"
-      },
-      "artists": [
-        {
-          "name": "Bjarke Falgren",
-          "url": "https://open.spotify.com/artist/0SfTiG8iJmcPR5Brs0QQbg"
-        }
-      ],
-      "duration_ms": 293720,
-      "name": "Venligheden",
-      "url": "https://open.spotify.com/track/06B3JjhbLDuaA21w3x6uQ8"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "\u00c1n tillits",
-        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
-      },
-      "artists": [
-        {
-          "name": "Magn\u00fas J\u00f3hann",
-          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
-        },
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        }
-      ],
-      "duration_ms": 152234,
-      "name": "M\u00f3gr\u00e1",
-      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "The Girl In The Headlands",
-        "url": "https://open.spotify.com/album/735YO4inButsSQbsmLXFka"
-      },
-      "artists": [
-        {
-          "name": "Sinikka Langeland",
-          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "The Girl In The Headlands",
-      "url": "https://open.spotify.com/track/5eeIPuNug1bP9ULXpepTpe"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Sagn",
-        "url": "https://open.spotify.com/album/0hwofeNMLK5s24UEjGVfDh"
-      },
-      "artists": [
-        {
-          "name": "Carsten Dahl",
-          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
-        }
-      ],
-      "duration_ms": 275231,
-      "name": "D mol",
-      "url": "https://open.spotify.com/track/0M7Ew3UU4f6UtQOsLFHNNp"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Good Morning Heartache",
         "url": "https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M"
       },
@@ -499,6 +503,22 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
+        "name": "Sagn",
+        "url": "https://open.spotify.com/album/0hwofeNMLK5s24UEjGVfDh"
+      },
+      "artists": [
+        {
+          "name": "Carsten Dahl",
+          "url": "https://open.spotify.com/artist/4CSBqdnCyXayFaZR10Pvda"
+        }
+      ],
+      "duration_ms": 275231,
+      "name": "D mol",
+      "url": "https://open.spotify.com/track/0M7Ew3UU4f6UtQOsLFHNNp"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
         "name": "Things Unsaid",
         "url": "https://open.spotify.com/album/3jSnz17sXiS9Alj7GcpiLH"
       },
@@ -515,42 +535,26 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "The Frame",
-        "url": "https://open.spotify.com/album/6fWlxYzFHJOuWlHF7waW9U"
+        "name": "To Stanko",
+        "url": "https://open.spotify.com/album/0ksqjbNa6ijHABsFn8YWtZ"
       },
       "artists": [
         {
-          "name": "Nils W\u00fclker",
-          "url": "https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o"
-        }
-      ],
-      "duration_ms": 285320,
-      "name": "The Frame",
-      "url": "https://open.spotify.com/track/2wBIsUBGmhSpj65pp6qjnq"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/3CPWaPvzm0QniRVBsaDlUw"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson",
-          "url": "https://open.spotify.com/artist/4K2Ys4NwPXEYomQrKwAeZc"
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
         },
         {
-          "name": "Anders Jormin",
-          "url": "https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy"
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
         },
         {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
+          "name": "Jorge Rossy",
+          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
         }
       ],
-      "duration_ms": 254893,
-      "name": "Send In The Clowns",
-      "url": "https://open.spotify.com/track/3PPVDDKMbETkMCREuYTfXu"
+      "duration_ms": 273640,
+      "name": "To Stanko",
+      "url": "https://open.spotify.com/track/0XYjYpGO3TpVKfWLa2vIHk"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -575,6 +579,90 @@
       "duration_ms": 547803,
       "name": "Fear Not, Zechariah",
       "url": "https://open.spotify.com/track/2KXJiwIG1GO9tWrcbtmUbK"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "\u00c1n tillits",
+        "url": "https://open.spotify.com/album/75UE0siCksMmA2Hcl1tIVi"
+      },
+      "artists": [
+        {
+          "name": "Magn\u00fas J\u00f3hann",
+          "url": "https://open.spotify.com/artist/3mwA449O96oqSJzR7F2JW5"
+        },
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        }
+      ],
+      "duration_ms": 152234,
+      "name": "M\u00f3gr\u00e1",
+      "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "We Seem to Be Drifting Apart",
+        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
+      },
+      "artists": [
+        {
+          "name": "Nils Berg Cinemascope",
+          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
+        }
+      ],
+      "duration_ms": 166920,
+      "name": "Richter Sonntag",
+      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Blikan",
+        "url": "https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "The Clearing",
+      "url": "https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "The Girl In The Headlands",
+        "url": "https://open.spotify.com/album/735YO4inButsSQbsmLXFka"
+      },
+      "artists": [
+        {
+          "name": "Sinikka Langeland",
+          "url": "https://open.spotify.com/artist/4f0jv2Efskq0AdTlziV5nj"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "The Girl In The Headlands",
+      "url": "https://open.spotify.com/track/5eeIPuNug1bP9ULXpepTpe"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "A Patch of Old Snow",
+        "url": "https://open.spotify.com/album/1VgkPOavzHFghUa01Y2xch"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        }
+      ],
+      "duration_ms": 227456,
+      "name": "A Patch of Old Snow",
+      "url": "https://open.spotify.com/track/5wSlPHEoAMlca7sm29Ayoe"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -607,110 +695,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "We Seem to Be Drifting Apart",
-        "url": "https://open.spotify.com/album/6TydUQN1CxibuLIbQSvMt2"
-      },
-      "artists": [
-        {
-          "name": "Nils Berg Cinemascope",
-          "url": "https://open.spotify.com/artist/2VACX6wISeQjVQapXgWvm3"
-        }
-      ],
-      "duration_ms": 166920,
-      "name": "Richter Sonntag",
-      "url": "https://open.spotify.com/track/1FvYFhjePSGYxMnD5K8BT1"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "It's Beginning to Rain Again",
-        "url": "https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N"
-      },
-      "artists": [
-        {
-          "name": "Little North",
-          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
-        }
-      ],
-      "duration_ms": 287323,
-      "name": "It's Beginning To Rain Again",
-      "url": "https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "To Stanko",
-        "url": "https://open.spotify.com/album/0ksqjbNa6ijHABsFn8YWtZ"
-      },
-      "artists": [
-        {
-          "name": "Jakob Bro",
-          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
-        },
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Jorge Rossy",
-          "url": "https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE"
-        }
-      ],
-      "duration_ms": 273640,
-      "name": "To Stanko",
-      "url": "https://open.spotify.com/track/0XYjYpGO3TpVKfWLa2vIHk"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Pipe Dreams",
-        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Dahl Jeppesen",
-          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
-        }
-      ],
-      "duration_ms": 290013,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "A Patch of Old Snow",
-        "url": "https://open.spotify.com/album/1VgkPOavzHFghUa01Y2xch"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        }
-      ],
-      "duration_ms": 227456,
-      "name": "A Patch of Old Snow",
-      "url": "https://open.spotify.com/track/5wSlPHEoAMlca7sm29Ayoe"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Everybody Loves Angels",
-        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
-      },
-      "artists": [
-        {
-          "name": "Bugge Wesseltoft",
-          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
-        }
-      ],
-      "duration_ms": 382245,
-      "name": "Koral",
-      "url": "https://open.spotify.com/track/75J3oHSbGQesLlJ1vlQjj9"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Tantum",
         "url": "https://open.spotify.com/album/2ZY1W5hW8XBVi3jMHrtn1u"
       },
@@ -731,142 +715,6 @@
       "duration_ms": 191040,
       "name": "Doubt Thou the Stars",
       "url": "https://open.spotify.com/track/1q9hA5kj31OgXQjhmnOgcy"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "A Long Story",
-        "url": "https://open.spotify.com/album/5ox7Q1cWqEiv8OHI2rP44T"
-      },
-      "artists": [
-        {
-          "name": "Anat Fort",
-          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
-        }
-      ],
-      "duration_ms": 134360,
-      "name": "Just Now, Var. III",
-      "url": "https://open.spotify.com/track/5rkbRJ922Kd9ECEmck7FAZ"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Blikan",
-        "url": "https://open.spotify.com/album/1cETGSgLtspW3asgEuwvew"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "The Clearing",
-      "url": "https://open.spotify.com/track/0F4a1bX2ar0MSBz2fpqrUp"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Elisian/Inutil Paisagem",
-        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
-      },
-      "artists": [
-        {
-          "name": "Michel Benita",
-          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
-        },
-        {
-          "name": "Matthieu Michel",
-          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
-        },
-        {
-          "name": "Jozef Dumoulin",
-          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
-        },
-        {
-          "name": "Philippe Garcia",
-          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
-        }
-      ],
-      "duration_ms": 296253,
-      "name": "Elisian/Inutil Paisagem",
-      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Pleasewakeupalittlefaster please . . .",
-        "url": "https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu"
-      },
-      "artists": [
-        {
-          "name": "Carlos Ni\u00f1o & Friends",
-          "url": "https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK"
-        },
-        {
-          "name": "Carlos Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
-        },
-        {
-          "name": "Jamael Dean",
-          "url": "https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Pleasewakeupalittlefaster please . . .",
-      "url": "https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Waking Arp",
-        "url": "https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
-        }
-      ],
-      "duration_ms": 378306,
-      "name": "Waking Arp",
-      "url": "https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Last Dance",
-        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
-      },
-      "artists": [
-        {
-          "name": "Keith Jarrett",
-          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
-        },
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 572546,
-      "name": "Where Can I Go Without You",
-      "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "One Kiss Too Many",
-        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
-      },
-      "artists": [
-        {
-          "name": "Jakob Dinesen",
-          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
-        }
-      ],
-      "duration_ms": 200344,
-      "name": "Slaraffenland",
-      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -899,8 +747,44 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v"
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa"
+      },
+      "artists": [
+        {
+          "name": "Keith Jarrett",
+          "url": "https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y"
+        },
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 572546,
+      "name": "Where Can I Go Without You",
+      "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "It's Beginning to Rain Again",
+        "url": "https://open.spotify.com/album/1F5qfxG8bGJkrlymdB3C2N"
+      },
+      "artists": [
+        {
+          "name": "Little North",
+          "url": "https://open.spotify.com/artist/0LPOA9noh1qUUtZ2N2YX0J"
+        }
+      ],
+      "duration_ms": 287323,
+      "name": "It's Beginning To Rain Again",
+      "url": "https://open.spotify.com/track/29GZjjUoPV4zFZsxSRFggf"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Everybody Loves Angels",
+        "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
       "artists": [
         {
@@ -908,9 +792,85 @@
           "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
         }
       ],
-      "duration_ms": 305026,
-      "name": "We\u00b4ll Be Together Again",
-      "url": "https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE"
+      "duration_ms": 382245,
+      "name": "Koral",
+      "url": "https://open.spotify.com/track/75J3oHSbGQesLlJ1vlQjj9"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Elisian/Inutil Paisagem",
+        "url": "https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs"
+      },
+      "artists": [
+        {
+          "name": "Michel Benita",
+          "url": "https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR"
+        },
+        {
+          "name": "Matthieu Michel",
+          "url": "https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r"
+        },
+        {
+          "name": "Jozef Dumoulin",
+          "url": "https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd"
+        },
+        {
+          "name": "Philippe Garcia",
+          "url": "https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg"
+        }
+      ],
+      "duration_ms": 296253,
+      "name": "Elisian/Inutil Paisagem",
+      "url": "https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Pipe Dreams",
+        "url": "https://open.spotify.com/album/1rDxdpTzfIOsPixMN5unj8"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Dahl Jeppesen",
+          "url": "https://open.spotify.com/artist/3yrWnykkPPROYEYdfuhJNX"
+        }
+      ],
+      "duration_ms": 290013,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/5f8t87EAUOP4JLHGfvVD9Z"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Begging",
+        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Begging",
+      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Waking Arp",
+        "url": "https://open.spotify.com/album/7N1q0x0yRFCPiCewBOrInP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/6rvXcIk2e2Xv8sZ5bP6pm2"
+        }
+      ],
+      "duration_ms": 378306,
+      "name": "Waking Arp",
+      "url": "https://open.spotify.com/track/1mV5APwrdpSCY6ZpehzJDi"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -931,18 +891,42 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Begging",
-        "url": "https://open.spotify.com/album/1xHV3UVKqlEB1VCm3AiA0p"
+        "name": "Pleasewakeupalittlefaster please . . .",
+        "url": "https://open.spotify.com/album/4qfgrZoQPbtKSrzaSFNppu"
       },
       "artists": [
         {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+          "name": "Carlos Ni\u00f1o & Friends",
+          "url": "https://open.spotify.com/artist/5Vp9z1lRUNMLQCXbwrIbDK"
+        },
+        {
+          "name": "Carlos Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/55Ox89YvyME4t8bYTIJsRu"
+        },
+        {
+          "name": "Jamael Dean",
+          "url": "https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs"
         }
       ],
-      "duration_ms": 294986,
-      "name": "Begging",
-      "url": "https://open.spotify.com/track/258PbYttupkBbMUYHWSD8E"
+      "duration_ms": 229360,
+      "name": "Pleasewakeupalittlefaster please . . .",
+      "url": "https://open.spotify.com/track/6iH9vNAyxDKzvy8z4ukHxX"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "A Long Story",
+        "url": "https://open.spotify.com/album/5ox7Q1cWqEiv8OHI2rP44T"
+      },
+      "artists": [
+        {
+          "name": "Anat Fort",
+          "url": "https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi"
+        }
+      ],
+      "duration_ms": 134360,
+      "name": "Just Now, Var. III",
+      "url": "https://open.spotify.com/track/5rkbRJ922Kd9ECEmck7FAZ"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -967,22 +951,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Maridalen",
-        "url": "https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Maridalen",
-      "url": "https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/30xxXhILNDBzUMneKkd1BA"
       },
@@ -999,86 +967,34 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Viscosity",
-        "url": "https://open.spotify.com/album/2uudnhmqCK9jNCdTpvURLP"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v"
       },
       "artists": [
         {
-          "name": "Samuel Leipold",
-          "url": "https://open.spotify.com/artist/2h7N4wfh7AuswiyfAzYwPV"
+          "name": "Bugge Wesseltoft",
+          "url": "https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK"
         }
       ],
-      "duration_ms": 475815,
-      "name": "Sho\u0304",
-      "url": "https://open.spotify.com/track/24d5JrCEp7pB9PsBonjlO8"
+      "duration_ms": 305026,
+      "name": "We\u00b4ll Be Together Again",
+      "url": "https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE"
     },
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Elise",
-        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
+        "name": "Maridalen",
+        "url": "https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti"
       },
       "artists": [
         {
-          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
         }
       ],
-      "duration_ms": 362680,
-      "name": "Paa Hinside \u00d8rken",
-      "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Suite: April 2020",
-        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "VIII. yearning",
-      "url": "https://open.spotify.com/track/2JLAr5J7fP4IsRtx9cLkWN"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Snow Catches on Her Eyelashes",
-        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
-      },
-      "artists": [
-        {
-          "name": "Eivind Aarset",
-          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
-        },
-        {
-          "name": "Jan Bang",
-          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
-        }
-      ],
-      "duration_ms": 170888,
-      "name": "Purplebright",
-      "url": "https://open.spotify.com/track/31HbP5dQ4HFCFNwXT6RoD9"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Provenance",
-        "url": "https://open.spotify.com/album/4WbMeqetvONexNDfSIAcEZ"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rn Meyer",
-          "url": "https://open.spotify.com/artist/1Hp548wIaSTIfGH7InpDrO"
-        }
-      ],
-      "duration_ms": 371266,
-      "name": "Provenance",
-      "url": "https://open.spotify.com/track/2ER8rFsD3nhJUEQ1edV6lg"
+      "duration_ms": 263600,
+      "name": "Maridalen",
+      "url": "https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1103,6 +1019,90 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Mette Henriette",
+        "url": "https://open.spotify.com/album/3H9E1flzXB693dYwZvuBwT"
+      },
+      "artists": [
+        {
+          "name": "Mette Henriette",
+          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": ".oOo.",
+      "url": "https://open.spotify.com/track/7vrUHvt40IKya566MZIQol"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "One Kiss Too Many",
+        "url": "https://open.spotify.com/album/7pvKPFlyHRbFXfk60pXdRM"
+      },
+      "artists": [
+        {
+          "name": "Jakob Dinesen",
+          "url": "https://open.spotify.com/artist/0zXQ9vdekvX8v0BlR5DuU0"
+        }
+      ],
+      "duration_ms": 200344,
+      "name": "Slaraffenland",
+      "url": "https://open.spotify.com/track/1SAwlxxaYYz84K8gsjsdmN"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Viscosity",
+        "url": "https://open.spotify.com/album/2uudnhmqCK9jNCdTpvURLP"
+      },
+      "artists": [
+        {
+          "name": "Samuel Leipold",
+          "url": "https://open.spotify.com/artist/2h7N4wfh7AuswiyfAzYwPV"
+        }
+      ],
+      "duration_ms": 475815,
+      "name": "Sho\u0304",
+      "url": "https://open.spotify.com/track/24d5JrCEp7pB9PsBonjlO8"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Snow Catches on Her Eyelashes",
+        "url": "https://open.spotify.com/album/5GdrscQpfdU1BcTTvAQJec"
+      },
+      "artists": [
+        {
+          "name": "Eivind Aarset",
+          "url": "https://open.spotify.com/artist/0VqQFqLcy0bBMPDnKB25vC"
+        },
+        {
+          "name": "Jan Bang",
+          "url": "https://open.spotify.com/artist/3GNzfnhVE1aY6fgK403107"
+        }
+      ],
+      "duration_ms": 170888,
+      "name": "Purplebright",
+      "url": "https://open.spotify.com/track/31HbP5dQ4HFCFNwXT6RoD9"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Elise",
+        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
+      },
+      "artists": [
+        {
+          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
+        }
+      ],
+      "duration_ms": 362680,
+      "name": "Paa Hinside \u00d8rken",
+      "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Elise",
-        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
+        "name": "Suite: April 2020",
+        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
       },
       "artists": [
         {
-          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
-          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Skulde Jeg Min Gud Ei Prise",
-      "url": "https://open.spotify.com/track/1HXwAUJtPHyERRMGktllqi"
+      "duration_ms": 211000,
+      "name": "VIII. yearning",
+      "url": "https://open.spotify.com/track/2JLAr5J7fP4IsRtx9cLkWN"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1203,42 +1203,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Suite: April 2020",
-        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "IX. waiting",
-      "url": "https://open.spotify.com/track/02Yn3VzHXqt7AR05dHbdkY"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Insight",
-        "url": "https://open.spotify.com/album/0pJDQV8lXMutpbweWhgCyq"
-      },
-      "artists": [
-        {
-          "name": "Gary Peacock",
-          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
-        },
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 382977,
-      "name": "Blue in Green",
-      "url": "https://open.spotify.com/track/7y2Se9fwns1AlQtwAIOVYk"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Transylvanian Folk Songs",
         "url": "https://open.spotify.com/album/3lzHbkyy74DkX7TYmkJyru"
       },
@@ -1259,38 +1223,6 @@
       "duration_ms": 412986,
       "name": "Carol",
       "url": "https://open.spotify.com/track/0TVIaWi5j7Tk1mgcEfrRlH"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Body And Shadow",
-        "url": "https://open.spotify.com/album/02LCzhJYIuhocX6uCzTPJh"
-      },
-      "artists": [
-        {
-          "name": "Brian Blade & The Fellowship Band",
-          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "Body and Shadow - Noon",
-      "url": "https://open.spotify.com/track/4uGP5aRFILxq3j6riQB3Jt"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Mette Henriette",
-        "url": "https://open.spotify.com/album/3H9E1flzXB693dYwZvuBwT"
-      },
-      "artists": [
-        {
-          "name": "Mette Henriette",
-          "url": "https://open.spotify.com/artist/2xMRxDfCsanRWGMvU9mNwP"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": ".oOo.",
-      "url": "https://open.spotify.com/track/7vrUHvt40IKya566MZIQol"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1319,6 +1251,38 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
+        "name": "Body And Shadow",
+        "url": "https://open.spotify.com/album/02LCzhJYIuhocX6uCzTPJh"
+      },
+      "artists": [
+        {
+          "name": "Brian Blade & The Fellowship Band",
+          "url": "https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Body and Shadow - Noon",
+      "url": "https://open.spotify.com/track/4uGP5aRFILxq3j6riQB3Jt"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Elise",
+        "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
+      },
+      "artists": [
+        {
+          "name": "Ingebrigt H\u00e5ker Flaten & H\u00e5kon Kornstad",
+          "url": "https://open.spotify.com/artist/3dcXHjTOXqdvMG8TxapKUF"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Skulde Jeg Min Gud Ei Prise",
+      "url": "https://open.spotify.com/track/1HXwAUJtPHyERRMGktllqi"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
         "name": "Dream Logic",
         "url": "https://open.spotify.com/album/1RfjUvp5cxnQwYw2X8WEEr"
       },
@@ -1335,6 +1299,42 @@
       "duration_ms": 261320,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/7lyyZLvFmPSVNXOcAlyNOa"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Insight",
+        "url": "https://open.spotify.com/album/0pJDQV8lXMutpbweWhgCyq"
+      },
+      "artists": [
+        {
+          "name": "Gary Peacock",
+          "url": "https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y"
+        },
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 382977,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/7y2Se9fwns1AlQtwAIOVYk"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "My Foolish Heart",
+        "url": "https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ"
+      },
+      "artists": [
+        {
+          "name": "Ralph Towner",
+          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
+        }
+      ],
+      "duration_ms": 124626,
+      "name": "Two Poets",
+      "url": "https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1359,6 +1359,54 @@
       "duration_ms": 331266,
       "name": "I Have The Room Above Her",
       "url": "https://open.spotify.com/track/6eptdUq0zywG020E5M5vrf"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Suite: April 2020",
+        "url": "https://open.spotify.com/album/5e2pKFBkbxJ4s5gmgc78e4"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "IX. waiting",
+      "url": "https://open.spotify.com/track/02Yn3VzHXqt7AR05dHbdkY"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Helsinki Songs",
+        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
+      },
+      "artists": [
+        {
+          "name": "Trygve Seim",
+          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
+        }
+      ],
+      "duration_ms": 358813,
+      "name": "Birthday Song",
+      "url": "https://open.spotify.com/track/6lPxHEHnSSey6zI4bdpe0s"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Ruins II",
+        "url": "https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl"
+      },
+      "artists": [
+        {
+          "name": "Ayumi Tanaka Trio",
+          "url": "https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Ruins II",
+      "url": "https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1403,70 +1451,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Helsinki Songs",
-        "url": "https://open.spotify.com/album/3Kq1Dy1BmAVco780WvXwnM"
-      },
-      "artists": [
-        {
-          "name": "Trygve Seim",
-          "url": "https://open.spotify.com/artist/4puHZxpgNVKxk6ydFviSM8"
-        }
-      ],
-      "duration_ms": 358813,
-      "name": "Birthday Song",
-      "url": "https://open.spotify.com/track/6lPxHEHnSSey6zI4bdpe0s"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Ruins II",
-        "url": "https://open.spotify.com/album/62hzQtcRAnkV1nUdFlvckl"
-      },
-      "artists": [
-        {
-          "name": "Ayumi Tanaka Trio",
-          "url": "https://open.spotify.com/artist/3ay6T09fpLYwib1MxOW9G1"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Ruins II",
-      "url": "https://open.spotify.com/track/3DT8dSU0Vz2mjpyHfIn04W"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "My Foolish Heart",
-        "url": "https://open.spotify.com/album/1E2MNk4Xg8YA7EBlYsuTQQ"
-      },
-      "artists": [
-        {
-          "name": "Ralph Towner",
-          "url": "https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535"
-        }
-      ],
-      "duration_ms": 124626,
-      "name": "Two Poets",
-      "url": "https://open.spotify.com/track/6txdEwJYDmPKLijFTPTSlI"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/6xXj1VXURnV5OAtOwAWDdD"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/5N6tm37Qh5mO78e86ZWRHH"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Dark Eyes",
         "url": "https://open.spotify.com/album/3zGibhhlf6j9YRjJ5D8rcd"
       },
@@ -1483,18 +1467,34 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "A Year From Easter",
-        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
+        "name": "Atmosph\u00e8res",
+        "url": "https://open.spotify.com/album/7Dts1hwy6sVRBQrK9DwZW9"
       },
       "artists": [
         {
-          "name": "Christian Wallumr\u00f8d Ensemble",
-          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
+          "name": "Tigran Hamasyan",
+          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
         }
       ],
-      "duration_ms": 204800,
-      "name": "Eliasong",
-      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+      "duration_ms": 412080,
+      "name": "Traces I",
+      "url": "https://open.spotify.com/track/1aUAEjPEyazQvsGlw9dEZt"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/6xXj1VXURnV5OAtOwAWDdD"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 242986,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/5N6tm37Qh5mO78e86ZWRHH"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1527,38 +1527,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "It Should've Happened A Long Time Ago",
-        "url": "https://open.spotify.com/album/4yW6dg82YD5jwo9I5j0OW4"
-      },
-      "artists": [
-        {
-          "name": "Paul Motian Trio",
-          "url": "https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Atmosph\u00e8res",
-        "url": "https://open.spotify.com/album/7Dts1hwy6sVRBQrK9DwZW9"
-      },
-      "artists": [
-        {
-          "name": "Tigran Hamasyan",
-          "url": "https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW"
-        }
-      ],
-      "duration_ms": 412080,
-      "name": "Traces I",
-      "url": "https://open.spotify.com/track/1aUAEjPEyazQvsGlw9dEZt"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "Desert Poems",
         "url": "https://open.spotify.com/album/1qgFo5omXSvMrnxTG9Tg1i"
       },
@@ -1575,18 +1543,34 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Mercurial Balm",
-        "url": "https://open.spotify.com/album/3cf5MLkn2rHxN7LFSHaMFW"
+        "name": "A Year From Easter",
+        "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
       },
       "artists": [
         {
-          "name": "Food",
-          "url": "https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII"
+          "name": "Christian Wallumr\u00f8d Ensemble",
+          "url": "https://open.spotify.com/artist/3pTucW7td8pXstYpKDlmjd"
         }
       ],
-      "duration_ms": 273293,
-      "name": "Moonpie",
-      "url": "https://open.spotify.com/track/3YlJpTObKekXnRKgK9v7j0"
+      "duration_ms": 204800,
+      "name": "Eliasong",
+      "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "It Should've Happened A Long Time Ago",
+        "url": "https://open.spotify.com/album/4yW6dg82YD5jwo9I5j0OW4"
+      },
+      "artists": [
+        {
+          "name": "Paul Motian Trio",
+          "url": "https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1623,6 +1607,38 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
+        "name": "Mercurial Balm",
+        "url": "https://open.spotify.com/album/3cf5MLkn2rHxN7LFSHaMFW"
+      },
+      "artists": [
+        {
+          "name": "Food",
+          "url": "https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII"
+        }
+      ],
+      "duration_ms": 273293,
+      "name": "Moonpie",
+      "url": "https://open.spotify.com/track/3YlJpTObKekXnRKgK9v7j0"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Lonely Shadows",
+        "url": "https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN"
+      },
+      "artists": [
+        {
+          "name": "Dominik Wania",
+          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
+        }
+      ],
+      "duration_ms": 373573,
+      "name": "AG76",
+      "url": "https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
         "name": "Dans mon pays",
         "url": "https://open.spotify.com/album/3spAWJ1FOjGIJSM1CJyCOT"
       },
@@ -1643,6 +1659,82 @@
       "duration_ms": 275066,
       "name": "Dans mon pays",
       "url": "https://open.spotify.com/track/5ej5LGbMYLgfpNYY85bYv9"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Invisible Threads",
+        "url": "https://open.spotify.com/album/1ud5Nh8i1Jilsq83DyHTIk"
+      },
+      "artists": [
+        {
+          "name": "John Surman",
+          "url": "https://open.spotify.com/artist/5THaOlI8Qr3Za3FD6FnWvK"
+        },
+        {
+          "name": "Nelson Ayres",
+          "url": "https://open.spotify.com/artist/71alvRccPFqQpegAexLBJY"
+        },
+        {
+          "name": "Rob Waring",
+          "url": "https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg"
+        }
+      ],
+      "duration_ms": 288306,
+      "name": "Within The Clouds",
+      "url": "https://open.spotify.com/track/3jBYV1juzLdoHKzbiy8Kqv"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Cartography",
+        "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        }
+      ],
+      "duration_ms": 164640,
+      "name": "From Birth",
+      "url": "https://open.spotify.com/track/36UStFErscz4HacHTR6I04"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
+    },
+    {
+      "added_at": "2021-12-17 14:27:05",
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/2JULfcGWlSX5uCEiNgMsIw"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        }
+      ],
+      "duration_ms": 665120,
+      "name": "It Should Have Happened A Long Time Ago",
+      "url": "https://open.spotify.com/track/6VUDBYUWhvg7dCKef3a0ZI"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1671,70 +1763,6 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Lonely Shadows",
-        "url": "https://open.spotify.com/album/4IRifRBgHH1a8SNZ0joXiN"
-      },
-      "artists": [
-        {
-          "name": "Dominik Wania",
-          "url": "https://open.spotify.com/artist/25D7V3YvCGzcloWOrAIhJd"
-        }
-      ],
-      "duration_ms": 373573,
-      "name": "AG76",
-      "url": "https://open.spotify.com/track/6GfJeNdiwxHAMJKpCm7XKR"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Le Pas Du Chat Noir",
-        "url": "https://open.spotify.com/album/4RrIRfJf0HqzlkmMDfBmME"
-      },
-      "artists": [
-        {
-          "name": "Anouar Brahem",
-          "url": "https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "D\u00e9j\u00e0 La Nuit",
-      "url": "https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "Cartography",
-        "url": "https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        }
-      ],
-      "duration_ms": 164640,
-      "name": "From Birth",
-      "url": "https://open.spotify.com/track/36UStFErscz4HacHTR6I04"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
         "name": "I Have The Room Above Her",
         "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
       },
@@ -1759,22 +1787,18 @@
     {
       "added_at": "2021-12-17 14:27:05",
       "album": {
-        "name": "Small Town",
-        "url": "https://open.spotify.com/album/2JULfcGWlSX5uCEiNgMsIw"
+        "name": "Le Pas Du Chat Noir",
+        "url": "https://open.spotify.com/album/4RrIRfJf0HqzlkmMDfBmME"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        },
-        {
-          "name": "Thomas Morgan",
-          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+          "name": "Anouar Brahem",
+          "url": "https://open.spotify.com/artist/1aO9NulHwrE9pxHXFfCIoM"
         }
       ],
-      "duration_ms": 665120,
-      "name": "It Should Have Happened A Long Time Ago",
-      "url": "https://open.spotify.com/track/6VUDBYUWhvg7dCKef3a0ZI"
+      "duration_ms": 310200,
+      "name": "D\u00e9j\u00e0 La Nuit",
+      "url": "https://open.spotify.com/track/4W1Qhn3czQYAwZk9Um6KBd"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1796,9 +1820,9 @@
           "url": "https://open.spotify.com/artist/1UeKTQy0g4X4v1Rs1CTLNg"
         }
       ],
-      "duration_ms": 288306,
-      "name": "Within The Clouds",
-      "url": "https://open.spotify.com/track/3jBYV1juzLdoHKzbiy8Kqv"
+      "duration_ms": 315520,
+      "name": "The Admiral",
+      "url": "https://open.spotify.com/track/7zKpgrCY4a2SBQscjvODaP"
     },
     {
       "added_at": "2021-12-17 14:27:05",
@@ -1847,22 +1871,6 @@
       "duration_ms": 340906,
       "name": "Wait Till You See Her",
       "url": "https://open.spotify.com/track/56mnki16Lqui7LYs5OEcQF"
-    },
-    {
-      "added_at": "2021-12-17 14:27:05",
-      "album": {
-        "name": "In Praise Of Dreams",
-        "url": "https://open.spotify.com/album/2zXOO2tVqEcBzEtFmYG9Ps"
-      },
-      "artists": [
-        {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        }
-      ],
-      "duration_ms": 279733,
-      "name": "A Tale Begun",
-      "url": "https://open.spotify.com/track/7EARqOXQvRcvOscWRoC28S"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0ZgPbUQ205W"

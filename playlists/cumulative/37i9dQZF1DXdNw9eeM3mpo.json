@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 270800,
       "name": "A Beber Ron",
       "url": "https://open.spotify.com/track/7jDxZOrNK2oUstpupqrEko"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 229800,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx"
@@ -149,7 +149,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 239720,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/4Uies5Apye1sR2TnH5pqhV"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 248626,
       "name": "Brindo Por Ti",
       "url": "https://open.spotify.com/track/6XeuHuEhijEhvt2KXsJGvZ"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 265426,
       "name": "Cannabis",
       "url": "https://open.spotify.com/track/0DjSa6czo5ywsf6iCtZW5A"
@@ -485,7 +485,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 206694,
       "name": "Convaleciente",
       "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 192389,
       "name": "Cuantas Veces (feat. Matt Hensley)",
       "url": "https://open.spotify.com/track/0zyRhZmoQvMC9R54GRr43V"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 193807,
       "name": "Deja Ya de Mentir",
       "url": "https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 189466,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/2BEUGCeN9FBV3pA06fjLu4"
@@ -691,7 +691,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212845,
       "name": "El asesino del tiempo",
       "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
@@ -781,7 +781,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 237911,
       "name": "El Super Heroe",
       "url": "https://open.spotify.com/track/0LIvsHX7pShjl2fpHHSAL5"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 277933,
       "name": "El Vals del Obrero",
       "url": "https://open.spotify.com/track/4UjqoyfmarLo3Ub3LE19eC"
@@ -911,7 +911,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 278343,
       "name": "Entre Vos y Yo",
       "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
@@ -951,6 +951,28 @@
       "duration_ms": 215680,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
+    },
+    {
+      "album": {
+        "name": "El ataque de la nueva ola",
+        "url": "https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        },
+        {
+          "name": "Percance",
+          "url": "https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220620,
+      "name": "Esc\u00e1pate conmigo",
+      "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
     },
     {
       "album": {
@@ -1705,7 +1727,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 193453,
       "name": "No Tengo Amigos",
       "url": "https://open.spotify.com/track/6TPnm7nTohMR2Jds2aSTcV"
@@ -1893,7 +1915,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 273559,
       "name": "Pasa la Vida",
       "url": "https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE"
@@ -2121,7 +2143,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 266000,
       "name": "Rudi Not Dead",
       "url": "https://open.spotify.com/track/0kFMgiUew2gYgsNAB4NyTx"
@@ -2479,7 +2501,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 105402,
       "name": "Sound System",
       "url": "https://open.spotify.com/track/14al8x5l2Xb2Z53vOo8RSd"
@@ -2573,7 +2595,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 249800,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
@@ -2627,7 +2649,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 201802,
       "name": "Temerario",
       "url": "https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH"
@@ -2939,7 +2961,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 211000,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/5lJ6O1jt4fviN4VyKH0NX9"
@@ -2957,7 +2979,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 212426,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/7d6HMhA8yAsWgavZCj5rPo"

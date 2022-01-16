@@ -67,7 +67,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 151448,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/2HMeL2UhAlfrEXigmFOPnQ"
@@ -115,7 +115,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 177600,
       "name": "Bird Machine - Jingle Bells Version",
       "url": "https://open.spotify.com/track/6t0KVCE10aI5wUeodIHhmW"
@@ -199,7 +199,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 194584,
       "name": "Christmas Baby",
       "url": "https://open.spotify.com/track/6jUKWIoL85GjDhKsGyRIdJ"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 173515,
       "name": "Christmas Bounce",
       "url": "https://open.spotify.com/track/22Y8YQGRTTk4hHaOFtII8t"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 196636,
       "name": "Christmas Days",
       "url": "https://open.spotify.com/track/5wOf53iL6wzYqd31jLTmPQ"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 145029,
       "name": "Christmas Rave",
       "url": "https://open.spotify.com/track/6rYXrgCSkfMmEscYd7vzuN"
@@ -507,7 +507,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 247906,
       "name": "Holy Night (feat. Erika Sirola)",
       "url": "https://open.spotify.com/track/7m5KTjHeh7I6YWJ6zQlo01"
@@ -865,10 +865,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 201400,
       "name": "Jingle Bells (feat. Soran)",
       "url": "https://open.spotify.com/track/4q6356bqn2qC7t3R6TVR6L"
+    },
+    {
+      "album": {
+        "name": "LOL <(^^,)>",
+        "url": "https://open.spotify.com/album/2CgP17LruVyUuuASnqBbWx"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "Jingle Bells - Bass",
+      "url": "https://open.spotify.com/track/49yqMGuhxv3PdgDFamDC9b"
     },
     {
       "album": {
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "Rock Them Bells",
       "url": "https://open.spotify.com/track/0epMkNX1trzXudrhMzgXxj"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 199866,
       "name": "Santa Baby (feat. Jane X\u00d8)",
       "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
@@ -1311,7 +1329,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 216986,
       "name": "Turn Up Ye Merry Gentlemen",
       "url": "https://open.spotify.com/track/7h67jn17fbjofhCBE6kHCe"
@@ -1383,7 +1401,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 194346,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
@@ -1423,7 +1441,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 173043,
       "name": "Wonderful Dream (Holidays Are Coming)",
       "url": "https://open.spotify.com/track/4GQr5He2pvm4UKc63esd2a"

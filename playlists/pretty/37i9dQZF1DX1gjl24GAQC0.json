@@ -1,13 +1,61 @@
 {
   "description": "Is it your favorite oppa or dongsaeng? Cover: MIRAE(\ubbf8\ub798\uc18c\ub144) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
-  "num_followers": 685549,
+  "num_followers": 685568,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODEyMSwwMDAwMDAwMDZiNTVkMzU2OWQyNDA0ZTJlMmUzODk0N2RiNGQ4N2Fk",
+  "snapshot_id": "MTY0MjI5Mzg1MCwwMDAwMDAwMDU5NjBhOGVhZjVjZmE5NWIzZTcwMThkOTJiMzI5MGE3",
   "tracks": [
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Marvelous - MIRAE 3rd Mini Album",
+        "url": "https://open.spotify.com/album/75m8JyqF8ZgDCk01v0QVoR"
+      },
+      "artists": [
+        {
+          "name": "MIRAE",
+          "url": "https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b"
+        }
+      ],
+      "duration_ms": 189146,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "LOVE ME LIKE",
+        "url": "https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw"
+      },
+      "artists": [
+        {
+          "name": "OMEGA X",
+          "url": "https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF"
+        }
+      ],
+      "duration_ms": 174386,
+      "name": "LOVE ME LIKE",
+      "url": "https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Instinct, Pt. 2",
+        "url": "https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv"
+      },
+      "artists": [
+        {
+          "name": "OnlyOneOf",
+          "url": "https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd"
+        }
+      ],
+      "duration_ms": 203906,
+      "name": "skinz",
+      "url": "https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk"
+    },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
@@ -59,22 +107,6 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "minisode1 : Blue Hour",
-        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 209105,
-      "name": "Blue Hour",
-      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -91,18 +123,18 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 193260,
-      "name": "Drunk-Dazed",
-      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -123,34 +155,18 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "Mixtape : OH",
-        "url": "https://open.spotify.com/album/58eyQYheJrsSlemmBeMkj7"
+        "name": "ZERO : FEVER Part.3",
+        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Black Swan",
-        "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Black Swan",
-      "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
+      "duration_ms": 196670,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -171,6 +187,38 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
+        "name": "Mixtape : OH",
+        "url": "https://open.spotify.com/album/58eyQYheJrsSlemmBeMkj7"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/3lYHmpjkm95UbQz76S47xZ"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
@@ -187,82 +235,34 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "ZERO : FEVER Part.3",
-        "url": "https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G"
+        "name": "Black Swan",
+        "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 196670,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3"
+      "duration_ms": 198260,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/24NuEDgyRIljwSyY0lsr7b"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "GO LIVE",
-        "url": "https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ"
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         }
       ],
-      "duration_ms": 167922,
-      "name": "God\u2019s Menu",
-      "url": "https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
-        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        }
-      ],
-      "duration_ms": 229400,
-      "name": "Make A Wish (Birthday Song)",
-      "url": "https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "SOMEONE'S SOMEONE",
-        "url": "https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5"
-      },
-      "artists": [
-        {
-          "name": "Monsta X",
-          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
-        }
-      ],
-      "duration_ms": 141290,
-      "name": "SOMEONE'S SOMEONE",
-      "url": "https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "The Chaos Chapter: FREEZE",
-        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 215188,
-      "name": "Anti-Romantic",
-      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "IN LIFE",
-        "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
+        "name": "Golden Child 5th Mini Album [YES.]",
+        "url": "https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
         }
       ],
-      "duration_ms": 189286,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
+      "duration_ms": 209360,
+      "name": "Burn It",
+      "url": "https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -335,6 +335,54 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
+        "name": "SOMEONE'S SOMEONE",
+        "url": "https://open.spotify.com/album/3CFYV1F2RIDoHyinrBv8y5"
+      },
+      "artists": [
+        {
+          "name": "Monsta X",
+          "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+        }
+      ],
+      "duration_ms": 141290,
+      "name": "SOMEONE'S SOMEONE",
+      "url": "https://open.spotify.com/track/0nP9JFMx8z5QNl5Ph8ExEa"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "GO LIVE",
+        "url": "https://open.spotify.com/album/7B3Rmyws1KcAxQfYPoInEZ"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "God\u2019s Menu",
+      "url": "https://open.spotify.com/track/0RzT9tBLcQhofW2TNiHP9B"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 215188,
+      "name": "Anti-Romantic",
+      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
         "name": "DIMENSION : DILEMMA",
         "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
       },
@@ -351,82 +399,66 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "Hot Sauce - The 1st Album",
-        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
         }
       ],
-      "duration_ms": 195813,
-      "name": "Hot Sauce",
-      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+      "duration_ms": 229400,
+      "name": "Make A Wish (Birthday Song)",
+      "url": "https://open.spotify.com/track/6FdShjf7nA2cqEnpv1tIia"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
-        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+        "name": "Favorite - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/3xn5tn8JNMlJf3sISHONUy"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
         }
       ],
-      "duration_ms": 203426,
-      "name": "Don't Wanna Cry",
-      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
+      "duration_ms": 215586,
+      "name": "Favorite (Vampire)",
+      "url": "https://open.spotify.com/track/3rR9kTA6mD9LbmsCE0QWEY"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "The Book of Us : The Demon",
-        "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
+        "name": "B:COMPLETE",
+        "url": "https://open.spotify.com/album/5cxJNT3zQw9kvJ0wpwWY7V"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
         }
       ],
-      "duration_ms": 209259,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ"
+      "duration_ms": 217823,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/4XbyRgWe6yU4wE6WShdTEs"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "TREASURE EPILOGUE : Action To Answer",
-        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
+        "name": "IN LIFE",
+        "url": "https://open.spotify.com/album/1fOJ6SHLXOLnsuuwiLyzft"
       },
       "artists": [
         {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "BORDER : DAY ONE",
-        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 183090,
-      "name": "Given-Taken",
-      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+      "duration_ms": 189286,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/7I0vl97TYZW86qYdgcD1qu"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -451,50 +483,50 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "; [Semicolon]",
-        "url": "https://open.spotify.com/album/1EMYSiKKTSKLZrOC2nTStL"
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 184426,
-      "name": "HOME;RUN",
-      "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
+      "duration_ms": 183090,
+      "name": "Given-Taken",
+      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "Cl\u00e9 : LEVANTER",
-        "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
+        "name": "TREASURE EPILOGUE : Action To Answer",
+        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 195656,
-      "name": "Levanter",
-      "url": "https://open.spotify.com/track/4mtPGvoOvfqskC9M3tNZrV"
+      "duration_ms": 219760,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "Hold",
-        "url": "https://open.spotify.com/album/6rh15TQEKLTUVGzjeSHWbB"
+        "name": "FIRST COLLECTION",
+        "url": "https://open.spotify.com/album/6OWLP5aWafuctNQoJka9LQ"
       },
       "artists": [
         {
-          "name": "WINNER",
-          "url": "https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb"
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
         }
       ],
-      "duration_ms": 176351,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/2XD5I0ZeUVwM4LFSEKmKst"
+      "duration_ms": 193358,
+      "name": "Good Guy",
+      "url": "https://open.spotify.com/track/52Ympobu59UXxyhdCUww1y"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -515,120 +547,8 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "THE BOYZ 3rd MINI ALBUM [THE ONLY]",
-        "url": "https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 244089,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 201773,
-      "name": "Left & Right",
-      "url": "https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 209648,
-      "name": "LOVE SCENARIO",
-      "url": "https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
-        "url": "https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 205147,
-      "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
-      "url": "https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "THE FIRST STEP : CHAPTER ONE",
-        "url": "https://open.spotify.com/album/7IGNNe8FGyEtOZdoUBjLPw"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/6SqOpxXMMS8axhJoqz8Nel"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Golden Child 5th Mini Album [YES.]",
-        "url": "https://open.spotify.com/album/0UHpoOOB9NC0joJKAWuYgi"
-      },
-      "artists": [
-        {
-          "name": "Golden Child",
-          "url": "https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Burn It",
-      "url": "https://open.spotify.com/track/6vcJyCa9NgFQer7O6X1NY7"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Mixtape : On Track",
-        "url": "https://open.spotify.com/album/71SzCgInpeGCfcmn4FbEth"
+        "name": "Cl\u00e9 : LEVANTER",
+        "url": "https://open.spotify.com/album/5tCOElmd7wcBGbt1f8bFYR"
       },
       "artists": [
         {
@@ -636,9 +556,25 @@
           "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
         }
       ],
-      "duration_ms": 207814,
-      "name": "Mixtape : On Track",
-      "url": "https://open.spotify.com/track/3diZHzXj5LNxztVwBjnebn"
+      "duration_ms": 195656,
+      "name": "Levanter",
+      "url": "https://open.spotify.com/track/4mtPGvoOvfqskC9M3tNZrV"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "SEVENTEEN 4th Mini Album \u2018Al1\u2019",
+        "url": "https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "Don't Wanna Cry",
+      "url": "https://open.spotify.com/track/6Upu6yjkdi0DVI8E3IBZEU"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -659,40 +595,56 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "The Dream Chapter: ETERNITY",
-        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+        "name": "The Book of Us : The Demon",
+        "url": "https://open.spotify.com/album/3JX0hnu8b55RtbtEdUSYor"
       },
       "artists": [
         {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 201445,
-      "name": "Can't You See Me?",
-      "url": "https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8"
+      "duration_ms": 209259,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "MAP OF THE SOUL : PERSONA",
-        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+        "name": "THE BOYZ 3rd MINI ALBUM [THE ONLY]",
+        "url": "https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
         }
       ],
-      "duration_ms": 226321,
-      "name": "Make It Right",
-      "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
+      "duration_ms": 244089,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma"
     },
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
-        "name": "An Ode",
-        "url": "https://open.spotify.com/album/4btxaakgIaE1AkXqpReLwd"
+        "name": "MUST",
+        "url": "https://open.spotify.com/album/1dbp3aJzOuyRfGHLUJZqT1"
+      },
+      "artists": [
+        {
+          "name": "2PM",
+          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Make it",
+      "url": "https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3tWstxfjHMtqt2ZsRvhlYy"
       },
       "artists": [
         {
@@ -700,41 +652,9 @@
           "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
         }
       ],
-      "duration_ms": 175213,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/0fToFBFypPz5XMyAdAm7Ay"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Why Why Why",
-        "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
-      },
-      "artists": [
-        {
-          "name": "iKON",
-          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-        }
-      ],
-      "duration_ms": 206856,
-      "name": "Why Why Why",
-      "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 194707,
-      "name": "You Calling My Name",
-      "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
+      "duration_ms": 201773,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq"
     },
     {
       "added_at": "2022-01-14 09:12:52",
@@ -755,6 +675,70 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
+        "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
+        "url": "https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 205147,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
+      "url": "https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Why Why Why",
+        "url": "https://open.spotify.com/album/7M784rTDL5CaHN250ibG1Q"
+      },
+      "artists": [
+        {
+          "name": "iKON",
+          "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
+        }
+      ],
+      "duration_ms": 206856,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/0br4r9VlPdofrWXxPorlYd"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 226321,
+      "name": "Make It Right",
+      "url": "https://open.spotify.com/track/6KUE0HSSudAp9AOycaF6SH"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
         "name": "THE FIRST STEP : TREASURE EFFECT",
         "url": "https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL"
       },
@@ -771,6 +755,54 @@
     {
       "added_at": "2022-01-14 09:12:52",
       "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "INSIDE OUT",
+      "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "duration_ms": 194707,
+      "name": "You Calling My Name",
+      "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
+        "name": "Mixtape : On Track",
+        "url": "https://open.spotify.com/album/71SzCgInpeGCfcmn4FbEth"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 207814,
+      "name": "Mixtape : On Track",
+      "url": "https://open.spotify.com/track/3diZHzXj5LNxztVwBjnebn"
+    },
+    {
+      "added_at": "2022-01-14 09:12:52",
+      "album": {
         "name": "SEVENTEEN 6TH MINI ALBUM 'YOU MADE MY DAWN'",
         "url": "https://open.spotify.com/album/1Or4crj0DlitdTRp36TjnT"
       },
@@ -783,38 +815,6 @@
       "duration_ms": 203731,
       "name": "Home",
       "url": "https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "Brother Act.",
-        "url": "https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 236829,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF"
-    },
-    {
-      "added_at": "2022-01-14 09:12:52",
-      "album": {
-        "name": "MUST",
-        "url": "https://open.spotify.com/album/1dbp3aJzOuyRfGHLUJZqT1"
-      },
-      "artists": [
-        {
-          "name": "2PM",
-          "url": "https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Make it",
-      "url": "https://open.spotify.com/track/4EF941VzqGMLFnYlXH03hG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0"

@@ -146,6 +146,24 @@
     },
     {
       "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/0agZ0V8dJEiQjLoBiMuY1D"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Nieto",
+          "url": "https://open.spotify.com/artist/1jYImiKsH7041qqudv5oJ2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302506,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/1FLjWgNJWxFlCWLYQJGOg1"
+    },
+    {
+      "album": {
         "name": "BEB\u00c9",
         "url": "https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai"
       },
@@ -1081,7 +1099,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 142000,
       "name": "Por Qu\u00e9",
       "url": "https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn"

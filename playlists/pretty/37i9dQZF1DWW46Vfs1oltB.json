@@ -1,12 +1,12 @@
 {
   "description": "Representin' +82 Korean Hip-Hop's sickest rhymes and beats. (Cover: \bWay Ched(\uc6e8\uc774\uccb4\ub4dc)) (\ud55c\uad6d\ud799\ud569\uc744 \ub300\ud45c\ud558\ub294 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "K-Hip-Hop +82",
-  "num_followers": 411286,
+  "num_followers": 411285,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4Nzk4MSwwMDAwMDAwMDIwNGM1NjE1ZDg2YTdlNjJlMGU4MGE1NjczMjg3Mjdh",
+  "snapshot_id": "MTY0MjI5MzcxMCwwMDAwMDAwMDIzZWNmMmVhYTk2ZGFiN2NiMGVjM2FjMmQ4Njg0NzJm",
   "tracks": [
     {
       "added_at": "2022-01-15 12:08:29",
@@ -203,8 +203,8 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Epik High Is Here \u4e0a (Part 1)",
-        "url": "https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT"
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
       },
       "artists": [
         {
@@ -212,13 +212,13 @@
           "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         },
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 214642,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP"
+      "duration_ms": 243785,
+      "name": "Rain Song (Feat. Colde)",
+      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/34HTGcgaMOzOQHwkVsWQpf"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
         "name": "FRIENDS",
         "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
       },
@@ -279,6 +295,102 @@
       "duration_ms": 190690,
       "name": "FRIENDS",
       "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 220681,
+      "name": "Limousine (Feat. MINO) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 214642,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/0jtVg4s7gv44qWwCnqBBWP"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
+        "url": "https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL"
+      },
+      "artists": [
+        {
+          "name": "SGBOYZ (Jay Park, Don Mills, Loco, Nucksal)",
+          "url": "https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw"
+        }
+      ],
+      "duration_ms": 256437,
+      "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "AURA (feat. pH-1)",
+        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "AURA (feat. pH-1) (Prod. GXXD)",
+      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "duration_ms": 207523,
+      "name": "Error (Feat. Loopy)",
+      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -319,42 +431,22 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Show Me The Money 10 Episode 3",
-        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+        "name": "UPTOWN GIRL",
+        "url": "https://open.spotify.com/album/3dQM10yLtVuA2eWDLePqLV"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         },
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         }
       ],
-      "duration_ms": 220681,
-      "name": "Limousine (Feat. MINO) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 243785,
-      "name": "Rain Song (Feat. Colde)",
-      "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
+      "duration_ms": 187400,
+      "name": "Tikita (feat. lIlBOI)",
+      "url": "https://open.spotify.com/track/3lcLgImrQkglTgI8Fm5x5X"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -379,74 +471,70 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Show Me The Money 10 Episode 3",
-        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
       },
       "artists": [
         {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "EP1 GENIUS",
+        "url": "https://open.spotify.com/album/244KZjMMXFQpg2V4QZpZUB"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
         },
         {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 231413,
-      "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
-      "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
+      "duration_ms": 188493,
+      "name": "GENIUS (Feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/4RrFB4tKGUFc37B0AjUPmT"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "AURA (feat. pH-1)",
-        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+        "name": "Cold Blooded",
+        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
         }
       ],
-      "duration_ms": 206640,
-      "name": "AURA (feat. pH-1) (Prod. GXXD)",
-      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
+      "duration_ms": 150053,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/3qCn2BNhIGDpyCLxc06LAH"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
       },
       "artists": [
         {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 170520,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/6oOiMv4zMPPDDTd7TUFPE1"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Her",
-        "url": "https://open.spotify.com/album/1XtTygUdUqtwPyErnZxLbR"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 201510,
-      "name": "Jasmine",
-      "url": "https://open.spotify.com/track/34HTGcgaMOzOQHwkVsWQpf"
+      "duration_ms": 205003,
+      "name": "illa illa",
+      "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -475,134 +563,6 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Loopy",
-          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
-        }
-      ],
-      "duration_ms": 207523,
-      "name": "Error (Feat. Loopy)",
-      "url": "https://open.spotify.com/track/7IRknQOMvsycACYS1fVGex"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "EP1 GENIUS",
-        "url": "https://open.spotify.com/album/244KZjMMXFQpg2V4QZpZUB"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "GENIUS (Feat. CHANGMO)",
-      "url": "https://open.spotify.com/track/4RrFB4tKGUFc37B0AjUPmT"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "To Life",
-        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191491,
-      "name": "To Life",
-      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "KAZINO",
-        "url": "https://open.spotify.com/album/1f9cws6SZ0iKoHrcmn39ZY"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 185946,
-      "name": "KAZINO",
-      "url": "https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "grayground.",
-        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 154173,
-      "name": "Make Love (Feat. Zion.T)",
-      "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "UPTOWN GIRL",
-        "url": "https://open.spotify.com/album/3dQM10yLtVuA2eWDLePqLV"
-      },
-      "artists": [
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Tikita (feat. lIlBOI)",
-      "url": "https://open.spotify.com/track/3lcLgImrQkglTgI8Fm5x5X"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Cold Blooded",
-        "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -627,38 +587,58 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
+        "name": "Sigh",
+        "url": "https://open.spotify.com/album/4mu2sqEGnXODLaWVzTlMtO"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
+      "duration_ms": 243423,
+      "name": "Sigh (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/2BkpDA0AyGPHzyae6wWtZW"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/7opzE9aGkgt8V4fnz6yX5t"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/3qCn2BNhIGDpyCLxc06LAH"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 205003,
-      "name": "illa illa",
-      "url": "https://open.spotify.com/track/4M58f8RgOr3jr5ccG6hRTb"
+      "duration_ms": 170520,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/6oOiMv4zMPPDDTd7TUFPE1"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
+      },
+      "artists": [
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Daisy (feat. pH-1)",
+      "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -699,78 +679,158 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/5q2S029pKo0xqtXQ2loeQA"
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
       "artists": [
         {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
         },
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 189480,
-      "name": "Daisy (feat. pH-1)",
-      "url": "https://open.spotify.com/track/2pIgqVUhK5KsNuoFBo6uoh"
+      "duration_ms": 231413,
+      "name": "Meeting is easy, parting is hard (Feat. Leellamarz) (Prod. TOIL)",
+      "url": "https://open.spotify.com/track/1GFS1xMbcAWXf5W0tSuZev"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "doodle",
-        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
+        "name": "Show Me The Money 10 Episode 3",
+        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
       },
       "artists": [
         {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
         },
         {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+          "name": "Tabber",
+          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         }
       ],
-      "duration_ms": 187480,
-      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
-      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+      "duration_ms": 257972,
+      "name": "Reset (Feat. Gaeko, Kid Milli) (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Sigh",
-        "url": "https://open.spotify.com/album/4mu2sqEGnXODLaWVzTlMtO"
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         },
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 243423,
-      "name": "Sigh (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/2BkpDA0AyGPHzyae6wWtZW"
+      "duration_ms": 230066,
+      "name": "Rosario",
+      "url": "https://open.spotify.com/track/31LHplV8BL8F0Uu9YbvTAY"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
-        "url": "https://open.spotify.com/album/1V1hbUJcmNISGcYyR6sHdL"
+        "name": "Dry Flower",
+        "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
       },
       "artists": [
         {
-          "name": "SGBOYZ (Jay Park, Don Mills, Loco, Nucksal)",
-          "url": "https://open.spotify.com/artist/66bwuJTs2P6ygJTTmW53Cw"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 256437,
-      "name": "Dingo X SGBOYZ - ? (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/7cDeFoNeMJfp8ChAqaZUMC"
+      "duration_ms": 196213,
+      "name": "JAJA",
+      "url": "https://open.spotify.com/track/1FmOWhvlAerXKE8xCZUOgy"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Show Me The Money 10 Semi Final",
+        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 248513,
+      "name": "MBTI (Feat. Coogie & Loco) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "School Rapper4 - Team Battle:Group",
+        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        },
+        {
+          "name": "obiegogle",
+          "url": "https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to"
+        },
+        {
+          "name": "nobbaggu",
+          "url": "https://open.spotify.com/artist/3y17owG6cStOCdf6l4b8z1"
+        }
+      ],
+      "duration_ms": 221309,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/5sfmTMTQ5Krnto74vKeOaS"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "KAZINO",
+        "url": "https://open.spotify.com/album/1f9cws6SZ0iKoHrcmn39ZY"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "KAZINO",
+      "url": "https://open.spotify.com/track/245onUPHGD1DYuiacxTuW0"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -791,62 +851,42 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk"
+        "name": "D&PATEKOMORI",
+        "url": "https://open.spotify.com/album/6USe9n5yp6f1MLBPnAGY0F"
       },
       "artists": [
         {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+          "name": "D-Hack",
+          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
         },
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "Mirani",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+          "name": "Pateko",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         }
       ],
-      "duration_ms": 193000,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH"
+      "duration_ms": 238736,
+      "name": "OHAYO MY NIGHT",
+      "url": "https://open.spotify.com/track/6AJhvujU1XgnYjUTYDyxrh"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "032 Funk",
-        "url": "https://open.spotify.com/album/4WDZOO3NuSawqHCo77jj4P"
+        "name": "Feel The Rhythm Of Korea, Pt. 2",
+        "url": "https://open.spotify.com/album/4WPiut74OmhbKBhfj1piZ9"
       },
       "artists": [
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 196120,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/35h968aFQALDYPq1tnhTfU"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
-        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         },
         {
-          "name": "\uc720\ub77c(youra)",
-          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
         }
       ],
-      "duration_ms": 189157,
-      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
-      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+      "duration_ms": 177600,
+      "name": "Ganggangsullae (Gyeongju & Andong) (Feat. sogumm) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/2yoZW9Uvkl5cNsF7GATYUv"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -875,22 +915,294 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Feel The Rhythm Of Korea, Pt. 2",
-        "url": "https://open.spotify.com/album/4WPiut74OmhbKBhfj1piZ9"
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
       },
       "artists": [
         {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Epik High Is Here \u4e0a (Part 1)",
+        "url": "https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 234761,
+      "name": "\ub0b4 \uc598\uae30 \uac19\uc544 (Based On A True Story)",
+      "url": "https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "VIOLINIST2",
+        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "OUT OF MY SIGHT",
+      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "032 Funk",
+        "url": "https://open.spotify.com/album/4WDZOO3NuSawqHCo77jj4P"
+      },
+      "artists": [
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 196120,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/35h968aFQALDYPq1tnhTfU"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "PEOPLE",
+        "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
           "name": "Woo",
           "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "duration_ms": 273453,
+      "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
+      "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "grayground.",
+        "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 154173,
+      "name": "Make Love (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/36eQx4sQik7l18vOUoJemG"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/2zu8aSqeIOTL0db0YXyea3"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/0da5hji35BCVb7nC8gRQzF"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "KISS ME",
+      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Organic",
+        "url": "https://open.spotify.com/album/2GwAfaPbHNEfxwhMWNuNko"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Shy (eh o)",
+      "url": "https://open.spotify.com/track/4OGE9JDSqSGrfi7AF158uG"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
+        "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "\uc720\ub77c(youra)",
+          "url": "https://open.spotify.com/artist/34IEklf9glx6MtP0IBjLbJ"
+        }
+      ],
+      "duration_ms": 189157,
+      "name": "HATE ME (feat. youra) (prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Face ID",
+        "url": "https://open.spotify.com/album/6yuibcaEwYF6y5Tn04fUOV"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 216503,
+      "name": "Face ID (Feat. GIRIBOY, Sik-K, JUSTHIS)",
+      "url": "https://open.spotify.com/track/6YcJycTGtvfTt5ACVH29q7"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+        "url": "https://open.spotify.com/album/7cndGLg8JUods3cbsLJvII"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         },
         {
           "name": "sogumm",
           "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
         }
       ],
-      "duration_ms": 177600,
-      "name": "Ganggangsullae (Gyeongju & Andong) (Feat. sogumm) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/2yoZW9Uvkl5cNsF7GATYUv"
+      "duration_ms": 272293,
+      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
+      "url": "https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "School Rapper4 Semi Final 2",
+        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+      },
+      "artists": [
+        {
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "PARADISE (Feat. meenoi)",
+      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/6MgHVfBDsr2qBP3Og6hPTo"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 159280,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/12FGJeMWeTVRjK31NIUIMQ"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -927,110 +1239,178 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Epik High Is Here \u4e0a (Part 1)",
-        "url": "https://open.spotify.com/album/5U1iQJeJurJANhdos9GugT"
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 234761,
-      "name": "\ub0b4 \uc598\uae30 \uac19\uc544 (Based On A True Story)",
-      "url": "https://open.spotify.com/track/3TODabyKjZdBvpGFCDAgxs"
+      "duration_ms": 195078,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "D&PATEKOMORI",
-        "url": "https://open.spotify.com/album/6USe9n5yp6f1MLBPnAGY0F"
+        "name": "fine!",
+        "url": "https://open.spotify.com/album/0PS4f64PLmmhCAwFvscJIl"
       },
       "artists": [
         {
-          "name": "D-Hack",
-          "url": "https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR"
-        },
-        {
-          "name": "Pateko",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "OHAYO MY NIGHT",
-      "url": "https://open.spotify.com/track/6AJhvujU1XgnYjUTYDyxrh"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Show Me The Money 10 Episode 3",
-        "url": "https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Tabber",
-          "url": "https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU"
-        },
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
         },
         {
           "name": "Kid Milli",
           "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
         }
       ],
-      "duration_ms": 257972,
-      "name": "Reset (Feat. Gaeko, Kid Milli) (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/5oD7cKg3DRl2HFuybvVsI5"
+      "duration_ms": 195866,
+      "name": "fine! (Feat. Kid Milli)",
+      "url": "https://open.spotify.com/track/7gxi8TAbdZaG0DYKv05237"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "School Rapper4 Semi Final 1",
-        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
+        "name": "Uniform",
+        "url": "https://open.spotify.com/album/258BtAEodn5ZhYIMYtS9hj"
       },
       "artists": [
         {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
         },
         {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 241333,
-      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
+      "duration_ms": 178645,
+      "name": "Uniform (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/3BRho9Ns4EUOwx55PZJgTn"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "School Rapper4 Semi Final 2",
-        "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk"
       },
       "artists": [
         {
-          "name": "PARKHYUNJIN",
-          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         },
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "Mirani",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
         }
       ],
-      "duration_ms": 213626,
-      "name": "PARADISE (Feat. meenoi)",
-      "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+      "duration_ms": 193000,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Show Me The Money 10 Semi Final",
+        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
+      },
+      "artists": [
+        {
+          "name": "Mudd the student",
+          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
+        },
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 273640,
+      "name": "Dissonance (Feat. AKMU) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/0AF50NdDzZ3cze2O0SyjXf"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "New Vision",
+        "url": "https://open.spotify.com/album/1Cw3lJgFHhIfNU5WiPlEsZ"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "New Vision",
+      "url": "https://open.spotify.com/track/5L6IX56bdTT3CPueP72VEx"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "9Cut",
+        "url": "https://open.spotify.com/album/0AOmBu8KgdVqxgMNKatbWF"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "It Was Love",
+      "url": "https://open.spotify.com/track/6zePxnugk8oUcp398yUiGl"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "doodle",
+        "url": "https://open.spotify.com/album/4ASTYYT0psxkyK3Y52oWfV"
+      },
+      "artists": [
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "doodle (Feat. Yerin Baek) (Prod. by WOOGIE)",
+      "url": "https://open.spotify.com/track/4WiZMFJos3BUHSieP9cHTM"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Life is a Bi\u2026",
+        "url": "https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 156741,
+      "name": "Life is a Bi\u2026",
+      "url": "https://open.spotify.com/track/4d79iPe88TzFewhFk2vrcy"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -1055,46 +1435,150 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "School Rapper4 - Team Battle:Group",
-        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
+        "name": "School Rapper4 Semi Final 1",
+        "url": "https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et"
       },
       "artists": [
         {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
         },
         {
-          "name": "JAEHA",
-          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
-        },
-        {
-          "name": "obiegogle",
-          "url": "https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to"
-        },
-        {
-          "name": "nobbaggu",
-          "url": "https://open.spotify.com/artist/3y17owG6cStOCdf6l4b8z1"
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
         }
       ],
-      "duration_ms": 221309,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/5sfmTMTQ5Krnto74vKeOaS"
+      "duration_ms": 241333,
+      "name": "Cold (Feat. SUPERBEE) (Prod. Way Ched)",
+      "url": "https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
+        "name": "Tree",
+        "url": "https://open.spotify.com/album/7nFtvzOlA00mF9huq3D4ao"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
         }
       ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA"
+      "duration_ms": 181069,
+      "name": "Tree",
+      "url": "https://open.spotify.com/track/5fL0pFoAi6V6OWOgIRdraP"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "bimil:ier vol.3 \"Antisocial (Prod. Mokyo)\"",
+        "url": "https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 215213,
+      "name": "Antisocial (Prod. Mokyo)",
+      "url": "https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "LUCKY MAN",
+        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "duration_ms": 170280,
+      "name": "U MAD",
+      "url": "https://open.spotify.com/track/2qR0mMrgwO099ONpl2B0II"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "POW (Feat. GRAY)",
+        "url": "https://open.spotify.com/album/7p1VMFPDTX3sIe6CgqMNEl"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "POW (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3QpwHZCLi4vPrt2TJ1kurE"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "WHY Y",
+        "url": "https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        },
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "WHY Y (Feat. Tiger JK)",
+      "url": "https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "FNR",
+        "url": "https://open.spotify.com/album/6DILwbqmKHO3B0UAujdUwH"
+      },
+      "artists": [
+        {
+          "name": "SPACEBOY",
+          "url": "https://open.spotify.com/artist/5c7opOHFWShs8k4uvcuMLo"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Kim Jong Wan",
+          "url": "https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH"
+        }
+      ],
+      "duration_ms": 227253,
+      "name": "FNR",
+      "url": "https://open.spotify.com/track/7C5NyyTvyZFeG9fyyzGZzS"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "MBT",
+        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
+      },
+      "artists": [
+        {
+          "name": "Huh!",
+          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "MBT",
+      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -1123,434 +1607,38 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "New Vision",
-        "url": "https://open.spotify.com/album/1Cw3lJgFHhIfNU5WiPlEsZ"
+        "name": "THINKING Part.2",
+        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
       },
       "artists": [
         {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         },
         {
-          "name": "JEON SOYEON",
-          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
         }
       ],
-      "duration_ms": 196360,
-      "name": "New Vision",
-      "url": "https://open.spotify.com/track/5L6IX56bdTT3CPueP72VEx"
+      "duration_ms": 218813,
+      "name": "Being left (Feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Face ID",
-        "url": "https://open.spotify.com/album/6yuibcaEwYF6y5Tn04fUOV"
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/5LAKQwTYZiOFsCN4BSFVds"
       },
       "artists": [
         {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 216503,
-      "name": "Face ID (Feat. GIRIBOY, Sik-K, JUSTHIS)",
-      "url": "https://open.spotify.com/track/6YcJycTGtvfTt5ACVH29q7"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Show Me The Money 10 Semi Final",
-        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
-      },
-      "artists": [
-        {
-          "name": "Mudd the student",
-          "url": "https://open.spotify.com/artist/4xHlg3Tcv7TZZzFq0aW2hQ"
-        },
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 273640,
-      "name": "Dissonance (Feat. AKMU) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/0AF50NdDzZ3cze2O0SyjXf"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "KISS ME",
-      "url": "https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "VIOLINIST2",
-        "url": "https://open.spotify.com/album/05cEu4COQP7cF3Otz7aDBT"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "OUT OF MY SIGHT",
-      "url": "https://open.spotify.com/track/0hUH6MXHQn9coBKHMXWpD8"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "PEOPLE",
-        "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
-      },
-      "artists": [
-        {
-          "name": "CODE KUNST",
-          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        }
-      ],
-      "duration_ms": 273453,
-      "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
-      "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 200689,
-      "name": "LALISA",
-      "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Show Me The Money 10 Semi Final",
-        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
-      },
-      "artists": [
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 248513,
-      "name": "MBTI (Feat. Coogie & Loco) (Prod. GRAY)",
-      "url": "https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 228296,
-      "name": "MORAESIGYE",
-      "url": "https://open.spotify.com/track/63dt1BEeb05e452S14uTRB"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Tree",
-        "url": "https://open.spotify.com/album/7nFtvzOlA00mF9huq3D4ao"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 181069,
-      "name": "Tree",
-      "url": "https://open.spotify.com/track/5fL0pFoAi6V6OWOgIRdraP"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Uniform",
-        "url": "https://open.spotify.com/album/258BtAEodn5ZhYIMYtS9hj"
-      },
-      "artists": [
-        {
-          "name": "Woo",
-          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "Uniform (Feat. pH-1)",
-      "url": "https://open.spotify.com/track/3BRho9Ns4EUOwx55PZJgTn"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Spacetime & So What",
-        "url": "https://open.spotify.com/album/7vyDXiK6jN41QVSKWTrroQ"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 196941,
-      "name": "Spacetime",
-      "url": "https://open.spotify.com/track/4QogPJfnO1pZWwJ0cbwFJE"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "At Night",
-        "url": "https://open.spotify.com/album/2zu8aSqeIOTL0db0YXyea3"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/0da5hji35BCVb7nC8gRQzF"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Organic",
-        "url": "https://open.spotify.com/album/2GwAfaPbHNEfxwhMWNuNko"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Shy (eh o)",
-      "url": "https://open.spotify.com/track/4OGE9JDSqSGrfi7AF158uG"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Cheap talk",
-        "url": "https://open.spotify.com/album/235Q8MzZnlCV7RPLsMTeHJ"
-      },
-      "artists": [
-        {
-          "name": "Gaeko",
-          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Cheap talk (Feat. JUSTHIS) (Prod. CODE KUNST)",
-      "url": "https://open.spotify.com/track/31l7az7JT4boi5BjUth78k"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/6MgHVfBDsr2qBP3Og6hPTo"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 159280,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/12FGJeMWeTVRjK31NIUIMQ"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "ROOM SERVICE",
-        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        }
-      ],
-      "duration_ms": 195078,
-      "name": "City Life",
-      "url": "https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Time Table - The Trip",
-        "url": "https://open.spotify.com/album/5XrdPk3JCyE2QVUNeHcfxg"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "GARY",
-          "url": "https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Direction (Feat. GARY)",
-      "url": "https://open.spotify.com/track/5YoVoe2bz3x1Ls9ZiDEjL4"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Life is a Bi\u2026",
-        "url": "https://open.spotify.com/album/0VDb4oas0usbuPljrSZH5s"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 156741,
-      "name": "Life is a Bi\u2026",
-      "url": "https://open.spotify.com/track/4d79iPe88TzFewhFk2vrcy"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Loop",
-        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 155986,
-      "name": "Loop",
-      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/68Dq3HMqFPoTX1gNqSDDII"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 196213,
-      "name": "JAJA",
-      "url": "https://open.spotify.com/track/1FmOWhvlAerXKE8xCZUOgy"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-        "url": "https://open.spotify.com/album/7cndGLg8JUods3cbsLJvII"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "When it rains (Feat. sogumm) (Prod. BOYCOLD)",
-      "url": "https://open.spotify.com/track/45R8aMTK1suFXTraQCzVRe"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "MBT",
-        "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
-      },
-      "artists": [
-        {
-          "name": "Huh!",
-          "url": "https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "MBT",
-      "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+      "duration_ms": 200142,
+      "name": "\uc0ac\uc774\ub80c",
+      "url": "https://open.spotify.com/track/6mzkkz2p0Nyyp43Eedv4mS"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -1575,78 +1663,6 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Love & hate (Feat. BIBI)",
-      "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "fine!",
-        "url": "https://open.spotify.com/album/0PS4f64PLmmhCAwFvscJIl"
-      },
-      "artists": [
-        {
-          "name": "punchnello",
-          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
-        },
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 195866,
-      "name": "fine! (Feat. Kid Milli)",
-      "url": "https://open.spotify.com/track/7gxi8TAbdZaG0DYKv05237"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "9Cut",
-        "url": "https://open.spotify.com/album/0AOmBu8KgdVqxgMNKatbWF"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "It Was Love",
-      "url": "https://open.spotify.com/track/6zePxnugk8oUcp398yUiGl"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "Born To Be Cool",
-        "url": "https://open.spotify.com/album/5x7gSmfu5kKdJocii6Xdrg"
-      },
-      "artists": [
-        {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        }
-      ],
-      "duration_ms": 178893,
-      "name": "Born",
-      "url": "https://open.spotify.com/track/1oFoW0xbdmdsU42VOs4C7H"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
         "name": "Acid Fly",
         "url": "https://open.spotify.com/album/1blCTbDNhWWH8iDzsL0Ykz"
       },
@@ -1667,242 +1683,34 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "GROWTH",
-        "url": "https://open.spotify.com/album/5Qxlt7a2djvLCXT2tD6mG0"
+        "name": "Do Not Go Gentle Into That Good Night",
+        "url": "https://open.spotify.com/album/3iHiYg3Yvd6Id1lKNJf1zQ"
       },
       "artists": [
         {
-          "name": "DKB",
-          "url": "https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx"
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Work Hard",
-      "url": "https://open.spotify.com/track/4DSwdZO1sw3etkTI8moYqc"
+      "duration_ms": 119813,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4xsJXGVSHydlwsPZ37PNJx"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "WHY Y",
-        "url": "https://open.spotify.com/album/1ypeL7YGRCb4Byeh1i7OAU"
+        "name": "LUCKY MAN",
+        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        },
-        {
-          "name": "Tiger JK",
-          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
         }
       ],
-      "duration_ms": 186533,
-      "name": "WHY Y (Feat. Tiger JK)",
-      "url": "https://open.spotify.com/track/7k9rM0ZCWUn5Dg1t0vj0vi"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "What If You and Me",
-        "url": "https://open.spotify.com/album/5t1lqqNnC1yhoi1pMZR5LM"
-      },
-      "artists": [
-        {
-          "name": "San E",
-          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
-        },
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "What If You and Me (Feat. Han Dong Geun)",
-      "url": "https://open.spotify.com/track/2ATI0XQ9kWnDuvjF7ZG56Q"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "To the Moon (Feat. UNEDUCATED KID)",
-        "url": "https://open.spotify.com/album/6hjS0olvdEdxAGTemnblls"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "TOIL",
-          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
-        },
-        {
-          "name": "Uneducated Kid",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        }
-      ],
-      "duration_ms": 196703,
-      "name": "To the Moon (Feat. UNEDUCATED KID)",
-      "url": "https://open.spotify.com/track/6MVhgdbH0AKZlEef2dgJ92"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "POW (Feat. GRAY)",
-        "url": "https://open.spotify.com/album/7p1VMFPDTX3sIe6CgqMNEl"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "POW (Feat. GRAY)",
-      "url": "https://open.spotify.com/track/3QpwHZCLi4vPrt2TJ1kurE"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "THINKING Part.2",
-        "url": "https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 218813,
-      "name": "Being left (Feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Come and kiss me",
-      "url": "https://open.spotify.com/track/6IhyhjqBFuzj7TZePscB5d"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "bimil:ier vol.3 \"Antisocial (Prod. Mokyo)\"",
-        "url": "https://open.spotify.com/album/1nCv396FdEoEd2T5OSWPL6"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 215213,
-      "name": "Antisocial (Prod. Mokyo)",
-      "url": "https://open.spotify.com/track/5FFWhDhJe9u9y4l8qkz4LR"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/72KXAGlKfL9Y3FJPcsMrzZ"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "School Rapper4 - Team Battle:Group",
-        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
-      },
-      "artists": [
-        {
-          "name": "YUNG CHENS",
-          "url": "https://open.spotify.com/artist/0Z0AJiUSevITizCeuWn5PL"
-        },
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Baegie",
-          "url": "https://open.spotify.com/artist/0luHo70mHCmWPqVVCxex7n"
-        },
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "BACKPACK (Feat. CHANGMO) (Prod. Way Ched)",
-      "url": "https://open.spotify.com/track/6Vnw4p90Onr9ykTKSimaJX"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "SINCE 16'",
-        "url": "https://open.spotify.com/album/6SabPv9sCG3yviXpRtgZ5T"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Rakon",
-          "url": "https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk"
-        }
-      ],
-      "duration_ms": 177750,
-      "name": "Spring Rain (feat. Rakon)",
-      "url": "https://open.spotify.com/track/72CqKBz1W0sHlbVazkD9Ur"
-    },
-    {
-      "added_at": "2022-01-15 12:08:29",
-      "album": {
-        "name": "...---...",
-        "url": "https://open.spotify.com/album/1XmvDE1a4kANsubYWUDxtP"
-      },
-      "artists": [
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 178793,
-      "name": "MM (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/5i4tOwRaSSXpsxXmklaKi5"
+      "duration_ms": 168781,
+      "name": "LiLaC",
+      "url": "https://open.spotify.com/track/6eQ74GNcsSwHsXp6kG0v4Y"
     },
     {
       "added_at": "2022-01-15 12:08:29",
@@ -1927,106 +1735,274 @@
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "LUCKY MAN",
-        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d"
       },
       "artists": [
         {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 170280,
-      "name": "U MAD",
-      "url": "https://open.spotify.com/track/2qR0mMrgwO099ONpl2B0II"
+      "duration_ms": 200689,
+      "name": "LALISA",
+      "url": "https://open.spotify.com/track/10BfqdiV5PhV1UYsMEyou1"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "\"SIKE\"!",
-        "url": "https://open.spotify.com/album/4cuZ0gQ51TtaNLs3uwqAKs"
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "M1NU",
-          "url": "https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH"
-        },
-        {
-          "name": "Veinyfl",
-          "url": "https://open.spotify.com/artist/7zVfEU7GNOsAKr6r7w96Dj"
-        },
-        {
-          "name": "Swervy",
-          "url": "https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "Young Ji Lee",
-          "url": "https://open.spotify.com/artist/3dbdqj6vFLewW1Mv0U0omC"
-        },
-        {
-          "name": "Touch the Sky",
-          "url": "https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk"
-        },
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 404720,
-      "name": "Turn Up! (Feat. M1NU, Veinyfl, Swervy, Layone, Young Ji Lee, Lil Nekh, D.Ark)",
-      "url": "https://open.spotify.com/track/6DRXvIUvbUfa1RKQ2YUsl4"
+      "duration_ms": 200813,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/72KXAGlKfL9Y3FJPcsMrzZ"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "Downtown Baby",
-        "url": "https://open.spotify.com/album/2JGgTQGLJMbSfn2GLcd4Bl"
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
       "artists": [
         {
-          "name": "Rtee",
-          "url": "https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7"
-        },
-        {
-          "name": "Lyly",
-          "url": "https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx"
-        },
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         }
       ],
-      "duration_ms": 197035,
-      "name": "Downtown Baby",
-      "url": "https://open.spotify.com/track/1Hu38aQQgK4WLF1SGCmxcJ"
+      "duration_ms": 228296,
+      "name": "MORAESIGYE",
+      "url": "https://open.spotify.com/track/63dt1BEeb05e452S14uTRB"
     },
     {
       "added_at": "2022-01-15 12:08:29",
       "album": {
-        "name": "GOOD LIFE (Feat. CAMO)",
-        "url": "https://open.spotify.com/album/1nChEFKExn7yTdsvv0OqGN"
+        "name": "Last Waltz",
+        "url": "https://open.spotify.com/album/68ZbbysYxUQsq7smjVaajg"
       },
       "artists": [
         {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
-        },
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
         }
       ],
-      "duration_ms": 165239,
-      "name": "GOOD LIFE (Feat. CAMO)",
-      "url": "https://open.spotify.com/track/2oJ9QoIEUOmJ3SiYoQmAle"
+      "duration_ms": 191866,
+      "name": "Last Waltz",
+      "url": "https://open.spotify.com/track/32Q54GVSCwmiFdkHrtq8tV"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Show Me The Money 10 Episode 1",
+        "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
+      },
+      "artists": [
+        {
+          "name": "Don Mills",
+          "url": "https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn"
+        },
+        {
+          "name": "northfacegawd",
+          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "Khakii",
+          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+        },
+        {
+          "name": "A-chess",
+          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
+        }
+      ],
+      "duration_ms": 284977,
+      "name": "TROUBLE (Prod. Slom)",
+      "url": "https://open.spotify.com/track/5UJTNrW72ZMubW2wKBf8g2"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Love Peace",
+        "url": "https://open.spotify.com/album/3wG0DRACgzpgDIvKH9MPcP"
+      },
+      "artists": [
+        {
+          "name": "Tiger JK",
+          "url": "https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Love Peace",
+      "url": "https://open.spotify.com/track/6qz92hc3MsNjVFVLPAwXsV"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "What If You and Me",
+        "url": "https://open.spotify.com/album/5t1lqqNnC1yhoi1pMZR5LM"
+      },
+      "artists": [
+        {
+          "name": "San E",
+          "url": "https://open.spotify.com/artist/61MMiylth1injW39oZBuYB"
+        },
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "What If You and Me (Feat. Han Dong Geun)",
+      "url": "https://open.spotify.com/track/2ATI0XQ9kWnDuvjF7ZG56Q"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Taxidriver OST Part.5",
+        "url": "https://open.spotify.com/album/48OOn8rhiGD0fAIndTcC5w"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 195187,
+      "name": "RUN AWAY",
+      "url": "https://open.spotify.com/track/54QnwP0o6MPBo4UNTbXrUO"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Cheap talk",
+        "url": "https://open.spotify.com/album/235Q8MzZnlCV7RPLsMTeHJ"
+      },
+      "artists": [
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Cheap talk (Feat. JUSTHIS) (Prod. CODE KUNST)",
+      "url": "https://open.spotify.com/track/31l7az7JT4boi5BjUth78k"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "School Rapper4 - Team Battle:Group",
+        "url": "https://open.spotify.com/album/3u1aK0k7QC2O9PXagG8byK"
+      },
+      "artists": [
+        {
+          "name": "PARKHYUNJIN",
+          "url": "https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ"
+        },
+        {
+          "name": "Lil Bemo",
+          "url": "https://open.spotify.com/artist/0EWqxzOofXr83TfJeA6ARZ"
+        },
+        {
+          "name": "YLN Foreign",
+          "url": "https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl"
+        },
+        {
+          "name": "PLUMA",
+          "url": "https://open.spotify.com/artist/4ZIFmwiUQnjWS2qtEbcH2V"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 241906,
+      "name": "GREEN LIGHT (Feat. Jay Park, pH-1) (Prod. WOOGIE)",
+      "url": "https://open.spotify.com/track/3KxadSAONZRtjuLpyZVZlp"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Love & hate (Feat. BIBI)",
+      "url": "https://open.spotify.com/track/61IDvkbJDswvorhLqcplMW"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "Loop",
+        "url": "https://open.spotify.com/album/13YenPbjzjj83sdaKux9Bf"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 155986,
+      "name": "Loop",
+      "url": "https://open.spotify.com/track/7ATf0yl0YoPO9rTCI3b7fy"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "BEIGE 0.5",
+        "url": "https://open.spotify.com/album/6GJsO34pG8npccTFqeOY0U"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 174026,
+      "name": "Instagrammer Girl",
+      "url": "https://open.spotify.com/track/6viDUDsu6gfpxsDKdsyqdJ"
+    },
+    {
+      "added_at": "2022-01-15 12:08:29",
+      "album": {
+        "name": "GROWTH",
+        "url": "https://open.spotify.com/album/5Qxlt7a2djvLCXT2tD6mG0"
+      },
+      "artists": [
+        {
+          "name": "DKB",
+          "url": "https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Work Hard",
+      "url": "https://open.spotify.com/track/4DSwdZO1sw3etkTI8moYqc"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB"

@@ -6,11 +6,11 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 | 2021-02-10 | 2021-12-29 |
+| [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 | 2021-02-10 |  |
 | [A Case of You](https://open.spotify.com/track/7shVwhUdVbHpykOfbzvDc1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 4:23 | 2021-02-10 | 2022-01-08 |
 | [A Horse with No Name \- 2006 Remaster](https://open.spotify.com/track/0LfiPrJKVVpnkXUcLLMzOo) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [Definitive Pop: America](https://open.spotify.com/album/074qwgdr7Vn4rkqR4O5rK8) | 4:09 | 2021-02-10 | 2022-01-11 |
 | [All Right Now](https://open.spotify.com/track/2QG4doG0oJOlztOZhSOzDY) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Gods of Guitar](https://open.spotify.com/album/2bLDX4i82RTwgUqI2GRL9M) | 3:47 | 2021-02-10 | 2022-01-15 |
-| [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 | 2021-02-10 |  |
+| [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 | 2021-02-10 | 2022-01-16 |
 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 | 2021-02-10 |  |
 | [Annie's Song](https://open.spotify.com/track/0pIrZLoXAuTfnMGjhVNxe3) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The Essential John Denver](https://open.spotify.com/album/6f07FdTqnh4Wj71VqpPgz5) | 3:00 | 2021-02-10 |  |
 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/14nBn3kUcfhDnGyKRUrVHr) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life And Times](https://open.spotify.com/album/1W8lksoNXJHs8RjWsDEdpk) | 3:01 | 2021-02-10 |  |

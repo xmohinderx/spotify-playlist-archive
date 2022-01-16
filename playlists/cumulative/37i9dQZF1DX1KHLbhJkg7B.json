@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 202106,
       "name": "(Sittin' On) The Dock of the Bay",
       "url": "https://open.spotify.com/track/67sIOix8lfDyBEuoeLa1Zn"
@@ -135,7 +135,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 170047,
       "name": "All I Do Is Drive",
       "url": "https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212666,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Anymore",
       "url": "https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 280219,
       "name": "Back in the High Life Again",
       "url": "https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N"
@@ -283,7 +283,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 223746,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
@@ -301,7 +301,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 253120,
       "name": "Big Love",
       "url": "https://open.spotify.com/track/2bBDdsNOksX2mS53aSm6tY"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 233684,
       "name": "Carolina In My Mind",
       "url": "https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih"
@@ -565,7 +565,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 166894,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/5dUIFih8gZDXRz6OHpIpwz"
@@ -583,7 +583,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 141478,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0X1kKB6ZWb8DzlPFKctcE9"
@@ -713,7 +713,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 202988,
       "name": "Drivers License",
       "url": "https://open.spotify.com/track/5kP970YG6XuXHfXZiTW5sk"
@@ -810,6 +810,24 @@
     },
     {
       "album": {
+        "name": "Fishin' in the Dark",
+        "url": "https://open.spotify.com/album/3Ns6oLKSrW8DDVG4FAC2pH"
+      },
+      "artists": [
+        {
+          "name": "Erin Enderlin",
+          "url": "https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235825,
+      "name": "Fishin' in the Dark",
+      "url": "https://open.spotify.com/track/6DV9CGdFzQeF4CIFZ2cFtl"
+    },
+    {
+      "album": {
         "name": "Past The Point Of Rescue",
         "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
       },
@@ -821,7 +839,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 184240,
       "name": "Five O'Clock World",
       "url": "https://open.spotify.com/track/1zO50Yb6j9DaNiGQewJAq7"
@@ -1021,7 +1039,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 322693,
       "name": "Hard To Say I'm Sorry",
       "url": "https://open.spotify.com/track/03DLfg93LxUViViOKPoFXH"
@@ -1039,7 +1057,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 322693,
       "name": "Hard To Say I'm Sorry",
       "url": "https://open.spotify.com/track/3UUIIv6iA4fsLLgo284oN3"
@@ -1487,7 +1505,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 191056,
       "name": "I\u2019m Movin\u2019 On",
       "url": "https://open.spotify.com/track/51WjLctyJeBXjLQNF7D0nu"
@@ -1965,7 +1983,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 228753,
       "name": "Prop Me Up Beside The Jukebox (If I Die)",
       "url": "https://open.spotify.com/track/6h50iRRuK4fpjtOLkWOtAl"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 173426,
       "name": "Six Days On The Road",
       "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
@@ -2323,7 +2341,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 241263,
       "name": "Take Me Back to Tulsa (feat. George Strait and Willie Nelson)",
       "url": "https://open.spotify.com/track/6ggNjeHvyMtEMSe7Es3EUB"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 176440,
       "name": "The Race Is On",
       "url": "https://open.spotify.com/track/3kg4W7OIAVSNTLjXArK0Kn"
@@ -2655,6 +2673,24 @@
       "duration_ms": 206320,
       "name": "We Just Disagree",
       "url": "https://open.spotify.com/track/3xsYZOaajjyJouOEuKIeo7"
+    },
+    {
+      "album": {
+        "name": "What's Your Country Song",
+        "url": "https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Ave",
+          "url": "https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "What's Your Country Song",
+      "url": "https://open.spotify.com/track/5S6Fijz2xGd1YSykH6zHWg"
     },
     {
       "album": {

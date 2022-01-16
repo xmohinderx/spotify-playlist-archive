@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 215509,
       "name": "A.D.H.D",
       "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
@@ -119,7 +119,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 259181,
       "name": "Backyard Boogie",
       "url": "https://open.spotify.com/track/0Bbd5inN2znpGQkxZbqmmU"
@@ -555,7 +555,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 252240,
       "name": "How I Could Just Kill a Man",
       "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
@@ -657,7 +657,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 322226,
       "name": "Indo Smoke",
       "url": "https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK"
@@ -937,10 +937,32 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 250000,
       "name": "Sprinkle Me (feat. Suga-T)",
       "url": "https://open.spotify.com/track/5C0LRpVmi4h5pIwAnujiw0"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
     },
     {
       "album": {
@@ -955,10 +977,28 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 258687,
       "name": "Straight Outta Compton",
       "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
+    },
+    {
+      "album": {
+        "name": "The Best of MC Eiht",
+        "url": "https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB"
+      },
+      "artists": [
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274306,
+      "name": "Straight Up Menace",
+      "url": "https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO"
     },
     {
       "album": {
@@ -973,7 +1013,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 287066,
       "name": "Strap On The Side",
       "url": "https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6"
@@ -991,7 +1031,7 @@
       ],
       "date_added": "2020-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 238800,
       "name": "Summertime In The LBC",
       "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
@@ -1119,7 +1159,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 202720,
       "name": "U and Dat (feat. T. Pain & Kandi Girl)",
       "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m"
@@ -1199,7 +1239,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 265000,
       "name": "Why U Bullshittin'?",
       "url": "https://open.spotify.com/track/3zb1zBmkrPF6VW8RhlSYA1"

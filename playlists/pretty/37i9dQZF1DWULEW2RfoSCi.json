@@ -1,18 +1,18 @@
 {
   "description": "A collection of the hottest soul tracks from the 1970s.",
   "name": "70s Soul Classics",
-  "num_followers": 1181717,
+  "num_followers": 1181764,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4Nzk0MywwMDAwMDAwMGJiYmZhYzI5MmNhNGMyMmExNThmZjg3NjEwNDdmMjRh",
+  "snapshot_id": "MTY0MjI5MzY3MiwwMDAwMDAwMGI5M2UyMWNiMWQ3MDUwYWJhNjVjMmExMzQ3ZmNlMjA1",
   "tracks": [
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Favorites",
-        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 233293,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
+      "duration_ms": 196466,
+      "name": "Mercy Mercy Me (The Ecology)",
+      "url": "https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -91,38 +91,6 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/1tIrtPivfbpXp1Fp9fdhsg"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 196466,
-      "name": "Mercy Mercy Me (The Ecology)",
-      "url": "https://open.spotify.com/track/1dnTzkUEdwm9jrmdpKSfWU"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Gets Next to You",
-        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Tired of Being Alone",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
         "name": "Definitive Soul: Spinners",
         "url": "https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9"
       },
@@ -135,6 +103,22 @@
       "duration_ms": 192760,
       "name": "It's A Shame - Remastered",
       "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Favorites",
+        "url": "https://open.spotify.com/album/43Axle5un9qnVUp113oHzB"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/42PyxnviKRfOa8z39g8aZj"
     },
     {
       "added_at": "2021-07-04 17:33:52",
@@ -195,22 +179,6 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Al Green Is Love",
-        "url": "https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 189306,
-      "name": "L-O-V-E (Love)",
-      "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
         "name": "Signed Sealed And Delivered",
         "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
       },
@@ -223,6 +191,22 @@
       "duration_ms": 200440,
       "name": "We Can Work It Out",
       "url": "https://open.spotify.com/track/6AplSHtiSr0cqimR27ghdV"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Gets Next to You",
+        "url": "https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Tired of Being Alone",
+      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -243,6 +227,22 @@
       "duration_ms": 363973,
       "name": "Don't Leave Me This Way (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
+      },
+      "artists": [
+        {
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -279,22 +279,6 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
         "name": "Signed Sealed And Delivered",
         "url": "https://open.spotify.com/album/4QxPK644Vy4FQrtMF90CMe"
       },
@@ -327,54 +311,6 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Rock Your Baby",
-        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Sky's The Limit",
-        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Just My Imagination (Running Away With Me)",
-      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7saBgtVef7I2AyHzgPZPgw"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Family Affair",
-      "url": "https://open.spotify.com/track/4UuaNEOM3f6yTvjqxLxNVO"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
         "name": "Mr. Big Stuff",
         "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
       },
@@ -387,26 +323,6 @@
       "duration_ms": 164560,
       "name": "Mr. Big Stuff",
       "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2021-07-04 17:33:52",
-      "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 384613,
-      "name": "The Love I Lost (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -427,18 +343,70 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7saBgtVef7I2AyHzgPZPgw"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
+      "duration_ms": 183333,
+      "name": "Family Affair",
+      "url": "https://open.spotify.com/track/4UuaNEOM3f6yTvjqxLxNVO"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Al Green Is Love",
+        "url": "https://open.spotify.com/album/3axrKsJqF9tGAR9Nrez4cK"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 189306,
+      "name": "L-O-V-E (Love)",
+      "url": "https://open.spotify.com/track/49qkJtDdi3KHmENFzleve4"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Sky's The Limit",
+        "url": "https://open.spotify.com/album/1w68QsDEt1Rt5SiwOJNGFn"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Just My Imagination (Running Away With Me)",
+      "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2021-07-04 17:33:52",
+      "album": {
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 384613,
+      "name": "The Love I Lost (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -475,18 +443,18 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/5zPXX4trT1w21DXo1M66lv"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
         }
       ],
-      "duration_ms": 178400,
-      "name": "Love Train",
-      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+      "duration_ms": 199293,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/5bSgarDpObM6V8PJcXo9pz"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -507,18 +475,34 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 290933,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
     },
     {
       "added_at": "2021-07-04 17:33:52",
@@ -555,18 +539,50 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "100 70s",
-        "url": "https://open.spotify.com/album/29XTmgtHnLvO1qUCqr1Sfq"
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
       "artists": [
         {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 276037,
-      "name": "Theme From Shaft",
-      "url": "https://open.spotify.com/track/68vipq4utIVcDqT40CY4E2"
+      "duration_ms": 290933,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 383502,
+      "name": "How Can You Mend a Broken Heart",
+      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Choice Cuts",
+        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
+      },
+      "artists": [
+        {
+          "name": "King Floyd",
+          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
+        }
+      ],
+      "duration_ms": 184466,
+      "name": "Groove Me",
+      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -587,34 +603,18 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+        "name": "100 70s",
+        "url": "https://open.spotify.com/album/29XTmgtHnLvO1qUCqr1Sfq"
       },
       "artists": [
         {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 383502,
-      "name": "How Can You Mend a Broken Heart",
-      "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
-    },
-    {
-      "added_at": "2021-07-04 17:33:52",
-      "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 266200,
-      "name": "You'll Never Find Another Love Like Mine",
-      "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
+      "duration_ms": 276037,
+      "name": "Theme From Shaft",
+      "url": "https://open.spotify.com/track/68vipq4utIVcDqT40CY4E2"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -649,38 +649,6 @@
       "url": "https://open.spotify.com/track/4lzTyLYXb3ED01TSLCJ1Hz"
     },
     {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Supernatural Thing",
-        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Supernatural Thing, Pt. 1",
-      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Choice Cuts",
-        "url": "https://open.spotify.com/album/6omfXjVxM6zIroFzyHjNkY"
-      },
-      "artists": [
-        {
-          "name": "King Floyd",
-          "url": "https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz"
-        }
-      ],
-      "duration_ms": 184466,
-      "name": "Groove Me",
-      "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
-    },
-    {
       "added_at": "2021-07-04 17:33:52",
       "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
@@ -695,6 +663,22 @@
       "duration_ms": 325493,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+    },
+    {
+      "added_at": "2021-07-04 17:33:52",
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 266200,
+      "name": "You'll Never Find Another Love Like Mine",
+      "url": "https://open.spotify.com/track/6OylYIXrIH2E3hgg7Dqz5M"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -731,6 +715,22 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/1BXZQGHBi7vwCqxr6UncIf"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 235653,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/5S6lnVk3sQDN9lKMeSUGrI"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Why Can't We Live Together: The Best Of The TK Years 1972-'81",
-        "url": "https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y"
-      },
-      "artists": [
-        {
-          "name": "Timmy Thomas",
-          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Why Can't We Live Together",
-      "url": "https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv"
     },
     {
       "added_at": "2021-07-04 17:33:52",
@@ -779,34 +763,18 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Music For Groovin'",
-        "url": "https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON"
+        "name": "Why Can't We Live Together: The Best Of The TK Years 1972-'81",
+        "url": "https://open.spotify.com/album/6SVDOGFshodeWxZt1Mz92Y"
       },
       "artists": [
         {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+          "name": "Timmy Thomas",
+          "url": "https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B"
         }
       ],
-      "duration_ms": 225346,
-      "name": "Ain't No Love In The Heart Of The City - Single Version",
-      "url": "https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2"
+      "duration_ms": 289613,
+      "name": "Why Can't We Live Together",
+      "url": "https://open.spotify.com/track/5mBHcJ6yNXyYGLosWkuGqv"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -827,34 +795,34 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Superfly (O.S.T.)",
-        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0oQVEDPo2Of4N59mRyR3VO"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
         }
       ],
-      "duration_ms": 300693,
-      "name": "Pusherman",
-      "url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH"
+      "duration_ms": 251466,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/1wxF8huN8OO1HkiDCEFLR2"
     },
     {
-      "added_at": "2021-07-04 17:33:52",
+      "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+        "name": "On The Loose / Trapped By A Thing Called Love",
+        "url": "https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
         }
       ],
-      "duration_ms": 413066,
-      "name": "I Love Music",
-      "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
+      "duration_ms": 160626,
+      "name": "Trapped By a Thing Called Love",
+      "url": "https://open.spotify.com/track/2f1kaz9iKDa9aHwZMfdbti"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -875,6 +843,102 @@
       "duration_ms": 190440,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Music For Groovin'",
+        "url": "https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 225346,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Superfly (O.S.T.)",
+        "url": "https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 300693,
+      "name": "Pusherman",
+      "url": "https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "James Brown's Funky People",
+        "url": "https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu"
+      },
+      "artists": [
+        {
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/17wXLFsvZVX14x9SntU58w"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "In Philadelphia",
+        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 169706,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
+    },
+    {
+      "added_at": "2021-07-04 17:33:52",
+      "album": {
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 413066,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/222TScMmzaZ0IdkvbLoin2"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "The Very Best of the Stylistics ... And More!",
+        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 329720,
+      "name": "You Make Me Feel Brand New",
+      "url": "https://open.spotify.com/track/1Rr223L47oym6yWVg39CgA"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -931,54 +995,6 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "In Philadelphia",
-        "url": "https://open.spotify.com/album/1PhXZOVQd8gzmFYGHgOase"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 169706,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/79krwDoFzJ6dbNRwceAwgH"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "The Very Best of the Stylistics ... And More!",
-        "url": "https://open.spotify.com/album/3xhdEzIX6oUQu2O0EiwWuk"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 329720,
-      "name": "You Make Me Feel Brand New",
-      "url": "https://open.spotify.com/track/1Rr223L47oym6yWVg39CgA"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "James Brown's Funky People",
-        "url": "https://open.spotify.com/album/5FNifXgW28BA8kHiujO3Iu"
-      },
-      "artists": [
-        {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Think (About It)",
-      "url": "https://open.spotify.com/track/17wXLFsvZVX14x9SntU58w"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
         "name": "Beautiful Brother - The Essential",
         "url": "https://open.spotify.com/album/0oY0JQR52E8uSBBBUr8x8b"
       },
@@ -1009,22 +1025,6 @@
       "url": "https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy"
     },
     {
-      "added_at": "2021-07-04 17:33:52",
-      "album": {
-        "name": "The Essential O'Jays",
-        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Use ta Be My Girl",
-      "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
-    },
-    {
       "added_at": "2021-02-05 08:58:04",
       "album": {
         "name": "Stax Volt Chartbusters Vol 1",
@@ -1039,22 +1039,6 @@
       "duration_ms": 230920,
       "name": "Starting All Over Again",
       "url": "https://open.spotify.com/track/3EN9HHihu5CtBWhcNi7Wa3"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Hello World - The Motown Solo Collection",
-        "url": "https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 204906,
-      "name": "Got To Be There",
-      "url": "https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2021-07-04 17:33:52",
       "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+        "name": "The Essential O'Jays",
+        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
       },
       "artists": [
         {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 226840,
-      "name": "You Know How to Love Me - 7\" Version",
-      "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
+      "duration_ms": 198173,
+      "name": "Use ta Be My Girl",
+      "url": "https://open.spotify.com/track/7AmJATXFg6Mj2grzZXkqq2"
     },
     {
       "added_at": "2021-07-04 17:33:52",
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
+        "name": "Hello World - The Motown Solo Collection",
+        "url": "https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Got To Be There",
+      "url": "https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN"
+    },
+    {
+      "added_at": "2021-07-04 17:33:52",
+      "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "You Know How to Love Me - 7\" Version",
+      "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
         "name": "Funky President...The Very Best Of James Brown Volume 2",
         "url": "https://open.spotify.com/album/6Cxp6n4Zvli2v2SfREorgm"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "On The Loose / Trapped By A Thing Called Love",
-        "url": "https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd"
-      },
-      "artists": [
-        {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Trapped By a Thing Called Love",
-      "url": "https://open.spotify.com/track/2f1kaz9iKDa9aHwZMfdbti"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
         "name": "The Very Best Of The Dramatics",
         "url": "https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2021-02-05 08:58:04",
-      "album": {
-        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
-        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
-      },
-      "artists": [
-        {
-          "name": "Rufus Thomas",
-          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
-        }
-      ],
-      "duration_ms": 198439,
-      "name": "(Do The) Push And Pull - Pt. 1",
-      "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -1191,22 +1175,18 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "70's Funk Classics",
-        "url": "https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc"
+        "name": "Funkiest Man Alive: The Stax Funk Sessions 1967-1975",
+        "url": "https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "The J.B.'s",
-          "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
         }
       ],
-      "duration_ms": 198173,
-      "name": "Make It Funky - Pt. 1",
-      "url": "https://open.spotify.com/track/3pNfCtcbhWwa6TouKcMTGp"
+      "duration_ms": 198439,
+      "name": "(Do The) Push And Pull - Pt. 1",
+      "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
     },
     {
       "added_at": "2021-02-05 08:58:04",
@@ -1243,18 +1223,22 @@
     {
       "added_at": "2021-02-05 08:58:04",
       "album": {
-        "name": "Chronicle: The 20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
+        "name": "70's Funk Classics",
+        "url": "https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc"
       },
       "artists": [
         {
-          "name": "Johnnie Taylor",
-          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "The J.B.'s",
+          "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
         }
       ],
-      "duration_ms": 180466,
-      "name": "Jody's Got Your Girl And Gone",
-      "url": "https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97"
+      "duration_ms": 198173,
+      "name": "Make It Funky - Pt. 1",
+      "url": "https://open.spotify.com/track/3pNfCtcbhWwa6TouKcMTGp"
     },
     {
       "added_at": "2021-07-04 17:33:52",
@@ -1271,6 +1255,22 @@
       "duration_ms": 178746,
       "name": "When Will I See You Again",
       "url": "https://open.spotify.com/track/02srSkeu2pzybuVr2B9TJm"
+    },
+    {
+      "added_at": "2021-02-05 08:58:04",
+      "album": {
+        "name": "Chronicle: The 20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Taylor",
+          "url": "https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Jody's Got Your Girl And Gone",
+      "url": "https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97"
     },
     {
       "added_at": "2021-02-05 08:58:04",

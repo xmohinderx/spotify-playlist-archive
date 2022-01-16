@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Morgan Wade
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,966 likes - 118 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,980 likes - 118 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

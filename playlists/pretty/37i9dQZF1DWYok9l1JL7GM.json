@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Rick Ross",
   "name": "I Love My Down South Classics",
-  "num_followers": 273709,
+  "num_followers": 273737,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODA1MSwwMDAwMDAwMDgzMmUxYjcxYmQ0MDdjNzc5MWYzMjc0ZGI2MjJjNzIw",
+  "snapshot_id": "MTY0MjI5Mzc4MSwwMDAwMDAwMDU3NWI1MjQ1MTA1OTljNjllYzBjNzI3NGE1MzNkYWMw",
   "tracks": [
     {
       "added_at": "2021-03-09 17:58:10",
@@ -123,6 +123,22 @@
     {
       "added_at": "2021-03-09 17:58:10",
       "album": {
+        "name": "The State vs. Radric Davis (Deluxe)",
+        "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 246013,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
         "name": "Crime Mob",
         "url": "https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU"
       },
@@ -141,38 +157,6 @@
       "url": "https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT"
     },
     {
-      "added_at": "2021-04-02 23:45:41",
-      "album": {
-        "name": "Trill",
-        "url": "https://open.spotify.com/album/5wLh7wfNzSjV0hEtVTwNUw"
-      },
-      "artists": [
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 233840,
-      "name": "Get Throwed",
-      "url": "https://open.spotify.com/track/1BLz7nBzRElSPfg3ndJkHz"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Tha Carter II",
-        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 303666,
-      "name": "Hustler Musik",
-      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
-    },
-    {
       "added_at": "2021-03-09 17:58:10",
       "album": {
         "name": "Hood Rich",
@@ -187,42 +171,6 @@
       "duration_ms": 335613,
       "name": "Still Fly",
       "url": "https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Flockaveli",
-        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
-      },
-      "artists": [
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        },
-        {
-          "name": "Kebo Gotti",
-          "url": "https://open.spotify.com/artist/00UOluVoYY4F2blO5DmgRj"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "Grove St. Party (feat. Kebo Gotti)",
-      "url": "https://open.spotify.com/track/2e9EZ2V5QGGZPMJacO3y0Y"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "The State vs. Radric Davis (Deluxe)",
-        "url": "https://open.spotify.com/album/0VeraxKSlJGusnOHYGOtWq"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 246013,
-      "name": "Lemonade",
-      "url": "https://open.spotify.com/track/6rUcS9i07F6okIe8wujs5J"
     },
     {
       "added_at": "2020-08-07 19:59:41",
@@ -243,154 +191,18 @@
     {
       "added_at": "2021-08-27 04:00:00",
       "album": {
-        "name": "Like Father Like Son",
-        "url": "https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp"
+        "name": "Tha Carter II",
+        "url": "https://open.spotify.com/album/7slHgsEMuJfnuft5LAPyw6"
       },
       "artists": [
-        {
-          "name": "Birdman",
-          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
-        },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 267293,
-      "name": "Stuntin' Like My Daddy - Street",
-      "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "AttenCHUN!",
-        "url": "https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi"
-      },
-      "artists": [
-        {
-          "name": "Bone Crusher",
-          "url": "https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa"
-        },
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 316133,
-      "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
-      "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
-    },
-    {
-      "added_at": "2020-08-07 19:59:41",
-      "album": {
-        "name": "The People's Champ",
-        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Big Pokey",
-          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
-        }
-      ],
-      "duration_ms": 228933,
-      "name": "Sittin' Sidewayz (feat. Big Pokey)",
-      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Rich Boy",
-        "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
-      },
-      "artists": [
-        {
-          "name": "Rich Boy",
-          "url": "https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut"
-        },
-        {
-          "name": "Polow Da Don",
-          "url": "https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Throw Some D's",
-      "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Jamboree",
-        "url": "https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp"
-      },
-      "artists": [
-        {
-          "name": "F.L.Y. (Fast Life Yungstaz)",
-          "url": "https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr"
-        }
-      ],
-      "duration_ms": 249920,
-      "name": "Swag Surfin'",
-      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Straight Outta Cashville",
-        "url": "https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ"
-      },
-      "artists": [
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        }
-      ],
-      "duration_ms": 261320,
-      "name": "Shorty Wanna Ride",
-      "url": "https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "The Crunk Recordings: Hits From The Pioneers And Players Of Crunk",
-        "url": "https://open.spotify.com/album/1OaIwAuOiwujt7mlst3CAR"
-      },
-      "artists": [
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        }
-      ],
-      "duration_ms": 214213,
-      "name": "No Problem",
-      "url": "https://open.spotify.com/track/0EgigrGFGb4PHaVNb7fgK7"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Most Known Unknown (New Package-Explicit)",
-        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
-        }
-      ],
-      "duration_ms": 176880,
-      "name": "Poppin' My Collar (feat. Project Pat)",
-      "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
+      "duration_ms": 303666,
+      "name": "Hustler Musik",
+      "url": "https://open.spotify.com/track/2334WaCjswLcRIRgTTPWaZ"
     },
     {
       "added_at": "2021-04-02 23:45:41",
@@ -433,6 +245,58 @@
       "url": "https://open.spotify.com/track/1KLhUURHRl72xGO5A94lme"
     },
     {
+      "added_at": "2021-04-02 23:45:41",
+      "album": {
+        "name": "Trill",
+        "url": "https://open.spotify.com/album/5wLh7wfNzSjV0hEtVTwNUw"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "duration_ms": 233840,
+      "name": "Get Throwed",
+      "url": "https://open.spotify.com/track/1BLz7nBzRElSPfg3ndJkHz"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
+        "name": "Flockaveli",
+        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Kebo Gotti",
+          "url": "https://open.spotify.com/artist/00UOluVoYY4F2blO5DmgRj"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "Grove St. Party (feat. Kebo Gotti)",
+      "url": "https://open.spotify.com/track/2e9EZ2V5QGGZPMJacO3y0Y"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Straight Outta Cashville",
+        "url": "https://open.spotify.com/album/1E5TJXITJtczbSYmYR9LuQ"
+      },
+      "artists": [
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        }
+      ],
+      "duration_ms": 261320,
+      "name": "Shorty Wanna Ride",
+      "url": "https://open.spotify.com/track/6Y9kdB2O0h9gq9y2vclsWT"
+    },
+    {
       "added_at": "2021-03-29 20:26:00",
       "album": {
         "name": "King",
@@ -449,152 +313,44 @@
       "url": "https://open.spotify.com/track/4LE8fR53Pjd6xmHBUlxArg"
     },
     {
-      "added_at": "2021-08-27 04:00:00",
+      "added_at": "2020-08-07 19:59:41",
       "album": {
-        "name": "The King Of Crunk & BME Recordings Present: Welcome to Trillville USA",
-        "url": "https://open.spotify.com/album/2fDTnW5KAZZvuuguWrECbu"
+        "name": "The People's Champ",
+        "url": "https://open.spotify.com/album/4LfEslRqPOv2ZOrW6KhhWr"
       },
       "artists": [
         {
-          "name": "Trillville",
-          "url": "https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY"
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
         },
         {
-          "name": "Cutty",
-          "url": "https://open.spotify.com/artist/3jhkLfgJKRu9Lb0AQd7fkB"
+          "name": "Big Pokey",
+          "url": "https://open.spotify.com/artist/1J6iGa2TNBDCrJzjsnI1a8"
         }
       ],
-      "duration_ms": 283386,
-      "name": "Some Cut (feat. Cutty)",
-      "url": "https://open.spotify.com/track/07u02f6biDHx5VexfAs41b"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Face Off",
-        "url": "https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU"
-      },
-      "artists": [
-        {
-          "name": "Pastor Troy",
-          "url": "https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY"
-        }
-      ],
-      "duration_ms": 263440,
-      "name": "Vica Versa",
-      "url": "https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr"
+      "duration_ms": 228933,
+      "name": "Sittin' Sidewayz (feat. Big Pokey)",
+      "url": "https://open.spotify.com/track/24PWKmemCvqfyVXODhoKHW"
     },
     {
       "added_at": "2021-08-27 04:00:00",
       "album": {
-        "name": "Juve The Great",
-        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
+        "name": "Like Father Like Son",
+        "url": "https://open.spotify.com/album/3DLSu5fxSIaG7Ph8G5YVBp"
       },
       "artists": [
         {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
         },
         {
-          "name": "Soulja Slim",
-          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 248200,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "U Gotta Feel Me",
-        "url": "https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5"
-      },
-      "artists": [
-        {
-          "name": "Lil' Flip",
-          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
-        }
-      ],
-      "duration_ms": 232466,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/79lmvU7Qmc8QpXilbSk37z"
-    },
-    {
-      "added_at": "2021-04-02 23:45:41",
-      "album": {
-        "name": "The Chronicles, Vol. 1 (10th Year Anniversary Edition) ['98-'08]",
-        "url": "https://open.spotify.com/album/3pNSTBg8qEoJIRgjKxccYt"
-      },
-      "artists": [
-        {
-          "name": "Lil Keke",
-          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
-        },
-        {
-          "name": "UGK",
-          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
-        }
-      ],
-      "duration_ms": 299746,
-      "name": "Chunk up the Deuce",
-      "url": "https://open.spotify.com/track/7y5A3Ge2GixgSTwCU6fu5p"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Most Known Unknown (Explicit)",
-        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
-      },
-      "artists": [
-        {
-          "name": "Three 6 Mafia",
-          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stay Fly",
-      "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 274333,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Flockaveli",
-        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
-      },
-      "artists": [
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        },
-        {
-          "name": "Roscoe Dash",
-          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 263773,
-      "name": "No Hands (feat. Roscoe Dash & Wale)",
-      "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
+      "duration_ms": 267293,
+      "name": "Stuntin' Like My Daddy - Street",
+      "url": "https://open.spotify.com/track/3rMyMv8EjKXoPnaRo2hdJN"
     },
     {
       "added_at": "2021-04-02 23:45:41",
@@ -611,6 +367,26 @@
       "duration_ms": 254093,
       "name": "Hustlin'",
       "url": "https://open.spotify.com/track/3hQCHzkE5oSA3F1xM8bpcM"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
+        "name": "Most Known Unknown (New Package-Explicit)",
+        "url": "https://open.spotify.com/album/0Pe9KCcaFK7CkeZPWXCuaB"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "duration_ms": 176880,
+      "name": "Poppin' My Collar (feat. Project Pat)",
+      "url": "https://open.spotify.com/track/5zd9TgduWbfFXwgnm3K3Rz"
     },
     {
       "added_at": "2021-03-09 17:58:10",
@@ -631,6 +407,50 @@
       "duration_ms": 241840,
       "name": "It's Goin' Down (feat. Nitti)",
       "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Rich Boy",
+        "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
+      },
+      "artists": [
+        {
+          "name": "Rich Boy",
+          "url": "https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut"
+        },
+        {
+          "name": "Polow Da Don",
+          "url": "https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Throw Some D's",
+      "url": "https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "AttenCHUN!",
+        "url": "https://open.spotify.com/album/1tHNA1zsv6EKLHAR1idmAi"
+      },
+      "artists": [
+        {
+          "name": "Bone Crusher",
+          "url": "https://open.spotify.com/artist/6cwlhbT6PnscdmUYCLUJsa"
+        },
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 316133,
+      "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
+      "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
     },
     {
       "added_at": "2021-03-09 17:58:10",
@@ -675,38 +495,122 @@
     {
       "added_at": "2021-03-09 17:58:10",
       "album": {
-        "name": "Instructions (Explicit Version)",
-        "url": "https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht"
+        "name": "Most Known Unknown (Explicit)",
+        "url": "https://open.spotify.com/album/0kTLdP4XPeJGsbr2L8ikyF"
       },
       "artists": [
         {
-          "name": "Jermaine Dupri",
-          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
         }
       ],
-      "duration_ms": 200840,
-      "name": "Welcome to Atlanta (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh"
+      "duration_ms": 236600,
+      "name": "Stay Fly",
+      "url": "https://open.spotify.com/track/5MYFw4T2gy52pOGBN4EYHS"
     },
     {
       "added_at": "2021-03-09 17:58:10",
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+        "name": "The Crunk Recordings: Hits From The Pioneers And Players Of Crunk",
+        "url": "https://open.spotify.com/album/1OaIwAuOiwujt7mlst3CAR"
       },
       "artists": [
         {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Lil Scrappy",
+          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
         }
       ],
-      "duration_ms": 221840,
-      "name": "A Milli",
-      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+      "duration_ms": 214213,
+      "name": "No Problem",
+      "url": "https://open.spotify.com/track/0EgigrGFGb4PHaVNb7fgK7"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
+        "name": "Flockaveli",
+        "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
+      },
+      "artists": [
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        },
+        {
+          "name": "Roscoe Dash",
+          "url": "https://open.spotify.com/artist/0bfX8pF8kuHNCs57Ms4jZb"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "duration_ms": 263773,
+      "name": "No Hands (feat. Roscoe Dash & Wale)",
+      "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Jamboree",
+        "url": "https://open.spotify.com/album/6mAgb1P4TuigEweUCJqrhp"
+      },
+      "artists": [
+        {
+          "name": "F.L.Y. (Fast Life Yungstaz)",
+          "url": "https://open.spotify.com/artist/0zOuQuYGGcrtDYYy3YFDMr"
+        }
+      ],
+      "duration_ms": 249920,
+      "name": "Swag Surfin'",
+      "url": "https://open.spotify.com/track/5ItzU5pBrFmRUudfr5RkJP"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 274333,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
+        "name": "U Gotta Feel Me",
+        "url": "https://open.spotify.com/album/548NoYLgqSBDTNIYvlpDu5"
+      },
+      "artists": [
+        {
+          "name": "Lil' Flip",
+          "url": "https://open.spotify.com/artist/4Q5sPmM8j4SpMqL4UA1DtS"
+        }
+      ],
+      "duration_ms": 232466,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/79lmvU7Qmc8QpXilbSk37z"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Face Off",
+        "url": "https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU"
+      },
+      "artists": [
+        {
+          "name": "Pastor Troy",
+          "url": "https://open.spotify.com/artist/3D04N2X2w6vUGeyG94FBaY"
+        }
+      ],
+      "duration_ms": 263440,
+      "name": "Vica Versa",
+      "url": "https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr"
     },
     {
       "added_at": "2021-03-09 17:58:10",
@@ -725,6 +629,26 @@
       "url": "https://open.spotify.com/track/6TQANhh0iV17xMeExcH6qj"
     },
     {
+      "added_at": "2021-04-02 23:45:41",
+      "album": {
+        "name": "The Chronicles, Vol. 1 (10th Year Anniversary Edition) ['98-'08]",
+        "url": "https://open.spotify.com/album/3pNSTBg8qEoJIRgjKxccYt"
+      },
+      "artists": [
+        {
+          "name": "Lil Keke",
+          "url": "https://open.spotify.com/artist/1grI9x4Uzos1Asx8JmRW6T"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "duration_ms": 299746,
+      "name": "Chunk up the Deuce",
+      "url": "https://open.spotify.com/track/7y5A3Ge2GixgSTwCU6fu5p"
+    },
+    {
       "added_at": "2021-03-09 17:58:10",
       "album": {
         "name": "Against Da Grain",
@@ -739,6 +663,26 @@
       "duration_ms": 269693,
       "name": "85/Billy Dee Interlude",
       "url": "https://open.spotify.com/track/1eYyfFDQJGRhQ55jlbtqrG"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Instructions (Explicit Version)",
+        "url": "https://open.spotify.com/album/3ssplToLM7k3pX7wCyMSht"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Welcome to Atlanta (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/19VTqucnxJuH6kilNdweTh"
     },
     {
       "added_at": "2021-04-02 23:45:41",
@@ -759,6 +703,82 @@
     {
       "added_at": "2021-08-27 04:00:00",
       "album": {
+        "name": "Juve The Great",
+        "url": "https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Soulja Slim",
+          "url": "https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd"
+        }
+      ],
+      "duration_ms": 248200,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX"
+    },
+    {
+      "added_at": "2021-04-02 23:45:41",
+      "album": {
+        "name": "Savage Life 2 (Explicit Version)",
+        "url": "https://open.spotify.com/album/06J105KDZyAjOjca0RToRL"
+      },
+      "artists": [
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Lil Phat",
+          "url": "https://open.spotify.com/artist/3QnIBUOS4mUzs67rZ8r4c9"
+        }
+      ],
+      "duration_ms": 250026,
+      "name": "Independent (feat. Lil' Boosie and Lil' Phat)",
+      "url": "https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
+        "name": "Living Legends",
+        "url": "https://open.spotify.com/album/3CErIwttlfxoNd2cQhmBwW"
+      },
+      "artists": [
+        {
+          "name": "8Ball & MJG",
+          "url": "https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq"
+        }
+      ],
+      "duration_ms": 273973,
+      "name": "You Don't Want Drama",
+      "url": "https://open.spotify.com/track/48F4fY1pKOTWN1H8q99dJE"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "A Milli",
+      "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
         "name": "The Untouchable",
         "url": "https://open.spotify.com/album/0yEbGVnKvWj4B85rzExJmF"
       },
@@ -771,6 +791,22 @@
       "duration_ms": 300693,
       "name": "Smile",
       "url": "https://open.spotify.com/track/6wvfISRCQBOEpIvhX6UsDj"
+    },
+    {
+      "added_at": "2021-08-27 04:00:00",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "ATLiens",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
       "added_at": "2021-04-02 23:45:41",
@@ -815,138 +851,26 @@
     {
       "added_at": "2021-08-27 04:00:00",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+        "name": "I Got That Work",
+        "url": "https://open.spotify.com/album/7pe02mW4PQwNJkrmSup7bu"
       },
       "artists": [
         {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Best Thang Smokin' (Explicit Version)",
-        "url": "https://open.spotify.com/album/4UZzO6rBo6wjM2zfuRgd3r"
-      },
-      "artists": [
-        {
-          "name": "Young Dro",
-          "url": "https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI"
+          "name": "Big Tymers",
+          "url": "https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR"
         },
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 258680,
-      "name": "Shoulder Lean (feat. T.I.)",
-      "url": "https://open.spotify.com/track/2OqYarizUUGzSSNHPrDEii"
-    },
-    {
-      "added_at": "2021-04-02 23:45:41",
-      "album": {
-        "name": "Savage Life 2 (Explicit Version)",
-        "url": "https://open.spotify.com/album/06J105KDZyAjOjca0RToRL"
-      },
-      "artists": [
-        {
-          "name": "Webbie",
-          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
         },
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "Lil Phat",
-          "url": "https://open.spotify.com/artist/3QnIBUOS4mUzs67rZ8r4c9"
-        }
-      ],
-      "duration_ms": 250026,
-      "name": "Independent (feat. Lil' Boosie and Lil' Phat)",
-      "url": "https://open.spotify.com/track/65D95SmygxGCQGiI64eaZf"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Living Legends",
-        "url": "https://open.spotify.com/album/3CErIwttlfxoNd2cQhmBwW"
-      },
-      "artists": [
-        {
-          "name": "8Ball & MJG",
-          "url": "https://open.spotify.com/artist/7iUhmKPNkkPPS6FCQxqtNq"
-        }
-      ],
-      "duration_ms": 273973,
-      "name": "You Don't Want Drama",
-      "url": "https://open.spotify.com/track/48F4fY1pKOTWN1H8q99dJE"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Bred 2 Die Born 2 Live (Explicit Version)",
-        "url": "https://open.spotify.com/album/3pdW7R9HvpOwSAm9lAeIOZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Scrappy",
-          "url": "https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB"
-        },
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        }
-      ],
-      "duration_ms": 233706,
-      "name": "Money in the Bank (feat. Young Buck) - Remix",
-      "url": "https://open.spotify.com/track/6YTp4sUEi3oWNToQvOjke6"
-    },
-    {
-      "added_at": "2021-08-27 04:00:00",
-      "album": {
-        "name": "Tha Carter IV (Deluxe)",
-        "url": "https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ"
-      },
-      "artists": [
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
         }
       ],
-      "duration_ms": 286973,
-      "name": "John",
-      "url": "https://open.spotify.com/track/7HaggpJGAfEgH8wyMLOIPl"
-    },
-    {
-      "added_at": "2021-03-09 17:58:10",
-      "album": {
-        "name": "Ice Cream Man",
-        "url": "https://open.spotify.com/album/4nMQfmCvZ4qG8FDHrIuMsL"
-      },
-      "artists": [
-        {
-          "name": "Master P",
-          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
-        },
-        {
-          "name": "Mia X",
-          "url": "https://open.spotify.com/artist/2d9xPZQzgCr6ObcDkUmjLu"
-        }
-      ],
-      "duration_ms": 308973,
-      "name": "Bout It, Bout It II",
-      "url": "https://open.spotify.com/track/2ohf5urBpT8bieYr8kq3kt"
+      "duration_ms": 281960,
+      "name": "#1 Stunna",
+      "url": "https://open.spotify.com/track/7kBdenpTmgWfAz9clmBcok"
     },
     {
       "added_at": "2021-04-02 23:45:41",
@@ -967,6 +891,82 @@
       "duration_ms": 216000,
       "name": "So What",
       "url": "https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Welcome to Trillville Usa",
+        "url": "https://open.spotify.com/album/6MoHMr6HCVjzVWvd2GkUK6"
+      },
+      "artists": [
+        {
+          "name": "Trillville",
+          "url": "https://open.spotify.com/artist/3jahzTuztFVegfKXChatkY"
+        }
+      ],
+      "duration_ms": 283454,
+      "name": "Some Cut",
+      "url": "https://open.spotify.com/track/3VXDc9f8J96uBnAAeFrrmw"
+    },
+    {
+      "added_at": "2021-04-02 23:45:41",
+      "album": {
+        "name": "The Otha Side of the Trap",
+        "url": "https://open.spotify.com/album/73uzDr68dMgYY76VfJsBi6"
+      },
+      "artists": [
+        {
+          "name": "OJ Da Juiceman",
+          "url": "https://open.spotify.com/artist/0t5qZrvVCo9YIUT87SQrTn"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 258746,
+      "name": "Make tha Trap Say Aye (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/5fst2COuMGJQ7PzSRYGVj5"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Drankin' Patnaz",
+        "url": "https://open.spotify.com/album/6Cq4aFoLu1OKc1XNZYdBnp"
+      },
+      "artists": [
+        {
+          "name": "Youngbloodz",
+          "url": "https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 298600,
+      "name": "Damn! (feat. Lil' Jon) - Club Mix",
+      "url": "https://open.spotify.com/track/5TpaWJKnuyA4MjzAbFXSTQ"
+    },
+    {
+      "added_at": "2021-03-09 17:58:10",
+      "album": {
+        "name": "Teflon Don",
+        "url": "https://open.spotify.com/album/0jipZxGtkTDHjVerLkzO80"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 250306,
+      "name": "B.M.F. (Blowin' Money Fast)",
+      "url": "https://open.spotify.com/track/35QGdv6aFbIaLM0Ozr3rHt"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYok9l1JL7GM"

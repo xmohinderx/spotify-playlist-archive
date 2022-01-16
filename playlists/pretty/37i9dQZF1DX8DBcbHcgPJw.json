@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Migrantes & Nico Valdi.",
   "name": "Dame M\u00e1s Cumbia",
-  "num_followers": 1115654,
+  "num_followers": 1115690,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODI5OCwwMDAwMDAwMDJlYWUzZWYzOTQzMThmNzY1Yjg1OWY1NzQ1YTUwYmY0",
+  "snapshot_id": "MTY0MjI5NDAzMCwwMDAwMDAwMDVlYzllZGZhYjIzYjhhYzMyZWQ2NDk3YjYyNzEwNDdh",
   "tracks": [
     {
       "added_at": "2022-01-14 14:12:26",
@@ -199,18 +199,22 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Sigo Por El Objetivo",
-        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
+        "name": "Todo Comenz\u00f3 Bailando",
+        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Deja De Llorar",
-      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
+      "duration_ms": 178291,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -251,38 +255,38 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Todo Comenz\u00f3 Bailando",
-        "url": "https://open.spotify.com/album/0yLhNN1wvArT1xOU9Y8s4S"
+        "name": "Sigo Por El Objetivo",
+        "url": "https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx"
       },
       "artists": [
         {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
         }
       ],
-      "duration_ms": 178291,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/0gzcET27nREY6aD8LJU9wD"
+      "duration_ms": 146240,
+      "name": "Deja De Llorar",
+      "url": "https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "Lo Intentamos (feat. Grupo Play)",
+        "url": "https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Los Bonnitos",
+          "url": "https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH"
+        },
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+      "duration_ms": 192000,
+      "name": "Lo Intentamos (feat. Grupo Play)",
+      "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -303,6 +307,62 @@
       "duration_ms": 94516,
       "name": "Ella Ya Me Olvido - Emus Dj Remix",
       "url": "https://open.spotify.com/track/1OK4XJucScrapfBlhFRQNU"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Chau",
+        "url": "https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 145516,
+      "name": "Chau",
+      "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "No Quiero Verte",
+        "url": "https://open.spotify.com/album/0rdRii7ibKqtqouzPva4qP"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        }
+      ],
+      "duration_ms": 136595,
+      "name": "No Quiero Verte",
+      "url": "https://open.spotify.com/track/5cOL5XhkyhzWbSgSVgRYFc"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -343,22 +403,54 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Lo Intentamos (feat. Grupo Play)",
-        "url": "https://open.spotify.com/album/3JfEpmUsapYmTveLcrD96x"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "Los Bonnitos",
-          "url": "https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH"
-        },
-        {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Lo Intentamos (feat. Grupo Play)",
-      "url": "https://open.spotify.com/track/3tkOtUYwVBLXtDej4HZrOr"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Lado Triste",
+        "url": "https://open.spotify.com/album/5xgKeK4IP6nWtuRplKAIJu"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 176700,
+      "name": "Lado Triste",
+      "url": "https://open.spotify.com/track/1FQXmIbaEfpIc0RaaXo6sN"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Llamame Mas Temprano / Hicimos un Pacto - Single",
+        "url": "https://open.spotify.com/album/7rTpfdX5EFZWlWxMyeAhKY"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 185438,
+      "name": "Llamame Mas Temprano",
+      "url": "https://open.spotify.com/track/5aHJug2wnupoGfgfxRudsk"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -407,58 +499,22 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Llamame Mas Temprano / Hicimos un Pacto - Single",
-        "url": "https://open.spotify.com/album/7rTpfdX5EFZWlWxMyeAhKY"
+        "name": "La Sensaci\u00f3n del Bloque",
+        "url": "https://open.spotify.com/album/3I5AkiyrtP9nGRCiLDXfB3"
       },
       "artists": [
         {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 185438,
-      "name": "Llamame Mas Temprano",
-      "url": "https://open.spotify.com/track/5aHJug2wnupoGfgfxRudsk"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Lado Triste",
-        "url": "https://open.spotify.com/album/5xgKeK4IP6nWtuRplKAIJu"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         },
         {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+          "name": "El Rodri",
+          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
         }
       ],
-      "duration_ms": 176700,
-      "name": "Lado Triste",
-      "url": "https://open.spotify.com/track/1FQXmIbaEfpIc0RaaXo6sN"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "No Quiero Verte",
-        "url": "https://open.spotify.com/album/0rdRii7ibKqtqouzPva4qP"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        }
-      ],
-      "duration_ms": 136595,
-      "name": "No Quiero Verte",
-      "url": "https://open.spotify.com/track/5cOL5XhkyhzWbSgSVgRYFc"
+      "duration_ms": 187959,
+      "name": "La Sensaci\u00f3n del Bloque",
+      "url": "https://open.spotify.com/track/2lYRFlKo2J8qZxzU87h82s"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -475,58 +531,6 @@
       "duration_ms": 185453,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
-      },
-      "artists": [
-        {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
-        }
-      ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Chau",
-        "url": "https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 145516,
-      "name": "Chau",
-      "url": "https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -555,6 +559,38 @@
       "duration_ms": 162461,
       "name": "Hoy Volvi a Verte - Remix",
       "url": "https://open.spotify.com/track/2gVLS6iytvUkniuou1HyXx"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 126615,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
+        "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
+      },
+      "artists": [
+        {
+          "name": "Marito",
+          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
+        }
+      ],
+      "duration_ms": 241461,
+      "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
+      "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -591,66 +627,18 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "B\u00e9same (Remix)",
-        "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
+        "name": "Si Me Llamas",
+        "url": "https://open.spotify.com/album/25fWCLsrLsPJxLtI3zjbVl"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
         }
       ],
-      "duration_ms": 189510,
-      "name": "B\u00e9same - Remix",
-      "url": "https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Sigue Bailando",
-        "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
-      },
-      "artists": [
-        {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 159980,
-      "name": "Sigue Bailando",
-      "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Culpable o No",
-        "url": "https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 137554,
-      "name": "Culpable o No",
-      "url": "https://open.spotify.com/track/0PNkST00gopYa35OLKfju2"
+      "duration_ms": 208800,
+      "name": "Si Me Llamas",
+      "url": "https://open.spotify.com/track/3UxHUMMCUX9Stf7WuKwtK2"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -675,198 +663,6 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Nunca M\u00e1s",
-        "url": "https://open.spotify.com/album/0coT0YcbnvrGrQp9JvplFj"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 129410,
-      "name": "Nunca M\u00e1s",
-      "url": "https://open.spotify.com/track/636uUKyY6Uq7PdsFO3FECC"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Messirve Mix 3",
-        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
-      },
-      "artists": [
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 447529,
-      "name": "Messirve Mix 3",
-      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
-        }
-      ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Sin mirar Atr\u00e1s",
-        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234626,
-      "name": "M\u00e1rchate ahora",
-      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
-        "url": "https://open.spotify.com/album/1RF1yDuugqziyC35DSJpg5"
-      },
-      "artists": [
-        {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
-        }
-      ],
-      "duration_ms": 241461,
-      "name": "Tu Estas Dura Sin Ir al Gym (Fiel)",
-      "url": "https://open.spotify.com/track/0BExZoLgurIrhxMszxNEft"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "No Bailo Pa Ti",
-        "url": "https://open.spotify.com/album/6VBqm98KdFteyqI3IwSfRi"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 171816,
-      "name": "No Bailo Pa Ti",
-      "url": "https://open.spotify.com/track/6pveQFGqbuSqV26wR6E8Gr"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/6xecqU57d7M9W2fs2lWJqW"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        }
-      ],
-      "duration_ms": 126615,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/0bbjLBbtPKNVnj27EB8PWf"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "La Sensaci\u00f3n del Bloque",
-        "url": "https://open.spotify.com/album/3I5AkiyrtP9nGRCiLDXfB3"
-      },
-      "artists": [
-        {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
-        },
-        {
-          "name": "El Rodri",
-          "url": "https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm"
-        }
-      ],
-      "duration_ms": 187959,
-      "name": "La Sensaci\u00f3n del Bloque",
-      "url": "https://open.spotify.com/track/2lYRFlKo2J8qZxzU87h82s"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "2 Pa' 2",
-        "url": "https://open.spotify.com/album/6Mp4YC9YfYpNzKSUgd7BQs"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 182577,
-      "name": "2 Pa' 2",
-      "url": "https://open.spotify.com/track/1Vd3YqV8DYS1U3rsJads3H"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "El Equivocado",
-        "url": "https://open.spotify.com/album/3LHzk7liRBPmmpvzTE5h8p"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/5vy1C7DD9xJ5fRB3KqV6Kq"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -887,90 +683,50 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Mal de Amores",
-        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Mal de Amores",
-      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "El Manual",
-        "url": "https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw"
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 128567,
-      "name": "El Manual",
-      "url": "https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U"
+      "duration_ms": 177786,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+        "name": "Culpable o No",
+        "url": "https://open.spotify.com/album/7cpSPJeI3YMC56xp7lsz19"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 176864,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Que Lloro",
-        "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
-      },
-      "artists": [
-        {
-          "name": "Zona Cumbia",
-          "url": "https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Que Lloro",
-      "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Lo Intentamos",
-        "url": "https://open.spotify.com/album/5u9w3PGTEyH9t7S62oIPhw"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/4Kzk0koKwzCMiIx4rAqCZp"
+      "duration_ms": 137554,
+      "name": "Culpable o No",
+      "url": "https://open.spotify.com/track/0PNkST00gopYa35OLKfju2"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -999,34 +755,94 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Si Me Llamas",
-        "url": "https://open.spotify.com/album/25fWCLsrLsPJxLtI3zjbVl"
+        "name": "Messirve Mix 3",
+        "url": "https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH"
       },
       "artists": [
         {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Si Me Llamas",
-      "url": "https://open.spotify.com/track/3UxHUMMCUX9Stf7WuKwtK2"
+      "duration_ms": 447529,
+      "name": "Messirve Mix 3",
+      "url": "https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Me Voy",
-        "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
+        "name": "No Bailo Pa Ti",
+        "url": "https://open.spotify.com/album/6VBqm98KdFteyqI3IwSfRi"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
         }
       ],
-      "duration_ms": 177786,
-      "name": "Me Voy",
-      "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+      "duration_ms": 171816,
+      "name": "No Bailo Pa Ti",
+      "url": "https://open.spotify.com/track/6pveQFGqbuSqV26wR6E8Gr"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        }
+      ],
+      "duration_ms": 176864,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "El Equivocado",
+        "url": "https://open.spotify.com/album/3LHzk7liRBPmmpvzTE5h8p"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/5vy1C7DD9xJ5fRB3KqV6Kq"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1047,22 +863,82 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Coraz\u00f3n de Cemento",
-        "url": "https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY"
+        "name": "B\u00e9same (Remix)",
+        "url": "https://open.spotify.com/album/6hZvokH3862OBtwRSvIgtX"
       },
       "artists": [
         {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         },
         {
-          "name": "Chili Fernandez",
-          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
         }
       ],
-      "duration_ms": 240451,
-      "name": "Coraz\u00f3n de Cemento",
-      "url": "https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS"
+      "duration_ms": 189510,
+      "name": "B\u00e9same - Remix",
+      "url": "https://open.spotify.com/track/0pqec6C3SFkOAyDIoYYNPG"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Sin mirar Atr\u00e1s",
+        "url": "https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 234626,
+      "name": "M\u00e1rchate ahora",
+      "url": "https://open.spotify.com/track/3voxukrHBXctzxdSbCycey"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Mal de Amores",
+        "url": "https://open.spotify.com/album/5rd8XvZd7lmlRaON32NNQW"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/5aCWQczUqiGCw3cvNp5OV0"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1087,34 +963,42 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Carnavalintro",
-        "url": "https://open.spotify.com/album/68mjWwD3sLh4wONFIb2Upq"
+        "name": "La Colaless (Remix)",
+        "url": "https://open.spotify.com/album/6eL1kzsqi0YLkG0HI86cU0"
       },
       "artists": [
         {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+          "name": "Altos Cumbieros",
+          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
+        },
+        {
+          "name": "Nico Vallorani DJ",
+          "url": "https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx"
+        },
+        {
+          "name": "Emus DJ",
+          "url": "https://open.spotify.com/artist/5M5yM2s8dqrvy4y0AJ10Z4"
         }
       ],
-      "duration_ms": 190040,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/0tGAPnTFwRJA6FZgYZ0BAe"
+      "duration_ms": 153652,
+      "name": "La Colaless - Remix",
+      "url": "https://open.spotify.com/track/4u8ir8tjh7AIiMqlYrkRDB"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Cuando Se Pone a Bailar",
-        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+        "name": "Nunca M\u00e1s",
+        "url": "https://open.spotify.com/album/0coT0YcbnvrGrQp9JvplFj"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
         }
       ],
-      "duration_ms": 195274,
-      "name": "Cuando Se Pone a Bailar",
-      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+      "duration_ms": 129410,
+      "name": "Nunca M\u00e1s",
+      "url": "https://open.spotify.com/track/636uUKyY6Uq7PdsFO3FECC"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1139,58 +1023,6 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Enganchado #TocoParaVos (Cumbia mix)",
-        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Enganchado #TocoParaVos - Cumbia Mix",
-      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Chau al Chongo",
-        "url": "https://open.spotify.com/album/6EzFRdWE4iB2JbhoJn0ann"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 138174,
-      "name": "Chau al Chongo",
-      "url": "https://open.spotify.com/track/601aUNwNuFfNqN4OtFaPi4"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
         "name": "Piel a Piel",
         "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
       },
@@ -1207,46 +1039,122 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Cuentale",
-        "url": "https://open.spotify.com/album/1kf8oWvNE0SeDWowrkmVtC"
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "The Sistars",
-          "url": "https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 141444,
-      "name": "Cu\u00e9ntale",
-      "url": "https://open.spotify.com/track/6T9FCkiIPtowqeSb5ePTeH"
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "El Trato (Remix)",
-        "url": "https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv"
+        "name": "Que Lloro",
+        "url": "https://open.spotify.com/album/7lQpTex7DuJQe8Xv2U0Xgq"
       },
       "artists": [
         {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        },
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+          "name": "Zona Cumbia",
+          "url": "https://open.spotify.com/artist/4OqzRJjjEDJV6af2ttYFHJ"
         }
       ],
-      "duration_ms": 143529,
-      "name": "El Trato - Remix",
-      "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
+      "duration_ms": 200933,
+      "name": "Que Lloro",
+      "url": "https://open.spotify.com/track/3FvaH4q2k3zru8sXjHZbtp"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Coraz\u00f3n de Cemento",
+        "url": "https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY"
+      },
+      "artists": [
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        },
+        {
+          "name": "Chili Fernandez",
+          "url": "https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID"
+        }
+      ],
+      "duration_ms": 240451,
+      "name": "Coraz\u00f3n de Cemento",
+      "url": "https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Lo Intentamos",
+        "url": "https://open.spotify.com/album/5u9w3PGTEyH9t7S62oIPhw"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/4Kzk0koKwzCMiIx4rAqCZp"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "2 Pa' 2",
+        "url": "https://open.spotify.com/album/6Mp4YC9YfYpNzKSUgd7BQs"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 182577,
+      "name": "2 Pa' 2",
+      "url": "https://open.spotify.com/track/1Vd3YqV8DYS1U3rsJads3H"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Sigue Bailando",
+        "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 159980,
+      "name": "Sigue Bailando",
+      "url": "https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Enganchado #TocoParaVos (Cumbia mix)",
+        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "Enganchado #TocoParaVos - Cumbia Mix",
+      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1275,38 +1183,150 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Lo Siento",
-        "url": "https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW"
+        "name": "Carnavalintro",
+        "url": "https://open.spotify.com/album/68mjWwD3sLh4wONFIb2Upq"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
-        },
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
         }
       ],
-      "duration_ms": 199061,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET"
+      "duration_ms": 190040,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/0tGAPnTFwRJA6FZgYZ0BAe"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Un T\u00e9 De Tilo Por Favor",
-        "url": "https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A"
+        "name": "Cuentale",
+        "url": "https://open.spotify.com/album/1kf8oWvNE0SeDWowrkmVtC"
       },
       "artists": [
         {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "The Sistars",
+          "url": "https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa"
         }
       ],
-      "duration_ms": 184080,
-      "name": "Algo Tiene",
-      "url": "https://open.spotify.com/track/5L5ct7rhZeYKLkb0qJn168"
+      "duration_ms": 141444,
+      "name": "Cu\u00e9ntale",
+      "url": "https://open.spotify.com/track/6T9FCkiIPtowqeSb5ePTeH"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Ponte Pa' Mix",
+        "url": "https://open.spotify.com/album/6gs6Q5qHYpqwyBJwxRK9NU"
+      },
+      "artists": [
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        }
+      ],
+      "duration_ms": 185118,
+      "name": "Ponte Pa' Mix",
+      "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Vas a Querer Regresar",
+        "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
+      },
+      "artists": [
+        {
+          "name": "Sound De Barrio",
+          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "Maxi Tolosa",
+          "url": "https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ"
+        }
+      ],
+      "duration_ms": 199270,
+      "name": "Vas a Querer Regresar",
+      "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "El Manual",
+        "url": "https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 128567,
+      "name": "El Manual",
+      "url": "https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Cuando Se Pone a Bailar",
+        "url": "https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 195274,
+      "name": "Cuando Se Pone a Bailar",
+      "url": "https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Chau al Chongo",
+        "url": "https://open.spotify.com/album/6EzFRdWE4iB2JbhoJn0ann"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 138174,
+      "name": "Chau al Chongo",
+      "url": "https://open.spotify.com/track/601aUNwNuFfNqN4OtFaPi4"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1363,26 +1383,38 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "La Colaless (Remix)",
-        "url": "https://open.spotify.com/album/6eL1kzsqi0YLkG0HI86cU0"
+        "name": "Un T\u00e9 De Tilo Por Favor",
+        "url": "https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A"
       },
       "artists": [
         {
-          "name": "Altos Cumbieros",
-          "url": "https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM"
-        },
-        {
-          "name": "Nico Vallorani DJ",
-          "url": "https://open.spotify.com/artist/2ebw2UvIeAWFGykGkXEyfx"
-        },
-        {
-          "name": "Emus DJ",
-          "url": "https://open.spotify.com/artist/5M5yM2s8dqrvy4y0AJ10Z4"
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 153652,
-      "name": "La Colaless - Remix",
-      "url": "https://open.spotify.com/track/4u8ir8tjh7AIiMqlYrkRDB"
+      "duration_ms": 184080,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/5L5ct7rhZeYKLkb0qJn168"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Miau",
+        "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
+      },
+      "artists": [
+        {
+          "name": "Miss Bolivia",
+          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+        },
+        {
+          "name": "Leo Garc\u00eda",
+          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
+      "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1399,38 +1431,6 @@
       "duration_ms": 165024,
       "name": "Te Extra\u00f1o :(",
       "url": "https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Te Quiero y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 192267,
-      "name": "Te Quiero y Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Cerca de Ti",
-        "url": "https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Farovi",
-          "url": "https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq"
-        },
-        {
-          "name": "Jais",
-          "url": "https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ"
-        }
-      ],
-      "duration_ms": 145152,
-      "name": "Cerca de Ti",
-      "url": "https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
         "name": "Travesuras / Se Me Ha Perdido un Corazon",
         "url": "https://open.spotify.com/album/5k6rSJ7G8N7HJpFOXsplUm"
       },
@@ -1499,164 +1475,8 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Ponte Pa' Mix",
-        "url": "https://open.spotify.com/album/6gs6Q5qHYpqwyBJwxRK9NU"
-      },
-      "artists": [
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        }
-      ],
-      "duration_ms": 185118,
-      "name": "Ponte Pa' Mix",
-      "url": "https://open.spotify.com/track/27RbEsHY7OdniHk3sepP5k"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "#Tocoparavos",
-        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Hasta la luna",
-      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Que Rico Baila",
-        "url": "https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        },
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        }
-      ],
-      "duration_ms": 178233,
-      "name": "Que Rico Baila",
-      "url": "https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "El Clavo",
-        "url": "https://open.spotify.com/album/1oZkdGpkeXE5Nn50cxVb0U"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 133458,
-      "name": "El Clavo",
-      "url": "https://open.spotify.com/track/2GjM9m8RkyUhGc1scH1g3b"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Muchachita",
-        "url": "https://open.spotify.com/album/2nTJmiRskbuFjqqehqyUuU"
-      },
-      "artists": [
-        {
-          "name": "VI-EM",
-          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
-        },
-        {
-          "name": "Bonny Lovy",
-          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
-        }
-      ],
-      "duration_ms": 163266,
-      "name": "Muchachita",
-      "url": "https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Hoy Te Vi",
-        "url": "https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        }
-      ],
-      "duration_ms": 214514,
-      "name": "Hoy Te Vi - Remasterizado 2019",
-      "url": "https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Vas a Querer Regresar",
-        "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
-      },
-      "artists": [
-        {
-          "name": "Sound De Barrio",
-          "url": "https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "Maxi Tolosa",
-          "url": "https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ"
-        }
-      ],
-      "duration_ms": 199270,
-      "name": "Vas a Querer Regresar",
-      "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Loco (Remix)",
-        "url": "https://open.spotify.com/album/3tlXX1RWqFGYp7aFurb4kL"
-      },
-      "artists": [
-        {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
-        },
-        {
-          "name": "Agus Cassano",
-          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
-        },
-        {
-          "name": "Sebaa Maza",
-          "url": "https://open.spotify.com/artist/3fBBBFMFaxGq71jf80i3O1"
-        }
-      ],
-      "duration_ms": 142768,
-      "name": "Loco - Remix",
-      "url": "https://open.spotify.com/track/6g16gHjGRxr5owlJmNL5UQ"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Turreto",
-        "url": "https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4"
+        "name": "Perdiste x Gil",
+        "url": "https://open.spotify.com/album/77cXEQ8c8l5x7N6v9lziU5"
       },
       "artists": [
         {
@@ -1664,9 +1484,9 @@
           "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 168751,
-      "name": "Turreto",
-      "url": "https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE"
+      "duration_ms": 149743,
+      "name": "Perdiste x Gil",
+      "url": "https://open.spotify.com/track/7vpP04rBvbKRafjiEk3POP"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1687,34 +1507,114 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Amor para un Rato",
-        "url": "https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0"
+        "name": "Ponte Pa Mi",
+        "url": "https://open.spotify.com/album/2oY6awbGUqMtGzmrWLCX6A"
       },
       "artists": [
         {
-          "name": "Olvidate!",
-          "url": "https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je"
+          "name": "Tu Papa",
+          "url": "https://open.spotify.com/artist/7ha2O24d2RixnRx9whTRuW"
         }
       ],
-      "duration_ms": 180182,
-      "name": "Amor para un Rato",
-      "url": "https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58"
+      "duration_ms": 179081,
+      "name": "Ponte Pa Mi",
+      "url": "https://open.spotify.com/track/2gG3iBxHjL3MRy4BF59atQ"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "No vas a cambiar",
-        "url": "https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz"
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/6N4GEhdNmY6Ip86tL02MDW"
       },
       "artists": [
         {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        },
+        {
+          "name": "La Sonora Master",
+          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
         }
       ],
-      "duration_ms": 154402,
-      "name": "No vas a cambiar",
-      "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
+      "duration_ms": 199061,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/3Aa0e22YhtYdeZEch2RyET"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "El Efecto",
+        "url": "https://open.spotify.com/album/5eCVCeHPbEy53Y4IVmarXb"
+      },
+      "artists": [
+        {
+          "name": "CantoParaBailar",
+          "url": "https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ"
+        },
+        {
+          "name": "Max Fernandez",
+          "url": "https://open.spotify.com/artist/3dhEq5nvtcF7ESywWnIR51"
+        }
+      ],
+      "duration_ms": 103284,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/6FVwZYbQJUpVpwk2pwIOdv"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "#Tocoparavos",
+        "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Hasta la luna",
+      "url": "https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Hoy Te Vi",
+        "url": "https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        }
+      ],
+      "duration_ms": 214514,
+      "name": "Hoy Te Vi - Remasterizado 2019",
+      "url": "https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "El Trato (Remix)",
+        "url": "https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv"
+      },
+      "artists": [
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        },
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 143529,
+      "name": "El Trato - Remix",
+      "url": "https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1743,38 +1643,126 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Miau",
-        "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
+        "name": "Muchachita",
+        "url": "https://open.spotify.com/album/2nTJmiRskbuFjqqehqyUuU"
       },
       "artists": [
         {
-          "name": "Miss Bolivia",
-          "url": "https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx"
+          "name": "VI-EM",
+          "url": "https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC"
         },
         {
-          "name": "Leo Garc\u00eda",
-          "url": "https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb"
+          "name": "Bonny Lovy",
+          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
         }
       ],
-      "duration_ms": 205613,
-      "name": "Tomate el Palo (feat. Leo Garc\u00eda)",
-      "url": "https://open.spotify.com/track/7Geqbi4bkZ6AM9yDeSHr5b"
+      "duration_ms": 163266,
+      "name": "Muchachita",
+      "url": "https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW"
     },
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
+        "name": "Te Quiero y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
       },
       "artists": [
         {
-          "name": "Tachame la Doble",
-          "url": "https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p"
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
         }
       ],
-      "duration_ms": 152281,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/21YzxJr5n5ljqXkOh2Rewy"
+      "duration_ms": 192267,
+      "name": "Te Quiero y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Cerca de Ti",
+        "url": "https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Farovi",
+          "url": "https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq"
+        },
+        {
+          "name": "Jais",
+          "url": "https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ"
+        }
+      ],
+      "duration_ms": 145152,
+      "name": "Cerca de Ti",
+      "url": "https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Amor para un Rato",
+        "url": "https://open.spotify.com/album/6d2tfDq3ySYq0EfwRsWtl0"
+      },
+      "artists": [
+        {
+          "name": "Olvidate!",
+          "url": "https://open.spotify.com/artist/7Czvx73uua4PB239Dza1Je"
+        }
+      ],
+      "duration_ms": 180182,
+      "name": "Amor para un Rato",
+      "url": "https://open.spotify.com/track/47EEKhimMiDtUfYNR5Ii58"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Lejos",
+        "url": "https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8"
+      },
+      "artists": [
+        {
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+        }
+      ],
+      "duration_ms": 170653,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Turreto",
+        "url": "https://open.spotify.com/album/7JtQ5rmhFHeFeF65YeGTf4"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 168751,
+      "name": "Turreto",
+      "url": "https://open.spotify.com/track/6z9h8Q7K1hzItz9Tt5HcmE"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "No vas a cambiar",
+        "url": "https://open.spotify.com/album/6kscFb5kafyfOzie0ZxAdz"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 154402,
+      "name": "No vas a cambiar",
+      "url": "https://open.spotify.com/track/2JyR4XomCbSv543H904cME"
     },
     {
       "added_at": "2022-01-14 14:12:26",
@@ -1803,6 +1791,22 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
+        "name": "Mil Horas",
+        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 227943,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
         "name": "La Incondicional (Version Cumbia Pop)",
         "url": "https://open.spotify.com/album/6pc3Ttq5xewStsRuE1ErIs"
       },
@@ -1823,54 +1827,6 @@
     {
       "added_at": "2022-01-14 14:12:26",
       "album": {
-        "name": "Pareja del A\u00f1o / Makinon",
-        "url": "https://open.spotify.com/album/4zfrXkEZ1Eo5JsU35oftmX"
-      },
-      "artists": [
-        {
-          "name": "Marito",
-          "url": "https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred"
-        }
-      ],
-      "duration_ms": 244036,
-      "name": "Pareja del A\u00f1o /Makinon",
-      "url": "https://open.spotify.com/track/7AQ0VSiZb5AlyVo3qsjiNB"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Perdiste x Gil",
-        "url": "https://open.spotify.com/album/77cXEQ8c8l5x7N6v9lziU5"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 149743,
-      "name": "Perdiste x Gil",
-      "url": "https://open.spotify.com/track/7vpP04rBvbKRafjiEk3POP"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/3mnYggEIyjKiCSBw1WFD6T"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 147903,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/7oxEQwndfGf9zqvRejWYaD"
-    },
-    {
-      "added_at": "2022-01-14 14:12:26",
-      "album": {
         "name": "Que Ironia",
         "url": "https://open.spotify.com/album/4U1fGuwPIF0jeebgA0I0Tq"
       },
@@ -1883,6 +1839,38 @@
       "duration_ms": 154883,
       "name": "Que Ironia",
       "url": "https://open.spotify.com/track/1nxIcj8r0wjMUJ5uQAWENm"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Cumbia en Miami",
+        "url": "https://open.spotify.com/album/7GPHGBex8PVdkOKlxzXxSp"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        }
+      ],
+      "duration_ms": 142914,
+      "name": "Cumbia en Miami",
+      "url": "https://open.spotify.com/track/3QO5QsOrOqFHUg4HAz3NDz"
+    },
+    {
+      "added_at": "2022-01-14 14:12:26",
+      "album": {
+        "name": "Te Va Doler",
+        "url": "https://open.spotify.com/album/6zk0BDtDk9J2R7aiWJK1O4"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 138702,
+      "name": "Te Va Doler",
+      "url": "https://open.spotify.com/track/6RjHsYQ4JYJFHes0IZjCTV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw"

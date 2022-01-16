@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Three Days Grace on top of the biggest Metal playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,237,990 likes - 59 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,238,008 likes - 59 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

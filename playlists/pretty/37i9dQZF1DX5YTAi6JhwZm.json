@@ -1,12 +1,12 @@
 {
   "description": "Happy and swinging jazz.",
   "name": "Happy Jazz!",
-  "num_followers": 105698,
+  "num_followers": 105703,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODIzMSwwMDAwMDAwMDIwYjgzMjYyYjg2OTJlYzU4YTdjMzQ0MTI4NzU0YTE2",
+  "snapshot_id": "MTY0MjI5Mzk2MiwwMDAwMDAwMDg5NWYxOWUyZjg2YTNhMzA1MDExOWU3MWVhZjRkMmNk",
   "tracks": [
     {
       "added_at": "2022-01-13 14:51:54",
@@ -27,6 +27,22 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
+        "name": "It's an Upright Thing",
+        "url": "https://open.spotify.com/album/2IVLVLJ4CLtO46XDSx4cJ2"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 204875,
+      "name": "It's an Upright Thing",
+      "url": "https://open.spotify.com/track/4UQBp5wMIPImW0kt78ojSk"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
         "name": "Heads Up!",
         "url": "https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC"
       },
@@ -43,18 +59,18 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Stay a While",
-        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
       "artists": [
         {
-          "name": "Simon Westman Trio",
-          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
         }
       ],
-      "duration_ms": 332391,
-      "name": "Jakob\u2019s Happy Song",
-      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -83,38 +99,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "It's an Upright Thing",
-        "url": "https://open.spotify.com/album/2IVLVLJ4CLtO46XDSx4cJ2"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 204875,
-      "name": "It's an Upright Thing",
-      "url": "https://open.spotify.com/track/4UQBp5wMIPImW0kt78ojSk"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "Trouble Maker",
         "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
       },
@@ -131,18 +115,18 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "On the Second Day",
-        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+        "name": "Stay a While",
+        "url": "https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE"
       },
       "artists": [
         {
-          "name": "J\u00f8rgen Emborg",
-          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+          "name": "Simon Westman Trio",
+          "url": "https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw"
         }
       ],
-      "duration_ms": 272794,
-      "name": "On The Second Day",
-      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
+      "duration_ms": 332391,
+      "name": "Jakob\u2019s Happy Song",
+      "url": "https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -159,6 +143,22 @@
       "duration_ms": 230312,
       "name": "Mo' Better Blues",
       "url": "https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "On the Second Day",
+        "url": "https://open.spotify.com/album/3fhhihPsKUiDQ1USgJMXff"
+      },
+      "artists": [
+        {
+          "name": "J\u00f8rgen Emborg",
+          "url": "https://open.spotify.com/artist/33HADTIIVWw1K8x6ykb9xS"
+        }
+      ],
+      "duration_ms": 272794,
+      "name": "On The Second Day",
+      "url": "https://open.spotify.com/track/7xM0zRlSfbnHHq16CoN9ye"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -195,6 +195,22 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
+        "name": "HOP",
+        "url": "https://open.spotify.com/album/3No8sszndBhwqacWUARKAv"
+      },
+      "artists": [
+        {
+          "name": "Brendan Eder Ensemble",
+          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
+        }
+      ],
+      "duration_ms": 140823,
+      "name": "HOP",
+      "url": "https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
         "name": "Dardanella",
         "url": "https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 327146,
       "name": "New Bromance",
       "url": "https://open.spotify.com/track/0BMQBzqD8ywT5gSQFmXpHp"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "HOP",
-        "url": "https://open.spotify.com/album/3No8sszndBhwqacWUARKAv"
-      },
-      "artists": [
-        {
-          "name": "Brendan Eder Ensemble",
-          "url": "https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK"
-        }
-      ],
-      "duration_ms": 140823,
-      "name": "HOP",
-      "url": "https://open.spotify.com/track/5Irw0xyFo1FB6qD1x8DDcl"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -307,34 +307,34 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Relaxin' At Camarillo",
-        "url": "https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE"
+        "name": "Newark News",
+        "url": "https://open.spotify.com/album/0fUb3moDnawIh8a9tsajrH"
       },
       "artists": [
         {
-          "name": "Jacob Simon Band",
-          "url": "https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov"
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
         }
       ],
-      "duration_ms": 202903,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/098hhwrTcsdOKOC9Gj78Ny"
+      "duration_ms": 308480,
+      "name": "Newark News",
+      "url": "https://open.spotify.com/track/1djanB1pGdTRSKHbiJQsUX"
     },
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "The Spoiler",
-        "url": "https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS"
+        "name": "On a Clear Day",
+        "url": "https://open.spotify.com/album/4etOBTogBYyurgykqGY85Z"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+          "name": "Filip Ekestubbe Trio",
+          "url": "https://open.spotify.com/artist/22fkqIp1tH47ueIeCeg7Fr"
         }
       ],
-      "duration_ms": 364626,
-      "name": "The Magilla",
-      "url": "https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi"
+      "duration_ms": 360680,
+      "name": "On a Clear Day You Can See Forever",
+      "url": "https://open.spotify.com/track/2EjpDPynGPxmhmjY1llgI2"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -371,34 +371,50 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Newark News",
-        "url": "https://open.spotify.com/album/0fUb3moDnawIh8a9tsajrH"
+        "name": "Relaxin' At Camarillo",
+        "url": "https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE"
       },
       "artists": [
         {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+          "name": "Jacob Simon Band",
+          "url": "https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov"
         }
       ],
-      "duration_ms": 308480,
-      "name": "Newark News",
-      "url": "https://open.spotify.com/track/1djanB1pGdTRSKHbiJQsUX"
+      "duration_ms": 202903,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/098hhwrTcsdOKOC9Gj78Ny"
     },
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "On a Clear Day",
-        "url": "https://open.spotify.com/album/4etOBTogBYyurgykqGY85Z"
+        "name": "La La Lars III",
+        "url": "https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9"
       },
       "artists": [
         {
-          "name": "Filip Ekestubbe Trio",
-          "url": "https://open.spotify.com/artist/22fkqIp1tH47ueIeCeg7Fr"
+          "name": "La La Lars",
+          "url": "https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg"
         }
       ],
-      "duration_ms": 360680,
-      "name": "On a Clear Day You Can See Forever",
-      "url": "https://open.spotify.com/track/2EjpDPynGPxmhmjY1llgI2"
+      "duration_ms": 288880,
+      "name": "Pour Qui Pourquoi",
+      "url": "https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "The Spoiler",
+        "url": "https://open.spotify.com/album/63rHQl9dk72tduD5SXRjdS"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 364626,
+      "name": "The Magilla",
+      "url": "https://open.spotify.com/track/1kWrVpHACTz4Cy4OS7BaAi"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -435,18 +451,18 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "La La Lars III",
-        "url": "https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9"
+        "name": "Searching for Jupiter",
+        "url": "https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5"
       },
       "artists": [
         {
-          "name": "La La Lars",
-          "url": "https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg"
+          "name": "Magnus \u00d6str\u00f6m",
+          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
         }
       ],
-      "duration_ms": 288880,
-      "name": "Pour Qui Pourquoi",
-      "url": "https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY"
+      "duration_ms": 335560,
+      "name": "Happy and the Fall",
+      "url": "https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -471,18 +487,18 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Searching for Jupiter",
-        "url": "https://open.spotify.com/album/31QdNyizKKlLYf8ZSdUOL5"
+        "name": "Seymour Reads the Constitution!",
+        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
       },
       "artists": [
         {
-          "name": "Magnus \u00d6str\u00f6m",
-          "url": "https://open.spotify.com/artist/1ZPtjLlwSZjToQXcq2JVy2"
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
         }
       ],
-      "duration_ms": 335560,
-      "name": "Happy and the Fall",
-      "url": "https://open.spotify.com/track/36FSengmFZRJNe0xaY1GGA"
+      "duration_ms": 495360,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -499,22 +515,6 @@
       "duration_ms": 354106,
       "name": "Libra",
       "url": "https://open.spotify.com/track/2RvTzd612ENOe4V7YaHzxI"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "Seymour Reads the Constitution!",
-        "url": "https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
-        }
-      ],
-      "duration_ms": 495360,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3hQw2tdAeD9v94KJyFChKB"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Jazz Sax - Verve 50",
-        "url": "https://open.spotify.com/album/4zx6NfgviTklWmEsNgwNsI"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 181016,
-      "name": "Four Brothers",
-      "url": "https://open.spotify.com/track/3LjzOkPLf42Hqh9XLcLCXj"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "You Can't Lose with the Blues",
         "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "What\u00b4S A Good Boss Anyway",
-        "url": "https://open.spotify.com/album/4gPw3yOKIitK4eeOMfE5qW"
+        "name": "Jazz Sax - Verve 50",
+        "url": "https://open.spotify.com/album/4zx6NfgviTklWmEsNgwNsI"
       },
       "artists": [
         {
-          "name": "Musicmusicmusic",
-          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
         }
       ],
-      "duration_ms": 222386,
-      "name": "Iron Square Serenade",
-      "url": "https://open.spotify.com/track/1kBr4cPekM3UoW77JOzXm0"
+      "duration_ms": 181016,
+      "name": "Four Brothers",
+      "url": "https://open.spotify.com/track/3LjzOkPLf42Hqh9XLcLCXj"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -655,6 +639,22 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
+        "name": "What\u00b4S A Good Boss Anyway",
+        "url": "https://open.spotify.com/album/4gPw3yOKIitK4eeOMfE5qW"
+      },
+      "artists": [
+        {
+          "name": "Musicmusicmusic",
+          "url": "https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "Iron Square Serenade",
+      "url": "https://open.spotify.com/track/1kBr4cPekM3UoW77JOzXm0"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
         "name": "Relaxin' with Nick",
         "url": "https://open.spotify.com/album/5KfHqTrCiKqyDiigUkiDST"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 388160,
-      "name": "Home Cookin' - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/6QzARXbdztTRu42kQigY96"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "Let's Call the Whole Thing Off",
         "url": "https://open.spotify.com/album/4jWRaPmgnSrobk6RLirNOG"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 331093,
       "name": "A Little Evil",
       "url": "https://open.spotify.com/track/253d4aC4Tj6HBzA8mfwcbm"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "The Stylings Of Silver (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 388160,
+      "name": "Home Cookin' - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/6QzARXbdztTRu42kQigY96"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -775,58 +775,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Bikini Tapes",
-        "url": "https://open.spotify.com/album/3pUna5UTvVlrR9RYFUpT7A"
-      },
-      "artists": [
-        {
-          "name": "Atomic",
-          "url": "https://open.spotify.com/artist/5MaqvdfplsuBzHTHrBxjr6"
-        }
-      ],
-      "duration_ms": 589053,
-      "name": "Konrads Hopp Om Livet",
-      "url": "https://open.spotify.com/track/110sjAg7oDeOoZpFnyFHEl"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "LD+3",
-        "url": "https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        },
-        {
-          "name": "The Three Sounds",
-          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
-        }
-      ],
-      "duration_ms": 397160,
-      "name": "Jump Up",
-      "url": "https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "Kresten Osgood Quintet Plays Jazz",
-        "url": "https://open.spotify.com/album/4CfhpyQmetCkJ8sGrPGnaU"
-      },
-      "artists": [
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        }
-      ],
-      "duration_ms": 192226,
-      "name": "CRAZY WITCH GAME",
-      "url": "https://open.spotify.com/track/5hPQlfdBxE6TSpLzI1Xn3f"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "Barcode",
         "url": "https://open.spotify.com/album/5dHw1e3fXPa7efFkzAR0V8"
       },
@@ -851,6 +799,54 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
+        "name": "Kresten Osgood Quintet Plays Jazz",
+        "url": "https://open.spotify.com/album/4CfhpyQmetCkJ8sGrPGnaU"
+      },
+      "artists": [
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        }
+      ],
+      "duration_ms": 192226,
+      "name": "CRAZY WITCH GAME",
+      "url": "https://open.spotify.com/track/5hPQlfdBxE6TSpLzI1Xn3f"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 224266,
+      "name": "Lou's Blues",
+      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "Bikini Tapes",
+        "url": "https://open.spotify.com/album/3pUna5UTvVlrR9RYFUpT7A"
+      },
+      "artists": [
+        {
+          "name": "Atomic",
+          "url": "https://open.spotify.com/artist/5MaqvdfplsuBzHTHrBxjr6"
+        }
+      ],
+      "duration_ms": 589053,
+      "name": "Konrads Hopp Om Livet",
+      "url": "https://open.spotify.com/track/110sjAg7oDeOoZpFnyFHEl"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
         "name": "Getz Meets Mulligan In Hi-Fi",
         "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
       },
@@ -871,38 +867,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Keepin' It Real",
-        "url": "https://open.spotify.com/album/0kdRFLe5A9IvAA81P3yCCZ"
-      },
-      "artists": [
-        {
-          "name": "Bobby Watson",
-          "url": "https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ"
-        }
-      ],
-      "duration_ms": 428333,
-      "name": "Keepin' It Real",
-      "url": "https://open.spotify.com/track/0RpoxmvBTYAE1wvAliVzjK"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "Quartet West",
-        "url": "https://open.spotify.com/album/5TTTEyRSGqgLweE5UMS0Wu"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/4on3eMnc3jPhCUgBfG694n"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "Amanecer Contigo",
         "url": "https://open.spotify.com/album/4L3hp7B19QX8YGFjcxBwqJ"
       },
@@ -919,18 +883,54 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+        "name": "Keepin' It Real",
+        "url": "https://open.spotify.com/album/0kdRFLe5A9IvAA81P3yCCZ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Watson",
+          "url": "https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ"
+        }
+      ],
+      "duration_ms": 428333,
+      "name": "Keepin' It Real",
+      "url": "https://open.spotify.com/track/0RpoxmvBTYAE1wvAliVzjK"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "LD+3",
+        "url": "https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj"
       },
       "artists": [
         {
           "name": "Lou Donaldson",
           "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
         }
       ],
-      "duration_ms": 224266,
-      "name": "Lou's Blues",
-      "url": "https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt"
+      "duration_ms": 397160,
+      "name": "Jump Up",
+      "url": "https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "Quartet West",
+        "url": "https://open.spotify.com/album/5TTTEyRSGqgLweE5UMS0Wu"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4on3eMnc3jPhCUgBfG694n"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -971,18 +971,18 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
-      "duration_ms": 254746,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/0RGMEpSB5iF6uD0ojXIiWz"
+      "duration_ms": 439880,
+      "name": "Used To Be Duke",
+      "url": "https://open.spotify.com/track/5UI9nSnk8k5e6oMcGK55tt"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -999,22 +999,6 @@
       "duration_ms": 390173,
       "name": "Sunday Mornin'",
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "Quartet / Quintet / Sextet",
-        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -1051,6 +1035,38 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
+        "name": "Quartet / Quintet / Sextet",
+        "url": "https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/4QWh5rzYlmp30SUZrw7Czk"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 254746,
+      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
+      "url": "https://open.spotify.com/track/0RGMEpSB5iF6uD0ojXIiWz"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
         "name": "The Rumproller",
         "url": "https://open.spotify.com/album/3dMhT1ZhEeYk9NwzPAzi3u"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 439773,
       "name": "Edda",
       "url": "https://open.spotify.com/track/0UgG6ZQ46DjB6V55pWZLfw"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
-        }
-      ],
-      "duration_ms": 439880,
-      "name": "Used To Be Duke",
-      "url": "https://open.spotify.com/track/5UI9nSnk8k5e6oMcGK55tt"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Comin' Your Way",
-        "url": "https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 372600,
-      "name": "Stolen Sweets",
-      "url": "https://open.spotify.com/track/377ALnPexo1VGmD8dqHRXl"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "Sonny Side Up",
         "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
       },
@@ -1155,22 +1139,6 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
-        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 328600,
-      "name": "K.D.'s Motion - Rudy Van Gelder Edition/2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
         "name": "Six Pieces Of Silver",
         "url": "https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE"
       },
@@ -1187,6 +1155,38 @@
     {
       "added_at": "2022-01-13 14:51:54",
       "album": {
+        "name": "Afro-Cuban (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/6sfAnBHbBbI8Z4NEDpXycZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 328600,
+      "name": "K.D.'s Motion - Rudy Van Gelder Edition/2007 Digital Remaster",
+      "url": "https://open.spotify.com/track/6CuppdxxPFj7v81NCHfaJa"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "Comin' Your Way",
+        "url": "https://open.spotify.com/album/18C4w4Di2mjHHYTDQyuwUX"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 372600,
+      "name": "Stolen Sweets",
+      "url": "https://open.spotify.com/track/377ALnPexo1VGmD8dqHRXl"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
         "name": "Boss Horn (Remastered)",
         "url": "https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 381893,
       "name": "Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
       "url": "https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l"
-    },
-    {
-      "added_at": "2022-01-13 14:51:54",
-      "album": {
-        "name": "That's Where It's At",
-        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 486573,
-      "name": "Smile, Stacey - Remastered",
-      "url": "https://open.spotify.com/track/2ssA3VT7tzLDtF1wKgouiX"
     },
     {
       "added_at": "2022-01-13 14:51:54",
@@ -1283,6 +1267,22 @@
       "duration_ms": 293106,
       "name": "Lion's Den - Rudy Van Gelder Edition/2007 Remaster",
       "url": "https://open.spotify.com/track/5Q9XLLVex1yZ0Heo2SVhMI"
+    },
+    {
+      "added_at": "2022-01-13 14:51:54",
+      "album": {
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 486573,
+      "name": "Smile, Stacey - Remastered",
+      "url": "https://open.spotify.com/track/2ssA3VT7tzLDtF1wKgouiX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5YTAi6JhwZm"

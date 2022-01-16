@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Yot Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,079 likes - 168 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,095 likes - 168 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > All new, all rock\. Cover: Muse
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,945 likes - 53 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,959 likes - 53 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

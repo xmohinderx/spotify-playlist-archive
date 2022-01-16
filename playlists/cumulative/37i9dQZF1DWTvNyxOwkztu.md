@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1984](https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/5ZFdhp6funk02EyD2Whp0b) | 2:37 | 2021-12-09 |  |
+| [1984](https://open.spotify.com/track/0BhUDBjyi50j1kDfJLsyys) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [1984](https://open.spotify.com/album/5ZFdhp6funk02EyD2Whp0b) | 2:37 | 2021-12-09 | 2022-01-16 |
 | [9 PM](https://open.spotify.com/track/0R6iI9Z9Zj0h6BvHO4o2P9) | [COLIN](https://open.spotify.com/artist/65Uy8U5VKTrqB70p39OLsH) | [9 PM](https://open.spotify.com/album/1yAbvqzI8QNGsSP7KxtP0F) | 2:00 | 2021-12-09 | 2022-01-15 |
 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 |  |
 | [Adventurous](https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Adventurous](https://open.spotify.com/album/4HEaT0EG4q2UpZvkyVPm6W) | 2:59 | 2021-12-09 |  |
@@ -105,7 +105,7 @@
 | [Seeds](https://open.spotify.com/track/2EkhQc261n3oQsLFIgZdws) | [Dj Hindi Bacha](https://open.spotify.com/artist/4DKQvnJHtQWd7G7DgyjKKV) | [Seeds](https://open.spotify.com/album/5aeblHVH3Yo3Xh8xsv1gjD) | 3:13 | 2021-12-09 | 2022-01-15 |
 | [Sinus](https://open.spotify.com/track/0H2KxoSVnnEJrbOruF5lgk) | [Leo Perna](https://open.spotify.com/artist/0nZVFbVPVpCz6leeVjpWf7) | [Trigonometry](https://open.spotify.com/album/2iMHXhlavQVsCWERxPNvCN) | 1:49 | 2021-12-09 | 2022-01-07 |
 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 | 2021-12-09 |  |
-| [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-12-09 | 2022-01-15 |
+| [Standing with You](https://open.spotify.com/track/5FoejkYblHki3Ydav7aTJE) | [Kyle Kollins](https://open.spotify.com/artist/08GbvWvQhprxVEGTzqKLhy) | [Standing with You](https://open.spotify.com/album/6j9b1kAdgimNytOjeAPJJk) | 2:34 | 2021-12-09 |  |
 | [Star Reflections](https://open.spotify.com/track/7xpr7wA84h55F4t2noWCd0) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Star Reflections](https://open.spotify.com/album/2lXS0eCpWHuVwFBJbtNhEV) | 3:12 | 2021-12-09 |  |
 | [Star System](https://open.spotify.com/track/5tjM0EiK6wTMwMrR3csFpt) | [Isla Cruz](https://open.spotify.com/artist/0b4aT0b93OhjSIIsYkW6s1) | [Star System](https://open.spotify.com/album/6p80kE6886zA5gT6A9VBpF) | 3:55 | 2021-12-09 |  |
 | [Stardust](https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Room for Thought](https://open.spotify.com/album/5EjPFBdTPs7tFd2N1K9spD) | 2:24 | 2021-12-09 | 2022-01-15 |

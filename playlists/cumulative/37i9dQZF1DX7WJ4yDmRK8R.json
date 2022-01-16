@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 305360,
       "name": "B.L.M",
       "url": "https://open.spotify.com/track/5jvVBreQOSEW2r78oC0CoZ"
@@ -419,7 +419,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 249133,
       "name": "Come on Eileen",
       "url": "https://open.spotify.com/track/4Z4xFENnvMnRDPpAx5wpaO"
@@ -484,6 +484,24 @@
     },
     {
       "album": {
+        "name": "I Can't Take It Anymore",
+        "url": "https://open.spotify.com/album/45lb5sWAyOYpgNJ92bHI1w"
+      },
+      "artists": [
+        {
+          "name": "Joystick!",
+          "url": "https://open.spotify.com/artist/6QNbUrFd32f8tOVhm1pWEF"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79203,
+      "name": "Detonate",
+      "url": "https://open.spotify.com/track/2zhXkUkCLZZs9MuhbRzZDM"
+    },
+    {
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 275360,
       "name": "Different People",
       "url": "https://open.spotify.com/track/6PM8yaNDDfXc0kHIMSuIKR"
@@ -657,7 +675,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 102826,
       "name": "Friday",
       "url": "https://open.spotify.com/track/7IjLHbXOVXZNxJiiNHL6hF"
@@ -733,7 +751,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 210337,
       "name": "Gym Rat",
       "url": "https://open.spotify.com/track/3bAhlP0RhgkiX7zS3bRcZh"
@@ -895,7 +913,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 211511,
       "name": "I Think I've Had an Apostrophe",
       "url": "https://open.spotify.com/track/4xEzJmAo1s5VqW1iLW1kxf"
@@ -1129,7 +1147,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 221400,
       "name": "Losing Touch",
       "url": "https://open.spotify.com/track/1DYajVvWikfyXr00qDQrdp"
@@ -1255,7 +1273,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 190333,
       "name": "Mirror In the Bathroom",
       "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
@@ -1363,7 +1381,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 143906,
       "name": "Night Train to Moscow",
       "url": "https://open.spotify.com/track/2BX80uJdAmllD0BP8MKK98"
@@ -1543,7 +1561,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 131979,
       "name": "Pre-Expatriate",
       "url": "https://open.spotify.com/track/0t8S2dnMU0Iq7GBpMHlOqa"
@@ -1669,7 +1687,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 208587,
       "name": "Second Cities",
       "url": "https://open.spotify.com/track/13yAmRJ9Djttg27TgT2dC8"
@@ -1705,7 +1723,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 205585,
       "name": "Seven Seas",
       "url": "https://open.spotify.com/track/70Oq8tGYqDhgZiywEb16bS"
@@ -2215,7 +2233,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 168182,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
@@ -2359,7 +2377,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 166093,
       "name": "Underinsured",
       "url": "https://open.spotify.com/track/5XysARL1Hl8na7hvnHhiS1"
@@ -2521,7 +2539,7 @@
       ],
       "date_added": "2021-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 165813,
       "name": "When The Wall Falls",
       "url": "https://open.spotify.com/track/4H37sUD0Hfx2vqODJInQQ9"

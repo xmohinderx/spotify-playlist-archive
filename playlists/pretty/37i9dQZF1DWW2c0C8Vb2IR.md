@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Melissa Aldana
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,918 likes - 48 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,927 likes - 48 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana. Cover: The Northern Belle",
   "name": "Nordic Folk",
-  "num_followers": 154741,
+  "num_followers": 154749,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODIwMywwMDAwMDAwMDZjZGY0MWZiNWMzOWQxMGI2ZDI4OTI2M2FhM2RhZTE4",
+  "snapshot_id": "MTY0MjI5MzkzNCwwMDAwMDAwMGUyNGM2MGQ0NGIxN2M1ZDFhYjAwNjcxMTk2ZjhhOTYw",
   "tracks": [
     {
       "added_at": "2022-01-06 23:01:00",
@@ -23,22 +23,6 @@
       "duration_ms": 204840,
       "name": "I Waited For You",
       "url": "https://open.spotify.com/track/5FDm33MpQRTmQ8GNcJEwcU"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "The Sky Is Painted Gray Today",
-        "url": "https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 221682,
-      "name": "The Sky Is Painted Gray Today",
-      "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -63,6 +47,22 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
+        "name": "The Sky Is Painted Gray Today",
+        "url": "https://open.spotify.com/album/5F89kdB5vCOgwLRydYFnIE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 221682,
+      "name": "The Sky Is Painted Gray Today",
+      "url": "https://open.spotify.com/track/6IMK8QiJ4ehdOGNGmIXUgA"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
         "name": "The Night Visitor",
         "url": "https://open.spotify.com/album/2uRdTrtChn1rvFkDmAtL8N"
       },
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Line of Fire",
-      "url": "https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
         "name": "The Wild Hunt",
         "url": "https://open.spotify.com/album/2W2Na2SJuf7jqvjNuSjh5J"
       },
@@ -115,24 +99,24 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/7x9Q6tQyDcS6EhWsmTgujm"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+      "duration_ms": 188080,
+      "name": "Line of Fire",
+      "url": "https://open.spotify.com/track/3C3ArxTzVCYVzHpzq6AO9G"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Set The House on Fire",
-        "url": "https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP"
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF"
       },
       "artists": [
         {
@@ -140,9 +124,9 @@
           "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 218280,
-      "name": "House by the Sea",
-      "url": "https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0"
+      "duration_ms": 148853,
+      "name": "Br\u00e5tebrann",
+      "url": "https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -199,6 +183,22 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
         "name": "Morten Myklebust",
         "url": "https://open.spotify.com/album/5BELCohj792Bq7FQCHJmic"
       },
@@ -219,34 +219,18 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Floating Harmonies",
-        "url": "https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD"
+        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
+        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
       "artists": [
         {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 220760,
-      "name": "Gold Laces",
-      "url": "https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 148853,
-      "name": "Br\u00e5tebrann",
-      "url": "https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr"
+      "duration_ms": 266906,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -267,34 +251,34 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
-        "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
+        "name": "Floating Harmonies",
+        "url": "https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
         }
       ],
-      "duration_ms": 266906,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+      "duration_ms": 220760,
+      "name": "Gold Laces",
+      "url": "https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "The Lion's Roar",
-        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
+        "name": "Set The House on Fire",
+        "url": "https://open.spotify.com/album/6DLxo7BIMDLzsAuLPfbdYP"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Wolf",
-      "url": "https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2"
+      "duration_ms": 218280,
+      "name": "House by the Sea",
+      "url": "https://open.spotify.com/track/0Zj16MTRXtVrASk0ZL3NV0"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
+        "name": "The Lion's Roar",
+        "url": "https://open.spotify.com/album/6Z3MfMebUucj95zrHMrbyV"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/66wOMJ1XInkBukh3C9AwI2"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW"
       },
@@ -327,38 +327,6 @@
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/3yhRyEojpXrExN24ypYPET"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "The Story Of A Heart's Decay",
-        "url": "https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija"
-      },
-      "artists": [
-        {
-          "name": "Kristofer \u00c5str\u00f6m",
-          "url": "https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA"
-        }
-      ],
-      "duration_ms": 266520,
-      "name": "Ghost Mess",
-      "url": "https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "I saw her from here/I saw here from her",
-        "url": "https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW"
-      },
-      "artists": [
-        {
-          "name": "Christian Kjellvander",
-          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
-        }
-      ],
-      "duration_ms": 224560,
-      "name": "When the Mourning Comes",
-      "url": "https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -379,50 +347,18 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+        "name": "100 words for fear",
+        "url": "https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Firstnighter",
+          "url": "https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Dead Of The Night",
-        "url": "https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71"
-      },
-      "artists": [
-        {
-          "name": "Sondre Lerche",
-          "url": "https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub"
-        }
-      ],
-      "duration_ms": 607299,
-      "name": "Dead Of The Night",
-      "url": "https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Joni was right pt. II",
-        "url": "https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Winter never lasts forever",
-      "url": "https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu"
+      "duration_ms": 180546,
+      "name": "Baltic Sea",
+      "url": "https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -443,6 +379,22 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
+        "name": "I saw her from here/I saw here from her",
+        "url": "https://open.spotify.com/album/1NozolJ5KtborXl2kQBQJW"
+      },
+      "artists": [
+        {
+          "name": "Christian Kjellvander",
+          "url": "https://open.spotify.com/artist/2NNMCcN4t0zn04kTzdVAS6"
+        }
+      ],
+      "duration_ms": 224560,
+      "name": "When the Mourning Comes",
+      "url": "https://open.spotify.com/track/2SzMpHEriq3fn4RxXvHHdf"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
         "name": "Vinyl and a Heartache",
         "url": "https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9"
       },
@@ -455,6 +407,22 @@
       "duration_ms": 219413,
       "name": "The Sweetest Tune",
       "url": "https://open.spotify.com/track/5XzOc450ipHJN7R5Xaxwyg"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Love EP",
+        "url": "https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp"
+      },
+      "artists": [
+        {
+          "name": "Unnveig Aas",
+          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+        }
+      ],
+      "duration_ms": 199840,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -479,178 +447,50 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Lou Lou",
-        "url": "https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH"
+        "name": "Joni was right pt. II",
+        "url": "https://open.spotify.com/album/5JHOgyMnrGMRhnM26JVAOK"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
         }
       ],
-      "duration_ms": 124720,
-      "name": "Lou Lou",
-      "url": "https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy"
+      "duration_ms": 226666,
+      "name": "Winter never lasts forever",
+      "url": "https://open.spotify.com/track/7ML21Jv5juLeEX1L1OUGsu"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "100 words for fear",
-        "url": "https://open.spotify.com/album/5ZKPJYO4w2I99pR62sx70D"
+        "name": "The Story Of A Heart's Decay",
+        "url": "https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija"
       },
       "artists": [
         {
-          "name": "Firstnighter",
-          "url": "https://open.spotify.com/artist/4jAXgyZVfE6Meqn6nuzj2q"
+          "name": "Kristofer \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA"
         }
       ],
-      "duration_ms": 180546,
-      "name": "Baltic Sea",
-      "url": "https://open.spotify.com/track/3pcp6qB2kcuSgwSvNqdWSJ"
+      "duration_ms": 266520,
+      "name": "Ghost Mess",
+      "url": "https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Love EP",
-        "url": "https://open.spotify.com/album/483bq5roSleMjKuPlIxEcp"
+        "name": "Dead Of The Night",
+        "url": "https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71"
       },
       "artists": [
         {
-          "name": "Unnveig Aas",
-          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+          "name": "Sondre Lerche",
+          "url": "https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub"
         }
       ],
-      "duration_ms": 199840,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/2HbDSISON7nWNdnUhaRPDA"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Flora Kuriosa",
-        "url": "https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f8kedal",
-          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
-        }
-      ],
-      "duration_ms": 183456,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Right as Rain",
-        "url": "https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2"
-      },
-      "artists": [
-        {
-          "name": "Marianne Sveen",
-          "url": "https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD"
-        }
-      ],
-      "duration_ms": 278095,
-      "name": "Right as Rain",
-      "url": "https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "A Dangerous Thing",
-        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "A Dangerous Thing",
-      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Skisser",
-        "url": "https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 184320,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Jonas Alaska",
-        "url": "https://open.spotify.com/album/27tzQzthvpruYJmo2X5PcT"
-      },
-      "artists": [
-        {
-          "name": "Jonas Alaska",
-          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
-        }
-      ],
-      "duration_ms": 224179,
-      "name": "October",
-      "url": "https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Time Of The Blue",
-        "url": "https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 226122,
-      "name": "Time Of The Blue",
-      "url": "https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/3LK4XYyHKG5JZZ31DIEyuE"
-      },
-      "artists": [
-        {
-          "name": "August Flendahl",
-          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
-        }
-      ],
-      "duration_ms": 149491,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/0oabsZs7Z8lsKGpaKyyjG2"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM"
+      "duration_ms": 607299,
+      "name": "Dead Of The Night",
+      "url": "https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -671,6 +511,38 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/1EmBIWpPRn6MNe311hh8VA"
+      },
+      "artists": [
+        {
+          "name": "Tina Refsnes",
+          "url": "https://open.spotify.com/artist/4k4ZCaLoprf7qfc8DSWaKL"
+        }
+      ],
+      "duration_ms": 234313,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
         "name": "Poetry & Airplanes",
         "url": "https://open.spotify.com/album/34oIehPYK5k45VsV6nCM1M"
       },
@@ -683,22 +555,6 @@
       "duration_ms": 211413,
       "name": "I Was Just Thinking",
       "url": "https://open.spotify.com/track/7gRiW3eFoQWUNe5h7ggGHt"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Boy From The North (ADA / USA)",
-        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
-      },
-      "artists": [
-        {
-          "name": "Monica Heldal",
-          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
-        }
-      ],
-      "duration_ms": 284320,
-      "name": "Boy from the North",
-      "url": "https://open.spotify.com/track/517ubeor9CZCN27nif3Bev"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -719,50 +575,66 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Was There Nothing?",
-        "url": "https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC"
+        "name": "Time Of The Blue",
+        "url": "https://open.spotify.com/album/5ZFwywhpxDFt2dBbWIfXEo"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 228950,
-      "name": "Was There Nothing?",
-      "url": "https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S"
+      "duration_ms": 226122,
+      "name": "Time Of The Blue",
+      "url": "https://open.spotify.com/track/5w07hToyU4dsmmlZNFWfhR"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "While I Was Asleep",
-        "url": "https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh"
+        "name": "Boy From The North (ADA / USA)",
+        "url": "https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Monica Heldal",
+          "url": "https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0"
         }
       ],
-      "duration_ms": 207120,
-      "name": "While I Was Asleep",
-      "url": "https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn"
+      "duration_ms": 284320,
+      "name": "Boy from the North",
+      "url": "https://open.spotify.com/track/517ubeor9CZCN27nif3Bev"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "When the Cellar Children See the Light of Day",
-        "url": "https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS"
+        "name": "A Dangerous Thing",
+        "url": "https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj"
       },
       "artists": [
         {
-          "name": "Mirel Wagner",
-          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
         }
       ],
-      "duration_ms": 180072,
-      "name": "Oak Tree",
-      "url": "https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1"
+      "duration_ms": 215573,
+      "name": "A Dangerous Thing",
+      "url": "https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Lou Lou",
+        "url": "https://open.spotify.com/album/39Tx9lVSciEVoYmCCdpkXH"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "duration_ms": 124720,
+      "name": "Lou Lou",
+      "url": "https://open.spotify.com/track/7fdPcyE4xzQlm0Fkf0JERy"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -787,18 +659,66 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/1EmBIWpPRn6MNe311hh8VA"
+        "name": "Jonas Alaska",
+        "url": "https://open.spotify.com/album/27tzQzthvpruYJmo2X5PcT"
       },
       "artists": [
         {
-          "name": "Tina Refsnes",
-          "url": "https://open.spotify.com/artist/4k4ZCaLoprf7qfc8DSWaKL"
+          "name": "Jonas Alaska",
+          "url": "https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148"
         }
       ],
-      "duration_ms": 234313,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/6qaUubfgvfZU9OUK7L57Ap"
+      "duration_ms": 224179,
+      "name": "October",
+      "url": "https://open.spotify.com/track/2iaTly1zrG9ioUJqd8nsaj"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/4b3tDQeODz833k7Dr9bYgw"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/5WWL4PVYEgeYQ7QdtT5hIM"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "When the Cellar Children See the Light of Day",
+        "url": "https://open.spotify.com/album/0dnVXgimdtGncdlHWU5mvS"
+      },
+      "artists": [
+        {
+          "name": "Mirel Wagner",
+          "url": "https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx"
+        }
+      ],
+      "duration_ms": 180072,
+      "name": "Oak Tree",
+      "url": "https://open.spotify.com/track/2RlEWLRTsXedPq1fzc6cO1"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "While I Was Asleep",
+        "url": "https://open.spotify.com/album/5R7mene0tcfZatcJGwSgeh"
+      },
+      "artists": [
+        {
+          "name": "Darling West",
+          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "While I Was Asleep",
+      "url": "https://open.spotify.com/track/5nm9UGGtlz9oguC4sHFcdn"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -819,18 +739,34 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "What Hurts the Most (Is Knowing You Want to Leave)",
-        "url": "https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI"
+        "name": "Right as Rain",
+        "url": "https://open.spotify.com/album/5zeC7hP1L3tLcTdrxkXur2"
       },
       "artists": [
         {
-          "name": "Unnveig Aas",
-          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+          "name": "Marianne Sveen",
+          "url": "https://open.spotify.com/artist/5kXWa36lvxl2qHX4dGEMJD"
         }
       ],
-      "duration_ms": 271280,
-      "name": "What Hurts the Most (Is Knowing You Want to Leave)",
-      "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"
+      "duration_ms": 278095,
+      "name": "Right as Rain",
+      "url": "https://open.spotify.com/track/5IgCnPZUVKe5PeIZfuwfSK"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Sumie",
+        "url": "https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr"
+      },
+      "artists": [
+        {
+          "name": "Sumie",
+          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+        }
+      ],
+      "duration_ms": 195741,
+      "name": "Hunting Sky",
+      "url": "https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -855,114 +791,50 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Sumie",
-        "url": "https://open.spotify.com/album/3tiM2R7jehuemA0aI7uDBr"
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j"
       },
       "artists": [
         {
-          "name": "Sumie",
-          "url": "https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan"
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
         }
       ],
-      "duration_ms": 195741,
-      "name": "Hunting Sky",
-      "url": "https://open.spotify.com/track/0vPFdDIMjJOlkcKv4D5ZPK"
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+        "name": "Was There Nothing?",
+        "url": "https://open.spotify.com/album/1zkqNHMoZHeWxN13Jf9ijC"
       },
       "artists": [
         {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Homesick",
-      "url": "https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP"
+      "duration_ms": 228950,
+      "name": "Was There Nothing?",
+      "url": "https://open.spotify.com/track/1lJ33w4urTeHl9UPco2R4S"
     },
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "Big Bad Good",
-        "url": "https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu"
+        "name": "Flora Kuriosa",
+        "url": "https://open.spotify.com/album/2nIvNjwpTUfptECJWNHArk"
       },
       "artists": [
         {
-          "name": "My Bubba",
-          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
+          "name": "Fr\u00f8kedal",
+          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Big Bad Good",
-      "url": "https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Better Than Gold (Live)",
-        "url": "https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep"
-      },
-      "artists": [
-        {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
-        }
-      ],
-      "duration_ms": 240706,
-      "name": "Better Than Gold - Live",
-      "url": "https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Fisherman's Woman",
-        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
-      },
-      "artists": [
-        {
-          "name": "Emil\u00edana Torrini",
-          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
-        }
-      ],
-      "duration_ms": 184533,
-      "name": "Sunny Road",
-      "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
-    },
-    {
-      "added_at": "2022-01-06 23:01:00",
-      "album": {
-        "name": "The Sparks Flew Up",
-        "url": "https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm"
-      },
-      "artists": [
-        {
-          "name": "Morten Myklebust",
-          "url": "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
-        }
-      ],
-      "duration_ms": 153373,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso"
+      "duration_ms": 183456,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4t4uVzI6aDiMw2cEzQWVFI"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -987,8 +859,88 @@
     {
       "added_at": "2022-01-06 23:01:00",
       "album": {
-        "name": "After My Time",
-        "url": "https://open.spotify.com/album/1s68byNQbjggSvT9FCLnAL"
+        "name": "What Hurts the Most (Is Knowing You Want to Leave)",
+        "url": "https://open.spotify.com/album/7JXDlE2NdHxGcF55Q0whhI"
+      },
+      "artists": [
+        {
+          "name": "Unnveig Aas",
+          "url": "https://open.spotify.com/artist/1Oa2BGrI6B0GvKabXDU9Se"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "What Hurts the Most (Is Knowing You Want to Leave)",
+      "url": "https://open.spotify.com/track/4AmUVjNGTEd0DsLDlo518s"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Big Bad Good",
+        "url": "https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu"
+      },
+      "artists": [
+        {
+          "name": "My Bubba",
+          "url": "https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Big Bad Good",
+      "url": "https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Homesick",
+      "url": "https://open.spotify.com/track/0WeqauIUZSjsupDGXsXWsP"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3LK4XYyHKG5JZZ31DIEyuE"
+      },
+      "artists": [
+        {
+          "name": "August Flendahl",
+          "url": "https://open.spotify.com/artist/2YdblFMUbUSxdwFNffi7ct"
+        }
+      ],
+      "duration_ms": 149491,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/0oabsZs7Z8lsKGpaKyyjG2"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Fisherman's Woman",
+        "url": "https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "Sunny Road",
+      "url": "https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "Better Than Gold (Live)",
+        "url": "https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep"
       },
       "artists": [
         {
@@ -996,9 +948,41 @@
           "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
         }
       ],
-      "duration_ms": 216320,
-      "name": "After My Time",
-      "url": "https://open.spotify.com/track/4jIaQrAVTBvJqlT1YGz8My"
+      "duration_ms": 240706,
+      "name": "Better Than Gold - Live",
+      "url": "https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "The Sparks Flew Up",
+        "url": "https://open.spotify.com/album/5wYo12gI0ZvUSQPCLq2YCm"
+      },
+      "artists": [
+        {
+          "name": "Morten Myklebust",
+          "url": "https://open.spotify.com/artist/7zFc6IlzgDwyXojYH1GIkI"
+        }
+      ],
+      "duration_ms": 153373,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/4SfqeRYu1yZmEMa0HW1nso"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "The Ghost In Your Smile // Seventeen",
+        "url": "https://open.spotify.com/album/17hQBX397LLMjSIi4qzQ0T"
+      },
+      "artists": [
+        {
+          "name": "Jarle Skavhellen",
+          "url": "https://open.spotify.com/artist/7Jrf6fSkTNnii81KgsH7Td"
+        }
+      ],
+      "duration_ms": 227760,
+      "name": "The Ghost In Your Smile",
+      "url": "https://open.spotify.com/track/3HYG7nGHhpcMJjMF9W8AAe"
     },
     {
       "added_at": "2022-01-06 23:01:00",
@@ -1015,6 +999,22 @@
       "duration_ms": 168373,
       "name": "Alle snakker sant",
       "url": "https://open.spotify.com/track/6Mjz6Kra9NP0qffCIt7ltm"
+    },
+    {
+      "added_at": "2022-01-06 23:01:00",
+      "album": {
+        "name": "I'll Be Waiting For You (In the Grey)",
+        "url": "https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f"
+      },
+      "artists": [
+        {
+          "name": "Silver Lining",
+          "url": "https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/6EWRRqhOPsm1eAtnDwx4fu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4jUyNIMkj6N"

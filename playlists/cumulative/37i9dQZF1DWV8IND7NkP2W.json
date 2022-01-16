@@ -239,7 +239,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 222056,
       "name": "AIRPLANE",
       "url": "https://open.spotify.com/track/4sbyEn8z6ZInVFHG9dMX2H"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 217000,
       "name": "Aquamarine",
       "url": "https://open.spotify.com/track/6lzL8uBR5CMV25mC8mOgPA"
@@ -677,7 +677,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 143786,
       "name": "Blind",
       "url": "https://open.spotify.com/track/2YUO217Ns1r4xxkTBzHt93"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/1ADXpTiELHI676vSwznCUs"
@@ -875,7 +875,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 76201,
       "name": "Cheongshin",
       "url": "https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 104000,
       "name": "Curtain Call",
       "url": "https://open.spotify.com/track/38XfPiYuoayjbUX9Q9qOzK"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 169824,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/3Y753I7WavrP3HQMoAdlXK"
@@ -1737,7 +1737,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 202068,
       "name": "evening",
       "url": "https://open.spotify.com/track/5DEhdsysvAgKaEse1YMDYa"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 92537,
       "name": "fortitude",
       "url": "https://open.spotify.com/track/5JLAvVe385Xt7i3PIqAqRu"
@@ -1987,7 +1987,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 93658,
       "name": "Gohongi Blues",
       "url": "https://open.spotify.com/track/50EahQA09yB4uLGJIG4awJ"
@@ -2124,6 +2124,24 @@
     },
     {
       "album": {
+        "name": "I did them Pianos",
+        "url": "https://open.spotify.com/album/4v8qdQpFWvFNzIA8GG4zkn"
+      },
+      "artists": [
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97729,
+      "name": "I did them Pianos",
+      "url": "https://open.spotify.com/track/4jpaj2fxYXnTz8aWUORyqf"
+    },
+    {
+      "album": {
         "name": "I Pray For Them",
         "url": "https://open.spotify.com/album/3Pw379vtXAHTdm911egfac"
       },
@@ -2229,7 +2247,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 176303,
       "name": "INNER CHILD",
       "url": "https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq"
@@ -2403,7 +2421,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 76800,
       "name": "Keemel",
       "url": "https://open.spotify.com/track/7kc96tpLbfO5IP3Vg1aaQT"
@@ -3057,7 +3075,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 210873,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/64I9S8n6lJxcR3P0tZa8UY"
@@ -3259,7 +3277,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 181744,
       "name": "Morning Steps",
       "url": "https://open.spotify.com/track/5z9YljuHcRfG76Pb5Yclb1"
@@ -3335,7 +3353,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 189562,
       "name": "My Holiday",
       "url": "https://open.spotify.com/track/2SoUXBqoOo1R0QnDQSnB58"
@@ -3741,7 +3759,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 228000,
       "name": "Our Planet (Instrumental)",
       "url": "https://open.spotify.com/track/1fHW5nqWYdTvuru0xIC1ef"
@@ -3795,7 +3813,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 177506,
       "name": "Peace to the HIP-HOP crowd",
       "url": "https://open.spotify.com/track/0ThjfSJgCX0fFMllwjMjwF"
@@ -3831,7 +3849,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 189902,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
@@ -3975,7 +3993,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 716736,
       "name": "potatoL",
       "url": "https://open.spotify.com/track/6paRGNFtYLHyBdxTk5TGV5"
@@ -4029,7 +4047,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 105463,
       "name": "Raining",
       "url": "https://open.spotify.com/track/2COYh59wnIaHLKjth7pM19"
@@ -4047,7 +4065,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Rainydays",
       "url": "https://open.spotify.com/track/6EanWbtCMZrDPgDza9DQBC"
@@ -4141,7 +4159,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 199643,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/38geoXbCoM3ZxAV6WP0IqR"
@@ -4667,7 +4685,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 190556,
       "name": "So Long - Instrumental",
       "url": "https://open.spotify.com/track/4UvQOOyT1gGuTqxIw9tteA"
@@ -4999,7 +5017,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 144466,
       "name": "The Answer (from)",
       "url": "https://open.spotify.com/track/2lrMcnt8NOLKyVvYgJIpd3"
@@ -5259,7 +5277,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 128918,
       "name": "Toy Coffee",
       "url": "https://open.spotify.com/track/7JpvzCoiFbTGglpNVDG5GQ"
@@ -5295,7 +5313,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 130037,
       "name": "Transient",
       "url": "https://open.spotify.com/track/4RXAQJaBwtNoCTEDKdRFaG"
@@ -5697,7 +5715,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 118296,
       "name": "XO",
       "url": "https://open.spotify.com/track/7gpDUoMZKBOiszaZ8sx17F"
@@ -5799,7 +5817,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
@@ -5871,7 +5889,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 110250,
       "name": "\u591c\u666f 01",
       "url": "https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p"

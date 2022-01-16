@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 222080,
       "name": "Calle 2 - Remix",
       "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
@@ -855,7 +855,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 247174,
       "name": "DESPUES QUE TE PERDI",
       "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
@@ -877,6 +877,24 @@
       "duration_ms": 141688,
       "name": "Digame Usted",
       "url": "https://open.spotify.com/track/5ePqRYI7zlRq7xCDfO3cJ7"
+    },
+    {
+      "album": {
+        "name": "Dime al O\u00eddo",
+        "url": "https://open.spotify.com/album/0NRqcJWIOumhKAfHAIwzBJ"
+      },
+      "artists": [
+        {
+          "name": "Rhino",
+          "url": "https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171634,
+      "name": "Dime al O\u00eddo",
+      "url": "https://open.spotify.com/track/7wQXTBpseYNCs61ODmEJfk"
     },
     {
       "album": {
@@ -931,7 +949,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 244210,
       "name": "Dm",
       "url": "https://open.spotify.com/track/396ixTcpiq8mNGclHGN8wK"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
@@ -1453,7 +1471,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 164352,
       "name": "No Puedo Fingir",
       "url": "https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t"
@@ -1541,7 +1559,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 188589,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/77XZ8DaR6cfQT6MtIkQQbq"
@@ -2235,7 +2253,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 163080,
       "name": "Tres Rosas",
       "url": "https://open.spotify.com/track/44CVGn84afMnxEW1qKylzj"
@@ -2407,7 +2425,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 186666,
       "name": "Vuelve a Mi",
       "url": "https://open.spotify.com/track/4iI2kB0pyRFZdq1BJ1ZQFv"
@@ -2425,7 +2443,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 174335,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9"

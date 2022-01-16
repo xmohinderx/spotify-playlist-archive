@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 154053,
       "name": "A Tear Fell",
       "url": "https://open.spotify.com/track/1owWviRSKKgHJB9QaUG8u5"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 156493,
       "name": "Be Bop a Lula",
       "url": "https://open.spotify.com/track/1QUQkPdroMjVD4FeEQ1c3U"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 162106,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/1XriePxA916cla1W90JBLt"
@@ -521,7 +521,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 138360,
       "name": "Diana",
       "url": "https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX"
@@ -863,7 +863,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 177493,
       "name": "I'll Take You Home Again, Kathleen",
       "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
@@ -899,7 +899,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 147706,
       "name": "I'm Sorry I Made You Cry",
       "url": "https://open.spotify.com/track/56vJtBzZ7a8thnNzq2BgSO"
@@ -1685,7 +1685,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 145520,
       "name": "Somebody Stole My Gal",
       "url": "https://open.spotify.com/track/7h7Tc9jvW74WbhkvIofPO8"
@@ -1779,6 +1779,24 @@
       "duration_ms": 134211,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/4EaVZab0VnTWwWnO3HuEAp"
+    },
+    {
+      "album": {
+        "name": "Backline Volume 59",
+        "url": "https://open.spotify.com/album/3rEyJZuIPYOIel5BIVYknR"
+      },
+      "artists": [
+        {
+          "name": "Petula Clark",
+          "url": "https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Suddenly There's A Valley",
+      "url": "https://open.spotify.com/track/5zOIwi0Q9SzFoM8NM9hWdt"
     },
     {
       "album": {
@@ -2143,7 +2161,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 143506,
       "name": "Walking My Baby Back Home",
       "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
@@ -2273,7 +2291,7 @@
       ],
       "date_added": "2020-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 138973,
       "name": "Why Do Fools Fall in Love",
       "url": "https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY"

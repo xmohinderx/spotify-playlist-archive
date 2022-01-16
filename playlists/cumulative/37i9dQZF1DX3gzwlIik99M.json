@@ -91,7 +91,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 193248,
       "name": "Alteraci\u00f3n",
       "url": "https://open.spotify.com/track/4hTa9nsXD6dDTVcaIheKj6"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 225312,
       "name": "Apatrida",
       "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Condemned By the Alliance",
+        "url": "https://open.spotify.com/album/7fsbkqU3mzhmMlwtsnMJhb"
+      },
+      "artists": [
+        {
+          "name": "Carnivore Diprosopus",
+          "url": "https://open.spotify.com/artist/4dM0JZbaa2hbXtgElIjNMD"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Creation of a Sadistic Empire",
+      "url": "https://open.spotify.com/track/1RwjinRNyho7j5GOQIXCBV"
+    },
+    {
+      "album": {
         "name": "El Cielo Ser\u00e1 Testigo",
         "url": "https://open.spotify.com/album/3UuKWZcyifQZ2Ucv3hPp92"
       },
@@ -361,7 +379,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 268303,
       "name": "Credo de Darwin",
       "url": "https://open.spotify.com/track/5PV44PZg4Y3YSbahFKLpjB"
@@ -397,7 +415,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 287573,
       "name": "Culto vacio radical",
       "url": "https://open.spotify.com/track/7iSaJ4LIAMNbU45Rf48PXa"
@@ -415,7 +433,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 196000,
       "name": "C\u00f3moda Ceguera",
       "url": "https://open.spotify.com/track/5CbR1akjwCG94lK34D1MF6"
@@ -451,7 +469,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 286747,
       "name": "De las Profundidades de la Tierra",
       "url": "https://open.spotify.com/track/2APmd5EEbt25qhBbJiD8sE"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 258750,
       "name": "Despierta (Remake 2019)",
       "url": "https://open.spotify.com/track/1rtFWKLpfQMFbt28a4Adrr"
@@ -707,7 +725,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 110000,
       "name": "El Charro",
       "url": "https://open.spotify.com/track/4kLJUOOd8yrb1frZ3oKFE1"
@@ -747,6 +765,24 @@
       "duration_ms": 275435,
       "name": "El Infierno de Dante",
       "url": "https://open.spotify.com/track/0vjTp23Jg2cAZSq9x5GlxK"
+    },
+    {
+      "album": {
+        "name": "Nueva Cultura Pesada",
+        "url": "https://open.spotify.com/album/6vns6diLvLpeb4uKbWXfr9"
+      },
+      "artists": [
+        {
+          "name": "Against",
+          "url": "https://open.spotify.com/artist/070BigOGVs8XZ4qkYcSL74"
+        }
+      ],
+      "date_added": "2020-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387818,
+      "name": "El Libertador",
+      "url": "https://open.spotify.com/track/00mDBmjK48mb4gpID7VkY8"
     },
     {
       "album": {
@@ -819,7 +855,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 240908,
       "name": "El Rezo",
       "url": "https://open.spotify.com/track/0v48VlzRAMzZ0nySTIsCBW"
@@ -1161,7 +1197,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 260944,
       "name": "Grito Insurgente",
       "url": "https://open.spotify.com/track/3o9SkLJYSQsrMGZQsqgcRl"
@@ -1197,7 +1233,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 275600,
       "name": "Heavy Drinker",
       "url": "https://open.spotify.com/track/1OCNIGeQ6cI6OM9RlLx7fm"
@@ -1341,7 +1377,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 180693,
       "name": "La Caperuputa y el Lobo Culi\u00f3n",
       "url": "https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y"
@@ -1413,7 +1449,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 124948,
       "name": "Las Piedras No Se Comen",
       "url": "https://open.spotify.com/track/6LZOde1jUcuNLrQSrKLqcT"
@@ -1975,7 +2011,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 161881,
       "name": "Regresi\u00f3n",
       "url": "https://open.spotify.com/track/4tmIaTtJDLBkreZhO3w4o7"
@@ -1993,7 +2029,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 374026,
       "name": "Reinar\u00e1 el Caos",
       "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
@@ -2011,7 +2047,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-04",
+      "date_removed": null,
       "duration_ms": 165416,
       "name": "Relaci\u00f3n Canina 2.0",
       "url": "https://open.spotify.com/track/6a3u4DQ3I26ICkcEN25EcX"
@@ -2267,7 +2303,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 242480,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/22kU9DVCNqs61A4MO52QXq"
@@ -2303,7 +2339,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 165301,
       "name": "Terror Dogm\u00e1tico",
       "url": "https://open.spotify.com/track/6hVfUHmjv4hrJODPHB4NXU"
@@ -2429,7 +2465,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 360461,
       "name": "Veneno en las Palabras",
       "url": "https://open.spotify.com/track/13RW0DQDJXsbjC6jFS54cH"
@@ -2483,7 +2519,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"

@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
   "name": "Hype",
-  "num_followers": 2298751,
+  "num_followers": 2298809,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI4ODIwMSwwMDAwMDAwMDljMzVhYjgzNGUxYzBlZGE3NjY3MmEyODg4NTA2NTc5",
+  "snapshot_id": "MTY0MjI5MzkzMiwwMDAwMDAwMGUzNDE2ZmQxMzgxNjE3N2YxNzQzNGQyYjI2ZTRiYWVi",
   "tracks": [
     {
       "added_at": "2022-01-14 05:01:00",
@@ -95,26 +95,6 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Heartbroken Twenty Twenty",
-        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
-      },
-      "artists": [
-        {
-          "name": "Mike Zombie",
-          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
-        },
-        {
-          "name": "DJ Jayhood",
-          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
-        }
-      ],
-      "duration_ms": 171940,
-      "name": "Heartbroken Twenty Twenty",
-      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
         "name": "BRAVE",
         "url": "https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB"
       },
@@ -135,6 +115,26 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
+        "name": "Heartbroken Twenty Twenty",
+        "url": "https://open.spotify.com/album/2KsT3d5w4qQZY1HJnBPlV4"
+      },
+      "artists": [
+        {
+          "name": "Mike Zombie",
+          "url": "https://open.spotify.com/artist/4Vb3ImmWPDA7Jszi6WLhdQ"
+        },
+        {
+          "name": "DJ Jayhood",
+          "url": "https://open.spotify.com/artist/7s0NPSWJQJOS4TNhENy85G"
+        }
+      ],
+      "duration_ms": 171940,
+      "name": "Heartbroken Twenty Twenty",
+      "url": "https://open.spotify.com/track/51bkbWYBXyLk7NTM4vWb3Z"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
         "name": "Can We Be Free",
         "url": "https://open.spotify.com/album/3gc3VKoim4ygl5LyfePAfP"
       },
@@ -151,26 +151,18 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "TIKTOK",
-        "url": "https://open.spotify.com/album/0DKuz4XKK4MSUdY2aVyXw4"
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
       },
       "artists": [
         {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "$teven Cannon",
-          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 150193,
-      "name": "TIKTOK",
-      "url": "https://open.spotify.com/track/0TQ2Sfay7vPm8RclGBVnGi"
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -215,18 +207,26 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+        "name": "TIKTOK",
+        "url": "https://open.spotify.com/album/0DKuz4XKK4MSUdY2aVyXw4"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+      "duration_ms": 150193,
+      "name": "TIKTOK",
+      "url": "https://open.spotify.com/track/0TQ2Sfay7vPm8RclGBVnGi"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -243,30 +243,6 @@
       "duration_ms": 223999,
       "name": "Here With Me",
       "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
-        "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        },
-        {
-          "name": "Young Buck",
-          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
-        },
-        {
-          "name": "DJ Afterthought",
-          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
-      "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -335,6 +311,30 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
+        "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+        "url": "https://open.spotify.com/album/5qMppyyuoB5HQIYJyA82OY"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        },
+        {
+          "name": "Young Buck",
+          "url": "https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q"
+        },
+        {
+          "name": "DJ Afterthought",
+          "url": "https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Mawlee (feat. Young Buck & DJ Afterthought)",
+      "url": "https://open.spotify.com/track/0CLaGp0DMEjocSrAtvhcJl"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
         "name": "Falling (Alexandar Smash Remix)",
         "url": "https://open.spotify.com/album/0jbULvSiNGAHkiTrtoVZTR"
       },
@@ -375,26 +375,6 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
         "name": "Gassed Up",
         "url": "https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 238285,
       "name": "Gassed Up",
       "url": "https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -443,30 +443,6 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "No Limit",
-        "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "No Limit",
-      "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
         "name": "Trampoline (Jauz Remix)",
         "url": "https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0"
       },
@@ -483,6 +459,74 @@
       "duration_ms": 236170,
       "name": "Trampoline - Jauz Remix",
       "url": "https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Griztronics II (Another Level)",
+        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Griztronics II (Another Level)",
+      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Loving You Kills Me",
+        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 174657,
+      "name": "Loving You Kills Me",
+      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Trap Anthem",
+        "url": "https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 147378,
+      "name": "Trap Anthem",
+      "url": "https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -519,94 +563,6 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Loving You Kills Me",
-        "url": "https://open.spotify.com/album/53r3BRA2TeyJyEtYDBrI60"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        }
-      ],
-      "duration_ms": 174657,
-      "name": "Loving You Kills Me",
-      "url": "https://open.spotify.com/track/2Zjg31wnbhRzGsnOrnEY0r"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Griztronics II (Another Level)",
-        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Griztronics II (Another Level)",
-      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "PEACE LOVE & WUBZ",
-        "url": "https://open.spotify.com/album/2dEFkkBjhmbWc2VT3zkcgu"
-      },
-      "artists": [
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        },
-        {
-          "name": "Cojaxx",
-          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
-        }
-      ],
-      "duration_ms": 244572,
-      "name": "PEACE LOVE & WUBZ",
-      "url": "https://open.spotify.com/track/3YWJoMXUqK9SOHPFTSSQMj"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Trap Anthem",
-        "url": "https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 147378,
-      "name": "Trap Anthem",
-      "url": "https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
         "name": "NOVA (The Remixes, Vol. 1)",
         "url": "https://open.spotify.com/album/6jqYfL2en7nuHT7fYfBJQE"
       },
@@ -635,26 +591,22 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "TILL I DIE",
-        "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
+        "name": "PEACE LOVE & WUBZ",
+        "url": "https://open.spotify.com/album/2dEFkkBjhmbWc2VT3zkcgu"
       },
       "artists": [
         {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
         },
         {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "Cojaxx",
+          "url": "https://open.spotify.com/artist/6R7363ayBrwb16Hh3G5ONZ"
         }
       ],
-      "duration_ms": 171810,
-      "name": "TILL I DIE",
-      "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
+      "duration_ms": 244572,
+      "name": "PEACE LOVE & WUBZ",
+      "url": "https://open.spotify.com/track/3YWJoMXUqK9SOHPFTSSQMj"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -683,6 +635,54 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
+        "name": "TILL I DIE",
+        "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 171810,
+      "name": "TILL I DIE",
+      "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/2Wa2Q6AhkbVvlpu1Wuz8Ir"
       },
@@ -703,26 +703,6 @@
       "duration_ms": 171151,
       "name": "SHUTUP (with Scrilla King)",
       "url": "https://open.spotify.com/track/4o6VZA8EusQrSSEs8dlcB9"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "No Stoppin (feat. GOLD)",
-        "url": "https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "No Stoppin (feat. GOLD)",
-      "url": "https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -763,6 +743,26 @@
       "duration_ms": 187000,
       "name": "Cheatcode",
       "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "No Stoppin (feat. GOLD)",
+        "url": "https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "No Stoppin (feat. GOLD)",
+      "url": "https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
         "name": "NOSEBLEED",
         "url": "https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz"
       },
@@ -967,22 +947,22 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Work That Body",
-        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
       },
       "artists": [
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
         },
         {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Work That Body",
-      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
+      "duration_ms": 169714,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1007,22 +987,22 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0"
+        "name": "Work That Body",
+        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
       },
       "artists": [
         {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
         },
         {
-          "name": "Ace Aura",
-          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 248275,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O"
+      "duration_ms": 165000,
+      "name": "Work That Body",
+      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1047,118 +1027,42 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "RUNAWAY (feat. Josh Rubin)",
-        "url": "https://open.spotify.com/album/1IEpclNm8RhgxVvLVPDJ1i"
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/2uBXFc1imj9UxZYp6fCMv0"
       },
       "artists": [
         {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
         },
         {
-          "name": "Josh Rubin",
-          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+          "name": "Ace Aura",
+          "url": "https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq"
         }
       ],
-      "duration_ms": 209137,
-      "name": "RUNAWAY (feat. Josh Rubin)",
-      "url": "https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5"
+      "duration_ms": 248275,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6PVxTUWkUdH5nqmGL1mO6O"
     },
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "STFU",
-        "url": "https://open.spotify.com/album/1nCOqWGL5YHttCIQURnmmY"
+        "name": "Call Of The Unicorn",
+        "url": "https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1"
       },
       "artists": [
         {
-          "name": "G-Buck",
-          "url": "https://open.spotify.com/artist/4Oxbc00K1336zJYgpR01Aw"
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
         },
         {
-          "name": "Sam King",
-          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+          "name": "Tasha Baxter",
+          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
         }
       ],
-      "duration_ms": 180298,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "IDK, Vol. 2",
-        "url": "https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Run Like the Wind",
-      "url": "https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        },
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod"
-      },
-      "artists": [
-        {
-          "name": "Zannen",
-          "url": "https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC"
-        },
-        {
-          "name": "$teven Cannon",
-          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Carbonara",
-        "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
-      },
-      "artists": [
-        {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
-        },
-        {
-          "name": "Spag Heddy",
-          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Carbonara",
-      "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
+      "duration_ms": 190856,
+      "name": "Call Of The Unicorn",
+      "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1183,6 +1087,62 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
+        "name": "IDK, Vol. 2",
+        "url": "https://open.spotify.com/album/2l7fX4vQC0CIHZVJ63aPYt"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 171600,
+      "name": "Run Like the Wind",
+      "url": "https://open.spotify.com/track/1QTioKoSnWLDde5BunQnCp"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "RUNAWAY (feat. Josh Rubin)",
+        "url": "https://open.spotify.com/album/1IEpclNm8RhgxVvLVPDJ1i"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        },
+        {
+          "name": "Josh Rubin",
+          "url": "https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0"
+        }
+      ],
+      "duration_ms": 209137,
+      "name": "RUNAWAY (feat. Josh Rubin)",
+      "url": "https://open.spotify.com/track/16Df0dHOZk8miL46zPDaZ5"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod"
+      },
+      "artists": [
+        {
+          "name": "Zannen",
+          "url": "https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC"
+        },
+        {
+          "name": "$teven Cannon",
+          "url": "https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
         "name": "Takin' Over",
         "url": "https://open.spotify.com/album/05yXy0GVXm8w34eH69fMdY"
       },
@@ -1203,22 +1163,62 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Call Of The Unicorn",
-        "url": "https://open.spotify.com/album/3vKSdCzdcMhNc23QvxrJp1"
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/1daFOzo9pAJi0nDoR03roY"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         },
         {
-          "name": "Tasha Baxter",
-          "url": "https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
         }
       ],
-      "duration_ms": 190856,
-      "name": "Call Of The Unicorn",
-      "url": "https://open.spotify.com/track/2KeKdCw71RYkItxXeW0UyQ"
+      "duration_ms": 135600,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/0wOx3pICvsNIwobd0XnUxb"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Carbonara",
+        "url": "https://open.spotify.com/album/1VxhQYQGPWGOrH2l61pYG8"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "Spag Heddy",
+          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Carbonara",
+      "url": "https://open.spotify.com/track/1e4VuceNyO8lxcrA0nX0MW"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "STFU",
+        "url": "https://open.spotify.com/album/1nCOqWGL5YHttCIQURnmmY"
+      },
+      "artists": [
+        {
+          "name": "G-Buck",
+          "url": "https://open.spotify.com/artist/4Oxbc00K1336zJYgpR01Aw"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL"
+        }
+      ],
+      "duration_ms": 180298,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
+        "name": "Emergence",
+        "url": "https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "LLLLNNNN",
+          "url": "https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR"
+        }
+      ],
+      "duration_ms": 176516,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
         "name": "Lasers",
         "url": "https://open.spotify.com/album/4wx2Az0dfbr23XFjOXQgsg"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 224827,
       "name": "RACKS",
       "url": "https://open.spotify.com/track/5xLtwPMec1Mx2haACjN3Tm"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Emergence",
-        "url": "https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "LLLLNNNN",
-          "url": "https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "Emergence",
-      "url": "https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe"
     },
     {
       "added_at": "2022-01-14 05:01:00",

@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 192960,
       "name": "Feels Like We Only Go Backwards",
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 411346,
       "name": "I Need Somebody To Love Tonight",
       "url": "https://open.spotify.com/track/6dC66ztLWiYp34KBd68E2b"
@@ -1153,7 +1153,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 327946,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/1wyluqXP2ujdTpCfm1E617"
@@ -1625,7 +1625,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 243400,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/1ph6Bncj7s3BmYp6FkIzP8"
@@ -1885,6 +1885,24 @@
       "duration_ms": 309586,
       "name": "Oi-1",
       "url": "https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3"
+    },
+    {
+      "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI"
     },
     {
       "album": {
@@ -3061,7 +3079,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-16",
       "duration_ms": 163066,
       "name": "You Keep Me Hangin' On - Stereo Version",
       "url": "https://open.spotify.com/track/5RZ2l6TkDgWdSbo5fZDKn4"
