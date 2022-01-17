@@ -53,7 +53,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 253800,
       "name": "10 Melodias vascas: Amorosa",
       "url": "https://open.spotify.com/track/3YYul2wdr2DYdhpYwX1Lxd"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 254893,
       "name": "3 Divertimenti: No. 2. Intermezzo, \"Notturno\": Lentissimo",
       "url": "https://open.spotify.com/track/2NcGKeCZeVY9mdFmn7PZhx"
@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 237720,
       "name": "3 Miniatures: No. 1. Menuet",
       "url": "https://open.spotify.com/track/2q7C8Une4GcKgAmVouR0bh"
@@ -189,7 +189,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 559853,
       "name": "3 Rondo Brillants, Op. 2: No. 2. Andante - Rondo moderato",
       "url": "https://open.spotify.com/track/4wYtDWIBePF44xlFrnEnyc"
@@ -381,7 +381,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 266386,
       "name": "Bachianas brasileiras No. 2, \"O trenzinho do Caipira\": IV. Toccata: O trenzinho do Caipira (The Peasant\u2019s Little Train)",
       "url": "https://open.spotify.com/track/5Swnw3xi06SkYEz7bF559s"
@@ -475,7 +475,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 562680,
       "name": "Brazilian Fantasy",
       "url": "https://open.spotify.com/track/5ce5oVZO1HZHUseTHpfsjP"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 188600,
       "name": "Cafe de la Musique, tango pour Claude",
       "url": "https://open.spotify.com/track/4KjKiIfWabqEoYNo8KuAqC"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 466533,
       "name": "Caligrama",
       "url": "https://open.spotify.com/track/2XrMO6QoDgAmUYS277xx2H"
@@ -575,10 +575,36 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 131466,
       "name": "Canci\u00f3n al \u00e1rbol del olvido - Alberto Ginastera - Argentina",
       "url": "https://open.spotify.com/track/1kMEGUSfS4WTAVB32ojt3f"
+    },
+    {
+      "album": {
+        "name": "Canciones argentinas",
+        "url": "https://open.spotify.com/album/1LU37v5ga4X0yRTgDXKcih"
+      },
+      "artists": [
+        {
+          "name": "Carlos L\u00f3pez Buchardo",
+          "url": "https://open.spotify.com/artist/6zUBSpxpy1cnD780uW7eTL"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Carmen Piazzini",
+          "url": "https://open.spotify.com/artist/6aQUOvrKLOquCAvIGdIwTx"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Canci\u00f3n del carretero",
+      "url": "https://open.spotify.com/track/7qXObeDphJdxxacnecqKbF"
     },
     {
       "album": {
@@ -681,7 +707,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 96946,
       "name": "Can\u00e7ons Populars: Can\u00e7ons Populars: El Testament d'Am\u00e8lia",
       "url": "https://open.spotify.com/track/07LWnpMdekmEjaipVc0PV7"
@@ -725,7 +751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 214240,
       "name": "Castillos de Espana II: Torija (Elegia)",
       "url": "https://open.spotify.com/track/3tTs2Giw2JSAwzfU7opxlq"
@@ -751,7 +777,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 443626,
       "name": "Cauchemar",
       "url": "https://open.spotify.com/track/3YGLxpc8NCVidNbTqJ2oIx"
@@ -773,7 +799,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 105106,
       "name": "Chansons et danses: Danse",
       "url": "https://open.spotify.com/track/1JrN1mcbV2dbBj9VQ8hMvq"
@@ -911,7 +937,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 174826,
       "name": "Concerto for 4 Guitars & Orchestra: VI. \u2014",
       "url": "https://open.spotify.com/track/1XHQR0vbEu0Ntk37xPJh3A"
@@ -979,7 +1005,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 531973,
       "name": "Concierto Caribeno: I. Allegro",
       "url": "https://open.spotify.com/track/43JEZcLb9xNy1fiaCOm71R"
@@ -1013,7 +1039,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 689560,
       "name": "Concierto de Aranjuez for Guitar and Orchestra: 2. Adagio",
       "url": "https://open.spotify.com/track/0DvLcwb4v0rPmJ8S8R9thy"
@@ -1095,7 +1121,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 290360,
       "name": "Conga del Fuego",
       "url": "https://open.spotify.com/track/7f9rdRLCsj6Yx7L0WMilPD"
@@ -1121,7 +1147,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 298666,
       "name": "Congada",
       "url": "https://open.spotify.com/track/1AMBETgRqnvMokCPgKFGRz"
@@ -1143,7 +1169,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 140480,
       "name": "Conjuros (Incantations), Op. 3: El primogenito del cielo y de la tierra (The First-Born of Heaven and Earth)",
       "url": "https://open.spotify.com/track/1NGYUVyHFAN9SrcHyIjMR3"
@@ -1161,7 +1187,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 237066,
       "name": "Coplas de Dos Tipos de Cuidado",
       "url": "https://open.spotify.com/track/09OGdvIoBs0F3Ie4hxgc04"
@@ -1323,7 +1349,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 159186,
       "name": "Danza Brasilera",
       "url": "https://open.spotify.com/track/35yuAaaJb2EMgSSD5Q8ou6"
@@ -1349,7 +1375,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 582693,
       "name": "Danz\u00f3n No. 2 - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/27LJbpGMwAIbVKaM2CRzdH"
@@ -1397,7 +1423,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 160546,
       "name": "Diferencias Sobre el Canto de \"La Dama le Demanda\"",
       "url": "https://open.spotify.com/track/2BIpt0QmVZkaUINTKFdZ4P"
@@ -1493,7 +1519,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 188906,
       "name": "El Cant Dels Ocells",
       "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
@@ -1659,7 +1685,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 107213,
       "name": "Encantamiento (Seis Canciones de Cuna)",
       "url": "https://open.spotify.com/track/0uFjSoOR9qGHfuS5Q1GFai"
@@ -1685,7 +1711,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 443320,
       "name": "Encantamiento (version for flute and harp)",
       "url": "https://open.spotify.com/track/5bEpYJ2aztcFu5ygcue4FO"
@@ -1757,32 +1783,6 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "date_added": "2021-12-21",
-      "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
-      "duration_ms": 223613,
-      "name": "Estancia / Danzas del Ballet: 2. Danza del trigo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
-      "url": "https://open.spotify.com/track/1kjle7ZNexMYUXzGbJI4zI"
-    },
-    {
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
-      },
-      "artists": [
-        {
-          "name": "Alberto Ginastera",
-          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
       "date_removed": "2022-01-11",
@@ -1811,7 +1811,33 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
+      "duration_ms": 223613,
+      "name": "Estancia / Danzas del Ballet: II. Danza del trigo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
+      "url": "https://open.spotify.com/track/1kjle7ZNexMYUXzGbJI4zI"
+    },
+    {
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
       "duration_ms": 204560,
       "name": "Estancia / Danzas del Ballet: IV. Danza final (Malambo) - Live",
       "url": "https://open.spotify.com/track/3miLxRVR1pUWByasPGjDLd"
@@ -1833,7 +1859,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 154560,
       "name": "Estrellita",
       "url": "https://open.spotify.com/track/2yw3zRz46K4FE9lZf3tfwb"
@@ -1951,7 +1977,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 177897,
       "name": "Four Dances from Estancia: Los Trabajadores Agr\u00edcolas",
       "url": "https://open.spotify.com/track/3MC5whsxEcUSMa7qcb37MY"
@@ -1993,7 +2019,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 228600,
       "name": "Gardel: Por una cabeza",
       "url": "https://open.spotify.com/track/1Q0tSZgzOurosLtZ1r6PrU"
@@ -2175,7 +2201,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 417440,
       "name": "Harmonica Concerto: I. Allegro moderato",
       "url": "https://open.spotify.com/track/2APWS5X5qgPBzPNDpXAZAJ"
@@ -2355,7 +2381,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 441733,
       "name": "Invoca\u00e7\u00e3o e ponto",
       "url": "https://open.spotify.com/track/5hDU03yD35Za2u3ZPJvj6G"
@@ -2537,7 +2563,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 167626,
       "name": "La Yumba - Instrumental",
       "url": "https://open.spotify.com/track/3opyAuz2prdkIUJzEcjk4k"
@@ -2589,7 +2615,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 531533,
       "name": "Lienas: Codex del Convento del Carmen: Salve Regina, a 4",
       "url": "https://open.spotify.com/track/5SIJnspxiztsn23Crb1kqx"
@@ -2618,6 +2644,32 @@
     },
     {
       "album": {
+        "name": "Mignone: Festa Das Igrejas / Sinfonia Tropical / Maracatu De Chico Rei",
+        "url": "https://open.spotify.com/album/79Zv0xz9eweiysQbqpYpdL"
+      },
+      "artists": [
+        {
+          "name": "Francisco Mignone",
+          "url": "https://open.spotify.com/artist/4ZZPTcDGu6kLyT8QEICyUg"
+        },
+        {
+          "name": "Orquestra Sinf\u00f4nica Do Estado De S\u00e3o Paulo",
+          "url": "https://open.spotify.com/artist/3NhV0B71sAoZu1FGHG4bK4"
+        },
+        {
+          "name": "John Neschling",
+          "url": "https://open.spotify.com/artist/3i6TvPQGfMvINJIHyTwm7o"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Maracatu de chico rei: IX. The Liberation of the Slaves - Final Dance (Allegro vivacissimo - Tempo de Samba)",
+      "url": "https://open.spotify.com/track/48Gy8pflZFj4ypDkNAEYfA"
+    },
+    {
+      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
       },
@@ -2637,7 +2689,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 808840,
       "name": "Margaritena - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4"
@@ -2689,7 +2741,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 481000,
       "name": "Mediodia en el Llano - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/5YiZCSzpxQNJ3yeQIu1EHf"
@@ -2711,7 +2763,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 377443,
       "name": "Metro Chabacano",
       "url": "https://open.spotify.com/track/3ueWArpEPFXPQDx5r9fjmH"
@@ -2733,7 +2785,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 167133,
       "name": "Military Tap",
       "url": "https://open.spotify.com/track/3ZFbViV2Q1qYfrZn4u1zIQ"
@@ -2751,7 +2803,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 391440,
       "name": "Milonga Del Angel",
       "url": "https://open.spotify.com/track/1Gas3HGCmNODYQiMU13LqL"
@@ -2891,7 +2943,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 183026,
       "name": "Mujer de los Negros Ojos - El Hu\u00e9sped del Sevillano",
       "url": "https://open.spotify.com/track/2nofE44EwGB54kpnZJBrkC"
@@ -2909,7 +2961,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 173920,
       "name": "Nereidas",
       "url": "https://open.spotify.com/track/5rVBkB9S6PL6LKkLFhLby6"
@@ -2953,7 +3005,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 616226,
       "name": "Noches en los jardines de Espa\u00f1a: I. En el Generalife. Allegretto tranquillo e misterioso",
       "url": "https://open.spotify.com/track/5sSNo5SWNWhC4pFsH5ta2C"
@@ -3005,7 +3057,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 191973,
       "name": "O magnum mysterium",
       "url": "https://open.spotify.com/track/4uNr28b5YpkFVbuV0N5m0g"
@@ -3083,7 +3135,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 321493,
       "name": "Officium defunctorum: Parce mihi Domine: Parce mihi Domine",
       "url": "https://open.spotify.com/track/1aCHSyfTAkDZyF9nJemNCS"
@@ -3225,7 +3277,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 335333,
       "name": "Piazzolla: Estaci\u00f3nes porte\u00f1as: I. Verano Porte\u00f1o",
       "url": "https://open.spotify.com/track/2Rng45EgVYKORVBUHDN51E"
@@ -3255,7 +3307,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 774560,
       "name": "Ponce : Concierto del sur : I Allegretto",
       "url": "https://open.spotify.com/track/0TIcJLoVnNOe7kxf5SGaK9"
@@ -3277,7 +3329,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 418546,
       "name": "Ponce: Balada Mexicana",
       "url": "https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh"
@@ -3463,7 +3515,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 129853,
       "name": "Recife dos Corais",
       "url": "https://open.spotify.com/track/2B7jBDBXH6mmjokE5gAXy3"
@@ -3699,7 +3751,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174453,
       "name": "Saudades das Selvas Brasilieras No. 2",
       "url": "https://open.spotify.com/track/0VqwXKb0LvJ2lIm7MdY5Ua"
@@ -3843,7 +3895,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 733440,
       "name": "Sinfonia india, \"Symphony No. 2\"",
       "url": "https://open.spotify.com/track/1llnYCpqmQ6kiIa4K06Mwo"
@@ -3869,7 +3921,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 543360,
       "name": "Sinfonietta in D: II. Adagio",
       "url": "https://open.spotify.com/track/5sjm1aumQZIHihUKiL5Iib"
@@ -3943,7 +3995,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 528026,
       "name": "Sonata No. 1 for Cello and Piano: I. Tristonho",
       "url": "https://open.spotify.com/track/62pLxzCVxv3uVOyOyIzRDW"
@@ -3965,7 +4017,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 171453,
       "name": "Sonata No. 84 in D Major, R;413",
       "url": "https://open.spotify.com/track/5FUSvbQgDfugFP9rfO0EuH"
@@ -3991,7 +4043,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 422066,
       "name": "Sones de Mariachi",
       "url": "https://open.spotify.com/track/14ussuaqe2rcAH7CcaT429"
@@ -4149,7 +4201,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 116760,
       "name": "Suite de danzas criollas, Op. 15 (2nd version): I. Adagietto pianissimo",
       "url": "https://open.spotify.com/track/2uSO5vIP221w7iVMmCkyx6"
@@ -4323,7 +4375,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Tango brasileiro",
       "url": "https://open.spotify.com/track/0e27y9al4cWpqVTRG0HFEa"
@@ -4501,7 +4553,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Todos los bienes del mundo",
       "url": "https://open.spotify.com/track/1JjZ3pD2CzUDrqHA7ODPJe"
@@ -4527,7 +4579,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 290000,
       "name": "Transmutango",
       "url": "https://open.spotify.com/track/67Lcv3YtTbizoz8ZIDgXgB"
@@ -4723,7 +4775,7 @@
       ],
       "date_added": "2021-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 220413,
       "name": "Vals Poetico: Vals poetico: Vals de salon",
       "url": "https://open.spotify.com/track/1zjeUfuWsXdBlr491jFNJv"
@@ -4745,7 +4797,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 77680,
       "name": "Valsa-Choro no.11",
       "url": "https://open.spotify.com/track/6qgLzpvEA5STcmJIbg4FVO"
@@ -4775,7 +4827,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 340293,
       "name": "Violin Concerto Op.11: 3rd movement: Allegro vivace",
       "url": "https://open.spotify.com/track/5Nk0dSovEOwcmonzZX9lQ3"
@@ -4805,7 +4857,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 500506,
       "name": "Zigeunerweisen, Op. 20 (version for violin and orchestra)",
       "url": "https://open.spotify.com/track/4mYb9VUXuYh0TyAQP94v8y"
@@ -4835,7 +4887,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 414973,
       "name": "Zumaya : Celebren, publiquen",
       "url": "https://open.spotify.com/track/5kGCoVyNdJ3lQ4kprRhpMQ"

@@ -2401,7 +2401,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 237266,
       "name": "Drawer",
       "url": "https://open.spotify.com/track/1OQ3PoRZRtE7RH0NIh3p1O"
@@ -5521,7 +5521,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 180423,
       "name": "MELODY",
       "url": "https://open.spotify.com/track/6JeleVHUHrdvgiFESE33ZU"
@@ -8561,7 +8561,7 @@
       ],
       "date_added": "2022-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 339023,
       "name": "Take My Breath",
       "url": "https://open.spotify.com/track/2vgUijXOTRMnWXDtvgMp2b"
@@ -9351,6 +9351,24 @@
       "duration_ms": 335253,
       "name": "VVS",
       "url": "https://open.spotify.com/track/7Igh1mqghlHz5dimfQV85G"
+    },
+    {
+      "album": {
+        "name": "FIRST IMPACT",
+        "url": "https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA"
+      },
+      "artists": [
+        {
+          "name": "Kep1er",
+          "url": "https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "WA DA DA",
+      "url": "https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6"
     },
     {
       "album": {

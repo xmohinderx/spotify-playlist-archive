@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Chief Keef
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,238 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,301 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 13 | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/track/774RwZfAI8Ge5RcFu0pzD6) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR) | [Come My Way \(feat\. Krayzie Bone\)](https://open.spotify.com/album/3FjPBKW9kN5z33VYXzAeZa) | 3:10 |
 | 14 | [No Smoke \(feat\. DC The Don\)](https://open.spotify.com/track/5TqAWu0AhiQ7rPne0JMhxq) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [BACK IN ACTION 2.0](https://open.spotify.com/album/3ShlqDCnYpRdcJxA9wlkpE) | 3:26 |
 | 15 | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/track/70VkwSaJYXNCreoqwEMk4g) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Wandered To LA \(with Justin Bieber\)](https://open.spotify.com/album/44ZvY2vUWa7Zkb59G0ZZOk) | 3:09 |
-| 16 | [Ain't My Fault \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ain't My Fault \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 |
+| 16 | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 |
 | 17 | [Know the Difference \(feat\. Lil Baby\)](https://open.spotify.com/track/6inHSFgzJCNhgtSlu5Wtc2) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Know the Difference \(feat\. Lil Baby\)](https://open.spotify.com/album/4Y0J4NwCJRiu8jSz98aQKz) | 2:51 |
 | 18 | [For The Record](https://open.spotify.com/track/254OydHVwUHK2jIMhZToHm) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50), [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [For The Record](https://open.spotify.com/album/50D9YMxG2uRgCabduAeNOG) | 3:11 |
 | 19 | [Already Dead](https://open.spotify.com/track/7qM1BWAsZMTYh4BcYLb0uQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Already Dead](https://open.spotify.com/album/2aTGgm64NP8b7rVpnp8Lil) | 3:51 |

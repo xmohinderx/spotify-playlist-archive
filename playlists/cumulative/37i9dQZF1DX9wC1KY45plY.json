@@ -253,7 +253,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 184093,
       "name": "Brass in Pocket",
       "url": "https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P"
@@ -271,7 +271,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 185960,
       "name": "Brass in Pocket - 2006 Remaster",
       "url": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
@@ -941,7 +941,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 249560,
       "name": "I Can Dream About You",
       "url": "https://open.spotify.com/track/37nxLdGbmgEYQYrqe14xOp"
@@ -1049,7 +1049,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 336453,
       "name": "In The Air Tonight - 2015 Remastered",
       "url": "https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb"
@@ -1229,7 +1229,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 249293,
       "name": "Livin' On A Prayer",
       "url": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF"
@@ -1265,7 +1265,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
@@ -1449,7 +1449,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 216400,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 274746,
       "name": "Rebel Rebel - 2016 Remaster",
       "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
@@ -1629,7 +1629,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 261813,
       "name": "Runnin' Down A Dream",
       "url": "https://open.spotify.com/track/5yAu4njFSdM47dfsTkQPZ2"
@@ -1791,7 +1791,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 239680,
       "name": "Take It On the Run",
       "url": "https://open.spotify.com/track/5gys5nzVQIYhgHIfiOJYva"
@@ -1885,6 +1885,24 @@
       "duration_ms": 213480,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/0zge3Oe6qU1jnvSgxDRQYU"
+    },
+    {
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "album": {

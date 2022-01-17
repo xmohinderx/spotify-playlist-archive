@@ -3582,6 +3582,28 @@
     },
     {
       "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -3733,6 +3755,36 @@
       "duration_ms": 192352,
       "name": "Entre Nosotros",
       "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
+    },
+    {
+      "album": {
+        "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+        "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
     },
     {
       "album": {
@@ -4419,7 +4471,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
@@ -5449,7 +5501,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 214214,
       "name": "How Do I Make You Love Me?",
       "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
@@ -6991,7 +7043,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211814,
       "name": "Less Than Zero",
       "url": "https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA"
@@ -7879,6 +7931,32 @@
       "duration_ms": 223718,
       "name": "MASSA",
       "url": "https://open.spotify.com/track/2goHCrsDJaflEwQ930ef0o"
+    },
+    {
+      "album": {
+        "name": "Hecho En Medell\u00edn",
+        "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233453,
+      "name": "Medallo",
+      "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
     },
     {
       "album": {

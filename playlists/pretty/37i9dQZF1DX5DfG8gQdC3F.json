@@ -1,7 +1,7 @@
 {
   "description": "All the best new tracks this week, all in one place. Cover: Avril Lavigne",
   "name": "New Music Friday Canada",
-  "num_followers": 320501,
+  "num_followers": 320505,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -134,6 +134,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
       "duration_ms": 159666,

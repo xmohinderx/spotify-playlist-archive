@@ -6,7 +6,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2000 Light Years Away \- BBC Live Session](https://open.spotify.com/track/5iVOSacX0ZnNQeoxQ0PldS) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [BBC Sessions \(Live\)](https://open.spotify.com/album/7igexfyHGnY4qMAyOzc4q8) | 2:38 | 2022-01-12 |  |
+| [2000 Light Years Away \- BBC Live Session](https://open.spotify.com/track/5iVOSacX0ZnNQeoxQ0PldS) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [BBC Sessions \(Live\)](https://open.spotify.com/album/7igexfyHGnY4qMAyOzc4q8) | 2:38 | 2022-01-12 | 2022-01-17 |
 | [21 Guns](https://open.spotify.com/track/64yrDBpcdwEdNY9loyEGbX) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:21 | 2022-01-11 |  |
 | [21st Century Breakdown](https://open.spotify.com/track/0RT1qESYHlNcUJI0Yo5Hzl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [21st Century Breakdown](https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79) | 5:09 | 2022-01-11 |  |
 | [99 Revolutions](https://open.spotify.com/track/3CgT96psOXwPssPNvYPclP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 3:49 | 2022-01-11 |  |
@@ -46,7 +46,7 @@
 | [Still Breathing](https://open.spotify.com/track/19YmvsVCetCBeVj6O2mljR) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:44 | 2022-01-11 |  |
 | [Stray Heart](https://open.spotify.com/track/2Q22sa3Y4lKXHHBBAxEhYY) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡DOS!](https://open.spotify.com/album/71rrqHKVkUFx2CSVfxrrLs) | 3:44 | 2022-01-11 |  |
 | [Stuck with Me](https://open.spotify.com/track/0CXOYEN8m6MuyVY0F1vJTb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Insomniac](https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d) | 2:15 | 2022-01-11 |  |
-| [The Forgotten](https://open.spotify.com/track/1Of1g1PMt1wKW1L4Te6oDM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 4:58 | 2022-01-14 | 2022-01-15 |
+| [The Forgotten](https://open.spotify.com/track/1Of1g1PMt1wKW1L4Te6oDM) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [¡TRÉ!](https://open.spotify.com/album/1t9rzuEEFVHPdqRYzsaWC8) | 4:58 | 2022-01-14 |  |
 | [The Grouch](https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:12 | 2022-01-11 | 2022-01-15 |
 | [Too Dumb to Die](https://open.spotify.com/track/3QWgLzCrAVkmw5eoHPN5uB) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:23 | 2022-01-11 |  |
 | [Waiting](https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 3:12 | 2022-01-11 |  |

@@ -1,7 +1,7 @@
 {
   "description": "The best newly released songs of the week. Cover: ENHYPEN",
   "name": "New Music Friday Malaysia",
-  "num_followers": 58425,
+  "num_followers": 58427,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -602,6 +602,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
       "duration_ms": 159666,

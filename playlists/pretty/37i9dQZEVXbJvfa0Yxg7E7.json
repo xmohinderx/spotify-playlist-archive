@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
-  "num_followers": 486270,
+  "num_followers": 486263,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Njk1NTU3NzczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "Njk1NjQxMjU1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Fingers Crossed",
         "url": "https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/36kp4SVbHt0SqhAGpdFsK9"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/01yhPS4Pn3chM0sc3gcs6B"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 188918,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -137,27 +105,23 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Fuckboy",
-        "url": "https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl"
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
       },
       "artists": [
         {
-          "name": "Martine Lunde",
-          "url": "https://open.spotify.com/artist/22viLaDXyY28fd1WvDraoZ"
-        },
-        {
-          "name": "Norges Nye Megahit",
-          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 133072,
-      "name": "Fuckboy",
-      "url": "https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2"
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Jente i Oslo",
         "url": "https://open.spotify.com/album/59Hwuvf6mtaILTwkxWbOyI"
@@ -177,47 +141,27 @@
       "url": "https://open.spotify.com/track/2Sn1bb7wGN1ZQFMpgkb0Y6"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "Fuckboy",
+        "url": "https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Martine Lunde",
+          "url": "https://open.spotify.com/artist/22viLaDXyY28fd1WvDraoZ"
         },
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "Norges Nye Megahit",
+          "url": "https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+      "duration_ms": 133072,
+      "name": "Fuckboy",
+      "url": "https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
@@ -241,39 +185,63 @@
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "The Voice 2022: Blind Auditions 1 (Live)",
-        "url": "https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS"
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },
       "artists": [
         {
-          "name": "J\u00f8rgen Dahl Moe",
-          "url": "https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ"
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 153719,
-      "name": "Dancing In The Dark - Live",
-      "url": "https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb"
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Miserable Man",
-        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 232991,
-      "name": "Miserable Man",
-      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Dawn FM",
+        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 188918,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
@@ -293,43 +261,23 @@
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Feel Something",
-        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+        "name": "The Voice 2022: Blind Auditions 1 (Live)",
+        "url": "https://open.spotify.com/album/6zwlsmLRkYWnK3wP6JMHmS"
       },
       "artists": [
         {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+          "name": "J\u00f8rgen Dahl Moe",
+          "url": "https://open.spotify.com/artist/00Ph35PnLLQYLvMnhbizSJ"
         }
       ],
-      "duration_ms": 237720,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+      "duration_ms": 153719,
+      "name": "Dancing In The Dark - Live",
+      "url": "https://open.spotify.com/track/23IfaTlFcjfs7PZKyXLdjb"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -349,23 +297,27 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "GHOST TOWN",
-        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 193733,
-      "name": "GHOST TOWN",
-      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Loud Luxury 2022",
         "url": "https://open.spotify.com/album/67Ds9HmHBa23HxCbNSz82B"
@@ -385,7 +337,55 @@
       "url": "https://open.spotify.com/track/3IVkcYvMiqvRKa4ip0E7a8"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Feel Something",
+        "url": "https://open.spotify.com/album/6MuWCR3WPjwyKhqsTKLZ3z"
+      },
+      "artists": [
+        {
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
+        }
+      ],
+      "duration_ms": 237720,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Miserable Man",
+        "url": "https://open.spotify.com/album/2l8bIF7dlr0xNkFJnQXUE4"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 232991,
+      "name": "Miserable Man",
+      "url": "https://open.spotify.com/track/6gPPoRYJwCsoB2VVdPJfmo"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "GHOST TOWN",
+        "url": "https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "GHOST TOWN",
+      "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Den fineste Chevy'n (feat. Maria Mena)",
         "url": "https://open.spotify.com/album/7G8XJLSXvjpXiOLwCKhSpQ"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/2Y7npn076wSZJgH8HVr2B2"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Ludvig Daae",
         "url": "https://open.spotify.com/album/0iHaRVUqMPyTPJGI8zE1tF"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/5TyFg2tdUPtBVKm7ZRevGk"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Smilet i ditt eget speil",
         "url": "https://open.spotify.com/album/4H0LGJypqseHZmiR1gU2d3"
@@ -473,67 +473,7 @@
       "url": "https://open.spotify.com/track/2bSVFkcYAQwkGlGK7v1Ihl"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/4bonCpNW4OlAAPNbSklCpf"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/4c2FHHtnHFMWs5vpbGXr6i"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Medbrakt",
-        "url": "https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 131785,
-      "name": "Medbrakt",
-      "url": "https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Moth To A Flame",
-        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -549,43 +489,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/7C4MRV0cWA9g9GFhb6sOdI"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        }
-      ],
-      "duration_ms": 246806,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/1QmZQRvNUOvRxtSH9VCPF4"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Barock 2021 (Nesbrurussen)",
         "url": "https://open.spotify.com/album/2dWCjJSJtCQj66tzMaxDib"
@@ -617,23 +521,87 @@
       "url": "https://open.spotify.com/track/2nIgV90BbhZqq3RXazLV1w"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4bonCpNW4OlAAPNbSklCpf"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+      "duration_ms": 175777,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/4c2FHHtnHFMWs5vpbGXr6i"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Medbrakt",
+        "url": "https://open.spotify.com/album/3tWVpKIfVPosF7LLi5fcOG"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 131785,
+      "name": "Medbrakt",
+      "url": "https://open.spotify.com/track/0anBi4abqUhf7qvGrk5ALE"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Klask 2022 (Hjemmesnekk)",
         "url": "https://open.spotify.com/album/4lBVdGuHcBl46Ay4Emzu2t"
@@ -653,7 +621,7 @@
       "url": "https://open.spotify.com/track/0PjGxOaBFjQfesMeT5HbAw"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -673,27 +641,23 @@
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
@@ -713,7 +677,7 @@
       "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
@@ -729,27 +693,23 @@
       "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Second Hand Love (feat. Ruben)",
-        "url": "https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey"
+        "name": "Creme De La Creme",
+        "url": "https://open.spotify.com/album/3YXiOI3RPhaj41mMCjHl1y"
       },
       "artists": [
         {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        },
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
         }
       ],
-      "duration_ms": 204216,
-      "name": "Second Hand Love (feat. Ruben)",
-      "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
+      "duration_ms": 159522,
+      "name": "Creme De La Creme",
+      "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "eat ya veggies",
         "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
@@ -769,7 +729,43 @@
       "url": "https://open.spotify.com/track/5rW7qTn83sCKtqBoneJs63"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/5SLXbErenG3tJrVdIMpQHk"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/4hJhHbkhZFnxmWbAkZRoe0"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "glorie",
+        "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
+      },
+      "artists": [
+        {
+          "name": "vinni",
+          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "glorie",
+      "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
@@ -789,91 +785,43 @@
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Creme De La Creme",
-        "url": "https://open.spotify.com/album/3YXiOI3RPhaj41mMCjHl1y"
+        "name": "Second Hand Love (feat. Ruben)",
+        "url": "https://open.spotify.com/album/2HMJp3DPado7Go8pZ9SZey"
       },
       "artists": [
         {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 159522,
-      "name": "Creme De La Creme",
-      "url": "https://open.spotify.com/track/1beuDJXaekLPtvX1jQe0yx"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "GUTTA (feat. Plumbo)",
-        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
         },
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 158866,
-      "name": "GUTTA (feat. Plumbo)",
-      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+      "duration_ms": 204216,
+      "name": "Second Hand Love (feat. Ruben)",
+      "url": "https://open.spotify.com/track/0tig7XFHhhSErWaXdeq5Oj"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
-        "name": "Bare n\u00e5r det regner",
-        "url": "https://open.spotify.com/album/48f5hkIP9MFqR8ObZFTn4U"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/7C4MRV0cWA9g9GFhb6sOdI"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
         }
       ],
-      "duration_ms": 163670,
-      "name": "Bare n\u00e5r det regner",
-      "url": "https://open.spotify.com/track/2w7Qohb7bKFnfiCokYH0wD"
+      "duration_ms": 246806,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/1QmZQRvNUOvRxtSH9VCPF4"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "Dawn FM",
-        "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 199111,
-      "name": "Is There Someone Else?",
-      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
@@ -913,7 +861,59 @@
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Bare n\u00e5r det regner",
+        "url": "https://open.spotify.com/album/48f5hkIP9MFqR8ObZFTn4U"
+      },
+      "artists": [
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        }
+      ],
+      "duration_ms": 163670,
+      "name": "Bare n\u00e5r det regner",
+      "url": "https://open.spotify.com/track/2w7Qohb7bKFnfiCokYH0wD"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "GUTTA (feat. Plumbo)",
+        "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 158866,
+      "name": "GUTTA (feat. Plumbo)",
+      "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
@@ -929,23 +929,7 @@
       "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
-      "added_at": "2022-01-15 10:29:33",
-      "album": {
-        "name": "glorie",
-        "url": "https://open.spotify.com/album/2DdUMgZh8haStlU30pcnZ0"
-      },
-      "artists": [
-        {
-          "name": "vinni",
-          "url": "https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "glorie",
-      "url": "https://open.spotify.com/track/4olmG0sFJ6L0LVI8ssiZFz"
-    },
-    {
-      "added_at": "2022-01-15 10:29:33",
+      "added_at": "2022-01-16 09:40:55",
       "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
@@ -956,9 +940,25 @@
           "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 214214,
-      "name": "How Do I Make You Love Me?",
-      "url": "https://open.spotify.com/track/2Ghp894n1laIf2w98VeAOJ"
+      "duration_ms": 199111,
+      "name": "Is There Someone Else?",
+      "url": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
+    },
+    {
+      "added_at": "2022-01-16 09:40:55",
+      "album": {
+        "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
+        "url": "https://open.spotify.com/album/6tKzmHLOGWSPBRp8msUVBF"
+      },
+      "artists": [
+        {
+          "name": "gangCBang",
+          "url": "https://open.spotify.com/artist/7CQi6Efv5Jjzi9KegiAGf4"
+        }
+      ],
+      "duration_ms": 146869,
+      "name": "Suks\u00e9 2022 (Hjemmesm\u00e6ck)",
+      "url": "https://open.spotify.com/track/0gG0dF1yexUsE8OO7mq8Kn"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbJvfa0Yxg7E7"

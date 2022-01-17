@@ -188,6 +188,24 @@
     },
     {
       "album": {
+        "name": "Try This With Your Eyes Closed",
+        "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "date_added": "2021-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249613,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+    },
+    {
+      "album": {
         "name": "A Beautiful Lie",
         "url": "https://open.spotify.com/album/2jPmk6qQzuY5AvKkZxMh7h"
       },
@@ -433,7 +451,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 218200,
       "name": "Daylight Slaving",
       "url": "https://open.spotify.com/track/2D2c0EGEs36su8hfpCbFJH"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 200680,
       "name": "Let The Evil Go East",
       "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 162920,
       "name": "Ravenous, Ravenous Rhinos",
       "url": "https://open.spotify.com/track/1YT8RiexjSXtUcLjD92N8V"
@@ -1427,7 +1445,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 565973,
       "name": "Short Stories With Tragic Endings",
       "url": "https://open.spotify.com/track/4eRtGBzP92gjIMOtal2kNB"
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 183440,
       "name": "Sing To Me",
       "url": "https://open.spotify.com/track/1PG3cpjagOotciS60BCy0u"
@@ -1823,7 +1841,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 237840,
       "name": "The Thespian",
       "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
@@ -1895,7 +1913,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 266733,
       "name": "This War Is Ours (The Guillotine II)",
       "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
@@ -2025,7 +2043,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 196560,
       "name": "Vices (feat. Liam Cormier)",
       "url": "https://open.spotify.com/track/7tu3BXZXExM38StzVqnY7I"

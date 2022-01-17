@@ -1,12 +1,12 @@
 {
   "description": "Bad b**** energy. Be blessed, be spicy. Cover: City Girls",
   "name": "BBE",
-  "num_followers": 442462,
+  "num_followers": 443383,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjEzNjQ2MCwwMDAwMDBhOTAwMDAwMTdlNTZmNWRiNzkwMDAwMDE3ZTU2YmQ0YjQ3",
+  "snapshot_id": "MTY0MjM2ODg5MSwwMDAwMDBhYTAwMDAwMTdlNjRkMDc5ODUwMDAwMDE3ZTU2YmQ0YjQ3",
   "tracks": [
     {
       "added_at": "2021-10-29 20:40:04",
@@ -181,6 +181,46 @@
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
+      "added_at": "2022-01-16 21:34:51",
+      "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/4BobJqfRqRCEpjULDOiOFJ"
+      },
+      "artists": [
+        {
+          "name": "TarioP",
+          "url": "https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+        }
+      ],
+      "duration_ms": 70542,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/3Lf1nGVFPEsydObkXHUu2b"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Best Friend (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 155883,
+      "name": "Best Friend (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
+    },
+    {
       "added_at": "2021-10-15 04:00:00",
       "album": {
         "name": "Have Mercy",
@@ -211,26 +251,6 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Best Friend (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 155883,
-      "name": "Best Friend (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
     },
     {
       "added_at": "2022-01-09 22:45:54",
@@ -351,6 +371,22 @@
       "duration_ms": 264920,
       "name": "Luxurious",
       "url": "https://open.spotify.com/track/69xZrRwScYMhlCMcxrF958"
+    },
+    {
+      "added_at": "2021-10-15 04:00:00",
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2021-11-11 03:21:38",
@@ -495,22 +531,6 @@
       "duration_ms": 93096,
       "name": "Oh Shhh",
       "url": "https://open.spotify.com/track/4VEi6uIfVoOOFl1ZBrbKuk"
-    },
-    {
-      "added_at": "2021-10-15 04:00:00",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 156944,
-      "name": "Up",
-      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
     },
     {
       "added_at": "2021-12-03 05:02:07",

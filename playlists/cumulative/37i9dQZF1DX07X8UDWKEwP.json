@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 302506,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/1FLjWgNJWxFlCWLYQJGOg1"
@@ -667,7 +667,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 384147,
       "name": "Luz Negra",
       "url": "https://open.spotify.com/track/1AukcKI01DilxI6uu6hyrD"
@@ -1063,7 +1063,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 224500,
       "name": "Perdoname - Live",
       "url": "https://open.spotify.com/track/3o69kyAKS2FWwlq8bBnqgS"
@@ -1099,7 +1099,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 142000,
       "name": "Por Qu\u00e9",
       "url": "https://open.spotify.com/track/3R6p7D39Qy0GJs5Pg72ecn"
@@ -1323,7 +1323,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 239872,
       "name": "Tan Bonita Pero Tan Mala",
       "url": "https://open.spotify.com/track/2aHmvCzSXQufbPovXdnVFt"
@@ -1531,6 +1531,28 @@
       "duration_ms": 254563,
       "name": "Yo Si Lloro",
       "url": "https://open.spotify.com/track/3sGvjOLY6eZ2No5j4rm9oY"
+    },
+    {
+      "album": {
+        "name": "Karibe 15 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/7q5JqEhsz03SqPycs9xvaC"
+      },
+      "artists": [
+        {
+          "name": "Karibe Orquesta",
+          "url": "https://open.spotify.com/artist/5Yfl6FnSbh0gq8VuSO45KM"
+        },
+        {
+          "name": "Salserin",
+          "url": "https://open.spotify.com/artist/7is4d4FP9QUaV99j5kKDNT"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163584,
+      "name": "Yo Sin Ti - En Vivo",
+      "url": "https://open.spotify.com/track/3xefBFz2zVz66ZHMvtFDmS"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX07X8UDWKEwP"

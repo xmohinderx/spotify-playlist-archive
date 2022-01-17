@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 264523,
       "name": "1000 More Suns",
       "url": "https://open.spotify.com/track/7bPzk1B12yFWpnbzZIQGhm"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 180347,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/07UGol5wFdaLGeQJWZ3a0a"
@@ -505,7 +505,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 198096,
       "name": "agape",
       "url": "https://open.spotify.com/track/7xAy9XzbF4M0qtZuoQYtdI"
@@ -1548,6 +1548,28 @@
     },
     {
       "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/0MCMAGZpWjWzUMTKbt8EYf"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249677,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/3IBIj8uAS6meeTvZmBlMpP"
+    },
+    {
+      "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/6Sm9z49QvFt8TwEJ4zMXMb"
       },
@@ -2329,7 +2351,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 187431,
       "name": "Blue Dream - Koresma Remix",
       "url": "https://open.spotify.com/track/39KSC7pPxIp15t9NknC6mb"
@@ -2635,7 +2657,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 222605,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ"
@@ -2871,7 +2893,7 @@
       ],
       "date_added": "2020-02-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 280997,
       "name": "Burns - Lane 8 Club Mix",
       "url": "https://open.spotify.com/track/6aBWNlLMeBjdtypqPOfveJ"
@@ -3177,7 +3199,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 266413,
       "name": "Change the World (feat. Nicole Dash Jones) - Strings In Motion Mix",
       "url": "https://open.spotify.com/track/1C3arE9PgTbFPLp5n1c8PE"
@@ -3971,7 +3993,7 @@
       ],
       "date_added": "2021-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 244000,
       "name": "Controlling",
       "url": "https://open.spotify.com/track/3qpJrT3CQ5f7iAkEqVDxX2"
@@ -4487,7 +4509,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 378241,
       "name": "Dhollandia",
       "url": "https://open.spotify.com/track/4PmAhw3ZnYGM6fWbsDoU8u"
@@ -5107,7 +5129,7 @@
       ],
       "date_added": "2020-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 222857,
       "name": "Driving On The Moon",
       "url": "https://open.spotify.com/track/2NM5PMd06bSDfDzbglwXSV"
@@ -5559,7 +5581,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 152901,
       "name": "eons away",
       "url": "https://open.spotify.com/track/1IGkkm35S2KRItswTm0eKP"
@@ -5599,7 +5621,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 286451,
       "name": "Equals",
       "url": "https://open.spotify.com/track/5dHMA3NFsOyFKGJ7ML8hO1"
@@ -6551,7 +6573,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 305906,
       "name": "Filmic - CRi Remix",
       "url": "https://open.spotify.com/track/4vhVf1a2vWsA5ZU8PNragq"
@@ -7937,7 +7959,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 146159,
       "name": "Grid Search",
       "url": "https://open.spotify.com/track/16SVKYypol1hEicjvvg71Y"
@@ -7955,7 +7977,7 @@
       ],
       "date_added": "2020-02-29",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 224262,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/7iKtfxbX9YPXePGGMRuHAq"
@@ -8567,7 +8589,7 @@
       ],
       "date_added": "2020-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 222056,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/1LY3wORUYTg8t2lZ1v6wHq"
@@ -10553,7 +10575,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 357383,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/2co18Ij6kdf3kcfp5zm2Bv"
@@ -10673,7 +10695,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 202963,
       "name": "Late Delivery",
       "url": "https://open.spotify.com/track/7kxYSSYLdUfw57huTrgTiw"
@@ -10727,7 +10749,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 281951,
       "name": "Lavirra - Edit",
       "url": "https://open.spotify.com/track/4P0LVOqZiKdHObiWi2HhND"
@@ -11577,7 +11599,7 @@
       ],
       "date_added": "2020-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 221495,
       "name": "Lost Souls - Nora En Pure Remix",
       "url": "https://open.spotify.com/track/2UsRV8KFvHaDFUJtzQADAu"
@@ -11923,7 +11945,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 229470,
       "name": "Lunaire",
       "url": "https://open.spotify.com/track/72nMF220X1qe9OBskVHD71"
@@ -12133,7 +12155,7 @@
       ],
       "date_added": "2020-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 301900,
       "name": "Mala",
       "url": "https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl"
@@ -13997,7 +14019,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 251720,
       "name": "Northeast",
       "url": "https://open.spotify.com/track/6dRNlcyqsNyICMfr2lhCRi"
@@ -14719,7 +14741,7 @@
       ],
       "date_added": "2020-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 209871,
       "name": "Our Love Is Our Love",
       "url": "https://open.spotify.com/track/61m6aeqYw9pI9OlqMGZQH7"
@@ -15113,7 +15135,7 @@
       ],
       "date_added": "2021-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 239016,
       "name": "Pearly",
       "url": "https://open.spotify.com/track/6XvmW43JX9tnzqeOWp8QIn"
@@ -15689,7 +15711,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198347,
       "name": "Reachers Of Civilisation - AVIRA & Nourey's Unplugged Remix",
       "url": "https://open.spotify.com/track/3FPIssWRaxh0YLkYs348hU"
@@ -15801,7 +15823,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 360494,
       "name": "Reflections - il:lo Remix",
       "url": "https://open.spotify.com/track/2CRstAyBVOOD1nQKOt7kox"
@@ -16475,7 +16497,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 292667,
       "name": "Saving My Love",
       "url": "https://open.spotify.com/track/3je1VcyoT3FEH6AbttouZj"
@@ -17565,7 +17587,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 290546,
       "name": "Solace",
       "url": "https://open.spotify.com/track/5ERoUfNfwvNcFCnV0KH9Wu"
@@ -17667,7 +17689,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178353,
       "name": "Solis Occasum",
       "url": "https://open.spotify.com/track/7jWUSD8WyNSbjoYHHo2XbJ"
@@ -19707,7 +19729,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186000,
       "name": "Threads",
       "url": "https://open.spotify.com/track/39bfCEpkqN01tmAILFBkgG"
@@ -21459,7 +21481,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/67V4jumh3KeYtekP8ggy6i"
@@ -21861,7 +21883,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 259306,
       "name": "Woza",
       "url": "https://open.spotify.com/track/4GwGt8X3xWCq8qzu5F1126"
@@ -22003,7 +22025,7 @@
       ],
       "date_added": "2020-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 185496,
       "name": "You Always Know Everything",
       "url": "https://open.spotify.com/track/7x82Bt3Pvxf4GQwLBtrv8Z"
@@ -22061,7 +22083,7 @@
       ],
       "date_added": "2020-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 188379,
       "name": "You Can Feel It",
       "url": "https://open.spotify.com/track/3PRF1MTFNTRChwpIEIBCwM"

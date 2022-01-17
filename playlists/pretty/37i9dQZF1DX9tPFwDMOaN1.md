@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 
 > Score all the hottest hits from your favourite hallyu star and check out your one true K\-Pop playlist! \#kdaebak Cover: ENHYPEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,430,914 likes - 51 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,432,936 likes - 51 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tPFwDMOaN1.md) - [plain]
 | 50 | [Yours](https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Jirisan \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/2FUiBNFWz47sBPEf3Dcma4) | 4:24 |
 | 51 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 |
 
-Snapshot ID: `MTY0MjI5NDA2OSwwMDAwMDAwMGNjYzAzNmNiNzE3NTYwNGFhY2ZkOGMxNmQwMDJiYzE0`
+Snapshot ID: `MTY0MjM4MDM2MywwMDAwMDAwMGNjYzAzNmNiNzE3NTYwNGFhY2ZkOGMxNmQwMDJiYzE0`

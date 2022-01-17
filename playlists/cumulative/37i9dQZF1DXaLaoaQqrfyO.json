@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 253800,
       "name": "9",
       "url": "https://open.spotify.com/track/3e90JC8EKLsSDUHmPpxkfp"
@@ -153,7 +153,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 182653,
       "name": "All Over",
       "url": "https://open.spotify.com/track/7IDKIfRltN07TdsdTVtRHh"
@@ -799,7 +799,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 308360,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/0pBLfQ5JBjh12H6DGZjMwM"
@@ -835,7 +835,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 249906,
       "name": "Everything Is Embarrassing",
       "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
@@ -853,7 +853,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 196160,
       "name": "Feeling Ok",
       "url": "https://open.spotify.com/track/0pufbBQTb9Voh9ZtpCpYLH"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 204400,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/0VnLohgzwLEleLmo19Z8B0"
@@ -1271,7 +1271,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 258653,
       "name": "Myth",
       "url": "https://open.spotify.com/track/5UFt0wpIRFSYTIPjZny4u9"
@@ -1318,6 +1318,28 @@
     },
     {
       "album": {
+        "name": "Ocean Eyes (Astronomyy Edit)",
+        "url": "https://open.spotify.com/album/3J6ais5r7lYzAiLY7U4ARA"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "Astronomyy",
+          "url": "https://open.spotify.com/artist/3EpmmPtV7DduqNmeqaADIm"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296275,
+      "name": "Ocean Eyes (Astronomyy Edit)",
+      "url": "https://open.spotify.com/track/76dv5KLRIAejZNmYqYnFYw"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
       },
@@ -1347,7 +1369,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 208139,
       "name": "Origins",
       "url": "https://open.spotify.com/track/6TJAFFa2VaRdFB5UA4BJRt"
@@ -1365,7 +1387,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 232186,
       "name": "Our Own House",
       "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
@@ -1401,7 +1423,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 243413,
       "name": "Painting (Masterpiece)",
       "url": "https://open.spotify.com/track/4kK14radw0XfwxJDPt9tnP"
@@ -1419,7 +1441,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 255397,
       "name": "Peach",
       "url": "https://open.spotify.com/track/6M8qU2rDpeRQLE88DF2xtq"
@@ -1959,7 +1981,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 191293,
       "name": "The Mother We Share",
       "url": "https://open.spotify.com/track/2pE0CMK1fE3mfU0eEOHhKw"
@@ -2031,7 +2053,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 271707,
       "name": "Thunder Clatter",
       "url": "https://open.spotify.com/track/5ZdH7PdJPnrXp44NvqGMeB"
@@ -2103,7 +2125,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217386,
       "name": "Trojans",
       "url": "https://open.spotify.com/track/0wDEiGfq4pw7FAkYKpkwMo"
@@ -2251,7 +2273,7 @@
       ],
       "date_added": "2021-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 177986,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/6dHrWj35HXTGvlCasE5VAA"

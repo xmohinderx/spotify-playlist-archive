@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 202013,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde"
@@ -1009,10 +1009,28 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 210626,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/76rFPFzicNJWMa715Vy7gW"
+    },
+    {
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "album": {
@@ -1085,6 +1103,24 @@
       "duration_ms": 217333,
       "name": "No One's Gonna Love You",
       "url": "https://open.spotify.com/track/0b1Vajse5stBtGv8WOtvm1"
+    },
+    {
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "Nobody's Home",
+      "url": "https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD"
     },
     {
       "album": {

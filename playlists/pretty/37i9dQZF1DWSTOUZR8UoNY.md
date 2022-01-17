@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTOUZR8UoNY.md) - [plain]
 
 > Listen to poet Dylan Thomas read great works – both his own and those of others.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,181 likes - 102 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,180 likes - 102 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

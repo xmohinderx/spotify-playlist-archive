@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Featuring music from Aluna, Diplo & Durante, Luude & Colin Hay, SIDEPIECE and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,882,433 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,882,629 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 14 | [I Wanna Run Away](https://open.spotify.com/track/6QHKcbL8vrX0Ra3kKpNTVs) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I Wanna Run Away](https://open.spotify.com/album/33N30g1JmlblkIJ9fVr4aY) | 2:39 |
 | 15 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
 | 16 | [Won’t Let You Go](https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Won’t Let You Go](https://open.spotify.com/album/4QxfiUo90NEmUnyNHE1x8h) | 3:37 |
-| 17 | [Running \(feat\. Meg Myers\) \[Extended Mix\]](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 |
+| 17 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 |
 | 18 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 |
 | 19 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 20 | [I'm Into It](https://open.spotify.com/track/4b3edA8m5ww2BUB5ahdX3q) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Velvet Cash](https://open.spotify.com/artist/2JE4L1DVUHTozvwDFAQkZr) | [I’m Into It](https://open.spotify.com/album/5YZmgzsyn6bgT8UVpH7ynN) | 3:19 |

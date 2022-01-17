@@ -2200,6 +2200,28 @@
     },
     {
       "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234288,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
         "name": "Speak Now",
         "url": "https://open.spotify.com/album/6Ar2o9KCqcyYF9J0aQP3au"
       },
@@ -2699,7 +2721,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 169153,
       "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
       "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
@@ -2743,7 +2765,7 @@
       ],
       "date_added": "2022-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
@@ -8215,6 +8237,32 @@
       "duration_ms": 192160,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
+    },
+    {
+      "album": {
+        "name": "Encanto (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Beatriz",
+          "url": "https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr"
+        },
+        {
+          "name": "Olga Merediz",
+          "url": "https://open.spotify.com/artist/2Go6wC0GsnkVeRoVwh8rqX"
+        },
+        {
+          "name": "Encanto - Cast",
+          "url": "https://open.spotify.com/artist/3xLU748QxpTmIVaiNXXg0P"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "The Family Madrigal",
+      "url": "https://open.spotify.com/track/4b1yxSdlumA8N4fEk4UOZp"
     },
     {
       "album": {

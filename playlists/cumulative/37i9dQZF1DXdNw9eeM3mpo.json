@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 270800,
       "name": "A Beber Ron",
       "url": "https://open.spotify.com/track/7jDxZOrNK2oUstpupqrEko"
@@ -102,6 +102,24 @@
     },
     {
       "album": {
+        "name": "Algo Especial",
+        "url": "https://open.spotify.com/album/4WZioZqKur2QcDGrRbHY1d"
+      },
+      "artists": [
+        {
+          "name": "Sombrero Club",
+          "url": "https://open.spotify.com/artist/5FbLvZThCoA6gc0OhWQUnc"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200477,
+      "name": "Algo Especial",
+      "url": "https://open.spotify.com/track/41OFzrPZNQwfOBNgrC2QY4"
+    },
+    {
+      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 229800,
       "name": "Amargo Adi\u00f3s",
       "url": "https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx"
@@ -315,7 +333,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 264026,
       "name": "Calaveras y Diablitos",
       "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 213011,
       "name": "Como Saber",
       "url": "https://open.spotify.com/track/71hT1OeAaKSxObmDVKnfh7"
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 254145,
       "name": "Como Te Voy a Olvidar - Edit",
       "url": "https://open.spotify.com/track/1vNuHEbQONnN0DJUBKeUXJ"
@@ -485,7 +503,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 206694,
       "name": "Convaleciente",
       "url": "https://open.spotify.com/track/4O0sPAqzasrIPPuDDrlM3r"
@@ -565,7 +583,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 193807,
       "name": "Deja Ya de Mentir",
       "url": "https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB"
@@ -601,7 +619,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 302813,
       "name": "Delfino",
       "url": "https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF"
@@ -691,7 +709,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212845,
       "name": "El asesino del tiempo",
       "url": "https://open.spotify.com/track/4qn2ZtHRDmcfgVPnl38N8p"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 277933,
       "name": "El Vals del Obrero",
       "url": "https://open.spotify.com/track/4UjqoyfmarLo3Ub3LE19eC"
@@ -821,10 +839,32 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/3Up8K9cqZGOUnoyzgDY3ZZ"
+    },
+    {
+      "album": {
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
     },
     {
       "album": {
@@ -857,7 +897,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 176965,
       "name": "Enciendan los Parlantes",
       "url": "https://open.spotify.com/track/5ojDlhjZyWX5VGxyMHLjkW"
@@ -911,7 +951,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 278343,
       "name": "Entre Vos y Yo",
       "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
@@ -969,7 +1009,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
@@ -1059,7 +1099,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/6MXl7W1mWO7hVDMoDfsibq"
@@ -1225,7 +1265,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
@@ -1243,7 +1283,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/7qKtcEDbth6kOM5s4uJzw3"
@@ -1315,10 +1355,28 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 284924,
       "name": "La Rumba del Mezcal",
       "url": "https://open.spotify.com/track/1Awj73E7Zc3Yc7KwPFYJef"
+    },
+    {
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
     },
     {
       "album": {
@@ -1333,7 +1391,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212280,
       "name": "La \u00daltimo Carta",
       "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
@@ -1416,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "Rey Mambo",
+        "url": "https://open.spotify.com/album/2PKER3Tv2smVdRUmaqru1Y"
+      },
+      "artists": [
+        {
+          "name": "Tomo Como Rey",
+          "url": "https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170840,
+      "name": "Los Que Toman Como Rey",
+      "url": "https://open.spotify.com/track/1i4fB1iRLyTmOY9HroJVne"
+    },
+    {
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/0mr1iGqJHUSpa4ObJ4q2uc"
       },
@@ -1463,7 +1539,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
@@ -1611,7 +1687,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217133,
       "name": "Nada Que Perder",
       "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
@@ -2201,7 +2277,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 235602,
       "name": "Seamos m\u00e1s que amigos - Remastered",
       "url": "https://open.spotify.com/track/217Vkz8qvDOtpjqFrIENok"
@@ -2219,7 +2295,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 176626,
       "name": "Ser Fuertes",
       "url": "https://open.spotify.com/track/6W62ieUxxt94f4XAlA3GFI"
@@ -2255,7 +2331,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 360071,
       "name": "Si Te Vas",
       "url": "https://open.spotify.com/track/7LTDgxW0Wkl0lZOq4Z5fOZ"
@@ -2363,7 +2439,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
@@ -2541,7 +2617,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 219733,
       "name": "Su Majestad",
       "url": "https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ"
@@ -2595,7 +2671,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 249800,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
@@ -2631,7 +2707,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212106,
       "name": "Te Sigo",
       "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
@@ -2649,7 +2725,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 201802,
       "name": "Temerario",
       "url": "https://open.spotify.com/track/1nO2vGrP18kP5ok92k3MOH"
@@ -2667,7 +2743,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 197500,
       "name": "Tengo Miedo",
       "url": "https://open.spotify.com/track/20OijkPcdtlQ6G0UPagDe4"
@@ -2715,6 +2791,28 @@
       "duration_ms": 229773,
       "name": "Tiempos Rudos",
       "url": "https://open.spotify.com/track/5qht8RdY5udwYthby8sgGT"
+    },
+    {
+      "album": {
+        "name": "Tocando Fondo",
+        "url": "https://open.spotify.com/album/4odxo1WkylfY4tnzNYRl3t"
+      },
+      "artists": [
+        {
+          "name": "Ska Beat City",
+          "url": "https://open.spotify.com/artist/4ZrOD7qBmuKV06QXkC9j6o"
+        },
+        {
+          "name": "Mavi D\u00edaz",
+          "url": "https://open.spotify.com/artist/4vxmDBcHT1ibxYBYKirIaW"
+        }
+      ],
+      "date_added": "2021-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225020,
+      "name": "Tocando Fondo",
+      "url": "https://open.spotify.com/track/3p8EcRVUPb6y2P04ep5vag"
     },
     {
       "album": {
@@ -2961,7 +3059,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211000,
       "name": "Yo Tomo",
       "url": "https://open.spotify.com/track/5lJ6O1jt4fviN4VyKH0NX9"

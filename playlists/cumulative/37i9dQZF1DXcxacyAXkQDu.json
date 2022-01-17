@@ -23,7 +23,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 183209,
       "name": "Change of Mind - Acoustic",
       "url": "https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb"
@@ -769,7 +769,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 160186,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3vUc9WQpoca15404jNdzf9"
@@ -1083,7 +1083,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211790,
       "name": "Dear Mountain",
       "url": "https://open.spotify.com/track/5eZyxTki87ZzIbjTpiJovc"
@@ -1119,7 +1119,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 147367,
       "name": "Don't Ever Wonder",
       "url": "https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6"
@@ -1137,7 +1137,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 191420,
       "name": "Dream In A Dream",
       "url": "https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 188220,
       "name": "Endless (feat. Tove Styrke) - Acoustic Version",
       "url": "https://open.spotify.com/track/5eDTMtx8lpbKjZhriTVsi9"
@@ -1485,7 +1485,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 201116,
       "name": "Fickle Heart",
       "url": "https://open.spotify.com/track/0yaX9B73Wfk87ljABIdcU3"
@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 235292,
       "name": "Fine",
       "url": "https://open.spotify.com/track/5sZEXPUEOp0pp5yeS4HeCz"
@@ -1831,7 +1831,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
@@ -1849,7 +1849,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178000,
       "name": "Grace",
       "url": "https://open.spotify.com/track/3lQXz1n5etCVVrazQLEPGt"
@@ -2286,6 +2286,28 @@
     },
     {
       "album": {
+        "name": "I Don't Think I'm Doing This Right",
+        "url": "https://open.spotify.com/album/30BgnnfGHvztcP4jjEpumT"
+      },
+      "artists": [
+        {
+          "name": "TY Falcoa",
+          "url": "https://open.spotify.com/artist/6SXpF6cSSqv7pNmDcoFaBY"
+        },
+        {
+          "name": "Nikita Afonso",
+          "url": "https://open.spotify.com/artist/2C8TRvpR3834esUbCEHkqe"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174084,
+      "name": "I Don't Think I'm Doing This Right",
+      "url": "https://open.spotify.com/track/6VsuywIFkNthRBk6fqDexy"
+    },
+    {
+      "album": {
         "name": "Raw",
         "url": "https://open.spotify.com/album/6lM1n2S9ywnvyKZpLeXVPP"
       },
@@ -2351,7 +2373,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 233053,
       "name": "I Just Wanna Love You",
       "url": "https://open.spotify.com/track/6SJ1qt2W5A4AEdxjqajMWU"
@@ -2735,7 +2757,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 189793,
       "name": "Kids In Love",
       "url": "https://open.spotify.com/track/3JNCFaTBMGPaXNGfsfrirX"
@@ -2883,7 +2905,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 260533,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/3nnG7AM9QopHVPEuLX3Khk"
@@ -3165,7 +3187,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 155322,
       "name": "Low Beams",
       "url": "https://open.spotify.com/track/5tYqK9de9RC6PMKDaJvr4Q"
@@ -3223,7 +3245,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 239545,
       "name": "Make It Work",
       "url": "https://open.spotify.com/track/6Bjq10d3F4Vcm2czZT6UJX"
@@ -3385,7 +3407,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 281200,
       "name": "My Sweet Refuge",
       "url": "https://open.spotify.com/track/5WSrFZDktb5vcAaIzA8yTM"
@@ -3493,7 +3515,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178408,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/0pcSo7xZdaLoomE3INVlvw"
@@ -3631,7 +3653,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 214959,
       "name": "Off to Save the World Replayed",
       "url": "https://open.spotify.com/track/1IIf0jjOv6XEDAd7IMLxpG"
@@ -3775,7 +3797,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 179200,
       "name": "Paris",
       "url": "https://open.spotify.com/track/2ozaVXDiuyTq4mesytqk6i"
@@ -3793,7 +3815,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 182640,
       "name": "Part of Me",
       "url": "https://open.spotify.com/track/7aG1xKK3cdvg7JUKaECwJ4"
@@ -4467,7 +4489,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 168050,
       "name": "Stars",
       "url": "https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe"
@@ -4561,7 +4583,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 201272,
       "name": "Still Feel It All",
       "url": "https://open.spotify.com/track/6iq7Jv43ULC1zRqtdpYDnI"
@@ -4583,7 +4605,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs"
@@ -4641,7 +4663,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 225000,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/0RHeh77ZQtP5Q3IZIjwqPc"
@@ -4703,6 +4725,24 @@
       "duration_ms": 195480,
       "name": "T-Shirts - Acoustic",
       "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+    },
+    {
+      "album": {
+        "name": "What Good Is Love (Acoustic)",
+        "url": "https://open.spotify.com/album/6nSgEmUzkS90nKOLEI89Rh"
+      },
+      "artists": [
+        {
+          "name": "Paul Rey",
+          "url": "https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/6hiv5wOQch8yn5VFW6hD8Z"
     },
     {
       "album": {
@@ -4847,7 +4887,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 172400,
       "name": "The Time Has Come",
       "url": "https://open.spotify.com/track/688PTE0V0ccAzjjul4tSA0"
@@ -4905,7 +4945,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 152149,
       "name": "There For You",
       "url": "https://open.spotify.com/track/0nr17JLngPjJI66XdvjydV"
@@ -5209,7 +5249,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 235030,
       "name": "Us - Acoustic",
       "url": "https://open.spotify.com/track/3tzvuRlfTveGyR12A4WFV6"
@@ -5361,7 +5401,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 232453,
       "name": "When Does a Heart Move On",
       "url": "https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul"
@@ -5595,7 +5635,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 154650,
       "name": "With You",
       "url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"

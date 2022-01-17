@@ -530,6 +530,24 @@
     },
     {
       "album": {
+        "name": "Maaran - Motion Poster Theme",
+        "url": "https://open.spotify.com/album/2w7PzPw9uy7699CjWv2amy"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63061,
+      "name": "Maaran - Motion Poster Theme",
+      "url": "https://open.spotify.com/track/6Yx0t6gQsokYuTlrUXtoc2"
+    },
+    {
+      "album": {
         "name": "Mahaan Title Poster Theme (From \"Mahaan\")",
         "url": "https://open.spotify.com/album/2j9Fx8Mi6VnW1csBunbFXh"
       },
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 148833,
       "name": "Vikram (Title Teaser Theme) (From \"Vikram\")",
       "url": "https://open.spotify.com/track/5TIP47AH2lL45dEEJWpNBZ"

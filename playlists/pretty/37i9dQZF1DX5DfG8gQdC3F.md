@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,501 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,505 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 4 | [Sacrifice \(Remix\) \(feat\. Swedish House Mafia\)](https://open.spotify.com/track/7aAsStiuC4Zw8vIbvRWtq7) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a) | 3:58 |
 | 5 | [Last Birthday](https://open.spotify.com/track/697MdxMbVWn1Ajbw8iaPv5) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [The After Party](https://open.spotify.com/album/3RJi4CGEm5KVAdPxl2fWWa) | 3:57 |
 | 6 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
-| 7 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 7 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 8 | [Anti\-Hero \(feat\. Lil Tecca\)](https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 3:12 |
 | 9 | [Day By Day](https://open.spotify.com/track/3mMWre0KnZ4aPuhZF62KmV) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Day By Day](https://open.spotify.com/album/4M3rsAYpJxIVXqYHxylljj) | 2:48 |
 | 10 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 |

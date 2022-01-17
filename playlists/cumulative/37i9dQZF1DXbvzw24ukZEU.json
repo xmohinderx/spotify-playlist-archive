@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 237093,
       "name": "Cancioncitas de Amor",
       "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/1de5qtvROLxLtMAQrmZjev"
@@ -295,7 +295,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 244973,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0zTSmiDzVkIPUPjsHcUWpe"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/2dEVAvwPAJrWFErXxREGVX"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 199813,
       "name": "Esper\u00e1ndote",
       "url": "https://open.spotify.com/track/1nfyE13arjOuO54HH0zmqj"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 229933,
       "name": "Me Soltaste",
       "url": "https://open.spotify.com/track/02yD6Wmpx5kLAoXLQOnuEb"
@@ -811,7 +811,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2loiYuyYxHfplgLCxNwk8P"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 245360,
       "name": "Por Perro",
       "url": "https://open.spotify.com/track/5HI2GCzPYbLkkr5kXtjvTD"
@@ -913,7 +913,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 299786,
       "name": "Querido Tommy",
       "url": "https://open.spotify.com/track/2JCXcyMXlVywgDJT86wWZW"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 292912,
       "name": "Recu\u00e9rdame - Nueva versi\u00f3n",
       "url": "https://open.spotify.com/track/0yS3WAbqrdjr8o3XseOqUK"
@@ -1238,6 +1238,28 @@
     },
     {
       "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        }
+      ],
+      "date_added": "2021-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6"
+    },
+    {
+      "album": {
         "name": "Iconos",
         "url": "https://open.spotify.com/album/5SGUCNeCuGHbR73Iyh2F7g"
       },
@@ -1285,7 +1307,7 @@
       ],
       "date_added": "2021-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 229253,
       "name": "\u00bfA D\u00f3nde Vamos A Parar?",
       "url": "https://open.spotify.com/track/4fDMVI79jXH7S26uawPeXL"

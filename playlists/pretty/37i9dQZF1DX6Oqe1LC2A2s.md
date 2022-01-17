@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Oqe1LC2A2s.md) - [plain]
 
 > 50 best tracks of 20/21st century <a href="https://open.spotify.com/genre/classical">classical</a> music\. Cover: Arditti Quartet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,910 likes - 50 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,917 likes - 50 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

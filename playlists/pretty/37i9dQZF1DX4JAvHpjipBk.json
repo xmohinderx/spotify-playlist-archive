@@ -1,7 +1,7 @@
 {
   "description": "New music from Gunna & Drake, Cordae, FKA twigs, and more! ",
   "name": "New Music Friday",
-  "num_followers": 3856405,
+  "num_followers": 3856744,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -82,6 +82,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
       "duration_ms": 159666,

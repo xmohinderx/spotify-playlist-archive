@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: ENHYPEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,425 likes - 94 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,427 likes - 94 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 28 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
 | 29 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 |
 | 30 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 |
-| 31 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 31 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 32 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 |
 | 33 | [She’s Nothing](https://open.spotify.com/track/06JZhG8kkmhan3G79nKnFY) | [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8), [Eka Gustiwana](https://open.spotify.com/artist/0VDaMGtUchXP8EtF1iUVIi), [Enda](https://open.spotify.com/artist/4ERsngIfRMCoYbB2PO59rb), [Achmad Satria](https://open.spotify.com/artist/0LUaCu2nL8WHKvXbbM3mLT) | [She’s Nothing](https://open.spotify.com/album/50VfNalazedQhxpLc9YyRY) | 3:06 |
 | 34 | [BAD GYAL](https://open.spotify.com/track/3gRtjRMvjzNGIDzUhY4GdZ) | [Kim!](https://open.spotify.com/artist/2EVVSRpRPI6B5xw6cbaXCa), [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl) | [BAD GYAL](https://open.spotify.com/album/0XZibVsrLqYKzRCeABzhqA) | 2:45 |

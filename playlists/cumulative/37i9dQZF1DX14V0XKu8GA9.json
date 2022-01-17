@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 183360,
       "name": "All I Got",
       "url": "https://open.spotify.com/track/3DdzVgzynoJDtMd2KDCLjd"
@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 132000,
       "name": "Andale",
       "url": "https://open.spotify.com/track/7Fh34hNRM1d1opjPHnJZ1t"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 142343,
       "name": "Armor",
       "url": "https://open.spotify.com/track/2YtKT6Qpygja9AtKf5q0Ch"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 116331,
       "name": "Bandemic (E.D.D.)",
       "url": "https://open.spotify.com/track/3pusbxWdMqyCgbMN3TmSWX"
@@ -175,7 +175,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 152546,
       "name": "Bin Threw",
       "url": "https://open.spotify.com/track/73QUBGv20YsGagQumD60eR"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 157648,
       "name": "Block Boi",
       "url": "https://open.spotify.com/track/6KuH8oGfAvxCPj11pvtR7p"
@@ -397,7 +397,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186086,
       "name": "City of Angels",
       "url": "https://open.spotify.com/track/4XySjQqanD3bo8I0QDympZ"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 213916,
       "name": "Cultura",
       "url": "https://open.spotify.com/track/3lNVLVyA0gWPJ4wrkwSMpH"
@@ -481,7 +481,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 247745,
       "name": "Drowning (feat. Peysoh)",
       "url": "https://open.spotify.com/track/18DvbC01d83aC9UbBCgxlw"
@@ -535,7 +535,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217524,
       "name": "Excuse My Pain (Outro)",
       "url": "https://open.spotify.com/track/6Dbv6Two2eDox9nO8OYMdA"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 163422,
       "name": "Grimey Park",
       "url": "https://open.spotify.com/track/00sbzNSByApQDGqCvoSLTi"
@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/6WSzeqdorZFOgN9fUanmZG"
+      },
+      "artists": [
+        {
+          "name": "Krystall Poppin",
+          "url": "https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158354,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6AJTjzjcJk1BPmFLNhLgYG"
+    },
+    {
+      "album": {
         "name": "HOTBOX",
         "url": "https://open.spotify.com/album/44FgFhfpWj4xlapaY4866Y"
       },
@@ -729,7 +747,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 221538,
       "name": "HOTBOX",
       "url": "https://open.spotify.com/track/3YcRYxAyBjDfbgV06qUFNz"
@@ -839,7 +857,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "LA to Houston",
       "url": "https://open.spotify.com/track/0XzvEER9OtFDV52GNwlpJq"
@@ -861,7 +879,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 200412,
       "name": "Let Me Ride",
       "url": "https://open.spotify.com/track/7qESH5YiT9LORJY5OHnJhU"
@@ -879,7 +897,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178909,
       "name": "LET THE LORD WORK!",
       "url": "https://open.spotify.com/track/0AMR5LozZtPgl3KCHxEGec"
@@ -897,7 +915,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 151578,
       "name": "Life Lessons",
       "url": "https://open.spotify.com/track/5PYjqyBntpTas0DTVY1BUg"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 206117,
       "name": "Low Key",
       "url": "https://open.spotify.com/track/7pu2Sezn97A9IHx6OhHr8y"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 288648,
       "name": "Mama Tried (feat. Stalker Loco & Lil Traieso)",
       "url": "https://open.spotify.com/track/3orEJ1s4SVseJeF0QvtgME"
@@ -1149,7 +1167,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 186911,
       "name": "No Cheap Hoes",
       "url": "https://open.spotify.com/track/6DGNzFioTQCQCU71rSJBqg"
@@ -1167,7 +1185,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 154843,
       "name": "No Hook",
       "url": "https://open.spotify.com/track/74AclpvR2pe9C8cHfxnltW"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 101176,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/2IkHDvY3FwJiZ3xC2HZiVR"
@@ -1349,7 +1367,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 184647,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0SdrDwIz1ObhzY5202OrLn"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 172288,
       "name": "Reminded",
       "url": "https://open.spotify.com/track/5MoYcdxHSgIxJK03vSUFey"
@@ -1414,6 +1432,32 @@
     },
     {
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/4NpVsNPZEZb1OCEWXgMRlb"
+      },
+      "artists": [
+        {
+          "name": "Renizance",
+          "url": "https://open.spotify.com/artist/2bC9vb8xd93kEo6CTf7EKJ"
+        },
+        {
+          "name": "GT Garza",
+          "url": "https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D"
+        },
+        {
+          "name": "Sanchez",
+          "url": "https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/0D9LiXmziCW2YZytYHECIW"
+    },
+    {
+      "album": {
         "name": "Sacrificio",
         "url": "https://open.spotify.com/album/3c484gkXPv30HPONZMtcay"
       },
@@ -1447,7 +1491,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174541,
       "name": "Scandalous",
       "url": "https://open.spotify.com/track/4vwQmhMHgrnbiriwTDN3wO"
@@ -1519,7 +1563,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 187972,
       "name": "SHUTTUP",
       "url": "https://open.spotify.com/track/6mVHBnsUG0a2XJHLl5Wfh7"
@@ -1541,7 +1585,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 132465,
       "name": "Soul Different",
       "url": "https://open.spotify.com/track/4v0X2b5R7OYMZgDrBTzTEM"
@@ -1559,7 +1603,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195761,
       "name": "Steady",
       "url": "https://open.spotify.com/track/7fAYijCSXR9jqljdhmXqBp"
@@ -1621,7 +1665,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 176519,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/0Cyv10sUeCkxNPV4B8iDSU"
@@ -1814,6 +1858,24 @@
     },
     {
       "album": {
+        "name": "HardTimes",
+        "url": "https://open.spotify.com/album/7GRRCaAdCFbWavntMe21gH"
+      },
+      "artists": [
+        {
+          "name": "Jewl$",
+          "url": "https://open.spotify.com/artist/17dg6WOJR4XH8y2yuNv5AF"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131970,
+      "name": "Tryna Win",
+      "url": "https://open.spotify.com/track/6L8G3taO8ZyFZymPRhPNb7"
+    },
+    {
+      "album": {
         "name": "Two Chicanas",
         "url": "https://open.spotify.com/album/76zZf8LVysRk1FlcOgeTAd"
       },
@@ -1982,6 +2044,24 @@
     },
     {
       "album": {
+        "name": "Bless The Streets",
+        "url": "https://open.spotify.com/album/4KdgPdWp1agDVHhhRTPn4x"
+      },
+      "artists": [
+        {
+          "name": "J. Bless",
+          "url": "https://open.spotify.com/artist/5UPH35BXerZ1O8VqcazrOc"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134861,
+      "name": "Woah Woah",
+      "url": "https://open.spotify.com/track/2FYDAdHFLmt3oy7kY5nIjW"
+    },
+    {
+      "album": {
         "name": "Woke Up",
         "url": "https://open.spotify.com/album/1ilqbReRZgqei0FMfwD41t"
       },
@@ -1997,7 +2077,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 107727,
       "name": "Woke Up",
       "url": "https://open.spotify.com/track/6AKeP4wcLsgKvDk2K4cSX6"
@@ -2033,7 +2113,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 199629,
       "name": "Yung kazh- Cocaine",
       "url": "https://open.spotify.com/track/37EvhqS1TI4HrLdbGi1TKC"

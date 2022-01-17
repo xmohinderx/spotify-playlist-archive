@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover: <a href="https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY?si=H3sjdL1LSbONuAz5j6s78A"> Fireboy DML</a> and <a href="https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V?si=JWZclHrdR2y\-4b5qS2idxg"> Ed Sheeran </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,876 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,890 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 2 | [Shisha](https://open.spotify.com/track/2kOmK3ajnOnQamXem4FeXG) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7) | [Shisha](https://open.spotify.com/album/1gaXCy5twILjDFnGthCwUZ) | 3:42 |
 | 3 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 |
 | 4 | [love nwantiti \(feat\. ElGrande Toto\) \- North African Remix](https://open.spotify.com/track/1EYeZGTMCjV7uVey5fNWXM) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [love nwantiti \(feat\. ElGrande Toto\) \[North African Remix\]](https://open.spotify.com/album/6Gyni4addCtIY57Cxulegg) | 2:15 |
-| 5 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 5 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 6 | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Essence \(feat\. Justin Bieber & Tems\)](https://open.spotify.com/album/0Rn8NAh8NnoaCOt8r8Tc3e) | 4:23 |
 | 7 | [Energy](https://open.spotify.com/track/1xWC2YE7OEcgQd4w8Gqa3p) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Energy](https://open.spotify.com/album/0cWqJawgwrIruj6B09jNZI) | 3:06 |
 | 8 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 |

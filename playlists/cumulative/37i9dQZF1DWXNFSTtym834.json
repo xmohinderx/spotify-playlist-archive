@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 376920,
       "name": "Blacklist",
       "url": "https://open.spotify.com/track/2K2aRJUaQl3CKKHELRqGZ6"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 442733,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 228586,
       "name": "Blood and Thunder",
       "url": "https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux"
@@ -253,7 +253,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 434293,
       "name": "Blood Brothers - 2015 Remaster",
       "url": "https://open.spotify.com/track/4q9YY8eorYGjpjk3Zko7l9"
@@ -361,10 +361,28 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 249853,
       "name": "Clouds Over California",
       "url": "https://open.spotify.com/track/21WIpZXepY9HA7NDwYiNaM"
+    },
+    {
+      "album": {
+        "name": "Supremacy",
+        "url": "https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky"
+      },
+      "artists": [
+        {
+          "name": "Hatebreed",
+          "url": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "Destroy Everything",
+      "url": "https://open.spotify.com/track/501CSzS4gwNOJnlWHuBt9r"
     },
     {
       "album": {
@@ -599,7 +617,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 237920,
       "name": "I Don't Care (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
@@ -617,7 +635,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 183640,
       "name": "In the Name of Tragedy",
       "url": "https://open.spotify.com/track/1DhCdQMyNLklKGxBheRFxL"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 246466,
       "name": "Living to Die",
       "url": "https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il"
@@ -725,7 +743,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
@@ -923,7 +941,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 310866,
       "name": "Safe Home",
       "url": "https://open.spotify.com/track/1KgD0p2PaAmHLE6thTLmty"
@@ -1355,7 +1373,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 258160,
       "name": "You Wouldn't Know",
       "url": "https://open.spotify.com/track/0cnySM1Mlep9l9Y2fKo04w"

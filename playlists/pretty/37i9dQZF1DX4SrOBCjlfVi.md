@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > New joints of the week featuring Cordae, Youngboy Never Broke Again, NLE Choppa, and more\. Cover: Ye & The Game
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,062 likes - 51 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,283 likes - 51 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

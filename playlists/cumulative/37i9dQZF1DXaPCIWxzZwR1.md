@@ -2,7 +2,7 @@
 
 ### [Pop Sauce](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
-> next gen pop featuring Shawn Mendes
+> next gen pop featuring Stacey Ryan
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [21st Century Vampire](https://open.spotify.com/track/7KDqNm3Vo6isNP1rfiEVZx) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg) | [21st Century Vampire](https://open.spotify.com/album/0u19GSyQ4QeGJu9o0V0s0i) | 2:47 | 2021-02-16\* | 2021-03-26 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-19 |  |
 | [24/7](https://open.spotify.com/track/304uzYXYjPulJpLRJzuesX) | [Celina Sharma](https://open.spotify.com/artist/42daDEQTdYaqtHG5sH5HMD), [Harris J.](https://open.spotify.com/artist/58LXBTOy629nyAjqX8iUTE) | [CECE](https://open.spotify.com/album/2srEXvWETNxPbjLgG8B1k1) | 3:04 | 2021-11-11 |  |
-| [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-14 |  |
+| [3 Nights](https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/1DNx0H5ZX1ax3yyRwtgT4S) | 2:57 | 2022-01-14 | 2022-01-17 |
 | [3 O'Clock Things](https://open.spotify.com/track/1eBTEpc48XiXZUeXEcZuRi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [OK ORCHESTRA](https://open.spotify.com/album/0cev5DkOdS8wk0aRoac6Fh) | 3:48 | 2021-03-26 | 2021-05-22 |
 | [34+35 Remix \(feat\. Doja Cat, Megan Thee Stallion\) \- Remix](https://open.spotify.com/track/3jjBPF4NDMCU51psU8JPpR) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [34+35 \(Remix\)](https://open.spotify.com/album/11X2d5C6rFBFZZUOCJLPt9) | 3:02 | 2021-02-16\* | 2021-04-02 |
 | [4ever](https://open.spotify.com/track/6Jgapj9acSGYd2CpXcMEPx) | [lilspirit](https://open.spotify.com/artist/3VWII9MTZSfIdOXr1DafzL) | [4ever](https://open.spotify.com/album/7xCDJ7yTSE8hzGQuUvWiOu) | 2:13 | 2021-02-16\* | 2021-03-06 |
@@ -181,6 +181,7 @@
 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 | 2021-11-27 |  |
 | [Don't Need A Man](https://open.spotify.com/track/0frVq7ypwqVdroMcrlyr5e) | [Liv Grace Blue](https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl) | [Don't Need A Man](https://open.spotify.com/album/6Z7bYtuGfAFehZEpKF2XED) | 2:29 | 2021-03-31 | 2021-07-10 |
 | [Don't Talk](https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Don't Talk](https://open.spotify.com/album/7eX7Ucv3YIEQLj1J8fRgEh) | 2:12 | 2021-07-17 | 2021-08-14 |
+| [Don't Text Me When You're Drunk](https://open.spotify.com/track/0IKpTI3268FUkZ2Z606A0u) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/51knfgOiqxO4wdvKEDf3GN) | 3:14 | 2022-01-16 |  |
 | [Donnie Darko](https://open.spotify.com/track/5SrXBODtYCopT8PJfreyFX) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Donnie Darko](https://open.spotify.com/album/5eilmwBcxMf3gTU9F7GNN9) | 3:11 | 2021-06-26 | 2021-07-17 |
 | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/track/55sgQENF3LY1sUcJUwasLl) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Don’t Go \(with Justin Bieber & Don Toliver\)](https://open.spotify.com/album/76HLs4wSTOuCNwcGl4dycr) | 2:48 | 2021-08-21 | 2021-09-17 |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-02-16\* | 2021-03-06 |

@@ -1,7 +1,7 @@
 {
   "description": "Inte bara nytt \u00e5r utan \u00e4ven ny musik! Happy New Music Friday!",
   "name": "New Music Friday Sweden",
-  "num_followers": 186326,
+  "num_followers": 186330,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -86,6 +86,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
       "duration_ms": 159666,

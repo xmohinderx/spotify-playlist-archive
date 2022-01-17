@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Mariah The Scientist",
   "name": "Some Kinda Way",
-  "num_followers": 22235,
+  "num_followers": 22295,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI5MzcxMSwwMDAwMDAwMDhjZDkxNTNhMmNhOGNlMDc1OGM3N2E5ZTY2ZmQwMjli",
+  "snapshot_id": "MTY0MjM4MDAxMCwwMDAwMDAwMDhhOGQzZjMxOTE1ZjEyZjBmYTc3N2M1OTE3NzU2YjAx",
   "tracks": [
     {
       "added_at": "2021-12-15 20:35:00",
@@ -103,6 +103,54 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 223414,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M"
+      },
+      "artists": [
+        {
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+        }
+      ],
+      "duration_ms": 192574,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "single af",
+        "url": "https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "single af",
+      "url": "https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
         "name": "Wasting Time ( feat. Drake & The Neptunes )",
         "url": "https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az"
       },
@@ -127,34 +175,18 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/4OimC40m5O3v6z4uvXlW4M"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 192574,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/3XEJrEHmUBAtPvk9UsysV5"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Pick Up Your Feelings",
-        "url": "https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 232096,
-      "name": "Pick Up Your Feelings",
-      "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -175,82 +207,54 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "Girl Like Me (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/7zur3l7Shcxd6JfOFl8UB0"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/2pPGkrEYiHUmqSyg3sAGII"
-      },
-      "artists": [
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 223414,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/0KS2h61pHQ4WmOwruD7uxD"
+      "duration_ms": 223842,
+      "name": "Girl Like Me (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1OKy6TtXWD7oz1b1dComxI"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "alone / the catch up",
+        "url": "https://open.spotify.com/album/2QRf3UXAEnvnXwbwYYiX8I"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 188115,
+      "name": "the catch up",
+      "url": "https://open.spotify.com/track/18jvxnVVhtTVhLL6dE1JPs"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "So Frequently",
-        "url": "https://open.spotify.com/album/773nWzQZ7Uy2BekzwLAUYI"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/6igqszsHOnDaH8Y0HR8z63"
       },
       "artists": [
         {
-          "name": "Marzz",
-          "url": "https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG"
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
         }
       ],
-      "duration_ms": 181813,
-      "name": "So Frequently",
-      "url": "https://open.spotify.com/track/5dpEHuTqnkM0SxzRpme5Bi"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "single af",
-        "url": "https://open.spotify.com/album/0NVib4XqpW1Yx4nOtbCDyh"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "single af",
-      "url": "https://open.spotify.com/track/3LcFNj04sHJson5SIrRPAe"
+      "duration_ms": 168146,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/114OVh0TxTsEnyMQNAd74t"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -271,34 +275,38 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "2 You",
+        "url": "https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Mariah the Scientist",
+          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 184158,
+      "name": "2 You",
+      "url": "https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 314848,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -351,38 +359,210 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Ur Best Friend",
-        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 182858,
-      "name": "Ur Best Friend (with Kehlani)",
-      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Access Denied",
-        "url": "https://open.spotify.com/album/2iX0UveETkU2Xe1H0Pt9Tv"
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa"
       },
       "artists": [
         {
-          "name": "RAY BLK",
-          "url": "https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 225893,
-      "name": "Access Denied",
-      "url": "https://open.spotify.com/track/2RtodA9O20qR1GcAqzhWLy"
+      "duration_ms": 314848,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Tragic",
+        "url": "https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 207314,
+      "name": "Tragic",
+      "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 185198,
+      "name": "Bitch Don't Be Mad",
+      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Aura III",
+        "url": "https://open.spotify.com/album/3wdfgwqVQT0aJTJsqifubF"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 188234,
+      "name": "In My Corner",
+      "url": "https://open.spotify.com/track/0T56FSDWcKwWfXy2MXAzZG"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Same Space? (Remix)",
+        "url": "https://open.spotify.com/album/5KTLZx1qToHWZJJp83C3H6"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Same Space? - Remix",
+      "url": "https://open.spotify.com/track/1sVEcxx3au6WWt8WcQO4N9"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "I Used To Know Her",
+        "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Could've Been (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Gaslight",
+        "url": "https://open.spotify.com/album/4FxyBQB6mQTPWcyxoVZSrY"
+      },
+      "artists": [
+        {
+          "name": "Eli Derby",
+          "url": "https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u"
+        }
+      ],
+      "duration_ms": 156121,
+      "name": "Gaslight",
+      "url": "https://open.spotify.com/track/64jK5HLnuxyCv4tYODdBXx"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Stickin' (feat. Masego & VanJess)",
+        "url": "https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        }
+      ],
+      "duration_ms": 188805,
+      "name": "Stickin' (feat. Masego & VanJess)",
+      "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 258526,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Pick Up Your Feelings",
+        "url": "https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 232096,
+      "name": "Pick Up Your Feelings",
+      "url": "https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -407,114 +587,102 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Alone With You",
-        "url": "https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm"
+        "name": "What Are We?",
+        "url": "https://open.spotify.com/album/0Vf9CCUkwm35bSTcK85e81"
       },
       "artists": [
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
         }
       ],
-      "duration_ms": 226278,
-      "name": "Alone With You",
-      "url": "https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB"
+      "duration_ms": 160887,
+      "name": "What Are We?",
+      "url": "https://open.spotify.com/track/1m0DML2ofQeH65HwZXoDoZ"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Girl Like Me (feat. H.E.R.)",
-        "url": "https://open.spotify.com/album/7zur3l7Shcxd6JfOFl8UB0"
+        "name": "TBH",
+        "url": "https://open.spotify.com/album/4U3RNjH7iKyqC0xwYtIUFk"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "Bri Steves",
+          "url": "https://open.spotify.com/artist/26PGLwvDbs1jVA6tAv1lLj"
         },
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         }
       ],
-      "duration_ms": 223842,
-      "name": "Girl Like Me (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1OKy6TtXWD7oz1b1dComxI"
+      "duration_ms": 220106,
+      "name": "GAF (feat. Guapdad 4000)",
+      "url": "https://open.spotify.com/track/2IMxBnxu3m0DByGJrBAzUT"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Just Called To Say",
-        "url": "https://open.spotify.com/album/69MhDrxXT730rSnZ6nmXpt"
+        "name": "Demonstration",
+        "url": "https://open.spotify.com/album/4DeKN4alInin8samiVnWB0"
       },
       "artists": [
         {
-          "name": "Dee Gatti",
-          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
         }
       ],
-      "duration_ms": 154140,
-      "name": "Must Be Something",
-      "url": "https://open.spotify.com/track/3gEeg3lRnlBYbC5lwG8C7R"
+      "duration_ms": 224402,
+      "name": "Demonstration",
+      "url": "https://open.spotify.com/track/5Kbwsd46e2OJfI4fGPEeFX"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Just A Moment",
-        "url": "https://open.spotify.com/album/0a78i0R1JUQlVVwrNCz3iE"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/323AklysBbimYo27pWCj0K"
       },
       "artists": [
         {
-          "name": "Symphani Soto",
-          "url": "https://open.spotify.com/artist/5N2lZ3f6pIpMTnpfVV4Adg"
-        },
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 202666,
-      "name": "Just A Moment",
-      "url": "https://open.spotify.com/track/0qsnxBh0zJgW0Y1s8rVCwS"
+      "duration_ms": 179573,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4qSbi8LdPZR9jK9PsjxB9q"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Ready is Always Too Late",
-        "url": "https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g"
+        "name": "R\u00e9sum\u00e9",
+        "url": "https://open.spotify.com/album/0l8zpK3kp03r6ZCb3yaW8n"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad Harnett",
-          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
         }
       ],
-      "duration_ms": 196786,
-      "name": "Anymore (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS"
+      "duration_ms": 180357,
+      "name": "R\u00e9sum\u00e9",
+      "url": "https://open.spotify.com/track/1DRvHjFX73BH9hLUF7NgOF"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "So Done (feat. Khalid)",
-        "url": "https://open.spotify.com/album/062XA53aUGExhE7e8ngYQO"
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 235785,
-      "name": "So Done (feat. Khalid)",
-      "url": "https://open.spotify.com/track/3X3TlieuOl8aWzw2HeigUo"
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -535,44 +703,8 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Forfeit. (ft. Lucky Daye)",
-      "url": "https://open.spotify.com/track/4uMvvCwqs046uxyJiFJTT1"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4gA30BEiTEYzHesXLSBbJc"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 258526,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Tragic",
-        "url": "https://open.spotify.com/album/61sqBAbQjzK6yiwRGokeUz"
+        "name": "Lost One",
+        "url": "https://open.spotify.com/album/53JvgHHILTK9VsqNsL6lXf"
       },
       "artists": [
         {
@@ -580,9 +712,65 @@
           "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 207314,
-      "name": "Tragic",
-      "url": "https://open.spotify.com/track/6BkYYJzfpG3u4Rs4VLXAie"
+      "duration_ms": 180345,
+      "name": "Lost One",
+      "url": "https://open.spotify.com/track/3HY9qrtAKtobL2nCQ535h0"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Ur Best Friend",
+        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 182858,
+      "name": "Ur Best Friend (with Kehlani)",
+      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/3Gy88OoWtHL93e8PQHiLTX"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 205116,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/08HPWLi0YmRUStJzkQ1ffh"
+    },
+    {
+      "added_at": "2021-12-15 20:35:00",
+      "album": {
+        "name": "FWM",
+        "url": "https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg"
+      },
+      "artists": [
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 199533,
+      "name": "When You Love Someone feat. H.E.R. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/10zCt0DTW61AJyiahtY1Xn"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -603,82 +791,38 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "2 You",
-        "url": "https://open.spotify.com/album/59QHpipNvxJcD0fSHUnHmo"
+        "name": "Shoulda (feat. Babyface)",
+        "url": "https://open.spotify.com/album/3sQ1EVwf6xDXaNOK32a7h8"
       },
       "artists": [
         {
-          "name": "Mariah the Scientist",
-          "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 184158,
-      "name": "2 You",
-      "url": "https://open.spotify.com/track/0OEKGHJFPl3qI3BMsyqhzc"
+      "duration_ms": 217433,
+      "name": "Shoulda (feat. Babyface)",
+      "url": "https://open.spotify.com/track/4nRYjMFeJOJQbNC0QDLOkS"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "HAPPY 2 BE HERE (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/1djR94Uyy0vjecCXfOdXng"
+        "name": "LOST YOU",
+        "url": "https://open.spotify.com/album/3DMw1U0phfSBMkmO6pI5eF"
       },
       "artists": [
         {
-          "name": "Ant Clemons",
-          "url": "https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 111160,
-      "name": "June 1st",
-      "url": "https://open.spotify.com/track/4sGytBCmSavdzoFQdXoTX2"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/710KCDvLyaTZS6NHNw9URq"
-      },
-      "artists": [
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 185198,
-      "name": "Bitch Don't Be Mad",
-      "url": "https://open.spotify.com/track/24WhLBcWByvFMrt8NNQ0ax"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Pack Lite",
-        "url": "https://open.spotify.com/album/00IWbDt6d3LfbgnIdZ58OY"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 176955,
-      "name": "Pack Lite",
-      "url": "https://open.spotify.com/track/3Q0U0QJEGjA2rZPoGVVaWY"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Why Don't You Touch Me",
-        "url": "https://open.spotify.com/album/04NUa9SytI8eol6ylIS9ai"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 197746,
-      "name": "Why Don't You Touch Me",
-      "url": "https://open.spotify.com/track/7wnV2fCAoOMkFCMGFxUmsM"
+      "duration_ms": 177720,
+      "name": "LOST YOU",
+      "url": "https://open.spotify.com/track/0Gmjaje0sMUwD5mIHlhlfs"
     },
     {
       "added_at": "2021-12-15 20:35:00",
@@ -699,170 +843,38 @@
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "S.O.L.A.R.",
-        "url": "https://open.spotify.com/album/0oIztouqTB4rZYosZ8zh87"
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
       },
       "artists": [
         {
-          "name": "Inayah",
-          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 188839,
-      "name": "Best Thing",
-      "url": "https://open.spotify.com/track/4pqYf5eVYFpesyKlrFGNTE"
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2021-12-15 20:35:00",
       "album": {
-        "name": "Don't Wanna Pretend",
-        "url": "https://open.spotify.com/album/6c4oI3p1JhWsJVUlVDuA3s"
+        "name": "Selfish (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/7BNppAi3a6LXxVvJs6GHC7"
       },
       "artists": [
         {
-          "name": "Shantel May",
-          "url": "https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0"
-        }
-      ],
-      "duration_ms": 225576,
-      "name": "Don't Wanna Pretend",
-      "url": "https://open.spotify.com/track/1H89H0hdMKjj7Q2I5vYM0V"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Dangerous Love",
-        "url": "https://open.spotify.com/album/6lmmpu8veGXucQJbX3gxJf"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 194586,
-      "name": "Dangerous Love",
-      "url": "https://open.spotify.com/track/5JayOLFuofunaBCIjissQL"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Nobody But You",
-        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         },
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         }
       ],
-      "duration_ms": 213214,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4kBzRDlKvKYD7zsWr9MVIR"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Lavene",
-          "url": "https://open.spotify.com/artist/6QTh5CJex4f7euCPUavWg0"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/4IQqF0UvqlzWaLcG22sOBG"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Lost One",
-        "url": "https://open.spotify.com/album/53JvgHHILTK9VsqNsL6lXf"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 180345,
-      "name": "Lost One",
-      "url": "https://open.spotify.com/track/3HY9qrtAKtobL2nCQ535h0"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "You Made A Fool Of Me",
-        "url": "https://open.spotify.com/album/4IQy1wMdio3OMwe9lGVEjl"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "You Made A Fool Of Me",
-      "url": "https://open.spotify.com/track/0zh3RhUmTQXU6MNU7ehP7m"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "On One",
-        "url": "https://open.spotify.com/album/3cxYmtH9abCdqR0XkkGW16"
-      },
-      "artists": [
-        {
-          "name": "Joyce Wrice",
-          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 205808,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/0evKTZ9MpgVcCd5TBvmeD6"
-    },
-    {
-      "added_at": "2021-12-15 20:35:00",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
+      "duration_ms": 201214,
+      "name": "Selfish (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/6KYn4yDSvH2NT90navkiql"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWW78Y3ocEppf"

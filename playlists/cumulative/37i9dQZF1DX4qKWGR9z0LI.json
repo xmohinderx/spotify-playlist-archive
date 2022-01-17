@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 337064,
       "name": "A Mal Tiempo Buena Salsa",
       "url": "https://open.spotify.com/track/0sgPyUXELg85REg7HFusDF"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 309040,
       "name": "As\u00ed Es la Mujer",
       "url": "https://open.spotify.com/track/6Mo9TgSE7iKBNSoIdLaP40"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 324253,
       "name": "Buenaventura Y Caney",
       "url": "https://open.spotify.com/track/7ugeLfcFCak3rje9PTRCkS"
@@ -265,7 +265,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 260865,
       "name": "Canciones Viejas",
       "url": "https://open.spotify.com/track/6d9S2m4IKhvGxaX89PuBRo"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 231306,
       "name": "Cuando Te Miro",
       "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
@@ -631,6 +631,28 @@
       "duration_ms": 414706,
       "name": "El Gran Varon",
       "url": "https://open.spotify.com/track/1N3G6QQfF0579fHoFQmMzi"
+    },
+    {
+      "album": {
+        "name": "El Que Siempre So\u00f1\u00f3",
+        "url": "https://open.spotify.com/album/2Xx9zTlqe5Vn7ZcXxqWnE6"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323682,
+      "name": "El Que Siempre So\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/2comgM8wcrT3UbA2DFk5UX"
     },
     {
       "album": {
@@ -1265,7 +1287,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 439080,
       "name": "Medley",
       "url": "https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK"
@@ -1345,7 +1367,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 245163,
       "name": "No Est\u00e1s Solo: Canci\u00f3n Para Los Enfermos",
       "url": "https://open.spotify.com/track/4Uu7gj5r0I082cm6QhcKxG"
@@ -1617,7 +1639,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 296240,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
@@ -1639,7 +1661,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
@@ -1715,7 +1737,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 298306,
       "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
       "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
@@ -1737,6 +1759,24 @@
       "duration_ms": 269231,
       "name": "Se\u00f1or Mentira",
       "url": "https://open.spotify.com/track/2YFQEk4kue7QQimTqT4G1Y"
+    },
+    {
+      "album": {
+        "name": "A Mi Estilo...",
+        "url": "https://open.spotify.com/album/7yoleaRnHUoOxpROQ7xDAf"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349600,
+      "name": "Se\u00f1ora De Madrugada",
+      "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
     },
     {
       "album": {
@@ -1805,7 +1845,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 258760,
       "name": "Sin Amenazas",
       "url": "https://open.spotify.com/track/3A11ynycZTqCk4ApkR33sV"
@@ -1845,7 +1885,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 260000,
       "name": "Soy de Lo Peor",
       "url": "https://open.spotify.com/track/74GBtgq1XjVrNdp5Lv1jbM"
@@ -1979,7 +2019,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 234286,
       "name": "Trancao'",
       "url": "https://open.spotify.com/track/3FihPkBwuowuSxyfiGFwhI"
@@ -2217,7 +2257,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 325133,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/33KyLofurq1qZ6kpF6J9Hi"

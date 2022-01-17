@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-02-16",
-  "description": "next gen pop featuring Shawn Mendes",
+  "description": "next gen pop featuring Stacey Ryan",
   "name": "Pop Sauce",
   "published_playlist_ids": [
     "1MUGAYRMba2bUffdFFswRE"
@@ -239,7 +239,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 177666,
       "name": "3 Nights",
       "url": "https://open.spotify.com/track/1tNJrcVe6gwLEiZCtprs1u"
@@ -3275,6 +3275,28 @@
       "duration_ms": 132120,
       "name": "Don't Talk",
       "url": "https://open.spotify.com/track/3mXjVkMtEqWZ2iMHYtincz"
+    },
+    {
+      "album": {
+        "name": "Don't Text Me When You're Drunk",
+        "url": "https://open.spotify.com/album/51knfgOiqxO4wdvKEDf3GN"
+      },
+      "artists": [
+        {
+          "name": "Stacey Ryan",
+          "url": "https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ"
+        },
+        {
+          "name": "Zai1k",
+          "url": "https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Don't Text Me When You're Drunk",
+      "url": "https://open.spotify.com/track/0IKpTI3268FUkZ2Z606A0u"
     },
     {
       "album": {

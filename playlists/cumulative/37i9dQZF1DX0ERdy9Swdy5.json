@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 279186,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/59Fg7F5Azwd3oDSJ3vemne"
@@ -181,7 +181,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 296026,
       "name": "Cara de Ni\u00f1o",
       "url": "https://open.spotify.com/track/2WOMIZnu99mzeMo13bZq8m"
@@ -361,7 +361,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 305200,
       "name": "Dile a Ella",
       "url": "https://open.spotify.com/track/4qBmNU17916oHfaGQzG0dD"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 338333,
       "name": "Duele M\u00e1s",
       "url": "https://open.spotify.com/track/5eq5Fn07a5RXLrMXQhtbGr"
@@ -415,7 +415,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
@@ -621,7 +621,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 305440,
       "name": "Juguete De Nadie",
       "url": "https://open.spotify.com/track/25gKDYktpgqSQGdxwDoTsh"
@@ -736,6 +736,24 @@
     },
     {
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288360,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0vl2mVJcPazbmvOdmP1kYH"
+    },
+    {
+      "album": {
         "name": "Me Tengo Que Ir",
         "url": "https://open.spotify.com/album/7mdskxE2Kr6O5DWiWw3RB2"
       },
@@ -841,7 +859,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 271053,
       "name": "No Morir\u00e1 - No Matter What",
       "url": "https://open.spotify.com/track/2PsTyxNYFJ5AnjpYOUo3VN"
@@ -899,7 +917,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 298600,
       "name": "Pagina Del Amor",
       "url": "https://open.spotify.com/track/7otEYXe06YiUKPQsK4kGqf"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 287960,
       "name": "Pensamiento y Palabra",
       "url": "https://open.spotify.com/track/7HZgFgvqDQpe4ZWIYwh0YV"
@@ -1187,7 +1205,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 252826,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE"
@@ -1295,7 +1313,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 289466,
       "name": "Vali\u00f3 la Pena - Salsa Version",
       "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"

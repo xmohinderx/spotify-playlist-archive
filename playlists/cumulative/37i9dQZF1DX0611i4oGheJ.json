@@ -163,7 +163,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 295075,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1SUETdQFhL1AztBJhnnJWY"
@@ -257,7 +257,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 199893,
       "name": "Blood Hunters",
       "url": "https://open.spotify.com/track/6v0zVFmYrF6FmJ8f7GIrv8"
@@ -579,7 +579,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 229653,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 279680,
       "name": "Elijah - Acoustic Version",
       "url": "https://open.spotify.com/track/5USnlTd40L2fKioMeNMOBJ"
@@ -709,7 +709,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 408826,
       "name": "Evidence of Living",
       "url": "https://open.spotify.com/track/3vTw0hP6ksUfC6dQ9JnaG7"
@@ -979,7 +979,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-30",
+      "date_removed": null,
       "duration_ms": 153466,
       "name": "Goodnight Rhonda Lee",
       "url": "https://open.spotify.com/track/4GC0CClxZnOWYkhv16JWH0"
@@ -1275,7 +1275,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/3orSucDgEQvX0i2elZ7Lhd"
@@ -1492,6 +1492,24 @@
     },
     {
       "album": {
+        "name": "In A Bind (Strings Version) / Wits About You (Saxophone Version)",
+        "url": "https://open.spotify.com/album/2L6P12N4L4OENWk5XO6jaN"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "date_added": "2021-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223860,
+      "name": "In A Bind - Strings Version",
+      "url": "https://open.spotify.com/track/2AQVquEBrCXizzLs6Leku5"
+    },
+    {
+      "album": {
         "name": "Listen to Formation, Look for the Signs",
         "url": "https://open.spotify.com/album/0eeWqSci9uLlAuTP0bXwLR"
       },
@@ -1525,7 +1543,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 235043,
       "name": "Justine",
       "url": "https://open.spotify.com/track/6VLRjvkWNAvKqiF77bxppi"
@@ -1601,7 +1619,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 274733,
       "name": "Let No Grief",
       "url": "https://open.spotify.com/track/3R2sknZVO963iQknjhDwru"
@@ -1695,7 +1713,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR"
@@ -1875,7 +1893,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
@@ -2381,7 +2399,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 256311,
       "name": "Roof of the World",
       "url": "https://open.spotify.com/track/0pOYLQ8ZnPF1G6GE43Jf7U"
@@ -2507,7 +2525,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 253866,
       "name": "Sometimes A Woman Is An Island",
       "url": "https://open.spotify.com/track/2mg0CevWw06dqAlUZRdDEY"
@@ -2543,7 +2561,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
@@ -2597,7 +2615,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212720,
       "name": "Strange Country",
       "url": "https://open.spotify.com/track/5FKe8dFIw1CAbFocbGpG7Y"
@@ -2849,7 +2867,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 300277,
       "name": "The Meetings of the Waters",
       "url": "https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ"
@@ -2903,7 +2921,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 292493,
       "name": "The Question",
       "url": "https://open.spotify.com/track/6IfxNYJWYBaaDxCN8FWehD"
@@ -3051,7 +3069,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 294720,
       "name": "Then Again",
       "url": "https://open.spotify.com/track/3y8nbtLl3XgTB5VlMuENg6"
@@ -3091,7 +3109,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 241720,
       "name": "Tiger Striped Sky",
       "url": "https://open.spotify.com/track/2Cx61IzUXPJyhv3GzGtsZ3"
@@ -3365,7 +3383,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 287417,
       "name": "Wayfaring Stranger (with Francesco Turrisi)",
       "url": "https://open.spotify.com/track/6fVWRVu15YqA9yhd5hy9Bj"
@@ -3401,7 +3419,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 205120,
       "name": "Western Movies",
       "url": "https://open.spotify.com/track/1iEZwHyU08FwHqAql9A8uo"
@@ -3437,7 +3455,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 197323,
       "name": "When I Found You",
       "url": "https://open.spotify.com/track/0EU95trt0NRr1egprQgxgF"
@@ -3527,7 +3545,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 182058,
       "name": "Who Did You Leave for Me",
       "url": "https://open.spotify.com/track/1EoBYyD4a8V1h7tw6PPy2E"
@@ -3581,7 +3599,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2VGMMVCzLU6ff980myVsdr"
@@ -3599,7 +3617,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 198186,
       "name": "Wreck You",
       "url": "https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM"

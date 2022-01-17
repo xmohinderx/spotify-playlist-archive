@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Travel through the evolution of the Renaissance sound with this collection of choral and instrumental classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,730 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,770 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

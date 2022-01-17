@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,623 likes - 95 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,682 likes - 95 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DRIP SEASON 4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
-| 2 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 2 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 3 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 | 4 | [Chronicles \(feat\. H.E.R\. & Lil Durk\)](https://open.spotify.com/track/6oOJL3xj8zRz6URS0SwlXC) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:32 |
 | 5 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 |

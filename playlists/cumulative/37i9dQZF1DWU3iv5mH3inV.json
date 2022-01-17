@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 206986,
       "name": "Abuso",
       "url": "https://open.spotify.com/track/4BG7Q2r5rJayqJhPur6KRs"
@@ -117,7 +117,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 206936,
       "name": "Acelera",
       "url": "https://open.spotify.com/track/2yjLqfyOLbWo79YTDyuwil"
@@ -157,7 +157,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 239480,
       "name": "Amaneci Contento",
       "url": "https://open.spotify.com/track/2Al5sYcnRhzNnhz7GyPCyp"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 171764,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/5cxFAkgM6Gr9VFUr164Cos"
@@ -255,7 +255,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 172878,
       "name": "Brum Brum",
       "url": "https://open.spotify.com/track/7J2W6n9CZDPmSVRjvEqkCQ"
@@ -273,7 +273,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 209989,
       "name": "Bulto Ah Ah Ah",
       "url": "https://open.spotify.com/track/7zzKtj6PGA8BQTOrwzcWl5"
@@ -509,7 +509,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 186801,
       "name": "Colombiana",
       "url": "https://open.spotify.com/track/6jqFyYXR54RHHo3S18rjab"
@@ -633,7 +633,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 181208,
       "name": "Co\u00f1o (with Puri & El Bloonel)",
       "url": "https://open.spotify.com/track/6Af0ZwUZt9ghj5Nw99XroS"
@@ -651,7 +651,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 234372,
       "name": "Cuando Bebo",
       "url": "https://open.spotify.com/track/7HEEmTfwfM56sSZd6glbZH"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 148088,
       "name": "Dale un Boton",
       "url": "https://open.spotify.com/track/7wfEodzHNkYkzvbfrjrVMy"
@@ -815,7 +815,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 213185,
       "name": "Despues del Party",
       "url": "https://open.spotify.com/track/0ZEIJFQFceMEC3yqAuy2qo"
@@ -902,6 +902,24 @@
     },
     {
       "album": {
+        "name": "Edici\u00f3n de Lujo",
+        "url": "https://open.spotify.com/album/3oeqfFFV0X5K7ObhiTzqry"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Escuela",
+          "url": "https://open.spotify.com/artist/7mcJN2bWqCv7jvykgHp4KN"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165433,
+      "name": "Durisimo",
+      "url": "https://open.spotify.com/track/2qm47srciNsrYrA0SFG3gD"
+    },
+    {
+      "album": {
         "name": "Exitos del Dembow",
         "url": "https://open.spotify.com/album/58UaKpvZpeuefnHUhIrap0"
       },
@@ -949,7 +967,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 147054,
       "name": "El Chiva",
       "url": "https://open.spotify.com/track/6RwI2ttaWWptIzIQvj3G68"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 259755,
       "name": "El Culon",
       "url": "https://open.spotify.com/track/5KHLqLHg2HcuuyzjYcJYIC"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 232216,
       "name": "El Gagayor",
       "url": "https://open.spotify.com/track/0yc93K8GZlCCL77cVMV3GF"
@@ -1007,7 +1025,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 199052,
       "name": "El Humo",
       "url": "https://open.spotify.com/track/5FdOHGl0IWBXPfsxr5oiWs"
@@ -1025,7 +1043,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 223133,
       "name": "El Maiz",
       "url": "https://open.spotify.com/track/7h1mAn097dAvRuXCByrRTX"
@@ -1047,7 +1065,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 246386,
       "name": "El Mario de Tu Mujer (feat. Sensato)",
       "url": "https://open.spotify.com/track/02DaDbZtjht8xRERVwL7Zb"
@@ -1131,7 +1149,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 191546,
       "name": "El Rockanyor (Tres Pasito)",
       "url": "https://open.spotify.com/track/4uCGDy0y8s3U5Q3NU4O9NQ"
@@ -1153,7 +1171,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 117498,
       "name": "El Singon",
       "url": "https://open.spotify.com/track/28xnJnYvEiZdVrH3eM8AC0"
@@ -1207,7 +1225,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 161346,
       "name": "Ella Eh!",
       "url": "https://open.spotify.com/track/23iuxSWGOfiAhuIK6SjFoS"
@@ -1247,7 +1265,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 202005,
       "name": "Ella Quiere Cualto",
       "url": "https://open.spotify.com/track/2AeF0eeCalgQegE4zydJn4"
@@ -1305,7 +1323,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 155107,
       "name": "Engorilao",
       "url": "https://open.spotify.com/track/5s41yFuX41Qom3b1fEKrhf"
@@ -1381,7 +1399,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 120215,
       "name": "Hablo",
       "url": "https://open.spotify.com/track/0yoWG7P5ViDLDcT5RjfEFR"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 163800,
       "name": "Klok Con Klok",
       "url": "https://open.spotify.com/track/0WlCyTEeJHHtqdIjNVnQbz"
@@ -1509,7 +1527,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195596,
       "name": "Knock Out",
       "url": "https://open.spotify.com/track/6YRH8zh2KMbltmbSf4Qe1d"
@@ -1633,7 +1651,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 163346,
       "name": "La Gomita",
       "url": "https://open.spotify.com/track/0QQbO11ji2wf2VitEQpCZL"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana (with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq) - Remix",
       "url": "https://open.spotify.com/track/43vpumD5K15N6Vb0kpuZCi"
@@ -1755,7 +1773,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 274840,
       "name": "La Nota Se Me Encampana - Remix",
       "url": "https://open.spotify.com/track/2hagtttYZkjQA3h5bB4WOe"
@@ -1945,7 +1963,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 183266,
       "name": "Los Nin\u0303os Malos",
       "url": "https://open.spotify.com/track/4ZOyLgTrJUGiDC9833bm34"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 164164,
       "name": "Los Pomposo",
       "url": "https://open.spotify.com/track/6VrOzFtjAylmaRV5OsCFeo"
@@ -1985,7 +2003,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 176976,
       "name": "Maniqui",
       "url": "https://open.spotify.com/track/0yrvDuVVhnk51mlPVoxxcY"
@@ -2111,7 +2129,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 199615,
       "name": "Me Tienen Dema (Golo Golo)",
       "url": "https://open.spotify.com/track/6y9VN5ngWahRxk7xv7sQru"
@@ -2173,7 +2191,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 220706,
       "name": "Mensaje Directo (DM)",
       "url": "https://open.spotify.com/track/7oJzEtK0F1FT0cFIPNOPY6"
@@ -2365,7 +2383,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 185966,
       "name": "No Son de Na",
       "url": "https://open.spotify.com/track/0PcglxPqsxB82pFalqxgqa"
@@ -2401,7 +2419,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198974,
       "name": "Pa Jamaica",
       "url": "https://open.spotify.com/track/2mJrQM845TqwABVy6WDmIF"
@@ -2477,7 +2495,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 245815,
       "name": "Pepe - Original",
       "url": "https://open.spotify.com/track/1uv33oIeP72uccwM5dJJQS"
@@ -2535,7 +2553,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 160705,
       "name": "Pikilao",
       "url": "https://open.spotify.com/track/7Dml63sMhK1AID2g8KNkfW"
@@ -2553,7 +2571,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 135314,
       "name": "Plakiti",
       "url": "https://open.spotify.com/track/6j1d2scxQfnwSRb0Pssryv"
@@ -2593,7 +2611,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 202360,
       "name": "Ponte Tu Chaleco",
       "url": "https://open.spotify.com/track/3Cy0m9vGIZ1OEUL6fAT0RD"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 191033,
       "name": "Queee Fueee",
       "url": "https://open.spotify.com/track/5zQJjdOgZ86Vjdjm2ykHjh"
@@ -2825,7 +2843,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 170000,
       "name": "Rapidito",
       "url": "https://open.spotify.com/track/4VA8RiUCoXtTDswsldRjtW"
@@ -2843,7 +2861,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 204630,
       "name": "Rebota",
       "url": "https://open.spotify.com/track/2YRvdf9cdS88y1wB1WhKoE"
@@ -2861,7 +2879,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 177564,
       "name": "Ricky Ricon",
       "url": "https://open.spotify.com/track/4owmkJhIsRscpC07F9uIqa"
@@ -2879,7 +2897,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 232151,
       "name": "Serrucho Amolao",
       "url": "https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s"
@@ -2905,7 +2923,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 181937,
       "name": "Sesi",
       "url": "https://open.spotify.com/track/6g0R4XJbkoNpQ9iMLI2t1T"
@@ -3039,7 +3057,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 175307,
       "name": "Sube El Dembow",
       "url": "https://open.spotify.com/track/50BABfW3u8HQrCZ44XMPd7"
@@ -3113,7 +3131,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 230257,
       "name": "Superman Sin Capa",
       "url": "https://open.spotify.com/track/7enqOzlUkUH0M1tHYwRTYO"
@@ -3131,7 +3149,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 1228199,
       "name": "Superman Sin Capa Remix / Sientate en ese Deo / Dale Paya / Trompeta / Tan Celoso / La Malondra / Hoy Me Desacato",
       "url": "https://open.spotify.com/track/1942qHTkX9BH5eWlcFUzDY"
@@ -3197,7 +3215,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 166948,
       "name": "Tan Celoso",
       "url": "https://open.spotify.com/track/4oylgGWwjMKLSg70fGipb5"
@@ -3281,7 +3299,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 198624,
       "name": "Te De Campana",
       "url": "https://open.spotify.com/track/6OdD1XrpFD5BuxiAMFUWZC"
@@ -3347,7 +3365,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 217600,
       "name": "Teachan",
       "url": "https://open.spotify.com/track/4phP7BK5Pkgkhxk2Ipfjaz"
@@ -3369,7 +3387,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 228655,
       "name": "Tecnobow (feat. Diplo)",
       "url": "https://open.spotify.com/track/1roaN9AUTbYfiSDcpxdjr9"
@@ -3409,7 +3427,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 196030,
       "name": "Tembeleke",
       "url": "https://open.spotify.com/track/3xULsKQSIkr16oORbAnKxu"
@@ -3427,7 +3445,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 195492,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/4tElm6iIhqYyS1G1CNdD4G"
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 209760,
       "name": "Tirando Paquetico",
       "url": "https://open.spotify.com/track/0ooZuYAlfScKXknRfYHeTP"
@@ -3511,7 +3529,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 200808,
       "name": "Trompeta",
       "url": "https://open.spotify.com/track/6SFnPT4nfYpfVRaJJwvfQG"
@@ -3585,7 +3603,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
@@ -3733,7 +3751,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 219973,
       "name": "Ven Meneate - Remix",
       "url": "https://open.spotify.com/track/6cPlC7b4KxzkCYB4bJZ8jI"
@@ -3787,7 +3805,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 359074,
       "name": "Versace - Remix",
       "url": "https://open.spotify.com/track/4y4SfmkcTnFYClU3xhXgrD"

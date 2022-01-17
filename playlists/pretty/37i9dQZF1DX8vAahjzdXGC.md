@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Stephanie Poetri
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,242 likes - 134 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,260 likes - 134 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 36 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
 | 37 | [Iffy](https://open.spotify.com/track/3kfqYE0jGONOrkVpkPPOd5) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Iffy](https://open.spotify.com/album/0XBvpjHN9Ljrta2iJWw3KR) | 2:53 |
 | 38 | [Cowboys Don’t Cry](https://open.spotify.com/track/13plTOJUDmgBrTEd7yzTgq) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboys Don’t Cry](https://open.spotify.com/album/3vAAKKBTjbIAKcJDprhhEQ) | 3:09 |
-| 39 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 39 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 40 | [Chamomile](https://open.spotify.com/track/7jBtXdbmmR9gAaRhlmkyss) | [Kei Cinantya](https://open.spotify.com/artist/636q9447fjIbrCetxeLpZS) | [Chamomile](https://open.spotify.com/album/6FcdDJ0vgSFkQWEcyIOz7K) | 3:58 |
 | 41 | [Nirmala](https://open.spotify.com/track/08S2HuBEyVn8CmHoqBVZaE) | [Neida](https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW) | [Nirmala](https://open.spotify.com/album/7dVyE38B1U8rNUvqqmglki) | 4:01 |
 | 42 | [Rush](https://open.spotify.com/track/4jvwn9ZXk0UKLBsC19uUVP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Rush](https://open.spotify.com/album/5av4U0VxSmBxClxmEtqiKi) | 3:05 |

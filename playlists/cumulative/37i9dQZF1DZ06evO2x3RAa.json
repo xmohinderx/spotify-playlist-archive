@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 158453,
       "name": "Bunie Ya (Ibo)",
       "url": "https://open.spotify.com/track/5xJKeI7ukXkjgr2qUctaRP"
@@ -235,7 +235,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-01",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/1oZ0AbWLSlFWkqBfkkf5OU"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 84200,
       "name": "Kenelum Jehova (Igbo-Nigeria)",
       "url": "https://open.spotify.com/track/5QjrUKOOYpyUWTC9a7nn6N"
@@ -779,7 +779,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 152053,
       "name": "Revival",
       "url": "https://open.spotify.com/track/0jdv79JsCr9X6rQZKOFS3A"
@@ -851,7 +851,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 335613,
       "name": "Sound Of Music (Wonderful Jah)",
       "url": "https://open.spotify.com/track/79K9qfkTfNgVnPWr2rMtbf"
@@ -923,7 +923,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "The Day Jesus Was Crucufied",
       "url": "https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH"
@@ -1002,6 +1002,24 @@
     },
     {
       "album": {
+        "name": "Holy Wars",
+        "url": "https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Okosun",
+          "url": "https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418093,
+      "name": "War of Nations",
+      "url": "https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI"
+    },
+    {
+      "album": {
         "name": "The Gospel Of Ozziddi",
         "url": "https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv"
       },
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 254133,
       "name": "What Manner Of Man",
       "url": "https://open.spotify.com/track/5Q1iqXx9UZtjcj6seSFi8k"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 439800,
       "name": "Who's Like Unto Thee",
       "url": "https://open.spotify.com/track/6O4YavUbqstEQ8EhiQWKDM"
@@ -1121,7 +1139,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 361200,
       "name": "Zion",
       "url": "https://open.spotify.com/track/1wJCegG7JDFRGXMhm5sbiH"

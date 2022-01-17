@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop & R&B\. Cover: <a href="https://open.spotify.com/artist/3kv1Edgn5HlEWCuEKr1Y9x?si=JfkadQmQQ7G3AxN\_GlnieA">Yugen Blakrok</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,649 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,655 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -183,7 +183,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 246761,
       "name": "Banana",
       "url": "https://open.spotify.com/track/3lWMxUaH99svmD3GnuMZJb"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 193516,
       "name": "Be on the Lookout",
       "url": "https://open.spotify.com/track/59fbbrUBjuN5H4NWzMi7CI"
@@ -219,7 +219,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 176148,
       "name": "Big Building's Walk",
       "url": "https://open.spotify.com/track/0CfoP8Zf68u2E0JegB0S2F"
@@ -237,7 +237,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 168820,
       "name": "Bird Brain",
       "url": "https://open.spotify.com/track/1Sm4vXzi88nMcWE392dd8R"
@@ -357,7 +357,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 456114,
       "name": "Celestial Blues",
       "url": "https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 282830,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/4YsxaxfAA1dwsFy237azXq"
@@ -449,7 +449,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 270106,
       "name": "Chum City",
       "url": "https://open.spotify.com/track/2zdWHYYe0aqqzBjOKEvE8k"
@@ -813,7 +813,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 315266,
       "name": "Funkier Than A Mosquito's Tweeter",
       "url": "https://open.spotify.com/track/5LlLJHFVVEmjZDvFvpbqHU"
@@ -849,7 +849,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 273586,
       "name": "Glaze",
       "url": "https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9"
@@ -901,7 +901,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211216,
       "name": "Green Chimneys - Juffie - Instrumental",
       "url": "https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H"
@@ -937,7 +937,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 355266,
       "name": "Harlem Buck Dance Strut",
       "url": "https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q"
@@ -977,6 +977,24 @@
       "duration_ms": 204432,
       "name": "Herbie",
       "url": "https://open.spotify.com/track/0H93akvUa8SyoWlkYywgRa"
+    },
+    {
+      "album": {
+        "name": "HOT SPOT",
+        "url": "https://open.spotify.com/album/5CDTFPJ9aOAGjbKVhJ0WrR"
+      },
+      "artists": [
+        {
+          "name": "Sam Hankins",
+          "url": "https://open.spotify.com/artist/247stQu5JNHdlL5QguVthj"
+        }
+      ],
+      "date_added": "2021-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273263,
+      "name": "HOT SPOT",
+      "url": "https://open.spotify.com/track/7ySxS4T7m30PmljNgTl1M9"
     },
     {
       "album": {
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2021-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 291906,
       "name": "Juice Box",
       "url": "https://open.spotify.com/track/5ZJrwkNAswWr1rHZCrEkfs"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 192050,
       "name": "Just Because",
       "url": "https://open.spotify.com/track/1wuhNYSe53MYrtFsS50bLP"
@@ -1063,7 +1081,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 181235,
       "name": "Just Got Back",
       "url": "https://open.spotify.com/track/7DcRRa4zXzzjKtV0p5PZa0"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 257293,
       "name": "Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars)",
       "url": "https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm"
@@ -1369,7 +1387,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 413893,
       "name": "New York Times - Remastered 2002",
       "url": "https://open.spotify.com/track/75beUJVji54O01lbMrpVG6"
@@ -1405,7 +1423,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 316493,
       "name": "One In Seven",
       "url": "https://open.spotify.com/track/2dCXLISCbeoNM5ICcM4pnb"
@@ -1923,7 +1941,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 327977,
       "name": "Take a Breath",
       "url": "https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS"
@@ -1979,7 +1997,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 199413,
       "name": "The Connection",
       "url": "https://open.spotify.com/track/0Ombxxu2xzyfMIk7Xb09I2"
@@ -1997,7 +2015,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 335586,
       "name": "The Drift",
       "url": "https://open.spotify.com/track/5EiIfRn8uIdWvQgN1v9Qxy"
@@ -2015,7 +2033,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 347500,
       "name": "The Drip - Live Session",
       "url": "https://open.spotify.com/track/3xo3K91h5jdhA3Udk0wio4"
@@ -2037,7 +2055,7 @@
       ],
       "date_added": "2021-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 136020,
       "name": "The Hornet's Nest",
       "url": "https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y"
@@ -2175,7 +2193,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 406660,
       "name": "Universal Insanity",
       "url": "https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe"
@@ -2237,7 +2255,7 @@
       ],
       "date_added": "2020-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 388960,
       "name": "Watermelon Man",
       "url": "https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY"
@@ -2367,7 +2385,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 191253,
       "name": "With You I Rock",
       "url": "https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX"

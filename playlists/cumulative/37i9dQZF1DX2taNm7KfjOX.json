@@ -59,7 +59,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 222040,
       "name": "A Pair Of Brown Eyes",
       "url": "https://open.spotify.com/track/6ayUfc9EndL7Eg9VYApdHC"
@@ -95,7 +95,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 173981,
       "name": "Ain't That The Way",
       "url": "https://open.spotify.com/track/0g31ynVt7Zy2cmYmTQfyjr"
@@ -113,10 +113,28 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 182601,
       "name": "Alabama Haint",
       "url": "https://open.spotify.com/track/3NVGIampibL0YVG3wwaX8G"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/4rFxEoG9PEDkONioOInJhy"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125830,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/3jfYDfrnp0dseGWZfa3jqt"
     },
     {
       "album": {
@@ -131,7 +149,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 283008,
       "name": "American Spirits",
       "url": "https://open.spotify.com/track/2FL4CvhhyXeQiLhgYncVeU"
@@ -149,7 +167,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 225500,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4F30FT7ic362rA5sUujirY"
@@ -167,7 +185,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 244905,
       "name": "Another Lifetime",
       "url": "https://open.spotify.com/track/3V18Owc2UzBCb1fY41mj5D"
@@ -221,7 +239,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 208186,
       "name": "Around Again",
       "url": "https://open.spotify.com/track/0aJYQMcaTllmYx0w1Muym2"
@@ -417,10 +435,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 173008,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+    },
+    {
+      "album": {
+        "name": "Better Season",
+        "url": "https://open.spotify.com/album/5ljow99fQV9t4m5TpFnqhT"
+      },
+      "artists": [
+        {
+          "name": "Robin Bacior",
+          "url": "https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195698,
+      "name": "Better Season",
+      "url": "https://open.spotify.com/track/7Fjtuz80dLhrjfYQvzHSNG"
     },
     {
       "album": {
@@ -471,7 +507,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195376,
       "name": "Blouse",
       "url": "https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf"
@@ -489,7 +525,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 250386,
       "name": "Bullet Proof",
       "url": "https://open.spotify.com/track/2bgBA5NPkIzokTUBlHNnJl"
@@ -551,7 +587,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/4wPihuMELRDRJIHUBOp9HW"
@@ -706,6 +742,28 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116794,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
+    },
+    {
+      "album": {
         "name": "Complex",
         "url": "https://open.spotify.com/album/0Cc8YFUkcxQXuDOO1CfSO8"
       },
@@ -819,7 +877,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 266027,
       "name": "Dirty River",
       "url": "https://open.spotify.com/track/098PK6UQu7cXdSpkRnxBnC"
@@ -877,7 +935,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 269853,
       "name": "Don\u2019t Slow Me Down (feat. Bonnie Prince Billy)",
       "url": "https://open.spotify.com/track/21dLiJG5xpbs4CBkV9RZiI"
@@ -895,7 +953,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -1047,7 +1105,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 206950,
       "name": "Everything Everything",
       "url": "https://open.spotify.com/track/56LspSpx7X7nCATWGZLYs5"
@@ -1101,10 +1159,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 328120,
       "name": "Everything Looks Better (In Hindsight)",
       "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open (From \"North Star\")",
+        "url": "https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195840,
+      "name": "Eyes Wide Open - From \"North Star\"",
+      "url": "https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6"
     },
     {
       "album": {
@@ -1173,10 +1249,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 252960,
       "name": "Fever To The Form",
       "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "album": {
+        "name": "Fisher Island Sound",
+        "url": "https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "Fisher Island Sound",
+      "url": "https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO"
     },
     {
       "album": {
@@ -1719,7 +1813,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174465,
       "name": "It's Infinite",
       "url": "https://open.spotify.com/track/6lOHvNgGKFK0HVzSu4HEca"
@@ -1965,7 +2059,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 322521,
       "name": "Lost in the Country",
       "url": "https://open.spotify.com/track/77XbmhGmIedQyragDU6cq3"
@@ -2041,7 +2135,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 240954,
       "name": "Masterpiece - (solo)",
       "url": "https://open.spotify.com/track/5cic8eTn6twPA0ArO8zcjR"
@@ -2149,7 +2243,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 259088,
       "name": "Money (Hymn)",
       "url": "https://open.spotify.com/track/6zetwLIMcYw2FNb7nxsPMB"
@@ -2341,7 +2435,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Pain Shifter",
       "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
@@ -2403,7 +2497,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 265962,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7bwqzQSHl3GE0qA4owWOzG"
@@ -2421,7 +2515,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 213373,
       "name": "Raising the Dead",
       "url": "https://open.spotify.com/track/79T4cBOstvsj4P7oJRo726"
@@ -2457,7 +2551,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 196320,
       "name": "Red White and Black",
       "url": "https://open.spotify.com/track/30prf1EAz6dbnHRBD66vT4"
@@ -2493,7 +2587,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 203939,
       "name": "Resin",
       "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
@@ -2515,7 +2609,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 154693,
       "name": "Resist the Urge",
       "url": "https://open.spotify.com/track/1ibmvtXJCzpo9LRbzBc3NZ"
@@ -2612,6 +2706,24 @@
     },
     {
       "album": {
+        "name": "Rubberneckers",
+        "url": "https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208911,
+      "name": "Rubberneckers",
+      "url": "https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj"
+    },
+    {
+      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s"
       },
@@ -2695,10 +2807,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 240813,
       "name": "Sleepless in Seattle",
       "url": "https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9"
+    },
+    {
+      "album": {
+        "name": "Slide's Getting Shorter",
+        "url": "https://open.spotify.com/album/40voTLKXch9Rge7BlKR56z"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "Slide's Getting Shorter",
+      "url": "https://open.spotify.com/track/4x5QG3BeA9agfFb7bsvLQ0"
     },
     {
       "album": {
@@ -3013,7 +3143,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 299440,
       "name": "The Barrel",
       "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
@@ -3049,7 +3179,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 250399,
       "name": "The Bride & The Bachelor",
       "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
@@ -3269,7 +3399,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 279133,
       "name": "Thumbs Again",
       "url": "https://open.spotify.com/track/7DuUnmiBp8C2bXY6V6QN0r"
@@ -3287,7 +3417,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 244660,
       "name": "TNT",
       "url": "https://open.spotify.com/track/71ugx1rYiEKONKUrTCQLsr"
@@ -3305,7 +3435,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 200880,
       "name": "Tom",
       "url": "https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4"
@@ -3359,7 +3489,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186838,
       "name": "Tupperware",
       "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
@@ -3471,7 +3601,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-11",
+      "date_removed": null,
       "duration_ms": 257842,
       "name": "Walking in the Air",
       "url": "https://open.spotify.com/track/0TPoPWvaSaHEuEaDHyEMKf"
@@ -3561,10 +3691,28 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 177674,
       "name": "When I Say That I Love You",
       "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "album": {
+        "name": "Where The Rocks Are",
+        "url": "https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo"
+      },
+      "artists": [
+        {
+          "name": "Maia Friedman",
+          "url": "https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233773,
+      "name": "Where The Rocks Are",
+      "url": "https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R"
     },
     {
       "album": {
@@ -3687,7 +3835,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 249322,
       "name": "Worship the Sun",
       "url": "https://open.spotify.com/track/3Seg3sd8Hm9YLA80TuCrvg"

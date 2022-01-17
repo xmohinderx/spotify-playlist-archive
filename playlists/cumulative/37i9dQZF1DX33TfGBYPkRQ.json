@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "A Case Of You",
       "url": "https://open.spotify.com/track/6tNrUI6H15kqWBff0HcEZr"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 215933,
       "name": "A Lack Of Color",
       "url": "https://open.spotify.com/track/4mCF3EBgGPSqmEm205KBAV"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 216120,
       "name": "All I Do",
       "url": "https://open.spotify.com/track/1a2UGfluPyrXHTbL1NeFbR"
@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/4hjsM5a2HmoIFILWbfSmgE"
+      },
+      "artists": [
+        {
+          "name": "Denai Moore",
+          "url": "https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248435,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2h3qb6f1Ib1rDRE6KDqeuq"
+    },
+    {
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
       },
@@ -181,7 +199,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 329266,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/4cTD99OSLy19Uh2exKRQNa"
@@ -343,7 +361,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 226733,
       "name": "Do What You Have To Do",
       "url": "https://open.spotify.com/track/32CSjeoAXxx3qQW1tDUy2r"
@@ -459,7 +477,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Far from You",
       "url": "https://open.spotify.com/track/76LTw6966xM8oaQQoHzAXz"
@@ -477,7 +495,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 277040,
       "name": "Fireworks - Recorded at Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/0tiQwGcxR0W5E7jLqbK3iA"
@@ -495,7 +513,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 181960,
       "name": "For You",
       "url": "https://open.spotify.com/track/4ztkUoiiPrsxK9llT6NWEp"
@@ -531,7 +549,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 215373,
       "name": "Foreground",
       "url": "https://open.spotify.com/track/2MTQDSB9XLD1ejc6tAMQfv"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 271217,
       "name": "Grace",
       "url": "https://open.spotify.com/track/7j30AA3LbzXgW1XBlQuKEq"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 558973,
       "name": "I Gotta Find Peace of Mind - Live",
       "url": "https://open.spotify.com/track/6ocxCGYgcmZhCeTT1yuNkt"
@@ -827,7 +845,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 285680,
       "name": "I Told You Everything",
       "url": "https://open.spotify.com/track/34hjaSM3UGwZUJNav8Tehi"
@@ -917,7 +935,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 227000,
       "name": "I'm In Here - Piano/Vocal Version",
       "url": "https://open.spotify.com/track/1iTb1k4DgjJh7qWFQE1VmB"
@@ -935,7 +953,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 255302,
       "name": "If You Love Her",
       "url": "https://open.spotify.com/track/215GJGpPr1OHHh514DlcDq"
@@ -989,7 +1007,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 239333,
       "name": "In Your Keeping",
       "url": "https://open.spotify.com/track/1BplkTXCBLm56kUe6tLQBt"
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 255093,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0mEYQKnIfCXeKYlCIP3PHY"
@@ -1169,7 +1187,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Looking for Someone",
       "url": "https://open.spotify.com/track/0nvFWYZiozjGMZ6viIKrTa"
@@ -1205,7 +1223,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 223340,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/4z7LkcJsYe8AaZXI3TWOHT"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 403186,
       "name": "Lover, You Should've Come Over",
       "url": "https://open.spotify.com/track/7iSyaNhLcjwuO22QuRYHsM"
@@ -1277,7 +1295,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 224445,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA"
@@ -1613,7 +1631,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 230006,
       "name": "placeholder",
       "url": "https://open.spotify.com/track/6ABQcgTtAPCUyMkVwdRNJo"
@@ -1703,7 +1721,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 189506,
       "name": "Samson",
       "url": "https://open.spotify.com/track/2bbhyUWJ5VjdfI3P4PRLu2"
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 181680,
       "name": "Seaweed",
       "url": "https://open.spotify.com/track/2jpaYrcduGAlHkFZwLobxN"
@@ -1873,7 +1891,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 284240,
       "name": "The Dumbing Down Of Love",
       "url": "https://open.spotify.com/track/42dbPf0M81U47xbawYssYR"
@@ -1945,10 +1963,28 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 274573,
       "name": "The Park",
       "url": "https://open.spotify.com/track/6gQxdH3BID5ci42DXIeyFS"
+    },
+    {
+      "album": {
+        "name": "Undiscovered",
+        "url": "https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "date_added": "2021-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "The Pieces Don't Fit Anymore",
+      "url": "https://open.spotify.com/track/05muUAppQeMnnVxH8lVsw9"
     },
     {
       "album": {
@@ -2111,7 +2147,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 279634,
       "name": "Videotape",
       "url": "https://open.spotify.com/track/3uxhyRdWVXp7GQvERQl6fA"
@@ -2147,7 +2183,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 202493,
       "name": "Waltz #1",
       "url": "https://open.spotify.com/track/4SD4ri0Msp6DxgoXKcf6ug"
@@ -2165,7 +2201,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 204213,
       "name": "Wasting My Young Years",
       "url": "https://open.spotify.com/track/3elOzp9X3B8vMGhJBWzbIF"
@@ -2291,7 +2327,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 289160,
       "name": "Without You - Alternate Version",
       "url": "https://open.spotify.com/track/66kaac3HotbZrHm0HF3Fbs"
@@ -2435,7 +2471,7 @@
       ],
       "date_added": "2021-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 378186,
       "name": "Your Love is Killing Me",
       "url": "https://open.spotify.com/track/2S1IUGeYOV3JPSoaheqIo9"

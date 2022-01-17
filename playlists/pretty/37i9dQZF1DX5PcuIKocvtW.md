@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 
 > it's a lifestyle / Cover: Jack Kays & Travis Barker
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,947 likes - 149 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,168 likes - 149 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5PcuIKocvtW.md) - [plain]
 | 132 | [Time to Go](https://open.spotify.com/track/2mVqLqex0vHfhlXU0954AX) | [Kulick](https://open.spotify.com/artist/1rwaNYO0jV0TYiZm4SQTOe) | [Time to Go](https://open.spotify.com/album/0eBu0veYovXuYd5fqgnRBI) | 3:01 |
 | 133 | [Karma](https://open.spotify.com/track/78gke8uqCWgeqeQm6I9CGi) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG) | [Karma](https://open.spotify.com/album/6sAj0SGGvTWstC9pDDQhJX) | 2:39 |
 | 134 | [My Bad](https://open.spotify.com/track/52FvU9uAnX7onPYY6Js1h3) | [Moe the Natural](https://open.spotify.com/artist/7nK5zpvy81svaWJ75TfAtf) | [My Bad](https://open.spotify.com/album/0TokOgLp7iJIHgCAy72nWD) | 2:26 |
-| 135 | [Chaos!](https://open.spotify.com/track/55yM0hdUnpUEyrbHlhhqoW) | [QVE](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Chaos!](https://open.spotify.com/album/5M6uz7KvjkyodNn2h1TOwk) | 2:17 |
+| 135 | [Chaos!](https://open.spotify.com/track/55yM0hdUnpUEyrbHlhhqoW) | [Quinton Griggs](https://open.spotify.com/artist/0ZdLS8EfYknjiTEBHbJt9n) | [Chaos!](https://open.spotify.com/album/5M6uz7KvjkyodNn2h1TOwk) | 2:17 |
 | 136 | [DEAD INSIDE](https://open.spotify.com/track/3D3nFU8qLN6aT3JxuEGZKJ) | [Noah Cunane](https://open.spotify.com/artist/477tsxxnnHIlgh6oY6t9eq) | [DEAD INSIDE](https://open.spotify.com/album/3LDBvkiving5yHRXVk1Tps) | 3:21 |
 | 137 | [THE EDGE](https://open.spotify.com/track/2r12MtRWVSKkRywwuHGDkU) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [THE EDGE](https://open.spotify.com/album/7EchgUCpv1GLBRyNWvVFwz) | 2:30 |
 | 138 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |

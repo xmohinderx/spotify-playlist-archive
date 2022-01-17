@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the most epic, electrifying, face-melting axe performances. Cover: Eddie Van Halen",
   "name": "Legendary Guitar Solos",
-  "num_followers": 1162051,
+  "num_followers": 1162485,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI5MzYyOCwwMDAwMDAwMGJlZTJmOWNlYjg1ODU4OThlZTJkZDYyYzBjMGYzMTQz",
+  "snapshot_id": "MTY0MjM3OTkyOSwwMDAwMDAwMGM3YjBiZDY3ZGU3NGFjOWE0YmM2ZDc4YjEzMDgyMDIw",
   "tracks": [
     {
       "added_at": "2021-12-13 15:23:11",
@@ -43,6 +43,22 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 350400,
+      "name": "Sultans of Swing",
+      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
         "name": "Led Zeppelin IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
       },
@@ -55,6 +71,22 @@
       "duration_ms": 482830,
       "name": "Stairway to Heaven - Remaster",
       "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 368506,
+      "name": "Highway Star",
+      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -75,34 +107,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe"
+        "name": "The Rolling Stones Singles Collection: The London Years",
+        "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 350400,
-      "name": "Sultans of Swing",
-      "url": "https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 368506,
-      "name": "Highway Star",
-      "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+      "duration_ms": 376800,
+      "name": "Sympathy For The Devil",
+      "url": "https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -139,22 +155,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "The Rolling Stones Singles Collection: The London Years",
-        "url": "https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 376800,
-      "name": "Sympathy For The Devil",
-      "url": "https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 391376,
       "name": "Hotel California - 2013 Remaster",
       "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Led Zeppelin II (1994 Remaster)",
-        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 254133,
-      "name": "Heartbreaker - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -203,54 +187,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 168440,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Surfing With The Alien",
-        "url": "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 266386,
-      "name": "Surfing with the Alien",
-      "url": "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Wish You Were Here",
         "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
       },
@@ -263,6 +199,22 @@
       "duration_ms": 811077,
       "name": "Shine On You Crazy Diamond (Pts. 1-5)",
       "url": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 254133,
+      "name": "Heartbreaker - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6WE7jSshLCuVKoCmobVKVf"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -299,34 +251,34 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+        "name": "Ride The Lightning (Deluxe Remaster)",
+        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 450600,
-      "name": "Jessica",
-      "url": "https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR"
+      "duration_ms": 417226,
+      "name": "Fade To Black (Remastered)",
+      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
     },
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Hemispheres",
-        "url": "https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/6TcPqftScGmR0aEgIb43Vv"
       },
       "artists": [
         {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+          "name": "Black Sabbath",
+          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
         }
       ],
-      "duration_ms": 574733,
-      "name": "La Villa Strangiato",
-      "url": "https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi"
+      "duration_ms": 168440,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/4MSqgoFS7e8LpsxeeMMVMu"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -347,82 +299,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Ah Via Musicom",
-        "url": "https://open.spotify.com/album/4euX7BHHIVZecdn7Ii3eg2"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "Eric Johnson",
-          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 249767,
-      "name": "Cliffs Of Dover - Instrumental",
-      "url": "https://open.spotify.com/track/5qm0KiVKMXW1kq6VrnIhz5"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Ride The Lightning (Deluxe Remaster)",
-        "url": "https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 417226,
-      "name": "Fade To Black (Remastered)",
-      "url": "https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Crossroads - Live",
-      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Aqualung (Special Edition)",
-        "url": "https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x"
-      },
-      "artists": [
-        {
-          "name": "Jethro Tull",
-          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
-        }
-      ],
-      "duration_ms": 396186,
-      "name": "Aqualung",
-      "url": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Blow By Blow",
-        "url": "https://open.spotify.com/album/3PZSoJCzPos29legd35FAu"
-      },
-      "artists": [
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 342333,
-      "name": "Cause We've Ended as Lovers",
-      "url": "https://open.spotify.com/track/5AICUm2wDa8bSu2HFRyMyU"
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -443,50 +331,114 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Great Gonzos! The Best Of Ted Nugent",
-        "url": "https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV"
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
       "artists": [
         {
-          "name": "Ted Nugent",
-          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
         }
       ],
-      "duration_ms": 502600,
-      "name": "Stranglehold",
-      "url": "https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7"
+      "duration_ms": 258466,
+      "name": "Crossroads - Live",
+      "url": "https://open.spotify.com/track/6PUabSMXmPnZna361Wwmf7"
     },
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Hemispheres",
+        "url": "https://open.spotify.com/album/2vrM9ltjKIvNg3nkwXoJuc"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
         }
       ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+      "duration_ms": 574733,
+      "name": "La Villa Strangiato",
+      "url": "https://open.spotify.com/track/4CyElmiM9EF9aURGWlPZLi"
     },
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Joe's Garage Acts I, II & III",
-        "url": "https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS"
+        "name": "Aqualung (Special Edition)",
+        "url": "https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x"
       },
       "artists": [
         {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+          "name": "Jethro Tull",
+          "url": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
         }
       ],
-      "duration_ms": 547960,
-      "name": "Watermelon In Easter Hay",
-      "url": "https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y"
+      "duration_ms": 396186,
+      "name": "Aqualung",
+      "url": "https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 450600,
+      "name": "Jessica",
+      "url": "https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Blow By Blow",
+        "url": "https://open.spotify.com/album/3PZSoJCzPos29legd35FAu"
+      },
+      "artists": [
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
+        }
+      ],
+      "duration_ms": 342333,
+      "name": "Cause We've Ended as Lovers",
+      "url": "https://open.spotify.com/track/5AICUm2wDa8bSu2HFRyMyU"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Surfing With The Alien",
+        "url": "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "duration_ms": 266386,
+      "name": "Surfing with the Alien",
+      "url": "https://open.spotify.com/track/2ekfM9Dcslm7l9Lh7HGT0i"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Ah Via Musicom",
+        "url": "https://open.spotify.com/album/4euX7BHHIVZecdn7Ii3eg2"
+      },
+      "artists": [
+        {
+          "name": "Eric Johnson",
+          "url": "https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb"
+        }
+      ],
+      "duration_ms": 249767,
+      "name": "Cliffs Of Dover - Instrumental",
+      "url": "https://open.spotify.com/track/5qm0KiVKMXW1kq6VrnIhz5"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -503,86 +455,6 @@
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Hitch a Ride",
-      "url": "https://open.spotify.com/track/3tG9WbDurTwCl0Y66G4kHb"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Love Gun",
-        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 226773,
-      "name": "Shock Me",
-      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "The 1971 Fillmore East Recordings",
-        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Ultimate Santana",
-        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 305946,
-      "name": "Europa (Earth's Cry Heaven's Smile)",
-      "url": "https://open.spotify.com/track/5Yp3e8RcjYevBTZYJ7OD7s"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Flying In A Blue Dream",
-        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 323066,
-      "name": "Flying in a Blue Dream",
-      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -635,18 +507,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Passion And Warfare",
-        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
+        "name": "Joe's Garage Acts I, II & III",
+        "url": "https://open.spotify.com/album/6uJkCskko3O83SRYWQVsjS"
       },
       "artists": [
         {
-          "name": "Steve Vai",
-          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
         }
       ],
-      "duration_ms": 363333,
-      "name": "For the Love of God",
-      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
+      "duration_ms": 547960,
+      "name": "Watermelon In Easter Hay",
+      "url": "https://open.spotify.com/track/0Q2dRzhPWFOex89dOjbq5Y"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -667,18 +539,18 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Rides Again",
-        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
+        "name": "Great Gonzos! The Best Of Ted Nugent",
+        "url": "https://open.spotify.com/album/4xKPMSSynMM7hSqB5sXjCV"
       },
       "artists": [
         {
-          "name": "James Gang",
-          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+          "name": "Ted Nugent",
+          "url": "https://open.spotify.com/artist/21ysNsPzHdqYN2fQ75ZswG"
         }
       ],
-      "duration_ms": 424733,
-      "name": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To The Wind - Medley",
-      "url": "https://open.spotify.com/track/7Gq4o3qwY5kTdwNwyQ4lLu"
+      "duration_ms": 502600,
+      "name": "Stranglehold",
+      "url": "https://open.spotify.com/track/7itr4N5bXkAWesPUomCNf7"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -699,34 +571,130 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+        "name": "Ultimate Santana",
+        "url": "https://open.spotify.com/album/6FbFvnlSfEoNhwz5MdK0Dx"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 275466,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2"
+      "duration_ms": 305946,
+      "name": "Europa (Earth's Cry Heaven's Smile)",
+      "url": "https://open.spotify.com/track/5Yp3e8RcjYevBTZYJ7OD7s"
     },
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/01OahkTPRCleDjobtRk7ST"
       },
       "artists": [
         {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 423240,
-      "name": "Under a Glass Moon",
-      "url": "https://open.spotify.com/track/2bBAAVvOHsr7vxWFTuYxH8"
+      "duration_ms": 251733,
+      "name": "Hitch a Ride",
+      "url": "https://open.spotify.com/track/3tG9WbDurTwCl0Y66G4kHb"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Flying In A Blue Dream",
+        "url": "https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "duration_ms": 323066,
+      "name": "Flying in a Blue Dream",
+      "url": "https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Rides Again",
+        "url": "https://open.spotify.com/album/0FHtUmahwAambT6S4boSP0"
+      },
+      "artists": [
+        {
+          "name": "James Gang",
+          "url": "https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF"
+        }
+      ],
+      "duration_ms": 424733,
+      "name": "The Bomber A: Closet Queen B: Bolero C: Cast Your Fate To The Wind - Medley",
+      "url": "https://open.spotify.com/track/7Gq4o3qwY5kTdwNwyQ4lLu"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "The 1971 Fillmore East Recordings",
+        "url": "https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Love Gun",
+        "url": "https://open.spotify.com/album/77opKywcxPnBu5aBMASS2b"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 226773,
+      "name": "Shock Me",
+      "url": "https://open.spotify.com/track/39hfj6Tnqgsxn7jGTfWl18"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Passion And Warfare",
+        "url": "https://open.spotify.com/album/1fyrOcra2DI3quvnzAEQ45"
+      },
+      "artists": [
+        {
+          "name": "Steve Vai",
+          "url": "https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA"
+        }
+      ],
+      "duration_ms": 363333,
+      "name": "For the Love of God",
+      "url": "https://open.spotify.com/track/5m5I3KcV83zf2p2qbsnr3y"
     },
     {
       "added_at": "2021-12-13 15:23:11",
@@ -747,38 +715,6 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
-        "name": "The Man Who Sold the World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 492493,
-      "name": "The Width of a Circle - 2015 Remaster",
-      "url": "https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
-        "name": "Maggot Brain",
-        "url": "https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm"
-      },
-      "artists": [
-        {
-          "name": "Funkadelic",
-          "url": "https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru"
-        }
-      ],
-      "duration_ms": 619263,
-      "name": "Maggot Brain",
-      "url": "https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V"
-    },
-    {
-      "added_at": "2021-12-13 15:23:11",
-      "album": {
         "name": "Sheer Heart Attack (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj"
       },
@@ -795,6 +731,54 @@
     {
       "added_at": "2021-12-13 15:23:11",
       "album": {
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 423240,
+      "name": "Under a Glass Moon",
+      "url": "https://open.spotify.com/track/2bBAAVvOHsr7vxWFTuYxH8"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "The Man Who Sold the World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4h9rWFWhgCSSrvIEQ0YhYG"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 492493,
+      "name": "The Width of a Circle - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2o9VAWKD7yvnyrBRw9tzgH"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
         "name": "Van Halen (Remastered)",
         "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 224600,
       "name": "I'm the One - 2015 Remaster",
       "url": "https://open.spotify.com/track/2xS1lC45sjj60M1eeRsOUp"
+    },
+    {
+      "added_at": "2021-12-13 15:23:11",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 255493,
+      "name": "Back In Black",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSlJG7YPUBHF"

@@ -225,7 +225,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 267826,
       "name": "Bailando Solo",
       "url": "https://open.spotify.com/track/1TxWtt0lIi4yMSxuLujqze"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Baracunatana",
       "url": "https://open.spotify.com/track/1SBwYuWcbpJOXZBlzWfJQw"
@@ -304,6 +304,24 @@
     },
     {
       "album": {
+        "name": "Fabulosos Exitos",
+        "url": "https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264026,
+      "name": "Calaveras y Diablitos",
+      "url": "https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH"
+    },
+    {
+      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/0qBCxMb2OVnmItO6QK9mZ4"
       },
@@ -337,7 +355,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 320656,
       "name": "Chau",
       "url": "https://open.spotify.com/track/7EWbEYuEDzr55hHtJZtonj"
@@ -535,7 +553,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 194866,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
@@ -571,7 +589,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 260855,
       "name": "D\u00e9jenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/0KpdtlroG9CSSDD1qAwQm1"
@@ -589,7 +607,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 271706,
       "name": "D\u00eda Cero",
       "url": "https://open.spotify.com/track/0LJgnWjRvbM60ieEVAJcAO"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 184360,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/3quyxN3SapEsojxk1Uw10K"
@@ -625,7 +643,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 343887,
       "name": "El Baile de los Que Sobr\u00e1n",
       "url": "https://open.spotify.com/track/4bGjPkl0BKXeFJOyKpdSwS"
@@ -661,7 +679,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 219000,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/1PMcUPgdnUZm1Lo74VUrK2"
@@ -679,7 +697,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 194573,
       "name": "El Duelo",
       "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 243560,
       "name": "El Son del Dolor",
       "url": "https://open.spotify.com/track/7j7qS7NIvezns7Z5fLUAuT"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 233393,
       "name": "Ella Estrella",
       "url": "https://open.spotify.com/track/1rpOMdGC7PmKsNzOU8Xzfn"
@@ -971,7 +989,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 233960,
       "name": "Frente a frente (feat. Tulsa)",
       "url": "https://open.spotify.com/track/73KNzyiG6xM6xguaLe4ICj"
@@ -1061,7 +1079,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 269880,
       "name": "Hoy Tengo Miedo",
       "url": "https://open.spotify.com/track/17GyFd3fEKaYFEuDUkMG3h"
@@ -1097,7 +1115,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 248986,
       "name": "H\u00e9roe de leyenda",
       "url": "https://open.spotify.com/track/6pAvXn45z0sktftypuEEzt"
@@ -1227,7 +1245,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 291117,
       "name": "La chispa adecuada (feat. Le\u00f3n Larregui) - MTV Unplugged",
       "url": "https://open.spotify.com/track/5vnAu12wplLvx1XH01PwRH"
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 472400,
       "name": "La Negra Tomasa - Bilongo - Versi\u00f3n Tropical",
       "url": "https://open.spotify.com/track/6cVHu0HmKo4oEOSOqooTa3"
@@ -1515,7 +1533,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 236426,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/2bQn1ATsEIWwswbsPpOrp9"
@@ -1771,7 +1789,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
@@ -1861,7 +1879,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 244760,
       "name": "Mentirosa",
       "url": "https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B"
@@ -1991,7 +2009,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 311400,
       "name": "Noches de Tu Piel",
       "url": "https://open.spotify.com/track/2YJV5BX5npoh8FjwNmMbiP"
@@ -2063,7 +2081,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 307631,
       "name": "Parecemos tontos",
       "url": "https://open.spotify.com/track/5KsZGdaJugVnu1Faccq22D"
@@ -2153,7 +2171,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 273800,
       "name": "Puente",
       "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
@@ -2171,7 +2189,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
@@ -2233,6 +2251,24 @@
       "duration_ms": 195580,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/5ZxtWh3TMslzFMVOmU2mGG"
     },
     {
       "album": {
@@ -2355,7 +2391,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 226652,
       "name": "So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/46UhTfdy7LhAFK8BalnJid"
@@ -2445,7 +2481,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 343146,
       "name": "Triste canci\u00f3n",
       "url": "https://open.spotify.com/track/30PVnkFMT1W5Njm4Qw4Xi4"
@@ -2553,7 +2589,7 @@
       ],
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 297533,
       "name": "Veneno Vil",
       "url": "https://open.spotify.com/track/7lBKa0oQnv6w2AgFiBqRW2"

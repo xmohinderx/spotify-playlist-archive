@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,382 likes - 101 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,397 likes - 101 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 9 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 |
 | 10 | [Body Mind Soul \(with Benny Benassi feat\. Kyle Reynolds\)](https://open.spotify.com/track/4eaEUmyOmuIkDslaf7xw0f) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Body Mind Soul \(with Benny Benassi feat\. Kyle Reynolds\)](https://open.spotify.com/album/3WQ4N49TK1nT2YLV5kNgpD) | 2:00 |
 | 11 | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/track/7zN7l6yep9kPdBJeevfPvY) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [Shady Intentions \(feat\. Tori Levett\)](https://open.spotify.com/album/38FIOf6dJnWYBsFomLHgHU) | 3:05 |
-| 12 | [Running \(feat\. Meg Myers\) \[Extended Mix\]](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 |
+| 12 | [Running \(feat\. Meg Myers\)](https://open.spotify.com/track/7vHdp6gYkI0736fDSX1IBo) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Meg Myers](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Running](https://open.spotify.com/album/4Z2stNWBhvnlyEZ5fWDuCx) | 6:25 |
 | 13 | [Forget About Me](https://open.spotify.com/track/6EafRI0UtUidrZbbKpFRYq) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [AlunaGeorge](https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38) | [Forget About Me](https://open.spotify.com/album/7uMat3U8ZyA28xalhv39r5) | 2:57 |
 | 14 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 |
 | 15 | [Your Body](https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Famba](https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM), [Kyra Mastro](https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ) | [Your Body](https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP) | 2:45 |

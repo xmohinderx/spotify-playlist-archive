@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 
 > Since 1962, <a href="https://www.casitadelcampo.net/">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community\. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!
 
-[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 594 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkhbdzRjb2.md) - [plain]
 | 46 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 47 | [Bam Bam](https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e) | 3:16 |
 | 48 | [El Tumbao de Cachao](https://open.spotify.com/track/5U06EaEbV5uBKtvB99sNLJ) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [Amistad para el Mundo Entero](https://open.spotify.com/album/4xfWkF5JxfUcF0GzXYiaO6) | 5:33 |
-| 49 | [Déjame Soñar](https://open.spotify.com/track/5cBEkcTbmPI6b24O7nJipw) | [Isidro Infante](https://open.spotify.com/artist/6JP0KRVKNawvRfkFA4mxtD), [Yumurí](https://open.spotify.com/artist/3qmRy8D4hwGKywvQx3xnxo), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD), [Juan Camilo El Indio](https://open.spotify.com/artist/3gSXsqE30hXrQMSGxYOTSH) | [Isidro Infante Presenta Cuba y Puerto Rico "Un Abrazo Musical Salsero"](https://open.spotify.com/album/3JgWMmWDZeR6AOHJdydvhJ) | 5:04 |
+| 49 | [Déjame Soñar](https://open.spotify.com/track/5cBEkcTbmPI6b24O7nJipw) | [Isidro Infante](https://open.spotify.com/artist/6JP0KRVKNawvRfkFA4mxtD), [Yumurí](https://open.spotify.com/artist/3qmRy8D4hwGKywvQx3xnxo), [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD), [Elindiomusik](https://open.spotify.com/artist/3gSXsqE30hXrQMSGxYOTSH) | [Isidro Infante Presenta Cuba y Puerto Rico "Un Abrazo Musical Salsero"](https://open.spotify.com/album/3JgWMmWDZeR6AOHJdydvhJ) | 5:04 |
 | 50 | [Dancin' & Prancin'](https://open.spotify.com/track/5mLH2SnrW7cpJmxeBYc53T) | [Candido](https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i) | [Dancin' & Prancin'](https://open.spotify.com/album/4Sc4zx50DRyl0Wb1YmMNej) | 6:52 |
 
 Snapshot ID: `MTYyMzM0NDUyOCwwMDAwMDAwMzAwMDAwMTc5ZjZkZmJkYzEwMDAwMDE3OTgyOGVmZGVh`

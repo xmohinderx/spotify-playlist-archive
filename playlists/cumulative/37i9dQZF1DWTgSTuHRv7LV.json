@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 200500,
       "name": "50 Porros, 5 Pelis y 1 Tele Philips",
       "url": "https://open.spotify.com/track/5QnSaN2o5wXnyNB78SBH5b"
@@ -123,7 +123,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212613,
       "name": "Ah\u00ed Les Va",
       "url": "https://open.spotify.com/track/54xhs6kMBcCKBRJ6KBE2c0"
@@ -247,7 +247,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 201290,
       "name": "Bando Boyz Free 2",
       "url": "https://open.spotify.com/track/4D3fwZeOechinXHc72oCir"
@@ -291,7 +291,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "Borracho Gacho",
       "url": "https://open.spotify.com/track/3fy4CajqticmYK5wXYF9lE"
@@ -433,7 +433,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 127017,
       "name": "Clase G",
       "url": "https://open.spotify.com/track/3YWUpw4iePPtUDT0qO52Jn"
@@ -503,6 +503,28 @@
       "duration_ms": 183366,
       "name": "Conmigo Siempre",
       "url": "https://open.spotify.com/track/3czu3LdNnduqXfrtJZclHp"
+    },
+    {
+      "album": {
+        "name": "Cuando Entramos en Acci\u00f3n",
+        "url": "https://open.spotify.com/album/42n7d8yfCOFcXdlD8BFBkg"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182527,
+      "name": "Cuando Entramos en Acci\u00f3n",
+      "url": "https://open.spotify.com/track/1wNN9AHg48S1Ye1KNfgm2J"
     },
     {
       "album": {
@@ -597,7 +619,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 208205,
       "name": "Desahogo",
       "url": "https://open.spotify.com/track/1ILgMB4ggj3jEUGgeFRs9K"
@@ -681,7 +703,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212454,
       "name": "EL INCA",
       "url": "https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7"
@@ -951,7 +973,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 228097,
       "name": "G.P.S. - con Aleman",
       "url": "https://open.spotify.com/track/7JS743HRDpx2NvoNQ39p4O"
@@ -1109,7 +1131,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 194467,
       "name": "HAKUNA MATATA",
       "url": "https://open.spotify.com/track/3ILaMpMBKg20qQV4QyUKfv"
@@ -1305,7 +1327,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 172213,
       "name": "Inevitable",
       "url": "https://open.spotify.com/track/04DlbpJxmhV7yYkqqOcgAq"
@@ -1389,7 +1411,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 204333,
       "name": "Julito Mara\u00f1a (feat. Tego Calderon)",
       "url": "https://open.spotify.com/track/6mrPBN7zDYiAS3aFLyszLk"
@@ -1525,7 +1547,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 160443,
       "name": "Lejos del 2",
       "url": "https://open.spotify.com/track/48o727mFrVfLqaB8ugnCy7"
@@ -1759,7 +1781,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 277500,
       "name": "Nunca Sabr\u00e1s Cuanto",
       "url": "https://open.spotify.com/track/0oBQZIiLTU4moUsA2HN2DM"
@@ -1799,7 +1821,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 171149,
       "name": "PANAM\u00c1",
       "url": "https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW"
@@ -1817,7 +1839,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 335072,
       "name": "Pase Lo Que Pase",
       "url": "https://open.spotify.com/track/6YR0MINnneak0FpVIro50a"
@@ -1891,7 +1913,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 161485,
       "name": "Ptazeta: Bzrp Music Sessions, Vol. 45",
       "url": "https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3"
@@ -1931,7 +1953,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 272705,
       "name": "P\u00edsalo, \u00dasalo, R\u00f3mpelo",
       "url": "https://open.spotify.com/track/7ufNKPCFBIej0t0w04ks2V"
@@ -1989,7 +2011,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 206602,
       "name": "Reina",
       "url": "https://open.spotify.com/track/49g0E67n76TQDmpKCfQc6B"
@@ -2393,7 +2415,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211987,
       "name": "Todo Bien",
       "url": "https://open.spotify.com/track/0q14IyM03QnxJM5IRYVJ37"
@@ -2523,7 +2545,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 189230,
       "name": "Vaca Pa' Volar",
       "url": "https://open.spotify.com/track/55GfT7VzO2BTD1it7OO8Hw"
@@ -2611,7 +2633,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"

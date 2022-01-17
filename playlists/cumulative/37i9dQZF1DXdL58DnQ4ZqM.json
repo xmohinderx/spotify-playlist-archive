@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 343103,
       "name": "Above The Clouds",
       "url": "https://open.spotify.com/track/3wvGcypk0Ne1TrQS8vImd4"
@@ -91,7 +91,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 185139,
       "name": "Artemis",
       "url": "https://open.spotify.com/track/74OJcb0urbXBKWVkGd4hxg"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 185949,
       "name": "Birds",
       "url": "https://open.spotify.com/track/306GnnNhbXL45lPLBNUsbT"
@@ -318,6 +318,24 @@
     },
     {
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/1KYeDdVmd8NEzg0siza8gv"
+      },
+      "artists": [
+        {
+          "name": "Mentalism",
+          "url": "https://open.spotify.com/artist/7uxVLIxwB1UHlBT96DAJdj"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147548,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/51qdf2XksX7V5YfhS4VghX"
+    },
+    {
+      "album": {
         "name": "A Bird's Call",
         "url": "https://open.spotify.com/album/4QUmKlw1ciSpgCHvbSVNYb"
       },
@@ -347,7 +365,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 243055,
       "name": "Crickets",
       "url": "https://open.spotify.com/track/7CqucSHBqZxiwflzXahNzX"
@@ -437,7 +455,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "Diamond Shine",
       "url": "https://open.spotify.com/track/3xcztXKdCQVxuQtPibei57"
@@ -599,7 +617,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 214945,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7fqVkGIea2Kb58i2Oajz3Z"
@@ -653,7 +671,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 240000,
       "name": "Feel Your Skin",
       "url": "https://open.spotify.com/track/4uKidZo0e8HRdoy0Lkge8D"
@@ -671,7 +689,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 206511,
       "name": "Fluffy Cloudy Day - Lounge Mix",
       "url": "https://open.spotify.com/track/2bD6il0TMcjouS5EaaqRbi"
@@ -761,7 +779,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 286948,
       "name": "HOME - Lounge Mix",
       "url": "https://open.spotify.com/track/7CkXUuBt4na2C4dSdAU0T3"
@@ -959,7 +977,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 287786,
       "name": "Into The Blue",
       "url": "https://open.spotify.com/track/5HRtJMdJWaRmyHi5minx38"
@@ -1161,7 +1179,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 283793,
       "name": "Magnetic Metafor",
       "url": "https://open.spotify.com/track/1O33UTG2hy1iIrKvkh5NcA"
@@ -1579,7 +1597,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 197142,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/33iouj5bpuoi0tQBgpm3EP"
@@ -1763,7 +1781,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 286820,
       "name": "Solitary Fields",
       "url": "https://open.spotify.com/track/782tgZqcyFOMpHKV7aUb2X"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 239843,
       "name": "Sunset Amor",
       "url": "https://open.spotify.com/track/3xVy9O4phnqHpVP0HhXu1t"
@@ -1961,7 +1979,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 224615,
       "name": "Terme di Caracalla",
       "url": "https://open.spotify.com/track/04lDOxJeMbYjkTVx9TbJsb"
@@ -2051,7 +2069,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 301968,
       "name": "Tiki Lounge",
       "url": "https://open.spotify.com/track/5UpIKnqCpjohHbYKrRRIko"
@@ -2159,7 +2177,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 336000,
       "name": "Walking On the Sand",
       "url": "https://open.spotify.com/track/6WE6BnufTYe0ztSuzw22ga"
@@ -2177,7 +2195,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 270000,
       "name": "Waterfront - Focus Version",
       "url": "https://open.spotify.com/track/4ln3ZAr74imkhmEWzYFd6P"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2021-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 207600,
       "name": "Wayfarers Chapel",
       "url": "https://open.spotify.com/track/7mHTs36ERX5DHulVY03z8f"

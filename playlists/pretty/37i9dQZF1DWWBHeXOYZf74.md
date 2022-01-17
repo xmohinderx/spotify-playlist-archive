@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: FKA twigs
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,323,691 likes - 126 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,323,788 likes - 126 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [darjeeling \(feat jorja smith & unknown t\)](https://open.spotify.com/track/1utTJXz5WzG0tONsJYKywl) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:03 |
+| 1 | [darjeeling \(feat jorja smith & unknown t\)](https://open.spotify.com/track/1utTJXz5WzG0tONsJYKywl) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [unkown t](https://open.spotify.com/artist/5AqD1wJMWt7gK0Ebq7JGo5) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 3:03 |
 | 2 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 |
 | 3 | [and i'd go a thousand miles](https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [and i'd go a thousand miles](https://open.spotify.com/album/084HFOuyGVdNrKQvR6Tdcm) | 2:26 |
 | 4 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 |
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 6 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 |
 | 7 | [Pandemia](https://open.spotify.com/track/6TM8mafPCp7BfQDwvPe6MG) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO) | [Pandemia](https://open.spotify.com/album/3nr0Km2WewEH7Sd3qR4Mdy) | 1:49 |
 | 8 | [WIN](https://open.spotify.com/track/2P6438nC3xrOGBy9dwMFqK) | [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [WIN](https://open.spotify.com/album/4CenGyZ0UR5yccbM5b7Zk1) | 2:49 |
-| 9 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 9 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 10 | [Heaven](https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [R&B?](https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz) | 2:59 |
 | 11 | [Dear Fear](https://open.spotify.com/track/7uJFQs4kxilsiPKe3UHPUT) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Dear Fear](https://open.spotify.com/album/4tpKvSFFcWZIBXi1mNEDn6) | 3:19 |
 | 12 | [Rapture in Blue](https://open.spotify.com/track/7qTf2TeEGdz9W1hFGPUiMK) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Rapture in Blue](https://open.spotify.com/album/5PZcNqeU1AmYN9wv1k1MZy) | 2:24 |

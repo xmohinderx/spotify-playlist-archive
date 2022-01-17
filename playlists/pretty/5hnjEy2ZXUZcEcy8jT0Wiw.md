@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,828 likes - 301 songs - 20 hr 53 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,826 likes - 301 songs - 20 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

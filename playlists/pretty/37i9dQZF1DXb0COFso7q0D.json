@@ -1,12 +1,12 @@
 {
   "description": "The Mexican Hits of Today! The playlist sin fronteras. Cover: Legado 7",
   "name": "Los Que Mandan",
-  "num_followers": 2811809,
+  "num_followers": 2811885,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI5NDA5OCwwMDAwMDAwMDU0MTVlMmYzMDY3YjY1YWIxMmVhZjRiYTIyZmE5MGM5",
+  "snapshot_id": "MTY0MjM4MDM5MSwwMDAwMDAwMGI5NDYxN2IwNmM5YzIwNDUzYzdhNWIxMjc4ZDU3NWJl",
   "tracks": [
     {
       "added_at": "2022-01-14 05:01:00",
@@ -59,18 +59,18 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Ya Solo Eres Mi Ex",
-        "url": "https://open.spotify.com/album/31bK55fwF0HGd1z0CTbj46"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 222133,
-      "name": "Ya Solo Eres Mi Ex",
-      "url": "https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
         "name": "Cruisin' with Junior H",
         "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 235858,
       "name": "Se Amerita",
       "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Ya Solo Eres Mi Ex",
+        "url": "https://open.spotify.com/album/31bK55fwF0HGd1z0CTbj46"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva Banda San Jos\u00e9 de Mesillas",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 222133,
+      "name": "Ya Solo Eres Mi Ex",
+      "url": "https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
+        "name": "Don Esteban",
+        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 183871,
+      "name": "Buenas Vibras",
+      "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -551,18 +567,18 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "L\u00e1grimas De Miel",
-        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
+        "name": "Positivo (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE"
       },
       "artists": [
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 228800,
-      "name": "L\u00e1grimas De Miel",
-      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
+      "duration_ms": 188346,
+      "name": "Positivo - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/7xBaj7vkjg8MveG4qMlUNh"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -576,45 +592,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 207253,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 183871,
-      "name": "Buenas Vibras",
-      "url": "https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Una Noche Cualquiera",
-      "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
+      "duration_ms": 155125,
+      "name": "Cuando T\u00fa Me Miras",
+      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -643,18 +623,18 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Positivo (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE"
+        "name": "Siendo Sincero",
+        "url": "https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
         }
       ],
-      "duration_ms": 188346,
-      "name": "Positivo - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/7xBaj7vkjg8MveG4qMlUNh"
+      "duration_ms": 174000,
+      "name": "Siendo Sincero",
+      "url": "https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -691,18 +671,18 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Siendo Sincero",
-        "url": "https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j"
+        "name": "L\u00e1grimas De Miel",
+        "url": "https://open.spotify.com/album/1tTolYWqffkyFE64kvjlkh"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Siendo Sincero",
-      "url": "https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1"
+      "duration_ms": 228800,
+      "name": "L\u00e1grimas De Miel",
+      "url": "https://open.spotify.com/track/5xxWDPW1I0aHAt3twyXAPy"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -732,9 +712,9 @@
           "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 155125,
-      "name": "Cuando T\u00fa Me Miras",
-      "url": "https://open.spotify.com/track/5kItv0UayV5g4Xs9FMshDR"
+      "duration_ms": 207253,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/1e6iopg5dmxbqJ1Mbhypab"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -759,22 +739,38 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Cabrones y Vagos",
-        "url": "https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj"
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 211933,
-      "name": "El Valor De Un Var\u00f3n",
-      "url": "https://open.spotify.com/track/5gLD1OoBB5fLNlDWY3mrlP"
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -799,38 +795,22 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Mi Nueva Familia",
-        "url": "https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL"
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/4eWWlUpqJlgTbsb36yTQZj"
       },
       "artists": [
         {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 191200,
-      "name": "Cosas Cambiaron",
-      "url": "https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb"
-    },
-    {
-      "added_at": "2022-01-14 05:01:00",
-      "album": {
-        "name": "Las Preferidas, Vol. 5 (En vivo)",
-        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 245183,
-      "name": "Due\u00f1o De Ti - En vivo",
-      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+      "duration_ms": 211933,
+      "name": "El Valor De Un Var\u00f3n",
+      "url": "https://open.spotify.com/track/5gLD1OoBB5fLNlDWY3mrlP"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -851,22 +831,22 @@
     {
       "added_at": "2022-01-14 05:01:00",
       "album": {
-        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
-        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
+        "name": "Mi Nueva Familia",
+        "url": "https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         },
         {
-          "name": "Grupo Diez 4tro",
-          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 179750,
-      "name": "Sangre De Colima",
-      "url": "https://open.spotify.com/track/3yaQXJLibcGEhRG8x62pUX"
+      "duration_ms": 191200,
+      "name": "Cosas Cambiaron",
+      "url": "https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -887,6 +867,26 @@
       "duration_ms": 275194,
       "name": "Jugaste y Sufr\u00ed",
       "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
+    },
+    {
+      "added_at": "2022-01-14 05:01:00",
+      "album": {
+        "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
+        "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Grupo Diez 4tro",
+          "url": "https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY"
+        }
+      ],
+      "duration_ms": 179750,
+      "name": "Sangre De Colima",
+      "url": "https://open.spotify.com/track/3yaQXJLibcGEhRG8x62pUX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D"

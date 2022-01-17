@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of generation next\. Cover: SoFaygo
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,590,997 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,591,372 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 22 | [Best Of Me \(feat\. Rick Ross\)](https://open.spotify.com/track/2UZFCz8BnVv2O3sobXNJO2) | [LPB Poody](https://open.spotify.com/artist/0wHeZY93Ede0g1jXaWsiFS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [I'm The One](https://open.spotify.com/album/7p4hzEV95XFXAvZh7kJo25) | 2:42 |
 | 23 | [I Really \(feat\. 42 Dugg & Moneybagg Yo\)](https://open.spotify.com/track/3HKBz579v0gkyUkANPsNFT) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Life Of A Hotboii](https://open.spotify.com/album/5MIneHJL5RBzBXz5qMIAj4) | 3:11 |
 | 24 | [Shine](https://open.spotify.com/track/4p9iGjTGqgTNks4La7tujc) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Shine](https://open.spotify.com/album/2b1FUXrlpSfYE1Y5BPYM9B) | 3:10 |
-| 25 | [Ain't My Fault \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Ain't My Fault \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 |
+| 25 | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/track/30An28ovHzHONcqysPKIIs) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [AIN'T MY FAULT \(feat\. 42 Dugg\)](https://open.spotify.com/album/6BTeOKDYTNW0fTKmf2uROH) | 3:30 |
 | 26 | [IN THE MIDDLE](https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [IN THE MIDDLE](https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD) | 3:23 |
 | 27 | [Brixx](https://open.spotify.com/track/0eY2jYiDnRBLhJoAgQ4yUr) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y) | [Brixx](https://open.spotify.com/album/1i4xWUtR929qMuuSnGGf1o) | 2:56 |
 | 28 | [Jump Out \(feat\. Hotboy Wes\)](https://open.spotify.com/track/3W4YwvwzqDqcnUrfF2sDfO) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO) | [Jump Out \(feat\. Hotboy Wes\)](https://open.spotify.com/album/1YtxPcwSI5vt4uBFfRbsiu) | 2:58 |

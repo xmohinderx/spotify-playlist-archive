@@ -73,7 +73,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 255400,
       "name": "Agitando Pa\u00f1uelos",
       "url": "https://open.spotify.com/track/1Q24A8F0cKTGhDHaBaCM0t"
@@ -99,7 +99,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 279413,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/7aQUylpLZdnsSBDNFPXPyY"
@@ -121,7 +121,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 156866,
       "name": "Alma Guaran\u00ed",
       "url": "https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 219933,
       "name": "Chibidon",
       "url": "https://open.spotify.com/track/3AYQhu2ISuQEd8lBJDIpXD"
@@ -701,7 +701,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 247786,
       "name": "Con Todo Y Mi Tristeza",
       "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
@@ -737,7 +737,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 182200,
       "name": "Criollita Santiague\u00f1a",
       "url": "https://open.spotify.com/track/5rux26qMQRfEEO4W3eJS9X"
@@ -755,7 +755,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 160357,
       "name": "Cuando Llora Mi Guitarra",
       "url": "https://open.spotify.com/track/5fHVmUad5DoDA7JlJTF7bD"
@@ -773,7 +773,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 228666,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/7bDlnoDZMnOZeS9caKawpd"
@@ -791,7 +791,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178693,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/7ryu06ohNTICM1Txt5JRXs"
@@ -809,7 +809,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 190066,
       "name": "Cuando Ya Nadie Te Nombre",
       "url": "https://open.spotify.com/track/0bSDRwi6Cc8Qqp7RMM9vC6"
@@ -845,7 +845,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 214893,
       "name": "De Alberdi - Zamba",
       "url": "https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U"
@@ -928,6 +928,24 @@
     },
     {
       "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2021-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "Duerme, Negrito",
+      "url": "https://open.spotify.com/track/63T6KFdH7wzrwXGjNrHQM8"
+    },
+    {
+      "album": {
         "name": "Nocheros",
         "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
       },
@@ -993,7 +1011,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "El Corralero",
       "url": "https://open.spotify.com/track/5h9oRMXy6afiP2MPGMJIxy"
@@ -1029,7 +1047,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 145680,
       "name": "El Escondido",
       "url": "https://open.spotify.com/track/2nEXPFaZyT0GpiRSzX381w"
@@ -1065,7 +1083,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 205680,
       "name": "El Linyerita",
       "url": "https://open.spotify.com/track/7ereLsS9rzQ5TJJfD3dpAR"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 207826,
       "name": "El Seclante\u00f1o",
       "url": "https://open.spotify.com/track/5KG1MI9BG8xzk2kQqR4cmJ"
@@ -1299,7 +1317,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 196773,
       "name": "Guitarra de Medianoche",
       "url": "https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt"
@@ -1375,7 +1393,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 231400,
       "name": "La atardecida",
       "url": "https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O"
@@ -1393,7 +1411,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 234946,
       "name": "La Cautiva",
       "url": "https://open.spotify.com/track/3CoSoKjB1jTBDUl4nbZfGB"
@@ -1447,7 +1465,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 170160,
       "name": "La Descre\u00edda",
       "url": "https://open.spotify.com/track/3iRMUBsU6dF9qByGhDpMId"
@@ -1465,7 +1483,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM"
@@ -1483,7 +1501,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 184825,
       "name": "La Enga\u00f1era",
       "url": "https://open.spotify.com/track/1TPhyS7nMiWjEM0fifOLzN"
@@ -1779,7 +1797,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 138280,
       "name": "Largos Caminos Me Ire",
       "url": "https://open.spotify.com/track/7b3CAqCWhh0m01DSR1WW1G"
@@ -1815,7 +1833,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 190333,
       "name": "Llorar\u00e9",
       "url": "https://open.spotify.com/track/3URJ8j0Z8yAXTigCzhvYrV"
@@ -1913,7 +1931,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 210130,
       "name": "Luna Tucumana",
       "url": "https://open.spotify.com/track/75tyu2vBzS0qHN7PMNtAH5"
@@ -1967,7 +1985,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195266,
       "name": "Mama Vieja",
       "url": "https://open.spotify.com/track/7GxW2uJnZEkDeDiO74hanI"
@@ -2057,7 +2075,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 206853,
       "name": "Para Cantar He Nacido",
       "url": "https://open.spotify.com/track/447ORDEfYxu77edFodcfr6"
@@ -2115,7 +2133,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 155880,
       "name": "Piel Morena - En Vivo",
       "url": "https://open.spotify.com/track/2tmJ206DoSptCiJmPfdvQR"
@@ -2195,7 +2213,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 218267,
       "name": "Qu\u00e9 te Ocurre Amigo M\u00edo",
       "url": "https://open.spotify.com/track/1MDNNAkUU5AkJxzMmYJwiz"
@@ -2231,7 +2249,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 161773,
       "name": "Recuerdo Salte\u00f1o",
       "url": "https://open.spotify.com/track/3esSMzPYxYBnW6ARIgr4Oo"
@@ -2275,7 +2293,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 308465,
       "name": "Rio de las Razas",
       "url": "https://open.spotify.com/track/24bAjVJ9sShFOJSofbzR4C"
@@ -2449,7 +2467,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 223785,
       "name": "Stefanie",
       "url": "https://open.spotify.com/track/4Zf24fYtIfoWdWK72aftCT"
@@ -2707,7 +2725,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 151373,
       "name": "Yo Vendo Unos Ojos Negros",
       "url": "https://open.spotify.com/track/1yJfVmvBQ74NwpiEfvoIit"
@@ -2783,7 +2801,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 183600,
       "name": "Zamba Del Negro Alegre",
       "url": "https://open.spotify.com/track/7surOH29RMSvRAdInzGhLU"

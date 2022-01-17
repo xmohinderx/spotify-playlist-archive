@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 69 | [Ritual](https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Halcyon \(Deluxe Version\)](https://open.spotify.com/album/2Y7n3jwZIsfi4m5udDY2vg) | 3:50 |
 | 70 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 71 | [Suddenly Monday](https://open.spotify.com/track/4bmPHxWGCkrCLVJw8KVUt2) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 2:37 |
-| 72 | [Everyday](https://open.spotify.com/track/1lIj3mSKGJfmQkC8vMEdj0) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:19 |
-| 73 | [Don't Let Me Down](https://open.spotify.com/track/4mqnkUBTnxKbnzTzA1FXRJ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential Will Young](https://open.spotify.com/album/5xcTzzjzn4mpmVpsNMuuC8) | 4:46 |
-| 74 | [Just A Day](https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/2euo20MIf6pXQzEeO3CmJg) | 3:25 |
+| 72 | [Just A Day](https://open.spotify.com/track/1MU4s8N2sHju0bFsDSmTHZ) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [Just A Day](https://open.spotify.com/album/2euo20MIf6pXQzEeO3CmJg) | 3:25 |
+| 73 | [Everyday](https://open.spotify.com/track/1lIj3mSKGJfmQkC8vMEdj0) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:19 |
+| 74 | [Don't Let Me Down](https://open.spotify.com/track/4mqnkUBTnxKbnzTzA1FXRJ) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential Will Young](https://open.spotify.com/album/5xcTzzjzn4mpmVpsNMuuC8) | 4:46 |
 | 75 | [New York City Lights](https://open.spotify.com/track/43BdxxkR8UP1pJFcwJp1hG) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic \(International Version\)](https://open.spotify.com/album/5OVV3C55OWKmHHP9eY3s74) | 3:52 |
 | 76 | [No Brakes](https://open.spotify.com/track/63gfejhYyJo1KhjJJ06wAt) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Hands \(Standard DMD\)](https://open.spotify.com/album/1SxlVyf7bCGblH0jQYfL9Z) | 4:02 |
 | 77 | [It's Alright](https://open.spotify.com/track/0IAjW3QM4PwqJS0ckvulXA) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:17 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 129 | [If You're Not the One](https://open.spotify.com/track/6Pe6hM9vri1ulCLGfp21xI) | [ELLE](https://open.spotify.com/artist/5Vd00Fe9ZNC4S7ataOQg32) | [If You're Not the One](https://open.spotify.com/album/67DkViPYaVxMaisDuLFbyz) | 3:40 |
 | 130 | [Don't Let Me Down](https://open.spotify.com/track/17my6iBMd8qwYN2AZkTM5B) | [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB), [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ) | [B Sides](https://open.spotify.com/album/6t4FKATeqkOSX5p6CKz7gX) | 4:17 |
 
-Snapshot ID: `MjczNzE1NDQsMDAwMDAwMDBlMjY4YTNhNDY3Yzk4ODg0MzY4MTQwZTM2YTA2YWFjZg==`
+Snapshot ID: `MjczNzI5OTIsMDAwMDAwMDAxMDM3NDgzN2Y3ZmNjY2RkMzAzMTY1MDBjNjNlZTc5Zg==`

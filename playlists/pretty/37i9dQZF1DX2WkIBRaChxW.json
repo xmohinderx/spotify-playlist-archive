@@ -1,7 +1,7 @@
 {
   "description": "What's happening in R&B, right now. Cover: The Weeknd",
   "name": "R&B Right Now",
-  "num_followers": 345666,
+  "num_followers": 345726,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -110,6 +110,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
       "duration_ms": 216760,
@@ -198,6 +202,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
       "duration_ms": 159666,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Can you believe these tracks just turned 20? Neither can \#SpotifyTBT Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,047,533 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,047,451 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

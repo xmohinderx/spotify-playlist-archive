@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new tracks every week\. Cover: Yot Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,178,095 likes - 168 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,178,318 likes - 168 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 |
 | 2 | [Lawn](https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Lawn](https://open.spotify.com/album/18fBg00a9TmorB9yvQwYlq) | 3:37 |
-| 3 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
+| 3 | [jealousy \(feat\. rema\)](https://open.spotify.com/track/66fCNfMdIKsXOnSphorrwg) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [CAPRISONGS](https://open.spotify.com/album/3G77BQuJy3jahjdkKQNNNM) | 2:39 |
 | 4 | [It's Easy](https://open.spotify.com/track/1Fh7lpiy8m6ZU9y3yLAFnW) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 3:40 |
 | 5 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
 | 6 | [This Car Drives All by Itself](https://open.spotify.com/track/3kgUL6z42w6qC6Tp5FrZrU) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:45 |

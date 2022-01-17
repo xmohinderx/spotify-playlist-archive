@@ -23,7 +23,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 247653,
       "name": "Adriatic Flow",
       "url": "https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW"
@@ -63,7 +63,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 263106,
       "name": "Afternoon Delight",
       "url": "https://open.spotify.com/track/1TeSdXeVdGb8YbE7YcNTyU"
@@ -254,6 +254,28 @@
     },
     {
       "album": {
+        "name": "Double Vision",
+        "url": "https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL"
+      },
+      "artists": [
+        {
+          "name": "Adam Hawley",
+          "url": "https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX"
+        },
+        {
+          "name": "Marcus Anderson",
+          "url": "https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251013,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g"
+    },
+    {
+      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
       },
@@ -335,7 +357,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 274653,
       "name": "Chasing the Dream",
       "url": "https://open.spotify.com/track/7DoHYeSKTtlvvu0bjybY2f"
@@ -501,7 +523,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 272400,
       "name": "Fall For You",
       "url": "https://open.spotify.com/track/7qqamkny8IkXOCJrhjy73L"
@@ -667,7 +689,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 285500,
       "name": "I Can't Stop Loving You",
       "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
@@ -801,7 +823,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 227752,
       "name": "It's On Now",
       "url": "https://open.spotify.com/track/7qXLWmM1TzvksNaXOpjkB5"
@@ -855,7 +877,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 244450,
       "name": "Just Once (Radio Edit)",
       "url": "https://open.spotify.com/track/0gg4oTlnC2lKRPtxcZ43Cn"
@@ -891,10 +913,28 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 289240,
       "name": "Let It Flow",
       "url": "https://open.spotify.com/track/3fV8jbhyPEBcltw5d79W1s"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "album": {
@@ -909,7 +949,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 246546,
       "name": "Let's Get Serious",
       "url": "https://open.spotify.com/track/4RTGS87OcG5XjKfM7VsJk4"
@@ -945,7 +985,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
@@ -981,7 +1021,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 234500,
       "name": "Love Crazy",
       "url": "https://open.spotify.com/track/55xIR0lhEKXXUl5PE1jO4O"
@@ -1077,7 +1117,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 269106,
       "name": "Mr Kool",
       "url": "https://open.spotify.com/track/5svERXp8eoh8MydumgnC0J"
@@ -1095,7 +1135,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 278200,
       "name": "My Song for You",
       "url": "https://open.spotify.com/track/2WkpgjnqTOPCi60IvlDtvB"
@@ -1207,7 +1247,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 256973,
       "name": "Pacifica",
       "url": "https://open.spotify.com/track/4zfF62Jy2mtNCG2wlGy2VK"
@@ -1269,7 +1309,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 292253,
       "name": "Release",
       "url": "https://open.spotify.com/track/68JOcOeibkcTidFF6VGxwW"
@@ -1377,7 +1417,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 267913,
       "name": "Sippin the Yak",
       "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
@@ -1395,7 +1435,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 313973,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2rtiJtfuR6nMofzbdq1y5V"
@@ -1431,7 +1471,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 242013,
       "name": "Soulfood Sunday",
       "url": "https://open.spotify.com/track/7CkzM33RNqE8PyUdsVUBBZ"
@@ -1467,7 +1507,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 245853,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/1TQEe8NQLc3ml4p23ueRzq"
@@ -1586,6 +1626,28 @@
     },
     {
       "album": {
+        "name": "The Gift Psychobass2",
+        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
+      },
+      "artists": [
+        {
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
+        },
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "date_added": "2022-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299626,
+      "name": "The B Spot",
+      "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
+    },
+    {
+      "album": {
         "name": "Sentiment",
         "url": "https://open.spotify.com/album/7hML0wQpcGtknLxvlvFuR7"
       },
@@ -1633,7 +1695,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 293533,
       "name": "Undun",
       "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
@@ -1691,7 +1753,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 247333,
       "name": "Window of the Soul",
       "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"

@@ -1,12 +1,12 @@
 {
   "description": "The names you know and the names you need to know in hip-hop. Cover: Murda Beatz, Blxst, Wale",
   "name": "Hip-Hop Central",
-  "num_followers": 801080,
+  "num_followers": 801098,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjI2MTQ1OCwwMDAwMDQyYjAwMDAwMTdlNWU2OTJmYTAwMDAwMDE3ZTUwYjQ1YmQw",
+  "snapshot_id": "MTY0MjM1NTA0NiwwMDAwMDQyYzAwMDAwMTdlNjNmZDM2N2UwMDAwMDE3ZTUwYjQ1YmQw",
   "tracks": [
     {
       "added_at": "2022-01-15 14:23:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-01-15 14:23:00",
       "album": {
-        "name": "Colors Teaser",
-        "url": "https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Foolish Figure",
-      "url": "https://open.spotify.com/track/3F8UxFKBC53S4JCsDW1xo2"
-    },
-    {
-      "added_at": "2022-01-15 14:23:00",
-      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 190261,
       "name": "Wave Gods",
       "url": "https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4"
+    },
+    {
+      "added_at": "2022-01-15 14:23:00",
+      "album": {
+        "name": "Colors Teaser",
+        "url": "https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Foolish Figure",
+      "url": "https://open.spotify.com/track/3F8UxFKBC53S4JCsDW1xo2"
     },
     {
       "added_at": "2022-01-15 14:23:00",

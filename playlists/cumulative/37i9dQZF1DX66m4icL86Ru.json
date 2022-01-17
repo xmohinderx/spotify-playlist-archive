@@ -1266,6 +1266,28 @@
     },
     {
       "album": {
+        "name": "Throw It Back",
+        "url": "https://open.spotify.com/album/4BobJqfRqRCEpjULDOiOFJ"
+      },
+      "artists": [
+        {
+          "name": "TarioP",
+          "url": "https://open.spotify.com/artist/5N4ydSgV26FDMKuZcFsttp"
+        },
+        {
+          "name": "ShantiiP",
+          "url": "https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70542,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/3Lf1nGVFPEsydObkXHUu2b"
+    },
+    {
+      "album": {
         "name": "Amala (Deluxe Version)",
         "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
       },

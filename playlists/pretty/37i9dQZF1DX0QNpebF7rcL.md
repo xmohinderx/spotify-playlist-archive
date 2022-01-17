@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best of blues right now\. Cover: Keb' Mo'
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,116 likes - 122 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,151 likes - 122 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

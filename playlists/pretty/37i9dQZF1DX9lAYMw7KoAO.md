@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > Gospel music from across the African continent\. Worship in your mother tongue here!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,664 likes - 70 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,754 likes - 70 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

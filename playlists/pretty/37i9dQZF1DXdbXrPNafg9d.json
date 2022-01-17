@@ -1,7 +1,7 @@
 {
   "description": "The best new tracks every week. Cover: Yot Club",
   "name": "All New Indie",
-  "num_followers": 1178095,
+  "num_followers": 1178318,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -50,6 +50,10 @@
         {
           "name": "FKA twigs",
           "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
       "duration_ms": 159666,

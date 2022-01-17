@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > The names you know and the names you need to know in hip\-hop\. Cover: Murda Beatz, Blxst, Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,080 likes - 76 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,098 likes - 76 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 2 | [P power \(feat\. Drake\)](https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DRIP SEASON 4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 3:13 |
 | 3 | [Today \(feat\. Gunna\)](https://open.spotify.com/track/7z3rc7SCgjbAztt1cbXkVj) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 3:02 |
 | 4 | [Eazy](https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Eazy](https://open.spotify.com/album/26LYxs49CqC9WUZWiEK3jT) | 3:54 |
-| 5 | [Foolish Figure](https://open.spotify.com/track/3F8UxFKBC53S4JCsDW1xo2) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors Teaser](https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I) | 2:45 |
-| 6 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 |
-| 7 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 |
-| 8 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 |
+| 5 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 |
+| 6 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 |
+| 7 | [Wave Gods](https://open.spotify.com/track/14246VCxRDGZHqlMlqWSz4) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 3:10 |
+| 8 | [Foolish Figure](https://open.spotify.com/track/3F8UxFKBC53S4JCsDW1xo2) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Colors Teaser](https://open.spotify.com/album/4Lrv8Pqc5Gay4X34ZwOa2I) | 2:45 |
 | 9 | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/track/3IZWCcD1FYpyeY3ki2VUmL) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Million Dollars Worth of Game \(feat\. 42 Dugg\)](https://open.spotify.com/album/0eIUsIe0Bo1gH7gld8lFbg) | 2:39 |
 | 10 | [Anti\-Hero \(feat\. Lil Tecca\)](https://open.spotify.com/track/5HZ5NjyJVMaboBgG6uQMpK) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Sorry 4 The Wait](https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp) | 3:12 |
 | 11 | [No Option](https://open.spotify.com/track/2LNiTlYDSFntPkU3qvUc6Y) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [Table For One](https://open.spotify.com/album/2D8w8m8eFaU92yI1iXlHiC) | 3:49 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 75 | [New Tooth](https://open.spotify.com/track/2cyD0OE6HQwSk2nmDcQx1O) | [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [New Tooth](https://open.spotify.com/album/10yiYbL1xMtPpEfDvwHCej) | 3:40 |
 | 76 | [Flocky Flocky \(feat\. Travis Scott\)](https://open.spotify.com/track/25r6MZ4Gtd76l43qnZI1DG) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Life of a DON](https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ) | 3:03 |
 
-Snapshot ID: `MTY0MjI2MTQ1OCwwMDAwMDQyYjAwMDAwMTdlNWU2OTJmYTAwMDAwMDE3ZTUwYjQ1YmQw`
+Snapshot ID: `MTY0MjM1NTA0NiwwMDAwMDQyYzAwMDAwMTdlNjNmZDM2N2UwMDAwMDE3ZTUwYjQ1YmQw`

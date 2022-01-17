@@ -55,10 +55,28 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 234215,
       "name": "3005",
       "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
+    },
+    {
+      "album": {
+        "name": "Adult",
+        "url": "https://open.spotify.com/album/6hzC0LqnKVnBCJfkCv1j31"
+      },
+      "artists": [
+        {
+          "name": "LOVE TRULS",
+          "url": "https://open.spotify.com/artist/2kx2L7c7ygzdN9H16dKzcw"
+        }
+      ],
+      "date_added": "2021-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220594,
+      "name": "ADULT",
+      "url": "https://open.spotify.com/track/6f8LxEFb7FSNZFRhOo1ZUK"
     },
     {
       "album": {
@@ -117,7 +135,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 143647,
       "name": "be cool",
       "url": "https://open.spotify.com/track/6AzPHXMvAtBmzISu4NhOIm"
@@ -179,7 +197,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 207722,
       "name": "Broke",
       "url": "https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H"
@@ -339,7 +357,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 305350,
       "name": "Dang! (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66"
@@ -411,7 +429,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/5QOijyvdnZRstMYqrqdusk"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 149944,
       "name": "freetime",
       "url": "https://open.spotify.com/track/5jwZ3lqPkYBYECY9v08fsl"
@@ -523,7 +541,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 164963,
       "name": "FYO",
       "url": "https://open.spotify.com/track/2pIZ6QqkFK6Ayg8pZGjomA"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 194673,
       "name": "i guess?",
       "url": "https://open.spotify.com/track/235m3adTb5WObAJWOonO4f"
@@ -683,7 +701,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 142471,
       "name": "I Miss My Dawgs",
       "url": "https://open.spotify.com/track/37HoJKXTnuru9ZPBmduLZ0"
@@ -737,7 +755,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 241000,
       "name": "Just Don't",
       "url": "https://open.spotify.com/track/2KIIrpnsVBuHWGjiVx8YkB"
@@ -755,7 +773,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 269142,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6ixkZ2Q9gQeh52C6GxbETg"
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 271773,
       "name": "Spark It Up",
       "url": "https://open.spotify.com/track/6n3FVLR4lkLiwqRAbtRnGD"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2021-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-02",
+      "date_removed": null,
       "duration_ms": 188916,
       "name": "Trader Joe",
       "url": "https://open.spotify.com/track/68UwqWt98BW1QdDnGV9DO1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1R6bXL4dyW.md) - [plain]
 
 > Enjoy the best Italian dinner of your life\. Buon Appetito!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,285 likes - 44 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,401 likes - 44 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

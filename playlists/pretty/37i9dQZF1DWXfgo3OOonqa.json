@@ -1,12 +1,12 @@
 {
   "description": "H\u00e5ll det 100.",
   "name": "100",
-  "num_followers": 240805,
+  "num_followers": 240849,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjIxNTg0NywwMDAwMDZkODAwMDAwMTdlNWJiMTM0ZjkwMDAwMDE3ZTRhMWM4NjMx",
+  "snapshot_id": "MTY0MjI5NTcyOCwwMDAwMDZkOTAwMDAwMTdlNjA3NDE4NTkwMDAwMDE3ZTRhMWM4NjMx",
   "tracks": [
     {
       "added_at": "2022-01-13 23:02:00",
@@ -47,6 +47,26 @@
     {
       "added_at": "2022-01-13 23:02:00",
       "album": {
+        "name": "Milli",
+        "url": "https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        },
+        {
+          "name": "Mackan",
+          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
+        }
+      ],
+      "duration_ms": 127947,
+      "name": "Milli",
+      "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
+    },
+    {
+      "added_at": "2022-01-13 23:02:00",
+      "album": {
         "name": "ABTI",
         "url": "https://open.spotify.com/album/2eJfXQe2OSLmOtmEhRI4EF"
       },
@@ -83,26 +103,6 @@
       "duration_ms": 132513,
       "name": "Foxy (feat. PABI)",
       "url": "https://open.spotify.com/track/4MiFfAn85FcJBKB52Ucux8"
-    },
-    {
-      "added_at": "2022-01-13 23:02:00",
-      "album": {
-        "name": "Milli",
-        "url": "https://open.spotify.com/album/6CakrPkzkMk0W7KJwdugiG"
-      },
-      "artists": [
-        {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
-        },
-        {
-          "name": "Mackan",
-          "url": "https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H"
-        }
-      ],
-      "duration_ms": 127947,
-      "name": "Milli",
-      "url": "https://open.spotify.com/track/4c1vrofYNTaYrtAFzKQrTK"
     },
     {
       "added_at": "2022-01-13 23:02:00",
