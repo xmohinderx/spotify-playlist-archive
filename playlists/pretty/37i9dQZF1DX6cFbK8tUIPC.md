@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > <a href="https://open.spotify.com/track/20bNmfHntXFvYInCEQZYfp?si=e255ce242aff4eae">latte foam art, tiny pumpkins, fuzzy comfy socks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,841 likes - 105 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,062 likes - 105 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 104 | [Coffee Breath](https://open.spotify.com/track/28TkNtKHx6UnOZuoyv3Jzv) | [Sofia Mills](https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW) | [Coffee Breath](https://open.spotify.com/album/6PLQWrmCo4IDIbfaIP2hAE) | 2:43 |
 | 105 | [For Good](https://open.spotify.com/track/2NywGeZ2cJl5G7SSEDRF3P) | [katie phelan](https://open.spotify.com/artist/7g4ZlfLhJhCxpaMPUH2PY4) | [For Good](https://open.spotify.com/album/2KimldDD1VuIayQTZV6svQ) | 3:18 |
 
-Snapshot ID: `MTYzOTY3MTk2OCwwMDAwMDAxMzAwMDAwMTdkYzQxMGIxNWMwMDAwMDE3YjdlYTI5YzFh`
+Snapshot ID: `MTY0MjQzMzg4NiwwMDAwMDAxNDAwMDAwMTdlNjhiMDM3NGUwMDAwMDE3YjdlYTI5YzFh`

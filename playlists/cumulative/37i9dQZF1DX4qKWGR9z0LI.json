@@ -41,7 +41,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 337064,
       "name": "A Mal Tiempo Buena Salsa",
       "url": "https://open.spotify.com/track/0sgPyUXELg85REg7HFusDF"
@@ -59,7 +59,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 262746,
       "name": "Abre Que Voy",
       "url": "https://open.spotify.com/track/3ihMiG7GPZdsWJcf7Tyevw"
@@ -131,7 +131,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 309040,
       "name": "As\u00ed Es la Mujer",
       "url": "https://open.spotify.com/track/6Mo9TgSE7iKBNSoIdLaP40"
@@ -211,7 +211,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 324253,
       "name": "Buenaventura Y Caney",
       "url": "https://open.spotify.com/track/7ugeLfcFCak3rje9PTRCkS"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 360666,
       "name": "Doble Vida",
       "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 323682,
       "name": "El Que Siempre So\u00f1\u00f3",
       "url": "https://open.spotify.com/track/2comgM8wcrT3UbA2DFk5UX"
@@ -939,7 +939,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 374840,
       "name": "La Pantera Mambo",
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
@@ -961,7 +961,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 257483,
       "name": "La Pel\u00edcula II",
       "url": "https://open.spotify.com/track/5WZPTq3NoLhIys3RyPF5Ye"
@@ -1193,7 +1193,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 248697,
       "name": "Mala (feat. Victor Manuelle) - Salsa Remix",
       "url": "https://open.spotify.com/track/6ZIzbuU1QzGpSfFdWFKKqL"
@@ -1287,7 +1287,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 439080,
       "name": "Medley",
       "url": "https://open.spotify.com/track/0WwVA5yRSxSUBM3macPfJK"
@@ -1374,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "En Cuarentena",
+        "url": "https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260920,
+      "name": "No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/2XRr5VmdgVrUWCRk6HPWNH"
+    },
+    {
+      "album": {
         "name": "Que Suenen los Tambores",
         "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
       },
@@ -1425,7 +1443,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 224826,
       "name": "Pa Bravo Yo",
       "url": "https://open.spotify.com/track/1reO9cqAkoJUWQw29KwA6S"
@@ -1639,7 +1657,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 296240,
       "name": "Que Locura Enamorarme De Ti (feat. Eddie Santiago)",
       "url": "https://open.spotify.com/track/2UN8K1VKiiKiEimbxa7Fpv"
@@ -1697,7 +1715,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 288600,
       "name": "Resistir\u00e9 - Salsa",
       "url": "https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi"
@@ -1773,7 +1791,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 349600,
       "name": "Se\u00f1ora De Madrugada",
       "url": "https://open.spotify.com/track/67hHhKVp67fqRwE0OehlnX"
@@ -2001,7 +2019,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 220453,
       "name": "Tengo Que Colgar",
       "url": "https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx"
@@ -2199,7 +2217,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 249160,
       "name": "Viene y Se Va",
       "url": "https://open.spotify.com/track/07wgpM7gK7K1u68grjWnxo"
@@ -2257,7 +2275,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 325133,
       "name": "Volver\u00e1s",
       "url": "https://open.spotify.com/track/33KyLofurq1qZ6kpF6J9Hi"

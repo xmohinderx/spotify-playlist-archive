@@ -79,9 +79,9 @@
           "url": "https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z"
         }
       ],
-      "date_added": "2021-10-12",
+      "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-10-28",
+      "date_removed": null,
       "duration_ms": 200597,
       "name": "2.",
       "url": "https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC"
@@ -359,7 +359,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 312244,
       "name": "Algorithmblues",
       "url": "https://open.spotify.com/track/0Mgo4AJxSoW6JMT8y2zrQM"
@@ -655,7 +655,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 281170,
       "name": "Baby Blu",
       "url": "https://open.spotify.com/track/2uXEIjY0BLmZLehKai9RRS"
@@ -735,7 +735,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
@@ -963,7 +963,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "BLEACH - Beshken Remix",
       "url": "https://open.spotify.com/track/1hv6wWgnbqlTqEQivmdtvJ"
@@ -999,7 +999,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 233417,
       "name": "Blue Sea, Red Sea",
       "url": "https://open.spotify.com/track/1TNIPwsB6knLXdlfjjnPTX"
@@ -1539,7 +1539,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "concrete",
       "url": "https://open.spotify.com/track/0fdaw54L9HswP2QVYJjnx6"
@@ -1593,7 +1593,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 243337,
       "name": "Copilot",
       "url": "https://open.spotify.com/track/1sK4hNmwCZNW4w4Z2NAnHh"
@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 164213,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/1ul6ZsL4SybkiVTCzYTLyN"
@@ -2579,7 +2579,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 222318,
       "name": "Gemini and Leo - Edit",
       "url": "https://open.spotify.com/track/00aTAUXcHPWUDxupOKMauy"
@@ -2723,7 +2723,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211304,
       "name": "girl in new york",
       "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
@@ -2983,7 +2983,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 200939,
       "name": "Heaven's Hands",
       "url": "https://open.spotify.com/track/5DPnQp2C5zLg26KBoSE0iQ"
@@ -3041,7 +3041,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 251279,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c"
@@ -3059,7 +3059,7 @@
       ],
       "date_added": "2020-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 216706,
       "name": "Hey, Ma",
       "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
@@ -3189,7 +3189,7 @@
       ],
       "date_added": "2021-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 180181,
       "name": "honey",
       "url": "https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt"
@@ -3371,6 +3371,24 @@
       "duration_ms": 222000,
       "name": "I Wasted You",
       "url": "https://open.spotify.com/track/7sQQC2vvWgKLoZEISvWXjd"
+    },
+    {
+      "album": {
+        "name": "I Won!",
+        "url": "https://open.spotify.com/album/3j3lsfoCPCp93p1eUL1dbq"
+      },
+      "artists": [
+        {
+          "name": "Sipper",
+          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "I Won!",
+      "url": "https://open.spotify.com/track/3KQDLIK3HZkPJg7HS0d7jx"
     },
     {
       "album": {
@@ -4003,7 +4021,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 188500,
       "name": "Love Is Letting Go",
       "url": "https://open.spotify.com/track/1TSpVBAwIqnKLE0cZa8mJd"
@@ -4429,7 +4447,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 168746,
       "name": "Ne Me Quitte Pas (Don't Leave Me)",
       "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
@@ -4743,7 +4761,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174735,
       "name": "ocean view",
       "url": "https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j"
@@ -4891,7 +4909,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217298,
       "name": "Ordinary Guy (feat. The Mattson 2)",
       "url": "https://open.spotify.com/track/3NXLWgZATF6TFYP70dEfcA"
@@ -5269,7 +5287,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 252987,
       "name": "Roddy",
       "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
@@ -6081,7 +6099,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 290106,
       "name": "There Must Be a Song Like You",
       "url": "https://open.spotify.com/track/1rwzTr6y9yOPzNlO92AnUc"
@@ -6189,7 +6207,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 155680,
       "name": "Tiptoeing",
       "url": "https://open.spotify.com/track/3ZptYblxFPhvIJ0RRRozk9"
@@ -6243,7 +6261,7 @@
       ],
       "date_added": "2020-10-05",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 361760,
       "name": "Tommy's Party",
       "url": "https://open.spotify.com/track/5OuJTtNve7FxUX82eEBupN"
@@ -6459,7 +6477,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "U-Turn",
       "url": "https://open.spotify.com/track/3wXCGcQVwmvVaIp4aqEA5v"
@@ -7123,7 +7141,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 189160,
       "name": "Young",
       "url": "https://open.spotify.com/track/3OP8UeYimRl9HCNxMg7Ihl"

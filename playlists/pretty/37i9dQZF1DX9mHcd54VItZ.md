@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > Only the hottest out now in South African Rock and Punk\. Cover: <a href="https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9?si=ycViu\-0TROu5mHvW9p2m3Q">Sean Koch</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,659 likes - 58 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,665 likes - 58 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

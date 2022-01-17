@@ -1,13 +1,29 @@
 {
   "description": "Songs from Canadian artists that dominated the 1990s. Cover: LEN",
   "name": "Canadian '90s",
-  "num_followers": 44242,
+  "num_followers": 44252,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjM4MDM1MywwMDAwMDAwMGJhNjMwOGUzODBjN2ZkNmE2YTVhMGI4NmYwMDljMzNi",
+  "snapshot_id": "MTY0MjQ1ODI4MiwwMDAwMDAwMDQzMWE2NGExZDcxNzVlMjdhYzEwMDQxYjUwMTI2MDMy",
   "tracks": [
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Mad Mad World",
+        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
+      },
+      "artists": [
+        {
+          "name": "Tom Cochrane",
+          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
+        }
+      ],
+      "duration_ms": 266560,
+      "name": "Life Is A Highway",
+      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
+    },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 313920,
       "name": "Hasn't Hit Me Yet - 2012 Remaster",
       "url": "https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek"
+      },
+      "artists": [
+        {
+          "name": "Big Wreck",
+          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
+        }
+      ],
+      "duration_ms": 304906,
+      "name": "That Song",
+      "url": "https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -43,54 +75,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Nest",
-        "url": "https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU"
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
       "artists": [
         {
-          "name": "Odds",
-          "url": "https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp"
-        },
-        {
-          "name": "Mixed by Steven Drake with other Odds",
-          "url": "https://open.spotify.com/artist/5HS2kOCWsYhB2BxDM9k0iH"
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
         }
       ],
-      "duration_ms": 197026,
-      "name": "Someone Who's Cool",
-      "url": "https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Mad Mad World",
-        "url": "https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT"
-      },
-      "artists": [
-        {
-          "name": "Tom Cochrane",
-          "url": "https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt"
-        }
-      ],
-      "duration_ms": 266560,
-      "name": "Life Is A Highway",
-      "url": "https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "In Loving Memory",
-        "url": "https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek"
-      },
-      "artists": [
-        {
-          "name": "Big Wreck",
-          "url": "https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS"
-        }
-      ],
-      "duration_ms": 304906,
-      "name": "That Song",
-      "url": "https://open.spotify.com/track/2XI1Ja1rRLgNuiZCvias4w"
+      "duration_ms": 239640,
+      "name": "You Learn - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -127,18 +123,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk"
+        "name": "Tal Bachman",
+        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
       },
       "artists": [
         {
-          "name": "Great Big Sea",
-          "url": "https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4"
+          "name": "Tal Bachman",
+          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
         }
       ],
-      "duration_ms": 160986,
-      "name": "End of the World",
-      "url": "https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2"
+      "duration_ms": 224693,
+      "name": "She's so High",
+      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -155,6 +151,74 @@
       "duration_ms": 255400,
       "name": "Superman's Dead",
       "url": "https://open.spotify.com/track/5AqdEGne9bWAMPTI5UUmQY"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp"
+      },
+      "artists": [
+        {
+          "name": "Matthew Good Band",
+          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
+        }
+      ],
+      "duration_ms": 314626,
+      "name": "Apparitions",
+      "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/44u5EtcXfe3r9EZgq5obPk"
+      },
+      "artists": [
+        {
+          "name": "Great Big Sea",
+          "url": "https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4"
+        }
+      ],
+      "duration_ms": 160986,
+      "name": "End of the World",
+      "url": "https://open.spotify.com/track/5BeMAafz7zA1jurQlVzxB2"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Nest",
+        "url": "https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU"
+      },
+      "artists": [
+        {
+          "name": "Odds",
+          "url": "https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp"
+        },
+        {
+          "name": "Mixed by Steven Drake with other Odds",
+          "url": "https://open.spotify.com/artist/5HS2kOCWsYhB2BxDM9k0iH"
+        }
+      ],
+      "duration_ms": 197026,
+      "name": "Someone Who's Cool",
+      "url": "https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Wide Mouth Mason",
+        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
+      },
+      "artists": [
+        {
+          "name": "Wide Mouth Mason",
+          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -191,210 +255,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Tal Bachman",
-        "url": "https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD"
+        "name": "Glee",
+        "url": "https://open.spotify.com/album/3vXanoRgJfcgjymf63ur5h"
       },
       "artists": [
         {
-          "name": "Tal Bachman",
-          "url": "https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW"
+          "name": "Bran Van 3000",
+          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
         }
       ],
-      "duration_ms": 224693,
-      "name": "She's so High",
-      "url": "https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Underdogs",
-        "url": "https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp"
-      },
-      "artists": [
-        {
-          "name": "Matthew Good Band",
-          "url": "https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL"
-        }
-      ],
-      "duration_ms": 314626,
-      "name": "Apparitions",
-      "url": "https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Jagged Little Pill (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "You Learn - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Racine",
-        "url": "https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL"
-      },
-      "artists": [
-        {
-          "name": "Sass Jordan",
-          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Make You a Believer",
-      "url": "https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Surfacing",
-        "url": "https://open.spotify.com/album/2XIPqTkZP5BSrtlHE7jkVz"
-      },
-      "artists": [
-        {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Building a Mystery",
-      "url": "https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA"
-      },
-      "artists": [
-        {
-          "name": "Moist",
-          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
-        }
-      ],
-      "duration_ms": 230426,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Wide Mouth Mason",
-        "url": "https://open.spotify.com/album/2MrXw9z9ljPjJwernD0w3E"
-      },
-      "artists": [
-        {
-          "name": "Wide Mouth Mason",
-          "url": "https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/5ciTMaXkcznCe2fDgrrZVI"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Stuff",
-        "url": "https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9"
-      },
-      "artists": [
-        {
-          "name": "Holly McNarland",
-          "url": "https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Smilin' Buddha Cabaret",
-        "url": "https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE"
-      },
-      "artists": [
-        {
-          "name": "54-40",
-          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Ocean Pearl",
-      "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "The Devil You Know",
-        "url": "https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh"
-      },
-      "artists": [
-        {
-          "name": "Econoline Crush",
-          "url": "https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "All That You Are (x3) - 1997 Digital Remaster",
-      "url": "https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Make a Pest a Pet",
-        "url": "https://open.spotify.com/album/4pdQQux0MoEnkeTUhEfY3K"
-      },
-      "artists": [
-        {
-          "name": "The Age Of Electric",
-          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
-        }
-      ],
-      "duration_ms": 219391,
-      "name": "Remote Control",
-      "url": "https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Famous Rich and Beautiful",
-        "url": "https://open.spotify.com/album/5HfNnVRmm1ImVThtfrfNUS"
-      },
-      "artists": [
-        {
-          "name": "The Philosopher Kings",
-          "url": "https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA"
-        }
-      ],
-      "duration_ms": 321000,
-      "name": "Hurts To Love You - LP Version (Album Version)",
-      "url": "https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 238706,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
+      "duration_ms": 236066,
+      "name": "Drinking in L.A.",
+      "url": "https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -415,66 +287,82 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Hell To Pay",
-        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/2XIPqTkZP5BSrtlHE7jkVz"
       },
       "artists": [
         {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
         }
       ],
-      "duration_ms": 315666,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
+      "duration_ms": 247266,
+      "name": "Building a Mystery",
+      "url": "https://open.spotify.com/track/2mazBRLLeWQSHeNiu7jxDm"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Living Under June",
-        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
+        "name": "Racine",
+        "url": "https://open.spotify.com/album/7pMdUFxJHQTtSLfZMtY0SL"
       },
       "artists": [
         {
-          "name": "Jann Arden",
-          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
+          "name": "Sass Jordan",
+          "url": "https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB"
         }
       ],
-      "duration_ms": 288360,
-      "name": "Could I Be Your Girl",
-      "url": "https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR"
+      "duration_ms": 283000,
+      "name": "Make You a Believer",
+      "url": "https://open.spotify.com/track/3x2TPDl0jQthHTKTgWxz21"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "I Bificus",
-        "url": "https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps"
+        "name": "Famous Rich and Beautiful",
+        "url": "https://open.spotify.com/album/5HfNnVRmm1ImVThtfrfNUS"
       },
       "artists": [
         {
-          "name": "Bif Naked",
-          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
+          "name": "The Philosopher Kings",
+          "url": "https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA"
         }
       ],
-      "duration_ms": 261250,
-      "name": "Spaceman",
-      "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
+      "duration_ms": 321000,
+      "name": "Hurts To Love You - LP Version (Album Version)",
+      "url": "https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "This Child",
-        "url": "https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA"
       },
       "artists": [
         {
-          "name": "Susan Aglukark",
-          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+          "name": "Moist",
+          "url": "https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz"
         }
       ],
-      "duration_ms": 267000,
-      "name": "O Siem",
-      "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
+      "duration_ms": 230426,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/3NN2VyGJUre8epa7bWr8jw"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/0Imd5b8ZBWRpFSmqGuxLIh"
+      },
+      "artists": [
+        {
+          "name": "Econoline Crush",
+          "url": "https://open.spotify.com/artist/3M9ouLHyB0kbob1tnQN4wE"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "All That You Are (x3) - 1997 Digital Remaster",
+      "url": "https://open.spotify.com/track/3z9wl4sY8SqM8GurmuCLa9"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -495,18 +383,34 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Silent Radar",
-        "url": "https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ"
+        "name": "Living Under June",
+        "url": "https://open.spotify.com/album/4459ANZzMiQV2nvpH8lc6O"
       },
       "artists": [
         {
-          "name": "The Watchmen",
-          "url": "https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD"
+          "name": "Jann Arden",
+          "url": "https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F"
         }
       ],
-      "duration_ms": 281106,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or"
+      "duration_ms": 288360,
+      "name": "Could I Be Your Girl",
+      "url": "https://open.spotify.com/track/7IfWFD4RPeqM5xeGcwzgoR"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Hot Show",
+        "url": "https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz"
+      },
+      "artists": [
+        {
+          "name": "Prozzak",
+          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
+        }
+      ],
+      "duration_ms": 201573,
+      "name": "Sucks To Be You",
+      "url": "https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -527,6 +431,86 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Hell To Pay",
+        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Make a Pest a Pet",
+        "url": "https://open.spotify.com/album/4pdQQux0MoEnkeTUhEfY3K"
+      },
+      "artists": [
+        {
+          "name": "The Age Of Electric",
+          "url": "https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR"
+        }
+      ],
+      "duration_ms": 219391,
+      "name": "Remote Control",
+      "url": "https://open.spotify.com/track/6tbk1CZz3omYU73JsxBNIf"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Smilin' Buddha Cabaret",
+        "url": "https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE"
+      },
+      "artists": [
+        {
+          "name": "54-40",
+          "url": "https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "Ocean Pearl",
+      "url": "https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Silent Radar",
+        "url": "https://open.spotify.com/album/0sLgYWg2M3FVOu3bkLGHxQ"
+      },
+      "artists": [
+        {
+          "name": "The Watchmen",
+          "url": "https://open.spotify.com/artist/7MJSeuocRuASrNOZaYawlD"
+        }
+      ],
+      "duration_ms": 281106,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/4WwoxyC5V29j0cupsBy9Or"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "This Child",
+        "url": "https://open.spotify.com/album/2eEzjJcIibt8lC3ecx7RDN"
+      },
+      "artists": [
+        {
+          "name": "Susan Aglukark",
+          "url": "https://open.spotify.com/artist/2R4S7xcKEkmqvmpXHrKj8C"
+        }
+      ],
+      "duration_ms": 267000,
+      "name": "O Siem",
+      "url": "https://open.spotify.com/track/7JGI5J2oETERIyYdSbIoUt"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Amanda Marshall",
         "url": "https://open.spotify.com/album/0TyKRzOsoZgXrXrcXnPvqt"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 271960,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/3iXaV9yTFnAnZAoVbY8AuT"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Glee",
-        "url": "https://open.spotify.com/album/3vXanoRgJfcgjymf63ur5h"
-      },
-      "artists": [
-        {
-          "name": "Bran Van 3000",
-          "url": "https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB"
-        }
-      ],
-      "duration_ms": 236066,
-      "name": "Drinking in L.A.",
-      "url": "https://open.spotify.com/track/2vd5WiKwFzW5YeYcscu20j"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -591,38 +559,18 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "On A Day Like Today",
-        "url": "https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT"
+        "name": "I Bificus",
+        "url": "https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        },
-        {
-          "name": "Melanie C",
-          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+          "name": "Bif Naked",
+          "url": "https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw"
         }
       ],
-      "duration_ms": 204906,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Hot Show",
-        "url": "https://open.spotify.com/album/5UFAqjSyp85UfL30v4lpsz"
-      },
-      "artists": [
-        {
-          "name": "Prozzak",
-          "url": "https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q"
-        }
-      ],
-      "duration_ms": 201573,
-      "name": "Sucks To Be You",
-      "url": "https://open.spotify.com/track/3St0CuLCZghaJrT33e7RT5"
+      "duration_ms": 261250,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -643,6 +591,74 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
+        "name": "Stuff",
+        "url": "https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9"
+      },
+      "artists": [
+        {
+          "name": "Holly McNarland",
+          "url": "https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 238706,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "On A Day Like Today",
+        "url": "https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
+        "name": "Songs from Dawson's Creek",
+        "url": "https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "London Rain (Nothing Heals Me Like You Do)",
+      "url": "https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl"
+    },
+    {
+      "added_at": "2021-09-21 20:57:50",
+      "album": {
         "name": "Under These Rocks And Stones",
         "url": "https://open.spotify.com/album/3PMSWzK8diDoaMdOZTHzFJ"
       },
@@ -659,34 +675,34 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "12 Years Old",
-        "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/558Yz0cyPe3qKQOhDz3mTV"
       },
       "artists": [
         {
-          "name": "Kim Stockwood",
-          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
+          "name": "Wild Strawberries",
+          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
         }
       ],
-      "duration_ms": 338026,
-      "name": "12 Years Old",
-      "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
+      "duration_ms": 226400,
+      "name": "I Don't Want to Think About It",
+      "url": "https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Party Hits: Summer Edition",
-        "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
+        "name": "Danger \"The Hip Hop Collection 5\"",
+        "url": "https://open.spotify.com/album/4jAQqJmuUDVwLrvduYK9vn"
       },
       "artists": [
         {
-          "name": "Love Inc.",
-          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
+          "name": "Dream Warriors",
+          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
         }
       ],
-      "duration_ms": 210613,
-      "name": "You're a Superstar - Radio Edit",
-      "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
+      "duration_ms": 224760,
+      "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
+      "url": "https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -711,50 +727,50 @@
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Danger \"The Hip Hop Collection 5\"",
-        "url": "https://open.spotify.com/album/4jAQqJmuUDVwLrvduYK9vn"
+        "name": "Party Hits: Summer Edition",
+        "url": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ"
       },
       "artists": [
         {
-          "name": "Dream Warriors",
-          "url": "https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU"
+          "name": "Love Inc.",
+          "url": "https://open.spotify.com/artist/3l92Uh3rqMSv8blPDWNTZx"
         }
       ],
-      "duration_ms": 224760,
-      "name": "My Definition Of A Boombastic Jazz Style - Radio Mix",
-      "url": "https://open.spotify.com/track/5vmxVtt3hyQQvVnNXJtvJC"
+      "duration_ms": 210613,
+      "name": "You're a Superstar - Radio Edit",
+      "url": "https://open.spotify.com/track/0o1CpOzg6GA7L1PRnocChr"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Songs from Dawson's Creek",
-        "url": "https://open.spotify.com/album/0hSUxdwxk9RKLRIfjH0BAd"
+        "name": "12 Years Old",
+        "url": "https://open.spotify.com/album/302yxD5gCv1qPpvqrYQpn3"
       },
       "artists": [
         {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+          "name": "Kim Stockwood",
+          "url": "https://open.spotify.com/artist/7tHtvm0ciNjpPjUgolojNp"
         }
       ],
-      "duration_ms": 230000,
-      "name": "London Rain (Nothing Heals Me Like You Do)",
-      "url": "https://open.spotify.com/track/2CCxzA9QAVSki6OR2t1Jhl"
+      "duration_ms": 338026,
+      "name": "12 Years Old",
+      "url": "https://open.spotify.com/track/4U8IbxALWAot4SiZjbn6ly"
     },
     {
       "added_at": "2021-09-21 20:57:50",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/558Yz0cyPe3qKQOhDz3mTV"
+        "name": "Shadows Wake Me",
+        "url": "https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI"
       },
       "artists": [
         {
-          "name": "Wild Strawberries",
-          "url": "https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y"
+          "name": "Damhnait Doyle",
+          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
         }
       ],
-      "duration_ms": 226400,
-      "name": "I Don't Want to Think About It",
-      "url": "https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt"
+      "duration_ms": 196093,
+      "name": "A List Of Things",
+      "url": "https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W"
     },
     {
       "added_at": "2021-09-21 20:57:50",
@@ -803,22 +819,6 @@
       "duration_ms": 401533,
       "name": "The Future",
       "url": "https://open.spotify.com/track/5l8lYrnPEM1ln3J4XaTcy5"
-    },
-    {
-      "added_at": "2021-09-21 20:57:50",
-      "album": {
-        "name": "Shadows Wake Me",
-        "url": "https://open.spotify.com/album/5L5MeaOvuUccIFwRiLVrJI"
-      },
-      "artists": [
-        {
-          "name": "Damhnait Doyle",
-          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
-        }
-      ],
-      "duration_ms": 196093,
-      "name": "A List Of Things",
-      "url": "https://open.spotify.com/track/6N76d0uy2c5ylz5bIvEn3W"
     },
     {
       "added_at": "2021-09-21 20:57:50",

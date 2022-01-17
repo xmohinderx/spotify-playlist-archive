@@ -377,7 +377,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 220578,
       "name": "Back Up",
       "url": "https://open.spotify.com/track/3u2CXK1wTlyxRaY1WaxvVA"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 180297,
       "name": "by my side",
       "url": "https://open.spotify.com/track/0iL674uEp8AZtgxXDosSmD"
@@ -1191,7 +1191,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 252861,
       "name": "Golden",
       "url": "https://open.spotify.com/track/72vRgf0oI9DQgyNMcB4qOB"
@@ -1213,7 +1213,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 189357,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/4pfEs1kebSz7coMT9EhfoG"
@@ -1235,7 +1235,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187645,
       "name": "Got It Like That",
       "url": "https://open.spotify.com/track/3XBRLoCDienQNdlxEZ9V9K"
@@ -1293,7 +1293,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 239554,
       "name": "GREATEST FAULT",
       "url": "https://open.spotify.com/track/6GSiyx46GZ4McAT2JLz0Jr"
@@ -1495,7 +1495,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 283406,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/0Gv33C5DRmJueolmdFjfU7"
@@ -1553,7 +1553,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 176410,
       "name": "It's Already Yours",
       "url": "https://open.spotify.com/track/1aGRs4qy8gnlYViasGFTUe"
@@ -1742,6 +1742,24 @@
     },
     {
       "album": {
+        "name": "LENTO",
+        "url": "https://open.spotify.com/album/2fLdB0D2o2OT83ucjja1y5"
+      },
+      "artists": [
+        {
+          "name": "Matve\u00ef",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163162,
+      "name": "LENTO",
+      "url": "https://open.spotify.com/track/5itlL5Er5CjSF7wvwXRWjf"
+    },
+    {
+      "album": {
         "name": "Let It Go (Powers Pleasant Remix)",
         "url": "https://open.spotify.com/album/24Khcazx00lHjrKoFNVF9V"
       },
@@ -1891,7 +1909,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 328905,
       "name": "Love No Limit",
       "url": "https://open.spotify.com/track/0W8ZwbwEqMCRDxR57nFsos"
@@ -1971,7 +1989,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 214252,
       "name": "Ms. Communication",
       "url": "https://open.spotify.com/track/4KGaCST7kfqslQnBPNwenm"
@@ -1989,7 +2007,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 203756,
       "name": "Nacho's",
       "url": "https://open.spotify.com/track/6WOeZyGX9TpWbUnzFX7k8e"
@@ -2563,7 +2581,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 160000,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/1ufJxWpoWSy7qh6gBIubKX"
@@ -2873,7 +2891,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 188805,
       "name": "Stickin' (feat. Masego & VanJess)",
       "url": "https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP"
@@ -2997,7 +3015,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 163509,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/0JvAFT6V106SHfkyVwhf4J"
@@ -3267,7 +3285,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 230013,
       "name": "Topdown",
       "url": "https://open.spotify.com/track/56dDonzTxrZKWuVDqUOYGd"
@@ -3285,7 +3303,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 157668,
       "name": "Trip Down",
       "url": "https://open.spotify.com/track/0acTvoJQbpyTzLdUtmczgM"
@@ -3581,7 +3599,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 145327,
       "name": "Who Says",
       "url": "https://open.spotify.com/track/3izM4DrwTNpHZeD902DtRc"

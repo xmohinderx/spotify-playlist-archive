@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
@@ -287,7 +287,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 250686,
       "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
@@ -525,7 +525,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212946,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu"
@@ -847,7 +847,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212453,
       "name": "Fue Mi Culpa",
       "url": "https://open.spotify.com/track/3s9tXoVLXkea4zI3ly3OHV"
@@ -883,7 +883,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 184561,
       "name": "Hablemos",
       "url": "https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3"
@@ -1057,7 +1057,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 170824,
       "name": "Labios Cereza",
       "url": "https://open.spotify.com/track/64luTJa3lsA4ZvwFyoBcUM"
@@ -1367,7 +1367,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 194234,
       "name": "No Andes Con Nadie",
       "url": "https://open.spotify.com/track/14j1mxNRiiJzzwWXqz2Qst"
@@ -1497,7 +1497,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 196099,
       "name": "Palabra de Hombre",
       "url": "https://open.spotify.com/track/4UiaP0wBuy9N9voD91OZOg"
@@ -1519,6 +1519,24 @@
       "duration_ms": 161189,
       "name": "Para Que Lo Notes (Babe I F***ing Love You)",
       "url": "https://open.spotify.com/track/64xDJ50BAalbcgyeXLC3YW"
+    },
+    {
+      "album": {
+        "name": "Para Qu\u00e9 Lastimarme",
+        "url": "https://open.spotify.com/album/5amYG7Oxe1zTUR10PuwSY9"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "Para Qu\u00e9 Lastimarme",
+      "url": "https://open.spotify.com/track/3jK9UGmZEjHnO2IAOduZ5U"
     },
     {
       "album": {
@@ -1685,6 +1703,24 @@
       "duration_ms": 231324,
       "name": "Que Paso",
       "url": "https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR"
+    },
+    {
+      "album": {
+        "name": "Que Paso",
+        "url": "https://open.spotify.com/album/3X39s5ygkWwqvGKFhIAqzJ"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231390,
+      "name": "Que Paso",
+      "url": "https://open.spotify.com/track/42FkXinFSP5oxSqnt241ek"
     },
     {
       "album": {
@@ -1969,7 +2005,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 207000,
       "name": "Sue\u00f1o En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/45M9YvXjUb3SpxXn2qSg0r"
@@ -2215,7 +2251,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 267813,
       "name": "Tu y La Luna",
       "url": "https://open.spotify.com/track/51BNLmU6HnsVKnJSczJ5Ha"
@@ -2399,7 +2435,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 205838,
       "name": "Ya No Quiero",
       "url": "https://open.spotify.com/track/6ftypMzhY6uRLp7Fk4IoXv"
@@ -2421,7 +2457,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 219130,
       "name": "Ya No Siente",
       "url": "https://open.spotify.com/track/5PEwheX3zEOf9ilNSL9sPi"

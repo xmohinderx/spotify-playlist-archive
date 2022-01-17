@@ -34,6 +34,28 @@
     },
     {
       "album": {
+        "name": "2.",
+        "url": "https://open.spotify.com/album/2XWc8IIONjuxbTCQXq14Dd"
+      },
+      "artists": [
+        {
+          "name": "milk.",
+          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
+        },
+        {
+          "name": "Search Party Animal",
+          "url": "https://open.spotify.com/artist/2SdChJVcsPBYIrFDsjc72Z"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200597,
+      "name": "2.",
+      "url": "https://open.spotify.com/track/3ahMoKvNOADvZ8zD0MNLLC"
+    },
+    {
+      "album": {
         "name": "A bite of papaya",
         "url": "https://open.spotify.com/album/6qAd2bXuzauRuwzHYCHu3n"
       },
@@ -107,7 +129,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 289670,
       "name": "Ain't Got Time",
       "url": "https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT"
@@ -223,7 +245,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 231352,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/79g4Bb5vUU63OfjXG2j9Af"
@@ -303,7 +325,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 220800,
       "name": "Body Positivity",
       "url": "https://open.spotify.com/track/6KSjdSoFDgKHbGvB3Lzi2R"
@@ -419,7 +441,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 291463,
       "name": "Calico",
       "url": "https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ"
@@ -605,7 +627,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 471600,
       "name": "Does It Make You Feel Good? - Greg Wilson & Ch\u00e9 Wilson Remix",
       "url": "https://open.spotify.com/track/0uMJP6WWpVirk5V7SsIV42"
@@ -955,7 +977,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 221008,
       "name": "Frankie & Levan",
       "url": "https://open.spotify.com/track/3BDa9cp9tw3PJnxd07ztuV"
@@ -1003,7 +1025,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 170375,
       "name": "Fruit Punch",
       "url": "https://open.spotify.com/track/5OKuigqDZttO0FSkKVF3tB"
@@ -1083,7 +1105,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 279059,
       "name": "GO (Detroit Swindle Remix)",
       "url": "https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm"
@@ -1119,7 +1141,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 230551,
       "name": "Greatest Love - Edit",
       "url": "https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy"
@@ -1221,7 +1243,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 201681,
       "name": "I Think You Should Know",
       "url": "https://open.spotify.com/track/0MRCdC2CM5hDqX0udNEuBr"
@@ -1269,6 +1291,24 @@
       "duration_ms": 283406,
       "name": "Impact (feat. Robyn & Channel Tres)",
       "url": "https://open.spotify.com/track/0Gv33C5DRmJueolmdFjfU7"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/2bIR32W06ydTHlBMpQ5104"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425136,
+      "name": "In Due Time",
+      "url": "https://open.spotify.com/track/6RJwd1g1aVRSCBQW2PJxPq"
     },
     {
       "album": {
@@ -1345,7 +1385,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 218849,
       "name": "JOY (Meet Me In My Dreams)",
       "url": "https://open.spotify.com/track/6IVDsrrWgQgd4AmajSAlHk"
@@ -1367,7 +1407,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 164874,
       "name": "Joyfulness - Radio Edit",
       "url": "https://open.spotify.com/track/1AUYOL4vebY2yB5aVYzHZH"
@@ -1415,7 +1455,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187194,
       "name": "Keep Me In The Dark (feat. Jim Junior)",
       "url": "https://open.spotify.com/track/5Fl1yyPJsMDV6n1if3LQVc"
@@ -1553,7 +1593,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 155525,
       "name": "LIFE",
       "url": "https://open.spotify.com/track/2OOb0wDmLyyhC2ViXembbS"
@@ -1615,7 +1655,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-06",
+      "date_removed": null,
       "duration_ms": 249933,
       "name": "Live Like We\u2019re Dancing (with Georgia)",
       "url": "https://open.spotify.com/track/1A58KC4dEQM53muqpaZoOT"
@@ -1751,7 +1791,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 357936,
       "name": "More Than A Woman - SG's Paradise Edit",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J"
@@ -1885,7 +1925,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 219083,
       "name": "Nobody Scared",
       "url": "https://open.spotify.com/track/0XW3UfxGKohQPt7FxaCuHU"
@@ -1925,7 +1965,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 196182,
       "name": "One More (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5bZlKUqFIf0uM3MW03bhlG"
@@ -1965,7 +2005,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 208932,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/5yytwVZPUCRxeXPSTPdCUX"
@@ -2121,7 +2161,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 215859,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/0O4VpHZ2xeqwerV5lWbvif"
@@ -2139,7 +2179,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 259146,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/0BeR2mw32K0N5PrtRxWrZl"
@@ -2233,7 +2273,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217768,
       "name": "Skylab District",
       "url": "https://open.spotify.com/track/5N9ORjMVySSfAbW3NbEHeX"
@@ -2269,7 +2309,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217380,
       "name": "So Close Now",
       "url": "https://open.spotify.com/track/1P5WxDUWkG5xwgbnTn4i21"
@@ -2309,7 +2349,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 232062,
       "name": "So High (feat. Maths Time Joy)",
       "url": "https://open.spotify.com/track/6dJjTYKHnGWsoEciR4F2YL"
@@ -2397,7 +2437,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 186521,
       "name": "Sun",
       "url": "https://open.spotify.com/track/2XeMs4PwZv6nkRUJUJXJO0"
@@ -2455,10 +2495,32 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 215979,
       "name": "The Last Time I Saw You",
       "url": "https://open.spotify.com/track/6gHcbKtydW4jO5scP8J0qn"
+    },
+    {
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/07CD9VfwrsTglHLMQGohBT"
+      },
+      "artists": [
+        {
+          "name": "Aonair",
+          "url": "https://open.spotify.com/artist/6soC4hjokac6GbBiiJEQ57"
+        },
+        {
+          "name": "Caoi De Barra",
+          "url": "https://open.spotify.com/artist/3uCUliGLxC72lpRordFyuH"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221760,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/7xpSlt90FIiu0yl9q7ZZFx"
     },
     {
       "album": {
@@ -2535,7 +2597,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 252693,
       "name": "U Already Know",
       "url": "https://open.spotify.com/track/5sUWfe7eSoapj9d6zgjJEe"
@@ -2553,7 +2615,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 250485,
       "name": "U Never Know",
       "url": "https://open.spotify.com/track/6ngfBeWnkydrBRrhqvxiXu"
@@ -2695,7 +2757,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 274000,
       "name": "What I Wanted",
       "url": "https://open.spotify.com/track/5dC6qFGuR0K6sestrISXcv"
@@ -2713,7 +2775,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 272231,
       "name": "Why?",
       "url": "https://open.spotify.com/track/04wkYeLXejtH879CwgX3bR"
@@ -2735,7 +2797,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"

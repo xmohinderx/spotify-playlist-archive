@@ -7310,6 +7310,28 @@
     },
     {
       "album": {
+        "name": "Live or Die",
+        "url": "https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Lil Xan",
+          "url": "https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194253,
+      "name": "Live or Die",
+      "url": "https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD"
+    },
+    {
+      "album": {
         "name": "Live to Survive",
         "url": "https://open.spotify.com/album/4Bw8gXuaXOEFf5XEMMyIXl"
       },

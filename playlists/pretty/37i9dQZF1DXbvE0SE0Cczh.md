@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 > From new retro to classic country blues, honky tonk, rockabilly, and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,977 likes - 53 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,975 likes - 53 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

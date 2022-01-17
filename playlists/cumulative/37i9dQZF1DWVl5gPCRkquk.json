@@ -182,6 +182,24 @@
     },
     {
       "album": {
+        "name": "Ashes and Leaves",
+        "url": "https://open.spotify.com/album/3W5igH7osnheDaB6nivsaL"
+      },
+      "artists": [
+        {
+          "name": "Kirby Brown",
+          "url": "https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Ashes and Leaves",
+      "url": "https://open.spotify.com/track/64q6TPp4OacNHu9gulAXsv"
+    },
+    {
+      "album": {
         "name": "The Fire Never Dies",
         "url": "https://open.spotify.com/album/6Qz8VEatH6nwsvIEB7vDk8"
       },
@@ -323,7 +341,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 215453,
       "name": "Carry",
       "url": "https://open.spotify.com/track/1aJsXPeKKQsTlKhff3uKo5"
@@ -359,7 +377,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187388,
       "name": "Certainty",
       "url": "https://open.spotify.com/track/10DoOnXIHg8Zn3Iucy8Tmu"
@@ -377,7 +395,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 295454,
       "name": "Change",
       "url": "https://open.spotify.com/track/3Nk3CL1Z73VMydXFCfnTcI"
@@ -413,7 +431,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 114120,
       "name": "Crater Lake",
       "url": "https://open.spotify.com/track/1lat1ihaU57L6V7s15SQXz"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 217275,
       "name": "Dissolving",
       "url": "https://open.spotify.com/track/5P3JJGeG536cS1ciDnJsCk"
@@ -757,7 +775,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 217997,
       "name": "Field Notes on an Endless Day",
       "url": "https://open.spotify.com/track/3DCBRhUy3ypOvOTSgHIhky"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 186533,
       "name": "Harriet",
       "url": "https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 217400,
       "name": "Home Truths",
       "url": "https://open.spotify.com/track/4uqEvq2EYdXLYT1M19Wfe3"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 237985,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/3FblHhMLjyL9G8Gtqhe45y"
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 182746,
       "name": "Jah Werx",
       "url": "https://open.spotify.com/track/0V6qGMcs3HocgP1Cwk8SkI"
@@ -1533,7 +1551,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 223438,
       "name": "Mr. Rodriguez",
       "url": "https://open.spotify.com/track/1EwOzBNrUVW4Llnnc5YxXI"
@@ -1659,7 +1677,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212471,
       "name": "Not a Number",
       "url": "https://open.spotify.com/track/3BZj98tFgveomZpZVboqRs"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 255978,
       "name": "Peaceful Ambassador",
       "url": "https://open.spotify.com/track/7wY1vzDUjDiuyq0N7otph4"
@@ -2003,6 +2021,24 @@
       "duration_ms": 249560,
       "name": "Shenandoah Shakedown",
       "url": "https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR"
+    },
+    {
+      "album": {
+        "name": "Magic Fire",
+        "url": "https://open.spotify.com/album/0X8Ol2szBcUSf3phKT2IBf"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265560,
+      "name": "Shining in the Distance",
+      "url": "https://open.spotify.com/track/7zVCsUqv1axiLwZ4YSDksc"
     },
     {
       "album": {
@@ -2363,7 +2399,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 201388,
       "name": "Unraveling",
       "url": "https://open.spotify.com/track/5adFBGlU7UubGUPVUpEljl"

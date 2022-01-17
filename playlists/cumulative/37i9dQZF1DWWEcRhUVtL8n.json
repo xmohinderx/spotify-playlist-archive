@@ -297,7 +297,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 196683,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b"
@@ -717,7 +717,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 155560,
       "name": "and it sounds like (ice cream)",
       "url": "https://open.spotify.com/track/29OFcHc0kWNGMYgs6OWZuN"
@@ -1205,7 +1205,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 178150,
       "name": "Bad Dream Baby",
       "url": "https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW"
@@ -1695,6 +1695,24 @@
         {
           "name": "AVIV",
           "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144392,
+      "name": "Black Coffee",
+      "url": "https://open.spotify.com/track/5XFnuOu9ReQ1BjyV7qUxqU"
+    },
+    {
+      "album": {
+        "name": "Black Coffee (feat. OCTAVIO the Dweeb)",
+        "url": "https://open.spotify.com/album/0KONPUiVqapPUbrdYSsGvV"
+      },
+      "artists": [
+        {
+          "name": "AVIV",
+          "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
         },
         {
           "name": "OCTAVIO the Dweeb",
@@ -1757,7 +1775,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 166248,
       "name": "Blondes",
       "url": "https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m"
@@ -2461,7 +2479,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 223800,
       "name": "Can I Leave Me Too?",
       "url": "https://open.spotify.com/track/7gJNP36MQMaE3HyyKkwgAO"
@@ -4349,7 +4367,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 200701,
       "name": "drinking games",
       "url": "https://open.spotify.com/track/1uE4onkFvDXyBjIGsu9PZ5"
@@ -4807,7 +4825,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-10",
+      "date_removed": null,
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
@@ -5063,7 +5081,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 146306,
       "name": "Feels So Easy",
       "url": "https://open.spotify.com/track/671QGJAMRtE5Gtaa3T8GV4"
@@ -5511,7 +5529,7 @@
       ],
       "date_added": "2021-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 209748,
       "name": "Games",
       "url": "https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG"
@@ -5695,7 +5713,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 192280,
       "name": "GIRL ON TV",
       "url": "https://open.spotify.com/track/6SnE7mmmYVpvd3QRkpKyXe"
@@ -5843,7 +5861,7 @@
       ],
       "date_added": "2021-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174680,
       "name": "Gone (with Jensen McRae)",
       "url": "https://open.spotify.com/track/4r2dg3p484bp0XUoB88P3b"
@@ -5915,7 +5933,7 @@
       ],
       "date_added": "2020-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 215402,
       "name": "Good Girls (Don't Get Used)",
       "url": "https://open.spotify.com/track/4ASZdm6CLLu0BnId42l5Gz"
@@ -6171,7 +6189,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 191830,
       "name": "happy for me",
       "url": "https://open.spotify.com/track/5xb35zCNGaD9XuZtp4PZCv"
@@ -6919,7 +6937,7 @@
       ],
       "date_added": "2021-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 165533,
       "name": "i deserve 2 b alone",
       "url": "https://open.spotify.com/track/2NKvrozwURLPXnj3chhnfD"
@@ -7009,7 +7027,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195190,
       "name": "I Don't Wanna Talk (I Just Wanna Dance)",
       "url": "https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt"
@@ -7121,10 +7139,32 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 222786,
       "name": "I Love You But I Love Me More (feat. Beach Bunny)",
       "url": "https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8"
+    },
+    {
+      "album": {
+        "name": "I Love You So (King Henry Remix)",
+        "url": "https://open.spotify.com/album/7mGp8czi0fTiBsg7xq6wMD"
+      },
+      "artists": [
+        {
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        },
+        {
+          "name": "King Henry",
+          "url": "https://open.spotify.com/artist/4IbUky1dWqlyVlMMTJXPI5"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "I Love You So - King Henry Remix",
+      "url": "https://open.spotify.com/track/0F6XcWEzymSracgq12pOXX"
     },
     {
       "album": {
@@ -7573,7 +7613,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 210175,
       "name": "If You Ever Leave, I'm Coming with You - Roosevelt Remix",
       "url": "https://open.spotify.com/track/30k5z3e9VqlkfJuW4cYqvW"
@@ -7609,7 +7649,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 319370,
       "name": "If You\u2019re Too Shy (Let Me Know)",
       "url": "https://open.spotify.com/track/1n4vgMWmmNlXrvyxQFhUEl"
@@ -8793,7 +8833,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 190226,
       "name": "Lost in Translation",
       "url": "https://open.spotify.com/track/5TUZhrb8UaaA76NhzZax2Z"
@@ -9543,7 +9583,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 168542,
       "name": "MESS U MADE",
       "url": "https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH"
@@ -10195,7 +10235,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
@@ -10275,7 +10315,7 @@
       ],
       "date_added": "2021-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-23",
+      "date_removed": null,
       "duration_ms": 130575,
       "name": "no friends (feat. spill tab & MIA GLADSTONE)",
       "url": "https://open.spotify.com/track/0c5eyxgiDJGS48ZCfmLabb"
@@ -10365,7 +10405,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 186417,
       "name": "Nobody Has To Know",
       "url": "https://open.spotify.com/track/2fQE3IKIgFAuUsuD4rWvjq"
@@ -10405,7 +10445,7 @@
       ],
       "date_added": "2021-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-14",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/0HOyjfrsAUktL1MeMxP9Fo"
@@ -10827,6 +10867,24 @@
       "duration_ms": 193293,
       "name": "OK",
       "url": "https://open.spotify.com/track/0APAKxMXB7jdDs4kw1l30y"
+    },
+    {
+      "album": {
+        "name": "Ok on My Own",
+        "url": "https://open.spotify.com/album/4U7hgHFYrPFSDWhSGk9Rkx"
+      },
+      "artists": [
+        {
+          "name": "Comfort Club",
+          "url": "https://open.spotify.com/artist/21G9CpO300CeQxXo8R3FXw"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Ok on My Own",
+      "url": "https://open.spotify.com/track/76gAbSOSA7zC1w90wOWGAW"
     },
     {
       "album": {
@@ -11391,7 +11449,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 175263,
       "name": "Peachi",
       "url": "https://open.spotify.com/track/4ZyxpYxjhjl3Eh0EQ2ssv1"
@@ -11535,7 +11593,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 179363,
       "name": "PINCH ME",
       "url": "https://open.spotify.com/track/1VkM4OtAnNtJa6XBT3SHR6"
@@ -11687,7 +11745,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 230533,
       "name": "poppin",
       "url": "https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK"
@@ -11763,7 +11821,7 @@
       ],
       "date_added": "2021-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 281026,
       "name": "Pretty Places - St. Lucia Remix",
       "url": "https://open.spotify.com/track/0JYR0lyLlDinGYd2XDMXmO"
@@ -11893,7 +11951,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9"
@@ -12907,7 +12965,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174826,
       "name": "Sex Tape",
       "url": "https://open.spotify.com/track/57rOrYZq3UmlRnww6XOftv"
@@ -13109,7 +13167,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-25",
+      "date_removed": null,
       "duration_ms": 168199,
       "name": "Sleepover",
       "url": "https://open.spotify.com/track/1X0oGnw7yE9fZUeKUdrYFg"
@@ -13271,7 +13329,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 178697,
       "name": "Soft",
       "url": "https://open.spotify.com/track/4E6ip8v7Fl9iGXFBKWMrgM"
@@ -13409,7 +13467,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 114320,
       "name": "Something",
       "url": "https://open.spotify.com/track/3CzfTl1RSsQ6jnxKZmsJMe"
@@ -13605,7 +13663,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 131408,
       "name": "spinnin",
       "url": "https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm"
@@ -13667,7 +13725,7 @@
       ],
       "date_added": "2021-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 164165,
       "name": "Sports",
       "url": "https://open.spotify.com/track/77G0k1La0c5Dw8bAFANcyp"

@@ -1,12 +1,12 @@
 {
   "description": "The latest and greatest metal tracks. Cover: Shadow of Intent",
   "name": "All New Metal",
-  "num_followers": 565225,
+  "num_followers": 565445,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjExODQ2MCwwMDAwMDRkNzAwMDAwMTdlNTVlMzMyYjQwMDAwMDE3ZTUzYjY3MDc4",
+  "snapshot_id": "MTY0MjQ0NjI1NywwMDAwMDRkODAwMDAwMTdlNjk2Y2ZkYjIwMDAwMDE3ZTUzYjY3MDc4",
   "tracks": [
     {
       "added_at": "2022-01-14 00:01:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-01-14 00:01:00",
       "album": {
-        "name": "Standing My Ground",
-        "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
-      },
-      "artists": [
-        {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
-        }
-      ],
-      "duration_ms": 168913,
-      "name": "Standing My Ground",
-      "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
-    },
-    {
-      "added_at": "2022-01-14 00:01:00",
-      "album": {
         "name": "Death",
         "url": "https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1"
       },
@@ -83,22 +67,6 @@
     {
       "added_at": "2022-01-14 00:01:00",
       "album": {
-        "name": "Voyeurist",
-        "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "We\u2019re All Gonna Die",
-      "url": "https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC"
-    },
-    {
-      "added_at": "2022-01-14 00:01:00",
-      "album": {
         "name": "OKURA",
         "url": "https://open.spotify.com/album/2rDMm5iwNGYt12LXvRGlyN"
       },
@@ -111,6 +79,38 @@
       "duration_ms": 242445,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3gDw8qWNBNbKR2dKTmAEB5"
+    },
+    {
+      "added_at": "2022-01-14 00:01:00",
+      "album": {
+        "name": "Standing My Ground",
+        "url": "https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs"
+      },
+      "artists": [
+        {
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+        }
+      ],
+      "duration_ms": 168913,
+      "name": "Standing My Ground",
+      "url": "https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM"
+    },
+    {
+      "added_at": "2022-01-14 00:01:00",
+      "album": {
+        "name": "Voyeurist",
+        "url": "https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f"
+      },
+      "artists": [
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "We\u2019re All Gonna Die",
+      "url": "https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC"
     },
     {
       "added_at": "2022-01-14 00:01:00",

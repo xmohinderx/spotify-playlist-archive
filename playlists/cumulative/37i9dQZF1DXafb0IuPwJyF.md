@@ -71,6 +71,7 @@
 | [大好物](https://open.spotify.com/track/3W4yKXVQ2BPWUZT8gsCf7W) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [大好物](https://open.spotify.com/album/6crN5g09Zh5aLpWuNxXUjx) | 4:08 | 2021-12-19 | 2022-01-17 |
 | [好きだった \(はずだった\)](https://open.spotify.com/track/2ZwuYASDCCauXmgs1xpho2) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:35 | 2022-01-16 |  |
 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 | 2021-12-19 |  |
+| [心という名の不可解](https://open.spotify.com/track/1kcerYweNf9GcvSgl7BX1N) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [心という名の不可解](https://open.spotify.com/album/5xw5NJYz0Hc3OlBVtlbH78) | 4:29 | 2022-01-17 |  |
 | [愛しき日々の真ん中で](https://open.spotify.com/track/5f0N60WTFye6mIxkIRPuBM) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [愛しき日々の真ん中で](https://open.spotify.com/album/3XgZuMvhqbj1yCTrG3MXHt) | 3:22 | 2021-12-19 |  |
 | [懐かしい未来](https://open.spotify.com/track/4OTQvDPW8XJjeEsoOZfshH) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [懐かしい未来](https://open.spotify.com/album/7o6kGhMgko5YrmQOK1L4op) | 4:33 | 2022-01-02 | 2022-01-08 |
 | [新呼吸](https://open.spotify.com/track/6AQfpBDkerfo3AWJUMr7ND) | [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ) | [新呼吸](https://open.spotify.com/album/6ZWyL8ksiCKbmtUkyIgnfy) | 3:38 | 2021-12-19 | 2022-01-03 |
@@ -86,7 +87,7 @@
 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 | 2022-01-16 |  |
 | [運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [飛行する君と僕のために/運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/album/1Y8hbSqsXHLtd8DWBAnSW3) | 3:37 | 2021-12-26 | 2022-01-10 |
 | [邦画](https://open.spotify.com/track/4zfsk7inEPq0PawGyU6oHi) | [Indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [邦画](https://open.spotify.com/album/6GFIx1kaT0aD0qLSWCdtRc) | 3:17 | 2021-12-19 |  |
-| [阿修羅ちゃん](https://open.spotify.com/track/4lEk6fyJu7LLPenqL0Raj5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [阿修羅ちゃん](https://open.spotify.com/album/1VROw3eYJslM2bVEkR5Lnm) | 3:16 | 2022-01-07 |  |
+| [阿修羅ちゃん](https://open.spotify.com/track/4lEk6fyJu7LLPenqL0Raj5) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [阿修羅ちゃん](https://open.spotify.com/album/1VROw3eYJslM2bVEkR5Lnm) | 3:16 | 2022-01-07 | 2022-01-17 |
 | [魔法の歌](https://open.spotify.com/track/1ahSmZww75M4DOKibyaYYp) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [PEOPLE](https://open.spotify.com/album/4YPqs1YcZZmjKTU7afRK1f) | 3:51 | 2021-12-19 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

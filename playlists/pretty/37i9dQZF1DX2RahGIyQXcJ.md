@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Featuring today's dopest Desi MCs from across the globe\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,539 likes - 69 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,607 likes - 69 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

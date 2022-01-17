@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: MAX CHANGMIN",
+  "description": "Future K-Pop hits! Cover: AB6IX",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -121,6 +121,24 @@
       "duration_ms": 209253,
       "name": "1 Billion Views",
       "url": "https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL"
+    },
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212415,
+      "name": "1, 2, 3",
+      "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
     },
     {
       "album": {
@@ -431,7 +449,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 181280,
       "name": "ANI(feat.SOYEON ((G)I-DLE))",
       "url": "https://open.spotify.com/track/3l1xBiDVRNJHTx4WvITGfs"
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198653,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5n1tIwuiCnsNWrJvBSpENm"
@@ -1269,6 +1287,24 @@
       "duration_ms": 209786,
       "name": "Calm & Passion",
       "url": "https://open.spotify.com/track/2Tnh9ZwCtdR1Zd21RNDGVX"
+    },
+    {
+      "album": {
+        "name": "Can't Control Myself",
+        "url": "https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Can't Control Myself",
+      "url": "https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh"
     },
     {
       "album": {
@@ -1507,7 +1543,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 150053,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
@@ -5199,7 +5235,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211266,
       "name": "Need U",
       "url": "https://open.spotify.com/track/0X6aEz0mOzdxz3kNf6Pyly"
@@ -6239,7 +6275,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 220075,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/5bsCLjbCjUN4Jr64D6axKW"
@@ -6311,7 +6347,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 241360,
       "name": "Rolling Rolling",
       "url": "https://open.spotify.com/track/2C0JYaMElHcXV91oOhinzQ"
@@ -8089,7 +8125,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
@@ -8867,7 +8903,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"

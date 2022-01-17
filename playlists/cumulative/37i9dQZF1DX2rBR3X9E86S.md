@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2rBR3X9E86S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2rBR3X9E86S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2rBR3X9E86S)
 
-### [This Is The Black Keys](https://open.spotify.com/playlist/2UwBYpgJZ0E7dCO3ToQZjJ)
+### [This Is The Black Keys \(2\)](https://open.spotify.com/playlist/2UwBYpgJZ0E7dCO3ToQZjJ)
 
 > One of the most iconic bands of recent time\. Here is the best of The Black Keys.
 

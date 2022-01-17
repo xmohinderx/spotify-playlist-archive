@@ -1,12 +1,12 @@
 {
   "description": "A collection of rock's best power ballads.",
   "name": "Power Ballads",
-  "num_followers": 1017243,
+  "num_followers": 1017426,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjM4MDMxOCwwMDAwMDAwMDg2YmQ2OWM5ZTQ4NDUwYjczODQ0Yjk4N2NiNjAxZGVk",
+  "snapshot_id": "MTY0MjQ1ODI0NCwwMDAwMDAwMDdlNDZiZTY5NjU1NTIyZWIzNmZkNGM1OWEyNDBlMjAy",
   "tracks": [
     {
       "added_at": "2020-04-30 23:42:52",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Third Stage",
-        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Amanda",
-      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
         "name": "New Jersey",
         "url": "https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv"
       },
@@ -75,66 +59,18 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
+        "name": "Third Stage",
+        "url": "https://open.spotify.com/album/3ZjhhUHc4jFc6ZOTchjXsv"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "1987 (2007 Remaster)",
-        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 270160,
-      "name": "Here I Go Again 87 - 2007 Remastered Version",
-      "url": "https://open.spotify.com/track/3rdxvEfBp86WNcRDLaFEk9"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Lap Of Luxury",
-        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
-      },
-      "artists": [
-        {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
-        }
-      ],
-      "duration_ms": 338800,
-      "name": "The Flame",
-      "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+      "duration_ms": 256200,
+      "name": "Amanda",
+      "url": "https://open.spotify.com/track/4gpext9x0CbdD9NWaa4nDj"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -155,88 +91,8 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Hold Your Fire",
-        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
-      },
-      "artists": [
-        {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
-        }
-      ],
-      "duration_ms": 239866,
-      "name": "When I Look Into Your Eyes",
-      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Extreme II - Pornograffitti",
-        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
-      },
-      "artists": [
-        {
-          "name": "Extreme",
-          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
-        }
-      ],
-      "duration_ms": 334106,
-      "name": "More Than Words",
-      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 288933,
-      "name": "Never Say Goodbye",
-      "url": "https://open.spotify.com/track/47jkSOZX6hFbTQoFgCKAQE"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
-      },
-      "artists": [
-        {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
-        }
-      ],
-      "duration_ms": 287320,
-      "name": "High Enough",
-      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Brigade",
-        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+        "name": "Bad Animals",
+        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
       },
       "artists": [
         {
@@ -244,9 +100,25 @@
           "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 310893,
-      "name": "All I Wanna Do Is Make Love To You",
-      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
+      "duration_ms": 218733,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -267,40 +139,40 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Greatest Hits (EU Version)",
+        "url": "https://open.spotify.com/album/32OnHglDZr3RRIAyDVoApX"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 536960,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/614dpc6m0q6YGFmGchFGx1"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Destroyer (Remastered Version)",
-        "url": "https://open.spotify.com/album/2oPeCzPDtjkm2Ux5r7edAb"
+        "name": "Lap Of Luxury",
+        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
         }
       ],
-      "duration_ms": 165666,
-      "name": "Beth",
-      "url": "https://open.spotify.com/track/6LqTX4iiSCEQZxFTOmuYPQ"
+      "duration_ms": 338800,
+      "name": "The Flame",
+      "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Firehouse",
-        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/5XUrP0lz9D0I8qkly4uvQy"
       },
       "artists": [
         {
@@ -308,57 +180,9 @@
           "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 286573,
-      "name": "Love of a Lifetime",
-      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "1987 (2007 Remaster)",
-        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275760,
-      "name": "Is This Love - 2007 Remastered Version",
-      "url": "https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Lean Into It [Expanded]",
-        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Just Take My Heart - 2010 Remastered Version",
-      "url": "https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
+      "duration_ms": 239866,
+      "name": "When I Look Into Your Eyes",
+      "url": "https://open.spotify.com/track/1yJWqYYDQge60nZKdLyiZU"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -379,34 +203,50 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Dirty Rotten Filthy Stinking Rich",
-        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol"
       },
       "artists": [
         {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 236866,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+      "duration_ms": 288933,
+      "name": "Never Say Goodbye",
+      "url": "https://open.spotify.com/track/47jkSOZX6hFbTQoFgCKAQE"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 258600,
-      "name": "When the Children Cry",
-      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "1987 (2007 Remaster)",
+        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275760,
+      "name": "Is This Love - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -427,162 +267,18 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
         }
       ],
-      "duration_ms": 346960,
-      "name": "Love Bites - Remastered 2017",
-      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "If You Needed Somebody",
-      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
-    },
-    {
-      "added_at": "2021-07-23 17:20:09",
-      "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208080,
-      "name": "To Be With You - 2021 Remastered",
-      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "No End in Sight: The Very Best of Foreigner",
-        "url": "https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 295480,
-      "name": "I Want to Know What Love Is - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Don't Know What You Got (Till It's Gone)",
-      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Greatest Hits (EU Version)",
-        "url": "https://open.spotify.com/album/32OnHglDZr3RRIAyDVoApX"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536960,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/614dpc6m0q6YGFmGchFGx1"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 252613,
-      "name": "The Search Is Over",
-      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "Love Walks In",
-      "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
+      "duration_ms": 310893,
+      "name": "All I Wanna Do Is Make Love To You",
+      "url": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -603,82 +299,114 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Crazy World",
-        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0"
       },
       "artists": [
         {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 313226,
-      "name": "Wind Of Change",
-      "url": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw"
+      "duration_ms": 202173,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Let There Be Rock",
-        "url": "https://open.spotify.com/album/7DHKPiH9WPxdZ6IdmJpk9O"
+        "name": "Destroyer (Remastered Version)",
+        "url": "https://open.spotify.com/album/2oPeCzPDtjkm2Ux5r7edAb"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 285373,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/2RoSKL25qgYDa6P2hqQmQQ"
+      "duration_ms": 165666,
+      "name": "Beth",
+      "url": "https://open.spotify.com/track/6LqTX4iiSCEQZxFTOmuYPQ"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Good Acoustics",
-        "url": "https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
       "artists": [
         {
-          "name": "Firehouse",
-          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 261906,
-      "name": "I Live My Life for You",
-      "url": "https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON"
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Edge Of The Century",
-        "url": "https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4"
       },
       "artists": [
         {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 277173,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD"
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Alias",
-        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
+        "name": "1987 (2007 Remaster)",
+        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
       },
       "artists": [
         {
-          "name": "Alias",
-          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
         }
       ],
-      "duration_ms": 234196,
-      "name": "More Than Words Can Say",
-      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
+      "duration_ms": 270160,
+      "name": "Here I Go Again 87 - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/3rdxvEfBp86WNcRDLaFEk9"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+      },
+      "artists": [
+        {
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+        }
+      ],
+      "duration_ms": 287320,
+      "name": "High Enough",
+      "url": "https://open.spotify.com/track/5t5rCnsgRBtcKqTB7SbD1Q"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -699,6 +427,102 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Don't Know What You Got (Till It's Gone)",
+      "url": "https://open.spotify.com/track/3vPrFUtWpKT9oNW94NDDEW"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "No End in Sight: The Very Best of Foreigner",
+        "url": "https://open.spotify.com/album/4VRXqPaa2ZTwC2AG364RWO"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 295480,
+      "name": "I Want to Know What Love Is - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5DeXQ3qADuDmqsosnZAK3o"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Alias",
+        "url": "https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF"
+      },
+      "artists": [
+        {
+          "name": "Alias",
+          "url": "https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ"
+        }
+      ],
+      "duration_ms": 234196,
+      "name": "More Than Words Can Say",
+      "url": "https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Firehouse",
+        "url": "https://open.spotify.com/album/1qO6xwjpMSZ5qLexoXs43T"
+      },
+      "artists": [
+        {
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
+        }
+      ],
+      "duration_ms": 286573,
+      "name": "Love of a Lifetime",
+      "url": "https://open.spotify.com/track/2kDH08boXJyhKMl5hnZbrE"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Lean Into It [Expanded]",
+        "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Just Take My Heart - 2010 Remastered Version",
+      "url": "https://open.spotify.com/track/7mqqMOgnRE50GOJFPxRF8x"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
         "name": "In The Heart Of The Young",
         "url": "https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs"
       },
@@ -711,70 +535,6 @@
       "duration_ms": 252866,
       "name": "Miles Away",
       "url": "https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "ZZ Top's Greatest Hits",
-        "url": "https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Rough Boy",
-      "url": "https://open.spotify.com/track/7Be81Zrxv29TyFJEPPyf8h"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "The Lizard",
-        "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
-      },
-      "artists": [
-        {
-          "name": "Saigon Kick",
-          "url": "https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d"
-        }
-      ],
-      "duration_ms": 264173,
-      "name": "Love Is on the Way",
-      "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria - Remastered 2017",
-      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -795,8 +555,56 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 354636,
+      "name": "Hysteria - Remastered 2017",
+      "url": "https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/7DHKPiH9WPxdZ6IdmJpk9O"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/2RoSKL25qgYDa6P2hqQmQQ"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 252613,
+      "name": "The Search Is Over",
+      "url": "https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
       "artists": [
         {
@@ -804,25 +612,89 @@
           "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+      "duration_ms": 258600,
+      "name": "When the Children Cry",
+      "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "WAIT",
-        "url": "https://open.spotify.com/album/6p3T3xQw03nDDBTt6TbLpx"
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
       },
       "artists": [
         {
-          "name": "STEELHEART",
-          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 309186,
-      "name": "WE ALL DIE YOUNG",
-      "url": "https://open.spotify.com/track/0QTITeLFPONXy8qzJQk4Kt"
+      "duration_ms": 310933,
+      "name": "Love Walks In",
+      "url": "https://open.spotify.com/track/6FRQGRdhueJGTKiYnirDNy"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Crazy World",
+        "url": "https://open.spotify.com/album/4mGV3pZqcrUk0OSC8HBT96"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 313226,
+      "name": "Wind Of Change",
+      "url": "https://open.spotify.com/track/6wjSNO6uJYlgbbfauyWhiw"
+    },
+    {
+      "added_at": "2021-07-23 17:20:09",
+      "album": {
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208080,
+      "name": "To Be With You - 2021 Remastered",
+      "url": "https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Dirty Rotten Filthy Stinking Rich",
+        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 236866,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/2dEgwtRjYl6TJkIwjRwn6z"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -843,66 +715,18 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Whitesnake's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+        "name": "WAIT",
+        "url": "https://open.spotify.com/album/6p3T3xQw03nDDBTt6TbLpx"
       },
       "artists": [
         {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
         }
       ],
-      "duration_ms": 262560,
-      "name": "The Deeper the Love",
-      "url": "https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Dr Feelgood",
-        "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 279933,
-      "name": "Don't Go Away Mad (Just Go Away)",
-      "url": "https://open.spotify.com/track/1YfnuJROv0PeLyvrQQK78N"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Rocked, Wired & Bluesed: The Greatest Hits",
-        "url": "https://open.spotify.com/album/0o1sbpqLUru2Qrwo1CseDp"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 268986,
-      "name": "Heartbreak Station",
-      "url": "https://open.spotify.com/track/1nWBkfPwFn4bHrCvIjxIB8"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "The Great Radio Controversy",
-        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
-      },
-      "artists": [
-        {
-          "name": "Tesla",
-          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
-        }
-      ],
-      "duration_ms": 323360,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
+      "duration_ms": 309186,
+      "name": "WE ALL DIE YOUNG",
+      "url": "https://open.spotify.com/track/0QTITeLFPONXy8qzJQk4Kt"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -923,66 +747,82 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1"
+        "name": "Edge Of The Century",
+        "url": "https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
         }
       ],
-      "duration_ms": 308266,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/46ERhnELy62toOMlxe14a3"
+      "duration_ms": 277173,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
         }
       ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - Remastered",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+      "duration_ms": 261000,
+      "name": "If You Needed Somebody",
+      "url": "https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+        "name": "Rocked, Wired & Bluesed: The Greatest Hits",
+        "url": "https://open.spotify.com/album/0o1sbpqLUru2Qrwo1CseDp"
       },
       "artists": [
         {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 279066,
-      "name": "Every Time I Look At You",
-      "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
+      "duration_ms": 268986,
+      "name": "Heartbreak Station",
+      "url": "https://open.spotify.com/track/1nWBkfPwFn4bHrCvIjxIB8"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Detonator",
-        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
+        "name": "Good Acoustics",
+        "url": "https://open.spotify.com/album/58YDbRSyKuN0hUAPBS7Ywv"
       },
       "artists": [
         {
-          "name": "Ratt",
-          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+          "name": "Firehouse",
+          "url": "https://open.spotify.com/artist/28pS8WVbFstY0o1SrqCf8I"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Givin' Yourself Away",
-      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
+      "duration_ms": 261906,
+      "name": "I Live My Life for You",
+      "url": "https://open.spotify.com/track/47RAxX2yfiZWmsNKLvjQON"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "The Lizard",
+        "url": "https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ"
+      },
+      "artists": [
+        {
+          "name": "Saigon Kick",
+          "url": "https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d"
+        }
+      ],
+      "duration_ms": 264173,
+      "name": "Love Is on the Way",
+      "url": "https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1003,18 +843,50 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 279066,
+      "name": "Every Time I Look At You",
+      "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Whitesnake's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z5nu6FcdcWtmzvQ7uK0qJ"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Deeper the Love",
+      "url": "https://open.spotify.com/track/2lESR3q3ZdMYKHYsdfK4rz"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1035,178 +907,18 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 388426,
-      "name": "What It Takes",
-      "url": "https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Steelheart",
-        "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
-      },
-      "artists": [
-        {
-          "name": "STEELHEART",
-          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
-        }
-      ],
-      "duration_ms": 306560,
-      "name": "I'll Never Let You Go",
-      "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/3NMrFNUronZFe2m5JsKfl2"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Tooth and Nail",
-        "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "The Headless Children",
-        "url": "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 308593,
-      "name": "Forever Free",
-      "url": "https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "What About Love?",
-      "url": "https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
-      },
-      "artists": [
-        {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/63IItP7504rQwYgZqmsznL"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 266960,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/6olpeE5qTK6hkzN8PhwEBM"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/78PKCefXwDLbl4FVO1Pjzh"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Dr Feelgood",
-        "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 268902,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/6BCGNM6wYG0SpXBlTpYkiS"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
-      },
-      "artists": [
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
-        }
-      ],
-      "duration_ms": 286493,
-      "name": "Only My Heart Talkin'",
-      "url": "https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y"
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1227,18 +939,82 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/0DGiVv0CmN2elcLYSeiXPm"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 326826,
-      "name": "Til Death Do Us Part",
-      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
+      "duration_ms": 295066,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/3NMrFNUronZFe2m5JsKfl2"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "The Great Radio Controversy",
+        "url": "https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM"
+      },
+      "artists": [
+        {
+          "name": "Tesla",
+          "url": "https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU"
+        }
+      ],
+      "duration_ms": 323360,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - Remastered",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "ZZ Top's Greatest Hits",
+        "url": "https://open.spotify.com/album/20ZZfEgbODMenFN8EKlVFh"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Rough Boy",
+      "url": "https://open.spotify.com/track/7Be81Zrxv29TyFJEPPyf8h"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1263,18 +1039,34 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Boogie Nights / Music From The Original Motion Picture",
-        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+        "name": "The Headless Children",
+        "url": "https://open.spotify.com/album/73tznjCvNu9tDQW5jcrglq"
       },
       "artists": [
         {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
         }
       ],
-      "duration_ms": 300066,
-      "name": "Sister Christian",
-      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
+      "duration_ms": 308593,
+      "name": "Forever Free",
+      "url": "https://open.spotify.com/track/2q8D48dCoOJHo4hSm6n1T1"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Tooth and Nail",
+        "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1295,130 +1087,18 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Dirty Rotten Filthy Stinking Rich",
-        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
       "artists": [
         {
-          "name": "Warrant",
-          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 283933,
-      "name": "Sometimes She Cries",
-      "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 229493,
-      "name": "The Price",
-      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Vital Signs",
-        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "I Can't Hold Back",
-      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "The Best Power Ballads (Sound & Vision)",
-        "url": "https://open.spotify.com/album/0MSaAtWyMLmPAO5LLJxpyU"
-      },
-      "artists": [
-        {
-          "name": "Nelson",
-          "url": "https://open.spotify.com/artist/5jJcbGPjjyEhAoU02ynHaA"
-        }
-      ],
-      "duration_ms": 247440,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/0JKelsd3xhPZNRO9hLwj8f"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Best Of The Quireboys",
-        "url": "https://open.spotify.com/album/5OoDXBpfbSFXZSErVKxdFt"
-      },
-      "artists": [
-        {
-          "name": "The Quireboys",
-          "url": "https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI"
-        }
-      ],
-      "duration_ms": 301746,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/0mtnI3YfDh3sNj8LgJacWu"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Harem Scarem",
-        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
-      },
-      "artists": [
-        {
-          "name": "Harem Scarem",
-          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Slave to the Grind",
-        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 348800,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L"
+      "duration_ms": 326826,
+      "name": "Til Death Do Us Part",
+      "url": "https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1432,41 +1112,25 @@
           "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
         }
       ],
-      "duration_ms": 392400,
-      "name": "She's Gone",
-      "url": "https://open.spotify.com/track/2fvObZjCzCF57MKmn1ePPO"
+      "duration_ms": 306560,
+      "name": "I'll Never Let You Go",
+      "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Night Songs",
-        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+        "name": "Dr Feelgood",
+        "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
       },
       "artists": [
         {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 287400,
-      "name": "Nobody's Fool",
-      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Damn Yankees",
-        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
-      },
-      "artists": [
-        {
-          "name": "Damn Yankees",
-          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
-        }
-      ],
-      "duration_ms": 339560,
-      "name": "Come Again",
-      "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
+      "duration_ms": 279933,
+      "name": "Don't Go Away Mad (Just Go Away)",
+      "url": "https://open.spotify.com/track/1YfnuJROv0PeLyvrQQK78N"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1487,6 +1151,214 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
+        "name": "Flesh & Blood",
+        "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 287533,
+      "name": "Life Goes On - Remastered",
+      "url": "https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Detonator",
+        "url": "https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Givin' Yourself Away",
+      "url": "https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "I Can't Hold Back",
+      "url": "https://open.spotify.com/track/46NtQJH1eok28bucLlHqQT"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 388426,
+      "name": "What It Takes",
+      "url": "https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308266,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/46ERhnELy62toOMlxe14a3"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Theatre of Pain",
+        "url": "https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Home Sweet Home",
+      "url": "https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "duration_ms": 286493,
+      "name": "Only My Heart Talkin'",
+      "url": "https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Dirty Rotten Filthy Stinking Rich",
+        "url": "https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Sometimes She Cries",
+      "url": "https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Harem Scarem",
+        "url": "https://open.spotify.com/album/2dJCA94x49HdrvyYsBxx5c"
+      },
+      "artists": [
+        {
+          "name": "Harem Scarem",
+          "url": "https://open.spotify.com/artist/6q72NwO3LCZ2WNKkDKy5va"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4NBxoKAY9PR2PdfNnmVRkN"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Sheriff",
+        "url": "https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V"
+      },
+      "artists": [
+        {
+          "name": "Sheriff",
+          "url": "https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d"
+        }
+      ],
+      "duration_ms": 238040,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 229493,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Damn Yankees",
+        "url": "https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX"
+      },
+      "artists": [
+        {
+          "name": "Damn Yankees",
+          "url": "https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq"
+        }
+      ],
+      "duration_ms": 339560,
+      "name": "Come Again",
+      "url": "https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
         "name": "Rock Me: The Best Of Great White",
         "url": "https://open.spotify.com/album/2TUjGbi6H75rcYGBFwe5f5"
       },
@@ -1499,6 +1371,54 @@
       "duration_ms": 278693,
       "name": "Save Your Love",
       "url": "https://open.spotify.com/track/28FVfrALlHSChnhD8jq8kd"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "In a Darkened Room",
+      "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0zM8rTVzPoT7SD4ZMds430"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/5nN1jGnCadYk1jYm6oV5zN"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Dr Feelgood",
+        "url": "https://open.spotify.com/album/4un307nFYL2FmJEy0GslW4"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 268902,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/6BCGNM6wYG0SpXBlTpYkiS"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1519,18 +1439,130 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Big Ones",
-        "url": "https://open.spotify.com/album/5IYNDR7BraRrltWJLefkuV"
+        "name": "Steelheart",
+        "url": "https://open.spotify.com/album/3jUqHgt6rAFx1D7Ck6Q5hw"
       },
       "artists": [
         {
-          "name": "Loverboy",
-          "url": "https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT"
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Heaven in Your Eyes",
-      "url": "https://open.spotify.com/track/1sMhhVoD3ExOFTeh70EqNe"
+      "duration_ms": 392400,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/2fvObZjCzCF57MKmn1ePPO"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Night Songs",
+        "url": "https://open.spotify.com/album/6Af1uU7Di8q9oHyXpgvrmY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/01Q4wU19hamqnhNjtuvTyI"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Boogie Nights / Music From The Original Motion Picture",
+        "url": "https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U"
+      },
+      "artists": [
+        {
+          "name": "Night Ranger",
+          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+        }
+      ],
+      "duration_ms": 300066,
+      "name": "Sister Christian",
+      "url": "https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Slave to the Grind",
+        "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 348800,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/4BAhIRDG9GNeMvcigDKF7L"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Cherry Pie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5TMMmKdys49eu6QSPC9sdB"
+      },
+      "artists": [
+        {
+          "name": "Warrant",
+          "url": "https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Blind Faith",
+      "url": "https://open.spotify.com/track/7Fmv4QiyAdMroX61cOPaGn"
+    },
+    {
+      "added_at": "2020-04-30 23:42:52",
+      "album": {
+        "name": "Backstreet Symphony",
+        "url": "https://open.spotify.com/album/2bPj257oLDCgCyDvPRGSvG"
+      },
+      "artists": [
+        {
+          "name": "Thunder",
+          "url": "https://open.spotify.com/artist/3SfrwwVPGtjYTI3vwQ4hEU"
+        }
+      ],
+      "duration_ms": 385400,
+      "name": "Love Walked In",
+      "url": "https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j"
     },
     {
       "added_at": "2020-04-30 23:42:52",
@@ -1551,66 +1583,34 @@
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Flesh & Blood",
-        "url": "https://open.spotify.com/album/7alngtync76VqYWSKxcBhB"
+        "name": "Oh! Darling",
+        "url": "https://open.spotify.com/album/3mzeYrRmSSnOjEvJaaZVR9"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 287533,
-      "name": "Life Goes On - Remastered",
-      "url": "https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh"
+      "duration_ms": 207146,
+      "name": "Oh! Darling - 2019 Mix",
+      "url": "https://open.spotify.com/track/0vCuYbvaN9wd8dA0LZ40i7"
     },
     {
       "added_at": "2020-04-30 23:42:52",
       "album": {
-        "name": "Mass Slaughter",
-        "url": "https://open.spotify.com/album/1PLl8ONmplOUyu5Bq8GYJL"
+        "name": "The Essential Survivor",
+        "url": "https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ"
       },
       "artists": [
         {
-          "name": "Slaughter",
-          "url": "https://open.spotify.com/artist/4ibNXJiMYOPibpS9DB9Qz3"
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
         }
       ],
-      "duration_ms": 231466,
-      "name": "Days Gone By",
-      "url": "https://open.spotify.com/track/0OLl48A8q7KqBaCxh8nyDE"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "7 Wishes",
-        "url": "https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB"
-      },
-      "artists": [
-        {
-          "name": "Night Ranger",
-          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX"
-    },
-    {
-      "added_at": "2020-04-30 23:42:52",
-      "album": {
-        "name": "Theatre of Pain",
-        "url": "https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 240933,
-      "name": "Home Sweet Home",
-      "url": "https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG"
+      "duration_ms": 230413,
+      "name": "Burning Heart - From \"Rocky IV\" Soundtrack",
+      "url": "https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX82Zzp6AKx64"

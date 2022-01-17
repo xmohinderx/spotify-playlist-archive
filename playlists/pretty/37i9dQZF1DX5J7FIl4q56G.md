@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The latest and greatest metal tracks\. Cover: Shadow of Intent
 
-[Spotify](https://open.spotify.com/user/spotify) - 565,225 likes - 98 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,445 likes - 98 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Blood in the Sands of Time](https://open.spotify.com/track/4evo7dv7goRstcgHFhcJMQ) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C) | [Elegy](https://open.spotify.com/album/1YwAkYsGTgNMWaayCgxjsb) | 5:22 |
 | 2 | [Forgotten](https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Forgotten](https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E) | 3:17 |
-| 3 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 |
-| 4 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 |
-| 5 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 |
-| 6 | [Kingdom](https://open.spotify.com/track/3gDw8qWNBNbKR2dKTmAEB5) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [OKURA](https://open.spotify.com/album/2rDMm5iwNGYt12LXvRGlyN) | 4:02 |
+| 3 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 |
+| 4 | [Kingdom](https://open.spotify.com/track/3gDw8qWNBNbKR2dKTmAEB5) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [OKURA](https://open.spotify.com/album/2rDMm5iwNGYt12LXvRGlyN) | 4:02 |
+| 5 | [Standing My Ground](https://open.spotify.com/track/2VysUNrUa2ADjbWFq9mXeM) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Standing My Ground](https://open.spotify.com/album/2hWAg8wRTOtHGvARnGPLcs) | 2:48 |
+| 6 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 |
 | 7 | [Romeo Delight](https://open.spotify.com/track/5Wsw3iaHNipb5IzoBjzPMm) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO), [Stu Block](https://open.spotify.com/artist/3y7cQLWTNdxQ1u3KZBSTtl), [Dave Lombardo](https://open.spotify.com/artist/1OW9EXz8lzkvtX2tfnUI9r) | [Romeo Delight](https://open.spotify.com/album/5bG5XD1u5hgULFub94yLXB) | 4:20 |
 | 8 | [Levitate](https://open.spotify.com/track/4DCGjvuX1VMmbVDifmv7ZO) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Blush Response](https://open.spotify.com/artist/04EzrrhYAQ81Go4FJ0prtu) | [REVENGE](https://open.spotify.com/album/0zm3crxBzuAmMMuLLkGH4c) | 4:51 |
 | 9 | [Skin](https://open.spotify.com/track/4i19NWcezW6rXnwBJLY94E) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Hell Is Where The Heart Is, Pt\. I: Love](https://open.spotify.com/album/2MHhW9J9v9rWWBAsIswlB7) | 3:37 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 97 | [The Conduit](https://open.spotify.com/track/08Tb1IuO4nwfjpgwgWStqv) | [Moon Tooth](https://open.spotify.com/artist/7ssGZO3qDsbwCaBOBcQ4aA) | [The Conduit](https://open.spotify.com/album/0LJmjKGuR2CCEGglNPjkzl) | 3:21 |
 | 98 | [Nowhere, Still Somewhere](https://open.spotify.com/track/7C5IPnZ3qx9yobcFi4qwGA) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Nowhere, Still Somewhere](https://open.spotify.com/album/45GeiEbVAqyGByCLuNMkfd) | 4:34 |
 
-Snapshot ID: `MTY0MjExODQ2MCwwMDAwMDRkNzAwMDAwMTdlNTVlMzMyYjQwMDAwMDE3ZTUzYjY3MDc4`
+Snapshot ID: `MTY0MjQ0NjI1NywwMDAwMDRkODAwMDAwMTdlNjk2Y2ZkYjIwMDAwMDE3ZTUzYjY3MDc4`

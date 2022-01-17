@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXupFIUw7TOC.md) - [plain](/playlists/plain/37i9dQZF1DWXupFIUw7TOC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWXupFIUw7TOC)
 
-### [This Is Oasis](https://open.spotify.com/playlist/37i9dQZF1DWXupFIUw7TOC)
+### [This Is Oasis \(2\)](https://open.spotify.com/playlist/37i9dQZF1DWXupFIUw7TOC)
 
 > The best of Oasis, all in one playlist.
 

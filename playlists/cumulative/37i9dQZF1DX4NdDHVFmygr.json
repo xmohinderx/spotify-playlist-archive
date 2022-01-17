@@ -41,7 +41,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 175000,
       "name": "A40",
       "url": "https://open.spotify.com/track/1JwdSbiHb4t7wbmfb2hkPl"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 198367,
       "name": "HKAYA",
       "url": "https://open.spotify.com/track/4eBmSIn5XyL89lb4uJ8Aco"
@@ -961,6 +961,24 @@
       "duration_ms": 169062,
       "name": "Vamos",
       "url": "https://open.spotify.com/track/3fl12SlkOX4m29KzCu6RVx"
+    },
+    {
+      "album": {
+        "name": "Ya Ayouni",
+        "url": "https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu"
+      },
+      "artists": [
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261084,
+      "name": "Ya Ayouni",
+      "url": "https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf"
     },
     {
       "album": {

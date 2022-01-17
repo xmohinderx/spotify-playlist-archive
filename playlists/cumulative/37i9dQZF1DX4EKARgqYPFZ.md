@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4EKARgqYPFZ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4EKARgqYPFZ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4EKARgqYPFZ)
 
-### [This Is blink\-182](https://open.spotify.com/playlist/3szQknW1lCxtwDNHqZfQe3)
+### [This Is blink\-182 \(2\)](https://open.spotify.com/playlist/3szQknW1lCxtwDNHqZfQe3)
 
 > The essential blink\-182, all in one place.
 

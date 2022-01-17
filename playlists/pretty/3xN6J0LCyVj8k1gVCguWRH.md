@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > With so many folks getting together with family and friends, there’s a lot to celebrate this summer\. Here’s a playlist of songs I’ve been listening to lately—it&\#x27;s a mix of old and new, household names and emerging artists, and a whole lot in between\. \(Includes 2020 edition &amp; bonuses\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,366 likes - 121 songs - 7 hr 40 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 71,356 likes - 121 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 113 | [Where You Goin?](https://open.spotify.com/track/0Rv0Bqiwpu3HL36Ijsb1Iu) | [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O), [Olivia Jane](https://open.spotify.com/artist/30dCWL6DDvjmDUDbMaR78r), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Alec Lehrman](https://open.spotify.com/artist/0gDsGqAoOfhk9XBObitq9t) | [Where You Goin?](https://open.spotify.com/album/6XgtWuCcNx3xDUndpzS9bO) | 5:07 |
 | 114 | [Fall Back into You](https://open.spotify.com/track/56yE58892x5B1weq0FjiAG) | [Niki Kennedy](https://open.spotify.com/artist/56anbQyF2Qn6STCHu9wC2m) | [Fall Back into You](https://open.spotify.com/album/3noBzIpmuvQLLn4xWOifcK) | 3:46 |
 | 115 | [Turnaround](https://open.spotify.com/track/2Z3glNCD1XzgZincZ7ah0x) | [williamXnigel](https://open.spotify.com/artist/6rVLePq4RXwJ78aTtd6yps) | [Turnaround](https://open.spotify.com/album/6sOPadoT1XNm76Q4yhsGEQ) | 3:55 |
-| 116 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/6VNxqvg7iCPNtXTwPD15YM) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 |
+| 116 | [The Night is Young \- Remix](https://open.spotify.com/track/2u2RyJu64geXfFL0YMXXPM) | [Daemon](https://open.spotify.com/artist/2qawvgUCgDfZA7CAlqY9yt), [Zech Biship](https://open.spotify.com/artist/0rPAd3q71tIiLr8iS2ZHIx) | [With the Gang b/w The Night is Young \(Remix\)](https://open.spotify.com/album/46rZzXplrgOyPR0c8KNMqX) | 2:55 |
 | 117 | [Kids of Summer](https://open.spotify.com/track/6jDe9fs00m9fo5raYmrwaA) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Kids of Summer](https://open.spotify.com/album/2BZvcY82oDXIpY71k1msWS) | 4:31 |
 | 118 | [Some of That](https://open.spotify.com/track/2rwn9xJsQy2i7sOWKEQrY7) | [Sylvan Paul](https://open.spotify.com/artist/4lPYVNXkOEjmC9dlniLDU1) | [Some of That](https://open.spotify.com/album/6fhEdGGa0tgELbJ0psbqBP) | 4:16 |
 | 119 | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/track/7FwQw1LFaxK4yNJpTtyPM4) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/album/6YkRZxsN4V0Ll5NhV6TnAH) | 2:29 |

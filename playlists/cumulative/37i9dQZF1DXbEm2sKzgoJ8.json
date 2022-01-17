@@ -71,7 +71,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/0crw01bqnefvDUDjsuKraD"
@@ -147,7 +147,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 235540,
       "name": "All The Stars (with SZA)",
       "url": "https://open.spotify.com/track/66kQ7wr4d2LwwSjr7HXcyr"
@@ -201,7 +201,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 146000,
       "name": "and i'd go a thousand miles",
       "url": "https://open.spotify.com/track/5x2qaRAkD9nwiechyghoSz"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 212878,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
@@ -711,7 +711,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 202986,
       "name": "FTL",
       "url": "https://open.spotify.com/track/2m6ikQazVLpm5XYxAy3OFz"
@@ -1743,7 +1743,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 189360,
       "name": "Soon",
       "url": "https://open.spotify.com/track/4BT70hNwWTnCYhbal2Crck"
@@ -1877,7 +1877,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 134117,
       "name": "telly",
       "url": "https://open.spotify.com/track/0k6LRpP1C0XH7kOBEoiKtH"
@@ -1993,6 +1993,28 @@
       "duration_ms": 187951,
       "name": "Touch Me (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
+    },
+    {
+      "album": {
+        "name": "Upwards / After 2",
+        "url": "https://open.spotify.com/album/5ovJITeDg3iwFR5VwXwKBb"
+      },
+      "artists": [
+        {
+          "name": "JUICEB\u262eX",
+          "url": "https://open.spotify.com/artist/6HIRyO3O2mbkdwih0Mi4vR"
+        },
+        {
+          "name": "WES WAX",
+          "url": "https://open.spotify.com/artist/3GbBn19KtJVNImZndKoxtF"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225937,
+      "name": "Upwards",
+      "url": "https://open.spotify.com/track/1bahNfOZV6WJFVZbbkpcBQ"
     },
     {
       "album": {

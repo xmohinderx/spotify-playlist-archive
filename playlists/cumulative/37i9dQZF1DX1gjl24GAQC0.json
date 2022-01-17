@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: MIRAE(\ubbf8\ub798\uc18c\ub144) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: JINJIN&ROCKY(\uc9c4\uc9c4&\ub77c\ud0a4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -23,6 +23,24 @@
       "duration_ms": 205147,
       "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
       "url": "https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF"
+    },
+    {
+      "album": {
+        "name": "COMPLETE WITH YOU",
+        "url": "https://open.spotify.com/album/3txbVI8WFHrkcnEV6JGIXx"
+      },
+      "artists": [
+        {
+          "name": "AB6IX",
+          "url": "https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212415,
+      "name": "1, 2, 3",
+      "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
     },
     {
       "album": {
@@ -73,7 +91,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 213293,
       "name": "A Song Written Easily",
       "url": "https://open.spotify.com/track/5KqOPtE8nhYtgcXzrIt6N0"
@@ -170,6 +188,24 @@
     },
     {
       "album": {
+        "name": "HOUR MOMENT",
+        "url": "https://open.spotify.com/album/3qgQ4Zlq1j5zJL0DadUYU0"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239571,
+      "name": "Beautiful Pain",
+      "url": "https://open.spotify.com/track/3zM2yi75oB3v00sZvWUzIn"
+    },
+    {
+      "album": {
         "name": "Black Swan",
         "url": "https://open.spotify.com/album/4RR8ROIGix5CbCGlXHA53I"
       },
@@ -199,7 +235,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 194720,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/6DTeLNeutILDk51f5IZN7d"
@@ -383,7 +419,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 230706,
       "name": "CROWN",
       "url": "https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26"
@@ -455,7 +491,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 192093,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/0aW4RWeGekBfU2NhREc5kL"
@@ -855,7 +891,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 220396,
       "name": "Happy Death Day",
       "url": "https://open.spotify.com/track/3a4VCqofc7Wf7cqfZYu2Ad"
@@ -909,7 +945,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 200573,
       "name": "Highway to Heaven",
       "url": "https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE"
@@ -945,7 +981,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 203731,
       "name": "Home",
       "url": "https://open.spotify.com/track/5TyCTVsBsHeeutZcU2uP5s"
@@ -963,7 +999,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 184426,
       "name": "HOME;RUN",
       "url": "https://open.spotify.com/track/2iW0q5jJJT5HKlIs25AAgv"
@@ -1042,6 +1078,24 @@
     },
     {
       "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/6tMchqSyAKi6ePdzbaZqK6"
+      },
+      "artists": [
+        {
+          "name": "JINJIN&ROCKY(ASTRO)",
+          "url": "https://open.spotify.com/artist/6zJq6snkjTflfNsUOQBekK"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Just Breath",
+      "url": "https://open.spotify.com/track/68U6oSUCvqk4MiTULbYCEd"
+    },
+    {
+      "album": {
         "name": "KILLA - MIRAE 1st Mini Album",
         "url": "https://open.spotify.com/album/1Hie8o9qZTYeiitXGmzI2V"
       },
@@ -1089,7 +1143,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 201773,
       "name": "Left & Right",
       "url": "https://open.spotify.com/track/66orj0qtDgnU6DlmllAxbq"
@@ -1107,7 +1161,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195656,
       "name": "Levanter",
       "url": "https://open.spotify.com/track/4mtPGvoOvfqskC9M3tNZrV"
@@ -1179,7 +1233,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 174386,
       "name": "LOVE ME LIKE",
       "url": "https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN"
@@ -1341,7 +1395,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 189146,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/45op3j9bOEPAJnqq5gZ3Q5"
@@ -1586,6 +1640,24 @@
     },
     {
       "album": {
+        "name": "HELLO Chapter 2: Hello, Strange Place",
+        "url": "https://open.spotify.com/album/470CmgGjcBd9XmDA4jCyAD"
+      },
+      "artists": [
+        {
+          "name": "CIX",
+          "url": "https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/0oiQqWcpJVeMsKQ5E0Cil8"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'",
         "url": "https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl"
       },
@@ -1730,6 +1802,24 @@
     },
     {
       "album": {
+        "name": "NCT #127 Regulate - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199773,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/1zedfw5iu7XzKJT8CupEIP"
+    },
+    {
+      "album": {
         "name": "Instinct, Pt. 2",
         "url": "https://open.spotify.com/album/6s6wvFDZuowpwGclVzbXDv"
       },
@@ -1741,7 +1831,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 203906,
       "name": "skinz",
       "url": "https://open.spotify.com/track/6muszfo0tVE3bzEN5s0xXk"
@@ -1885,7 +1975,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-08",
+      "date_removed": null,
       "duration_ms": 209186,
       "name": "Tiger Inside",
       "url": "https://open.spotify.com/track/2TENPSXQkWNgEFxmi4PRWE"
@@ -1910,6 +2000,24 @@
     },
     {
       "album": {
+        "name": "DRIPPIN 3rd Mini Album [Villain]",
+        "url": "https://open.spotify.com/album/4oOm4qnnn2qdOwSBX7nsWd"
+      },
+      "artists": [
+        {
+          "name": "DRIPPIN",
+          "url": "https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181973,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/3xO1I7gH39DTgaai3kGIOY"
+    },
+    {
+      "album": {
         "name": "Golden Child 1st Album [Re-boot]",
         "url": "https://open.spotify.com/album/49kEUhR606Qzbq585LqKUJ"
       },
@@ -1921,7 +2029,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 206573,
       "name": "WANNABE",
       "url": "https://open.spotify.com/track/0lLDInOmkZTWz14Lm0dcMY"
@@ -2047,7 +2155,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 209259,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/4s0dJmVknlUl7V6oK3puzZ"

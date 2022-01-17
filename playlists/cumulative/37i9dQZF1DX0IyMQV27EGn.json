@@ -207,7 +207,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 182973,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7"
@@ -423,7 +423,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 228016,
       "name": "Heart Killer",
       "url": "https://open.spotify.com/track/5OfSRyFG41IAv3v4wV7nTR"
@@ -441,7 +441,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 310053,
       "name": "Heart Stops",
       "url": "https://open.spotify.com/track/4OmOyT28pVbWeIRCv09NPw"
@@ -477,7 +477,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 185985,
       "name": "Help Me Mama",
       "url": "https://open.spotify.com/track/59nCx5xYYfnAu0w4REbu3F"
@@ -549,7 +549,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 232242,
       "name": "How Much Does Your Love Cost?",
       "url": "https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ"
@@ -891,7 +891,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 256399,
       "name": "Name on a Matchbook",
       "url": "https://open.spotify.com/track/2KaLy2FmUAGLfNsoMXJWVj"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 253444,
       "name": "Over",
       "url": "https://open.spotify.com/track/0gnPyPBc2FcB79JGgpbstY"
@@ -1245,6 +1245,24 @@
       "duration_ms": 202293,
       "name": "Spider in the Roses (feat. Rob the Man)",
       "url": "https://open.spotify.com/track/7GRjFivuEaOyRMYcKGryXz"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/3SvhxjlhwjIc8KkZcBNd0y"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "date_added": "2021-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "Stompa",
+      "url": "https://open.spotify.com/track/4kGcW4Tn87Lm9s6pp5a5vM"
     },
     {
       "album": {

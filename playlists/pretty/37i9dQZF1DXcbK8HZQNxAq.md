@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbK8HZQNxAq.md) - [plain]
 
 > 50 highlights of classical music composed in the new millennium\. Find more <a href="https://open.spotify.com/user/spotify/playlist/1SBY0rHT0QjEtrzSNFzpMM">contemporary</a>, <a href="spotify:user:danielstahl:playlist:7ijkPw3lLKPW6k3qee38Ki">avant\-garde</a> and <a href="spotify:user:spotify:playlist:5YuLa2rxwWrILo5KKHGCwX">minimalism</a> playlists at our <a href="http://open.spotify.com/genre/classical">Classical Hub</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,193 likes - 50 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,208 likes - 50 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/4mdOdh141kr7vCeHVDE6oL)
 
-> Three Days Grace on top of the biggest Metal playlist!
+> Korn on top of the biggest Metal playlist!
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

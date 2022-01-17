@@ -19,7 +19,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 214480,
       "name": "(what i wish just one person would say to me)",
       "url": "https://open.spotify.com/track/68BpjQ7Vc8uUHvUKMcLLHe"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 226408,
       "name": "Begin Again",
       "url": "https://open.spotify.com/track/2p7YemMTF5HRnAeL139VxD"
@@ -203,7 +203,7 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 287737,
       "name": "Big Mountain",
       "url": "https://open.spotify.com/track/26NYHnihUaLfBIzSNf6saR"
@@ -221,7 +221,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 175226,
       "name": "Boy With The Blues",
       "url": "https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE"
@@ -383,7 +383,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 203640,
       "name": "Come on Mess Me Up",
       "url": "https://open.spotify.com/track/6lOHJvk1ss3cH42PlxyLvo"
@@ -437,7 +437,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 208826,
       "name": "Could It Be Another Change",
       "url": "https://open.spotify.com/track/50kciHpxC7QyJQujF2LUiF"
@@ -473,7 +473,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 171662,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD"
@@ -740,6 +740,24 @@
     },
     {
       "album": {
+        "name": "Helpless",
+        "url": "https://open.spotify.com/album/2FaHuiTP5xJ5XM49X1Vh2o"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "date_added": "2021-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189468,
+      "name": "Helpless",
+      "url": "https://open.spotify.com/track/5YGUxFRCpX2QMDeSNlurRh"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2erYmQSfrlmfOdktVdUcE3"
       },
@@ -769,7 +787,7 @@
       ],
       "date_added": "2021-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 250613,
       "name": "Hot & Heavy",
       "url": "https://open.spotify.com/track/2HqJI083DX9UDxNYGGAImf"
@@ -805,7 +823,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 195044,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w"
@@ -823,7 +841,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 223533,
       "name": "I Don't Want to Talk",
       "url": "https://open.spotify.com/track/1KO4aiGkvF1eMTBrzL4vAd"
@@ -1003,7 +1021,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 174030,
       "name": "leading me on but i'm not mad about it",
       "url": "https://open.spotify.com/track/1DSP945TwqdRaTciHHTVq1"
@@ -1083,7 +1101,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 210360,
       "name": "Mol y Sol",
       "url": "https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL"
@@ -1155,7 +1173,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 232325,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/6KCwPQApuQNQEV0hw93duq"
@@ -1353,7 +1371,7 @@
       ],
       "date_added": "2021-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -1443,7 +1461,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw"
@@ -1479,7 +1497,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 267692,
       "name": "the fatalist",
       "url": "https://open.spotify.com/track/4tjU3FbweegHC4T3taQ7RI"
@@ -1767,7 +1785,7 @@
       ],
       "date_added": "2021-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 182266,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/169pWCmfvVazzcL4EXFPgL"

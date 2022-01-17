@@ -1,12 +1,12 @@
 {
   "description": "Home to all the latest indie jams. Cover: Broken Social Scene",
   "name": "Indie All Stars",
-  "num_followers": 147247,
+  "num_followers": 147269,
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE5NTEyNCwwMDAwMDZhODAwMDAwMTdlNWE3NTAxZTQwMDAwMDE3ZTU0YjUyZmUx",
+  "snapshot_id": "MTY0MjQyOTM5NywwMDAwMDZhOTAwMDAwMTdlNjg2YmI4ZmUwMDAwMDE3ZTU0YjUyZmUx",
   "tracks": [
     {
       "added_at": "2022-01-14 05:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-01-14 05:00:00",
       "album": {
+        "name": "Teeth Agape",
+        "url": "https://open.spotify.com/album/2aIuj5VJNI7V4TvjGd8qEM"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tagaq",
+          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
+        }
+      ],
+      "duration_ms": 215482,
+      "name": "Teeth Agape",
+      "url": "https://open.spotify.com/track/6gmjRi8EuLj4B3WCIvByOO"
+    },
+    {
+      "added_at": "2022-01-14 05:00:00",
+      "album": {
         "name": "B-Side",
         "url": "https://open.spotify.com/album/0JxSewL4a7vp10TzeQVDvo"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 236600,
       "name": "In Need of Repair",
       "url": "https://open.spotify.com/track/2gvLhQi8nrGFcZB7OuLeZC"
-    },
-    {
-      "added_at": "2022-01-14 05:00:00",
-      "album": {
-        "name": "Teeth Agape",
-        "url": "https://open.spotify.com/album/2aIuj5VJNI7V4TvjGd8qEM"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tagaq",
-          "url": "https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY"
-        }
-      ],
-      "duration_ms": 215482,
-      "name": "Teeth Agape",
-      "url": "https://open.spotify.com/track/6gmjRi8EuLj4B3WCIvByOO"
     },
     {
       "added_at": "2022-01-14 05:00:00",

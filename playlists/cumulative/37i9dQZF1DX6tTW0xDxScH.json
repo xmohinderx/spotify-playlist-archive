@@ -84,6 +84,28 @@
     },
     {
       "album": {
+        "name": "Good Fortune Assembly",
+        "url": "https://open.spotify.com/album/4vLU6SBUbaa64NlIEYO7Ec"
+      },
+      "artists": [
+        {
+          "name": "Dan Edmonds",
+          "url": "https://open.spotify.com/artist/4FkvfD8flZwfsywlJ49qrW"
+        },
+        {
+          "name": "Luka Kuplowsky",
+          "url": "https://open.spotify.com/artist/3WoJfG2qjHZ9Q96yFMQ8FE"
+        }
+      ],
+      "date_added": "2021-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203906,
+      "name": "Before We Make It Real",
+      "url": "https://open.spotify.com/track/6N0aQvnu2lc73bVznVm2h2"
+    },
+    {
+      "album": {
         "name": "Bad Self Portraits",
         "url": "https://open.spotify.com/album/1Ie34DR7t2RGL8bWBPNWVF"
       },
@@ -113,7 +135,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 209346,
       "name": "Birds Dont Sing",
       "url": "https://open.spotify.com/track/0V34LU5aBA3hYgq178hFFY"
@@ -243,7 +265,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 229154,
       "name": "Cold",
       "url": "https://open.spotify.com/track/3c7hHVpOsyFYWWwB958J8S"
@@ -723,7 +745,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Let's Move To The Country",
       "url": "https://open.spotify.com/track/73q8Er6tGTXnHWk2juT9qG"
@@ -955,7 +977,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 187786,
       "name": "Neil Young on High",
       "url": "https://open.spotify.com/track/58q9HQ973MIbexDlnIsWQT"
@@ -1063,7 +1085,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 271206,
       "name": "Rae Street",
       "url": "https://open.spotify.com/track/2CNNKiZvxEUDaw4G8Sk0rP"
@@ -1179,7 +1201,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 289560,
       "name": "Rosyln",
       "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
@@ -1417,7 +1439,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -1511,7 +1533,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 169600,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/0YhOZRW1MdlRpXh6TpBDx3"
@@ -1565,7 +1587,7 @@
       ],
       "date_added": "2021-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 323906,
       "name": "The Past And Pending",
       "url": "https://open.spotify.com/track/406DlQKEhXubIyV4bgH2nM"

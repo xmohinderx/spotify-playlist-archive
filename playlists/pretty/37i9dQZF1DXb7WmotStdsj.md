@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > The very best Rai hits\. Cover: Cheb Bello.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,738 likes - 48 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,815 likes - 48 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 |
-| 2 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 |
-| 3 | [3inehom Mesawsa](https://open.spotify.com/track/4oPwHrcH1bhl2lOqNobnCY) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 3:50 |
-| 4 | [Mab9at sohba fhad denya](https://open.spotify.com/track/7mxHntjn3YftbjvbKFMDnL) | [Compil Rai jdid](https://open.spotify.com/artist/1sS6MuSv7yhTelVVV74lPU), [Cheb Oussama](https://open.spotify.com/artist/5ecQtTfTp9QyyqyxXaNnCT) | [Mab9at sohba fhad denya](https://open.spotify.com/album/2wNtDNIKQx1oKGfeLYauAN) | 5:01 |
+| 1 | [Mab9at sohba fhad denya](https://open.spotify.com/track/7mxHntjn3YftbjvbKFMDnL) | [Compil Rai jdid](https://open.spotify.com/artist/1sS6MuSv7yhTelVVV74lPU), [Cheb Oussama](https://open.spotify.com/artist/5ecQtTfTp9QyyqyxXaNnCT) | [Mab9at sohba fhad denya](https://open.spotify.com/album/2wNtDNIKQx1oKGfeLYauAN) | 5:01 |
+| 2 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 |
+| 3 | [Allo Gatli Nsani](https://open.spotify.com/track/121uD1clN6btttnxb2K9Dt) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [Allo Gatli Nsani](https://open.spotify.com/album/17OmiViuVUN1ejZmVY9cl7) | 5:33 |
+| 4 | [3inehom Mesawsa](https://open.spotify.com/track/4oPwHrcH1bhl2lOqNobnCY) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [100% Cheb Bello](https://open.spotify.com/album/2mWcnvOcuwLTuWcLeHzmzi) | 3:50 |
 | 5 | [Khada3a Spécialiste](https://open.spotify.com/track/2jD3erMPrQVxnVXRRGLutg) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Khada3a Spécialiste](https://open.spotify.com/album/51DtZ6PI6AjWTx6N8L6EYH) | 5:08 |
 | 6 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 |
 | 7 | [Khrajtili Contra](https://open.spotify.com/track/3E57drIDddFObDyBhY057V) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2) | [Khrajtili Contra](https://open.spotify.com/album/0kQZFAGnInhVLDMcXTehqs) | 4:17 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 47 | [Chira brune](https://open.spotify.com/track/5ykL3LdQ7Ls8T2Ii2YMmfG) | [Cheb Mourad](https://open.spotify.com/artist/2zjXHi6RZyaS2t0P1BrxBs) | [Chira brune](https://open.spotify.com/album/2mF9wTY2zWXkU1SczMu1nl) | 8:52 |
 | 48 | [3adyani Bel Gros \- Remix Master T](https://open.spotify.com/track/1Z3UznHCGkclMLMOBRxeHN) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh), [Master T](https://open.spotify.com/artist/6zNY7V2iBFiUfOXTSNwA15) | [3adyani Bel Gros \(Remix Master T\)](https://open.spotify.com/album/0RdUojL9QBTuDHECRDrGFt) | 3:46 |
 
-Snapshot ID: `MTY0MTg5MDQwMiwwMDAwMDA5NDAwMDAwMTdlNDg0YjUxNzAwMDAwMDE3OWUwOTUyYzFl`
+Snapshot ID: `MTY0MjQxMDQyNiwwMDAwMDA5NTAwMDAwMTdlNjc0YTQyNGMwMDAwMDE3OWUwOTUyYzFl`

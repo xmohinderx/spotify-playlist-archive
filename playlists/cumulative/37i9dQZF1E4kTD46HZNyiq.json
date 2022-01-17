@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Hazlett, The Night Game, Novo Amor and more",
+  "description": "With Young in the City, La Bouquet, LOS LEO and more",
   "name": "NIGHT TRAVELER Radio",
   "published_playlist_ids": [
     "7516uBfjNbecLTG6tnzPU5"
@@ -167,7 +167,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 281270,
       "name": "All for You",
       "url": "https://open.spotify.com/track/24FUiqL4zbWB1VfvcqLIGv"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 282628,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7iAe59rISAkaf1LYzctFwe"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 207656,
       "name": "catacombs",
       "url": "https://open.spotify.com/track/4r91oYlL2FwIAqWW0VCebC"
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 216000,
       "name": "comatose",
       "url": "https://open.spotify.com/track/5ivNQNApxeZA9Vp37KwjXU"
@@ -915,7 +915,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 202581,
       "name": "Fading",
       "url": "https://open.spotify.com/track/7CuU6OjHrtPZaQnVmvK2Xf"
@@ -933,7 +933,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 245680,
       "name": "Faint of Heart",
       "url": "https://open.spotify.com/track/1CtUe1W34nWPi2ak7bAeTg"
@@ -1125,7 +1125,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 215823,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3A9b3wKbPfV9eKclrwMz8M"
@@ -1204,6 +1204,28 @@
     },
     {
       "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/5vPzL72WRWphX5Wzo9MOR1"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "Headspace (feat. Ruston Kelly)",
+      "url": "https://open.spotify.com/track/2amvwRxkfD6kJELTaLbDix"
+    },
+    {
+      "album": {
         "name": "Safety",
         "url": "https://open.spotify.com/album/6tgbjRYSkt8AHTBwG4lP3u"
       },
@@ -1251,7 +1273,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 180935,
       "name": "High School",
       "url": "https://open.spotify.com/track/5LpcRat8db3T8rMGVqiK5N"
@@ -1489,7 +1511,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-12",
+      "date_removed": null,
       "duration_ms": 227555,
       "name": "If Heaven Was A Sound",
       "url": "https://open.spotify.com/track/01JcINkUIdzHd3bn5kqFqt"
@@ -1921,7 +1943,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 215413,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/2WMF5i6ClS9GEeM34MHEji"
@@ -2311,7 +2333,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 146380,
       "name": "On the Inside",
       "url": "https://open.spotify.com/track/1WsVbTgxFHbF4qFrZ2ONoL"
@@ -2329,7 +2351,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 231000,
       "name": "Once In A Lifetime - Single Version",
       "url": "https://open.spotify.com/track/6cLYgEHXAcgTR5PLE5MeVc"
@@ -2391,7 +2413,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-09",
+      "date_removed": null,
       "duration_ms": 277777,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/7sma3rc5a8q7hVsoFjp24L"
@@ -2499,7 +2521,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-13",
+      "date_removed": null,
       "duration_ms": 204464,
       "name": "pLAyed Out",
       "url": "https://open.spotify.com/track/4PUAuPFSIAbyQiXpPbfoOT"
@@ -2589,7 +2611,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-07",
+      "date_removed": null,
       "duration_ms": 174085,
       "name": "Rest of Our Lives",
       "url": "https://open.spotify.com/track/4cyAExtJSCr01jJiQ8Luw0"
@@ -2705,7 +2727,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 265090,
       "name": "She's Alright",
       "url": "https://open.spotify.com/track/58pEXZXzDnsnpGWT3XofaF"
@@ -2759,7 +2781,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 179173,
       "name": "So Glad (I Got You)",
       "url": "https://open.spotify.com/track/7oIPRyRI3rz5AhKzpLIdXb"
@@ -3217,7 +3239,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 235573,
       "name": "Wallflowers",
       "url": "https://open.spotify.com/track/1jlYZtPqHOb8zueJ6X9QEO"
@@ -3471,7 +3493,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 233500,
       "name": "Young",
       "url": "https://open.spotify.com/track/08VtnC4zTf8GBFNMCv6Axh"

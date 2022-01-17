@@ -8,6 +8,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
+      },
+      "artists": [
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        },
+        {
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343283,
+      "name": "2 Far Gone",
+      "url": "https://open.spotify.com/track/6MAL1HIq8S2qiKrdFiQAHF"
+    },
+    {
+      "album": {
         "name": "Heartbreak / 6000 Ft.",
         "url": "https://open.spotify.com/album/1IjSVLxs6dO3BmZ1adf6lt"
       },
@@ -23,7 +45,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 336092,
       "name": "6000 Ft.",
       "url": "https://open.spotify.com/track/5VDnV2q6OrlrPsHsDZtIP1"
@@ -77,7 +99,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 238533,
       "name": "Baba Ayoola",
       "url": "https://open.spotify.com/track/5HkJXcRA2gPA7QNP9ozXgK"
@@ -113,7 +135,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 287871,
       "name": "Before",
       "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
@@ -179,7 +201,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 253843,
       "name": "Bout Dat",
       "url": "https://open.spotify.com/track/3otHUuZtcrhhc92oJlcKyR"
@@ -273,7 +295,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/19ISEtEat3oefNy4yVFLFK"
@@ -473,7 +495,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 324271,
       "name": "Desert Mule",
       "url": "https://open.spotify.com/track/3ztjQ0GdMdbgoH3EGwqMxb"
@@ -549,7 +571,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 211613,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/0CarV7bYpdZomES1VtPQDh"
@@ -567,7 +589,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 316194,
       "name": "Every Day the Sun Comes Up",
       "url": "https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo"
@@ -839,7 +861,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 233892,
       "name": "I Tcho Tchass",
       "url": "https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1"
@@ -1019,7 +1041,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 155634,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1xQXbyDevs4LcPkOCaTvf5"
@@ -1081,7 +1103,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 229754,
       "name": "K\u0131sasa K\u0131sas",
       "url": "https://open.spotify.com/track/2GSAfjcioTeJ9kecoC1E5Y"
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 269360,
       "name": "L.D.R.A",
       "url": "https://open.spotify.com/track/3dE5JkCceos3FiuQmTKfOx"
@@ -1147,7 +1169,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 207994,
       "name": "Land Of Honey",
       "url": "https://open.spotify.com/track/1j49Jcm99RNCmFrnRZgliG"
@@ -1259,7 +1281,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-05",
+      "date_removed": null,
       "duration_ms": 311893,
       "name": "Lush",
       "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
@@ -1375,7 +1397,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 213540,
       "name": "Movementt",
       "url": "https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC"
@@ -1411,7 +1433,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 284653,
       "name": "Mushroom Abolitionist",
       "url": "https://open.spotify.com/track/5vaBJ81tv092hKGtV7opBv"
@@ -1465,7 +1487,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 274213,
       "name": "Nakamarra",
       "url": "https://open.spotify.com/track/1WCbWyu8mRrOk5Su9yPnkO"
@@ -1553,7 +1575,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 256250,
       "name": "NYCBB",
       "url": "https://open.spotify.com/track/2ElopavsuSGqBoBclJfQs2"
@@ -1753,7 +1775,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 341432,
       "name": "Raw Chef",
       "url": "https://open.spotify.com/track/3KfNOSIKV6kBpx6yesYEkC"
@@ -1811,7 +1833,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 218226,
       "name": "Safe In My Arms",
       "url": "https://open.spotify.com/track/1pgmZnHzFNG8aS2GootLig"
@@ -1905,7 +1927,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 268829,
       "name": "Sister",
       "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
@@ -1923,7 +1945,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 194257,
       "name": "Snowing Throw - Lose Again",
       "url": "https://open.spotify.com/track/5ilb0B5bZwMxS25e6SLrBb"
@@ -2341,7 +2363,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 272026,
       "name": "U Just R",
       "url": "https://open.spotify.com/track/6yE6L6KPE16EtskOhbdlVk"
@@ -2359,7 +2381,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 406660,
       "name": "Universal Insanity",
       "url": "https://open.spotify.com/track/16H5KPPLFLzvW0oZjJjwwe"
@@ -2485,7 +2507,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 288640,
       "name": "Wind Parade",
       "url": "https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf"

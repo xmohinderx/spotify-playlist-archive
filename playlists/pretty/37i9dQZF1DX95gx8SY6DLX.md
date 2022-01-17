@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95gx8SY6DLX.md) - [plain](/playlists/plain/37i9dQZF1DX95gx8SY6DLX) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX95gx8SY6DLX)
 
-### [This Is The Doors](https://open.spotify.com/playlist/37i9dQZF1DX95gx8SY6DLX)
+### [This Is The Doors \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX95gx8SY6DLX)
 
 > All of their essential songs, all in one place.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Inte bara nytt år utan även ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,330 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,317 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 45 | [Polska ingenstans](https://open.spotify.com/track/54yQRwZIW6MkhxMhtxV1Fn) | [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Polska ingenstans](https://open.spotify.com/album/7b1XUwnZGjhYwq3NMzbods) | 5:38 |
 | 46 | [Contraband](https://open.spotify.com/track/3OALZPTM7Y3yxuooaA1LIU) | [eee gee](https://open.spotify.com/artist/7wwdO3koJONTrS5TtFJ8RN) | [Contraband](https://open.spotify.com/album/7jsqNvNWXVTPjRH5v61KsR) | 3:19 |
 | 47 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 |
-| 48 | [Holdin' On](https://open.spotify.com/track/3fh3dIwOs2hsfpgNtcqqmM) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Prop Dylan](https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh) | [Holdin' On](https://open.spotify.com/album/1x340fo3W9zjH5yzRrpZHw) | 3:05 |
+| 48 | [Holdin' On](https://open.spotify.com/track/3fh3dIwOs2hsfpgNtcqqmM) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw), [Prop Dylan](https://open.spotify.com/artist/6oVl1muvHp8VLrJ5lv6lBh), [DJ C.S.P.](https://open.spotify.com/artist/6owcbYUQJJrW4FBm0yfaKX) | [Holdin' On](https://open.spotify.com/album/1x340fo3W9zjH5yzRrpZHw) | 3:05 |
 | 49 | [THE REV3NGE](https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [THE REV3NGE](https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1) | 2:27 |
 | 50 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 |
 | 51 | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/track/79zOijd7A1FGKKGBQMqBKl) | [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [One Shot \(feat\. Blxst & Wale\)](https://open.spotify.com/album/7yju2b3OW2jPbuLZo3rHjy) | 2:33 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-01",
-  "description": "With Gunship, Timecop1983, Volkor X and more",
+  "description": "With SEAWAVES, Volkor X, Duett and more",
   "name": "The Midnight Radio",
   "published_playlist_ids": [
     "2T4bEFEfvvK4qvB1iHmD1n"
@@ -95,10 +95,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 236842,
       "name": "A Million Miles Away",
       "url": "https://open.spotify.com/track/7mgKdwXs4LalUeFoWQQxRu"
+    },
+    {
+      "album": {
+        "name": "Driven to Madness",
+        "url": "https://open.spotify.com/album/3kZ1FQTWCVrz37jwXWBjT5"
+      },
+      "artists": [
+        {
+          "name": "Dance With the Dead",
+          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277681,
+      "name": "A New Fear",
+      "url": "https://open.spotify.com/track/1y5L100ibRH87jfn9RCR1v"
     },
     {
       "album": {
@@ -461,7 +479,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 312857,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/6YnM4UTacCdkWwAX5uzxLP"
@@ -567,7 +585,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 215040,
       "name": "Beyond Memory",
       "url": "https://open.spotify.com/track/7zmbtfKgZMTQ1GlqBno5T5"
@@ -669,7 +687,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 298666,
       "name": "Calling",
       "url": "https://open.spotify.com/track/6SJ0cNfpnl2kJLWlXnMbRb"
@@ -835,7 +853,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 354015,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/6t0jDHb9NGAODCLFoyxmZc"
@@ -925,7 +943,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 209606,
       "name": "Dangerous Desires",
       "url": "https://open.spotify.com/track/1CT5WeUsZkH2Etdb7HFC6N"
@@ -1085,7 +1103,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 308600,
       "name": "Dimensional",
       "url": "https://open.spotify.com/track/28s7uQxvvtluoPner6q4lT"
@@ -1165,7 +1183,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 267625,
       "name": "Don't Want to Change Your Mind",
       "url": "https://open.spotify.com/track/7ucGNqzzbSh6wEpfOxTyaZ"
@@ -1223,7 +1241,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 320432,
       "name": "Drive-by Stalking",
       "url": "https://open.spotify.com/track/2Vmbg2UweixrXClJeIE1xz"
@@ -1241,7 +1259,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 219885,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/5kn6HVMCnEdfX9voOB1LMg"
@@ -1925,7 +1943,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 358200,
       "name": "It Was Only a Dream",
       "url": "https://open.spotify.com/track/715mzRnO46sUW5P9ebzzMn"
@@ -2041,7 +2059,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 239339,
       "name": "Kitsune",
       "url": "https://open.spotify.com/track/6RlRl5irhdt6ZVnLvpp1K7"
@@ -2059,7 +2077,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 281379,
       "name": "Knightriders",
       "url": "https://open.spotify.com/track/4YyG15mMNRqjYCH3S7aBw0"
@@ -2277,7 +2295,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 369963,
       "name": "Lovers (feat. Seawaves)",
       "url": "https://open.spotify.com/track/1QINLsXFLt8OOMDqeLwGn9"
@@ -2459,7 +2477,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 266666,
       "name": "Neonhead",
       "url": "https://open.spotify.com/track/05UnOhMiMMYHiiAo0TXK64"
@@ -2499,7 +2517,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "New Cydonia (Alternate Version)",
       "url": "https://open.spotify.com/track/4quEnq53y9XiUjyfsTscS0"
@@ -2745,7 +2763,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 192989,
       "name": "One Night",
       "url": "https://open.spotify.com/track/0jKQVfz5Gor1oQCE7LbNKa"
@@ -2771,7 +2789,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 188304,
       "name": "Out of Luck",
       "url": "https://open.spotify.com/track/7hm2AT479TFp2EYtvhLXxs"
@@ -2815,7 +2833,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 277777,
       "name": "Outlands",
       "url": "https://open.spotify.com/track/7sma3rc5a8q7hVsoFjp24L"
@@ -2887,7 +2905,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 185853,
       "name": "Power Move",
       "url": "https://open.spotify.com/track/1dlervXET4cUCz0tif5oWa"
@@ -3209,7 +3227,7 @@
       ],
       "date_added": "2021-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-15",
+      "date_removed": null,
       "duration_ms": 407695,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/4YclgDlBpvIMIODhMBlMVc"
@@ -3379,7 +3397,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 297577,
       "name": "System Error",
       "url": "https://open.spotify.com/track/65B3D9QcN8zfKI6b5YyAoA"
@@ -3585,7 +3603,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 264410,
       "name": "The Mountain",
       "url": "https://open.spotify.com/track/5TxotO7jpRFwG1dR1suT7G"
@@ -3639,7 +3657,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-16",
+      "date_removed": null,
       "duration_ms": 261935,
       "name": "The Ride (Into the Midnight)",
       "url": "https://open.spotify.com/track/414ljYjctNtquEeNmRGVw9"
@@ -3751,7 +3769,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 360000,
       "name": "Twisted Getaway - Original Mix",
       "url": "https://open.spotify.com/track/3OZMllaMRIr27FNHDO8rJ9"
@@ -3863,7 +3881,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 403200,
       "name": "Warp Drive",
       "url": "https://open.spotify.com/track/3s4hxwmmzhCT0Z4g94cY3N"
@@ -3953,7 +3971,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": "2022-01-17",
+      "date_removed": null,
       "duration_ms": 349506,
       "name": "When You Grow Up, Your Heart Dies",
       "url": "https://open.spotify.com/track/0d3O2HCMzSblmSsWd9Lgh2"
@@ -3975,7 +3993,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 268536,
       "name": "Wild Ones",
       "url": "https://open.spotify.com/track/03FPFGGmCFCFX9X7vNB3JW"
@@ -3993,7 +4011,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-01-17",
       "duration_ms": 307213,
       "name": "Woken Furies",
       "url": "https://open.spotify.com/track/1gGNnSJrFVe4LCnP0nCbDJ"
